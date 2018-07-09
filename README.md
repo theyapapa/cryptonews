@@ -1,8 +1,8 @@
 # cryptonews
 
 
-## [russian](https://github.com/theyapapa/cryptonews/tree/ru)
+## [russian version](https://github.com/theyapapa/cryptonews/tree/ru)
 
-## [spanish](https://github.com/theyapapa/cryptonews/tree/es)
+## [spanish version](https://github.com/theyapapa/cryptonews/tree/es)
 
-## [korean](https://github.com/theyapapa/cryptonews/tree/ko)
+## [korean version](https://github.com/theyapapa/cryptonews/tree/ko)
