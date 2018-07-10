@@ -1,1 +1,0 @@
-* [Czech Firm Reveals $100 Mln Venture Fund for Israeli Startups With ‘Emphasis’ on Blockchain](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
