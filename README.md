@@ -1,1 +1,0 @@
-* [‘First Universal Wallet’ Supports EOS Mainnet and Offers Free Account Name Registration](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
