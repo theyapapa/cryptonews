@@ -1,1 +1,2 @@
+* [‘First Universal Wallet’ Supports EOS Mainnet and Offers Free Account Name Registration](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
 * [Czech Firm Reveals $100 Mln Venture Fund for Israeli Startups With ‘Emphasis’ on Blockchain](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
