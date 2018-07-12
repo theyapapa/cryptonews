@@ -18,4 +18,5 @@
 
 Original source: [Bank of Korea Says Crypto Investment Poses ‘Insignificant’ Risk to Local Financial Market](https://cointelegraph.com/news/bank-of-korea-says-crypto-investment-poses-insignificant-risk-to-local-financial-market)
 
-[stats]://c.statcounter.com/11760860/0/a89fa40b/1/
+![stats](//c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
+
