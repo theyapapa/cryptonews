@@ -23,3 +23,5 @@
 Кроме того, в июне группа кибер-безопасности обнаружила  [🔗](https://cointelegraph.com/news/operation-prowli-malware-infects-over-40-000-machines-which-were-used-for-crypto-mining) , что 40 000 000 устройств в различных отраслях были зараженными шахтром Monero  [🔗](https://cointelegraph.com/tags/monero)  (XMR) как часть гибридных злонамеренных манипуляций и шифровки.
 
 Original source: [China: 20 Arrested in Cryptojacking Case Allegedly Affecting Over 1 Million Computers](https://cointelegraph.com/news/china-20-arrested-in-cryptojacking-case-allegedly-affecting-over-1-million-computers)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
