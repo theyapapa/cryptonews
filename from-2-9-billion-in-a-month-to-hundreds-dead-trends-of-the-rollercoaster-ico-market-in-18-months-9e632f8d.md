@@ -139,3 +139,5 @@ Los cambios se orientarán hacia la seguridad, la transparencia y la confiabilid
 Las ICOs pueden haber llegado a ser una especie de palabra sucia, pero el proceso todavía tiene mucho que ofrecer. Después de un poco de tweaking y de crecer, habrá mucho que se puede hacer en el ecosistema una vez que esté funcionando bien.
 
 Original source: [From $2.9 Billion in a Month to Hundreds Dead: Trends of the Rollercoaster ICO Market in 18 Months](https://cointelegraph.com/news/from-2-9-billion-in-a-month-to-hundreds-dead-trends-of-the-rollercoaster-ico-market-in-18-months)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
