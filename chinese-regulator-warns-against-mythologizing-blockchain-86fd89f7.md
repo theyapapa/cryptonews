@@ -15,3 +15,5 @@
 " С начала 21-го века глобальные научно-технические инновации вступили в беспрецедентный период интенсивной деятельности. Новый раунд научных и технологических революций и изменений в промышленности-это воссоздание глобальной инновационной карты и изменение глобальной экономической структуры."
 
 Original source: [Chinese Regulator Warns Against “Mythologizing” Blockchain](https://cointelegraph.com/news/chinese-regulator-warns-against-mythologizing-blockchain)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
