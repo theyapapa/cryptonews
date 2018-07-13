@@ -139,3 +139,5 @@ ICObazaar имеет систему рейтинговых проектов ICO,
 Возможно, все операции с ICO превратились в грязное слово, но у процесса есть много предложений. После того, как будет немного расти и расти, в экосистеме можно будет сделать многое, как только она будет работать хорошо.
 
 Original source: [From $2.9 Billion in a Month to Hundreds Dead: Trends of the Rollercoaster ICO Market in 18 Months](https://cointelegraph.com/news/from-2-9-billion-in-a-month-to-hundreds-dead-trends-of-the-rollercoaster-ico-market-in-18-months)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
