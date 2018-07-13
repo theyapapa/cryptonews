@@ -150,3 +150,5 @@ IRS проявила значительный интерес к криптова
 Cryptocurrencies-это актив для налога на прирост капитала (CGT). Однако это применимо только к гражданам, которые квалифицировали как профессиональные торговцы на основе количества и частоты операций, связанных с криплением, которые они выполняют ежегодно. Тем не менее, крипте пользователи могут получить налог на имущество по ставке, определенной налоговыми органами 31 декабря финансового года.
 
 Original source: [Here’s What You Pay in Taxes for Using Crypto: From the US to Switzerland](https://cointelegraph.com/news/here-s-what-you-pay-in-taxes-for-using-crypto-from-the-us-to-switzerland)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
