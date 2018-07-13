@@ -15,3 +15,5 @@ En mayo, un análisis del gobierno chino reveló que la esperanza de vida promed
 " Desde que comenzó el siglo XXI, la innovación científica y tecnológica mundial ha entrado en un período sin precedentes de intensa actividad. Una nueva ronda de revoluciones científicas y tecnológicas y cambios industriales está reconstruyendo el mapa de innovación global y reconfigurando la estructura económica global."
 
 Original source: [Chinese Regulator Warns Against “Mythologizing” Blockchain](https://cointelegraph.com/news/chinese-regulator-warns-against-mythologizing-blockchain)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
