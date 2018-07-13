@@ -15,3 +15,5 @@ El gigante minorista ha estado desarrollando de forma proactiva una gama de solu
 En abril, Walmart anunció que estaba listo para usar la cadena de ventas TagPreserver,LNK7,63,71 para su negocio de alimentos en vivo, y la compañía ha presentado más patentes de bloqueo para los registros médicos  [🔗](https://cointelegraph.com/news/walmart-awarded-patent-for-blockchain-based-medical-records-system) , otorgados en junio, un mercado de reventa basado en la cadena de ventas  [🔗](https://cointelegraph.com/news/walmart-files-patent-for-blockchain-based-customer-marketplace), y un sistema de gestión de consumo de energía basado en criptografía.
 
 Original source: [Walmart’s Latest Patent Unveils Blockchain-Based Delivery Management System](https://cointelegraph.com/news/walmart-s-latest-patent-unveils-blockchain-based-delivery-management-system)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
