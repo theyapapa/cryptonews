@@ -17,3 +17,5 @@
 В настоящее время компания Huoobi занимает четвертое место по объему торговых объемов в течение последних 24 часов, по данным CoinMarketCap  [🔗](https://coinmarketcap.com/exchanges/volume/24-hour/).
 
 Original source: [Crypto Exchange Huobi Opens Registration on New US-Based 'Strategic Partner' Platform](https://cointelegraph.com/news/crypto-exchange-huobi-opens-registration-on-new-us-based-trading-platform)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
