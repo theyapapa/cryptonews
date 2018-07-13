@@ -15,3 +15,5 @@
 지난 달에는 또 다른 블록체인 기반의 제약 프로젝트가 마이크로소프트  [🔗](https://cointelegraph.com/news/new-blockchain-based-supply-chain-system-is-presented-by-microsoft-and-ardents)  MS  [🔗](https://cointelegraph.com/tags/microsoft) 가 발표한 바 있다. 새로운 시스템은 사용자가 케이스 내에서 단일 제품 항목을 추적할 수 있도록 허용하는 전체 공급 체인을 따라 오리진 지점에서 엔드-투-엔드 추적성 및 가시성을 제공합니다.
 
 Original source: [FedEx Institute Partners With Pharmacy to Use Blockchain for Cancer Medicine Distribution](https://cointelegraph.com/news/fedex-institute-partners-with-pharmacy-to-use-blockchain-for-cancer-medicine-distribution)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
