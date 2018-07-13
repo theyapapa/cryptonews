@@ -21,3 +21,5 @@ Zain  [🔗](https://www.zain.com/en/) 중동과 아프리카를 횡단하는 4�
 이번 봄에는 중국  [🔗](https://cointelegraph.com/tags/china) 인 화웨이가 자사의 최신 Hyperledger  [🔗](https://cointelegraph.com/tags/hyperledger) 블록체인 클라우드  [🔗](https://cointelegraph.com/news/chinas-telecom-giant-huawei-launches-blockchain-as-a-service-platform) 를 공개했으며, 한국 통신업체인 SK 텔레콤도 디지털 자산 관리를 위한 2개의 새로운 블록체인 기술 플랫폼과, 초기 Coin 오퍼링 (ICO  [🔗](https://cointelegraph.com/tags/ico) 투자 생태계를 지원하기 위한 것이  [🔗](https://cointelegraph.com/news/koreas-largest-telecom-operator-announces-blockchain-service-for-asset-management) 고 발표했다.
 
 Original source: [Global Telecom Blockchain Consortium Unveils Working Group for Remittances](https://cointelegraph.com/news/global-telecom-blockchain-consortium-unveils-working-group-for-remittances)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
