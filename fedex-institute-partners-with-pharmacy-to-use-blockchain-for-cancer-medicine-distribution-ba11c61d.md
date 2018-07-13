@@ -15,3 +15,5 @@ FedEx  [🔗](https://cointelegraph.com/tags/fedex)  Institute of Technology-э�
 В прошлом месяце другой фармацевтический проект, основанный на blockchain, был объявлен  [🔗](https://cointelegraph.com/news/new-blockchain-based-supply-chain-system-is-presented-by-microsoft-and-ardents)  компанией Microsoft  [🔗](https://cointelegraph.com/tags/microsoft)  и поставщиком решений для отслеживания предложения. Новая система обеспечивает сквозную трассируемость и видимость от точки отсчета по всей цепочке поставок, что позволяет пользователям отслеживать отдельные элементы продукта в деле.
 
 Original source: [FedEx Institute Partners With Pharmacy to Use Blockchain for Cancer Medicine Distribution](https://cointelegraph.com/news/fedex-institute-partners-with-pharmacy-to-use-blockchain-for-cancer-medicine-distribution)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
