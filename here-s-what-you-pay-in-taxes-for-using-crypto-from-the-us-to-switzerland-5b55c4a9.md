@@ -150,3 +150,5 @@ IRS는 지난 몇 년간 수익의 원천으로서 암호화 화폐 화폐에 �
 암호화 화폐는 자본 이득세 (CGT) 를 목적으로 하는 자산이다. 하지만 이는 비밀 거래자들이 매년 수행하는 크립토 관련 작업의 양/빈도에 기초하여 전문적인 거래자로서 자격을 갖춘 시민에게만 적용된다. 그럼에도 불구하고, 소낭 사용자들은 회계 연도의 12월 31일에 세금 당국에 의해 결정된 비율로 부유세를 받고 있다.
 
 Original source: [Here’s What You Pay in Taxes for Using Crypto: From the US to Switzerland](https://cointelegraph.com/news/here-s-what-you-pay-in-taxes-for-using-crypto-from-the-us-to-switzerland)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
