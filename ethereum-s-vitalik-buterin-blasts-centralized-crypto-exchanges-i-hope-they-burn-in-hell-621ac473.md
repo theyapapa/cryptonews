@@ -19,3 +19,5 @@
 На время пресс-конференции Eetherum-это второе по величине шифрование с рыночной капитализацией в $47,5 миллиарда  [🔗](https://coinmarketcap.com/currencies/ethereum/#charts).
 
 Original source: [Ethereum’s Vitalik Buterin Blasts Centralized Crypto Exchanges: ‘I Hope They Burn in Hell’](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
