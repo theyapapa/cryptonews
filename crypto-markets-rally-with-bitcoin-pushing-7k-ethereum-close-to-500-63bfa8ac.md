@@ -49,3 +49,5 @@ El 5 de julio, la bolsa confirmó que  [🔗](https://cointelegraph.com/news/huo
 También esta semana, Changpeng Zhao  [🔗](https://cointelegraph.com/tags/changpeng-zhao), el presidente ejecutivo de la principal empresa mundial TagPreserver,LNK30,73,82 crypto Exchange Binance TagPreserver,LNK31,105,114, dijo  [🔗](https://cointelegraph.com/news/world-s-largest-crypto-exchange-binance-expects-2018-profits-up-to-1-billion)  que "espera" que los beneficios netos de la compañía para 2018 alcancen hasta 1.000 millones de dólares.
 
 Original source: [Crypto Markets Rally, With Bitcoin Pushing $7K, Ethereum Close to $500](https://cointelegraph.com/news/crypto-markets-rally-with-bitcoin-pushing-7k-ethereum-close-to-500)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
