@@ -79,3 +79,5 @@ En su conclusión, el documento argumenta que "muchos comités privados emitidos
 " Los países en desarrollo podrían crear riesgos para la estabilidad del sistema financiero si los mercados de VC siguen creciendo al ritmo actual y continúan interactuando y enredando con el sistema financiero regulado."
 
 Original source: [Harmless for now, Dangerous in the Future: Here’s What EU Researchers Think of Cryptocurrencies](https://cointelegraph.com/news/harmless-for-now-dangerous-in-the-future-here-s-what-eu-researchers-think-of-cryptocurrencies)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
