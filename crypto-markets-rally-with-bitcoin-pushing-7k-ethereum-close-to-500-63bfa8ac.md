@@ -49,3 +49,5 @@ Bitcoin Cash (BCH) на 5% больше, чем за 24 часа, торгова
 Кроме того, на этой неделе компания Changpeng Zhao  [🔗](https://cointelegraph.com/tags/changpeng-zhao), генеральный директор по рейтингам мира  [🔗](https://coinmarketcap.com/exchanges/volume/24-hour/)  crypto exchange Binance  [🔗](https://cointelegraph.com/tags/binance) , ожидает, что чистая прибыль компании в 2018 году достигнет $1 миллиарда.
 
 Original source: [Crypto Markets Rally, With Bitcoin Pushing $7K, Ethereum Close to $500](https://cointelegraph.com/news/crypto-markets-rally-with-bitcoin-pushing-7k-ethereum-close-to-500)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
