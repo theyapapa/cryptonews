@@ -17,3 +17,5 @@ Blockchain se ha integrado ampliamente en la cadena de suministro y en la logís
 En junio, Walmart y otras nueve empresas se asociaron  [🔗](https://cointelegraph.com/news/walmart-ibm-blockchain-initiative-aims-to-track-global-food-supply-chain)  con IBM  [🔗](https://cointelegraph.com/tags/ibm)  para desarrollar una cadena de bloqueo para el seguimiento de la oferta de alimentos a nivel global. Los miembros de la cadena de tiendas Food Trust incluyen a Nestlé SA, Dole Food Co., Driscoll's Inc., Tyson Foods Inc. y Unilever NV.
 
 Original source: [Metal Concentrates Exchange to Form Blockchain Consortium for Minerals Trading](https://cointelegraph.com/news/metal-concentrates-exchange-to-form-blockchain-consortium-for-minerals-trading)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
