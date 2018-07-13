@@ -17,3 +17,5 @@ La plataforma con sede en Singapur también ha estado impulsando su expansión e
 Huobi está actualmente en el cuarto lugar más grande por volumen de comercio diario, con 853,4 millones de dólares en operaciones en las últimas 24 horas para presionar el tiempo, según CoinMarketCap  [🔗](https://coinmarketcap.com/exchanges/volume/24-hour/).
 
 Original source: [Crypto Exchange Huobi Opens Registration on New US-Based 'Strategic Partner' Platform](https://cointelegraph.com/news/crypto-exchange-huobi-opens-registration-on-new-us-based-trading-platform)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
