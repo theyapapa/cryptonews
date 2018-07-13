@@ -19,3 +19,5 @@ En abril, el Gobierno filipino TagPreserver,LNK6,24,32 anunció que permitirá o
 En noviembre del año pasado, la Comisión de Valores y Cambio de Filipinas dijo que TagPreserver,LNK9,79,87 estaba considerando la legalización del uso de las monedas digitales en el país al clasificarlas como valores. A principios de ese año, BSP reconoció oficialmente a  [🔗](https://cointelegraph.com/news/the-philippines-officially-legitimize-bitcoin-as-payment-method)  Bitcoin como un método de pago legítimo.
 
 Original source: [Central Bank of the Philippines Accredits Two New Crypto Exchanges](https://cointelegraph.com/news/central-bank-of-the-philippines-accredits-two-new-crypto-exchanges)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
