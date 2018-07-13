@@ -79,3 +79,5 @@ ECB는 지난 해 "그들의 능력을 금지하고 규제하는 것은" 그들�
 " VC 시장이 현재의 속도로 계속 성장하고 규제 금융 시스템과 지속적으로 상호 작용하고 있는 경우 VC는 금융 시스템의 안정성에 대한 위험을 초래할 수 있습니다.
 
 Original source: [Harmless for now, Dangerous in the Future: Here’s What EU Researchers Think of Cryptocurrencies](https://cointelegraph.com/news/harmless-for-now-dangerous-in-the-future-here-s-what-eu-researchers-think-of-cryptocurrencies)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
