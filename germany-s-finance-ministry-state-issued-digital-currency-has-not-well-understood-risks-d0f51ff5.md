@@ -13,3 +13,5 @@ El Ministerio escribió que un banco central también obtendría una posición m
 A nivel mundial, los gobiernos han expresado diversos sentimientos hacia la moneda digital emitida por el estado. En mayo, el Banco de Inglaterra concluyó en un documento de trabajo  [🔗](https://cointelegraph.com/news/bank-of-england-issues-working-paper-on-central-bank-digital-currencies)  que la introducción de un CBDC no tendría un impacto negativo en los préstamos privados ni en la provisión de liquidez a la economía en su conjunto. El mismo mes, el banco central noruego, Norges Bank, llegó a recomendar la idea de un CBDC como un suplemento para el efectivo en un estudio TagPreserver,LNK5,140,147.
 
 Original source: [Germany's Finance Ministry: State-Issued Digital Currency Has ‘Not Well Understood’ Risks](https://cointelegraph.com/news/germany-s-finance-ministry-state-issued-digital-currency-has-not-well-understood-risks)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
