@@ -17,3 +17,5 @@
 В июне, Walmart и девять других компаний наладили партнерские отношения с IBM  [🔗](https://cointelegraph.com/tags/ibm)  с целью разработки цепочки для отслеживания поставок продовольствия на глобальном уровне. В число участников цепи продовольственного доверия входят Nestlé SA, Dole Food Co., Driscoll Inc., Tyson Foods Inc. и Unilever NV.
 
 Original source: [Metal Concentrates Exchange to Form Blockchain Consortium for Minerals Trading](https://cointelegraph.com/news/metal-concentrates-exchange-to-form-blockchain-consortium-for-minerals-trading)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
