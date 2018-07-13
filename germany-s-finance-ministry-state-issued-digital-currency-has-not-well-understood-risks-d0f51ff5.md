@@ -13,3 +13,5 @@
 전세계적으로, 정부는 국가 발행된 디지털 화폐에 대한 다양한 감정을 표출했습니다. 5월에 영국은행은 CBDC를 도입하는 것이 민간 대출에 부정적인 영향을 주지 않거나 전체 경제에 유동성을 공급하는 것에 부정적인 영향을 주지 않을 것이라고  [🔗](https://cointelegraph.com/news/bank-of-england-issues-working-paper-on-central-bank-digital-currencies) 었다. 같은 달, 노르웨이 중앙은행인 Norge Bank는 연구를  [🔗](https://cointelegraph.com/news/norway-central-bank-considers-developing-digital-currency) CBDC를 현금화하는 것을 보충하는 것을 권고하기까지 했다.
 
 Original source: [Germany's Finance Ministry: State-Issued Digital Currency Has ‘Not Well Understood’ Risks](https://cointelegraph.com/news/germany-s-finance-ministry-state-issued-digital-currency-has-not-well-understood-risks)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
