@@ -139,3 +139,5 @@ ICObazaar는 다섯 가지 요인 (실제 점수로 구성된 여섯 번째 요�
 ICOs는 다소 더러운 단어가 될 수도 있지만, 그 과정은 여전히 많은 것을 제공하고 있습니다. 약간의 약간의 트위킹과 성장하고 나면, 일단 잘 기능하고 나면 생태계에서 할 수 있는 많은 일들이 있을 것이다.
 
 Original source: [From $2.9 Billion in a Month to Hundreds Dead: Trends of the Rollercoaster ICO Market in 18 Months](https://cointelegraph.com/news/from-2-9-billion-in-a-month-to-hundreds-dead-trends-of-the-rollercoaster-ico-market-in-18-months)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
