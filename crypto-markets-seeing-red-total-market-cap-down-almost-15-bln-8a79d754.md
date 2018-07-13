@@ -33,3 +33,5 @@ Tezos  [🔗](https://cointelegraph.com/tags/tezos)  (XTZ) es la única de las p
 Horas antes, tres de los principales Estados Unidos Los economistas criticaron a TagPreserver,LNK12,21,30 Bitcoin, argumentando que la moneda digital fallará como moneda. Los expertos financieros expresaron preocupación por la volatilidad de Bitcoin y por la falta de valor intrínseco, así como por su naturaleza anónima, lo que contradice la idea de crear "un sistema bancario transparente"."Los economistas mundialmente conocidos afirmaron que los reguladores financieros globales" usarán el martillo "una vez que el mercado" se vuelva significativo " en términos de capitalización.
 
 Original source: [Crypto Markets Seeing Red, Total Market Cap Down Almost $15 Bln](https://cointelegraph.com/news/crypto-markets-seeing-red-total-market-cap-down-almost-15-bln)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
