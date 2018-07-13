@@ -15,3 +15,5 @@
 " 21세기가 시작된 이래, 세계적인 과학과 기술적 혁신이 전례 없는 활발한 활동을 시작했습니다. 과학적이고 기술적인 혁명과 산업의 변화가 세계적인 혁신 지도를 재건하고 세계 경제 구조를 재편하는 것이다.
 
 Original source: [Chinese Regulator Warns Against “Mythologizing” Blockchain](https://cointelegraph.com/news/chinese-regulator-warns-against-mythologizing-blockchain)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
