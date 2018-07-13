@@ -125,3 +125,5 @@ En el lado negativo, cualquier ruptura de los niveles de 35 dólares aumentará 
 Los datos del mercado son proporcionados por el intercambio HitBTC  [🔗](https://hitbtc.com/) . Los diagramas para el análisis los proporciona TradingView  [🔗](https://www.tradingview.com/markets/cryptocurrencies/?utm_source=cointelegraph&utm_medium=sponsored&utm_campaign=marketdata).
 
 Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, NEO: Price Analysis, July 09](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-neo-price-analysis-july-09)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
