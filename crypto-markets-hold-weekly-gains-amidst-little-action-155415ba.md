@@ -29,3 +29,5 @@ Coin360  [🔗](https://cointelegraph.com/heatmap) 시장 시각화
 좀 더 긍정적인 측면에서 보면 블록체인 산업에 참여하는 두 명의 핵심 전문가들에 대한 소식이 있습니다. Winklevoss 쌍둥이 'Gemini 암호화' 는  [🔗](https://cointelegraph.com/news/winklevoss-gemini-exchange-recruits-nyse-chief-information-officer)  코니쉬 뉴욕대 최고정보책임자 (NYSE Chief Information Officer) 를 고용했으며, 페이스북은 이 회사의 블록체인 팀과 같은 위치에  [🔗](https://cointelegraph.com/news/facebook-director-of-engineering-moves-to-same-position-at-company-s-blockchain-team) 는 엔지니어링 에번 쳉 이사가 담당하는 것을 보았습니다.
 
 Original source: [Crypto Markets Hold Weekly Gains Amidst Little Action](https://cointelegraph.com/news/crypto-markets-hold-weekly-gains-amidst-little-action)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
