@@ -23,3 +23,5 @@ PBoC는 비트코인과 같은 분권화된 암호화에 대한 강경  [🔗](h
 PBoC 주지사는 올봄에  [🔗](https://cointelegraph.com/news/china-pboc-head-says-digital-currency-inevitable-bitcoin-not-accepted-as-payment)  화폐가 "기술적으로" 기술적으로 불가피하고, 궁극적으로는 현금 순환이 감소하게 될 것이라는 점을 지적하며, "PBoC는 블록체인의 분권적인 형태와 특정 블록체인의 예측 불가능한 형태에 의해 유발되는" 예측할 수 없는 효과를 제어하고자 한다 " 고 밝혔다.
 
 Original source: [Chinese Yuan Now Accounts for Less Than 1% of Bitcoin Trades, Says PBoC Report](https://cointelegraph.com/news/chinese-yuan-now-accounts-for-less-than-1-of-bitcoin-trades-says-pboc-report)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
