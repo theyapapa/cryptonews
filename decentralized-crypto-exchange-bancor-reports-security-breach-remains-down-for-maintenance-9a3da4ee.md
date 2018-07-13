@@ -29,3 +29,5 @@
 Виталик Бутерин, сооснователь Eiterum, выступил с резкой критикой централизованных обменов на прошлой неделе, сказав, что  [🔗](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)  он " надеется, что они сгорят в аду."
 
 Original source: [Decentralized Crypto Exchange Bancor Reports ‘Security Breach,’ Remains Down for ‘Maintenance’](https://cointelegraph.com/news/decentralized-crypto-exchange-bancor-reports-security-breach-remains-down-for-maintenance)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
