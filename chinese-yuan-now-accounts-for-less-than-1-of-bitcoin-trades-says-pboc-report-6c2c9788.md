@@ -23,3 +23,5 @@ PBoC выпустит новый отчет в пятницу, 6 июля, ук�
 Губернатор PBoC сказал, что  [🔗](https://cointelegraph.com/news/china-pboc-head-says-digital-currency-inevitable-bitcoin-not-accepted-as-payment)  эта весна, в то время как виртуальные валюты являются "технологически неизбежными" и в конечном счете уменьшит кровообращение, PBoC намерена контролировать "непредсказуемые эффекты", создаваемые децентрализованными формами криптографов и определенными программами блокировки.
 
 Original source: [Chinese Yuan Now Accounts for Less Than 1% of Bitcoin Trades, Says PBoC Report](https://cointelegraph.com/news/chinese-yuan-now-accounts-for-less-than-1-of-bitcoin-trades-says-pboc-report)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
