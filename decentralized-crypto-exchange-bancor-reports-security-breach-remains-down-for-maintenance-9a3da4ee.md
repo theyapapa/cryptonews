@@ -29,3 +29,5 @@ Su estructura descentralizada ha contribuido a su registro de seguridad, mientra
 Vitalik Buterin, cofundador de Ethereum, emitió una fuerte crítica de los intercambios centralizados la semana pasada, diciendo que  [🔗](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)  "espera que se quemen en el infierno"."
 
 Original source: [Decentralized Crypto Exchange Bancor Reports ‘Security Breach,’ Remains Down for ‘Maintenance’](https://cointelegraph.com/news/decentralized-crypto-exchange-bancor-reports-security-breach-remains-down-for-maintenance)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
