@@ -23,3 +23,5 @@ Hace apenas dos semanas, el banco presentó una nueva patente para una billetera
 El Gobernador del PBoC dijo  [🔗](https://cointelegraph.com/news/china-pboc-head-says-digital-currency-inevitable-bitcoin-not-accepted-as-payment)  esta primavera que si bien las monedas virtuales son "tecnológicamente inevitables" y finalmente reducirán la circulación en efectivo, el PBoC tiene la intención de controlar los "efectos impredecibles" que plantean las formas descentralizadas de criptografía y ciertas aplicaciones de la cadena de bloques.
 
 Original source: [Chinese Yuan Now Accounts for Less Than 1% of Bitcoin Trades, Says PBoC Report](https://cointelegraph.com/news/chinese-yuan-now-accounts-for-less-than-1-of-bitcoin-trades-says-pboc-report)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
