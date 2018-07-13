@@ -31,3 +31,5 @@ La principal campaña de multitudes comenzará el 12 de agosto y durará hasta e
 Descargo de responsabilidad. Cointelegraph no aprueba ningún contenido o producto en esta página. Si bien procuramos proporcionarle toda la información importante que pudiéramos obtener, los lectores deben realizar su propia investigación antes de tomar cualquier acción relacionada con la empresa y asumir la plena responsabilidad de sus decisiones, y este artículo puede ser considerado como un consejo de inversión.
 
 Original source: [Crypto Trading Platform Releases an Arbitrage Trading Soft for Beginners](https://cointelegraph.com/news/crypto-trading-platform-releases-an-arbitrage-trading-soft-for-beginners)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
