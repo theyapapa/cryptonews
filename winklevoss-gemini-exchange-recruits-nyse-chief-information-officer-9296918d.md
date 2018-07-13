@@ -11,3 +11,5 @@ Con esta medida, Cornish saltó a la ola de ejecutivos de Wall Street que migrar
 En abril, Gemini anunció que comenzaría a ofrecer el cifrado de cripto fuera de sus libros de pedidos regulares. Los inversionistas interesados en comerciar en el mercado de Gemini Block Trading están en condiciones de comprar y vender grandes cantidades de divisas digitales. En diciembre del año pasado, Gemini se asoció con el Chicago Board Options Exchange para lanzar los futuros de Bitcoin, lo que les permitió llevar los instrumentos tradicionales del mercado al espacio criptográfico.
 
 Original source: [Winklevoss’ Gemini Exchange Recruits NYSE Chief Information Officer](https://cointelegraph.com/news/winklevoss-gemini-exchange-recruits-nyse-chief-information-officer)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
