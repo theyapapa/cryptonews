@@ -35,3 +35,5 @@ DADI rápidamente hizo un seguimiento de su lanzamiento principal mediante el de
 Descargo de responsabilidad. Cointelegraph no aprueba ningún contenido o producto en esta página. Si bien procuramos proporcionarle toda la información importante que pudiéramos obtener, los lectores deben realizar su propia investigación antes de tomar cualquier acción relacionada con la empresa y asumir la plena responsabilidad de sus decisiones, y este artículo puede ser considerado como un consejo de inversión.
 
 Original source: [Decentralized Cloud Platform Launches Mainnet in Challenge to ‘Big Four’ Market Leaders](https://cointelegraph.com/news/decentralized-cloud-platform-launches-mainnet-in-challenge-to-big-four-market-leaders)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
