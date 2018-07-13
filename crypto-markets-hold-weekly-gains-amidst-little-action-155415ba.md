@@ -29,3 +29,5 @@
 На более положительной стороне есть новости о двух ключевых профессионал, которые присоединяются к отрасли блокирования: двойняшки близнецов Winklevoss ' Gemini crypto бирком наняли  [🔗](https://cointelegraph.com/news/winklevoss-gemini-exchange-recruits-nyse-chief-information-officer)  NYSE-главный информационный директор Роберт Корниш, а Facebook-директор по инженерным вопросам Эван Ченг переместил  [🔗](https://cointelegraph.com/news/facebook-director-of-engineering-moves-to-same-position-at-company-s-blockchain-team)  в ту же позицию в группе blockchain компании.
 
 Original source: [Crypto Markets Hold Weekly Gains Amidst Little Action](https://cointelegraph.com/news/crypto-markets-hold-weekly-gains-amidst-little-action)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
