@@ -59,3 +59,5 @@ Dicho esto, la adopción masiva masiva  [🔗](https://cointelegraph.com/tags/ad
 Esta observación nace en Turquía  [🔗](https://cointelegraph.com/tags/turkey), por ejemplo, en la que la inflación de la lira turca ha alcanzado cifras de dos dígitos  [🔗](https://www.ft.com/content/b2d5f716-7e8d-11e8-8e67-1e1a0846c475)  este año y donde más personas poseen cripto  [🔗](https://www.dailysabah.com/finance/2018/06/28/turks-lead-cryptocurrency-ownership-in-europe-at-1-in-every-5-people)  que en cualquier otra nación europea importante. Esto demuestra que las criptodivisas tienen la oportunidad excepcional de triunfar a expensas de los gobiernos ineficaces. Y aunque sus problemas de escalabilidad indicaran que no están completamente preparados para aprovechar al máximo esta oportunidad en este momento, su pronto uso en pagos ya les proporciona una base segura sobre la cual crecer en el futuro.
 
 Original source: [Bitcoin vs Altcoins: Which Cryptocurrency Is the Most Usable as Money?](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-cryptocurrency-is-the-most-usable-as-money)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
