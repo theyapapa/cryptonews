@@ -19,3 +19,5 @@ BSP ранее рассматривал вопрос о том, должен л�
 В ноябре прошлого года Комиссия по ценным бумагам и биржам Филиппин сообщила, что  [🔗](https://cointelegraph.com/news/philippine-regulator-plans-to-legalize-cryptocurrencies-classify-as-securities)  рассматривает возможность легализации использования цифровых валют в стране, классифицируя их как ценные бумаги. Ранее в этом году BSP официально признал  [🔗](https://cointelegraph.com/news/the-philippines-officially-legitimize-bitcoin-as-payment-method)  Bitcoin как законный способ оплаты.
 
 Original source: [Central Bank of the Philippines Accredits Two New Crypto Exchanges](https://cointelegraph.com/news/central-bank-of-the-philippines-accredits-two-new-crypto-exchanges)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
