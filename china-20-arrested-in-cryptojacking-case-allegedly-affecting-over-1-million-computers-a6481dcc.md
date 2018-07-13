@@ -23,3 +23,5 @@ Apenas el mes pasado, un nuevo reporte publicado por la firma de ciberseguridad 
 También en junio, un equipo de ciberseguridad descubrió  [🔗](https://cointelegraph.com/news/operation-prowli-malware-infects-over-40-000-machines-which-were-used-for-crypto-mining)  que 40.000 dispositivos en varias industrias habían sido infectados por un minero de Monero  [🔗](https://cointelegraph.com/tags/monero)  (XMR) como parte de una campaña híbrida de manipulación de tráfico y minería de cripto.
 
 Original source: [China: 20 Arrested in Cryptojacking Case Allegedly Affecting Over 1 Million Computers](https://cointelegraph.com/news/china-20-arrested-in-cryptojacking-case-allegedly-affecting-over-1-million-computers)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
