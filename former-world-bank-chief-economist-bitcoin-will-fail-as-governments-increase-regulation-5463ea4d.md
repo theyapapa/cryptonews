@@ -21,3 +21,5 @@ Ayer, el banco central del Banco de Corea (BOK) también afirmó que los activos
 A finales de mayo, una sucursal del gobierno holandés declaró  [🔗](https://cointelegraph.com/news/low-capitalization-institutional-exposure-make-crypto-low-risk-says-dutch-govt-report)  que las criptodivisas presentan un bajo riesgo para la estabilidad financiera del país, además de señalar la participación limitada de las instituciones y los sistemas financieros tradicionales.
 
 Original source: [Former World Bank Chief Economist: Bitcoin Will Fail as Governments Increase Regulation](https://cointelegraph.com/news/former-world-bank-chief-economist-bitcoin-will-fail-as-governments-increase-regulation)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
