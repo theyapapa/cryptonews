@@ -150,3 +150,5 @@ Como Selva Ozelli, una abogada fiscal internacional, escribió previamente en un
 Las monedas criptográficas son un activo para los impuestos sobre ganancias de capital (CGT). Sin embargo, esto sólo se aplica a los ciudadanos que se califiquen como comerciantes profesionales sobre la base de la cantidad/frecuencia de las operaciones relacionadas con la criptografía que realizan anualmente. Sin embargo, los usuarios de cripto están sujetos a un impuesto sobre la riqueza a una tasa determinada por las autoridades tributarias el 31 de diciembre del año fiscal.
 
 Original source: [Here’s What You Pay in Taxes for Using Crypto: From the US to Switzerland](https://cointelegraph.com/news/here-s-what-you-pay-in-taxes-for-using-crypto-from-the-us-to-switzerland)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
