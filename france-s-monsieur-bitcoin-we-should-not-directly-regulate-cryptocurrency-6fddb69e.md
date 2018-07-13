@@ -19,3 +19,5 @@ El informe contiene además varios casos en los que la innovación financiera y 
 Landau recibió una fría recepción  [🔗](https://cointelegraph.com/news/critical-monsieur-bitcoin-appointed-head-of-french-crypto-regulatory-task-force)  cuando se convirtió en jefe de un grupo de trabajo gubernamental de moneda de cifrado en enero debido a que anteriormente se comparaba el bitcoin  [🔗](https://cointelegraph.com/bitcoin-price-index)  (BTC) con el XVII. Tulip Mania  [🔗](https://cointelegraph.com/news/tulips-bubbles-obituaries-peering-through-the-fud-about-crypto)
 
 Original source: [France’s ‘Monsieur Bitcoin’: We Should Not Directly Regulate Cryptocurrency](https://cointelegraph.com/news/france-s-monsieur-bitcoin-we-should-not-directly-regulate-cryptocurrency)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
