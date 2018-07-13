@@ -19,3 +19,5 @@ La adopción de Blockchain ha enfrentado nuevas críticas en los últimos meses,
 Ripple  [🔗](https://cointelegraph.com/tags/xrp-price-index), la compañía detrás de una multimillonaria plataforma de ventas que se enfocó en pagos transfronterizos, admitió que los bancos del mes pasado son "poco probables" para adoptar la tecnología debido a la privacidad y otras preocupaciones.
 
 Original source: [Platform for Enterprise Blockchain Adoption Nets $45 Mln From A16ZCrypto, Binance](https://cointelegraph.com/news/platform-for-enterprise-blockchain-adoption-nets-45-mln-from-a16zcrypto-binance)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
