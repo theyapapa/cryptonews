@@ -17,3 +17,5 @@ HBUS는 현재 미국에서 계정 검증 요청을 받고 있다. 주민들은 
 휴비츠  [🔗](https://coinmarketcap.com/exchanges/volume/24-hour/) 최근 24시간 동안의 거래에서 85340만 달러의 거래를 기록하고 있는 것으로 집계됐다. 이는 지난 24시간 동안의 거래에서 8534만달러를 기록한 것으로 집계됐다.
 
 Original source: [Crypto Exchange Huobi Opens Registration on New US-Based 'Strategic Partner' Platform](https://cointelegraph.com/news/crypto-exchange-huobi-opens-registration-on-new-us-based-trading-platform)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
