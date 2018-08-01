@@ -1,4 +1,6 @@
-# Bitmain planes de la OPI en el extranjero, ganó $1 mil millones en beneficio neto en el primer trimestre, las fuentes de informe Jihan Wu, el Co-CEO de Crypto Mining hardware gigante Bitmain, se informa que planea llevar a cabo una oferta privada de ultramar inicial (IPO), la fortuna de la sección de criptografía centrada en la Informes contables 30 de julio.
+# Bitmain planea la IPO extranjera, ganó $1 mil millones en beneficio neto en Q1, fuentes divulgan...
+
+Jihan Wu, el Co-CEO de Crypto Mining hardware gigante Bitmain, se informa que planea llevar a cabo una oferta privada inicial de ultramar (IPO), la sección de la fortuna de criptografía centrada en los informes del libro mayor 30 de julio.
 
 La fortuna escribe hoy que su Boletín diario "hoja del término" adquirió un email de una fuente innombrada cerca de Bitmain que detalla los financieros recientes de la firma antes de la IPO, que será archivada para "muy pronto" en tal mercado de ultramar.
 
