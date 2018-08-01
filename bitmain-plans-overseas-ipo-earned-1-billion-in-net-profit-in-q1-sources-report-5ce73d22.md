@@ -1,0 +1,17 @@
+# bitmain 해외 IPO 계획, 1 분기 순이익에 $10억 적립, 소스 보고서 jihan Wu, 암호화 마이닝 하드웨어의 공동 CEO 인 bitmain, 해외 초기 민간 제공 (IPO)를 수행 할 계획 이다, 포춘의 암호 중심 섹션 장부 보고서 7 월 30 일.
+
+운은 그들의 매일 회보 "기간 장"가 그런 해외 시장에서 "아주 빨리"를 위해 신청 될 IPO의 앞에 회사의 최근 재정을 선발 하는 bitmain에 무명 근원 가까운에서 전자 우편을 취득 했다는 것을 오늘 쓴다.
+
+전자 우편에서 언급 된 숫자에 따르면, bitmain는 2018의 1/4 분기에 있는 순이익에서 년을 위한 이익에 있는 $30억에 추정 된 $2와 더불어 $10억의 주위에, 벌 었 다.
+
+이메일 메모 bitmain 주위에 $140억의 총 평가에 대 한 더 많은 자금을 마련 하기 위해 계획, 그림은 거의 17% $120억 수치 보다 더 높은 시리즈 B 6 월 자금 라운드 후 보도 했다.
+
+bitmain는 또한 이메일에 의해 인용 된 "큰 4" 확고 한 KPMG에 의하여 감사에 따르면 순수한 이익에서 그리고 2017에 있는 50% 순수한 한계에 있는 $12억를 보았다.
+
+bitmain $300과 $4억 사이에 세쿼이아 캐피탈 자회사 세쿼이아 중국, 미국 헤 지 펀드 coatue, 그리고 싱가포르 기반 정부 투자 펀드 edbi 6 월 자사의 자금 조달 기간 동안 제기 했다.
+
+6 월말에 bitmain은 "공정 하 고 투명 한 암호 화폐 생태계"를 지원 하겠다는 확고 한의 지를 보여주기 위한 의도로 광업 및 광업 하드웨어 운송 관행을 모두 공개 했습니다.
+
+Original source: [Bitmain Plans Overseas IPO, Earned $1 Billion in Net Profit in Q1, Sources Report](https://cointelegraph.com/news/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
