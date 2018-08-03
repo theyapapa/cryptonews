@@ -1,2 +1,3 @@
+* 2018-08-01 07:08 [Министерство финансов США Fintech инновации доклад затрагивает крипто, цепочки](https://github.com/theyapapa/cryptonews/blob/ru/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain-081751e4.md)
 * [US Treasury Dept. Fintech Innovation Report Touches on Crypto, Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain-081751e4.md)
 * [Bitmain Plans Overseas IPO, Earned $1 Billion in Net Profit in Q1, Sources Report](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report-5ce73d22.md)
