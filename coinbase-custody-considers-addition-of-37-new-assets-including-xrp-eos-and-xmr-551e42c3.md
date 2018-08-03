@@ -1,0 +1,1 @@
+[Coinbase Custody Considers Addition of 37 New Assets Including XRP, EOS and XMR](https://cointelegraph.com/news/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr)
