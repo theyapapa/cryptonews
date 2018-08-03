@@ -1,0 +1,1 @@
+[In an Apparent First, High Times to Accept Crypto in Its Initial Public Offering](https://cointelegraph.com/news/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering)
