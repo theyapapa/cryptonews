@@ -1,3 +1,4 @@
+* 2018-08-03 16:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 라이트 코인, 카르다노, 스텔라, iota, 트 론: 가격 분석, 8 월 03 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-03-fbb7ba33.md)
 * 2018-08-03 14:08 [기관 투자가와 핀 테크: 월스트리트는 암호 화폐로 머리를 먼저 갈 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/institutional-investors-and-fintech-will-wall-street-go-head-first-into-crypto-c5c46308.md)
 * 2018-08-03 12:08 [counterparties okex에 $416 mln BTC 선물 무역 적자에 대 한 법안을 발 수](https://github.com/theyapapa/cryptonews/blob/ko/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex-3409c4c7.md)
 * 2018-08-02 23:08 [초기 공개 오퍼링에서 암호화를 받아들이는 명백한 첫 번째, 높은 시간에](https://github.com/theyapapa/cryptonews/blob/ko/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering-e1bc4a5e.md)
