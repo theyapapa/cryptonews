@@ -1,0 +1,1 @@
+[Counterparties Could Foot the Bill For $416 Mln BTC Futures Trade Shortfall on OKEx](https://cointelegraph.com/news/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex)
