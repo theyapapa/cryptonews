@@ -1,3 +1,4 @@
+* 2018-08-03 18:08 [코인 베이스 양육 권은 xrp, EOS 및 xrp을 포함 한 37 새로운 자산의 추가를 고려 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr-551e42c3.md)
 * 2018-08-03 16:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 라이트 코인, 카르다노, 스텔라, iota, 트 론: 가격 분석, 8 월 03 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-03-fbb7ba33.md)
 * 2018-08-03 14:08 [기관 투자가와 핀 테크: 월스트리트는 암호 화폐로 머리를 먼저 갈 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/institutional-investors-and-fintech-will-wall-street-go-head-first-into-crypto-c5c46308.md)
 * 2018-08-03 12:08 [counterparties okex에 $416 mln BTC 선물 무역 적자에 대 한 법안을 발 수](https://github.com/theyapapa/cryptonews/blob/ko/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex-3409c4c7.md)
