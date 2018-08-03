@@ -1,3 +1,4 @@
+* 2018-08-03 12:08 [Las contrapartes podrían pagar la cuenta por $416 millones de BTC futuros déficit comercial en OKEx](https://github.com/theyapapa/cryptonews/blob/es/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex-3409c4c7.md)
 * 2018-08-02 23:08 [En un aparente primero, los tiempos altos para aceptar Crypto en su oferta pública inicial](https://github.com/theyapapa/cryptonews/blob/es/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering-e1bc4a5e.md)
 * 2018-08-01 07:08 [El Departamento del tesoro de los e.e.u.u. FinTech informe de la innovación toca en Crypto, bloques](https://github.com/theyapapa/cryptonews/blob/es/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain-081751e4.md)
 
