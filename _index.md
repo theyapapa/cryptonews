@@ -1,1 +1,2 @@
+* 2018-08-01 07:08 [El Departamento del tesoro de los e.e.u.u. FinTech informe de la innovación toca en Crypto, bloques](https://github.com/theyapapa/cryptonews/blob/es/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain-081751e4.md)
 * [US Treasury Dept. Fintech Innovation Report Touches on Crypto, Blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain-081751e4.md)
