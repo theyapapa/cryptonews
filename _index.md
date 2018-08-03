@@ -1,1 +1,2 @@
+* 2018-08-01 07:08 [미국 재무부 핀 테크 혁신 보고서 암호화, 블록 체인에 대 한 접촉](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain-081751e4.md)
 * [US Treasury Dept. Fintech Innovation Report Touches on Crypto, Blockchain](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain-081751e4.md)
