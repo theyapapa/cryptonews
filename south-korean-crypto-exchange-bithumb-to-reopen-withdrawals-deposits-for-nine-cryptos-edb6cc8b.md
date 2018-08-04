@@ -1,0 +1,1 @@
+[South Korean Crypto Exchange Bithumb to Reopen Withdrawals, Deposits for Nine Cryptos](https://cointelegraph.com/news/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos)
