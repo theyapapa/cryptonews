@@ -1,0 +1,1 @@
+[Despite NYSE’s ‘Biggest News of the Year’ for Bitcoin, Crypto Markets Plummet in a Blink](https://cointelegraph.com/news/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink)
