@@ -1,3 +1,4 @@
+* 2018-08-04 08:08 [Intercambio Crypto surcoreano para reabrir retiros, depósitos para nueve criptas](https://github.com/theyapapa/cryptonews/blob/es/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos-edb6cc8b.md)
 * 2018-08-03 23:08 [NYSE Trader following Bakkt Launch: ' Bitcoin es muy dudoso '](https://github.com/theyapapa/cryptonews/blob/es/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy-37d67418.md)
 * 2018-08-03 21:08 [Ethereum para adquirir el nombre de dominio de alto nivel con la nueva asociación](https://github.com/theyapapa/cryptonews/blob/es/ethereum-to-acquire-top-level-domain-name-with-new-partnership-361f9158.md)
 * 2018-08-03 18:08 [La custodia de Coinbase considera la adición de 37 nuevos activos incluyendo XRP, EOS y XMR](https://github.com/theyapapa/cryptonews/blob/es/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr-551e42c3.md)
