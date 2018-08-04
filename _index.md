@@ -1,3 +1,4 @@
+* 2018-08-04 13:08 [nyse의 ' 올해의 가장 큰 뉴스 ' 비트 코인에도 불구 하 고, 암호화 시장은 점멸에 추 달린](https://github.com/theyapapa/cryptonews/blob/ko/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink-41050754.md)
 * 2018-08-04 08:08 [남한 암호 교환 비 엄지는 출금을 재개 하 고, 아홉 개의 암호를 예치 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos-edb6cc8b.md)
 * 2018-08-03 23:08 [nyse 상인 bakkt 출시 다음: ' 비트 코인은 매우 iffy '](https://github.com/theyapapa/cryptonews/blob/ko/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy-37d67418.md)
 * 2018-08-03 21:08 [새로운 파트너십을 통해 최상위 도메인 이름을 습득 하는 ethereum](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-to-acquire-top-level-domain-name-with-new-partnership-361f9158.md)
