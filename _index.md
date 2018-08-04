@@ -1,3 +1,4 @@
+* 2018-08-04 13:08 [Несмотря на "крупнейшую новость года NYSE" для Bitcoin, крипто рынки резко упали в мгновение ока](https://github.com/theyapapa/cryptonews/blob/ru/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink-41050754.md)
 * 2018-08-04 08:08 [Южнокорейский крипто обмен бисумб на повторное снятие, депозиты на девять крипто](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos-edb6cc8b.md)
 * 2018-08-03 23:08 [NYSE Trader после баккт запуск: ' Bitcoin очень сомнительно '](https://github.com/theyapapa/cryptonews/blob/ru/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy-37d67418.md)
 * 2018-08-03 21:08 [Ethereum приобрести доменное имя верхнего уровня с новым партнерством](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-to-acquire-top-level-domain-name-with-new-partnership-361f9158.md)
