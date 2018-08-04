@@ -1,0 +1,1 @@
+[Ethereum to Acquire Top-Level Domain Name With New Partnership](https://cointelegraph.com/news/ethereum-to-acquire-top-level-domain-name-with-new-partnership)
