@@ -1,0 +1,1 @@
+[NYSE Trader Following Bakkt Launch: ‘Bitcoin Is Very Iffy’](https://cointelegraph.com/news/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy)
