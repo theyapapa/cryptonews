@@ -1,3 +1,4 @@
+* 2018-08-04 08:08 [남한 암호 교환 비 엄지는 출금을 재개 하 고, 아홉 개의 암호를 예치 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos-edb6cc8b.md)
 * 2018-08-03 23:08 [nyse 상인 bakkt 출시 다음: ' 비트 코인은 매우 iffy '](https://github.com/theyapapa/cryptonews/blob/ko/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy-37d67418.md)
 * 2018-08-03 21:08 [새로운 파트너십을 통해 최상위 도메인 이름을 습득 하는 ethereum](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-to-acquire-top-level-domain-name-with-new-partnership-361f9158.md)
 * 2018-08-03 18:08 [코인 베이스 양육 권은 xrp, EOS 및 xrp을 포함 한 37 새로운 자산의 추가를 고려 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr-551e42c3.md)
