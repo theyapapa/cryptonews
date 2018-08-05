@@ -1,3 +1,4 @@
+* 2018-08-05 11:08 [Джейми Даймон говорит, что JPMorgan будет использовать цепочки ' для целого множества вещей '](https://github.com/theyapapa/cryptonews/blob/ru/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things-b0b20a06.md)
 * 2018-08-05 04:08 [Деньги или активы? Как мировые правительства определяют](https://github.com/theyapapa/cryptonews/blob/ru/money-or-assets-how-world-governments-define-cryptocurrencies-78466f8d.md)
 * 2018-08-04 13:08 [Несмотря на "крупнейшую новость года NYSE" для Bitcoin, крипто рынки резко упали в мгновение ока](https://github.com/theyapapa/cryptonews/blob/ru/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink-41050754.md)
 * 2018-08-04 08:08 [Южнокорейский крипто обмен бисумб на повторное снятие, депозиты на девять крипто](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos-edb6cc8b.md)
