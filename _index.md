@@ -1,3 +1,4 @@
+* 2018-08-05 11:08 [제이미 디 몬은 jp 모건이 블록 체인을 사용 하 여 ' 수많은 것 들 '을 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things-b0b20a06.md)
 * 2018-08-05 04:08 [돈 또는 자산? 세계 정부가 암호 화폐를 정의 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/money-or-assets-how-world-governments-define-cryptocurrencies-78466f8d.md)
 * 2018-08-04 13:08 [nyse의 ' 올해의 가장 큰 뉴스 ' 비트 코인에도 불구 하 고, 암호화 시장은 점멸에 추 달린](https://github.com/theyapapa/cryptonews/blob/ko/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink-41050754.md)
 * 2018-08-04 08:08 [남한 암호 교환 비 엄지는 출금을 재개 하 고, 아홉 개의 암호를 예치 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos-edb6cc8b.md)
