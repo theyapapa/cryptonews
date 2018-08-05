@@ -1,3 +1,4 @@
+* 2018-08-05 16:08 [' 비트 코인에 대 한 커피, ' 스타벅스는 새로운 암호화 벤처를 허위 미디어로 명확히](https://github.com/theyapapa/cryptonews/blob/ko/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture-5d492cb7.md)
 * 2018-08-05 12:08 [hodler의 다이제스트, 7 월 29 일-8 월 5: 모두 김 kardashian와 뉴욕 증권 거래소의 연산자는 비트 코인에 들어가](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-july-29-august-5-both-kim-kardashian-and-the-operator-of-the-new-york-stock-exchange-get-into-bitcoin-c5203199.md)
 * 2018-08-05 11:08 [제이미 디 몬은 jp 모건이 블록 체인을 사용 하 여 ' 수많은 것 들 '을 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things-b0b20a06.md)
 * 2018-08-05 04:08 [돈 또는 자산? 세계 정부가 암호 화폐를 정의 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/money-or-assets-how-world-governments-define-cryptocurrencies-78466f8d.md)
