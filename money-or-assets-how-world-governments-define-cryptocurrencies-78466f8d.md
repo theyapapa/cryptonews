@@ -1,0 +1,1 @@
+[Money or Assets? How World Governments Define Cryptocurrencies](https://cointelegraph.com/news/money-or-assets-how-world-governments-define-cryptocurrencies)
