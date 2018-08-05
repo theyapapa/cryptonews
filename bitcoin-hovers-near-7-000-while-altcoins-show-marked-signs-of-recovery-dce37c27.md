@@ -1,0 +1,1 @@
+[Bitcoin Hovers Near $7,000, While Altcoins Show Marked Signs of Recovery](https://cointelegraph.com/news/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery)
