@@ -1,3 +1,4 @@
+* 2018-08-05 11:08 [Jamie Dimon dice que JPMorgan usará bloques ' para un montón de cosas '](https://github.com/theyapapa/cryptonews/blob/es/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things-b0b20a06.md)
 * 2018-08-05 04:08 [¿dinero o bienes? Cómo los gobiernos mundiales definen Cryptocurrencies](https://github.com/theyapapa/cryptonews/blob/es/money-or-assets-how-world-governments-define-cryptocurrencies-78466f8d.md)
 * 2018-08-04 13:08 [A pesar de las ' noticias más importantes del año ' de NYSE, los mercados criptográficos se desploman en un parpadeo](https://github.com/theyapapa/cryptonews/blob/es/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink-41050754.md)
 * 2018-08-04 08:08 [Intercambio Crypto surcoreano para reabrir retiros, depósitos para nueve criptas](https://github.com/theyapapa/cryptonews/blob/es/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos-edb6cc8b.md)
