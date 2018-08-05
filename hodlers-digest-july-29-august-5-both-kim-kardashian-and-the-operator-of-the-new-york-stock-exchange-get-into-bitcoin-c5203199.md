@@ -1,0 +1,1 @@
+[Hodler’s Digest, July 29-August 5: Both Kim Kardashian and the Operator of the New York Stock Exchange Get Into Bitcoin](https://cointelegraph.com/news/hodlers-digest-july-29-august-5-both-kim-kardashian-and-the-operator-of-the-new-york-stock-exchange-get-into-bitcoin)
