@@ -1,0 +1,1 @@
+[‘No Coffee for Bitcoin,’ Starbucks Clarifies as Media Misrepresent Its New Crypto Venture](https://cointelegraph.com/news/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture)
