@@ -1,3 +1,4 @@
+* 2018-08-06 15:08 [Исследователи выявить сети из-за Crypto крипто-связанных афера ботов на Twitter](https://github.com/theyapapa/cryptonews/blob/ru/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter-e7c3de0b.md)
 * 2018-08-06 12:08 [WSJ: организованные крипто ' торговые группы ' манипулировали рынками, чтобы сделать $825 000 000 в 2018](https://github.com/theyapapa/cryptonews/blob/ru/wsj-organized-crypto-trading-groups-manipulated-markets-to-make-825-million-in-2018-413b2a26.md)
 * 2018-08-06 09:08 [Как Великобритания будет иметь дело с крипто после Brexit: эксперт принять](https://github.com/theyapapa/cryptonews/blob/ru/how-will-the-uk-deal-with-crypto-after-brexit-expert-take-7cb0ce05.md)
 * 2018-08-06 08:08 [JPMorgan директор Джейми Даймон возвращается к Bitcoin трепку, звонки в "афера"](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam-be401758.md)
