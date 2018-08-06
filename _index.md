@@ -1,3 +1,4 @@
+* 2018-08-06 09:08 [Как Великобритания будет иметь дело с крипто после Brexit: эксперт принять](https://github.com/theyapapa/cryptonews/blob/ru/how-will-the-uk-deal-with-crypto-after-brexit-expert-take-7cb0ce05.md)
 * 2018-08-06 08:08 [JPMorgan директор Джейми Даймон возвращается к Bitcoin трепку, звонки в "афера"](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam-be401758.md)
 * 2018-08-06 04:08 [Вот как цепочки помогут исследовать пространство](https://github.com/theyapapa/cryptonews/blob/ru/here-is-how-blockchain-will-help-to-explore-space-3a5fbabe.md)
 * 2018-08-05 18:08 [Bitcoin колеблется около $7 000, в то время как алткоинс Показать отмеченные признаки восстановления](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery-dce37c27.md)
