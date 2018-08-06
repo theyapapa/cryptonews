@@ -1,3 +1,4 @@
+* 2018-08-06 08:08 [JPMorgan директор Джейми Даймон возвращается к Bitcoin трепку, звонки в "афера"](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam-be401758.md)
 * 2018-08-06 04:08 [Вот как цепочки помогут исследовать пространство](https://github.com/theyapapa/cryptonews/blob/ru/here-is-how-blockchain-will-help-to-explore-space-3a5fbabe.md)
 * 2018-08-05 18:08 [Bitcoin колеблется около $7 000, в то время как алткоинс Показать отмеченные признаки восстановления](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery-dce37c27.md)
 * 2018-08-05 16:08 ["нет кофе для Bitcoin," Starbucks уточняет, как средства массовой информации искажать свои новые крипто венчурного](https://github.com/theyapapa/cryptonews/blob/ru/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture-5d492cb7.md)
