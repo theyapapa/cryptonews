@@ -1,0 +1,1 @@
+[JPMorgan CEO Jamie Dimon Returns to Bitcoin Bashing, Calls Cryptocurrency a ‘Scam’](https://cointelegraph.com/news/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam)
