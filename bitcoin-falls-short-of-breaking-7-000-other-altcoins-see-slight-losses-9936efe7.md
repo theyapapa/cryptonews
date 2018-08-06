@@ -1,0 +1,1 @@
+[Bitcoin Falls Short of Breaking $7,000, Other Altcoins See Slight Losses](https://cointelegraph.com/news/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses)
