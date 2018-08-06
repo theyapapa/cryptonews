@@ -1,3 +1,4 @@
+* 2018-08-06 08:08 [CEO de JPMorgan Jamie Dimon regresa a Bitcoin Bashing, llamadas Cryptocurrency una ' estafa '](https://github.com/theyapapa/cryptonews/blob/es/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam-be401758.md)
 * 2018-08-06 04:08 [Aquí es cómo bloques ayudará a explorar el espacio](https://github.com/theyapapa/cryptonews/blob/es/here-is-how-blockchain-will-help-to-explore-space-3a5fbabe.md)
 * 2018-08-05 18:08 [Bitcoin se cierne cerca de $7.000, mientras que Altcoins muestran signos marcados de recuperación](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery-dce37c27.md)
 * 2018-08-05 16:08 [' no hay café para bitcoin, ' Starbucks aclara como los medios tergiversan su nueva empresa de criptografía](https://github.com/theyapapa/cryptonews/blob/es/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture-5d492cb7.md)
