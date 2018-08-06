@@ -1,0 +1,1 @@
+[Researchers Reveal Network of 15K Crypto-Related Scam Bots on Twitter](https://cointelegraph.com/news/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter)
