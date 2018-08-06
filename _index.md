@@ -1,3 +1,4 @@
+* 2018-08-06 09:08 [¿Cómo tratará el Reino Unido con Crypto después de Brexit: experto toma](https://github.com/theyapapa/cryptonews/blob/es/how-will-the-uk-deal-with-crypto-after-brexit-expert-take-7cb0ce05.md)
 * 2018-08-06 08:08 [CEO de JPMorgan Jamie Dimon regresa a Bitcoin Bashing, llamadas Cryptocurrency una ' estafa '](https://github.com/theyapapa/cryptonews/blob/es/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam-be401758.md)
 * 2018-08-06 04:08 [Aquí es cómo bloques ayudará a explorar el espacio](https://github.com/theyapapa/cryptonews/blob/es/here-is-how-blockchain-will-help-to-explore-space-3a5fbabe.md)
 * 2018-08-05 18:08 [Bitcoin se cierne cerca de $7.000, mientras que Altcoins muestran signos marcados de recuperación](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery-dce37c27.md)
