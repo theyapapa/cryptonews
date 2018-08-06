@@ -1,3 +1,4 @@
+* 2018-08-06 04:08 [블록 체인을 통해 공간을 탐색 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/here-is-how-blockchain-will-help-to-explore-space-3a5fbabe.md)
 * 2018-08-05 18:08 [비트 코인은 $7000 근처에서 움직일 것 이며, 알트 코인은 회복의 흔적을 표시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery-dce37c27.md)
 * 2018-08-05 16:08 [' 비트 코인에 대 한 커피, ' 스타벅스는 새로운 암호화 벤처를 허위 미디어로 명확히](https://github.com/theyapapa/cryptonews/blob/ko/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture-5d492cb7.md)
 * 2018-08-05 12:08 [hodler의 다이제스트, 7 월 29 일-8 월 5: 모두 김 kardashian와 뉴욕 증권 거래소의 연산자는 비트 코인에 들어가](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-july-29-august-5-both-kim-kardashian-and-the-operator-of-the-new-york-stock-exchange-get-into-bitcoin-c5203199.md)
