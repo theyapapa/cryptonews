@@ -1,3 +1,4 @@
+* 2018-08-06 09:08 [브 렉 시트 이후 영국은 어떻게 암호화를 다룰 것인가: 전문가는](https://github.com/theyapapa/cryptonews/blob/ko/how-will-the-uk-deal-with-crypto-after-brexit-expert-take-7cb0ce05.md)
 * 2018-08-06 08:08 [jpmorgan CEO 제이미 dimon은 비트 코인 강타로 돌아갑니다, 통화 암호 화폐 ' 사기 '](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam-be401758.md)
 * 2018-08-06 04:08 [블록 체인을 통해 공간을 탐색 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/here-is-how-blockchain-will-help-to-explore-space-3a5fbabe.md)
 * 2018-08-05 18:08 [비트 코인은 $7000 근처에서 움직일 것 이며, 알트 코인은 회복의 흔적을 표시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery-dce37c27.md)
