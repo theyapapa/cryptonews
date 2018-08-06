@@ -1,3 +1,4 @@
+* 2018-08-06 08:08 [jpmorgan CEO 제이미 dimon은 비트 코인 강타로 돌아갑니다, 통화 암호 화폐 ' 사기 '](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam-be401758.md)
 * 2018-08-06 04:08 [블록 체인을 통해 공간을 탐색 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/here-is-how-blockchain-will-help-to-explore-space-3a5fbabe.md)
 * 2018-08-05 18:08 [비트 코인은 $7000 근처에서 움직일 것 이며, 알트 코인은 회복의 흔적을 표시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery-dce37c27.md)
 * 2018-08-05 16:08 [' 비트 코인에 대 한 커피, ' 스타벅스는 새로운 암호화 벤처를 허위 미디어로 명확히](https://github.com/theyapapa/cryptonews/blob/ko/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture-5d492cb7.md)
