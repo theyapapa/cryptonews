@@ -1,0 +1,1 @@
+[WSJ: Organized Crypto ‘Trading Groups’ Manipulated Markets to Make $825 Million in 2018](https://cointelegraph.com/news/wsj-organized-crypto-trading-groups-manipulated-markets-to-make-825-million-in-2018)
