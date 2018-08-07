@@ -1,0 +1,1 @@
+[South Korean Biotech Firm to Use Blockchain for Genomic Big Data Ecosystem](https://cointelegraph.com/news/south-korean-biotech-firm-to-use-blockchain-for-genomic-big-data-ecosystem)
