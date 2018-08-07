@@ -1,0 +1,1 @@
+[UK Financial Authority Creates Global Alliance for Fintech Innovation Collaboration](https://cointelegraph.com/news/uk-financial-authority-creates-global-alliance-for-fintech-innovation-collaboration)
