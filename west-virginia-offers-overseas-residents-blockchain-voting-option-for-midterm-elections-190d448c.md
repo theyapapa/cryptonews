@@ -1,0 +1,1 @@
+[West Virginia Offers Overseas Residents Blockchain Voting Option for Midterm Elections](https://cointelegraph.com/news/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections)
