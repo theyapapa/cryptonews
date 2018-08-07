@@ -1,0 +1,1 @@
+[China: Trader Sues Exchange OKCoin for Failing to Release Bitcoin Cash](https://cointelegraph.com/news/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash)
