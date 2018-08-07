@@ -1,3 +1,4 @@
+* 2018-08-06 22:08 [Китай: трейдер судится обмен оккоин за неспособность выпустить биткойн наличными](https://github.com/theyapapa/cryptonews/blob/ru/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash-24647648.md)
 * 2018-08-06 20:08 [США: Председатель судебного комитета палаты представителей раскрывает право собственности на](https://github.com/theyapapa/cryptonews/blob/ru/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency-33a528ea.md)
 * 2018-08-06 18:08 [Bitcoin не хватает нарушение $7 000, другие алткоинс увидеть небольшие потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses-9936efe7.md)
 * 2018-08-06 15:08 [Исследователи выявить сети из-за Crypto крипто-связанных афера ботов на Twitter](https://github.com/theyapapa/cryptonews/blob/ru/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter-e7c3de0b.md)
