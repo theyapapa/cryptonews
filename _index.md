@@ -1,3 +1,4 @@
+* 2018-08-06 20:08 [미국: 주택 사법 위원회 위원장 암호 화폐의 소유권 공개](https://github.com/theyapapa/cryptonews/blob/ko/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency-33a528ea.md)
 * 2018-08-06 18:08 [비트 코인 $7000 속보의 짧은 폭포, 다른 altcoins는 약간의 손실을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses-9936efe7.md)
 * 2018-08-06 15:08 [연구원은 트위터에 15k는 암호화 관련 사기 봇의 네트워크를 공개](https://github.com/theyapapa/cryptonews/blob/ko/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter-e7c3de0b.md)
 * 2018-08-06 12:08 [WSJ: 조직 된 암호화 ' 무역 그룹 ' 조작 시장에서 $8억2500만를 만들기 위해 2018](https://github.com/theyapapa/cryptonews/blob/ko/wsj-organized-crypto-trading-groups-manipulated-markets-to-make-825-million-in-2018-413b2a26.md)
