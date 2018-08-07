@@ -1,0 +1,1 @@
+[Omniex Appoints Former SEC and FDIC Execs to Board of Advisors](https://cointelegraph.com/news/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors)
