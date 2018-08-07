@@ -1,3 +1,4 @@
+* 2018-08-07 06:08 [웨스트버지니아가 해외 거주자에 게 중간 선거를 위한 블록 체인 투표 옵션 제공](https://github.com/theyapapa/cryptonews/blob/ko/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections-190d448c.md)
 * 2018-08-06 23:08 [overstock의 tzero는 오늘 밤에 제공 되는 보안 토큰을 닫습니다.](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-tzero-closes-its-security-token-offering-tonight-f41795c3.md)
 * 2018-08-06 22:08 [중국: 비트 코인 현금을 공개 하지 못하는 경우에 대 한 상인 Sues 교환 okcoin](https://github.com/theyapapa/cryptonews/blob/ko/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash-24647648.md)
 * 2018-08-06 20:08 [미국: 주택 사법 위원회 위원장 암호 화폐의 소유권 공개](https://github.com/theyapapa/cryptonews/blob/ko/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency-33a528ea.md)
