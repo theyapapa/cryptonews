@@ -1,3 +1,4 @@
+* 2018-08-07 17:08 [omniex는 고문 위원회에 전직 SEC 및 FDIC 경영진을 임명](https://github.com/theyapapa/cryptonews/blob/ko/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors-eeba1e04.md)
 * 2018-08-07 16:08 [현상금 헌트 잘못 됐어요: ' unhackable ' 지갑 bitfi 그것은 해킹 되었습니다 거부](https://github.com/theyapapa/cryptonews/blob/ko/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked-73130702.md)
 * 2018-08-07 13:08 [비트 코인 게시물 솔리드 이득 이상 휴식 $7000 altcoins 녹색을 참조 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green-662e95b1.md)
 * 2018-08-07 10:08 [영국 금융 기관은 핀 테크 혁신 협력을 위한 글로벌 동맹을 만듭니다.](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-authority-creates-global-alliance-for-fintech-innovation-collaboration-0ff98dad.md)
