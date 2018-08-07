@@ -1,0 +1,19 @@
+# 중국: 비트 코인 현금을 출시 하지 못한에 대 한 상인 Sues 교환 okcoin ...
+
+중국 비트 코인 (btc) 투자자는 btc fork, 현지 통신사 법적 주간 보고서 7 월 31 일 이후에 비트 코인 현금 (bch)을 받지 못하도록 혐의를 받는 지역 암호 교환 okcoin을 고소 했습니다.
+
+가 명 펭 빈 아래에 알려진 투자자, 38.748 bch 그는 이후 비트 코인의 하드 포크 8 월 2017에서 받은 그를 차단의 교환을 비난 okcoin 상대로 소송을 제기 했다.
+
+소송에서, 펭 빈은 디지털 통화가 12 월, 2017에서 약 $4000의 모든 시간 높은 도달 했을 때 그는 비트 코인 현금을 판매 하려고 시도 하는 것을 말합니다.
+
+플랫폼의 고객 지원에 대 한 불만에 따라, okcoin는 포크 암호화를 주장 하는 플랫폼의 프로그램이 만료 되었기 때문에 펭 빈은 비트 코인의 현금을 추출 할 수 없다고 주장 했다.
+
+투자자는 암호 교환이 비트 코인 현금 청구 기한에 대 한 공식 발표를 하지 않았다고 주장 했다: "나는 okcoin 통화 릴리스의 발표에 주의를 기울이고 있다.
+
+비트 코인은 2017 년 8 월 1 일에 분기 되어 완전히 다른 두 개의 디지털 통화가 존재 하는 반면, 포크 이전에 비트 코인을 보유 한 사용자는 동일한 수의 비트 코인 현금을 받았습니다.
+
+로저 Ver, bch의 가장 큰 발기인 중 하나는 비트 코인 현금은 11 월 2017에서 "실제 비트 코인" 이라고 주장 했다.
+
+Original source: [China: Trader Sues Exchange OKCoin for Failing to Release Bitcoin Cash](https://cointelegraph.com/news/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
