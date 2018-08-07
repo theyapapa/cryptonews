@@ -1,0 +1,1 @@
+[Overstock’s tZERO Closes Its Security Token Offering Tonight](https://cointelegraph.com/news/overstocks-tzero-closes-its-security-token-offering-tonight)
