@@ -1,0 +1,17 @@
+# overstock의 tzero는 오늘 밤에 제공 하는 자사의 보안 토큰을 닫습니다 ... tzero, 전자 상거래 소매 거 대 한 과잉 재고의 블록 체인 자회사는 오늘날의 보안 토큰 제공 (STO)가 종료 월요일 밤, 더 이상의 확장과 함께 오는 8 월 6 일 발표 했다.
+
+이 회사는 당초 12 월에 초기 코인 제공 (ICO)의 형태로 STO를 도입 했으며,이는 처음에 플랫폼에 투입 된 $1억의 결과를 기반으로 강력한 암호화 및 전통적인 제도적 관심을 끌었다. 12 시간.
+
+지난 3 월, tzero의 ICO는 미국 증권 거래 위원회 (SEC) 로부터 면밀 하 게 하락 하는 주식 가격을 초래 하 고 있습니다.
+
+6 월에서는, tzero는 토큰 당 $10.00의 가격에 tzero 안전 토큰에서 $1억6000만의 구입을 위한 베이징 근거한 투자 회사 gsr 자본을 가진 의향의 편지를 서명 했다.
+
+문 당, tzero는 또한 "$9500만 이상 이미 투자 되 었 었던, 안전 토큰을 위한 $1억6800만를 초과 하 여 실행 한 금고로 들어갔다."
+
+overstock은 지난해 말 대체 ICO 토큰 거래 플랫폼을 구축 하기 위한 의도를 발표 했지만, tzero는 처음에는 4 월에 보안 토큰 거래 플랫폼의 프로토타입을 도입 했습니다.
+
+개발자는 실제 자산에 의해 뒷받침 되는 보안 토큰을 거래 하는 수단을 제시 하는 것을 목표로 하 고, 블록 체인과 전통적인 금융 부문 간의 상호 링크입니다.
+
+Original source: [Overstock’s tZERO Closes Its Security Token Offering Tonight](https://cointelegraph.com/news/overstocks-tzero-closes-its-security-token-offering-tonight)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
