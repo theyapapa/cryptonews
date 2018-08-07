@@ -1,0 +1,1 @@
+[Bounty Hunt Gone Wrong: ‘Unhackable’ Wallet Bitfi Denies It Has Been Hacked](https://cointelegraph.com/news/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked)
