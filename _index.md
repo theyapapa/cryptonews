@@ -1,3 +1,4 @@
+* 2018-08-07 09:08 [Южнокорейская биотехнологическая фирма использует цепочки для геномной экосистемы больших данных](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-biotech-firm-to-use-blockchain-for-genomic-big-data-ecosystem-39230d9d.md)
 * 2018-08-07 08:08 [Швейцарский банк маерки Бауманн стать вторым в стране, чтобы принять активы](https://github.com/theyapapa/cryptonews/blob/ru/swiss-bank-maerki-baumann-to-become-second-in-country-to-accept-cryptocurrency-assets-39b48a09.md)
 * 2018-08-07 06:08 [Западная Вирджиния предлагает иностранным жителям цепочки голосования вариант для промежуточных выборов](https://github.com/theyapapa/cryptonews/blob/ru/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections-190d448c.md)
 * 2018-08-06 23:08 [Тзеро закрывает свой токен безопасности предлагая сегодня](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-tzero-closes-its-security-token-offering-tonight-f41795c3.md)
