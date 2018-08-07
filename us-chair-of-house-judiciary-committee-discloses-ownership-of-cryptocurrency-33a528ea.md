@@ -1,0 +1,1 @@
+[US: Chair of House Judiciary Committee Discloses Ownership of Cryptocurrency](https://cointelegraph.com/news/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency)
