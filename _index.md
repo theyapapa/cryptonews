@@ -1,3 +1,4 @@
+* 2018-08-06 23:08 [TZERO de sobrepoblación cierra su oferta de token de seguridad esta noche](https://github.com/theyapapa/cryptonews/blob/es/overstocks-tzero-closes-its-security-token-offering-tonight-f41795c3.md)
 * 2018-08-06 22:08 [China: Trader demanda intercambio OKCoin por no haber liberado Bitcoin Cash](https://github.com/theyapapa/cryptonews/blob/es/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash-24647648.md)
 * 2018-08-06 20:08 [Estados Unidos: el Presidente del Comité Judicial de la casa divulga la titularidad de Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency-33a528ea.md)
 * 2018-08-06 18:08 [Bitcoin cae corto de romper $7.000, otros Altcoins ver pérdidas leves](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses-9936efe7.md)
