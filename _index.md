@@ -1,3 +1,4 @@
+* 2018-08-06 22:08 [중국: 비트 코인 현금을 공개 하지 못하는 경우에 대 한 상인 Sues 교환 okcoin](https://github.com/theyapapa/cryptonews/blob/ko/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash-24647648.md)
 * 2018-08-06 20:08 [미국: 주택 사법 위원회 위원장 암호 화폐의 소유권 공개](https://github.com/theyapapa/cryptonews/blob/ko/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency-33a528ea.md)
 * 2018-08-06 18:08 [비트 코인 $7000 속보의 짧은 폭포, 다른 altcoins는 약간의 손실을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses-9936efe7.md)
 * 2018-08-06 15:08 [연구원은 트위터에 15k는 암호화 관련 사기 봇의 네트워크를 공개](https://github.com/theyapapa/cryptonews/blob/ko/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter-e7c3de0b.md)
