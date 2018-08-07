@@ -1,3 +1,4 @@
+* 2018-08-07 06:08 [Западная Вирджиния предлагает иностранным жителям цепочки голосования вариант для промежуточных выборов](https://github.com/theyapapa/cryptonews/blob/ru/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections-190d448c.md)
 * 2018-08-06 23:08 [Тзеро закрывает свой токен безопасности предлагая сегодня](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-tzero-closes-its-security-token-offering-tonight-f41795c3.md)
 * 2018-08-06 22:08 [Китай: трейдер судится обмен оккоин за неспособность выпустить биткойн наличными](https://github.com/theyapapa/cryptonews/blob/ru/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash-24647648.md)
 * 2018-08-06 20:08 [США: Председатель судебного комитета палаты представителей раскрывает право собственности на](https://github.com/theyapapa/cryptonews/blob/ru/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency-33a528ea.md)
