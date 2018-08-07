@@ -1,3 +1,4 @@
+* 2018-08-07 10:08 [영국 금융 기관은 핀 테크 혁신 협력을 위한 글로벌 동맹을 만듭니다.](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-authority-creates-global-alliance-for-fintech-innovation-collaboration-0ff98dad.md)
 * 2018-08-07 09:08 [한국 생명 공학 회사, 게놈 빅 데이터 생태계를 위한 블록 체인 사용](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-biotech-firm-to-use-blockchain-for-genomic-big-data-ecosystem-39230d9d.md)
 * 2018-08-07 08:08 [스위스 은행 메이 키 바 움만이 국가에서 두 번째로 암호화 화폐 자산을 수용 하 게 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-bank-maerki-baumann-to-become-second-in-country-to-accept-cryptocurrency-assets-39b48a09.md)
 * 2018-08-07 06:08 [웨스트버지니아가 해외 거주자에 게 중간 선거를 위한 블록 체인 투표 옵션 제공](https://github.com/theyapapa/cryptonews/blob/ko/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections-190d448c.md)
