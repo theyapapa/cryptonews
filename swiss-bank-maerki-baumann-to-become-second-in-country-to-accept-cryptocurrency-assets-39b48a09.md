@@ -1,0 +1,1 @@
+[Swiss Bank Maerki Baumann to Become Second in Country to Accept Cryptocurrency Assets](https://cointelegraph.com/news/swiss-bank-maerki-baumann-to-become-second-in-country-to-accept-cryptocurrency-assets)
