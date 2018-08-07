@@ -1,0 +1,1 @@
+[Bitcoin Posts Solid Gains to Break Above $7,000 While Altcoins See Green](https://cointelegraph.com/news/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green)
