@@ -1,3 +1,4 @@
+* 2018-08-06 22:08 [China: Trader demanda intercambio OKCoin por no haber liberado Bitcoin Cash](https://github.com/theyapapa/cryptonews/blob/es/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash-24647648.md)
 * 2018-08-06 20:08 [Estados Unidos: el Presidente del Comité Judicial de la casa divulga la titularidad de Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency-33a528ea.md)
 * 2018-08-06 18:08 [Bitcoin cae corto de romper $7.000, otros Altcoins ver pérdidas leves](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses-9936efe7.md)
 * 2018-08-06 15:08 [Los investigadores revelan la red de 15.000 bots de estafa relacionados con criptografía en Twitter](https://github.com/theyapapa/cryptonews/blob/es/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter-e7c3de0b.md)
