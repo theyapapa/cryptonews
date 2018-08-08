@@ -1,0 +1,1 @@
+[South Korea: Police Raid Firm Whose Alleged Crypto Scam Promised Investors Shipwreck Gold](https://cointelegraph.com/news/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold)
