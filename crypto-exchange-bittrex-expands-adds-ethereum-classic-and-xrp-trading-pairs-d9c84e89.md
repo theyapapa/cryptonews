@@ -1,0 +1,19 @@
+# 암호 교환 bittrex 확장은이 더 리 움 클래식과 xrp 거래 쌍을 추가 ...
+
+암호 화폐 거래소 및 지갑 서비스 bittrex는 8 월 8 일 발표 된 공식 발표에 따라 두 개의 새로운 암호 화폐에 대해 미국 달러 (USD) 거래 쌍을 출시할 계획을 발표 했습니다.
+
+발표 당, bittrex는 8 월 20 일에이 더 리 움 클래식 (ETC) 및 리플 (xrp)으로 피아트 시장을 확장 하기 위해 찾고 있습니다.
+
+새로운 거래 쌍은 비트 코인 (BTC),이 더 리 움 (ETH), 밧줄 (usdt) 및 trueusd (tusd)에 대해 이미 상장 된 달러 시장에 추가 될 것입니다.
+
+이 회사는 점차적으로 달러 거래에 대 한 "단계적 접근"을 사용 하 여, 그것의 usd 시장에 토큰을 추가 계속 됩니다 말합니다.
+
+bittrex는이 시장을 자격을 갖춘 고객에 게 제공 하기 전에 프로세스 및 시스템의 품질을 보장 하기 위해 "이러한 시장 진입"에 점진적 접근 방식을 취하는 것을 더 설명 했습니다.
+
+bittrex는 말했다: "광범위 한 수용 뿐만 아니라, 우리의 거래 플랫폼에서 최고 디지털 통화로 피아트 시장을 확장 하는 것은 다른 블록 체인 프로젝트를 통해 하나의 토큰의 지배력과 영향력을 제한 하는 데 도움이 될 것입니다-우리가가는 경우 필요한 진화 소비자와 기업에 블록 체인의 잠재적인 혜택을 최대한 발휘 하십시오. "
+
+올해의 2 월에서는, shihara는 그것의 고객의 대다수에 게 USD 무역을 여는 교환의 기도를 알렸다.
+
+Original source: [Crypto Exchange Bittrex Expands Adds Ethereum Classic and XRP Trading Pairs](https://cointelegraph.com/news/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
