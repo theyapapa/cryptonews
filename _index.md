@@ -1,3 +1,4 @@
+* 2018-08-08 06:08 [Ucrania Comisión electoral utiliza NEM bloques para el juicio electoral](https://github.com/theyapapa/cryptonews/blob/es/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial-75ade9d5.md)
 * 2018-08-08 05:08 [Opera para lanzar la cartera Cryptocurrency incorporada para el navegador de escritorio](https://github.com/theyapapa/cryptonews/blob/es/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser-807235a0.md)
 * 2018-08-07 22:08 [Los mercados criptográficos se desploman tras el retraso de ETF](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-slump-following-sec-bitcoin-etf-delay-f051f5e0.md)
 * 2018-08-07 20:08 [Regulador financiero del Reino Unido advierte a los inversionistas sobre ' empresa clon '](https://github.com/theyapapa/cryptonews/blob/es/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
