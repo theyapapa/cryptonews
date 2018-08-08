@@ -1,3 +1,4 @@
+* 2018-08-08 06:08 [우크라이나 선거 위원회는 nem 블록 체인을 사용 하 여 투표 재판](https://github.com/theyapapa/cryptonews/blob/ko/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial-75ade9d5.md)
 * 2018-08-08 05:08 [오페라는 데스크톱 브라우저에 대 한 내장 된 암호 화폐 지갑을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser-807235a0.md)
 * 2018-08-07 22:08 [비트 코인 ETF 지연 후 암호화 시장 폭락](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-slump-following-sec-bitcoin-etf-delay-f051f5e0.md)
 * 2018-08-07 20:08 [영국 금융 규칙은 투자자에 대해 ' 클론 회사 ' 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
