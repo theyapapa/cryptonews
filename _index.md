@@ -1,3 +1,4 @@
+* 2018-08-08 06:08 [Избирательная комиссия Украины использует блоковое для голосования](https://github.com/theyapapa/cryptonews/blob/ru/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial-75ade9d5.md)
 * 2018-08-08 05:08 [Opera для запуска встроенный в бумажнике кошелек для настольного браузера](https://github.com/theyapapa/cryptonews/blob/ru/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser-807235a0.md)
 * 2018-08-07 22:08 [Крипто рынки спад следующие sec Bitcoin ETF задержка](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-slump-following-sec-bitcoin-etf-delay-f051f5e0.md)
 * 2018-08-07 20:08 [Финансовый регулятор Великобритании предупреждает инвесторов о «фирме-клоне»](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
