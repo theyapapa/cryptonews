@@ -1,0 +1,1 @@
+[Opera to Launch Built-In Cryptocurrency Wallet for Desktop Browser](https://cointelegraph.com/news/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser)
