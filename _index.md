@@ -1,3 +1,4 @@
+* 2018-08-07 22:08 [Los mercados criptográficos se desploman tras el retraso de ETF](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-slump-following-sec-bitcoin-etf-delay-f051f5e0.md)
 * 2018-08-07 20:08 [Regulador financiero del Reino Unido advierte a los inversionistas sobre ' empresa clon '](https://github.com/theyapapa/cryptonews/blob/es/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
 * 2018-08-07 20:08 [U.S. sec pospone la decisión sobre el fondo negociado de Bitcoin Exchange](https://github.com/theyapapa/cryptonews/blob/es/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund-d4403cdf.md)
 * 2018-08-07 17:08 [Omniex designa a los ex ejecutivos de sec y FDIC a la Junta de asesores](https://github.com/theyapapa/cryptonews/blob/es/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors-eeba1e04.md)
