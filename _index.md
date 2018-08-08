@@ -1,3 +1,4 @@
+* 2018-08-08 11:08 [44%의 러시아인 들이 암호 화폐에 대해 들어 본 적이 있으며 새로운 설문 조사는](https://github.com/theyapapa/cryptonews/blob/ko/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals-09bfeb31.md)
 * 2018-08-08 09:08 [미디어의 블록 체인: 블록 체인이 불법 복제를 어떻게 싸울 수 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-media-how-can-blockchain-fight-piracy-2287c34d.md)
 * 2018-08-08 06:08 [우크라이나 선거 위원회는 nem 블록 체인을 사용 하 여 투표 재판](https://github.com/theyapapa/cryptonews/blob/ko/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial-75ade9d5.md)
 * 2018-08-08 05:08 [오페라는 데스크톱 브라우저에 대 한 내장 된 암호 화폐 지갑을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser-807235a0.md)
