@@ -1,3 +1,4 @@
+* 2018-08-07 20:08 [U.S. sec pospone la decisión sobre el fondo negociado de Bitcoin Exchange](https://github.com/theyapapa/cryptonews/blob/es/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund-d4403cdf.md)
 * 2018-08-07 17:08 [Omniex designa a los ex ejecutivos de sec y FDIC a la Junta de asesores](https://github.com/theyapapa/cryptonews/blob/es/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors-eeba1e04.md)
 * 2018-08-07 16:08 [La caza de recompensas salió mal: billetera ' unhackeable ' Bitfi niega que ha sido hackeado](https://github.com/theyapapa/cryptonews/blob/es/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked-73130702.md)
 * 2018-08-07 13:08 [Bitcoin publica ganancias sólidas para romper por encima de $7.000 mientras Altcoins ver verde](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green-662e95b1.md)
