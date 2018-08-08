@@ -1,0 +1,1 @@
+[U.S. SEC Postpones Decision Regarding Bitcoin Exchange Traded Fund](https://cointelegraph.com/news/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund)
