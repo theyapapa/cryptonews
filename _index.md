@@ -1,3 +1,4 @@
+* 2018-08-08 12:08 [한국: 그의 혐의 암호 사기 투자자에 게 난파선 금을 약속 경찰 습격 회사](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold-acd72146.md)
 * 2018-08-08 11:08 [44%의 러시아인 들이 암호 화폐에 대해 들어 본 적이 있으며 새로운 설문 조사는](https://github.com/theyapapa/cryptonews/blob/ko/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals-09bfeb31.md)
 * 2018-08-08 09:08 [미디어의 블록 체인: 블록 체인이 불법 복제를 어떻게 싸울 수 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-media-how-can-blockchain-fight-piracy-2287c34d.md)
 * 2018-08-08 06:08 [우크라이나 선거 위원회는 nem 블록 체인을 사용 하 여 투표 재판](https://github.com/theyapapa/cryptonews/blob/ko/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial-75ade9d5.md)
