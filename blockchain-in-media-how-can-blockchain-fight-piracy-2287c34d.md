@@ -1,0 +1,1 @@
+[Blockchain in Media: How Can Blockchain Fight Piracy?](https://cointelegraph.com/news/blockchain-in-media-how-can-blockchain-fight-piracy)
