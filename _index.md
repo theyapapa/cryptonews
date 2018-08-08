@@ -1,3 +1,4 @@
+* 2018-08-08 05:08 [Opera для запуска встроенный в бумажнике кошелек для настольного браузера](https://github.com/theyapapa/cryptonews/blob/ru/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser-807235a0.md)
 * 2018-08-07 22:08 [Крипто рынки спад следующие sec Bitcoin ETF задержка](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-slump-following-sec-bitcoin-etf-delay-f051f5e0.md)
 * 2018-08-07 20:08 [Финансовый регулятор Великобритании предупреждает инвесторов о «фирме-клоне»](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
 * 2018-08-07 20:08 [SEC США откладывает решение относительно торгуемого Фондом Bitcoin Exchange](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund-d4403cdf.md)
