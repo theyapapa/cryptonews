@@ -1,3 +1,4 @@
+* 2018-08-07 20:08 [영국 금융 규칙은 투자자에 대해 ' 클론 회사 ' 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
 * 2018-08-07 20:08 [미국 SEC, 비트 코인 거래소 상장 펀드에 대 한 결정 연기](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund-d4403cdf.md)
 * 2018-08-07 17:08 [omniex는 고문 위원회에 전직 SEC 및 FDIC 경영진을 임명](https://github.com/theyapapa/cryptonews/blob/ko/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors-eeba1e04.md)
 * 2018-08-07 16:08 [현상금 헌트 잘못 됐어요: ' unhackable ' 지갑 bitfi 그것은 해킹 되었습니다 거부](https://github.com/theyapapa/cryptonews/blob/ko/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked-73130702.md)
