@@ -1,3 +1,4 @@
+* 2018-08-08 12:08 [Южная Корея: полиция рейда фирмы, чьи предполагаемые крипто афера обещал инвесторам кораблекрушение золото](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold-acd72146.md)
 * 2018-08-08 11:08 [44% россиян слышали о "новой", новый опрос показывает,](https://github.com/theyapapa/cryptonews/blob/ru/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals-09bfeb31.md)
 * 2018-08-08 09:08 [Цепочки в СМИ: как можно бороться с пиратством?](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-media-how-can-blockchain-fight-piracy-2287c34d.md)
 * 2018-08-08 06:08 [Избирательная комиссия Украины использует блоковое для голосования](https://github.com/theyapapa/cryptonews/blob/ru/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial-75ade9d5.md)
