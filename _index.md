@@ -1,3 +1,4 @@
+* 2018-08-07 20:08 [Финансовый регулятор Великобритании предупреждает инвесторов о «фирме-клоне»](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
 * 2018-08-07 20:08 [SEC США откладывает решение относительно торгуемого Фондом Bitcoin Exchange](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund-d4403cdf.md)
 * 2018-08-07 17:08 [Омниекс назначает бывших sec и FDIC execs к Совету советников](https://github.com/theyapapa/cryptonews/blob/ru/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors-eeba1e04.md)
 * 2018-08-07 16:08 [Баунти Хант пошло не так: "невзломанный" бумажник битфи отрицает это было взломано](https://github.com/theyapapa/cryptonews/blob/ru/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked-73130702.md)
