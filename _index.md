@@ -1,3 +1,4 @@
+* 2018-08-08 11:08 [44 por ciento de los rusos han oído hablar de Cryptocurrency, nueva encuesta revela](https://github.com/theyapapa/cryptonews/blob/es/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals-09bfeb31.md)
 * 2018-08-08 09:08 [Bloques en los medios: ¿Cómo puede bloques luchar contra la piratería?](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-media-how-can-blockchain-fight-piracy-2287c34d.md)
 * 2018-08-08 06:08 [Ucrania Comisión electoral utiliza NEM bloques para el juicio electoral](https://github.com/theyapapa/cryptonews/blob/es/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial-75ade9d5.md)
 * 2018-08-08 05:08 [Opera para lanzar la cartera Cryptocurrency incorporada para el navegador de escritorio](https://github.com/theyapapa/cryptonews/blob/es/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser-807235a0.md)
