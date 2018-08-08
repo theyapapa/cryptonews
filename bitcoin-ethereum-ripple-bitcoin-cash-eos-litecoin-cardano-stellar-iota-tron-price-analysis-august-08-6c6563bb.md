@@ -1,0 +1,1 @@
+[Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, TRON: Price Analysis, August 08](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-08)
