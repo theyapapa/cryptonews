@@ -1,3 +1,4 @@
+* 2018-08-08 18:08 [암호화 교환 bittrex 확장은이 더 리 움 클래식과 xrp 거래 쌍을 추가](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs-d9c84e89.md)
 * 2018-08-08 15:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 라이트 코인, 카르다노, 스텔라, iota, 트 론: 가격 분석, 8 월 08](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-08-6c6563bb.md)
 * 2018-08-08 13:08 [Microsoft는 Azure에서이 더 리 움 증명 인증 알고리즘을 소개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure-7db6eb1f.md)
 * 2018-08-08 12:08 [한국: 그의 혐의 암호 사기 투자자에 게 난파선 금을 약속 경찰 습격 회사](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold-acd72146.md)
