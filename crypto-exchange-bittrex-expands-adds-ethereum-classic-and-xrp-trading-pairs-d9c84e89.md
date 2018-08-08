@@ -1,0 +1,1 @@
+[Crypto Exchange Bittrex Expands Adds Ethereum Classic and XRP Trading Pairs](https://cointelegraph.com/news/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs)
