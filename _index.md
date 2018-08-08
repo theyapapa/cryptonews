@@ -1,3 +1,4 @@
+* 2018-08-07 20:08 [SEC США откладывает решение относительно торгуемого Фондом Bitcoin Exchange](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund-d4403cdf.md)
 * 2018-08-07 17:08 [Омниекс назначает бывших sec и FDIC execs к Совету советников](https://github.com/theyapapa/cryptonews/blob/ru/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors-eeba1e04.md)
 * 2018-08-07 16:08 [Баунти Хант пошло не так: "невзломанный" бумажник битфи отрицает это было взломано](https://github.com/theyapapa/cryptonews/blob/ru/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked-73130702.md)
 * 2018-08-07 13:08 [Bitcoin сообщения твердой прибыли сломать выше $7 000 в то время как алткоинс видеть зеленый](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green-662e95b1.md)
