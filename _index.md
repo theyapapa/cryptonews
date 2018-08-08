@@ -1,3 +1,4 @@
+* 2018-08-08 13:08 [Microsoft presenta el algoritmo de prueba de autoridad de Ethereum en azul](https://github.com/theyapapa/cryptonews/blob/es/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure-7db6eb1f.md)
 * 2018-08-08 12:08 [Corea del sur: la policía de la empresa RAID cuya presunta estafa Crypto prometidos inversionistas naufragio oro](https://github.com/theyapapa/cryptonews/blob/es/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold-acd72146.md)
 * 2018-08-08 11:08 [44 por ciento de los rusos han oído hablar de Cryptocurrency, nueva encuesta revela](https://github.com/theyapapa/cryptonews/blob/es/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals-09bfeb31.md)
 * 2018-08-08 09:08 [Bloques en los medios: ¿Cómo puede bloques luchar contra la piratería?](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-media-how-can-blockchain-fight-piracy-2287c34d.md)
