@@ -1,3 +1,4 @@
+* 2018-08-08 05:08 [오페라는 데스크톱 브라우저에 대 한 내장 된 암호 화폐 지갑을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser-807235a0.md)
 * 2018-08-07 22:08 [비트 코인 ETF 지연 후 암호화 시장 폭락](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-slump-following-sec-bitcoin-etf-delay-f051f5e0.md)
 * 2018-08-07 20:08 [영국 금융 규칙은 투자자에 대해 ' 클론 회사 ' 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-regulator-warns-investors-about-clone-firm-8132f81d.md)
 * 2018-08-07 20:08 [미국 SEC, 비트 코인 거래소 상장 펀드에 대 한 결정 연기](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund-d4403cdf.md)
