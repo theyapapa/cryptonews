@@ -1,0 +1,1 @@
+[Crypto Markets Slump Following SEC Bitcoin ETF Delay](https://cointelegraph.com/news/crypto-markets-slump-following-sec-bitcoin-etf-delay)
