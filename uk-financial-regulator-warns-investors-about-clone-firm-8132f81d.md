@@ -1,0 +1,1 @@
+[UK Financial Regulator Warns Investors About ‘Clone Firm’](https://cointelegraph.com/news/uk-financial-regulator-warns-investors-about-clone-firm)
