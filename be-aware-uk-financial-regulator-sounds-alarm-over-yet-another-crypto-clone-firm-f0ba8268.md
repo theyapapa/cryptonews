@@ -1,0 +1,1 @@
+[‘Be Aware’: UK Financial Regulator Sounds Alarm Over Yet Another Crypto ‘Clone Firm’](https://cointelegraph.com/news/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm)
