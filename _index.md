@@ -1,3 +1,4 @@
+* 2018-08-09 15:08 [치명적인 일주일 후, 암호화 시장은 녹색으로](https://github.com/theyapapa/cryptonews/blob/ko/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green-3b307842.md)
 * 2018-08-09 14:08 [한국 과학 사역 6 개월 블록 체인 청소년 훈련 이니셔티브 발표](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative-57615eb6.md)
 * 2018-08-09 12:08 [maersk, IBM 시작 블록 체인 배송 공급망 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/maersk-ibm-launch-blockchain-shipping-supply-chain-platform-368e4352.md)
 * 2018-08-09 09:08 [' 인식 ': 영국 금융 조정기는 또 다른 암호화 ' 클론 회사 '를 통해 알람을 소리](https://github.com/theyapapa/cryptonews/blob/ko/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm-f0ba8268.md)
