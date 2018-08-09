@@ -1,0 +1,1 @@
+[Study: ICO Market Doubled Since Last Year, Shows Increased Institutional Investment](https://cointelegraph.com/news/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment)
