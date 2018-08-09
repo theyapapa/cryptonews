@@ -1,3 +1,4 @@
+* 2018-08-09 12:08 [Maersk, IBM запуск цепочки поставок цепь доставки платформы](https://github.com/theyapapa/cryptonews/blob/ru/maersk-ibm-launch-blockchain-shipping-supply-chain-platform-368e4352.md)
 * 2018-08-09 09:08 [' имейте в виду ': Великобритания финансовый регулятор звуки сигнализации над еще один крипто "клон фирмы"](https://github.com/theyapapa/cryptonews/blob/ru/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm-f0ba8268.md)
 * 2018-08-08 23:08 [Исследование: рынок ICO удвоился с прошлого года, показывает увеличение институциональных инвестиций](https://github.com/theyapapa/cryptonews/blob/ru/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment-1aa9f46d.md)
 * 2018-08-08 22:08 [Тайский sec: увеличение интереса в ICO и цифровых активов операций лицензий](https://github.com/theyapapa/cryptonews/blob/ru/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses-a0a14d90.md)
