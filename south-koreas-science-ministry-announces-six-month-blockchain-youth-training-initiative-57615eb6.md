@@ -1,0 +1,1 @@
+[South Korea’s Science Ministry Announces Six-Month Blockchain Youth Training Initiative](https://cointelegraph.com/news/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative)
