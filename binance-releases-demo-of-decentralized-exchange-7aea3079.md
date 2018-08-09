@@ -1,0 +1,19 @@
+# binance는 분산 된 교환의 데모를 출시 ...
+
+암호 화폐 거래 플랫폼의 CEO 인 changpeng 자오는 오늘, 8 월 9 일 짹 짹짹에서 플랫폼의 분산형 교환의 데모를 발표 했다.
+
+트 윗에 첨부 된 6 분 길이의 비디오에서, Zhao는 분산형 거래소의 "캐주얼 하 고, 초기, 사전 제공" 데모를 선보였습니다.
+
+CEO는 현재 그래픽 사용자 인터페이스가 없는 것을 추가 하는 "너무 많이" 지금 기대 하지 말했다: binance 분산 교환 (덱 스)의 첫 번째 (러프, 프리 알파) 데모, 발행을 보여주는, 상장 및 토큰의 거래.
+
+https://t.co/2aXkR0gclP — CZ (암호를 제공 하지 않음) (@cz \_binance) 2018 년 8 월 9 일 자오는 계획 된 교환의 세 가지 필수 기능, 토큰의 생성, 목록 및 거래 인 것을 보여주었습니다.
+
+Zhao이 진입 날짜를 드러내어 보이지 않아서 그것은 교환이 시장에 내놓아 질 것이 고 어떤 볼륨이 그것을 다룰 수 있을 때 모습이 보이기 위해 남아 있다.
+
+Zhao은 그때 binance이 그것의 탈 중앙화 된 교환 (위)에 채무 불이행 지갑으로 서 신뢰 지갑을 목록으로 할 계획 이라고 말했다.
+
+이번 봄에 운영을 몰타로 옮긴 binance는 코인 마켓 캡에 따르면, 거래량에 따른 1 번의 암호 교환입니다.
+
+Original source: [Binance Releases Demo of Decentralized Exchange](https://cointelegraph.com/news/binance-releases-demo-of-decentralized-exchange)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
