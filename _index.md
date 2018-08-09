@@ -1,3 +1,4 @@
+* 2018-08-08 23:08 [연구: ICO 시장은 지난해부터 두 배로 증가 기관 투자를 보여줍니다](https://github.com/theyapapa/cryptonews/blob/ko/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment-1aa9f46d.md)
 * 2018-08-08 22:08 [타이어 SEC: ICO 및 디지털 자산 운용 라이센스의 이자 증가](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses-a0a14d90.md)
 * 2018-08-08 20:08 [공화당 주 선거에서 패배 한 비트 코인 친화적인 미국 상원 의원 후보](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections-af643e96.md)
 * 2018-08-08 18:08 [암호화 교환 bittrex 확장은이 더 리 움 클래식과 xrp 거래 쌍을 추가](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs-d9c84e89.md)
