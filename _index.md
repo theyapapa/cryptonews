@@ -1,3 +1,4 @@
+* 2018-08-09 12:08 [maersk, IBM 시작 블록 체인 배송 공급망 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/maersk-ibm-launch-blockchain-shipping-supply-chain-platform-368e4352.md)
 * 2018-08-09 09:08 [' 인식 ': 영국 금융 조정기는 또 다른 암호화 ' 클론 회사 '를 통해 알람을 소리](https://github.com/theyapapa/cryptonews/blob/ko/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm-f0ba8268.md)
 * 2018-08-08 23:08 [연구: ICO 시장은 지난해부터 두 배로 증가 기관 투자를 보여줍니다](https://github.com/theyapapa/cryptonews/blob/ko/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment-1aa9f46d.md)
 * 2018-08-08 22:08 [타이어 SEC: ICO 및 디지털 자산 운용 라이센스의 이자 증가](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses-a0a14d90.md)
