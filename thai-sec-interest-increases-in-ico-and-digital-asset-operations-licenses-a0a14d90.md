@@ -1,0 +1,1 @@
+[Thai SEC: Interest Increases in ICO and Digital Asset Operations Licenses](https://cointelegraph.com/news/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses)
