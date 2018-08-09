@@ -1,0 +1,1 @@
+[Bitcoin-Friendly US Senate Candidate Defeated in Republican Primary Elections](https://cointelegraph.com/news/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections)
