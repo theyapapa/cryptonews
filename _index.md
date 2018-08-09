@@ -1,3 +1,4 @@
+* 2018-08-08 20:08 [공화당 주 선거에서 패배 한 비트 코인 친화적인 미국 상원 의원 후보](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections-af643e96.md)
 * 2018-08-08 18:08 [암호화 교환 bittrex 확장은이 더 리 움 클래식과 xrp 거래 쌍을 추가](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs-d9c84e89.md)
 * 2018-08-08 15:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 라이트 코인, 카르다노, 스텔라, iota, 트 론: 가격 분석, 8 월 08](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-08-6c6563bb.md)
 * 2018-08-08 13:08 [Microsoft는 Azure에서이 더 리 움 증명 인증 알고리즘을 소개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure-7db6eb1f.md)
