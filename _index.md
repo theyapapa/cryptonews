@@ -1,3 +1,4 @@
+* 2018-08-10 13:08 [블록 체인 및 스마트 계약 연구를 위한 보조금 발급을 위한 tezos 재단](https://github.com/theyapapa/cryptonews/blob/ko/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
 * 2018-08-10 11:08 [암호화 시장 복구를 시도, 비트 코인 서클 $6500 지원](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support-9bfd3750.md)
 * 2018-08-10 10:08 [ceva 물류: IBM-maersk 블록 체인 플랫폼은 ' 큰 걸음 앞으로 '](https://github.com/theyapapa/cryptonews/blob/ko/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
 * 2018-08-10 07:08 [싱가포르: 벤처 캐피탈 회사 $1000만 암호화, 블록 체인 투자 펀드 출시](https://github.com/theyapapa/cryptonews/blob/ko/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund-8330de27.md)
