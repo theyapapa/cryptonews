@@ -1,0 +1,1 @@
+[Gubernatorial Candidate Wants to Make Colorado a “Blockchain Hub”](https://cointelegraph.com/news/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub)
