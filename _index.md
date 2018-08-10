@@ -1,3 +1,4 @@
+* 2018-08-10 13:08 [Fundación Tezos para emitir subvenciones para la investigación de bloques y Smart Contract](https://github.com/theyapapa/cryptonews/blob/es/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
 * 2018-08-10 11:08 [Los mercados criptográficos intentan recuperarse, Bitcoin Circles $6.500 support](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support-9bfd3750.md)
 * 2018-08-10 10:08 [CEVA Logistics: la plataforma IBM-Maersk bloques es un gran paso adelante](https://github.com/theyapapa/cryptonews/blob/es/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
 * 2018-08-10 07:08 [Singapur: empresa de capital riesgo lanzará $10 millones Crypto, Fondo de inversión bloques](https://github.com/theyapapa/cryptonews/blob/es/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund-8330de27.md)
