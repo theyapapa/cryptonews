@@ -1,3 +1,4 @@
+* 2018-08-09 20:08 [Sobrestock acciones surgen después del anuncio de inversión tZERO](https://github.com/theyapapa/cryptonews/blob/es/overstock-shares-surge-following-tzero-investment-announcement-5f3039ce.md)
 * 2018-08-09 17:08 [Binance lanza demostración de intercambio descentralizado](https://github.com/theyapapa/cryptonews/blob/es/binance-releases-demo-of-decentralized-exchange-7aea3079.md)
 * 2018-08-09 15:08 [Después de una semana catastrófica, los mercados criptográficos se unen hacia el verde](https://github.com/theyapapa/cryptonews/blob/es/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green-3b307842.md)
 * 2018-08-09 14:08 [El Ministerio de ciencia de Corea del sur anuncia iniciativa de seis meses de capacitación para jóvenes bloques](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative-57615eb6.md)
