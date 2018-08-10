@@ -1,3 +1,4 @@
+* 2018-08-10 10:08 [CEVA логистика: IBM-Maersk цепочки платформ является "большой шаг вперед"](https://github.com/theyapapa/cryptonews/blob/ru/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
 * 2018-08-10 07:08 [Сингапур: Венчурный капитал компании для запуска $10 000 000 крипто, цепочки инвестиционных фондов](https://github.com/theyapapa/cryptonews/blob/ru/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund-8330de27.md)
 * 2018-08-10 00:08 [Всемирный банк поручил банку Содружества Австралии выдать облигации с использованием технологии цепочки](https://github.com/theyapapa/cryptonews/blob/ru/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech-127b6817.md)
 * 2018-08-09 23:08 [Тайский полиции арест подозреваемого в $24 000 000 Bitcoin афера](https://github.com/theyapapa/cryptonews/blob/ru/thai-police-arrest-suspect-in-24-million-bitcoin-scam-2ae57709.md)
