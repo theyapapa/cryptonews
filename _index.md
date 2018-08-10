@@ -1,3 +1,4 @@
+* 2018-08-10 10:08 [ceva 물류: IBM-maersk 블록 체인 플랫폼은 ' 큰 걸음 앞으로 '](https://github.com/theyapapa/cryptonews/blob/ko/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
 * 2018-08-10 07:08 [싱가포르: 벤처 캐피탈 회사 $1000만 암호화, 블록 체인 투자 펀드 출시](https://github.com/theyapapa/cryptonews/blob/ko/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund-8330de27.md)
 * 2018-08-10 00:08 [블록 체인 기술을 사용 하 여 본드를 발행 하는 호주의 세계 은행 위임 장 커먼 웰 스 뱅크](https://github.com/theyapapa/cryptonews/blob/ko/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech-127b6817.md)
 * 2018-08-09 23:08 [태국 경찰 체포 용의자 $2400만 비트 코인 사기](https://github.com/theyapapa/cryptonews/blob/ko/thai-police-arrest-suspect-in-24-million-bitcoin-scam-2ae57709.md)
