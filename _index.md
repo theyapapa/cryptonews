@@ -1,3 +1,4 @@
+* 2018-08-09 20:08 [tzero 투자 발표를 따르는 과잉 주식 주식 서 지](https://github.com/theyapapa/cryptonews/blob/ko/overstock-shares-surge-following-tzero-investment-announcement-5f3039ce.md)
 * 2018-08-09 17:08 [분산 된 교환의 데모를 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-releases-demo-of-decentralized-exchange-7aea3079.md)
 * 2018-08-09 15:08 [치명적인 일주일 후, 암호화 시장은 녹색으로](https://github.com/theyapapa/cryptonews/blob/ko/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green-3b307842.md)
 * 2018-08-09 14:08 [한국 과학 사역 6 개월 블록 체인 청소년 훈련 이니셔티브 발표](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative-57615eb6.md)
