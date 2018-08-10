@@ -1,0 +1,1 @@
+[Singapore: Venture Capital Firm to Launch $10 Million Crypto, Blockchain Investment Fund](https://cointelegraph.com/news/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund)
