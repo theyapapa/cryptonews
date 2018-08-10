@@ -1,3 +1,4 @@
+* 2018-08-10 18:08 [UK: $2,5 millones las pérdidas en estafas relacionadas con el CRYPTO reportaron este verano](https://github.com/theyapapa/cryptonews/blob/es/uk-25-million-losses-in-crypto-related-scams-reported-this-summer-4b438e39.md)
 * 2018-08-10 13:08 [Fundación Tezos para emitir subvenciones para la investigación de bloques y Smart Contract](https://github.com/theyapapa/cryptonews/blob/es/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
 * 2018-08-10 11:08 [Los mercados criptográficos intentan recuperarse, Bitcoin Circles $6.500 support](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support-9bfd3750.md)
 * 2018-08-10 10:08 [CEVA Logistics: la plataforma IBM-Maersk bloques es un gran paso adelante](https://github.com/theyapapa/cryptonews/blob/es/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
