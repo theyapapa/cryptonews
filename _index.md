@@ -1,3 +1,4 @@
+* 2018-08-10 13:08 [Тезос Foundation выдает гранты для цепочки и смарт-контрактных исследований](https://github.com/theyapapa/cryptonews/blob/ru/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
 * 2018-08-10 11:08 [Crypto рынки попытка восстановления, Bitcoin круги $6 500 поддержка](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support-9bfd3750.md)
 * 2018-08-10 10:08 [CEVA логистика: IBM-Maersk цепочки платформ является "большой шаг вперед"](https://github.com/theyapapa/cryptonews/blob/ru/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
 * 2018-08-10 07:08 [Сингапур: Венчурный капитал компании для запуска $10 000 000 крипто, цепочки инвестиционных фондов](https://github.com/theyapapa/cryptonews/blob/ru/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund-8330de27.md)
