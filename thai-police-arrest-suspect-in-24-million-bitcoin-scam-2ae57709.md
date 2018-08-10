@@ -1,0 +1,1 @@
+[Thai Police Arrest Suspect in $24 Million Bitcoin Scam](https://cointelegraph.com/news/thai-police-arrest-suspect-in-24-million-bitcoin-scam)
