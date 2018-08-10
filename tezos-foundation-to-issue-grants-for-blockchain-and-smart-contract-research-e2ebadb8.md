@@ -1,0 +1,1 @@
+[Tezos Foundation to Issue Grants for Blockchain and Smart Contract Research](https://cointelegraph.com/news/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research)
