@@ -1,0 +1,1 @@
+[World Bank Mandates Commonwealth Bank of Australia to Issue Bond Using Blockchain Tech](https://cointelegraph.com/news/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech)
