@@ -1,3 +1,4 @@
+* 2018-08-09 23:08 [Тайский полиции арест подозреваемого в $24 000 000 Bitcoin афера](https://github.com/theyapapa/cryptonews/blob/ru/thai-police-arrest-suspect-in-24-million-bitcoin-scam-2ae57709.md)
 * 2018-08-09 22:08 [Кандидат в губернаторы хочет сделать Колорадо "концентратора цепочки"](https://github.com/theyapapa/cryptonews/blob/ru/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub-42accf30.md)
 * 2018-08-09 20:08 [Перерост акций после тзеро инвестиционного объявления](https://github.com/theyapapa/cryptonews/blob/ru/overstock-shares-surge-following-tzero-investment-announcement-5f3039ce.md)
 * 2018-08-09 17:08 [Бинанце релизы демо децентрализованного обмена](https://github.com/theyapapa/cryptonews/blob/ru/binance-releases-demo-of-decentralized-exchange-7aea3079.md)
