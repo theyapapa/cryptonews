@@ -1,3 +1,4 @@
+* 2018-08-09 23:08 [Policía tailandesa sospechoso de detención en $24 millones estafa Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/thai-police-arrest-suspect-in-24-million-bitcoin-scam-2ae57709.md)
 * 2018-08-09 22:08 [Candidato a gobernador quiere hacer de Colorado un "bloques Hub"](https://github.com/theyapapa/cryptonews/blob/es/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub-42accf30.md)
 * 2018-08-09 20:08 [Sobrestock acciones surgen después del anuncio de inversión tZERO](https://github.com/theyapapa/cryptonews/blob/es/overstock-shares-surge-following-tzero-investment-announcement-5f3039ce.md)
 * 2018-08-09 17:08 [Binance lanza demostración de intercambio descentralizado](https://github.com/theyapapa/cryptonews/blob/es/binance-releases-demo-of-decentralized-exchange-7aea3079.md)
