@@ -1,3 +1,4 @@
+* 2018-08-09 20:08 [Перерост акций после тзеро инвестиционного объявления](https://github.com/theyapapa/cryptonews/blob/ru/overstock-shares-surge-following-tzero-investment-announcement-5f3039ce.md)
 * 2018-08-09 17:08 [Бинанце релизы демо децентрализованного обмена](https://github.com/theyapapa/cryptonews/blob/ru/binance-releases-demo-of-decentralized-exchange-7aea3079.md)
 * 2018-08-09 15:08 [После катастрофической недели, крипто рынки ралли вперед в зеленый](https://github.com/theyapapa/cryptonews/blob/ru/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green-3b307842.md)
 * 2018-08-09 14:08 [Министерство науки Южной Кореи объявляет о 6-месячной инициативе по обучению молодежи](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative-57615eb6.md)
