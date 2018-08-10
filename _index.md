@@ -1,3 +1,4 @@
+* 2018-08-09 22:08 [주지사 후보는 콜로라도에 게 "블록 체인 허브"를 만들고 싶어](https://github.com/theyapapa/cryptonews/blob/ko/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub-42accf30.md)
 * 2018-08-09 20:08 [tzero 투자 발표를 따르는 과잉 주식 주식 서 지](https://github.com/theyapapa/cryptonews/blob/ko/overstock-shares-surge-following-tzero-investment-announcement-5f3039ce.md)
 * 2018-08-09 17:08 [분산 된 교환의 데모를 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-releases-demo-of-decentralized-exchange-7aea3079.md)
 * 2018-08-09 15:08 [치명적인 일주일 후, 암호화 시장은 녹색으로](https://github.com/theyapapa/cryptonews/blob/ko/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green-3b307842.md)
