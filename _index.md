@@ -1,3 +1,4 @@
+* 2018-08-10 10:08 [CEVA Logistics: la plataforma IBM-Maersk bloques es un gran paso adelante](https://github.com/theyapapa/cryptonews/blob/es/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
 * 2018-08-10 07:08 [Singapur: empresa de capital riesgo lanzará $10 millones Crypto, Fondo de inversión bloques](https://github.com/theyapapa/cryptonews/blob/es/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund-8330de27.md)
 * 2018-08-10 00:08 [El Banco Mundial mandatos del Banco de la Commonwealth de Australia para emitir bonos utilizando bloques Tech](https://github.com/theyapapa/cryptonews/blob/es/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech-127b6817.md)
 * 2018-08-09 23:08 [Policía tailandesa sospechoso de detención en $24 millones estafa Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/thai-police-arrest-suspect-in-24-million-bitcoin-scam-2ae57709.md)
