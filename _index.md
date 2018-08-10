@@ -1,3 +1,4 @@
+* 2018-08-10 18:08 [Великобритания: $2 500 000 потери в крипто-связанных мошенников сообщили этим летом](https://github.com/theyapapa/cryptonews/blob/ru/uk-25-million-losses-in-crypto-related-scams-reported-this-summer-4b438e39.md)
 * 2018-08-10 13:08 [Тезос Foundation выдает гранты для цепочки и смарт-контрактных исследований](https://github.com/theyapapa/cryptonews/blob/ru/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
 * 2018-08-10 11:08 [Crypto рынки попытка восстановления, Bitcoin круги $6 500 поддержка](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support-9bfd3750.md)
 * 2018-08-10 10:08 [CEVA логистика: IBM-Maersk цепочки платформ является "большой шаг вперед"](https://github.com/theyapapa/cryptonews/blob/ru/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward-60710672.md)
