@@ -1,0 +1,1 @@
+[CEVA Logistics: IBM-Maersk Blockchain Platform Is ‘Big Step Forward’](https://cointelegraph.com/news/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward)
