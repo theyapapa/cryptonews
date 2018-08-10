@@ -1,3 +1,4 @@
+* 2018-08-10 00:08 [블록 체인 기술을 사용 하 여 본드를 발행 하는 호주의 세계 은행 위임 장 커먼 웰 스 뱅크](https://github.com/theyapapa/cryptonews/blob/ko/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech-127b6817.md)
 * 2018-08-09 23:08 [태국 경찰 체포 용의자 $2400만 비트 코인 사기](https://github.com/theyapapa/cryptonews/blob/ko/thai-police-arrest-suspect-in-24-million-bitcoin-scam-2ae57709.md)
 * 2018-08-09 22:08 [주지사 후보는 콜로라도에 게 "블록 체인 허브"를 만들고 싶어](https://github.com/theyapapa/cryptonews/blob/ko/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub-42accf30.md)
 * 2018-08-09 20:08 [tzero 투자 발표를 따르는 과잉 주식 주식 서 지](https://github.com/theyapapa/cryptonews/blob/ko/overstock-shares-surge-following-tzero-investment-announcement-5f3039ce.md)
