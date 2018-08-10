@@ -1,0 +1,1 @@
+[UK:  $2.5 Million Losses in Crypto-Related Scams Reported This Summer](https://cointelegraph.com/news/uk-25-million-losses-in-crypto-related-scams-reported-this-summer)
