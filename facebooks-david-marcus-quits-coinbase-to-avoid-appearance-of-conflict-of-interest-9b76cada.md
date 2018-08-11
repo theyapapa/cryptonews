@@ -1,0 +1,1 @@
+[Facebook’s David Marcus Quits Coinbase to Avoid ‘Appearance’ of Conflict of Interest](https://cointelegraph.com/news/facebooks-david-marcus-quits-coinbase-to-avoid-appearance-of-conflict-of-interest)
