@@ -1,3 +1,4 @@
+* 2018-08-11 14:08 [암호화 시장 짧은 복구 시도 후 더 많은 폭락을 참조, 비트 코인은 이익을 보유](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains-eac8cf47.md)
 * 2018-08-11 11:08 [fincen 감독: 기관 수신 1500 의심 스러운 활동 보고서 암호화 월 당](https://github.com/theyapapa/cryptonews/blob/ko/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month-c0a248d3.md)
 * 2018-08-11 09:08 [페이스 북의 데이비드 마커 스는 관심 충돌의 ' 외관 '을 피하기 위해 코인 베이스를 종료](https://github.com/theyapapa/cryptonews/blob/ko/facebooks-david-marcus-quits-coinbase-to-avoid-appearance-of-conflict-of-interest-9b76cada.md)
 * 2018-08-10 21:08 [분석가: 암호화 마이닝 감소에도 불구 하 고, 엔비디아는 증가 수익을 볼 것 이다이 분기](https://github.com/theyapapa/cryptonews/blob/ko/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter-bdf8d4e1.md)
