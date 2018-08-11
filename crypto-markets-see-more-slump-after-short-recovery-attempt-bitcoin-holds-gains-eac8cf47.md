@@ -1,0 +1,1 @@
+[Crypto Markets See More Slump After Short Recovery Attempt, Bitcoin Holds Gains](https://cointelegraph.com/news/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains)
