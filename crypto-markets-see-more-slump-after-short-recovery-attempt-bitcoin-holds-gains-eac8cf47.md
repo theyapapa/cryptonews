@@ -1,0 +1,19 @@
+# 암호화 시장 짧은 복구 시도 후 더 침체를 참조, 비트 코인은 이익을 보유 하 고 ...
+
+거의 모든 가상 화폐는 상당한 비율로, 비트 코인 (BTC)은 상위 20 개 시장 총액 중에서 하루에 1%가 넘는 주목할 만한 예외입니다.
+
+Coin360 비트 코인에서 암호화 시장 시각화는 지난 24 시간 동안 약 0.1%로, 옆으로 무역입니다.
+
+출처: 코인 마켓 캡에 따르면, 시장 캡, EOS 및 iota (miota)에의 한 상위 20 개 알트 코인 중에서이 더 리 움 가격 지수가 지난 7 일 동안 가장 큰 손실을 보았습니다.
+
+총 시가 총액은 $2060억 오늘 만큼 낮게, 그러나 시장에 의하여 그 손실의 몇몇을 되돌아간다 것을 처리 하 고, 압박 시간으로 $2160억에 수를 가져오기 위하여 떨어졌다.
+
+출처: 코인 마켓 캡 오늘, 5 월에 시작 된 지속적인 성장의 결과로, 전체 시장 총액의 Bitcoin의 점유율은 2018에서 처음으로 50%에 도달 했습니다.
+
+전체 시장 총액 (지배력)의 비트 코인의 점유율.
+
+출처: 코인 마켓 캡 이번 주 초, fundstrat의 연구 톰 리의 머리는 시장이 "업계에서 일어나 고 있는 일에 반응" 하는 방법의 가장 중요 한 요인 중 하나로 서 비트 코인의 지배력을 인용 했다.
+
+Original source: [Crypto Markets See More Slump After Short Recovery Attempt, Bitcoin Holds Gains](https://cointelegraph.com/news/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
