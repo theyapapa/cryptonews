@@ -1,3 +1,4 @@
+* 2018-08-10 20:08 [보고서: 페이스 북은 스텔라와 파트너십을 거부](https://github.com/theyapapa/cryptonews/blob/ko/report-facebook-denies-partnership-with-stellar-83634c1f.md)
 * 2018-08-10 18:08 [영국: $250만 암호화 관련 사기의 손실은 이번 여름에 보고](https://github.com/theyapapa/cryptonews/blob/ko/uk-25-million-losses-in-crypto-related-scams-reported-this-summer-4b438e39.md)
 * 2018-08-10 13:08 [블록 체인 및 스마트 계약 연구를 위한 보조금 발급을 위한 tezos 재단](https://github.com/theyapapa/cryptonews/blob/ko/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
 * 2018-08-10 11:08 [암호화 시장 복구를 시도, 비트 코인 서클 $6500 지원](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support-9bfd3750.md)
