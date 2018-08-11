@@ -1,0 +1,1 @@
+[Report: Facebook Denies Partnership With Stellar](https://cointelegraph.com/news/report-facebook-denies-partnership-with-stellar)
