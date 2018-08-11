@@ -1,3 +1,4 @@
+* 2018-08-10 20:08 [Informe: Facebook niega asociación con estelar](https://github.com/theyapapa/cryptonews/blob/es/report-facebook-denies-partnership-with-stellar-83634c1f.md)
 * 2018-08-10 18:08 [UK: $2,5 millones las pérdidas en estafas relacionadas con el CRYPTO reportaron este verano](https://github.com/theyapapa/cryptonews/blob/es/uk-25-million-losses-in-crypto-related-scams-reported-this-summer-4b438e39.md)
 * 2018-08-10 13:08 [Fundación Tezos para emitir subvenciones para la investigación de bloques y Smart Contract](https://github.com/theyapapa/cryptonews/blob/es/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
 * 2018-08-10 11:08 [Los mercados criptográficos intentan recuperarse, Bitcoin Circles $6.500 support](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support-9bfd3750.md)
