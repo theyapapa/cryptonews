@@ -1,3 +1,4 @@
+* 2018-08-11 11:08 [ФинСЕН директор: Агентство получает 1 500 подозрительных отчетов о деятельности по крипто в месяц](https://github.com/theyapapa/cryptonews/blob/ru/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month-c0a248d3.md)
 * 2018-08-11 09:08 [Facebook Дэвид Маркус уходит Coinbase, чтобы избежать "появления" конфликта интересов](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-david-marcus-quits-coinbase-to-avoid-appearance-of-conflict-of-interest-9b76cada.md)
 * 2018-08-10 21:08 [Аналитики: Несмотря на сокращение добычи в крипте, NVIDIA увидит увеличение доходов в этом квартале](https://github.com/theyapapa/cryptonews/blob/ru/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter-bdf8d4e1.md)
 * 2018-08-10 20:08 [Отчет: Facebook отрицает партнерство с звездными](https://github.com/theyapapa/cryptonews/blob/ru/report-facebook-denies-partnership-with-stellar-83634c1f.md)
