@@ -1,3 +1,4 @@
+* 2018-08-10 21:08 [Аналитики: Несмотря на сокращение добычи в крипте, NVIDIA увидит увеличение доходов в этом квартале](https://github.com/theyapapa/cryptonews/blob/ru/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter-bdf8d4e1.md)
 * 2018-08-10 20:08 [Отчет: Facebook отрицает партнерство с звездными](https://github.com/theyapapa/cryptonews/blob/ru/report-facebook-denies-partnership-with-stellar-83634c1f.md)
 * 2018-08-10 18:08 [Великобритания: $2 500 000 потери в крипто-связанных мошенников сообщили этим летом](https://github.com/theyapapa/cryptonews/blob/ru/uk-25-million-losses-in-crypto-related-scams-reported-this-summer-4b438e39.md)
 * 2018-08-10 13:08 [Тезос Foundation выдает гранты для цепочки и смарт-контрактных исследований](https://github.com/theyapapa/cryptonews/blob/ru/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
