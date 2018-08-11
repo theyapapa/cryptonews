@@ -1,3 +1,4 @@
+* 2018-08-10 21:08 [Analistas: a pesar de la disminución de la minería Crypto, NVIDIA verá un aumento de los ingresos de este trimestre](https://github.com/theyapapa/cryptonews/blob/es/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter-bdf8d4e1.md)
 * 2018-08-10 20:08 [Informe: Facebook niega asociación con estelar](https://github.com/theyapapa/cryptonews/blob/es/report-facebook-denies-partnership-with-stellar-83634c1f.md)
 * 2018-08-10 18:08 [UK: $2,5 millones las pérdidas en estafas relacionadas con el CRYPTO reportaron este verano](https://github.com/theyapapa/cryptonews/blob/es/uk-25-million-losses-in-crypto-related-scams-reported-this-summer-4b438e39.md)
 * 2018-08-10 13:08 [Fundación Tezos para emitir subvenciones para la investigación de bloques y Smart Contract](https://github.com/theyapapa/cryptonews/blob/es/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research-e2ebadb8.md)
