@@ -1,3 +1,4 @@
+* 2018-08-11 11:08 [FinCEN Director: Agencia recibe 1.500 informes de actividad sospechosa en Crypto por mes](https://github.com/theyapapa/cryptonews/blob/es/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month-c0a248d3.md)
 * 2018-08-11 09:08 [David Marcus de Facebook deja de Coinbase para evitar el ' aspecto ' de conflicto de intereses](https://github.com/theyapapa/cryptonews/blob/es/facebooks-david-marcus-quits-coinbase-to-avoid-appearance-of-conflict-of-interest-9b76cada.md)
 * 2018-08-10 21:08 [Analistas: a pesar de la disminución de la minería Crypto, NVIDIA verá un aumento de los ingresos de este trimestre](https://github.com/theyapapa/cryptonews/blob/es/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter-bdf8d4e1.md)
 * 2018-08-10 20:08 [Informe: Facebook niega asociación con estelar](https://github.com/theyapapa/cryptonews/blob/es/report-facebook-denies-partnership-with-stellar-83634c1f.md)
