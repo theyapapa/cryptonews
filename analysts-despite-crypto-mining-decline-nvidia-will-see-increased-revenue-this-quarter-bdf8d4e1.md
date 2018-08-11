@@ -1,0 +1,1 @@
+[Analysts: Despite Crypto Mining Decline, Nvidia Will See Increased Revenue This Quarter](https://cointelegraph.com/news/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter)
