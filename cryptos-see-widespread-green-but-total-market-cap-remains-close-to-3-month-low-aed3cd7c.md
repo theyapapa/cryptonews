@@ -1,0 +1,19 @@
+# cryptos는 광범위 한 녹색을 참조 하지만, 총 시장 총액은 3 개월 낮은 가까이 남아 ...
+
+Coin360에서 시장 시각화 비트 코인 (BTC)는 cointelegraph의 비트 코인 가격 지 수에 따라, 하루에 강한 3.45%까지, 언론 시간에 약 $6310에서 거래 되고있다.
+
+출처: cointelegraph에이 더 리 움 가격 지 수 코인 마켓의 목록에서, 시장 총액 별 상위 25 개 암호화 자산은 모두 약 5-6%의 높이로 추진 되는 날에 이익이 되는 녹색의 건강 한 플러시를 보고 있습니다.
+
+출처: coinmarketcap 톱 10 동전 사이에 또 다른 선도적인 연기자 익명-알트 코인 montero (xmr), 시장에 모자에 의해 10 위, 최대 거의 4%와 $93.66 주위에 언론 시간에 상당 합니다.
+
+시장 모자, iota (miota), 번호 11에 의하여 최고 20 개의 동전 사이에서, 4.44% 높은 쪽으로이 고 압박 시간에 $0.54에 무역 하 고 있다.
+
+언급 한 바와 같이, 두 번째 날을 실행 하기 위해, 전체 시장 총액의 비트 코인의 점유율은 50% 이상이 며 언론 시간에 51%를 추진 하고있다.
+
+5 월 중순에는 BTC 지배력이 지속적으로 증가 하 고 있으며, 2 위 암호화 된이 더 리 움은 총 시장 총액 점유율의 측면에서 매월 하향 추세를 보이고 있으며,이는 현재 약 15%에 달 합니다.
+
+소스 코인 마켓 캡 모든 가상 화폐의 시가 총액은 프레스 타임에 약 $2147억이 고, 3 개월 차트에서 가장 낮은 레벨에 가깝고, 지난 이틀 동안 낮은 지점에만 타격 하 고, 어제의 저가 약 $207에서 약간 올라 왔습니다. 억.
+
+Original source: [Cryptos See Widespread Green, But Total Market Cap Remains Close to 3-Month Low](https://cointelegraph.com/news/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
