@@ -1,3 +1,4 @@
+* 2018-08-12 10:08 [hodler의 다이제스트, 8 월 5-12: 당신은 실제로 비트 코인으로 frappucino를 구입할 수 없습니다, 하지만 당신은 블록 체인에 더 많은 것을 출시할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-august-5-12-you-cant-actually-buy-a-frappucino-with-bitcoin-but-you-can-ship-more-things-on-blockchain-c42165c1.md)
 * 2018-08-11 14:08 [암호화 시장 짧은 복구 시도 후 더 많은 폭락을 참조, 비트 코인은 이익을 보유](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains-eac8cf47.md)
 * 2018-08-11 11:08 [fincen 감독: 기관 수신 1500 의심 스러운 활동 보고서 암호화 월 당](https://github.com/theyapapa/cryptonews/blob/ko/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month-c0a248d3.md)
 * 2018-08-11 09:08 [페이스 북의 데이비드 마커 스는 관심 충돌의 ' 외관 '을 피하기 위해 코인 베이스를 종료](https://github.com/theyapapa/cryptonews/blob/ko/facebooks-david-marcus-quits-coinbase-to-avoid-appearance-of-conflict-of-interest-9b76cada.md)
