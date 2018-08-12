@@ -1,0 +1,1 @@
+[Bears for Crypto, Bulls for ICOs: 2018 Market Positive Statistics](https://cointelegraph.com/news/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics)
