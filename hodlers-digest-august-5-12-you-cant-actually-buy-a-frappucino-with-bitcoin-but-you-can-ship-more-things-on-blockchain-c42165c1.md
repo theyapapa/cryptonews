@@ -1,0 +1,1 @@
+[Hodler’s Digest, August 5-12: You Can’t Actually Buy A Frappucino With Bitcoin, But You Can Ship More Things On Blockchain](https://cointelegraph.com/news/hodlers-digest-august-5-12-you-cant-actually-buy-a-frappucino-with-bitcoin-but-you-can-ship-more-things-on-blockchain)
