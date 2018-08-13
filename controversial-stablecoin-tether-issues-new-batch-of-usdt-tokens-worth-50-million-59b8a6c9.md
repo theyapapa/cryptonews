@@ -1,0 +1,1 @@
+[Controversial Stablecoin Tether Issues New Batch of USDT Tokens Worth $50 Million](https://cointelegraph.com/news/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million)
