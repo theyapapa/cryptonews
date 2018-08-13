@@ -1,3 +1,4 @@
+* 2018-08-13 09:08 [Китай ИТ-Министерство делает цепочки, безопасность данных в центре внимания одной из своих ключевых лабораторий для 2018](https://github.com/theyapapa/cryptonews/blob/ru/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018-0ee182b9.md)
 * 2018-08-13 04:08 [Бык или медведь? Как sec действия коррелируют с рыночными ценами](https://github.com/theyapapa/cryptonews/blob/ru/bull-or-bear-how-sec-actions-correlate-with-market-prices-8038e9fc.md)
 * 2018-08-13 00:08 [Спорный стаблекоин трос выдает новую партию жетонов усдт стоимостью $50 000 000](https://github.com/theyapapa/cryptonews/blob/ru/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million-59b8a6c9.md)
 * 2018-08-12 18:08 [Медведи для крипто, быки для ИКО: 2018 рынок положительная статистика](https://github.com/theyapapa/cryptonews/blob/ru/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics-dc35e43e.md)
