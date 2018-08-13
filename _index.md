@@ -1,3 +1,4 @@
+* 2018-08-13 00:08 [논란의 stilcoin 밧줄은 $5000만 가치 usdt 토큰의 새로운 배치 문제](https://github.com/theyapapa/cryptonews/blob/ko/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million-59b8a6c9.md)
 * 2018-08-12 18:08 [암호에 대 한 베어스, 아이 코스에 대 한 황소: 2018 시장 긍정적인 통계](https://github.com/theyapapa/cryptonews/blob/ko/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics-dc35e43e.md)
 * 2018-08-12 12:08 [cryptos는 넓게 녹색을 본다, 그러나 총 시장 모자는 3 달 저에 가깝게 남아 있다](https://github.com/theyapapa/cryptonews/blob/ko/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low-aed3cd7c.md)
 * 2018-08-12 10:08 [hodler의 다이제스트, 8 월 5-12: 당신은 실제로 비트 코인으로 frappucino를 구입할 수 없습니다, 하지만 당신은 블록 체인에 더 많은 것을 출시할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-august-5-12-you-cant-actually-buy-a-frappucino-with-bitcoin-but-you-can-ship-more-things-on-blockchain-c42165c1.md)
