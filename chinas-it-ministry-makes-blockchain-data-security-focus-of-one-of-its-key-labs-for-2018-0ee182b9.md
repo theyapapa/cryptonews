@@ -1,0 +1,1 @@
+[China’s IT Ministry Makes Blockchain, Data Security Focus of One of Its Key Labs for 2018](https://cointelegraph.com/news/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018)
