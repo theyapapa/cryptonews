@@ -1,0 +1,1 @@
+[Spanish Left-Wing Political Coalition Proposes Subcommittee to Study Blockchain, Crypto](https://cointelegraph.com/news/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto)
