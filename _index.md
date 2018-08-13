@@ -1,3 +1,4 @@
+* 2018-08-13 04:08 [¿Toro o oso? Cómo se correlacionan las acciones de sec con los precios de mercado](https://github.com/theyapapa/cryptonews/blob/es/bull-or-bear-how-sec-actions-correlate-with-market-prices-8038e9fc.md)
 * 2018-08-13 00:08 [Polémica Stablecoin atadura emite nuevo lote de USDT tokens valor $50 millones](https://github.com/theyapapa/cryptonews/blob/es/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million-59b8a6c9.md)
 * 2018-08-12 18:08 [Osos para Crypto, toros para icos: 2018 estadísticas positivas del mercado](https://github.com/theyapapa/cryptonews/blob/es/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics-dc35e43e.md)
 * 2018-08-12 12:08 [Cryptos ver verde generalizado, pero la PAC del mercado total se mantiene cerca de tres meses de baja](https://github.com/theyapapa/cryptonews/blob/es/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low-aed3cd7c.md)
