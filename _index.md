@@ -1,3 +1,4 @@
+* 2018-08-13 14:08 [한국 $44억 국내 투자 계획 대상 중 블록 체인 2019](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-among-targets-of-south-koreas-44-billion-domestic-investment-plans-for-2019-9df6cd21.md)
 * 2018-08-13 12:08 [Bitcoin.com CEO 로저 Ver 아이즈 ico 토큰 발급 프로토콜로 비트 코인 현금으로 제공](https://github.com/theyapapa/cryptonews/blob/ko/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash-57508486.md)
 * 2018-08-13 09:08 [중국의 IT 사역은 블록 체인, 2018에 대 한 핵심 연구소 중 하나의 데이터 보안 초점을 만든다](https://github.com/theyapapa/cryptonews/blob/ko/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018-0ee182b9.md)
 * 2018-08-13 04:08 [황소 또는 곰? SEC 작업이 시장 가격과 어떻게 연관 되는지](https://github.com/theyapapa/cryptonews/blob/ko/bull-or-bear-how-sec-actions-correlate-with-market-prices-8038e9fc.md)
