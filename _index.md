@@ -1,3 +1,4 @@
+* 2018-08-13 04:08 [Бык или медведь? Как sec действия коррелируют с рыночными ценами](https://github.com/theyapapa/cryptonews/blob/ru/bull-or-bear-how-sec-actions-correlate-with-market-prices-8038e9fc.md)
 * 2018-08-13 00:08 [Спорный стаблекоин трос выдает новую партию жетонов усдт стоимостью $50 000 000](https://github.com/theyapapa/cryptonews/blob/ru/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million-59b8a6c9.md)
 * 2018-08-12 18:08 [Медведи для крипто, быки для ИКО: 2018 рынок положительная статистика](https://github.com/theyapapa/cryptonews/blob/ru/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics-dc35e43e.md)
 * 2018-08-12 12:08 [Cryptos видят широкое зеленое, но полная крышка рынка остает близко к 3-месячному низкому](https://github.com/theyapapa/cryptonews/blob/ru/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low-aed3cd7c.md)
