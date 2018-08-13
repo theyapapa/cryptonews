@@ -1,0 +1,1 @@
+[Bull or Bear? How SEC Actions Correlate With Market Prices](https://cointelegraph.com/news/bull-or-bear-how-sec-actions-correlate-with-market-prices)
