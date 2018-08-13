@@ -1,3 +1,4 @@
+* 2018-08-13 04:08 [황소 또는 곰? SEC 작업이 시장 가격과 어떻게 연관 되는지](https://github.com/theyapapa/cryptonews/blob/ko/bull-or-bear-how-sec-actions-correlate-with-market-prices-8038e9fc.md)
 * 2018-08-13 00:08 [논란의 stilcoin 밧줄은 $5000만 가치 usdt 토큰의 새로운 배치 문제](https://github.com/theyapapa/cryptonews/blob/ko/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million-59b8a6c9.md)
 * 2018-08-12 18:08 [암호에 대 한 베어스, 아이 코스에 대 한 황소: 2018 시장 긍정적인 통계](https://github.com/theyapapa/cryptonews/blob/ko/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics-dc35e43e.md)
 * 2018-08-12 12:08 [cryptos는 넓게 녹색을 본다, 그러나 총 시장 모자는 3 달 저에 가깝게 남아 있다](https://github.com/theyapapa/cryptonews/blob/ko/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low-aed3cd7c.md)
