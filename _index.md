@@ -1,3 +1,4 @@
+* 2018-08-13 18:08 [스페인어 좌익 정치 연합은 블록 체인, 가상 화폐를 연구 하는 소 위원회를 제안](https://github.com/theyapapa/cryptonews/blob/ko/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto-d12cdb25.md)
 * 2018-08-13 17:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 13 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-13-83746183.md)
 * 2018-08-13 14:08 [한국 $44억 국내 투자 계획 대상 중 블록 체인 2019](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-among-targets-of-south-koreas-44-billion-domestic-investment-plans-for-2019-9df6cd21.md)
 * 2018-08-13 12:08 [Bitcoin.com CEO 로저 Ver 아이즈 ico 토큰 발급 프로토콜로 비트 코인 현금으로 제공](https://github.com/theyapapa/cryptonews/blob/ko/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash-57508486.md)
