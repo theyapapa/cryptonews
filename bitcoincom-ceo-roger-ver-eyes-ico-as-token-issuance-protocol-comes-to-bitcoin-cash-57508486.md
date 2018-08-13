@@ -1,0 +1,1 @@
+[Bitcoin.com CEO Roger Ver Eyes ICO as Token Issuance Protocol Comes to Bitcoin Cash](https://cointelegraph.com/news/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash)
