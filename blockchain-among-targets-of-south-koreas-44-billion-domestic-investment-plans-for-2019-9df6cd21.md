@@ -1,0 +1,1 @@
+[Blockchain Among Targets of South Korea’s $4.4 Billion Domestic Investment Plans for 2019](https://cointelegraph.com/news/blockchain-among-targets-of-south-koreas-44-billion-domestic-investment-plans-for-2019)
