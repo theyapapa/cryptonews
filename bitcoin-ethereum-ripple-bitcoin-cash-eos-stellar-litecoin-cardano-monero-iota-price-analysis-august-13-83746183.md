@@ -1,0 +1,19 @@
+# 비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 13 일 ...
+
+그러나, 그것은 터키의 정통한 시민 들이 비트 코인에 대 한 그들의 리라를 교환 하는 것으로 보인다, 포브스에 따르면 국가에서 암호 화폐 거래소에 걸쳐 무역 볼륨의 증가에 의해 입증.
+
+# # BTC/USD 비트 코인은 지난 이틀 동안 이동 하려고 했지만, 그것은 $6500 마르크에 가까운 강한 판매 압력에 직면 하고있다.
+
+50-일 SMA는 가까운 기간에 통합의 확률을 증가 지난 몇 일 동안 평평 하 게 되었습니다, 떨어지는 20 일 EMA는 황소가 지원 영역을 깰 수 있는 또 다른 시도를 할 것을 보여줍니다 반면.
+
+예상 대로 # # bch/USD, 비트 코인 현금은 8 월 11 일에 $537.8221의 중요 한 지원에 가깝게 떨어졌다.
+
+RSI는 지난 몇 일 동안 oversold 영역에 왔다로 서, 우리는 구매자가 현재 수준에서 단계로 기대 합니다.
+
+거꾸로, 20-하루에 EMA는 위쪽으로 이동 하향 추세 라인에 가까운 $130에 확장할 수 있는 뻣 뻣 한 저항, 역할을 합니다.
+
+최저에서 잠재적인 회복은 20 일 EMA에서 치열 한 저항을 직면 하 게 될 것입니다 그 수준이 교차 하는 경우, 다음 저항은 $0.9150에 있습니다.
+
+Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 13](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-13)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
