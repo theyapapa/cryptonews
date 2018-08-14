@@ -1,0 +1,1 @@
+[South Korean Ministry Drops Cryptocurrency Exchanges From Venture Enterprise Classification](https://cointelegraph.com/news/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification)
