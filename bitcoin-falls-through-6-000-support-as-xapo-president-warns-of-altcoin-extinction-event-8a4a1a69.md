@@ -1,0 +1,1 @@
+[Bitcoin Falls Through $6,000 Support as Xapo President Warns of Altcoin ‘Extinction Event’](https://cointelegraph.com/news/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event)
