@@ -1,0 +1,1 @@
+[Security, Loyalty Programs and the End of Overbooking: How Blockchain Could Help Airlines](https://cointelegraph.com/news/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines)
