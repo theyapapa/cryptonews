@@ -1,3 +1,4 @@
+* 2018-08-13 22:08 [홍콩 대학은 지불 시스템, 블록 체인에 대 한 $20 mln 연구 보조금을 받습니다](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain-c9cd9fe6.md)
 * 2018-08-13 20:08 [세계 은행의 블록 체인 기반 채권-입양을 향한 한 걸음?](https://github.com/theyapapa/cryptonews/blob/ko/world-banks-blockchain-based-bonds-a-step-toward-adoption-302a93e4.md)
 * 2018-08-13 18:08 [스페인어 좌익 정치 연합은 블록 체인, 가상 화폐를 연구 하는 소 위원회를 제안](https://github.com/theyapapa/cryptonews/blob/ko/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto-d12cdb25.md)
 * 2018-08-13 17:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 13 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-13-83746183.md)
