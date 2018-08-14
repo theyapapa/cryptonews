@@ -1,3 +1,4 @@
+* 2018-08-14 14:08 [골드만 삭스는 기업 블록 체인 시작 axoni에 대 한 $3200만 자금 조달 라운드 리드](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon-c9ee7c6a.md)
 * 2018-08-14 11:08 [보안, 충성도 프로그램 및 초과 예약의 끝: 블록 체인이 항공사를 도울 수 있는 방법](https://github.com/theyapapa/cryptonews/blob/ko/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines-b569707a.md)
 * 2018-08-14 09:08 [비트 코인은 altcoin ' 멸종 이벤트 '의 경고 xapo 대통령으로 $6000 지원을 통해 폭포](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event-8a4a1a69.md)
 * 2018-08-14 00:08 [블록 체인 스타트업, 퀴 라 소 중앙 은행과 신트마틴과 MOU 체결](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten-0438c16c.md)
