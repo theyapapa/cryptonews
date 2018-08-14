@@ -1,3 +1,4 @@
+* 2018-08-14 00:08 [Запуск цепочки знаков МОВ с центральным банком Кюрасао и Синт-Мартен](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten-0438c16c.md)
 * 2018-08-13 22:08 [Гонконгский университет получает $20 млн Грант на проведение исследований в области платежных систем, цепочки](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain-c9cd9fe6.md)
 * 2018-08-13 20:08 [Облигации Всемирного банка, основанные на цепочках, — шаг к усыновлению?](https://github.com/theyapapa/cryptonews/blob/ru/world-banks-blockchain-based-bonds-a-step-toward-adoption-302a93e4.md)
 * 2018-08-13 18:08 [Испанская левая политическая коалиция предлагает Подкомитету для изучения цепочки, крипто](https://github.com/theyapapa/cryptonews/blob/ru/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto-d12cdb25.md)
