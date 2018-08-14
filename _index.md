@@ -1,3 +1,4 @@
+* 2018-08-14 00:08 [블록 체인 스타트업, 퀴 라 소 중앙 은행과 신트마틴과 MOU 체결](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten-0438c16c.md)
 * 2018-08-13 22:08 [홍콩 대학은 지불 시스템, 블록 체인에 대 한 $20 mln 연구 보조금을 받습니다](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain-c9cd9fe6.md)
 * 2018-08-13 20:08 [세계 은행의 블록 체인 기반 채권-입양을 향한 한 걸음?](https://github.com/theyapapa/cryptonews/blob/ko/world-banks-blockchain-based-bonds-a-step-toward-adoption-302a93e4.md)
 * 2018-08-13 18:08 [스페인어 좌익 정치 연합은 블록 체인, 가상 화폐를 연구 하는 소 위원회를 제안](https://github.com/theyapapa/cryptonews/blob/ko/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto-d12cdb25.md)
