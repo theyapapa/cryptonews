@@ -1,3 +1,4 @@
+* 2018-08-14 00:08 [Bloques startup Signs MOU con el Banco Central de Curazao y Sint Maarten](https://github.com/theyapapa/cryptonews/blob/es/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten-0438c16c.md)
 * 2018-08-13 22:08 [La Universidad de Hong Kong recibe $20 millones de becas de investigación para sistemas de pago, bloques](https://github.com/theyapapa/cryptonews/blob/es/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain-c9cd9fe6.md)
 * 2018-08-13 20:08 [Bonos basados en bloques del Banco Mundial: ¿un paso hacia la adopción?](https://github.com/theyapapa/cryptonews/blob/es/world-banks-blockchain-based-bonds-a-step-toward-adoption-302a93e4.md)
 * 2018-08-13 18:08 [Coalición política izquierdista española propone Subcomité para estudiar bloques, Crypto](https://github.com/theyapapa/cryptonews/blob/es/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto-d12cdb25.md)
