@@ -1,0 +1,1 @@
+[High Times Will Not Accept Bitcoin in Its Initial Public Offering](https://cointelegraph.com/news/high-times-will-not-accept-bitcoin-in-its-initial-public-offering)
