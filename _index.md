@@ -1,3 +1,4 @@
+* 2018-08-14 09:08 [비트 코인은 altcoin ' 멸종 이벤트 '의 경고 xapo 대통령으로 $6000 지원을 통해 폭포](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event-8a4a1a69.md)
 * 2018-08-14 00:08 [블록 체인 스타트업, 퀴 라 소 중앙 은행과 신트마틴과 MOU 체결](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten-0438c16c.md)
 * 2018-08-13 22:08 [홍콩 대학은 지불 시스템, 블록 체인에 대 한 $20 mln 연구 보조금을 받습니다](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain-c9cd9fe6.md)
 * 2018-08-13 20:08 [세계 은행의 블록 체인 기반 채권-입양을 향한 한 걸음?](https://github.com/theyapapa/cryptonews/blob/ko/world-banks-blockchain-based-bonds-a-step-toward-adoption-302a93e4.md)
