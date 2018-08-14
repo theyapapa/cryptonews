@@ -1,0 +1,1 @@
+[World Bank’s Blockchain-Based Bonds — A Step Toward Adoption?](https://cointelegraph.com/news/world-banks-blockchain-based-bonds-a-step-toward-adoption)
