@@ -1,0 +1,19 @@
+# 골드만 삭스는 엔터 프 라이즈 블록 체인 시작 axoni에 대 한 $3200만 자금 조달 라운드를 리드 ...
+
+엔터프라이즈 중심의 블록 체인 시작 axoni는 골드만 삭스와 다른 하이 프로 파일 은행과 벤처 캐피탈 투자자 들이 이끄는 자금 조달 라운드에서 $3200만을 제기 하였으며, 포브스 보고서는 8 월 14 일입니다.
+
+$3200만 시리즈 B 기금 라운드는 골드만 삭스와 nyca 파트너에 의해 주도 되었다, 웰 스 파고 등 수많은 다른 투자자, jp 모건, 씨티 그룹, 그리고 andreessen horowitz.
+
+axoni의 공동 설립자, 그렉 schvey, 그 라운드 자본의 단지 주사를 하지만 "깊은 전략적" 얼라이언스, 투자자의 대부분은 스스로를 선회 하 여 전통적인 금융 부문의 혁신을 부여 하지 대표 포브스 말 했 분산 원장 기술 (DLT) (예: 블록 체인).
+
+골드만 삭스, jp 모건과 씨티 그룹은 이미 성공적으로 거래 지분 파생 상품에 대 한 axoni의 블록 체인 플랫폼 axoni 테스트, 포브스 보고서.
+
+뉴욕 기반 axoni, 2016 년에 설립 된, 보도는 기존의 엔터 프 라이즈 고객을 돕기 위해 자본을 사용 하는 "3의 분산 원장 플랫폼, 지금은 완성에 가까운 자신의 사용자"를 통합할 계획 이다.
+
+지난해 dtcc는 axoni, IBM 및 블록 체인 컨소시엄 R3과 함께 axoni 블록 체인을 사용 하는 파생 상품 처리를 위한 무역 정보 웨어하우스를 다시 플랫폼으로 작동 한다고 발표 했습니다.
+
+암호화 및 블록 체인 공간에 대 한 주목할 만한 최근의 벤처 캐피털에는 andreessen horowitz 및 증권 블록 체인 플랫폼 하버에 대 한 pantera 캐피탈의 $28 mln이 포함 되어 있으며, 록펠러의 VC Arm 벤 록은 암호화 투자와 파트너십을 체결 했습니다. 그룹 코인 펀드.
+
+Original source: [Goldman Sachs Leads $32 Million Funding Round for Enterprise Blockchain Startup Axoni](https://cointelegraph.com/news/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
