@@ -1,0 +1,1 @@
+[Goldman Sachs Leads $32 Million Funding Round for Enterprise Blockchain Startup Axoni](https://cointelegraph.com/news/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon)
