@@ -1,0 +1,1 @@
+[Hong Kong University Receives $20 Mln Research Grant for Payment Systems, Blockchain](https://cointelegraph.com/news/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain)
