@@ -1,3 +1,4 @@
+* 2018-08-15 10:08 [Acciones de la realidad se unirá cada vez más abarrotado fondo de cobertura de bitcoin, dice fuente](https://github.com/theyapapa/cryptonews/blob/es/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source-ff67fb7f.md)
 * 2018-08-14 23:08 [Venezuela utilizará Petro como unidad de cuenta para salarios, bienes y servicios](https://github.com/theyapapa/cryptonews/blob/es/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services-b171d286.md)
 * 2018-08-14 20:08 [Playboy demanda empresa bloques canadiense para](https://github.com/theyapapa/cryptonews/blob/es/playboy-sues-canadian-blockchain-firm-for-bc8ae5d3.md)
 * 2018-08-14 18:08 [Los tiempos altos no aceptarán Bitcoin en su oferta pública inicial](https://github.com/theyapapa/cryptonews/blob/es/high-times-will-not-accept-bitcoin-in-its-initial-public-offering-a667dab5.md)
