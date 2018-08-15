@@ -1,3 +1,4 @@
+* 2018-08-14 20:08 [Playboy demanda empresa bloques canadiense para](https://github.com/theyapapa/cryptonews/blob/es/playboy-sues-canadian-blockchain-firm-for-bc8ae5d3.md)
 * 2018-08-14 18:08 [Los tiempos altos no aceptarán Bitcoin en su oferta pública inicial](https://github.com/theyapapa/cryptonews/blob/es/high-times-will-not-accept-bitcoin-in-its-initial-public-offering-a667dab5.md)
 * 2018-08-14 14:08 [El Ministerio surcoreano cae Cryptocurrency intercambios de la clasificación de empresas](https://github.com/theyapapa/cryptonews/blob/es/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification-67c83f9c.md)
 * 2018-08-14 14:08 [Goldman Sachs conduce $32 millones ronda de financiación para la empresa bloques startup axoni](https://github.com/theyapapa/cryptonews/blob/es/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon-c9ee7c6a.md)
