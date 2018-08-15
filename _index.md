@@ -1,3 +1,4 @@
+* 2018-08-14 23:08 [베네수엘라의 계정 단위로 급여, 상품 및 서비스에 대 한 석유를 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services-b171d286.md)
 * 2018-08-14 20:08 [플레이보이에 대 한 캐나다 블록 체인 회사를 Sues](https://github.com/theyapapa/cryptonews/blob/ko/playboy-sues-canadian-blockchain-firm-for-bc8ae5d3.md)
 * 2018-08-14 18:08 [높은 시간은 초기 공공 제공에 비트 코인을 허용 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/high-times-will-not-accept-bitcoin-in-its-initial-public-offering-a667dab5.md)
 * 2018-08-14 14:08 [한국 정부는 벤처 기업 분류에서 암호 화폐 거래소를 삭제](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification-67c83f9c.md)
