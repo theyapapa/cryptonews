@@ -1,3 +1,4 @@
+* 2018-08-14 20:08 [Playboy судится канадский фирма цепочки для](https://github.com/theyapapa/cryptonews/blob/ru/playboy-sues-canadian-blockchain-firm-for-bc8ae5d3.md)
 * 2018-08-14 18:08 [Высокие времена не примут Bitcoin в его первоначальном публичном размещении](https://github.com/theyapapa/cryptonews/blob/ru/high-times-will-not-accept-bitcoin-in-its-initial-public-offering-a667dab5.md)
 * 2018-08-14 14:08 [Южнокорейское Министерство снизило валютные биржи от классификации венчурных предприятий](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification-67c83f9c.md)
 * 2018-08-14 14:08 [Goldman Sachs ведет $32 000 000 финансирования раунда для предприятия цепочки запуска аксони](https://github.com/theyapapa/cryptonews/blob/ru/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon-c9ee7c6a.md)
