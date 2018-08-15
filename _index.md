@@ -1,3 +1,4 @@
+* 2018-08-14 23:08 [Venezuela utilizará Petro como unidad de cuenta para salarios, bienes y servicios](https://github.com/theyapapa/cryptonews/blob/es/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services-b171d286.md)
 * 2018-08-14 20:08 [Playboy demanda empresa bloques canadiense para](https://github.com/theyapapa/cryptonews/blob/es/playboy-sues-canadian-blockchain-firm-for-bc8ae5d3.md)
 * 2018-08-14 18:08 [Los tiempos altos no aceptarán Bitcoin en su oferta pública inicial](https://github.com/theyapapa/cryptonews/blob/es/high-times-will-not-accept-bitcoin-in-its-initial-public-offering-a667dab5.md)
 * 2018-08-14 14:08 [El Ministerio surcoreano cae Cryptocurrency intercambios de la clasificación de empresas](https://github.com/theyapapa/cryptonews/blob/es/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification-67c83f9c.md)
