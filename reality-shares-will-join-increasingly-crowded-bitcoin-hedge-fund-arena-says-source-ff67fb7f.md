@@ -1,0 +1,1 @@
+[Reality Shares Will Join Increasingly Crowded Bitcoin Hedge Fund Arena, Says Source](https://cointelegraph.com/news/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source)
