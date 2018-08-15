@@ -1,0 +1,19 @@
+# 미국 국민 보험 자문 aais는 IBM 블록 체인 기반 보고 도구를 소개 합니다 ...
+
+플랫폼, 더빙 보험 데이터 링크 (openidl), IBM의 엔터프라이즈 블록 체인 솔루션을 기반으로, hyperledger 패브릭을 사용 하 여.
+
+플랫폼은 "부담" 통계 보고 프로세스를 줄일 뿐만 아니라, 보험 회사에 대 한 비용 및 데이터 처리 시간을 삭감 할 계획 이다.
+
+발표에 수반 되는 보고서에 따르면, openidl은 "최초의 안전 하 고 개방 된 블록 체인 플랫폼을 운영 하 여 보험 회사, 규제 기관 및 기타 정보를 대신 하 여 효율적이 고 permissioned 기반 통계 데이터를 수집할 수 있게 합니다. 참여 기여자. "
+
+aais ' 발표에 따르면, openidl 플랫폼 자동화 된 데이터 업로드 시스템, 스마트 계약 자동 거래 ' 실행을 활성화 하 고, 보험 데이터에 대 한 액세스를 포함 "permissioned 기준으로 거의 실시간으로" 대신 시간이 많이 걸리는 데이터 호출
+
+openidl 솔루션은 또한 블록 체인 컨소시엄, 플랫폼 및 애플리케이션과 같은 "모든 규모와 구성"의 이동 통신사 및 조직을 대상으로 합니다.
+
+4 월 2018 일, 글로벌 보험 중개 및 위험 관리 회사인 마쉬는 "복잡 하 고 수동에서 유선형이 고 투명 한" 시스템을 이동 하기 위해 보험 증명을 위한 최초의 상업용 블록 체인 솔루션을 발표 했습니다.
+
+늦은 2017 년에, cointelegraph는 14 명의 유럽 보험 공급자의 그룹이 deloitte와 다른 회사와 파트너가 hamon 법률을 준수 하는 간단한 체계를 제공 하기 위하여 협력 했다는 것을 보고 했습니다,와 더불어 보증인은 클라이언트를 위한 간단한 이동을 제공 합니다 누가 첫 해에 회사를 변경 하려면.
+
+Original source: [US National Insurance Advisory AAIS Introduces IBM Blockchain-Based Reporting Tool](https://cointelegraph.com/news/us-national-insurance-advisory-aais-introduces-ibm-blockchain-based-reporting-tool)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
