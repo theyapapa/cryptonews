@@ -1,0 +1,1 @@
+[Venezuela to Use Petro as Unit of Account for Salaries, Goods and Services](https://cointelegraph.com/news/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services)
