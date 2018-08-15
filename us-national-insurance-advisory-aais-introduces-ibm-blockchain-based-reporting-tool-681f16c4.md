@@ -1,0 +1,1 @@
+[US National Insurance Advisory AAIS Introduces IBM Blockchain-Based Reporting Tool](https://cointelegraph.com/news/us-national-insurance-advisory-aais-introduces-ibm-blockchain-based-reporting-tool)
