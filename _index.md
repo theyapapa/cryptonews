@@ -1,3 +1,4 @@
+* 2018-08-15 10:08 [Реальность акции присоединятся все более переполненном Bitcoin хедж-фонд арене, говорит источник](https://github.com/theyapapa/cryptonews/blob/ru/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source-ff67fb7f.md)
 * 2018-08-14 23:08 [Венесуэла использует Петро как единицу учета заработной платы, товаров и услуг](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services-b171d286.md)
 * 2018-08-14 20:08 [Playboy судится канадский фирма цепочки для](https://github.com/theyapapa/cryptonews/blob/ru/playboy-sues-canadian-blockchain-firm-for-bc8ae5d3.md)
 * 2018-08-14 18:08 [Высокие времена не примут Bitcoin в его первоначальном публичном размещении](https://github.com/theyapapa/cryptonews/blob/ru/high-times-will-not-accept-bitcoin-in-its-initial-public-offering-a667dab5.md)
