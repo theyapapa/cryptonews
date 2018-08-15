@@ -1,3 +1,4 @@
+* 2018-08-14 20:08 [플레이보이에 대 한 캐나다 블록 체인 회사를 Sues](https://github.com/theyapapa/cryptonews/blob/ko/playboy-sues-canadian-blockchain-firm-for-bc8ae5d3.md)
 * 2018-08-14 18:08 [높은 시간은 초기 공공 제공에 비트 코인을 허용 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/high-times-will-not-accept-bitcoin-in-its-initial-public-offering-a667dab5.md)
 * 2018-08-14 14:08 [한국 정부는 벤처 기업 분류에서 암호 화폐 거래소를 삭제](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification-67c83f9c.md)
 * 2018-08-14 14:08 [골드만 삭스는 기업 블록 체인 시작 axoni에 대 한 $3200만 자금 조달 라운드 리드](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon-c9ee7c6a.md)
