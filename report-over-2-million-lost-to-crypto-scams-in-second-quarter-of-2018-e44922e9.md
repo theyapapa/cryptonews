@@ -1,0 +1,1 @@
+[Report: Over $2 Million Lost to Crypto Scams in Second Quarter of 2018](https://cointelegraph.com/news/report-over-2-million-lost-to-crypto-scams-in-second-quarter-of-2018)
