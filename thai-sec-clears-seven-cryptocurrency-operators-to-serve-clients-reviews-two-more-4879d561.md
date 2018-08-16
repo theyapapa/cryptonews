@@ -1,0 +1,1 @@
+[Thai SEC Clears Seven Cryptocurrency Operators to Serve Clients, Reviews Two More](https://cointelegraph.com/news/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more)
