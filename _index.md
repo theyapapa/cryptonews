@@ -1,3 +1,4 @@
+* 2018-08-16 14:08 [유럽 축구 협회 연합, 블록 체인 기반 티켓팅 시스템 구현](https://github.com/theyapapa/cryptonews/blob/ko/union-of-european-football-associations-implements-blockchain-based-ticketing-system-9475dd81.md)
 * 2018-08-16 11:08 [' 소프트 ' 암호화 ETF 대안 지금 미국 투자자에 대 한 기어 드, 블룸버그 말한다](https://github.com/theyapapa/cryptonews/blob/ko/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg-4e504e3b.md)
 * 2018-08-16 09:08 [위기에서 노트: 암호 베어 시장의 이유](https://github.com/theyapapa/cryptonews/blob/ko/notes-from-the-brink-reasons-behind-the-crypto-bear-market-aba91a26.md)
 * 2018-08-16 06:08 [타이어 SEC는 클라이언트를 제공 하는 일곱 암호 화폐 사업자를 지웁니다, 리뷰 두 개 더](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more-4879d561.md)
