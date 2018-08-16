@@ -1,0 +1,1 @@
+[BCG Report Offers ‘Reality Check’ for Blockchain in Commodities Trading](https://cointelegraph.com/news/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading)
