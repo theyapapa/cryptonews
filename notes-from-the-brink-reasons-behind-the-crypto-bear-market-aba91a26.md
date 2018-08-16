@@ -1,0 +1,1 @@
+[Notes From the Brink: Reasons Behind the Crypto Bear Market](https://cointelegraph.com/news/notes-from-the-brink-reasons-behind-the-crypto-bear-market)
