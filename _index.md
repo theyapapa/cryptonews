@@ -1,3 +1,4 @@
+* 2018-08-16 06:08 [Тайский sec очищает семь операторов, чтобы обслуживать клиентов, отзывы еще два](https://github.com/theyapapa/cryptonews/blob/ru/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more-4879d561.md)
 * 2018-08-16 06:08 [Bitcoin держит выше $6 000 в то время как отраслевые цифры предупреждают о преимуществах ЕФО "](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits-bbec2fa7.md)
 * 2018-08-15 22:08 [Coinbase осуществлять децентрализованную форму идентификации после приобретения](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition-386003d6.md)
 * 2018-08-15 17:08 [Доклад: более $2 000 000 потеряли для крипто мошенничества во втором квартале 2018](https://github.com/theyapapa/cryptonews/blob/ru/report-over-2-million-lost-to-crypto-scams-in-second-quarter-of-2018-e44922e9.md)
