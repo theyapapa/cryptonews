@@ -1,3 +1,4 @@
+* 2018-08-16 11:08 ["Soft" крипто ЕФО альтернатива теперь ориентирована на американских инвесторов, говорит Bloomberg](https://github.com/theyapapa/cryptonews/blob/ru/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg-4e504e3b.md)
 * 2018-08-16 09:08 [Примечания от грани: причины, лежащие на рынке Crypto Bear](https://github.com/theyapapa/cryptonews/blob/ru/notes-from-the-brink-reasons-behind-the-crypto-bear-market-aba91a26.md)
 * 2018-08-16 06:08 [Тайский sec очищает семь операторов, чтобы обслуживать клиентов, отзывы еще два](https://github.com/theyapapa/cryptonews/blob/ru/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more-4879d561.md)
 * 2018-08-16 06:08 [Bitcoin держит выше $6 000 в то время как отраслевые цифры предупреждают о преимуществах ЕФО "](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits-bbec2fa7.md)
