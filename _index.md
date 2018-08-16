@@ -1,3 +1,4 @@
+* 2018-08-16 15:08 [SEC는 바이오-설정-암호화 마이닝 회사 블록 체인 폭동으로 프로브를 강렬](https://github.com/theyapapa/cryptonews/blob/ko/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot-264860bf.md)
 * 2018-08-16 14:08 [유럽 축구 협회 연합, 블록 체인 기반 티켓팅 시스템 구현](https://github.com/theyapapa/cryptonews/blob/ko/union-of-european-football-associations-implements-blockchain-based-ticketing-system-9475dd81.md)
 * 2018-08-16 11:08 [' 소프트 ' 암호화 ETF 대안 지금 미국 투자자에 대 한 기어 드, 블룸버그 말한다](https://github.com/theyapapa/cryptonews/blob/ko/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg-4e504e3b.md)
 * 2018-08-16 09:08 [위기에서 노트: 암호 베어 시장의 이유](https://github.com/theyapapa/cryptonews/blob/ko/notes-from-the-brink-reasons-behind-the-crypto-bear-market-aba91a26.md)
