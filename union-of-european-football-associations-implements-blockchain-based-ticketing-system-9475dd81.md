@@ -1,0 +1,1 @@
+[Union of European Football Associations Implements Blockchain-Based Ticketing System](https://cointelegraph.com/news/union-of-european-football-associations-implements-blockchain-based-ticketing-system)
