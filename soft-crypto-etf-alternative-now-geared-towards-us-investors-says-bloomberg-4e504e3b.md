@@ -1,0 +1,1 @@
+[‘Soft’ Crypto ETF Alternative Now Geared Towards U.S. Investors, Says Bloomberg](https://cointelegraph.com/news/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg)
