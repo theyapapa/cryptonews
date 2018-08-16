@@ -1,3 +1,4 @@
+* 2018-08-16 09:08 [Примечания от грани: причины, лежащие на рынке Crypto Bear](https://github.com/theyapapa/cryptonews/blob/ru/notes-from-the-brink-reasons-behind-the-crypto-bear-market-aba91a26.md)
 * 2018-08-16 06:08 [Тайский sec очищает семь операторов, чтобы обслуживать клиентов, отзывы еще два](https://github.com/theyapapa/cryptonews/blob/ru/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more-4879d561.md)
 * 2018-08-16 06:08 [Bitcoin держит выше $6 000 в то время как отраслевые цифры предупреждают о преимуществах ЕФО "](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits-bbec2fa7.md)
 * 2018-08-15 22:08 [Coinbase осуществлять децентрализованную форму идентификации после приобретения](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition-386003d6.md)
