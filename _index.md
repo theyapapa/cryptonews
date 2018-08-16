@@ -1,3 +1,4 @@
+* 2018-08-15 22:08 [수집 후에 분산 된 식별 형태를 추구 하는 코인 베이스](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition-386003d6.md)
 * 2018-08-15 17:08 [보고서: $200만 이상 2018의 2 분기에 암호화 사기에 손실](https://github.com/theyapapa/cryptonews/blob/ko/report-over-2-million-lost-to-crypto-scams-in-second-quarter-of-2018-e44922e9.md)
 * 2018-08-15 17:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 15](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-15-6a17c4b6.md)
 * 2018-08-15 15:08 [시 트릭 스 설문 조사: 영국 기업 중 절반 이상이 어떤 시점에서 악성 코드를 cryptojacking에 치여](https://github.com/theyapapa/cryptonews/blob/ko/citrix-survey-more-than-half-of-uk-companies-hit-by-cryptojacking-malware-at-some-point-b109618d.md)
