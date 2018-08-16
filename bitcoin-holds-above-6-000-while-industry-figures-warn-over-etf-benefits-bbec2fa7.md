@@ -1,0 +1,1 @@
+[Bitcoin Holds Above $6,000 While Industry Figures Warn Over ETF ‘Benefits’](https://cointelegraph.com/news/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits)
