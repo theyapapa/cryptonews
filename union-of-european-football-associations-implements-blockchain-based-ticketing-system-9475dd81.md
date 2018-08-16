@@ -1,0 +1,17 @@
+# 유럽 축구 연맹은 블록 체인 기반 티켓팅 시스템을 구현 합니다.
+
+유럽 축구 협회 (UEFA) 연합은 8 월 16 일 보도 자료에 따르면, 블록 체인 기술을 기반으로 휴대 전화를 통해 새로운 발권 시스템을 성공적으로 배포 했습니다.
+
+5 월 리옹에서 2018 uefa 유로 파 리그 결승전 티켓의 50%에 대 한 블록 체인 발권 시스템의 "성공적인 구현" 후, UEFA는 에스토니아에서 "일반 대 중 모두에 게" 기술의 범위를 증가 하기로 결정 했다.
+
+공식 uefa 발표에 따르면 8 월 15 일 에스토니아 탈린에서 개최 된 레알 마드리드와 아틀레티코 마드리드 사이의 uefa 슈퍼컵 축구 경기에 대 한 "경기 티켓의 100%"가 블록 체인 기반 iOS 또는 Android 애플리케이션을 사용 하 여 판매 되었습니다.
+
+uefa는 앞으로의 이벤트, 발표 노트, 추가를 위해 블록 체인 기반 티켓 분배 시스템의 사용을 계속 개발할 것입니다. "uefa는 더 간단 하 고 안전한 매치를 위한 티켓 판매 프로세스를 제공 하기 위한 새로운 시스템 덕분에이를 찾고 있습니다. 티켓 배포를 안전 하 게 하 고 티켓 복제와 중복을 방지 합니다. "
+
+이번 여름 초, cointelegraph는 러시아에서 FIFA 월드컵 2018 동안 암호 화폐를 사용 하는 방법에 대 한 설명 후속을 발표 했다.
+
+그리고 이번 겨울, Harunustaspor, 터키 축구 팀, 그것은 비트 코인 (BTC)에서 그것의 선수 중 하나를 지불 했다고 발표 했다, 1 월에 보고 된 cointelegraph 31.
+
+Original source: [Union of European Football Associations Implements Blockchain-Based Ticketing System](https://cointelegraph.com/news/union-of-european-football-associations-implements-blockchain-based-ticketing-system)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
