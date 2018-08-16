@@ -1,3 +1,4 @@
+* 2018-08-16 09:08 [위기에서 노트: 암호 베어 시장의 이유](https://github.com/theyapapa/cryptonews/blob/ko/notes-from-the-brink-reasons-behind-the-crypto-bear-market-aba91a26.md)
 * 2018-08-16 06:08 [타이어 SEC는 클라이언트를 제공 하는 일곱 암호 화폐 사업자를 지웁니다, 리뷰 두 개 더](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more-4879d561.md)
 * 2018-08-16 06:08 [업계 수치는 ETF ' 혜택 '을 경고 하는 동안 비트 코인은 $6000 이상 보유](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits-bbec2fa7.md)
 * 2018-08-15 22:08 [수집 후에 분산 된 식별 형태를 추구 하는 코인 베이스](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition-386003d6.md)
