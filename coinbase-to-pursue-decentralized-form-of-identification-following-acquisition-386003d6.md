@@ -1,0 +1,1 @@
+[Coinbase to Pursue Decentralized Form of Identification Following Acquisition](https://cointelegraph.com/news/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition)
