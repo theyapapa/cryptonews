@@ -1,3 +1,4 @@
+* 2018-08-16 18:08 [리히텐슈타인에서 피아트-암호 교환 개시](https://github.com/theyapapa/cryptonews/blob/ko/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein-d04fb253.md)
 * 2018-08-16 18:08 [bcg 보고서는 상품 거래의 블록 체인에 대 한 ' 리얼리티 체크 ' 제공](https://github.com/theyapapa/cryptonews/blob/ko/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading-0092efb1.md)
 * 2018-08-16 15:08 [SEC는 바이오-설정-암호화 마이닝 회사 블록 체인 폭동으로 프로브를 강렬](https://github.com/theyapapa/cryptonews/blob/ko/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot-264860bf.md)
 * 2018-08-16 14:08 [유럽 축구 협회 연합, 블록 체인 기반 티켓팅 시스템 구현](https://github.com/theyapapa/cryptonews/blob/ko/union-of-european-football-associations-implements-blockchain-based-ticketing-system-9475dd81.md)
