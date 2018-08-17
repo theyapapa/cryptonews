@@ -1,3 +1,4 @@
+* 2018-08-16 21:08 [엔비디아 주식은 암호 마이닝 감소에 치여 Q3 수익 견적으로 폭포](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline-9a6e813e.md)
 * 2018-08-16 18:08 [리히텐슈타인에서 피아트-암호 교환 개시](https://github.com/theyapapa/cryptonews/blob/ko/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein-d04fb253.md)
 * 2018-08-16 18:08 [bcg 보고서는 상품 거래의 블록 체인에 대 한 ' 리얼리티 체크 ' 제공](https://github.com/theyapapa/cryptonews/blob/ko/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading-0092efb1.md)
 * 2018-08-16 15:08 [SEC는 바이오-설정-암호화 마이닝 회사 블록 체인 폭동으로 프로브를 강렬](https://github.com/theyapapa/cryptonews/blob/ko/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot-264860bf.md)
