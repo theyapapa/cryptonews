@@ -1,0 +1,1 @@
+[Coinbase Patent Shows Exchange Is Refining Security for Bitcoin Payments](https://cointelegraph.com/news/coinbase-patent-shows-exchange-is-refining-security-for-bitcoin-payments)
