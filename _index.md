@@ -1,3 +1,4 @@
+* 2018-08-16 22:08 [Ripple se asocia con tres intercambios de criptografía como parte de la solución XRapid](https://github.com/theyapapa/cryptonews/blob/es/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution-7ef994d0.md)
 * 2018-08-16 21:08 [NVIDIA stock cae como las estimaciones de ingresos Q3 golpeado por disminución de la minería Crypto](https://github.com/theyapapa/cryptonews/blob/es/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline-9a6e813e.md)
 * 2018-08-16 18:08 [Binance LCX lanza Fiat-to-Crypto Exchange en Liechtenstein](https://github.com/theyapapa/cryptonews/blob/es/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein-d04fb253.md)
 * 2018-08-16 18:08 [El informe BCG ofrece "verificación de la realidad" para bloques en el comercio de productos básicos](https://github.com/theyapapa/cryptonews/blob/es/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading-0092efb1.md)
