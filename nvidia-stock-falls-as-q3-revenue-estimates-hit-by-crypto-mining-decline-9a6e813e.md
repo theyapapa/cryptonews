@@ -1,0 +1,1 @@
+[Nvidia Stock Falls as Q3 Revenue Estimates Hit by Crypto Mining Decline](https://cointelegraph.com/news/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline)
