@@ -1,3 +1,4 @@
+* 2018-08-16 21:08 [NVIDIA stock cae como las estimaciones de ingresos Q3 golpeado por disminución de la minería Crypto](https://github.com/theyapapa/cryptonews/blob/es/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline-9a6e813e.md)
 * 2018-08-16 18:08 [Binance LCX lanza Fiat-to-Crypto Exchange en Liechtenstein](https://github.com/theyapapa/cryptonews/blob/es/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein-d04fb253.md)
 * 2018-08-16 18:08 [El informe BCG ofrece "verificación de la realidad" para bloques en el comercio de productos básicos](https://github.com/theyapapa/cryptonews/blob/es/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading-0092efb1.md)
 * 2018-08-16 15:08 [SEC intensifica la investigación en Biotech-convertido-firma de explotación minera Crypto bloques Riot](https://github.com/theyapapa/cryptonews/blob/es/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot-264860bf.md)
