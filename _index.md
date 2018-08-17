@@ -1,3 +1,4 @@
+* 2018-08-17 07:08 [El intercambio descentralizado de Ethereum promete menores cuotas que los rivales](https://github.com/theyapapa/cryptonews/blob/es/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals-0465564a.md)
 * 2018-08-16 22:08 [Ripple se asocia con tres intercambios de criptografía como parte de la solución XRapid](https://github.com/theyapapa/cryptonews/blob/es/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution-7ef994d0.md)
 * 2018-08-16 21:08 [NVIDIA stock cae como las estimaciones de ingresos Q3 golpeado por disminución de la minería Crypto](https://github.com/theyapapa/cryptonews/blob/es/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline-9a6e813e.md)
 * 2018-08-16 18:08 [Binance LCX lanza Fiat-to-Crypto Exchange en Liechtenstein](https://github.com/theyapapa/cryptonews/blob/es/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein-d04fb253.md)
