@@ -1,0 +1,1 @@
+[Blockchain Used to Trace Deadly Chemical Linked to $289 Mln Monsanto Cancer Lawsuit](https://cointelegraph.com/news/blockchain-used-to-trace-deadly-chemical-linked-to-289-mln-monsanto-cancer-lawsuit)
