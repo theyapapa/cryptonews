@@ -1,3 +1,4 @@
+* 2018-08-17 07:08 [경쟁사 보다 더 낮은 수수료로이 더 리 움의 분산형 교환](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals-0465564a.md)
 * 2018-08-16 22:08 [xrapid 솔루션의 일환으로 3 개의 암호화 거래소와 리플 파트너](https://github.com/theyapapa/cryptonews/blob/ko/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution-7ef994d0.md)
 * 2018-08-16 21:08 [엔비디아 주식은 암호 마이닝 감소에 치여 Q3 수익 견적으로 폭포](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline-9a6e813e.md)
 * 2018-08-16 18:08 [리히텐슈타인에서 피아트-암호 교환 개시](https://github.com/theyapapa/cryptonews/blob/ko/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein-d04fb253.md)
