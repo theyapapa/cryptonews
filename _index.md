@@ -1,3 +1,4 @@
+* 2018-08-17 09:08 [중국 소매 거 대 한 JD.com는 서비스 플랫폼으로 기업 블록 체인을 발사 한다](https://github.com/theyapapa/cryptonews/blob/ko/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform-e1d2c40f.md)
 * 2018-08-17 07:08 [경쟁사 보다 더 낮은 수수료로이 더 리 움의 분산형 교환](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals-0465564a.md)
 * 2018-08-16 22:08 [xrapid 솔루션의 일환으로 3 개의 암호화 거래소와 리플 파트너](https://github.com/theyapapa/cryptonews/blob/ko/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution-7ef994d0.md)
 * 2018-08-16 21:08 [엔비디아 주식은 암호 마이닝 감소에 치여 Q3 수익 견적으로 폭포](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline-9a6e813e.md)
