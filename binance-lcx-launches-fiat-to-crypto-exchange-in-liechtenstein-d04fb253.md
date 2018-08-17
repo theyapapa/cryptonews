@@ -1,0 +1,19 @@
+# binance lcx는 리히텐슈타인에서 피아트 대 암호 교환을 시작 합니다 ...
+
+binance lvx, 이랜스와 리히텐슈타인의 cryptoassets 교환 (lvx) 사이의 합작 투자, 8 월 16 일 발표 된 보도 자료에 따르면, 피아트-암호화 거래소의 출시를 발표 했다.
+
+새로운 거래 플랫폼은 리 히 텐 슈 타인에 위치 하 고 주요 디지털 통화 쌍에 대 한 스위스 프랑 (CHF)과 유로 (EUR) 사이의 거래를 제공 하 고, 이후 규제 승인 후 더 많은 거래 쌍을 추가 합니다.
+
+binance는 플랫폼을 제공 하 고 지원할 것 이며, binance lcx는 고객 지원, 규정 준수 및 정부 커뮤니케이션을이 끌 것입니다.
+
+아드리안 hasler, 리 히 텐 슈 타인의 총리, 발사 댓글을 달았습니다: "우리는 리히텐슈타인의 기존 및 미래의 법적 프레임 워크와 연습이 뛰어난 제공 하기 위해 binance lcx 및 기타 블록 체인 회사에 대 한 강력한 토대를 제공 하는 것을 확신 합니다 리 히 텐 슈 타인에서 서비스를 여기에. "
+
+리히텐슈타인은 암호 화폐와 블록 체인 기술에 대 한 우호적이 고 개방적인 자세를 취하고 있으며 추크 (zug) 주에서 "암호화 밸리 (crypto Valley)"로 알려진 이웃 스위스의 발전을 반향 했다.
+
+최근 리히텐슈타인은 기업과 고객에 게 법적 및 규제 적 확실성을 제공 하는 새로운 블록 체인 법을 도입 했습니다.
+
+3 월, 리 히 텐 슈 타인 대출 기관 frick은 5 암호 화폐에 대 한 "직접 투자"와 냉장 스토리지를 제공 하기 시작; 비트 코인, 비트 코인 현금, 라이트 코인, 리플 및이 더 리 움.
+
+Original source: [Binance LCX Launches Fiat-to-Crypto Exchange in Liechtenstein](https://cointelegraph.com/news/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
