@@ -1,3 +1,4 @@
+* 2018-08-17 12:08 [코인 베이스 특허 거래소가 Bitcoin 결제에 대 한 보안을 구체화 하 고 있음을 보여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-patent-shows-exchange-is-refining-security-for-bitcoin-payments-ab24a376.md)
 * 2018-08-17 10:08 [영국 워치독은 ' 유명한 ' 런던 주소를 smokescreen으로 사용 하 여 암호화 사기에 대해 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/uk-watchdog-warns-of-crypto-scams-using-prestigious-london-addresses-as-smokescreen-b8256fc0.md)
 * 2018-08-17 09:08 [중국 소매 거 대 한 JD.com는 서비스 플랫폼으로 기업 블록 체인을 발사 한다](https://github.com/theyapapa/cryptonews/blob/ko/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform-e1d2c40f.md)
 * 2018-08-17 07:08 [경쟁사 보다 더 낮은 수수료로이 더 리 움의 분산형 교환](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals-0465564a.md)
