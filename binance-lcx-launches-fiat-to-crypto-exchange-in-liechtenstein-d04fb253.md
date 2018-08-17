@@ -1,0 +1,1 @@
+[Binance LCX Launches Fiat-to-Crypto Exchange in Liechtenstein](https://cointelegraph.com/news/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein)
