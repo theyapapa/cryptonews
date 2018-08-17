@@ -1,0 +1,1 @@
+[Capital One Applies for Blockchain-Based Collaborative Authentication System Patent](https://cointelegraph.com/news/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent)
