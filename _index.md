@@ -1,3 +1,4 @@
+* 2018-08-16 22:08 [Партнеры с тремя крипто-обменами в рамках решения ксрапид](https://github.com/theyapapa/cryptonews/blob/ru/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution-7ef994d0.md)
 * 2018-08-16 21:08 [NVIDIA сток падает в Q3 доходы оценки пострадали от крипто снижение добычи](https://github.com/theyapapa/cryptonews/blob/ru/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline-9a6e813e.md)
 * 2018-08-16 18:08 [Бинанце LCX запускает обмен Fiat-to-Crypto в Лихтенштейне](https://github.com/theyapapa/cryptonews/blob/ru/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein-d04fb253.md)
 * 2018-08-16 18:08 [БЦЖ доклад предлагает "Проверка реальности" для цепочки торговли сырьевыми товарами](https://github.com/theyapapa/cryptonews/blob/ru/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading-0092efb1.md)
