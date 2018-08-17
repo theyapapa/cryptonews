@@ -1,0 +1,1 @@
+[Chinese Retail Giant JD.com Launches Enterprise Blockchain-as-a-Service Platform](https://cointelegraph.com/news/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform)
