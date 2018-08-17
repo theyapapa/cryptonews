@@ -1,3 +1,4 @@
+* 2018-08-17 16:08 [$289 mln Monsanto 암 소송에 연결 된 치명적인 화학 물질을 추적 하는 데 사용 되는 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-used-to-trace-deadly-chemical-linked-to-289-mln-monsanto-cancer-lawsuit-63244b3e.md)
 * 2018-08-17 15:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero 등: 가격 분석, 8 월 17 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-etc-price-analysis-august-17-f3f0dbc0.md)
 * 2018-08-17 12:08 [코인 베이스 특허 거래소가 Bitcoin 결제에 대 한 보안을 구체화 하 고 있음을 보여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-patent-shows-exchange-is-refining-security-for-bitcoin-payments-ab24a376.md)
 * 2018-08-17 10:08 [영국 워치독은 ' 유명한 ' 런던 주소를 smokescreen으로 사용 하 여 암호화 사기에 대해 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/uk-watchdog-warns-of-crypto-scams-using-prestigious-london-addresses-as-smokescreen-b8256fc0.md)
