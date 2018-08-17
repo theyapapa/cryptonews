@@ -1,0 +1,19 @@
+# xrapid 솔루션의 일환으로 3 개의 암호화 거래소와 리플 파트너 ...
+
+8 월 16 일 발표 된 보도 자료에 따르면 리플은 국경을 넘는 결제 정산 상품에 3 개의 암호 화폐 거래소를 추가 했습니다.
+
+새로운 파트너는 각각 xrapid와 미국 달러, 멕시코 페소, 필리핀 페소 사이를 이동 하는 리플의 xrapid 지불 솔루션을 가능 하 게 할 것 이다.
+
+리플은 다음과 같은 운영 원칙을 설명 했다: "bittrex와 계정을 가진 금융 기관 (FI)는 즉시 bittrex에 xrapid로 변환 xrapid를 통해 미국 달러로 지불을 시작 합니다.
+
+xrapid는 금융 기관 간의 국제 피아트 전송을 용이 하 게 하기 위해 개발 된 리플의 블록 체인 기반 실시간 그로스 정산 시스템을 위한 유동성 솔루션입니다.
+
+리플 수석 시장 전략가 코리 존슨은 말했다: "우리는 이미, 그리고 몇 가지 성공적인 xrapid 조종사 봤어요 우리가 베타 버전에서 생산으로 올해 후반 제품을 이동, 이러한 교환 파트너는 우리가 편안 하 고 금융 기관을 제공할 수 있게 됩니다 그들의 지불은 다른 통화 사이에서 매끄럽게 움직일 것 이라는 점을 확신 한다. "
+
+5 월, xrapid 플랫폼의 조종사에 참여 한 금융 기관은 미국과 멕시코 사이의 지불을 테스트, 40-70%의 거래 절감을 보고 했다.
+
+테스트는 탄탄 한 제품 성능을 보여 줬 지만, 잔물결 최고 암호 제작자 데이비드 슈워츠는 은행이 국제 지불을 처리 하기 위해 블록 체인을 배포 하지 않을 것을 주장, 낮은 확장성 및 개인 정보 보호 문제를 인용.
+
+Original source: [Ripple Partners With Three Crypto Exchanges as Part of XRapid Solution](https://cointelegraph.com/news/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
