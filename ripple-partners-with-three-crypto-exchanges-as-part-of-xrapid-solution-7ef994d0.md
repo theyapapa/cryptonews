@@ -1,0 +1,1 @@
+[Ripple Partners With Three Crypto Exchanges as Part of XRapid Solution](https://cointelegraph.com/news/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution)
