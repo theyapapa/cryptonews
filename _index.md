@@ -1,3 +1,4 @@
+* 2018-08-18 11:08 [플레이보이 소송: 블록 체인 개발자가 부통령 업계 토큰에 실패 한 방법](https://github.com/theyapapa/cryptonews/blob/ko/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token-8636c8b0.md)
 * 2018-08-18 04:08 [SIM 스와핑: 어떻게 해커가 피해자의 통신 사업자를 통해 암호화 수백만의 가치를 훔친](https://github.com/theyapapa/cryptonews/blob/ko/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator-91619ad0.md)
 * 2018-08-17 21:08 [IBM은 블록 체인 특허를 적용 하 여 노드 데이터를 통한 트랜잭션 컴플라이언스 보장](https://github.com/theyapapa/cryptonews/blob/ko/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data-47757621.md)
 * 2018-08-17 18:08 [블록 체인 기반 협업 인증 시스템 특허에 자본금 1이 적용 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent-2835a96a.md)
