@@ -1,3 +1,4 @@
+* 2018-08-18 04:08 [SIM 스와핑: 어떻게 해커가 피해자의 통신 사업자를 통해 암호화 수백만의 가치를 훔친](https://github.com/theyapapa/cryptonews/blob/ko/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator-91619ad0.md)
 * 2018-08-17 21:08 [IBM은 블록 체인 특허를 적용 하 여 노드 데이터를 통한 트랜잭션 컴플라이언스 보장](https://github.com/theyapapa/cryptonews/blob/ko/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data-47757621.md)
 * 2018-08-17 18:08 [블록 체인 기반 협업 인증 시스템 특허에 자본금 1이 적용 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent-2835a96a.md)
 * 2018-08-17 16:08 [$289 mln Monsanto 암 소송에 연결 된 치명적인 화학 물질을 추적 하는 데 사용 되는 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-used-to-trace-deadly-chemical-linked-to-289-mln-monsanto-cancer-lawsuit-63244b3e.md)
