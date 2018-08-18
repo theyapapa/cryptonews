@@ -1,0 +1,1 @@
+[Playboy Lawsuit: How Blockchain Developer Failed The Vice Industry Token](https://cointelegraph.com/news/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token)
