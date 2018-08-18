@@ -1,0 +1,1 @@
+[IBM Applies for Blockchain Patent to Ensure Transaction Compliance via Nodes Data](https://cointelegraph.com/news/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data)
