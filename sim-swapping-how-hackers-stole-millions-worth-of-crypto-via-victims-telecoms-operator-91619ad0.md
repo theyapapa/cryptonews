@@ -1,0 +1,1 @@
+[SIM Swapping: How Hackers Stole Millions Worth of Crypto Via Victim’s Telecoms Operator](https://cointelegraph.com/news/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator)
