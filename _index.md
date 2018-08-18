@@ -1,3 +1,4 @@
+* 2018-08-18 16:08 [암호화 시장은 약간의 침체를 참조 하십시오,이 더 리 움은 $300 지원을 개최 실패](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support-08633520.md)
 * 2018-08-18 15:08 [우 버의 가장 큰 주주, 소프트 뱅크는 bitmain, 불확실 한 다른 투자와 거래를 거부](https://github.com/theyapapa/cryptonews/blob/ko/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain-7f27fa33.md)
 * 2018-08-18 11:08 [플레이보이 소송: 블록 체인 개발자가 부통령 업계 토큰에 실패 한 방법](https://github.com/theyapapa/cryptonews/blob/ko/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token-8636c8b0.md)
 * 2018-08-18 04:08 [SIM 스와핑: 어떻게 해커가 피해자의 통신 사업자를 통해 암호화 수백만의 가치를 훔친](https://github.com/theyapapa/cryptonews/blob/ko/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator-91619ad0.md)
