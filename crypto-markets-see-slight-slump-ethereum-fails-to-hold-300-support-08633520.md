@@ -1,0 +1,1 @@
+[Crypto Markets See Slight Slump, Ethereum Fails to Hold $300 Support](https://cointelegraph.com/news/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support)
