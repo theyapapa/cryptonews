@@ -1,0 +1,1 @@
+[ETN vs. ETF: Which Is the Investor’s Dream?](https://cointelegraph.com/news/etn-vs-etf-which-is-the-investors-dream)
