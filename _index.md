@@ -1,3 +1,4 @@
+* 2018-08-19 15:08 [hodler의 다이제스트, 8 월 13-19: 조셉 루 빈은 암호 거품을 포용, 플레이보이 블록 체인에 대 한 참을성이 도착 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain-cbe7ff4e.md)
 * 2018-08-18 19:08 [etn vs. ETF: 투자자의 꿈은 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/etn-vs-etf-which-is-the-investors-dream-84ea04d7.md)
 * 2018-08-18 16:08 [암호화 시장은 약간의 침체를 참조 하십시오,이 더 리 움은 $300 지원을 개최 실패](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support-08633520.md)
 * 2018-08-18 15:08 [우 버의 가장 큰 주주, 소프트 뱅크는 bitmain, 불확실 한 다른 투자와 거래를 거부](https://github.com/theyapapa/cryptonews/blob/ko/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain-7f27fa33.md)
