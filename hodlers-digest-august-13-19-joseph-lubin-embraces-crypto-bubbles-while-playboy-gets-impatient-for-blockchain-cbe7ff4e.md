@@ -1,0 +1,1 @@
+[Hodler’s Digest, August 13-19: Joseph Lubin Embraces Crypto Bubbles, While Playboy Gets Impatient for Blockchain](https://cointelegraph.com/news/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain)
