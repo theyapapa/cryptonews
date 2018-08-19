@@ -1,3 +1,4 @@
+* 2018-08-18 19:08 [ETN против ЕФО: что является мечтой инвестора?](https://github.com/theyapapa/cryptonews/blob/ru/etn-vs-etf-which-is-the-investors-dream-84ea04d7.md)
 * 2018-08-18 16:08 [Crypto рынки видят небольшой спад, Ethereum не может провести $300 поддержки](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support-08633520.md)
 * 2018-08-18 15:08 [Uber крупнейший акционер Фукуока отрицает сделку с битмаин, другие инвестиции неопределенным](https://github.com/theyapapa/cryptonews/blob/ru/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain-7f27fa33.md)
 * 2018-08-18 11:08 [Плейбой иск: как разработчики цепочки не удалось вице промышленности маркер](https://github.com/theyapapa/cryptonews/blob/ru/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token-8636c8b0.md)
