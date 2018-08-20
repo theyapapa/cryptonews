@@ -1,0 +1,19 @@
+# 일본: 금융 거 대 한 sbi는 lastroots 암호화 교환에 새로운 투자를 하 게, 라이센스 취득을 지원 합니다 ...
+
+일본 금융 서비스 거 대 sbi 홀딩스 보도 자료 월요일, 8 월 20 일, 그것은 문제가 암호 화폐 교환 lastroots에 두 번째 투자를 했다 발표 했다.
+
+sbi는 지난 달 12 월 2017에서 초기 현금 주입을 따르는 투자 금액을 공개 하지 않고, 규제 라이센스를 확보 한 후 자체 암호 화폐 교환을 열었습니다.
+
+"우리는 가상 환전 사업을 등록 하는 사내 팀을 강화 하기 위해 준비 하 고 있습니다,"이 회사는 lastroots에 대 한 계획에 대 한 릴리스에서 설명 했다.
+
+하나는 개선에 대 한 규제 당국에 의해 점찍어 거래소의 다음 coincheck의 $5억3000만 해킹 올해 1 월, lastroots는 일본의 새로운 아래 엄격한 규제 요구 사항에 따라 자사의 비즈니스 모델에 과감 한 변화를 해야 했다 라이센스 체계.
+
+그것의 직원은 "관리 체계를 강화 한다 ... 암호 화폐 교환 사업 등록 \ [프로세스 \] 및 사업 성장 지원," 방출은 설명 한다.
+
+지난 주, 일본의 금융 서비스 기관 (FSA),이는 exchange 개선 및 라이센스 프로세스를 총괄, 자사의 현장 검사, 지난 몇 개월 동안 발생 되었습니다의 결과를 발표 했다.
+
+지금부터, 새로운 교환 사업자의 등록을 한 번 더, 지역 뉴스 아울렛 주장, FSA는 이러한 그럼에도 불구 하 고 처음부터 증가 감시의 대상이 될 것입니다 추가 가능 합니다.
+
+Original source: [Japan: Finance Giant SBI Makes New Investment in LastRoots Crypto Exchange, Will Aid License Acquisition](https://cointelegraph.com/news/japan-finance-giant-sbi-makes-new-investment-in-lastroots-crypto-exchange-will-aid-license-acquisition)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
