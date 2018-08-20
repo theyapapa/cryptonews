@@ -1,3 +1,4 @@
+* 2018-08-20 13:08 [블록 체인으로 산업을 개선 하기 위해 주요 보험 회사와 상하이 증권 거래소 파트너](https://github.com/theyapapa/cryptonews/blob/ko/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain-12a4efa0.md)
 * 2018-08-20 11:08 [일본: 금융 거 대 한 sbi는 lastroots 암호화 교환에 새로운 투자를 하 게, 라이센스 취득을 지원 합니다](https://github.com/theyapapa/cryptonews/blob/ko/japan-finance-giant-sbi-makes-new-investment-in-lastroots-crypto-exchange-will-aid-license-acquisition-6ce869ee.md)
 * 2018-08-20 09:08 [비트 코인 서클 $6500 변동성이 14 개월 저, 알트 코인 폭락으로 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump-b0219648.md)
 * 2018-08-20 08:08 [중국: 세 해커가 주장 $8700만 암호화에 훔치는 혐의로 체포](https://github.com/theyapapa/cryptonews/blob/ko/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto-670e3133.md)
