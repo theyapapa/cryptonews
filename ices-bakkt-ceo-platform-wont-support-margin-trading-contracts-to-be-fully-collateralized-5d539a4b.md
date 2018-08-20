@@ -1,0 +1,1 @@
+[ICE’s Bakkt CEO: Platform Won't Support Margin Trading, Contracts to Be Fully Collateralized](https://cointelegraph.com/news/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized)
