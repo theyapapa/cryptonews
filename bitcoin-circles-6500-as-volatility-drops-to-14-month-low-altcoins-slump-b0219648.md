@@ -1,0 +1,1 @@
+[Bitcoin Circles $6500 as Volatility Drops to 14-Month Low, Altcoins Slump](https://cointelegraph.com/news/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump)
