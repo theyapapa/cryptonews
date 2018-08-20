@@ -1,0 +1,19 @@
+# $240억 거래에서 중국 최대의 전기 버스 연산자와 블록 체인 회사 파트너 ...
+
+미국 기술 회사 세븐 스타 클라우드 그룹 (SSC)은 블록 체인 기술을 사용 하 여 금융 서비스를 제공 하기 위해 중국 최대의 전기 버스 연산자와 거래를 입력 했다고 발표 했다 8 월 20 일.
+
+전기 대 중 교통 overhauls에 대 한 중국의 지속적인 관심의 일부, 정부는 2021 즉시 전기 자동차와 모든 전통적인 버스를 대체할 계획 이다.
+
+SSC는 규제를 준수 하는 블록 체인 금융 제품을 통해 nts를 제공 하는 규제 네트워크를 통해 "고정 수입 리스 금융 기반 제품"을 구체적으로 제공 합니다.
+
+운영자의 대통령 jihong huang이 계획은 블록 체인과 인공 지능 (AI)의 사용을 통해 "전체 임대 금융 기반의 고정 수입 시장"의 중요 한 변화를 초래할 것 이라고 말했다.
+
+그 사이에 블록 체인 통합은 중국의 많은 경제 분야의 최상위 수준에서 계속 해 서 다가오고 있습니다.
+
+중국 은행 및 유니온 페이에의 한 블록 체인 결제 시스템에서 세금 계산 서에 이르기까지, 이번 달에는 주 및 민간 부문 모두에서 주요 공지사항을 볼 수 있었습니다.
+
+"중국에 있는 주요한 10 버스 제조자의 각각이 이니셔티브에 있는 nts를 강하게 후에, SSC를 가진이 거래의 성공은 지도에 자산 역행 된 디지털 방식으로 제물을 확고 하 게 둘 것 이다," huang는 추가 했다.
+
+Original source: [China’s Largest Electric Bus Operator and Blockchain Firm Partner in $24 Billion Deal](https://cointelegraph.com/news/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
