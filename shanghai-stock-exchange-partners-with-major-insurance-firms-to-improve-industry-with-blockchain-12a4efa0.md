@@ -1,0 +1,1 @@
+[Shanghai Stock Exchange Partners With Major Insurance Firms to Improve Industry With Blockchain](https://cointelegraph.com/news/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain)
