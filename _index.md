@@ -1,3 +1,4 @@
+* 2018-08-20 09:08 [Bitcoin кругов $6500 как волатильность падает до 14-месячного минимума, алткоинс спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump-b0219648.md)
 * 2018-08-20 08:08 [Китай: трое хакеров арестованы якобы за кражу $87 000 000 в крипто](https://github.com/theyapapa/cryptonews/blob/ru/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto-670e3133.md)
 * 2018-08-19 15:08 [Ходлер, Август 13-19: Джозеф Любин охватывает крипто пузыри, в то время как Playboy получает нетерпеливы для цепочки](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain-cbe7ff4e.md)
 * 2018-08-18 19:08 [ETN против ЕФО: что является мечтой инвестора?](https://github.com/theyapapa/cryptonews/blob/ru/etn-vs-etf-which-is-the-investors-dream-84ea04d7.md)
