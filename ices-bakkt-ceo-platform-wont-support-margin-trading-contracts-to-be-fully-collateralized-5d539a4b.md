@@ -1,0 +1,19 @@
+# ICE의 bakkt CEO: 플랫폼 마진 거래를 지원 하지 않습니다, 계약을 완전히 collateralized 수 ...
+
+bakkt — 최근 대륙간 거래소 (ICE)가 발표 한 암호화 자산에 대 한 차기 규제 글로벌 생태계는 8 월 20 일 발행 된 공식 매체 게시물에 따라 비트 코인 (BTC) 계약에 대 한 마진 거래를 지원 하지 않습니다.
+
+이달 초, ICE – 뉴욕 증권 거래소 (nyse)를 포함 하 여 23 개의 주요 글로벌 거래소를 운영 하는이 회사는 연방 정부의 규제를 받는 디지털 자산을 위한 "원활한" 글로벌 생태계를 구축 하는 야심찬 계획을 발표 했다. 시장 및 가맹점 및 소비자의 요구에 창 고.
+
+bakkt의 CEO 켈리 loeffler 오늘 그녀는 "일관 된 규제 구조," 제도적-학년 사전 및 사후 무역 인프라와 "투명, 효율적인 가격 발견을 확립 하는 것을 목표로 한다" 프로젝트의 세 가지 초석 설명 암호화 거래.
+
+CEO는이 계획 들이 현재 CME와 cboe에서 제공 하는 것과 같은 기존 BTC 선물 계약과 플랫폼의 전략을 차별화 한다는 것을 강조 하며,이는 궁극적으로 피아트 통화로 정산 됩니다.
+
+마진, 레 버리지 및 현금 결제를 허용 하는 것을 자제 함으로써 – 안전 하 고 규제 된 창 고를 제공--loeffler는 플랫폼이 시장 무결성을 더 잘 지원 하 고 그녀가 고려 하는 "신뢰할 수 있는 가격 형성"을 가능 하 게 한다고 주장 합니다 " 디지털 화폐의 약속을 발전시키는 것입니다. "
+
+loeffler의 발표는 주로 얼음의 초기 발표에 이미 표시 된 것을 확인 하는 동안,이 프로젝트의 의도의 명시적이 고 상세한 긍정은 오늘 암호화 커뮤니티에 의해 환영 되었습니다.
+
+이들은 늦은 2017에 있는 그들의 발사부터 선물 무역의 충격에 기존 하는 논쟁을, loeffler의 강조 한 감 별 법을 위한 확률이 높은 기세 오늘 반향 한다.
+
+Original source: [ICE’s Bakkt CEO: Platform Won't Support Margin Trading, Contracts to Be Fully Collateralized](https://cointelegraph.com/news/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
