@@ -1,3 +1,4 @@
+* 2018-08-20 09:08 [비트 코인 서클 $6500 변동성이 14 개월 저, 알트 코인 폭락으로 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump-b0219648.md)
 * 2018-08-20 08:08 [중국: 세 해커가 주장 $8700만 암호화에 훔치는 혐의로 체포](https://github.com/theyapapa/cryptonews/blob/ko/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto-670e3133.md)
 * 2018-08-19 15:08 [hodler의 다이제스트, 8 월 13-19: 조셉 루 빈은 암호 거품을 포용, 플레이보이 블록 체인에 대 한 참을성이 도착 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain-cbe7ff4e.md)
 * 2018-08-18 19:08 [etn vs. ETF: 투자자의 꿈은 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/etn-vs-etf-which-is-the-investors-dream-84ea04d7.md)
