@@ -1,0 +1,1 @@
+[Japan: Finance Giant SBI Makes New Investment in LastRoots Crypto Exchange, Will Aid License Acquisition](https://cointelegraph.com/news/japan-finance-giant-sbi-makes-new-investment-in-lastroots-crypto-exchange-will-aid-license-acquisition)
