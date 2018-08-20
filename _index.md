@@ -1,3 +1,4 @@
+* 2018-08-20 17:08 [ICE의 bakkt CEO: 플랫폼 마진 거래를 지원 하지 않습니다, 계약을 완전히 collateralized 수](https://github.com/theyapapa/cryptonews/blob/ko/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized-5d539a4b.md)
 * 2018-08-20 15:08 [$240억 거래에서 중국 최대의 전기 버스 운영 업체 및 블록 체인 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal-9d74a9f9.md)
 * 2018-08-20 13:08 [블록 체인으로 산업을 개선 하기 위해 주요 보험 회사와 상하이 증권 거래소 파트너](https://github.com/theyapapa/cryptonews/blob/ko/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain-12a4efa0.md)
 * 2018-08-20 11:08 [일본: 금융 거 대 한 sbi는 lastroots 암호화 교환에 새로운 투자를 하 게, 라이센스 취득을 지원 합니다](https://github.com/theyapapa/cryptonews/blob/ko/japan-finance-giant-sbi-makes-new-investment-in-lastroots-crypto-exchange-will-aid-license-acquisition-6ce869ee.md)
