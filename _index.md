@@ -1,3 +1,4 @@
+* 2018-08-20 09:08 [Bitcoin círculos $6500 como la volatilidad cae a 14 meses de baja, Altcoins depresión](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump-b0219648.md)
 * 2018-08-20 08:08 [China: tres hackers arrestados por presuntamente robar $87 millones en Crypto](https://github.com/theyapapa/cryptonews/blob/es/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto-670e3133.md)
 * 2018-08-19 15:08 [Resumen de Hodler, agosto 13-19: José Lubin abraza burbujas Crypto, mientras que el Playboy consigue impaciente para bloques](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain-cbe7ff4e.md)
 * 2018-08-18 19:08 [ETN vs ETF: ¿Cuál es el sueño del inversor?](https://github.com/theyapapa/cryptonews/blob/es/etn-vs-etf-which-is-the-investors-dream-84ea04d7.md)
