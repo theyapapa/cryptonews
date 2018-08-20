@@ -1,0 +1,1 @@
+[China’s Largest Electric Bus Operator and Blockchain Firm Partner in $24 Billion Deal](https://cointelegraph.com/news/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal)
