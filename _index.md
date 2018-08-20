@@ -1,3 +1,4 @@
+* 2018-08-20 08:08 [중국: 세 해커가 주장 $8700만 암호화에 훔치는 혐의로 체포](https://github.com/theyapapa/cryptonews/blob/ko/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto-670e3133.md)
 * 2018-08-19 15:08 [hodler의 다이제스트, 8 월 13-19: 조셉 루 빈은 암호 거품을 포용, 플레이보이 블록 체인에 대 한 참을성이 도착 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain-cbe7ff4e.md)
 * 2018-08-18 19:08 [etn vs. ETF: 투자자의 꿈은 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/etn-vs-etf-which-is-the-investors-dream-84ea04d7.md)
 * 2018-08-18 16:08 [암호화 시장은 약간의 침체를 참조 하십시오,이 더 리 움은 $300 지원을 개최 실패](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support-08633520.md)
