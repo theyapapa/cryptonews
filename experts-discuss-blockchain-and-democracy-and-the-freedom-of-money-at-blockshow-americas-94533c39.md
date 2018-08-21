@@ -1,0 +1,1 @@
+[Experts Discuss Blockchain and Democracy and The ‘Freedom of Money’ at BlockShow Americas](https://cointelegraph.com/news/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas)
