@@ -1,0 +1,1 @@
+[Altcoins See Red, While Bitcoin Shows Dogged Resilience](https://cointelegraph.com/news/altcoins-see-red-while-bitcoin-shows-dogged-resilience)
