@@ -1,3 +1,4 @@
+* 2018-08-21 13:08 [Altcoins ver rojo, mientras que Bitcoin muestra resistencia obstinada](https://github.com/theyapapa/cryptonews/blob/es/altcoins-see-red-while-bitcoin-shows-dogged-resilience-9cdeaa1b.md)
 * 2018-08-21 12:08 [Investigación: global Automotive bloques mercado fijado para alcanzar $1,6 mil millones por 2026](https://github.com/theyapapa/cryptonews/blob/es/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026-53b7bf4c.md)
 * 2018-08-21 09:08 [Canadá: programa de investigación financiado por el estado IRAP ahora alberga bloques Explorer](https://github.com/theyapapa/cryptonews/blob/es/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer-db853bc9.md)
 * 2018-08-21 07:08 [Siete clubes de fútbol de Premier League firmar contrato de publicidad de Bitcoin con eToro](https://github.com/theyapapa/cryptonews/blob/es/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro-4abe8388.md)
