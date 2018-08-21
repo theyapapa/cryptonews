@@ -1,3 +1,4 @@
+* 2018-08-21 09:08 [Канада: финансируемая государством исследовательская программа IRAP теперь хосты проводника](https://github.com/theyapapa/cryptonews/blob/ru/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer-db853bc9.md)
 * 2018-08-21 07:08 [Семь футбольных клубов Премьер-лиги подписывают биткойн-рекламную сделку с eToro](https://github.com/theyapapa/cryptonews/blob/ru/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro-4abe8388.md)
 * 2018-08-20 22:08 [Эксперты обсуждают цепочки и демократии и "свободу денег" на блоккшов Америки](https://github.com/theyapapa/cryptonews/blob/ru/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas-94533c39.md)
 * 2018-08-20 20:08 [Хуоби запускает новый сервис для оптимизации процесса листинга маркеров](https://github.com/theyapapa/cryptonews/blob/ru/huobi-launches-new-service-to-streamline-token-listing-application-process-9708874c.md)
