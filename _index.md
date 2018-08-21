@@ -1,3 +1,4 @@
+* 2018-08-21 13:08 [Алткоинс видят красный, в то время как Bitcoin демонстрирует упорную устойчивость](https://github.com/theyapapa/cryptonews/blob/ru/altcoins-see-red-while-bitcoin-shows-dogged-resilience-9cdeaa1b.md)
 * 2018-08-21 12:08 [Исследования: глобальный автомобильный рынок цепочки набор для достижения $1 600 000 000 по 2026](https://github.com/theyapapa/cryptonews/blob/ru/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026-53b7bf4c.md)
 * 2018-08-21 09:08 [Канада: финансируемая государством исследовательская программа IRAP теперь хосты проводника](https://github.com/theyapapa/cryptonews/blob/ru/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer-db853bc9.md)
 * 2018-08-21 07:08 [Семь футбольных клубов Премьер-лиги подписывают биткойн-рекламную сделку с eToro](https://github.com/theyapapa/cryptonews/blob/ru/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro-4abe8388.md)
