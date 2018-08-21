@@ -1,0 +1,1 @@
+[Canada: State-Funded Research Program IRAP Now Hosts Blockchain Explorer](https://cointelegraph.com/news/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer)
