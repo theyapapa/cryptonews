@@ -1,0 +1,1 @@
+[Huobi Launches New Service to Streamline Token Listing Application Process](https://cointelegraph.com/news/huobi-launches-new-service-to-streamline-token-listing-application-process)
