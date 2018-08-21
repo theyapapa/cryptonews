@@ -1,3 +1,4 @@
+* 2018-08-21 12:08 [연구: 글로벌 자동차 블록 체인 시장 $16억에 도달 하도록 설정 2026](https://github.com/theyapapa/cryptonews/blob/ko/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026-53b7bf4c.md)
 * 2018-08-21 09:08 [캐나다: 국가 투자 연구 프로그램 irap 이제 블록 체인 탐색기를 호스트](https://github.com/theyapapa/cryptonews/blob/ko/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer-db853bc9.md)
 * 2018-08-21 07:08 [세븐 프리미어 리그 축구 클럽은 e 토로와 비트 코인 광고 계약에 서명](https://github.com/theyapapa/cryptonews/blob/ko/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro-4abe8388.md)
 * 2018-08-20 22:08 [전문가 들은 블록 체인 및 민주주의와 blockshow 아메리카에서 ' 돈의 자유 '를 논의](https://github.com/theyapapa/cryptonews/blob/ko/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas-94533c39.md)
