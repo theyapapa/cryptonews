@@ -1,0 +1,1 @@
+[Seven Premier League Football Clubs Sign Bitcoin Advertising Deal With eToro](https://cointelegraph.com/news/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro)
