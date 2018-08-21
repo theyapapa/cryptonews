@@ -1,3 +1,4 @@
+* 2018-08-21 07:08 [세븐 프리미어 리그 축구 클럽은 e 토로와 비트 코인 광고 계약에 서명](https://github.com/theyapapa/cryptonews/blob/ko/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro-4abe8388.md)
 * 2018-08-20 22:08 [전문가 들은 블록 체인 및 민주주의와 blockshow 아메리카에서 ' 돈의 자유 '를 논의](https://github.com/theyapapa/cryptonews/blob/ko/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas-94533c39.md)
 * 2018-08-20 20:08 [huobi는 토큰 리스팅 신청 프로세스를 간소화 하기 위해 새로운 서비스를 개시](https://github.com/theyapapa/cryptonews/blob/ko/huobi-launches-new-service-to-streamline-token-listing-application-process-9708874c.md)
 * 2018-08-20 17:08 [ICE의 bakkt CEO: 플랫폼 마진 거래를 지원 하지 않습니다, 계약을 완전히 collateralized 수](https://github.com/theyapapa/cryptonews/blob/ko/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized-5d539a4b.md)
