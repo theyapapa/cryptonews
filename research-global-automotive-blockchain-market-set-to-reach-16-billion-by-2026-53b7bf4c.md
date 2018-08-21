@@ -1,0 +1,1 @@
+[Research: Global Automotive Blockchain Market Set to Reach $1.6 Billion by 2026](https://cointelegraph.com/news/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026)
