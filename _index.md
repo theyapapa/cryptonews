@@ -1,3 +1,4 @@
+* 2018-08-20 20:08 [huobi는 토큰 리스팅 신청 프로세스를 간소화 하기 위해 새로운 서비스를 개시](https://github.com/theyapapa/cryptonews/blob/ko/huobi-launches-new-service-to-streamline-token-listing-application-process-9708874c.md)
 * 2018-08-20 17:08 [ICE의 bakkt CEO: 플랫폼 마진 거래를 지원 하지 않습니다, 계약을 완전히 collateralized 수](https://github.com/theyapapa/cryptonews/blob/ko/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized-5d539a4b.md)
 * 2018-08-20 15:08 [$240억 거래에서 중국 최대의 전기 버스 운영 업체 및 블록 체인 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal-9d74a9f9.md)
 * 2018-08-20 13:08 [블록 체인으로 산업을 개선 하기 위해 주요 보험 회사와 상하이 증권 거래소 파트너](https://github.com/theyapapa/cryptonews/blob/ko/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain-12a4efa0.md)
