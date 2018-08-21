@@ -1,3 +1,4 @@
+* 2018-08-21 16:08 [DST 글로벌은 소프트 뱅크의 몇 일 후에 bitmain IPO 투자를 거부 하 고, 텐 센트의 개입은 질문에 촉구 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question-df310b52.md)
 * 2018-08-21 13:08 [비트 코인이 완고 한 탄력을 보여주는 동안 알트 코인은 빨간색으로 표시 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/altcoins-see-red-while-bitcoin-shows-dogged-resilience-9cdeaa1b.md)
 * 2018-08-21 12:08 [연구: 글로벌 자동차 블록 체인 시장 $16억에 도달 하도록 설정 2026](https://github.com/theyapapa/cryptonews/blob/ko/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026-53b7bf4c.md)
 * 2018-08-21 09:08 [캐나다: 국가 투자 연구 프로그램 irap 이제 블록 체인 탐색기를 호스트](https://github.com/theyapapa/cryptonews/blob/ko/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer-db853bc9.md)
