@@ -1,3 +1,4 @@
+* 2018-08-22 00:08 [구글 Play 스토어, 악성 코드 연구원 보고서에이 더 리 움 사기 앱이 나타납니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-scam-app-appears-on-google-play-store-malware-researcher-reports-43ebc2b3.md)
 * 2018-08-21 22:08 [전문가 들은 암호의 미래를 토론 하 고 blockshow 아메리카 2018에서 사용 사례를 논의](https://github.com/theyapapa/cryptonews/blob/ko/experts-debate-cryptos-future-and-discuss-use-cases-at-blockshow-americas-2018-61233bea.md)
 * 2018-08-21 16:08 [DST 글로벌은 소프트 뱅크의 몇 일 후에 bitmain IPO 투자를 거부 하 고, 텐 센트의 개입은 질문에 촉구 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question-df310b52.md)
 * 2018-08-21 13:08 [비트 코인이 완고 한 탄력을 보여주는 동안 알트 코인은 빨간색으로 표시 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/altcoins-see-red-while-bitcoin-shows-dogged-resilience-9cdeaa1b.md)
