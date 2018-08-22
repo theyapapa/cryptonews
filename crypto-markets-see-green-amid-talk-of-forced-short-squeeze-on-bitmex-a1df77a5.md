@@ -1,0 +1,1 @@
+[Crypto Markets See Green Amid Talk of ‘Forced Short Squeeze’ on BitMEX](https://cointelegraph.com/news/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex)
