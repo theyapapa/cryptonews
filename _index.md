@@ -1,3 +1,4 @@
+* 2018-08-22 10:08 [암호화 시장은 bitmex에서 ' 강제 짧은 스퀴즈 '의 이야기 가운데 녹색을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex-a1df77a5.md)
 * 2018-08-22 09:08 [전문가: 베네수엘라의 석유는 ' smokescreen ' 중앙 집중화 된 채무에 의해 뒷받침-불구 엔티티](https://github.com/theyapapa/cryptonews/blob/ko/experts-venezuelas-petro-is-a-smokescreen-backed-by-centralized-debt-crippled-entity-15816234.md)
 * 2018-08-22 07:08 [대시 코어 그룹 CEO: 암호화 스파이크에 대 한 관심으로 베네수엘라 ' 제 2 회 가장 큰 시장 '](https://github.com/theyapapa/cryptonews/blob/ko/dash-core-group-ceo-venezuela-2nd-biggest-market-as-interest-in-crypto-spikes-60d052b4.md)
 * 2018-08-22 00:08 [총 암호화 시장 캡은 비트 멕 스가 거래를 일시 중지 한 시간에 $1200만 점프](https://github.com/theyapapa/cryptonews/blob/ko/total-crypto-market-cap-jumps-12-million-in-an-hour-as-bitmex-pauses-trading-1fa2baf7.md)
