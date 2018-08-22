@@ -1,0 +1,1 @@
+[Total Crypto Market Cap Jumps $12 Million in an Hour as BitMEX Pauses Trading](https://cointelegraph.com/news/total-crypto-market-cap-jumps-12-million-in-an-hour-as-bitmex-pauses-trading)
