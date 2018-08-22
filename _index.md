@@ -1,3 +1,4 @@
+* 2018-08-22 07:08 [대시 코어 그룹 CEO: 암호화 스파이크에 대 한 관심으로 베네수엘라 ' 제 2 회 가장 큰 시장 '](https://github.com/theyapapa/cryptonews/blob/ko/dash-core-group-ceo-venezuela-2nd-biggest-market-as-interest-in-crypto-spikes-60d052b4.md)
 * 2018-08-22 00:08 [총 암호화 시장 캡은 비트 멕 스가 거래를 일시 중지 한 시간에 $1200만 점프](https://github.com/theyapapa/cryptonews/blob/ko/total-crypto-market-cap-jumps-12-million-in-an-hour-as-bitmex-pauses-trading-1fa2baf7.md)
 * 2018-08-22 00:08 [구글 Play 스토어, 악성 코드 연구원 보고서에이 더 리 움 사기 앱이 나타납니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-scam-app-appears-on-google-play-store-malware-researcher-reports-43ebc2b3.md)
 * 2018-08-21 22:08 [전문가 들은 암호의 미래를 토론 하 고 blockshow 아메리카 2018에서 사용 사례를 논의](https://github.com/theyapapa/cryptonews/blob/ko/experts-debate-cryptos-future-and-discuss-use-cases-at-blockshow-americas-2018-61233bea.md)
