@@ -1,0 +1,1 @@
+[Experts: Venezuela's Petro Is a ‘Smokescreen’ Backed by Centralized Debt-Crippled Entity](https://cointelegraph.com/news/experts-venezuelas-petro-is-a-smokescreen-backed-by-centralized-debt-crippled-entity)
