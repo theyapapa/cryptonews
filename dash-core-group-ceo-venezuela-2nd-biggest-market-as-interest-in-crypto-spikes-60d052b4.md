@@ -1,0 +1,1 @@
+[Dash Core Group CEO: Venezuela ‘2nd Biggest Market’ as Interest in Crypto Spikes](https://cointelegraph.com/news/dash-core-group-ceo-venezuela-2nd-biggest-market-as-interest-in-crypto-spikes)
