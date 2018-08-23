@@ -1,0 +1,1 @@
+[World Bank and Australia's Largest Bank Issue Bond Exclusively Through Blockchain](https://cointelegraph.com/news/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain)
