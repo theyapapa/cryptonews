@@ -1,3 +1,4 @@
+* 2018-08-23 11:08 [Online ID контроль: цепочки платформ против правительств и Facebook](https://github.com/theyapapa/cryptonews/blob/ru/online-id-control-blockchain-platforms-vs-governments-and-facebook-509a7533.md)
 * 2018-08-23 10:08 [Штат Нью-Йорк, чтобы увидеть Bitcoin добыча работает на гидроэлектростанции плотины в Q4 2018](https://github.com/theyapapa/cryptonews/blob/ru/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018-ee1e7fc2.md)
 * 2018-08-23 08:08 [Кита запрещает Crypto-родственную промотирование в Чаоян районе Пекин](https://github.com/theyapapa/cryptonews/blob/ru/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district-184138bd.md)
 * 2018-08-23 06:08 [«Лаборатория Касперского»: Северная Корея взломала обмен валют с «первым» вредоносным по macOS](https://github.com/theyapapa/cryptonews/blob/ru/kaspersky-lab-north-korea-hacks-cryptocurrency-exchange-with-first-macos-malware-44b3c19b.md)
