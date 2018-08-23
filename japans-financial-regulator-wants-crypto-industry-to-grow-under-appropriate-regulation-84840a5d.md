@@ -1,0 +1,1 @@
+[Japan’s Financial Regulator Wants Crypto Industry to ‘Grow Under Appropriate Regulation’](https://cointelegraph.com/news/japans-financial-regulator-wants-crypto-industry-to-grow-under-appropriate-regulation)
