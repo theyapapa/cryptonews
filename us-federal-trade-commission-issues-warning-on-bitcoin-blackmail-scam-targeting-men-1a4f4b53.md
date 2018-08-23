@@ -1,0 +1,19 @@
+# 미국 연방 무역 위원회 문제 비트 코인 협박 사기 ' 타겟팅 남성 '에 대 한 경고 ...
+
+미국 연방 거래 위원회의 소비자 및 비즈니스 교육 부문 (FTC)은 8 월 21 일 "비트 코인 협박 사기를 방지 하는 방법" 이라는 제목의 기사를 발표 했다.
+
+FTC의 편지는 비트 코인 (BTC)에서 지불을 요구 하는 사기를 협박 하는 것에 대 한 경고, "남성을 대상으로 하는 새로운 사기" 라고 부르는 소비자 보호에 초점을 맞춥니다.
+
+사기 범은 남성에 게 편지를 보내고 있으며, 혐의 업무에 대해 조용히 유지 하는 대가로 \ [B \] itcoin를 사용 하 여 지불을 요구 합니다.
+
+이 편지는 또한 \ [B \] itcoin을 사용 하 여 지불 하는 방법을 설명 합니다. "
+
+blackmailing의 "고전적인 징후" 중, FTC는 "위협, 협박 및 고압 전술"을 나열 하 고 소비자에 게 "즉시 해당 지역의 경찰에 신고 하 고, FBI는 조언."
+
+사이버 보안 회사 카스 퍼 스키 연구소는 최근 2018의 2 분기 동안 암호화 된 사기를 통해 $230만 이상 훔친 사이버 범죄자에 따라 보고서를 발표 했다.
+
+이번 달 초 영국 경찰은 암호화 관련 사기가 이번 여름에 혼자 투자자 손실 $255만에 이르렀다는 보고서를 발표 했다.
+
+Original source: [US Federal Trade Commission Issues Warning on Bitcoin Blackmail Scam ‘Targeting Men’](https://cointelegraph.com/news/us-federal-trade-commission-issues-warning-on-bitcoin-blackmail-scam-targeting-men)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
