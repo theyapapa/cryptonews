@@ -1,0 +1,1 @@
+[Online ID Control: Blockchain Platforms vs. Governments and Facebook](https://cointelegraph.com/news/online-id-control-blockchain-platforms-vs-governments-and-facebook)
