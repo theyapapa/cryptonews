@@ -1,0 +1,1 @@
+[US Federal Trade Commission Issues Warning on Bitcoin Blackmail Scam ‘Targeting Men’](https://cointelegraph.com/news/us-federal-trade-commission-issues-warning-on-bitcoin-blackmail-scam-targeting-men)
