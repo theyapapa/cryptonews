@@ -1,3 +1,4 @@
+* 2018-08-23 10:08 [뉴욕 주 4 분기 2018에서 수력 발전 댐에 의해 구동 비트 코인 채굴 작업을 볼 수](https://github.com/theyapapa/cryptonews/blob/ko/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018-ee1e7fc2.md)
 * 2018-08-23 08:08 [중국은 베이징의 차오양 지구에 있는 암호 관련 된 승진을 금지 한다](https://github.com/theyapapa/cryptonews/blob/ko/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district-184138bd.md)
 * 2018-08-23 06:08 [카스 퍼 스키 랩: 북한 해킹 암호 화폐 교환 ' 첫 번째 ' 맥 os 악성 코드](https://github.com/theyapapa/cryptonews/blob/ko/kaspersky-lab-north-korea-hacks-cryptocurrency-exchange-with-first-macos-malware-44b3c19b.md)
 * 2018-08-23 01:08 [미국 연방 무역 위원회 문제 비트 코인 협박 사기 ' 타겟팅 남성 '에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/us-federal-trade-commission-issues-warning-on-bitcoin-blackmail-scam-targeting-men-1a4f4b53.md)
