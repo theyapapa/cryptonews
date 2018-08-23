@@ -1,3 +1,4 @@
+* 2018-08-23 13:08 [Всемирный банк и крупнейший банк Австралии выпуск облигаций исключительно через цепочки](https://github.com/theyapapa/cryptonews/blob/ru/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain-6fd48972.md)
 * 2018-08-23 11:08 [Online ID контроль: цепочки платформ против правительств и Facebook](https://github.com/theyapapa/cryptonews/blob/ru/online-id-control-blockchain-platforms-vs-governments-and-facebook-509a7533.md)
 * 2018-08-23 10:08 [Штат Нью-Йорк, чтобы увидеть Bitcoin добыча работает на гидроэлектростанции плотины в Q4 2018](https://github.com/theyapapa/cryptonews/blob/ru/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018-ee1e7fc2.md)
 * 2018-08-23 08:08 [Кита запрещает Crypto-родственную промотирование в Чаоян районе Пекин](https://github.com/theyapapa/cryptonews/blob/ru/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district-184138bd.md)
