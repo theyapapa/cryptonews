@@ -1,0 +1,1 @@
+[SEC Rejects 9 Bitcoin ETF Applications from ProShares, Direxion and GraniteShares](https://cointelegraph.com/news/sec-rejects-9-bitcoin-etf-applications-from-proshares-direxion-and-graniteshares)
