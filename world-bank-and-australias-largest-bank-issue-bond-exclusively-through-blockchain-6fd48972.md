@@ -1,0 +1,19 @@
+# 세계 은행과 호주 최대의 은행 문제 채권 독점적으로 블록 체인을 통해 ...
+
+세계은행과 호주 연방 은행 (cba)은 블록 체인 기술, 로이터 보고서 8 월 23 일을 통해 독점적으로 공개 채권을 발행 했습니다.
+
+"bondi" 라고 불리는이 프로토 타입 (블록 체인은 새로운 부채 악기, 호주에서 가장 잘 알려진 해변에 대 한 말 장난)--수십 년 된 채권 발행 및 판매 관행을 자동화 하는 이정표를 통해 참가자 들에 게 찬사를 받고 있습니다.
+
+로이터는 cba이 그 제 큐 티브 제너럴 매니저, 제임스 장성, 그 말을 인용: "당신은 수동 bookbuild 프로세스 및 할당 과정에서, 확장 합의 후 등록 및 후견인, 뭔가로 전통적인 채권 발행 무너지고 있어 수 즉시 온라인으로 발생 합니다. "
+
+로이터 노트로 서, 단어 은행 채권은 AAA 등급으로 분류 됩니다--신용도의 높은 수준을 나타냅니다 가능한 가장 높은 등급.
+
+cointelegraph이 보고 된 바와 같이,이 5 월, sberbank cib-러시아 최대 규모의 은행 sberbank의 기업 및 투자 은행 팔-러시아에서 첫 번째 블록 체인 기반의 상업 채권 거래를 실시 했다.
+
+이 거래는 선도적인 지역 통신 회사 MTS와 국가 정착 보관소 (nsd)와 제휴 하 여 완료 되었으며, RUB 7500억 ($1200만)의 가치에 대 한 MTS 회사채의 스마트 계약 활성화 발행을 6 개월 성숙.
+
+지난해 12 월 현재, 호주 증권 거래소 (asx)는 주식 거래를 처리 하기 위해 현재의 시스템을 대체 하는 블록 체인 기술을 구현 하기 위해 노력 하 고 있습니다, 오늘 로이터 노트는 2020에 의해 완료 될 예정 이다 프로젝트.
+
+Original source: [World Bank and Australia's Largest Bank Issue Bond Exclusively Through Blockchain](https://cointelegraph.com/news/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
