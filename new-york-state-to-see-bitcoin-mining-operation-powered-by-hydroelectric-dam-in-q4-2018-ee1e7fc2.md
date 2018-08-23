@@ -1,0 +1,1 @@
+[New York State to See Bitcoin Mining Operation Powered by Hydroelectric Dam in Q4 2018](https://cointelegraph.com/news/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018)
