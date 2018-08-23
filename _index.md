@@ -1,3 +1,4 @@
+* 2018-08-23 06:08 [카스 퍼 스키 랩: 북한 해킹 암호 화폐 교환 ' 첫 번째 ' 맥 os 악성 코드](https://github.com/theyapapa/cryptonews/blob/ko/kaspersky-lab-north-korea-hacks-cryptocurrency-exchange-with-first-macos-malware-44b3c19b.md)
 * 2018-08-23 01:08 [미국 연방 무역 위원회 문제 비트 코인 협박 사기 ' 타겟팅 남성 '에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/us-federal-trade-commission-issues-warning-on-bitcoin-blackmail-scam-targeting-men-1a4f4b53.md)
 * 2018-08-22 23:08 [일본의 금융 규제는 암호화 산업이 ' 적절 한 규정에 따라 성장 ' 하기를 원합니다](https://github.com/theyapapa/cryptonews/blob/ko/japans-financial-regulator-wants-crypto-industry-to-grow-under-appropriate-regulation-84840a5d.md)
 * 2018-08-22 20:08 [SEC는 proshares에서 9 비트 ETF 응용 프로그램을 거부, direxion 이온과 granithares](https://github.com/theyapapa/cryptonews/blob/ko/sec-rejects-9-bitcoin-etf-applications-from-proshares-direxion-and-graniteshares-27d6b81c.md)
