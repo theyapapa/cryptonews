@@ -1,0 +1,1 @@
+[China Prohibits Crypto-Related Promotion in Beijing’s Chaoyang District](https://cointelegraph.com/news/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district)
