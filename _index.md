@@ -1,3 +1,4 @@
+* 2018-08-24 12:08 [s. 한국의 최고 암호 교환 업 비트 아무리 베어 시장, 게시물 $1억 3 분기에 이익 2018](https://github.com/theyapapa/cryptonews/blob/ko/s-koreas-top-crypto-exchange-upbit-defies-bear-market-posts-100-million-profits-in-q3-2018-5a96cdd4.md)
 * 2018-08-24 10:08 [Mt. gox crypto 교환은 분실 된 기금을 요구 하기 위하여 채권자를 위한 요구를 연다](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds-000d0ba4.md)
 * 2018-08-24 07:08 [딜로 이트, 나스닥과 싱가포르 중앙 은행 파트너 블록 체인 자산 정산에](https://github.com/theyapapa/cryptonews/blob/ko/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement-68632cb9.md)
 * 2018-08-23 21:08 [Pornhub 파트너와 puappay 지불로 암호화를 수락](https://github.com/theyapapa/cryptonews/blob/ko/pornhub-partners-with-pumapay-to-accept-crypto-as-payments-fb04c723.md)
