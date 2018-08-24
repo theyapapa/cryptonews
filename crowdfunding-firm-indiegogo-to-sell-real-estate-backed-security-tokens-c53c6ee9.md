@@ -1,0 +1,1 @@
+[Crowdfunding Firm Indiegogo to Sell Real Estate-Backed Security Tokens](https://cointelegraph.com/news/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens)
