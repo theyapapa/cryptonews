@@ -1,3 +1,4 @@
+* 2018-08-23 20:08 [Компания "Indiegogo" продает жетоны безопасности, защищенные недвижимостью](https://github.com/theyapapa/cryptonews/blob/ru/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens-c53c6ee9.md)
 * 2018-08-23 13:08 [Всемирный банк и крупнейший банк Австралии выпуск облигаций исключительно через цепочки](https://github.com/theyapapa/cryptonews/blob/ru/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain-6fd48972.md)
 * 2018-08-23 11:08 [Online ID контроль: цепочки платформ против правительств и Facebook](https://github.com/theyapapa/cryptonews/blob/ru/online-id-control-blockchain-platforms-vs-governments-and-facebook-509a7533.md)
 * 2018-08-23 10:08 [Штат Нью-Йорк, чтобы увидеть Bitcoin добыча работает на гидроэлектростанции плотины в Q4 2018](https://github.com/theyapapa/cryptonews/blob/ru/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018-ee1e7fc2.md)
