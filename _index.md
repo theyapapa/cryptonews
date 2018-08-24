@@ -1,3 +1,4 @@
+* 2018-08-23 20:08 [크 라우드 펀 딩 회사 indiegogo 부동산 지원 보안 토큰 판매](https://github.com/theyapapa/cryptonews/blob/ko/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens-c53c6ee9.md)
 * 2018-08-23 13:08 [블록 체인을 통해 독점적으로 세계 은행과 호주 최대의 은행 문제 채권](https://github.com/theyapapa/cryptonews/blob/ko/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain-6fd48972.md)
 * 2018-08-23 11:08 [온라인 ID 제어: 블록 체인 플랫폼 vs. 정부와 페이스북](https://github.com/theyapapa/cryptonews/blob/ko/online-id-control-blockchain-platforms-vs-governments-and-facebook-509a7533.md)
 * 2018-08-23 10:08 [뉴욕 주 4 분기 2018에서 수력 발전 댐에 의해 구동 비트 코인 채굴 작업을 볼 수](https://github.com/theyapapa/cryptonews/blob/ko/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018-ee1e7fc2.md)
