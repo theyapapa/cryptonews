@@ -1,0 +1,1 @@
+[Mt. Gox Crypto Exchange Opens Claims for Creditors to Request Lost Funds](https://cointelegraph.com/news/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds)
