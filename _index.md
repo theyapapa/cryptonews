@@ -1,3 +1,4 @@
+* 2018-08-24 18:08 [러시아의 내무부는 등록 되지 않은 암호화 활동을 criminalizing 제안, 보고서를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report-bcd5a327.md)
 * 2018-08-24 17:08 [블록 체인 뱅킹: 세계 은행은 호주의 cba와 ' 본다이 ' 본드의 출시를 unpacks](https://github.com/theyapapa/cryptonews/blob/ko/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba-49a8662f.md)
 * 2018-08-24 13:08 [오하이오 국회 의원, 학자는 국가 블록 체인 개발을 위한 허브를 만들 계획](https://github.com/theyapapa/cryptonews/blob/ko/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development-0b647c4f.md)
 * 2018-08-24 12:08 [s. 한국의 최고 암호 교환 업 비트 아무리 베어 시장, 게시물 $1억 3 분기에 이익 2018](https://github.com/theyapapa/cryptonews/blob/ko/s-koreas-top-crypto-exchange-upbit-defies-bear-market-posts-100-million-profits-in-q3-2018-5a96cdd4.md)
