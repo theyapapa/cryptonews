@@ -1,0 +1,1 @@
+[S. Korea's Top Crypto Exchange Upbit Defies Bear Market, Posts $100 Million Profits in Q3 2018](https://cointelegraph.com/news/s-koreas-top-crypto-exchange-upbit-defies-bear-market-posts-100-million-profits-in-q3-2018)
