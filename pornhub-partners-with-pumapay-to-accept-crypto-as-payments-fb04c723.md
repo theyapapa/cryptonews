@@ -1,0 +1,1 @@
+[Pornhub Partners With PumaPay to Accept Crypto as Payments](https://cointelegraph.com/news/pornhub-partners-with-pumapay-to-accept-crypto-as-payments)
