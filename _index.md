@@ -1,3 +1,4 @@
+* 2018-08-23 21:08 [PornHub se asocia con PumaPay para aceptar los pagos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/pornhub-partners-with-pumapay-to-accept-crypto-as-payments-fb04c723.md)
 * 2018-08-23 20:08 [Firma Indiegogo para vender tokens de seguridad con respaldo inmobiliario](https://github.com/theyapapa/cryptonews/blob/es/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens-c53c6ee9.md)
 * 2018-08-23 13:08 [Banco Mundial y la mayor emisión de bonos bancarios de Australia exclusivamente a través de bloques](https://github.com/theyapapa/cryptonews/blob/es/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain-6fd48972.md)
 * 2018-08-23 11:08 [Online ID control: bloques plataformas frente a gobiernos y Facebook](https://github.com/theyapapa/cryptonews/blob/es/online-id-control-blockchain-platforms-vs-governments-and-facebook-509a7533.md)
