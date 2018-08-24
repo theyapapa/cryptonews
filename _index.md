@@ -1,3 +1,4 @@
+* 2018-08-24 10:08 [MT. GOX Crypto Exchange открывает претензии кредиторов на запрос потерянных средств](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds-000d0ba4.md)
 * 2018-08-24 07:08 [Сингапур Центральный банк партнеры с Deloitte, NASDAQ по цепочке активов урегулирования](https://github.com/theyapapa/cryptonews/blob/ru/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement-68632cb9.md)
 * 2018-08-23 21:08 [Pornhub партнеров с пумапай принять Crypto как платежи](https://github.com/theyapapa/cryptonews/blob/ru/pornhub-partners-with-pumapay-to-accept-crypto-as-payments-fb04c723.md)
 * 2018-08-23 20:08 [Компания "Indiegogo" продает жетоны безопасности, защищенные недвижимостью](https://github.com/theyapapa/cryptonews/blob/ru/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens-c53c6ee9.md)
