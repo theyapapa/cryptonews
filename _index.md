@@ -1,3 +1,4 @@
+* 2018-08-23 21:08 [Pornhub партнеров с пумапай принять Crypto как платежи](https://github.com/theyapapa/cryptonews/blob/ru/pornhub-partners-with-pumapay-to-accept-crypto-as-payments-fb04c723.md)
 * 2018-08-23 20:08 [Компания "Indiegogo" продает жетоны безопасности, защищенные недвижимостью](https://github.com/theyapapa/cryptonews/blob/ru/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens-c53c6ee9.md)
 * 2018-08-23 13:08 [Всемирный банк и крупнейший банк Австралии выпуск облигаций исключительно через цепочки](https://github.com/theyapapa/cryptonews/blob/ru/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain-6fd48972.md)
 * 2018-08-23 11:08 [Online ID контроль: цепочки платформ против правительств и Facebook](https://github.com/theyapapa/cryptonews/blob/ru/online-id-control-blockchain-platforms-vs-governments-and-facebook-509a7533.md)
