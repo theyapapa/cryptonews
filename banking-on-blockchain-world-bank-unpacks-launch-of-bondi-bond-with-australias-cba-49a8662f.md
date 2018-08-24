@@ -1,0 +1,1 @@
+[Banking on Blockchain: World Bank Unpacks Launch of ‘BONDI’ Bond With Australia’s CBA](https://cointelegraph.com/news/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba)
