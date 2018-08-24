@@ -1,3 +1,4 @@
+* 2018-08-24 13:08 [오하이오 국회 의원, 학자는 국가 블록 체인 개발을 위한 허브를 만들 계획](https://github.com/theyapapa/cryptonews/blob/ko/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development-0b647c4f.md)
 * 2018-08-24 12:08 [s. 한국의 최고 암호 교환 업 비트 아무리 베어 시장, 게시물 $1억 3 분기에 이익 2018](https://github.com/theyapapa/cryptonews/blob/ko/s-koreas-top-crypto-exchange-upbit-defies-bear-market-posts-100-million-profits-in-q3-2018-5a96cdd4.md)
 * 2018-08-24 10:08 [Mt. gox crypto 교환은 분실 된 기금을 요구 하기 위하여 채권자를 위한 요구를 연다](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds-000d0ba4.md)
 * 2018-08-24 07:08 [딜로 이트, 나스닥과 싱가포르 중앙 은행 파트너 블록 체인 자산 정산에](https://github.com/theyapapa/cryptonews/blob/ko/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement-68632cb9.md)
