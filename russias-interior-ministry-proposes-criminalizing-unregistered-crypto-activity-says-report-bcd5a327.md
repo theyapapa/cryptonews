@@ -1,0 +1,1 @@
+[Russia’s Interior Ministry Proposes Criminalizing Unregistered Crypto Activity, Says Report](https://cointelegraph.com/news/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report)
