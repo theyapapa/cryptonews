@@ -1,3 +1,4 @@
+* 2018-08-24 10:08 [MT. GOX Crypto Exchange abre reclamaciones para acreedores para solicitar fondos perdidos](https://github.com/theyapapa/cryptonews/blob/es/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds-000d0ba4.md)
 * 2018-08-24 07:08 [El Banco Central de Singapur se asocia con Deloitte, NASDAQ on bloques Asset Settlement](https://github.com/theyapapa/cryptonews/blob/es/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement-68632cb9.md)
 * 2018-08-23 21:08 [PornHub se asocia con PumaPay para aceptar los pagos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/pornhub-partners-with-pumapay-to-accept-crypto-as-payments-fb04c723.md)
 * 2018-08-23 20:08 [Firma Indiegogo para vender tokens de seguridad con respaldo inmobiliario](https://github.com/theyapapa/cryptonews/blob/es/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens-c53c6ee9.md)
