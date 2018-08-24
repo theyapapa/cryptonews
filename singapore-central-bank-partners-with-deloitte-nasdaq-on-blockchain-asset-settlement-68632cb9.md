@@ -1,0 +1,1 @@
+[Singapore Central Bank Partners With Deloitte, Nasdaq on Blockchain Asset Settlement](https://cointelegraph.com/news/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement)
