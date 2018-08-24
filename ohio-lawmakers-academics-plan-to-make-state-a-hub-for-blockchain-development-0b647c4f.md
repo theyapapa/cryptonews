@@ -1,0 +1,1 @@
+[Ohio Lawmakers, Academics Plan to Make State a Hub for Blockchain Development](https://cointelegraph.com/news/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development)
