@@ -1,3 +1,4 @@
+* 2018-08-25 12:08 [시장은 녹색의 물결을 참조 하십시오, BTC는 $6750을 밀고, $280에 ETH](https://github.com/theyapapa/cryptonews/blob/ko/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280-9a84c7a9.md)
 * 2018-08-24 22:08 [cftc가 영구적으로 암호 회사를 금지 할 수 있는 뉴욕 지방법원 판사 규칙](https://github.com/theyapapa/cryptonews/blob/ko/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm-53cfbdff.md)
 * 2018-08-24 20:08 [뱅크 오브 아메리카는 블록 체인 기반의 암호화 된 암호 저장소 시스템 특허를 적용](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-applies-for-blockchain-based-encrypted-crypto-storage-system-patent-57d75a36.md)
 * 2018-08-24 18:08 [러시아의 내무부는 등록 되지 않은 암호화 활동을 criminalizing 제안, 보고서를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report-bcd5a327.md)
