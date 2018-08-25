@@ -1,0 +1,1 @@
+[New York District Judge Rules That CFTC Can Permanently Ban Crypto Firm](https://cointelegraph.com/news/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm)
