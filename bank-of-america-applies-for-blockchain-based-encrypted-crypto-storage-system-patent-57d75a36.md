@@ -1,0 +1,1 @@
+[Bank of America Applies for Blockchain-Based Encrypted Crypto Storage System Patent](https://cointelegraph.com/news/bank-of-america-applies-for-blockchain-based-encrypted-crypto-storage-system-patent)
