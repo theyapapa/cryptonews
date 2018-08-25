@@ -1,3 +1,4 @@
+* 2018-08-24 22:08 [cftc가 영구적으로 암호 회사를 금지 할 수 있는 뉴욕 지방법원 판사 규칙](https://github.com/theyapapa/cryptonews/blob/ko/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm-53cfbdff.md)
 * 2018-08-24 20:08 [뱅크 오브 아메리카는 블록 체인 기반의 암호화 된 암호 저장소 시스템 특허를 적용](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-applies-for-blockchain-based-encrypted-crypto-storage-system-patent-57d75a36.md)
 * 2018-08-24 18:08 [러시아의 내무부는 등록 되지 않은 암호화 활동을 criminalizing 제안, 보고서를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report-bcd5a327.md)
 * 2018-08-24 17:08 [블록 체인 뱅킹: 세계 은행은 호주의 cba와 ' 본다이 ' 본드의 출시를 unpacks](https://github.com/theyapapa/cryptonews/blob/ko/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba-49a8662f.md)
