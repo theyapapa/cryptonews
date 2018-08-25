@@ -1,0 +1,1 @@
+[Iran: State-Backed Crypto Draft is Ready, Central Bank to Soon Announce Stance on Crypto](https://cointelegraph.com/news/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto)
