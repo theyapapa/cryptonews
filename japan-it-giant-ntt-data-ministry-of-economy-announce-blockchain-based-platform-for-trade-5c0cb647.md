@@ -1,0 +1,1 @@
+[Japan: IT Giant NTT Data, Ministry of Economy Announce Blockchain-Based Platform for Trade](https://cointelegraph.com/news/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade)
