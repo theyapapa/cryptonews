@@ -1,3 +1,4 @@
+* 2018-08-26 16:08 [가상 화폐 시장은 최고 동전의 대부분으로 몇 이득을 보고 s급락](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping-8b1a487e.md)
 * 2018-08-26 11:08 [일본: IT 거 대 한 NTT 데이터, 경제 산업성 블록 체인 기반 플랫폼 거래 발표](https://github.com/theyapapa/cryptonews/blob/ko/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade-5c0cb647.md)
 * 2018-08-25 17:08 [이란: 국가 역행 된 암호 초안은 준비 되어 있다, 곧 암호화에 자세를 알리기 위하여 중앙 은행](https://github.com/theyapapa/cryptonews/blob/ko/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto-317f9aa0.md)
 * 2018-08-25 12:08 [시장은 녹색의 물결을 참조 하십시오, BTC는 $6750을 밀고, $280에 ETH](https://github.com/theyapapa/cryptonews/blob/ko/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280-9a84c7a9.md)
