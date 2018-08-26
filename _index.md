@@ -1,3 +1,4 @@
+* 2018-08-26 11:08 [Япония: ИТ-гигант NTT данных, Министерство экономики объявить на базе цепочки на основе платформы для торговли](https://github.com/theyapapa/cryptonews/blob/ru/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade-5c0cb647.md)
 * 2018-08-25 17:08 [Иран: Государственный резервный проект Crypto готов, Центральный банк скоро объявить позицию по крипто](https://github.com/theyapapa/cryptonews/blob/ru/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto-317f9aa0.md)
 * 2018-08-25 12:08 [Рынки видят волна зеленого, BTC нажав $6 750, в $280](https://github.com/theyapapa/cryptonews/blob/ru/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280-9a84c7a9.md)
 * 2018-08-24 22:08 [Нью-Йорк окружной судья правил, что CFTC может навсегда запретить крипто фирмы](https://github.com/theyapapa/cryptonews/blob/ru/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm-53cfbdff.md)
