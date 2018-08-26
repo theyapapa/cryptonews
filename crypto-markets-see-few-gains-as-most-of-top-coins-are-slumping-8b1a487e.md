@@ -1,0 +1,1 @@
+[Crypto Markets See Few Gains as Most of Top Coins Are Slumping](https://cointelegraph.com/news/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping)
