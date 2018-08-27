@@ -1,0 +1,1 @@
+[Gazprom And Russian Airline S7 Put Aircraft Fuelling on Blockchain in Domestic First](https://cointelegraph.com/news/gazprom-and-russian-airline-s7-put-aircraft-fuelling-on-blockchain-in-domestic-first)
