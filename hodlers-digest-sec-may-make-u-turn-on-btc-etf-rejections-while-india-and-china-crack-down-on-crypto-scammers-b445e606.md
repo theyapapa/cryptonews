@@ -1,0 +1,17 @@
+# 호 들러의 다이제스트: sec는 인도와 중국이 암호화 scammers에 단속 하는 동안 BTC etf 거부에 U 턴을 할 수 있습니다 ... # # # # 인기 이야기 이번 주 sec는 거부-다음 검토 합니다-9 비트 코인 ETF 응용 프로그램 미국 증권 거래 위원회 (sec)는 덧셈을 거부 했다 다양 한 비트 코인 (BTC) 교환 거래 펀드 (etf)를 프로 쉐어, 디 렉스 온, granithares에서 나열 하 고 거래 할 수 있는 9 개의 응용 프로그램.
+
+분석 결과 상거래에서 bitcoin 현금 사용이 세계 17 대 가상 화폐 거래소에서 받은 지불에 대 한 검토를 줄었고, 블록 체인 분석 회사 체인 분석의 데이터에 따라 상거래에서 bitcoin 현금 (bch) 사용이 감소 한 것으로 나타났습니다.
+
+그것은 주식의 공유, 회사에서, "-스티브 wozniak, 애플 공동 설립자 # # # # 법률과 세금 cftc 영구적으로 암호화 회사를 금지 하는 법원의 명령을 승리 미국 상품 선물 거래 위원회 (cftc) 영구적으로 뉴욕의 운영자를 바에 법원 명령을 수상 하였으며 기반 회사인 cabbagetech 주식회사가 암호 화폐 관련 "대담 하 고 악순환의 사기"를 위해
+
+블록 체인에 대 한 보험 협회와 상하이 증권 거래소 파트너 상하이 증권 거래소 (SSE)와 중국의 보험 자산 관리 협회 (iamac)의 사용과 보험 연금 산업 개선에 협력 하기로 합의 했습니다 블록 체인 테크
+
+SSE는 세계에서 4 번째로 큰 증권 거래소, iamac, changjiang 연금 보험 회사, 도쿄 해상 선샤인 등 여러 주요 보험 업계의 선수에 의해, 그리고 다른 사람에 게 "새로운, 고효율, 저렴 한 비용을 만들기 위해 합류 했다 블록 체인 기술을 사용 하 여 더 안전한 보험 산업을 보장 합니다.
+
+블록 체인 미국 기술 회사에 대 한 기술 회사와 중국 전기 버스 운영 거 대 한 파트너 세븐 스타 클라우드 그룹 (SSC)은 중국 최대의 전기 버스 통신 사업자와 제휴 했다, 국가 교통 능력 Co 주식 회사 (국세청), 금융을 제공 하기 위해 블록 체인 기술을 사용 하는 서비스.
+
+# # # # funding 라운드 일본의 sbi 홀딩스 문제 암호 교환 lastroots에 투자 일본의 금융 서비스 거 대 한 sbi 홀딩스는 문제가 암호 화폐 교환 lastroots에 두 번째 투자, 미공개 금액을 만든 것을 이번 주 발표 했다.
+
+Original source: [Hodler’s Digest: SEC May Make U-Turn on BTC ETF Rejections, While India and China Crack Down on Crypto Scammers](https://cointelegraph.com/news/hodlers-digest-sec-may-make-u-turn-on-btc-etf-rejections-while-india-and-china-crack-down-on-crypto-scammers)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
