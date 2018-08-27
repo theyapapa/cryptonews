@@ -1,3 +1,4 @@
+* 2018-08-26 21:08 [hodler의 다이제스트: SEC는 BTC ETF 거부에 U 턴을 할 수 있습니다, 인도와 중국은 암호화 scammers에 단속 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-sec-may-make-u-turn-on-btc-etf-rejections-while-india-and-china-crack-down-on-crypto-scammers-b445e606.md)
 * 2018-08-26 16:08 [가상 화폐 시장은 최고 동전의 대부분으로 몇 이득을 보고 s급락](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping-8b1a487e.md)
 * 2018-08-26 11:08 [일본: IT 거 대 한 NTT 데이터, 경제 산업성 블록 체인 기반 플랫폼 거래 발표](https://github.com/theyapapa/cryptonews/blob/ko/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade-5c0cb647.md)
 * 2018-08-25 17:08 [이란: 국가 역행 된 암호 초안은 준비 되어 있다, 곧 암호화에 자세를 알리기 위하여 중앙 은행](https://github.com/theyapapa/cryptonews/blob/ko/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto-317f9aa0.md)
