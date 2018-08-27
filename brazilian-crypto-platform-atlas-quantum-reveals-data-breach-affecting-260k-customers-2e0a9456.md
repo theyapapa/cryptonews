@@ -1,0 +1,1 @@
+[Brazilian Crypto Platform Atlas Quantum Reveals Data Breach Affecting 260K Customers](https://cointelegraph.com/news/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers)
