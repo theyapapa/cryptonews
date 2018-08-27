@@ -1,3 +1,4 @@
+* 2018-08-27 17:08 [암호화 시장 변동 유지: 가장 상위 20 동전 다시 녹색, 비트 코인 $6700 이상](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700-7ff64fb0.md)
 * 2018-08-27 15:08 [브라질 암호화 플랫폼 아틀라스 퀀텀은 260k 고객에 영향을 미치는 데이터 유출을 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers-2e0a9456.md)
 * 2018-08-27 11:08 [감사 가신을 위한 ' 새로운 의정서 기준 '로 fujitsu 백 이오타, 시장은 반작용 한다](https://github.com/theyapapa/cryptonews/blob/ko/fujitsu-backs-iota-as-new-protocol-standard-for-audit-trails-markets-react-92e305c6.md)
 * 2018-08-27 10:08 [gazprom와 러시아 항공 S7은 국내 첫번째에 있는 블록 체인에 항공기 fuelling를 뒀다](https://github.com/theyapapa/cryptonews/blob/ko/gazprom-and-russian-airline-s7-put-aircraft-fuelling-on-blockchain-in-domestic-first-bcc5bb58.md)
