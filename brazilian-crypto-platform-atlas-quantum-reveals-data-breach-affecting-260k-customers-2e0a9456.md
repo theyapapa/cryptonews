@@ -1,0 +1,19 @@
+# 브라질 암호화 플랫폼 아틀라스 퀀텀 260k 고객에 영향을 미치는 데이터 위반을 밝혀 ...
+
+브라질 암호화 거래 플랫폼 아틀라스 퀀텀은 최근 고객의 개인 데이터의 노출을 주도하는 주요 데이터 위반을 겪었다, 회사의 공식 페이스 북 페이지는 일요일에 명시, 8 월 26.
+
+아틀라스 퀀텀, 8 월 25 일 토요일에 위반을 발견 하 고 이미 수사를 시작 했다.
+
+이 회사는 사용자에 게 보안 사고가 사용자 계정의 자금에 영향을 주지 않았다는 것을 알리고, 많은 개인 데이터가 유출 되었다는 것을 인정 했습니다.
+
+아틀라스 퀀텀은 누출을 발견 하자마자 추가 공격 으로부터 데이터베이스를 보호 하기 위한 조치를 취했다.
+
+플랫폼 기능 중 일부는 사고 후 일시적으로 일시 중지 되었지만 회사에서는 사용자가 암호와 암호화 키를 안전 하 게 유지 하도록 보장 했습니다.
+
+데이터 유출 지 수 사이트 내가 pwned 8 월 26 일 누설 이상 261000 고객에 영향을 보고 되었습니다.
+
+아틀라스 퀀텀 투자 및 거래 플랫폼은 보도에 따르면 $2700만 이상의 자산을 관리 하는 브라질에 기반을 두고 있습니다.
+
+Original source: [Brazilian Crypto Platform Atlas Quantum Reveals Data Breach Affecting 260K Customers](https://cointelegraph.com/news/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
