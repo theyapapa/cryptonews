@@ -1,0 +1,1 @@
+[Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 27](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-27)
