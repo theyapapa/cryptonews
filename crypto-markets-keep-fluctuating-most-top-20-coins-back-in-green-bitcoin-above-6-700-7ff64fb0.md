@@ -1,0 +1,19 @@
+# 암호화 시장 변동 유지: 가장 상위 20 동전 다시 녹색으로, 비트 코인 $6700 이상 ...
+
+월요일, 8 월 27 일: 암호 시장은 코인 마켓 캡의 데이터에 따라, 녹색에서 시장 총액에 의해 상위 20 개 동전 모두와 다른 복구 시도를 보았다.
+
+어제 슬 럼 프를 겪은 후, 가상 화폐 시장은 다시 녹색으로, iota (miota), 카르다노 (ADA) 및 eos (eos)가 상위 10 개 코인 중 가장 큰 이득을 보고 있으며, 비트 코인 (BTC)은 $6700 포인트 이상으로 손상 되었습니다.
+
+Coin360에서 시장 시각화 최고 암호 화폐 비트 코인은 언론의 시간에 $6744에서 거래, 지난 24 시간 동안 30% 미만, 하지만 약 4%의 주간 이득을 보고.
+
+최고 알트 코인이 더 리 움 (ETH)은 24 시간 기간 동안 1%이 하에서 가격이 증가 하면서 오늘날에는 비슷하게 겸손 한 성장을 경험 했습니다.
+
+출처: codeelegraph이 더 리 움 가격 지 수 총 시장 총액은 언론 시간에 거의 $2190억에 일의 시작 되는 시점에 $2140억에서 증가 하는 기세를, 오늘 보여주고 있다.
+
+근원: 시장 모자에 의하여 최고 10 개의 동전의 코인 마켓 캡, iota는 압박 시간에 $0.60에 무역 하는 8.3% 성장에 최대량 이다.
+
+어제, cointelegraph는 논쟁 적인 암호 화폐의 최근 issiances이 순간에 주요 동전 또는 작은 알트 코인의 가격에 영향을 미치지 않습니다 보고, 밧줄을 사용 하 여 "시장 조작" 관행에 대 한 이전의 의혹에 따라.
+
+Original source: [Crypto Markets Keep Fluctuating: Most Top 20 Coins Back in Green, Bitcoin Above $6,700](https://cointelegraph.com/news/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
