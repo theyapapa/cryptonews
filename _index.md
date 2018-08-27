@@ -1,3 +1,4 @@
+* 2018-08-27 11:08 [감사 가신을 위한 ' 새로운 의정서 기준 '로 fujitsu 백 이오타, 시장은 반작용 한다](https://github.com/theyapapa/cryptonews/blob/ko/fujitsu-backs-iota-as-new-protocol-standard-for-audit-trails-markets-react-92e305c6.md)
 * 2018-08-27 10:08 [gazprom와 러시아 항공 S7은 국내 첫번째에 있는 블록 체인에 항공기 fuelling를 뒀다](https://github.com/theyapapa/cryptonews/blob/ko/gazprom-and-russian-airline-s7-put-aircraft-fuelling-on-blockchain-in-domestic-first-bcc5bb58.md)
 * 2018-08-26 21:08 [hodler의 다이제스트: SEC는 BTC ETF 거부에 U 턴을 할 수 있습니다, 인도와 중국은 암호화 scammers에 단속 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-sec-may-make-u-turn-on-btc-etf-rejections-while-india-and-china-crack-down-on-crypto-scammers-b445e606.md)
 * 2018-08-26 16:08 [가상 화폐 시장은 최고 동전의 대부분으로 몇 이득을 보고 s급락](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping-8b1a487e.md)
