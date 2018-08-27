@@ -1,0 +1,1 @@
+[Fujitsu Backs IOTA as ‘New Protocol Standard’ for Audit Trails, Markets React](https://cointelegraph.com/news/fujitsu-backs-iota-as-new-protocol-standard-for-audit-trails-markets-react)
