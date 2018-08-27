@@ -1,0 +1,1 @@
+[Hodler’s Digest: SEC May Make U-Turn on BTC ETF Rejections, While India and China Crack Down on Crypto Scammers](https://cointelegraph.com/news/hodlers-digest-sec-may-make-u-turn-on-btc-etf-rejections-while-india-and-china-crack-down-on-crypto-scammers)
