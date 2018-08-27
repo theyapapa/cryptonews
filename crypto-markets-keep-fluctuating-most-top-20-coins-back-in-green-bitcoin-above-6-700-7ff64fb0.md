@@ -1,0 +1,1 @@
+[Crypto Markets Keep Fluctuating: Most Top 20 Coins Back in Green, Bitcoin Above $6,700](https://cointelegraph.com/news/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700)
