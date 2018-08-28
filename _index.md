@@ -1,3 +1,4 @@
+* 2018-08-28 00:08 [JP Morgan CIO: цепочка заменит существующую технологию](https://github.com/theyapapa/cryptonews/blob/ru/jp-morgan-cio-blockchain-will-replace-existing-technology-085aa156.md)
 * 2018-08-27 22:08 [PwC: неопределенность регулирования и отсутствие доверия пользователей препятствуют внедрению цепочки](https://github.com/theyapapa/cryptonews/blob/ru/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption-c1982add.md)
 * 2018-08-27 20:08 [Рэнди Цукерберг присоединяется хуоби в общественный Комитет по цепочке](https://github.com/theyapapa/cryptonews/blob/ru/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee-7c348752.md)
 * 2018-08-27 18:08 [Bitcoin, Ethereum, рябь, Bitcoin Cash, EOS, Звездные, Litecoin, Кардано, Монеро, на йоту: анализ цен, 27 августа](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-27-af34f659.md)
