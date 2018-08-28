@@ -1,0 +1,19 @@
+# JP 모건 CIO: 블록 체인이 기존 기술을 대체할 것입니다 ...
+
+JP 모건 오로 리 맥주는 부에노스 아이레스의 기자 회견에서 블록 체인이 몇 년 동안 "기존 기술을 대체" 할 것 이라고 Cripto247 8 월 23 일 아르헨티나 웹사이트에 따르면.
+
+"우리는 블록 체인의 더 넓은 사용을 볼 수 있습니다 \ [... \] 몇 년 동안 블록 체인은 기존의 기술을 대체 할 것 이다, 오늘 그것은 현재와 공존," 맥주는 말했다.
+
+맥주는 JP 모건이 블록 체인 기술을 사용 하 여 "결제 프로세스를 단순화 하 고 kyc (고객의 고객과 관련 된 고객)의 정보를 저장 하는 Cripto247" 라고 설명 했습니다.
+
+그녀는 블록 체인 기술이 자금 세탁을 막는 데 도움이 된다는 것을 덧붙였다.
+
+맥주는 은행에서 블록 체인 기술의 사용을 더 설명 했습니다: "우리는 현재 많은 경로를 따르고 있습니다.
+
+8 월 초, JP 모건 체이스의 CEO 제이미 디 몬이 블록 체인에 대해 낙관적 이라고 보고 했다.
+
+5 월, JP 모건 체이스는 내부 및 은행 간 정착지에 사용할 수 있는 블록 체인 구동 피어-투-피어 지불 네트워크에 대 한 특허를 제기 했다.
+
+Original source: [JP Morgan CIO: Blockchain Will Replace Existing Technology](https://cointelegraph.com/news/jp-morgan-cio-blockchain-will-replace-existing-technology)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
