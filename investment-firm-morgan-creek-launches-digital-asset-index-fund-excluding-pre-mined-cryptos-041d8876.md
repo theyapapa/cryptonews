@@ -1,0 +1,1 @@
+[Investment Firm Morgan Creek Launches Digital Asset Index Fund Excluding Pre-Mined Cryptos](https://cointelegraph.com/news/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos)
