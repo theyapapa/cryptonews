@@ -1,3 +1,4 @@
+* 2018-08-28 08:08 [Encuesta de Deloitte 2018: bloques "acercándose al momento de ruptura todos los días"](https://github.com/theyapapa/cryptonews/blob/es/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day-ede1d0bf.md)
 * 2018-08-28 00:08 [JP Morgan CIO: bloques sustituirá a la tecnología existente](https://github.com/theyapapa/cryptonews/blob/es/jp-morgan-cio-blockchain-will-replace-existing-technology-085aa156.md)
 * 2018-08-27 22:08 [PwC: la incertidumbre regulatoria y la falta de confianza del usuario inhiben la adopción bloques](https://github.com/theyapapa/cryptonews/blob/es/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption-c1982add.md)
 * 2018-08-27 20:08 [Randi Zuckerberg se une al Comité Consultivo de la bloques pública de Huobi](https://github.com/theyapapa/cryptonews/blob/es/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee-7c348752.md)
