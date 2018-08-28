@@ -1,3 +1,4 @@
+* 2018-08-28 14:08 [산. gox 보너스: 행복 한 결말을 향해 향하고?](https://github.com/theyapapa/cryptonews/blob/ko/the-mt-gox-redemption-heading-toward-a-happy-ending-a513ebd7.md)
 * 2018-08-28 13:08 [투자 회사인 모건 크릭, 사전 채굴 암호를 제외 하 고 디지털 자산 지 수 펀드 출시](https://github.com/theyapapa/cryptonews/blob/ko/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos-041d8876.md)
 * 2018-08-28 11:08 [중국: 알리바바의 알리 페이 블록 체인 쌀을 추적 하는 정부 파트너십을 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain-8cd3d11a.md)
 * 2018-08-28 08:08 [딜로 이트 2018 설문 조사: 블록 체인 "매일 브레이크 아웃 모멘트에 가까워지고"](https://github.com/theyapapa/cryptonews/blob/ko/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day-ede1d0bf.md)
