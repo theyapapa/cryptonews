@@ -1,0 +1,1 @@
+[The Mt. Gox Redemption: Heading Toward a Happy Ending?](https://cointelegraph.com/news/the-mt-gox-redemption-heading-toward-a-happy-ending)
