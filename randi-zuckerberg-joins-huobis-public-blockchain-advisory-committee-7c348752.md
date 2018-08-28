@@ -1,0 +1,1 @@
+[Randi Zuckerberg Joins Huobi’s Public Blockchain Advisory Committee](https://cointelegraph.com/news/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee)
