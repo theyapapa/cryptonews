@@ -1,3 +1,4 @@
+* 2018-08-28 08:08 [딜로 이트 2018 설문 조사: 블록 체인 "매일 브레이크 아웃 모멘트에 가까워지고"](https://github.com/theyapapa/cryptonews/blob/ko/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day-ede1d0bf.md)
 * 2018-08-28 00:08 [JP 모건 CIO: 블록 체인이 기존 기술을 대체할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/jp-morgan-cio-blockchain-will-replace-existing-technology-085aa156.md)
 * 2018-08-27 22:08 [pwc: 규제 불확실성 및 사용자 신뢰 부족으로 블록 체인 도입 억제](https://github.com/theyapapa/cryptonews/blob/ko/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption-c1982add.md)
 * 2018-08-27 20:08 [randi 주 커 버그는 huobi의 공공 블록 체인 자문 위원회에 합류](https://github.com/theyapapa/cryptonews/blob/ko/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee-7c348752.md)
