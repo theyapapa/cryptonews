@@ -1,3 +1,4 @@
+* 2018-08-28 14:08 [MT. GOX погашение: направляясь к счастливым концом?](https://github.com/theyapapa/cryptonews/blob/ru/the-mt-gox-redemption-heading-toward-a-happy-ending-a513ebd7.md)
 * 2018-08-28 13:08 [Инвестиционная фирма Morgan Creek запускает Фонд индексов цифровых активов, исключая предварительно добытые крипты](https://github.com/theyapapa/cryptonews/blob/ru/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos-041d8876.md)
 * 2018-08-28 11:08 [Китай: Alipay Alibaba показывает государственное партнерство для отслеживания риса с цепочки](https://github.com/theyapapa/cryptonews/blob/ru/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain-8cd3d11a.md)
 * 2018-08-28 08:08 [Deloitte 2018 Обзор: цепочки "приближается к моменту прорыва каждый день"](https://github.com/theyapapa/cryptonews/blob/ru/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day-ede1d0bf.md)
