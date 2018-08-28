@@ -1,0 +1,1 @@
+[China: Alibaba’s Alipay Reveals Government Partnership to Track Rice With Blockchain](https://cointelegraph.com/news/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain)
