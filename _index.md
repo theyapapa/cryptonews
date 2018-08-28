@@ -1,3 +1,4 @@
+* 2018-08-27 20:08 [randi 주 커 버그는 huobi의 공공 블록 체인 자문 위원회에 합류](https://github.com/theyapapa/cryptonews/blob/ko/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee-7c348752.md)
 * 2018-08-27 18:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 27 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-27-af34f659.md)
 * 2018-08-27 17:08 [암호화 시장 변동 유지: 가장 상위 20 동전 다시 녹색, 비트 코인 $6700 이상](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700-7ff64fb0.md)
 * 2018-08-27 15:08 [브라질 암호화 플랫폼 아틀라스 퀀텀은 260k 고객에 영향을 미치는 데이터 유출을 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers-2e0a9456.md)
