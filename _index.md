@@ -1,3 +1,4 @@
+* 2018-08-28 08:08 [Deloitte 2018 Обзор: цепочки "приближается к моменту прорыва каждый день"](https://github.com/theyapapa/cryptonews/blob/ru/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day-ede1d0bf.md)
 * 2018-08-28 00:08 [JP Morgan CIO: цепочка заменит существующую технологию](https://github.com/theyapapa/cryptonews/blob/ru/jp-morgan-cio-blockchain-will-replace-existing-technology-085aa156.md)
 * 2018-08-27 22:08 [PwC: неопределенность регулирования и отсутствие доверия пользователей препятствуют внедрению цепочки](https://github.com/theyapapa/cryptonews/blob/ru/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption-c1982add.md)
 * 2018-08-27 20:08 [Рэнди Цукерберг присоединяется хуоби в общественный Комитет по цепочке](https://github.com/theyapapa/cryptonews/blob/ru/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee-7c348752.md)
