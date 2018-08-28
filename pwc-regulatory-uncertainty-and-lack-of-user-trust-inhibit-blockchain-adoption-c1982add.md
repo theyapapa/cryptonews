@@ -1,0 +1,1 @@
+[PwC: Regulatory Uncertainty and Lack of User Trust Inhibit Blockchain Adoption](https://cointelegraph.com/news/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption)
