@@ -1,3 +1,4 @@
+* 2018-08-28 11:08 [Китай: Alipay Alibaba показывает государственное партнерство для отслеживания риса с цепочки](https://github.com/theyapapa/cryptonews/blob/ru/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain-8cd3d11a.md)
 * 2018-08-28 08:08 [Deloitte 2018 Обзор: цепочки "приближается к моменту прорыва каждый день"](https://github.com/theyapapa/cryptonews/blob/ru/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day-ede1d0bf.md)
 * 2018-08-28 00:08 [JP Morgan CIO: цепочка заменит существующую технологию](https://github.com/theyapapa/cryptonews/blob/ru/jp-morgan-cio-blockchain-will-replace-existing-technology-085aa156.md)
 * 2018-08-27 22:08 [PwC: неопределенность регулирования и отсутствие доверия пользователей препятствуют внедрению цепочки](https://github.com/theyapapa/cryptonews/blob/ru/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption-c1982add.md)
