@@ -1,0 +1,1 @@
+[China Extends Crypto-Related Promotion Ban Beyond the Capital](https://cointelegraph.com/news/china-extends-crypto-related-promotion-ban-beyond-the-capital)
