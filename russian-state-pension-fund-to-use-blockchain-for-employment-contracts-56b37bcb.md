@@ -1,0 +1,1 @@
+[Russian State Pension Fund to Use Blockchain for Employment Contracts](https://cointelegraph.com/news/russian-state-pension-fund-to-use-blockchain-for-employment-contracts)
