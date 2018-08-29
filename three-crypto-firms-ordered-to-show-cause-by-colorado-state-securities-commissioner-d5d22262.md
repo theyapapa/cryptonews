@@ -1,0 +1,1 @@
+[Three Crypto Firms Ordered to Show Cause by Colorado State Securities Commissioner](https://cointelegraph.com/news/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner)
