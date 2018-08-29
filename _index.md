@@ -1,3 +1,4 @@
+* 2018-08-28 22:08 [Отчет: некоторые приложения Crypto Mining остаются в магазине Google Play, несмотря на недавний запрет](https://github.com/theyapapa/cryptonews/blob/ru/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban-1556744b.md)
 * 2018-08-28 19:08 [Ллойд Лондона застраховать платформу хранения для цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/lloyds-of-london-to-insure-custody-platform-for-digital-currency-9143a015.md)
 * 2018-08-28 18:08 ["операция криптосвип" результаты в 200 Crypto-родственные исследования](https://github.com/theyapapa/cryptonews/blob/ru/operation-cryptosweep-results-in-200-crypto-related-investigations-8139a546.md)
 * 2018-08-28 14:08 [MT. GOX погашение: направляясь к счастливым концом?](https://github.com/theyapapa/cryptonews/blob/ru/the-mt-gox-redemption-heading-toward-a-happy-ending-a513ebd7.md)
