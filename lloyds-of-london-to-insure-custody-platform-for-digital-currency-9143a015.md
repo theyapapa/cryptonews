@@ -1,0 +1,1 @@
+[Lloyd’s Of London to Insure Custody Platform for Digital Currency](https://cointelegraph.com/news/lloyds-of-london-to-insure-custody-platform-for-digital-currency)
