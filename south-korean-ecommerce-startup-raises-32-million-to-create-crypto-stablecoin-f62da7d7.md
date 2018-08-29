@@ -1,0 +1,1 @@
+[South Korean eCommerce Startup Raises $32 Million to Create Crypto Stablecoin](https://cointelegraph.com/news/south-korean-ecommerce-startup-raises-32-million-to-create-crypto-stablecoin)
