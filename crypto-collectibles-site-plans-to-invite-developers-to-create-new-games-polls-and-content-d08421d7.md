@@ -1,0 +1,1 @@
+[Crypto Collectibles Site Plans to Invite Developers to Create New Games, Polls and Content](https://cointelegraph.com/news/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content)
