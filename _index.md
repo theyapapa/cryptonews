@@ -1,3 +1,4 @@
+* 2018-08-29 18:08 [Yahoo Finance integra bitcoin, Ethereum y Litecoin Trading](https://github.com/theyapapa/cryptonews/blob/es/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading-7b9402fa.md)
 * 2018-08-29 16:08 [El acto de equilibrio de JPMorgan entre bloques y Crypto](https://github.com/theyapapa/cryptonews/blob/es/jpmorgans-balancing-act-between-blockchain-and-crypto-ef67b2fd.md)
 * 2018-08-29 15:08 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, Cardano, Monero, iota: Análisis de precios, 29 de agosto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29-488cdb5e.md)
 * 2018-08-29 12:08 [Inicio de eCommerce de Corea del sur eleva $32 millones para crear Stablecoin Crypto](https://github.com/theyapapa/cryptonews/blob/es/south-korean-ecommerce-startup-raises-32-million-to-create-crypto-stablecoin-f62da7d7.md)
