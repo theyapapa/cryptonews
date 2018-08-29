@@ -1,3 +1,4 @@
+* 2018-08-29 00:08 [콜로라도 주 증권 감독 관에의 한 원인 표시를 지시 하는 3 개의 암호화 회사](https://github.com/theyapapa/cryptonews/blob/ko/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner-d5d22262.md)
 * 2018-08-28 22:08 [보고서: 일부 암호화 마이닝 앱은 최근 금지에도 불구 하 고 Google Play 스토어에 남아 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban-1556744b.md)
 * 2018-08-28 19:08 [로이드 런던의 디지털 통화에 대 한 양육 권 플랫폼을 보장 하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/lloyds-of-london-to-insure-custody-platform-for-digital-currency-9143a015.md)
 * 2018-08-28 18:08 [' cryptosweep 작전 ' 결과 200 암호화 관련 조사](https://github.com/theyapapa/cryptonews/blob/ko/operation-cryptosweep-results-in-200-crypto-related-investigations-8139a546.md)
