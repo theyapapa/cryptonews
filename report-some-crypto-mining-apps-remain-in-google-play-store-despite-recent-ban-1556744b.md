@@ -1,0 +1,1 @@
+[Report: Some Crypto Mining Apps Remain in Google Play Store Despite Recent Ban](https://cointelegraph.com/news/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban)
