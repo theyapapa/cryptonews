@@ -1,3 +1,4 @@
+* 2018-08-28 19:08 [Lloyd de Londres para asegurar la plataforma de custodia para la moneda digital](https://github.com/theyapapa/cryptonews/blob/es/lloyds-of-london-to-insure-custody-platform-for-digital-currency-9143a015.md)
 * 2018-08-28 18:08 [' Operation Cryptosweep ' resulta en 200 investigaciones relacionadas con criptografía](https://github.com/theyapapa/cryptonews/blob/es/operation-cryptosweep-results-in-200-crypto-related-investigations-8139a546.md)
 * 2018-08-28 14:08 [El Mt. GOX Redemption: ¿hacia un final feliz?](https://github.com/theyapapa/cryptonews/blob/es/the-mt-gox-redemption-heading-toward-a-happy-ending-a513ebd7.md)
 * 2018-08-28 13:08 [La firma de inversión Morgan Creek lanza el fondo de índice de activos digitales excluyendo cryptos pre-minados](https://github.com/theyapapa/cryptonews/blob/es/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos-041d8876.md)
