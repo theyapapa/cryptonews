@@ -1,3 +1,4 @@
+* 2018-08-29 16:08 [Балансировка JPMorgan между цепочками и крипто-](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgans-balancing-act-between-blockchain-and-crypto-ef67b2fd.md)
 * 2018-08-29 15:08 [Bitcoin, Ethereum, рябь, Bitcoin Cash, EOS, Звездные, Litecoin, Кардано, Монеро, на йоту: анализ цен, 29 августа](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29-488cdb5e.md)
 * 2018-08-29 12:08 [Южнокорейский Запуск электронной коммерции поднимает $32 000 000 для создания крипто стаблекоин](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-ecommerce-startup-raises-32-million-to-create-crypto-stablecoin-f62da7d7.md)
 * 2018-08-29 12:08 [Китай расширяет запрет на продвижение, связанное с криптой, за пределами столицы](https://github.com/theyapapa/cryptonews/blob/ru/china-extends-crypto-related-promotion-ban-beyond-the-capital-68899521.md)
