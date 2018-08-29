@@ -1,3 +1,4 @@
+* 2018-08-29 10:08 [고용 계약을 위해 블록 체인을 사용 하는 러시아 국가 연금 기금](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-pension-fund-to-use-blockchain-for-employment-contracts-56b37bcb.md)
 * 2018-08-29 08:08 [암호화 수집품 사이트는 개발자가 새로운 게임, 여론 조사 및 콘텐츠를 만들 초대 계획](https://github.com/theyapapa/cryptonews/blob/ko/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content-d08421d7.md)
 * 2018-08-29 00:08 [콜로라도 주 증권 감독 관에의 한 원인 표시를 지시 하는 3 개의 암호화 회사](https://github.com/theyapapa/cryptonews/blob/ko/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner-d5d22262.md)
 * 2018-08-28 22:08 [보고서: 일부 암호화 마이닝 앱은 최근 금지에도 불구 하 고 Google Play 스토어에 남아 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban-1556744b.md)
