@@ -1,3 +1,4 @@
+* 2018-08-29 12:08 [중국은 자본 저쪽에 암호 관련 된 승진 금지를 확장 한다](https://github.com/theyapapa/cryptonews/blob/ko/china-extends-crypto-related-promotion-ban-beyond-the-capital-68899521.md)
 * 2018-08-29 10:08 [고용 계약을 위해 블록 체인을 사용 하는 러시아 국가 연금 기금](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-pension-fund-to-use-blockchain-for-employment-contracts-56b37bcb.md)
 * 2018-08-29 08:08 [암호화 수집품 사이트는 개발자가 새로운 게임, 여론 조사 및 콘텐츠를 만들 초대 계획](https://github.com/theyapapa/cryptonews/blob/ko/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content-d08421d7.md)
 * 2018-08-29 00:08 [콜로라도 주 증권 감독 관에의 한 원인 표시를 지시 하는 3 개의 암호화 회사](https://github.com/theyapapa/cryptonews/blob/ko/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner-d5d22262.md)
