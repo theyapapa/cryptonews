@@ -1,3 +1,4 @@
+* 2018-08-28 19:08 [Ллойд Лондона застраховать платформу хранения для цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/lloyds-of-london-to-insure-custody-platform-for-digital-currency-9143a015.md)
 * 2018-08-28 18:08 ["операция криптосвип" результаты в 200 Crypto-родственные исследования](https://github.com/theyapapa/cryptonews/blob/ru/operation-cryptosweep-results-in-200-crypto-related-investigations-8139a546.md)
 * 2018-08-28 14:08 [MT. GOX погашение: направляясь к счастливым концом?](https://github.com/theyapapa/cryptonews/blob/ru/the-mt-gox-redemption-heading-toward-a-happy-ending-a513ebd7.md)
 * 2018-08-28 13:08 [Инвестиционная фирма Morgan Creek запускает Фонд индексов цифровых активов, исключая предварительно добытые крипты](https://github.com/theyapapa/cryptonews/blob/ru/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos-041d8876.md)
