@@ -1,0 +1,1 @@
+[Yahoo Finance Integrates Bitcoin, Ethereum and Litecoin Trading](https://cointelegraph.com/news/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading)
