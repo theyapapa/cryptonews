@@ -1,3 +1,4 @@
+* 2018-08-30 10:08 [표준 차 타 드, 블록 체인 파일럿에 대 한 지멘스 파트너는 ' 완벽 하 게 디지털화 ' 은행 보장](https://github.com/theyapapa/cryptonews/blob/ko/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees-e59e2839.md)
 * 2018-08-30 07:08 [andreessen horowitz, 폴 리 체인 캐피탈 리드 블록 체인 시작의 새로운 $1억500만 자금 조달 라운드](https://github.com/theyapapa/cryptonews/blob/ko/andreessen-horowitz-polychain-capital-lead-blockchain-startups-new-105-million-funding-round-0d46d638.md)
 * 2018-08-29 23:08 [openfinance 증권 토큰에 대 한 규제 대체 무역 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens-30cee2d8.md)
 * 2018-08-29 22:08 [캘리포니아 주 입법부가 법안을 통과 하 여 블록 체인 실무 그룹 설립](https://github.com/theyapapa/cryptonews/blob/ko/california-state-legislature-passes-bill-to-establish-blockchain-working-group-692d7bd2.md)
