@@ -1,0 +1,1 @@
+[California State Legislature Passes Bill to Establish Blockchain Working Group](https://cointelegraph.com/news/california-state-legislature-passes-bill-to-establish-blockchain-working-group)
