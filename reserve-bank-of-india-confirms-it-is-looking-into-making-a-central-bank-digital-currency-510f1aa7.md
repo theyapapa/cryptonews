@@ -1,0 +1,1 @@
+[Reserve Bank of India Confirms It Is Looking Into Making a Central Bank Digital Currency](https://cointelegraph.com/news/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency)
