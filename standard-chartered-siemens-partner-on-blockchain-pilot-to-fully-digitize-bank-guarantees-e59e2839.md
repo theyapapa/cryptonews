@@ -1,0 +1,1 @@
+[Standard Chartered, Siemens Partner on Blockchain Pilot to ‘Fully Digitize’ Bank Guarantees](https://cointelegraph.com/news/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees)
