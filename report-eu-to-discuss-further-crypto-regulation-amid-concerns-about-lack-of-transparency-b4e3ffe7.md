@@ -1,0 +1,1 @@
+[Report: EU to Discuss Further Crypto Regulation Amid Concerns About Lack of Transparency](https://cointelegraph.com/news/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency)
