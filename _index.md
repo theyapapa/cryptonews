@@ -1,3 +1,4 @@
+* 2018-08-29 21:08 [보고서: 투명성 결여에 대 한 우려 속에서 추가 암호화 규정을 논의 하기 위한 EU](https://github.com/theyapapa/cryptonews/blob/ko/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency-b4e3ffe7.md)
 * 2018-08-29 18:08 [야 후 금융 비트 코인,이 더 리 움과 라이트 코인 거래를 통합](https://github.com/theyapapa/cryptonews/blob/ko/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading-7b9402fa.md)
 * 2018-08-29 16:08 [블록 체인과 크립 토 사이에 있는 jp 모건의 밸런싱 법](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgans-balancing-act-between-blockchain-and-crypto-ef67b2fd.md)
 * 2018-08-29 15:08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 29 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29-488cdb5e.md)
