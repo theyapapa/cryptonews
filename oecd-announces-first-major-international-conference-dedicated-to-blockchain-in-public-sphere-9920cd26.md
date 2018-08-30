@@ -1,0 +1,1 @@
+[OECD Announces ‘First Major International Conference’ Dedicated to Blockchain in Public Sphere](https://cointelegraph.com/news/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere)
