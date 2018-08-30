@@ -1,0 +1,1 @@
+[OpenFinance Launches Regulated Alternative Trading System for Securities Tokens](https://cointelegraph.com/news/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens)
