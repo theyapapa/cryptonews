@@ -1,3 +1,4 @@
+* 2018-08-29 21:08 [Доклад: ЕС, чтобы обсудить дальнейшее регулирование крипто на фоне опасений по поводу отсутствия прозрачности](https://github.com/theyapapa/cryptonews/blob/ru/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency-b4e3ffe7.md)
 * 2018-08-29 18:08 [Yahoo Finance интегрирует Bitcoin, Ethereum и Litecoin торговлю](https://github.com/theyapapa/cryptonews/blob/ru/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading-7b9402fa.md)
 * 2018-08-29 16:08 [Балансировка JPMorgan между цепочками и крипто-](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgans-balancing-act-between-blockchain-and-crypto-ef67b2fd.md)
 * 2018-08-29 15:08 [Bitcoin, Ethereum, рябь, Bitcoin Cash, EOS, Звездные, Litecoin, Кардано, Монеро, на йоту: анализ цен, 29 августа](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29-488cdb5e.md)
