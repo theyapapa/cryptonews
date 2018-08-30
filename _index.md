@@ -1,3 +1,4 @@
+* 2018-08-29 22:08 [Legislatura estatal de California aprueba proyecto de ley para establecer bloques grupo de trabajo](https://github.com/theyapapa/cryptonews/blob/es/california-state-legislature-passes-bill-to-establish-blockchain-working-group-692d7bd2.md)
 * 2018-08-29 21:08 [Informe: UE para debatir la regulación de la criptografía en medio de la preocupación por la falta de transparencia](https://github.com/theyapapa/cryptonews/blob/es/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency-b4e3ffe7.md)
 * 2018-08-29 18:08 [Yahoo Finance integra bitcoin, Ethereum y Litecoin Trading](https://github.com/theyapapa/cryptonews/blob/es/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading-7b9402fa.md)
 * 2018-08-29 16:08 [El acto de equilibrio de JPMorgan entre bloques y Crypto](https://github.com/theyapapa/cryptonews/blob/es/jpmorgans-balancing-act-between-blockchain-and-crypto-ef67b2fd.md)
