@@ -1,3 +1,4 @@
+* 2018-08-30 18:08 [비트 코인은 시장 전반의 가격 보정 가운데 $7k의 발판을 잃는다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-loses-7k-footing-amid-market-wide-price-correction-04f148c0.md)
 * 2018-08-30 17:08 [예약 은행은 인도의 그것은 중앙 은행 디지털 통화를 만들기로 찾고 확인](https://github.com/theyapapa/cryptonews/blob/ko/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency-510f1aa7.md)
 * 2018-08-30 15:08 [호주 정부는 IBM 및 법률 전문가와 협력 하 여 스마트 컨 트랙 트 플랫폼 구축](https://github.com/theyapapa/cryptonews/blob/ko/australian-govt-partners-with-ibm-and-legal-experts-to-build-smart-contracts-platform-f0b2cec5.md)
 * 2018-08-30 13:08 [경제 개발 협력 기구는 공중 구체에 있는 블록 체인에 전념 하는 ' 첫번째 중요 한 국제 회의를 알린다](https://github.com/theyapapa/cryptonews/blob/ko/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere-9920cd26.md)
