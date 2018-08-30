@@ -1,3 +1,4 @@
+* 2018-08-29 22:08 [캘리포니아 주 입법부가 법안을 통과 하 여 블록 체인 실무 그룹 설립](https://github.com/theyapapa/cryptonews/blob/ko/california-state-legislature-passes-bill-to-establish-blockchain-working-group-692d7bd2.md)
 * 2018-08-29 21:08 [보고서: 투명성 결여에 대 한 우려 속에서 추가 암호화 규정을 논의 하기 위한 EU](https://github.com/theyapapa/cryptonews/blob/ko/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency-b4e3ffe7.md)
 * 2018-08-29 18:08 [야 후 금융 비트 코인,이 더 리 움과 라이트 코인 거래를 통합](https://github.com/theyapapa/cryptonews/blob/ko/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading-7b9402fa.md)
 * 2018-08-29 16:08 [블록 체인과 크립 토 사이에 있는 jp 모건의 밸런싱 법](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgans-balancing-act-between-blockchain-and-crypto-ef67b2fd.md)
