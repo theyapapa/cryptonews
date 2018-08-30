@@ -1,0 +1,1 @@
+[Bitcoin Loses $7K Footing Amid Market-Wide Price Correction](https://cointelegraph.com/news/bitcoin-loses-7k-footing-amid-market-wide-price-correction)
