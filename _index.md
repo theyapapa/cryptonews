@@ -1,3 +1,4 @@
+* 2018-08-29 23:08 [openfinance 증권 토큰에 대 한 규제 대체 무역 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens-30cee2d8.md)
 * 2018-08-29 22:08 [캘리포니아 주 입법부가 법안을 통과 하 여 블록 체인 실무 그룹 설립](https://github.com/theyapapa/cryptonews/blob/ko/california-state-legislature-passes-bill-to-establish-blockchain-working-group-692d7bd2.md)
 * 2018-08-29 21:08 [보고서: 투명성 결여에 대 한 우려 속에서 추가 암호화 규정을 논의 하기 위한 EU](https://github.com/theyapapa/cryptonews/blob/ko/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency-b4e3ffe7.md)
 * 2018-08-29 18:08 [야 후 금융 비트 코인,이 더 리 움과 라이트 코인 거래를 통합](https://github.com/theyapapa/cryptonews/blob/ko/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading-7b9402fa.md)
