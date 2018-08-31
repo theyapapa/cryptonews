@@ -1,0 +1,1 @@
+[Report: CBOE to Launch Ethereum Futures Trading Later This Year](https://cointelegraph.com/news/report-cboe-to-launch-ethereum-futures-trading-later-this-year)
