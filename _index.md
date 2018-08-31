@@ -1,3 +1,4 @@
+* 2018-08-30 22:08 [Отчет: CBOE для того чтобы начать торговлю фьючерсов Ethereum более поздно этот год](https://github.com/theyapapa/cryptonews/blob/ru/report-cboe-to-launch-ethereum-futures-trading-later-this-year-15c48341.md)
 * 2018-08-30 18:08 [Bitcoin теряет $ семи футов на фоне рыночной коррекции цен](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-loses-7k-footing-amid-market-wide-price-correction-04f148c0.md)
 * 2018-08-30 17:08 [Резервный банк Индии подтверждает, что он смотрит на создание центрального банка цифровая валюта](https://github.com/theyapapa/cryptonews/blob/ru/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency-510f1aa7.md)
 * 2018-08-30 15:08 [Австралийское правительство сотрудничает с IBM и юридическими экспертами для создания платформы Smart Contracts](https://github.com/theyapapa/cryptonews/blob/ru/australian-govt-partners-with-ibm-and-legal-experts-to-build-smart-contracts-platform-f0b2cec5.md)
