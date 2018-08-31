@@ -1,0 +1,19 @@
+# biterels ' 마이클 terpin: 주요 전화 회사의 과실은 암호화의 가장 큰 위협이 다 ...
+
+마이클 테 핀 (Michael terpin)은 초기 2013에 블록 체인 공간에 들어가기 때문에 최초 코인 오퍼링 (ico)을 실행 하는 100 개 이상의 프로젝트와 함께 일 한 미국의 블록 체인 및 암호화 투자자입니다.
+
+cointelegraph는 라스베가스에 있는 blockshow 아메리카에서 terpin와 함께 앉아 사건의 세부 사항에, 현재의 ICO 풍경을 논의, 중앙 및 분산 암호 화폐의 차이와 그가 어디 비트 코인의 가격을 보고 3 ~ 5 년 지금부터.
+
+그래서, 전체 암호화 커뮤니티는 갱 단의 표적이 되었습니다-암호화 조직-꽤 오랫동안, 그리고 비트 코인과 다른 암호화 자산의 가격이 올라가로 가속.
+
+지금, 암호화 업계에서 높은 프로필의 사람에 게 가장 큰 위험은, 그리고 커뮤니티에 식별 참여를가지고 정말 아무도, 주요 전화 회사는 당신에 게 보안을 약속 하 고 그것을 제공 하지 않습니다.
+
+MT: AT&T 담당자가 디지털 아이덴티티를 켤 때, 전화 번호에 접근할 수 있는 것은 무엇이 든 넘겨 집니다.
+
+MT: 그들은 지갑 보다 훨씬 광범위 한 검증의 형태로 그것에 연결 된 전화 번호를가지고 아무것도 액세스할 수 있습니다.
+
+당신은 어떤 이유로 그들을 사용 해야 하는 경우, 당신은 항상 당신의 전화 번호를 묻는 소프트웨어의 어떤 조각을 사용 하는 모든 시간을 확인 해야, AT&T 또는 다른 것 들 중 하나를 제공 하지 않습니다.
+
+Original source: [BitAngels’ Michael Terpin: Negligence of Major Phone Companies Is Crypto’s Biggest Threat](https://cointelegraph.com/news/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
