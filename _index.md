@@ -1,3 +1,4 @@
+* 2018-08-31 07:08 [Японская электронная коммерция майор Rakuten для того чтобы приобрести местный крипто обмен Bitcoin каждого](https://github.com/theyapapa/cryptonews/blob/ru/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin-0c2031ed.md)
 * 2018-08-31 00:08 [Битмекс исследование: будущий успех битмаин зависит от умелого менеджмента](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-research-future-success-of-bitmain-depends-on-skilled-management-bd34ad60.md)
 * 2018-08-30 23:08 [Новое исследование обеспечивает бычий прогноз на Bitcoin, утверждая, $98 000 возможно](https://github.com/theyapapa/cryptonews/blob/ru/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible-191623ac.md)
 * 2018-08-30 22:08 [Отчет: CBOE для того чтобы начать торговлю фьючерсов Ethereum более поздно этот год](https://github.com/theyapapa/cryptonews/blob/ru/report-cboe-to-launch-ethereum-futures-trading-later-this-year-15c48341.md)
