@@ -1,0 +1,1 @@
+[Dutch Central Bank Advisor: Bitcoin Price Changes With Google Search Activity](https://cointelegraph.com/news/dutch-central-bank-advisor-bitcoin-price-changes-with-google-search-activity)
