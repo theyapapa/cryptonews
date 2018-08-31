@@ -1,0 +1,1 @@
+[New Study Provides Bullish Outlook on Bitcoin, Claiming $98,000 Possible](https://cointelegraph.com/news/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible)
