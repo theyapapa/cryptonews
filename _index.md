@@ -1,3 +1,4 @@
+* 2018-08-31 00:08 [Битмекс исследование: будущий успех битмаин зависит от умелого менеджмента](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-research-future-success-of-bitmain-depends-on-skilled-management-bd34ad60.md)
 * 2018-08-30 23:08 [Новое исследование обеспечивает бычий прогноз на Bitcoin, утверждая, $98 000 возможно](https://github.com/theyapapa/cryptonews/blob/ru/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible-191623ac.md)
 * 2018-08-30 22:08 [Отчет: CBOE для того чтобы начать торговлю фьючерсов Ethereum более поздно этот год](https://github.com/theyapapa/cryptonews/blob/ru/report-cboe-to-launch-ethereum-futures-trading-later-this-year-15c48341.md)
 * 2018-08-30 18:08 [Bitcoin теряет $ семи футов на фоне рыночной коррекции цен](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-loses-7k-footing-amid-market-wide-price-correction-04f148c0.md)
