@@ -1,3 +1,4 @@
+* 2018-08-31 07:08 [로컬 암호 교환 모든 사람의 비트 코인을 취득 하는 일본 전자 상거래 주요 라쿠텐](https://github.com/theyapapa/cryptonews/blob/ko/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin-0c2031ed.md)
 * 2018-08-31 00:08 [bitmex 연구: bitmex의 미래 성공은 숙련 된 관리에 달려 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-research-future-success-of-bitmain-depends-on-skilled-management-bd34ad60.md)
 * 2018-08-30 23:08 [새로운 연구는 가능한 $98000 주장, 비트 코인에 대 한 낙관적인 전망을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible-191623ac.md)
 * 2018-08-30 22:08 [보고서: 올해에이 더 리 움 선물 거래를 시작 하기 위한 cboe](https://github.com/theyapapa/cryptonews/blob/ko/report-cboe-to-launch-ethereum-futures-trading-later-this-year-15c48341.md)
