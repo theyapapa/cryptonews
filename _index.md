@@ -1,3 +1,4 @@
+* 2018-08-30 23:08 [새로운 연구는 가능한 $98000 주장, 비트 코인에 대 한 낙관적인 전망을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible-191623ac.md)
 * 2018-08-30 22:08 [보고서: 올해에이 더 리 움 선물 거래를 시작 하기 위한 cboe](https://github.com/theyapapa/cryptonews/blob/ko/report-cboe-to-launch-ethereum-futures-trading-later-this-year-15c48341.md)
 * 2018-08-30 18:08 [비트 코인은 시장 전반의 가격 보정 가운데 $7k의 발판을 잃는다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-loses-7k-footing-amid-market-wide-price-correction-04f148c0.md)
 * 2018-08-30 17:08 [예약 은행은 인도의 그것은 중앙 은행 디지털 통화를 만들기로 찾고 확인](https://github.com/theyapapa/cryptonews/blob/ko/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency-510f1aa7.md)
