@@ -1,0 +1,1 @@
+[BitMEX Research: Future Success of Bitmain Depends on Skilled Management](https://cointelegraph.com/news/bitmex-research-future-success-of-bitmain-depends-on-skilled-management)
