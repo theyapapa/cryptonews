@@ -1,3 +1,4 @@
+* 2018-08-31 13:08 [콜롬비아 대통령은 암호화 회사에 대 한 임대료 세금을 삭감 하겠다고 약속](https://github.com/theyapapa/cryptonews/blob/ko/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms-a9d9686f.md)
 * 2018-08-31 11:08 [Bitcoin은 더 넓은 시장 팁으로 녹색으로 돌아가는 $7k 근처를 가리킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green-30577c66.md)
 * 2018-08-31 10:08 [네덜란드 중앙 은행 고문: 구글 검색 활동과 비트 코인 가격 변경](https://github.com/theyapapa/cryptonews/blob/ko/dutch-central-bank-advisor-bitcoin-price-changes-with-google-search-activity-6724241f.md)
 * 2018-08-31 07:08 [로컬 암호 교환 모든 사람의 비트 코인을 취득 하는 일본 전자 상거래 주요 라쿠텐](https://github.com/theyapapa/cryptonews/blob/ko/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin-0c2031ed.md)
