@@ -1,3 +1,4 @@
+* 2018-08-31 00:08 [Investigación de BitMEX: el éxito futuro de Bitmain depende de la gerencia experta](https://github.com/theyapapa/cryptonews/blob/es/bitmex-research-future-success-of-bitmain-depends-on-skilled-management-bd34ad60.md)
 * 2018-08-30 23:08 [Nuevo estudio proporciona perspectivas alcistas sobre bitcoin, alegando $98.000 posible](https://github.com/theyapapa/cryptonews/blob/es/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible-191623ac.md)
 * 2018-08-30 22:08 [Informe: CBOE para lanzar Ethereum futuros de comercio a finales de este año](https://github.com/theyapapa/cryptonews/blob/es/report-cboe-to-launch-ethereum-futures-trading-later-this-year-15c48341.md)
 * 2018-08-30 18:08 [Bitcoin pierde el pie de $7K en medio de la corrección de precios en todo el mercado](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-loses-7k-footing-amid-market-wide-price-correction-04f148c0.md)
