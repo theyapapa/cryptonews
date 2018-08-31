@@ -1,3 +1,4 @@
+* 2018-08-31 15:08 [Битанжелс ' Майкл Терпин: халатность крупных телефонных компаний является крупнейшей угрозой крипто](https://github.com/theyapapa/cryptonews/blob/ru/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat-19d2a756.md)
 * 2018-08-31 13:08 [Президент Колумбии обещает сократить налоги на аренду для фирм крипто](https://github.com/theyapapa/cryptonews/blob/ru/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms-a9d9686f.md)
 * 2018-08-31 11:08 [Bitcoin колеблется около $ $ семи, как более широкие советы рынка обратно в зеленый](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green-30577c66.md)
 * 2018-08-31 10:08 [Голландский центральный банк советник: Bitcoin изменения цен с Google Search активность](https://github.com/theyapapa/cryptonews/blob/ru/dutch-central-bank-advisor-bitcoin-price-changes-with-google-search-activity-6724241f.md)
