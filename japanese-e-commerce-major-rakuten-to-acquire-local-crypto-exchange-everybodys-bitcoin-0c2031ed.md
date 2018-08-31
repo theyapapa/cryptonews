@@ -1,0 +1,1 @@
+[Japanese E-Commerce Major Rakuten to Acquire Local Crypto Exchange Everybody's Bitcoin](https://cointelegraph.com/news/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin)
