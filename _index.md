@@ -1,3 +1,4 @@
+* 2018-08-31 17:08 [파이어 폭스 새로운 브라우저 릴리스에서 악성 코드를 차단 하는](https://github.com/theyapapa/cryptonews/blob/ko/firefox-to-block-cryptojacking-malware-in-new-browser-releases-3ae37c48.md)
 * 2018-08-31 15:08 [bitangels 마이클 terpin: 주요 전화 회사의 과실은 암호화의 가장 큰 위협이 다](https://github.com/theyapapa/cryptonews/blob/ko/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat-19d2a756.md)
 * 2018-08-31 13:08 [콜롬비아 대통령은 암호화 회사에 대 한 임대료 세금을 삭감 하겠다고 약속](https://github.com/theyapapa/cryptonews/blob/ko/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms-a9d9686f.md)
 * 2018-08-31 11:08 [Bitcoin은 더 넓은 시장 팁으로 녹색으로 돌아가는 $7k 근처를 가리킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green-30577c66.md)
