@@ -1,0 +1,1 @@
+[Bitcoin Hovers Near $7K, as Wider Market Tips Back Into the Green](https://cointelegraph.com/news/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green)
