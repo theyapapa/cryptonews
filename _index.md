@@ -1,3 +1,4 @@
+* 2018-08-30 23:08 [Nuevo estudio proporciona perspectivas alcistas sobre bitcoin, alegando $98.000 posible](https://github.com/theyapapa/cryptonews/blob/es/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible-191623ac.md)
 * 2018-08-30 22:08 [Informe: CBOE para lanzar Ethereum futuros de comercio a finales de este año](https://github.com/theyapapa/cryptonews/blob/es/report-cboe-to-launch-ethereum-futures-trading-later-this-year-15c48341.md)
 * 2018-08-30 18:08 [Bitcoin pierde el pie de $7K en medio de la corrección de precios en todo el mercado](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-loses-7k-footing-amid-market-wide-price-correction-04f148c0.md)
 * 2018-08-30 17:08 [Banco de reserva de la India confirma que está buscando para hacer un banco central moneda digital](https://github.com/theyapapa/cryptonews/blob/es/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency-510f1aa7.md)
