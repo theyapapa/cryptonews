@@ -1,0 +1,1 @@
+[BitAngels’ Michael Terpin: Negligence of Major Phone Companies Is Crypto’s Biggest Threat](https://cointelegraph.com/news/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat)
