@@ -1,0 +1,1 @@
+[Colombian President Promises to Cut Rent Taxes for Crypto Firms](https://cointelegraph.com/news/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms)
