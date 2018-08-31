@@ -1,3 +1,4 @@
+* 2018-08-31 17:08 [Firefox para bloquear Cryptojacking malware en nuevas versiones de navegador](https://github.com/theyapapa/cryptonews/blob/es/firefox-to-block-cryptojacking-malware-in-new-browser-releases-3ae37c48.md)
 * 2018-08-31 15:08 [BitAngels ' Michael terpin: la negligencia de las principales compañías telefónicas es la mayor amenaza de CRYPTO](https://github.com/theyapapa/cryptonews/blob/es/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat-19d2a756.md)
 * 2018-08-31 13:08 [Presidente colombiano promete recortar impuestos de alquiler para firmas de criptografía](https://github.com/theyapapa/cryptonews/blob/es/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms-a9d9686f.md)
 * 2018-08-31 11:08 [Bitcoin se cierne cerca de $7K, como más amplios consejos de mercado de nuevo en el verde](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green-30577c66.md)
