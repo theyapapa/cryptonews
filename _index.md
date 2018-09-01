@@ -1,3 +1,4 @@
+* 2018-09-01 11:09 [월마트의 최신 블록 체인 특허는 로봇이 공급망에 걸쳐 배달을 수행 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain-f781b91c.md)
 * 2018-09-01 07:09 [비트 코인 대 알트 코인: 가맹점에 가장 유용 한가요?](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants-472fe42c.md)
 * 2018-08-31 22:08 [이 더 리 움 코어 Devs ' 난이도 폭탄 ' 지연, 2 ETH에 블록 보상 감소](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth-baeff351.md)
 * 2018-08-31 17:08 [파이어 폭스 새로운 브라우저 릴리스에서 악성 코드를 차단 하는](https://github.com/theyapapa/cryptonews/blob/ko/firefox-to-block-cryptojacking-malware-in-new-browser-releases-3ae37c48.md)
