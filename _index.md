@@ -1,3 +1,4 @@
+* 2018-09-01 11:09 [Новейший патент Walmart позволяет роботам проводить поставки по цепочке поставок](https://github.com/theyapapa/cryptonews/blob/ru/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain-f781b91c.md)
 * 2018-09-01 07:09 [Bitcoin vs. алткоинс: что является наиболее удобным для торговцев?](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants-472fe42c.md)
 * 2018-08-31 22:08 [Ethereum Core разработчики задержка ' трудность бомба, ' уменьшить блок награды 2](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth-baeff351.md)
 * 2018-08-31 17:08 [Firefox блокирует криптожаккинг вредоносные программы в новых версиях браузера](https://github.com/theyapapa/cryptonews/blob/ru/firefox-to-block-cryptojacking-malware-in-new-browser-releases-3ae37c48.md)
