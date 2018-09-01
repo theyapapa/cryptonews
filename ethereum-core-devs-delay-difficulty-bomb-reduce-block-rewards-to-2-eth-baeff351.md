@@ -1,0 +1,1 @@
+[Ethereum Core Devs Delay ‘Difficulty Bomb,’ Reduce Block Rewards to 2 ETH](https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth)
