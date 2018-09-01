@@ -1,3 +1,4 @@
+* 2018-08-31 22:08 [Ethereum Core разработчики задержка ' трудность бомба, ' уменьшить блок награды 2](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth-baeff351.md)
 * 2018-08-31 17:08 [Firefox блокирует криптожаккинг вредоносные программы в новых версиях браузера](https://github.com/theyapapa/cryptonews/blob/ru/firefox-to-block-cryptojacking-malware-in-new-browser-releases-3ae37c48.md)
 * 2018-08-31 15:08 [Битанжелс ' Майкл Терпин: халатность крупных телефонных компаний является крупнейшей угрозой крипто](https://github.com/theyapapa/cryptonews/blob/ru/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat-19d2a756.md)
 * 2018-08-31 13:08 [Президент Колумбии обещает сократить налоги на аренду для фирм крипто](https://github.com/theyapapa/cryptonews/blob/ru/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms-a9d9686f.md)
