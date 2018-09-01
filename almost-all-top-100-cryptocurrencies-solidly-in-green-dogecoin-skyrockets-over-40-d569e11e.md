@@ -1,0 +1,1 @@
+[Almost All Top 100 Cryptocurrencies Solidly in Green, Dogecoin Skyrockets Over 40%](https://cointelegraph.com/news/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40)
