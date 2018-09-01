@@ -1,0 +1,1 @@
+[Bitcoin vs. Altcoins: Which is the Most Usable for Merchants?](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants)
