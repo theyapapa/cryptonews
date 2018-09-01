@@ -1,0 +1,1 @@
+[Walmart’s Latest Blockchain Patent Lets Robots Conduct Deliveries Across Supply Chain](https://cointelegraph.com/news/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain)
