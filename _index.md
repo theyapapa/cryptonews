@@ -1,3 +1,4 @@
+* 2018-09-02 16:09 [hodler의 다이제스트, 8 월 26 – 9 월 2: 에미넴과 야 후 금융 모두 암호화 채택에 대 한 승리에 비트 코인을 포용](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption-3de91010.md)
 * 2018-09-02 15:09 [베네수엘라는 세계에서 가장 큰 암호화 시장 중 하나가 되기 위해 온 방법](https://github.com/theyapapa/cryptonews/blob/ko/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world-c8041b8a.md)
 * 2018-09-02 13:09 [비트 코인 현금 스트레스 테스트 결과: 210만 거래 수수료 급등의 원인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-stress-test-results-21-million-transactions-cause-no-surge-in-fees-7ec011a2.md)
 * 2018-09-02 11:09 [일본의 금융 규제는 암호 교환에 대 한 위험 심사 프로세스를 강화](https://github.com/theyapapa/cryptonews/blob/ko/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges-eb0ccdfa.md)
