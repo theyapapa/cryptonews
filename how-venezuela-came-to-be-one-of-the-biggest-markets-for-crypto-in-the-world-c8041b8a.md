@@ -1,0 +1,1 @@
+[How Venezuela Came to Be One of the Biggest Markets for Crypto in the World](https://cointelegraph.com/news/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world)
