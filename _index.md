@@ -1,3 +1,4 @@
+* 2018-09-02 11:09 [Финансовый регулятор Японии улучшает процесс скрининга рисков для криптографических обменов](https://github.com/theyapapa/cryptonews/blob/ru/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges-eb0ccdfa.md)
 * 2018-09-01 17:09 [Почти все Top 100 в твердо в зеленом, дожекоин усилится более 40%](https://github.com/theyapapa/cryptonews/blob/ru/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40-d569e11e.md)
 * 2018-09-01 11:09 [Новейший патент Walmart позволяет роботам проводить поставки по цепочке поставок](https://github.com/theyapapa/cryptonews/blob/ru/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain-f781b91c.md)
 * 2018-09-01 07:09 [Bitcoin vs. алткоинс: что является наиболее удобным для торговцев?](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants-472fe42c.md)
