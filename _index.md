@@ -1,3 +1,4 @@
+* 2018-09-02 15:09 [Как Венесуэла оказалась одним из крупнейших рынков для крипто в мире](https://github.com/theyapapa/cryptonews/blob/ru/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world-c8041b8a.md)
 * 2018-09-02 13:09 [Bitcoin наличные результаты стресс-теста: 2 100 000 операции не вызывают резкого увеличения пошлин](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-cash-stress-test-results-21-million-transactions-cause-no-surge-in-fees-7ec011a2.md)
 * 2018-09-02 11:09 [Финансовый регулятор Японии улучшает процесс скрининга рисков для криптографических обменов](https://github.com/theyapapa/cryptonews/blob/ru/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges-eb0ccdfa.md)
 * 2018-09-01 17:09 [Почти все Top 100 в твердо в зеленом, дожекоин усилится более 40%](https://github.com/theyapapa/cryptonews/blob/ru/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40-d569e11e.md)
