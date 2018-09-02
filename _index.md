@@ -1,3 +1,4 @@
+* 2018-09-02 13:09 [비트 코인 현금 스트레스 테스트 결과: 210만 거래 수수료 급등의 원인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-stress-test-results-21-million-transactions-cause-no-surge-in-fees-7ec011a2.md)
 * 2018-09-02 11:09 [일본의 금융 규제는 암호 교환에 대 한 위험 심사 프로세스를 강화](https://github.com/theyapapa/cryptonews/blob/ko/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges-eb0ccdfa.md)
 * 2018-09-01 17:09 [거의 모든 상위 100 가상 화폐는 녹색으로 단단하게, 40% 이상의도 코인 스카이 로켓](https://github.com/theyapapa/cryptonews/blob/ko/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40-d569e11e.md)
 * 2018-09-01 11:09 [월마트의 최신 블록 체인 특허는 로봇이 공급망에 걸쳐 배달을 수행 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain-f781b91c.md)
