@@ -1,0 +1,1 @@
+[Bitcoin Cash Stress Test Results: 2.1 Million Transactions Cause No Surge in Fees](https://cointelegraph.com/news/bitcoin-cash-stress-test-results-21-million-transactions-cause-no-surge-in-fees)
