@@ -1,0 +1,1 @@
+[Japan’s Financial Regulator Enhances Risk Screening Process for Crypto Exchanges](https://cointelegraph.com/news/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges)
