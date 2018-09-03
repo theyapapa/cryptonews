@@ -1,3 +1,4 @@
+* 2018-09-03 12:09 [한국 sbi 저축 은행은 블록 체인과 AI 전문가와 MoU를 체결 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist-b595c3b0.md)
 * 2018-09-03 10:09 [일본 도시 쓰쿠바 시험 블록 체인 기반 투표 시스템](https://github.com/theyapapa/cryptonews/blob/ko/japanese-city-tsukuba-trials-blockchain-based-voting-system-ab3ac645.md)
 * 2018-09-03 07:09 [알리바바, IBM은 전 세계적으로 순위 블록 체인 특허의 수에 대 한 출원](https://github.com/theyapapa/cryptonews/blob/ko/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed-da4e17b1.md)
 * 2018-09-03 06:09 [라이프 코드: 블록 체인 및 유전체학의 미래](https://github.com/theyapapa/cryptonews/blob/ko/lifes-code-blockchain-and-the-future-of-genomics-95679bc6.md)
