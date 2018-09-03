@@ -1,3 +1,4 @@
+* 2018-09-03 10:09 [Японский город Цукуба испытания системы голосования на основе цепочки](https://github.com/theyapapa/cryptonews/blob/ru/japanese-city-tsukuba-trials-blockchain-based-voting-system-ab3ac645.md)
 * 2018-09-03 07:09 [Alibaba, IBM занимает первое место в мире по количеству поданных патентов цепочки](https://github.com/theyapapa/cryptonews/blob/ru/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed-da4e17b1.md)
 * 2018-09-03 06:09 [Код жизни: цепочки и будущее геномов](https://github.com/theyapapa/cryptonews/blob/ru/lifes-code-blockchain-and-the-future-of-genomics-95679bc6.md)
 * 2018-09-02 16:09 [Ходлер в дайджест, 26 августа-2 сентября: как Eminem и Yahoo Finance объятия Bitcoin в побед для шифрования принятия](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption-3de91010.md)
