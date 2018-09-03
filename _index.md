@@ -1,3 +1,4 @@
+* 2018-09-03 10:09 [일본 도시 쓰쿠바 시험 블록 체인 기반 투표 시스템](https://github.com/theyapapa/cryptonews/blob/ko/japanese-city-tsukuba-trials-blockchain-based-voting-system-ab3ac645.md)
 * 2018-09-03 07:09 [알리바바, IBM은 전 세계적으로 순위 블록 체인 특허의 수에 대 한 출원](https://github.com/theyapapa/cryptonews/blob/ko/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed-da4e17b1.md)
 * 2018-09-03 06:09 [라이프 코드: 블록 체인 및 유전체학의 미래](https://github.com/theyapapa/cryptonews/blob/ko/lifes-code-blockchain-and-the-future-of-genomics-95679bc6.md)
 * 2018-09-02 16:09 [hodler의 다이제스트, 8 월 26 – 9 월 2: 에미넴과 야 후 금융 모두 암호화 채택에 대 한 승리에 비트 코인을 포용](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption-3de91010.md)
