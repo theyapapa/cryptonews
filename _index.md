@@ -1,3 +1,4 @@
+* 2018-09-03 14:09 [Индия направляет чиновников в США, Японию и Швейцарию для изучения и ИКО](https://github.com/theyapapa/cryptonews/blob/ru/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos-c35addb6.md)
 * 2018-09-03 12:09 [Корея ВОО Сберегательный Банк подписывает мод с цепочки и AI специалиста](https://github.com/theyapapa/cryptonews/blob/ru/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist-b595c3b0.md)
 * 2018-09-03 10:09 [Японский город Цукуба испытания системы голосования на основе цепочки](https://github.com/theyapapa/cryptonews/blob/ru/japanese-city-tsukuba-trials-blockchain-based-voting-system-ab3ac645.md)
 * 2018-09-03 07:09 [Alibaba, IBM занимает первое место в мире по количеству поданных патентов цепочки](https://github.com/theyapapa/cryptonews/blob/ru/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed-da4e17b1.md)
