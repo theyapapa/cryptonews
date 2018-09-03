@@ -1,3 +1,4 @@
+* 2018-09-03 12:09 [El Banco de ahorros del OSE de Corea firma MOU con bloques y AI Specialist](https://github.com/theyapapa/cryptonews/blob/es/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist-b595c3b0.md)
 * 2018-09-03 10:09 [Ciudad japonesa Tsukuba Trials sistema de votación basado en bloques](https://github.com/theyapapa/cryptonews/blob/es/japanese-city-tsukuba-trials-blockchain-based-voting-system-ab3ac645.md)
 * 2018-09-03 07:09 [Alibaba, IBM alineó la tapa global para el número de patente bloques archivado](https://github.com/theyapapa/cryptonews/blob/es/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed-da4e17b1.md)
 * 2018-09-03 06:09 [Código de vida: bloques y el futuro de la genómica](https://github.com/theyapapa/cryptonews/blob/es/lifes-code-blockchain-and-the-future-of-genomics-95679bc6.md)
