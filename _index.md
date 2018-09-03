@@ -1,3 +1,4 @@
+* 2018-09-03 10:09 [Ciudad japonesa Tsukuba Trials sistema de votación basado en bloques](https://github.com/theyapapa/cryptonews/blob/es/japanese-city-tsukuba-trials-blockchain-based-voting-system-ab3ac645.md)
 * 2018-09-03 07:09 [Alibaba, IBM alineó la tapa global para el número de patente bloques archivado](https://github.com/theyapapa/cryptonews/blob/es/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed-da4e17b1.md)
 * 2018-09-03 06:09 [Código de vida: bloques y el futuro de la genómica](https://github.com/theyapapa/cryptonews/blob/es/lifes-code-blockchain-and-the-future-of-genomics-95679bc6.md)
 * 2018-09-02 16:09 [Hodler Digest, 26 de agosto – 2 de septiembre: tanto Eminem y Yahoo Finanzas abrazan Bitcoin en victorias para la adopción de CRYPTO](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption-3de91010.md)
