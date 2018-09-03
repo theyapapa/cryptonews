@@ -1,0 +1,1 @@
+[Japanese City Tsukuba Trials Blockchain-Based Voting System](https://cointelegraph.com/news/japanese-city-tsukuba-trials-blockchain-based-voting-system)
