@@ -1,0 +1,1 @@
+[Alibaba, IBM Ranked Top Globally for Number of Blockchain Patent Filed](https://cointelegraph.com/news/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed)
