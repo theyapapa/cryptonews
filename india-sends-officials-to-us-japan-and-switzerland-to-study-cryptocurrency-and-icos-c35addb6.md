@@ -1,0 +1,1 @@
+[India Sends Officials to US, Japan and Switzerland to Study Cryptocurrency and ICOs](https://cointelegraph.com/news/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos)
