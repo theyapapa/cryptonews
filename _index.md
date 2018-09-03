@@ -1,3 +1,4 @@
+* 2018-09-03 12:09 [Корея ВОО Сберегательный Банк подписывает мод с цепочки и AI специалиста](https://github.com/theyapapa/cryptonews/blob/ru/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist-b595c3b0.md)
 * 2018-09-03 10:09 [Японский город Цукуба испытания системы голосования на основе цепочки](https://github.com/theyapapa/cryptonews/blob/ru/japanese-city-tsukuba-trials-blockchain-based-voting-system-ab3ac645.md)
 * 2018-09-03 07:09 [Alibaba, IBM занимает первое место в мире по количеству поданных патентов цепочки](https://github.com/theyapapa/cryptonews/blob/ru/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed-da4e17b1.md)
 * 2018-09-03 06:09 [Код жизни: цепочки и будущее геномов](https://github.com/theyapapa/cryptonews/blob/ru/lifes-code-blockchain-and-the-future-of-genomics-95679bc6.md)
