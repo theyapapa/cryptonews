@@ -1,0 +1,1 @@
+[Korea's SBI Savings Bank Signs MoU With Blockchain and AI Specialist](https://cointelegraph.com/news/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist)
