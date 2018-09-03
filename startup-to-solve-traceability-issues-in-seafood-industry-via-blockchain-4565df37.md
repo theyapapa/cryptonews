@@ -1,0 +1,1 @@
+[Startup to Solve Traceability Issues in Seafood Industry Via Blockchain](https://cointelegraph.com/news/startup-to-solve-traceability-issues-in-seafood-industry-via-blockchain)
