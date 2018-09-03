@@ -1,3 +1,4 @@
+* 2018-09-03 18:09 [Инвестиционная фирма отрицает участие в битмаин IPO после ошибочных сообщений СМИ](https://github.com/theyapapa/cryptonews/blob/ru/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports-b29584bc.md)
 * 2018-09-03 16:09 [Запуск для решения проблемы прослеживаемости в морепродуктах промышленности через цепочки](https://github.com/theyapapa/cryptonews/blob/ru/startup-to-solve-traceability-issues-in-seafood-industry-via-blockchain-4565df37.md)
 * 2018-09-03 14:09 [Индия направляет чиновников в США, Японию и Швейцарию для изучения и ИКО](https://github.com/theyapapa/cryptonews/blob/ru/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos-c35addb6.md)
 * 2018-09-03 12:09 [Корея ВОО Сберегательный Банк подписывает мод с цепочки и AI специалиста](https://github.com/theyapapa/cryptonews/blob/ru/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist-b595c3b0.md)
