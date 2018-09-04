@@ -1,0 +1,19 @@
+# 구글은 빅 데이터 분석 플랫폼에이 더 리 움 블록 체인 데이터 세트를 추가 ...
+
+구글 클라우드 팀은 공식적으로이 더 리 움 (ETH) 데이터 집합 bigquery에서 사용할 수 있도록 했다, 분석을 위한 회사의 빅 데이터 웨어하우스, 구글의 공식 블로그에 게시 된 게시물에 따르면 8 월 29 일.
+
+이 더 리 움 블록 체인 데이터가 데이터 세트에 게시 되 고 매일 업데이트 됩니다.
+
+Google에서 설명 하는 것 처럼,이 더 리 움 블록 체인에는 거래 상태 확인, 지갑 거래 협회 검색, 지갑 잔고 확인 등의 무작위 기능을 위한 api가 포함 되어 있습니다.
+
+출처: bigquery 또한 Google Cloud를 기반으로 하는 소프트웨어는이 더 리 움 블록 체인을 실행 하는 컴퓨터, 즉 영국 기반의 인프라 소프트웨어 공급자로 서이 더 리 움을 네트워크와 상호 작용 하 여 일일 추출을 수행 합니다. 이 더 리 움 블록 체인 원장 으로부터 데이터를 저장 하 고 날짜 분할 데이터를 bigquery로 탐색 합니다.
+
+그 중 하나는 거래 수에의 한 가장 인기 있는 erc-721 스마트 계약 인이 더 리 움 블록 체인을 기반으로 하는 크립 토 고양이와 관련 된 게임입니다.
+
+bigquery는 적어도 10 개의 cryptokitties (그래픽 색상 소유자를 나타냅니다)와 그들의 마스코트 ' 생식 적합성 (크기)를 소유 하는 계정에 대 한 데이터를 수집 합니다.
+
+2 월,이 회사는 비트 코인 (BTC) 블록 체인에 대 한 유사한 도구를 만들어 거래를 시각화 하 고 비정상을 감지 하며 블록 체인 원장 으로부터 필요한 데이터를 추출 합니다.
+
+Original source: [Google Adds Ethereum Blockchain Dataset to Its Big Data Analytics Platform](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
