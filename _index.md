@@ -1,3 +1,4 @@
+* 2018-09-04 15:09 [구글은 빅 데이터 분석 플랫폼에이 더 리 움 블록 체인 데이터 세트를 추가](https://github.com/theyapapa/cryptonews/blob/ko/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform-1b7a5a9a.md)
 * 2018-09-04 14:09 [이 더 리 움이 $300에 실패 함에 따라 비트 코인 씰은 주로 녹색 시장에서 더 이득](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300-78f2c905.md)
 * 2018-09-04 13:09 [2019에서 블록 체인 프로젝트 예산을 두 배로 한국 인터넷 및 보안 기관](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019-fa68bfe1.md)
 * 2018-09-04 11:09 [암호 지갑 아 브라는 sera의 EU 은행에서 직접 거래를 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa-102a7e10.md)
