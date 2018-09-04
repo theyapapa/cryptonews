@@ -1,0 +1,1 @@
+[Philippines to Publish Final ICO Regulation, Draft Crypto Exchange Rules Within Two Weeks](https://cointelegraph.com/news/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks)
