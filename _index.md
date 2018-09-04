@@ -1,3 +1,4 @@
+* 2018-09-04 07:09 [Filipinas publicará el Reglamento final del ICO, borrará las reglas de intercambio en dos semanas](https://github.com/theyapapa/cryptonews/blob/es/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks-11fc05c1.md)
 * 2018-09-03 22:09 [Banco Industrial y comercial de China para abrazar la tecnología bloques](https://github.com/theyapapa/cryptonews/blob/es/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology-5d526c9d.md)
 * 2018-09-03 20:09 [Deutsche Bank intercambiador institucional se une al inicio Crypto japonés](https://github.com/theyapapa/cryptonews/blob/es/deutsche-bank-institutional-trader-joins-japanese-crypto-startup-e8ee5124.md)
 * 2018-09-03 18:09 [Empresa de inversión niega participación en Bitmain IPO después de informes de medios erróneos](https://github.com/theyapapa/cryptonews/blob/es/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports-b29584bc.md)
