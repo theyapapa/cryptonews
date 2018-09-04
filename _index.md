@@ -1,3 +1,4 @@
+* 2018-09-04 07:09 [필리핀 최종 ICO 규정, 2 주 이내에 임시 암호화 교환 규칙을 게시 하려면](https://github.com/theyapapa/cryptonews/blob/ko/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks-11fc05c1.md)
 * 2018-09-03 22:09 [블록 체인 기술을 포용 하는 중국의 산업과 상업 은행](https://github.com/theyapapa/cryptonews/blob/ko/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology-5d526c9d.md)
 * 2018-09-03 20:09 [도이치 뱅크 기관 상인 일본어 암호화 시작을 조인](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-bank-institutional-trader-joins-japanese-crypto-startup-e8ee5124.md)
 * 2018-09-03 18:09 [잘못 된 미디어 보고서를 따르는 bitmain IPO의 참여를 거부 하는 투자 회사](https://github.com/theyapapa/cryptonews/blob/ko/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports-b29584bc.md)
