@@ -1,0 +1,1 @@
+[Bitcoin Seals Further Gains in a Mostly Green Market as Ethereum Fails to Break $300](https://cointelegraph.com/news/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300)
