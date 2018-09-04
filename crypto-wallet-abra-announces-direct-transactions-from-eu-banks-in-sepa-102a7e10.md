@@ -1,0 +1,19 @@
+# 암호 지갑 아 브라는 sera의 EU 은행에서 직접 거래를 발표 ...
+
+글로벌 암호 지갑 abra는 PR newswire에서 발행 한 보도 자료에 따르면 9 월 4 일 화요일에 유럽 은행 계좌에 대 한 가상 화폐의 직접 구매 및 판매를 가능 하 게 했습니다.
+
+전 세계 소비자를 위한 28 개의 가상 화폐를 제공 하는 abra는 이제 단일 유로 결제 지역 (sea) 은행 계좌를 지원 합니다.
+
+고객은 이제 직접 자신의 지갑으로 유로 또는 여러 개의 다른 국가 통화를 전송할 수 있습니다, 차례로,이 더 리 움 (ETH), 라이트 코인 (LTC), 리플 (xrp) 등 abra에서 제공 하는 28 암호 화폐로 변환 할 수 있습니다.
+
+빌 barhydt, abra의 설립자 겸 CEO, 추가 혁신을 설명: "70 개국 이상에서 사용자와, 그리고 모든 은행 계좌에서 암호 화폐에 투자할 수 있는 능력에 대 한 더 큰 수요가, 그것은 투자자에 게 기회를 제공 하는 것이 정말 중요 합니다 어떤 은행 구좌 든 지에서 그들의 abra 지갑을 직접 투자 하십시오. "
+
+seda 은행 계좌 백업과 함께, abra는 최근 지갑에 추가 된 세 개의 새로운 동전을 발표 했다: 카르다노 (ADA), 기본 주의 토큰 (BAT), 및 트 론 (TRX).
+
+오늘 발표까지, abra 지갑은 미국에 있는 미국 은행 그리고 전신 송금에 의해서만, 아메리칸 익스프레스, 비자 및 마스터 카드 차변 및 신용 카드와 함께 전세계 투자 될 수 있었다.
+
+단일 유로 지불 지역 (sea)은 EU에서 은행 송금을 간소화 하는 결제 시스템입니다.
+
+Original source: [Crypto Wallet Abra Announces Direct Transactions From EU Banks in SEPA](https://cointelegraph.com/news/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
