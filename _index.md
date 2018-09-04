@@ -1,3 +1,4 @@
+* 2018-09-04 08:09 [Интеллектуальная банковская экосистема для защиты потребителей от волатильности цен](https://github.com/theyapapa/cryptonews/blob/ru/smart-banking-ecosystem-to-shield-consumers-from-volatility-in-cryptocurrency-prices-4b25238a.md)
 * 2018-09-04 07:09 [Филиппины опубликовать окончательный правила ICO, проект крипто обмен правил в течение двух недель](https://github.com/theyapapa/cryptonews/blob/ru/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks-11fc05c1.md)
 * 2018-09-03 22:09 [Промышленный и коммерческий банк Китая обнять технологию цепочки](https://github.com/theyapapa/cryptonews/blob/ru/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology-5d526c9d.md)
 * 2018-09-03 20:09 [Дойче Банк институциональных трейдер присоединяется японский крипто запуска](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-bank-institutional-trader-joins-japanese-crypto-startup-e8ee5124.md)
