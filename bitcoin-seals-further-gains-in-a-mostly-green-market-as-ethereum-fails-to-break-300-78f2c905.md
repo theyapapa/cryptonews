@@ -1,0 +1,19 @@
+# 비트 코인 봉인이 더 리 움이 $300을 깰 실패로 주로 녹색 시장에서 더 이득 ...
+
+9 월 4 일 (화): 암호화 시장은 오늘날 대부분 녹색으로, 비트 코인 (BTC)이 더 이상 인칭 이지만, Coin360 데이터가 보여주는 것 처럼 몇 개의 대형 시장 캡 알 츠가 탄탄 한 이득을 볼 것입니다.
+
+Coin360에서 시장 시각화 비트 코인 (BTC)는 cointelegraph의 비트 코인 가격 지 수에 따라, 그것의 새로 얻은 이득을 계속 부스트로 하루에 1% 이상, 언론 시간에 $7374 주위에서 거래 되고있다.
+
+최고 동전은 그것의 주간 도표에 그것의 낮은 것 보다는 더 높은 인상적인 $550를 무역 하 고 있다, 거의 7%에 그것의 7 일 회전 이득과 더불어.
+
+출처: coinmarketcap 또 다른 강력한 상위 10 연예인 monero (xmr), 최대 약 5% 언론 시간에 $139 주위에 무역.
+
+출처: 코인 마켓 캡 이익은 평균에 더 강하다: nem (xem)와 vechain (수 의사)는 iota (miota), Zcash (zec) 및 그들의 24 시간 도표에 3-4% 성장을 보는 대시와 더불어 일에, 거의 8% 둘 다 위로 이다.
+
+모든 가상 화폐의 총 시가 총액은 언론 시간에 약 $2400억, 주간 차트는 거의 $120억입니다.
+
+coinmarketcap의 모든 가상 화폐의 총 시가 총액의 7 일 차트 오늘, 한국 인터넷 및 보안 기관 (kisa)와 함께 블록 체인 공간에 대 한 낙관적인 뉴스를 본적이 있다-국가의 과학 및 ICT의 교육부의 하위 조직 -이 내년도 공공 블록 체인 파일럿 프로젝트에 대 한 예산을 두 배 이상 계획을 발표.
+
+Original source: [Bitcoin Seals Further Gains in a Mostly Green Market as Ethereum Fails to Break $300](https://cointelegraph.com/news/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
