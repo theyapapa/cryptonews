@@ -1,0 +1,1 @@
+[Google Adds Ethereum Blockchain Dataset to Its Big Data Analytics Platform](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
