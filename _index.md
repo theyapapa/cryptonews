@@ -1,3 +1,4 @@
+* 2018-09-04 14:09 [Bitcoin уплотнения дальнейшие выгоды в основном Зеленый рынок, как Ethereum не может сломать $300](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300-78f2c905.md)
 * 2018-09-04 13:09 [Южная Корея Интернет и безопасности Агентства удвоить проектный бюджет в 2019](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019-fa68bfe1.md)
 * 2018-09-04 11:09 [Крипто бумажника заявляет о прямых сделках с банками ЕС в SEPA](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa-102a7e10.md)
 * 2018-09-04 08:09 [Интеллектуальная банковская экосистема для защиты потребителей от волатильности цен](https://github.com/theyapapa/cryptonews/blob/ru/smart-banking-ecosystem-to-shield-consumers-from-volatility-in-cryptocurrency-prices-4b25238a.md)
