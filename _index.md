@@ -1,3 +1,4 @@
+* 2018-09-03 22:09 [Промышленный и коммерческий банк Китая обнять технологию цепочки](https://github.com/theyapapa/cryptonews/blob/ru/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology-5d526c9d.md)
 * 2018-09-03 20:09 [Дойче Банк институциональных трейдер присоединяется японский крипто запуска](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-bank-institutional-trader-joins-japanese-crypto-startup-e8ee5124.md)
 * 2018-09-03 18:09 [Инвестиционная фирма отрицает участие в битмаин IPO после ошибочных сообщений СМИ](https://github.com/theyapapa/cryptonews/blob/ru/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports-b29584bc.md)
 * 2018-09-03 16:09 [Запуск для решения проблемы прослеживаемости в морепродуктах промышленности через цепочки](https://github.com/theyapapa/cryptonews/blob/ru/startup-to-solve-traceability-issues-in-seafood-industry-via-blockchain-4565df37.md)
