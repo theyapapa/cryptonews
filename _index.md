@@ -1,3 +1,4 @@
+* 2018-09-04 13:09 [2019에서 블록 체인 프로젝트 예산을 두 배로 한국 인터넷 및 보안 기관](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019-fa68bfe1.md)
 * 2018-09-04 11:09 [암호 지갑 아 브라는 sera의 EU 은행에서 직접 거래를 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa-102a7e10.md)
 * 2018-09-04 08:09 [암호화 화폐 가격의 변동성 으로부터 소비자를 보호 하는 스마트 뱅킹 생태계](https://github.com/theyapapa/cryptonews/blob/ko/smart-banking-ecosystem-to-shield-consumers-from-volatility-in-cryptocurrency-prices-4b25238a.md)
 * 2018-09-04 07:09 [필리핀 최종 ICO 규정, 2 주 이내에 임시 암호화 교환 규칙을 게시 하려면](https://github.com/theyapapa/cryptonews/blob/ko/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks-11fc05c1.md)
