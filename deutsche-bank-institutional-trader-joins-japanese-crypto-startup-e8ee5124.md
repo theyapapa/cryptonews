@@ -1,0 +1,1 @@
+[Deutsche Bank Institutional Trader Joins Japanese Crypto Startup](https://cointelegraph.com/news/deutsche-bank-institutional-trader-joins-japanese-crypto-startup)
