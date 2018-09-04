@@ -1,0 +1,1 @@
+[Smart Banking Ecosystem to Shield Consumers From Volatility in Cryptocurrency Prices](https://cointelegraph.com/news/smart-banking-ecosystem-to-shield-consumers-from-volatility-in-cryptocurrency-prices)
