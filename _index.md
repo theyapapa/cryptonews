@@ -1,3 +1,4 @@
+* 2018-09-04 11:09 [Крипто бумажника заявляет о прямых сделках с банками ЕС в SEPA](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa-102a7e10.md)
 * 2018-09-04 08:09 [Интеллектуальная банковская экосистема для защиты потребителей от волатильности цен](https://github.com/theyapapa/cryptonews/blob/ru/smart-banking-ecosystem-to-shield-consumers-from-volatility-in-cryptocurrency-prices-4b25238a.md)
 * 2018-09-04 07:09 [Филиппины опубликовать окончательный правила ICO, проект крипто обмен правил в течение двух недель](https://github.com/theyapapa/cryptonews/blob/ru/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks-11fc05c1.md)
 * 2018-09-03 22:09 [Промышленный и коммерческий банк Китая обнять технологию цепочки](https://github.com/theyapapa/cryptonews/blob/ru/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology-5d526c9d.md)
