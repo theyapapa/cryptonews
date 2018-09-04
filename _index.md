@@ -1,3 +1,4 @@
+* 2018-09-03 20:09 [도이치 뱅크 기관 상인 일본어 암호화 시작을 조인](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-bank-institutional-trader-joins-japanese-crypto-startup-e8ee5124.md)
 * 2018-09-03 18:09 [잘못 된 미디어 보고서를 따르는 bitmain IPO의 참여를 거부 하는 투자 회사](https://github.com/theyapapa/cryptonews/blob/ko/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports-b29584bc.md)
 * 2018-09-03 16:09 [블록 체인을 통한 해산물 산업의 추적성 문제 해결을 위한 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/startup-to-solve-traceability-issues-in-seafood-industry-via-blockchain-4565df37.md)
 * 2018-09-03 14:09 [인도는 화폐와 ico를 공부 하기 위해 미국, 일본, 스위스에 공무원을 보냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos-c35addb6.md)
