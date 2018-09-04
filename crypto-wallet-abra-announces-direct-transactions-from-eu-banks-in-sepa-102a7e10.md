@@ -1,0 +1,1 @@
+[Crypto Wallet Abra Announces Direct Transactions From EU Banks in SEPA](https://cointelegraph.com/news/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa)
