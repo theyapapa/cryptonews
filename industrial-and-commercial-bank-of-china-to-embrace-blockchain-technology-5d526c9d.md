@@ -1,0 +1,1 @@
+[Industrial and Commercial Bank of China To Embrace Blockchain Technology](https://cointelegraph.com/news/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology)
