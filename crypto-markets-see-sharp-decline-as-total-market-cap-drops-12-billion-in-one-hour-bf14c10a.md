@@ -1,0 +1,19 @@
+# 암호화 시장 전체 시장 총액은 한 시간에 $120억 방울로 날카로운 감소를 참조 하십시오 ...
+
+9 월 5 일 (수): 암호화 시장은 1 시간 이내에 급격 한 하락을 겪 었으 며, 총 시장 총액은 $120억이 고, 코인 마켓 캡에 따르면 거의 모든 시장 캡이 빨간색으로 상단 100 동전을가지고 있습니다.
+
+Coin360 주요 암호 화폐 비트 코인 (btc)에서 시장 시각화가 다시 오늘 $7000 포인트 아래에 담근, codeelegraph의 BTC 가격 지 수에 따르면.
+
+비트 코인은 지난 24 시간 동안 약 5% 아래로, 언론 시간에 $6996 주위에 거래.
+
+출처: 코인 레 그래프이 더 리 움 가격 지 수 총 시장 총액은 한 시간 이내에 극적으로 내려, 또 다른 딥을 보고 하향 추세를 계속 나타납니다.
+
+시장의 급격 한 급락과 병행 하 여, Bitcoin의 지배력은 단기간에, 최대 1%, 현재 54.3%에 달하는 것으로 크게 증가 했습니다.
+
+출처: 코인 마켓 캡 9 ~ 12%의 간격 내에 시장 캡 범위에 의해 대부분의 최고 알트 코인의 평균 손실은 시간을 눌러, 주요 동전 리플 (xrp), 비트 코인 현금 (bch) 및 EOS가 11%, 10.2%, 10.9%로 각각 언론에 의해 시간.
+
+9 월 중순까지 주요 암호 교환 bittrex에서 이뤄 것입니다 비트 코인 골드 (btg)는, 작은 손실을 보고, 아래로 4.6% 및 언론 시간에 $20.60에서 거래.
+
+Original source: [Crypto Markets See Sharp Decline as Total Market Cap Drops $12 Billion in One Hour](https://cointelegraph.com/news/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
