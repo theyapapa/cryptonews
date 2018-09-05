@@ -1,3 +1,4 @@
+* 2018-09-04 22:09 [메가 크롬 확장 사용자의 monero을 훔치는 타협](https://github.com/theyapapa/cryptonews/blob/ko/mega-chrome-extension-compromised-to-steal-users-monero-be24c3d7.md)
 * 2018-09-04 20:09 [' 계정 없이 교환 ' 점차적으로 회원 프로그램을 소개 하는 변신](https://github.com/theyapapa/cryptonews/blob/ko/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program-117362af.md)
 * 2018-09-04 15:09 [구글은 빅 데이터 분석 플랫폼에이 더 리 움 블록 체인 데이터 세트를 추가](https://github.com/theyapapa/cryptonews/blob/ko/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform-1b7a5a9a.md)
 * 2018-09-04 14:09 [이 더 리 움이 $300에 실패 함에 따라 비트 코인 씰은 주로 녹색 시장에서 더 이득](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300-78f2c905.md)
