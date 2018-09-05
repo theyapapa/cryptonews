@@ -1,0 +1,1 @@
+[Crypto Markets See Sharp Decline as Total Market Cap Drops $12 Billion in One Hour](https://cointelegraph.com/news/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour)
