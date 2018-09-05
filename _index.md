@@ -1,3 +1,4 @@
+* 2018-09-05 10:09 [El vigilante de Malasia ordena parada inmediata a la belleza gurú Lavidacoin promoción](https://github.com/theyapapa/cryptonews/blob/es/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion-bee732ef.md)
 * 2018-09-05 08:09 [Los mercados Crypto ven la declinación aguda mientras que la tapa total del mercado cae $12 mil millones en una hora](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour-bf14c10a.md)
 * 2018-09-04 23:09 [La minería de criptografía aceptada como industria por las autoridades iraníes](https://github.com/theyapapa/cryptonews/blob/es/crypto-mining-accepted-as-an-industry-by-iranian-authorities-bea3d9d3.md)
 * 2018-09-04 22:09 [Mega Chrome extensión comprometido a robar los usuarios ' Monero](https://github.com/theyapapa/cryptonews/blob/es/mega-chrome-extension-compromised-to-steal-users-monero-be24c3d7.md)
