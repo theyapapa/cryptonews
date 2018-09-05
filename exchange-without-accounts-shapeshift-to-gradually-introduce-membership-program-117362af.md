@@ -1,0 +1,1 @@
+[‘Exchange Without Accounts’ ShapeShift to Gradually Introduce Membership Program](https://cointelegraph.com/news/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program)
