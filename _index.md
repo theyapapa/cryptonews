@@ -1,3 +1,4 @@
+* 2018-09-05 08:09 [가상 화폐 시장은 1 시간 안에 총 시장 모자 하락 $120억로 급격 한 쇠퇴를 본다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour-bf14c10a.md)
 * 2018-09-04 23:09 [암호화 마이닝은 이란 당국에 의해 산업으로 인정](https://github.com/theyapapa/cryptonews/blob/ko/crypto-mining-accepted-as-an-industry-by-iranian-authorities-bea3d9d3.md)
 * 2018-09-04 22:09 [메가 크롬 확장 사용자의 monero을 훔치는 타협](https://github.com/theyapapa/cryptonews/blob/ko/mega-chrome-extension-compromised-to-steal-users-monero-be24c3d7.md)
 * 2018-09-04 20:09 [' 계정 없이 교환 ' 점차적으로 회원 프로그램을 소개 하는 변신](https://github.com/theyapapa/cryptonews/blob/ko/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program-117362af.md)
