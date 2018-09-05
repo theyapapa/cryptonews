@@ -1,0 +1,1 @@
+[MEGA Chrome Extension Compromised to Steal Users’ Monero](https://cointelegraph.com/news/mega-chrome-extension-compromised-to-steal-users-monero)
