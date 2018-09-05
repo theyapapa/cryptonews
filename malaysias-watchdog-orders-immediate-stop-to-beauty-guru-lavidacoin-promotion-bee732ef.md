@@ -1,0 +1,1 @@
+[Malaysia’s Watchdog Orders Immediate Stop to Beauty Guru Lavidacoin Promotion](https://cointelegraph.com/news/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion)
