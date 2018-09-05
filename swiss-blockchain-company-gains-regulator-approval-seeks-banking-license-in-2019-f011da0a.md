@@ -1,0 +1,1 @@
+[Swiss Blockchain Company Gains Regulator Approval, Seeks Banking License in 2019](https://cointelegraph.com/news/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019)
