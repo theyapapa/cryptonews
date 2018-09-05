@@ -1,0 +1,1 @@
+[Crypto Mining Accepted as an Industry by Iranian Authorities](https://cointelegraph.com/news/crypto-mining-accepted-as-an-industry-by-iranian-authorities)
