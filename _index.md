@@ -1,3 +1,4 @@
+* 2018-09-04 20:09 ["обмен без счетов" ShapeShift постепенно ввести членство программы](https://github.com/theyapapa/cryptonews/blob/ru/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program-117362af.md)
 * 2018-09-04 15:09 [Google добавляет Ethereum набор данных в свою платформу аналитики больших данных](https://github.com/theyapapa/cryptonews/blob/ru/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform-1b7a5a9a.md)
 * 2018-09-04 14:09 [Bitcoin уплотнения дальнейшие выгоды в основном Зеленый рынок, как Ethereum не может сломать $300](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300-78f2c905.md)
 * 2018-09-04 13:09 [Южная Корея Интернет и безопасности Агентства удвоить проектный бюджет в 2019](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019-fa68bfe1.md)
