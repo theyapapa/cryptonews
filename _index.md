@@ -1,3 +1,4 @@
+* 2018-09-04 22:09 [Mega Chrome extensión comprometido a robar los usuarios ' Monero](https://github.com/theyapapa/cryptonews/blob/es/mega-chrome-extension-compromised-to-steal-users-monero-be24c3d7.md)
 * 2018-09-04 20:09 [cAmbio ' Exchange without accounts ' para introducir gradualmente el programa de membresía](https://github.com/theyapapa/cryptonews/blob/es/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program-117362af.md)
 * 2018-09-04 15:09 [Google agrega Ethereum bloques DataSet a su gran plataforma de análisis de datos](https://github.com/theyapapa/cryptonews/blob/es/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform-1b7a5a9a.md)
 * 2018-09-04 14:09 [Bitcoin sella ganancias adicionales en un mercado en su mayoría verde como Ethereum no logra romper $300](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300-78f2c905.md)
