@@ -1,0 +1,1 @@
+[Business Insider: Goldman Sachs Drops Plans to Open Crypto Trading Desk](https://cointelegraph.com/news/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk)
