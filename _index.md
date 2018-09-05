@@ -1,3 +1,4 @@
+* 2018-09-05 17:09 [Швейцарская компания цепочки добирается регулятор одобрения, ищет банковскую лицензию в 2019](https://github.com/theyapapa/cryptonews/blob/ru/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019-f011da0a.md)
 * 2018-09-05 15:09 [Почему биткойн Голд получил десписок из биттрекс](https://github.com/theyapapa/cryptonews/blob/ru/why-bitcoin-gold-got-delisted-from-bittrex-a219ccfd.md)
 * 2018-09-05 13:09 [Бывший юрист крипто и советник ICO Джулиан зежелман: инвестировать в ИКО риск на динамите](https://github.com/theyapapa/cryptonews/blob/ru/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite-d2294c73.md)
 * 2018-09-05 12:09 [Бизнес инсайдерской: Goldman Sachs капель планирует открыть крипто торговый стол](https://github.com/theyapapa/cryptonews/blob/ru/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk-3ef6128f.md)
