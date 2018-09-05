@@ -1,0 +1,1 @@
+[Why Bitcoin Gold Got Delisted From Bittrex](https://cointelegraph.com/news/why-bitcoin-gold-got-delisted-from-bittrex)
