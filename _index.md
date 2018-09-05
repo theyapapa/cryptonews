@@ -1,3 +1,4 @@
+* 2018-09-05 08:09 [Крипто рынки видят резкое снижение как общий рынок Cap капель $12 000 000 000 в течение одного часа](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour-bf14c10a.md)
 * 2018-09-04 23:09 [Криптографическая добыча принята в качестве отрасли иранскими властями](https://github.com/theyapapa/cryptonews/blob/ru/crypto-mining-accepted-as-an-industry-by-iranian-authorities-bea3d9d3.md)
 * 2018-09-04 22:09 [Mega Chrome расширение скомпрометированы, чтобы украсть пользователей ' Монеро](https://github.com/theyapapa/cryptonews/blob/ru/mega-chrome-extension-compromised-to-steal-users-monero-be24c3d7.md)
 * 2018-09-04 20:09 ["обмен без счетов" ShapeShift постепенно ввести членство программы](https://github.com/theyapapa/cryptonews/blob/ru/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program-117362af.md)
