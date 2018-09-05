@@ -1,3 +1,4 @@
+* 2018-09-05 17:09 [Swiss bloques Company obtiene la aprobación del regulador, busca licencia bancaria en 2019](https://github.com/theyapapa/cryptonews/blob/es/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019-f011da0a.md)
 * 2018-09-05 15:09 [¿por qué Bitcoin Gold ha sido descartado de Bittrex](https://github.com/theyapapa/cryptonews/blob/es/why-bitcoin-gold-got-delisted-from-bittrex-a219ccfd.md)
 * 2018-09-05 13:09 [Ex-abogado de criptografía y asesor de ICO Julian Zegelman: invertir en icos es un riesgo en la dinamita](https://github.com/theyapapa/cryptonews/blob/es/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite-d2294c73.md)
 * 2018-09-05 12:09 [Business Insider: Goldman Sachs Drops planes para abrir escritorio Crypto Trading](https://github.com/theyapapa/cryptonews/blob/es/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk-3ef6128f.md)
