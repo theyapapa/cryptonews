@@ -1,3 +1,4 @@
+* 2018-09-04 23:09 [암호화 마이닝은 이란 당국에 의해 산업으로 인정](https://github.com/theyapapa/cryptonews/blob/ko/crypto-mining-accepted-as-an-industry-by-iranian-authorities-bea3d9d3.md)
 * 2018-09-04 22:09 [메가 크롬 확장 사용자의 monero을 훔치는 타협](https://github.com/theyapapa/cryptonews/blob/ko/mega-chrome-extension-compromised-to-steal-users-monero-be24c3d7.md)
 * 2018-09-04 20:09 [' 계정 없이 교환 ' 점차적으로 회원 프로그램을 소개 하는 변신](https://github.com/theyapapa/cryptonews/blob/ko/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program-117362af.md)
 * 2018-09-04 15:09 [구글은 빅 데이터 분석 플랫폼에이 더 리 움 블록 체인 데이터 세트를 추가](https://github.com/theyapapa/cryptonews/blob/ko/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform-1b7a5a9a.md)
