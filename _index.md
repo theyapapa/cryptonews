@@ -1,3 +1,4 @@
+* 2018-09-05 08:09 [Los mercados Crypto ven la declinación aguda mientras que la tapa total del mercado cae $12 mil millones en una hora](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour-bf14c10a.md)
 * 2018-09-04 23:09 [La minería de criptografía aceptada como industria por las autoridades iraníes](https://github.com/theyapapa/cryptonews/blob/es/crypto-mining-accepted-as-an-industry-by-iranian-authorities-bea3d9d3.md)
 * 2018-09-04 22:09 [Mega Chrome extensión comprometido a robar los usuarios ' Monero](https://github.com/theyapapa/cryptonews/blob/es/mega-chrome-extension-compromised-to-steal-users-monero-be24c3d7.md)
 * 2018-09-04 20:09 [cAmbio ' Exchange without accounts ' para introducir gradualmente el programa de membresía](https://github.com/theyapapa/cryptonews/blob/es/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program-117362af.md)
