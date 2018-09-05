@@ -1,0 +1,1 @@
+[Former Crypto Lawyer and ICO Advisor Julian Zegelman: Investing in ICOs Is a Risk on Dynamite](https://cointelegraph.com/news/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite)
