@@ -1,3 +1,4 @@
+* 2018-09-05 13:09 [전 암호화 변호사 및 ico 고문 줄리안 zegelman: ico에 투자 하는 것은 다 이너 마이트에 위험](https://github.com/theyapapa/cryptonews/blob/ko/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite-d2294c73.md)
 * 2018-09-05 12:09 [비즈니스 내부자: 골드만 삭스는 암호 거래 데스크를 열 계획을 드랍 스](https://github.com/theyapapa/cryptonews/blob/ko/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk-3ef6128f.md)
 * 2018-09-05 10:09 [말레이시아의 워치독 주문 즉시 중지 미용 전문가 lauddhacoin 승진](https://github.com/theyapapa/cryptonews/blob/ko/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion-bee732ef.md)
 * 2018-09-05 08:09 [가상 화폐 시장은 1 시간 안에 총 시장 모자 하락 $120억로 급격 한 쇠퇴를 본다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour-bf14c10a.md)
