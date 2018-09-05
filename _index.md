@@ -1,3 +1,4 @@
+* 2018-09-05 12:09 [비즈니스 내부자: 골드만 삭스는 암호 거래 데스크를 열 계획을 드랍 스](https://github.com/theyapapa/cryptonews/blob/ko/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk-3ef6128f.md)
 * 2018-09-05 10:09 [말레이시아의 워치독 주문 즉시 중지 미용 전문가 lauddhacoin 승진](https://github.com/theyapapa/cryptonews/blob/ko/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion-bee732ef.md)
 * 2018-09-05 08:09 [가상 화폐 시장은 1 시간 안에 총 시장 모자 하락 $120억로 급격 한 쇠퇴를 본다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour-bf14c10a.md)
 * 2018-09-04 23:09 [암호화 마이닝은 이란 당국에 의해 산업으로 인정](https://github.com/theyapapa/cryptonews/blob/ko/crypto-mining-accepted-as-an-industry-by-iranian-authorities-bea3d9d3.md)
