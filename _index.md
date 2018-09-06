@@ -1,3 +1,4 @@
+* 2018-09-06 18:09 [벨라루스는 블록 체인과 핀 테크에 관심이 있는 한국 투자자 들을 찾고 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech-db1c3a1d.md)
 * 2018-09-06 15:09 [암호 교환 크 라 켄 캐나다에서 갑자기 직원 정리 해 고의 소문을 거부](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada-73fed45d.md)
 * 2018-09-06 12:09 [잭 dorsey: 트위터는 블록 체인의 ' 숨은 잠재력 '을 고려 하고있다](https://github.com/theyapapa/cryptonews/blob/ko/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain-421aaa0e.md)
 * 2018-09-06 09:09 [리눅스 재단은 새로운 hyperledger 블록 체인 교육 과정을 시작](https://github.com/theyapapa/cryptonews/blob/ko/linux-foundation-launches-new-hyperledger-blockchain-training-course-ade86938.md)
