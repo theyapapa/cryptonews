@@ -1,3 +1,4 @@
+* 2018-09-06 12:09 [Джек Дорси: Twitter рассматривает "неиспользованный потенциал" цепочки](https://github.com/theyapapa/cryptonews/blob/ru/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain-421aaa0e.md)
 * 2018-09-06 09:09 [Linux Foundation запускает новый учебный курс по цепочке](https://github.com/theyapapa/cryptonews/blob/ru/linux-foundation-launches-new-hyperledger-blockchain-training-course-ade86938.md)
 * 2018-09-06 07:09 [Южная Корея почтовой службы стремится Crypto ' ноу-хау "от Goldman Sachs](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs-32727387.md)
 * 2018-09-06 03:09 [Цепочки и выборы: японский, швейцарский и американский опыт](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-and-elections-the-japanese-swiss-and-american-experience-5b1e532b.md)
