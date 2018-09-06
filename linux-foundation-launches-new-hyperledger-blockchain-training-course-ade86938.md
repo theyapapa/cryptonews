@@ -1,0 +1,1 @@
+[Linux Foundation Launches New Hyperledger Blockchain Training Course](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
