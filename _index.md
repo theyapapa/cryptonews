@@ -1,3 +1,4 @@
+* 2018-09-06 07:09 [Южная Корея почтовой службы стремится Crypto ' ноу-хау "от Goldman Sachs](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs-32727387.md)
 * 2018-09-06 03:09 [Цепочки и выборы: японский, швейцарский и американский опыт](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-and-elections-the-japanese-swiss-and-american-experience-5b1e532b.md)
 * 2018-09-06 00:09 [Турецкая биржа разрабатывает базу данных клиентов на базе цепочки](https://github.com/theyapapa/cryptonews/blob/ru/turkish-exchange-develops-blockchain-based-customer-database-e33a73a7.md)
 * 2018-09-05 22:09 [Отчет: бельгийский мозговой бак призывает к обмену Crypto и правилам ICO на уровне ЕС](https://github.com/theyapapa/cryptonews/blob/ru/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level-07b545d7.md)
