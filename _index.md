@@ -1,3 +1,4 @@
+* 2018-09-05 22:09 [Отчет: бельгийский мозговой бак призывает к обмену Crypto и правилам ICO на уровне ЕС](https://github.com/theyapapa/cryptonews/blob/ru/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level-07b545d7.md)
 * 2018-09-05 20:09 [Брайан Келли: ИКО здесь, чтобы остаться, но "дни документ и сон" закончились](https://github.com/theyapapa/cryptonews/blob/ru/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over-75891a7b.md)
 * 2018-09-05 17:09 [Швейцарская компания цепочки добирается регулятор одобрения, ищет банковскую лицензию в 2019](https://github.com/theyapapa/cryptonews/blob/ru/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019-f011da0a.md)
 * 2018-09-05 15:09 [Почему биткойн Голд получил десписок из биттрекс](https://github.com/theyapapa/cryptonews/blob/ru/why-bitcoin-gold-got-delisted-from-bittrex-a219ccfd.md)
