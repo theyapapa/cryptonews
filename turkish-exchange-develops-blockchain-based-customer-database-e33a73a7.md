@@ -1,0 +1,1 @@
+[Turkish Exchange Develops Blockchain-Based Customer Database](https://cointelegraph.com/news/turkish-exchange-develops-blockchain-based-customer-database)
