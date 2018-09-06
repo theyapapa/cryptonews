@@ -1,0 +1,1 @@
+[Crypto Exchange Kraken Denies Rumors of Sudden Staff Layoffs in Canada](https://cointelegraph.com/news/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada)
