@@ -1,3 +1,4 @@
+* 2018-09-05 20:09 [브라이언 켈리: 아이 코스는 여기에, 하지만 '의 일 백서와 꿈의 ' 끝났습니다](https://github.com/theyapapa/cryptonews/blob/ko/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over-75891a7b.md)
 * 2018-09-05 17:09 [스위스 블록 체인 회사 이득 레 귤 레이 터 승인, 2019에서 은행 라이센스를 추구](https://github.com/theyapapa/cryptonews/blob/ko/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019-f011da0a.md)
 * 2018-09-05 15:09 [비트 코인의 금이 bittrex에서 delisted 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-bitcoin-gold-got-delisted-from-bittrex-a219ccfd.md)
 * 2018-09-05 13:09 [전 암호화 변호사 및 ico 고문 줄리안 zegelman: ico에 투자 하는 것은 다 이너 마이트에 위험](https://github.com/theyapapa/cryptonews/blob/ko/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite-d2294c73.md)
