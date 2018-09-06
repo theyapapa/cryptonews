@@ -1,0 +1,1 @@
+[Jack Dorsey: Twitter Is Considering the ‘Untapped Potential’ of Blockchain](https://cointelegraph.com/news/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain)
