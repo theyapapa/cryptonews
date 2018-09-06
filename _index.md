@@ -1,3 +1,4 @@
+* 2018-09-06 12:09 [Jack Dorsey: Twitter está considerando el ' potencial sin explotar ' de bloques](https://github.com/theyapapa/cryptonews/blob/es/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain-421aaa0e.md)
 * 2018-09-06 09:09 [Linux Foundation lanza nuevo curso de formación de hyperledger bloques](https://github.com/theyapapa/cryptonews/blob/es/linux-foundation-launches-new-hyperledger-blockchain-training-course-ade86938.md)
 * 2018-09-06 07:09 [Corea del sur servicio post busca Crypto ' know-how ' de Goldman Sachs](https://github.com/theyapapa/cryptonews/blob/es/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs-32727387.md)
 * 2018-09-06 03:09 [Bloques y elecciones: la experiencia japonesa, Suiza y americana](https://github.com/theyapapa/cryptonews/blob/es/blockchain-and-elections-the-japanese-swiss-and-american-experience-5b1e532b.md)
