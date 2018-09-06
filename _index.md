@@ -1,3 +1,4 @@
+* 2018-09-05 22:09 [보고: EU 수준에서 암호 교환 및 ICO 규정에 대 한 벨기에 생각 탱크 통화](https://github.com/theyapapa/cryptonews/blob/ko/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level-07b545d7.md)
 * 2018-09-05 20:09 [브라이언 켈리: 아이 코스는 여기에, 하지만 '의 일 백서와 꿈의 ' 끝났습니다](https://github.com/theyapapa/cryptonews/blob/ko/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over-75891a7b.md)
 * 2018-09-05 17:09 [스위스 블록 체인 회사 이득 레 귤 레이 터 승인, 2019에서 은행 라이센스를 추구](https://github.com/theyapapa/cryptonews/blob/ko/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019-f011da0a.md)
 * 2018-09-05 15:09 [비트 코인의 금이 bittrex에서 delisted 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-bitcoin-gold-got-delisted-from-bittrex-a219ccfd.md)
