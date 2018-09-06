@@ -1,3 +1,4 @@
+* 2018-09-06 18:09 [Bielorrusia busca inversores surcoreanos interesados en bloques y FinTech](https://github.com/theyapapa/cryptonews/blob/es/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech-db1c3a1d.md)
 * 2018-09-06 15:09 [Crypto Exchange Kraken niega rumores de despidos repentinos de personal en Canadá](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada-73fed45d.md)
 * 2018-09-06 12:09 [Jack Dorsey: Twitter está considerando el ' potencial sin explotar ' de bloques](https://github.com/theyapapa/cryptonews/blob/es/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain-421aaa0e.md)
 * 2018-09-06 09:09 [Linux Foundation lanza nuevo curso de formación de hyperledger bloques](https://github.com/theyapapa/cryptonews/blob/es/linux-foundation-launches-new-hyperledger-blockchain-training-course-ade86938.md)
