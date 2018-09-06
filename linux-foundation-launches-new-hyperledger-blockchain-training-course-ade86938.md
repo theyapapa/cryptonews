@@ -1,0 +1,19 @@
+# 리눅스 재단은 새로운 hyperledger 블록 체인 교육 과정을 시작 ...
+
+Linux Foundation은 9 월 5 일 발표 된 보도 자료에 따라 hyperledger 패브릭 블록 체인 기술에 대 한 새로운 고급 교육 과정에 대 한 등록을 열었습니다.
+
+새로운 코스 ' hyperledger 원단의 기본 '은 재단의 기업 지향적 블록 체인 교육 활동에 추가 된 것으로, 비영리 온라인 학습을 통해 이미 온라인 자습 형 "비즈니스를 위한 블록 체인" 과정을 포함 하 고 있습니다. 플랫폼 edX.org
+
+오늘의 보도 자료에 따르면, 리눅스는 hyperledger 톱니 모듈형 블록 체인 플랫폼에 특정 올해 나중에 인증 hyperledger 톱니 관리자 시험을 발표할 예정 이다.
+
+재단의 클라이드 seepersad 노트로 서, 테크 크 런치의 최근 데이터는 블록 체인 엔지니어링 작업은 "오늘날의 노동 시장에서 두 번째로 빠른 성장"입니다 제안 했다: "\ [이 성장의 속도는 \] 전문가의 부족으로 이어지는 엔터프라이즈 규모의 \ [기술 \]을 구현 하 고 관리할 수 있는 자격을 갖추고 있습니다.
+
+10만 이상의 학생 들이 우리의 무료 입문 hyperledger 과정을 보고 후, 우리는 더 많은 고급 교육 옵션에 대 한 시간, 그리고 자격증 시험 전문가 들의 지식의 범위를 입증 하는 걸 알았습니다. "
+
+오늘의 보도 자료는 새로운 고급 코스는 학생 들이 블록 체인 및 분산 원장 기술 (dlts)의 기본을 다룰 수 있게 된다는 것을 나타냅니다, 함께 "코어 아키텍처 및 구성 요소" 분산 hyperledger 기초 패브릭 응용 프로그램.
+
+블록 체인 부문의 빠른 확장을 유지 하면서 광범위 한 주요 국제 대학은 블록 체인, 스마트 계약 및 암호 화폐 관련 과정을 제공 합니다.
+
+Original source: [Linux Foundation Launches New Hyperledger Blockchain Training Course](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
