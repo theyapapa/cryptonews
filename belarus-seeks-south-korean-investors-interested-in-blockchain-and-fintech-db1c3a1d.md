@@ -1,0 +1,1 @@
+[Belarus Seeks South Korean Investors Interested in Blockchain and Fintech](https://cointelegraph.com/news/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech)
