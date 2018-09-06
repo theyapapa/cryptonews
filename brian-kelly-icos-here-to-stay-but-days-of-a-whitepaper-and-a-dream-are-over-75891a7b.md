@@ -1,0 +1,1 @@
+[Brian Kelly: ICOs Here to Stay, but ‘Days of a Whitepaper and a Dream’ Are Over](https://cointelegraph.com/news/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over)
