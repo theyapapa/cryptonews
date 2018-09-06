@@ -1,3 +1,4 @@
+* 2018-09-06 03:09 [블록 체인 및 선거: 일본, 스위스, 미국의 경험](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-and-elections-the-japanese-swiss-and-american-experience-5b1e532b.md)
 * 2018-09-06 00:09 [터키 거래소, 블록 체인 기반 고객 데이터베이스 개발](https://github.com/theyapapa/cryptonews/blob/ko/turkish-exchange-develops-blockchain-based-customer-database-e33a73a7.md)
 * 2018-09-05 22:09 [보고: EU 수준에서 암호 교환 및 ICO 규정에 대 한 벨기에 생각 탱크 통화](https://github.com/theyapapa/cryptonews/blob/ko/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level-07b545d7.md)
 * 2018-09-05 20:09 [브라이언 켈리: 아이 코스는 여기에, 하지만 '의 일 백서와 꿈의 ' 끝났습니다](https://github.com/theyapapa/cryptonews/blob/ko/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over-75891a7b.md)
