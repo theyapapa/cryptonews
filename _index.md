@@ -1,3 +1,4 @@
+* 2018-09-06 09:09 [리눅스 재단은 새로운 hyperledger 블록 체인 교육 과정을 시작](https://github.com/theyapapa/cryptonews/blob/ko/linux-foundation-launches-new-hyperledger-blockchain-training-course-ade86938.md)
 * 2018-09-06 07:09 [대한민국 포스트 서비스는 골드만 삭스의 암호화 ' 노하우 '를 추구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs-32727387.md)
 * 2018-09-06 03:09 [블록 체인 및 선거: 일본, 스위스, 미국의 경험](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-and-elections-the-japanese-swiss-and-american-experience-5b1e532b.md)
 * 2018-09-06 00:09 [터키 거래소, 블록 체인 기반 고객 데이터베이스 개발](https://github.com/theyapapa/cryptonews/blob/ko/turkish-exchange-develops-blockchain-based-customer-database-e33a73a7.md)
