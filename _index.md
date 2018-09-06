@@ -1,3 +1,4 @@
+* 2018-09-05 20:09 [Brian Kelly: icos aquí para quedarse, pero ' días de un libro blanco y un sueño ' han terminado](https://github.com/theyapapa/cryptonews/blob/es/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over-75891a7b.md)
 * 2018-09-05 17:09 [Swiss bloques Company obtiene la aprobación del regulador, busca licencia bancaria en 2019](https://github.com/theyapapa/cryptonews/blob/es/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019-f011da0a.md)
 * 2018-09-05 15:09 [¿por qué Bitcoin Gold ha sido descartado de Bittrex](https://github.com/theyapapa/cryptonews/blob/es/why-bitcoin-gold-got-delisted-from-bittrex-a219ccfd.md)
 * 2018-09-05 13:09 [Ex-abogado de criptografía y asesor de ICO Julian Zegelman: invertir en icos es un riesgo en la dinamita](https://github.com/theyapapa/cryptonews/blob/es/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite-d2294c73.md)
