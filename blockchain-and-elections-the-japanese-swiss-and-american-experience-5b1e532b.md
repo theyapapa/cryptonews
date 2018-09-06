@@ -1,0 +1,1 @@
+[Blockchain and Elections: The Japanese, Swiss and American Experience](https://cointelegraph.com/news/blockchain-and-elections-the-japanese-swiss-and-american-experience)
