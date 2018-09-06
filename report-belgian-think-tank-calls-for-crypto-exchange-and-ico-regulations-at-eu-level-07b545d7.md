@@ -1,0 +1,1 @@
+[Report: Belgian Think Tank Calls for Crypto Exchange and ICO Regulations at EU Level](https://cointelegraph.com/news/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level)
