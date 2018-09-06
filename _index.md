@@ -1,3 +1,4 @@
+* 2018-09-06 03:09 [Bloques y elecciones: la experiencia japonesa, Suiza y americana](https://github.com/theyapapa/cryptonews/blob/es/blockchain-and-elections-the-japanese-swiss-and-american-experience-5b1e532b.md)
 * 2018-09-06 00:09 [Turco Exchange desarrolla base de datos de clientes basados en bloques](https://github.com/theyapapa/cryptonews/blob/es/turkish-exchange-develops-blockchain-based-customer-database-e33a73a7.md)
 * 2018-09-05 22:09 [Informe: el think tank belga exige el intercambio de criptografía y las regulaciones del ICO a nivel de la UE](https://github.com/theyapapa/cryptonews/blob/es/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level-07b545d7.md)
 * 2018-09-05 20:09 [Brian Kelly: icos aquí para quedarse, pero ' días de un libro blanco y un sueño ' han terminado](https://github.com/theyapapa/cryptonews/blob/es/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over-75891a7b.md)
