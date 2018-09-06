@@ -1,3 +1,4 @@
+* 2018-09-05 20:09 [Брайан Келли: ИКО здесь, чтобы остаться, но "дни документ и сон" закончились](https://github.com/theyapapa/cryptonews/blob/ru/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over-75891a7b.md)
 * 2018-09-05 17:09 [Швейцарская компания цепочки добирается регулятор одобрения, ищет банковскую лицензию в 2019](https://github.com/theyapapa/cryptonews/blob/ru/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019-f011da0a.md)
 * 2018-09-05 15:09 [Почему биткойн Голд получил десписок из биттрекс](https://github.com/theyapapa/cryptonews/blob/ru/why-bitcoin-gold-got-delisted-from-bittrex-a219ccfd.md)
 * 2018-09-05 13:09 [Бывший юрист крипто и советник ICO Джулиан зежелман: инвестировать в ИКО риск на динамите](https://github.com/theyapapa/cryptonews/blob/ru/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite-d2294c73.md)
