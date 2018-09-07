@@ -1,0 +1,1 @@
+[Survey: Half of American Millennials Interested in Using Crypto](https://cointelegraph.com/news/survey-half-of-american-millennials-interested-in-using-crypto)
