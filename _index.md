@@ -1,3 +1,4 @@
+* 2018-09-07 10:09 [주식 중개 EF hutton은 고객 들이 ' 급속 한 발전 '을 추적할 수 있도록 암호 화폐 요금](https://github.com/theyapapa/cryptonews/blob/ko/stock-brokerage-ef-hutton-rates-cryptocurrencies-to-help-clients-track-rapid-developments-ac953606.md)
 * 2018-09-07 07:09 [블록 체인이 법적으로 증거를 인증할 수 있는 중국 대법원 규칙](https://github.com/theyapapa/cryptonews/blob/ko/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence-bd07a513.md)
 * 2018-09-07 06:09 [Lenovo가 블록 체인 플랫폼과 제휴 하 여 IoT 및 AR/VR 하이브리드 소프트웨어 개발](https://github.com/theyapapa/cryptonews/blob/ko/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software-7292e682.md)
 * 2018-09-06 23:09 [블록 체인 코스를 시작 하는 온라인 교육 플랫폼과 ConsenSys 파트너](https://github.com/theyapapa/cryptonews/blob/ko/consensys-partners-with-online-education-platform-to-launch-blockchain-course-36efa1a8.md)
