@@ -1,3 +1,4 @@
+* 2018-09-07 07:09 [Верховный суд Китая правил, что цепочки могут законно проверить доказательства](https://github.com/theyapapa/cryptonews/blob/ru/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence-bd07a513.md)
 * 2018-09-07 06:09 [Lenovo партнеры с платформой цепочки для разработки своих IOT и AR/VR гибридного программного обеспечения](https://github.com/theyapapa/cryptonews/blob/ru/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software-7292e682.md)
 * 2018-09-06 23:09 [Консенсис партнеры с Интернет-платформы образования для запуска цепочки курс](https://github.com/theyapapa/cryptonews/blob/ru/consensys-partners-with-online-education-platform-to-launch-blockchain-course-36efa1a8.md)
 * 2018-09-06 21:09 [Опрос: половина американских тысячелетий, заинтересованных в использовании крипто](https://github.com/theyapapa/cryptonews/blob/ru/survey-half-of-american-millennials-interested-in-using-crypto-50a5a52a.md)
