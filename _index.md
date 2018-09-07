@@ -1,3 +1,4 @@
+* 2018-09-06 21:09 [Опрос: половина американских тысячелетий, заинтересованных в использовании крипто](https://github.com/theyapapa/cryptonews/blob/ru/survey-half-of-american-millennials-interested-in-using-crypto-50a5a52a.md)
 * 2018-09-06 19:09 [Финансовый директор Goldman Sachs: последние сообщения о крипто торговый стол "фальшивые Новости"](https://github.com/theyapapa/cryptonews/blob/ru/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news-4dbbe621.md)
 * 2018-09-06 18:09 [Беларусь ищет южнокорейских инвесторов, заинтересованных в цепочке и Fintech](https://github.com/theyapapa/cryptonews/blob/ru/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech-db1c3a1d.md)
 * 2018-09-06 15:09 [Крипто обмен чудище отрицает слухи о внезапных увольнений персонала в Канаде](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada-73fed45d.md)
