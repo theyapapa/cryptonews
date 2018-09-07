@@ -1,3 +1,4 @@
+* 2018-09-06 19:09 [Финансовый директор Goldman Sachs: последние сообщения о крипто торговый стол "фальшивые Новости"](https://github.com/theyapapa/cryptonews/blob/ru/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news-4dbbe621.md)
 * 2018-09-06 18:09 [Беларусь ищет южнокорейских инвесторов, заинтересованных в цепочке и Fintech](https://github.com/theyapapa/cryptonews/blob/ru/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech-db1c3a1d.md)
 * 2018-09-06 15:09 [Крипто обмен чудище отрицает слухи о внезапных увольнений персонала в Канаде](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada-73fed45d.md)
 * 2018-09-06 12:09 [Джек Дорси: Twitter рассматривает "неиспользованный потенциал" цепочки](https://github.com/theyapapa/cryptonews/blob/ru/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain-421aaa0e.md)
