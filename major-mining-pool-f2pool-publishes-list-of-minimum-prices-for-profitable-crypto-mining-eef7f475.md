@@ -1,0 +1,1 @@
+[Major Mining Pool F2Pool Publishes List of Minimum Prices for Profitable Crypto Mining](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
