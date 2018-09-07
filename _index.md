@@ -1,3 +1,4 @@
+* 2018-09-06 23:09 [Consensis se asocia con la plataforma educativa en línea para lanzar el curso bloques](https://github.com/theyapapa/cryptonews/blob/es/consensys-partners-with-online-education-platform-to-launch-blockchain-course-36efa1a8.md)
 * 2018-09-06 21:09 [Encuesta: la mitad de los milenios estadounidenses interesados en el uso de CRYPTO](https://github.com/theyapapa/cryptonews/blob/es/survey-half-of-american-millennials-interested-in-using-crypto-50a5a52a.md)
 * 2018-09-06 19:09 [Goldman Sachs CFO: informes recientes sobre el escritorio de criptografía son ' noticias falsas '](https://github.com/theyapapa/cryptonews/blob/es/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news-4dbbe621.md)
 * 2018-09-06 18:09 [Bielorrusia busca inversores surcoreanos interesados en bloques y FinTech](https://github.com/theyapapa/cryptonews/blob/es/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech-db1c3a1d.md)
