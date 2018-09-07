@@ -1,0 +1,19 @@
+# 주요 광업 풀 F2Pool 수익성 암호 마이닝을 위한 최소 가격의 목록을 게시 ...
+
+중국 기반 암호화 채굴 풀의 CEO 인 F2Pool는 다양 한 암호 화폐의 채굴이 이익이 되지 않는 최소 가격 포인트를 나타내는 9 월 6 일 회사 브랜드 인포 그래픽을 게시 했습니다.
+
+shixing 마오, 공동 설립자 겸 CEO 및 세계에서 6 번째로 큰 광산 풀 F2Pool, 비트 코인 (BTC),이 더 리 움 (ETH), 라이트 코인 (LTC) 및 Zcash (zec)와 같은 주요 암호 화폐에 대 한 가격 수준의 목록을 발표 했다 .이는 다양 한 통화 다른 광부는 추정 되 게 이익이 없게 된다.
+
+마오의 그래픽에 따라 비트 코인의 가격이 36792 위안 (약 $5376) 포인트 보다 낮은 경우, 이것은 antminer T9에 가상 화폐를 채굴 하는 것이 이익이 없을 것 이라는 뜻입니다.
+
+S7 모델 광부를 사용 하는 경우, 휴식-짝수 포인트는 상당히 높은 79258 위안 (약 $11581) 비트 코인 가격 포인트에 도달.
+
+다른 암호 화폐와 광부 소스에 대 한 휴식-심지어 가격 포인트: F2Pool's CEO weibo S7에 대조적으로, 1 월 2017에 출시 된 antminer T9 모델에 광산 비트 코인, 여전히 이익-비트 코인의 현재 가격에서 만들기, 반면 새로운 이노 실리콘 T2는 26636 위안 또는 약 $3891에 달하는 가장 낮은 임계 값을 갖는다.
+
+언론 시간에, 비트 코인 $6452에서 거래, 8 월 중순에 cointelegraph의 비트 코인 가격 지 수에 따라, 미국 그래픽 처리 장치 (GPU) 제조 업체 엔비디아는 암호화 마이닝 하드웨어 판매는 2 분기에 예상 보다 훨씬 낮은 것으로 나타났다 2018, 주장 이 회사는 올해의 나머지 부분에 대 한 중요 한 블록 체인 관련 판매를 할 것으로 기대 하지 않습니다.
+
+7 월, 주요 대만 마이크로칩 생산자 tsmc는 다른 지역 들 중에서 암호화 채굴 분야의 성장률 감소에 따라 연간 매출과 자본 지출 추정치를 다시 한 번 줄였습니다.
+
+Original source: [Major Mining Pool F2Pool Publishes List of Minimum Prices for Profitable Crypto Mining](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
