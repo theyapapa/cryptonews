@@ -1,0 +1,1 @@
+[Goldman Sachs CFO: Recent Reports About Crypto Trading Desk Are ‘Fake News’](https://cointelegraph.com/news/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news)
