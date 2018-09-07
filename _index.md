@@ -1,3 +1,4 @@
+* 2018-09-07 06:09 [Lenovo가 블록 체인 플랫폼과 제휴 하 여 IoT 및 AR/VR 하이브리드 소프트웨어 개발](https://github.com/theyapapa/cryptonews/blob/ko/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software-7292e682.md)
 * 2018-09-06 23:09 [블록 체인 코스를 시작 하는 온라인 교육 플랫폼과 ConsenSys 파트너](https://github.com/theyapapa/cryptonews/blob/ko/consensys-partners-with-online-education-platform-to-launch-blockchain-course-36efa1a8.md)
 * 2018-09-06 21:09 [설문 조사: 미국 밀레 니 얼 세대의 절반이 암호화를 사용 하는 것에 관심이](https://github.com/theyapapa/cryptonews/blob/ko/survey-half-of-american-millennials-interested-in-using-crypto-50a5a52a.md)
 * 2018-09-06 19:09 [골드만 삭스 CFO: 암호화 트레이딩 데스크에 대 한 최근 보고서는 ' 가짜 뉴스 '](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news-4dbbe621.md)
