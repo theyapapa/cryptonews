@@ -1,0 +1,1 @@
+[Blockchain Galaxy Game Enables Players to Build Spaceships, Buy Virtual Planets For Crypto](https://cointelegraph.com/news/blockchain-galaxy-game-enables-players-to-build-spaceships-buy-virtual-planets-for-crypto)
