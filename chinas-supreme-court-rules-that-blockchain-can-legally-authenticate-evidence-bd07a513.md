@@ -1,0 +1,1 @@
+[China’s Supreme Court Rules That Blockchain Can Legally Authenticate Evidence](https://cointelegraph.com/news/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence)
