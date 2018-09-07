@@ -1,0 +1,1 @@
+[ConsenSys Partners With Online Education Platform to Launch Blockchain Course](https://cointelegraph.com/news/consensys-partners-with-online-education-platform-to-launch-blockchain-course)
