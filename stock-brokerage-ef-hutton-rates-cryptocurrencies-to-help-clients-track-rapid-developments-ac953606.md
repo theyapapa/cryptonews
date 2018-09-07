@@ -1,0 +1,19 @@
+# 주식 중개 EF 허 튼은 고객이 ' 빠른 발전 '을 추적 하는 데 도움이 되는 암호 화폐 요금 ...
+
+미국 주식 중개 회사인 EF 허 튼은 9 월 5 일 수요일, 고객을 위해 암호 화폐 및 산업 기업의 연구와 평가를 발표할 것 이라고 발표 했다.
+
+EF hutton, 누구의 제휴 megga inc. 이전에 작년에 자신의 암호화 토큰 meggacoin을 시작, 그것은 "공간의 더 나은 이해를 얻고에 촉각을 곤두세우고 있다 혼란" 투자자를 지원 하기 위해 원하는 보도 자료에서 밝혔다.
+
+"중대 한 많은 투자자는이 새로운 자산 종류에 있는 급속 한 발달에 의해 혼동 된다," 크리스토퍼 다니엘 스의 CEO 논평 해, 이동이 "암호 화폐를 포함 하는 많은 이니셔티브의 첫번째"를 대표 했다 회사가가지고가 고 있을 것 이라는 점을 추가.
+
+EF 허 튼 연구원 들은 시장 상한선을 기준으로 가장 큰 가상 화폐의 일부를 검토 하 고, 특히 비트 코인 (BTC),이 더 리 움 (ETH), 리플 (xrp), eos (eos), 라이트 코인 (LTC), 비트 코인 현금 (bch) 및 카르다노 (ADA)는 각각 1 ~ 5 스타 등급을 부여 합니다.
+
+"등급 척도는 긍정적인 시야를 나타내는 5 개의 별과 부정적인 시야를 나타내는 한 별을 포함 하는 별 1 개에서 5 개까지 별입니다." 릴리스는 설명 합니다.
+
+사업의 범위는 또한 같은 규모를 사용 하는 것입니다, EF hutton는 하이브 블록 체인 기술과 캐나다 광업 시작 오두막으로 첫 번째 주제를 발표 8.
+
+EF 허 튼은 그 선택을 뒷받침하는 이유를 설명 하지 않았지만 올해 초에와 이즈와 같은 기관 들의 노력을 반향 하 여, 그 결과는 암호 화폐 서클에서 신속 하 게 악명을 얻었습니다.
+
+Original source: [Stock Brokerage EF Hutton Rates Cryptocurrencies to Help Clients Track ‘Rapid Developments’](https://cointelegraph.com/news/stock-brokerage-ef-hutton-rates-cryptocurrencies-to-help-clients-track-rapid-developments)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
