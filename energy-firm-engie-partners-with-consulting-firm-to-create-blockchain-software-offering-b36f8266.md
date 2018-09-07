@@ -1,0 +1,1 @@
+[Energy Firm ENGIE Partners With Consulting Firm to Create Blockchain Software Offering](https://cointelegraph.com/news/energy-firm-engie-partners-with-consulting-firm-to-create-blockchain-software-offering)
