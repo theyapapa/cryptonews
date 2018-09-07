@@ -1,0 +1,1 @@
+[Lenovo Partners With Blockchain Platform to Develop Its IoT and AR/VR Hybrid Software](https://cointelegraph.com/news/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software)
