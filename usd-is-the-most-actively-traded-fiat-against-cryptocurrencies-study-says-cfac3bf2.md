@@ -1,0 +1,1 @@
+[USD Is the Most Actively Traded Fiat Against Cryptocurrencies, Study Says](https://cointelegraph.com/news/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says)
