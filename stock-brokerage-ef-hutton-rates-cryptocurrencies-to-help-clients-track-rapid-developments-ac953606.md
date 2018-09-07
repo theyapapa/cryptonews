@@ -1,0 +1,1 @@
+[Stock Brokerage EF Hutton Rates Cryptocurrencies to Help Clients Track ‘Rapid Developments’](https://cointelegraph.com/news/stock-brokerage-ef-hutton-rates-cryptocurrencies-to-help-clients-track-rapid-developments)
