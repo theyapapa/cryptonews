@@ -1,3 +1,4 @@
+* 2018-09-08 08:09 [로스 앤젤레스 다저스 야구 팀 ETH를 통해 플레이어 암호 토큰의 공짜를 잡아](https://github.com/theyapapa/cryptonews/blob/ko/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth-b62905e2.md)
 * 2018-09-08 08:09 [에테르 선물은 현실이 될 경우 무엇을 기대?](https://github.com/theyapapa/cryptonews/blob/ko/what-to-expect-if-ether-futures-become-a-reality-9194b74a.md)
 * 2018-09-07 21:09 [코인 베이스 CEO 브라이언 암스트롱: 10억 사람들은 5 년만에 암호화 생태계에 있을 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-ceo-brian-armstrong-1-billion-people-will-be-in-crypto-ecosystem-in-5-years-1c62d1d7.md)
 * 2018-09-07 20:09 [투자자의 대다수는 2018에 있는 디지털 방식으로 통화를 사고 싶다, 조사 쇼](https://github.com/theyapapa/cryptonews/blob/ko/majority-of-investors-want-to-buy-more-digital-currency-in-2018-survey-shows-d1af0615.md)
