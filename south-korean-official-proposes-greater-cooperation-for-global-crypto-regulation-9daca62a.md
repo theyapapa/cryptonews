@@ -1,0 +1,1 @@
+[South Korean Official Proposes Greater Cooperation for Global Crypto Regulation](https://cointelegraph.com/news/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation)
