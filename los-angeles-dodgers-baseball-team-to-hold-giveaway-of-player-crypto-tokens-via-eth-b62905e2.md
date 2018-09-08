@@ -1,0 +1,19 @@
+# la 다저스 야구 팀은 ETH를 통해 플레이어 암호 토큰의 공짜를 개최 ...
+
+미국 프로 야구 팀 이었던 로스앤젤레스 다저스는 다 저 스 내부자 9 월 7 일 공식 보도 자료에 따르면 이번 달 말에 암호화 기반 선수 토큰을 증정 합니다.
+
+성명은 다 저 팬 들은 9 월 21 일 예정 샌디에고 파드리스에 대 한 게임 중에이 더 리 움 (ETH)로 컨버터블-다저스 플레이어를 나타내는 토큰을 얻을 수 있을 것 이라고 보고 합니다.
+
+소위 "디지털 버블 헤드 밤" 동안 손님 투 수 클레이튼 kershaw, 3 루 수 저스틴 터너, 그리고 curaça의 투 수 kenley jansen 같은 선수의 토큰을 다운로드 하는 것입니다.
+
+성명은 설명 대로, 토큰은 항목의 지점에 따라 배포 됩니다, 첫 번째 4만 발권 팬 들 출석에 보도는 차단을 해제 하 고이 더 리 움 지갑으로 전송할 수 있는 고유 한 코드와 카드를 받을로 설정.
+
+문자 암호 토큰은 kershaw, 터너, 그리고 jansen 코드의 거의 동등한 점유율로 무작위로 선택 됩니다.
+
+다저스 ' cmo 및 부사장 론 로젠 "첫-적 \ [c \] rypto 공짜" 스포츠에서 그들을 "우리의 fanbase와 함께 완전히 새로운 시장을 탐험" 수 있도록 댓글을 달았습니다 뿐만 아니라 다 저 팬 들의 "불쾌 관심"에 "디지털의 새로운 시대를 시작 수집품과 프로 모션. "
+
+6 월 초에 세계 최대의 암호화 거래소 인 binance는 블록 체인 기반의 e 스포츠 투표 플랫폼 chiliz에 미공개 투자를 하 여 "전통적인 스포츠 팀을 위한 팬 기반 토큰 에코 시스템"을 제공 했습니다.
+
+Original source: [Los Angeles Dodgers Baseball Team to Hold Giveaway of Player Crypto Tokens via ETH](https://cointelegraph.com/news/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
