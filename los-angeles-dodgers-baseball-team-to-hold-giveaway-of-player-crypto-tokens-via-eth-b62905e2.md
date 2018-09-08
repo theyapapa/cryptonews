@@ -1,0 +1,1 @@
+[Los Angeles Dodgers Baseball Team to Hold Giveaway of Player Crypto Tokens via ETH](https://cointelegraph.com/news/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth)
