@@ -1,3 +1,4 @@
+* 2018-09-07 20:09 [투자자의 대다수는 2018에 있는 디지털 방식으로 통화를 사고 싶다, 조사 쇼](https://github.com/theyapapa/cryptonews/blob/ko/majority-of-investors-want-to-buy-more-digital-currency-in-2018-survey-shows-d1af0615.md)
 * 2018-09-07 18:09 [에너지 회사 engie는 블록 체인 소프트웨어 오퍼링을 만드는 컨설팅 회사와 파트너](https://github.com/theyapapa/cryptonews/blob/ko/energy-firm-engie-partners-with-consulting-firm-to-create-blockchain-software-offering-b36f8266.md)
 * 2018-09-07 16:09 [주요 광업 풀 F2Pool 수익성 암호 마이닝을 위한 최소 가격의 목록을 게시](https://github.com/theyapapa/cryptonews/blob/ko/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining-eef7f475.md)
 * 2018-09-07 13:09 [USD는 가상 화폐에 대 한 가장 활발히 거래 되는 피아트 이며, 연구에 따르면](https://github.com/theyapapa/cryptonews/blob/ko/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says-cfac3bf2.md)
