@@ -1,0 +1,1 @@
+[Crypto is a ‘Poor Form of Money’ for Terrorists, Congressional Hearing Concludes](https://cointelegraph.com/news/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes)
