@@ -1,0 +1,1 @@
+[Coinbase CEO Brian Armstrong: 1 Billion People Will Be in Crypto Ecosystem in 5 Years](https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-1-billion-people-will-be-in-crypto-ecosystem-in-5-years)
