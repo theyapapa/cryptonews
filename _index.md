@@ -1,3 +1,4 @@
+* 2018-09-08 12:09 [Crypto является "плохой формой денег" для террористов, слушания в конгрессе завершается](https://github.com/theyapapa/cryptonews/blob/ru/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes-a7ef264e.md)
 * 2018-09-08 08:09 [Лос-Анджелес Доджерс бейсбольной команды, чтобы провести Giveaway игрока крипто жетоны через](https://github.com/theyapapa/cryptonews/blob/ru/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth-b62905e2.md)
 * 2018-09-08 08:09 [Чего ожидать, если эфирные фьючерсы станут реальностью?](https://github.com/theyapapa/cryptonews/blob/ru/what-to-expect-if-ether-futures-become-a-reality-9194b74a.md)
 * 2018-09-07 21:09 [Coinbase Генеральный директор Брайан Армстронг: 1 000 000 000 человек будет в крипто экосистемы в 5 лет](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-ceo-brian-armstrong-1-billion-people-will-be-in-crypto-ecosystem-in-5-years-1c62d1d7.md)
