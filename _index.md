@@ -1,3 +1,4 @@
+* 2018-09-08 14:09 [한국 관계자는 글로벌 암호화 규제에 대 한 더 큰 협력을 제안](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation-9daca62a.md)
 * 2018-09-08 13:09 [그것은 애 널 리스트 제이슨 블룸버그: 내가 정말 무슨 말을 하는지 '는 ' 승인 되지 않은 blockchains 폐쇄 '](https://github.com/theyapapa/cryptonews/blob/ko/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains-a37afdaf.md)
 * 2018-09-08 12:09 [암호화는 테러리스트를 위한 돈의 ' 빈약한 모양 ' 이다, 의회 청각은 종결 한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes-a7ef264e.md)
 * 2018-09-08 08:09 [로스 앤젤레스 다저스 야구 팀 ETH를 통해 플레이어 암호 토큰의 공짜를 잡아](https://github.com/theyapapa/cryptonews/blob/ko/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth-b62905e2.md)
