@@ -1,0 +1,1 @@
+[IT Analyst Jason Bloomberg: What I’m Really Saying Is ‘Shut Down Permissionless Blockchains’](https://cointelegraph.com/news/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains)
