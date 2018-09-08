@@ -1,0 +1,1 @@
+[Majority of Investors Want to Buy More Digital Currency in 2018, Survey Shows](https://cointelegraph.com/news/majority-of-investors-want-to-buy-more-digital-currency-in-2018-survey-shows)
