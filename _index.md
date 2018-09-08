@@ -1,3 +1,4 @@
+* 2018-09-08 13:09 [ИТ-аналитик Джейсон Блумберг: то, что я действительно говорю, это "закрыть бесправные блоккчаинс"](https://github.com/theyapapa/cryptonews/blob/ru/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains-a37afdaf.md)
 * 2018-09-08 12:09 [Crypto является "плохой формой денег" для террористов, слушания в конгрессе завершается](https://github.com/theyapapa/cryptonews/blob/ru/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes-a7ef264e.md)
 * 2018-09-08 08:09 [Лос-Анджелес Доджерс бейсбольной команды, чтобы провести Giveaway игрока крипто жетоны через](https://github.com/theyapapa/cryptonews/blob/ru/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth-b62905e2.md)
 * 2018-09-08 08:09 [Чего ожидать, если эфирные фьючерсы станут реальностью?](https://github.com/theyapapa/cryptonews/blob/ru/what-to-expect-if-ether-futures-become-a-reality-9194b74a.md)
