@@ -1,0 +1,1 @@
+[Fast & Seamless: The Race for the Cross-Border Payments Market](https://cointelegraph.com/news/fast-seamless-the-race-for-the-cross-border-payments-market)
