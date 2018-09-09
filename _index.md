@@ -1,3 +1,4 @@
+* 2018-09-09 16:09 [카타르에서 팔레스타인까지: 중동에서의 가상 화폐 규제](https://github.com/theyapapa/cryptonews/blob/ko/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east-b7187275.md)
 * 2018-09-09 13:09 [hodler의 다이제스트, 9 월 2-9: 골드만 삭스는 ' 암호화 대학 '에 인도 공무원을 보내는 동안, 암호 거래 데스크에 ' 아니오 감사 ' 라고](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-september-2-9-goldman-sachs-says-no-thanks-to-crypto-trading-desk-while-india-sends-officials-to-crypto-college-2ad7849c.md)
 * 2018-09-09 05:09 [빠른/원활한: 크로스-국경 지불 시장에 대 한 경쟁](https://github.com/theyapapa/cryptonews/blob/ko/fast-seamless-the-race-for-the-cross-border-payments-market-e0ece095.md)
 * 2018-09-08 14:09 [한국 관계자는 글로벌 암호화 규제에 대 한 더 큰 협력을 제안](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation-9daca62a.md)
