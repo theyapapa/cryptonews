@@ -1,0 +1,1 @@
+[Hodler’s Digest, September 2-9: Goldman Sachs Says ‘No Thanks’ to Crypto Trading Desk, While India Sends Officials to ‘Crypto College’](https://cointelegraph.com/news/hodlers-digest-september-2-9-goldman-sachs-says-no-thanks-to-crypto-trading-desk-while-india-sends-officials-to-crypto-college)
