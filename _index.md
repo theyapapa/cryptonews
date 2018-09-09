@@ -1,3 +1,4 @@
+* 2018-09-09 05:09 [Быстрая и бесшовная: гонка на рынке трансграничных платежей](https://github.com/theyapapa/cryptonews/blob/ru/fast-seamless-the-race-for-the-cross-border-payments-market-e0ece095.md)
 * 2018-09-08 14:09 [Южнокорейский чиновник предлагает более тесное сотрудничество для глобального регулирования крипто](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation-9daca62a.md)
 * 2018-09-08 13:09 [ИТ-аналитик Джейсон Блумберг: то, что я действительно говорю, это "закрыть бесправные блоккчаинс"](https://github.com/theyapapa/cryptonews/blob/ru/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains-a37afdaf.md)
 * 2018-09-08 12:09 [Crypto является "плохой формой денег" для террористов, слушания в конгрессе завершается](https://github.com/theyapapa/cryptonews/blob/ru/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes-a7ef264e.md)
