@@ -1,0 +1,1 @@
+[From Qatar to Palestine: How Cryptocurrencies Are Regulated in the Middle East](https://cointelegraph.com/news/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east)
