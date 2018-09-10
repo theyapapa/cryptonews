@@ -1,0 +1,1 @@
+[Crypto Markets See Another Wave of Red, Despite Bullish News From Major Industry Players](https://cointelegraph.com/news/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players)
