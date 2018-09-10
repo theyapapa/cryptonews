@@ -1,3 +1,4 @@
+* 2018-09-10 08:09 [Citigroup, чтобы инвесторы торговли хранителем-удерживаемые, источники утверждают,](https://github.com/theyapapa/cryptonews/blob/ru/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim-e3e913d1.md)
 * 2018-09-10 05:09 [Bitcoin рынки летучих после США SEC приостанавливает торговлю в двух крипто-на основе ценных бумаг](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-markets-volatile-after-us-sec-suspends-trading-in-two-crypto-based-securities-7fcd969b.md)
 * 2018-09-09 19:09 [Crypto рынки видят резкое отскок, но общая крышка рынка еще ниже $200 000 000 000](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion-e429d63c.md)
 * 2018-09-09 16:09 [От Катара до Палестины: как регулируются на Ближнем Востоке](https://github.com/theyapapa/cryptonews/blob/ru/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east-b7187275.md)
