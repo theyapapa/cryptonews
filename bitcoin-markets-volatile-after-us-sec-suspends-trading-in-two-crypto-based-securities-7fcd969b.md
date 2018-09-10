@@ -1,0 +1,1 @@
+[Bitcoin Markets Volatile After US SEC Suspends Trading in Two Crypto-Based Securities](https://cointelegraph.com/news/bitcoin-markets-volatile-after-us-sec-suspends-trading-in-two-crypto-based-securities)
