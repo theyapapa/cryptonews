@@ -1,0 +1,1 @@
+[Blockchain Trust Company Paxos Launches NY Regulator-Approved, USD-Backed Stablecoin](https://cointelegraph.com/news/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin)
