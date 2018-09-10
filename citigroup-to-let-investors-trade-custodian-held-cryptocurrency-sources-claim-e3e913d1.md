@@ -1,0 +1,1 @@
+[Citigroup to Let Investors Trade Custodian-Held Cryptocurrency, Sources Claim](https://cointelegraph.com/news/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim)
