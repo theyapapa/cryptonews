@@ -1,3 +1,4 @@
+* 2018-09-10 19:09 [robinhood: 어떻게 빠르게 성장 하는 주식 거래 응용 프로그램은 암호화에 합격](https://github.com/theyapapa/cryptonews/blob/ko/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto-8bdc40fb.md)
 * 2018-09-10 16:09 [암호화 시장은 주요 산업 선수의 강세 뉴스에도 불구 하 고, 빨간색의 또 다른 물결을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players-49e51705.md)
 * 2018-09-10 15:09 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 10 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-10-23d64707.md)
 * 2018-09-10 13:09 [블록 체인 신탁 회사 Paxos 출시 뉴욕 레 귤 레이 터 승인, USD 지원 stelcoin](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin-57098b4d.md)
