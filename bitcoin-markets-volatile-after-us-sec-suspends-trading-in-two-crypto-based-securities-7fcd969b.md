@@ -1,0 +1,19 @@
+# 미국 SEC 이후 휘발성 비트 코인 시장은 두 개의 암호화 기반 증권에서 거래를 중단 ...
+
+미국 당국은 xbt 공급자의 비트 코인과 에테르 추적기의 거래를 금지 했다. 9 월 9 일 일요일, 간단히 암호 화폐 시장 텀블 링을 전송.
+
+투자자 들 사이에서 "혼란"을 인용해, 미국 증권 거래 위원회 (SEC)는 두 교환 거래 노트 (etns)-비트 코인 추적기 하나 ("cxbtf")와 에테르 추적기 하나 ("cethf")-9 월 20 일까 지 거래를 중단 것을 통지를 발표 했다.
+
+"위원회는 일시적으로 증권 cxbtf 및 cethf에서 이러한 악기에 관한 시장 참가자 들의 혼란 때문에 거래를 중단," SEC의 성명, 계속 읽습니다: "\ [T \] 그 위원회는 브로커-딜러, 주의 기타 현재 이용 가능한 모든 정보와 그 이후에 회사가 발행 한 정보와 함께 전술한 정보를 신중 하 게 고려 하 여야 한다고 주주 및 장래 구입자
+
+xbt 공급자는 비트 코인 트래커를 2015 5 월부터 운영 하 고 있으며,이를 통해 스웨덴의 나스닥에 데뷔 하는 규제 거래소에서 최초로 bitcoin 기반 etn을 사용할 수 있게 되었습니다.
+
+에테르 추적기 하나는 같은 이정표에 도달, 10 월 2017에 합류 xbt는 이후 또한 비트 코인과 에테르 추적기 유로 옵션을 발표 했다.
+
+SEC의 이동은 가상 화폐 투자자와 미국 규제 기관에 대 한 테스트 시간에 비해 서, 레 귤 레이 터는 최근 비트 코인 교환 거래 펀드 (ETF)를 위한 슬루 애플리케이션을 거부 했습니다.
+
+지난 8 월 말에 거의 영향을 받지 않은 시장에서 SEC의 가장 최근의 거부는, 암호화 ETF의 출현은 미래의 어느 시점에서 보장 되 고 그 자체로 비트 코인에 대 한 혼합 된 축복 이라고 주장 하기 때문입니다.
+
+Original source: [Bitcoin Markets Volatile After US SEC Suspends Trading in Two Crypto-Based Securities](https://cointelegraph.com/news/bitcoin-markets-volatile-after-us-sec-suspends-trading-in-two-crypto-based-securities)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
