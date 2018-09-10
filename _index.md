@@ -1,3 +1,4 @@
+* 2018-09-10 13:09 [블록 체인 신탁 회사 Paxos 출시 뉴욕 레 귤 레이 터 승인, USD 지원 stelcoin](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin-57098b4d.md)
 * 2018-09-10 08:09 [씨티 그룹은 투자자 들이 후견인-개최 암호 화폐, 소스 주장을 하자](https://github.com/theyapapa/cryptonews/blob/ko/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim-e3e913d1.md)
 * 2018-09-10 05:09 [미국 SEC 이후 휘발성 비트 코인 시장은 두 개의 암호화 기반 증권에서 거래를 중단 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-markets-volatile-after-us-sec-suspends-trading-in-two-crypto-based-securities-7fcd969b.md)
 * 2018-09-09 19:09 [암호화 시장, 하지만 여전히 $2000억 아래에 총 시장 총액 날카로운 리바운드를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion-e429d63c.md)
