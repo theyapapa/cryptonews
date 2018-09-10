@@ -1,0 +1,19 @@
+# binhood: 어떻게 빠르게 성장 하는 주식 거래 응용 프로그램은 암호에 합격 ...
+
+시리즈 D의 라운드와 $1억1000만 시리즈 C 라운드에서 $3억6300만를 모금 후, binrohood는 그것에 게 현재 미국에서 두번째로 가장 가치 있는 핀 테크 시작 하 고, $56억에 상당 했다, 거기에 보도 500만 사용자와 거래를 수행 하는 robinhood 플랫폼에서 가상 화폐.
+
+# # 어떤 로비 후드 이며 어떻게 그것은 "millennials에 대 한 거래 애플 리 케이 션으로 언론에 의해 더빙 작동," 암호화에 개입 하기 전에, binrohood 주식 거래에 대 한 전적으로 모바일 응용 프로그램으로 존재.
+
+하지만 binrohood에 대 한 소득의 주요 원천 마진 거래-즉, 금리와 robinhood 골드 계정의 소유자에 게 돈을 대출입니다.
+
+# # 2 월 2018에서 암호화로 회사 탐구, binbhood는 서명, Tron 테마 디자인으로 자사의 노 커미션 암호 화폐 거래 부문을 발표 했다.
+
+어떤 경우에, binrohood의 자유로운 거래 본질은 app를 그것의 보수적인 경쟁자 보다는 보다 적게 매력적 만들 가격 개선 공구의 휴무를 위한 큰 투자자를 보상 하지 않을 것입니다.
+
+테레사 w. investopedia의 캐리는 또한 수익 창출이 반드시 binrohood의 핵심 기능, 제로 수수료 거래에 포즈 위협에 관심을 호출: "어떤 시점에서, 그 벤처 자본가 들은 투자에 대 한 몇 가지 수익을 원하는 거 야, 그리고 제로 커미션 거래는 수익의 주요 원천을 제거 합니다.
+
+디지털 통화에 관해서는, binrohood 암호화 응용 프로그램은 여전히 좋은 평판을 즐기고 있으며, 설립 된 선수에 의해 부과 된 거래 수수료의 피곤 작은 투자자에 낙관론을 생산, 실질적인 논란을 촉발 하지 않았다.
+
+Original source: [Robinhood: How the Fast-Growing Stock Trading App Got Into Crypto](https://cointelegraph.com/news/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
