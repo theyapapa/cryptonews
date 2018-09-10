@@ -1,0 +1,1 @@
+[Robinhood: How the Fast-Growing Stock Trading App Got Into Crypto](https://cointelegraph.com/news/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto)
