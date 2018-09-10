@@ -1,3 +1,4 @@
+* 2018-09-10 05:09 [미국 SEC 이후 휘발성 비트 코인 시장은 두 개의 암호화 기반 증권에서 거래를 중단 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-markets-volatile-after-us-sec-suspends-trading-in-two-crypto-based-securities-7fcd969b.md)
 * 2018-09-09 19:09 [암호화 시장, 하지만 여전히 $2000억 아래에 총 시장 총액 날카로운 리바운드를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion-e429d63c.md)
 * 2018-09-09 16:09 [카타르에서 팔레스타인까지: 중동에서의 가상 화폐 규제](https://github.com/theyapapa/cryptonews/blob/ko/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east-b7187275.md)
 * 2018-09-09 13:09 [hodler의 다이제스트, 9 월 2-9: 골드만 삭스는 ' 암호화 대학 '에 인도 공무원을 보내는 동안, 암호 거래 데스크에 ' 아니오 감사 ' 라고](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-september-2-9-goldman-sachs-says-no-thanks-to-crypto-trading-desk-while-india-sends-officials-to-crypto-college-2ad7849c.md)
