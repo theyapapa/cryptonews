@@ -1,3 +1,4 @@
+* 2018-09-10 22:09 [Доклад: Crypto не эффективен для финансирования террористических групп](https://github.com/theyapapa/cryptonews/blob/ru/report-crypto-not-effective-for-financing-terrorist-groups-ef41f31b.md)
 * 2018-09-10 20:09 [Парижский Сен-Жерменский футбольный клуб для запуска фан-токена](https://github.com/theyapapa/cryptonews/blob/ru/paris-saint-germain-soccer-club-to-launch-fan-token-42dec9d7.md)
 * 2018-09-10 19:09 [Robinhood: как быстро растущий биржевой торговли приложение попало в крипто](https://github.com/theyapapa/cryptonews/blob/ru/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto-8bdc40fb.md)
 * 2018-09-10 16:09 [Крипто рынки видят еще одну волну красного, несмотря на бычий Новости из основных игроков отрасли](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players-49e51705.md)
