@@ -1,0 +1,1 @@
+[Report: Crypto Not Effective for Financing Terrorist Groups](https://cointelegraph.com/news/report-crypto-not-effective-for-financing-terrorist-groups)
