@@ -1,0 +1,1 @@
+[Paris Saint-Germain Soccer Club to Launch Fan Token](https://cointelegraph.com/news/paris-saint-germain-soccer-club-to-launch-fan-token)
