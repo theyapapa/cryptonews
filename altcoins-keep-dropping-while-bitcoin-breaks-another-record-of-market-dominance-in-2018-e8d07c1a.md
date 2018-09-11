@@ -1,0 +1,1 @@
+[Altcoins Keep Dropping While Bitcoin Breaks Another Record of Market Dominance in 2018](https://cointelegraph.com/news/altcoins-keep-dropping-while-bitcoin-breaks-another-record-of-market-dominance-in-2018)
