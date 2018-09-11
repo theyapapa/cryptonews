@@ -1,3 +1,4 @@
+* 2018-09-11 12:09 [몰타 증권 거래소는 보안 토큰 거래 플랫폼을 출시할 수 있는 사업에 대 한 MOU 체결](https://github.com/theyapapa/cryptonews/blob/ko/malta-stock-exchange-signs-mou-with-binance-to-launch-security-tokens-trading-platform-1ac80c9d.md)
 * 2018-09-11 10:09 [속보: 암호화 거래소 okex의 설립자는 중국에서 암호화 사기 혐의로 구금](https://github.com/theyapapa/cryptonews/blob/ko/breaking-founder-of-crypto-exchange-okex-allegedly-detained-on-crypto-fraud-charges-in-china-3dc1545e.md)
 * 2018-09-11 09:09 [한국 은행 보고서: 현지, 외국 거래소 간의 암호화 가격 격차가 다시 확대 될 수 있음](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again-25f98997.md)
 * 2018-09-11 07:09 [대마초와 암호화: 주류를 공격 하는 싸움에서 동등한 수혜자](https://github.com/theyapapa/cryptonews/blob/ko/cannabis-and-crypto-equal-beneficiaries-in-the-fight-to-hit-the-mainstream-5d4abe78.md)
