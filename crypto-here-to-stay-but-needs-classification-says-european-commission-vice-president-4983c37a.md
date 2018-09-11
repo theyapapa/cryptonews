@@ -1,0 +1,19 @@
+# 암호화 ' 여기에 머물 ' 하지만 필요 분류, 유럽 위원회 부사장은 말합니다 ...
+
+유럽 연합 (eu)은 암호 자산 분류 및 규제 매핑의 개발에 초점을 맞출 것 이다, 유럽 위원회 부사장 valdis Dombrovskis는 비엔나에서 경제 및 금융 업무 협의회 (ecofin)의 최근 회의에서 주장.
+
+Dombrovskis에 따르면, 암호화 자산은 "여기에 남아" 있으며, 암호화 시장은 "최근 난 기류"에도 불구 하 고 여전히 "계속 해 서 성장" 합니다.
+
+암호 화폐의 주요 문제를 해결 하기 위해, eu는 올해 암호화 자산을 "분류 하 고 분류" 하는 주요 과제에 초점을 맞출 것 이라고 주장 했다.
+
+그는 또한 조직이 기존 하는 eu 재정적인 규칙이 적용 될 다는 것을 고려할 것 이라는 점을, 또는 새로운 규칙을 개발 하는 오히려 필요가 있는 경우에 진술 했다.
+
+Dombrovskis 스트레스를 받은 바와 같이, 위원회는 이미 유럽 감독 당국과 협력 하 여 암호화 화폐의 상태를 확립 하는 "견고한 지상"을 제공 하 고 "설정 하는" 가상 화폐 자산의 소위 "규제 매핑"을 개발 하기 위해 " 이 지역에 있는 더 단계. "
+
+이 분야의 다른 문제에 대해 Dombrovskis는 "투명성 결여", 투자자 보호, 시장 보전, 자금 세탁, 사기, 해킹 등 암호화의 주요 위험을 언급 했습니다.
+
+이번 여름, FSB는 암호화 자산이 글로벌 재무 안정성에 대 한 물질적 위험을 야기 하지 않는다고 주장 했지만, 구형은 여전히 급속 한 시장 개발로 인해 심도 있는 모니터링이 필요 합니다.
+
+Original source: [Crypto ‘Here to Stay’ but Needs Classification, Says European Commission Vice President](https://cointelegraph.com/news/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
