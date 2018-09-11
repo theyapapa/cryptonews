@@ -1,3 +1,4 @@
+* 2018-09-10 22:09 [보고서: 테러리스트 그룹을 융자 하는 데 효과적이 지 않은 암호화](https://github.com/theyapapa/cryptonews/blob/ko/report-crypto-not-effective-for-financing-terrorist-groups-ef41f31b.md)
 * 2018-09-10 20:09 [파리 생제르맹 축구 클럽 팬 토큰을 실행 하려면](https://github.com/theyapapa/cryptonews/blob/ko/paris-saint-germain-soccer-club-to-launch-fan-token-42dec9d7.md)
 * 2018-09-10 19:09 [robinhood: 어떻게 빠르게 성장 하는 주식 거래 응용 프로그램은 암호화에 합격](https://github.com/theyapapa/cryptonews/blob/ko/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto-8bdc40fb.md)
 * 2018-09-10 16:09 [암호화 시장은 주요 산업 선수의 강세 뉴스에도 불구 하 고, 빨간색의 또 다른 물결을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players-49e51705.md)
