@@ -1,0 +1,1 @@
+[Unconfirmed: UAE Preparing to Adopt Formal ICO, Fintech Regulations, Local Media Report](https://cointelegraph.com/news/unconfirmed-uae-preparing-to-adopt-formal-ico-fintech-regulations-local-media-report)
