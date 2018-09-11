@@ -1,3 +1,4 @@
+* 2018-09-11 02:09 [중국 TV 용 네트워크 개발을 위한 인스턴트 크립 토 거래 유망 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv-bf0e112e.md)
 * 2018-09-11 00:09 [암호화 ' 여기에 머물 ' 하지만 분류가 필요 합니다, 유럽 위원회 부사장은 말합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president-4983c37a.md)
 * 2018-09-10 22:09 [보고서: 테러리스트 그룹을 융자 하는 데 효과적이 지 않은 암호화](https://github.com/theyapapa/cryptonews/blob/ko/report-crypto-not-effective-for-financing-terrorist-groups-ef41f31b.md)
 * 2018-09-10 20:09 [파리 생제르맹 축구 클럽 팬 토큰을 실행 하려면](https://github.com/theyapapa/cryptonews/blob/ko/paris-saint-germain-soccer-club-to-launch-fan-token-42dec9d7.md)
