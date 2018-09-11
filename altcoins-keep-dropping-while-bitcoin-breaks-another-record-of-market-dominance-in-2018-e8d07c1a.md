@@ -1,0 +1,19 @@
+# altcoins는 2018에서 비트 코인이 시장 지배력의 또 다른 기록을 나누기 동안 계속 떨어지고 ...
+
+9 월 11 일 (화): 암호화 시장은 코인 마켓 캡의 데이터에 따라, 빨간색으로 시장 총액에 의해 상위 20 개 동전의 대부분과 함께, 오늘 또 다른 하락을 보았다.
+
+Coin360에서 시장 시각화 비트 코인 (BTC)는 오늘 약간 내려 현재 $6238에서 거래,이는 지난 24 시간 동안 0.3% 손실 주위.
+
+언론의 시점에서 지난 7 일 동안 암호화 시장의 손실은 9 월 4 일부 터 약 $2390억에서 약 20%로 구성 되었습니다.
+
+출처: 코인 마켓 캡 레드의 또 다른 물결 속에서, Bitcoin은 여전히 시장 점유율 측면에서 추진력을 얻고 있으며, 알트 코인을 통해 서 상당한 성장을 보이고 있습니다.
+
+출처: coinmarketcap 하루 동안 상위 20 개 암호 화폐 중 가장 큰 손실의 측면에서, 비트 코인 현금 (bch) 및 vechain (VET)은 24 시간 동안 5% 이상 하락을 보고, 가장 고통을 겪고 있다.
+
+리플 (xrp), 시장 총액에 의해 세 번째 최고 암호 화폐는, 지난 24 시간 동안 약 2.4%, 그리고 언론 시간에 약 $0.25에서 거래.
+
+알트 코인는 최근 시장 판매를 따르는 과거 7 일 내내, 아직도 아래로 7% 이상 압박 시간에 대략 $1.34에, 무역 하 고 있다.
+
+Original source: [Altcoins Keep Dropping While Bitcoin Breaks Another Record of Market Dominance in 2018](https://cointelegraph.com/news/altcoins-keep-dropping-while-bitcoin-breaks-another-record-of-market-dominance-in-2018)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
