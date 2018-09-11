@@ -1,0 +1,1 @@
+[Breaking: Founder of Crypto Exchange OKEx Allegedly Detained on Crypto Fraud Charges in China](https://cointelegraph.com/news/breaking-founder-of-crypto-exchange-okex-allegedly-detained-on-crypto-fraud-charges-in-china)
