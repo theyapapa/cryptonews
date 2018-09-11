@@ -1,0 +1,1 @@
+[Startup Promising Instant Crypto Transactions to Develop Network for Chinese TV](https://cointelegraph.com/news/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv)
