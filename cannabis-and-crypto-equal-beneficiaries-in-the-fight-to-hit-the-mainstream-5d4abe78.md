@@ -1,0 +1,1 @@
+[Cannabis and Crypto: Equal Beneficiaries In The Fight To Hit The Mainstream](https://cointelegraph.com/news/cannabis-and-crypto-equal-beneficiaries-in-the-fight-to-hit-the-mainstream)
