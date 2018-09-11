@@ -1,3 +1,4 @@
+* 2018-09-11 00:09 [Crypto ' aquí para quedarse ' pero necesita clasificación, dice el Vicepresidente de la Comisión Europea](https://github.com/theyapapa/cryptonews/blob/es/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president-4983c37a.md)
 * 2018-09-10 22:09 [Informe: Crypto no es eficaz para la financiación de grupos terroristas](https://github.com/theyapapa/cryptonews/blob/es/report-crypto-not-effective-for-financing-terrorist-groups-ef41f31b.md)
 * 2018-09-10 20:09 [Club de fútbol Paris Saint-Germain para lanzar fan token](https://github.com/theyapapa/cryptonews/blob/es/paris-saint-germain-soccer-club-to-launch-fan-token-42dec9d7.md)
 * 2018-09-10 19:09 [Robinhood: cómo el rápido crecimiento de la aplicación de comercio de valores se metió en Crypto](https://github.com/theyapapa/cryptonews/blob/es/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto-8bdc40fb.md)
