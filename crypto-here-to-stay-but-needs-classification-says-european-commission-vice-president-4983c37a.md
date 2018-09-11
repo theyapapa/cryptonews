@@ -1,0 +1,1 @@
+[Crypto ‘Here to Stay’ but Needs Classification, Says European Commission Vice President](https://cointelegraph.com/news/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president)
