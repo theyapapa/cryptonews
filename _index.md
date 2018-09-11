@@ -1,3 +1,4 @@
+* 2018-09-11 02:09 [Запуск перспективных мгновенного шифрования транзакций для разработки сети для китайского телевидения](https://github.com/theyapapa/cryptonews/blob/ru/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv-bf0e112e.md)
 * 2018-09-11 00:09 [Крипто "здесь, чтобы остаться", но потребности классификации, говорит вице-президент Европейской Комиссии](https://github.com/theyapapa/cryptonews/blob/ru/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president-4983c37a.md)
 * 2018-09-10 22:09 [Доклад: Crypto не эффективен для финансирования террористических групп](https://github.com/theyapapa/cryptonews/blob/ru/report-crypto-not-effective-for-financing-terrorist-groups-ef41f31b.md)
 * 2018-09-10 20:09 [Парижский Сен-Жерменский футбольный клуб для запуска фан-токена](https://github.com/theyapapa/cryptonews/blob/ru/paris-saint-germain-soccer-club-to-launch-fan-token-42dec9d7.md)
