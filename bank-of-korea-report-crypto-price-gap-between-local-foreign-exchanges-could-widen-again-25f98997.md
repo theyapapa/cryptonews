@@ -1,0 +1,1 @@
+[Bank of Korea Report: Crypto Price Gap Between Local, Foreign Exchanges Could Widen Again](https://cointelegraph.com/news/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again)
