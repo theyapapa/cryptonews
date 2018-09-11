@@ -1,0 +1,1 @@
+[Malta Stock Exchange Signs MOU with Binance to Launch Security Tokens Trading Platform](https://cointelegraph.com/news/malta-stock-exchange-signs-mou-with-binance-to-launch-security-tokens-trading-platform)
