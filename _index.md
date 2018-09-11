@@ -1,3 +1,4 @@
+* 2018-09-11 07:09 [대마초와 암호화: 주류를 공격 하는 싸움에서 동등한 수혜자](https://github.com/theyapapa/cryptonews/blob/ko/cannabis-and-crypto-equal-beneficiaries-in-the-fight-to-hit-the-mainstream-5d4abe78.md)
 * 2018-09-11 02:09 [중국 TV 용 네트워크 개발을 위한 인스턴트 크립 토 거래 유망 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv-bf0e112e.md)
 * 2018-09-11 00:09 [암호화 ' 여기에 머물 ' 하지만 분류가 필요 합니다, 유럽 위원회 부사장은 말합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president-4983c37a.md)
 * 2018-09-10 22:09 [보고서: 테러리스트 그룹을 융자 하는 데 효과적이 지 않은 암호화](https://github.com/theyapapa/cryptonews/blob/ko/report-crypto-not-effective-for-financing-terrorist-groups-ef41f31b.md)
