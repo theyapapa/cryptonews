@@ -1,3 +1,4 @@
+* 2018-09-11 19:09 [미국 국방부 데이터 센터를 암호화 채굴 팜으로 전환 하는 중국 지주 회사](https://github.com/theyapapa/cryptonews/blob/ko/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm-325e4e68.md)
 * 2018-09-11 19:09 [오버 스톡 CEO는 자신의 주식의 10%를 판매 하 고, ' 걱정 하지 마세요, 난 아직 게임에 있어 ' 라고](https://github.com/theyapapa/cryptonews/blob/ko/overstock-ceo-sells-10-of-his-stock-saying-dont-worry-im-still-in-the-game-b0cd4726.md)
 * 2018-09-11 15:09 [미확인: UAE 공식 ICO, 핀 테크 규정, 현지 언론 보도 채택 준비](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-uae-preparing-to-adopt-formal-ico-fintech-regulations-local-media-report-ba965d3a.md)
 * 2018-09-11 13:09 [2018에서 비트 코인이 시장 지배력의 또 다른 기록을 나누는 동안 알트 코인은 계속 떨어지고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/altcoins-keep-dropping-while-bitcoin-breaks-another-record-of-market-dominance-in-2018-e8d07c1a.md)
