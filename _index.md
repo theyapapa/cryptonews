@@ -1,3 +1,4 @@
+* 2018-09-12 05:09 [FINRA cargos Broker con fraude para el comercio no registrado Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency-1e99c9d6.md)
 * 2018-09-12 00:09 [En un primer momento, Estados Unidos penaliza el fondo de cobertura Crypto](https://github.com/theyapapa/cryptonews/blob/es/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund-e4b1ea8d.md)
 * 2018-09-11 22:09 [Líderes de la industria de criptografía establecen grupo de lobby con sede en Washington](https://github.com/theyapapa/cryptonews/blob/es/crypto-industry-leaders-establish-washington-based-lobby-group-618c7d06.md)
 * 2018-09-11 19:09 [Empresa China Holding para convertir el Departamento de defensa de Estados Unidos Centro de datos en la explotación minera Crypto](https://github.com/theyapapa/cryptonews/blob/es/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm-325e4e68.md)
