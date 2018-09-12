@@ -1,3 +1,4 @@
+* 2018-09-12 08:09 [Не "жизнеспособным"? Беркли профессор принимает тусклый вид стаблекоинс в новой критики](https://github.com/theyapapa/cryptonews/blob/ru/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique-d92824f0.md)
 * 2018-09-12 07:09 [Рынки кризиса в середине недели, как Ethereum хиты новых 2018 минимумов](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows-c22e7283.md)
 * 2018-09-12 05:09 [FINRA взимает брокера с мошенничеством для торговли незарегистрированной валютой](https://github.com/theyapapa/cryptonews/blob/ru/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency-1e99c9d6.md)
 * 2018-09-12 00:09 [В очевидной первой, США SEC наказания крипто хедж-фонд](https://github.com/theyapapa/cryptonews/blob/ru/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund-e4b1ea8d.md)
