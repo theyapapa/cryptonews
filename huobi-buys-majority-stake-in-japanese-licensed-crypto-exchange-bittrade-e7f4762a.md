@@ -1,0 +1,1 @@
+[Huobi Buys Majority Stake in Japanese-licensed Crypto Exchange BitTrade](https://cointelegraph.com/news/huobi-buys-majority-stake-in-japanese-licensed-crypto-exchange-bittrade)
