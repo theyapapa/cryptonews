@@ -1,3 +1,4 @@
+* 2018-09-12 00:09 [명백한 첫 번째, 미국 SEC는 암호화 헤 지 펀드를 penalizes](https://github.com/theyapapa/cryptonews/blob/ko/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund-e4b1ea8d.md)
 * 2018-09-11 22:09 [암호화 업계 리더 들이 워싱턴 기반 로비 그룹을 설립](https://github.com/theyapapa/cryptonews/blob/ko/crypto-industry-leaders-establish-washington-based-lobby-group-618c7d06.md)
 * 2018-09-11 19:09 [미국 국방부 데이터 센터를 암호화 채굴 팜으로 전환 하는 중국 지주 회사](https://github.com/theyapapa/cryptonews/blob/ko/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm-325e4e68.md)
 * 2018-09-11 19:09 [오버 스톡 CEO는 자신의 주식의 10%를 판매 하 고, ' 걱정 하지 마세요, 난 아직 게임에 있어 ' 라고](https://github.com/theyapapa/cryptonews/blob/ko/overstock-ceo-sells-10-of-his-stock-saying-dont-worry-im-still-in-the-game-b0cd4726.md)
