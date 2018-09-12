@@ -1,0 +1,1 @@
+[In an Apparent First, U.S. SEC Penalizes Crypto Hedge Fund](https://cointelegraph.com/news/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund)
