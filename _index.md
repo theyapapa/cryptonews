@@ -1,3 +1,4 @@
+* 2018-09-12 18:09 [인도, 브릭스 회원 들과 공동 블록 체인 연구에 대 한 MOU 승인](https://github.com/theyapapa/cryptonews/blob/ko/india-approves-mou-on-joint-blockchain-research-with-brics-members-e3158a1e.md)
 * 2018-09-12 17:09 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 12 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-12-cdd8262b.md)
 * 2018-09-12 14:09 [Mt. gox는 기업 사용자를 위한 온라인 재활 청구 신고 시스템을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-opens-online-rehabilitation-claim-filing-system-for-corporate-users-41801251.md)
 * 2018-09-12 12:09 [새로운 플랫폼은 기업이 자신의 암호 화폐 교환을 시작할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange-6f25ee55.md)
