@@ -1,3 +1,4 @@
+* 2018-09-12 11:09 [일본 면허 암호 교환 비트 트레이드의 다이 지분 매입](https://github.com/theyapapa/cryptonews/blob/ko/huobi-buys-majority-stake-in-japanese-licensed-crypto-exchange-bittrade-e7f4762a.md)
 * 2018-09-12 08:09 [' 실용적이 지 않은 '? 버클리 교수는 새로운 비판에 stadecoins의 희미 한 보기를 소요](https://github.com/theyapapa/cryptonews/blob/ko/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique-d92824f0.md)
 * 2018-09-12 07:09 [이 더 리 움이 새로운 2018 기온을 조회로 암호 화폐 시장 침체 midweek](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows-c22e7283.md)
 * 2018-09-12 05:09 [등록 되지 않은 암호 화폐 거래에 대 한 사기와 finra 요금 브로커](https://github.com/theyapapa/cryptonews/blob/ko/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency-1e99c9d6.md)
