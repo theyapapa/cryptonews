@@ -1,0 +1,1 @@
+[Cryptocurrency Markets Slump Midweek as Ethereum Hits New 2018 Lows](https://cointelegraph.com/news/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows)
