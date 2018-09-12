@@ -1,0 +1,1 @@
+[FINRA Charges Broker With Fraud for Trading Unregistered Cryptocurrency](https://cointelegraph.com/news/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency)
