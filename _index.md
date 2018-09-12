@@ -1,3 +1,4 @@
+* 2018-09-12 08:09 [¿no es "viable"? Profesor de Berkeley toma la visión tenue de Stablecoins en Nueva crítica](https://github.com/theyapapa/cryptonews/blob/es/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique-d92824f0.md)
 * 2018-09-12 07:09 [Cryptocurrency mercados se desploman a la semana como Ethereum Hits nuevos 2018 puntos bajos](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows-c22e7283.md)
 * 2018-09-12 05:09 [FINRA cargos Broker con fraude para el comercio no registrado Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency-1e99c9d6.md)
 * 2018-09-12 00:09 [En un primer momento, Estados Unidos penaliza el fondo de cobertura Crypto](https://github.com/theyapapa/cryptonews/blob/es/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund-e4b1ea8d.md)
