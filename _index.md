@@ -1,3 +1,4 @@
+* 2018-09-12 00:09 [В очевидной первой, США SEC наказания крипто хедж-фонд](https://github.com/theyapapa/cryptonews/blob/ru/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund-e4b1ea8d.md)
 * 2018-09-11 22:09 [Лидеры индустрии криптографии основали лоббистскую группу в Вашингтоне](https://github.com/theyapapa/cryptonews/blob/ru/crypto-industry-leaders-establish-washington-based-lobby-group-618c7d06.md)
 * 2018-09-11 19:09 [Китайская холдинговая фирма преобразовать центр данных Министерства обороны США в крипто-горную ферму](https://github.com/theyapapa/cryptonews/blob/ru/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm-325e4e68.md)
 * 2018-09-11 19:09 [Генеральный директор продает 10% акций, сказав: "не волнуйтесь, я все еще в игре"](https://github.com/theyapapa/cryptonews/blob/ru/overstock-ceo-sells-10-of-his-stock-saying-dont-worry-im-still-in-the-game-b0cd4726.md)
