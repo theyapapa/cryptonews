@@ -1,0 +1,1 @@
+[Mt. Gox Opens Online Rehabilitation Claim Filing System for Corporate Users](https://cointelegraph.com/news/mt-gox-opens-online-rehabilitation-claim-filing-system-for-corporate-users)
