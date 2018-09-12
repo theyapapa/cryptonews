@@ -1,0 +1,1 @@
+[New Platform Allows Businesses to Launch Their Own Cryptocurrency Exchange](https://cointelegraph.com/news/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange)
