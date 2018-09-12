@@ -1,3 +1,4 @@
+* 2018-09-12 07:09 [Cryptocurrency mercados se desploman a la semana como Ethereum Hits nuevos 2018 puntos bajos](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows-c22e7283.md)
 * 2018-09-12 05:09 [FINRA cargos Broker con fraude para el comercio no registrado Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency-1e99c9d6.md)
 * 2018-09-12 00:09 [En un primer momento, Estados Unidos penaliza el fondo de cobertura Crypto](https://github.com/theyapapa/cryptonews/blob/es/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund-e4b1ea8d.md)
 * 2018-09-11 22:09 [Líderes de la industria de criptografía establecen grupo de lobby con sede en Washington](https://github.com/theyapapa/cryptonews/blob/es/crypto-industry-leaders-establish-washington-based-lobby-group-618c7d06.md)
