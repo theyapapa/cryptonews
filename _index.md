@@ -1,3 +1,4 @@
+* 2018-09-12 11:09 [Хуоби покупает большинство акций в японской лицензированной Crypto Exchange биттраде](https://github.com/theyapapa/cryptonews/blob/ru/huobi-buys-majority-stake-in-japanese-licensed-crypto-exchange-bittrade-e7f4762a.md)
 * 2018-09-12 08:09 [Не "жизнеспособным"? Беркли профессор принимает тусклый вид стаблекоинс в новой критики](https://github.com/theyapapa/cryptonews/blob/ru/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique-d92824f0.md)
 * 2018-09-12 07:09 [Рынки кризиса в середине недели, как Ethereum хиты новых 2018 минимумов](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows-c22e7283.md)
 * 2018-09-12 05:09 [FINRA взимает брокера с мошенничеством для торговли незарегистрированной валютой](https://github.com/theyapapa/cryptonews/blob/ru/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency-1e99c9d6.md)
