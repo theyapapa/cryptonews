@@ -1,0 +1,1 @@
+[India Approves MOU on Joint Blockchain Research with BRICS Members](https://cointelegraph.com/news/india-approves-mou-on-joint-blockchain-research-with-brics-members)
