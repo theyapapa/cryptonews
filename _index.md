@@ -1,3 +1,4 @@
+* 2018-09-12 14:09 [Mt. gox는 기업 사용자를 위한 온라인 재활 청구 신고 시스템을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-opens-online-rehabilitation-claim-filing-system-for-corporate-users-41801251.md)
 * 2018-09-12 12:09 [새로운 플랫폼은 기업이 자신의 암호 화폐 교환을 시작할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange-6f25ee55.md)
 * 2018-09-12 11:09 [일본 면허 암호 교환 비트 트레이드의 다이 지분 매입](https://github.com/theyapapa/cryptonews/blob/ko/huobi-buys-majority-stake-in-japanese-licensed-crypto-exchange-bittrade-e7f4762a.md)
 * 2018-09-12 08:09 [' 실용적이 지 않은 '? 버클리 교수는 새로운 비판에 stadecoins의 희미 한 보기를 소요](https://github.com/theyapapa/cryptonews/blob/ko/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique-d92824f0.md)
