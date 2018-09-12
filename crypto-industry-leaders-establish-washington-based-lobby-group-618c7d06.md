@@ -1,0 +1,1 @@
+[Crypto Industry Leaders Establish Washington-Based Lobby Group](https://cointelegraph.com/news/crypto-industry-leaders-establish-washington-based-lobby-group)
