@@ -1,0 +1,1 @@
+[Not ‘Viable’? Berkeley Professor Takes Dim View of Stablecoins in New Critique](https://cointelegraph.com/news/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique)
