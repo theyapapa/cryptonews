@@ -1,0 +1,1 @@
+[Chinese Holding Firm to Convert US Defense Department Data Center Into Crypto Mining Farm](https://cointelegraph.com/news/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm)
