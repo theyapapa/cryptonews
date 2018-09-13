@@ -1,0 +1,21 @@
+# 핀 테크 투자자 ribbit 자본 세트 $4억2000만의 최신 펀드에 대 한 목표 ...
+
+주목할 만한 암호 화폐와 블록 체인 프로젝트를 포함 하는 미국의 벤처 캐피탈 회사인 ribbit 캐피탈은 9 월 12 일에 발표 된 SEC 제출에 따라 최신 펀드 $4억2000만을 목표로 하 고 있습니다.
+
+$4억2000만 수치는 "회사는 지난해에 매력 $3억에서 공칭 증가" 동안 기금은 보도 제한 된 파트너와 ribbit의 다섯 번째 벤처 될 것입니다.
+
+2012에 설립 된 ribbit의 포트폴리오는 가상 화폐 거래소 코인 베이스, 제로-수수료 재고 및 암호 거래 플랫폼 로비 후드, 금융 회사 신용 업 보, 자동차 보험 플랫폼 루트 보험 등 업계 선두 업체와 협력 하 여 표시 됩니다.
+
+ribbit 캐피탈은 또한 andreessen horowitz, 배터리 벤처 및 크로스 리버 뱅크에 투자 하 고 있으며, 테크 크 런치에 따르면 많은 핀 테크 기업과 규제 금융 기관 간의 "유일한 링크"를 제공 합니다.
+
+4 월, 영국-기반 대안 뱅킹 애플 리 케이 션 revolut $2억5000만 시리즈 C 투자 라운드에서 ribbit 캐피탈에 의해 주도에, 두 개의 다른 벤처 캐피탈 회사와 함께 DST 글로벌 및 인덱스 벤처 인상.
+
+bindhood는 2 월에 있는 디지털 방식으로 통화를 위한 무역 서비스를 제안 하기 시작 하 고, 시리즈 D 자금 조달 둥근 및 $1억1000만에서 일련의 C 둥근 $3억6300만를 올린.
+
+자금 조달 라운드에이 어, robinhood는 미국에서 두 번째로 가장 가치 있는 핀 테크 스타트업으로 $56억에 상당 했습니다.
+
+2012 년에 설립 된 코인 베이스는 미국에서 암호 교환 및 지갑 서비스의 선두 주자로 성장 했습니다.
+
+Original source: [Fintech Investor Ribbit Capital Sets $420 Million Goal for Its Latest Fund](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
