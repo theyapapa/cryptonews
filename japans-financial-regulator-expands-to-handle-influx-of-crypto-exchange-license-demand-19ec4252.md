@@ -1,0 +1,1 @@
+[Japan’s Financial Regulator Expands to Handle Influx of Crypto Exchange License Demand](https://cointelegraph.com/news/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand)
