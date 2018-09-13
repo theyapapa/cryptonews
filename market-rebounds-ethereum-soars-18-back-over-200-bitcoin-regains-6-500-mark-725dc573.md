@@ -1,0 +1,1 @@
+[Market Rebounds: Ethereum Soars 18% Back over $200, Bitcoin Regains $6,500 Mark](https://cointelegraph.com/news/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark)
