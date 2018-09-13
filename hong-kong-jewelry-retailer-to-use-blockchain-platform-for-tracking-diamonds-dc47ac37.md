@@ -1,0 +1,1 @@
+[Hong Kong Jewelry Retailer to Use Blockchain Platform for Tracking Diamonds](https://cointelegraph.com/news/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds)
