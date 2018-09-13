@@ -1,0 +1,1 @@
+[Brazilian Retail Giant Partners With Blockchain Payment Service Airfox to ‘Drive Adoption’](https://cointelegraph.com/news/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption)
