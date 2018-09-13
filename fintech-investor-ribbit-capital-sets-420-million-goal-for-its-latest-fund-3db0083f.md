@@ -1,0 +1,1 @@
+[Fintech Investor Ribbit Capital Sets $420 Million Goal for Its Latest Fund](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
