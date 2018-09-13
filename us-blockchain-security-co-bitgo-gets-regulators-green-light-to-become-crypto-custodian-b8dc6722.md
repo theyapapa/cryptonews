@@ -1,0 +1,1 @@
+[US: Blockchain Security Co. BitGo Gets Regulator's Green Light to Become Crypto Custodian](https://cointelegraph.com/news/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian)
