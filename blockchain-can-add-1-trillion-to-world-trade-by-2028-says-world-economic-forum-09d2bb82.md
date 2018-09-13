@@ -1,0 +1,1 @@
+[Blockchain Can Add $1 Trillion to World Trade By 2028, Says World Economic Forum](https://cointelegraph.com/news/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum)
