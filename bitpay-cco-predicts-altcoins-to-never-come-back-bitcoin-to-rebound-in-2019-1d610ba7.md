@@ -1,0 +1,1 @@
+[BitPay CCO Predicts Altcoins to ‘Never Come Back,’ Bitcoin to ‘Rebound’ in 2019](https://cointelegraph.com/news/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019)
