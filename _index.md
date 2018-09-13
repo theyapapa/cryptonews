@@ -1,3 +1,4 @@
+* 2018-09-13 16:09 [블록 체인 결제 서비스 airfox와 브라질 소매 거 대 한 파트너 ' 드라이브 입양 '](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption-887d9214.md)
 * 2018-09-13 15:09 [시장 리바운드:이 더 리 움의 솟아 18% $200, 비트 코인은 $6500 마크를 회복](https://github.com/theyapapa/cryptonews/blob/ko/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark-725dc573.md)
 * 2018-09-13 13:09 [미국: 블록 체인 보안 유한 bitgo는 레 귤 레이 터의 녹색 빛을 암호화 후견인이 되 게 합니다](https://github.com/theyapapa/cryptonews/blob/ko/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian-b8dc6722.md)
 * 2018-09-13 08:09 [일본의 금융 규제는 암호 교환 라이센스 수요의 유입을 처리 하기 위해 확장](https://github.com/theyapapa/cryptonews/blob/ko/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand-19ec4252.md)
