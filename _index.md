@@ -1,3 +1,4 @@
+* 2018-09-12 22:09 [최신 펀드에 대 한 핀 테크 투자자 ribbit 캐피탈 세트 $4억2000만 목표](https://github.com/theyapapa/cryptonews/blob/ko/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund-3db0083f.md)
 * 2018-09-12 21:09 [홍콩 쥬얼리 소매 업체, 다이아몬드 추적을 위한 블록 체인 플랫폼 사용](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds-dc47ac37.md)
 * 2018-09-12 18:09 [인도, 브릭스 회원 들과 공동 블록 체인 연구에 대 한 MOU 승인](https://github.com/theyapapa/cryptonews/blob/ko/india-approves-mou-on-joint-blockchain-research-with-brics-members-e3158a1e.md)
 * 2018-09-12 17:09 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 12 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-12-cdd8262b.md)
