@@ -1,3 +1,4 @@
+* 2018-09-13 08:09 [일본의 금융 규제는 암호 교환 라이센스 수요의 유입을 처리 하기 위해 확장](https://github.com/theyapapa/cryptonews/blob/ko/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand-19ec4252.md)
 * 2018-09-13 07:09 [블록 체인은 2028에 의해 세계 무역에 $1조를 추가 할 수 있습니다, 세계 경제 포럼을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum-09d2bb82.md)
 * 2018-09-12 22:09 [최신 펀드에 대 한 핀 테크 투자자 ribbit 캐피탈 세트 $4억2000만 목표](https://github.com/theyapapa/cryptonews/blob/ko/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund-3db0083f.md)
 * 2018-09-12 21:09 [홍콩 쥬얼리 소매 업체, 다이아몬드 추적을 위한 블록 체인 플랫폼 사용](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds-dc47ac37.md)
