@@ -1,0 +1,1 @@
+[France Finalizes New ICO Framework to ‘Attract Innovators Globally’](https://cointelegraph.com/news/france-finalizes-new-ico-framework-to-attract-innovators-globally)
