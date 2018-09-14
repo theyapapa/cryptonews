@@ -1,0 +1,1 @@
+[Study: Hard Forks Constitute Threat to Cryptocurrency Stability](https://cointelegraph.com/news/study-hard-forks-constitute-threat-to-cryptocurrency-stability)
