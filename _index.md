@@ -1,3 +1,4 @@
+* 2018-09-13 19:09 [Галактика цифровой Генеральный директор Майк Новограц звонки крипто Цена снизу](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
 * 2018-09-13 18:09 [BitPay Кос предсказывает алткоинс "никогда не вернется", Bitcoin "отскок" в 2019](https://github.com/theyapapa/cryptonews/blob/ru/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019-1d610ba7.md)
 * 2018-09-13 16:09 [Бразильские розничные гигантские партнеры со службой платежей аирфокс на "Драйв усыновление"](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption-887d9214.md)
 * 2018-09-13 15:09 [Рынок подборов: Ethereum парит 18% назад более $200, Bitcoin возвращается $6 500 знак](https://github.com/theyapapa/cryptonews/blob/ru/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark-725dc573.md)
