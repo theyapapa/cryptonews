@@ -1,3 +1,4 @@
+* 2018-09-14 09:09 [대기업 중 블록 체인의 인기는 올해 11%를 치 솟 았다, 설문 조사 발견](https://github.com/theyapapa/cryptonews/blob/ko/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds-d1fc4a0b.md)
 * 2018-09-13 23:09 [gow 광부 뒤에 CEO는 감옥에서 21 개월을 선 고 paycoin Ponzi 계획](https://github.com/theyapapa/cryptonews/blob/ko/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison-c616c914.md)
 * 2018-09-13 22:09 [연구: 하드 포크는 암호 화폐 안정성에 위협을 구성](https://github.com/theyapapa/cryptonews/blob/ko/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
 * 2018-09-13 19:09 [갤럭시 디지털 CEO 마이크 novogratz는 암호화 가격 바닥을 호출](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
