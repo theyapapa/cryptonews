@@ -1,3 +1,4 @@
+* 2018-09-13 23:09 [gow 광부 뒤에 CEO는 감옥에서 21 개월을 선 고 paycoin Ponzi 계획](https://github.com/theyapapa/cryptonews/blob/ko/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison-c616c914.md)
 * 2018-09-13 22:09 [연구: 하드 포크는 암호 화폐 안정성에 위협을 구성](https://github.com/theyapapa/cryptonews/blob/ko/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
 * 2018-09-13 19:09 [갤럭시 디지털 CEO 마이크 novogratz는 암호화 가격 바닥을 호출](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
 * 2018-09-13 18:09 [bitpay cco는 altcoins를 ' 돌아오지 않을 것으로 예측, ' 비트 코인은 2019에서 ' 리바운드 '로](https://github.com/theyapapa/cryptonews/blob/ko/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019-1d610ba7.md)
