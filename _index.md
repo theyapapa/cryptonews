@@ -1,3 +1,4 @@
+* 2018-09-13 23:09 [CEO detrás de GAW mineros, PayCoin esquema Ponzi condenado a 21 meses de prisión](https://github.com/theyapapa/cryptonews/blob/es/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison-c616c914.md)
 * 2018-09-13 22:09 [Estudio: las horquillas duras constituyen una amenaza a la estabilidad Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
 * 2018-09-13 19:09 [Galaxy digital CEO Mike Novogratz llama fondo de precio Crypto](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
 * 2018-09-13 18:09 [BitPay CCO predice que Altcoins ' nunca regresará ', Bitcoin a ' rebote ' en 2019](https://github.com/theyapapa/cryptonews/blob/es/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019-1d610ba7.md)
