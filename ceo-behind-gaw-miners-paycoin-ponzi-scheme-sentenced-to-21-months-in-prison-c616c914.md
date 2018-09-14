@@ -1,0 +1,1 @@
+[CEO Behind GAW Miners, PayCoin Ponzi Scheme Sentenced to 21 Months in Prison](https://cointelegraph.com/news/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison)
