@@ -1,3 +1,4 @@
+* 2018-09-13 22:09 [Исследование: жесткие вилки представляют угрозу стабильности](https://github.com/theyapapa/cryptonews/blob/ru/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
 * 2018-09-13 19:09 [Галактика цифровой Генеральный директор Майк Новограц звонки крипто Цена снизу](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
 * 2018-09-13 18:09 [BitPay Кос предсказывает алткоинс "никогда не вернется", Bitcoin "отскок" в 2019](https://github.com/theyapapa/cryptonews/blob/ru/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019-1d610ba7.md)
 * 2018-09-13 16:09 [Бразильские розничные гигантские партнеры со службой платежей аирфокс на "Драйв усыновление"](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption-887d9214.md)
