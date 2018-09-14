@@ -1,0 +1,1 @@
+[European Central Bank: ‘No Plans’ for Digital Currency, Cash Demand Growing](https://cointelegraph.com/news/european-central-bank-no-plans-for-digital-currency-cash-demand-growing)
