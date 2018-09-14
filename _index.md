@@ -1,3 +1,4 @@
+* 2018-09-13 23:09 [Генеральный директор за шахтеров, пайкоин финансовая пирамида приговорен к 21 месяца в тюрьме](https://github.com/theyapapa/cryptonews/blob/ru/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison-c616c914.md)
 * 2018-09-13 22:09 [Исследование: жесткие вилки представляют угрозу стабильности](https://github.com/theyapapa/cryptonews/blob/ru/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
 * 2018-09-13 19:09 [Галактика цифровой Генеральный директор Майк Новограц звонки крипто Цена снизу](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
 * 2018-09-13 18:09 [BitPay Кос предсказывает алткоинс "никогда не вернется", Bitcoin "отскок" в 2019](https://github.com/theyapapa/cryptonews/blob/ru/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019-1d610ba7.md)
