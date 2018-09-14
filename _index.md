@@ -1,3 +1,4 @@
+* 2018-09-14 09:09 [Популярность цепочки между крупными предприятиями в этом году увеличилась на 11%, считает опрос](https://github.com/theyapapa/cryptonews/blob/ru/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds-d1fc4a0b.md)
 * 2018-09-13 23:09 [Генеральный директор за шахтеров, пайкоин финансовая пирамида приговорен к 21 месяца в тюрьме](https://github.com/theyapapa/cryptonews/blob/ru/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison-c616c914.md)
 * 2018-09-13 22:09 [Исследование: жесткие вилки представляют угрозу стабильности](https://github.com/theyapapa/cryptonews/blob/ru/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
 * 2018-09-13 19:09 [Галактика цифровой Генеральный директор Майк Новограц звонки крипто Цена снизу](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
