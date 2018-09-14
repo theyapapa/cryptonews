@@ -1,0 +1,1 @@
+[Blockchain’s Popularity Among Large Enterprises Soared 11% This Year, Survey Finds](https://cointelegraph.com/news/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds)
