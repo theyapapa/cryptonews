@@ -1,3 +1,4 @@
+* 2018-09-14 10:09 [Banco Central Europeo: "no hay planes" para la moneda digital, la demanda de efectivo crece](https://github.com/theyapapa/cryptonews/blob/es/european-central-bank-no-plans-for-digital-currency-cash-demand-growing-8b1e4487.md)
 * 2018-09-14 09:09 [La popularidad de bloques entre las grandes empresas se elevó 11% este año, la encuesta encuentra](https://github.com/theyapapa/cryptonews/blob/es/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds-d1fc4a0b.md)
 * 2018-09-13 23:09 [CEO detrás de GAW mineros, PayCoin esquema Ponzi condenado a 21 meses de prisión](https://github.com/theyapapa/cryptonews/blob/es/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison-c616c914.md)
 * 2018-09-13 22:09 [Estudio: las horquillas duras constituyen una amenaza a la estabilidad Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
