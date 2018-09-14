@@ -1,3 +1,4 @@
+* 2018-09-14 17:09 [ICO 법률의 최종 초안은 필리핀 핀 테크 부문의 다음 단계를 의미할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector-01d7c723.md)
 * 2018-09-14 15:09 [프랑스는 ' 글로벌 혁신을 유치 ' 새로운 ICO 프레임 워크를 마무리](https://github.com/theyapapa/cryptonews/blob/ko/france-finalizes-new-ico-framework-to-attract-innovators-globally-804ea781.md)
 * 2018-09-14 13:09 [cftc의 자: 암호화의 요구는 규제는 초기 인터넷을 준 ' 해를 끼치지 ' 접근](https://github.com/theyapapa/cryptonews/blob/ko/cftc-chair-crypto-needs-do-no-harm-approach-that-regulators-gave-the-early-internet-decbcdd6.md)
 * 2018-09-14 10:09 [유럽 중앙 은행: 디지털 화폐에 대 한 ' 계획 없음 ', 현금 수요 증가](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-no-plans-for-digital-currency-cash-demand-growing-8b1e4487.md)
