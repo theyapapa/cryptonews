@@ -1,3 +1,4 @@
+* 2018-09-14 15:09 [프랑스는 ' 글로벌 혁신을 유치 ' 새로운 ICO 프레임 워크를 마무리](https://github.com/theyapapa/cryptonews/blob/ko/france-finalizes-new-ico-framework-to-attract-innovators-globally-804ea781.md)
 * 2018-09-14 13:09 [cftc의 자: 암호화의 요구는 규제는 초기 인터넷을 준 ' 해를 끼치지 ' 접근](https://github.com/theyapapa/cryptonews/blob/ko/cftc-chair-crypto-needs-do-no-harm-approach-that-regulators-gave-the-early-internet-decbcdd6.md)
 * 2018-09-14 10:09 [유럽 중앙 은행: 디지털 화폐에 대 한 ' 계획 없음 ', 현금 수요 증가](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-no-plans-for-digital-currency-cash-demand-growing-8b1e4487.md)
 * 2018-09-14 09:09 [대기업 중 블록 체인의 인기는 올해 11%를 치 솟 았다, 설문 조사 발견](https://github.com/theyapapa/cryptonews/blob/ko/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds-d1fc4a0b.md)
