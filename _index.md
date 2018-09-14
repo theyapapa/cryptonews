@@ -1,3 +1,4 @@
+* 2018-09-13 22:09 [연구: 하드 포크는 암호 화폐 안정성에 위협을 구성](https://github.com/theyapapa/cryptonews/blob/ko/study-hard-forks-constitute-threat-to-cryptocurrency-stability-eb68f302.md)
 * 2018-09-13 19:09 [갤럭시 디지털 CEO 마이크 novogratz는 암호화 가격 바닥을 호출](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
 * 2018-09-13 18:09 [bitpay cco는 altcoins를 ' 돌아오지 않을 것으로 예측, ' 비트 코인은 2019에서 ' 리바운드 '로](https://github.com/theyapapa/cryptonews/blob/ko/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019-1d610ba7.md)
 * 2018-09-13 16:09 [블록 체인 결제 서비스 airfox와 브라질 소매 거 대 한 파트너 ' 드라이브 입양 '](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption-887d9214.md)
