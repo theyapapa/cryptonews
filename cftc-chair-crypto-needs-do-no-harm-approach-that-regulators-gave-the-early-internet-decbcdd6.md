@@ -1,0 +1,1 @@
+[CFTC Chair: Crypto Needs ‘Do No Harm’ Approach That Regulators Gave the Early Internet](https://cointelegraph.com/news/cftc-chair-crypto-needs-do-no-harm-approach-that-regulators-gave-the-early-internet)
