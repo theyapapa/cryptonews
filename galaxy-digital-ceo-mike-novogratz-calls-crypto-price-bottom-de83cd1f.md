@@ -1,0 +1,1 @@
+[Galaxy Digital CEO Mike Novogratz Calls Crypto Price Bottom](https://cointelegraph.com/news/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom)
