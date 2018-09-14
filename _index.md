@@ -1,3 +1,4 @@
+* 2018-09-13 19:09 [Galaxy digital CEO Mike Novogratz llama fondo de precio Crypto](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom-de83cd1f.md)
 * 2018-09-13 18:09 [BitPay CCO predice que Altcoins ' nunca regresará ', Bitcoin a ' rebote ' en 2019](https://github.com/theyapapa/cryptonews/blob/es/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019-1d610ba7.md)
 * 2018-09-13 16:09 [El gigante minorista brasileño se asocia con el servicio de pago bloques Airfox a "impulsar la adopción"](https://github.com/theyapapa/cryptonews/blob/es/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption-887d9214.md)
 * 2018-09-13 15:09 [Rebotes de mercado: Ethereum se eleva 18% de vuelta sobre $200, Bitcoin recupera $6.500 marca](https://github.com/theyapapa/cryptonews/blob/es/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark-725dc573.md)
