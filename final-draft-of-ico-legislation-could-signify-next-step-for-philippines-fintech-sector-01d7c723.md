@@ -1,0 +1,1 @@
+[Final Draft of ICO Legislation Could Signify Next Step for Philippines Fintech Sector](https://cointelegraph.com/news/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector)
