@@ -1,0 +1,1 @@
+[Tim Draper Predicts Total Crypto Market Cap of $80 Trillion in Next 15 Years](https://cointelegraph.com/news/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years)
