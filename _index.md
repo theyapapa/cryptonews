@@ -1,3 +1,4 @@
+* 2018-09-15 17:09 [비이 성적인 충 분 재검토: 암호는 새로운 닷컴 버블 인가?](https://github.com/theyapapa/cryptonews/blob/ko/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble-651203fd.md)
 * 2018-09-15 16:09 [세계 경제 포럼은 환경 보호를 위한 65 블록 체인 사용 사례를 통해 설명](https://github.com/theyapapa/cryptonews/blob/ko/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection-8ea01c2b.md)
 * 2018-09-15 12:09 [암호화 시장이 약간 회복,이 더 리 움, tezos는 가장 큰 이득을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains-24dd1bc6.md)
 * 2018-09-15 06:09 [카자흐스탄에서 우즈베키스탄으로: 중앙 아시아에서 가상 화폐가 어떻게 규제 되는가](https://github.com/theyapapa/cryptonews/blob/ko/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia-62990b58.md)
