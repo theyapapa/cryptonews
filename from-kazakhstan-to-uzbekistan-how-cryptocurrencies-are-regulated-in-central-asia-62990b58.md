@@ -1,0 +1,1 @@
+[From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia](https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia)
