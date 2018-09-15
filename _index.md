@@ -1,3 +1,4 @@
+* 2018-09-15 17:09 [Иррациональное изобилие вновь: является крипто новый dot-com пузырь?](https://github.com/theyapapa/cryptonews/blob/ru/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble-651203fd.md)
 * 2018-09-15 16:09 [Всемирный экономический форум настроил более 65 вариантов использования блоков для защиты окружающей среды](https://github.com/theyapapa/cryptonews/blob/ru/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection-8ea01c2b.md)
 * 2018-09-15 12:09 [Крипто рынки восстановить немного, Ethereum, тезос увидеть наибольший выигрыш](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains-24dd1bc6.md)
 * 2018-09-15 06:09 [Из Казахстана в Узбекистан: как регулируется регулирование в Центральной Азии](https://github.com/theyapapa/cryptonews/blob/ru/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia-62990b58.md)
