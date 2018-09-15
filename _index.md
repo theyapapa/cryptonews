@@ -1,3 +1,4 @@
+* 2018-09-14 22:09 [디지털 자산에 대 한 대체 법안 제시 러시아 로비 그룹](https://github.com/theyapapa/cryptonews/blob/ko/russian-lobby-group-to-present-alternative-bill-on-digital-assets-4def584a.md)
 * 2018-09-14 22:09 [Tim dramer는 다음 15 년에서 $80조의 총 암호화 시장 총액을 예언 한다](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years-a571bbcf.md)
 * 2018-09-14 20:09 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 14 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-14-24bb831e.md)
 * 2018-09-14 17:09 [ICO 법률의 최종 초안은 필리핀 핀 테크 부문의 다음 단계를 의미할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector-01d7c723.md)
