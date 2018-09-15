@@ -1,0 +1,1 @@
+[World Economic Forum Outlines Over 65 Blockchain Use Cases for Environmental Protection](https://cointelegraph.com/news/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection)
