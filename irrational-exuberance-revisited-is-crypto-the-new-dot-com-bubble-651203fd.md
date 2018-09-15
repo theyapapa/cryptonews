@@ -1,0 +1,1 @@
+[Irrational Exuberance Revisited: Is Crypto The New Dot-Com Bubble?](https://cointelegraph.com/news/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble)
