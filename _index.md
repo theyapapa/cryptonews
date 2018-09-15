@@ -1,3 +1,4 @@
+* 2018-09-15 12:09 [Los mercados Crypto se recuperan levemente, Ethereum, Tezos vea aumentos más grandes](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains-24dd1bc6.md)
 * 2018-09-15 06:09 [De Kazajstán a Uzbekistán: cómo se regulan los Cryptocurrencies en Asia central](https://github.com/theyapapa/cryptonews/blob/es/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia-62990b58.md)
 * 2018-09-14 22:09 [Grupo de lobby ruso presentará un proyecto de ley alternativo sobre activos digitales](https://github.com/theyapapa/cryptonews/blob/es/russian-lobby-group-to-present-alternative-bill-on-digital-assets-4def584a.md)
 * 2018-09-14 22:09 [Tim Draper predice la capitalización total del mercado Crypto de $80 billones en los próximos 15 años](https://github.com/theyapapa/cryptonews/blob/es/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years-a571bbcf.md)
