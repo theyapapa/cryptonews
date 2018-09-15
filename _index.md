@@ -1,3 +1,4 @@
+* 2018-09-15 12:09 [암호화 시장이 약간 회복,이 더 리 움, tezos는 가장 큰 이득을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains-24dd1bc6.md)
 * 2018-09-15 06:09 [카자흐스탄에서 우즈베키스탄으로: 중앙 아시아에서 가상 화폐가 어떻게 규제 되는가](https://github.com/theyapapa/cryptonews/blob/ko/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia-62990b58.md)
 * 2018-09-14 22:09 [디지털 자산에 대 한 대체 법안 제시 러시아 로비 그룹](https://github.com/theyapapa/cryptonews/blob/ko/russian-lobby-group-to-present-alternative-bill-on-digital-assets-4def584a.md)
 * 2018-09-14 22:09 [Tim dramer는 다음 15 년에서 $80조의 총 암호화 시장 총액을 예언 한다](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years-a571bbcf.md)
