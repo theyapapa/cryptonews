@@ -1,3 +1,4 @@
+* 2018-09-14 20:09 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 14 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-14-24bb831e.md)
 * 2018-09-14 17:09 [ICO 법률의 최종 초안은 필리핀 핀 테크 부문의 다음 단계를 의미할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector-01d7c723.md)
 * 2018-09-14 15:09 [프랑스는 ' 글로벌 혁신을 유치 ' 새로운 ICO 프레임 워크를 마무리](https://github.com/theyapapa/cryptonews/blob/ko/france-finalizes-new-ico-framework-to-attract-innovators-globally-804ea781.md)
 * 2018-09-14 13:09 [cftc의 자: 암호화의 요구는 규제는 초기 인터넷을 준 ' 해를 끼치지 ' 접근](https://github.com/theyapapa/cryptonews/blob/ko/cftc-chair-crypto-needs-do-no-harm-approach-that-regulators-gave-the-early-internet-decbcdd6.md)
