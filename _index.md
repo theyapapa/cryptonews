@@ -1,3 +1,4 @@
+* 2018-09-15 17:09 [Exuberancia irracional Revisited: ¿es Crypto la nueva burbuja dot-com?](https://github.com/theyapapa/cryptonews/blob/es/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble-651203fd.md)
 * 2018-09-15 16:09 [Foro Económico Mundial describe más de 65 casos de uso bloques para la protección del medio ambiente](https://github.com/theyapapa/cryptonews/blob/es/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection-8ea01c2b.md)
 * 2018-09-15 12:09 [Los mercados Crypto se recuperan levemente, Ethereum, Tezos vea aumentos más grandes](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains-24dd1bc6.md)
 * 2018-09-15 06:09 [De Kazajstán a Uzbekistán: cómo se regulan los Cryptocurrencies en Asia central](https://github.com/theyapapa/cryptonews/blob/es/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia-62990b58.md)
