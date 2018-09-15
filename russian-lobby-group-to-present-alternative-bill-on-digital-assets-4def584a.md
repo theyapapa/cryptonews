@@ -1,0 +1,1 @@
+[Russian Lobby Group to Present Alternative Bill on Digital Assets](https://cointelegraph.com/news/russian-lobby-group-to-present-alternative-bill-on-digital-assets)
