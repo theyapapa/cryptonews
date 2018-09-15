@@ -1,3 +1,4 @@
+* 2018-09-15 06:09 [카자흐스탄에서 우즈베키스탄으로: 중앙 아시아에서 가상 화폐가 어떻게 규제 되는가](https://github.com/theyapapa/cryptonews/blob/ko/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia-62990b58.md)
 * 2018-09-14 22:09 [디지털 자산에 대 한 대체 법안 제시 러시아 로비 그룹](https://github.com/theyapapa/cryptonews/blob/ko/russian-lobby-group-to-present-alternative-bill-on-digital-assets-4def584a.md)
 * 2018-09-14 22:09 [Tim dramer는 다음 15 년에서 $80조의 총 암호화 시장 총액을 예언 한다](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years-a571bbcf.md)
 * 2018-09-14 20:09 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 14 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-14-24bb831e.md)
