@@ -1,0 +1,1 @@
+[Korean Mobile Carrier LGU+ Launches Blockchain-Based Overseas Payment System](https://cointelegraph.com/news/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system)
