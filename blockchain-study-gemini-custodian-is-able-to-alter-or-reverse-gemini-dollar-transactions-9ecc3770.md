@@ -1,0 +1,1 @@
+[Blockchain Study: Gemini Custodian is Able to Alter or Reverse Gemini Dollar Transactions](https://cointelegraph.com/news/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions)
