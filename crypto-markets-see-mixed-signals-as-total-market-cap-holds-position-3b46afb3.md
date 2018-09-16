@@ -1,0 +1,1 @@
+[Crypto Markets See Mixed Signals as Total Market Cap Holds Position](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position)
