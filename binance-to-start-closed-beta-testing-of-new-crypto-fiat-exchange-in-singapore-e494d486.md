@@ -1,0 +1,1 @@
+[Binance to Start Closed Beta Testing of New Crypto-Fiat Exchange in Singapore](https://cointelegraph.com/news/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore)
