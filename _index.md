@@ -1,3 +1,4 @@
+* 2018-09-16 08:09 [El portador móvil Coreano LGU + lanza el sistema de pago en ultramar bloques-based](https://github.com/theyapapa/cryptonews/blob/es/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system-772d4db1.md)
 * 2018-09-16 06:09 [Desde Malta a Praga: ¿Cuál es el destino de viajes más fácil de usar?](https://github.com/theyapapa/cryptonews/blob/es/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination-37d964e2.md)
 * 2018-09-15 17:09 [Exuberancia irracional Revisited: ¿es Crypto la nueva burbuja dot-com?](https://github.com/theyapapa/cryptonews/blob/es/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble-651203fd.md)
 * 2018-09-15 16:09 [Foro Económico Mundial describe más de 65 casos de uso bloques para la protección del medio ambiente](https://github.com/theyapapa/cryptonews/blob/es/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection-8ea01c2b.md)
