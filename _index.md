@@ -1,3 +1,4 @@
+* 2018-09-16 17:09 [암호화 시장 전체 시장 총액은 위치를 보유로 혼합 신호를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position-3b46afb3.md)
 * 2018-09-16 16:09 [싱가포르에서 새로운 암호화 피아트 교환의 베타 테스트를 폐쇄 시작 하는 binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore-e494d486.md)
 * 2018-09-16 13:09 [블록 체인 연구: 제미니 후견인은 제미니 달러 거래를 변경 하거나 되돌릴 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions-9ecc3770.md)
 * 2018-09-16 11:09 [hodler의 다이제스트, 9 월 9-16: SEC는 암호화 단속을 좋아할 반면, 미국 법원의 판결은 cryptos를 증권으로 표시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-september-9-16-sec-heightens-crypto-crackdown-while-us-court-ruling-marks-cryptos-as-securities-a6d84d59.md)
