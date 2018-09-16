@@ -1,3 +1,4 @@
+* 2018-09-16 16:09 [싱가포르에서 새로운 암호화 피아트 교환의 베타 테스트를 폐쇄 시작 하는 binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore-e494d486.md)
 * 2018-09-16 13:09 [블록 체인 연구: 제미니 후견인은 제미니 달러 거래를 변경 하거나 되돌릴 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions-9ecc3770.md)
 * 2018-09-16 11:09 [hodler의 다이제스트, 9 월 9-16: SEC는 암호화 단속을 좋아할 반면, 미국 법원의 판결은 cryptos를 증권으로 표시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-september-9-16-sec-heightens-crypto-crackdown-while-us-court-ruling-marks-cryptos-as-securities-a6d84d59.md)
 * 2018-09-16 08:09 [한국 이동 통신사 lgu + 블록 체인 기반의 해외 결제 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system-772d4db1.md)
