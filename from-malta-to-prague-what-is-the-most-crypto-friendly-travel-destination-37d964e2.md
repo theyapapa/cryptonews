@@ -1,0 +1,1 @@
+[From Malta to Prague: What Is the Most Crypto-Friendly Travel Destination?](https://cointelegraph.com/news/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination)
