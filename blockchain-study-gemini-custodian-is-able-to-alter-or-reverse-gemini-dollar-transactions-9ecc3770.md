@@ -1,0 +1,19 @@
+# 블록 체인 연구: 쌍둥이 자리 후견인 변경 하거나 제미니 달러 거래를 되돌릴 수 있습니다 ...
+
+최근에 출시 된 쌍둥이 자리 달러 (gusd)의 구현은 모든 48 시간, 블록 체인 연구원 알렉스 lebed 및 암호화 컨설턴트 alexey akhunov에 의해 작성 된 연구에 따르면, 쌍둥이 자리 후견인에 의해 완전히 변경 될 수 있습니다 매체에 게시 9 월 11 일.
+
+연구에서, 저자는 제미니 달러의 구현은 어느 순간에 비 양도 또는 냉동 될 수 있다는 것을 보여주기 위해 gusd의 스마트 계약의 코드를 검토,이는 쌍둥이 자리의 흰 종이에 기록 됩니다.
+
+일시 중지, 차단 또는 gusd 전송을 반전의 옵션은 화이트 페이퍼에 따르면, 타일러와 카 메 론 winklevoss에 의해 도입 된 새로운 중앙 집중식 st지 코인의 기본 기술 원칙 중 하나입니다.
+
+제미니 달러 백서는 gusd 블록 체인 설계의 다른 세 가지 주요 원칙과 함께이 기능에 대해 설명 하 고 예기치 않은 상황의 경우 토큰 전송을 관리할 수 있는 능력에 대 한 필요성을 인용 합니다: "\ [제미니 수 \] 일시 중지, 차단 또는 역방향 토큰 보안 사고 (예: 치명적인 이벤트)에 대 한 응답으로 전송 됩니다. "
+
+특히, 연구의 저자는 제 미 달러의 스마트 계약을 검토,이 더 리 움 (ETH) 블록 체인에 ERC20 토큰으로 구현, 사용자가 그 기능을 "독립적으로" 감지 할 수 있는 방법을 보여주기 위해.
+
+뉴욕 금융 서비스 (nydfs)의 승인을 받은 후, winklevoss 형제는 9 월 10 일 월요일에 새로운 중앙 안정화 제 제미니 달러를 출시 했습니다.
+
+제미니 달러는 winklevoss 쌍둥이의 첫 번째 암호화 관련 자산을 나타내며, 이전에는 7 월에 비트 코인 (BTC) 거래소 거래 펀드 (ETF)를 출시 하기 위해 레 귤 레이 터 로부터 두 번째 거부를 받았습니다.
+
+Original source: [Blockchain Study: Gemini Custodian is Able to Alter or Reverse Gemini Dollar Transactions](https://cointelegraph.com/news/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
