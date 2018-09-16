@@ -1,3 +1,4 @@
+* 2018-09-16 08:09 [한국 이동 통신사 lgu + 블록 체인 기반의 해외 결제 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system-772d4db1.md)
 * 2018-09-16 06:09 [몰타에서 프라하로: 가장 암호화 하기 쉬운 여행 목적지는 무엇 인가요?](https://github.com/theyapapa/cryptonews/blob/ko/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination-37d964e2.md)
 * 2018-09-15 17:09 [비이 성적인 충 분 재검토: 암호는 새로운 닷컴 버블 인가?](https://github.com/theyapapa/cryptonews/blob/ko/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble-651203fd.md)
 * 2018-09-15 16:09 [세계 경제 포럼은 환경 보호를 위한 65 블록 체인 사용 사례를 통해 설명](https://github.com/theyapapa/cryptonews/blob/ko/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection-8ea01c2b.md)
