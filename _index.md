@@ -1,3 +1,4 @@
+* 2018-09-17 12:09 [Задняя часть сети: в секторе футбола стоит большая победа](https://github.com/theyapapa/cryptonews/blob/ru/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector-e69b2813.md)
 * 2018-09-17 12:09 [BBVA: «идеально», но часто используется для незаконной деятельности](https://github.com/theyapapa/cryptonews/blob/ru/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities-a11f6be3.md)
 * 2018-09-17 09:09 [Пульсации в сарбхаи: Регуляторы больше не принимают "цепочки хорошо, крипто плохо" подход](https://github.com/theyapapa/cryptonews/blob/ru/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach-0f8e8fb9.md)
 * 2018-09-17 08:09 [Бывший инженер SpaceX цели потребительские торговцы с его лксдкс крипто обмен](https://github.com/theyapapa/cryptonews/blob/ru/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange-26a6d167.md)
