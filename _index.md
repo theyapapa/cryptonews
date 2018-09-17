@@ -1,3 +1,4 @@
+* 2018-09-17 09:09 [리플의 sarbhai: 레 귤 레이 터는 더 이상 "블록 체인의 좋은 암호화 나쁜" 접근법을 취하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach-0f8e8fb9.md)
 * 2018-09-17 08:09 [전 우주 전 엔지니어가 자신의 lxdx 암호화 교환을 통해 소비자 거래자를 대상으로 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange-26a6d167.md)
 * 2018-09-17 06:09 [cryptojacking에 대 한 주요 목표 중 인도 정부 사이트, 연구 쇼](https://github.com/theyapapa/cryptonews/blob/ko/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows-73bffb31.md)
 * 2018-09-16 17:09 [암호화 시장 전체 시장 총액은 위치를 보유로 혼합 신호를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position-3b46afb3.md)
