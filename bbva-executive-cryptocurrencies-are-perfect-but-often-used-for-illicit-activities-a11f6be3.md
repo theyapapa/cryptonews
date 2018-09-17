@@ -1,0 +1,1 @@
+[BBVA Executive: Cryptocurrencies Are ‘Perfect,’ But Often Used for Illicit Activities](https://cointelegraph.com/news/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities)
