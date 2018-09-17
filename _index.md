@@ -1,3 +1,4 @@
+* 2018-09-17 12:09 [bbva 임원: 가상 화폐는 ' 완벽 한 ' 이지만 불법 행위에 자주 사용 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities-a11f6be3.md)
 * 2018-09-17 09:09 [리플의 sarbhai: 레 귤 레이 터는 더 이상 "블록 체인의 좋은 암호화 나쁜" 접근법을 취하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach-0f8e8fb9.md)
 * 2018-09-17 08:09 [전 우주 전 엔지니어가 자신의 lxdx 암호화 교환을 통해 소비자 거래자를 대상으로 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange-26a6d167.md)
 * 2018-09-17 06:09 [cryptojacking에 대 한 주요 목표 중 인도 정부 사이트, 연구 쇼](https://github.com/theyapapa/cryptonews/blob/ko/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows-73bffb31.md)
