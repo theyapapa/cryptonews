@@ -1,0 +1,1 @@
+[Spanish Autonomous Community of Aragon to Become First in Country to Apply Blockchain](https://cointelegraph.com/news/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain)
