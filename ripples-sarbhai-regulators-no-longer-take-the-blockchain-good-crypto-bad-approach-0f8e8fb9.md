@@ -1,0 +1,1 @@
+[Ripple's Sarbhai: Regulators No Longer Take the "Blockchain Good, Crypto Bad" Approach](https://cointelegraph.com/news/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach)
