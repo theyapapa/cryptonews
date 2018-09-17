@@ -1,3 +1,4 @@
+* 2018-09-17 14:09 [엘 론 머 스크는도 지 코인 크리에이터에 게 트위터에서 암호화 사기 봇을 퇴치 하도록 요청 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/elon-musk-asks-dogecoin-creator-to-help-fight-crypto-scam-bots-on-twitter-4368a255.md)
 * 2018-09-17 12:09 [그물의 뒤: 암호 화폐는 축구 분야에서 큰 승리를 의미 합니다](https://github.com/theyapapa/cryptonews/blob/ko/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector-e69b2813.md)
 * 2018-09-17 12:09 [bbva 임원: 가상 화폐는 ' 완벽 한 ' 이지만 불법 행위에 자주 사용 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities-a11f6be3.md)
 * 2018-09-17 09:09 [리플의 sarbhai: 레 귤 레이 터는 더 이상 "블록 체인의 좋은 암호화 나쁜" 접근법을 취하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach-0f8e8fb9.md)
