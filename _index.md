@@ -1,3 +1,4 @@
+* 2018-09-17 18:09 [Испанское автономное сообщество Арагон, чтобы стать первым в стране, чтобы применить цепочки](https://github.com/theyapapa/cryptonews/blob/ru/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain-e96becd9.md)
 * 2018-09-17 14:09 [Элон мускус просит дожекоин Творца, чтобы помочь бороться крипто афера ботов на Twitter](https://github.com/theyapapa/cryptonews/blob/ru/elon-musk-asks-dogecoin-creator-to-help-fight-crypto-scam-bots-on-twitter-4368a255.md)
 * 2018-09-17 12:09 [Задняя часть сети: в секторе футбола стоит большая победа](https://github.com/theyapapa/cryptonews/blob/ru/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector-e69b2813.md)
 * 2018-09-17 12:09 [BBVA: «идеально», но часто используется для незаконной деятельности](https://github.com/theyapapa/cryptonews/blob/ru/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities-a11f6be3.md)
