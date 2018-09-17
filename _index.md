@@ -1,3 +1,4 @@
+* 2018-09-17 18:09 [aragon의 스페인 자치 지역 사회는 블록 체인을 적용 하기 위하여 국가에서 첫째로 되기 위하여](https://github.com/theyapapa/cryptonews/blob/ko/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain-e96becd9.md)
 * 2018-09-17 14:09 [엘 론 머 스크는도 지 코인 크리에이터에 게 트위터에서 암호화 사기 봇을 퇴치 하도록 요청 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/elon-musk-asks-dogecoin-creator-to-help-fight-crypto-scam-bots-on-twitter-4368a255.md)
 * 2018-09-17 12:09 [그물의 뒤: 암호 화폐는 축구 분야에서 큰 승리를 의미 합니다](https://github.com/theyapapa/cryptonews/blob/ko/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector-e69b2813.md)
 * 2018-09-17 12:09 [bbva 임원: 가상 화폐는 ' 완벽 한 ' 이지만 불법 행위에 자주 사용 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities-a11f6be3.md)
