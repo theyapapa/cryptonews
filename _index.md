@@ -1,3 +1,4 @@
+* 2018-09-17 08:09 [전 우주 전 엔지니어가 자신의 lxdx 암호화 교환을 통해 소비자 거래자를 대상으로 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange-26a6d167.md)
 * 2018-09-17 06:09 [cryptojacking에 대 한 주요 목표 중 인도 정부 사이트, 연구 쇼](https://github.com/theyapapa/cryptonews/blob/ko/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows-73bffb31.md)
 * 2018-09-16 17:09 [암호화 시장 전체 시장 총액은 위치를 보유로 혼합 신호를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position-3b46afb3.md)
 * 2018-09-16 16:09 [싱가포르에서 새로운 암호화 피아트 교환의 베타 테스트를 폐쇄 시작 하는 binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore-e494d486.md)
