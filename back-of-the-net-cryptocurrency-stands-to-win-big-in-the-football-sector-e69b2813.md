@@ -1,0 +1,1 @@
+[Back of the Net: Cryptocurrency Stands to Win Big in the Football Sector](https://cointelegraph.com/news/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector)
