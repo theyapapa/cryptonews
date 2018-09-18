@@ -1,3 +1,4 @@
+* 2018-09-18 18:09 [뉴욕 법무 장관 보고서는 암호화 교환이 조작의 위험에 처 해 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation-2de4a3b6.md)
 * 2018-09-18 15:09 [영국 Gov't 영국 블록 체인 업계의 암호화 베어 시장의 영향에 대 한 질문에 직면](https://github.com/theyapapa/cryptonews/blob/ko/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry-33789fc0.md)
 * 2018-09-18 13:09 [사후 종말에 대 한 "생명 증명" 오프 그리드 암호화 트랜잭션을 완료 하는 개발자](https://github.com/theyapapa/cryptonews/blob/ko/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse-510b7432.md)
 * 2018-09-18 08:09 [중국의 중앙 은행은 투자자에 게 ICO, 암호화 위험을 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/chinas-central-bank-warns-investors-of-ico-crypto-risks-9d934b6a.md)
