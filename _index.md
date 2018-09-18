@@ -1,3 +1,4 @@
+* 2018-09-18 15:09 [영국 Gov't 영국 블록 체인 업계의 암호화 베어 시장의 영향에 대 한 질문에 직면](https://github.com/theyapapa/cryptonews/blob/ko/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry-33789fc0.md)
 * 2018-09-18 13:09 [사후 종말에 대 한 "생명 증명" 오프 그리드 암호화 트랜잭션을 완료 하는 개발자](https://github.com/theyapapa/cryptonews/blob/ko/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse-510b7432.md)
 * 2018-09-18 08:09 [중국의 중앙 은행은 투자자에 게 ICO, 암호화 위험을 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/chinas-central-bank-warns-investors-of-ico-crypto-risks-9d934b6a.md)
 * 2018-09-18 08:09 [SEC의 수석 회계사: 디지털 자산을 가진 기업은 여전히 순서 대로 자신의 책을 계속 해야](https://github.com/theyapapa/cryptonews/blob/ko/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order-0c917964.md)
