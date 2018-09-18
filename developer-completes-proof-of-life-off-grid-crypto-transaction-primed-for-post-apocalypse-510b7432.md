@@ -1,0 +1,1 @@
+[Developer Completes "Proof-of-Life" Off-Grid Crypto Transaction Primed for Post-Apocalypse](https://cointelegraph.com/news/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse)
