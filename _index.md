@@ -1,3 +1,4 @@
+* 2018-09-18 13:09 [Разработчик завершает "доказательство-оф-жизнь" офф-ГРИД крипто транзакции загрунтовать для пост-апокалипсиса](https://github.com/theyapapa/cryptonews/blob/ru/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse-510b7432.md)
 * 2018-09-18 08:09 [Центральный банк Китая предупреждает инвесторов о ICO, Crypto риски](https://github.com/theyapapa/cryptonews/blob/ru/chinas-central-bank-warns-investors-of-ico-crypto-risks-9d934b6a.md)
 * 2018-09-18 08:09 [Главный бухгалтер sec: фирмам с цифровыми активами все еще нужно держать их книги в заказе](https://github.com/theyapapa/cryptonews/blob/ru/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order-0c917964.md)
 * 2018-09-17 23:09 [Украинский парламент предлагает налоговые счета для цифровых валют](https://github.com/theyapapa/cryptonews/blob/ru/ukrainian-parliament-proposes-tax-bill-for-digital-currencies-3f8e9789.md)
