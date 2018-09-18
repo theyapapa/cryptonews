@@ -1,3 +1,4 @@
+* 2018-09-18 13:09 [사후 종말에 대 한 "생명 증명" 오프 그리드 암호화 트랜잭션을 완료 하는 개발자](https://github.com/theyapapa/cryptonews/blob/ko/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse-510b7432.md)
 * 2018-09-18 08:09 [중국의 중앙 은행은 투자자에 게 ICO, 암호화 위험을 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/chinas-central-bank-warns-investors-of-ico-crypto-risks-9d934b6a.md)
 * 2018-09-18 08:09 [SEC의 수석 회계사: 디지털 자산을 가진 기업은 여전히 순서 대로 자신의 책을 계속 해야](https://github.com/theyapapa/cryptonews/blob/ko/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order-0c917964.md)
 * 2018-09-17 23:09 [우크라이나 의회는 디지털 통화에 대 한 세금 계산 서를 제안](https://github.com/theyapapa/cryptonews/blob/ko/ukrainian-parliament-proposes-tax-bill-for-digital-currencies-3f8e9789.md)
