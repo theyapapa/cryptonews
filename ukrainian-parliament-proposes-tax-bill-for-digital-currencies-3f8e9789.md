@@ -1,0 +1,1 @@
+[Ukrainian Parliament Proposes Tax Bill for Digital Currencies](https://cointelegraph.com/news/ukrainian-parliament-proposes-tax-bill-for-digital-currencies)
