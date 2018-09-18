@@ -1,0 +1,1 @@
+[China's Central Bank Warns Investors of ICO, Crypto Risks](https://cointelegraph.com/news/chinas-central-bank-warns-investors-of-ico-crypto-risks)
