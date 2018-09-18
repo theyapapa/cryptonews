@@ -1,0 +1,1 @@
+[UK Gov’t Faces Questions Over Impact of Crypto Bear Market on UK Blockchain Industry](https://cointelegraph.com/news/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry)
