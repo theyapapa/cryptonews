@@ -1,0 +1,1 @@
+[SEC's Chief Accountant: Firms With Digital Assets Still Need to Keep Their Books in Order](https://cointelegraph.com/news/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order)
