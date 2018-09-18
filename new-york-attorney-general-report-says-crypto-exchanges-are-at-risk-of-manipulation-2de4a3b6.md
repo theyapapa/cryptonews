@@ -1,0 +1,1 @@
+[New York Attorney General Report Says Crypto Exchanges are at Risk of Manipulation](https://cointelegraph.com/news/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation)
