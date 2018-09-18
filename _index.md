@@ -1,3 +1,4 @@
+* 2018-09-17 21:09 [다음 달에는 리플이 xrapid 솔루션을 실행할 수 있다 ' 라고 Exec](https://github.com/theyapapa/cryptonews/blob/ko/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec-68239b31.md)
 * 2018-09-17 19:09 [미국 국립 표준 연구소는 곧 포럼에서 블록 체인을 해결 하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/american-national-standards-institute-to-address-blockchain-at-upcoming-forum-a3891cab.md)
 * 2018-09-17 18:09 [aragon의 스페인 자치 지역 사회는 블록 체인을 적용 하기 위하여 국가에서 첫째로 되기 위하여](https://github.com/theyapapa/cryptonews/blob/ko/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain-e96becd9.md)
 * 2018-09-17 14:09 [엘 론 머 스크는도 지 코인 크리에이터에 게 트위터에서 암호화 사기 봇을 퇴치 하도록 요청 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/elon-musk-asks-dogecoin-creator-to-help-fight-crypto-scam-bots-on-twitter-4368a255.md)
