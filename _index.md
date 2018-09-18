@@ -1,3 +1,4 @@
+* 2018-09-17 21:09 [Ripple podría lanzar xRapid solución ' en el próximo mes o así, ' dice exec](https://github.com/theyapapa/cryptonews/blob/es/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec-68239b31.md)
 * 2018-09-17 19:09 [American National Standards Institute se dirigirá a bloques en el próximo Foro](https://github.com/theyapapa/cryptonews/blob/es/american-national-standards-institute-to-address-blockchain-at-upcoming-forum-a3891cab.md)
 * 2018-09-17 18:09 [Comunidad autónoma española de Aragón se convertirá primero en país en aplicar bloques](https://github.com/theyapapa/cryptonews/blob/es/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain-e96becd9.md)
 * 2018-09-17 14:09 [Elon almizcle pide Dogecoin creador para ayudar a luchar contra bots de estafa Crypto en Twitter](https://github.com/theyapapa/cryptonews/blob/es/elon-musk-asks-dogecoin-creator-to-help-fight-crypto-scam-bots-on-twitter-4368a255.md)
