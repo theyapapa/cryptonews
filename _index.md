@@ -1,3 +1,4 @@
+* 2018-09-18 08:09 [El Banco Central de China advierte a los inversores del ICO, los riesgos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/chinas-central-bank-warns-investors-of-ico-crypto-risks-9d934b6a.md)
 * 2018-09-18 08:09 [Contador jefe de la SEC: las firmas con activos digitales todavía necesitan mantener sus libros en orden](https://github.com/theyapapa/cryptonews/blob/es/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order-0c917964.md)
 * 2018-09-17 23:09 [El Parlamento ucraniano propone una cuenta de impuestos para monedas digitales](https://github.com/theyapapa/cryptonews/blob/es/ukrainian-parliament-proposes-tax-bill-for-digital-currencies-3f8e9789.md)
 * 2018-09-17 21:09 [Ripple podría lanzar xRapid solución ' en el próximo mes o así, ' dice exec](https://github.com/theyapapa/cryptonews/blob/es/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec-68239b31.md)
