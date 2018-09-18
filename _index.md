@@ -1,3 +1,4 @@
+* 2018-09-17 23:09 [Украинский парламент предлагает налоговые счета для цифровых валют](https://github.com/theyapapa/cryptonews/blob/ru/ukrainian-parliament-proposes-tax-bill-for-digital-currencies-3f8e9789.md)
 * 2018-09-17 21:09 [Рябь может запустить ксрапид решение "в следующем месяце или около того, говорит Exec](https://github.com/theyapapa/cryptonews/blob/ru/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec-68239b31.md)
 * 2018-09-17 19:09 [Американский Национальный институт по стандартизации выступить в цепочке на предстоящем форуме](https://github.com/theyapapa/cryptonews/blob/ru/american-national-standards-institute-to-address-blockchain-at-upcoming-forum-a3891cab.md)
 * 2018-09-17 18:09 [Испанское автономное сообщество Арагон, чтобы стать первым в стране, чтобы применить цепочки](https://github.com/theyapapa/cryptonews/blob/ru/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain-e96becd9.md)
