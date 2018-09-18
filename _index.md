@@ -1,3 +1,4 @@
+* 2018-09-17 23:09 [우크라이나 의회는 디지털 통화에 대 한 세금 계산 서를 제안](https://github.com/theyapapa/cryptonews/blob/ko/ukrainian-parliament-proposes-tax-bill-for-digital-currencies-3f8e9789.md)
 * 2018-09-17 21:09 [다음 달에는 리플이 xrapid 솔루션을 실행할 수 있다 ' 라고 Exec](https://github.com/theyapapa/cryptonews/blob/ko/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec-68239b31.md)
 * 2018-09-17 19:09 [미국 국립 표준 연구소는 곧 포럼에서 블록 체인을 해결 하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/american-national-standards-institute-to-address-blockchain-at-upcoming-forum-a3891cab.md)
 * 2018-09-17 18:09 [aragon의 스페인 자치 지역 사회는 블록 체인을 적용 하기 위하여 국가에서 첫째로 되기 위하여](https://github.com/theyapapa/cryptonews/blob/ko/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain-e96becd9.md)
