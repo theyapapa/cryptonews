@@ -1,0 +1,1 @@
+[Ripple Could Launch xRapid Solution ‘In the Next Month or So,’ Says Exec](https://cointelegraph.com/news/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec)
