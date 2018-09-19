@@ -1,0 +1,1 @@
+[Coinbase Hires Former Fannie Mae Exec as New Chief Legal Officer](https://cointelegraph.com/news/coinbase-hires-former-fannie-mae-exec-as-new-chief-legal-officer)
