@@ -1,0 +1,1 @@
+[Startup Launches Blockchain Powered Electric Vehicles That Mine Cryptocurrency](https://cointelegraph.com/news/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency)
