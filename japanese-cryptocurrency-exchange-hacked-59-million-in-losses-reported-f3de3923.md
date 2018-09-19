@@ -1,0 +1,1 @@
+[Japanese Cryptocurrency Exchange Hacked, $59 Million in Losses Reported](https://cointelegraph.com/news/japanese-cryptocurrency-exchange-hacked-59-million-in-losses-reported)
