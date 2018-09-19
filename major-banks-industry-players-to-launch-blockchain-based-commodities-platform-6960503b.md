@@ -1,0 +1,1 @@
+[Major Banks, Industry Players to Launch Blockchain-Based Commodities Platform](https://cointelegraph.com/news/major-banks-industry-players-to-launch-blockchain-based-commodities-platform)
