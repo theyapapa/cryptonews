@@ -1,3 +1,4 @@
+* 2018-09-19 00:09 [마이그레이션 정책의 DLT: 블록 체인이 난민 및 호스트 국가를 모두 도울 수 있는 방법](https://github.com/theyapapa/cryptonews/blob/ko/dlt-in-migration-policy-how-blockchain-can-help-both-refugees-and-host-nations-6ce537b3.md)
 * 2018-09-19 00:09 [독일 금융 장관 의혹 암호화는 현재 전통적인 통화를 대체 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies-40f6ea75.md)
 * 2018-09-18 22:09 [영국 재무 위원회는 암호화 시장에서 ' 와일드 웨스트 상황 '에 대 한 최종 호출](https://github.com/theyapapa/cryptonews/blob/ko/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market-c059aa54.md)
 * 2018-09-18 20:09 [보고서: 투자 지갑에 저장 된 대부분의 순환 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/report-majority-of-circulating-bitcoins-stored-in-investment-wallets-353f65ad.md)
