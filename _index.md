@@ -1,3 +1,4 @@
+* 2018-09-19 19:09 [Coinbase нанимает бывшего Фанни Мэй Exec в качестве нового главного сотрудника по правовым вопросам](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-hires-former-fannie-mae-exec-as-new-chief-legal-officer-b5f0ec43.md)
 * 2018-09-19 17:09 [Японская валютная биржа взломали, $59 000 000 в убытках сообщили](https://github.com/theyapapa/cryptonews/blob/ru/japanese-cryptocurrency-exchange-hacked-59-million-in-losses-reported-f3de3923.md)
 * 2018-09-19 15:09 [Европол: биткойн остается первым выбором для киберпреступников, но АЗЦ, ориентированный на конфиденциальность, будет расти](https://github.com/theyapapa/cryptonews/blob/ru/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise-25fbf455.md)
 * 2018-09-19 13:09 [Лето заканчивается: Ethereum-20 будет проходить управление в КПЧ-777?](https://github.com/theyapapa/cryptonews/blob/ru/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777-c625c780.md)
