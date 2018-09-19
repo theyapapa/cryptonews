@@ -1,3 +1,4 @@
+* 2018-09-19 13:09 [여름이 끝나는 것입니다:에 테 리 움의 erc-20은 erc-777에 거 버 넌 스를 통과?](https://github.com/theyapapa/cryptonews/blob/ko/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777-c625c780.md)
 * 2018-09-19 11:09 [스타트업은 암호 화폐를 채굴 하는 블록 체인 구동 전기 차량을 출시 합니다](https://github.com/theyapapa/cryptonews/blob/ko/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency-ee93ad67.md)
 * 2018-09-19 09:09 [블록 체인 기반 상품 플랫폼을 시작 하는 주요 은행, 업계 플레이어](https://github.com/theyapapa/cryptonews/blob/ko/major-banks-industry-players-to-launch-blockchain-based-commodities-platform-6960503b.md)
 * 2018-09-19 05:09 [다음 달 싱가포르 기반 암호화 교환을 열기 위한 upbit 암호화 교환 연산자](https://github.com/theyapapa/cryptonews/blob/ko/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month-0ff0ef68.md)
