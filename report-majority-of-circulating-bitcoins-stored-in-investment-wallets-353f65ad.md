@@ -1,0 +1,1 @@
+[Report: Majority of Circulating Bitcoins Stored in Investment Wallets](https://cointelegraph.com/news/report-majority-of-circulating-bitcoins-stored-in-investment-wallets)
