@@ -1,0 +1,1 @@
+[UK Treasury Committee Calls for End to ‘Wild West Situation’ in Crypto Market](https://cointelegraph.com/news/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market)
