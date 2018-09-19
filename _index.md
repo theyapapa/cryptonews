@@ -1,3 +1,4 @@
+* 2018-09-19 15:09 [europol: 비트 코인은 사이버 범죄자의 첫 번째 선택으로 남아 있지만 개인 정보 보호에 초점을 맞춘 alts가 증가할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise-25fbf455.md)
 * 2018-09-19 13:09 [여름이 끝나는 것입니다:에 테 리 움의 erc-20은 erc-777에 거 버 넌 스를 통과?](https://github.com/theyapapa/cryptonews/blob/ko/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777-c625c780.md)
 * 2018-09-19 11:09 [스타트업은 암호 화폐를 채굴 하는 블록 체인 구동 전기 차량을 출시 합니다](https://github.com/theyapapa/cryptonews/blob/ko/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency-ee93ad67.md)
 * 2018-09-19 09:09 [블록 체인 기반 상품 플랫폼을 시작 하는 주요 은행, 업계 플레이어](https://github.com/theyapapa/cryptonews/blob/ko/major-banks-industry-players-to-launch-blockchain-based-commodities-platform-6960503b.md)
