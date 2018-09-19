@@ -1,3 +1,4 @@
+* 2018-09-18 22:09 [영국 재무 위원회는 암호화 시장에서 ' 와일드 웨스트 상황 '에 대 한 최종 호출](https://github.com/theyapapa/cryptonews/blob/ko/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market-c059aa54.md)
 * 2018-09-18 20:09 [보고서: 투자 지갑에 저장 된 대부분의 순환 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/report-majority-of-circulating-bitcoins-stored-in-investment-wallets-353f65ad.md)
 * 2018-09-18 18:09 [뉴욕 법무 장관 보고서는 암호화 교환이 조작의 위험에 처 해 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation-2de4a3b6.md)
 * 2018-09-18 15:09 [영국 Gov't 영국 블록 체인 업계의 암호화 베어 시장의 영향에 대 한 질문에 직면](https://github.com/theyapapa/cryptonews/blob/ko/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry-33789fc0.md)
