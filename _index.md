@@ -1,3 +1,4 @@
+* 2018-09-19 13:09 [Лето заканчивается: Ethereum-20 будет проходить управление в КПЧ-777?](https://github.com/theyapapa/cryptonews/blob/ru/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777-c625c780.md)
 * 2018-09-19 11:09 [Запуск запускает цепочки Powered электрические транспортные средства, которые шахты](https://github.com/theyapapa/cryptonews/blob/ru/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency-ee93ad67.md)
 * 2018-09-19 09:09 [Крупнейшие банки, игроки отрасли для запуска на основе цепочки сырьевых платформ](https://github.com/theyapapa/cryptonews/blob/ru/major-banks-industry-players-to-launch-blockchain-based-commodities-platform-6960503b.md)
 * 2018-09-19 05:09 [Упбит Crypto Exchange оператор, чтобы открыть Сингапур основе Crypto Exchange в следующем месяце](https://github.com/theyapapa/cryptonews/blob/ru/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month-0ff0ef68.md)
