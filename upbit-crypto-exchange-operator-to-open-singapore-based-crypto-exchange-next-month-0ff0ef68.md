@@ -1,0 +1,1 @@
+[Upbit Crypto Exchange Operator to Open Singapore-Based Crypto Exchange Next Month](https://cointelegraph.com/news/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month)
