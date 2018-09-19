@@ -1,0 +1,1 @@
+[German Finance Minister Doubts Crypto Can Currently Replace Traditional Currencies](https://cointelegraph.com/news/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies)
