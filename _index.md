@@ -1,3 +1,4 @@
+* 2018-09-19 09:09 [블록 체인 기반 상품 플랫폼을 시작 하는 주요 은행, 업계 플레이어](https://github.com/theyapapa/cryptonews/blob/ko/major-banks-industry-players-to-launch-blockchain-based-commodities-platform-6960503b.md)
 * 2018-09-19 05:09 [다음 달 싱가포르 기반 암호화 교환을 열기 위한 upbit 암호화 교환 연산자](https://github.com/theyapapa/cryptonews/blob/ko/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month-0ff0ef68.md)
 * 2018-09-19 00:09 [마이그레이션 정책의 DLT: 블록 체인이 난민 및 호스트 국가를 모두 도울 수 있는 방법](https://github.com/theyapapa/cryptonews/blob/ko/dlt-in-migration-policy-how-blockchain-can-help-both-refugees-and-host-nations-6ce537b3.md)
 * 2018-09-19 00:09 [독일 금융 장관 의혹 암호화는 현재 전통적인 통화를 대체 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies-40f6ea75.md)
