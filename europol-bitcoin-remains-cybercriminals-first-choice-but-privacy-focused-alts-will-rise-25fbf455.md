@@ -1,0 +1,1 @@
+[Europol: Bitcoin Remains Cybercriminals’ First Choice, But Privacy-Focused Alts Will Rise](https://cointelegraph.com/news/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise)
