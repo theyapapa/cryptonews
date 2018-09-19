@@ -1,0 +1,1 @@
+[DLT in Migration Policy: How Blockchain Can Help Both Refugees and Host Nations](https://cointelegraph.com/news/dlt-in-migration-policy-how-blockchain-can-help-both-refugees-and-host-nations)
