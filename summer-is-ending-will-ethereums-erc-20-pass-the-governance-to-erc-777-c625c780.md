@@ -1,0 +1,1 @@
+[Summer Is Ending: Will Ethereum’s ERC-20 Pass the Governance to ERC-777?](https://cointelegraph.com/news/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777)
