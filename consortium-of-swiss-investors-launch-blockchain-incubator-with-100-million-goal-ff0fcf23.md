@@ -1,0 +1,1 @@
+[Consortium of Swiss Investors Launch Blockchain Incubator with $100 Million Goal](https://cointelegraph.com/news/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal)
