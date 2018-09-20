@@ -1,0 +1,1 @@
+[Can Crypto Record a 1,000x Return and Reach $200 Trillion Market Cap?](https://cointelegraph.com/news/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap)
