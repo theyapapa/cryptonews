@@ -1,0 +1,1 @@
+[EU Antitrust Regulators to Rule on Microsoft Acquisition of GitHub by Mid-October](https://cointelegraph.com/news/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october)
