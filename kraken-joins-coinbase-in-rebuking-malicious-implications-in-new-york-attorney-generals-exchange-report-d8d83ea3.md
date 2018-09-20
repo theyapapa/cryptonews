@@ -1,0 +1,1 @@
+[Kraken Joins Coinbase in Rebuking ‘Malicious’ Implications in New York Attorney General’s Exchange Report](https://cointelegraph.com/news/kraken-joins-coinbase-in-rebuking-malicious-implications-in-new-york-attorney-generals-exchange-report)
