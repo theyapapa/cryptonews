@@ -1,3 +1,4 @@
+* 2018-09-19 22:09 [비트 코인 코어 업데이트 수정 취약점 보도 $8만에 대 한 네트워크 충돌 수](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-core-update-fixes-vulnerability-that-reportedly-could-crash-network-for-80-000-5b9c1ac9.md)
 * 2018-09-19 20:09 [10 월 중순까지 마이크로 소프트의 GitHub 인수를 지배 하는 EU 반독점 규제](https://github.com/theyapapa/cryptonews/blob/ko/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october-53f945b5.md)
 * 2018-09-19 19:09 [coinbase는 새로운 최고 법률 책임자로 전직 패 니 매이 간부를 고용](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-hires-former-fannie-mae-exec-as-new-chief-legal-officer-b5f0ec43.md)
 * 2018-09-19 17:09 [일본 암호 화폐 거래소 해킹, $5900만 보고 된 손실](https://github.com/theyapapa/cryptonews/blob/ko/japanese-cryptocurrency-exchange-hacked-59-million-in-losses-reported-f3de3923.md)
