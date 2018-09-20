@@ -1,0 +1,1 @@
+[Ripple Soars as Wider Crypto Markets See Flush of Green](https://cointelegraph.com/news/ripple-soars-as-wider-crypto-markets-see-flush-of-green)
