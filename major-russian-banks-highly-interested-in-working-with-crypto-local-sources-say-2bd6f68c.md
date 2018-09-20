@@ -1,0 +1,1 @@
+[Major Russian Banks Highly Interested in ‘Working With Crypto,’ Local Sources Say](https://cointelegraph.com/news/major-russian-banks-highly-interested-in-working-with-crypto-local-sources-say)
