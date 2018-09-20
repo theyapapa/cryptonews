@@ -1,0 +1,19 @@
+# 폴란드의 최고 은행은 ' 일 ' 이내에 문서 관리를 위한 블록 체인 플랫폼을 시작 합니다 ...
+
+폴란드 최대 규모의 은행은 영국을 기반으로 하는 copoll과의 파트너십을 통해 고객 문서에 대 한 블록 체인 솔루션을 출시 할 예정 이다 "그 날에는" 보도 자료 목요일, 9 월 20 일에서 확인 된 당사자.
+
+드라이브의 일부는 고객 데이터의 보안을 강화 하기 위해, pko 은행 polski는 일부 500만 계정 보유자에 블록 체인 발행 서류를 제공 하기 위해 coinform의 trudatum를 사용 합니다.
+
+"블록 체인 폴란드 은행 부문의 경쟁력을 높일 수 있는 거 대 한 잠재력을 제공 하 고," 오전 marciniak, 은행의 관리 위원회의 부사장은 논평 했다.
+
+이 이동은 폴란드 은행 업계에서 눈에 띄는 데,이는 국가에서 가상 화폐 사업이 기관 으로부터의 적대적인 대우에 대해 계속 불평 하는 시점에 블록 체인을 구현 하기 시작 하는 것입니다.
+
+5 월에 pko는 핀 테크 이니셔티브 "pko 은행 polski와 함께 하자 핀 테크에 대 한 신생 기업을 모집 하기 시작 했다!"
+
+그 이니셔티브에서 발생 하는 블록 체인 파트너십.
+
+경영진은 "솔루션을 시범적으로 준비 하 고 은행과 제휴 하 여 비즈니스를 확장할 수 있는 핀 테크 회사를 검색 합니다."이 프로그램의 웹 사이트에서 설명 합니다.
+
+Original source: [Poland’s Top Bank to Launch Blockchain Platform for Document Management Within ‘Days’](https://cointelegraph.com/news/polands-top-bank-to-launch-blockchain-platform-for-document-management-within-days)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
