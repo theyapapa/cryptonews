@@ -1,0 +1,1 @@
+[Streaming Platform for Gamers Starts Public Beta Testing of Its Own Blockchain](https://cointelegraph.com/news/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain)
