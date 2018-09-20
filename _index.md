@@ -1,3 +1,4 @@
+* 2018-09-20 19:09 [스위스 투자자의 컨소시엄 $1억 목표와 블록 체인 인큐베이터 출시](https://github.com/theyapapa/cryptonews/blob/ko/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
 * 2018-09-20 16:09 [게이머를 위한 스트리밍 플랫폼은 자체 블록 체인의 공개 베타 테스트를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain-346ce41f.md)
 * 2018-09-20 15:09 [주요 러시아 은행 들이 ' 암호화 작업 '에 관심이 높은 지역 소식통 들은](https://github.com/theyapapa/cryptonews/blob/ko/major-russian-banks-highly-interested-in-working-with-crypto-local-sources-say-2bd6f68c.md)
 * 2018-09-20 12:09 [암호화는 1, 000x 반환을 기록 하 고 $200조 시장 모자를 도달할 수 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap-267778de.md)
