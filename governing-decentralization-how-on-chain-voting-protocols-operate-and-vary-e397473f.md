@@ -1,0 +1,1 @@
+[Governing Decentralization: How On-Chain Voting Protocols Operate and Vary](https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary)
