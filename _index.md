@@ -1,3 +1,4 @@
+* 2018-09-20 10:09 [더 넓은 암호화 시장으로 파급이 솟아 나는 녹색의 플러시 참조](https://github.com/theyapapa/cryptonews/blob/ko/ripple-soars-as-wider-crypto-markets-see-flush-of-green-cd740024.md)
 * 2018-09-20 07:09 [' 일 ' 이내에 문서 관리를 위한 블록 체인 플랫폼을 시작 하는 폴란드의 최고 은행](https://github.com/theyapapa/cryptonews/blob/ko/polands-top-bank-to-launch-blockchain-platform-for-document-management-within-days-e0fdb037.md)
 * 2018-09-20 05:09 [분권 화 관리: 온 체인 투표 프로토콜이 작동 하 고 변화 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary-e397473f.md)
 * 2018-09-19 22:09 [비트 코인 코어 업데이트 수정 취약점 보도 $8만에 대 한 네트워크 충돌 수](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-core-update-fixes-vulnerability-that-reportedly-could-crash-network-for-80-000-5b9c1ac9.md)
