@@ -1,3 +1,4 @@
+* 2018-09-20 12:09 [암호화는 1, 000x 반환을 기록 하 고 $200조 시장 모자를 도달할 수 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap-267778de.md)
 * 2018-09-20 11:09 [크 라 켄은 뉴욕 검찰 총장의 교환 보고서에 rereking ' 악의적 인 ' 의미에서 코인 베이스를 조인](https://github.com/theyapapa/cryptonews/blob/ko/kraken-joins-coinbase-in-rebuking-malicious-implications-in-new-york-attorney-generals-exchange-report-d8d83ea3.md)
 * 2018-09-20 10:09 [더 넓은 암호화 시장으로 파급이 솟아 나는 녹색의 플러시 참조](https://github.com/theyapapa/cryptonews/blob/ko/ripple-soars-as-wider-crypto-markets-see-flush-of-green-cd740024.md)
 * 2018-09-20 07:09 [' 일 ' 이내에 문서 관리를 위한 블록 체인 플랫폼을 시작 하는 폴란드의 최고 은행](https://github.com/theyapapa/cryptonews/blob/ko/polands-top-bank-to-launch-blockchain-platform-for-document-management-within-days-e0fdb037.md)
