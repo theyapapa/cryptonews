@@ -1,3 +1,4 @@
+* 2018-09-21 15:09 [bitmain은 새로운 antminer 기계에 통합 될 차세대 ASIC 칩을 발표](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines-e425d137.md)
 * 2018-09-21 14:09 [DLT 대 HTTP: cloudflare의 퀘스트로 인터넷을 분산](https://github.com/theyapapa/cryptonews/blob/ko/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet-c05220e6.md)
 * 2018-09-21 11:09 [페트로 국제 교류 10 월, 마 두로에서 시작 하는 데 사용 되는 주장](https://github.com/theyapapa/cryptonews/blob/ko/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims-1a7c3e5a.md)
 * 2018-09-21 10:09 [제레미 가드너: ' 비트 코인은 더 나은 수 있다는 점을 제외 하 고, 오늘 돈 시스템과 다르지 않다 ' ](https://github.com/theyapapa/cryptonews/blob/ko/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better-a9eaf46f.md)
