@@ -1,0 +1,1 @@
+[Point72 Exec Leaves the Firm to Launch Crypto Hedge Fund in October](https://cointelegraph.com/news/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october)
