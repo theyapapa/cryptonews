@@ -1,0 +1,19 @@
+# Point72 간부는 10 월에 암호화 헤 지 펀드를 시작 하는 회사를 떠난다 ...
+
+전직 주식 포트폴리오 매니저 트래비스 클 링 억만 장자 스티븐 코헨의 Point72 자산 관리를 자신의 디지털 자산 펀드를 시작 하는 왼쪽으로, 블룸버그 9 월 21 일 보도 했다.
+
+새로운 로스 앤젤레스-기반 펀드 ikigai 소문에의 하면 10 월 1 일 파트너 ' 자본과 계획, 11 월 1 일 외부 자본의 $1500만 인상과 함께 시작 됩니다.
+
+2019 중반까지, 클 링은 ikigai의 토큰 포트폴리오를 $1억로, 벤처 펀드를 $3300만으로 늘릴 계획입니다.
+
+기금은 양육 비 이외에 2%의 수수료가 있으며, 공인 투자자에 대 한 최소 투자는 $25만입니다.
+
+7 월, 코헨 백업 arianna 심슨의 암호화 및 블록 체인에 초점을 맞춘 헤 지 펀드 자율 파트너 그의 사 모 펀드 회사 코헨 민간 벤처를 통해.
+
+4 월에는 시장의 건강과 규제 불확실성으로 인해 10%의 암호화 헤지펀드가 이후 8 개월간 폐쇄 될 수 있다고 보고 되었다.
+
+카일 samani, 공동-미국 기반의 펀드 multoin 자본의 설립자, "새로운 자본, 심지어 우리 같은 높은-프로필 펀드에 대 한 둔화 했다."
+
+Original source: [Point72 Exec Leaves the Firm to Launch Crypto Hedge Fund in October](https://cointelegraph.com/news/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
