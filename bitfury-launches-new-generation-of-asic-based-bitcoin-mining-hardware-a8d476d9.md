@@ -1,0 +1,1 @@
+[Bitfury Launches New Generation of ASIC-Based Bitcoin Mining Hardware](https://cointelegraph.com/news/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware)
