@@ -1,3 +1,4 @@
+* 2018-09-21 06:09 [Рынки в странах с рыночной экономикой продолжают возобновление, как пульсация претензий 68 процентов еженедельно](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains-2fd38f0b.md)
 * 2018-09-20 22:09 [Битфури запускает новое поколение оборудования для горнодобывающей промышленности Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware-a8d476d9.md)
 * 2018-09-20 20:09 [США SEC просит дальнейших комментариев относительно ванекк Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [Консорциум швейцарских инвесторов запускает инкубатор с $100 000 000 целью](https://github.com/theyapapa/cryptonews/blob/ru/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
