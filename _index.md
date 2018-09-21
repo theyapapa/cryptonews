@@ -1,3 +1,4 @@
+* 2018-09-21 19:09 [Отчет: Гонконгская фондовая биржа присматривается к приобретению компании](https://github.com/theyapapa/cryptonews/blob/ru/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions-00ba5970.md)
 * 2018-09-21 18:09 [Поинт72 Exec оставляет фирму для запуска крипто хедж-фонд в октябре](https://github.com/theyapapa/cryptonews/blob/ru/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october-e7880a9b.md)
 * 2018-09-21 15:09 [Битмаин представила микросхему нового поколения, которая будет интегрирована в новые антминер машины](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines-e425d137.md)
 * 2018-09-21 14:09 [DLT vs. http: cloudflare в стремлении децентрализации Интернета](https://github.com/theyapapa/cryptonews/blob/ru/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet-c05220e6.md)
