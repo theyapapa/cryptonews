@@ -1,0 +1,1 @@
+[DLT vs. HTTP: CloudFlare’s Quest to Decentralize the Internet](https://cointelegraph.com/news/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet)
