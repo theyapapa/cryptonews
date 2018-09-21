@@ -1,3 +1,4 @@
+* 2018-09-20 20:09 [США SEC просит дальнейших комментариев относительно ванекк Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [Консорциум швейцарских инвесторов запускает инкубатор с $100 000 000 целью](https://github.com/theyapapa/cryptonews/blob/ru/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
 * 2018-09-20 16:09 [Потоковая платформа для геймеров запускает публичное бета-тестирование собственной цепочки](https://github.com/theyapapa/cryptonews/blob/ru/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain-346ce41f.md)
 * 2018-09-20 15:09 [Крупные российские банки очень заинтересованы в «работе с крипто», говорят местные источники](https://github.com/theyapapa/cryptonews/blob/ru/major-russian-banks-highly-interested-in-working-with-crypto-local-sources-say-2bd6f68c.md)
