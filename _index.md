@@ -1,3 +1,4 @@
+* 2018-09-21 18:09 [Point72 간부는 10 월에 암호화 헤 지 펀드 출범을 위해 회사를 떠난다.](https://github.com/theyapapa/cryptonews/blob/ko/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october-e7880a9b.md)
 * 2018-09-21 15:09 [bitmain은 새로운 antminer 기계에 통합 될 차세대 ASIC 칩을 발표](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines-e425d137.md)
 * 2018-09-21 14:09 [DLT 대 HTTP: cloudflare의 퀘스트로 인터넷을 분산](https://github.com/theyapapa/cryptonews/blob/ko/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet-c05220e6.md)
 * 2018-09-21 11:09 [페트로 국제 교류 10 월, 마 두로에서 시작 하는 데 사용 되는 주장](https://github.com/theyapapa/cryptonews/blob/ko/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims-1a7c3e5a.md)
