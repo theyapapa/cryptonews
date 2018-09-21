@@ -1,0 +1,1 @@
+[Report: Hong Kong Stock Exchange Eyeing Blockchain Firm Acquisitions](https://cointelegraph.com/news/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions)
