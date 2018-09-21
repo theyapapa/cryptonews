@@ -1,3 +1,4 @@
+* 2018-09-21 18:09 [Поинт72 Exec оставляет фирму для запуска крипто хедж-фонд в октябре](https://github.com/theyapapa/cryptonews/blob/ru/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october-e7880a9b.md)
 * 2018-09-21 15:09 [Битмаин представила микросхему нового поколения, которая будет интегрирована в новые антминер машины](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines-e425d137.md)
 * 2018-09-21 14:09 [DLT vs. http: cloudflare в стремлении децентрализации Интернета](https://github.com/theyapapa/cryptonews/blob/ru/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet-c05220e6.md)
 * 2018-09-21 11:09 [Петр, который будет использоваться для международного обмена, начиная с октября, Мадуро претензий](https://github.com/theyapapa/cryptonews/blob/ru/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims-1a7c3e5a.md)
