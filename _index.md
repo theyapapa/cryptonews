@@ -1,3 +1,4 @@
+* 2018-09-20 20:09 [미국 SEC vaneck 비트 코인 ETF에 관한 추가 코멘트 요청](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [스위스 투자자의 컨소시엄 $1억 목표와 블록 체인 인큐베이터 출시](https://github.com/theyapapa/cryptonews/blob/ko/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
 * 2018-09-20 16:09 [게이머를 위한 스트리밍 플랫폼은 자체 블록 체인의 공개 베타 테스트를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain-346ce41f.md)
 * 2018-09-20 15:09 [주요 러시아 은행 들이 ' 암호화 작업 '에 관심이 높은 지역 소식통 들은](https://github.com/theyapapa/cryptonews/blob/ko/major-russian-banks-highly-interested-in-working-with-crypto-local-sources-say-2bd6f68c.md)
