@@ -1,3 +1,4 @@
+* 2018-09-20 20:09 [US sec pide más comentarios acerca de VanEck Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/es/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [Consorcio de inversionistas suizos lanzan bloques incubadora con $100 millones Goal](https://github.com/theyapapa/cryptonews/blob/es/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
 * 2018-09-20 16:09 [Plataforma de streaming para los jugadores inicia la prueba beta pública de su propio bloques](https://github.com/theyapapa/cryptonews/blob/es/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain-346ce41f.md)
 * 2018-09-20 15:09 [Los principales bancos rusos están muy interesados en "trabajar con Crypto", dicen fuentes locales](https://github.com/theyapapa/cryptonews/blob/es/major-russian-banks-highly-interested-in-working-with-crypto-local-sources-say-2bd6f68c.md)
