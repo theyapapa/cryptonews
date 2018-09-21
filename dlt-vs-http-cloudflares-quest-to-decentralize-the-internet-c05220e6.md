@@ -1,0 +1,19 @@
+# DLT 대 HTTP: cloudflare의 퀘스트를 통해 인터넷을 분산 시킬 수 있습니다 ...
+
+9 월 17 일에 중요 한 미국 기반 콘텐츠 전송 네트워크 (CDN) cloudflare는 행성간 파일 시스템 (ipfs)을 통해 새로운 분산 된 콘텐츠 게이트웨이를 도입, 기존의 HTTP를 우회 하는 컴퓨터의 수천에 의해 실행 피어-투-피어 (p2p) 네트워크 시스템.
+
+cloudflare는 콘텐츠 전송 네트워크 (CDN) 서비스 및 DDoS 보호를 제공 하는 회사입니다.
+
+cloudflare의 행성간 파일 시스템 (ipfs) 게이트웨이 라고 불리는이 장치는 파일을 저장 하는 수천 대의 컴퓨터로 구성 된 블록 체인 기반의 p2p 파일 시스템 인 ipfs에 액세스 하는 단순화 된 방법으로, 글로벌 네트워크 내의 노드로 작동 합니다.
+
+cloudflare는 다음 예제를 사용 하 여이 시스템을 설명 합니다. "그래서 오히려 네트워크 ' 나에 게 93.184.216.34에 저장 된 콘텐츠를 요청 하는 것 보다, ' 당신은 ' 나에 게 QmXnnyufdzAWL5CqZ2RnSNgPbvCc1ALT73s6epPrRnZ1Xy의 해시 값을가지고 콘텐츠를 얻을 ' \ [... \] 콘텐츠 \ [해당 \] 해시는 수십 개의 노드에 저장 될 수 있으므로 해당 콘텐츠를 캐싱하는 한 노드가 다운 되 면 네트워크는 다른 노드의 컨텐츠만 찾습니다. "
+
+보도 자료 boastfully 상태: "그냥 cloudflare 2010에서 다시 시작 하 고 보안을 제공 하 여 웹 속성에 대 한 게임을 변경 하는 것 처럼, 성능 및 가용성 이전에 인터넷 거 인에만 사용할 수 있었다, 우리는 생각 ipfs 게이트웨이는 분산 웹의 콘텐츠와 동일한 향상을 제공 합니다. "
+
+새로운 고객을 유인 하기 위해 cloudflare는 새로운 서비스를 통해 연결 된 모든 웹 사이트에 무료 SSL 인증서를 부여 하 여 게이트웨이를 홍보 하 여 "스누핑 및 조작" 으로부터 보안을 제공 합니다.
+
+또한, 아마도 시도 새로운 그물 중립성 관련 스캔들을 방지 하기 위해, 회사는 주장 "cloudflare의 ipfs 게이트웨이 단순히 ipfs 앞에 캐시" 그리고 그들은 "수정 하거나 ipfs 네트워크에서 콘텐츠를 제거 하는 능력을가지고" 하지 않는 것을 상기 사용자가 악성 콘텐츠를 공유할 가능성이 있다는 것입니다.
+
+Original source: [DLT vs. HTTP: CloudFlare’s Quest to Decentralize the Internet](https://cointelegraph.com/news/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
