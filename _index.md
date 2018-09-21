@@ -1,3 +1,4 @@
+* 2018-09-20 22:09 [Bitfury lanza nueva generación de hardware de minería de Bitcoin basado en ASIC](https://github.com/theyapapa/cryptonews/blob/es/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware-a8d476d9.md)
 * 2018-09-20 20:09 [US sec pide más comentarios acerca de VanEck Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/es/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [Consorcio de inversionistas suizos lanzan bloques incubadora con $100 millones Goal](https://github.com/theyapapa/cryptonews/blob/es/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
 * 2018-09-20 16:09 [Plataforma de streaming para los jugadores inicia la prueba beta pública de su propio bloques](https://github.com/theyapapa/cryptonews/blob/es/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain-346ce41f.md)
