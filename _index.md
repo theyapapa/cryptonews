@@ -1,3 +1,4 @@
+* 2018-09-21 06:09 [암호화 화폐 시장은 리플 청구 68% 주간 이익으로 부활을 계속](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains-2fd38f0b.md)
 * 2018-09-20 22:09 [bitfury가 새로운 세대의 ASIC 기반 비트 코인 채굴 하드웨어 출시](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware-a8d476d9.md)
 * 2018-09-20 20:09 [미국 SEC vaneck 비트 코인 ETF에 관한 추가 코멘트 요청](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [스위스 투자자의 컨소시엄 $1억 목표와 블록 체인 인큐베이터 출시](https://github.com/theyapapa/cryptonews/blob/ko/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
