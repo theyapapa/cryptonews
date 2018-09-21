@@ -1,3 +1,4 @@
+* 2018-09-20 22:09 [Битфури запускает новое поколение оборудования для горнодобывающей промышленности Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware-a8d476d9.md)
 * 2018-09-20 20:09 [США SEC просит дальнейших комментариев относительно ванекк Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [Консорциум швейцарских инвесторов запускает инкубатор с $100 000 000 целью](https://github.com/theyapapa/cryptonews/blob/ru/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
 * 2018-09-20 16:09 [Потоковая платформа для геймеров запускает публичное бета-тестирование собственной цепочки](https://github.com/theyapapa/cryptonews/blob/ru/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain-346ce41f.md)
