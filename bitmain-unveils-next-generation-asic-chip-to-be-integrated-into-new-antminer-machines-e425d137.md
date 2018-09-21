@@ -1,0 +1,1 @@
+[Bitmain Unveils Next-Generation ASIC Chip to Be Integrated into New Antminer Machines](https://cointelegraph.com/news/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines)
