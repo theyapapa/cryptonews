@@ -1,0 +1,1 @@
+[Jeremy Gardner: ‘Bitcoin Is No Different Than Money Systems Today, Except That It May Be Better’ ](https://cointelegraph.com/news/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better)
