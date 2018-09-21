@@ -1,3 +1,4 @@
+* 2018-09-20 22:09 [bitfury가 새로운 세대의 ASIC 기반 비트 코인 채굴 하드웨어 출시](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware-a8d476d9.md)
 * 2018-09-20 20:09 [미국 SEC vaneck 비트 코인 ETF에 관한 추가 코멘트 요청](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
 * 2018-09-20 19:09 [스위스 투자자의 컨소시엄 $1억 목표와 블록 체인 인큐베이터 출시](https://github.com/theyapapa/cryptonews/blob/ko/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal-ff0fcf23.md)
 * 2018-09-20 16:09 [게이머를 위한 스트리밍 플랫폼은 자체 블록 체인의 공개 베타 테스트를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain-346ce41f.md)
