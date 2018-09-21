@@ -1,0 +1,1 @@
+[Cryptocurrency Markets Continue Resurgence as Ripple Claims 68 Percent Weekly Gains](https://cointelegraph.com/news/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains)
