@@ -1,3 +1,4 @@
+* 2018-09-21 10:09 [제레미 가드너: ' 비트 코인은 더 나은 수 있다는 점을 제외 하 고, 오늘 돈 시스템과 다르지 않다 ' ](https://github.com/theyapapa/cryptonews/blob/ko/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better-a9eaf46f.md)
 * 2018-09-21 08:09 [알리바바의 개미 금융 블록 체인 백엔드-서비스로 플랫폼을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/alibabas-ant-financial-to-launch-blockchain-backend-as-a-service-platform-f96035f5.md)
 * 2018-09-21 06:09 [암호화 화폐 시장은 리플 청구 68% 주간 이익으로 부활을 계속](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains-2fd38f0b.md)
 * 2018-09-20 22:09 [bitfury가 새로운 세대의 ASIC 기반 비트 코인 채굴 하드웨어 출시](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware-a8d476d9.md)
