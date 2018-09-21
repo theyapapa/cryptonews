@@ -1,3 +1,4 @@
+* 2018-09-21 18:09 [Point72 exec deja la firma para lanzar el fondo de cobertura Crypto en octubre](https://github.com/theyapapa/cryptonews/blob/es/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october-e7880a9b.md)
 * 2018-09-21 15:09 [Bitmain revela chip ASIC de próxima generación para integrarse en nuevas máquinas Antminer](https://github.com/theyapapa/cryptonews/blob/es/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines-e425d137.md)
 * 2018-09-21 14:09 [DLT versus http: la búsqueda de CloudFlare para descentralizar Internet](https://github.com/theyapapa/cryptonews/blob/es/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet-c05220e6.md)
 * 2018-09-21 11:09 [Petro se utilizará para el intercambio internacional a partir de octubre, maduro reclama](https://github.com/theyapapa/cryptonews/blob/es/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims-1a7c3e5a.md)
