@@ -1,0 +1,1 @@
+[US SEC Asks for Further Comment Regarding VanEck Bitcoin ETF](https://cointelegraph.com/news/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf)
