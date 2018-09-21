@@ -1,3 +1,4 @@
+* 2018-09-21 08:09 [Alibaba муравей финансовых для запуска цепочки бэкэнд-как-сервис платформы](https://github.com/theyapapa/cryptonews/blob/ru/alibabas-ant-financial-to-launch-blockchain-backend-as-a-service-platform-f96035f5.md)
 * 2018-09-21 06:09 [Рынки в странах с рыночной экономикой продолжают возобновление, как пульсация претензий 68 процентов еженедельно](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains-2fd38f0b.md)
 * 2018-09-20 22:09 [Битфури запускает новое поколение оборудования для горнодобывающей промышленности Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware-a8d476d9.md)
 * 2018-09-20 20:09 [США SEC просит дальнейших комментариев относительно ванекк Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf-264bd98d.md)
