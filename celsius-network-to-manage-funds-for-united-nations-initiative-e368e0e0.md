@@ -1,0 +1,1 @@
+[Celsius Network to Manage Funds for United Nations Initiative](https://cointelegraph.com/news/celsius-network-to-manage-funds-for-united-nations-initiative)
