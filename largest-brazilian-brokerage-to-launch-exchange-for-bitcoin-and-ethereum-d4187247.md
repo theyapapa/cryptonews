@@ -1,0 +1,1 @@
+[Largest Brazilian Brokerage to Launch Exchange for Bitcoin and Ethereum](https://cointelegraph.com/news/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum)
