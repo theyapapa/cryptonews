@@ -1,3 +1,4 @@
+* 2018-09-22 14:09 [Crypto рынки видят смешанные сигналы, Ethereum бьет рябь по рыночной капитализации](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap-4f428c2b.md)
 * 2018-09-22 11:09 [Инвестиционное дочернее предприятие коинскуаре запускает два тек-based ETFs на бирже](https://github.com/theyapapa/cryptonews/blob/ru/coinsquares-investment-subsidiary-launches-two-tech-based-etfs-on-tsx-exchange-b89f3327.md)
 * 2018-09-21 22:09 [Сеть по Цельсию для управления фондами для инициативы Организации Объединенных Наций](https://github.com/theyapapa/cryptonews/blob/ru/celsius-network-to-manage-funds-for-united-nations-initiative-e368e0e0.md)
 * 2018-09-21 21:09 [Крупнейший бразильский Брокерский для запуска Exchange для Bitcoin и Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum-d4187247.md)
