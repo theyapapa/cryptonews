@@ -1,0 +1,1 @@
+[From Adoption to FOMO: Reasons Behind Ripple’s Leap](https://cointelegraph.com/news/from-adoption-to-fomo-reasons-behind-ripples-leap)
