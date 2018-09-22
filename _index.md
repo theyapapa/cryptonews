@@ -1,3 +1,4 @@
+* 2018-09-21 22:09 [섭씨 네트워크는 유엔 이니셔티브에 대 한 기금을 관리 하는](https://github.com/theyapapa/cryptonews/blob/ko/celsius-network-to-manage-funds-for-united-nations-initiative-e368e0e0.md)
 * 2018-09-21 21:09 [최대 규모의 브라질 중개 업체, 비트 코인과이 더 리 움을 위한 거래소 출시](https://github.com/theyapapa/cryptonews/blob/ko/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum-d4187247.md)
 * 2018-09-21 19:09 [보고서: 홍콩 증권 거래소는 블록 체인 기업 인수를 쫒는](https://github.com/theyapapa/cryptonews/blob/ko/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions-00ba5970.md)
 * 2018-09-21 18:09 [Point72 간부는 10 월에 암호화 헤 지 펀드 출범을 위해 회사를 떠난다.](https://github.com/theyapapa/cryptonews/blob/ko/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october-e7880a9b.md)
