@@ -1,3 +1,4 @@
+* 2018-09-22 14:09 [Los mercados criptográficos ven señales mixtas, Ethereum beats Ripple de Market Cap](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap-4f428c2b.md)
 * 2018-09-22 11:09 [La filial de inversión de Coinsquare lanza dos ETFs basados en tecnología en TSX Exchange](https://github.com/theyapapa/cryptonews/blob/es/coinsquares-investment-subsidiary-launches-two-tech-based-etfs-on-tsx-exchange-b89f3327.md)
 * 2018-09-21 22:09 [Red Celsius para administrar fondos para la iniciativa de las Naciones Unidas](https://github.com/theyapapa/cryptonews/blob/es/celsius-network-to-manage-funds-for-united-nations-initiative-e368e0e0.md)
 * 2018-09-21 21:09 [Corretaje brasileño más grande para lanzar el intercambio de Bitcoin y Ethereum](https://github.com/theyapapa/cryptonews/blob/es/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum-d4187247.md)
