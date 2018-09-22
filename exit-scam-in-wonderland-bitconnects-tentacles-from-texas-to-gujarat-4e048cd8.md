@@ -1,0 +1,1 @@
+[Exit Scam in Wonderland: Bitconnect’s Tentacles From Texas to Gujarat](https://cointelegraph.com/news/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat)
