@@ -1,0 +1,1 @@
+[Coinsquare’s Investment Subsidiary Launches Two Tech-Based ETFs on TSX Exchange](https://cointelegraph.com/news/coinsquares-investment-subsidiary-launches-two-tech-based-etfs-on-tsx-exchange)
