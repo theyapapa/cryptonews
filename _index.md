@@ -1,3 +1,4 @@
+* 2018-09-21 21:09 [최대 규모의 브라질 중개 업체, 비트 코인과이 더 리 움을 위한 거래소 출시](https://github.com/theyapapa/cryptonews/blob/ko/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum-d4187247.md)
 * 2018-09-21 19:09 [보고서: 홍콩 증권 거래소는 블록 체인 기업 인수를 쫒는](https://github.com/theyapapa/cryptonews/blob/ko/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions-00ba5970.md)
 * 2018-09-21 18:09 [Point72 간부는 10 월에 암호화 헤 지 펀드 출범을 위해 회사를 떠난다.](https://github.com/theyapapa/cryptonews/blob/ko/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october-e7880a9b.md)
 * 2018-09-21 15:09 [bitmain은 새로운 antminer 기계에 통합 될 차세대 ASIC 칩을 발표](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines-e425d137.md)
