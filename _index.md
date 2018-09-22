@@ -1,3 +1,4 @@
+* 2018-09-21 21:09 [Corretaje brasileño más grande para lanzar el intercambio de Bitcoin y Ethereum](https://github.com/theyapapa/cryptonews/blob/es/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum-d4187247.md)
 * 2018-09-21 19:09 [Informe: bolsa de Hong Kong mirando bloques adquisiciones firmes](https://github.com/theyapapa/cryptonews/blob/es/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions-00ba5970.md)
 * 2018-09-21 18:09 [Point72 exec deja la firma para lanzar el fondo de cobertura Crypto en octubre](https://github.com/theyapapa/cryptonews/blob/es/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october-e7880a9b.md)
 * 2018-09-21 15:09 [Bitmain revela chip ASIC de próxima generación para integrarse en nuevas máquinas Antminer](https://github.com/theyapapa/cryptonews/blob/es/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines-e425d137.md)
