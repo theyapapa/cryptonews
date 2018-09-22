@@ -1,3 +1,4 @@
+* 2018-09-22 17:09 [원더 랜드에서 출구 사기: 텍사스에서 구자라트에 bitconnect의 촉수](https://github.com/theyapapa/cryptonews/blob/ko/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat-4e048cd8.md)
 * 2018-09-22 14:09 [암호화 시장, 혼합 신호 참조,이 더 리 움 비트 리플, 마켓 캡](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap-4f428c2b.md)
 * 2018-09-22 11:09 [코인 스퀘어의 투자 자회사, tsx 거래소에서 2 개의 기술 기반 etf 출시](https://github.com/theyapapa/cryptonews/blob/ko/coinsquares-investment-subsidiary-launches-two-tech-based-etfs-on-tsx-exchange-b89f3327.md)
 * 2018-09-21 22:09 [섭씨 네트워크는 유엔 이니셔티브에 대 한 기금을 관리 하는](https://github.com/theyapapa/cryptonews/blob/ko/celsius-network-to-manage-funds-for-united-nations-initiative-e368e0e0.md)
