@@ -1,0 +1,1 @@
+[Dubai Department of Finance Launches Blockchain-Based Payment System for UAE Gov’t](https://cointelegraph.com/news/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt)
