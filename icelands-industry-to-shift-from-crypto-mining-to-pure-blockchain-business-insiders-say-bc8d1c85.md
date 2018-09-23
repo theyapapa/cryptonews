@@ -1,0 +1,1 @@
+[Iceland’s Industry to Shift From Crypto Mining to ‘Pure Blockchain Business,’ Insiders Say](https://cointelegraph.com/news/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say)
