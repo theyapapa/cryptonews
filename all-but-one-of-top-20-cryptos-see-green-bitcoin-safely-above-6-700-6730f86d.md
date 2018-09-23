@@ -1,0 +1,1 @@
+[All But One of Top 20 Cryptos See Green, Bitcoin Safely Above $6,700](https://cointelegraph.com/news/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700)
