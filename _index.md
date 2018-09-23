@@ -1,3 +1,4 @@
+* 2018-09-23 15:09 [두바이 재무부, 아랍 에미리트 연방 정부를 위한 블록 체인 기반 결제 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt-467b6f90.md)
 * 2018-09-23 10:09 [상위 20 개 암호 중 하나를 제외한 모든 것은 $6700 이상 안전 하 게 녹색, 비트 코인을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700-6730f86d.md)
 * 2018-09-23 10:09 [아이슬란드의 산업은 암호화 채굴에서 ' 순수한 블록 체인 사업 '으로 전환 하는 것을 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say-bc8d1c85.md)
 * 2018-09-22 18:09 [채택에서 fomo에: 잔물결의 뜀의 뒤에 이유](https://github.com/theyapapa/cryptonews/blob/ko/from-adoption-to-fomo-reasons-behind-ripples-leap-43c0e605.md)
