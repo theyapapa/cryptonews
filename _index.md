@@ -1,3 +1,4 @@
+* 2018-09-23 10:09 [Все, кроме одного из лучших 20 крипто увидеть зеленый, Bitcoin безопасно выше $6 700](https://github.com/theyapapa/cryptonews/blob/ru/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700-6730f86d.md)
 * 2018-09-23 10:09 [Промышленности Исландии перейти от криптографической добычи в "чистого бизнеса цепочки," Инсайдеры говорят](https://github.com/theyapapa/cryptonews/blob/ru/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say-bc8d1c85.md)
 * 2018-09-22 18:09 [От усыновления до ФОМО: причины скачок пульсации](https://github.com/theyapapa/cryptonews/blob/ru/from-adoption-to-fomo-reasons-behind-ripples-leap-43c0e605.md)
 * 2018-09-22 17:09 [Выход афера в стране чудес: щупальца битконнект из Техаса в Гуджарат](https://github.com/theyapapa/cryptonews/blob/ru/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat-4e048cd8.md)
