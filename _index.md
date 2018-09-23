@@ -1,3 +1,4 @@
+* 2018-09-23 10:09 [아이슬란드의 산업은 암호화 채굴에서 ' 순수한 블록 체인 사업 '으로 전환 하는 것을 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say-bc8d1c85.md)
 * 2018-09-22 18:09 [채택에서 fomo에: 잔물결의 뜀의 뒤에 이유](https://github.com/theyapapa/cryptonews/blob/ko/from-adoption-to-fomo-reasons-behind-ripples-leap-43c0e605.md)
 * 2018-09-22 17:09 [원더 랜드에서 출구 사기: 텍사스에서 구자라트에 bitconnect의 촉수](https://github.com/theyapapa/cryptonews/blob/ko/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat-4e048cd8.md)
 * 2018-09-22 14:09 [암호화 시장, 혼합 신호 참조,이 더 리 움 비트 리플, 마켓 캡](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap-4f428c2b.md)
