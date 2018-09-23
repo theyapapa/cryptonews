@@ -1,3 +1,4 @@
+* 2018-09-23 10:09 [Todos menos uno de los mejores 20 cryptos ver verde, Bitcoin con seguridad por encima de $6.700](https://github.com/theyapapa/cryptonews/blob/es/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700-6730f86d.md)
 * 2018-09-23 10:09 [La industria de Islandia va a pasar de la minería de criptografía al "negocio bloques puro", dicen los insidentes](https://github.com/theyapapa/cryptonews/blob/es/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say-bc8d1c85.md)
 * 2018-09-22 18:09 [De la adopción a Fomo: razones detrás del salto de Ripple](https://github.com/theyapapa/cryptonews/blob/es/from-adoption-to-fomo-reasons-behind-ripples-leap-43c0e605.md)
 * 2018-09-22 17:09 [Salir estafa en el país de las maravillas: tentáculos de Bitconnect de Texas a Gujarat](https://github.com/theyapapa/cryptonews/blob/es/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat-4e048cd8.md)
