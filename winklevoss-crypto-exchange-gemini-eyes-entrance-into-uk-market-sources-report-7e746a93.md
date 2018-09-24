@@ -1,0 +1,19 @@
+# winklevoss ' 암호화 교환 쌍둥이 자리 눈 영국 시장으로 입구, 소스 보고서 ...
+
+타일러와 카 메 론 winklevoss, 미국의 창조 자. 기반 암호 화폐 거래 플랫폼 제미니, 영국 시장에 플랫폼을 확장 하고자 하는 소식통은 파이낸셜 타임스 (FT) 9 월 24 일 말했다.
+
+2014 년 뉴욕에서 설립 된 제미니 신탁 회사는 코인 마켓 캡에 따르면 현재 전 세계적으로 조정 된 일일 거래량에 의해 전세계적으로 58 번째로 큰 암호 거래소를 선정 하 고 있습니다.
+
+FT는 지금 영국에 그것의 잠재적인 확장을 우연히 목격 하기 위하여 고문 관을 고용 했다는 것을 보고로 2 개의 익명 내부자 근원을 인용 한다
+
+한 소식통은 더 이상 그 회사는 현재 "" 영국 시장 감시와 응용 프로그램을 제출 가까이 주장 하고있다-금융 행위 기관 (FCA)-이동에 대 한 녹색 불빛을 추구 합니다.
+
+FT 노트로 서, 쌍둥이 자리는 이미 미국에서 완전히 준수 암호 후견인 및 무역 서비스 공급자로 운영, 뉴욕의 금융 서비스 (nydfs)의 공식 승인을 받은 데 국가의 엄격한 bitlicense에서 작동 하도록 2015에서 프레임 워크.
+
+바로 지난주, nydfs는 winklevoss 쌍둥이 ' 새로운 완전히 미국 달러에 대 한 공식 제재를 준-제 미 달러를 더빙-어디 피아트 통화 보유액은 보도 미국에서 개최 됩니다-은행을 기반으로 "FDIC에 대 한 자격이" 패스-통해 ' 예금 보험. "
+
+뉴스-nydfs는 미국 신탁 회사 Paxos에서 별도의 달러 지원 st지 코인에 대 한 승인을 준 같은 날에 파산-암호화 시장에 걸쳐 낙관적인 감정의 플러시를 촉발 시켰다.
+
+Original source: [Winklevoss' Crypto Exchange Gemini Eyes Entrance Into UK Market, Sources Report](https://cointelegraph.com/news/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
