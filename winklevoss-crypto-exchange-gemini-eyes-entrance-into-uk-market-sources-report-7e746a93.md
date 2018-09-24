@@ -1,0 +1,1 @@
+[Winklevoss' Crypto Exchange Gemini Eyes Entrance Into UK Market, Sources Report](https://cointelegraph.com/news/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report)
