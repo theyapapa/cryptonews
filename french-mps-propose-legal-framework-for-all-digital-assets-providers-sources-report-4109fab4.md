@@ -14,6 +14,6 @@ LesEcho.fr는 승인 요청을 추가 하는 것을 쓴다: "각 배우는 그�
 
 이달 초, 프랑스 주식 시장 레 귤 레이 터 automité des marchés (amf)는 "세계 각국에서 투자자를 유치 하기 위해 초기 동전 제공 (ICO) 관련 회사에 대 한 라이센스를 제공 하기 위해 법적 권한을 받았다" 프랑스에 따르면 브루노 르 마이어 금융 장관.
 
-Original source: [French MPs Propose Legal Framework for All ‘Digital Assets’ Providers, Sources Report](https://cointelegraph.com/news/french-mps-propose-legal-framework-for-all-digital-assets-providers-sources-report)
+[Original source](https://cointelegraph.com/news/french-mps-propose-legal-framework-for-all-digital-assets-providers-sources-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
