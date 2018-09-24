@@ -1,0 +1,1 @@
+[IBM Awarded Patent for Autonomous Self-Servicing Devices Within Blockchain-Based IoT System](https://cointelegraph.com/news/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system)
