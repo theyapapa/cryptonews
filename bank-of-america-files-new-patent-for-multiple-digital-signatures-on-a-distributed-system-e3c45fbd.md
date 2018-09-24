@@ -1,0 +1,1 @@
+[Bank of America Files New Patent for Multiple Digital Signatures on a Distributed System](https://cointelegraph.com/news/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system)
