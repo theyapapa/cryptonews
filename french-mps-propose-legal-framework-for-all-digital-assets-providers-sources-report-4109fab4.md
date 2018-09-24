@@ -1,0 +1,1 @@
+[French MPs Propose Legal Framework for All ‘Digital Assets’ Providers, Sources Report](https://cointelegraph.com/news/french-mps-propose-legal-framework-for-all-digital-assets-providers-sources-report)
