@@ -1,0 +1,19 @@
+# 신경 끄시고 정체 시장, binance는 확장에 더 밀고 있다 ...
+
+9 월 15 일은 binance 공동 설립자 겸 CEO 인 changpeni 자오에서 발표와 함께 (이 라고도 ' CZ '): 가장 큰 글로벌 암호 교환 중 하나는 싱가포르에서 암호화 피아트 교환을 테스트 하기 시작 합니다.
+
+# # 유럽으로의 정복 이전 9 월에, 빈은 몰타 증권 거래소의 핀 테크 및 디지털 자산 자회사 msx PLC와 양해 각 서 (MOU)를 체결 했다.
+
+7 월 19 일 neufunding은 블록 체인의 지분 모금 플랫폼인 "msx와 binance"와의 제휴를 통해 토큰화 된 증권을 상장 및 거래 하기 위한 규제 및 분권 화 된 글로벌 증권 거래소를 만드는 것이 주목할 가치가 있습니다. 암호화 자산. "
+
+그 공헌 뒤에 자극을 설명, binance 연구소 헤드 엘라 장 이미 토큰을 사용 하 여 대기 제휴 회사의 테라의 기존 네트워크를 강조: "우리는 많은 stadecoins 나오는 참조 하는 동안, 테라의 여행은 특히 의미, 그들은 몇 가지 가격 안정 프로토콜 중 하나를 설계 하는 \ [한 \] 기존, 작업 및 강력한 이동-투-시장 전략과 사용. "
+
+6 월 28 일에 cointelegraph와 독점 인터뷰에서, changpeng 자오는 새로운 플랫폼, binance 우간다, 피아트-암호화 거래에 회사의 첫 입성에 대 한 세부 정보를 공유-우간다 실링을 지 원하는 주요 암호 화폐와 함께.
+
+그 binance 아프리카의 시장에 "일반적으로 확대에 관심이 있다 강조," CZ 우간다 벤처에 대 한 작업을 "정말 빨리," 정부, 규제 기관 및 업계에서 강력한 지원 덕분에 진행 되고있다: "우간다 \ [입니다 \] 정말 재미 있는 상황, 인구의 겨우 11%가 은행 계좌를 보유 하 고 있습니다.
+
+cointelegraph와 독점 인터뷰에서 CZ은 떨어지는 무역 볼륨에 의해 unfazed 등장-binance 및 기타 암호 교환-2018 전체에 걸쳐, "시장은 항상 과민 반응"-둘 다 일이 잘 될 때, 그리고 것 들을 냉각 지적-그리고 그는 "이 여러 번 본적이 있어: 5 ~ 6 번, 연간 주기에 있습니다."
+
+Original source: [Nevermind the Stagnating Market, Binance Is Pushing Further in Its Expansion](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
