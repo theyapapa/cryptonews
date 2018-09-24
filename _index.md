@@ -1,3 +1,4 @@
+* 2018-09-24 08:09 [프랑스 MPs는 모든 ' 디지털 자산 ' 공급자, 근원 보고를 위한 법적인 기구를 제시 한다](https://github.com/theyapapa/cryptonews/blob/ko/french-mps-propose-legal-framework-for-all-digital-assets-providers-sources-report-4109fab4.md)
 * 2018-09-24 07:09 [winklevoss ' 암호화 교환 제미니 눈 영국 시장으로 입구, 소스 보고서](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report-7e746a93.md)
 * 2018-09-24 05:09 [정체 시장을 신경 끄시고, binance는 확장에 더 밀고 있다](https://github.com/theyapapa/cryptonews/blob/ko/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion-52b64300.md)
 * 2018-09-23 15:09 [두바이 재무부, 아랍 에미리트 연방 정부를 위한 블록 체인 기반 결제 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt-467b6f90.md)
