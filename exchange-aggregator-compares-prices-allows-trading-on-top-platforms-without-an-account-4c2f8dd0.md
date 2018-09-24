@@ -1,0 +1,1 @@
+[Exchange Aggregator Compares Prices, Allows Trading on Top Platforms Without an Account](https://cointelegraph.com/news/exchange-aggregator-compares-prices-allows-trading-on-top-platforms-without-an-account)
