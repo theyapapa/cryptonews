@@ -1,0 +1,1 @@
+[Study: Bitcoin Investors and Speculators Maintained Their Positions Over Summer](https://cointelegraph.com/news/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer)
