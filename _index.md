@@ -1,3 +1,4 @@
+* 2018-09-24 07:09 [Винклвосс ' крипто обмен Близнецы глаза вход в UK Market, источники доклад](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report-7e746a93.md)
 * 2018-09-24 05:09 [Фигу стагнации рынка, бинанце толкает дальше в его расширении](https://github.com/theyapapa/cryptonews/blob/ru/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion-52b64300.md)
 * 2018-09-23 15:09 [Департамент финансов Дубая запускает систему оплаты на основе цепочки для правительственных объединений ОАЭ](https://github.com/theyapapa/cryptonews/blob/ru/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt-467b6f90.md)
 * 2018-09-23 10:09 [Все, кроме одного из лучших 20 крипто увидеть зеленый, Bitcoin безопасно выше $6 700](https://github.com/theyapapa/cryptonews/blob/ru/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700-6730f86d.md)
