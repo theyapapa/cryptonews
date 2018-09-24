@@ -1,3 +1,4 @@
+* 2018-09-24 18:09 [연구: 비트 코인 투자자와 투기 꾼은 여름 동안 자신의 위치를 유지](https://github.com/theyapapa/cryptonews/blob/ko/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer-33ca73f5.md)
 * 2018-09-24 16:09 [주요 태국 은행은 국경을 넘는 지불을 위한 비자 블록 체인 솔루션을 테스트](https://github.com/theyapapa/cryptonews/blob/ko/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments-acc141e0.md)
 * 2018-09-24 14:09 [뱅크 오브 아메리카 분산 시스템의 여러 디지털 서명에 대 한 새 특허 파일](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system-e3c45fbd.md)
 * 2018-09-24 12:09 [Exchange 수집기는 가격을 비교 하 여 계정 없이 상위 플랫폼에서 거래 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/exchange-aggregator-compares-prices-allows-trading-on-top-platforms-without-an-account-4c2f8dd0.md)
