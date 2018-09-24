@@ -1,0 +1,19 @@
+# 주요 태국 은행 크로스-국경 지불에 대 한 비자 블록 체인 솔루션을 테스트 하는 ...
+
+태국에서 4 번째로 큰 은행, kasikornbank, 최근 크로스-국경 지불에 대 한 블록 체인 기반의 비자 B2B 연결 프로그램에 합류 했다, 국가는 9 월 20 일 목요일 보도 지역 신문.
+
+국가에 따르면, kasikornbank는 국가의 은행 부문에서 블록 체인의 보다 광범위 한 사용을 위한 무대를 설정, 기술을 사용 하는 나라에서 "첫 번째" 은행입니다.
+
+suripong tantanyanon, 태국의 비자 국가 매니저, 그 비자 B2B는 "보안, 지배 구조 및 분산 원장 기술 개발을 지원 합니다 지적 파트너십에 대 한 자신의 의견을 표명 했다."
+
+비자 웹사이트에 따라, B2B 연결 다시 2017 기업 크로스-국경 지불을 처리 하기 위해 시작 되었다.
+
+미국 상공 은행, 한국의 신 한 은행, 연합 은행, 그리고 싱가포르의 유나이티드 해외 은행은 블록 체인을 기반으로 한 Visa의 B2B 기술을 통해 다른 한 사람 으로부터 직접 거래를 할 수 있는 첫 번째 파트너 들 사이에서 언급 되었습니다. 아키텍처.
+
+이전에 태국 농부 은행으로 알려진 kasikornbank는 방콕에 본사를 두고 있습니다.
+
+8 월에 다시 쓴 것 처럼 태국 은행 (BoT)은 현지 은행이 가상 화폐를 다루는 자회사를 설립 하기 시작 했다.
+
+Original source: [Major Thai Bank to Test Visa Blockchain Solution for Cross-Border Payments](https://cointelegraph.com/news/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
