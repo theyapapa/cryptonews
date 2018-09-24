@@ -1,0 +1,1 @@
+[Nevermind the Stagnating Market, Binance Is Pushing Further in Its Expansion](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
