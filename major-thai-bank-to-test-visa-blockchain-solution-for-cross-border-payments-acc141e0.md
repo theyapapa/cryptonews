@@ -1,0 +1,1 @@
+[Major Thai Bank to Test Visa Blockchain Solution for Cross-Border Payments](https://cointelegraph.com/news/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments)
