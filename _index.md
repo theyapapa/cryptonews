@@ -1,3 +1,4 @@
+* 2018-09-24 12:09 [Exchange 수집기는 가격을 비교 하 여 계정 없이 상위 플랫폼에서 거래 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/exchange-aggregator-compares-prices-allows-trading-on-top-platforms-without-an-account-4c2f8dd0.md)
 * 2018-09-24 11:09 [IBM, 블록 체인 기반 IoT 시스템 내 자율 셀프 서비스 장치에 대 한 특허 획득](https://github.com/theyapapa/cryptonews/blob/ko/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system-6d0031ee.md)
 * 2018-09-24 08:09 [프랑스 MPs는 모든 ' 디지털 자산 ' 공급자, 근원 보고를 위한 법적인 기구를 제시 한다](https://github.com/theyapapa/cryptonews/blob/ko/french-mps-propose-legal-framework-for-all-digital-assets-providers-sources-report-4109fab4.md)
 * 2018-09-24 07:09 [winklevoss ' 암호화 교환 제미니 눈 영국 시장으로 입구, 소스 보고서](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report-7e746a93.md)
