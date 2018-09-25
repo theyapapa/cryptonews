@@ -1,0 +1,1 @@
+[Walmart Requires Certain Produce Suppliers to Deploy Blockchain Technology](https://cointelegraph.com/news/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology)
