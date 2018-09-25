@@ -1,3 +1,4 @@
+* 2018-09-25 08:09 [BIS 보고서는 암호화 가격과 규제 기관의 행동 사이의 강력한 링크를 찾습니다](https://github.com/theyapapa/cryptonews/blob/ko/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions-21b3695f.md)
 * 2018-09-25 04:09 [블록 체인과 토큰 경제학은 민영화를 고칠 수 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/can-the-blockchain-and-token-economics-fix-privatizations-11b033ce.md)
 * 2018-09-24 23:09 [IBM의 CTO는 우리에 게 국회 의원 '의 정부가 블록 체인에 대 한 준비 하자 '를 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain-3fe33423.md)
 * 2018-09-24 22:09 [월마트는 블록 체인 기술을 배포 하는 특정 생산 공급 업체 필요](https://github.com/theyapapa/cryptonews/blob/ko/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology-bc23a380.md)
