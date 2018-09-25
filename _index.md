@@ -1,3 +1,4 @@
+* 2018-09-24 23:09 [IBM의 CTO는 우리에 게 국회 의원 '의 정부가 블록 체인에 대 한 준비 하자 '를 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain-3fe33423.md)
 * 2018-09-24 22:09 [월마트는 블록 체인 기술을 배포 하는 특정 생산 공급 업체 필요](https://github.com/theyapapa/cryptonews/blob/ko/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology-bc23a380.md)
 * 2018-09-24 19:09 [남미 암호 교환 Buda.com 재개에 대 한 콜롬비아 대통령의 도움을 찾고](https://github.com/theyapapa/cryptonews/blob/ko/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening-b19e7618.md)
 * 2018-09-24 18:09 [연구: 비트 코인 투자자와 투기 꾼은 여름 동안 자신의 위치를 유지](https://github.com/theyapapa/cryptonews/blob/ko/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer-33ca73f5.md)
