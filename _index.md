@@ -1,3 +1,4 @@
+* 2018-09-24 19:09 [남미 암호 교환 Buda.com 재개에 대 한 콜롬비아 대통령의 도움을 찾고](https://github.com/theyapapa/cryptonews/blob/ko/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening-b19e7618.md)
 * 2018-09-24 18:09 [연구: 비트 코인 투자자와 투기 꾼은 여름 동안 자신의 위치를 유지](https://github.com/theyapapa/cryptonews/blob/ko/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer-33ca73f5.md)
 * 2018-09-24 16:09 [주요 태국 은행은 국경을 넘는 지불을 위한 비자 블록 체인 솔루션을 테스트](https://github.com/theyapapa/cryptonews/blob/ko/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments-acc141e0.md)
 * 2018-09-24 14:09 [뱅크 오브 아메리카 분산 시스템의 여러 디지털 서명에 대 한 새 특허 파일](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system-e3c45fbd.md)
