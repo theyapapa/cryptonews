@@ -1,3 +1,4 @@
+* 2018-09-25 04:09 [Может ли цепочки и маркеры экономики исправить приватизации?](https://github.com/theyapapa/cryptonews/blob/ru/can-the-blockchain-and-token-economics-fix-privatizations-11b033ce.md)
 * 2018-09-24 23:09 [IBM директор говорит нам, что конгрессмены ' Давайте готовить правительство к цепочке '](https://github.com/theyapapa/cryptonews/blob/ru/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain-3fe33423.md)
 * 2018-09-24 22:09 [Walmart требует определенных поставщиков продукции для развертывания технологии цепочки](https://github.com/theyapapa/cryptonews/blob/ru/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology-bc23a380.md)
 * 2018-09-24 19:09 [Южно-Американская крипто обмен Buda.com ищет помощь колумбийского президента для возоткрытия](https://github.com/theyapapa/cryptonews/blob/ru/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening-b19e7618.md)
