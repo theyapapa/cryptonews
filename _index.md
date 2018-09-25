@@ -1,3 +1,4 @@
+* 2018-09-25 09:09 [Оператор взлома Crypto Exchange Заиф получает третье предупреждение от сторожевого таймера Японии](https://github.com/theyapapa/cryptonews/blob/ru/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog-4551b476.md)
 * 2018-09-25 08:09 [BIS доклад находит прочную связь между крипто цены и действия регуляторов](https://github.com/theyapapa/cryptonews/blob/ru/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions-21b3695f.md)
 * 2018-09-25 04:09 [Может ли цепочки и маркеры экономики исправить приватизации?](https://github.com/theyapapa/cryptonews/blob/ru/can-the-blockchain-and-token-economics-fix-privatizations-11b033ce.md)
 * 2018-09-24 23:09 [IBM директор говорит нам, что конгрессмены ' Давайте готовить правительство к цепочке '](https://github.com/theyapapa/cryptonews/blob/ru/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain-3fe33423.md)
