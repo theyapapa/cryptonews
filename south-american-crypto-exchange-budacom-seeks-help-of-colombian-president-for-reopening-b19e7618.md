@@ -1,0 +1,1 @@
+[South American Crypto Exchange Buda.com Seeks Help of Colombian President for Reopening](https://cointelegraph.com/news/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening)
