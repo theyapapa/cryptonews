@@ -1,3 +1,4 @@
+* 2018-09-25 12:09 [El Bakkt de ICE revela el primer producto criptográfico como futuros de Bitcoin físico](https://github.com/theyapapa/cryptonews/blob/es/ices-bakkt-reveals-first-crypto-product-as-physical-bitcoin-futures-188ae279.md)
 * 2018-09-25 09:09 [Operador de Hacked Crypto Exchange Zaif recibe la tercera ADVERTENCIA del perro guardián de Japón](https://github.com/theyapapa/cryptonews/blob/es/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog-4551b476.md)
 * 2018-09-25 08:09 [El informe bis encuentra un fuerte vínculo entre los precios criptográficos y las acciones de los reguladores](https://github.com/theyapapa/cryptonews/blob/es/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions-21b3695f.md)
 * 2018-09-25 04:09 [¿puede la bloques y la economía simbólica fijar las privatizaciones?](https://github.com/theyapapa/cryptonews/blob/es/can-the-blockchain-and-token-economics-fix-privatizations-11b033ce.md)
