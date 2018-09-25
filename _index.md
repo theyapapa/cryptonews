@@ -1,3 +1,4 @@
+* 2018-09-25 04:09 [¿puede la bloques y la economía simbólica fijar las privatizaciones?](https://github.com/theyapapa/cryptonews/blob/es/can-the-blockchain-and-token-economics-fix-privatizations-11b033ce.md)
 * 2018-09-24 23:09 [IBM CTO nos dice congresistas ' vamos a alistar el gobierno para bloques '](https://github.com/theyapapa/cryptonews/blob/es/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain-3fe33423.md)
 * 2018-09-24 22:09 [Walmart requiere que ciertos proveedores de productos implementen la tecnología bloques](https://github.com/theyapapa/cryptonews/blob/es/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology-bc23a380.md)
 * 2018-09-24 19:09 [South American Crypto Exchange Buda.com busca ayuda del presidente colombiano para la reapertura](https://github.com/theyapapa/cryptonews/blob/es/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening-b19e7618.md)
