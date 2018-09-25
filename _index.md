@@ -1,3 +1,4 @@
+* 2018-09-25 16:09 [재판 블록 체인 전원 태양 에너지 관리 솔루션에 주요 호주 부동산](https://github.com/theyapapa/cryptonews/blob/ko/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution-5f9f02ae.md)
 * 2018-09-25 12:09 [아이스의 bakkt는 실제 비트 코인 선물으로 첫 번째 암호화 제품을 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/ices-bakkt-reveals-first-crypto-product-as-physical-bitcoin-futures-188ae279.md)
 * 2018-09-25 09:09 [해킹 암호 교환 zaif의 운영자는 일본의 감시에서 세 번째 경고를 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog-4551b476.md)
 * 2018-09-25 08:09 [BIS 보고서는 암호화 가격과 규제 기관의 행동 사이의 강력한 링크를 찾습니다](https://github.com/theyapapa/cryptonews/blob/ko/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions-21b3695f.md)
