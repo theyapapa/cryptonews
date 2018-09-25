@@ -1,3 +1,4 @@
+* 2018-09-25 09:09 [해킹 암호 교환 zaif의 운영자는 일본의 감시에서 세 번째 경고를 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog-4551b476.md)
 * 2018-09-25 08:09 [BIS 보고서는 암호화 가격과 규제 기관의 행동 사이의 강력한 링크를 찾습니다](https://github.com/theyapapa/cryptonews/blob/ko/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions-21b3695f.md)
 * 2018-09-25 04:09 [블록 체인과 토큰 경제학은 민영화를 고칠 수 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/can-the-blockchain-and-token-economics-fix-privatizations-11b033ce.md)
 * 2018-09-24 23:09 [IBM의 CTO는 우리에 게 국회 의원 '의 정부가 블록 체인에 대 한 준비 하자 '를 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain-3fe33423.md)
