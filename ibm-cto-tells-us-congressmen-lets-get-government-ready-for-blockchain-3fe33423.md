@@ -1,0 +1,1 @@
+[IBM CTO Tells US Congressmen ‘Let's Get Government Ready for Blockchain’](https://cointelegraph.com/news/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain)
