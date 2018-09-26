@@ -1,3 +1,4 @@
+* 2018-09-26 [США SEC ищет санкции против лиц, за якобы крипто афера плекскоин](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-seeks-sanctions-against-individuals-behind-alleged-crypto-scam-plexcoin-1532ba22.md)
 * 2018-09-26 [Breaking: круг Интернет финансовые запуски стаблекоин ' USD монета '](https://github.com/theyapapa/cryptonews/blob/ru/breaking-circle-internet-financial-launches-stablecoin-usd-coin-4759ca02.md)
 * 2018-09-26 [Технология гигант Dell смотрит на цепочки, чтобы оставаться конкурентоспособными в индийском рынке серверов](https://github.com/theyapapa/cryptonews/blob/ru/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market-8ff26263.md)
 * 2018-09-26 [Текущее состояние сети Bitcoin и ее крупнейший блок](https://github.com/theyapapa/cryptonews/blob/ru/the-current-state-of-the-bitcoin-network-and-its-biggest-block-79ce5977.md)
