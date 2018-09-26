@@ -1,3 +1,4 @@
+* 2018-09-25 23:09 [monero 개발자는 ' 굽기 버그 ' 패치](https://github.com/theyapapa/cryptonews/blob/ko/monero-developers-have-patched-the-burning-bug-365a89ac.md)
 * 2018-09-25 19:09 [새로운 코인 베이스 목록 프로세스를 통해 Exchange는 ' 빠르게 ' 지원 되는 자산을 늘릴 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets-d455a838.md)
 * 2018-09-25 19:09 [미국의 제재를 피하기 위해 북한의 ' 점점 더 ' 암호화를 사용, 전문가의 주장을](https://github.com/theyapapa/cryptonews/blob/ko/north-korea-increasingly-uses-crypto-to-avoid-us-sanctions-experts-claim-083babe9.md)
 * 2018-09-25 16:09 [재판 블록 체인 전원 태양 에너지 관리 솔루션에 주요 호주 부동산](https://github.com/theyapapa/cryptonews/blob/ko/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution-5f9f02ae.md)
