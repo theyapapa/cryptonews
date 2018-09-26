@@ -1,3 +1,4 @@
+* 2018-09-26 [McAfee Labs: 암호화 마이닝 멀웨어는 Q2에서 86% 증가, 2.5 mln 이상의 새로운 코인 마이너 샘플](https://github.com/theyapapa/cryptonews/blob/ko/mcafee-labs-crypto-mining-malware-grows-by-86-in-q2-over-25-mln-new-coin-miner-samples-fb782d59.md)
 * 2018-09-26 [포 르 쉐는 블록 체인과 AI 스타트업에 초점을 두고 신기술에 대 한 투자 증가](https://github.com/theyapapa/cryptonews/blob/ko/porsche-increases-investments-in-new-technologies-with-focus-on-blockchain-and-ai-startups-3c5bad8f.md)
 * 2018-09-26 [일본 레 귤 레이 터 그랜트 sbi 리플 아시아 블록 체인 기반 앱에 대 한 결제 라이센스](https://github.com/theyapapa/cryptonews/blob/ko/japanese-regulator-grants-sbi-ripple-asia-a-payments-license-for-blockchain-based-app-53539cc6.md)
 * 2018-09-26 [미국 SEC는 혐의 암호 사기 plexcoin 뒤에 개인에 대 한 제재를 추구](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-seeks-sanctions-against-individuals-behind-alleged-crypto-scam-plexcoin-1532ba22.md)
