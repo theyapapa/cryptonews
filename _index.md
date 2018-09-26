@@ -1,3 +1,4 @@
+* 2018-09-26 09:09 [Breaking: круг Интернет финансовые запуски стаблекоин ' USD монета '](https://github.com/theyapapa/cryptonews/blob/ru/breaking-circle-internet-financial-launches-stablecoin-usd-coin-4759ca02.md)
 * 2018-09-26 05:09 [Технология гигант Dell смотрит на цепочки, чтобы оставаться конкурентоспособными в индийском рынке серверов](https://github.com/theyapapa/cryptonews/blob/ru/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market-8ff26263.md)
 * 2018-09-26 04:09 [Текущее состояние сети Bitcoin и ее крупнейший блок](https://github.com/theyapapa/cryptonews/blob/ru/the-current-state-of-the-bitcoin-network-and-its-biggest-block-79ce5977.md)
 * 2018-09-25 23:09 [Кения: Председатель Целевой группы DLT и AI призывает правительство разметить экономику](https://github.com/theyapapa/cryptonews/blob/ru/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy-b4f8ffdf.md)
