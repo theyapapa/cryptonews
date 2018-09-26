@@ -1,3 +1,4 @@
+* 2018-09-26 04:09 [El estado actual de la red Bitcoin y su mayor bloque](https://github.com/theyapapa/cryptonews/blob/es/the-current-state-of-the-bitcoin-network-and-its-biggest-block-79ce5977.md)
 * 2018-09-25 23:09 [Kenya: el Presidente del grupo de trabajo DLT y AI pide al Gobierno que demostre la economía](https://github.com/theyapapa/cryptonews/blob/es/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy-b4f8ffdf.md)
 * 2018-09-25 23:09 [Los desarrolladores de Monero han parcheado el ' Bug ardiente '](https://github.com/theyapapa/cryptonews/blob/es/monero-developers-have-patched-the-burning-bug-365a89ac.md)
 * 2018-09-25 19:09 [El nuevo proceso de listado de Coinbase permitirá a Exchange aumentar ' rápidamente ' los activos soportados](https://github.com/theyapapa/cryptonews/blob/es/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets-d455a838.md)
