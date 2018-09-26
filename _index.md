@@ -1,3 +1,4 @@
+* 2018-09-25 23:09 [Кения: Председатель Целевой группы DLT и AI призывает правительство разметить экономику](https://github.com/theyapapa/cryptonews/blob/ru/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy-b4f8ffdf.md)
 * 2018-09-25 23:09 [Монеро разработчики направили ' Burning bug '](https://github.com/theyapapa/cryptonews/blob/ru/monero-developers-have-patched-the-burning-bug-365a89ac.md)
 * 2018-09-25 19:09 [Новый процесс листинга Coinbase позволит Exchange "быстро" увеличить поддерживаемые активы](https://github.com/theyapapa/cryptonews/blob/ru/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets-d455a838.md)
 * 2018-09-25 19:09 [Северная Корея ' все более ' использует крипто, чтобы избежать санкций США, эксперты утверждают,](https://github.com/theyapapa/cryptonews/blob/ru/north-korea-increasingly-uses-crypto-to-avoid-us-sanctions-experts-claim-083babe9.md)
