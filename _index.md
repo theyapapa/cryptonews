@@ -1,3 +1,4 @@
+* 2018-09-26 [포 르 쉐는 블록 체인과 AI 스타트업에 초점을 두고 신기술에 대 한 투자 증가](https://github.com/theyapapa/cryptonews/blob/ko/porsche-increases-investments-in-new-technologies-with-focus-on-blockchain-and-ai-startups-3c5bad8f.md)
 * 2018-09-26 [일본 레 귤 레이 터 그랜트 sbi 리플 아시아 블록 체인 기반 앱에 대 한 결제 라이센스](https://github.com/theyapapa/cryptonews/blob/ko/japanese-regulator-grants-sbi-ripple-asia-a-payments-license-for-blockchain-based-app-53539cc6.md)
 * 2018-09-26 [미국 SEC는 혐의 암호 사기 plexcoin 뒤에 개인에 대 한 제재를 추구](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-seeks-sanctions-against-individuals-behind-alleged-crypto-scam-plexcoin-1532ba22.md)
 * 2018-09-26 [속보: 서클 인터넷 금융 출시 st지 코인 ' USD 코인 '](https://github.com/theyapapa/cryptonews/blob/ko/breaking-circle-internet-financial-launches-stablecoin-usd-coin-4759ca02.md)
