@@ -1,3 +1,4 @@
+* 2018-09-26 09:09 [속보: 서클 인터넷 금융 출시 st지 코인 ' USD 코인 '](https://github.com/theyapapa/cryptonews/blob/ko/breaking-circle-internet-financial-launches-stablecoin-usd-coin-4759ca02.md)
 * 2018-09-26 05:09 [기술 거 대 한 Dell은 인도 서버 시장에서 경쟁력을 유지 하기 위해 블록 체인을 보인다](https://github.com/theyapapa/cryptonews/blob/ko/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market-8ff26263.md)
 * 2018-09-26 04:09 [비트 코인 네트워크의 현재 상태와 가장 큰 블록](https://github.com/theyapapa/cryptonews/blob/ko/the-current-state-of-the-bitcoin-network-and-its-biggest-block-79ce5977.md)
 * 2018-09-25 23:09 [케냐: DLT 및 AI 태스크 포스 회장이 정부에 통화 하 여 경제를 토큰화 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy-b4f8ffdf.md)
