@@ -1,3 +1,4 @@
+* 2018-09-26 [El regulador japonés otorga a SBI Ripple Asia una licencia de pagos para la aplicación basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/japanese-regulator-grants-sbi-ripple-asia-a-payments-license-for-blockchain-based-app-53539cc6.md)
 * 2018-09-26 [US sec busca sanciones contra individuos detrás de presunta estafa Crypto PlexCoin](https://github.com/theyapapa/cryptonews/blob/es/us-sec-seeks-sanctions-against-individuals-behind-alleged-crypto-scam-plexcoin-1532ba22.md)
 * 2018-09-26 [Breaking: Circle Internet Financial lanza Stablecoin ' USD Coin '](https://github.com/theyapapa/cryptonews/blob/es/breaking-circle-internet-financial-launches-stablecoin-usd-coin-4759ca02.md)
 * 2018-09-26 [Tech Giant Dell busca bloques para mantenerse competitivo en el mercado indio de servidores](https://github.com/theyapapa/cryptonews/blob/es/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market-8ff26263.md)
