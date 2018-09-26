@@ -1,3 +1,4 @@
+* 2018-09-25 23:09 [케냐: DLT 및 AI 태스크 포스 회장이 정부에 통화 하 여 경제를 토큰화 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy-b4f8ffdf.md)
 * 2018-09-25 23:09 [monero 개발자는 ' 굽기 버그 ' 패치](https://github.com/theyapapa/cryptonews/blob/ko/monero-developers-have-patched-the-burning-bug-365a89ac.md)
 * 2018-09-25 19:09 [새로운 코인 베이스 목록 프로세스를 통해 Exchange는 ' 빠르게 ' 지원 되는 자산을 늘릴 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets-d455a838.md)
 * 2018-09-25 19:09 [미국의 제재를 피하기 위해 북한의 ' 점점 더 ' 암호화를 사용, 전문가의 주장을](https://github.com/theyapapa/cryptonews/blob/ko/north-korea-increasingly-uses-crypto-to-avoid-us-sanctions-experts-claim-083babe9.md)
