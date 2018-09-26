@@ -1,0 +1,19 @@
+# 새로운 코인 베이스 목록 프로세스를 통해 Exchange는 ' 빠르게 ' 지원 되는 자산을 늘릴 수 있습니다 ...
+
+암호 화폐 거래소 코인 베이스는 9 월 25 일 발표 된 성명에 따라 더 많은 디지털 자산을 더 빨리 나열할 수 있는 새로운 프로세스를 발표 했습니다.
+
+공지 사항에 따라 새 프로세스는 현지 법률을 준수 하는 디지털 자산을 의미 하며,이는 플랫폼에 나열 된 특정 자산이 특정 관할권의 고객 에게만 제공 될 수 있음을 의미 합니다.
+
+새로 채택 된 프로세스를 통해 coinbase에서 토큰을 제출 하려는 발급자는 특별 한 양식을 사용 해야 하며, 그 후에는 디지털 자산 프레임 워크에 대해 exchange 팀에서 평가를 받게 됩니다.
+
+처음에는 신청비가 부과 되지 않을 것 이지만, coinbase는 새로운 자산을 평가 하 고 나열 하는 것과 관련 된 법적 및 운영 비용을 충당 하기 위해 향후 수수료를 도입할 수 있는 권리를 보유 합니다.
+
+coinbase는 새로운 프로세스가 "우리의 표준을 충족 하는 시간에 따라 대부분의 자산을 나열" 할 수 있다는 것을 말합니다.
+
+거래소는 새로운 토큰 목록을 더 자주 만들기 위해 프로세스를 기대 하기 때문에, 이러한 리스팅은 코인 베이스의 공개 제품 중 하나에서 사용할 수 있게 되 면 발표 될 것입니다.
+
+8 월에 coinbase는 영국 은행 계좌를 사용 하는 거래소 고객 들이 빠른 전송을 실시 하 여 같은 날에 고객 들이 파운드에 대 한 암호화를 구매 하 고 판매할 수 있도록 하는 영국의 파운드 (GBP) 지원을 출시 하기 시작 했습니다.
+
+Original source: [New Coinbase Listing Process Will Allow Exchange to ‘Rapidly’ Increase Supported Assets](https://cointelegraph.com/news/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets)
+
+![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
