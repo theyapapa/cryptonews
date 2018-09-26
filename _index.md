@@ -1,3 +1,4 @@
+* 2018-09-26 09:09 [Breaking: Circle Internet Financial lanza Stablecoin ' USD Coin '](https://github.com/theyapapa/cryptonews/blob/es/breaking-circle-internet-financial-launches-stablecoin-usd-coin-4759ca02.md)
 * 2018-09-26 05:09 [Tech Giant Dell busca bloques para mantenerse competitivo en el mercado indio de servidores](https://github.com/theyapapa/cryptonews/blob/es/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market-8ff26263.md)
 * 2018-09-26 04:09 [El estado actual de la red Bitcoin y su mayor bloque](https://github.com/theyapapa/cryptonews/blob/es/the-current-state-of-the-bitcoin-network-and-its-biggest-block-79ce5977.md)
 * 2018-09-25 23:09 [Kenya: el Presidente del grupo de trabajo DLT y AI pide al Gobierno que demostre la economía](https://github.com/theyapapa/cryptonews/blob/es/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy-b4f8ffdf.md)
