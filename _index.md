@@ -1,3 +1,4 @@
+* 2018-09-27 [Универсальный кошелек становится "первым" для поддержки ада Кардано на мобильный](https://github.com/theyapapa/cryptonews/blob/ru/universal-wallet-becomes-the-first-to-support-cardanos-ada-on-mobile-8cfb453c.md)
 * 2018-09-26 [Китайский Tech гигант Baidu релизы ' Super Chain ' белая бумага](https://github.com/theyapapa/cryptonews/blob/ru/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
 * 2018-09-26 [Отчет: компании, инвесторы обойти Китайский запрет ICO](https://github.com/theyapapa/cryptonews/blob/ru/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [West Вирджинии начать использовать подвижное приложение для голосования на основе блоков](https://github.com/theyapapa/cryptonews/blob/ru/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
