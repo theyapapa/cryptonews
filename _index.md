@@ -1,3 +1,4 @@
+* 2018-09-27 [모바일에서 카르다노의 ADA를 지원 하기 위해 유니버설 지갑이 ' First '가 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/universal-wallet-becomes-the-first-to-support-cardanos-ada-on-mobile-8cfb453c.md)
 * 2018-09-26 [중국 기술 거 대 한 Baidu 출시 ' 슈퍼 체인 ' 백서](https://github.com/theyapapa/cryptonews/blob/ko/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
 * 2018-09-26 [보고: 회사, 투자자는 중국 ICO 금지를 포위 한다](https://github.com/theyapapa/cryptonews/blob/ko/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [서 부 버지니아 블록 체인 기반 모바일 투표 앱 사용 시작](https://github.com/theyapapa/cryptonews/blob/ko/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
