@@ -1,3 +1,4 @@
+* 2018-09-27 [합법적 대 불법 암호화: 북한과 남한 접근법 비교](https://github.com/theyapapa/cryptonews/blob/ko/legit-vs-illicit-crypto-north-and-south-korean-approaches-compared-9363c7b3.md)
 * 2018-09-27 [모바일에서 카르다노의 ADA를 지원 하기 위해 유니버설 지갑이 ' First '가 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/universal-wallet-becomes-the-first-to-support-cardanos-ada-on-mobile-8cfb453c.md)
 * 2018-09-26 [중국 기술 거 대 한 Baidu 출시 ' 슈퍼 체인 ' 백서](https://github.com/theyapapa/cryptonews/blob/ko/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
 * 2018-09-26 [보고: 회사, 투자자는 중국 ICO 금지를 포위 한다](https://github.com/theyapapa/cryptonews/blob/ko/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
