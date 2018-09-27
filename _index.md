@@ -1,3 +1,4 @@
+* 2018-09-26 [서 부 버지니아 블록 체인 기반 모바일 투표 앱 사용 시작](https://github.com/theyapapa/cryptonews/blob/ko/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
 * 2018-09-26 [FedEx는 hyperledger 블록 체인 허브, 물류에 대 한 ' 큰 의미 ' 조인](https://github.com/theyapapa/cryptonews/blob/ko/fedex-joins-hyperledger-blockchain-hub-big-implications-for-logistics-8bd445f6.md)
 * 2018-09-26 [McAfee Labs: 암호화 마이닝 멀웨어는 Q2에서 86% 증가, 2.5 mln 이상의 새로운 코인 마이너 샘플](https://github.com/theyapapa/cryptonews/blob/ko/mcafee-labs-crypto-mining-malware-grows-by-86-in-q2-over-25-mln-new-coin-miner-samples-fb782d59.md)
 * 2018-09-26 [포 르 쉐는 블록 체인과 AI 스타트업에 초점을 두고 신기술에 대 한 투자 증가](https://github.com/theyapapa/cryptonews/blob/ko/porsche-increases-investments-in-new-technologies-with-focus-on-blockchain-and-ai-startups-3c5bad8f.md)
