@@ -1,3 +1,4 @@
+* 2018-09-27 [AT&T lanza una serie de soluciones de Enterprise bloques utilizando tecnología de IBM, Microsoft](https://github.com/theyapapa/cryptonews/blob/es/att-launches-suite-of-enterprise-blockchain-solutions-using-tech-from-ibm-microsoft-86b31986.md)
 * 2018-09-27 [Legal vs ilegal Crypto: enfoques coreanos del norte y del sur en comparación](https://github.com/theyapapa/cryptonews/blob/es/legit-vs-illicit-crypto-north-and-south-korean-approaches-compared-9363c7b3.md)
 * 2018-09-27 [Universal Wallet se convierte en la ' primera ' para apoyar a la ADA de Cardano en el móvil](https://github.com/theyapapa/cryptonews/blob/es/universal-wallet-becomes-the-first-to-support-cardanos-ada-on-mobile-8cfb453c.md)
 * 2018-09-26 [El gigante chino de la tecnología Baidu lanza el libro blanco de ' Super Chain '](https://github.com/theyapapa/cryptonews/blob/es/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
