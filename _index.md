@@ -1,3 +1,4 @@
+* 2018-09-26 [중국 기술 거 대 한 Baidu 출시 ' 슈퍼 체인 ' 백서](https://github.com/theyapapa/cryptonews/blob/ko/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
 * 2018-09-26 [보고: 회사, 투자자는 중국 ICO 금지를 포위 한다](https://github.com/theyapapa/cryptonews/blob/ko/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [서 부 버지니아 블록 체인 기반 모바일 투표 앱 사용 시작](https://github.com/theyapapa/cryptonews/blob/ko/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
 * 2018-09-26 [FedEx는 hyperledger 블록 체인 허브, 물류에 대 한 ' 큰 의미 ' 조인](https://github.com/theyapapa/cryptonews/blob/ko/fedex-joins-hyperledger-blockchain-hub-big-implications-for-logistics-8bd445f6.md)
