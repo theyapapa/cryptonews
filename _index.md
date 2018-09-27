@@ -1,3 +1,4 @@
+* 2018-09-27 [Universal Wallet se convierte en la ' primera ' para apoyar a la ADA de Cardano en el móvil](https://github.com/theyapapa/cryptonews/blob/es/universal-wallet-becomes-the-first-to-support-cardanos-ada-on-mobile-8cfb453c.md)
 * 2018-09-26 [El gigante chino de la tecnología Baidu lanza el libro blanco de ' Super Chain '](https://github.com/theyapapa/cryptonews/blob/es/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
 * 2018-09-26 [Informe: empresas, inversionistas burlan la prohibición del ICO chino](https://github.com/theyapapa/cryptonews/blob/es/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [West Virginians comienzan a usar la aplicación de votación móvil basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
