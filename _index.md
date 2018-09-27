@@ -1,3 +1,4 @@
+* 2018-09-26 [El gigante chino de la tecnología Baidu lanza el libro blanco de ' Super Chain '](https://github.com/theyapapa/cryptonews/blob/es/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
 * 2018-09-26 [Informe: empresas, inversionistas burlan la prohibición del ICO chino](https://github.com/theyapapa/cryptonews/blob/es/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [West Virginians comienzan a usar la aplicación de votación móvil basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
 * 2018-09-26 [Fedex se une a hyperledger bloques Hub, "grandes implicaciones" para la logística](https://github.com/theyapapa/cryptonews/blob/es/fedex-joins-hyperledger-blockchain-hub-big-implications-for-logistics-8bd445f6.md)
