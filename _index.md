@@ -1,3 +1,4 @@
+* 2018-09-26 [Китайский Tech гигант Baidu релизы ' Super Chain ' белая бумага](https://github.com/theyapapa/cryptonews/blob/ru/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
 * 2018-09-26 [Отчет: компании, инвесторы обойти Китайский запрет ICO](https://github.com/theyapapa/cryptonews/blob/ru/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [West Вирджинии начать использовать подвижное приложение для голосования на основе блоков](https://github.com/theyapapa/cryptonews/blob/ru/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
 * 2018-09-26 [FedEx присоединяется к концентратору цепочки, «большие последствия» для логистики](https://github.com/theyapapa/cryptonews/blob/ru/fedex-joins-hyperledger-blockchain-hub-big-implications-for-logistics-8bd445f6.md)
