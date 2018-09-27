@@ -1,3 +1,4 @@
+* 2018-09-27 [골드만 삭스는 블록 체인 지불 시작에 대 한 $2500만 자금을 리드 veem](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-leads-25-million-funding-round-for-blockchain-payments-startup-veem-2f04725b.md)
 * 2018-09-27 [리플 발표 $1억500만 교육에 대 한 자선 벤처, 금융 포함 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/ripple-announces-105-million-charity-venture-for-education-financial-inclusion-projects-b12c617c.md)
 * 2018-09-27 [한국 정부, 벤처 기업에서 디지털 자산의 매각, 중개 제외](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-government-to-exclude-sale-brokerage-of-digital-assets-from-venture-business-0bfd039d.md)
 * 2018-09-27 [마쉬, 세일즈 포스를 포함 하는 IBM 블록 체인 보험 파트너십 확인](https://github.com/theyapapa/cryptonews/blob/ko/marsh-confirms-ibm-blockchain-insurance-partnership-to-include-salesforce-45460e30.md)
