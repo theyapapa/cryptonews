@@ -1,3 +1,4 @@
+* 2018-09-27 [AT&T запускает набор корпоративных решений для работы с цепочками с использованием технологий IBM, Microsoft](https://github.com/theyapapa/cryptonews/blob/ru/att-launches-suite-of-enterprise-blockchain-solutions-using-tech-from-ibm-microsoft-86b31986.md)
 * 2018-09-27 [Законно против незаконных крипто: Северной и Южной Кореи подходы по сравнению](https://github.com/theyapapa/cryptonews/blob/ru/legit-vs-illicit-crypto-north-and-south-korean-approaches-compared-9363c7b3.md)
 * 2018-09-27 [Универсальный кошелек становится "первым" для поддержки ада Кардано на мобильный](https://github.com/theyapapa/cryptonews/blob/ru/universal-wallet-becomes-the-first-to-support-cardanos-ada-on-mobile-8cfb453c.md)
 * 2018-09-26 [Китайский Tech гигант Baidu релизы ' Super Chain ' белая бумага](https://github.com/theyapapa/cryptonews/blob/ru/chinese-tech-giant-baidu-releases-super-chain-white-paper-a9bf1c0a.md)
