@@ -1,3 +1,4 @@
+* 2018-09-26 [Отчет: компании, инвесторы обойти Китайский запрет ICO](https://github.com/theyapapa/cryptonews/blob/ru/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [West Вирджинии начать использовать подвижное приложение для голосования на основе блоков](https://github.com/theyapapa/cryptonews/blob/ru/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
 * 2018-09-26 [FedEx присоединяется к концентратору цепочки, «большие последствия» для логистики](https://github.com/theyapapa/cryptonews/blob/ru/fedex-joins-hyperledger-blockchain-hub-big-implications-for-logistics-8bd445f6.md)
 * 2018-09-26 [McAfee Labs: криптографическая добыча вредоносных программ растет на 86% в Q2, более 2,5 млн новых образцов монеты Шахтер](https://github.com/theyapapa/cryptonews/blob/ru/mcafee-labs-crypto-mining-malware-grows-by-86-in-q2-over-25-mln-new-coin-miner-samples-fb782d59.md)
