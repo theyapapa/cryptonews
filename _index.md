@@ -1,3 +1,4 @@
+* 2018-09-27 [한국 정부, 벤처 기업에서 디지털 자산의 매각, 중개 제외](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-government-to-exclude-sale-brokerage-of-digital-assets-from-venture-business-0bfd039d.md)
 * 2018-09-27 [마쉬, 세일즈 포스를 포함 하는 IBM 블록 체인 보험 파트너십 확인](https://github.com/theyapapa/cryptonews/blob/ko/marsh-confirms-ibm-blockchain-insurance-partnership-to-include-salesforce-45460e30.md)
 * 2018-09-27 [AT&T는 IBM의 기술을 사용 하 여 엔터프라이즈 블록 체인 솔루션의 제품군을 출시, 마이크로 소프트](https://github.com/theyapapa/cryptonews/blob/ko/att-launches-suite-of-enterprise-blockchain-solutions-using-tech-from-ibm-microsoft-86b31986.md)
 * 2018-09-27 [합법적 대 불법 암호화: 북한과 남한 접근법 비교](https://github.com/theyapapa/cryptonews/blob/ko/legit-vs-illicit-crypto-north-and-south-korean-approaches-compared-9363c7b3.md)
