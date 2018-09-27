@@ -1,3 +1,4 @@
+* 2018-09-27 [리플 발표 $1억500만 교육에 대 한 자선 벤처, 금융 포함 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/ripple-announces-105-million-charity-venture-for-education-financial-inclusion-projects-b12c617c.md)
 * 2018-09-27 [한국 정부, 벤처 기업에서 디지털 자산의 매각, 중개 제외](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-government-to-exclude-sale-brokerage-of-digital-assets-from-venture-business-0bfd039d.md)
 * 2018-09-27 [마쉬, 세일즈 포스를 포함 하는 IBM 블록 체인 보험 파트너십 확인](https://github.com/theyapapa/cryptonews/blob/ko/marsh-confirms-ibm-blockchain-insurance-partnership-to-include-salesforce-45460e30.md)
 * 2018-09-27 [AT&T는 IBM의 기술을 사용 하 여 엔터프라이즈 블록 체인 솔루션의 제품군을 출시, 마이크로 소프트](https://github.com/theyapapa/cryptonews/blob/ko/att-launches-suite-of-enterprise-blockchain-solutions-using-tech-from-ibm-microsoft-86b31986.md)
