@@ -1,3 +1,4 @@
+* 2018-09-26 [Informe: empresas, inversionistas burlan la prohibición del ICO chino](https://github.com/theyapapa/cryptonews/blob/es/report-companies-investors-circumvent-chinese-ico-ban-8e29fcf1.md)
 * 2018-09-26 [West Virginians comienzan a usar la aplicación de votación móvil basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/west-virginians-begin-using-blockchain-based-mobile-voting-app-ff009ca5.md)
 * 2018-09-26 [Fedex se une a hyperledger bloques Hub, "grandes implicaciones" para la logística](https://github.com/theyapapa/cryptonews/blob/es/fedex-joins-hyperledger-blockchain-hub-big-implications-for-logistics-8bd445f6.md)
 * 2018-09-26 [McAfee Labs: el malware de la minería Crypto crece un 86% en el segundo trimestre, más de 2,5 millones de nuevas muestras de monedas de minero](https://github.com/theyapapa/cryptonews/blob/es/mcafee-labs-crypto-mining-malware-grows-by-86-in-q2-over-25-mln-new-coin-miner-samples-fb782d59.md)
