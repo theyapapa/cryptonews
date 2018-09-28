@@ -1,3 +1,4 @@
+* 2018-09-28 [Австралия: клиенты файл претензии против публично перечисленные ICO консультационная фирма дигиталкс](https://github.com/theyapapa/cryptonews/blob/ru/australia-clients-file-claim-against-publicly-listed-ico-advisory-firm-digitalx-029b0fb2.md)
 * 2018-09-28 [Монголия: Центральный банк дает разрешение на выпуск первой цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/mongolia-central-bank-gives-permission-to-issue-first-digital-currency-1c7ae18f.md)
 * 2018-09-27 [Том ли: Ethereum будет "ралли сильно" до $1 900 к концу 2019](https://github.com/theyapapa/cryptonews/blob/ru/tom-lee-ethereum-will-rally-strongly-up-to-1-900-by-the-end-of-2019-b47d73ea.md)
 * 2018-09-27 [США дом проходит законопроект для целевой группы по борьбе с шифрованием использования террористами](https://github.com/theyapapa/cryptonews/blob/ru/us-house-passes-bill-for-task-force-to-combat-crypto-use-by-terrorists-e6d97099.md)
