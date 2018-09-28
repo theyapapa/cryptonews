@@ -1,3 +1,4 @@
+* 2018-09-28 [Opinion: Europa debe abrazar a bloques para evitar "Cybercolonization"](https://github.com/theyapapa/cryptonews/blob/es/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization-e57717d7.md)
 * 2018-09-28 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, Cardano, Monero, Dash: Análisis de precios, 28 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-september-28-4cf236f2.md)
 * 2018-09-28 [Relojero de lujo Hublot revela nuevo modelo, disponible sólo para Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/luxury-watchmaker-hublot-unveils-new-model-available-for-bitcoin-only-a3228024.md)
 * 2018-09-28 [Club de código abierto: Monero esquiva otro ataque con la ayuda de la comunidad](https://github.com/theyapapa/cryptonews/blob/es/open-source-club-monero-dodges-yet-another-attack-with-communitys-help-da1209fe.md)
