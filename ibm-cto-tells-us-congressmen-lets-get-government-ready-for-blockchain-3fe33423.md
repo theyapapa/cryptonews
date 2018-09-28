@@ -14,6 +14,6 @@ During the call, Rep. Schweikert — who previously urged the Internal Revenue S
 
 As Cointelegraph reported earlier this week, U.S. Congressman and Blockchain Caucus member Tom Emmer announced that he would introduce three bills to support the development of blockchain technology and cryptocurrencies, as well as establish a safe harbor for taxpayers with “forked” digital assets.
 
-Original source: [IBM CTO Tells US Congressmen ‘Let's Get Government Ready for Blockchain’](https://cointelegraph.com/news/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain)
+[Original source](https://cointelegraph.com/news/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

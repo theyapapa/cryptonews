@@ -14,6 +14,6 @@ BIS noted that non-specific – or general – warnings against the risks of cry
 
 In summary, BIS proposed that regulation “need not be bad news for the \[crypto\] markets, with price responses notably signalling a clear preference for a defined legal status, albeit a light regulatory regime.”
 
-Original source: [BIS Report Finds Strong Link Between Crypto Prices and Regulators' Actions](https://cointelegraph.com/news/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions)
+[Original source](https://cointelegraph.com/news/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

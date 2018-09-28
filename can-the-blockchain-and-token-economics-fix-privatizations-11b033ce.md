@@ -16,6 +16,6 @@ In the proposed model, the tokenization is necessary to "translate" economical r
 
 Therefore, I came to the conclusion that the second option is better because: a) ‘A’ and the SPV remain always 100 percent in public hands; b) the security token issued does not represent equity in the SPV but simply the right to a monetary payment; c) even if this is still a security for the purpose of securities laws application and compliance, the issuer will have very few constraints in designing the monetary rights attached to it — as well as their role in the governance (i.e., voting rights); d) the issuance is not limited by physical ownership like in option one (i.e., one share-one token) or by the value of the shares, but only by the profitability of the SPV-’A’ or, if insufficient, by the willingness of the state to step up to guarantee for the shortfalls; e) such security tokens can also be airdropped to key stakeholders and/or properly auctioned to investors, should the state need to raise money to either buy back the asset or pay penalties to private investors in the case of reverse-privatizations or, if necessary, to revoke previously granted private concessions over public assets.
 
-Original source: [Can the Blockchain and Token Economics Fix Privatizations?](https://cointelegraph.com/news/can-the-blockchain-and-token-economics-fix-privatizations)
+[Original source](https://cointelegraph.com/news/can-the-blockchain-and-token-economics-fix-privatizations)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
