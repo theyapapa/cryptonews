@@ -1,3 +1,4 @@
+* 2018-09-27 [미국 집은 테러리스트에의 한 암호 사용을 방지 하기 위해 태스크 포스 법안을 통과](https://github.com/theyapapa/cryptonews/blob/ko/us-house-passes-bill-for-task-force-to-combat-crypto-use-by-terrorists-e6d97099.md)
 * 2018-09-27 [코인 베이스는 암호화 거래를 단순화 하도록 설계 된 ' 코인 베이스 번들 '을 도입](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-introduces-coinbase-bundle-designed-to-simplify-crypto-trading-33ffb6f6.md)
 * 2018-09-27 [골드만 삭스는 블록 체인 지불 시작에 대 한 $2500만 자금을 리드 veem](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-leads-25-million-funding-round-for-blockchain-payments-startup-veem-2f04725b.md)
 * 2018-09-27 [리플 발표 $1억500만 교육에 대 한 자선 벤처, 금융 포함 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/ripple-announces-105-million-charity-venture-for-education-financial-inclusion-projects-b12c617c.md)
