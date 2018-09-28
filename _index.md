@@ -1,3 +1,4 @@
+* 2018-09-28 [의견: 유럽은 "사이버 식민지 화"를 피하기 위해 블록 체인을 포용 해야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization-e57717d7.md)
 * 2018-09-28 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 대시: 가격 분석, 9 월 28 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-september-28-4cf236f2.md)
 * 2018-09-28 [럭셔리 시계 hublot 발표 새로운 모델, 비트 코인에만 사용할 수](https://github.com/theyapapa/cryptonews/blob/ko/luxury-watchmaker-hublot-unveils-new-model-available-for-bitcoin-only-a3228024.md)
 * 2018-09-28 [오픈 소스 클럽: monero 지역 사회의 도움으로 아직 또 다른 공격을 dodges](https://github.com/theyapapa/cryptonews/blob/ko/open-source-club-monero-dodges-yet-another-attack-with-communitys-help-da1209fe.md)
