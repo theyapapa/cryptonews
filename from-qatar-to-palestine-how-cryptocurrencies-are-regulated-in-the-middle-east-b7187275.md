@@ -14,6 +14,6 @@
 
 В связи с тем, что Visa и MasterCard не действуют в стране, а местная валюта — риал — стремительно снижается из-за высоких темпов инфляции, биткойн приобрел популярность в местной валюте: в мае местные СМИ сообщили, что более $2 500 000 000 были отправлены на покупку виртуального валют в Иране.
 
-Original source: [From Qatar to Palestine: How Cryptocurrencies Are Regulated in the Middle East](https://cointelegraph.com/news/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east)
+[Original source](https://cointelegraph.com/news/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

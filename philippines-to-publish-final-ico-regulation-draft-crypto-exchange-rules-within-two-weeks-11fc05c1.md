@@ -14,6 +14,6 @@
 
 Такой подход напоминает о том, что принято в Японии, где регуляторы продолжают ужесточить требования к биржам, чтобы избежать повторения серьезных рубить в январе этого года.
 
-Original source: [Philippines to Publish Final ICO Regulation, Draft Crypto Exchange Rules Within Two Weeks](https://cointelegraph.com/news/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks)
+[Original source](https://cointelegraph.com/news/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Atlas Quantum обнаружил нарушение в субботу, 25 авг
 
 Atlas Quantum является инвестиционной и торговой платформой, базирующейся в Бразилии, которая, как сообщается, управляет более $27 000 000 в активах.
 
-Original source: [Brazilian Crypto Platform Atlas Quantum Reveals Data Breach Affecting 260K Customers](https://cointelegraph.com/news/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers)
+[Original source](https://cointelegraph.com/news/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

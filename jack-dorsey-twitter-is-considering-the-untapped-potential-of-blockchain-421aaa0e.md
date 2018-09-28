@@ -14,6 +14,6 @@
 
 Как коинтелеграф сообщил в августе, исследования от кибербезопасности фирма Duo безопасности пролить свет на печально известного феномена щебетать афера счетов рекламы поддельные крипто "подарками", выявление сети по крайней мере 15 000 мошенников.
 
-Original source: [Jack Dorsey: Twitter Is Considering the ‘Untapped Potential’ of Blockchain](https://cointelegraph.com/news/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain)
+[Original source](https://cointelegraph.com/news/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

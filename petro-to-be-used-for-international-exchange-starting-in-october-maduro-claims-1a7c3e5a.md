@@ -14,6 +14,6 @@
 
 Как коинтелеграф сообщил позднее в сентябре, Венесуэла объявила, что валюта будет использоваться в качестве единицы счета в стране, что делает заработную плату и системы ценообразования быть привязаны к Петро.
 
-Original source: [Petro to Be Used for International Exchange Starting in October, Maduro Claims](https://cointelegraph.com/news/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims)
+[Original source](https://cointelegraph.com/news/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

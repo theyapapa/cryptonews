@@ -14,6 +14,6 @@
 
 В апреле Google также объявил, что он удаляет расширений интеллектуального анализа данных из своего веб-магазина Chrome после "90 процентов" якобы не в соответствии с его правилами.
 
-Original source: [Report: Some Crypto Mining Apps Remain in Google Play Store Despite Recent Ban](https://cointelegraph.com/news/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban)
+[Original source](https://cointelegraph.com/news/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

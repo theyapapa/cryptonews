@@ -14,6 +14,6 @@
 
 В марте лихтенштейнское кредитное учреждение банк Фрик начал предлагать «прямые инвестиции» и холодильные склады для пяти банков. Bitcoin, Bitcoin Cash, Litecoin, рябь и Ethereum.
 
-Original source: [Binance LCX Launches Fiat-to-Crypto Exchange in Liechtenstein](https://cointelegraph.com/news/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein)
+[Original source](https://cointelegraph.com/news/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

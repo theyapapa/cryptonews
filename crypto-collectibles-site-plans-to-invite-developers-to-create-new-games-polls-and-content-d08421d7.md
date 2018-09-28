@@ -14,6 +14,6 @@
 
 Как только определенная цель достигнута — 200, например, Crypton возвращается к некоммерческой коллекционированию.
 
-Original source: [Crypto Collectibles Site Plans to Invite Developers to Create New Games, Polls and Content](https://cointelegraph.com/news/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content)
+[Original source](https://cointelegraph.com/news/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

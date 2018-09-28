@@ -14,6 +14,6 @@ ShapeShift Exchange ввела новую программу вознаграж�
 
 В январе ShapeShift интегрированный платежный процессор BitPay для предоставления моментальных биткоинов (BTC) на торги Bitcoin Cash (МПБ), что также позволяет клиентам проводить обмены между двумя валютными фондами в BitPay и Копа кошельках.
 
-Original source: [‘Exchange Without Accounts’ ShapeShift to Gradually Introduce Membership Program](https://cointelegraph.com/news/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program)
+[Original source](https://cointelegraph.com/news/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

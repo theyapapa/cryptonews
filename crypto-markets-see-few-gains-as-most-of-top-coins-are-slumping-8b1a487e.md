@@ -14,6 +14,6 @@
 
 Вчера, фундстрат глава исследования том ли сказал в интервью CNBC, что "электронную" может закончиться год взрывоопасно выше ", ссылаясь на корреляцию между ИТ и развивающихся рынках, и утверждая, что он по-прежнему считает, что Bitcoin может ударить $25 000 к концу 2018.
 
-Original source: [Crypto Markets See Few Gains as Most of Top Coins Are Slumping](https://cointelegraph.com/news/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

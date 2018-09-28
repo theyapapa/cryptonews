@@ -14,6 +14,6 @@
 
 Если медведи защищают накладные сопротивления, либо на 20-дневную EMA или нисходящей линии и снова перерыв ниже $0,9150, виртуальная валюта может упасть на свою следующую поддержку на $0,666 и ниже, что до $0,5721.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, TRON: Price Analysis, August 03](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-03)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-03)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -12,6 +12,6 @@
 
 # # протеста недели регулятор США увеличивает проверку в крипто горнодобывающей компании цепочки беспорядков Комиссия по ценным бумагам и биржам США (SEC) активизировала свой зонд в крипто горнодобывающей компании "цепочки", бывший биотехнологической фирмы, которая изменила свое название, чтобы содержать слово "цепочка" в прошлом году.
 
-Original source: [Hodler’s Digest, August 13-19: Joseph Lubin Embraces Crypto Bubbles, While Playboy Gets Impatient for Blockchain](https://cointelegraph.com/news/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain)
+[Original source](https://cointelegraph.com/news/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

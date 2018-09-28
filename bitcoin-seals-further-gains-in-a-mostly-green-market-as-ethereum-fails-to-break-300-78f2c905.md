@@ -14,6 +14,6 @@
 
 7-дневный график общей рыночной капитализации всех стран с коинмаркеткап сегодня видел бычий Новости для пространства блоков, с Южной Кореи Интернет и безопасности Агентства (Киса)-подорганизация министерства науки и ИКТ страны — объявление планов на более чем удвоение бюджета на пилотные проекты в этом году.
 
-Original source: [Bitcoin Seals Further Gains in a Mostly Green Market as Ethereum Fails to Break $300](https://cointelegraph.com/news/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300)
+[Original source](https://cointelegraph.com/news/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

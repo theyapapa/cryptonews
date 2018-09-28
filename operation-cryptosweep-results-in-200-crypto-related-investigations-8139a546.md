@@ -14,6 +14,6 @@
 
 NASA отмечает, что даже зарегистрированные продукты могут быть мошенническими, поэтому инвесторы должны выполнять свои собственные должной осмотрительности, прежде чем инвестировать в ИКО или крипто-связанных проектов.
 
-Original source: [‘Operation Cryptosweep’ Results in 200 Crypto-Related Investigations](https://cointelegraph.com/news/operation-cryptosweep-results-in-200-crypto-related-investigations)
+[Original source](https://cointelegraph.com/news/operation-cryptosweep-results-in-200-crypto-related-investigations)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

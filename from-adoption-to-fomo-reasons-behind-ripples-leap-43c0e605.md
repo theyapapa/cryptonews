@@ -14,6 +14,6 @@
 
 Чтобы защитить родной маркер компании, он указал на открытый исходный протокол КСРП Леджер и его независимость от самой корпорации, подчеркнув, что рябь контролирует только семь процентов проверяющих узлов, работающих в сети.
 
-Original source: [From Adoption to FOMO: Reasons Behind Ripple’s Leap](https://cointelegraph.com/news/from-adoption-to-fomo-reasons-behind-ripples-leap)
+[Original source](https://cointelegraph.com/news/from-adoption-to-fomo-reasons-behind-ripples-leap)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

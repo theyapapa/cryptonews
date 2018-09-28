@@ -14,6 +14,6 @@
 
 Это последнее понятие куранты с озабоченностью озвучил недавно президент Комиссии по торговле сырьевыми фьючерсами США (CFTC), который сказал, что США "отстает" других стран в стимулировании инноваций.
 
-Original source: [US Treasury Dept. Fintech Innovation Report Touches on Crypto, Blockchain](https://cointelegraph.com/news/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain)
+[Original source](https://cointelegraph.com/news/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

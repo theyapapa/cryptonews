@@ -14,6 +14,6 @@ Deloitte считает, что определенное отставание в
 
 Ранее весной этого года, другой доклад Deloitte в цепочки сосредоточены на розничной и потребительской упаковке товаров (КПГ) промышленности, так же решительно вывод, что те предприятия, которые не по крайней мере рассмотреть возможности технологии "рискуют упасть позади ".
 
-Original source: [Deloitte 2018 Survey: Blockchain "Getting Closer to Breakout Moment Every Day"](https://cointelegraph.com/news/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day)
+[Original source](https://cointelegraph.com/news/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

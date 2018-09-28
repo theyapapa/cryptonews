@@ -14,6 +14,6 @@
 
 "каждый из ведущих десяти производителей автобусов в Китае сильно назад НТС в этой инициативе, и успех этой сделки с SSC будет размещать активы поддержек цифровых предложений твердо на карте", добавил Хуан.
 
-Original source: [China’s Largest Electric Bus Operator and Blockchain Firm Partner in $24 Billion Deal](https://cointelegraph.com/news/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal)
+[Original source](https://cointelegraph.com/news/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

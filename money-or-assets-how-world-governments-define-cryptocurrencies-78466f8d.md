@@ -12,6 +12,6 @@ Bitcoin снизился на 10 процентов после этого объ
 
 Однако, несмотря на то, что все другие компании были сразу же присвоены в качестве финансовых активов и в качестве ценных бумаг в результате указа о создании Петро, никто не был объявлен законным платежным средством.
 
-Original source: [Money or Assets? How World Governments Define Cryptocurrencies](https://cointelegraph.com/news/money-or-assets-how-world-governments-define-cryptocurrencies)
+[Original source](https://cointelegraph.com/news/money-or-assets-how-world-governments-define-cryptocurrencies)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

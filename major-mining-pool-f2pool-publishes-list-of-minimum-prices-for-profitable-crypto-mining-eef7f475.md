@@ -14,6 +14,6 @@
 
 В июле крупный тайваньский производитель микрочипов TSMC в очередной раз снизил свои ежегодные оценки доходов и капитальных расходов после снижения темпов роста в области криптографической добычи, среди прочих областей.
 
-Original source: [Major Mining Pool F2Pool Publishes List of Minimum Prices for Profitable Crypto Mining](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
+[Original source](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

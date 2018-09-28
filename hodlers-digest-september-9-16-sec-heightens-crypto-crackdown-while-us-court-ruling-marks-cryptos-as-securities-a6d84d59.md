@@ -12,6 +12,6 @@
 
 Группа из США на основе цепочки и крипто компаний объявили, что они будут формировать цепочки, "первая" лоббистской группы, представляющей цепочки производства в Вашингтоне, округ Колумбия называется цепочки, группа состоит из промышленности такие лидеры, как Crypto Exchange Coinbase, технология запуска протокола Labs, а также цифровая валютная группа и многоцепной капитал.
 
-Original source: [Hodler’s Digest, September 9-16: SEC Heightens Crypto Crackdown, While US Court Ruling Marks Cryptos as Securities](https://cointelegraph.com/news/hodlers-digest-september-9-16-sec-heightens-crypto-crackdown-while-us-court-ruling-marks-cryptos-as-securities)
+[Original source](https://cointelegraph.com/news/hodlers-digest-september-9-16-sec-heightens-crypto-crackdown-while-us-court-ruling-marks-cryptos-as-securities)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

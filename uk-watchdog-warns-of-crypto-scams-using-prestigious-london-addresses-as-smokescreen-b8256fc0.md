@@ -14,6 +14,6 @@ FCA отмечает, что сами по себе сами по себе в н
 
 Только на прошлой неделе, Британская полиция опубликовала свои собственные предупреждения британской общественности по поводу мошеннических схем крипто инвестиций, после статистических данных из действий мошенничества Национальный центр отчетности показал, что Великобритания жертвы сообщили крипто-афера связанные потери $2 500 000 в Июнь и июль 2018 в одиночку.
 
-Original source: [UK Watchdog Warns of Crypto Scams Using ‘Prestigious’ London Addresses as Smokescreen](https://cointelegraph.com/news/uk-watchdog-warns-of-crypto-scams-using-prestigious-london-addresses-as-smokescreen)
+[Original source](https://cointelegraph.com/news/uk-watchdog-warns-of-crypto-scams-using-prestigious-london-addresses-as-smokescreen)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

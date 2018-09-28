@@ -14,6 +14,6 @@
 
 В начале августа sec отложила свое решение по поводу еще одного приложения Bitcoin ЕФО--на этот раз подал инвестиционной фирмы ванекк и финансовых услуг компании солидкс, для торговли на CBOE.
 
-Original source: [SEC Rejects 9 Bitcoin ETF Applications from ProShares, Direxion and GraniteShares](https://cointelegraph.com/news/sec-rejects-9-bitcoin-etf-applications-from-proshares-direxion-and-graniteshares)
+[Original source](https://cointelegraph.com/news/sec-rejects-9-bitcoin-etf-applications-from-proshares-direxion-and-graniteshares)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

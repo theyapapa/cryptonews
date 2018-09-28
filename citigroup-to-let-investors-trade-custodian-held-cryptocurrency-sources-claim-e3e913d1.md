@@ -14,6 +14,6 @@ Citigroup, которая ранее предприняла централизо
 
 Как коинтелеграф сообщил, 9 сентября увидел регулятора США Комиссия по ценным бумагам и биржам (SEC) вопрос неожиданного временного запрета на первый крипто-связанных обмен векселями (ETNs), ссылаясь на "путаница" среди инвесторов.
 
-Original source: [Citigroup to Let Investors Trade Custodian-Held Cryptocurrency, Sources Claim](https://cointelegraph.com/news/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim)
+[Original source](https://cointelegraph.com/news/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

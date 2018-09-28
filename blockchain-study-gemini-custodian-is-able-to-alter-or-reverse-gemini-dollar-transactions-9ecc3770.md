@@ -14,6 +14,6 @@
 
 Близнецы доллар представляет собой первый крипто-связанных активов из винклвосс близнецов, которые ранее получили второй отказ от регуляторов для запуска Bitcoin (BTC) Биржевой фонд (ETF) в июле.
 
-Original source: [Blockchain Study: Gemini Custodian is Able to Alter or Reverse Gemini Dollar Transactions](https://cointelegraph.com/news/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions)
+[Original source](https://cointelegraph.com/news/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

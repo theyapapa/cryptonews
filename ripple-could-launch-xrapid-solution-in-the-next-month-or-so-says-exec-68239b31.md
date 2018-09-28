@@ -14,6 +14,6 @@
 
 Весной этого года различные финансовые учреждения приняли участие в пилотной платформе ксрапид, которая протестировала платежи между США и Мексикой.
 
-Original source: [Ripple Could Launch xRapid Solution ‘In the Next Month or So,’ Says Exec](https://cointelegraph.com/news/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec)
+[Original source](https://cointelegraph.com/news/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

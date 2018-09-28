@@ -14,6 +14,6 @@
 
 В апреле этого года, законопроект, позволяющий корпорациям провести и обмениваться данными о цепочке был официально подписан в штате Аризона закон, и пересмотренный Статут государства предусматривали, что данные "написано" и хранится на цепочке является "неизменяемым и проверяемых и обеспечивает без цензуры истины "с 2017 апреля.
 
-Original source: [Ohio Lawmakers, Academics Plan to Make State a Hub for Blockchain Development](https://cointelegraph.com/news/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development)
+[Original source](https://cointelegraph.com/news/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

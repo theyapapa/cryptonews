@@ -14,6 +14,6 @@
 
 Как коинтелеграф сообщил, это весной правительственный регулятор Гэри Gensler утверждал, что алткоинс, такие как Ethereum и пульсации, вероятно, можно считать незарегистрированных ценных бумаг на основе их токен предварительной продажи.
 
-Original source: [Investment Firm Morgan Creek Launches Digital Asset Index Fund Excluding Pre-Mined Cryptos](https://cointelegraph.com/news/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos)
+[Original source](https://cointelegraph.com/news/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 В прошлом году, Falcon Private Bank получил разрешение от швейцарского органа финансового надзора (FINMA) для управления Bitcoin (BTC) и других валютах на основе технологии цепочки.
 
-Original source: [Swiss Bank Maerki Baumann to Become Second in Country to Accept Cryptocurrency Assets](https://cointelegraph.com/news/swiss-bank-maerki-baumann-to-become-second-in-country-to-accept-cryptocurrency-assets)
+[Original source](https://cointelegraph.com/news/swiss-bank-maerki-baumann-to-become-second-in-country-to-accept-cryptocurrency-assets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

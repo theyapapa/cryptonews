@@ -14,6 +14,6 @@ Ethereum (высшая школа) Core разработчики решили н
 
 Кроме того, блок награды будут скорректированы на базе 2-го, дядя и племянник награды будут скорректированы соответствующим образом ".
 
-Original source: [Ethereum Core Devs Delay ‘Difficulty Bomb,’ Reduce Block Rewards to 2 ETH](https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth)
+[Original source](https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

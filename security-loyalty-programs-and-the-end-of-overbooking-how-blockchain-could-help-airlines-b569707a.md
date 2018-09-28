@@ -14,6 +14,6 @@
 
 Для создания жизнеспособных и рентабельных видов использования технологии в цепочке имеется множество информационных ниш в аэропортах, но дальнейшая разработка лидерами отрасли необходима.
 
-Original source: [Security, Loyalty Programs and the End of Overbooking: How Blockchain Could Help Airlines](https://cointelegraph.com/news/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines)
+[Original source](https://cointelegraph.com/news/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 В мае законодательный орган штата Нью-Йорк продвинулся по аналогичному законопроекту о создании целевой группы по созданию блоков.
 
-Original source: [California State Legislature Passes Bill to Establish Blockchain Working Group](https://cointelegraph.com/news/california-state-legislature-passes-bill-to-establish-blockchain-working-group)
+[Original source](https://cointelegraph.com/news/california-state-legislature-passes-bill-to-establish-blockchain-working-group)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

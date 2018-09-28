@@ -14,6 +14,6 @@
 
 В конце 2017, коинтелеграф сообщил, что группа из четырнадцати европейских страховых компаний в партнерстве с Deloitte и другими компаниями, чтобы обеспечить простую систему для страховщиков в соответствии с Хамон закон, с требует страховщиков обеспечить простой переводы для клиентов которые хотят изменить компании в течение первого года.
 
-Original source: [US National Insurance Advisory AAIS Introduces IBM Blockchain-Based Reporting Tool](https://cointelegraph.com/news/us-national-insurance-advisory-aais-introduces-ibm-blockchain-based-reporting-tool)
+[Original source](https://cointelegraph.com/news/us-national-insurance-advisory-aais-introduces-ibm-blockchain-based-reporting-tool)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 В начале этого года в совместном докладе ЕЦБ и Банка международных расчетов (БМР) были подчеркнуты "побочные эффекты" потенциального запуска такой валюты, а также рассмотрена необходимость проведения дополнительных исследований заранее.
 
-Original source: [European Central Bank: ‘No Plans’ for Digital Currency, Cash Demand Growing](https://cointelegraph.com/news/european-central-bank-no-plans-for-digital-currency-cash-demand-growing)
+[Original source](https://cointelegraph.com/news/european-central-bank-no-plans-for-digital-currency-cash-demand-growing)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

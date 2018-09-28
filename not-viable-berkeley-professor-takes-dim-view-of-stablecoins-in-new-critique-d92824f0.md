@@ -14,6 +14,6 @@ Eichengreen пишет, что "обычные валюты, такие как B
 
 Однако для Eichengreen такие активы делятся на три категории в зависимости от полноты залога токенов — полного, частичного и необеспеченного — и у каждого из них есть свои слабые места.
 
-Original source: [Not ‘Viable’? Berkeley Professor Takes Dim View of Stablecoins in New Critique](https://cointelegraph.com/news/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique)
+[Original source](https://cointelegraph.com/news/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

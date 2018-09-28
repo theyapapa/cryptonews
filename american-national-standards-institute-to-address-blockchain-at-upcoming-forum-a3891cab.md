@@ -14,6 +14,6 @@
 
 Согласно докладу, следующим важным шагом в внедрении приложений для защиты окружающей среды является создание «ответственной» и «глобальной» экосистемы, в отличие от финансирования конкретных, отдельных проектов.
 
-Original source: [American National Standards Institute to Address Blockchain at Upcoming Forum](https://cointelegraph.com/news/american-national-standards-institute-to-address-blockchain-at-upcoming-forum)
+[Original source](https://cointelegraph.com/news/american-national-standards-institute-to-address-blockchain-at-upcoming-forum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

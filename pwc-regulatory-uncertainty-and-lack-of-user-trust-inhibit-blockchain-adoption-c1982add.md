@@ -16,6 +16,6 @@
 
 США и Китай были идентифицированы респондентами как ведущие рынки для развития цепочки, опрос на 29 процентов и 18 процентов соответственно.
 
-Original source: [PwC: Regulatory Uncertainty and Lack of User Trust Inhibit Blockchain Adoption](https://cointelegraph.com/news/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption)
+[Original source](https://cointelegraph.com/news/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

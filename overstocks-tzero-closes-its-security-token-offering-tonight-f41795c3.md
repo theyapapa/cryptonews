@@ -12,6 +12,6 @@
 
 Разработчики стремились представить средства торговых маркеров безопасности, которые подключились реальными активами и несколько связующим звеном между цепочкой и традиционным финансовым сектором.
 
-Original source: [Overstock’s tZERO Closes Its Security Token Offering Tonight](https://cointelegraph.com/news/overstocks-tzero-closes-its-security-token-offering-tonight)
+[Original source](https://cointelegraph.com/news/overstocks-tzero-closes-its-security-token-offering-tonight)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

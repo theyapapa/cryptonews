@@ -14,6 +14,6 @@ FT цитирует два безымянных инсайдерской ист�
 
 Новости-который сломался в тот же день, что нидфс дал свое одобрение на отдельный доллар-поддержали стаблекоин от американской трастовой компании Паксос-вызвало прилива бычьего настроения на рынках крипто.
 
-Original source: [Winklevoss' Crypto Exchange Gemini Eyes Entrance Into UK Market, Sources Report](https://cointelegraph.com/news/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report)
+[Original source](https://cointelegraph.com/news/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

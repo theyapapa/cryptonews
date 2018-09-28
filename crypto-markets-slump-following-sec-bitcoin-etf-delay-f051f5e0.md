@@ -14,6 +14,6 @@
 
 Источник: коинмаркеткап общей рыночной капитализации всех рынков в $236 700 000 000 на время прессы, вниз почти $15 000 000 000 за 24-часовой период.
 
-Original source: [Crypto Markets Slump Following SEC Bitcoin ETF Delay](https://cointelegraph.com/news/crypto-markets-slump-following-sec-bitcoin-etf-delay)
+[Original source](https://cointelegraph.com/news/crypto-markets-slump-following-sec-bitcoin-etf-delay)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

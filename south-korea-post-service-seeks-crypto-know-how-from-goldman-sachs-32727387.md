@@ -14,6 +14,6 @@
 
 Южная Корея продолжает официально оформлять свои правила, коинтелеграф отчетность о том, как правительство дебаты в настоящее время вращается вокруг спорных первоначальных монеты предлагая (ICO) запрет и создание мальтийского стиля "островок".
 
-Original source: [South Korea Post Service Seeks Crypto ‘Know-How’ From Goldman Sachs](https://cointelegraph.com/news/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs)
+[Original source](https://cointelegraph.com/news/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

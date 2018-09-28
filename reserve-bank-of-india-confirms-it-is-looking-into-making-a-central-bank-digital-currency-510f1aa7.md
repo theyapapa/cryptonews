@@ -14,6 +14,6 @@ EY Индии Махеш махиджа заявил, что "идея цент�
 
 Возможности переноса крипто-обменных домов в темные бассейны/наличные и в оффшорные места \ [повышение \] опасения по борьбе с отмыванием денег (бод)/комбатинг финансированию терроризма (ФТ) и вопросам налогообложения».
 
-Original source: [Reserve Bank of India Confirms It Is Looking Into Making a Central Bank Digital Currency](https://cointelegraph.com/news/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency)
+[Original source](https://cointelegraph.com/news/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

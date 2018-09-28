@@ -14,6 +14,6 @@
 
 Как сообщила коинтелеграф на прошлой неделе, специальная программа подготовки молодежи, спонсируемая министерством науки и ИКТ страны, в сентябре снова начнется, сосредоточив внимание на цепочках, ИИ и других областях в качестве средства облегчения безработицы среди молодежи и соответствия перспективные кандидаты с правильными позициями.
 
-Original source: [Blockchain Among Targets of South Korea’s $4.4 Billion Domestic Investment Plans for 2019](https://cointelegraph.com/news/blockchain-among-targets-of-south-koreas-44-billion-domestic-investment-plans-for-2019)
+[Original source](https://cointelegraph.com/news/blockchain-among-targets-of-south-koreas-44-billion-domestic-investment-plans-for-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

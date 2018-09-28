@@ -14,6 +14,6 @@
 
 7 августа коинтелеграф сообщил, что Иран крипто вымогателей угроза находится на подъеме и будет расти дальше в нынешней геополитической обстановке.
 
-Original source: [Iran: State-Backed Crypto Draft is Ready, Central Bank to Soon Announce Stance on Crypto](https://cointelegraph.com/news/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto)
+[Original source](https://cointelegraph.com/news/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

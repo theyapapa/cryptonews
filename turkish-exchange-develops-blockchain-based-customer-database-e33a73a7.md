@@ -14,6 +14,6 @@
 
 Несмотря на позицию правительства, Обмен валюты в Турции, по сообщениям, пользуется поддержкой большинства банков, что облегчает для начинающих трейдеров покупку и продажу валютных курсов.
 
-Original source: [Turkish Exchange Develops Blockchain-Based Customer Database](https://cointelegraph.com/news/turkish-exchange-develops-blockchain-based-customer-database)
+[Original source](https://cointelegraph.com/news/turkish-exchange-develops-blockchain-based-customer-database)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

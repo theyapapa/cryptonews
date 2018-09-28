@@ -14,6 +14,6 @@
 
 Bitcoin Gold (BTG), который будет вычисляться из основных Crypto Exchange биттрекс к середине сентября, видит меньшие потери, вниз 4,6 процента и торговли на $20,60 в пресс-время.
 
-Original source: [Crypto Markets See Sharp Decline as Total Market Cap Drops $12 Billion in One Hour](https://cointelegraph.com/news/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

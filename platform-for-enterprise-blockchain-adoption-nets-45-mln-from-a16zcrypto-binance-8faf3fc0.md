@@ -18,6 +18,6 @@ Blockchain  [🔗](https://cointelegraph.com/tags/blockchain)  облачная 
 
 Ripple  [🔗](https://cointelegraph.com/tags/xrp-price-index), компания, которая отстает от платформы многомиллиардной сети, сфокусирована на трансграничных платежах, принятые  [🔗](https://cointelegraph.com/news/ripple-banks-unlikely-to-apply-blockchain-for-cross-border-payments-in-near-future)  в прошлом месяце банки "вряд ли" могут принять технологию из-за конфиденциальности и других проблем.
 
-Original source: [Platform for Enterprise Blockchain Adoption Nets $45 Mln From A16ZCrypto, Binance](https://cointelegraph.com/news/platform-for-enterprise-blockchain-adoption-nets-45-mln-from-a16zcrypto-binance)
+[Original source](https://cointelegraph.com/news/platform-for-enterprise-blockchain-adoption-nets-45-mln-from-a16zcrypto-binance)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

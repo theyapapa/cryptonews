@@ -14,6 +14,6 @@
 
 Компания рассматривает повышение $4 000 000 до $8 000 000 круглый этим летом, но команда начала переговоры об инвестициях с Coinbase, что привело к приобретению.
 
-Original source: [Coinbase to Pursue Decentralized Form of Identification Following Acquisition](https://cointelegraph.com/news/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition)
+[Original source](https://cointelegraph.com/news/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

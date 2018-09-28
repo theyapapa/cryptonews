@@ -14,6 +14,6 @@
 
 Некоторые государства-члены призывают создать новый орган для борьбы с отмыванием денег на уровне ЕС, в то время как другие выступают за идею предоставления большей власти одному из существующих финансовых регуляторов ЕС, таких, как Европейский банковский орган (ВКО).
 
-Original source: [How Will the UK Deal With Crypto After Brexit: Expert Take](https://cointelegraph.com/news/how-will-the-uk-deal-with-crypto-after-brexit-expert-take)
+[Original source](https://cointelegraph.com/news/how-will-the-uk-deal-with-crypto-after-brexit-expert-take)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

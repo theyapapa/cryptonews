@@ -14,6 +14,6 @@
 
 Фанусие пришел к выводу о том, что использование террористами цифровых валют отражается на широкой публике: «но электронные и технологические цепочки не являются незаконными и не должны бояться.
 
-Original source: [Report: Crypto Not Effective for Financing Terrorist Groups](https://cointelegraph.com/news/report-crypto-not-effective-for-financing-terrorist-groups)
+[Original source](https://cointelegraph.com/news/report-crypto-not-effective-for-financing-terrorist-groups)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

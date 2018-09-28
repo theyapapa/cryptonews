@@ -16,6 +16,6 @@ SDX планирует стать "полностью интегрированн
 
 На этой неделе также было объявлено о том, что крупнейший в Европе валютный фонд (ETF),  [🔗](https://cointelegraph.com/tags/netherlands)  Speed Trader, сообщает о  [🔗](https://cointelegraph.com/news/dutch-speed-trading-firm-enters-crypto-market-despite-regulator-s-warnings)  it was moving into the cryptocrenency arenency, несмотря на оговорки финансового регулятора страны.
 
-Original source: [Main Swiss Stock Exchange to Launch Distributed Ledger-Based ‘Digital Asset’ Exchange](https://cointelegraph.com/news/main-swiss-stock-exchange-to-launch-distributed-ledger-based-digital-asset-exchange)
+[Original source](https://cointelegraph.com/news/main-swiss-stock-exchange-to-launch-distributed-ledger-based-digital-asset-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

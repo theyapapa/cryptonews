@@ -14,6 +14,6 @@
 
 Сегодня также увидел запуск винклвосс близнецов собственный Нью-Йорк регулятор-одобрил США доллар-подстаблекоин, названный Близнецы доллара.
 
-Original source: [Blockchain Trust Company Paxos Launches NY Regulator-Approved, USD-Backed Stablecoin](https://cointelegraph.com/news/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin)
+[Original source](https://cointelegraph.com/news/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

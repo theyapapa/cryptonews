@@ -14,6 +14,6 @@ Yonhap Манор далее ссылается на данные из репо�
 
 По состоянию на время печати, упбит видит $95 349 355 в ежедневных объемах торговли и занимает 12-е место по величине по всему миру на коинмаркеткап.
 
-Original source: [S. Korea's Top Crypto Exchange Upbit Defies Bear Market, Posts $100 Million Profits in Q3 2018](https://cointelegraph.com/news/s-koreas-top-crypto-exchange-upbit-defies-bear-market-posts-100-million-profits-in-q3-2018)
+[Original source](https://cointelegraph.com/news/s-koreas-top-crypto-exchange-upbit-defies-bear-market-posts-100-million-profits-in-q3-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

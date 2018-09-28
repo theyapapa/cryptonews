@@ -14,6 +14,6 @@ Bionic Coin, сибрелабс Ltd., и Global Pay NET (также извест
 
 Дора чиновников сказал, что ни одна компания представила информацию о рисках инвестирования в ИКО.
 
-Original source: [Three Crypto Firms Ordered to Show Cause by Colorado State Securities Commissioner](https://cointelegraph.com/news/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner)
+[Original source](https://cointelegraph.com/news/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

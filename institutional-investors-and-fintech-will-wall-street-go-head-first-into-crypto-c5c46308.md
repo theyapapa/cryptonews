@@ -12,6 +12,6 @@ Galaxy Digital основатель Майк Новограц также зам�
 
 # # Морган Стэнли Морган Стэнли также было интересное путешествие в тандеме с технологией цепочки и технологий.
 
-Original source: [Institutional Investors and Fintech: Will Wall Street Go Head-First Into Crypto?](https://cointelegraph.com/news/institutional-investors-and-fintech-will-wall-street-go-head-first-into-crypto)
+[Original source](https://cointelegraph.com/news/institutional-investors-and-fintech-will-wall-street-go-head-first-into-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

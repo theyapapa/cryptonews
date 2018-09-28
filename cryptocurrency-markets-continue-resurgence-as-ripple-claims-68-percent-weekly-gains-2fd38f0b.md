@@ -14,6 +14,6 @@
 
 Источник: коинтелеграф рябь индекс цен комментаторы были первоначально не уверены в мотивации для такого роста, рябь сама намекая его ксрапид платежной сети вскоре начнут обслуживать своих первых банковских клиентов.
 
-Original source: [Cryptocurrency Markets Continue Resurgence as Ripple Claims 68 Percent Weekly Gains](https://cointelegraph.com/news/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains)
+[Original source](https://cointelegraph.com/news/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

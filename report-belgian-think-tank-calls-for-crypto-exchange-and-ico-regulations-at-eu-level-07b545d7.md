@@ -14,6 +14,6 @@
 
 30 августа Bloomberg сообщил, что министры ЕС планируют обсудить проблемы, связанные с цифровыми активами, и возможность ужесточения правил на предстоящей встрече.
 
-Original source: [Report: Belgian Think Tank Calls for Crypto Exchange and ICO Regulations at EU Level](https://cointelegraph.com/news/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level)
+[Original source](https://cointelegraph.com/news/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

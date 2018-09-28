@@ -14,6 +14,6 @@ BBVA Банкомер, принадлежащий испанской групп�
 
 Франсиско Гонсалес Родригес работает в качестве Исполнительного председателя BBVA Group с 2001.
 
-Original source: [BBVA Executive: Cryptocurrencies Are ‘Perfect,’ But Often Used for Illicit Activities](https://cointelegraph.com/news/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities)
+[Original source](https://cointelegraph.com/news/bbva-executive-cryptocurrencies-are-perfect-but-often-used-for-illicit-activities)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 # # Узбекистан в последнее время Узбекистан ввел ряд позитивных нормативных правовых актов для местной криптографической индустрии, а именно: признание торговли и добычи полезных ископаемых, а также освобождение местных торговцев Crypto от налогообложения.
 
-Original source: [From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia](https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia)
+[Original source](https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

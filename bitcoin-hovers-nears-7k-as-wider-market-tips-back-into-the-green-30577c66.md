@@ -14,6 +14,6 @@
 
 Новости приходит в решающее время для корейского крипто пространстве, как парламент страны дебаты легализации первоначальный монеты предложения (ИКО) и даже создание мальтийского стиля "островок".
 
-Original source: [Bitcoin Hovers Near $7K, as Wider Market Tips Back Into the Green](https://cointelegraph.com/news/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green)
+[Original source](https://cointelegraph.com/news/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

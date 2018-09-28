@@ -14,6 +14,6 @@
 
 Источник: коинтелеграф КСРП индекс цен звездных (XLM) и Монеро (КСМР), также вниз 2,3 и 0,6 процентов за последние 24 часов, соответственно.
 
-Original source: [Crypto Markets See Slight Slump, Ethereum Fails to Hold $300 Support](https://cointelegraph.com/news/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

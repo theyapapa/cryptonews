@@ -14,6 +14,6 @@ XP, как сообщается, поставил цель иметь $1 000 000
 
 Ранее на этой неделе, бразильский Административный Совет по экономической обороне (Кейд) начал зонд в шесть крупных национальных банков в отношении предполагаемых монополистической практики в крипто пространстве.
 
-Original source: [Largest Brazilian Brokerage to Launch Exchange for Bitcoin and Ethereum](https://cointelegraph.com/news/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum)
+[Original source](https://cointelegraph.com/news/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

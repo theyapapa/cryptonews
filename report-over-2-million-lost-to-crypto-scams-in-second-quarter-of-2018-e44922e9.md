@@ -14,6 +14,6 @@
 
 Используя самые последние 200 Tweets с каждого счета, классификатор нашел сеть из 15 000 ботов, которые распространяют поддельные соревнования и олицетворяют хорошо известных деятелей в крипто промышленности.
 
-Original source: [Report: Over $2 Million Lost to Crypto Scams in Second Quarter of 2018](https://cointelegraph.com/news/report-over-2-million-lost-to-crypto-scams-in-second-quarter-of-2018)
+[Original source](https://cointelegraph.com/news/report-over-2-million-lost-to-crypto-scams-in-second-quarter-of-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

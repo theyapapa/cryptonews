@@ -14,6 +14,6 @@
 
 Совсем недавно, в июле, андрисен принял участие в $45 млн раунд финансирования для цепочки Облако вычислительной платформы Oasis Labs в рамках своего плана, чтобы помочь компаниям принять цепочки.
 
-Original source: [Andreessen Horowitz, Polychain Capital Lead Blockchain Startup’s New $105 Million Funding Round](https://cointelegraph.com/news/andreessen-horowitz-polychain-capital-lead-blockchain-startups-new-105-million-funding-round)
+[Original source](https://cointelegraph.com/news/andreessen-horowitz-polychain-capital-lead-blockchain-startups-new-105-million-funding-round)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

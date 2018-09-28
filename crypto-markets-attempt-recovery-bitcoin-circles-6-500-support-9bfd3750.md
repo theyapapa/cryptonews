@@ -14,6 +14,6 @@
 
 7-дневный график суммарной рыночной капитализации всех коинмаркеткап в то время как отдельные крипто долю их состояния на рынке, там были новые бычьи развития для их основной технологии цепочки.
 
-Original source: [Crypto Markets Attempt Recovery, Bitcoin Circles $6,500 Support](https://cointelegraph.com/news/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support)
+[Original source](https://cointelegraph.com/news/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

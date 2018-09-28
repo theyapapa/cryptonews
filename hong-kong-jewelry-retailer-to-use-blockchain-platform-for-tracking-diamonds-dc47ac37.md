@@ -14,6 +14,6 @@
 
 В апреле крупные производители и поставщики золота и алмазной промышленности в партнерстве с IBM разработали сеть цепочки для отслеживания происхождения готовых ювелирных изделий.
 
-Original source: [Hong Kong Jewelry Retailer to Use Blockchain Platform for Tracking Diamonds](https://cointelegraph.com/news/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds)
+[Original source](https://cointelegraph.com/news/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

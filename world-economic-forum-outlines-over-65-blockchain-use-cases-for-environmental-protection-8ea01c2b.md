@@ -14,6 +14,6 @@
 
 13 сентября ВЭФ опубликовал совместный доклад, в котором, по оценкам, технология распределенных регистров (DLT) может добавить $1 000 000 000 000 к объему глобальной торговли в течение ближайших десяти лет.
 
-Original source: [World Economic Forum Outlines Over 65 Blockchain Use Cases for Environmental Protection](https://cointelegraph.com/news/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection)
+[Original source](https://cointelegraph.com/news/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

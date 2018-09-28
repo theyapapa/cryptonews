@@ -12,6 +12,6 @@
 
 Ранее в этом году, урожай портфелей инвестиционных решений провайдер стал первым канадским цепочки на основе ЕФО (хблк), что позволяет клиентам инвестировать в ценные бумаги сосредоточены на крупных и мелких блоков корпорации, основанные на собственном урожая Индекс технологий цепочки.
 
-Original source: [Coinsquare’s Investment Subsidiary Launches Two Tech-Based ETFs on TSX Exchange](https://cointelegraph.com/news/coinsquares-investment-subsidiary-launches-two-tech-based-etfs-on-tsx-exchange)
+[Original source](https://cointelegraph.com/news/coinsquares-investment-subsidiary-launches-two-tech-based-etfs-on-tsx-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

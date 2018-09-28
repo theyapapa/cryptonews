@@ -14,6 +14,6 @@
 
 Ранее на этой неделе, гигантский коммерческий Государственный банк Китая объявил о своих планах увеличить свои инвестиции в исследования и разработки цепочки и fintech, используя около одного процента от годового дохода банка.
 
-Original source: [Singapore: Venture Capital Firm to Launch $10 Million Crypto, Blockchain Investment Fund](https://cointelegraph.com/news/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund)
+[Original source](https://cointelegraph.com/news/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

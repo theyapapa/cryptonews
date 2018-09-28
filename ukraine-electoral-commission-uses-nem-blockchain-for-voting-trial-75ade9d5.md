@@ -14,6 +14,6 @@
 
 Несмотря на относительно низкие расходы на электроэнергию, Украина, тем не менее, не имеет планов по регулированию неформальной горнодобывающей промышленности, сообщил коинтелеграф.
 
-Original source: [Ukraine Electoral Commission Uses NEM Blockchain for Voting Trial](https://cointelegraph.com/news/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial)
+[Original source](https://cointelegraph.com/news/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

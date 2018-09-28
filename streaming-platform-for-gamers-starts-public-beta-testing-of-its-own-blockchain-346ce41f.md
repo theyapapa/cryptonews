@@ -14,6 +14,6 @@
 
 "таким образом, плай2ливе будет первой платформой в мире, которая использует компактные устройства для обеспечения защиты информации для пользователей и обеспечения безопасности их идентификации", комментирует Арбатов.
 
-Original source: [Streaming Platform for Gamers Starts Public Beta Testing of Its Own Blockchain](https://cointelegraph.com/news/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain)
+[Original source](https://cointelegraph.com/news/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

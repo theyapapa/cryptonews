@@ -14,6 +14,6 @@ Bitcoin.com Генеральный директор Роджер ver намек�
 
 "по данным битмаин pre-IPO инвестор палубе, они продали большую часть своих \ [Bitcoin \] для \ [Bitcoin Cash \].
 
-Original source: [Bitcoin.com CEO Roger Ver Eyes ICO as Token Issuance Protocol Comes to Bitcoin Cash](https://cointelegraph.com/news/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash)
+[Original source](https://cointelegraph.com/news/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

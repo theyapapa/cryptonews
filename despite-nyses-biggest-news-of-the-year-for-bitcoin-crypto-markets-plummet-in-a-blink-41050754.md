@@ -14,6 +14,6 @@
 
 1-дневный график общей рыночной капитализации всех валютных курсов от коинмаркеткап сегодня резко контрастирует с вчерашними основными новостями о том, что межконтинентальная биржа (ICE) – оператор 23 ведущих мировых бирж, включая Нью-Йоркская фондовая биржа (NYSE) – – планирует создать глобальную экосистему для цифровых активов, которая охватывала бы спектр от федерально регулируемых рынков и складирования до торговых и потребительских потребностей.
 
-Original source: [Despite NYSE’s ‘Biggest News of the Year’ for Bitcoin, Crypto Markets Plummet in a Blink](https://cointelegraph.com/news/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink)
+[Original source](https://cointelegraph.com/news/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

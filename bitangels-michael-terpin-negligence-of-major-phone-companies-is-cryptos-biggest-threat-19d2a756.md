@@ -14,6 +14,6 @@ MT: когда AT&T REP переворачивает вашу цифровую �
 
 Если вы по какой-то причине нужно использовать их, вы должны убедиться, что в любое время, что вы используете любой кусок программного обеспечения, которое когда-либо спрашивает ваш номер телефона, не дают AT&T или любой из других.
 
-Original source: [BitAngels’ Michael Terpin: Negligence of Major Phone Companies Is Crypto’s Biggest Threat](https://cointelegraph.com/news/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat)
+[Original source](https://cointelegraph.com/news/bitangels-michael-terpin-negligence-of-major-phone-companies-is-cryptos-biggest-threat)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

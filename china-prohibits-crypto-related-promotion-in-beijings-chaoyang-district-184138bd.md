@@ -14,6 +14,6 @@
 
 В феврале этого года, Китай добавил оффшорных обменов валют и ICO веб-сайтов его большой брандмауэр, в тот же месяц, как крипто-связанных рекламы были удалены из китайских поисковых Baidu и социальных медиа платформы Weibo.
 
-Original source: [China Prohibits Crypto-Related Promotion in Beijing’s Chaoyang District](https://cointelegraph.com/news/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district)
+[Original source](https://cointelegraph.com/news/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Power Леджер является австралийской компании 
 
 Еще в феврале, коинтелеграф сообщил, что цепочки широко используется в энергетической промышленности, с заметным случаев использования, включая системы мониторинга потребления энергии и премий в пользу тех, кто использует возобновляемые источники энергии, как солнечная энергия.
 
-Original source: [Australian Real Estate Major to Trial Blockchain-Powered Solar Energy Management Solution](https://cointelegraph.com/news/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution)
+[Original source](https://cointelegraph.com/news/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

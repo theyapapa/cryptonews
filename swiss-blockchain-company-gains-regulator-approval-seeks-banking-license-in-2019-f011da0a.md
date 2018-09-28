@@ -14,6 +14,6 @@
 
 Smart доблесть была основана в 2017 Ольга фелдмеиер, который ранее работал на китайском основе Bitcoin кошелек xAPO.
 
-Original source: [Swiss Blockchain Company Gains Regulator Approval, Seeks Banking License in 2019](https://cointelegraph.com/news/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019)
+[Original source](https://cointelegraph.com/news/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

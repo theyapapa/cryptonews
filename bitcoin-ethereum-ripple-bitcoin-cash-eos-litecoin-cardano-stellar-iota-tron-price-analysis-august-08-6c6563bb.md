@@ -12,6 +12,6 @@
 
 Если этот уровень также не обеспечивает поддержку, снижение может продлить до следующей зоны поддержки $0,5 — $0,52.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, TRON: Price Analysis, August 08](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-08)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-08)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

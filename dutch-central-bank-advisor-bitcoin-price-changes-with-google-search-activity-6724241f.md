@@ -14,6 +14,6 @@
 
 В апреле отчет для федерального резервного банка Сан-Франциско, в котором он обсудил пузырь Bitcoin с помощью индекс финансовой нестабильности «Хайме», аналитик не отклонил идею Bitcoin может представлять собой подлинное нововведение.
 
-Original source: [Dutch Central Bank Advisor: Bitcoin Price Changes With Google Search Activity](https://cointelegraph.com/news/dutch-central-bank-advisor-bitcoin-price-changes-with-google-search-activity)
+[Original source](https://cointelegraph.com/news/dutch-central-bank-advisor-bitcoin-price-changes-with-google-search-activity)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

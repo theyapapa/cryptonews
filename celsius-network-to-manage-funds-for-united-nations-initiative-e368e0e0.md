@@ -14,6 +14,6 @@
 
 Позже, в апреле, ЮНИСЕФ Австралия также объявила о инициативе, которая позволяет пользователям предоставлять свои вычислительные мощности компьютера для разминирования на благотворительность.
 
-Original source: [Celsius Network to Manage Funds for United Nations Initiative](https://cointelegraph.com/news/celsius-network-to-manage-funds-for-united-nations-initiative)
+[Original source](https://cointelegraph.com/news/celsius-network-to-manage-funds-for-united-nations-initiative)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

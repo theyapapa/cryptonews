@@ -14,6 +14,6 @@ Mad Skillz "мускус не единственный известный чел
 
 В сентябре Генеральный директор Twitter Джек Дорси предположил, что Twitter может использовать технологию цепочки для борьбы с дезинформацией и мошенничеством на своей платформе.
 
-Original source: [Elon Musk Asks Dogecoin Creator to Help Fight Crypto Scam Bots on Twitter](https://cointelegraph.com/news/elon-musk-asks-dogecoin-creator-to-help-fight-crypto-scam-bots-on-twitter)
+[Original source](https://cointelegraph.com/news/elon-musk-asks-dogecoin-creator-to-help-fight-crypto-scam-bots-on-twitter)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

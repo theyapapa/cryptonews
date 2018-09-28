@@ -14,6 +14,6 @@
 
 Примечательно, что в своем втором отказе от другого приложения BTC ЕФО от винклвосс близнецов в июле этого года, SEC заявила, что причиной является в значительной степени нерегулируемый характер Bitcoin Markets.
 
-Original source: [Crypto Markets See Green Amid Talk of ‘Forced Short Squeeze’ on BitMEX](https://cointelegraph.com/news/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

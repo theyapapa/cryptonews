@@ -14,6 +14,6 @@
 
 Партнеры смогут также использовать системы интеграции заказов и кошельков, а также систему управления активами и клиринга глобальной платформы хуоби.
 
-Original source: [Huobi Launches New Service to Streamline Token Listing Application Process](https://cointelegraph.com/news/huobi-launches-new-service-to-streamline-token-listing-application-process)
+[Original source](https://cointelegraph.com/news/huobi-launches-new-service-to-streamline-token-listing-application-process)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

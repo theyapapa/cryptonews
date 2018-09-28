@@ -14,6 +14,6 @@
 
 В соответствии с быстрыми темпами расширения сектора цепочки, широкий спектр крупных международных университетов предлагают цепочки, Smart контракт, и курсы, связанные с курсами.
 
-Original source: [Linux Foundation Launches New Hyperledger Blockchain Training Course](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
+[Original source](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

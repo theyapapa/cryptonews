@@ -14,6 +14,6 @@
 
 Там также ряд ИКО, которые утверждают, что обеспечить решения для различных отраслей промышленности, но вице-знак промышленности остается первым и последним проектом, инициированным большой и хорошо известный взрослого предприятия.
 
-Original source: [Playboy Lawsuit: How Blockchain Developer Failed The Vice Industry Token](https://cointelegraph.com/news/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token)
+[Original source](https://cointelegraph.com/news/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

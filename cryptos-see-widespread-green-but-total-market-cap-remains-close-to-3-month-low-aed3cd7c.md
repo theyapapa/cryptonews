@@ -14,6 +14,6 @@
 
 Источник коинмаркеткап общей рыночной капитализации всех оборотных средств составляет около $214 700 000 000 в пресс-время, близко к его самым низким уровням на 3-месячный график, только попав нижних точках в последние два дня, и немного вверх от вчерашнего низкого около $207 Миллиардов.
 
-Original source: [Cryptos See Widespread Green, But Total Market Cap Remains Close to 3-Month Low](https://cointelegraph.com/news/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low)
+[Original source](https://cointelegraph.com/news/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

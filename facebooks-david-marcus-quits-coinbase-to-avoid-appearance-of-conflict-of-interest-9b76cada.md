@@ -14,6 +14,6 @@ Facebook головной директор Дэвид Маркус объяви�
 
 "под руководством Давида Facebook готова быть одним из ведущих игроков в крипто и активным приобретатель", Райан Гилберт, партнер по стимулированию венчурных партнеров и незначительные Coinbase инвестор также рассказал издание субботу.
 
-Original source: [Facebook’s David Marcus Quits Coinbase to Avoid ‘Appearance’ of Conflict of Interest](https://cointelegraph.com/news/facebooks-david-marcus-quits-coinbase-to-avoid-appearance-of-conflict-of-interest)
+[Original source](https://cointelegraph.com/news/facebooks-david-marcus-quits-coinbase-to-avoid-appearance-of-conflict-of-interest)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

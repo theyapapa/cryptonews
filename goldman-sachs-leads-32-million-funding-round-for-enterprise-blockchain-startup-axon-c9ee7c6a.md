@@ -14,6 +14,6 @@ Goldman Sachs, JPMorgan и Citigroup уже успешно протестиро�
 
 Другие заметные недавние венчурные вливания в крипто-и космическое пространство включают $28 млн из Андреессен Горовиц и пантера капитал для ценных бумаг платформа гавани, и Рокфеллера VC ARM венрокк в партнерстве с крипто инвестиций Группа коинфунд.
 
-Original source: [Goldman Sachs Leads $32 Million Funding Round for Enterprise Blockchain Startup Axoni](https://cointelegraph.com/news/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon)
+[Original source](https://cointelegraph.com/news/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

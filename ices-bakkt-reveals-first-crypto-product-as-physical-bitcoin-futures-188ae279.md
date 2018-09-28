@@ -14,6 +14,6 @@
 
 Долгожданные биткойн-биржевые фонды (ETFs), в настоящее время ожидающие одобрения со стороны регуляторов США, отличаются от предложения баккт тем, что торговцы бывшего не будут принимать поставку каких-либо фактических биткойнов.
 
-Original source: [ICE’s Bakkt Reveals First Crypto Product as Physical Bitcoin Futures](https://cointelegraph.com/news/ices-bakkt-reveals-first-crypto-product-as-physical-bitcoin-futures)
+[Original source](https://cointelegraph.com/news/ices-bakkt-reveals-first-crypto-product-as-physical-bitcoin-futures)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

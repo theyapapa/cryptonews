@@ -14,6 +14,6 @@
 
 Как цитирует Бизнес инсайдерской, ли сказал: "глядя вперед, мы будем использовать на г-н Чэн международной сети и страсть к технологии цепочки, как мы продолжаем расширять географически \ [... \] опираясь на руководство команды биттраде и ее японский одобренная правительством лицензия, это только начало, как мы смотрим, чтобы расти биттраде в наиболее доминирующим игроком на японском рынке рынка. "
 
-Original source: [Huobi Buys Majority Stake in Japanese-licensed Crypto Exchange BitTrade](https://cointelegraph.com/news/huobi-buys-majority-stake-in-japanese-licensed-crypto-exchange-bittrade)
+[Original source](https://cointelegraph.com/news/huobi-buys-majority-stake-in-japanese-licensed-crypto-exchange-bittrade)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

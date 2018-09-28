@@ -14,6 +14,6 @@ FINRA, который начал официальное разбирательс
 
 FINRA в тот же день, как его правящая организация sec выпустила два отдельных прекращения и воздерживаться приказы наряду с штрафами.
 
-Original source: [FINRA Charges Broker With Fraud for Trading Unregistered Cryptocurrency](https://cointelegraph.com/news/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency)
+[Original source](https://cointelegraph.com/news/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

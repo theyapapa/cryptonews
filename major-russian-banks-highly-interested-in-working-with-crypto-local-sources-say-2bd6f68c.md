@@ -14,6 +14,6 @@
 
 Это была не первая встреча группы крипто-лобби, которая состоялась на Московской бирже.
 
-Original source: [Major Russian Banks Highly Interested in ‘Working With Crypto,’ Local Sources Say](https://cointelegraph.com/news/major-russian-banks-highly-interested-in-working-with-crypto-local-sources-say)
+[Original source](https://cointelegraph.com/news/major-russian-banks-highly-interested-in-working-with-crypto-local-sources-say)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

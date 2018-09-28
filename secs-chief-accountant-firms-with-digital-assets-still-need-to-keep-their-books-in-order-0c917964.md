@@ -14,6 +14,6 @@
 
 Последние громкие события на крипто нормативных ландшафтов в США видели sec продлить свою компетенцию для контроля крипто хедж-фонды, FINRA мышцы в случае предполагаемого мошенничества с ценными бумагами, и Нью-Йорк федерального судьи, что законы о ценных бумагах применимо для рассмотрения заявлений о мошенничестве в крипте.
 
-Original source: [SEC's Chief Accountant: Firms With Digital Assets Still Need to Keep Their Books in Order](https://cointelegraph.com/news/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order)
+[Original source](https://cointelegraph.com/news/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

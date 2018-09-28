@@ -14,6 +14,6 @@
 
 # # йоту/USD мы ожидали быков, чтобы защитить психологический уровень $0,5, но продажи тащили на йоту на дневном низком уровне $0,4037, близко к нашей нижней цели $0,38.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 15](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-15)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-15)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

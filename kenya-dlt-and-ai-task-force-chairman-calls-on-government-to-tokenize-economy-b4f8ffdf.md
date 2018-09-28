@@ -14,6 +14,6 @@
 
 Проект направлен на стимулирование местной и региональной торговли и одноранговой деятельности, позволяя кенийских общинам создавать свои собственные цифровые маркеры и управлять ими.
 
-Original source: [Kenya: DLT and AI Task Force Chairman Calls on Government to Tokenize Economy](https://cointelegraph.com/news/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy)
+[Original source](https://cointelegraph.com/news/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ SEC в настоящее время имеет почти два месяца, 
 
 Регулятор также отклонил апелляцию летучих мышей bzx Exchange, Inc. (bzx) на список и торговлю акциями винклвосс Bitcoin Trust, первоначально поданной в 2016.
 
-Original source: [U.S. SEC Postpones Decision Regarding Bitcoin Exchange Traded Fund](https://cointelegraph.com/news/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund)
+[Original source](https://cointelegraph.com/news/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

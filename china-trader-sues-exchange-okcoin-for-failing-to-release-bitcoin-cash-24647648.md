@@ -14,6 +14,6 @@ Bitcoin развилась 1 августа 2017, что привело к пр�
 
 Роджер вер, один из крупнейших промоутеров МПБ утверждал, что Bitcoin Cash является "реальным Bitcoin" в ноябре 2017.
 
-Original source: [China: Trader Sues Exchange OKCoin for Failing to Release Bitcoin Cash](https://cointelegraph.com/news/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash)
+[Original source](https://cointelegraph.com/news/china-trader-sues-exchange-okcoin-for-failing-to-release-bitcoin-cash)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

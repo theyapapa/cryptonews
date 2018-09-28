@@ -14,6 +14,6 @@
 
 С этого момента регистрация новых операторов Exchange станет возможной, утверждают местные новостные СМИ, FSA, добавив, что они, тем не менее, будут подвергнуты более тщательному анализу с самого начала.
 
-Original source: [Japan: Finance Giant SBI Makes New Investment in LastRoots Crypto Exchange, Will Aid License Acquisition](https://cointelegraph.com/news/japan-finance-giant-sbi-makes-new-investment-in-lastroots-crypto-exchange-will-aid-license-acquisition)
+[Original source](https://cointelegraph.com/news/japan-finance-giant-sbi-makes-new-investment-in-lastroots-crypto-exchange-will-aid-license-acquisition)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

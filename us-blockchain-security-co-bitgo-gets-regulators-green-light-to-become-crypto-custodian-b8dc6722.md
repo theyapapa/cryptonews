@@ -14,6 +14,6 @@
 
 В рамках своей предстоящей баккт предлагая, Нью-Йоркской фондовой бирже (NYSE) оператор Ice также принесет новый крупный надежный хранитель решение крипто пространстве.
 
-Original source: [US: Blockchain Security Co. BitGo Gets Regulator's Green Light to Become Crypto Custodian](https://cointelegraph.com/news/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian)
+[Original source](https://cointelegraph.com/news/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

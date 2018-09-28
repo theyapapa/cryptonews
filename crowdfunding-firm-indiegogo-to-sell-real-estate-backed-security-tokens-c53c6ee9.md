@@ -14,6 +14,6 @@
 
 Основанная в 2008, веб-сайт Indiegogo, как сообщается, является одной из первых платформ, предлагающих финансирование, что позволяет общественности инвестировать и запрашивать средства для идей, благотворительных организаций или стартапов, поручая 5-процентную плату за взносы.
 
-Original source: [Crowdfunding Firm Indiegogo to Sell Real Estate-Backed Security Tokens](https://cointelegraph.com/news/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens)
+[Original source](https://cointelegraph.com/news/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

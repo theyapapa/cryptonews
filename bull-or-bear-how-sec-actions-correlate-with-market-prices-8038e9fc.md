@@ -14,6 +14,6 @@
 
 Через пару дней после этого, Уильям Хинман, директор отдела sec корпорации финансы, утверждал, что Ethereum (высшая школа) не является безопасности либо, положив конец месяцев долго дилемма, которая могла бы потенциально в конечном итоге с Ethereum в 2014 ICO бытия вне закона: "отложив в сторону сбора средств, которые сопровождали создание эфира, на основе моего понимания нынешнего состояния эфира, Ethereum сети и ее децентрализованной структуры, текущие предложения и продажи эфира не сделки с ценными бумагами \ [... \] И, как и в Bitcoin, применение режима раскрытия федеральных законов о ценных бумагах к текущим сделкам в эфире, как представляется, добавит немного v
 
-Original source: [Bull or Bear? How SEC Actions Correlate With Market Prices](https://cointelegraph.com/news/bull-or-bear-how-sec-actions-correlate-with-market-prices)
+[Original source](https://cointelegraph.com/news/bull-or-bear-how-sec-actions-correlate-with-market-prices)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Как коинтелеграф анализа, как представляется, примерно 24 000 кредиторов, как полагают, были затронуты MT. GOX в рубить и последующего краха в начале 2014, в результате чего потери 850, 00 BTC оценивается в примерно $460 000 000 в то время.
 
-Original source: [Mt. Gox Opens Online Rehabilitation Claim Filing System for Corporate Users](https://cointelegraph.com/news/mt-gox-opens-online-rehabilitation-claim-filing-system-for-corporate-users)
+[Original source](https://cointelegraph.com/news/mt-gox-opens-online-rehabilitation-claim-filing-system-for-corporate-users)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

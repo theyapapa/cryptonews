@@ -14,6 +14,6 @@
 
 Еще одно исследование, проведенное начальной предложение монеты (ICO) консультативная фирма Сатис группы в конце августа, предполагает, что цена BTC может потенциально достичь $98 000 в течение ближайших пяти лет.
 
-Original source: [Study: Hard Forks Constitute Threat to Cryptocurrency Stability](https://cointelegraph.com/news/study-hard-forks-constitute-threat-to-cryptocurrency-stability)
+[Original source](https://cointelegraph.com/news/study-hard-forks-constitute-threat-to-cryptocurrency-stability)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

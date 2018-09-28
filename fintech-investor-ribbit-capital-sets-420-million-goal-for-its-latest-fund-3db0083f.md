@@ -16,6 +16,6 @@ Robinhood начал предлагать торговые услуги для �
 
 Coinbase, который был основан в 2012, с тех пор вырос, чтобы быть лидером среди крипто обменов и бумажник услуг в США.
 
-Original source: [Fintech Investor Ribbit Capital Sets $420 Million Goal for Its Latest Fund](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
+[Original source](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

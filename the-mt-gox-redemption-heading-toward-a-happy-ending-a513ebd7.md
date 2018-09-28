@@ -12,6 +12,6 @@
 
 Инцидент, указывающий на отношение Генерального директора произошло в результате июня 2011 Hack, когда видные крипто предпринимателей Джесси Пауэлл, который позже стал соучредителем крипто обмен чудище, и Bitcoin евангелист Роджер ver были вызваны в Токио, чтобы помочь Получите MT. GOX назад Online.
 
-Original source: [The Mt. Gox Redemption: Heading Toward a Happy Ending?](https://cointelegraph.com/news/the-mt-gox-redemption-heading-toward-a-happy-ending)
+[Original source](https://cointelegraph.com/news/the-mt-gox-redemption-heading-toward-a-happy-ending)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

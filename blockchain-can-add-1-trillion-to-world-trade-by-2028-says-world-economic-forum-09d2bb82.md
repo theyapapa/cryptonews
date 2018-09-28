@@ -14,6 +14,6 @@
 
 Доклад ВЭФ в то же время включает аналогичные сигналы для правительств, Организации, утверждая, что даже для тех, кто в таких структурах, как Европейский союз, охватывающих DLT де-факто неизбежным.
 
-Original source: [Blockchain Can Add $1 Trillion to World Trade By 2028, Says World Economic Forum](https://cointelegraph.com/news/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum)
+[Original source](https://cointelegraph.com/news/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

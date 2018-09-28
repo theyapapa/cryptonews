@@ -14,6 +14,6 @@ Ethereum () торгуется около $284 в пресс-время, бол�
 
 Учитывая недавние комментарии Чарли ли, которые несут рынки предлагают возможность для сообщества сосредоточиться на достижении принятия, Yahoo Finance на этой неделе интегрированной торговли с Bitcoin (BTC), Ethereum (высшая школа), и Litecoin (LTC), Новости, которые были приветствовали Морган Крик Digital в Энтони помплиано как бычий знак крипто "вирус распространяется".
 
-Original source: [Bitcoin Loses $7K Footing Amid Market-Wide Price Correction](https://cointelegraph.com/news/bitcoin-loses-7k-footing-amid-market-wide-price-correction)
+[Original source](https://cointelegraph.com/news/bitcoin-loses-7k-footing-amid-market-wide-price-correction)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

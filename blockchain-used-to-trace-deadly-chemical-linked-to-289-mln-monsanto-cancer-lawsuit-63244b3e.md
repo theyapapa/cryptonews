@@ -14,6 +14,6 @@
 
 В прошлом месяце британское агентство продовольственного стандарта (FSA) успешно завершило пилотное использование цепочки в качестве регулятивного инструмента для обеспечения соответствия в пищевой отрасли, отметив в то время, что весь потенциал технологии для улучшения стандартов будет реализован только в том случае, если " Инициатива в отрасли».
 
-Original source: [Blockchain Used to Trace Deadly Chemical Linked to $289 Mln Monsanto Cancer Lawsuit](https://cointelegraph.com/news/blockchain-used-to-trace-deadly-chemical-linked-to-289-mln-monsanto-cancer-lawsuit)
+[Original source](https://cointelegraph.com/news/blockchain-used-to-trace-deadly-chemical-linked-to-289-mln-monsanto-cancer-lawsuit)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Le мэр также надеется, что нынешняя правовая 
 
 С точки зрения более широкого европейского контекста, как коинтелеграф сообщалось ранее в этом месяце, члены Европейского парламента провели встречу с экспертами по вопросам регулирования ICO в начале сентября.
 
-Original source: [France Finalizes New ICO Framework to ‘Attract Innovators Globally’](https://cointelegraph.com/news/france-finalizes-new-ico-framework-to-attract-innovators-globally)
+[Original source](https://cointelegraph.com/news/france-finalizes-new-ico-framework-to-attract-innovators-globally)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Единая зона платежей в евро (SEPA) является платежной системой, которая упрощает банковские переводы в ЕС.
 
-Original source: [Crypto Wallet Abra Announces Direct Transactions From EU Banks in SEPA](https://cointelegraph.com/news/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa)
+[Original source](https://cointelegraph.com/news/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

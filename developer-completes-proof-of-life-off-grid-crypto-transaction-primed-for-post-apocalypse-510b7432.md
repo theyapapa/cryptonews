@@ -12,6 +12,6 @@ HTTPS://Explore.Burst.cryptoguru.org/Transaction/17490887355364942154 "разр�
 
 Как подчеркнул Джонс, использование любительского радио требует лицензии от FCC, и разработчик решил не разглашать лицензированный оператор, который включил эксперимент.
 
-Original source: [Developer Completes "Proof-of-Life" Off-Grid Crypto Transaction Primed for Post-Apocalypse](https://cointelegraph.com/news/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse)
+[Original source](https://cointelegraph.com/news/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

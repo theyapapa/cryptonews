@@ -12,6 +12,6 @@
 
 По данным из коинмаркеткап, бисумб занимает двенадцатое место среди бирж по скорректированной объем торговли, с 24-часовой объем торговли около $125 000 000 в пресс-время.
 
-Original source: [South Korean Crypto Exchange Bithumb to Reopen Withdrawals, Deposits for Nine Cryptos](https://cointelegraph.com/news/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos)
+[Original source](https://cointelegraph.com/news/south-korean-crypto-exchange-bithumb-to-reopen-withdrawals-deposits-for-nine-cryptos)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

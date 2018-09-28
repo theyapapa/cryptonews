@@ -14,6 +14,6 @@ HTTPS://t.co/2aXkR0gclP-CZ (не давая крипто прочь) (@cz \_би
 
 Бинанце, который перенес свою деятельность на Мальту этой весной, является номером один крипто обмена по объему торговли, в соответствии с коинмаркеткап.
 
-Original source: [Binance Releases Demo of Decentralized Exchange](https://cointelegraph.com/news/binance-releases-demo-of-decentralized-exchange)
+[Original source](https://cointelegraph.com/news/binance-releases-demo-of-decentralized-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Этой весной, китайский президент XI Цзиньпин открыто похвалили цепочки в качестве примера "нового поколения" технологий, поставляющих "прорывы", и страна запечатала мировой рекорд по цепочке патентных заявок, поданных в течение 2016 и 2017.
 
-Original source: [Ripple's Sarbhai: Regulators No Longer Take the "Blockchain Good, Crypto Bad" Approach](https://cointelegraph.com/news/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach)
+[Original source](https://cointelegraph.com/news/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

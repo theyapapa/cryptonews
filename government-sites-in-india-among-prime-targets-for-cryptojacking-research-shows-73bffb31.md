@@ -14,6 +14,6 @@ Fortinet в Радж Мориа сказал ET, что криптожаккин
 
 ET далее сообщает, что Интернет вещей (IOT) продукты рассматриваются экспертами по вопросам безопасности, чтобы быть "следующей границе" для криптожаккерс, учитывая, что такие устройства имеют высокую вычислительную мощность и еще может быть простоя в течение большей части дня.
 
-Original source: [Government Sites in India Among Prime Targets for Cryptojacking, Research Shows](https://cointelegraph.com/news/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows)
+[Original source](https://cointelegraph.com/news/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

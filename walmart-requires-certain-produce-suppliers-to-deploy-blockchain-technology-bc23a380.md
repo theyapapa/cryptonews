@@ -14,6 +14,6 @@ Walmart сообщил Bloomberg, что более 100 компаний буд�
 
 В июне Walmart и девять других компаний в партнерстве с IBM выпустили систему, основанную на цепочках, для отслеживания продуктов питания по всей цепочке поставок в глобальном масштабе.
 
-Original source: [Walmart Requires Certain Produce Suppliers to Deploy Blockchain Technology](https://cointelegraph.com/news/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology)
+[Original source](https://cointelegraph.com/news/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

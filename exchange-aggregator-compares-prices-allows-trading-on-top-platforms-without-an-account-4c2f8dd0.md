@@ -14,6 +14,6 @@
 
 По коинсвитч, они имеют более 100 веб-сайтов с использованием этого продукта, в том числе таких компаний, как реддкоин и Комодо, все из которых были созданы в течение месяца с момента запуска функции обмена мгновенными.
 
-Original source: [Exchange Aggregator Compares Prices, Allows Trading on Top Platforms Without an Account](https://cointelegraph.com/news/exchange-aggregator-compares-prices-allows-trading-on-top-platforms-without-an-account)
+[Original source](https://cointelegraph.com/news/exchange-aggregator-compares-prices-allows-trading-on-top-platforms-without-an-account)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

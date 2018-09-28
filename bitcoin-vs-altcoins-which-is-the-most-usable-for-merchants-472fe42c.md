@@ -14,6 +14,6 @@
 
 И, чтобы поставить это в перспективе, жахоски сказал коинтелеграф, что, несмотря на то, что компания начала обрабатывать Bitcoin Cash Payments в начале этого года, Bitcoin остается доминирующим: "Bitcoin Cash, которые BitPay начали принимать в начале этого года, составляет менее 10 процентов от объема BitPay.
 
-Original source: [Bitcoin vs. Altcoins: Which is the Most Usable for Merchants?](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants)
+[Original source](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

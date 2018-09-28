@@ -8,6 +8,6 @@ Bloomberg отмечает, что, хотя центр является "доч
 
 Монета USD будет доступна на полониекс бирже Circle, а также в хуоби, оккоин, кукоин, цифровом кошельке и Exchange Coinbase.
 
-Original source: [Breaking: Circle Internet Financial Launches Stablecoin ‘USD Coin’](https://cointelegraph.com/news/breaking-circle-internet-financial-launches-stablecoin-usd-coin)
+[Original source](https://cointelegraph.com/news/breaking-circle-internet-financial-launches-stablecoin-usd-coin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

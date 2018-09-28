@@ -14,6 +14,6 @@ PSA: официальное мега расширение было скомпр�
 
 В пресс-время, расширение Mega Chrome был недоступен для скачивания в Интернет-магазине Chrome.
 
-Original source: [MEGA Chrome Extension Compromised to Steal Users’ Monero](https://cointelegraph.com/news/mega-chrome-extension-compromised-to-steal-users-monero)
+[Original source](https://cointelegraph.com/news/mega-chrome-extension-compromised-to-steal-users-monero)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

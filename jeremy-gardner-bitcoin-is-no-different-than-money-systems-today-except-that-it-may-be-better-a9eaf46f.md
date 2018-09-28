@@ -14,6 +14,6 @@
 
 Вы знаете, с переводом решений сегодня, испытания сегодня, о предоставлении непосредственно к людям, таких как это, но мы исторически в первую очередь строит технологию цепочки для людей, которые нуждаются в нем меньше всего: вы и я, люди в Соединенных Штатах, люди в Запад.
 
-Original source: [Jeremy Gardner: ‘Bitcoin Is No Different Than Money Systems Today, Except That It May Be Better’ ](https://cointelegraph.com/news/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better)
+[Original source](https://cointelegraph.com/news/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

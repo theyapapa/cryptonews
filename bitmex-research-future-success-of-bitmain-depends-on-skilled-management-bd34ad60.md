@@ -14,6 +14,6 @@
 
 В заключение, битмекс выражает осторожный оптимизм на будущих перспективах битмаин: «битмаин может быть легендарной компанией Crypto, производя сильные возвращения акционера на декады для того чтобы прийти, но для того чтобы достигнуть этого (и оно много трудне чем оно звучает) битмаин управленческой группе может понадобиться улучшить управление ресурсами компании.
 
-Original source: [BitMEX Research: Future Success of Bitmain Depends on Skilled Management](https://cointelegraph.com/news/bitmex-research-future-success-of-bitmain-depends-on-skilled-management)
+[Original source](https://cointelegraph.com/news/bitmex-research-future-success-of-bitmain-depends-on-skilled-management)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

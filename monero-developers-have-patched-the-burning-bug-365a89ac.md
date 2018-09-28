@@ -14,6 +14,6 @@
 
 Разработчики КСМР впоследствии создали и включили патч в код, который был анонсирован через официальный твиттер КСМР: на любые биржи, сервисы, купцы и другие организации, присутствующие в экосистеме Монеро, если вы не получили или не применили патч Тем не менее, компиляция v 0.13.0.0-RC1 гарантирует, что патч включен.
 
-Original source: [Monero Developers Have Patched the ‘Burning Bug’](https://cointelegraph.com/news/monero-developers-have-patched-the-burning-bug)
+[Original source](https://cointelegraph.com/news/monero-developers-have-patched-the-burning-bug)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

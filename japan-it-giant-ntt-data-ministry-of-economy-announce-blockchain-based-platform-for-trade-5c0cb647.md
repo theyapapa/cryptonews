@@ -14,6 +14,6 @@ Nedo, крупнейшая в Японии организация обществ
 
 По данным пресс-релиза NTT, компания также планирует внедрить социальную реализацию новой инфраструктуры платформы во время фи2019, с тем чтобы стимулировать глобальную цепь поставок.
 
-Original source: [Japan: IT Giant NTT Data, Ministry of Economy Announce Blockchain-Based Platform for Trade](https://cointelegraph.com/news/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade)
+[Original source](https://cointelegraph.com/news/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

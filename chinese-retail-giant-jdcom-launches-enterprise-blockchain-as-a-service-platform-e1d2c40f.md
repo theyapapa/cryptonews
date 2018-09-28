@@ -14,6 +14,6 @@ JD представляет инструмент Баас как "Последн
 
 В апреле компания Telecoms Giant Huawei раскрыла свой инструмент «Баас», который также ориентирован на разработку облачных смарт-контрактов и эффективные решения для бизнеса.
 
-Original source: [Chinese Retail Giant JD.com Launches Enterprise Blockchain-as-a-Service Platform](https://cointelegraph.com/news/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform)
+[Original source](https://cointelegraph.com/news/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

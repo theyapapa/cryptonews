@@ -14,6 +14,6 @@ BofA ранее предприняла шаги для принятия техн
 
 Хотя BofA является одной из ведущих компаний, которая способствует инновациям в сфере цепочки, банк по-прежнему скептически относится к валютным системам, несмотря на то, что в декабре 2017 получил патент на развитие системы цифрового обмена валюты.
 
-Original source: [Bank of America Applies for Blockchain-Based Encrypted Crypto Storage System Patent](https://cointelegraph.com/news/bank-of-america-applies-for-blockchain-based-encrypted-crypto-storage-system-patent)
+[Original source](https://cointelegraph.com/news/bank-of-america-applies-for-blockchain-based-encrypted-crypto-storage-system-patent)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

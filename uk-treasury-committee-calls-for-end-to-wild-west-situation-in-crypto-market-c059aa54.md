@@ -14,6 +14,6 @@
 
 В мае криптаук обратился в Комитет казначейства с призывом выступают за благоприятные правила, ссылаясь на свое намерение изучить роль цифровых валют в Великобритании, в том числе риски, связанные с их использованием потребителями, предприятиями и правительством.
 
-Original source: [UK Treasury Committee Calls for End to ‘Wild West Situation’ in Crypto Market](https://cointelegraph.com/news/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market)
+[Original source](https://cointelegraph.com/news/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

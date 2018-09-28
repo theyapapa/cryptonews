@@ -14,6 +14,6 @@ CME начала торговлю BTC фьючерсами 17 декабря, п
 
 Позже, в июле, Генеральный директор CME Терри Даффи заявил, что компания не будет вводить фьючерсы на валютные биржи, кроме Bitcoin (BTC) в ближайшем будущем, ссылаясь на их волатильность в качестве основной причины.
 
-Original source: [Report: CBOE to Launch Ethereum Futures Trading Later This Year](https://cointelegraph.com/news/report-cboe-to-launch-ethereum-futures-trading-later-this-year)
+[Original source](https://cointelegraph.com/news/report-cboe-to-launch-ethereum-futures-trading-later-this-year)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

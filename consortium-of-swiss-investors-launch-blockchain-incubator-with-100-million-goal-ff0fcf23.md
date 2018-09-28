@@ -14,6 +14,6 @@ CV VC, как сообщается, начал свой первоначальн
 
 Василий Суворов, советник CV VC и вице-президент Ассоциации крипто-Валли, поддержали это видение, сказав: "ИКО будет оставаться полезным механизмом, но они больше не будут ядром для экономики цепочки.
 
-Original source: [Consortium of Swiss Investors Launch Blockchain Incubator with $100 Million Goal](https://cointelegraph.com/news/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal)
+[Original source](https://cointelegraph.com/news/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

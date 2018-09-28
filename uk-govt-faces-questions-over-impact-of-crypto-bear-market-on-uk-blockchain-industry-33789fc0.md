@@ -14,6 +14,6 @@
 
 В США, как финансы каналы отмечает, не в широком смысле регулирования крипто, за исключением некоторых производных, таких как крипто-контракт на разницу (CFD).
 
-Original source: [UK Gov’t Faces Questions Over Impact of Crypto Bear Market on UK Blockchain Industry](https://cointelegraph.com/news/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry)
+[Original source](https://cointelegraph.com/news/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

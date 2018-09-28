@@ -14,6 +14,6 @@
 
 Новый стандарт КПЧ-777 позволит решить проблему потери токенов получателя при отправке на контракт, который не поддерживает получение или управление такими активами.
 
-Original source: [Summer Is Ending: Will Ethereum’s ERC-20 Pass the Governance to ERC-777?](https://cointelegraph.com/news/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777)
+[Original source](https://cointelegraph.com/news/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

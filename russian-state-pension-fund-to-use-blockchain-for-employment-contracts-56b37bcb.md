@@ -14,6 +14,6 @@
 
 После того, как крупнейшие города России провели в июле протесты против предлагаемых реформ, президент России Владимир Путин в своем выступлении заявил сегодня, что правительство планирует внести изменения в реформу.
 
-Original source: [Russian State Pension Fund to Use Blockchain for Employment Contracts](https://cointelegraph.com/news/russian-state-pension-fund-to-use-blockchain-for-employment-contracts)
+[Original source](https://cointelegraph.com/news/russian-state-pension-fund-to-use-blockchain-for-employment-contracts)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

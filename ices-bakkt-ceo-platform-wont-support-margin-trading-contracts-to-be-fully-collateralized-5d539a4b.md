@@ -14,6 +14,6 @@
 
 Эти эхо существующих споров по поводу влияния фьючерсов на торговлю с момента их запуска в конце 2017, вероятно, импульс для Леффлер в решительной дифференциации сегодня.
 
-Original source: [ICE’s Bakkt CEO: Platform Won't Support Margin Trading, Contracts to Be Fully Collateralized](https://cointelegraph.com/news/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized)
+[Original source](https://cointelegraph.com/news/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

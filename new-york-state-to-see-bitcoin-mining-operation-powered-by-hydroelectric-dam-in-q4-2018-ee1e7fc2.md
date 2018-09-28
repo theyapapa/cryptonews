@@ -14,6 +14,6 @@ DPW в то же время будет использовать собствен
 
 Различные штаты США увидят горнодобывающие проекты начнут загребать в ближайшем будущем, DPW новости ближайшие две недели после азиатского гиганта битмаин объявил о создании комплекса в Техасе, в который он будет инвестировать $500 000 000.
 
-Original source: [New York State to See Bitcoin Mining Operation Powered by Hydroelectric Dam in Q4 2018](https://cointelegraph.com/news/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018)
+[Original source](https://cointelegraph.com/news/new-york-state-to-see-bitcoin-mining-operation-powered-by-hydroelectric-dam-in-q4-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

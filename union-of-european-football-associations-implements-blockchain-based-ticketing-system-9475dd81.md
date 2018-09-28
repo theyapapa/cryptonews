@@ -12,6 +12,6 @@
 
 И эта зима, харунустаспор, Турецкая футбольная команда, объявила, что она частично заплатила одному из своих игроков в Bitcoin (BTC), коинтелеграф сообщил 31 января.
 
-Original source: [Union of European Football Associations Implements Blockchain-Based Ticketing System](https://cointelegraph.com/news/union-of-european-football-associations-implements-blockchain-based-ticketing-system)
+[Original source](https://cointelegraph.com/news/union-of-european-football-associations-implements-blockchain-based-ticketing-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

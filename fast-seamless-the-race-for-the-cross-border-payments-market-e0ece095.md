@@ -14,6 +14,6 @@ IBM и Star впервые были замечены совместно разр
 
 Судя по тому, что известно о цепочке проводов мира на данный момент, дизайн системы и функциональность непосредственно яму его против рябь ксрапид Rail в гонке за добрые милости глобальных банков.
 
-Original source: [Fast & Seamless: The Race for the Cross-Border Payments Market](https://cointelegraph.com/news/fast-seamless-the-race-for-the-cross-border-payments-market)
+[Original source](https://cointelegraph.com/news/fast-seamless-the-race-for-the-cross-border-payments-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

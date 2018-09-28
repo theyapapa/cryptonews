@@ -14,6 +14,6 @@
 
 Исследователя основали ранжировки на общедоступных данных верхних 100 ИКО страной оперируя понятиями собранных средств и выстроены в ряд их количеством начатых проектов.
 
-Original source: [Study: ICO Market Doubled Since Last Year, Shows Increased Institutional Investment](https://cointelegraph.com/news/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment)
+[Original source](https://cointelegraph.com/news/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

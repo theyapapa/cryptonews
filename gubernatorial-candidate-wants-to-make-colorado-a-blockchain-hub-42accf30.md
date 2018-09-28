@@ -14,6 +14,6 @@
 
 Полис, который в настоящее время служит в палате представителей, принадлежит к небольшой группе криптографических сторонников на Капитолийском холме.
 
-Original source: [Gubernatorial Candidate Wants to Make Colorado a “Blockchain Hub”](https://cointelegraph.com/news/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub)
+[Original source](https://cointelegraph.com/news/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

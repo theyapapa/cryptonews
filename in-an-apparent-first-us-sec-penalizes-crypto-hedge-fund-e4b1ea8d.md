@@ -14,6 +14,6 @@ SEC порядка говорит, что CAM "исказил" себя как "
 
 Комиссия утверждает, что токенлот нарушила закон, не зарегистрировавшись.
 
-Original source: [In an Apparent First, U.S. SEC Penalizes Crypto Hedge Fund](https://cointelegraph.com/news/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund)
+[Original source](https://cointelegraph.com/news/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

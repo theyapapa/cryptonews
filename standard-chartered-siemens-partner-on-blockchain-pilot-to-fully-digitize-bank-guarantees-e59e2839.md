@@ -12,6 +12,6 @@
 
 Заинтересованность SC в укреплении своих операционных процессов с помощью цепочки приходит как мало сюрприз тем временем, коинтелеграф отчетности о том, как он потерял $200 000 000 к мошенничеству в 2014 в одиночку.
 
-Original source: [Standard Chartered, Siemens Partner on Blockchain Pilot to ‘Fully Digitize’ Bank Guarantees](https://cointelegraph.com/news/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees)
+[Original source](https://cointelegraph.com/news/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Например, в какой-то момент колумбийские банки закрыли все счета южно-американского крипто обмена Buda.com, как коинтелеграф сообщила июня 2018.
 
-Original source: [Colombian President Promises to Cut Rent Taxes for Crypto Firms](https://cointelegraph.com/news/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms)
+[Original source](https://cointelegraph.com/news/colombian-president-promises-to-cut-rent-taxes-for-crypto-firms)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Ice объявила о своих планах по созданию Microsoft 
 
 В прошлом месяце, крупнейший в мире Биржевой фонд (ETF), поставщик черной горы объявил о создании рабочей группы для оценки потенциального участия в BTC.
 
-Original source: [NYSE Trader Following Bakkt Launch: ‘Bitcoin Is Very Iffy’](https://cointelegraph.com/news/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy)
+[Original source](https://cointelegraph.com/news/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

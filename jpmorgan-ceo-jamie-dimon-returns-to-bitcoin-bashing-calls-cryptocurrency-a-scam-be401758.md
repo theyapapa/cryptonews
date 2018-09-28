@@ -14,6 +14,6 @@
 
 В том же интервью, Даймон также сделал точку вызова технологии цепочки "Real",--в то время как подразумевает, что крипто не является--говорят, что банковский гигант "тестирование его \ [цепочки \] и будет использовать его для всего много вещей".
 
-Original source: [JPMorgan CEO Jamie Dimon Returns to Bitcoin Bashing, Calls Cryptocurrency a ‘Scam’](https://cointelegraph.com/news/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam)
+[Original source](https://cointelegraph.com/news/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

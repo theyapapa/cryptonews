@@ -16,6 +16,6 @@ FTO клуба будет, как сообщается, состоится до 
 
 Дрейфус далее подчеркнул, коинтелеграф, что в то время как ПСЖ является первым громким клубом присоединиться к инициативе, платформа в конечном счете, направлена на привлечение "сотни миллионов" футбольных болельщиков нескольких высокого калибра футбольных клубов по всему миру.
 
-Original source: [Paris Saint-Germain Soccer Club to Launch Fan Token](https://cointelegraph.com/news/paris-saint-germain-soccer-club-to-launch-fan-token)
+[Original source](https://cointelegraph.com/news/paris-saint-germain-soccer-club-to-launch-fan-token)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -16,6 +16,6 @@ IBM партнеры с австралийским консорциумом дл
 
 # # финансирование раундов стаблекоин Terra закрывается $32 000 000 финансирования раунда с бинанце Labs, хуоби Capital южнокорейской электронной коммерции рынке билет монстр объявил на этой неделе он закрыл $32 000 000 финансирования раунда для своей стаблекоин Terra, с целью создания в доме в дополнение к существующим маркером, Луна.
 
-Original source: [Hodler’s Digest, August 26–September 2: Both Eminem and Yahoo Finance Embrace Bitcoin in Wins for Crypto Adoption](https://cointelegraph.com/news/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption)
+[Original source](https://cointelegraph.com/news/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

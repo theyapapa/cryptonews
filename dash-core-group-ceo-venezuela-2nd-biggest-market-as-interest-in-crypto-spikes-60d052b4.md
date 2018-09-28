@@ -14,6 +14,6 @@
 
 Тире ранее сделал заголовки, когда его значение взлетел и известных деятелей, таких как Макс Кейзер начал публично поощрения его использования в США.
 
-Original source: [Dash Core Group CEO: Venezuela ‘2nd Biggest Market’ as Interest in Crypto Spikes](https://cointelegraph.com/news/dash-core-group-ceo-venezuela-2nd-biggest-market-as-interest-in-crypto-spikes)
+[Original source](https://cointelegraph.com/news/dash-core-group-ceo-venezuela-2nd-biggest-market-as-interest-in-crypto-spikes)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

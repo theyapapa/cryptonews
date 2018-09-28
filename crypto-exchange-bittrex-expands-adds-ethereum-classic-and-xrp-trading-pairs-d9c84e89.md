@@ -14,6 +14,6 @@
 
 В феврале этого года Шихара объявила о намерении биржи открыть торговлю USD для большинства своих клиентов.
 
-Original source: [Crypto Exchange Bittrex Expands Adds Ethereum Classic and XRP Trading Pairs](https://cointelegraph.com/news/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs)
+[Original source](https://cointelegraph.com/news/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

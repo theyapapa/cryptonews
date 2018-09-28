@@ -14,6 +14,6 @@
 
 Седьмой верхней валютой по рынку Cap, Litecoin (LTC), составляет почти 4 процента, торгуя на уровне около $60 в пресс-время.
 
-Original source: [Crypto Markets See Mixed Signals, Ethereum Beats Ripple by Market Cap](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

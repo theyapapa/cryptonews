@@ -14,6 +14,6 @@
 
 "в качестве совершенно нового класса активов," Гринвальд сказал VentureBeat после объявления августа финансирования раунда.
 
-Original source: [Former SpaceX Engineer Targets Consumer Traders With His LXDX Crypto Exchange](https://cointelegraph.com/news/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange)
+[Original source](https://cointelegraph.com/news/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

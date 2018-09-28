@@ -14,6 +14,6 @@
 
 7-дневный график суммарной рыночной капитализации всех рынков из коинмаркеткап бычьего ценового движения сегодня сопровождался более позитивными новостями для потенциального институционального инвестора, подверженного Bitcoin и другим криптоассетс.
 
-Original source: [Market Rebounds: Ethereum Soars 18% Back over $200, Bitcoin Regains $6,500 Mark](https://cointelegraph.com/news/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark)
+[Original source](https://cointelegraph.com/news/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

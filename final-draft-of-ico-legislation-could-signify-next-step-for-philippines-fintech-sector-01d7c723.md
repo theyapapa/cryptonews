@@ -14,6 +14,6 @@ SEC заявила, что все инвестиционные схемы, ко�
 
 # # и цепочки может помочь объединить Филиппины фрагментированных платежей сектора в стремлении сохранить страну на переднем крае постоянно расширяющейся крипто границы, Филиппинское правительство создало Кагаян экономической зоны власти (цеза).
 
-Original source: [Final Draft of ICO Legislation Could Signify Next Step for Philippines Fintech Sector](https://cointelegraph.com/news/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector)
+[Original source](https://cointelegraph.com/news/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

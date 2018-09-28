@@ -14,6 +14,6 @@
 
 Есть только несколько решений, доступных на рынке, напоминающие кксчанже, но наша платформа является высококачественным продуктом в отличие от других, как это было разработано профессиональной финансовой компании по разработке программного обеспечения ", комментирует Шульман.
 
-Original source: [New Platform Allows Businesses to Launch Their Own Cryptocurrency Exchange](https://cointelegraph.com/news/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange)
+[Original source](https://cointelegraph.com/news/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

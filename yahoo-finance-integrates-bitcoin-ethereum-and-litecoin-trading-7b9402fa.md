@@ -14,6 +14,6 @@ Yahoo Finance интегрировала торговлю с Bitcoin (BTC), Ethe
 
 Yahoo Япония собиралась купить 40 процента битарг Exchange Токио в апреле, и сразу же направить руководителей, чтобы заложить основы для обмена, чтобы начать год спустя.
 
-Original source: [Yahoo Finance Integrates Bitcoin, Ethereum and Litecoin Trading](https://cointelegraph.com/news/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading)
+[Original source](https://cointelegraph.com/news/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

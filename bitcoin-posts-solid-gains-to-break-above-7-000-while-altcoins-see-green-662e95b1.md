@@ -14,6 +14,6 @@
 
 7-дневный график общей рыночной капитализации всех оборотных средств из коинмаркеткап признаки предстоящем институционализации крипто продолжает ломаться, с инсайдерской источников вчера говорил Bloomberg, что Goldman Sachs планирует "предложить \ [его Клиенты \] хранение для крипто фонды, "Несмотря на претензии банка" не \ [иметь \] пришли к выводу "о цифровых активов.
 
-Original source: [Bitcoin Posts Solid Gains to Break Above $7,000 While Altcoins See Green](https://cointelegraph.com/news/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green)
+[Original source](https://cointelegraph.com/news/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

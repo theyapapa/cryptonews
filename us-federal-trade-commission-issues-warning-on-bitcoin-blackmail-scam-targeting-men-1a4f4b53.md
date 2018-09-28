@@ -14,6 +14,6 @@
 
 Ранее в этом месяце полиция Великобритании опубликовала доклад о том, что крипто-связанных мошенничества привели к $2 550 000 в убытках инвесторов этим летом только
 
-Original source: [US Federal Trade Commission Issues Warning on Bitcoin Blackmail Scam ‘Targeting Men’](https://cointelegraph.com/news/us-federal-trade-commission-issues-warning-on-bitcoin-blackmail-scam-targeting-men)
+[Original source](https://cointelegraph.com/news/us-federal-trade-commission-issues-warning-on-bitcoin-blackmail-scam-targeting-men)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

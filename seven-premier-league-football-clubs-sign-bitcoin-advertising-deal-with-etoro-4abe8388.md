@@ -14,6 +14,6 @@
 
 На прошлой неделе союз европейских футбольных ассоциаций, более известный как УЕФА, подтвердил, что в рамках поэтапного развертывания система выдачи билетов на основе цепочки блоков.
 
-Original source: [Seven Premier League Football Clubs Sign Bitcoin Advertising Deal With eToro](https://cointelegraph.com/news/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro)
+[Original source](https://cointelegraph.com/news/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

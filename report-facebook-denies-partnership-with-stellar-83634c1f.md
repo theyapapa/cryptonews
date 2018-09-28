@@ -14,6 +14,6 @@ Facebook, как сообщается, отрицал вступление в п
 
 В прошлом месяце Эван Ченг, директор компании Facebook по инжинирингу, переехал на ту же должность в недавно созданной команде группы разработчиков.
 
-Original source: [Report: Facebook Denies Partnership With Stellar](https://cointelegraph.com/news/report-facebook-denies-partnership-with-stellar)
+[Original source](https://cointelegraph.com/news/report-facebook-denies-partnership-with-stellar)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 В то время заместитель директора, отвечающий за разработку правил для высшего совета по киберпространству Ирана, утверждал, что идея создания национальной компании по разработке национальных документов активно проводится.
 
-Original source: [Crypto Mining Accepted as an Industry by Iranian Authorities](https://cointelegraph.com/news/crypto-mining-accepted-as-an-industry-by-iranian-authorities)
+[Original source](https://cointelegraph.com/news/crypto-mining-accepted-as-an-industry-by-iranian-authorities)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

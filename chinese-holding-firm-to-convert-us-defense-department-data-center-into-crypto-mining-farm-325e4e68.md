@@ -14,6 +14,6 @@
 
 В июле Регуляторы штата Нью-Йорк утвердили новую схему тарифов на электроэнергию для шахтеров, что позволит им вести переговоры по контрактам.
 
-Original source: [Chinese Holding Firm to Convert US Defense Department Data Center Into Crypto Mining Farm](https://cointelegraph.com/news/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm)
+[Original source](https://cointelegraph.com/news/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

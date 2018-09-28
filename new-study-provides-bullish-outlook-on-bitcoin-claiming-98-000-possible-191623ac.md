@@ -14,6 +14,6 @@
 
 Ранее в этом месяце, исследования из Сэнфорда к. и ко предложил, что доход от валютных биржах может более чем в два раза ударил $4 000 000 000 в 2018, в то время как икоратинг ICO Market Report за второй квартал 2018 показал, что ICO рынок более чем удвоился за год.
 
-Original source: [New Study Provides Bullish Outlook on Bitcoin, Claiming $98,000 Possible](https://cointelegraph.com/news/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible)
+[Original source](https://cointelegraph.com/news/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

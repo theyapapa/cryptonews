@@ -14,6 +14,6 @@
 
 В середине июля Розничный гигант запатентовал технологию для системы управления доставкой с питанием от цепочки, которая может обеспечить сохранность доставленных предметов до тех пор, пока их покупатели не смогут подписать и собрать их.
 
-Original source: [Walmart’s Latest Blockchain Patent Lets Robots Conduct Deliveries Across Supply Chain](https://cointelegraph.com/news/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain)
+[Original source](https://cointelegraph.com/news/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

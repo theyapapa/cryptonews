@@ -14,6 +14,6 @@ Bloomberg цитирует "людей со знанием дела", как г�
 
 По данным Bloomberg, HKEX "боролся за интеграцию" его 2012 приобретение Лондонской биржи металлов, и в статье цитирует безымянный HKEX советник, как говорят, что есть "промышленность проблем", окружающих успех будущих сделок.
 
-Original source: [Report: Hong Kong Stock Exchange Eyeing Blockchain Firm Acquisitions](https://cointelegraph.com/news/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions)
+[Original source](https://cointelegraph.com/news/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

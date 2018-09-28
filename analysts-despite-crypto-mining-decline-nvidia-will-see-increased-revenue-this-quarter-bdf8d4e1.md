@@ -14,6 +14,6 @@ NVIDIA, однако, предположил, что продажи на рын�
 
 Главный конкурент Nvidia Advanced Micro Devices (AMD) обнародовал в апреле, что 10 процентов доходов компании в течение квартала было отнесено к цепочке или горнодобывающей промышленности, хотя Генеральный директор компании Лиза Су сказал, что цепочки было "немного отвлечение в краткосрочной термин ".
 
-Original source: [Analysts: Despite Crypto Mining Decline, Nvidia Will See Increased Revenue This Quarter](https://cointelegraph.com/news/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter)
+[Original source](https://cointelegraph.com/news/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ $4 200 000 000 стоимость, или 3,8 процента от общего
 
 В период печати BTC торгует около $6 332, что составляет 1,3% за последние 24 часа, согласно индексу цен Bitcoin коинтелеграф.
 
-Original source: [Report: Majority of Circulating Bitcoins Stored in Investment Wallets](https://cointelegraph.com/news/report-majority-of-circulating-bitcoins-stored-in-investment-wallets)
+[Original source](https://cointelegraph.com/news/report-majority-of-circulating-bitcoins-stored-in-investment-wallets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

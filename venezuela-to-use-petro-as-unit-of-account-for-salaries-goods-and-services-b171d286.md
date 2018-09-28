@@ -14,6 +14,6 @@ ABC Quotes Мадуро: "на следующий понедельник, Вен
 
 В техническом документе говорится, что Петр может быть легко преобразован в доллары США и другие валюты, которые помогут Венесуэле в экспортной торговле.
 
-Original source: [Venezuela to Use Petro as Unit of Account for Salaries, Goods and Services](https://cointelegraph.com/news/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services)
+[Original source](https://cointelegraph.com/news/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

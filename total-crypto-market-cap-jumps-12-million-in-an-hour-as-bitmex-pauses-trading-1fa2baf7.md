@@ -14,6 +14,6 @@
 
 В пресс-тайме коинмаркеткап также перечисляет суммарные объемы торговли BTC/USD битмекс за последние 24 часа около $3 700 000 000.
 
-Original source: [Total Crypto Market Cap Jumps $12 Million in an Hour as BitMEX Pauses Trading](https://cointelegraph.com/news/total-crypto-market-cap-jumps-12-million-in-an-hour-as-bitmex-pauses-trading)
+[Original source](https://cointelegraph.com/news/total-crypto-market-cap-jumps-12-million-in-an-hour-as-bitmex-pauses-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

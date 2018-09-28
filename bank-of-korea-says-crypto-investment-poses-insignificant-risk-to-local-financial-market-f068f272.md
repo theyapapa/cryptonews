@@ -16,7 +16,7 @@
 
 Только на прошлой неделе, в рамках крупной легитимизации движения, три министерства корейского правительства обнаружили  [🔗](https://cointelegraph.com/news/south-korea-legitimizes-blockchain-industry-with-major-new-classification-standards)  черновую версию новой цепочки  [🔗](https://cointelegraph.com/tags/blockchain)  отраслевых стандартов классификации, которая в первую очередь признала криптофикацию в качестве регулируемых финансовых учреждений.
 
-Original source: [Bank of Korea Says Crypto Investment Poses ‘Insignificant’ Risk to Local Financial Market](https://cointelegraph.com/news/bank-of-korea-says-crypto-investment-poses-insignificant-risk-to-local-financial-market)
+[Original source](https://cointelegraph.com/news/bank-of-korea-says-crypto-investment-poses-insignificant-risk-to-local-financial-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
 

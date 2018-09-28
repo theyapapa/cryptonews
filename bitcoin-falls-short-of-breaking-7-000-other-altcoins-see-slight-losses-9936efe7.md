@@ -14,6 +14,6 @@
 
 7-дневный график общей рыночной капитализации всех стран с коинмаркеткап как рынки продолжают парить без убеждений, видные крипто onlooks подводят итоги недели новости для крипто пространстве.
 
-Original source: [Bitcoin Falls Short of Breaking $7,000, Other Altcoins See Slight Losses](https://cointelegraph.com/news/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses)
+[Original source](https://cointelegraph.com/news/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

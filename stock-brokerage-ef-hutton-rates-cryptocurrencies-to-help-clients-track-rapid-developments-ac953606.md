@@ -14,6 +14,6 @@ EF Хаттон исследователи проведет обзор неко�
 
 Хотя EF Хаттон не объяснил причины своего выбора, рейтинги эхо усилия из таких агентств, как Вайс в начале этого года, результаты которого быстро получил известность в кругах.
 
-Original source: [Stock Brokerage EF Hutton Rates Cryptocurrencies to Help Clients Track ‘Rapid Developments’](https://cointelegraph.com/news/stock-brokerage-ef-hutton-rates-cryptocurrencies-to-help-clients-track-rapid-developments)
+[Original source](https://cointelegraph.com/news/stock-brokerage-ef-hutton-rates-cryptocurrencies-to-help-clients-track-rapid-developments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Ethereum (высшая школа), который видел значитель
 
 Источник: индекс цен коинтелеграф Ethereum, достигнув минимумов, которые не были замечены с 2017 сентября, только незначительно оправился, повторяя аналогичные беды среди основных алткоин активов.
 
-Original source: [Bitcoin Circles $6500 as Volatility Drops to 14-Month Low, Altcoins Slump](https://cointelegraph.com/news/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump)
+[Original source](https://cointelegraph.com/news/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

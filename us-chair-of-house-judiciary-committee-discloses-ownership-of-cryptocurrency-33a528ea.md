@@ -14,6 +14,6 @@ Goodlatte подал заявление 10 мая, за месяц до того
 
 По мере того, как наше правительство начинает смотреть на крипто, я не думаю, что вы можете отделить от той технологии, на которой они основаны»,-сказал он.
 
-Original source: [US: Chair of House Judiciary Committee Discloses Ownership of Cryptocurrency](https://cointelegraph.com/news/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency)
+[Original source](https://cointelegraph.com/news/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

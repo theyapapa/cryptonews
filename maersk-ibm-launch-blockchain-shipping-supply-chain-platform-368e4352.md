@@ -14,6 +14,6 @@ IBM и Maersk говорят, что новая платформа с подде
 
 IBM Генеральный директор и руководитель цепочки, Мари Вик, сказал Forbes: "мы видели много скептиков говорить о достоверности решений цепочки... \] я думаю, с более чем 90 организаций и более 150 000 000 событий, захваченных в системе мы действительно видим доказательство в пудинг с точки зрения того, где люди тратят свое время, чтобы получить выгоды от цепочки ".
 
-Original source: [Maersk, IBM Launch Blockchain Shipping Supply Chain Platform](https://cointelegraph.com/news/maersk-ibm-launch-blockchain-shipping-supply-chain-platform)
+[Original source](https://cointelegraph.com/news/maersk-ibm-launch-blockchain-shipping-supply-chain-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

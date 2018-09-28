@@ -14,6 +14,6 @@
 
 В докладе также содержатся данные о попытках создания северокорейского крипто обмена.
 
-Original source: [North Korea ‘Increasingly’ Uses Crypto to Avoid US Sanctions, Experts Claim](https://cointelegraph.com/news/north-korea-increasingly-uses-crypto-to-avoid-us-sanctions-experts-claim)
+[Original source](https://cointelegraph.com/news/north-korea-increasingly-uses-crypto-to-avoid-us-sanctions-experts-claim)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Другой алткоин выбросов является Ethereum Classic (и т.д.), чье дополнение к Coinbase, возможно, послал цены парящих более чем на 16 процентов в день, с монетой в настоящее время торгуется около $14,09 по пресс времени.
 
-Original source: [Bitcoin Holds Above $6,000 While Industry Figures Warn Over ETF ‘Benefits’](https://cointelegraph.com/news/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits)
+[Original source](https://cointelegraph.com/news/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

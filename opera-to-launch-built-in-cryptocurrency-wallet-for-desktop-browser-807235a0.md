@@ -14,6 +14,6 @@ Opera в веб-и мобильных браузерах, в частности,
 
 В конце июня, неподтвержденные слухи возникли, что популярные брокерские и Crypto Trading App Robinhood будет предлагать родной крипто бумажник функциональность, после того, как фирма опубликовала объявление о работе для инженеров, которые предложили он расследовал Разработка инфраструктуры бумажника.
 
-Original source: [Opera to Launch Built-In Cryptocurrency Wallet for Desktop Browser](https://cointelegraph.com/news/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser)
+[Original source](https://cointelegraph.com/news/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

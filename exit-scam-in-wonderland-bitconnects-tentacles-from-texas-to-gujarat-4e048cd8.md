@@ -12,6 +12,6 @@
 
 В своем заявлении, Шайлеш Бхатт упомянул перевод 200 Bitcoins стоит 12 crore рупия \ [$1 660 000 \] из цифрового бумажника своего делового партнера, кират паладийа.
 
-Original source: [Exit Scam in Wonderland: Bitconnect’s Tentacles From Texas to Gujarat](https://cointelegraph.com/news/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat)
+[Original source](https://cointelegraph.com/news/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ XBT провайдера работает Bitcoin Tracker One с мая 2015, к
 
 SEC в последнее время отказа в конце августа едва повлияли рынки, комментаторы, поскольку утверждая, что появление крипто ЕФО, вероятно, гарантировано в какой-то момент в будущем, и само по себе является смешанным благословением для Bitcoin.
 
-Original source: [Bitcoin Markets Volatile After US SEC Suspends Trading in Two Crypto-Based Securities](https://cointelegraph.com/news/bitcoin-markets-volatile-after-us-sec-suspends-trading-in-two-crypto-based-securities)
+[Original source](https://cointelegraph.com/news/bitcoin-markets-volatile-after-us-sec-suspends-trading-in-two-crypto-based-securities)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

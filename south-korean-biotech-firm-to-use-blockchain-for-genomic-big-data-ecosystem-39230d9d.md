@@ -14,6 +14,6 @@
 
 Как коинтелеграф сообщили в мае этого года, прецедент использования блоков для безопасного обмена геномными данными был установлен в рамках сотрудничества американской туманности с лонженесис, причем последним из них является гонконгское партнерство между инсилико медициной и битфури группы.
 
-Original source: [South Korean Biotech Firm to Use Blockchain for Genomic Big Data Ecosystem](https://cointelegraph.com/news/south-korean-biotech-firm-to-use-blockchain-for-genomic-big-data-ecosystem)
+[Original source](https://cointelegraph.com/news/south-korean-biotech-firm-to-use-blockchain-for-genomic-big-data-ecosystem)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

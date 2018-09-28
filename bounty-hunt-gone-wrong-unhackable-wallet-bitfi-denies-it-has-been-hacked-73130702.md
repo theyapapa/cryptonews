@@ -14,6 +14,6 @@
 
 Таким образом, в последующем эпизоде их "взлома битфи" серии, перо тест партнеры размещены видео якобы доказать, что битфи устройство имеет хранения: в нем, бумажник отображает загруженное видео Джона McAfee.
 
-Original source: [Bounty Hunt Gone Wrong: ‘Unhackable’ Wallet Bitfi Denies It Has Been Hacked](https://cointelegraph.com/news/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked)
+[Original source](https://cointelegraph.com/news/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

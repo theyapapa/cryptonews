@@ -14,6 +14,6 @@
 
 66 процентов европейцев слышали о электронном, 35 процентов согласились, что крипто является "будущее расходов в Интернете", в то время как 35 процентов сказал, что будет увеличиваться в стоимости в течение следующих 12 месяцев.
 
-Original source: [Survey: Half of American Millennials Interested in Using Crypto](https://cointelegraph.com/news/survey-half-of-american-millennials-interested-in-using-crypto)
+[Original source](https://cointelegraph.com/news/survey-half-of-american-millennials-interested-in-using-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

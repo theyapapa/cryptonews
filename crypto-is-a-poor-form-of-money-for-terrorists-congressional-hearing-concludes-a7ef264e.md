@@ -14,6 +14,6 @@
 
 Ранее в этом году, управление рисками гигант LexisNexis партнерстве с Crypto Exchange блоккбид для того, чтобы ввести решение безопасности для обмена называют "торговля с уверенностью", которая намерена предотвратить финансирование терроризма, среди других незаконных действий.
 
-Original source: [Crypto is a ‘Poor Form of Money’ for Terrorists, Congressional Hearing Concludes](https://cointelegraph.com/news/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes)
+[Original source](https://cointelegraph.com/news/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

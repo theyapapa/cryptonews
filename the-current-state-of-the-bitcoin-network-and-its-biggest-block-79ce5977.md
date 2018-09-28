@@ -14,6 +14,6 @@
 
 Хотя в блоке было всего 230 операций, вполне возможно, что ряд таких операций был Пакетирован, так что один вклад имел большое количество мероприятий; Это потребует от сети Bitcoin потреблять большее количество байтов, чтобы сделать транзакцию возможной — в зависимости от того, сколько выходов было прикреплено к каждому входу.
 
-Original source: [The Current State of the Bitcoin Network and Its Biggest Block](https://cointelegraph.com/news/the-current-state-of-the-bitcoin-network-and-its-biggest-block)
+[Original source](https://cointelegraph.com/news/the-current-state-of-the-bitcoin-network-and-its-biggest-block)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

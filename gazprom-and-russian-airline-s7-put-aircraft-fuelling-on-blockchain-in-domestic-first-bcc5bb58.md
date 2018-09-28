@@ -14,6 +14,6 @@ S7, которая в последние два года разработала 
 
 В конце 2016, S7 партнерстве с местным банком Альфа-Банк по использованию смарт-контракты на B2B платежей, в то время как в прошлом году, продажи билетов началась в то, что Воронин описал в то время, как "первый билет в мире авиабилетов покупки через открытый API цепочки в банк".
 
-Original source: [Gazprom And Russian Airline S7 Put Aircraft Fuelling on Blockchain in Domestic First](https://cointelegraph.com/news/gazprom-and-russian-airline-s7-put-aircraft-fuelling-on-blockchain-in-domestic-first)
+[Original source](https://cointelegraph.com/news/gazprom-and-russian-airline-s7-put-aircraft-fuelling-on-blockchain-in-domestic-first)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

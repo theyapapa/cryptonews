@@ -14,6 +14,6 @@
 
 "в то время как мы видим много стаблекоинс выходит, путешествие Terra является особенно значимым, как они разрабатывают один из немногих ценовых стабильных протоколов с существующими, работающими, и сильные Go-to-Market стратегии и использования", сказала она.
 
-Original source: [South Korean eCommerce Startup Raises $32 Million to Create Crypto Stablecoin](https://cointelegraph.com/news/south-korean-ecommerce-startup-raises-32-million-to-create-crypto-stablecoin)
+[Original source](https://cointelegraph.com/news/south-korean-ecommerce-startup-raises-32-million-to-create-crypto-stablecoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

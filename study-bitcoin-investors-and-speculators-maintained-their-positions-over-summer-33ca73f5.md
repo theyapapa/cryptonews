@@ -14,6 +14,6 @@ Bitcoin (BTC) инвесторы и спекулянты занимали сво
 
 С декабря 2017, объем BTC, удерживаемый дневными торговцами, по сообщениям, вырос до 5 100 000 BTC, почти равный сумме, удерживаемой долгосрочными инвесторами — теми, кто держал монеты более года — что равняется около 6 000 000 BTC.
 
-Original source: [Study: Bitcoin Investors and Speculators Maintained Their Positions Over Summer](https://cointelegraph.com/news/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer)
+[Original source](https://cointelegraph.com/news/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Игроки могут добывать собственные деньги в игре, находя свои монеты.
 
-Original source: [Blockchain Galaxy Game Enables Players to Build Spaceships, Buy Virtual Planets For Crypto](https://cointelegraph.com/news/blockchain-galaxy-game-enables-players-to-build-spaceships-buy-virtual-planets-for-crypto)
+[Original source](https://cointelegraph.com/news/blockchain-galaxy-game-enables-players-to-build-spaceships-buy-virtual-planets-for-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

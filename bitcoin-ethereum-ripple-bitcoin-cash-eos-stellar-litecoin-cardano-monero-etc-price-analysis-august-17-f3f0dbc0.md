@@ -14,6 +14,6 @@
 
 # # КСМР/USD Монеро вытащил обратно в течение последних трех дней и близок к 20-дневной EMA, где он может столкнуться с сопротивлением.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, ETC: Price Analysis, August 17](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-etc-price-analysis-august-17)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-etc-price-analysis-august-17)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

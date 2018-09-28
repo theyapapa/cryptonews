@@ -36,6 +36,6 @@ Ehereum Classic  [🔗](https://coinmarketcap.com/currencies/ethereum-classic/) 
 
 Вчера, 5 июля, Том Ли (Fundstrat's Tom Lee) подтвердил  [🔗](https://cointelegraph.com/news/wall-street-s-tom-lee-says-bitcoin-price-to-hit-22k-by-year-s-end-can-reach-25k)  его прогноз по январю  [🔗](https://cointelegraph.com/news/tom-lee-says-btc-will-hit-25000-in-2018-advises-aggressive-buying-at-market-low) , что Bitcoin может стоить от $22 000 до $25 000 до конца 2018 года. Вычисление основано на стоимости исследования  [🔗](https://cointelegraph.com/tags/bitcoin-mining).
 
-Original source: [Crypto Markets See Mixed Signals But Remain Stable, Bitcoin Pushes $6,700](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-but-remain-stable-bitcoin-pushes-6-700)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-but-remain-stable-bitcoin-pushes-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

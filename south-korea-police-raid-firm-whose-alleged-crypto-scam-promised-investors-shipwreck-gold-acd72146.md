@@ -14,6 +14,6 @@
 
 Как коинтелеграф ранее сообщалось, власти также преследуют главу сингапурской компании филиала, ю Чжи Бом, который якобы создал крипто обмена называли Донской International и распространения сообщений о кораблекрушения в социальных сетях.
 
-Original source: [South Korea: Police Raid Firm Whose Alleged Crypto Scam Promised Investors Shipwreck Gold](https://cointelegraph.com/news/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold)
+[Original source](https://cointelegraph.com/news/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

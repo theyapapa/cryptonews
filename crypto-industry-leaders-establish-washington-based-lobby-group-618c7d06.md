@@ -14,6 +14,6 @@
 
 В США, PACS являются организациями, которые пула взносов кампании от членов с аналогичными политики и политических целей, а затем пожертвовать их политических кампаний за или против кандидатов, законодательство, или избирательных инициатив.
 
-Original source: [Crypto Industry Leaders Establish Washington-Based Lobby Group](https://cointelegraph.com/news/crypto-industry-leaders-establish-washington-based-lobby-group)
+[Original source](https://cointelegraph.com/news/crypto-industry-leaders-establish-washington-based-lobby-group)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

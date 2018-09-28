@@ -14,6 +14,6 @@ IBM выиграла патент на автономное самообслуж
 
 В новом докладе, опубликованном в конце августа указано, что IBM тесно боролся с китайской электронной коммерции гигант Alibaba на первое место в новом списке, что рейтинг субъектов по количеству цепочки патентов, связанных с поданной на сегодняшний день.
 
-Original source: [IBM Awarded Patent for Autonomous Self-Servicing Devices Within Blockchain-Based IoT System](https://cointelegraph.com/news/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system)
+[Original source](https://cointelegraph.com/news/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

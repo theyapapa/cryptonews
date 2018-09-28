@@ -14,6 +14,6 @@
 
 В конце января в другом исследовании, связанном с крипто-российским центром изучения общественного мнения (ВЦИОМ), было установлено, что более 56% россиян слышали о Bitcoin, отметив, что 74% столичного населения Москвы сейчас осведомлены об этом.
 
-Original source: [44 Percent of Russians Have Heard of Cryptocurrency, New Survey Reveals](https://cointelegraph.com/news/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals)
+[Original source](https://cointelegraph.com/news/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Alipay и его материнская компания Ant Financial объя�
 
 Alipay также принял жесткую позицию на пользователей, выполняющих валютной торговли с использованием своих счетов, коинтелеграф сообщили в минувшие выходные, в то время как в июне, муравей финансовых начал проект перевода блоков с Филиппинами.
 
-Original source: [China: Alibaba’s Alipay Reveals Government Partnership to Track Rice With Blockchain](https://cointelegraph.com/news/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain)
+[Original source](https://cointelegraph.com/news/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Lenovo новое видение технология намерена вклю�
 
 Сегодня список партнеров по кредитам насчитывает более 100 стартапов, которые реализовали кредитную платформу для развития своих ДАПП сервисов на базе системы блоков.
 
-Original source: [Lenovo Partners With Blockchain Platform to Develop Its IoT and AR/VR Hybrid Software](https://cointelegraph.com/news/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software)
+[Original source](https://cointelegraph.com/news/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

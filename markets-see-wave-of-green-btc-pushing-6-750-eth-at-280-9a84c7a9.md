@@ -14,6 +14,6 @@
 
 7-дневный график общей рыночной капитализации всех стран с коинмаркеткап в середине недели, рынки увидели аналогичные падение на тот, который пришел в ответ на Новости июля, что винклвосс близнецов высокого профиля BTC ЕФО предложение было также отклонено SEC, который затем увидел сопоставимых $12 000 000 000 вытер от общей рыночной капитализации.
 
-Original source: [Markets See Wave of Green, BTC Pushing $6,750, ETH At $280](https://cointelegraph.com/news/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280)
+[Original source](https://cointelegraph.com/news/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

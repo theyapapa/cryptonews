@@ -20,6 +20,6 @@ Joseph Stiglitz, Kenneth Ripoff, и Noriel Robini все сделали заяв
 
 В конце мая филиал голландского правительства объявил  [🔗](https://cointelegraph.com/news/low-capitalization-institutional-exposure-make-crypto-low-risk-says-dutch-govt-report)  о том, что криптовалюты представляют низкий риск для финансовой стабильности в стране, также указывая на ограниченное участие традиционных финансовых учреждений и систем.
 
-Original source: [Former World Bank Chief Economist: Bitcoin Will Fail as Governments Increase Regulation](https://cointelegraph.com/news/former-world-bank-chief-economist-bitcoin-will-fail-as-governments-increase-regulation)
+[Original source](https://cointelegraph.com/news/former-world-bank-chief-economist-bitcoin-will-fail-as-governments-increase-regulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

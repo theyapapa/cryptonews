@@ -14,6 +14,6 @@
 
 Алткоин торгуется примерно в $1,34 в пресс-время, по-прежнему вниз более чем на 7 процентов в течение последних 7 дней, после недавнего рыночного распродажи.
 
-Original source: [Altcoins Keep Dropping While Bitcoin Breaks Another Record of Market Dominance in 2018](https://cointelegraph.com/news/altcoins-keep-dropping-while-bitcoin-breaks-another-record-of-market-dominance-in-2018)
+[Original source](https://cointelegraph.com/news/altcoins-keep-dropping-while-bitcoin-breaks-another-record-of-market-dominance-in-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

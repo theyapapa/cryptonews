@@ -14,6 +14,6 @@
 
 В споре приняли участие Ethereum соучредитель Виталик бутерин, в то время как чудище попыталось отстоять свое решение перед пользователями, которые оказались неуверенными в отношении наиболее подходящего курса действий.
 
-Original source: [Kraken Joins Coinbase in Rebuking ‘Malicious’ Implications in New York Attorney General’s Exchange Report](https://cointelegraph.com/news/kraken-joins-coinbase-in-rebuking-malicious-implications-in-new-york-attorney-generals-exchange-report)
+[Original source](https://cointelegraph.com/news/kraken-joins-coinbase-in-rebuking-malicious-implications-in-new-york-attorney-generals-exchange-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

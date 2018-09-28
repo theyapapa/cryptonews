@@ -14,6 +14,6 @@
 
 В результате января промышленности рекордно $532 000 000 рубить крипто Exchange коинчекк, в этом году агентство разворачивается ряд все более требовательных мер для отечественных операторов.
 
-Original source: [Operator of Hacked Crypto Exchange Zaif Gets Third Warning From Japan's Watchdog](https://cointelegraph.com/news/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog)
+[Original source](https://cointelegraph.com/news/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

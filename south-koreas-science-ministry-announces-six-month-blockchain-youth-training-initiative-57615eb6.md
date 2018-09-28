@@ -14,6 +14,6 @@
 
 Последние планы на государственном уровне появились на прошлой неделе, когда финансовый контролер страны призвал к реализации цепочки для биржевой торговли.
 
-Original source: [South Korea’s Science Ministry Announces Six-Month Blockchain Youth Training Initiative](https://cointelegraph.com/news/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative)
+[Original source](https://cointelegraph.com/news/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

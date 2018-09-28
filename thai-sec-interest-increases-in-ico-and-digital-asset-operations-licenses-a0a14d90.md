@@ -14,6 +14,6 @@ SEC Генеральный секретарь изнасилование суч�
 
 Тайские банки теперь могут выдавать цифровые маркеры, предоставлять услуги крипто-брокерских услуг, работать с компаниями, связанными с криптой, и инвестировать в компании через филиалы.
 
-Original source: [Thai SEC: Interest Increases in ICO and Digital Asset Operations Licenses](https://cointelegraph.com/news/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses)
+[Original source](https://cointelegraph.com/news/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

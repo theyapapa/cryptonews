@@ -14,6 +14,6 @@ Bloomberg отмечает, что ETN может обратиться к инв
 
 В случае одобрения мнения делятся на их будущие последствия для крипто-пространства.
 
-Original source: [‘Soft’ Crypto ETF Alternative Now Geared Towards U.S. Investors, Says Bloomberg](https://cointelegraph.com/news/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg)
+[Original source](https://cointelegraph.com/news/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

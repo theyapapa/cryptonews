@@ -14,6 +14,6 @@ Bitcoin вырвался из $6 500 13 сентября, но в настоящ
 
 # # йоту/USD йоту пытается отказов после принятия поддержки на $0,5 знака, но она сталкивается с сильным сопротивлением на 20-дневной EMA.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, September 14](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-14)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-14)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

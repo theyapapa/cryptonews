@@ -14,6 +14,6 @@
 
 Во многих случаях, спам-контента скрывается на Twitter на основе автоматизированного обнаружения, "Добавление в обороне" \ [l \] ESS чем 5% щебетать счета связаны со спамом ".
 
-Original source: [Researchers Reveal Network of 15K Crypto-Related Scam Bots on Twitter](https://cointelegraph.com/news/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter)
+[Original source](https://cointelegraph.com/news/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

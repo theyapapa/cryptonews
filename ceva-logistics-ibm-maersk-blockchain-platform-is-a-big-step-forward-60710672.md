@@ -14,6 +14,6 @@ CEVA, которая имеет годовой доход $7 000 000 000, явл
 
 Как коинтелеграф ранее сообщалось, траделенс начал в качестве пилотного проекта в марте 2017, в то время как другие схемы с тех пор начали работать с целью использования цепочки для сокращения расходов, документов и сроков, в то время как повышение безопасности.
 
-Original source: [CEVA Logistics: IBM-Maersk Blockchain Platform Is ‘Big Step Forward’](https://cointelegraph.com/news/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward)
+[Original source](https://cointelegraph.com/news/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 # # # # Битва-доказательство, анонимные системы цепочки для геномов революции в этом все более непрозрачном геномных данных ландшафта, частные фирмы монетизации генотипических данных, порожденных их потребителей, и последовательность данных фрагментирована по собственности, централизованные силосы — носят ли
 
-Original source: [Life’s Code: Blockchain and the Future of Genomics](https://cointelegraph.com/news/lifes-code-blockchain-and-the-future-of-genomics)
+[Original source](https://cointelegraph.com/news/lifes-code-blockchain-and-the-future-of-genomics)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -68,6 +68,6 @@ MJ: Все в порядке! Большое вам спасибо за то, ч
 
 AR: Мое удовольствие. Спасибо!
 
-Original source: [Blockgeek’s Ameer Rosic: ‘Everyone Is Smart Enough to Lose or Make Money’ in Crypto](https://cointelegraph.com/news/blockgeek-s-ameer-rosic-everyone-is-smart-enough-to-lose-or-make-money-in-crypto)
+[Original source](https://cointelegraph.com/news/blockgeek-s-ameer-rosic-everyone-is-smart-enough-to-lose-or-make-money-in-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

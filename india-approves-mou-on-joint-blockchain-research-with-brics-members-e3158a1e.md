@@ -14,6 +14,6 @@
 
 В этом месяце индийское государство Telangana также подписало меморандумы о взаимопонимании с компаниями, которые в конечном итоге реализуют технологию в государственных приложениях в целях рационализации государственных услуг.
 
-Original source: [India Approves MOU on Joint Blockchain Research with BRICS Members](https://cointelegraph.com/news/india-approves-mou-on-joint-blockchain-research-with-brics-members)
+[Original source](https://cointelegraph.com/news/india-approves-mou-on-joint-blockchain-research-with-brics-members)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

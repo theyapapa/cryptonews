@@ -14,6 +14,6 @@
 
 Равг, кросс-устройство игры Discovery платформы, ищет, чтобы помочь игровой индустрии уменьшить пиратство путем создания системы цепочки, что награды геймеров с жетонами для достижения в игре.
 
-Original source: [Blockchain in Media: How Can Blockchain Fight Piracy?](https://cointelegraph.com/news/blockchain-in-media-how-can-blockchain-fight-piracy)
+[Original source](https://cointelegraph.com/news/blockchain-in-media-how-can-blockchain-fight-piracy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

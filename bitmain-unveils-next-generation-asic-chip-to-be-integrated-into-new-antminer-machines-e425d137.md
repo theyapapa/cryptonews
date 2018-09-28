@@ -14,6 +14,6 @@ Bitcoin (BTC) Mining Бегемот битмаин представила сво
 
 Только вчера, Bitcoin горнодобывающей производитель программного обеспечения битфури Group обнародовал свой собственный чип микросхемы называли битфури Кларк, который фирма планирует интегрировать в спектр оборудования, в том числе его добычи серверов.
 
-Original source: [Bitmain Unveils Next-Generation ASIC Chip to Be Integrated into New Antminer Machines](https://cointelegraph.com/news/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines)
+[Original source](https://cointelegraph.com/news/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

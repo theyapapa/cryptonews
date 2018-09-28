@@ -14,6 +14,6 @@
 
 Источник: коинмаркеткап менее позитивные новости ранее в этом месяце увидел на йоту фонд втянут в полемику после Стенограмма была утечка выявления серьезных разногласий между старшим руководством и основателей проекта, который Фонд с тех пор был быстро публично согласительной процедуры.
 
-Original source: [Fujitsu Backs IOTA as ‘New Protocol Standard’ for Audit Trails, Markets React](https://cointelegraph.com/news/fujitsu-backs-iota-as-new-protocol-standard-for-audit-trails-markets-react)
+[Original source](https://cointelegraph.com/news/fujitsu-backs-iota-as-new-protocol-standard-for-audit-trails-markets-react)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Bitcoin торгуется примерно в $7 216 в пресс-время, 
 
 Источник: коинмаркеткап из 25 топ-кодов, дожекоин (дожей) видел самый заметный рост, до колоссальные 41 процента за последние 24 часа, в соответствии с коинмаркеткап.
 
-Original source: [Almost All Top 100 Cryptocurrencies Solidly in Green, Dogecoin Skyrockets Over 40%](https://cointelegraph.com/news/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40)
+[Original source](https://cointelegraph.com/news/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

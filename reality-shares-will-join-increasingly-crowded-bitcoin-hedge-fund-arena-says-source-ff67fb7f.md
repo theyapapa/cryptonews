@@ -14,6 +14,6 @@
 
 Если реальность акции поднять полную сумму $100 000 000, его фонд будет конкурировать только 28, которые прошли цифру.
 
-Original source: [Reality Shares Will Join Increasingly Crowded Bitcoin Hedge Fund Arena, Says Source](https://cointelegraph.com/news/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source)
+[Original source](https://cointelegraph.com/news/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

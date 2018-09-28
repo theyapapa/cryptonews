@@ -14,6 +14,6 @@
 
 Во время Bitcoin ЕФО панель обсуждения, цепочки медиа советник Даллас Сантана сказал, что он скучает с крипто, потому что "нет реального бизнеса за ним", добавив, что он "устал от истории Bitcoin", как это вредит развитию отрасли.
 
-Original source: [Experts Debate Crypto’s Future and Discuss Use Cases at BlockShow Americas 2018](https://cointelegraph.com/news/experts-debate-cryptos-future-and-discuss-use-cases-at-blockshow-americas-2018)
+[Original source](https://cointelegraph.com/news/experts-debate-cryptos-future-and-discuss-use-cases-at-blockshow-americas-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

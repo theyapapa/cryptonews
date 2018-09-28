@@ -14,6 +14,6 @@ Goldman Sachs Group Inc. останавливает свои планы по о�
 
 Генеральный директор Goldman Sachs Ллойд бланкфейн однажды сказал, что Bitcoin Trading не для него, но уточнил, что он открыт для рассмотрения его, если валюта становится "более установленным".
 
-Original source: [Business Insider: Goldman Sachs Drops Plans to Open Crypto Trading Desk](https://cointelegraph.com/news/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk)
+[Original source](https://cointelegraph.com/news/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

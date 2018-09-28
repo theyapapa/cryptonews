@@ -14,6 +14,6 @@ Temasek не является инвестором в битмаин, и ник�
 
 Тем не менее, для непрофессионала или непосвященных потенциальных инвесторов, язык будет предположить, что битмаин были приобретены средства от DST Global.
 
-Original source: [Investment Firm Denies Involvement In Bitmain IPO Following Erroneous Media Reports](https://cointelegraph.com/news/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports)
+[Original source](https://cointelegraph.com/news/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

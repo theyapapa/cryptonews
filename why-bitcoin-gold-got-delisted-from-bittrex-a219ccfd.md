@@ -14,6 +14,6 @@ Crypto Exchange биттрекс установлен для десписка Bi
 
 Пока пока неясно если другие обмены последуют за биттрекс в деBTG, то на времени печати, доля рынка Bitcoin золота составляет до $368 000 000, и монетка торгует на около $21,39, ранжировка 30-ое рыночным ограничением, согласно данным по коинмаркеткап.
 
-Original source: [Why Bitcoin Gold Got Delisted From Bittrex](https://cointelegraph.com/news/why-bitcoin-gold-got-delisted-from-bittrex)
+[Original source](https://cointelegraph.com/news/why-bitcoin-gold-got-delisted-from-bittrex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

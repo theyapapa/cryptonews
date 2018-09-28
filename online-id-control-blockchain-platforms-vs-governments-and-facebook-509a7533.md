@@ -14,6 +14,6 @@
 
 Алистер Джонсон соглашается: "главным преимуществом децентрализованной книги личных данных по централизованной базе данных является безопасность от хакеров, которые она предоставляет.
 
-Original source: [Online ID Control: Blockchain Platforms vs. Governments and Facebook](https://cointelegraph.com/news/online-id-control-blockchain-platforms-vs-governments-and-facebook)
+[Original source](https://cointelegraph.com/news/online-id-control-blockchain-platforms-vs-governments-and-facebook)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

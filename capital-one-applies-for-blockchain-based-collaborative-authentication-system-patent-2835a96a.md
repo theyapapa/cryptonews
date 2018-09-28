@@ -14,6 +14,6 @@
 
 Кроме того, система будет ограничивать обмен личной информацией между пользователями и учреждениями.
 
-Original source: [Capital One Applies for Blockchain-Based Collaborative Authentication System Patent](https://cointelegraph.com/news/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent)
+[Original source](https://cointelegraph.com/news/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

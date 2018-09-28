@@ -14,6 +14,6 @@
 
 Однако южнокорейские чиновники также приняли жесткие меры по регулированию рынка крипто.
 
-Original source: [South Korean Official Proposes Greater Cooperation for Global Crypto Regulation](https://cointelegraph.com/news/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation)
+[Original source](https://cointelegraph.com/news/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

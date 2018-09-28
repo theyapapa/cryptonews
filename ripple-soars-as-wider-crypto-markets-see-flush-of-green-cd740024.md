@@ -14,6 +14,6 @@ S Ource: коинтелеграф Bitcoin индекс цен после при�
 
 Трон (TRX) является сильнейшим Top двадцати исполняющая монета в день, до 5,55 процента торговли на $0,02 в пресс-время.
 
-Original source: [Ripple Soars as Wider Crypto Markets See Flush of Green](https://cointelegraph.com/news/ripple-soars-as-wider-crypto-markets-see-flush-of-green)
+[Original source](https://cointelegraph.com/news/ripple-soars-as-wider-crypto-markets-see-flush-of-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

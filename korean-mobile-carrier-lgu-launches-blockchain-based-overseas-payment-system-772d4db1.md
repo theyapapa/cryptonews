@@ -14,6 +14,6 @@
 
 Только на прошлой неделе, Фукуока обнародовал новое доказательство концепции (ВОУ) в партнерстве с синчроносс Technologies и тбкасофт использовать ККПС, чтобы позволить пользователям проводить одноранговых денежных переводов в глобальном масштабе с использованием устаревших служб обмена сообщениями, таких как SMS и электронной почты.
 
-Original source: [Korean Mobile Carrier LGU+ Launches Blockchain-Based Overseas Payment System](https://cointelegraph.com/news/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system)
+[Original source](https://cointelegraph.com/news/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

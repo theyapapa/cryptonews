@@ -14,6 +14,6 @@
 
 И ранее в августе, бинанце LCX, совместное предприятие между бинанце и Лихтенштейном криптоассетс Exchange (LCX), объявила о запуске крипто-Fiat обмен в Лихтенштейне, чтобы позволить торговлю между швейцарскими франками (CHF) и евро (EUR) против крупных цифровых валютные пары.
 
-Original source: [Binance to Start Closed Beta Testing of New Crypto-Fiat Exchange in Singapore](https://cointelegraph.com/news/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore)
+[Original source](https://cointelegraph.com/news/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

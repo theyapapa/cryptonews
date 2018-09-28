@@ -14,6 +14,6 @@
 
 Хотя тестирование показало твердую производительность продукта, пульсации главный криптограф Дэвид Шварц утверждал, что банки вряд ли развернуть цепочки для обработки международных платежей, ссылаясь на низкие масштабируемость и конфиденциальность проблем.
 
-Original source: [Ripple Partners With Three Crypto Exchanges as Part of XRapid Solution](https://cointelegraph.com/news/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution)
+[Original source](https://cointelegraph.com/news/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

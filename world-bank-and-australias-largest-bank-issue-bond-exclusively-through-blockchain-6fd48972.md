@@ -14,6 +14,6 @@ Reuters цитирует ЦБА Исполнительный Генеральн�
 
 По состоянию на декабрь прошлого года, Австралийская биржа ценных бумаг (ASX) работает над внедрением технологии цепочки, чтобы заменить свою нынешнюю систему обработки акций сделок, проект, который Reuters сегодня отмечает планируется завершить к 2020.
 
-Original source: [World Bank and Australia's Largest Bank Issue Bond Exclusively Through Blockchain](https://cointelegraph.com/news/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain)
+[Original source](https://cointelegraph.com/news/world-bank-and-australias-largest-bank-issue-bond-exclusively-through-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

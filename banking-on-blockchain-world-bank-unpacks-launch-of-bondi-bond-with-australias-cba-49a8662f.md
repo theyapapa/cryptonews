@@ -14,6 +14,6 @@
 
 Мы надеемся углубить наше понимание влияния этой технологии на рынках капитала, и мы, конечно, рассчитываем на проведение геологоразведочных работ в отношении других средств передвижения стоимости.
 
-Original source: [Banking on Blockchain: World Bank Unpacks Launch of ‘BONDI’ Bond With Australia’s CBA](https://cointelegraph.com/news/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba)
+[Original source](https://cointelegraph.com/news/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

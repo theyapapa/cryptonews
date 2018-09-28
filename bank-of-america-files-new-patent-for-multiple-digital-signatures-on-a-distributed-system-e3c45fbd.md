@@ -14,6 +14,6 @@
 
 Еще в июле, BofA также подал патент на систему, которая позволяет для внешней проверки данных на основе распределенной технологии книги.
 
-Original source: [Bank of America Files New Patent for Multiple Digital Signatures on a Distributed System](https://cointelegraph.com/news/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system)
+[Original source](https://cointelegraph.com/news/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

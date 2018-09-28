@@ -14,6 +14,6 @@
 
 Для того, чтобы стать полностью регулируемым брокером-дилером и "предлагать будущие услуги, которые включают Crypto торговли ценными бумагами, маржи и внебиржевой торговли", Coinbase приобрели ценных бумаг дилер Keystone Capital Corp. в дополнение к веновате Marketplace, Inc, и цифровое богатство LLC.
 
-Original source: [Coinbase CEO Brian Armstrong: 1 Billion People Will Be in Crypto Ecosystem in 5 Years](https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-1-billion-people-will-be-in-crypto-ecosystem-in-5-years)
+[Original source](https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-1-billion-people-will-be-in-crypto-ecosystem-in-5-years)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

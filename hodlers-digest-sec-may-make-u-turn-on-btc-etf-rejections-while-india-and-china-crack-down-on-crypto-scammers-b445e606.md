@@ -12,6 +12,6 @@ SSE, четвертая по величине фондовая биржа в м�
 
 # # # # Финансирование раундов Японии ВОО Holdings инвестирует в беду Crypto Exchange ластрутс японские финансовые услуги гигант ВОО Holdings объявил на этой неделе, что он сделал вторую инвестицию, сумма нераскрыта, в проблемных валютных ластрутс обмена.
 
-Original source: [Hodler’s Digest: SEC May Make U-Turn on BTC ETF Rejections, While India and China Crack Down on Crypto Scammers](https://cointelegraph.com/news/hodlers-digest-sec-may-make-u-turn-on-btc-etf-rejections-while-india-and-china-crack-down-on-crypto-scammers)
+[Original source](https://cointelegraph.com/news/hodlers-digest-sec-may-make-u-turn-on-btc-etf-rejections-while-india-and-china-crack-down-on-crypto-scammers)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

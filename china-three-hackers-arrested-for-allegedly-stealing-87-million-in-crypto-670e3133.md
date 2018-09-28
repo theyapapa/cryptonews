@@ -14,6 +14,6 @@
 
 Как коинтелеграф ранее сообщалось, ранее этим летом китайские полицейские арестовали в общей сложности 20 подозреваемых в крупном криптожаккинг случае, что якобы инфицированных более 1 000 000 компьютеров и генерируется 15 000 000 юаней (около $2 200 000) в незаконной прибыли более течение двух лет.
 
-Original source: [China: Three Hackers Arrested for Allegedly Stealing $87 Million in Crypto](https://cointelegraph.com/news/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto)
+[Original source](https://cointelegraph.com/news/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

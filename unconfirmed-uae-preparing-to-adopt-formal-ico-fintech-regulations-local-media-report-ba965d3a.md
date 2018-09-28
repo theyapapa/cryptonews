@@ -14,6 +14,6 @@
 
 ОАЭ проводили углубленную политику fintech интеграции в последние годы, с особым акцентом на цепочки на муниципальном и государственном уровне.
 
-Original source: [Unconfirmed: UAE Preparing to Adopt Formal ICO, Fintech Regulations, Local Media Report](https://cointelegraph.com/news/unconfirmed-uae-preparing-to-adopt-formal-ico-fintech-regulations-local-media-report)
+[Original source](https://cointelegraph.com/news/unconfirmed-uae-preparing-to-adopt-formal-ico-fintech-regulations-local-media-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

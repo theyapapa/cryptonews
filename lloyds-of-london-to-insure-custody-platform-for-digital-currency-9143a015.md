@@ -14,6 +14,6 @@
 
 Тем не менее, он отметил, что Королевство траст "получил" радикальные скидки "из-за его технологии, типа" холодного хранения ", в котором цифровые монеты хранятся в автономном режиме".
 
-Original source: [Lloyd’s Of London to Insure Custody Platform for Digital Currency](https://cointelegraph.com/news/lloyds-of-london-to-insure-custody-platform-for-digital-currency)
+[Original source](https://cointelegraph.com/news/lloyds-of-london-to-insure-custody-platform-for-digital-currency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -12,6 +12,6 @@ FCA утверждает, что новый альянс, Глобальная �
 
 Июльский доклад, проведенный крупным инновационным центром, DAG Global, и глубокая аналитика знаний заявил, что Великобритания была создана, чтобы стать лидером в технологии цепочки и крипто экономики на 2022.
 
-Original source: [UK Financial Authority Creates Global Alliance for Fintech Innovation Collaboration](https://cointelegraph.com/news/uk-financial-authority-creates-global-alliance-for-fintech-innovation-collaboration)
+[Original source](https://cointelegraph.com/news/uk-financial-authority-creates-global-alliance-for-fintech-innovation-collaboration)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

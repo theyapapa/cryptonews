@@ -16,6 +16,6 @@
 
 Между тем, борец за свободу партии кандидата в Висконсин губернатор Фил Андерсон заявил в июле, что он будет принимать BTC пожертвования, несмотря на государственной этики Комиссии нахождения их "серьезной проблемой" в соответствии с законом штата.
 
-Original source: [Bitcoin-Friendly US Senate Candidate Defeated in Republican Primary Elections](https://cointelegraph.com/news/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections)
+[Original source](https://cointelegraph.com/news/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

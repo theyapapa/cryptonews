@@ -14,6 +14,6 @@
 
 Руководители «ищут fintech компании, которые готовы пилотировать свое решение и масштабировать свой бизнес в партнерстве с банком»,-объясняет сайт программы.
 
-Original source: [Poland’s Top Bank to Launch Blockchain Platform for Document Management Within ‘Days’](https://cointelegraph.com/news/polands-top-bank-to-launch-blockchain-platform-for-document-management-within-days)
+[Original source](https://cointelegraph.com/news/polands-top-bank-to-launch-blockchain-platform-for-document-management-within-days)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

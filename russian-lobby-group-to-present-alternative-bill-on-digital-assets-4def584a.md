@@ -14,6 +14,6 @@
 
 Законопроект «о цифровых финансовых активах» был принят Государственной Думой в первом из трех чтений в мае 2018.
 
-Original source: [Russian Lobby Group to Present Alternative Bill on Digital Assets](https://cointelegraph.com/news/russian-lobby-group-to-present-alternative-bill-on-digital-assets)
+[Original source](https://cointelegraph.com/news/russian-lobby-group-to-present-alternative-bill-on-digital-assets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ WSJ посмотрел на 175 схем торговли 121 различных
 
 Для Bitcoin, различные источники утверждали, такие факторы, как MT. GOX ликвидации продажи и основные багхолдерс вызвали искусственные колебания цен с декабря 2017 года все время максимумов, в то время как другие не утверждали, что такая деятельность оказала влияние на рынки.
 
-Original source: [WSJ: Organized Crypto ‘Trading Groups’ Manipulated Markets to Make $825 Million in 2018](https://cointelegraph.com/news/wsj-organized-crypto-trading-groups-manipulated-markets-to-make-825-million-in-2018)
+[Original source](https://cointelegraph.com/news/wsj-organized-crypto-trading-groups-manipulated-markets-to-make-825-million-in-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

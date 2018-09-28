@@ -14,6 +14,6 @@
 
 Субсидии декред состояли из 10 процентов от блочных вознаграждений, которые владельцы рук могут голосовать за использование.
 
-Original source: [Governing Decentralization: How On-Chain Voting Protocols Operate and Vary](https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary)
+[Original source](https://cointelegraph.com/news/governing-decentralization-how-on-chain-voting-protocols-operate-and-vary)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

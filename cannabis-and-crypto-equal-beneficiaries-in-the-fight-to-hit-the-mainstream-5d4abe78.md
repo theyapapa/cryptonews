@@ -12,6 +12,6 @@
 
 Медицинские диспансеры марихуаны успешно ребрендинг препарата, предоставляя подробную информацию о лекарственных свойствах конкретных штаммов, но общины, движущихся легализовать горшок все еще видят буксировки за беспокойство, что законные каннабиса будет
 
-Original source: [Cannabis and Crypto: Equal Beneficiaries In The Fight To Hit The Mainstream](https://cointelegraph.com/news/cannabis-and-crypto-equal-beneficiaries-in-the-fight-to-hit-the-mainstream)
+[Original source](https://cointelegraph.com/news/cannabis-and-crypto-equal-beneficiaries-in-the-fight-to-hit-the-mainstream)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

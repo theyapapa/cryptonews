@@ -14,6 +14,6 @@ JPMorgan глобальный рынок стратег Николаос пан�
 
 Хотя это не означает, что компания приближается к активному участию в рынках стран с рыночной экономикой, ее аппетит к развитию цепочки блоков говорит о фундаментальных технологиях и обещаниях, которые она имеет для финансового мира.
 
-Original source: [JPMorgan’s Balancing Act Between Blockchain and Crypto](https://cointelegraph.com/news/jpmorgans-balancing-act-between-blockchain-and-crypto)
+[Original source](https://cointelegraph.com/news/jpmorgans-balancing-act-between-blockchain-and-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

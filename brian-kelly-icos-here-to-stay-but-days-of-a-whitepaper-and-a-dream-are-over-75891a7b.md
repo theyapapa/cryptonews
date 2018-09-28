@@ -14,6 +14,6 @@
 
 ICO рынок видел положительный рост в этом году, более чем в два раза с 2017, в соответствии с икоратинг в ICO Market Report за второй квартал 2018.
 
-Original source: [Brian Kelly: ICOs Here to Stay, but ‘Days of a Whitepaper and a Dream’ Are Over](https://cointelegraph.com/news/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over)
+[Original source](https://cointelegraph.com/news/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

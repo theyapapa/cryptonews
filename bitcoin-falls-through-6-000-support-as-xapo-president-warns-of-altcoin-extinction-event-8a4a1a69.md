@@ -14,6 +14,6 @@
 
 Высшее доминирование на рынке Bitcoin, по их утверждению, имеет склонность к выпуску U-Turn в алткоинс ' нисходящем тренде.
 
-Original source: [Bitcoin Falls Through $6,000 Support as Xapo President Warns of Altcoin ‘Extinction Event’](https://cointelegraph.com/news/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event)
+[Original source](https://cointelegraph.com/news/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

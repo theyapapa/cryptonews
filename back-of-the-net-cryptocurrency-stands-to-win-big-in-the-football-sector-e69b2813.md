@@ -14,6 +14,6 @@
 
 # # Crypto в качестве метода оплаты цепочки уже сделали свое первое заметное влияние на владение футбольным клубом.
 
-Original source: [Back of the Net: Cryptocurrency Stands to Win Big in the Football Sector](https://cointelegraph.com/news/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector)
+[Original source](https://cointelegraph.com/news/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

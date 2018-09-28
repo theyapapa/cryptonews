@@ -14,6 +14,6 @@
 
 В эксклюзивном интервью с коинтелеграф, CZ оказалась равнодушным к падению объемов торговли-как на бинанце и других крипто биржах-на протяжении 2018, отметив, что "рынки всегда излишне бурно реагировать"-как, когда дела идут хорошо, и когда вещи остыть-и что Он "видел это много раз: пять или шесть раз, на годичный цикл".
 
-Original source: [Nevermind the Stagnating Market, Binance Is Pushing Further in Its Expansion](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
+[Original source](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

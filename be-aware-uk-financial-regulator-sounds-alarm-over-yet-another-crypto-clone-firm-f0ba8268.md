@@ -14,6 +14,6 @@
 
 В марте Великобритания попала в заголовки, когда компания «Шелл», зарегистрированная в стране, была связана с украденными средствами из ныне несуществующей валютной биржи MT. GOX.
 
-Original source: [‘Be Aware’: UK Financial Regulator Sounds Alarm Over Yet Another Crypto ‘Clone Firm’](https://cointelegraph.com/news/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm)
+[Original source](https://cointelegraph.com/news/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

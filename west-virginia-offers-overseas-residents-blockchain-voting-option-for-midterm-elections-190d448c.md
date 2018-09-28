@@ -14,6 +14,6 @@ CNN отмечает, что Западная Вирджиния будет ог
 
 Западная Вирджиния ранее экспериментальных воатз в мобильных блоков голосования платформы в Харрисон и мононгалиа уездов в первичных выборах этой весной.
 
-Original source: [West Virginia Offers Overseas Residents Blockchain Voting Option for Midterm Elections](https://cointelegraph.com/news/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections)
+[Original source](https://cointelegraph.com/news/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

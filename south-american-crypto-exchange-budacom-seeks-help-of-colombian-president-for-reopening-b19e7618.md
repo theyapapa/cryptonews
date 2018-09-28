@@ -14,6 +14,6 @@
 
 В апреле Антимонопольный суд Чили опубликовал постановление, заказав двум банкам открыть счета в Буда после того, как биржа подала иски против десяти банков, включая вышеупомянутые два.
 
-Original source: [South American Crypto Exchange Buda.com Seeks Help of Colombian President for Reopening](https://cointelegraph.com/news/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening)
+[Original source](https://cointelegraph.com/news/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ BIS отметил, что неспецифические-или общие-пр
 
 В заключение бис предложил, чтобы правила "не должны быть плохими новостями для \ [крипто \] рынков, при этом ценовые отклики, в частности, свидетельствуют о явном предпочтении определенному правовому статусу, хотя и легкому режиму регулирования".
 
-Original source: [BIS Report Finds Strong Link Between Crypto Prices and Regulators' Actions](https://cointelegraph.com/news/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions)
+[Original source](https://cointelegraph.com/news/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

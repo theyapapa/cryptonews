@@ -14,6 +14,6 @@ Ant Financial, финансовый филиал китайской электр
 
 Основатель Alibaba Джек МА имеет сигнализирует о растущем участии Alipay в цепочке в течение нескольких лет, с Ant Financial наиболее недавно обеспечения $14 000 000 000 в финансировании развития технологии в июне этого года.
 
-Original source: [Alibaba's Ant Financial to Launch Blockchain Backend-as-a-Service Platform](https://cointelegraph.com/news/alibabas-ant-financial-to-launch-blockchain-backend-as-a-service-platform)
+[Original source](https://cointelegraph.com/news/alibabas-ant-financial-to-launch-blockchain-backend-as-a-service-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

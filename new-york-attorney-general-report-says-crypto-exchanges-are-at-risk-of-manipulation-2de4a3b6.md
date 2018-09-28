@@ -14,6 +14,6 @@
 
 Далее в докладе говорится: "Хотя некоторые виртуальные валютные платформы предприняли шаги для того, чтобы обеспечить справедливость своих платформ и гарантировать целостность их обмена, другие же этого не сделали.
 
-Original source: [New York Attorney General Report Says Crypto Exchanges are at Risk of Manipulation](https://cointelegraph.com/news/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation)
+[Original source](https://cointelegraph.com/news/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

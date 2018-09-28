@@ -14,6 +14,6 @@
 
 В июле этого года IBM подписала 5-летний AU $1 млрд ($740 000 000) дело с австралийским правительством использовать цепочки и другие новые технологии для улучшения безопасности данных и автоматизации через федеральные департаменты, в том числе обороны и внутренних дел.
 
-Original source: [Australian Gov’t Partners With IBM and Legal Experts to Build Smart Contracts Platform](https://cointelegraph.com/news/australian-govt-partners-with-ibm-and-legal-experts-to-build-smart-contracts-platform)
+[Original source](https://cointelegraph.com/news/australian-govt-partners-with-ibm-and-legal-experts-to-build-smart-contracts-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

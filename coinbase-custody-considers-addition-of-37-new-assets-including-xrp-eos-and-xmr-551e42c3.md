@@ -16,6 +16,6 @@ Coinbase под стражей начал 2 июля этого года, с ц�
 
 Новая служба якобы использует целый ряд мер безопасности, включая "разделение по цепочке криптографических активов", "оффлайн, мульти-SIG и географически распределенную защиту транзакций" и "надежный аудит и отчетность по холодильному хранению".
 
-Original source: [Coinbase Custody Considers Addition of 37 New Assets Including XRP, EOS and XMR](https://cointelegraph.com/news/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr)
+[Original source](https://cointelegraph.com/news/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

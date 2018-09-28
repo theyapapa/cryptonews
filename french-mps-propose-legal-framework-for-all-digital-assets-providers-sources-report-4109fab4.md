@@ -14,6 +14,6 @@ LesEcho.fr пишет, что поиск одобрения будет необ�
 
 Ранее в этом месяце, французский регулятор фондовых рынков ауторитé де Маршес финансистов (АИФ) получили юридические полномочия, чтобы дать лицензии на начальные монеты предлагая (ICO), связанных с компаниями, с тем чтобы "привлечь инвесторов со всего мира," в соответствии с французской Министр финансов Бруно Ле Мэр.
 
-Original source: [French MPs Propose Legal Framework for All ‘Digital Assets’ Providers, Sources Report](https://cointelegraph.com/news/french-mps-propose-legal-framework-for-all-digital-assets-providers-sources-report)
+[Original source](https://cointelegraph.com/news/french-mps-propose-legal-framework-for-all-digital-assets-providers-sources-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

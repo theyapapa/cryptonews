@@ -14,6 +14,6 @@
 
 Согласно исследованию, шаблоны транзакций троса показывают, что он «использовался для обеспечения ценовой поддержки и манипулирования ценами на цены».
 
-Original source: [Controversial Stablecoin Tether Issues New Batch of USDT Tokens Worth $50 Million](https://cointelegraph.com/news/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million)
+[Original source](https://cointelegraph.com/news/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

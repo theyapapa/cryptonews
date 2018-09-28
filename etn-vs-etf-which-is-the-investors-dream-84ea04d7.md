@@ -14,6 +14,6 @@ ETN считается "мягкой" альтернативой Bitcoin ЕФО,
 
 # # ЕФО Святой Грааль с ETN теперь доступны для американских инвесторов-а также фьючерсы возможно через ряд институциональных торговых домов-Bitcoin все еще не достигает новых высот.
 
-Original source: [ETN vs. ETF: Which Is the Investor’s Dream?](https://cointelegraph.com/news/etn-vs-etf-which-is-the-investors-dream)
+[Original source](https://cointelegraph.com/news/etn-vs-etf-which-is-the-investors-dream)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

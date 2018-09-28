@@ -14,6 +14,6 @@
 
 14 августа была выпущена патентная заявка от крупных американских крипто-торговых и кошельковых платформ Coinbase для повышения безопасности Bitcoin (BTC) платежей, в частности решение вопросов, связанных с кражей личных ключей пользователей из их кошельков.
 
-Original source: [IBM Applies for Blockchain Patent to Ensure Transaction Compliance via Nodes Data](https://cointelegraph.com/news/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data)
+[Original source](https://cointelegraph.com/news/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

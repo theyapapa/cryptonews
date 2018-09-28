@@ -14,6 +14,6 @@
 
 Что касается влияния таких инициатив, то эксперт по правовым вопросам предположил, что российские проекты Crypto в конечном итоге «будут искать другую юрисдикцию», указывая на то, что некоторые крупные фирмы, связанные с криптой, уже работают «через зарубежные установки»: «если такие инициативы, как криминализация в отношении «реалии», получат силу в будущем, это окажет негативное влияние на реальные проекты, которые в результате будут искать другую юрисдикцию.
 
-Original source: [Russia’s Interior Ministry Proposes Criminalizing Unregistered Crypto Activity, Says Report](https://cointelegraph.com/news/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report)
+[Original source](https://cointelegraph.com/news/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

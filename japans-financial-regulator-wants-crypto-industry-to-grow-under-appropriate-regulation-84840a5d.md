@@ -12,6 +12,6 @@
 
 Ранее в этом месяце АФН опубликовало результаты своих проверок на местах ряда операторов валютной биржи, отметив, что в ходе проверок он дает «приоритет защите инвесторов».
 
-Original source: [Japan’s Financial Regulator Wants Crypto Industry to ‘Grow Under Appropriate Regulation’](https://cointelegraph.com/news/japans-financial-regulator-wants-crypto-industry-to-grow-under-appropriate-regulation)
+[Original source](https://cointelegraph.com/news/japans-financial-regulator-wants-crypto-industry-to-grow-under-appropriate-regulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

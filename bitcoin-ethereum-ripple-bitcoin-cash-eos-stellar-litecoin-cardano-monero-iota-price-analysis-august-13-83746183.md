@@ -14,6 +14,6 @@
 
 Потенциальное восстановление от низких частот будет сталкиваться с жестким сопротивлением на 20-дневной EMA, и если этот уровень пересекается, следующее сопротивление на $0,9150.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 13](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-13)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-13)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

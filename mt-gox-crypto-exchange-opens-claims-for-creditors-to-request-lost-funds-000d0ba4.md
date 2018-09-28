@@ -14,6 +14,6 @@
 
 Июньское мероприятие получило смешанный прием, несмотря на комментаторы реагируют с облегчением, когда Кобаяси подтвердил, что он будет положить конец массовых Bitcoin-офф, которые ранее характеризуется MT. GOX разбирательства.
 
-Original source: [Mt. Gox Crypto Exchange Opens Claims for Creditors to Request Lost Funds](https://cointelegraph.com/news/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds)
+[Original source](https://cointelegraph.com/news/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

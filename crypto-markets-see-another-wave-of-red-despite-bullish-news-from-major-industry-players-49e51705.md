@@ -14,6 +14,6 @@
 
 В отличие, рябь (КСРП), занимает третье место, понесла наибольшие потери среди топ-20 стран за последний день, потеряв 6 процентов для торговли на $0,268 в пресс-время.
 
-Original source: [Crypto Markets See Another Wave of Red, Despite Bullish News From Major Industry Players](https://cointelegraph.com/news/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

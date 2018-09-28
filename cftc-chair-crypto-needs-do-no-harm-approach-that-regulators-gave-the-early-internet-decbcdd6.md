@@ -14,6 +14,6 @@
 
 В этом году два федеральных судей вынес решение по основным делам, которые подтвердили применимость федеральных товарных правил Bitcoin под надзором CFTC, а также-только на этой неделе-применимость американских законов о ценных бумагах для судебного преследования крипто мошенничества Утверждения.
 
-Original source: [CFTC Chair: Crypto Needs ‘Do No Harm’ Approach That Regulators Gave the Early Internet](https://cointelegraph.com/news/cftc-chair-crypto-needs-do-no-harm-approach-that-regulators-gave-the-early-internet)
+[Original source](https://cointelegraph.com/news/cftc-chair-crypto-needs-do-no-harm-approach-that-regulators-gave-the-early-internet)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Via варежо является одним из крупнейших быто�
 
 Согласно недавнему пресс-релизу, Via варежо обрабатывается примерно $6 300 000 000 продаж в 2017.
 
-Original source: [Brazilian Retail Giant Partners With Blockchain Payment Service Airfox to ‘Drive Adoption’](https://cointelegraph.com/news/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption)
+[Original source](https://cointelegraph.com/news/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

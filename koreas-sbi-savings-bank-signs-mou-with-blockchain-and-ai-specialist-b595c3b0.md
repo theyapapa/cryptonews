@@ -14,6 +14,6 @@
 
 В мае правительство указало, что планирует отменить свой пресловутый запрет на внутренние первоначальные монеты (ИКО), которые Национальная Ассамблея продолжает обсуждать, даже предлагая планы продвигаться вперед с созданием в Южной Корее "цепочки" в стиле Мальты острова.
 
-Original source: [Korea's SBI Savings Bank Signs MoU With Blockchain and AI Specialist](https://cointelegraph.com/news/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist)
+[Original source](https://cointelegraph.com/news/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

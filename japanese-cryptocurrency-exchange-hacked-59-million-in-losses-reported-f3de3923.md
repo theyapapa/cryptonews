@@ -6,6 +6,6 @@
 
 Коинтелеграф будет обновлять эту историю, как больше информации становится доступным.
 
-Original source: [Japanese Cryptocurrency Exchange Hacked, $59 Million in Losses Reported](https://cointelegraph.com/news/japanese-cryptocurrency-exchange-hacked-59-million-in-losses-reported)
+[Original source](https://cointelegraph.com/news/japanese-cryptocurrency-exchange-hacked-59-million-in-losses-reported)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

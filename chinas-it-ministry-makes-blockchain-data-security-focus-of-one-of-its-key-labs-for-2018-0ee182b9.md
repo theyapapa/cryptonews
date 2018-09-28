@@ -14,6 +14,6 @@
 
 Этой весной, китайский президент XI Цзиньпин открыто похвалили цепочки, как пример "нового поколения" технологий, поставляющих "прорывы".
 
-Original source: [China’s IT Ministry Makes Blockchain, Data Security Focus of One of Its Key Labs for 2018](https://cointelegraph.com/news/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018)
+[Original source](https://cointelegraph.com/news/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

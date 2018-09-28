@@ -14,6 +14,6 @@
 
 До вышеупомянутого заседания, доклад бельгийского Think Tank Брейгеля призвал европейские регулирующие органы принять единообразные правила о правовых актах на уровне ЕС.
 
-Original source: [German Finance Minister Doubts Crypto Can Currently Replace Traditional Currencies](https://cointelegraph.com/news/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies)
+[Original source](https://cointelegraph.com/news/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

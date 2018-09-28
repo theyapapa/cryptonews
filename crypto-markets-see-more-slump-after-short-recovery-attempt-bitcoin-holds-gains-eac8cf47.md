@@ -14,6 +14,6 @@ Crypto Market визуализации от коин360 Bitcoin торгует �
 
 Источник: коинмаркеткап ранее на этой неделе, фундстрат глава исследования том ли цитирует доминирование Bitcoin как один из наиболее важных факторов, как рынок "реагирует на то, что происходит" в отрасли.
 
-Original source: [Crypto Markets See More Slump After Short Recovery Attempt, Bitcoin Holds Gains](https://cointelegraph.com/news/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

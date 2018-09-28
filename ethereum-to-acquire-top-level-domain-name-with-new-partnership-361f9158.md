@@ -14,6 +14,6 @@ Ethereum заключила соглашение с поставщиком ск�
 
 В основном, Ethereum был первым шагом на пути к массовому усыновлению, доведя до публики читаемые адреса.
 
-Original source: [Ethereum to Acquire Top-Level Domain Name With New Partnership](https://cointelegraph.com/news/ethereum-to-acquire-top-level-domain-name-with-new-partnership)
+[Original source](https://cointelegraph.com/news/ethereum-to-acquire-top-level-domain-name-with-new-partnership)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

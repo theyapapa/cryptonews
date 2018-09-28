@@ -14,6 +14,6 @@ FCA представила контактные данные фирмы-клон
 
 Недавно он объявил о создании глобальной инициативы под названием Глобальная финансовая Инновационная сеть (гфин) для улучшения сотрудничества между регулирующими органами и компаниями по fintech инноваций, как цепочки.
 
-Original source: [UK Financial Regulator Warns Investors About ‘Clone Firm’](https://cointelegraph.com/news/uk-financial-regulator-warns-investors-about-clone-firm)
+[Original source](https://cointelegraph.com/news/uk-financial-regulator-warns-investors-about-clone-firm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

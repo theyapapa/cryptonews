@@ -14,6 +14,6 @@
 
 Крупный недавний опрос "большой четверки" аудитор Deloitte обнаружил, что среди предприятий, сталкивающихся с реализацией устаревших решений цепочки, 74% всех респондентов в опросе заявили, что их руководящая группа считает, что "убедительные бизнес случае "для их развертывания.
 
-Original source: [Blockchain’s Popularity Among Large Enterprises Soared 11% This Year, Survey Finds](https://cointelegraph.com/news/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds)
+[Original source](https://cointelegraph.com/news/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

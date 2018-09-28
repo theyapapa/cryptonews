@@ -14,6 +14,6 @@
 
 6 августа тзеро объявил о закрытии своего предложения токенов безопасности (сто) в 11:59 PM EDT в тот день.
 
-Original source: [Overstock Shares Surge Following tZERO Investment Announcement](https://cointelegraph.com/news/overstock-shares-surge-following-tzero-investment-announcement)
+[Original source](https://cointelegraph.com/news/overstock-shares-surge-following-tzero-investment-announcement)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

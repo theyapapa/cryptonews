@@ -14,6 +14,6 @@
 
 В Таиланде Тайская ассоциация рынка облигаций (TBMA) показала, что она будет развертывать решение на основе цепочки решений на своей платформе обслуживания регистраторов.
 
-Original source: [World Bank Mandates Commonwealth Bank of Australia to Issue Bond Using Blockchain Tech](https://cointelegraph.com/news/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech)
+[Original source](https://cointelegraph.com/news/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

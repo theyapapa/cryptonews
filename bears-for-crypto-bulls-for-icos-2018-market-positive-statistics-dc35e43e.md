@@ -14,6 +14,6 @@
 
 # # деньги является ключевым в то время как есть множество различных статистических данных и цифр, которые могут рассказать историю о ICO экосистемы, крупнейшим и наиболее важным является количество капитала поднимается, а также количество проектов выходит ежемесячно.
 
-Original source: [Bears for Crypto, Bulls for ICOs: 2018 Market Positive Statistics](https://cointelegraph.com/news/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics)
+[Original source](https://cointelegraph.com/news/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

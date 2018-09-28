@@ -14,6 +14,6 @@
 
 Даже если Быки масштаба этого уровня, 50-day SMA и долгосрочной линии нисходящего тренда будет предлагать продажи.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 29](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

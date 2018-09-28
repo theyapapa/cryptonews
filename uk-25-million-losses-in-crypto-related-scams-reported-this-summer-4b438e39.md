@@ -14,6 +14,6 @@
 
 Первая фирма под названием ярмарка Оукс крипто якобы пытался обмануть потенциальных жертв, утверждая, что они представляют ярмарка Оукс капитал Ltd.
 
-Original source: [UK:  $2.5 Million Losses in Crypto-Related Scams Reported This Summer](https://cointelegraph.com/news/uk-25-million-losses-in-crypto-related-scams-reported-this-summer)
+[Original source](https://cointelegraph.com/news/uk-25-million-losses-in-crypto-related-scams-reported-this-summer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

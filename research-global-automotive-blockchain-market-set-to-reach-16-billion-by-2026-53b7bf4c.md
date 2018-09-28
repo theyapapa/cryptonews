@@ -14,6 +14,6 @@
 
 Ранее в этом месяце, тезос Foundation объявила о том, что она выпустила финансовые гранты для цепочки технологий и смарт контракты развития четырех научно-исследовательских институтов: Корнеллский университет, Университет Бейра интерьера, Университет Иллинойса в Урбана-шампанское, и Франция-мои, как сообщил коинтелеграф 10 августа.
 
-Original source: [Research: Global Automotive Blockchain Market Set to Reach $1.6 Billion by 2026](https://cointelegraph.com/news/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026)
+[Original source](https://cointelegraph.com/news/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

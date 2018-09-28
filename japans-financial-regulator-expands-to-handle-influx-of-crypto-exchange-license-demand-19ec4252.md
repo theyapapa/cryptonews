@@ -14,6 +14,6 @@
 
 Между тем, как сегодня в документе повторяется, большинство сотрудников биржи системы менее 20 человек, а это означает, что один сотрудник в среднем было установлено, что Управление цифровыми активами стоит 3 300 000 000 иен ($29 600 000).
 
-Original source: [Japan’s Financial Regulator Expands to Handle Influx of Crypto Exchange License Demand](https://cointelegraph.com/news/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand)
+[Original source](https://cointelegraph.com/news/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

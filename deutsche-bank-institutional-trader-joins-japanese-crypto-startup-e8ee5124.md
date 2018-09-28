@@ -14,6 +14,6 @@
 
 В конце декабря главный международный экономист Deutsche Bank Торстен Слока выразил скептицизм по отношению к крупной биткойн-Bitcoin, видя потенциальную аварию в качестве одного из основных рисков для мировой экономики в 2018.
 
-Original source: [Deutsche Bank Institutional Trader Joins Japanese Crypto Startup](https://cointelegraph.com/news/deutsche-bank-institutional-trader-joins-japanese-crypto-startup)
+[Original source](https://cointelegraph.com/news/deutsche-bank-institutional-trader-joins-japanese-crypto-startup)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

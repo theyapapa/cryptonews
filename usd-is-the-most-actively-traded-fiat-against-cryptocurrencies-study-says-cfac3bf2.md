@@ -14,6 +14,6 @@
 
 Источник: GreySpark.com грэйспарк в докладе также отмечает отсутствие надежных решений опеки в крипто промышленности, утверждая, что рынок ждет больших домов, таких как США основе государственной улице и Северного доверия, как коинтелеграф написал в прошлом месяце, ссылаясь Coinbase исследования, общий интерес к цифровым активам побудило крупные университеты начать курсы, посвященные новой технологии.
 
-Original source: [USD Is the Most Actively Traded Fiat Against Cryptocurrencies, Study Says](https://cointelegraph.com/news/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says)
+[Original source](https://cointelegraph.com/news/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

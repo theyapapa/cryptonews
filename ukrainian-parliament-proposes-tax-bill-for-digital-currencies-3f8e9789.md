@@ -14,6 +14,6 @@
 
 В июне Государственная служба по специальной связи и защите информации Украины показала, что власти не планируют регулировать горнодобывающую деятельность, ссылаясь на неопределенный статус и непредсказуемые реакции со стороны Власти.
 
-Original source: [Ukrainian Parliament Proposes Tax Bill for Digital Currencies](https://cointelegraph.com/news/ukrainian-parliament-proposes-tax-bill-for-digital-currencies)
+[Original source](https://cointelegraph.com/news/ukrainian-parliament-proposes-tax-bill-for-digital-currencies)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

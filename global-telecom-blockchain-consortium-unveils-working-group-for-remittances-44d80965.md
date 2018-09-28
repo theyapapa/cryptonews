@@ -20,6 +20,6 @@
 
 Ранее эта весна, китайская  [🔗](https://cointelegraph.com/tags/china)  телекоммуникационная компания Huawei продемонстрировала  [🔗](https://cointelegraph.com/news/chinas-telecom-giant-huawei-launches-blockchain-as-a-service-platform)  своим последним Hyperledger  [🔗](https://cointelegraph.com/tags/hyperledger) -blockchain cloud service, а South Korea telecoms оператор SK Telecom также объявила о  [🔗](https://cointelegraph.com/news/koreas-largest-telecom-operator-announces-blockchain-service-for-asset-management)  двух новых технологических платформах, один для управления цифровым управлением активами, и один для поддержки инвестиционной экосистемы начального кодирования предложения (ICO  [🔗](https://cointelegraph.com/tags/ico)).
 
-Original source: [Global Telecom Blockchain Consortium Unveils Working Group for Remittances](https://cointelegraph.com/news/global-telecom-blockchain-consortium-unveils-working-group-for-remittances)
+[Original source](https://cointelegraph.com/news/global-telecom-blockchain-consortium-unveils-working-group-for-remittances)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

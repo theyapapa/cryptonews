@@ -14,6 +14,6 @@
 
 Омниекс является офисной инвестицией и торговой платформой для институциональных инвесторов.
 
-Original source: [Omniex Appoints Former SEC and FDIC Execs to Board of Advisors](https://cointelegraph.com/news/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors)
+[Original source](https://cointelegraph.com/news/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

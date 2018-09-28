@@ -14,6 +14,6 @@
 
 В конце июня, битмаин раскрыл как свою добычу и добычу техники судоходства практики с намерением продемонстрировать приверженность фирмы к поддержке "справедливой и прозрачной экосистемы".
 
-Original source: [Bitmain Plans Overseas IPO, Earned $1 Billion in Net Profit in Q1, Sources Report](https://cointelegraph.com/news/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report)
+[Original source](https://cointelegraph.com/news/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

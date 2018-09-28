@@ -14,6 +14,6 @@
 
 В пресс-время, Общая крипто рыночной капитализации составляет около $202 000 000 000, в соответствии с коинмаркеткап.
 
-Original source: [Tim Draper Predicts Total Crypto Market Cap of $80 Trillion in Next 15 Years](https://cointelegraph.com/news/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years)
+[Original source](https://cointelegraph.com/news/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

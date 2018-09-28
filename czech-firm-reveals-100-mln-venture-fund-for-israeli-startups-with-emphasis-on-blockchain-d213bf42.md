@@ -16,6 +16,6 @@
 
 В этом году технология Blockchain продолжает становиться все более популярной в стране. В марте правительство Израиля сообщило о том, что правительство Израиля приняло на себя практические меры по внедрению инноваций на основе блокады в сфере государственных услуг и в других странах.
 
-Original source: [Czech Firm Reveals $100 Mln Venture Fund for Israeli Startups With ‘Emphasis’ on Blockchain](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
+[Original source](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Джулиан зежелман, Ангел-Инвестор и партнер-учредитель в фонде «цепочки», утверждал, что индустрия испытывает «юрисдикционных агностиков».
 
-Original source: [Experts Discuss Blockchain and Democracy and The ‘Freedom of Money’ at BlockShow Americas](https://cointelegraph.com/news/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas)
+[Original source](https://cointelegraph.com/news/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

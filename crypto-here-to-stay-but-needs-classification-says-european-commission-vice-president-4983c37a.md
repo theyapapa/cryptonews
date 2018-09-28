@@ -14,6 +14,6 @@
 
 Этим летом ФСБ утверждала, что криптографические активы не представляют какого-либо материального риска для глобальной финансовой стабильности, в то время как сфера все еще нуждается в углубленном мониторинге из-за стремительного развития рынка.
 
-Original source: [Crypto ‘Here to Stay’ but Needs Classification, Says European Commission Vice President](https://cointelegraph.com/news/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president)
+[Original source](https://cointelegraph.com/news/crypto-here-to-stay-but-needs-classification-says-european-commission-vice-president)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

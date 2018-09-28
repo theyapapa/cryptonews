@@ -16,6 +16,6 @@
 
 На прошлой неделе глава банка International Settlements (BIS) Agustin Carstens затребует  [🔗](https://cointelegraph.com/news/bis-chief-bashes-cryptocurrency-again-in-scathing-review-of-its-failure-as-money) , что криптовалюты "не могут взять на себя функции денег", и предостерег молодых людей от "попыток создать деньги"." Ранее в июне BIS посвятила  [🔗](https://cointelegraph.com/news/crypto-not-scalable-enough-to-be-money-says-bank-of-international-settlements)  24-страничные статьи этой проблеме, сосредоточенной на проблемах масштабируемости Bitcoin. В этой статье говорится, что криптовалюты не могут в достаточной степени масштабирование, чтобы стать средством обмена в глобальной экономике.
 
-Original source: [Study: Crypto Could Become Mainstream Means of Payment Within Next Decade](https://cointelegraph.com/news/study-crypto-could-become-mainstream-means-of-payment-within-next-decade)
+[Original source](https://cointelegraph.com/news/study-crypto-could-become-mainstream-means-of-payment-within-next-decade)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

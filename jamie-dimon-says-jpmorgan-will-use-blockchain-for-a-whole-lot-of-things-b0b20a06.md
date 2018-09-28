@@ -14,6 +14,6 @@ JPMorgan Чейз в Джейми Даймон был бычий на цепоч
 
 В последние несколько месяцев, однако, JPMorgan-и, видимо, Даймон-более явно вышли в качестве бычьего на цепочке, с банком даже подача цепочки, связанные патента на 3 мая.
 
-Original source: [Jamie Dimon Says JPMorgan Will Use Blockchain ‘for a Whole Lot of Things’](https://cointelegraph.com/news/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things)
+[Original source](https://cointelegraph.com/news/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

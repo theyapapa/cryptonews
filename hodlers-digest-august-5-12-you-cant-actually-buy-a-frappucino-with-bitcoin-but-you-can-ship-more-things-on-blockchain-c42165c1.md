@@ -12,6 +12,6 @@ WSJ сообщает о манипуляции ценой в крипте, пр�
 
 Финансовый регулятор Великобритании предупреждает о двух крипто "клон фирмы" в Великобритании финансовое поведение власти (FCA) предупредил инвесторов о двух так называемых "клон" компании на этой неделе, то есть компании, которые осуществляют предпринимательскую деятельность под предлогом, что они являются фирма зарегистрировано FCA.
 
-Original source: [Hodler’s Digest, August 5-12: You Can’t Actually Buy A Frappucino With Bitcoin, But You Can Ship More Things On Blockchain](https://cointelegraph.com/news/hodlers-digest-august-5-12-you-cant-actually-buy-a-frappucino-with-bitcoin-but-you-can-ship-more-things-on-blockchain)
+[Original source](https://cointelegraph.com/news/hodlers-digest-august-5-12-you-cant-actually-buy-a-frappucino-with-bitcoin-but-you-can-ship-more-things-on-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

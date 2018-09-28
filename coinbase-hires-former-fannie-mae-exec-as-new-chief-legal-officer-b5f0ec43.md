@@ -16,6 +16,6 @@ Coinbase основал свой Пак в июле 2018.
 
 На этой неделе отмечен еще один заметный назначения на Coinbase, как бывший LinkedIn Исполнительный Майкл ли вступил в обмен в качестве вице-президента по данным.
 
-Original source: [Coinbase Hires Former Fannie Mae Exec as New Chief Legal Officer](https://cointelegraph.com/news/coinbase-hires-former-fannie-mae-exec-as-new-chief-legal-officer)
+[Original source](https://cointelegraph.com/news/coinbase-hires-former-fannie-mae-exec-as-new-chief-legal-officer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 В июле Международный финансовый центр Дубая (DIFC) объявил о своем партнерстве с «умным Дубаем» в создании «суда цепочки».
 
-Original source: [Dubai Department of Finance Launches Blockchain-Based Payment System for UAE Gov’t](https://cointelegraph.com/news/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt)
+[Original source](https://cointelegraph.com/news/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -18,6 +18,6 @@
 
 Ландау получил холодный прием  [🔗](https://cointelegraph.com/news/critical-monsieur-bitcoin-appointed-head-of-french-crypto-regulatory-task-force) , когда он стал начальником правительственной криптовалютной рабочей группы в январе в связи с тем, что Bitcoin  [🔗](https://cointelegraph.com/bitcoin-price-index)  (BTC) до 17 c. Tulip Mania  [🔗](https://cointelegraph.com/news/tulips-bubbles-obituaries-peering-through-the-fud-about-crypto)
 
-Original source: [France’s ‘Monsieur Bitcoin’: We Should Not Directly Regulate Cryptocurrency](https://cointelegraph.com/news/france-s-monsieur-bitcoin-we-should-not-directly-regulate-cryptocurrency)
+[Original source](https://cointelegraph.com/news/france-s-monsieur-bitcoin-we-should-not-directly-regulate-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

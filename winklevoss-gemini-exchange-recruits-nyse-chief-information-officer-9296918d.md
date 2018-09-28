@@ -10,6 +10,6 @@ Cryptocacrency exchange Gemini Trust Company, LLC (Gemini) сообщил, чт�
 
 В апреле Gemini озвучил  [🔗](https://cointelegraph.com/news/winklevoss-twins-crypto-exchange-gemini-to-begin-block-trading-with-btc-eth) , что он начнет предлагать crypto block trading за пределами своих обычных книг по заказу. Инвесторы, заинтересованные в торговле на рынке Gemini Block Trading, могут покупать и продавать огромное количество цифровых валют. В декабре прошлого года, Gemini, в партнерстве с Чикагской фондовой биржкой, можно было запустить "битовый фьючерс", что позволит им перевести традиционные рыночные инструменты в пространство шифрования.
 
-Original source: [Winklevoss’ Gemini Exchange Recruits NYSE Chief Information Officer](https://cointelegraph.com/news/winklevoss-gemini-exchange-recruits-nyse-chief-information-officer)
+[Original source](https://cointelegraph.com/news/winklevoss-gemini-exchange-recruits-nyse-chief-information-officer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

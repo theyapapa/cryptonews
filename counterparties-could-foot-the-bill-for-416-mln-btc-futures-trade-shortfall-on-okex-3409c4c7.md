@@ -16,6 +16,6 @@ Crypto Exchange окекс выпустила официальное заявл�
 
 Как сообщалось в июле, окекс в настоящее время сотрудничает с мальтийской фондовой бирже для создания нового институционального класса маркеров безопасности торговой платформы.
 
-Original source: [Counterparties Could Foot the Bill For $416 Mln BTC Futures Trade Shortfall on OKEx](https://cointelegraph.com/news/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex)
+[Original source](https://cointelegraph.com/news/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

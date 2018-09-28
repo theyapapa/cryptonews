@@ -14,6 +14,6 @@
 
 Новые правила применяют более жесткие требования к прозрачности, направленные на использование "анонимных платежей через предоплаченные карты" и "виртуальные валютные платформы" для целей отмывания денег или финансирования терроризма.
 
-Original source: [Report: EU to Discuss Further Crypto Regulation Amid Concerns About Lack of Transparency](https://cointelegraph.com/news/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency)
+[Original source](https://cointelegraph.com/news/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Rawdon Адамс, Генеральный директор компании Кн
 
 В последнее время Иран объявил о своей решимости создать свою собственную государственную, выпущенную с целью обойти санкции США, несмотря на то, что ранее Центральный банк запретил отечественным банкам и другим финансовым учреждениям иметь дело с крипто, ссылаясь проблемы отмывания денег.
 
-Original source: [Blockchain Startup Signs MOU With Central Bank of Curaçao and Sint Maarten](https://cointelegraph.com/news/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten)
+[Original source](https://cointelegraph.com/news/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

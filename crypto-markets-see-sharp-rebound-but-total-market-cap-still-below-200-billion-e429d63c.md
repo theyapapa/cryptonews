@@ -14,6 +14,6 @@ EOS ' 7-дневный ценовой график от коинмаркетка
 
 7-дневный график общей рыночной капитализации всех из коинмаркеткап в интервью Bloomberg 8 сентября, Ethereum (высшая школа) соучредитель Виталик бутерин сказал, что он считает, что взрывной рост в крипто пространство "приближается к удара тупик, "теперь, когда первоначальная работа по повышению крипто и цепочки осведомленности в основном было сделано:" Если вы говорите со средним образованным человеком на данный момент, они, вероятно, слышали о цепочке по крайней мере один раз.
 
-Original source: [Crypto Markets See Sharp Rebound, but Total Market Cap Still Below $200 Billion](https://cointelegraph.com/news/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

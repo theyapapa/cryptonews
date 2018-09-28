@@ -14,6 +14,6 @@
 
 Ранее в этом месяце, InterContinental Exchange (ICE), который работает на Нью-Йоркской фондовой бирже (NYSE), обнародовал свои планы по созданию "открытой и регулируемой глобальной экосистемы для цифровых активов" в сотрудничестве с Microsoft и другие.
 
-Original source: [Shanghai Stock Exchange Partners With Major Insurance Firms to Improve Industry With Blockchain](https://cointelegraph.com/news/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain)
+[Original source](https://cointelegraph.com/news/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

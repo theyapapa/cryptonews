@@ -12,6 +12,6 @@ BWW, которая использует цифровую валюту в Звё
 
 Intel и SAP, которые сотрудничали в течение 25-летнего на платформах инфраструктуры предприятия, недавно расширили свою совместную работу, чтобы охватить технологии цепочки, возглавляемой созданием глобального консорциума, возглавляемого SAP, в том числе Разработка системы управления данными SAP HANA.
 
-Original source: [Hodler’s Digest, September 2-9: Goldman Sachs Says ‘No Thanks’ to Crypto Trading Desk, While India Sends Officials to ‘Crypto College’](https://cointelegraph.com/news/hodlers-digest-september-2-9-goldman-sachs-says-no-thanks-to-crypto-trading-desk-while-india-sends-officials-to-crypto-college)
+[Original source](https://cointelegraph.com/news/hodlers-digest-september-2-9-goldman-sachs-says-no-thanks-to-crypto-trading-desk-while-india-sends-officials-to-crypto-college)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

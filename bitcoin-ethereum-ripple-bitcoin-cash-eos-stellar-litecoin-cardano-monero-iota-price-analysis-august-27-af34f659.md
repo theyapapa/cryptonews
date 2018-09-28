@@ -12,6 +12,6 @@
 
 Поскольку цена выдержать выше диапазона и 20-дневной EMA в течение последних нескольких часов, трейдеры могут купить на йоту/USD пара на текущих уровнях с стоп-лосс на $0,46.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 27](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-27)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-27)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Наряду с "оффлайн" меры, китайские технологии титанов-китайский "Google" Baidu, Alipay в Alibaba и WeChat-разработчик Tencent-все ужесточили их мониторинга и действовали запретить счета подозреваются в участии или распространения крипто и даже цепочки, связанные Деятельности.
 
-Original source: [China's Central Bank Warns Investors of ICO, Crypto Risks](https://cointelegraph.com/news/chinas-central-bank-warns-investors-of-ico-crypto-risks)
+[Original source](https://cointelegraph.com/news/chinas-central-bank-warns-investors-of-ico-crypto-risks)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ JB: криминальное участие в компании в этой об
 
 Таким образом, в сущности, то, что это стало не только средством для преступников, чтобы попасть в добычу, но это способ проведения преступных операций, это способ проведения взлома.
 
-Original source: [IT Analyst Jason Bloomberg: What I’m Really Saying Is ‘Shut Down Permissionless Blockchains’](https://cointelegraph.com/news/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains)
+[Original source](https://cointelegraph.com/news/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

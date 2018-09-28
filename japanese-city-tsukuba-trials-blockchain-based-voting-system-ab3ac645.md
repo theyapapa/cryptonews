@@ -14,6 +14,6 @@
 
 Позже американские войска, обслуживающие за рубежом было предложено использовать смартфон приложение на основе технологии цепочки для участия в федеральных избирательных бюллетеней в штате Западная Вирджиния в предстоящем ноябре.
 
-Original source: [Japanese City Tsukuba Trials Blockchain-Based Voting System](https://cointelegraph.com/news/japanese-city-tsukuba-trials-blockchain-based-voting-system)
+[Original source](https://cointelegraph.com/news/japanese-city-tsukuba-trials-blockchain-based-voting-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

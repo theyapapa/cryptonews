@@ -14,6 +14,6 @@
 
 В недавнем докладе, опубликованном "большой четверки" аудиторской и консалтинговой фирмы Deloitte сделал аналогичную широкую оценку потенциального воздействия цепочки, на этот раз для розничной торговли и потребительских упакованных товаров (КПГ) промышленности.
 
-Original source: [BCG Report Offers ‘Reality Check’ for Blockchain in Commodities Trading](https://cointelegraph.com/news/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading)
+[Original source](https://cointelegraph.com/news/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

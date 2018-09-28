@@ -14,6 +14,6 @@ AT&T якобы "игнорируется" его просьбу, оставив
 
 # # теприн может быть юридическим прецедентом для SIM обмен мошенничества, как жалоба суммирует, подчеркивая потенциальные масштабы порт из мошенничества: "AT&T ничего не делает для защиты своих почти 140 000 000 клиентов от мошенничества сим-карты.
 
-Original source: [SIM Swapping: How Hackers Stole Millions Worth of Crypto Via Victim’s Telecoms Operator](https://cointelegraph.com/news/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator)
+[Original source](https://cointelegraph.com/news/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

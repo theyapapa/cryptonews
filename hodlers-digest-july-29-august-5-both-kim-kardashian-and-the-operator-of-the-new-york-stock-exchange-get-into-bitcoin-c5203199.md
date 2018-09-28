@@ -12,6 +12,6 @@ Coinbase опеки считает добавление 40 алткоинс к �
 
 # # неуверенность недели лауреат Нобелевской премии экономист Пол Кругман считает, что тотальный крах крипто возможно Пол Кругман, экономист, который выиграл Нобелевскую премию в области экономических наук в 2008, объяснил свою позицию как "крипто Скептик" в Нью-Йорк таймс "Op-Ed на этой неделе.
 
-Original source: [Hodler’s Digest, July 29-August 5: Both Kim Kardashian and the Operator of the New York Stock Exchange Get Into Bitcoin](https://cointelegraph.com/news/hodlers-digest-july-29-august-5-both-kim-kardashian-and-the-operator-of-the-new-york-stock-exchange-get-into-bitcoin)
+[Original source](https://cointelegraph.com/news/hodlers-digest-july-29-august-5-both-kim-kardashian-and-the-operator-of-the-new-york-stock-exchange-get-into-bitcoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

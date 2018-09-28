@@ -14,6 +14,6 @@ JP Morgan CIO Лори пиво сказал на пресс-конференц�
 
 В мае JP Morgan Чейз подал патент на сеть одноранговых платежей, которая может быть использована для внутренних и межбанковских расчетов.
 
-Original source: [JP Morgan CIO: Blockchain Will Replace Existing Technology](https://cointelegraph.com/news/jp-morgan-cio-blockchain-will-replace-existing-technology)
+[Original source](https://cointelegraph.com/news/jp-morgan-cio-blockchain-will-replace-existing-technology)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -20,6 +20,6 @@
 
 Bitcoin в настоящее время торгует примерно $6 582  [🔗](https://cointelegraph.com/bitcoin-price-index) , чтобы нажать на один процент в день.
 
-Original source: [Wall Street’s Tom Lee Says Bitcoin Price to Hit $22K by Year’s End, ‘Can Reach $25K’](https://cointelegraph.com/news/wall-street-s-tom-lee-says-bitcoin-price-to-hit-22k-by-year-s-end-can-reach-25k)
+[Original source](https://cointelegraph.com/news/wall-street-s-tom-lee-says-bitcoin-price-to-hit-22k-by-year-s-end-can-reach-25k)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

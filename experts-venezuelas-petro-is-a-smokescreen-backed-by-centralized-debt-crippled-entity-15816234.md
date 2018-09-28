@@ -14,6 +14,6 @@
 
 Мадуро недавно заявил, что Петр будет служить в качестве единицы учета и уже представил его в качестве панацеи от всех, от бездомных до молодежной безработицы.
 
-Original source: [Experts: Venezuela's Petro Is a ‘Smokescreen’ Backed by Centralized Debt-Crippled Entity](https://cointelegraph.com/news/experts-venezuelas-petro-is-a-smokescreen-backed-by-centralized-debt-crippled-entity)
+[Original source](https://cointelegraph.com/news/experts-venezuelas-petro-is-a-smokescreen-backed-by-centralized-debt-crippled-entity)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ JZ: в реальной жизни, мы инвестируем в компан�
 
 Одним из них является соблюдение законодательства и управление рисками, а другой — корпоративное развитие: привлечение других консультантов, привлечение первых клиентов, \ [консультирование по \] стратегии получения деловых партнеров, о том, как сделать проект более устойчивым и реальным на раннем этапе.
 
-Original source: [Former Crypto Lawyer and ICO Advisor Julian Zegelman: Investing in ICOs Is a Risk on Dynamite](https://cointelegraph.com/news/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite)
+[Original source](https://cointelegraph.com/news/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

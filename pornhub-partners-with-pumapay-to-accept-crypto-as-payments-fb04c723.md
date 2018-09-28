@@ -14,6 +14,6 @@ PornHub способствовало партнерству с YouTube виде�
 
 Вит также получил участие в правовом конфликте, и планирует добиваться реституции своих собственных после "якобы потерять миллионы крипто маркеры в рушится сделка между Playboy предприятий и... Глобальные технологии цепочки. "
 
-Original source: [Pornhub Partners With PumaPay to Accept Crypto as Payments](https://cointelegraph.com/news/pornhub-partners-with-pumapay-to-accept-crypto-as-payments)
+[Original source](https://cointelegraph.com/news/pornhub-partners-with-pumapay-to-accept-crypto-as-payments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

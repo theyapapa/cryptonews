@@ -14,6 +14,6 @@ RSI вошел в глубокую перепроданность террито
 
 # # йоту/USD на йоту снизилась с 20-дневной EMA и сломал ниже 9 сентября минимумов, что увеличивает вероятность падения до $0,4628.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, September 12](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-12)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-12)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

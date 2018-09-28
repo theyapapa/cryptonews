@@ -14,6 +14,6 @@
 
 В последнее время Служба финансового надзора Южной Кореи (ФСБ) предложила необходимость расширения международного сотрудничества между регулирующими органами в области шифрования и регулирования ICO, подчеркнув, что главная задача страны заключается в "повышении прозрачности сделок с предотвращения незаконной деятельности».
 
-Original source: [Bank of Korea Report: Crypto Price Gap Between Local, Foreign Exchanges Could Widen Again](https://cointelegraph.com/news/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again)
+[Original source](https://cointelegraph.com/news/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

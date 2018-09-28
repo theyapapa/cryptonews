@@ -14,6 +14,6 @@
 
 Проект инициативы, предложенный Народной партией, предполагает, что государство сотрудничает с национальной Комиссией по рынку ценных бумаг (CNMV) и Банком Испании в целях координации общей нормативной позиции по крипто в более широком европейском контексте.
 
-Original source: [Spanish Left-Wing Political Coalition Proposes Subcommittee to Study Blockchain, Crypto](https://cointelegraph.com/news/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto)
+[Original source](https://cointelegraph.com/news/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

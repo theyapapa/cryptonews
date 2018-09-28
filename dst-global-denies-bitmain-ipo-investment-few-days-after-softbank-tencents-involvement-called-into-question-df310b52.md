@@ -14,6 +14,6 @@
 
 По состоянию на время печати, битмаин не ответил на просьбу коинтелеграф о комментариях.
 
-Original source: [DST Global Denies Bitmain IPO Investment Few Days After SoftBank, Tencent’s Involvement Called Into Question](https://cointelegraph.com/news/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question)
+[Original source](https://cointelegraph.com/news/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

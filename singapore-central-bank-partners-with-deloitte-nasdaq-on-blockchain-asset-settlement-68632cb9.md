@@ -14,6 +14,6 @@
 
 «участие трех известных технологических партнеров подчеркивает коммерческий интерес к тому, чтобы сделать это реальностью».
 
-Original source: [Singapore Central Bank Partners With Deloitte, Nasdaq on Blockchain Asset Settlement](https://cointelegraph.com/news/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement)
+[Original source](https://cointelegraph.com/news/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

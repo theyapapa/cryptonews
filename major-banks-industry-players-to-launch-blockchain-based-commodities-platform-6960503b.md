@@ -14,6 +14,6 @@
 
 В апреле дочерняя компания одной из четырех крупнейших государственных нефтяных компаний Китая успешно завершила отгрузку бензина из Китая в Сингапур, которая использовала технологию сквозной цепочки "все ключевые участники процесса торговли сырьевыми товарами".
 
-Original source: [Major Banks, Industry Players to Launch Blockchain-Based Commodities Platform](https://cointelegraph.com/news/major-banks-industry-players-to-launch-blockchain-based-commodities-platform)
+[Original source](https://cointelegraph.com/news/major-banks-industry-players-to-launch-blockchain-based-commodities-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

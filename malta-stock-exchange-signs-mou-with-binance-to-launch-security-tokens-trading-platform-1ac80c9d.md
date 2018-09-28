@@ -14,6 +14,6 @@ Fintech фондовой биржи Мальты и цифровых актив�
 
 Как коинтелеграф, бинанце впервые объявил об открытии своего офиса на Мальте в конце марта после получения предупредительного письма от японских финансовых властей о своем незарегистрированном статусе.
 
-Original source: [Malta Stock Exchange Signs MOU with Binance to Launch Security Tokens Trading Platform](https://cointelegraph.com/news/malta-stock-exchange-signs-mou-with-binance-to-launch-security-tokens-trading-platform)
+[Original source](https://cointelegraph.com/news/malta-stock-exchange-signs-mou-with-binance-to-launch-security-tokens-trading-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

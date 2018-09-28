@@ -14,6 +14,6 @@
 
 Кайл Самани, соучредитель американского фонда многомонетного капитала, сказал, что "новый капитал замедлился, даже для более высокого профиля фонда, как наша".
 
-Original source: [Point72 Exec Leaves the Firm to Launch Crypto Hedge Fund in October](https://cointelegraph.com/news/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october)
+[Original source](https://cointelegraph.com/news/point72-exec-leaves-the-firm-to-launch-crypto-hedge-fund-in-october)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 В конце августа предполагаемому бывшему владельцу крипто-фондовой биржи BTC-e Александру Винник было предъявлено обвинение и подвергнуто "фальшивому" допросу со стороны французских обвинителей в греческом суде.
 
-Original source: [CEO Behind GAW Miners, PayCoin Ponzi Scheme Sentenced to 21 Months in Prison](https://cointelegraph.com/news/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison)
+[Original source](https://cointelegraph.com/news/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

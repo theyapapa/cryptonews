@@ -14,6 +14,6 @@ Coinbase поэтому применяет для того чтобы запат
 
 Поскольку Coinbase смотрит на укрепление безопасности в рамках криптографических транзакций, MasterCard в последнее время проводит патент, который будет использовать цепочки для защиты потребительских платежных реквизитов в точке продажи.
 
-Original source: [Coinbase Patent Shows Exchange Is Refining Security for Bitcoin Payments](https://cointelegraph.com/news/coinbase-patent-shows-exchange-is-refining-security-for-bitcoin-payments)
+[Original source](https://cointelegraph.com/news/coinbase-patent-shows-exchange-is-refining-security-for-bitcoin-payments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

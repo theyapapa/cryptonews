@@ -28,6 +28,6 @@ EOS теперь требует, чтобы пользователи могли 
 
 Отказ от гарантий. Cointegrph не поддерживает ни одно содержимое или продукт на этой странице. Хотя мы стремимся предоставить вам всю важную информацию, которую мы могли бы получить, читатели должны выполнить свои собственные исследования, прежде чем принимать какие-либо действия, связанные с компанией, и нести полную ответственность за свои решения, и эта статья не может рассматриваться как рекомендация по инвестициям.
 
-Original source: [‘First Universal Wallet’ Supports EOS Mainnet and Offers Free Account Name Registration](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
+[Original source](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

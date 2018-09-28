@@ -30,6 +30,6 @@ Arbitao запустит свое предчувствие 22 июля 2018 го
 
 Отказ от гарантий. Cointegrph не поддерживает ни одно содержимое или продукт на этой странице. Хотя мы стремимся предоставить вам всю важную информацию, которую мы могли бы получить, читатели должны выполнить свои собственные исследования, прежде чем принимать какие-либо действия, связанные с компанией, и нести полную ответственность за свои решения, и эта статья не может рассматриваться как рекомендация по инвестициям.
 
-Original source: [Crypto Trading Platform Releases an Arbitrage Trading Soft for Beginners](https://cointelegraph.com/news/crypto-trading-platform-releases-an-arbitrage-trading-soft-for-beginners)
+[Original source](https://cointelegraph.com/news/crypto-trading-platform-releases-an-arbitrage-trading-soft-for-beginners)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

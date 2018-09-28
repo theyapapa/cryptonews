@@ -14,6 +14,6 @@
 
 Как коинтелеграф написал еще в августе, Банк Таиланда (СЭП) начал разрешать местным банкам создать филиалы для работы с компаниями.
 
-Original source: [Major Thai Bank to Test Visa Blockchain Solution for Cross-Border Payments](https://cointelegraph.com/news/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments)
+[Original source](https://cointelegraph.com/news/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

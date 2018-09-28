@@ -14,6 +14,6 @@
 
 Bitcoin последний достигнуто, что доля рынка в декабре, когда цены хит все время максимумов около $20 000.
 
-Original source: [Cryptocurrency Markets Slump Midweek as Ethereum Hits New 2018 Lows](https://cointelegraph.com/news/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows)
+[Original source](https://cointelegraph.com/news/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

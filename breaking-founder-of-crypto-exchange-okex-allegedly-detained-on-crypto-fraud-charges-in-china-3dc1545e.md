@@ -6,6 +6,6 @@
 
 Tech News источники зерохедже сообщает, что инвесторы в вфи монета-компания, где Сюй является акционером-жаловались в полицию о якобы мошеннической практики компании, что побудило полицию привезти Сюй в для допроса.
 
-Original source: [Breaking: Founder of Crypto Exchange OKEx Allegedly Detained on Crypto Fraud Charges in China](https://cointelegraph.com/news/breaking-founder-of-crypto-exchange-okex-allegedly-detained-on-crypto-fraud-charges-in-china)
+[Original source](https://cointelegraph.com/news/breaking-founder-of-crypto-exchange-okex-allegedly-detained-on-crypto-fraud-charges-in-china)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

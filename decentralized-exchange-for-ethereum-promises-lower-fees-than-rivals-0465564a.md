@@ -14,6 +14,6 @@
 
 Как объясняется здесь, децентрализованные обмены являются привлекательными для некоторых, потому что они устраняют единый пункт власти-помогает сократить расходы и повысить уровень конфиденциальности и безопасности.
 
-Original source: [Decentralized Exchange for Ethereum Promises Lower Fees Than Rivals](https://cointelegraph.com/news/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals)
+[Original source](https://cointelegraph.com/news/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

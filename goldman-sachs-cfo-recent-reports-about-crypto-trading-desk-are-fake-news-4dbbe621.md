@@ -14,6 +14,6 @@ Goldman Sachs главный финансовый директор (финанс
 
 Цены на биткойны и другие цифровые валюты резко упали вслед за новостями о планах по отмене Goldman Sachs для торгового бюро, при этом суммарная рыночная капитализация снизилась на $12 000 000 000 в час.
 
-Original source: [Goldman Sachs CFO: Recent Reports About Crypto Trading Desk Are ‘Fake News’](https://cointelegraph.com/news/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news)
+[Original source](https://cointelegraph.com/news/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

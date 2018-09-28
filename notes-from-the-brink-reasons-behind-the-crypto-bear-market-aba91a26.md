@@ -14,6 +14,6 @@ EToro аналитик Мэтью Ньютон рассказал британс
 
 С доминированием Ethereum в настоящее время погружения как низко как 13,5 процента 14 августа, Тимоти Tam принял меру судьбы, как теперь вдвойне обратный, подчеркнув, что "большая история на рынке \ [на этой неделе \] является огромная слабость в Ethereum", и отметив, что "Bitcoin поднял относительно хорошо по сравнению с Ethereum, "даже, как он увидел вмятину в своей диаграмме против доллара.
 
-Original source: [Notes From the Brink: Reasons Behind the Crypto Bear Market](https://cointelegraph.com/news/notes-from-the-brink-reasons-behind-the-crypto-bear-market)
+[Original source](https://cointelegraph.com/news/notes-from-the-brink-reasons-behind-the-crypto-bear-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

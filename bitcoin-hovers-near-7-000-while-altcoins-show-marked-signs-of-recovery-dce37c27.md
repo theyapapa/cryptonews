@@ -14,6 +14,6 @@
 
 1-месячный график общей рыночной капитализации всех валютных курсов от коинмаркеткап как рынок упал пятницу, основные новости недели остается бычий откровение, что межконтинентальный обмен (ICE)-оператор 23 ведущих глобальных бирж в том числе Нью-Йоркской фондовой бирже (NYSE)-планы по созданию Microsoft Cloud Powered экосистемы для цифровых активов, которые будут охватывать спектра от федерально регулируемых рынков и складирования для торговых и потребительских потребностей.
 
-Original source: [Bitcoin Hovers Near $7,000, While Altcoins Show Marked Signs of Recovery](https://cointelegraph.com/news/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery)
+[Original source](https://cointelegraph.com/news/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

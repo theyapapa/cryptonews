@@ -14,6 +14,6 @@
 
 Фонд тезос также объявил, что будет выдавать финансовые гранты исследовательским институтам для разработки технологий и смарт-контрактов в нескольких университетах, расположенных в США, Португалии и Франции.
 
-Original source: [ConsenSys Partners With Online Education Platform to Launch Blockchain Course](https://cointelegraph.com/news/consensys-partners-with-online-education-platform-to-launch-blockchain-course)
+[Original source](https://cointelegraph.com/news/consensys-partners-with-online-education-platform-to-launch-blockchain-course)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

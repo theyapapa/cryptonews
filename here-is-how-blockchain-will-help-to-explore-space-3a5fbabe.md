@@ -14,6 +14,6 @@
 
 Для запуска космического цепочки, блоккстреам спутник опирался на технологии с открытым исходным кодом: в своем пресс-релизе цитируется GNU Radio и Fast Интернет биткойн релейный движок (Fiber) в качестве встроенных технологий, в то время как FAQ разрабатывает: "любой может получить сигнал с маленькой спутниковой антенной (аналогично потребителю спутникового ТВ блюдо) и USB SDR (программно-определяемые радио) интерфейс \ [... \] общая стоимость оборудования для пользователя составляет всего около $100.
 
-Original source: [Here Is How Blockchain Will Help to Explore Space](https://cointelegraph.com/news/here-is-how-blockchain-will-help-to-explore-space)
+[Original source](https://cointelegraph.com/news/here-is-how-blockchain-will-help-to-explore-space)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

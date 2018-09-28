@@ -14,6 +14,6 @@
 
 В начале июня крупнейшая в мире крипто-биржа, бинанце, сделала нераскрытую инвестицию в платформу для голосования на базе блоков чилиз, с тем чтобы обеспечить спортивную индустрию «экосистемой маркеров, управляемых фанатами для традиционных спортивных команд».
 
-Original source: [Los Angeles Dodgers Baseball Team to Hold Giveaway of Player Crypto Tokens via ETH](https://cointelegraph.com/news/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth)
+[Original source](https://cointelegraph.com/news/los-angeles-dodgers-baseball-team-to-hold-giveaway-of-player-crypto-tokens-via-eth)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

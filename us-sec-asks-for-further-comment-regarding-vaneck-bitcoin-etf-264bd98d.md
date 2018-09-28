@@ -14,6 +14,6 @@
 
 В августе, SEC отложила свое решение по изменению правила ЕФО до 30 сентября, заявив, что он получил более 1 300 комментариев.
 
-Original source: [US SEC Asks for Further Comment Regarding VanEck Bitcoin ETF](https://cointelegraph.com/news/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf)
+[Original source](https://cointelegraph.com/news/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Ранее в июне консорциум R3 объявил о том, что фирма — вместе с 39 глобальными финансовыми компаниями — успешно протестировала приложение «знай своего клиента», в котором было запущено в общей сложности 45 узлов в Microsoft Azure.
 
-Original source: [Microsoft Introduces Ethereum Proof-of-Authority Algorithm on Azure](https://cointelegraph.com/news/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure)
+[Original source](https://cointelegraph.com/news/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

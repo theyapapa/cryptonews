@@ -14,6 +14,6 @@
 
 Будучи восприимчивым к цепочке, высшая судебная система страны в настоящее время в разгар пересмотра резервного банка Индии (Райффайзен) в спорных запрет на отношения банков с крипто-родственных организаций.
 
-Original source: [Tech Giant Dell Looks to Blockchain to Stay Competitive in Indian Server Market](https://cointelegraph.com/news/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market)
+[Original source](https://cointelegraph.com/news/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Сеть подсети основана на его фишинг-доказательство цепочки, что делает клиентский финансовый опыт относительно безопаснее, чем другие рыночные решения.
 
-Original source: [Startup Promising Instant Crypto Transactions to Develop Network for Chinese TV](https://cointelegraph.com/news/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv)
+[Original source](https://cointelegraph.com/news/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ BigQuery собирает данные по счетам, которые вла�
 
 В феврале компания создала аналогичный инструмент для цепочки биткоинов (BTC) для визуализации транзакций, выявления аномалий и извлечения необходимых данных из главной книги.
 
-Original source: [Google Adds Ethereum Blockchain Dataset to Its Big Data Analytics Platform](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
+[Original source](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

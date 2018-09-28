@@ -14,6 +14,6 @@ Coinbase заявляет, что новый процесс позволит е�
 
 В августе Coinbase начал развертывание британского фунта (GBP) поддержки, что позволяет клиентам Exchange с Великобританией банковские счета для проведения быстрых переводов, позволяя клиентам покупать и продавать Crypto за фунты в тот же день.
 
-Original source: [New Coinbase Listing Process Will Allow Exchange to ‘Rapidly’ Increase Supported Assets](https://cointelegraph.com/news/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets)
+[Original source](https://cointelegraph.com/news/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

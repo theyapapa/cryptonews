@@ -14,6 +14,6 @@ NASDAQ композитный индекс фондового рынка был 
 
 Невозможно утверждать, тот или иной с уверенностью, так как есть только так много, что можно узнать и экстраполировать из dot-com случае-дело, что несколько аналогичных, но не совпадает с текущим состоянием рынка крипто.
 
-Original source: [Irrational Exuberance Revisited: Is Crypto The New Dot-Com Bubble?](https://cointelegraph.com/news/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble)
+[Original source](https://cointelegraph.com/news/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

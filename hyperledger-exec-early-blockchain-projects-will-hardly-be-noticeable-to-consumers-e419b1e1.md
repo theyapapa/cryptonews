@@ -16,6 +16,6 @@
 
 В настоящее время в Hyperledger в настоящее время имеется около 10 баз кода, в которых два находятся в производстве с восемью рамочными основами для построения блоков. Он сказал, что большая часть разработчиков работает над проектами "blockchain", так как их бизнес хочет использовать ее или запустить пилотный проект, в то время как некоторые из них принимают участие в совершенствовании их навыков и репутации. Что касается открытого исходного кода технологии, то он сказал: " Для них, зная, что другие компании используют эту технологию и получают прибыль, она в порядке. На самом деле, это хорошо."
 
-Original source: [Hyperledger Exec: Early Blockchain Projects Will Hardly Be Noticeable to Consumers](https://cointelegraph.com/news/hyperledger-exec-early-blockchain-projects-will-hardly-be-noticeable-to-consumers)
+[Original source](https://cointelegraph.com/news/hyperledger-exec-early-blockchain-projects-will-hardly-be-noticeable-to-consumers)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

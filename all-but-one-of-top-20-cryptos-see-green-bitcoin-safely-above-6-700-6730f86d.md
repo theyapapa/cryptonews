@@ -14,6 +14,6 @@ Ethereum до значительного 10,4 процента на неделе
 
 Алткоин испытал значительный рост на этой неделе, вверх вокруг 40 процента над прошлыми 7 днями, согласно коинмаркеткап.
 
-Original source: [All But One of Top 20 Cryptos See Green, Bitcoin Safely Above $6,700](https://cointelegraph.com/news/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700)
+[Original source](https://cointelegraph.com/news/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

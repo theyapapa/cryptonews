@@ -14,6 +14,6 @@ Top алткоин Ethereum (высшая школа) испытал столь 
 
 Вчера, коинтелеграф сообщила, что недавние выпуски спорных не влияет на цены либо крупных монет или меньше алткоинс на данный момент, после предыдущих утверждений о "манипулирование рынком" практики использования троса.
 
-Original source: [Crypto Markets Keep Fluctuating: Most Top 20 Coins Back in Green, Bitcoin Above $6,700](https://cointelegraph.com/news/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700)
+[Original source](https://cointelegraph.com/news/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

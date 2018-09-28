@@ -14,6 +14,6 @@
 
 В 2017, другая компания цепочки блоков начал тестирование одноранговой Электрический автомобиль зарядное устройство рынке, что позволило пользователям взимать свои автомобили с помощью розетки другого человека.
 
-Original source: [Startup Launches Blockchain Powered Electric Vehicles That Mine Cryptocurrency](https://cointelegraph.com/news/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency)
+[Original source](https://cointelegraph.com/news/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

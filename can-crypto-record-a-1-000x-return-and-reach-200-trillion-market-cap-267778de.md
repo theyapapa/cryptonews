@@ -14,6 +14,6 @@
 
 Но, повторяя точку зрения миллиардера инвестор Майк Новограц, Тан заявил, что как только учреждения найти свой путь в крипто, рынок увидит разницу в плане объема и стоимости, как Новограц ранее сказал: "я думаю, что если вы начинаете видеть институциональных Пластинки \ [товарищества с ограниченной ответственностью \] — как, например, пожертвования, фонды, пенсионные планы и суверенные фонды капитала – приносят капитал в обороты — вы увидите переломный момент, в котором начнет течь процент мирового богатства.
 
-Original source: [Can Crypto Record a 1,000x Return and Reach $200 Trillion Market Cap?](https://cointelegraph.com/news/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap)
+[Original source](https://cointelegraph.com/news/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

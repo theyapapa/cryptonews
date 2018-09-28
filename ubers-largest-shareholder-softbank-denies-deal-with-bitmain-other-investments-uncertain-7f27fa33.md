@@ -14,6 +14,6 @@ QQ доклад был подобран основных средств масс
 
 Китайское издание QQ-тот же источник, который утверждал, как Tencent и Фукуока участие в недавнем финансировании сделки-недавно предположил, что фирма будет оцениваться на $30 000 000 000.
 
-Original source: [Uber's Largest Shareholder SoftBank Denies Deal With Bitmain, Other Investments Uncertain](https://cointelegraph.com/news/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain)
+[Original source](https://cointelegraph.com/news/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

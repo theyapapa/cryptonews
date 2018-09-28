@@ -14,6 +14,6 @@
 
 На прошлой неделе, SEC также показала большой интерес со стороны потенциальных первоначальных монеты предлагая (ICO) эмитентов в применении для регулируемого статуса в Таиланде.
 
-Original source: [Thai SEC Clears Seven Cryptocurrency Operators to Serve Clients, Reviews Two More](https://cointelegraph.com/news/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more)
+[Original source](https://cointelegraph.com/news/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Что касается новых "крупных абитуриентов" в отрасли, анонимные источники сегодня показали, что американский банковский гигант Морган Стэнли планирует предложить клиентам Bitcoin торговли свопы, которые позволили бы им торговать крипто производные без проведения каких-либо из небанковской.
 
-Original source: [BitPay CCO Predicts Altcoins to ‘Never Come Back,’ Bitcoin to ‘Rebound’ in 2019](https://cointelegraph.com/news/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019)
+[Original source](https://cointelegraph.com/news/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Kaleido-это бизнес-облако, основанное на цепочке, которое предоставляет компаниям готовые приложения для работы с цепочками.
 
-Original source: [EU Antitrust Regulators to Rule on Microsoft Acquisition of GitHub by Mid-October](https://cointelegraph.com/news/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october)
+[Original source](https://cointelegraph.com/news/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

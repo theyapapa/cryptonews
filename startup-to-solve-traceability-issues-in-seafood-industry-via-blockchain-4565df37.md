@@ -14,6 +14,6 @@
 
 Проектная группа утверждает, что токены фишкоин могут служить как стимулом, так и механизмом сбора данных по цепочкам поставок морепродуктов.
 
-Original source: [Startup to Solve Traceability Issues in Seafood Industry Via Blockchain](https://cointelegraph.com/news/startup-to-solve-traceability-issues-in-seafood-industry-via-blockchain)
+[Original source](https://cointelegraph.com/news/startup-to-solve-traceability-issues-in-seafood-industry-via-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

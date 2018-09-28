@@ -14,6 +14,6 @@
 
 Как сообщалось ранее сегодня, Цена Bitcoin Cash в коинтелеграф после стресс-теста, так как монета видит наибольший выигрыш за последние 24 часа среди 20 лучших в мире по рыночной капитализации.
 
-Original source: [Bitcoin Cash Stress Test Results: 2.1 Million Transactions Cause No Surge in Fees](https://cointelegraph.com/news/bitcoin-cash-stress-test-results-21-million-transactions-cause-no-surge-in-fees)
+[Original source](https://cointelegraph.com/news/bitcoin-cash-stress-test-results-21-million-transactions-cause-no-surge-in-fees)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

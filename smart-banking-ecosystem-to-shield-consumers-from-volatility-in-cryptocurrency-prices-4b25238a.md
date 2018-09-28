@@ -14,6 +14,6 @@
 
 Этот верхний ярус, который приходит с ежемесячной платой, может быть особенно полезен для предприятий, которые надеются принять крипто платежей от своих клиентов, или для покупателей, которые хотят платить в крипто на месте, которое принимает только Fiat.
 
-Original source: [Smart Banking Ecosystem to Shield Consumers From Volatility in Cryptocurrency Prices](https://cointelegraph.com/news/smart-banking-ecosystem-to-shield-consumers-from-volatility-in-cryptocurrency-prices)
+[Original source](https://cointelegraph.com/news/smart-banking-ecosystem-to-shield-consumers-from-volatility-in-cryptocurrency-prices)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

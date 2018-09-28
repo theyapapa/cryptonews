@@ -10,6 +10,6 @@
 
 Основа  [🔗](https://en.wikipedia.org/wiki/Bitmain)  в 2013 году, Bitmain Technologies-это частная компания, которая занимается разработкой аппаратных средств Bitcoin и микросхем ASIC. В феврале 2018 года компания, как сообщается, провела  [🔗](http://fortune.com/2018/02/24/bitcoin-mining-bitmain-profits/)  70-80 процентов рынка для оборудования для исследования Bitcoin. В Bitmain также работает один из самых больших пулов исследования Bitcoin, Antpool  [🔗](https://cointelegraph.com/tags/antpool). Ранее в этом году компания сообщила о том, что компания  [🔗](https://cointelegraph.com/news/chinese-crypto-mining-giant-bitmain-developing-facilities-in-us-document-suggests)  участвует в разработке центров исследования "Крик Ant" в США.
 
-Original source: [Bitmain Now Valued at $12 Bln Following Recent Funding Round ](https://cointelegraph.com/news/bitmain-receives-12-bln-investment-in-a-recent-funding-round)
+[Original source](https://cointelegraph.com/news/bitmain-receives-12-bln-investment-in-a-recent-funding-round)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

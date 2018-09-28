@@ -14,6 +14,6 @@
 
 7-дневный график общей рыночной капитализации всех стран с коинмаркеткап как головокружительные капризы крипто рынки оставляют некоторые шатаясь, команда финансовых экспертов из Йельского университета на этой неделе предложил систему факторов, чтобы предсказать ценовых тенденций в основных
 
-Original source: [After a Catastrophic Week, Crypto Markets Rally Forth Into the Green](https://cointelegraph.com/news/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green)
+[Original source](https://cointelegraph.com/news/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

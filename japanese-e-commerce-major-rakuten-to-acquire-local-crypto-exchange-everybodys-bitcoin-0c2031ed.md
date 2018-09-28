@@ -14,6 +14,6 @@ Rakuten говорит, что приобретение будет способ�
 
 Уже в 2016, компания приобрела активы интеллектуальной собственности Bitcoin платежных процессоров BitNet, а также открытие его Rakuten лаборатория для изучения приложений для цепочки в электронной коммерции и fintech.
 
-Original source: [Japanese E-Commerce Major Rakuten to Acquire Local Crypto Exchange Everybody's Bitcoin](https://cointelegraph.com/news/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin)
+[Original source](https://cointelegraph.com/news/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

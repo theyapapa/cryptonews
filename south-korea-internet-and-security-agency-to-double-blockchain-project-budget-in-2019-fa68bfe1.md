@@ -14,6 +14,6 @@
 
 Он также добавил: "цель государственного сектора заключается в том, чтобы играть активную роль в оживлении промышленности, действуя в качестве грунтовки \ [... \] мы планируем сделать больше денег для проектов общественных работ".
 
-Original source: [South Korea Internet and Security Agency to Double Blockchain Project Budget in 2019](https://cointelegraph.com/news/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019)
+[Original source](https://cointelegraph.com/news/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ CFTC утверждали в иске о том, что клиенты, кото
 
 В иске также отмечается, что падение монеты не было зарегистрировано в CFTC.
 
-Original source: [New York District Judge Rules That CFTC Can Permanently Ban Crypto Firm](https://cointelegraph.com/news/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm)
+[Original source](https://cointelegraph.com/news/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

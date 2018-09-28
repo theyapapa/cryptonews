@@ -14,6 +14,6 @@
 
 # # Цуг, Швейцария инфраструктура в то время как Цуг может быть не так хорошо оборудован для обычных туристических мероприятий, финансируемых BTC, как и другие города в списке, он, тем не менее, представляет собой исторический город для любителей крипто.
 
-Original source: [From Malta to Prague: What Is the Most Crypto-Friendly Travel Destination?](https://cointelegraph.com/news/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination)
+[Original source](https://cointelegraph.com/news/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

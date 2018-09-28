@@ -14,6 +14,6 @@
 
 Ранее на этой неделе, Группа технологии битфури объявила о запуске своего нового поколения BTC горно оборудования, с планами использовать новые машины в своих горнодобывающих центров в Канаде, Норвегии, Исландии и Грузии.
 
-Original source: [Iceland’s Industry to Shift From Crypto Mining to ‘Pure Blockchain Business,’ Insiders Say](https://cointelegraph.com/news/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say)
+[Original source](https://cointelegraph.com/news/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

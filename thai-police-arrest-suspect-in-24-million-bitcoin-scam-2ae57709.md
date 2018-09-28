@@ -14,6 +14,6 @@
 
 По цене $25 000, злоумышленники могут приобрести вредоносные программы Bitcoin ATM сопровождается готовой к использованию карты с EMV и ближнего поля связи (NFC) возможности.
 
-Original source: [Thai Police Arrest Suspect in $24 Million Bitcoin Scam](https://cointelegraph.com/news/thai-police-arrest-suspect-in-24-million-bitcoin-scam)
+[Original source](https://cointelegraph.com/news/thai-police-arrest-suspect-in-24-million-bitcoin-scam)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

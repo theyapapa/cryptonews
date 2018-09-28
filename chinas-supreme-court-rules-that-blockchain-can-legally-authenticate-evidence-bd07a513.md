@@ -14,6 +14,6 @@
 
 Как коинтелеграф эксперт принять изложил, цепочки связанных инноваций не только юридически признается в качестве способных аутентификации доказательств, но даже, как и в случае смарт контракты-считается, имеют потенциал стать серьезным разрушительным силу в правовую сферу.
 
-Original source: [China’s Supreme Court Rules That Blockchain Can Legally Authenticate Evidence](https://cointelegraph.com/news/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence)
+[Original source](https://cointelegraph.com/news/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

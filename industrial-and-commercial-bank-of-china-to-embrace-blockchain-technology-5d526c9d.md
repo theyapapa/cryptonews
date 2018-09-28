@@ -14,6 +14,6 @@
 
 Представляя эту книгу, КПК, как сообщается, стремится помочь государственным властям в понимании концепции распределенной технологии регистров (DLT) и рассмотреть преимущества и проблемы принятия цепочки блоков в национальном масштабе.
 
-Original source: [Industrial and Commercial Bank of China To Embrace Blockchain Technology](https://cointelegraph.com/news/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology)
+[Original source](https://cointelegraph.com/news/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -12,6 +12,6 @@
 
 Несмотря на положительный потенциал технологии для преобразования процесса голосования, в докладе был сделан вывод о необходимости всестороннего тестирования цепочки блоков с учетом затрат и масштабов более широкого осуществления.
 
-Original source: [Blockchain and Elections: The Japanese, Swiss and American Experience](https://cointelegraph.com/news/blockchain-and-elections-the-japanese-swiss-and-american-experience)
+[Original source](https://cointelegraph.com/news/blockchain-and-elections-the-japanese-swiss-and-american-experience)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

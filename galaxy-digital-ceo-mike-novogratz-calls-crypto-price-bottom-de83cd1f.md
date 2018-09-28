@@ -14,6 +14,6 @@
 
 По состоянию на 31 марта, Galaxy Digital было $281 700 000 в активы, из которых $225 800 000 были цифровые активы и инвестиции.
 
-Original source: [Galaxy Digital CEO Mike Novogratz Calls Crypto Price Bottom](https://cointelegraph.com/news/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom)
+[Original source](https://cointelegraph.com/news/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 По словам Бланко, ФинСЕН, BSA экзаменаторов и налоговой службы (IRS) изучили более 30 процентов всех зарегистрированных криптографических обменников и администраторов с 2014.
 
-Original source: [FinCEN Director: Agency Receives 1,500 Suspicious Activity Reports on Crypto per Month](https://cointelegraph.com/news/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month)
+[Original source](https://cointelegraph.com/news/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

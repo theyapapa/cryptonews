@@ -14,6 +14,6 @@
 
 В 2017, и Microsoft Corp. объединились, чтобы построить сеть цифрового удостоверения с помощью технологии цепочки, в рамках поддерживаемого ООН проекта по обеспечению юридического идентификации для 1 100 000 000 людей по всему миру без каких-либо официальных документов.
 
-Original source: [DLT in Migration Policy: How Blockchain Can Help Both Refugees and Host Nations](https://cointelegraph.com/news/dlt-in-migration-policy-how-blockchain-can-help-both-refugees-and-host-nations)
+[Original source](https://cointelegraph.com/news/dlt-in-migration-policy-how-blockchain-can-help-both-refugees-and-host-nations)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

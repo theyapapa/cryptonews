@@ -14,6 +14,6 @@ IRAP, управляемый национальным научно-исслед�
 
 Ранее в июне, канадский центральный банк (бок) опубликовал исследование, в котором подтверждалось, что двойные расходы на цепочку блоков "нереалистичны".
 
-Original source: [Canada: State-Funded Research Program IRAP Now Hosts Blockchain Explorer](https://cointelegraph.com/news/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer)
+[Original source](https://cointelegraph.com/news/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

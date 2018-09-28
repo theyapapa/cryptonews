@@ -14,6 +14,6 @@ Starbucks уточнил, что он не будет принимать Bitcoin
 
 В конце июля, бывший Уолл-стрит Exec оказалось крипто предприниматель заявил крипто рынки "необходимо доверять, имя хранителя-японский банк или HSBC или ICE или Goldman Sachs, чтобы институциональные инвесторы чувствовать себя комфортно".
 
-Original source: [‘No Coffee for Bitcoin,’ Starbucks Clarifies as Media Misrepresent Its New Crypto Venture](https://cointelegraph.com/news/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture)
+[Original source](https://cointelegraph.com/news/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

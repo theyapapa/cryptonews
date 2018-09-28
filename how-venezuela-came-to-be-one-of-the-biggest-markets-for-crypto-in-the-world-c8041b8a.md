@@ -14,6 +14,6 @@
 
 В действительности, превосходство Dash над биткойном, с точки зрения платежей за транзакцию и времени подтверждения, таково, что в настоящее время эта валюта является самой популярной в Венесуэле среди торговцев — или в компании
 
-Original source: [How Venezuela Came to Be One of the Biggest Markets for Crypto in the World](https://cointelegraph.com/news/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world)
+[Original source](https://cointelegraph.com/news/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

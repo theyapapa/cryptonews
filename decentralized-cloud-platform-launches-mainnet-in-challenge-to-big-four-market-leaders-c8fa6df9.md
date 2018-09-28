@@ -34,6 +34,6 @@ DADI быстро проследил за запуском своей главн
 
 Отказ от гарантий. Cointegrph не поддерживает ни одно содержимое или продукт на этой странице. Хотя мы стремимся предоставить вам всю важную информацию, которую мы могли бы получить, читатели должны выполнить свои собственные исследования, прежде чем принимать какие-либо действия, связанные с компанией, и нести полную ответственность за свои решения, и эта статья не может рассматриваться как рекомендация по инвестициям.
 
-Original source: [Decentralized Cloud Platform Launches Mainnet in Challenge to ‘Big Four’ Market Leaders](https://cointelegraph.com/news/decentralized-cloud-platform-launches-mainnet-in-challenge-to-big-four-market-leaders)
+[Original source](https://cointelegraph.com/news/decentralized-cloud-platform-launches-mainnet-in-challenge-to-big-four-market-leaders)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 Беларусь четко определила свою позицию в отношении оцифровки экономики в мае, когда министр телекоммуникаций и информатизации Сергей Попков заявил, что цифровая технология считается одним из главных приоритетов из-за ее способности преобразовать «экономику, Государственное управление и социальные услуги».
 
-Original source: [Belarus Seeks South Korean Investors Interested in Blockchain and Fintech](https://cointelegraph.com/news/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech)
+[Original source](https://cointelegraph.com/news/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

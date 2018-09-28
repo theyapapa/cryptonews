@@ -14,6 +14,6 @@ WeChat оператор Tencent впоследствии опубликовал 
 
 24 августа, Народный Банк Китая (НБК) выпустила свой собственный риск оповещения против "незаконного" ИКО, предупреждая, что цепочки и идея "финансовых инноваций" используются, чтобы заманить инвесторов как "трюк", который скрывает по существу мошеннических финансовых пирамид.
 
-Original source: [China Extends Crypto-Related Promotion Ban Beyond the Capital](https://cointelegraph.com/news/china-extends-crypto-related-promotion-ban-beyond-the-capital)
+[Original source](https://cointelegraph.com/news/china-extends-crypto-related-promotion-ban-beyond-the-capital)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Playboy сказал, что компания-цепочки не только �
 
 Pornhub вице-президент Кори прайс сказал в пресс-релизе: "История доказала, что индустрия развлечений для взрослых играет важнейшую роль в принятии инновационных технологий.
 
-Original source: [Playboy Sues Canadian Blockchain Firm for](https://cointelegraph.com/news/playboy-sues-canadian-blockchain-firm-for)
+[Original source](https://cointelegraph.com/news/playboy-sues-canadian-blockchain-firm-for)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

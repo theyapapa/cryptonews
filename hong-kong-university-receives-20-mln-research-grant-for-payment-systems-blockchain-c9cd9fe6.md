@@ -14,6 +14,6 @@
 
 В прошлом месяце, Гонконг денежное управление и пинг группа fintech дочерняя объявила о запуске своих собственных цепочки финансирования торгового решения с 21 банков.
 
-Original source: [Hong Kong University Receives $20 Mln Research Grant for Payment Systems, Blockchain](https://cointelegraph.com/news/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain)
+[Original source](https://cointelegraph.com/news/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

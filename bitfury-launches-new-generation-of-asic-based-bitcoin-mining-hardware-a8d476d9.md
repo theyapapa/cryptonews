@@ -14,6 +14,6 @@
 
 В июле коинтелеграф также сообщил, что, по данным источников из "вверх по течению цепочки поставок", продажа интегральных программных средств крипто горнодобывающей было негативно сказалось, с прогнозируемым снижение цен на 20 процентов в этом месяце.
 
-Original source: [Bitfury Launches New Generation of ASIC-Based Bitcoin Mining Hardware](https://cointelegraph.com/news/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware)
+[Original source](https://cointelegraph.com/news/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

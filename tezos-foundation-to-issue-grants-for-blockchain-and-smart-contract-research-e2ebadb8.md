@@ -12,6 +12,6 @@
 
 Ранее этим летом фонд тезос сделал заявление о том, что в августе он проведет призыв к исследовательским предложениям в рамках открытого грантов процесса.
 
-Original source: [Tezos Foundation to Issue Grants for Blockchain and Smart Contract Research](https://cointelegraph.com/news/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research)
+[Original source](https://cointelegraph.com/news/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

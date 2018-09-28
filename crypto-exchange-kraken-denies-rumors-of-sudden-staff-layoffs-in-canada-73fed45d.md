@@ -14,6 +14,6 @@
 
 В прошлом месяце, данные, собранные Crypto Industry информационный бюллетень продюсер Diar предположил, что с начала 2018, торгуются объемы на чудище-наряду с США на основе обменов Coinbase и битстамп-стали свидетелями резкого спада, в отличие от относительно лучше на азиатских биржах криптографии в течение того же периода времени.
 
-Original source: [Crypto Exchange Kraken Denies Rumors of Sudden Staff Layoffs in Canada](https://cointelegraph.com/news/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada)
+[Original source](https://cointelegraph.com/news/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

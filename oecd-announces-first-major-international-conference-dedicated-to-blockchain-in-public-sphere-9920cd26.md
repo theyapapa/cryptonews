@@ -14,6 +14,6 @@
 
 В марте этого года на саммите G20 в Аргентине была обсуждена тема обсуждения.
 
-Original source: [OECD Announces ‘First Major International Conference’ Dedicated to Blockchain in Public Sphere](https://cointelegraph.com/news/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere)
+[Original source](https://cointelegraph.com/news/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

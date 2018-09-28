@@ -14,6 +14,6 @@
 
 Тезос, который увидел наибольший выигрыш среди 20 лучших монет вчера, в настоящее время торгуется на $1,58, еще до 27 процентов в течение недели, с НББ торговли около $9,88 в пресс-время.
 
-Original source: [Crypto Markets See Mixed Signals as Total Market Cap Holds Position](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

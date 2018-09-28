@@ -14,6 +14,6 @@
 
 Левин сказал, что принятие крипто является частью миссии Организации, чтобы быть "на переднем крае популярной культуры..., не только как один из первых брендов, связанных с каннабисом, чтобы пойти общественности на NASDAQ, но и как первый, чтобы позволить Bitcoin и Ethereum как часть нашего общественного Македонии рам Аль поднять ".
 
-Original source: [In an Apparent First, High Times to Accept Crypto in Its Initial Public Offering](https://cointelegraph.com/news/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering)
+[Original source](https://cointelegraph.com/news/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

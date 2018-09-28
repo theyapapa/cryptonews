@@ -14,6 +14,6 @@
 
 Что касается цифровых валют, Robinhood Crypto App не искра каких-либо существенных споров, по-прежнему пользуются хорошей репутацией и производит оптимизм в малых инвесторов, которые устали от сделки сборы, введенные установленных игроков.
 
-Original source: [Robinhood: How the Fast-Growing Stock Trading App Got Into Crypto](https://cointelegraph.com/news/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto)
+[Original source](https://cointelegraph.com/news/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

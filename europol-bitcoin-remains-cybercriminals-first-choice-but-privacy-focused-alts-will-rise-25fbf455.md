@@ -14,6 +14,6 @@
 
 В докладе отмечается, что крипто в течение нескольких лет предложил преимущества децентрализованной инфраструктуры и под псевдонимом сделок для отмывания уголовного производства, но предполагает, что, как крупные игроки Crypto промышленности подпадают под сферу компетенции регулирующие органы, децентрализованные биржи могут вскоре стать более выгодным каналом для отмывания денег.
 
-Original source: [Europol: Bitcoin Remains Cybercriminals’ First Choice, But Privacy-Focused Alts Will Rise](https://cointelegraph.com/news/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise)
+[Original source](https://cointelegraph.com/news/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

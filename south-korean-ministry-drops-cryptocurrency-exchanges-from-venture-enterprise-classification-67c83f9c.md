@@ -14,6 +14,6 @@ MSS добавил, "\ [w \] e будет также способствоват�
 
 В то же время, технология цепочки стал долгосрочным фокусом для инвестиций, правительство на этой неделе выявление области будет формировать один из восьми она выявила для основных расходов бюджета в 2019 5 000 000 000 000 вон (около $4 400 000 000).
 
-Original source: [South Korean Ministry Drops Cryptocurrency Exchanges From Venture Enterprise Classification](https://cointelegraph.com/news/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification)
+[Original source](https://cointelegraph.com/news/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

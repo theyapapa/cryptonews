@@ -14,6 +14,6 @@
 
 Как потребители, так и инвесторы полагают, что успех интеграции цепочки блоков зависит, главным образом, от распространенности соответствующих коммерческих приложений и надлежащего образования по этой технологии.
 
-Original source: [Majority of Investors Want to Buy More Digital Currency in 2018, Survey Shows](https://cointelegraph.com/news/majority-of-investors-want-to-buy-more-digital-currency-in-2018-survey-shows)
+[Original source](https://cointelegraph.com/news/majority-of-investors-want-to-buy-more-digital-currency-in-2018-survey-shows)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

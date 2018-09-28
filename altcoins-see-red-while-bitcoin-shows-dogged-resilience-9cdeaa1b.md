@@ -14,6 +14,6 @@
 
 Источник: коинмаркеткап всего рыночной капитализации всех оборотных средств составляет около $209 800 000 000 в пресс-время, немного вверх от дневного минимума на $205 700 000 000 и комфортно выше его сжать до $191 000 000 000 неделю назад: 7-дневный график общего рынка Капитализация всех стран с коинмаркеткап в то время как рынок продолжает демонстрировать напряжение, дискуссии на этой неделе в Южной Корее, чтобы потенциально повернуть вспять запрет страны на первоначальные монеты предложения (ИКО).
 
-Original source: [Altcoins See Red, While Bitcoin Shows Dogged Resilience](https://cointelegraph.com/news/altcoins-see-red-while-bitcoin-shows-dogged-resilience)
+[Original source](https://cointelegraph.com/news/altcoins-see-red-while-bitcoin-shows-dogged-resilience)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 В 2014, перезапас стал первым крупным акционерным обществом принять BTC через партнерство с Crypto Exchange Coinbase.
 
-Original source: [Overstock CEO Sells 10% of His Stock, Saying ‘Don’t Worry, I’m Still in the Game’](https://cointelegraph.com/news/overstock-ceo-sells-10-of-his-stock-saying-dont-worry-im-still-in-the-game)
+[Original source](https://cointelegraph.com/news/overstock-ceo-sells-10-of-his-stock-saying-dont-worry-im-still-in-the-game)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

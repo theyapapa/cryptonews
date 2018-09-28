@@ -14,6 +14,6 @@
 
 В то время как Всемирный банк предпринимает шаги, чтобы использовать технологию технологии для капитального ремонта существующих систем, это всего лишь вопрос времени, когда другие крупные банки последуют этому примеру?
 
-Original source: [World Bank’s Blockchain-Based Bonds — A Step Toward Adoption?](https://cointelegraph.com/news/world-banks-blockchain-based-bonds-a-step-toward-adoption)
+[Original source](https://cointelegraph.com/news/world-banks-blockchain-based-bonds-a-step-toward-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

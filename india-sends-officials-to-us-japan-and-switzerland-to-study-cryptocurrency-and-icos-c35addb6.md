@@ -14,6 +14,6 @@
 
 Верховный суд Индии поддержал ограничение «Райффайзен Банка» до июльского слушания, которое позднее было отложено до 11 сентября.
 
-Original source: [India Sends Officials to US, Japan and Switzerland to Study Cryptocurrency and ICOs](https://cointelegraph.com/news/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos)
+[Original source](https://cointelegraph.com/news/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

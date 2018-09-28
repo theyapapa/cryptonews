@@ -14,6 +14,6 @@ Facebook сделал тихие надвижения в пространств�
 
 Новая политика требует от рекламодателей продуктов и услуг, подающих продукты и услуги, подать заявку, позволяющую Facebook оценить их право на участие.
 
-Original source: [Randi Zuckerberg Joins Huobi’s Public Blockchain Advisory Committee](https://cointelegraph.com/news/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee)
+[Original source](https://cointelegraph.com/news/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

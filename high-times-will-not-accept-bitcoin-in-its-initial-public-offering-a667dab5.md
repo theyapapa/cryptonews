@@ -14,6 +14,6 @@ SEC документ не дает ссылку на другую цифрову
 
 Для того, чтобы создать лучшую среду для поставщиков отрасли, цифровая валюта тире партнерстве с запуском цепочки Alt 36 в 2017 для интеграции тире в качестве способа оплаты в точке продажи каннабиса промышленности системы.
 
-Original source: [High Times Will Not Accept Bitcoin in Its Initial Public Offering](https://cointelegraph.com/news/high-times-will-not-accept-bitcoin-in-its-initial-public-offering)
+[Original source](https://cointelegraph.com/news/high-times-will-not-accept-bitcoin-in-its-initial-public-offering)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@
 
 16 июля ведущие американские валютные биржи и службы бумажника Coinbase объявили о том, что она получила одобрение от Комиссии по ценным бумагам и биржам США (SEC) и регулирующего органа финансовой индустрии (FINRA), чтобы перечислить цифровые монеты считается быть ценными бумагами.
 
-Original source: [OpenFinance Launches Regulated Alternative Trading System for Securities Tokens](https://cointelegraph.com/news/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens)
+[Original source](https://cointelegraph.com/news/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

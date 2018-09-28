@@ -14,6 +14,6 @@ FSA также будет нуждаться в доступе к записям
 
 Еще в июле FSA рассматривает вопрос о внесении изменений в правовую основу для регулирования валютной биржи, с возможным переходом от закона о платежных услугах к закону о финансовых инструментах и бирже (фиеа), как сообщил коинтелеграф 3 июля.
 
-Original source: [Japan’s Financial Regulator Enhances Risk Screening Process for Crypto Exchanges](https://cointelegraph.com/news/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges)
+[Original source](https://cointelegraph.com/news/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

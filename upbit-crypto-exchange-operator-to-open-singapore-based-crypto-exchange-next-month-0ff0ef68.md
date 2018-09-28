@@ -14,6 +14,6 @@ KAKAO-Партнерская Дунаму, оператор основных ю�
 
 Как сообщалось ранее, KAKAO недавний полугодовой отчет показал, что упбит бросил вызов медвежьего глобального крипто рынках разместить $100 000 000 прибыли в третьем квартале 2018.
 
-Original source: [Upbit Crypto Exchange Operator to Open Singapore-Based Crypto Exchange Next Month](https://cointelegraph.com/news/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month)
+[Original source](https://cointelegraph.com/news/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

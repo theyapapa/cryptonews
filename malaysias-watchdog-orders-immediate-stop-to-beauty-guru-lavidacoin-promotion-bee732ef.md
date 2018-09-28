@@ -14,6 +14,6 @@
 
 Как отмечает звезда, все три сущности были занесены в черный список Банком Негара Малайзии в августе.
 
-Original source: [Malaysia’s Watchdog Orders Immediate Stop to Beauty Guru Lavidacoin Promotion](https://cointelegraph.com/news/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion)
+[Original source](https://cointelegraph.com/news/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ Litecoin на 5,2 процента, торгуя на $57 на времени п
 
 Вчера, Силиконовая Долина венчурного капиталистического и хорошо известный Bitcoin евангелист Тим Дрейпер предсказал, что комбинированные рынке крышка рынок будет хит $80 000 000 000 000 в ближайшие 15 лет, ссылаясь на разнообразие рынков, которые будут преобразованы промышленности.
 
-Original source: [Crypto Markets Recover Slightly, Ethereum, Tezos See Largest Gains](https://cointelegraph.com/news/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains)
+[Original source](https://cointelegraph.com/news/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

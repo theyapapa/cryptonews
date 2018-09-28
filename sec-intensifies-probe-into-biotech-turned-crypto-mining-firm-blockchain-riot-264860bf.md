@@ -14,6 +14,6 @@
 
 В марте этого года, SEC приступила к широкой огласке крипто зонда, после Председатель Джей Клейтон обязался увеличить внимание на фирмы, которые стремятся "извлечь выгоду из воспринимается обещание" цепочки шум.
 
-Original source: [SEC Intensifies Probe Into Biotech-Turned-Crypto Mining Firm Blockchain Riot](https://cointelegraph.com/news/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot)
+[Original source](https://cointelegraph.com/news/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
