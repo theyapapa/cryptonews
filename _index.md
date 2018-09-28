@@ -1,3 +1,4 @@
+* 2018-09-28 [몽골: 중앙 은행은 첫 번째 디지털 통화를 발급할 수 있는 권한을 부여 합니다](https://github.com/theyapapa/cryptonews/blob/ko/mongolia-central-bank-gives-permission-to-issue-first-digital-currency-1c7ae18f.md)
 * 2018-09-27 [톰 리:에 테리 움은 2019의 끝에 의해 $1900까지 강력 하 게 집회 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/tom-lee-ethereum-will-rally-strongly-up-to-1-900-by-the-end-of-2019-b47d73ea.md)
 * 2018-09-27 [미국 집은 테러리스트에의 한 암호 사용을 방지 하기 위해 태스크 포스 법안을 통과](https://github.com/theyapapa/cryptonews/blob/ko/us-house-passes-bill-for-task-force-to-combat-crypto-use-by-terrorists-e6d97099.md)
 * 2018-09-27 [코인 베이스는 암호화 거래를 단순화 하도록 설계 된 ' 코인 베이스 번들 '을 도입](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-introduces-coinbase-bundle-designed-to-simplify-crypto-trading-33ffb6f6.md)
