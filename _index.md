@@ -1,3 +1,4 @@
+* 2018-09-28 [오픈 소스 클럽: monero 지역 사회의 도움으로 아직 또 다른 공격을 dodges](https://github.com/theyapapa/cryptonews/blob/ko/open-source-club-monero-dodges-yet-another-attack-with-communitys-help-da1209fe.md)
 * 2018-09-28 [일본의 메시지 거 대 한 라인 발표 새로운 디지털 동전과 5 분산 된 애플 리 케이 션](https://github.com/theyapapa/cryptonews/blob/ko/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps-d7f37de9.md)
 * 2018-09-28 [호주: 클라이언트 파일 주장에 대 한 공개적으로 나열 된 ICO 자문 회사 digitix](https://github.com/theyapapa/cryptonews/blob/ko/australia-clients-file-claim-against-publicly-listed-ico-advisory-firm-digitalx-029b0fb2.md)
 * 2018-09-28 [몽골: 중앙 은행은 첫 번째 디지털 통화를 발급할 수 있는 권한을 부여 합니다](https://github.com/theyapapa/cryptonews/blob/ko/mongolia-central-bank-gives-permission-to-issue-first-digital-currency-1c7ae18f.md)
