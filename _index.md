@@ -1,3 +1,4 @@
+* 2018-09-27 [Heces de Tom: Ethereum "Rally fuertemente" hasta $1.900 por el final de 2019](https://github.com/theyapapa/cryptonews/blob/es/tom-lee-ethereum-will-rally-strongly-up-to-1-900-by-the-end-of-2019-b47d73ea.md)
 * 2018-09-27 [US House aprueba proyecto de ley para combatir el uso de criptografía por terroristas](https://github.com/theyapapa/cryptonews/blob/es/us-house-passes-bill-for-task-force-to-combat-crypto-use-by-terrorists-e6d97099.md)
 * 2018-09-27 [Coinbase presenta ' Coinbase bundle ' diseñado para simplificar el comercio de criptografía](https://github.com/theyapapa/cryptonews/blob/es/coinbase-introduces-coinbase-bundle-designed-to-simplify-crypto-trading-33ffb6f6.md)
 * 2018-09-27 [Goldman Sachs lleva $25 millones ronda de financiación para bloques pagos startup Veem](https://github.com/theyapapa/cryptonews/blob/es/goldman-sachs-leads-25-million-funding-round-for-blockchain-payments-startup-veem-2f04725b.md)
