@@ -1,3 +1,4 @@
+* 2018-09-28 [Япония сообщения гигантской линии объявляет о новой цифровой монеты и 5 децентрализованных приложений](https://github.com/theyapapa/cryptonews/blob/ru/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps-d7f37de9.md)
 * 2018-09-28 [Австралия: клиенты файл претензии против публично перечисленные ICO консультационная фирма дигиталкс](https://github.com/theyapapa/cryptonews/blob/ru/australia-clients-file-claim-against-publicly-listed-ico-advisory-firm-digitalx-029b0fb2.md)
 * 2018-09-28 [Монголия: Центральный банк дает разрешение на выпуск первой цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/mongolia-central-bank-gives-permission-to-issue-first-digital-currency-1c7ae18f.md)
 * 2018-09-27 [Том ли: Ethereum будет "ралли сильно" до $1 900 к концу 2019](https://github.com/theyapapa/cryptonews/blob/ru/tom-lee-ethereum-will-rally-strongly-up-to-1-900-by-the-end-of-2019-b47d73ea.md)
