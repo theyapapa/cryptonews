@@ -1,3 +1,4 @@
+* 2018-09-28 [Australia: reclamación de clientes ante la firma asesora de ICO DigitalX](https://github.com/theyapapa/cryptonews/blob/es/australia-clients-file-claim-against-publicly-listed-ico-advisory-firm-digitalx-029b0fb2.md)
 * 2018-09-28 [Mongolia: el Banco Central da permiso para emitir la primera moneda digital](https://github.com/theyapapa/cryptonews/blob/es/mongolia-central-bank-gives-permission-to-issue-first-digital-currency-1c7ae18f.md)
 * 2018-09-27 [Heces de Tom: Ethereum "Rally fuertemente" hasta $1.900 por el final de 2019](https://github.com/theyapapa/cryptonews/blob/es/tom-lee-ethereum-will-rally-strongly-up-to-1-900-by-the-end-of-2019-b47d73ea.md)
 * 2018-09-27 [US House aprueba proyecto de ley para combatir el uso de criptografía por terroristas](https://github.com/theyapapa/cryptonews/blob/es/us-house-passes-bill-for-task-force-to-combat-crypto-use-by-terrorists-e6d97099.md)
