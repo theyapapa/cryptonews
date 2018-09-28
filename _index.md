@@ -1,3 +1,4 @@
+* 2018-09-28 [Club de código abierto: Monero esquiva otro ataque con la ayuda de la comunidad](https://github.com/theyapapa/cryptonews/blob/es/open-source-club-monero-dodges-yet-another-attack-with-communitys-help-da1209fe.md)
 * 2018-09-28 [La línea gigante de mensajería de Japón anuncia una nueva moneda digital y 5 aplicaciones descentralizadas](https://github.com/theyapapa/cryptonews/blob/es/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps-d7f37de9.md)
 * 2018-09-28 [Australia: reclamación de clientes ante la firma asesora de ICO DigitalX](https://github.com/theyapapa/cryptonews/blob/es/australia-clients-file-claim-against-publicly-listed-ico-advisory-firm-digitalx-029b0fb2.md)
 * 2018-09-28 [Mongolia: el Banco Central da permiso para emitir la primera moneda digital](https://github.com/theyapapa/cryptonews/blob/es/mongolia-central-bank-gives-permission-to-issue-first-digital-currency-1c7ae18f.md)
