@@ -1,5 +1,7 @@
 # PornHub se asocia con PumaPay para aceptar Crypto como pagos...
 
+###### 2018-08-23
+
 Canadian Adult Entertainment streaming website PornHub ha anunciado una asociación con cryptocurrency pago y facturación startup PumaPay para permitir a sus usuarios pagos en cryptocurrencies, según un tweet 23 de agosto.
 
 PornHub ahora está aceptando PumaPay, con su "único" Protocolo de pago de extracción que permitirá a los usuarios pagar automáticamente sus suscripciones, incluyendo PornHub Premium.
@@ -14,6 +16,6 @@ Sin embargo, a comienzos de este mes, Playboy demandó a la firma canadiense glo
 
 Vit también se involucró en el conflicto legal, y los planes para buscar la restitución de su propia después de "supuestamente perder millones de fichas criptográficas en un acuerdo desmoronamiento entre las empresas de Playboy y... Global bloques Technologies ".
 
-Original source: [Pornhub Partners With PumaPay to Accept Crypto as Payments](https://cointelegraph.com/news/pornhub-partners-with-pumapay-to-accept-crypto-as-payments)
+[Original source](https://cointelegraph.com/news/pornhub-partners-with-pumapay-to-accept-crypto-as-payments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

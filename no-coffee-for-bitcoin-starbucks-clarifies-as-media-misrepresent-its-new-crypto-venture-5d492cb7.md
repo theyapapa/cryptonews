@@ -1,5 +1,7 @@
 # ' no hay café para bitcoin, ' Starbucks aclara como los medios tergiversan su nueva empresa de criptografía...
 
+###### 2018-08-05
+
 Starbucks ha aclarado que no va a aceptar Bitcoin (BTC) u otros cryptocurrencies como pago, a pesar de los informes engañosos de los medios de comunicación, un portavoz dijo a la placa madre el viernes, 3 de julio.
 
 A principios del viernes, el operador de la bolsa de Nueva York (NYSE) Intercontinental Exchange (ICE) anunció planes para crear una nueva "plataforma global y ecosistema para activos digitales", apodado "Bakkt", junto a un grupo de empresas de gran nombre, incluyendo Starbucks, BCG y Microsoft.
@@ -14,6 +16,6 @@ En mayo, el New York Times informó sobre fuentes que sugerían que el ICE estab
 
 A finales de julio, el ex ejecutivo de Wall Street exec se convirtió en un empresario criptográfico declaró que los mercados criptográficos "necesitan un custodio de confianza, nombre — un Banco Japonés o HSBC o ICE o Goldman Sachs — para permitir que los inversores institucionales se sientan cómodos".
 
-Original source: [‘No Coffee for Bitcoin,’ Starbucks Clarifies as Media Misrepresent Its New Crypto Venture](https://cointelegraph.com/news/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture)
+[Original source](https://cointelegraph.com/news/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

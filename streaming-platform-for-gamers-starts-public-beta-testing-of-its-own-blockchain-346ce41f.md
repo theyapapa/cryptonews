@@ -1,5 +1,7 @@
 # Plataforma de streaming para los jugadores comienza la prueba beta pública de su propia bloques...
 
+###### 2018-09-20
+
 El 19 de septiembre, la plataforma de streaming de Play2Live para los fans de Gamers y Esports ha anunciado oficialmente el lanzamiento de la prueba beta abierta de su plataforma de streaming bloques al público en general.
 
 La nueva plataforma bloques pretende que los participantes se beneficien de los esquemas de monetización, que involucran a streamers, televidentes y organizadores de torneos de Esports.
@@ -14,6 +16,6 @@ Con el fin de acelerar la entrega de contenido del Streamer al espectador, los c
 
 "así, Play2Live será la primera plataforma en el mundo que utiliza dispositivos compactos para proporcionar protección de la información al usuario y garantizar la seguridad de su identificación", comentó Arbatov.
 
-Original source: [Streaming Platform for Gamers Starts Public Beta Testing of Its Own Blockchain](https://cointelegraph.com/news/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain)
+[Original source](https://cointelegraph.com/news/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

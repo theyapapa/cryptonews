@@ -1,5 +1,7 @@
 # Rebotes de mercado: Ethereum se eleva 18% de vuelta sobre $200, Bitcoin recupera $6.500 marca...
 
+###### 2018-09-13
+
 Fuente: Cointelegraph Ethereum el índice de precios Bitcoin (BTC) es el comercio justo por encima de $6.500 a partir del tiempo de la prensa, un sólido 3,17 por ciento en el período de 24 horas.
 
 Fuente: Cointelegraph Bitcoin price index entre las otras diez monedas superiores en CoinMarketCap, ubicuo verde muestra ganancias en un 3 a 12 por ciento.
@@ -14,6 +16,6 @@ La capitalización total del mercado asciende a un 6 por ciento alcista, o casi 
 
 el gráfico de 7 días de la capitalización total del mercado de todos los cryptocurrencies del movimiento alcista del precio de CoinMarketCap hoy ha sido acompañado por noticias más positivas para la exposición de potenciales inversores institucionales a Bitcoin y otros cryptoassets.
 
-Original source: [Market Rebounds: Ethereum Soars 18% Back over $200, Bitcoin Regains $6,500 Mark](https://cointelegraph.com/news/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark)
+[Original source](https://cointelegraph.com/news/market-rebounds-ethereum-soars-18-back-over-200-bitcoin-regains-6-500-mark)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Standard Chartered, Partner de Siemens en el piloto de bloques para "digitalizar completamente" garantías bancarias...
 
+###### 2018-08-30
+
 Compañía de servicios bancarios y financieros multinacionales del Reino Unido Standard Chartered (SC) revelado está trabajando en un piloto de bloques para garantías bancarias utilizando la tecnología R3 Corda bloques en un comunicado de prensa el jueves, 30 de agosto.
 
 En colaboración con la plataforma de financiación de Siemens de servicios financieros de Siemens (SFS) y el TradeIX de financiación del comercio, el piloto comenzó a operar en marzo y tiene como objetivo completar a finales de 2018.
@@ -12,6 +14,6 @@ La noticia marca una nueva implementación para la plataforma R3's Corda, despu�
 
 El interés de SC en apuntalar sus procesos operacionales usando bloques viene como poca sorpresa mientras tanto, Cointelegraph divulgando sobre cómo perdió $200 millones al fraude en 2014 solamente.
 
-Original source: [Standard Chartered, Siemens Partner on Blockchain Pilot to ‘Fully Digitize’ Bank Guarantees](https://cointelegraph.com/news/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees)
+[Original source](https://cointelegraph.com/news/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

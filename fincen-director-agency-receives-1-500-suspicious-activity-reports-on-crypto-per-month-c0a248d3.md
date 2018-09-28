@@ -1,5 +1,7 @@
 # FinCEN Director: Agencia recibe 1.500 informes de actividad sospechosa en Crypto por mes...
 
+###### 2018-08-11
+
 Kenneth A. blanco, Director de la red de aplicación de delitos financieros de Estados Unidos (FinCEN), ha revelado que la Agencia ha visto un aumento en las solicitudes de informes de actividades sospechosas relacionadas con el Crypto (SARS).
 
 El director delineó el papel actual de FinCEN en la regulación y la aplicación de la ley para el espacio Crypto emergente, que coordina en conjunto con la Comisión de valores y bolsa (SEC) y la Comisión de comercio de futuros de productos básicos de Estados Unidos (CFTC).
@@ -14,6 +16,6 @@ El director dio el ejemplo de acción FinCENs en 2017 contra el ruso Crypto Exch
 
 Según blanco, FinCEN, los examinadores de BSA y el servicio de impuestos internos (IRS) han examinado más del 30 por ciento de todos los intercambiadores criptográficos y administradores registrados desde 2014.
 
-Original source: [FinCEN Director: Agency Receives 1,500 Suspicious Activity Reports on Crypto per Month](https://cointelegraph.com/news/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month)
+[Original source](https://cointelegraph.com/news/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

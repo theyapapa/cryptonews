@@ -1,5 +1,7 @@
 # Los mercados Crypto ven la declinación aguda mientras que la tapa total del mercado cae $12 mil millones en una hora...
 
+###### 2018-09-05
+
 Miércoles, 5 de septiembre: los mercados criptográficos han sufrido un fuerte declive en el plazo de una hora, con una capitalización total del mercado de $12 mil millones y casi todas las primeras 100 monedas por tapa de mercado en rojo, según Coinmarketcap.
 
 La visualización del mercado de Coin360 major cryptocurrency Bitcoin (BTC) ha vuelto a sumergirse hoy por debajo del punto $7.000, según el índice de precios BTC de Cointelegraph.
@@ -14,6 +16,6 @@ Fuente: CoinMarketCap las pérdidas medias de la mayoría de los altcoins superi
 
 Bitcoin Gold (BTG), que será delistado de los principales Crypto Exchange Bittrex a mediados de septiembre, ve pérdidas más pequeñas, abajo 4,6 por ciento y el comercio en $20,60 en el momento de la prensa.
 
-Original source: [Crypto Markets See Sharp Decline as Total Market Cap Drops $12 Billion in One Hour](https://cointelegraph.com/news/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-sharp-decline-as-total-market-cap-drops-12-billion-in-one-hour)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

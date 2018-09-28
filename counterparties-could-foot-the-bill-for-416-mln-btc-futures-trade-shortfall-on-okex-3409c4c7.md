@@ -1,5 +1,7 @@
 # Las contrapartes podrían pagar la cuenta por $416 millones BTC futuros déficit comercial en OKEx...
 
+###### 2018-08-03
+
 Crypto Exchange OKEx ha emitido hoy un comunicado oficial, el 3 de agosto, en respuesta a su liquidación forzada de un colosal comercio de futuros de Bitcoin (BTC) que vale una noción $416 millones que fue iniciado por un comerciante de problemas no identificado a principios de esta semana.
 
 OKEx, actualmente el segundo intercambio más grande del mundo por valor negociado, ha dicho que su sistema de alerta de gestión de riesgos se activó inmediatamente cuando la posición larga fue iniciada por un comerciante anónimo de futuros a las 2 a.m. (hora de Hong Kong) el 31 de julio.
@@ -16,6 +18,6 @@ La declaración oficial de OKEx esboza las medidas que el intercambio está llev
 
 Como se informó en julio, OKEx está colaborando actualmente con la bolsa de valores de Malta para crear una nueva plataforma de comercio de fichas de seguridad de grado institucional.
 
-Original source: [Counterparties Could Foot the Bill For $416 Mln BTC Futures Trade Shortfall on OKEx](https://cointelegraph.com/news/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex)
+[Original source](https://cointelegraph.com/news/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

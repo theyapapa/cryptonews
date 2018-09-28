@@ -1,5 +1,7 @@
 # Exit estafa en el país de las maravillas: los tentáculos de Bitconnect de Texas a Gujarat... # # # # un preludio musical americano Bitconnect, la ahora difunta plataforma de intercambio y préstamo de criptografía que ha sido derrocado como un esquema Ponzi ruinoso, ha memorablemente sido comparado por la plata Miller Law Firm al fugaz 2011 Broadway musical "Wonderland", basado en las vertiginosas imposibilidades de las aventuras de Alice en la célebre novela de Lewis Carroll.
 
+###### 2018-09-22
+
 La primera queja de la acción de la clase de Silver Miller fue presentada en nombre de seis inversionistas defraudados de Bitconnect a finales de enero, sólo semanas después de que el Comisionado de valores de Texas emitió una orden de cese y desistimiento de emergencia contra Bitconnect para la venta de valores sin licencia.
 
 Como se cita en los documentos del Tribunal de plata Miller, Bitconnect se describió como una plataforma "todo en uno" Bitcoin y criptografía, donde: "es totalmente posible encontrar la independencia que todos deseamos, en una comunidad de personas afines, amantes de la libertad que, como tú, están buscando la posibilidad de la estabilidad de los ingresos en un mundo muy inestable.
@@ -12,6 +14,6 @@ El acusado corporativo del caso, Bitconnect, mientras se escondía detrás de un
 
 En su aplicación, shailesh Bhatt había mencionado la transferencia de 200 bitcoins por valor de 12 crore rupias \ [$1.660.000 \] de la cartera digital de su socio de negocios, Kirit Paladiya.
 
-Original source: [Exit Scam in Wonderland: Bitconnect’s Tentacles From Texas to Gujarat](https://cointelegraph.com/news/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat)
+[Original source](https://cointelegraph.com/news/exit-scam-in-wonderland-bitconnects-tentacles-from-texas-to-gujarat)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

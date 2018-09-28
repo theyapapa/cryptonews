@@ -1,5 +1,7 @@
 # El vigilante de Malasia ordena parada inmediata a la belleza gurú Lavidacoin promoción...
 
+###### 2018-09-05
+
 La Comisión de valores (SC) de Malasia ha ordenado un cese inmediato de todas las actividades de promoción para la recientemente lanzada Lavidacoin (LVC) pendiente de revisión posterior, de acuerdo con un aviso del 5 de septiembre en el sitio web del SC.
 
 De acuerdo con el outlet de noticias local de la estrella, Lavidacoin fue creado por el magnate de cosméticos de Malasia y el gurú de la belleza Datuk Seri Hasmiza Othman, alias dato ' vida.
@@ -14,6 +16,6 @@ En una nueva declaración emitida el miércoles, el SC identificó DSV Crypto Cl
 
 Como señala la estrella, las tres entidades fueron listas negras por Bank Negara Malaysia en agosto.
 
-Original source: [Malaysia’s Watchdog Orders Immediate Stop to Beauty Guru Lavidacoin Promotion](https://cointelegraph.com/news/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion)
+[Original source](https://cointelegraph.com/news/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Bounty Hunt salió mal: ' unhackeable ' billetera Bitfi niega que ha sido hackeado...
 
+###### 2018-08-07
+
 En julio, el Presidente Ejecutivo de Bitfi, John McAfee, del fabricante de monederos de hardware de cryptocurrency, afirmó que Bitfi era "el primer dispositivo no hackeable del mundo", instando a los expertos de seguridad a violar su seguridad por una recompensa de $100.000.
 
 En particular, a diferencia de la mayoría de las otras carteras de hardware, Bitfi no pone un énfasis tan fuerte en las claves privadas, según su sitio web: "la billetera de hardware Bitfi soluciona este problema de seguridad de una vez por todas de la manera más elegante posible: las claves privadas son simplemente no almacenados en ningún lugar, nunca.
@@ -14,6 +16,6 @@ Sin embargo, la billetera pronto anunció una segunda cacería de recompensas �
 
 Consecuentemente, en un episodio subsecuente de su "Hacking Bitfi" serie, Pen test Partners publicó un video que supuestamente demuestra que Bitfi dispositivo tiene almacenamiento: en él, el monedero muestra un vídeo subido de John McAfee.
 
-Original source: [Bounty Hunt Gone Wrong: ‘Unhackable’ Wallet Bitfi Denies It Has Been Hacked](https://cointelegraph.com/news/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked)
+[Original source](https://cointelegraph.com/news/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

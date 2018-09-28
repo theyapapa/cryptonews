@@ -14,6 +14,6 @@ Bitmain recaudó entre $300 y $400 millones de la filial Sequoia Capital Sequoia
 
 A finales de junio, Bitmain divulgó sus prácticas de envío de hardware minero y minero con la intención de mostrar el compromiso de la firma de apoyar un "ecosistema cryptocurrency justo y transparente".
 
-Original source: [Bitmain Plans Overseas IPO, Earned $1 Billion in Net Profit in Q1, Sources Report](https://cointelegraph.com/news/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report)
+[Original source](https://cointelegraph.com/news/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

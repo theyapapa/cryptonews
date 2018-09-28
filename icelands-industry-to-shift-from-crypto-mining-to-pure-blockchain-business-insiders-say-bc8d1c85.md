@@ -1,5 +1,7 @@
 # La industria de Islandia va a pasar de la minería de criptografía al "negocio de bloques puro", dicen los Insiders...
 
+###### 2018-09-23
+
 Se espera que la industria de criptografía de Islandia se aleje de la minería de criptografía y cambie a "negocios bloques puros".
 
 Halldór Jörgensson, Presidente del centro de datos Borealis de Reikiavik, dijo a Red Herring que la demanda de las instalaciones locales de criptografía y bloques es "cambiar más hacia el negocio de bloques puro", en lugar de centrarse en la minería de Bitcoin.
@@ -14,6 +16,6 @@ El CEO de HS Orka, Asgeir Margeirsson, afirmó en julio que la industria de la m
 
 A comienzos de esta semana, el grupo de tecnología bloques Bitfury anunció el lanzamiento de su nueva generación de hardware de minería BTC, con planes de utilizar las nuevas máquinas en sus centros mineros en Canadá, Noruega, Islandia y Georgia.
 
-Original source: [Iceland’s Industry to Shift From Crypto Mining to ‘Pure Blockchain Business,’ Insiders Say](https://cointelegraph.com/news/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say)
+[Original source](https://cointelegraph.com/news/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

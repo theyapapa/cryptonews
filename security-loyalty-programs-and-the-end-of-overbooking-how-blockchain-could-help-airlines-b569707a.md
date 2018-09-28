@@ -1,5 +1,7 @@
 # Seguridad, programas de lealtad y el fin de la sobrereserva: Cómo bloques podría ayudar a las líneas aéreas...
 
+###### 2018-08-14
+
 Los principales competidores han reconocido cómo las características de la industria aeronáutica se alinean con bloques, que tiene el potencial de racionalizar el intercambio de datos entre los silos de información en los aeropuertos — y con las empresas de viajes auxiliares de manera más amplia — para crear un Experiencia de viaje perfecta y segura.
 
 Lufthansa Industry Solutions, filial de la aerolínea más grande de Europa, lanzó la iniciativa bloques para la aviación (BC4A) en un esfuerzo por compilar las aplicaciones potenciales de la tecnología y crear estándares industriales para su uso.
@@ -14,6 +16,6 @@ El bloques privado, construido utilizando el protocolo Ethereum, utiliza contrat
 
 Bloques tiene una aplicación en una multitud de nichos de información aeroportuaria, pero es necesario un mayor desarrollo por los líderes de la industria para crear usos viables y rentables de la tecnología.
 
-Original source: [Security, Loyalty Programs and the End of Overbooking: How Blockchain Could Help Airlines](https://cointelegraph.com/news/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines)
+[Original source](https://cointelegraph.com/news/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

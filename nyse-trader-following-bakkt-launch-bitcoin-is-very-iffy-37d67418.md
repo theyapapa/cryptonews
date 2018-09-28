@@ -1,5 +1,7 @@
 # NYSE Trader following Bakkt Launch: ' Bitcoin es muy dudoso '...
 
+###### 2018-08-03
+
 Un comerciante de Nueva York Stock Exchange (NYSE) le dijo a Yahoo Finance en una entrevista el 3 de agosto, que por el momento Bitcoin (BTC) es "muy dudoso" tras el lanzamiento de un nuevo BTC regulado Exchange Bakkt por el Intercontinental Exhange (ICE), la empresa matriz de NYSE.
 
 Alan Valdes, socio principal de la firma asesora internacional SilverBear capital y NYSE Trader, planteó preocupaciones acerca de BTC, cuando se le preguntó si el lanzamiento de Bakkt puede ser un signo de que Wall Street es serio acerca de Crypto.
@@ -14,6 +16,6 @@ El sentimiento de los inversores de Wall Street con respecto a los activos digit
 
 El mes pasado, el proveedor de fondos de bolsa (ETF) más grande del mundo, Blackrock, anunció la formación de un grupo de trabajo para evaluar la participación potencial en BTC.
 
-Original source: [NYSE Trader Following Bakkt Launch: ‘Bitcoin Is Very Iffy’](https://cointelegraph.com/news/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy)
+[Original source](https://cointelegraph.com/news/nyse-trader-following-bakkt-launch-bitcoin-is-very-iffy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

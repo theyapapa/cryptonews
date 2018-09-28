@@ -1,5 +1,7 @@
 # PwC: la incertidumbre regulatoria y la falta de confianza del usuario inhiben la adopción bloques...
 
+###### 2018-08-27
+
 La incertidumbre y la confianza regulatorias son barreras importantes para la adopción de bloques entre las empresas, según un estudio publicado el 27 de agosto por la firma de auditoría de ' cuatro grandes ' PricewaterhouseCoopers (PwC).
 
 conducida por PwC examinó a 600 ejecutivos en 15 países sobre su desarrollo de bloques y opiniones sobre su potencial.
@@ -16,6 +18,6 @@ el 46 por ciento de los encuestados identificó al sector financiero como el lí
 
 Los Estados Unidos y China fueron identificados por los encuestados como mercados principales para el desarrollo de bloques, sondeando al 29 por ciento y 18 por ciento respectivamente.
 
-Original source: [PwC: Regulatory Uncertainty and Lack of User Trust Inhibit Blockchain Adoption](https://cointelegraph.com/news/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption)
+[Original source](https://cointelegraph.com/news/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Los mercados criptográficos ven pocas ganancias ya que la mayoría de las principales monedas se están desplomando...
 
+###### 2018-08-26
+
 La visualización de mercado de Coin360 Bitcoin (BTC) es una de las afortunadas, hasta menos de un uno por ciento en el día, comerciando a las $6.740 a partir del tiempo de la prensa.
 
 Fuente: Cointelegraph Bitcoin price index después de agitar a alrededor de $282 de ayer, Ethereum (ETH) es ahora un 2 por ciento hasta el comercio en $272 a partir de la hora de la prensa.
@@ -14,6 +16,6 @@ Fuente: Coinmarketcap Iota es el único cryptocurrency fuera de los diez primero
 
 Ayer, el jefe de investigación de Fundstrat, Tom Lee, dijo en una entrevista con CNBC que el cryptocurrency "podría terminar el año explosivamente más alto", citando una correlación entre él y los mercados emergentes, y afirmando que aún cree que Bitcoin podría golpear $25.000 a finales de 2018.
 
-Original source: [Crypto Markets See Few Gains as Most of Top Coins Are Slumping](https://cointelegraph.com/news/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

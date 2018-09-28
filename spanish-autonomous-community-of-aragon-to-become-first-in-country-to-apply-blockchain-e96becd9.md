@@ -1,5 +1,7 @@
 # Comunidad Autónoma de Aragón para ser el primero en el país en aplicar bloques...
 
+###### 2018-09-17
+
 La Comunidad Autónoma de Aragón en el noreste de España será la primera en el país en aplicar la tecnología bloques en su administración pública, la Agencia de noticias local Europa Press Reports el lunes 17 de septiembre.
 
 Fernando Gimeno, consejero de finanzas y administración pública del gobierno aragonés, ha firmado un contrato con Alastria — un ecosistema bloques de más de 274 entidades, incluyendo empresas e instituciones que crean herramientas basadas en bloques en línea con los marcos jurídicos españoles y de la u.e..
@@ -14,6 +16,6 @@ A medida que las tecnologías basadas en bloques se integran en la administraci�
 
 Más tarde, en junio, la coalición política española de izquierdas Unidos podemos sugirió que el gobierno español estableciera un Subcomité encargado de estudiar el potencial de la tecnología bloques y la regulación cryptocurrency.
 
-Original source: [Spanish Autonomous Community of Aragon to Become First in Country to Apply Blockchain](https://cointelegraph.com/news/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain)
+[Original source](https://cointelegraph.com/news/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

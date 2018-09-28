@@ -1,5 +1,7 @@
 # Osos para Crypto, toros para icos: 2018 estadísticas positivas de mercado...
 
+###### 2018-08-12
+
 Con la primera mitad de 2018 ahora pasado, es conmovedor mirar hacia atrás en los últimos siete meses de datos sobre el mercado inicial de la oferta de monedas (ICO) — una faceta importante del ecosistema cryptocurrency.
 
 Cuando en diciembre se alcanzó el lanzamiento de la fiebre al final del año — con sugerencias de que el G20 discutirá la regulación de cryptocurrency — junto con la carrera de Bitcoin a $20.000, el ICO capital Raised alcanzó un nuevo récord.
@@ -14,6 +16,6 @@ Por ejemplo, en enero, las plataformas representaban un cuarto de todos los proy
 
 # # el dinero es clave mientras que hay un montón de estadísticas y cifras diferentes que pueden contar una historia sobre el ecosistema ICO, el más grande y más importante es la cantidad de capital que se está planteando, así como el número de proyectos que salen mensualmente.
 
-Original source: [Bears for Crypto, Bulls for ICOs: 2018 Market Positive Statistics](https://cointelegraph.com/news/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics)
+[Original source](https://cointelegraph.com/news/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

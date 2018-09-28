@@ -1,5 +1,7 @@
 # Reserva Bank of India confirma que está buscando hacer un banco central moneda digital...
 
+###### 2018-08-30
+
 El Banco Central de la India, el Banco de la reserva de la India (RBI), ha confirmado la creación de un grupo interdepartamental encargado de analizar la viabilidad de emitir una moneda digital de banco central respaldada por rupias (CBDC), el Times de economía informa el 30 de agosto.
 
 El establecimiento y el enfoque del grupo se detallaron en el informe anual 2017-18 del Banco, en el que se confirmaron detalles anteriores que siguieron a una reunión del Comité de política monetaria de la India (MPC) en abril.
@@ -14,6 +16,6 @@ Llamando a la coordinación con los reguladores globales para hacer frente a los
 
 Posibilidades de migración de casas de intercambio de criptografía a piscinas oscuras/efectivo y a ubicaciones offshore \ [elevar \] preocupaciones en contra del blanqueo de dinero (AML)/Combating la financiación del terrorismo (CFT) y las cuestiones tributarias.
 
-Original source: [Reserve Bank of India Confirms It Is Looking Into Making a Central Bank Digital Currency](https://cointelegraph.com/news/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency)
+[Original source](https://cointelegraph.com/news/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

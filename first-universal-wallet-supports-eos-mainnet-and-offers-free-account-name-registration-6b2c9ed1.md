@@ -28,6 +28,6 @@ De acuerdo con la compañía, Infinito Wallet ha sido descargado por más de 200
 
 Descargo de responsabilidad. Cointelegraph no aprueba ningún contenido o producto en esta página. Si bien procuramos proporcionarle toda la información importante que pudiéramos obtener, los lectores deben realizar su propia investigación antes de tomar cualquier acción relacionada con la empresa y asumir la plena responsabilidad de sus decisiones, y este artículo puede ser considerado como un consejo de inversión.
 
-Original source: [‘First Universal Wallet’ Supports EOS Mainnet and Offers Free Account Name Registration](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
+[Original source](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

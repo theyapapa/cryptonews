@@ -1,5 +1,7 @@
 # El Ministerio surcoreano cae Cryptocurrency intercambios de la clasificación de empresas de riesgo...
 
+###### 2018-08-14
+
 El gobierno de Corea del Sur anunció que había excluido los intercambios cryptocurrency de la legislación que rige las empresas de riesgo en un comunicado de prensa emitido el lunes 13 de agosto.
 
 El breve documento del Ministerio de pequeñas y medianas empresas (PYMES) y startups (MSS) explicó que, contrariamente a las decisiones anteriores, ahora colocarían intercambios junto a bares y discotecas como empresas que "no fomentarían como empresa de riesgo ".
@@ -14,6 +16,6 @@ Ahora, los intercambios de criptografía del país enfrentan estrictas obligacio
 
 Al mismo tiempo, la tecnología bloques se ha convertido en un enfoque a largo plazo para la inversión, el gobierno esta semana revelando la zona se formaría uno de los ocho que se había esmarcado para el gasto presupuestario importante en 2019 de 5 billones Won (alrededor de $4,4 mil millones).
 
-Original source: [South Korean Ministry Drops Cryptocurrency Exchanges From Venture Enterprise Classification](https://cointelegraph.com/news/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification)
+[Original source](https://cointelegraph.com/news/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # UK Gov't se enfrenta a las preguntas sobre el impacto del mercado de los osos Crypto en el Reino Unido bloques industria...
 
+###### 2018-09-18
+
 El gobierno del Reino Unido se ha enfrentado a preguntas sobre si está monitoreando activamente el impacto de la recesión del mercado criptográfico mundial en la industria bloques nacional, los informes sobre los feeds financieros del 18 de septiembre.
 
 Según informes, Lord Taylor de Warwick ha preguntado al Gobierno de su majestad Qué evaluación han hecho de los reportes de que el valor de cryptocurrencies en los Estados Unidos está cayendo, y de los efectos potenciales que tal declive podría tener en el Reino Unido bloques industria ".
@@ -14,6 +16,6 @@ A principios de este verano, la FCA emitió orientación para los bancos sobre c
 
 El U. K, como notas de los feeds financieros, no regula ampliamente el CRYPTO, a excepción de ciertos derivados tales como el contrato basado en criptografía para las diferencias (CFDs).
 
-Original source: [UK Gov’t Faces Questions Over Impact of Crypto Bear Market on UK Blockchain Industry](https://cointelegraph.com/news/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry)
+[Original source](https://cointelegraph.com/news/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

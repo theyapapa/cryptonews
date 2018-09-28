@@ -1,5 +1,7 @@
 # Bloques startup firma MOU con el Banco Central de Curazao y Sint Maarten...
 
+###### 2018-08-14
+
 FinTech startup mordida Inc., con sede en Barbados, firmó un memorando de entendimiento (MOU) con el Banco Central de Curazao y Sint Maarten (CBCS) para investigar la posibilidad de emitir un gremio digital, según un comunicado de prensa del 12 de agosto.
 
 Las partes firmaron el MOU con el fin de desarrollar una moneda digital del Banco Central para facilitar los pagos financieros dentro de la Unión monetaria de Curazao y Sint Maarten.
@@ -14,6 +16,6 @@ Mientras que el Banco de las regiones del Caribe holandés demuestra apertura a 
 
 Recientemente, Irán anunció su compromiso de crear su propio cryptocurrency emitido por el estado con el objetivo de eludir las sanciones estadounidenses, a pesar del hecho de que antes el Banco Central prohibió a los bancos nacionales y otros establecimientos financieros lidiar con la criptografía, citando preocupaciones de blanqueo de dinero.
 
-Original source: [Blockchain Startup Signs MOU With Central Bank of Curaçao and Sint Maarten](https://cointelegraph.com/news/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten)
+[Original source](https://cointelegraph.com/news/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

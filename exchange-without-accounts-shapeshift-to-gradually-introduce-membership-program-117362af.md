@@ -1,5 +1,7 @@
 # ' Exchange without accounts ' cambio para introducir gradualmente el programa de membresía...
 
+###### 2018-09-04
+
 Cryptocurrency Exchange cambio ha presentado un nuevo programa de recompensas, que eventualmente se convertirá en un modelo de membresía obligatorio para los usuarios de Exchange, según un anuncio publicado el 4 de septiembre.
 
 Erik Voorhees, fundador y CEO de cambio, declaró que hoy el intercambio lanzó un programa de lealtad titulado cambio membresía.
@@ -14,6 +16,6 @@ En la declaración reciente, cambio afirmó que "Si bien el formato basado en la
 
 En enero, cambio integró el procesador de pagos de BitPay con el fin de proporcionar Bitcoin (BTC) a las operaciones de Bitcoin Cash (BCH), lo que también permite a los clientes realizar intercambios entre los dos cryptocurrencies en las carteras de BitPay y copago.
 
-Original source: [‘Exchange Without Accounts’ ShapeShift to Gradually Introduce Membership Program](https://cointelegraph.com/news/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program)
+[Original source](https://cointelegraph.com/news/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

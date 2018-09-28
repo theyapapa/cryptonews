@@ -1,5 +1,7 @@
 # Capital uno solicita patente de sistema de autenticación colaborativa basada en bloques...
 
+###### 2018-08-17
+
 American Bank Holding Corporation Capital One ha presentado una solicitud de patente para la implementación de la tecnología de bloques en la autenticación de usuarios, de acuerdo con una presentación publicada por la oficina de patentes y marcas de los Estados Unidos (USPTO) el 16 de agosto.
 
 El sistema propuesto está diseñado para recibir, almacenar, registrar y recuperar información de autenticación para un usuario en múltiples plataformas miembro basadas en bloques.
@@ -14,6 +16,6 @@ Por el documento, el sistema propuesto sería non-repudiable para evitar que los
 
 Además, el sistema limitará el intercambio de información personal entre usuarios e instituciones.
 
-Original source: [Capital One Applies for Blockchain-Based Collaborative Authentication System Patent](https://cointelegraph.com/news/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent)
+[Original source](https://cointelegraph.com/news/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

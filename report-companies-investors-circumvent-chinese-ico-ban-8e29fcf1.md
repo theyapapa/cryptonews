@@ -1,5 +1,7 @@
 # Report: empresas, inversionistas burlan la prohibición del ICO chino...
 
+###### 2018-09-26
+
 Una investigación de la Agencia de noticias Xinhua ha demostrado que es posible eludir la prohibición inicial de la oferta de monedas (ICO) de China, según un artículo publicado el 26 de septiembre.
 
 La investigación ha demostrado que a pesar de los esfuerzos del gobierno por reprimir el "financiamiento ilegal del ICO", los inversionistas pueden eludir la ley utilizando una compañía de "conchas extranjeras", entre otras posibilidades.

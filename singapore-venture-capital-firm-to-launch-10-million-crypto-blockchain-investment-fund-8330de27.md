@@ -1,5 +1,7 @@
 # Singapur: empresa de capital riesgo lanzará $10 millones Crypto, Fondo de inversión bloques...
 
+###### 2018-08-10
+
 La firma de capital de riesgo con sede en Singapur, Golden Gate Ventures, lanzará un fondo $10 millones para inversiones en empresas bloques y cryptocurrency, informó Reuters 10 de agosto.
 
 Golden Gate Ventures (GGV), una de las firmas líderes de capital de riesgo en el sudeste asiático, invertirá en empresas de primera etapa, incluyendo intercambios de cryptocurrency, proveedores de seguridad y startups de bloques Tech a través del fondo LuneX Ventures.
@@ -14,6 +16,6 @@ En junio, Union Square Ventures (USV), de Private Equity y venture capital, info
 
 A principios de esta semana, el gigantesco banco comercial estatal de China había anunciado sus planes para aumentar sus inversiones en la investigación y desarrollo de bloques y FinTech, utilizando alrededor del uno por ciento de los ingresos anuales operacionales del Banco.
 
-Original source: [Singapore: Venture Capital Firm to Launch $10 Million Crypto, Blockchain Investment Fund](https://cointelegraph.com/news/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund)
+[Original source](https://cointelegraph.com/news/singapore-venture-capital-firm-to-launch-10-million-crypto-blockchain-investment-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

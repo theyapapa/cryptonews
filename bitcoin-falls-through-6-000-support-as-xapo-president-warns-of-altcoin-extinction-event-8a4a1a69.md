@@ -1,5 +1,7 @@
 # Bitcoin cae a través de $6.000 apoyo como Xapo Presidente advierte de Altcoin ' evento de extinción '...
 
+###### 2018-08-14
+
 Los precios de Bitcoin (BTC) cayeron por debajo de $6.000 por primera vez desde finales del martes 14 de agosto, ya que la comunidad cryptocurrency sigue siendo resistente.
 
 Los datos de Cointelegraph Price Tracker y Coin360 representan un ambiente sombrío para los traders el martes, con todos los activos principales en el rojo como Bitcoin cae casi un 5 por ciento en 24 horas.
@@ -14,6 +16,6 @@ Como el dominio de Bitcoin – o el porcentaje de la PAC total del mercado cript
 
 Mayor dominio del mercado bitcoin, afirman, es apto para producir un giro en U en altcoins ' bajista.
 
-Original source: [Bitcoin Falls Through $6,000 Support as Xapo President Warns of Altcoin ‘Extinction Event’](https://cointelegraph.com/news/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event)
+[Original source](https://cointelegraph.com/news/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

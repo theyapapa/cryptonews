@@ -1,5 +1,7 @@
 # Bloques en los medios: ¿Cómo puede bloques luchar contra la piratería? ...
 
+###### 2018-08-08
+
 Dado que esta cifra no tiene en cuenta los ingresos que se perderían a la piratería del deporte, los juegos, la televisión de pago y otras formas de contenido mediático, el sentido es que el costo de la piratería para la industria mediática es mucho mayor que $52 mil millones.
 
 Una vez más, nada de lo anterior es concluyente y completo, lo que significa que no hay garantía de que un proyecto bloques construido en respuesta a cualquiera de las razones anteriores por las que la gente pueda compartir ilegalmente contenido de medios detendrá la piratería de ese tipo particular de contenido.
@@ -14,6 +16,6 @@ Lo que es más es que el número de serie único sirve para identificar el desti
 
 Rawg, una plataforma de descubrimiento de juegos entre dispositivos, busca ayudar a la industria del juego a reducir la piratería construyendo un sistema bloques que premia a los jugadores con fichas para los logros del juego.
 
-Original source: [Blockchain in Media: How Can Blockchain Fight Piracy?](https://cointelegraph.com/news/blockchain-in-media-how-can-blockchain-fight-piracy)
+[Original source](https://cointelegraph.com/news/blockchain-in-media-how-can-blockchain-fight-piracy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # El regulador japonés concede a SBI Ripple Asia una licencia de pagos para la aplicación basada en bloques...
 
+###### 2018-09-26
+
 La empresa de servicios financieros SBI Holdings anunció que había asegurado una licencia de los reguladores japoneses por su operación conjunta de transferencia de dinero con Ripple en una declaración el miércoles, 26 de septiembre.
 
 SBI Ripple Asia, una empresa en desarrollo con Ripple desde 2017, ahora tiene permiso para manejar pagos electrónicos como un "proveedor de servicios de agencia de liquidación electrónica" en virtud de la legislación desplegada en marzo de ese año.

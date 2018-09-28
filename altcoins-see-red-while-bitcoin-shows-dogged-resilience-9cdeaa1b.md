@@ -1,5 +1,7 @@
 # Altcoins ver rojo, mientras que Bitcoin muestra resistencia obstinada...
 
+###### 2018-08-21
+
 Los mercados de criptografía son un poco bajistas hoy, 21 de agosto, con prácticamente todas las veinte primeras monedas por tapa del mercado ver las pérdidas de 3-6 por ciento en promedio, como muestra datos Coin360.
 
 La visualización de mercado de Coin360 Bitcoin (BTC) no está viendo prácticamente ningún cambio en las últimas 24 horas a la hora de la prensa, comerciando alrededor de $6.400, según el índice de precios Bitcoin de Cointelegraph.
@@ -14,6 +16,6 @@ Estelar (XLM), actualmente negociando en $0,22, está yendo considerablemente me
 
 Fuente: CoinMarketCap la capitalización total del mercado de todos los cryptocurrencies es de alrededor de $209,8 mil millones en el momento de la prensa, un poco más arriba de una baja intradía en $205,7 mil millones y cómodamente por encima de su apretón a $191 mil millones hace una semana: 7-Day gráfico del mercado total capitalización de todos los cryptocurrencies de CoinMarketCap mientras el mercado sigue mostrando tensión, las discusiones están en marcha esta semana en Corea del sur para potencialmente revertir la prohibición del país a las ofrendas iniciales de monedas (icos).
 
-Original source: [Altcoins See Red, While Bitcoin Shows Dogged Resilience](https://cointelegraph.com/news/altcoins-see-red-while-bitcoin-shows-dogged-resilience)
+[Original source](https://cointelegraph.com/news/altcoins-see-red-while-bitcoin-shows-dogged-resilience)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

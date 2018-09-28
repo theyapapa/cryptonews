@@ -1,5 +1,7 @@
 # Deloitte 2018 Survey: bloques "acercándose al momento de Breakout cada día"...
 
+###### 2018-08-28
+
 eL Auditor de la encuesta bloques 2018 de la empresa "cuatro grandes", publicado el 27 de agosto, revela que la tecnología está ganando significativamente – si es desigual – en la tracción a nivel ejecutivo de empresas en diversas industrias.
 
 74 por ciento de todos los encuestados a la encuesta dijeron que su equipo ejecutivo cree que hay un "caso convincente de negocios" para el uso de la tecnología bloques, con un 34 por ciento diciendo que alguna forma de despliegue de bloques ya estaba en proceso dentro de su organización .
@@ -14,6 +16,6 @@ Si bien la encuesta encontró que esta visión residual de la "plataforma" de la
 
 A comienzos de esta primavera, otro informe de Deloitte en bloques se centró en la industria de productos empaquetados al por menor y al consumidor (CPG), concluyendo de manera similar que aquellas empresas que no consideran al menos las posibilidades de la tecnología están "en riesgo de caer detrás.
 
-Original source: [Deloitte 2018 Survey: Blockchain "Getting Closer to Breakout Moment Every Day"](https://cointelegraph.com/news/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day)
+[Original source](https://cointelegraph.com/news/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Banco Central Europeo: "no hay planes" para la moneda digital, la demanda de efectivo crece...
 
+###### 2018-09-14
+
 El Banco Central Europeo (BCE) no tiene "planes" para emitir su propia moneda digital, dijo el Presidente Mario Draghi al Parlamento Europeo el miércoles, 12 de septiembre.
 
 Al abordar una consulta del eurodiputado Jonás Fernández, Draghi dijo que "el desarrollo sustancial" todavía era necesario en la tecnología subyacente detrás de cryptocurrencies antes de que el Banco Central considerara usarlas.
@@ -14,6 +16,6 @@ Agregó que en la actualidad "no hay necesidad concreta" de emitir una moneda ad
 
 A comienzos de este año, un informe conjunto del BCE y del Banco para los asentamientos internacionales (bis) puso de relieve los "efectos secundarios" de un posible lanzamiento de dicha moneda, también considerando la necesidad de una mayor investigación de antemano.
 
-Original source: [European Central Bank: ‘No Plans’ for Digital Currency, Cash Demand Growing](https://cointelegraph.com/news/european-central-bank-no-plans-for-digital-currency-cash-demand-growing)
+[Original source](https://cointelegraph.com/news/european-central-bank-no-plans-for-digital-currency-cash-demand-growing)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

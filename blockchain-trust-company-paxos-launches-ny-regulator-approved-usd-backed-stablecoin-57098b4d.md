@@ -1,5 +1,7 @@
 # Bloques Trust Company Paxos lanza NY regulador-aprobado, USD-backed Stablecoin...
 
+###### 2018-09-10
+
 La compañía bloques Trust Paxos ha lanzado un stablecoin respaldado por un dólar estadounidense tras la aprobación de los reguladores de Nueva York, según un comunicado de prensa publicado el 10 de septiembre.
 
 Respaldado 1:1 por el dólar, el stablecoin basado en bloques de Ethereum, apodado ' Paxos Standard, ' ha sido aprobado por el Departamento de servicios financieros del estado de Nueva York (NYDFS), que ejercerá supervisión regulatoria sobre la emisión y el comercio de los activos.
@@ -14,6 +16,6 @@ Según el comunicado de prensa, los inversionistas que utilicen el itBit Exchang
 
 Hoy también se ha visto el lanzamiento de la Winklevoss de los gemelos de Nueva York, aprobada por el regulador de stablecoin, respaldada por un dólar estadounidense, apodado Gemini Dollar.
 
-Original source: [Blockchain Trust Company Paxos Launches NY Regulator-Approved, USD-Backed Stablecoin](https://cointelegraph.com/news/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin)
+[Original source](https://cointelegraph.com/news/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

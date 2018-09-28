@@ -1,5 +1,7 @@
 # Alibaba, IBM alineó la tapa global para el número de patente de bloques archivado...
 
+###### 2018-09-03
+
 Los gigantes de la tecnología alibaba e IBM están compitiendo para el punto superior en una nueva lista que alinea las entidades globales por el número de las patentes bloques-relacionadas archivadas hasta la fecha, publicadas 31 de agosto por iPR Daily.
 
 iPR Daily — un medio especializado en propiedad intelectual — dice que los datos consolidados a partir del 10 de agosto en toda China, la UE, América, Japón y Corea del sur, así como la consulta del sistema internacional de patentes de la propiedad intelectual mundial Organización (OMPI).
@@ -14,6 +16,6 @@ El abrazo de China de la tecnología está contrarrestado por una postura cada v
 
 IBM por su parte ha ido ampliando su participación en bloques a través de diversos campos, recientemente firmando un acuerdo de cinco años $740 millones con el gobierno australiano para utilizar bloques y otras nuevas tecnologías para mejorar la seguridad y automatización de los datos a través de los departamentos federales, incluyendo defensa y asuntos de interior.
 
-Original source: [Alibaba, IBM Ranked Top Globally for Number of Blockchain Patent Filed](https://cointelegraph.com/news/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed)
+[Original source](https://cointelegraph.com/news/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

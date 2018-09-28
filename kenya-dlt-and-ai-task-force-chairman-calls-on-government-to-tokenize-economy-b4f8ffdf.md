@@ -1,5 +1,7 @@
 # Kenya: el Presidente del grupo de trabajo DLT y AI pide al Gobierno que demostre la economía...
 
+###### 2018-09-25
+
 El Presidente de los libros de contabilidad distribuidos en Kenia y el grupo de trabajo de inteligencia artificial Bitange Ndemo ha dicho que el gobierno debe simbólicar la economía, el noticiero local que la estrella informó el 25 de septiembre.
 
 El grupo de tareas fue creado en marzo por el gobierno de la República de Kenya a fin de evaluar las propuestas sobre cómo implementar la tecnología bloques en el sector público.
@@ -14,6 +16,6 @@ Además, Ndemo declaró que la adopción de fichas podría reducir los niveles d
 
 El proyecto busca estimular el comercio local y regional y la actividad de peer-to-peer al permitir a las comunidades de Kenia crear y administrar sus propios tokens digitales.
 
-Original source: [Kenya: DLT and AI Task Force Chairman Calls on Government to Tokenize Economy](https://cointelegraph.com/news/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy)
+[Original source](https://cointelegraph.com/news/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

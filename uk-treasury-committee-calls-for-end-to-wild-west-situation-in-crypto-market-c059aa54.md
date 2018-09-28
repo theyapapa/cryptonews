@@ -1,5 +1,7 @@
 # El Comité del tesoro del Reino Unido pide el fin de la ' situación del oeste salvaje ' en el mercado crypto...
 
+###### 2018-09-18
+
 El Comité del tesoro del Reino Unido pide regulaciones cryptocurrency para proteger a los inversionistas, informó la BBC el 18 de septiembre.
 
 Según los informes, el Comité de parlamentarios de la cámara de los comunes ha pedido que se solucionen ciertas cuestiones que rodean a la moneda digital, como la lista de la volatilidad de los precios, la escasa protección del consumidor, el riesgo de ataques de hackers y el blanqueo de dinero.
@@ -14,6 +16,6 @@ CryptoUK, una asociación comercial de autorregulación para la industria crypto
 
 En mayo, CryptoUK se dirigió al Comité del tesoro para abogar por regulaciones favorables, citando su intención de examinar el papel de las monedas digitales en el Reino Unido, incluyendo los riesgos relacionados con su uso por parte de los consumidores, las empresas y el gobierno.
 
-Original source: [UK Treasury Committee Calls for End to ‘Wild West Situation’ in Crypto Market](https://cointelegraph.com/news/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market)
+[Original source](https://cointelegraph.com/news/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

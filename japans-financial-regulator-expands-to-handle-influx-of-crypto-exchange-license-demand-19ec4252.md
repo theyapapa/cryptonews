@@ -1,5 +1,7 @@
 # El regulador financiero de Japón se expande para manejar la influjo de la demanda de la licencia de intercambio crypto...
 
+###### 2018-09-13
+
 La Agencia de servicios financieros de Japón (FSA) planea reforzar su fuerza de trabajo por 12 personas para manejar mejor la creciente afluencia de solicitudes de licencias de intercambio de criptografía, informó Reuters Japan el 12 de septiembre.
 
 En una reunión del grupo de estudio de Crypto Exchange el miércoles, el Vice Comisionado de la FSA para la coordinación de políticas, kiyotaka Sasaki, dijo que la agencia está llevando a cabo actualmente su supervisión de los intercambios de criptografía con un equipo de alrededor de 30 personas, cuyo trabajo incluye la revisión de solicitudes de licencia.
@@ -14,6 +16,6 @@ Como se informó anteriormente, la FSA publicó los resultados de sus inspeccion
 
 Mientras tanto, como reitera el documento de hoy, la mayoría de los trabajadores del sistema de intercambios son menos de 20 personas, lo que significa que se descubrió que un empleado en promedio administraba activos digitales por valor de 3,3 mil millones yenes ($29,6 millones).
 
-Original source: [Japan’s Financial Regulator Expands to Handle Influx of Crypto Exchange License Demand](https://cointelegraph.com/news/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand)
+[Original source](https://cointelegraph.com/news/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

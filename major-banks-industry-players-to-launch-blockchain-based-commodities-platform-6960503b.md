@@ -1,5 +1,7 @@
 # Los principales bancos, los jugadores de la industria para lanzar la plataforma de productos basados en bloques...
 
+###### 2018-09-19
+
 Un grupo de grandes bancos globales, firmas comerciales y una empresa líder en energía han lanzado una empresa conjunta que supervisará una nueva plataforma basada en bloques para financiar el comercio de productos básicos, informa Reuters 19 de septiembre.
 
 La empresa con sede en Suiza, denominada komgo SA, ha sido establecida por una serie de instituciones internacionales de financiamiento, comercio y producción que incluyen ABN AMRO, BNP Paribas, Citi, Crédit Agricole Group, Gunvor, Ing, Koch Supply & Trading, Macquarie, Mercuria, MUFG Bank, Natixis, Rabobank, Shell, SGS, y Societe Generale.
@@ -14,6 +16,6 @@ Vakt, una plataforma de comercio de petróleo bloques-Powered que comparte mucho
 
 En abril, una subsidiaria de una de las cuatro compañías petroleras más importantes del estado de China completó con éxito un cargamento de gasolina de China a Singapur que usó bloques Tech end-to-end a través de "todos los participantes clave en el proceso de comercio de productos básicos".
 
-Original source: [Major Banks, Industry Players to Launch Blockchain-Based Commodities Platform](https://cointelegraph.com/news/major-banks-industry-players-to-launch-blockchain-based-commodities-platform)
+[Original source](https://cointelegraph.com/news/major-banks-industry-players-to-launch-blockchain-based-commodities-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

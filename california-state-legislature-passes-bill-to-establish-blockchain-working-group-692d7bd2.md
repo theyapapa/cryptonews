@@ -1,5 +1,7 @@
 # La legislatura estatal de California aprueba proyecto de ley para establecer el grupo de trabajo bloques...
 
+###### 2018-08-29
+
 El AB 2658 de California, un proyecto de ley que pide el establecimiento de un grupo de trabajo sobre tecnología bloques, ha pasado ambas cámaras de la legislatura estatal y ahora se dirigirá al gobernador para su aprobación, de acuerdo con los documentos públicos.
 
 El proyecto de ley definiría bloques como "un libro de contabilidad o base de datos matemáticamente asegurado, cronológico y descentralizado", y requiere que el Secretario de la Agencia de operaciones del gobierno forme un grupo de trabajo de bloques en o antes del 1 de julio de 2019.
@@ -14,6 +16,6 @@ En junio, el gobernador de Connecticut, Dannel Malloy, firmó la ley SB 443, que
 
 En mayo, la legislatura del estado de Nueva York progresó un proyecto de ley similar para crear un grupo de trabajo bloques.
 
-Original source: [California State Legislature Passes Bill to Establish Blockchain Working Group](https://cointelegraph.com/news/california-state-legislature-passes-bill-to-establish-blockchain-working-group)
+[Original source](https://cointelegraph.com/news/california-state-legislature-passes-bill-to-establish-blockchain-working-group)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Lloyd de Londres para asegurar la plataforma de custodia para la moneda digital...
 
+###### 2018-08-28
+
 El líder del mercado de seguros de Reino Unido, Lloyd de Londres, asegurará una plataforma de custodia de criptografía por la firma de custodia del Reino de Estados Unidos, según un comunicado de prensa publicado el 28 de agosto.
 
 El fideicomiso del Reino, que atiende a más de 100.000 clientes y tiene $12 mil millones en activos bajo custodia, es el supuestamente la "primera" institución financiera regulada para ofrecer la custodia calificada para inversiones en activos digitales.
@@ -14,6 +16,6 @@ En una entrevista con Reuters, Jennings se negó a revelar la identidad del aseg
 
 Sin embargo, señaló que la confianza del Reino "recibió un ' descuento drástico ' debido a su tecnología, un tipo de ' almacenamiento en frío ', en el que las monedas digitales se almacenan offline."
 
-Original source: [Lloyd’s Of London to Insure Custody Platform for Digital Currency](https://cointelegraph.com/news/lloyds-of-london-to-insure-custody-platform-for-digital-currency)
+[Original source](https://cointelegraph.com/news/lloyds-of-london-to-insure-custody-platform-for-digital-currency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

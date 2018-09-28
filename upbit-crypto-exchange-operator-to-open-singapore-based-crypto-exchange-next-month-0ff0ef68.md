@@ -1,5 +1,7 @@
 # Upbit operador de intercambio criptográfico para abrir la bolsa de criptografía con sede en Singapur el próximo mes...
 
+###### 2018-09-19
+
 Kakao-afiliado Dunamu, el operador de los principales de Corea del sur Crypto Exchange Upbit, planea abrir un intercambio con sede en Singapur el próximo mes, noticias locales Yonhap News Reports 19 de septiembre.
 
 Según Yonhap, Dunamu ya estableció una sucursal en Singapur este mes de febrero como parte de su impulso activo para expandirse a través del mercado asiático.
@@ -14,6 +16,6 @@ A partir del tiempo de la prensa, el intercambio se alinea el décimo más grand
 
 Según lo divulgado previamente, el informe semestral reciente de Kakao ha demostrado que Upbit desafió los mercados Crypto globales bajistas para fijar un beneficio $100 millones en el tercer trimestre de 2018.
 
-Original source: [Upbit Crypto Exchange Operator to Open Singapore-Based Crypto Exchange Next Month](https://cointelegraph.com/news/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month)
+[Original source](https://cointelegraph.com/news/upbit-crypto-exchange-operator-to-open-singapore-based-crypto-exchange-next-month)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

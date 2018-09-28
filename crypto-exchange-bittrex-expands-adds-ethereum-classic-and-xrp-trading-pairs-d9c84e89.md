@@ -1,5 +1,7 @@
 # Crypto Exchange Bittrex expande agrega Ethereum clásico y XRP Trading Pairs...
 
+###### 2018-08-08
+
 El servicio de Cryptocurrency Exchange y Wallet Bittrex ha anunciado planes para lanzar pares comerciales de dólares estadounidenses (USD) para dos nuevos cryptocurrencies, según un anuncio oficial publicado el 8 de agosto.
 
 Por el anuncio, Bittrex está buscando expandir sus mercados Fiat a Ethereum Classic (etc) y Ripple (XRP) el 20 de agosto.
@@ -14,6 +16,6 @@ Bittrex dijo: "además de una aceptación más amplia, expandir los mercados de 
 
 En febrero de este año, Shihara anunció la intención de la bolsa de abrir el comercio de USD a la mayoría de sus clientes.
 
-Original source: [Crypto Exchange Bittrex Expands Adds Ethereum Classic and XRP Trading Pairs](https://cointelegraph.com/news/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs)
+[Original source](https://cointelegraph.com/news/crypto-exchange-bittrex-expands-adds-ethereum-classic-and-xrp-trading-pairs)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Turkish Exchange desarrolla base de datos de clientes basados en bloques...
 
+###### 2018-09-06
+
 La bolsa de valores de Turquía Borsa Istanbul (usted) ha desarrollado una base de datos de clientes bloques, Daily Sabah informó el 6 de septiembre.
 
 Fundado en 2013, usted es el resultado de la fusión de la bolsa de valores de Estambul, el intercambio de oro de Estambul, y el intercambio de derivados turcos (TurkDex).
@@ -14,6 +16,6 @@ Mientras que en los últimos meses Turquía ha demostrado un enfoque proactivo p
 
 A pesar de la posición del gobierno, los intercambios cryptocurrency en Turquía, según se informa, disfrutan del apoyo de la mayoría de los bancos, lo que facilita que los nuevos comerciantes comiencen a comprar y vender cryptocurrencies.
 
-Original source: [Turkish Exchange Develops Blockchain-Based Customer Database](https://cointelegraph.com/news/turkish-exchange-develops-blockchain-based-customer-database)
+[Original source](https://cointelegraph.com/news/turkish-exchange-develops-blockchain-based-customer-database)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # BCG Report ofrece ' Reality Check ' para bloques en comercio de commodities...
 
+###### 2018-08-16
+
 La consultora estadounidense Boston Consulting Group (BCG) ha publicado un informe a fondo el 16 de agosto, que Dubs un "chequeo de la realidad" para el uso de bloques en la industria de comercio de productos básicos.
 
 Para el comercio de productos básicos, la BCG argumenta que existe un fuerte argumento para el uso de bloques, mientras se hace un balance de "inconvenientes significativos en varios frentes".
@@ -14,6 +16,6 @@ Ya sea que se adopte o no bloques a escala, la BCG concluye que la tecnología d
 
 Un informe reciente emitido por la empresa de auditoría y consultoría "Big Four", Deloitte, realizó una evaluación similar del impacto potencial de bloques, esta vez para la industria de productos empaquetados al por menor y al consumidor (CPG).
 
-Original source: [BCG Report Offers ‘Reality Check’ for Blockchain in Commodities Trading](https://cointelegraph.com/news/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading)
+[Original source](https://cointelegraph.com/news/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

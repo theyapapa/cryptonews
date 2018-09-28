@@ -1,5 +1,7 @@
 # Europol: Bitcoin sigue siendo la primera opción para los delincuentes cibernéticos, pero Alts enfocada en la privacidad aumentará...
 
+###### 2018-09-19
+
 El nuevo informe sobre delitos cibernéticos de Europol ha encontrado que Bitcoin (BTC) sigue siendo la forma más popular de criptografía para usos ilícitos, pero predice un aumento en la popularidad de altcoins enfocados en el anonimato como Zcash (Canaria) y Monero (XMR).
 
 Según Europol, aun cuando la cuota de mercado de Bitcoin bajó tan bajo como "35 por ciento a principios de 2017", siguió siendo el CRYPTO más "comúnmente encontrado" en las investigaciones sobre delitos cibernéticos en toda la Unión Europea.
@@ -14,6 +16,6 @@ Europol señala que no sólo los intercambios, sino los "servicios mineros y otr
 
 El informe señala que Crypto ha ofrecido desde hace varios años las ventajas de una infraestructura descentralizada y de transacciones con seudónimos para el blanqueo de procesos penales, pero sugiere que a medida que los grandes jugadores de la industria de la criptografía caen bajo el ámbito de los reguladores, los intercambios descentralizados pueden convertirse pronto en un canal más ventajoso para los blanqueadores.
 
-Original source: [Europol: Bitcoin Remains Cybercriminals’ First Choice, But Privacy-Focused Alts Will Rise](https://cointelegraph.com/news/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise)
+[Original source](https://cointelegraph.com/news/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

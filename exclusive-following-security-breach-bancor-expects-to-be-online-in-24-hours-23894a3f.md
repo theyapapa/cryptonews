@@ -10,6 +10,6 @@ Cuando se le preguntó si es posible evitar por completo este tipo de infraccion
 
 La semana pasada, el cofundador de Ethereum Vitalik Buterin criticó los intercambios centralizados, diciendo que él espera que "se quemen en el infierno".Al dar su opinión sobre el asunto, el representante dijo que existe un lugar para sistemas centralizados y descentralizados en la industria, subrayando la importancia de la coordinación y mejoramiento de la comunidad, en lugar de crear facciones opuestas entre diferentes tipos de soluciones. Sin embargo, el representante llegó a la conclusión de que, en su opinión, las soluciones descentralizadas eran el futuro de la cadena de bloques y el intercambio de valores.
 
-Original source: [Exclusive: Following ‘Security Breach,’ Bancor Expects to Be Online in 24 Hours](https://cointelegraph.com/news/exclusive-following-security-breach-bancor-expects-to-be-online-in-24-hours)
+[Original source](https://cointelegraph.com/news/exclusive-following-security-breach-bancor-expects-to-be-online-in-24-hours)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

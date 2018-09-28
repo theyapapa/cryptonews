@@ -1,5 +1,7 @@
 # Linux Foundation lanza nuevo curso de formación de hiperbloques...
 
+###### 2018-09-06
+
 La Fundación Linux ha abierto la matrícula para su nuevo curso de formación avanzada para la tecnología hyperledger fabric bloques, según un comunicado de prensa publicado el 5 de septiembre.
 
 El nuevo curso "fundamentos de la tela hipercontable" es una adición adicional a los esfuerzos de educación bloques orientados a la empresa de la Fundación, que ya incluyen un curso de "bloques para negocios" en línea a través del aprendizaje en línea sin fines de lucro plataforma edX.org.
@@ -14,6 +16,6 @@ El comunicado de prensa de hoy indica que el nuevo curso avanzado permitirá a l
 
 De acuerdo con la expansión acelerada del sector bloques, una amplia gama de universidades internacionales importantes ofrecen cursos bloques, Smart contract y cryptocurrency.
 
-Original source: [Linux Foundation Launches New Hyperledger Blockchain Training Course](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
+[Original source](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

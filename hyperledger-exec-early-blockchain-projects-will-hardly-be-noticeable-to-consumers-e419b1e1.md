@@ -16,6 +16,6 @@ En junio, Behlendorf dijo TagPreserver,LNK7,24,32 que espera que la tecnología 
 
 De acuerdo con Behlendorf, Hyperledger tiene actualmente alrededor de 10 bases de código, donde dos están en uso de producción con ocho frameworks para construir cadenas de bloqueo. El dijo que la gran mayoría de los desarrolladores están trabajando en proyectos de éxito porque su negocio quiere usarlo o lanzar un piloto, mientras que sólo unos cuantos se involucran para mejorar sus habilidades y reputación. En cuanto a la naturaleza de código abierto de la tecnología, dijo: " Para ellos, conocer a otras compañías lo están usando y hacer una ganancia está bien. De hecho, es algo bueno."
 
-Original source: [Hyperledger Exec: Early Blockchain Projects Will Hardly Be Noticeable to Consumers](https://cointelegraph.com/news/hyperledger-exec-early-blockchain-projects-will-hardly-be-noticeable-to-consumers)
+[Original source](https://cointelegraph.com/news/hyperledger-exec-early-blockchain-projects-will-hardly-be-noticeable-to-consumers)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

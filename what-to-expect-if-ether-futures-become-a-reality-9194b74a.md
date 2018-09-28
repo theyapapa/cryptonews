@@ -1,5 +1,7 @@
 # ¿Qué esperar si los futuros de éter se convierten en realidad? ...
 
+###### 2018-09-08
+
 Menos de un año después del lanzamiento de los primeros contratos de futuros para bitcoin, Ethereum podría ser el segundo cryptocurrency que se comerciará en los intercambios de futuros regulados.
 
 El CBOE basará sus contratos ETH en el mercado de intercambio Gemini cryptocurrency, la base que ya utiliza para sus futuros Bitcoin.
@@ -14,6 +16,6 @@ Greenspan estaba optimista acerca de la posibilidad, diciendo que Wall Street es
 
 Nunn Likens el lanzamiento de BTC Futures a los mercados de FX hace unos 30 años, donde los mercados de futuros tenían una gran influencia en los mercados: "2018 ha visto un cambio masivo en el comportamiento de los Crypto principalmente debido al advenimiento de los futuros de bitcoin, las cartas han sido diferentes y claramente allí e ha sido la manipulación del mercado y las "ballenas" que dominan el mercado de cualquier manera.
 
-Original source: [What to Expect If Ether Futures Become a Reality?](https://cointelegraph.com/news/what-to-expect-if-ether-futures-become-a-reality)
+[Original source](https://cointelegraph.com/news/what-to-expect-if-ether-futures-become-a-reality)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

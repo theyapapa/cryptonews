@@ -18,6 +18,6 @@ Algunos expertos, que citan, por ejemplo, la posibilidad de colusión entre las 
 
 A partir del momento de la prensa, Ethereum es el segundo cifrado más grande con una capitalización de mercado de alrededor de 47.500 millones de dólares  [🔗](https://coinmarketcap.com/currencies/ethereum/#charts).
 
-Original source: [Ethereum’s Vitalik Buterin Blasts Centralized Crypto Exchanges: ‘I Hope They Burn in Hell’](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)
+[Original source](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

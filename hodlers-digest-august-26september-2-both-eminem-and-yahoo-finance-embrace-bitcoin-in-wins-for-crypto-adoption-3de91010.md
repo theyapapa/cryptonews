@@ -1,5 +1,7 @@
 # Hodler Digest, 26 de agosto – 2 de septiembre: tanto Eminem y Yahoo Finanzas abrazan Bitcoin en victorias para la adopción de Crypto...
 
+###### 2018-09-02
+
 JPM CIO piensa que bloques "reemplazará la tecnología existente" en poco tiempo Lori Beer, la jefa de información de JPMorgan, cree que bloques Tech eventualmente sustituirá la tecnología actual en el lapso de unos pocos años.
 
 Según una fuente de medios argentinos, Beer señaló que JPMorgan utiliza la tecnología bloques para "simplificar el proceso de pago y para almacenar la información de los clientes relacionada con la política de KYC (Conozca su cliente)".
@@ -16,6 +18,6 @@ IBM se asocia con el consorcio australiano para construir la plataforma bloques 
 
 # # rondas de financiación Stablecoin Terra cierra $32 millones ronda de financiación con binance Labs, Huobi capital Corea del Sur e-commerce Marketplace billete Monster anunció esta semana que había cerrado una ronda de financiación $32 millones para su Stablecoin Terra, con el objetivo de crear una cryptocurrency interno para complementar su token existente, luna.
 
-Original source: [Hodler’s Digest, August 26–September 2: Both Eminem and Yahoo Finance Embrace Bitcoin in Wins for Crypto Adoption](https://cointelegraph.com/news/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption)
+[Original source](https://cointelegraph.com/news/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

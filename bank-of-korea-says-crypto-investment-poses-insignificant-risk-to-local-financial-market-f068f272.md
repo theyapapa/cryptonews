@@ -16,6 +16,6 @@ Corea está afirmando la visión multilateral del G20 sobre el futuro de las reg
 
 Apenas la semana pasada, en un importante movimiento de legitimación, tres ministerios del Gobierno de Corea revelaron un borrador de nuevas normas de clasificación de la industria, que en particular reconoció los intercambios criptográficos como instituciones financieras reguladas por primera vez.
 
-Original source: [Bank of Korea Says Crypto Investment Poses ‘Insignificant’ Risk to Local Financial Market](https://cointelegraph.com/news/bank-of-korea-says-crypto-investment-poses-insignificant-risk-to-local-financial-market)
+[Original source](https://cointelegraph.com/news/bank-of-korea-says-crypto-investment-poses-insignificant-risk-to-local-financial-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

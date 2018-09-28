@@ -1,5 +1,7 @@
 # Binance para iniciar la prueba beta cerrada de nuevo Crypto-Fiat Exchange en Singapur...
 
+###### 2018-09-16
+
 Binance, el mayor intercambio de criptografía global, pronto comenzará a probar la beta privada de un intercambio de Crypto-Fiat en Singapur, como el cofundador y CEO de binance Changpeng Zhao (CZ) en Twitter el 15 de septiembre.
 
 Como Changpeng Zhao reveló, la prueba será lanzada el 18 de septiembre: "acabo de resbalar que vamos a empezar #Binance Singapur Fiat Exchange dinero en vivo cerró pruebas beta el 18 Sept, en 3 días.
@@ -14,6 +16,6 @@ A principios de esta semana, binance firmó un memorando de entendimiento (MOU) 
 
 Y a comienzos de agosto, binance LCX, una joint venture entre binance y Liechtenstein Cryptoassets Exchange (LCX), anunció el lanzamiento del CRYPTO-Fiat Exchange en Liechtenstein para permitir el comercio entre francos suizos (CHF) y euros (EUR) contra los principales pares de divisas.
 
-Original source: [Binance to Start Closed Beta Testing of New Crypto-Fiat Exchange in Singapore](https://cointelegraph.com/news/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore)
+[Original source](https://cointelegraph.com/news/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # US sec pide más comentarios acerca de VanEck Bitcoin ETF...
 
+###### 2018-09-20
+
 La Comisión de valores y bolsa de Estados Unidos (SEC) ha solicitado más comentarios acerca de su decisión sobre la lista y el comercio de un fondo negociado con Bitcoin (BTC) (ETF), según un aviso oficial publicado el 20 de septiembre.
 
 En el aviso, la SEC observa que no ha "llegado a ninguna conclusión con respecto a ninguna de las cuestiones implicadas", y está solicitando comentarios adicionales de las partes interesadas que tratan la suficiencia de la declaración del BZX en apoyo de la propuesta.
@@ -14,6 +16,6 @@ Según la propuesta, cada acción representará un interés beneficioso sin divi
 
 En agosto, la SEC pospuso su decisión sobre el cambio de la regla de la ETF hasta el 30 de septiembre, declarando que había recibido más de 1.300 Comentarios.
 
-Original source: [US SEC Asks for Further Comment Regarding VanEck Bitcoin ETF](https://cointelegraph.com/news/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf)
+[Original source](https://cointelegraph.com/news/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

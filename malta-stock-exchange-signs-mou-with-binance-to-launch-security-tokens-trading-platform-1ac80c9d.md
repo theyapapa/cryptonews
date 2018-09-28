@@ -1,5 +1,7 @@
 # La bolsa de valores de Malta firma MOU con binance para lanzar la plataforma de comercio de tokens de seguridad...
 
+###### 2018-09-11
+
 La filial de FinTech y activos digitales de la bolsa de valores de Malta, MSX PLC, ha firmado un memorando de entendimiento (MOU) con Crypto Exchange binance para lanzar conjuntamente un nuevo canje digital de token de seguridad, según un comunicado de prensa compartido con Cointelegraph 11 de septiembre.
 
 El comunicado de prensa lanza la próxima plataforma de comercio como un punto para beneficiarse de la "trayectoria de 26 años de funcionamiento de la bolsa de valores de Malta", con el dinamismo y el alcance internacional del modelo de negocio de binance.
@@ -14,6 +16,6 @@ El Presidente de la bolsa de valores de Malta, Joe Portelli, ha dicho por su par
 
 Como ha informado Cointelegraph, binance anunció por primera vez la apertura de su oficina en Malta a finales de marzo después de recibir una carta de advertencia de las autoridades financieras japonesas sobre su estatus no registrado.
 
-Original source: [Malta Stock Exchange Signs MOU with Binance to Launch Security Tokens Trading Platform](https://cointelegraph.com/news/malta-stock-exchange-signs-mou-with-binance-to-launch-security-tokens-trading-platform)
+[Original source](https://cointelegraph.com/news/malta-stock-exchange-signs-mou-with-binance-to-launch-security-tokens-trading-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

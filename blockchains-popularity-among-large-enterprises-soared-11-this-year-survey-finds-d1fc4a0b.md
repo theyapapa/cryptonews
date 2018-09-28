@@ -1,5 +1,7 @@
 la popularidad de # bloques entre las grandes empresas se elevó 11% este año, la encuesta encuentra...
 
+###### 2018-09-14
+
 La nueva investigación de los analistas FinTech Juniper House ha encontrado que la tracción de bloques con las grandes empresas ha aumentado en un 11 por ciento este año, según un comunicado de prensa publicado el 11 de septiembre.
 
 Encuesta de bloques Enterprise de Juniper: despliegues, beneficios y actitudes (segunda edición) encontraron que el 65 por ciento de las grandes empresas que respondieron – definidas como aquellas que emplean un mínimo de 10.000 empleados – están "Considerando o comprometidos activamente" en bloques despliegue, un 11 por ciento de la cifra correspondiente al 54% el año pasado.
@@ -14,6 +16,6 @@ Curiosamente, entre los gigantes tecnológicos incumbentes, IBM fue encontrada c
 
 Una encuesta reciente realizada por el Auditor de "los cuatro grandes", Deloitte, encontró que entre las empresas que se enfrentan a la implementación de soluciones bloques con limitaciones de legado, el 74 por ciento de todos los encuestados a la encuesta dijeron que su equipo ejecutivo cree que hay un "negocio convincente caso "para su despliegue.
 
-Original source: [Blockchain’s Popularity Among Large Enterprises Soared 11% This Year, Survey Finds](https://cointelegraph.com/news/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds)
+[Original source](https://cointelegraph.com/news/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

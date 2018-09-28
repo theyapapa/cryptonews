@@ -1,5 +1,7 @@
 # DST global niega la inversión de Bitmain IPO pocos días después de Softbank, la participación de Tencent llamó a la pregunta...
 
+###### 2018-08-21
+
 La empresa de inversión DST global ha confirmado que "nunca ha invertido" en el cryptocurrency de la minería gigante Bitmain pre-IPO en un correo electrónico a Cointelegraph 21 de agosto.
 
 Cointelegraph recibió una propina anónima hoy, alegando que DST global no ha participado en la ronda de financiación $400 millones de Bitmain a principios de este año, a pesar de los informes en sentido contrario.
@@ -14,6 +16,6 @@ Sin embargo, las noticias aumentan la ya controvertida naturaleza de los planes 
 
 A partir del tiempo de la prensa, Bitmain no ha respondido a la petición de Cointelegraph para el comentario.
 
-Original source: [DST Global Denies Bitmain IPO Investment Few Days After SoftBank, Tencent’s Involvement Called Into Question](https://cointelegraph.com/news/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question)
+[Original source](https://cointelegraph.com/news/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

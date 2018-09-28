@@ -1,5 +1,7 @@
 # Después de una semana catastrófica, los mercados criptográficos se unen hacia el verde...
 
+###### 2018-08-09
+
 La visualización de mercado de Coin360 Bitcoin (BTC) está negociando en un sólido $6.500 en el tiempo de la prensa, encima de alrededor 3,2 por ciento en el día.
 
 Fuente: Cointelegraph Bitcoin price index mientras que el alegre de hoy puede mitigar algunos nervios criptográficos nerviosos, Dogecoin creador Jackson Palmer ha estado observando los mercados de desplome reciente, que muchos atribuyeron al anuncio de los reguladores de Estados Unidos 7 de agosto que estarían retrasando su decisión sobre si aprueban o no un fondo BTC de intercambio de alto perfil (ETF).
@@ -14,6 +16,6 @@ Fuente: CoinMarketCap la capitalización total del mercado de todo el cryptocurr
 
 7-Day gráfico de la capitalización total del mercado de todos los cryptocurrencies de CoinMarketCap como los caprichos vertiginosos de los mercados criptográficos dejan algo de tambalear, un equipo de expertos financieros de la Universidad de Yale han sugerido esta semana un sistema de factores para predecir tendencias de precios en los principales cryptocurrencies.
 
-Original source: [After a Catastrophic Week, Crypto Markets Rally Forth Into the Green](https://cointelegraph.com/news/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green)
+[Original source](https://cointelegraph.com/news/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

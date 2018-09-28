@@ -1,5 +1,7 @@
 # FINRA cargos Broker con fraude para el comercio Cryptocurrency no registrado...
 
+###### 2018-09-12
+
 La autoridad regulatoria de la industria financiera de Estados Unidos (FINRA) ha presentado una queja contra Timothy Tilton Ayre, acusandole de fraude de valores y la distribución ilegal de un cryptocurrency no registrado, según una declaración publicada en el sitio web de FINRA Martes, 11 de septiembre.
 
 En la queja, FINRA, supervisada por la Comisión de valores y bolsa de Estados Unidos (SEC), afirma que Ayre, con sede en Massachusetts, intentó atraer la inversión a su compañía pública, Rocky Mountain Ayre, Inc. (RMTN), vendiendo HempCoin, que él tergiversaba como "el primera moneda minable respaldada por valores negociables ".
@@ -14,6 +16,6 @@ FINRA, que ha iniciado un procedimiento formal contra RMTN mediante la presentac
 
 La declaración de FINRA llega el mismo día en que su organización gobernante sec ha emitido dos órdenes separadas de cese y desistimiento junto con multas.
 
-Original source: [FINRA Charges Broker With Fraud for Trading Unregistered Cryptocurrency](https://cointelegraph.com/news/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency)
+[Original source](https://cointelegraph.com/news/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

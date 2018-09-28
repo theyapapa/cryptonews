@@ -1,5 +1,7 @@
 # Los tiempos altos no aceptarán Bitcoin en su oferta pública inicial...
 
+###### 2018-08-14
+
 El grupo de medios de la cultura de la marihuana High Times Holding Corp. ha decidido no aceptar Bitcoin (BTC) en su oferta pública inicial (IPO), según una presentación del 13 de agosto con la Comisión de valores y bolsa de Estados Unidos (SEC).
 
 En el comienzo de agosto, los tiempos altos publicaron un comunicado de prensa diciendo que aceptaría BTC y Ethereum (ETH) como un método de pago para la suscripción a las acciones de la compañía.
@@ -14,6 +16,6 @@ Cryptocurrencies han sido vistos por muchos en la industria del cannabis como un
 
 Con el fin de crear un mejor entorno para los proveedores de la industria, el Dash de moneda digital se asoció con bloques startup Alt 36 en 2017 para integrar Dash como una opción de pago en el sistema de punto de venta de la industria del cannabis.
 
-Original source: [High Times Will Not Accept Bitcoin in Its Initial Public Offering](https://cointelegraph.com/news/high-times-will-not-accept-bitcoin-in-its-initial-public-offering)
+[Original source](https://cointelegraph.com/news/high-times-will-not-accept-bitcoin-in-its-initial-public-offering)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

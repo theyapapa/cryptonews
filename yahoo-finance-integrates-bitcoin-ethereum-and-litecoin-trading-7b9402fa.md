@@ -1,5 +1,7 @@
 # Yahoo Finance integra bitcoin, Ethereum y Litecoin Trading...
 
+###### 2018-08-29
+
 Yahoo Finance ha integrado el comercio con Bitcoin (BTC), Ethereum (ETH), y Litecoin (LTC) en su plataforma.
 
 Mientras que las estadísticas están disponibles en la plataforma para otras monedas digitales como Bitcoin Cash (BCH), Ethereum Classic (etc) o EOS, actualmente no tienen opciones de compra y venta.
@@ -14,6 +16,6 @@ En marzo, el brazo japonés del gigante de Internet Yahoo dijo que abrirá un in
 
 Yahoo Japón iba a comprar 40 por ciento de BitARG Exchange Tokio en abril, e inmediatamente enviar a los ejecutivos a sentar las bases para el intercambio de lanzar un año más tarde.
 
-Original source: [Yahoo Finance Integrates Bitcoin, Ethereum and Litecoin Trading](https://cointelegraph.com/news/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading)
+[Original source](https://cointelegraph.com/news/yahoo-finance-integrates-bitcoin-ethereum-and-litecoin-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

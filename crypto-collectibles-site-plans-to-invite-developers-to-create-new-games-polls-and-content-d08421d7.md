@@ -1,5 +1,7 @@
 # El sitio de coleccionables de Crypto planea invitar a los desarrolladores a crear nuevos juegos, encuestas y contenido...
 
+###### 2018-08-29
+
 Una plataforma basada en bloques donde los entusiastas de la criptografía pueden poseer objetos coleccionables digitales inspirados por figuras públicas está planeando abrir su ecosistema a los desarrolladores, con la esperanza de que nuevos juegos y competencias se añadirán a su floreciente mercado.
 
 Su juego de apareamiento vio a dos políticos apareados con celebridades, dando como resultado cryptos nuevos que eran una amalgamación de cada par.
@@ -14,6 +16,6 @@ El contrato inteligente que utiliza la plataforma permite crear criptografía es
 
 Una vez que se alcanza un determinado objetivo — 200 ETH, por ejemplo — el CRYPTON vuelve a una colección con fines de lucro.
 
-Original source: [Crypto Collectibles Site Plans to Invite Developers to Create New Games, Polls and Content](https://cointelegraph.com/news/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content)
+[Original source](https://cointelegraph.com/news/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

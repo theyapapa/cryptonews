@@ -1,5 +1,7 @@
 # Bloques puede Agregar $1 billón al comercio mundial por 2028, dice el foro económico mundial...
 
+###### 2018-09-13
+
 La tecnología de contabilidad distribuida (DLT) como bloques podría generar $1 billón en el nuevo comercio durante los próximos diez años, un informe conjunto del Foro Económico Mundial (FEM) reclama el jueves, 13 de septiembre.
 
 El informe, ' Trade Tech – una nueva era para el comercio y la cadena de suministro de financiamiento ', publicado en colaboración con Bain & Company, evalúa las perspectivas de DLT dentro de la industria de financiamiento del comercio mundial.
@@ -14,6 +16,6 @@ Entre sus hallazgos, el FEM y Bain Forecast DLT traerá un nuevo comercio, ayuda
 
 Mientras tanto, el informe del FEM incluye señales similares para los gobiernos, la organización argumentando que incluso para aquellos dentro de estructuras como la Unión Europea, abrazar DLT es de facto inevitable.
 
-Original source: [Blockchain Can Add $1 Trillion to World Trade By 2028, Says World Economic Forum](https://cointelegraph.com/news/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum)
+[Original source](https://cointelegraph.com/news/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

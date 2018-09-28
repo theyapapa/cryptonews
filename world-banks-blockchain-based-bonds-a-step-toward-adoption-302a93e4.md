@@ -1,5 +1,7 @@
 # Los bonos basados en bloques del Banco Mundial — ¿un paso hacia la adopción? ...
 
+###### 2018-08-13
+
 El proyecto ha sido encabezado por el Banco Mundial, que busca utilizar la tecnología bloques para mejorar la forma en que emite bonos en todo el mundo.
 
 Más información: https://t.co/tieQoQ9uLe \ #blockchain \ #bond PIC.twitter.com/LhEu4oKR37 — el tesoro del Banco Mundial (@Treasury \_wb) el 9 de agosto, 2018The institución emite alrededor de $60 mil millones en bonos cada año para el desarrollo sustentable — y el Banco dice que el movimiento tiene como objetivo explorar el uso de la tecnología bloques en diferentes operaciones.
@@ -14,6 +16,6 @@ Como sugirió Merten, el movimiento por el Banco Mundial y el CBA demuestra la m
 
 Con el Banco Mundial haciendo progresos para aprovechar la tecnología bloques para revisar los sistemas actuales, ¿es sólo cuestión de tiempo que otros grandes bancos sigan el ejemplo?
 
-Original source: [World Bank’s Blockchain-Based Bonds — A Step Toward Adoption?](https://cointelegraph.com/news/world-banks-blockchain-based-bonds-a-step-toward-adoption)
+[Original source](https://cointelegraph.com/news/world-banks-blockchain-based-bonds-a-step-toward-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

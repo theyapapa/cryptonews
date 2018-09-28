@@ -1,5 +1,7 @@
 # Back of the net: Cryptocurrency se erige para ganar en grande en el sector del fútbol...
 
+###### 2018-09-17
+
 Dreyfus observa que el propósito de la estrategia no es sacudir la jerarquía corporativa de los clubes de fútbol sino más bien maximizar la participación de los fans a través de Crypto.
 
 Charles pittar, CEO corporativo del London Football Exchange, ha arrojado luz sobre los objetivos de la organización: "nuestra visión es permitir que los clubes de fútbol aprovechen la economía de fondos simbólicos para sus necesidades de financiamiento, proporcionándoles un financiamiento simbólico infraestructura, que incluye el diseño de tokens y servicios de emisión.
@@ -14,6 +16,6 @@ El LFE espera utilizar bloques y cryptocurrency para reunir a los clubes y los a
 
 # # Crypto como método de pago bloques ya ha hecho su primer impacto notable en la propiedad del Club de fútbol.
 
-Original source: [Back of the Net: Cryptocurrency Stands to Win Big in the Football Sector](https://cointelegraph.com/news/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector)
+[Original source](https://cointelegraph.com/news/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

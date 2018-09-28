@@ -1,5 +1,7 @@
 # Nueva plataforma permite a las empresas lanzar su propio intercambio Cryptocurrency...
 
+###### 2018-09-12
+
 El 3 de septiembre, la empresa Spotware, que se especializa en el suministro de contrato para la diferencia (CFD) y servicios de tecnología Forex, lanzó su nueva solución que permite a los clientes iniciar su propio intercambio de cryptocurrency, dice el comunicado de prensa oficial.
 
 La plataforma se llama cXchange y la empresa afirma que es la plataforma de intercambio cryptocurrency más avanzada tecnológicamente hasta la fecha.
@@ -14,6 +16,6 @@ La nueva plataforma ofrece a un operador de Exchange un Back Office de administr
 
 Hay pocas soluciones disponibles en el mercado que se asemejan a cXchange, pero nuestra plataforma es un producto de alta calidad a diferencia de otros, ya que fue desarrollado por una empresa profesional de desarrollo de software financiero ", comentó Shulman.
 
-Original source: [New Platform Allows Businesses to Launch Their Own Cryptocurrency Exchange](https://cointelegraph.com/news/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange)
+[Original source](https://cointelegraph.com/news/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # JPMorgan balance Act entre bloques y crypto...
 
+###### 2018-08-29
+
 Por lo tanto, vale la pena hacer un viaje por el carril de la memoria para entender la yuxtaposición entre la actitud de la compañía hacia la tecnología cryptocurrencies y bloques.
 
 # # patas arriba 2018 como cryptocurrencies soportó una corrección de humillación en los meses después de que Bitcoin fue altísimo en diciembre de 2017, JPMorgan — entre otros bancos — dejó de procesar cryptocurrency compras con sus tarjetas de crédito, citando la volatilidad de la Mercados.
@@ -14,6 +16,6 @@ Como se mencionó anteriormente, el CIO de la compañía Lori Beer ha pintado un
 
 Si bien esto no hace que la compañía esté más cerca de participar activamente en los mercados cryptocurrency, su apetito por el desarrollo de bloques dice mucho sobre la tecnología que apuntala y la promesa que tiene para el mundo financiero.
 
-Original source: [JPMorgan’s Balancing Act Between Blockchain and Crypto](https://cointelegraph.com/news/jpmorgans-balancing-act-between-blockchain-and-crypto)
+[Original source](https://cointelegraph.com/news/jpmorgans-balancing-act-between-blockchain-and-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

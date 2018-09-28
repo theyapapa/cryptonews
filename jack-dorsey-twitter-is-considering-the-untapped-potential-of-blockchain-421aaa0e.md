@@ -1,5 +1,7 @@
 # Jack Dorsey: Twitter está considerando el ' potencial sin explotar ' de bloques...
 
+###### 2018-09-06
+
 El CEO de Twitter, Jack Dorsey, testificó ante un Comité del Congreso el miércoles, 5 de septiembre que la compañía está explorando la tecnología bloques para la aplicación potencial.
 
 Dorsey respondió preguntas durante una audiencia sobre la transparencia y responsabilidad de Twitter que se celebró en el Comité de la casa de Estados Unidos sobre energía y comercio.
@@ -14,6 +16,6 @@ Después de las reuniones, Dorsey resumió algunos de sus pensamientos sobre el 
 
 Como Cointelegraph informó en agosto, la investigación de la empresa de ciberseguridad dúo de seguridad arrojan luz sobre el fenómeno infame de cuentas de estafa de Twitter publicidad falsos "regalos" Crypto, revelando una red de al menos 15.000 estafa bots.
 
-Original source: [Jack Dorsey: Twitter Is Considering the ‘Untapped Potential’ of Blockchain](https://cointelegraph.com/news/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain)
+[Original source](https://cointelegraph.com/news/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

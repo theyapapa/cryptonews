@@ -1,5 +1,7 @@
 # La exuberancia irracional revisitó: ¿es Crypto la nueva burbuja dot-com? ...
 
+###### 2018-09-15
+
 De hecho, Bubble se ha convertido en un shibboleth para los escépticos criptográficos, especialmente después de que el mercado se disparó al final de 2017, y la creciente brecha entre la valuación y el valor intrínseco de las monedas digitales y los tokens se hizo ostensible para muchos.
 
 # # Bubbles y DOT-OCM en los términos más sencillos, las burbujas de mercado se producen cuando los activos se comercian a precios que superan en gran medida su valor fundamental.
@@ -14,6 +16,6 @@ En Resumen, la ' burbuja criptográfica ' es una constelación más diversa de a
 
 Es imposible afirmar uno u otro con confianza, ya que sólo hay tanto que se puede aprender y extrapolar del caso dot-com – un caso que es algo similar pero no idéntico al estado actual del mercado criptográfico.
 
-Original source: [Irrational Exuberance Revisited: Is Crypto The New Dot-Com Bubble?](https://cointelegraph.com/news/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble)
+[Original source](https://cointelegraph.com/news/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

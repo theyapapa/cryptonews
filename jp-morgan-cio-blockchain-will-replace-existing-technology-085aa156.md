@@ -1,5 +1,7 @@
 # JP Morgan CIO: bloques sustituirá a la tecnología existente...
 
+###### 2018-08-28
+
 JP Morgan CIO Lori Beer dijo en una conferencia de prensa en Buenos Aires que bloques "sustituirá a la tecnología existente" en pocos años, según el sitio web argentino Cripto247 el 23 de agosto.
 
 "vamos a ver un mayor y más amplio uso de bloques \ [... \] en unos años bloques reemplazará a la tecnología existente, hoy sólo coexiste con la actual", dijo Beer.
@@ -14,6 +16,6 @@ A principios de agosto, Cointelegraph informó que el CEO de JP Morgan Chase, Ja
 
 En mayo, JP Morgan Chase presentó una patente para una red de pagos de peer-to-peer bloques Powered que podría utilizarse para los asentamientos intra e interbancarios.
 
-Original source: [JP Morgan CIO: Blockchain Will Replace Existing Technology](https://cointelegraph.com/news/jp-morgan-cio-blockchain-will-replace-existing-technology)
+[Original source](https://cointelegraph.com/news/jp-morgan-cio-blockchain-will-replace-existing-technology)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

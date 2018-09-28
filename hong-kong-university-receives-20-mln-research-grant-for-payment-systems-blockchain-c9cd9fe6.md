@@ -1,5 +1,7 @@
 # La Universidad de Hong Kong recibe $20 millones de becas de investigación para sistemas de pago, bloques...
 
+###### 2018-08-13
+
 La escuela de negocios de la Universidad de ciencia y tecnología de Hong Kong ha recibido una beca de investigación de $20 millones para mejorar las capacidades de seguridad de los sistemas de pago electrónico, informó China News el 12 de agosto.
 
 La escuela de negocios de la Universidad de ciencia y tecnología de Hong Kong (HKUST) se ha asociado con la Universidad de Hong Kong (HKU), la Universidad China de Hong Kong (CUHK) y la Universidad de la ciudad de Hong Kong (CityU) para trabajar en el proyecto de investigación.
@@ -14,6 +16,6 @@ En junio de este año, alibaba subsidiario ANT Financial, antes conocido como Al
 
 El mes pasado, la autoridad monetaria de Hong Kong y una filial de ping an Group FinTech anunciaron el lanzamiento de su propia solución de financiamiento comercial bloques con 21 bancos.
 
-Original source: [Hong Kong University Receives $20 Mln Research Grant for Payment Systems, Blockchain](https://cointelegraph.com/news/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain)
+[Original source](https://cointelegraph.com/news/hong-kong-university-receives-20-mln-research-grant-for-payment-systems-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

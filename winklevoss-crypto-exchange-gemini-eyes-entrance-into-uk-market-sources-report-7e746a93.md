@@ -1,5 +1,7 @@
 # Winklevoss ' Crypto intercambio de ojos Gemini entrada en el mercado británico, las fuentes de informe...
 
+###### 2018-09-24
+
 Tyler y Cameron Winklevoss, creadores de Estados Unidos. basado en la plataforma de comercio cryptocurrency Gemini, están buscando expandir la plataforma para el mercado del Reino Unido, las fuentes dijeron que el Financial Times (ft) el 24 de septiembre.
 
 La compañía Gemini Trust, fundada en Nueva York en 2014, está actualmente clasificada como el número 58 más grande de intercambio de criptografía a nivel mundial por el ajuste de volumen negociado diariamente, según CoinMarketCap.
@@ -14,6 +16,6 @@ Justo la semana pasada, el NYDFS dio su sanción oficial a los gemelos Winklevos
 
 Las noticias — que se rompieron el mismo día en que el NYDFS dio su aprobación para una stablecoin separada por un dólar de la compañía estadounidense Trust Paxos — desencadenaron un rubor de sentimiento alcista en los mercados criptográficos.
 
-Original source: [Winklevoss' Crypto Exchange Gemini Eyes Entrance Into UK Market, Sources Report](https://cointelegraph.com/news/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report)
+[Original source](https://cointelegraph.com/news/winklevoss-crypto-exchange-gemini-eyes-entrance-into-uk-market-sources-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

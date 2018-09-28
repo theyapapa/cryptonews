@@ -1,5 +1,7 @@
 # Ex-abogado de criptografía y asesor de ICO Julian Zegelman: invertir en icos es un riesgo en la dinamita...
 
+###### 2018-09-05
+
 Julian Zegelman, un abogado con muchos años de experiencia, se ha convertido en un VC — ahora es socio general de TMT bloques Fund, un fondo de capital de riesgo que invierte en proyectos de tecnología bloques.
 
 CR: pero como bloques es una tecnología, ¿puede ser regulada como cualquier otra tecnología?
@@ -14,6 +16,6 @@ Miro a los emprendedores en serie, miro a los codificadores, [en TMT bloques Fun
 
 Uno de ellos es el cumplimiento legal y la gestión de riesgos, y el otro — desarrollo corporativo: reclutamiento de otros asesores, reclutamiento de clientes anticipados, \ [asesorando sobre \] la estrategia para obtener socios comerciales, sobre cómo hacer un proyecto más sostenible y real desde el principio.
 
-Original source: [Former Crypto Lawyer and ICO Advisor Julian Zegelman: Investing in ICOs Is a Risk on Dynamite](https://cointelegraph.com/news/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite)
+[Original source](https://cointelegraph.com/news/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

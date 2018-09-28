@@ -1,5 +1,7 @@
 # Bitcoin cae corto de romper $7.000, otros Altcoins ver pérdidas leves...
 
+###### 2018-08-06
+
 La visualización de mercado de Coin360 Bitcoin (BTC) está negociando alrededor de $6.974 en la hora de la prensa, abajo 1,17 por ciento en el día.
 
 Estos picos fugaces no se mantienen en el tiempo de la prensa sin embargo, y las pérdidas de la moneda en la semana ahora recuento por encima del 14 por ciento.
@@ -14,6 +16,6 @@ Fuente: CoinMarketCap la capitalización total del mercado de todos los cryptocu
 
 7-Day gráfico de la capitalización total del mercado de todos los cryptocurrencies de CoinMarketCap a medida que los mercados continúan flotando sin convicción, prominentes Crypto mirones están haciendo un balance de las noticias de la semana para el espacio criptográfico.
 
-Original source: [Bitcoin Falls Short of Breaking $7,000, Other Altcoins See Slight Losses](https://cointelegraph.com/news/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses)
+[Original source](https://cointelegraph.com/news/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

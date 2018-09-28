@@ -1,5 +1,7 @@
 # Google añade Ethereum bloques DataSet a su gran plataforma de análisis de datos...
 
+###### 2018-09-04
+
 El equipo de Google Cloud ha hecho oficialmente el Ethereum (ETH) DataSet disponible en BigQuery, el gran almacén de datos de la compañía para Analytics, según un post publicado en el blog oficial de Google el 29 de agosto.
 
 Los datos de Ethereum bloques se registran en el DataSet y se actualizan diariamente.
@@ -14,6 +16,6 @@ BigQuery recoge los datos en las cuentas que poseen por lo menos 10 CryptoKittie
 
 En febrero, la compañía creó una herramienta similar para el Bitcoin (BTC) bloques para visualizar transacciones, detectar anomalías y extraer los datos necesarios del bloques Ledger.
 
-Original source: [Google Adds Ethereum Blockchain Dataset to Its Big Data Analytics Platform](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
+[Original source](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

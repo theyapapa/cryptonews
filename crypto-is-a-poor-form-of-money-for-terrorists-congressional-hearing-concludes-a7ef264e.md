@@ -1,5 +1,7 @@
 # Crypto es una "forma pobre de dinero" para los terroristas, la audiencia del Congreso concluye...
 
+###### 2018-09-08
+
 El Subcomité de terrorismo y Finanzas ilícitas del Congreso de los Estados Unidos ha discutido varios métodos de financiamiento del terrorismo con cryptocurrency, según un comunicado de prensa oficial del Comité de servicios financieros de la cámara de representantes de los Estados Unidos el 7 de septiembre.
 
 A fin de supervisar las amenazas y los métodos de financiación del terrorismo, la audiencia consideró los principales medios de transferencia de fondos por terroristas, incluidas las instituciones financieras tradicionales y los métodos semiformales, como el sistema de intercambio hawala, así como cryptocurrencies.
@@ -14,6 +16,6 @@ Fanusie señaló: "al prepararse ahora para el creciente uso de cryptocurrencies
 
 A comienzos de este año, el gigante de gestión de riesgos LexisNexis se asoció con Crypto Exchange Blockbid con el fin de introducir una solución de seguridad para los intercambios denominados "comercio con confianza", que pretende prevenir el financiamiento del terrorismo, entre otras actividades ilícitas.
 
-Original source: [Crypto is a ‘Poor Form of Money’ for Terrorists, Congressional Hearing Concludes](https://cointelegraph.com/news/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes)
+[Original source](https://cointelegraph.com/news/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # ICE es CEO de Bakkt: Platform no apoyará el comercio de márgenes, los contratos serán totalmente colateralizados...
 
+###### 2018-08-20
+
 Bakkt — el próximo ecosistema global regulado para los activos criptográficos recientemente desvelado por Intercontinental Exchange (ICE) — no apoyará el comercio de márgenes para su contrato Bitcoin (BTC), según un post oficial medio publicado el 20 de agosto.
 
 A comienzos de este mes, ICE – el operador de 23 principales intercambios mundiales, incluyendo la bolsa de valores de Nueva York (NYSE) – había presentado ambiciosos planes para crear un ecosistema global "sin fisuras" para los activos digitales que cubriría el espectro de las regulaciones federales mercados y almacenes a las necesidades del comerciante y del consumidor.
@@ -14,6 +16,6 @@ Mientras que el anuncio de Loeffler confirma en gran medida lo que ya se había 
 
 Estos hacen eco de las controversias existentes sobre el impacto del comercio de futuros desde su lanzamiento a finales de 2017, un probable ímpetu para la diferenciación enfática de Loeffler en la actualidad.
 
-Original source: [ICE’s Bakkt CEO: Platform Won't Support Margin Trading, Contracts to Be Fully Collateralized](https://cointelegraph.com/news/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized)
+[Original source](https://cointelegraph.com/news/ices-bakkt-ceo-platform-wont-support-margin-trading-contracts-to-be-fully-collateralized)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

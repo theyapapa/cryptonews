@@ -1,5 +1,7 @@
 # Ucrania Comisión electoral utiliza NEM bloques para el juicio electoral...
 
+###### 2018-08-08
+
 Un miembro de la Comisión electoral de Ucrania reveló en un mensaje de agosto 7 en Facebook que están trabajando con NEM en un piloto de votación bloques.
 
 Oleksandr Stelmakh, jefe del Registro Estatal de la Comisión electoral central de Ucrania, se mostró complacido con las pruebas en curso, escribiendo en el post que son "continuos \ [Ing \] una serie de experimentos que aplican la tecnología bloques dentro de las elecciones votar ".
@@ -14,6 +16,6 @@ Ucrania está en el medio de finalizar su enfoque reglamentario de cryptocurrenc
 
 A pesar de sus costos relativamente bajos de electricidad, Ucrania no tiene planes para regular la industria minera informal, Cointelegraph informó.
 
-Original source: [Ukraine Electoral Commission Uses NEM Blockchain for Voting Trial](https://cointelegraph.com/news/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial)
+[Original source](https://cointelegraph.com/news/ukraine-electoral-commission-uses-nem-blockchain-for-voting-trial)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

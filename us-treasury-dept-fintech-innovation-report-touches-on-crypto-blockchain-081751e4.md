@@ -1,5 +1,7 @@
 # El Departamento del tesoro de los e.e.u.u. FinTech informe de la innovación toca en Crypto, bloques...
 
+###### 2018-08-01
+
 Un importante nuevo informe del Departamento del tesoro de Estados Unidos publicado el 31 de julio ha pedido un enfoque reglamentario más ágil y propicio para las innovaciones en el sector FinTech.
 
 El informe de 222 páginas, dedicado a ' finanzas no bancarias, FinTech e innovación ', sólo se reparte de manera fugaz sobre las tecnologías de cryptocurrencies y de contabilidad distribuida (DLT), como bloques, señalando que actualmente se están "explorando por separado en un esfuerzo interinstitucional dirigido por un grupo de trabajo del Consejo de supervisión de la estabilidad financiera. "
@@ -14,6 +16,6 @@ El tesoro aboga aún más por el uso de entornos limitados reglamentarios y alie
 
 Esta última noción resuena con preocupaciones expresadas recientemente por el Presidente de la Comisión de comercio de futuros de productos básicos de los Estados Unidos (CFTC), quien dijo que Estados Unidos está "cayendo detrás" de otros países en el fomento de la innovación.
 
-Original source: [US Treasury Dept. Fintech Innovation Report Touches on Crypto, Blockchain](https://cointelegraph.com/news/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain)
+[Original source](https://cointelegraph.com/news/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

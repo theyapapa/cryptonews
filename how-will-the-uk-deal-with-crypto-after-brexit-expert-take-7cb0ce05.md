@@ -1,5 +1,7 @@
 # ¿Cómo se ocupará el Reino Unido con Crypto después de Brexit: experto tomar...
 
+###### 2018-08-06
+
 La membresía de la UE, incluyendo el "Observatorio y foro de la UE bloques", con el mercado FinTech de la UE valorado en $6 mil millones, ha contribuido a la prosperidad económica de las tecnologías digitales del Reino Unido como bloques puede ser cambiadores de juegos para los servicios financieros y más allá, explicó Mariya Gabriel, Comisionado para la economía digital y la sociedad.
 
 # # Brexit y las iniciativas legislativas cryptocurrency y bloques de la UE desde una perspectiva de marco legal, los activos criptográficos — a diferencia de los instrumentos financieros — no están muy armonizados en la UE ni están muy regulados en la mayoría de los Estados miembros de la UE.
@@ -14,6 +16,6 @@ Los miembros del Parlamento Europeo también aprobaron una resolución bloques e
 
 Algunos Estados miembros piden que se establezca un nuevo órgano para contrarrestar el blanqueo de dinero a nivel de la UE, mientras que otros favorecen la idea de dar más poder a uno de los reguladores financieros existentes de la UE, como la Autoridad Bancaria Europea (EBA).
 
-Original source: [How Will the UK Deal With Crypto After Brexit: Expert Take](https://cointelegraph.com/news/how-will-the-uk-deal-with-crypto-after-brexit-expert-take)
+[Original source](https://cointelegraph.com/news/how-will-the-uk-deal-with-crypto-after-brexit-expert-take)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

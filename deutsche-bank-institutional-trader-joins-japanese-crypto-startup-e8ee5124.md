@@ -1,5 +1,7 @@
 # Deutsche Bank intercambiador institucional se une al inicio Crypto japonés...
 
+###### 2018-09-03
+
 Un ex comerciante de Deutsche Bank se ha unido A Japanese Crypto Exchange-startup FXcoin Ltd., Bloomberg informa el 3 de septiembre.
 
 Según el anuncio, Yasuo Matsuda, un comerciante institucional de Deutsche Bank, se unirá a FXcoin como estratega superior de criptografía a partir del 2018 de septiembre.
@@ -14,6 +16,6 @@ A comienzos de este año, el director del CIO de Deutsche Bank, Markus Mueller, 
 
 A finales de diciembre, el economista jefe internacional de Deutsche Bank Torsten Slok expresó su escepticismo hacia el mayor cryptocurrency bitcoin, al ver un potencial desplome de la cryptocurrency como uno de los mayores riesgos para la economía global en 2018.
 
-Original source: [Deutsche Bank Institutional Trader Joins Japanese Crypto Startup](https://cointelegraph.com/news/deutsche-bank-institutional-trader-joins-japanese-crypto-startup)
+[Original source](https://cointelegraph.com/news/deutsche-bank-institutional-trader-joins-japanese-crypto-startup)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

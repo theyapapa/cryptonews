@@ -1,5 +1,7 @@
 # Singapore Central Bank se asocia con Deloitte, NASDAQ on bloques Asset Settlement...
 
+###### 2018-08-24
+
 El Banco Central de facto de Singapur anunció que había firmado un acuerdo con múltiples entidades de gran nombre para facilitar los asentamientos de activos digitales en un comunicado de prensa el viernes, 24 de agosto.
 
 Parte de su proyecto en curso Ubin bloques Integration Scheme, la autoridad monetaria de Singapur (mas) se asoció con Singapore Exchange (SGX), junto con el programa de investigación, Deloitte y NASDAQ para ofrecer las mejoras.
@@ -14,6 +16,6 @@ MAS ha seguido dando pasos positivos para crear una jurisdicción cryptocurrency
 
 "la implicación de tres destacados socios tecnológicos destaca el interés comercial en hacer de esto una realidad".
 
-Original source: [Singapore Central Bank Partners With Deloitte, Nasdaq on Blockchain Asset Settlement](https://cointelegraph.com/news/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement)
+[Original source](https://cointelegraph.com/news/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Informe del fiscal general de Nueva York dice que los intercambios de criptografía están en riesgo de manipulación...
 
+###### 2018-09-18
+
 Un nuevo informe publicado por la oficina del Procurador General de Nueva York el 18 de septiembre dice que los intercambios cryptocurrency son vulnerables a la manipulación, los conflictos de intereses y otros riesgos para el consumidor.
 
 El informe representa los resultados de la "iniciativa de integridad de los mercados virtuales" lanzada en abril, cuando el fiscal general de Nueva York, Eric T. Schneider, envió cartas a trece intercambios de criptografía, solicitando información sobre sus operaciones, controles internos y otras cuestiones clave.
@@ -14,6 +16,6 @@ Algunas de las plataformas emiten sus propias monedas digitales o aceptan compen
 
 El informe dice además: "aunque algunas plataformas monetarias virtuales han tomado medidas para vigilar la equidad de sus plataformas y salvaguardar la integridad de su intercambio, otros no lo han hecho.
 
-Original source: [New York Attorney General Report Says Crypto Exchanges are at Risk of Manipulation](https://cointelegraph.com/news/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation)
+[Original source](https://cointelegraph.com/news/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -14,6 +14,6 @@ En mayo, el presidente ejecutivo de FedEx, Fred Smith, dijo que  [🔗](https://
 
 El mes pasado, otro proyecto farmacéutico basado en la cadena fue anunciado  [🔗](https://cointelegraph.com/news/new-blockchain-based-supply-chain-system-is-presented-by-microsoft-and-ardents)  por Microsoft  [🔗](https://cointelegraph.com/tags/microsoft)  y el proveedor de soluciones de seguimiento de suministro Adents. El nuevo sistema ofrece trazabilidad y visibilidad de extremo a extremo desde el punto de origen a lo largo de toda la cadena de suministro, lo que permite a los usuarios rastrear partes de un solo producto dentro de un caso.
 
-Original source: [FedEx Institute Partners With Pharmacy to Use Blockchain for Cancer Medicine Distribution](https://cointelegraph.com/news/fedex-institute-partners-with-pharmacy-to-use-blockchain-for-cancer-medicine-distribution)
+[Original source](https://cointelegraph.com/news/fedex-institute-partners-with-pharmacy-to-use-blockchain-for-cancer-medicine-distribution)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

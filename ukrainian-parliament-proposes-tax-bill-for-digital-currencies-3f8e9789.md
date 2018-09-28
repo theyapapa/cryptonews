@@ -1,5 +1,7 @@
 # El Parlamento ucraniano propone una ley de impuestos para las monedas digitales...
 
+###### 2018-09-17
+
 La Verjovna Rada, el Parlamento de Ucrania, ha propuesto un proyecto de ley que, una vez promulgada la ley, gravaría las operaciones con activos criptográficos, según un proyecto de ley publicado el 14 de septiembre.
 
 El proyecto de ley de impuestos, que fue iniciado por 23 funcionarios del gobierno, sugiere un impuesto del cinco por ciento sobre individuos y entidades legales que operan con activos de moneda virtual, tales como cryptocurrencies y tokens.
@@ -14,6 +16,6 @@ En mayo de 2018, el jefe de la Comisión Nacional de valores y bolsa de Ucrania 
 
 En junio, el servicio estatal de protección especial de la comunicación y la información de Ucrania reveló que la autoridad no está planeando reglamentar la minería cryptocurrency, citando la situación incierta de las reacciones cryptocurrencies y imprevisibles por Las autoridades.
 
-Original source: [Ukrainian Parliament Proposes Tax Bill for Digital Currencies](https://cointelegraph.com/news/ukrainian-parliament-proposes-tax-bill-for-digital-currencies)
+[Original source](https://cointelegraph.com/news/ukrainian-parliament-proposes-tax-bill-for-digital-currencies)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

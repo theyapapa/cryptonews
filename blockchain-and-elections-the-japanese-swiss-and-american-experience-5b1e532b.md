@@ -1,5 +1,7 @@
 # Bloques y elecciones: la experiencia japonesa, Suiza y americana... # # los ensayos científicos del centro de Japón bloques a finales de agosto, la ciudad japonesa de Tsukuba prueba el uso de la tecnología bloques en su sistema de votación.
 
+###### 2018-09-06
+
 # # Sierra Leona: la elección bloques que no fue el 7 de marzo de 2018, se informó de que Sierra Leona se había convertido en la primera nación en implementar la tecnología bloques en el proceso electoral.
 
 De hecho, Agora había estado observando el proceso de votación y ejecutando un juicio bloques completamente separado junto con la elección para ilustrar cómo se podrían llevar a cabo las elecciones futuras usando la tecnología.
@@ -12,6 +14,6 @@ El hecho de que el grupo estuviera acreditado para juzgar su propio sistema de b
 
 Aunque es positivo acerca del potencial de la tecnología bloques para transformar el proceso de votación, el informe concluye que la bloques debe ser exhaustivamente probada para tener en cuenta el costo y la escala de la implementación más amplia.
 
-Original source: [Blockchain and Elections: The Japanese, Swiss and American Experience](https://cointelegraph.com/news/blockchain-and-elections-the-japanese-swiss-and-american-experience)
+[Original source](https://cointelegraph.com/news/blockchain-and-elections-the-japanese-swiss-and-american-experience)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

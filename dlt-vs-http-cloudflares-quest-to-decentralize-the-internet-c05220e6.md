@@ -1,5 +1,7 @@
 # DLT VS http: la búsqueda de CloudFlare para descentralizar Internet...
 
+###### 2018-09-21
+
 El 17 de septiembre, una vital red de distribución de contenido (CDN) basada en Estados Unidos CloudFlare introdujo un nuevo Gateway de contenido descentralizado a través del sistema de archivos interplanetarios (CIP), una red peer-to-peer (P2P) ejecutada por miles de equipos que omiten el http convencional Sistema.
 
 CloudFlare es una empresa que proporciona servicios de red de distribución de contenido (CDN) y protección DDoS.
@@ -14,6 +16,6 @@ Para atraer a nuevos clientes, CloudFlare está promoviendo su Gateway mediante 
 
 Además, tal vez en un intento de prevenir nuevos escándalos relacionados con la neutralidad neta, la compañía afirma que "el Gateway CIP de CloudFlare es simplemente una caché delante de CIP" y que no "tienen la capacidad de modificar o eliminar contenido de la red CIP", recordando que existe la posibilidad de que los usuarios compartan contenido abusivo.
 
-Original source: [DLT vs. HTTP: CloudFlare’s Quest to Decentralize the Internet](https://cointelegraph.com/news/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet)
+[Original source](https://cointelegraph.com/news/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

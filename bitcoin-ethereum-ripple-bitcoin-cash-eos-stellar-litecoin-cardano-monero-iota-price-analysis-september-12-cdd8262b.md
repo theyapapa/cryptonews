@@ -1,5 +1,7 @@
 # Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, Cardano, Monero, iota: Análisis de precios, 12 de septiembre...
 
+###### 2018-09-12
+
 El 11 de septiembre, la Comisión de valores y bolsa de Estados Unidos (SEC) sancionó por primera vez un fondo de cobertura de criptografía, mientras que la autoridad regulatoria de la industria financiera (FINRA) acusó al corredor Timothy Ayre de fraude de valores por un acuerdo de cryptocurrency.
 
 Si los toros defienden con éxito la zona de apoyo y el precio de empuje por encima de $6.500, un movimiento hacia la línea de bajista es probable, con resistencias menores en el EMA de 20 días y el SMA de 50 días.
@@ -14,6 +16,6 @@ Cualquier retirada se enfrentará a la resistencia en el EMA de 20 días, la lí
 
 # # Iota/USD Iota ha rechazado el EMA de 20 días y se ha roto por debajo de los mínimos del 9 de septiembre, lo que aumenta la probabilidad de una caída a $0,4628.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, September 12](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-12)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-12)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

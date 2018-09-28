@@ -1,5 +1,7 @@
 # Código de vida: bloques y el futuro de la genómica...
 
+###### 2018-09-03
+
 Para los interesados para proteger esta forma de identidad más crítica, bloques ha despertado un interés considerable como una poderosa alternativa a las arquitecturas cerradas y las hazañas propietarias del actual mercado de datos genómicos, lo que promete en su lugar un seguro y el protocolo abierto para el código de la vida.
 
 Él había apelado a voluntarios para contribuir a su proyecto de genoma personal sin fines de lucro (PGP) — una ' Wikipedia ' de datos genómicos humanos de acceso abierto que ha agregado alrededor de 10.000 muestras hasta el momento.
@@ -14,6 +16,6 @@ Este mayo, la Comisión Federal de comercio de los Estados Unidos abrió una inv
 
 # # # # A prueba de batalla, anonimizada sistemas bloques para la revolución genómica en este paisaje de datos genómicos cada vez más opacos, las empresas privadas monetizan los datos genotípicas generados por sus consumidores, y los datos de secuencias se fragmentan a través del propietario, silos centralizados — wheth
 
-Original source: [Life’s Code: Blockchain and the Future of Genomics](https://cointelegraph.com/news/lifes-code-blockchain-and-the-future-of-genomics)
+[Original source](https://cointelegraph.com/news/lifes-code-blockchain-and-the-future-of-genomics)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

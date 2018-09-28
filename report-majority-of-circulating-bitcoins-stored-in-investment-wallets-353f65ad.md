@@ -1,5 +1,7 @@
 # Report: la mayoría de los bitcoins circulantes almacenados en carteras de inversión...
 
+###### 2018-09-18
+
 La mayoría de los bitcoins circulantes (BTC) se almacenan en carteras de inversión, según un nuevo informe de la industria cryptocurrency y el boletín de análisis Diar.
 
 El análisis muestra que el 55 por ciento de bitcoins se mantienen actualmente en carteras que se valoran más de $1,3 millones, constituyendo saldos de más de 200 BTC.
@@ -14,6 +16,6 @@ Esto significa que solamente 4,2 millones bitcoins, o el 20 por ciento, fueron d
 
 En el momento de la prensa, BTC está comerciando alrededor de $6.332, un 1,3 por ciento en las últimas 24 horas, según el índice de precios Bitcoin de Cointelegraph.
 
-Original source: [Report: Majority of Circulating Bitcoins Stored in Investment Wallets](https://cointelegraph.com/news/report-majority-of-circulating-bitcoins-stored-in-investment-wallets)
+[Original source](https://cointelegraph.com/news/report-majority-of-circulating-bitcoins-stored-in-investment-wallets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

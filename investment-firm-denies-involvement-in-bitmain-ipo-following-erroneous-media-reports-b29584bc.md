@@ -1,5 +1,7 @@
 # La firma de inversiones niega la implicación en Bitmain IPO después de informes de medios erróneos...
 
+###### 2018-09-03
+
 La empresa de inversiones con sede en Singapur Temasek ha negado oficialmente su participación en la oferta pública inicial (IPO) del gigante minero de cryptocurrency Bitmain, según una declaración oficial del 30 de agosto.
 
 El mes pasado, los medios de comunicación informaron que Temasek fue uno de los inversores clave en la ronda de financiación de Bitmain pre-IPO.
@@ -14,6 +16,6 @@ A pesar de las declaraciones en contra de DST global, verborrea en Bitmain pre-I
 
 Sin embargo, al laico o a un inversionista potencial no iniciado, el lenguaje sugeriría que Bitmain había adquirido fondos de DST global.
 
-Original source: [Investment Firm Denies Involvement In Bitmain IPO Following Erroneous Media Reports](https://cointelegraph.com/news/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports)
+[Original source](https://cointelegraph.com/news/investment-firm-denies-involvement-in-bitmain-ipo-following-erroneous-media-reports)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

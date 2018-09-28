@@ -1,5 +1,7 @@
 # En una aparente primera, los tiempos altos para aceptar Crypto en su oferta pública inicial...
 
+###### 2018-08-02
+
 Organización de medios de cultivo de cannabis High Times Holding Corp. aceptará cryptocurrencies en su oferta pública inicial (IPO), reportes de tiempos altos el 2 de agosto.
 
 La "fuente preeminente para la información del cannabis desde 1974" aceptará Bitcoin (BTC) y Ethereum (ETH) en un esfuerzo para lanzar una red más amplia en la atracción de inversionistas a la compañía.
@@ -14,6 +16,6 @@ Los inversionistas podrán comprar acciones en tiempos altos por $11, un precio 
 
 Levin dijo que aceptar criptografía es parte de la misión de la organización de estar "a la vanguardia de la cultura popular... no sólo como una de las primeras marcas relacionadas con el cannabis para hacer pública en el NASDAQ sino también como la primera en permitir Bitcoin y Ethereum como parte de nuestro capit público al raise ".
 
-Original source: [In an Apparent First, High Times to Accept Crypto in Its Initial Public Offering](https://cointelegraph.com/news/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering)
+[Original source](https://cointelegraph.com/news/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

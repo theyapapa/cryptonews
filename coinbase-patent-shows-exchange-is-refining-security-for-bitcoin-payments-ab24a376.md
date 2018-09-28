@@ -1,5 +1,7 @@
 # Coinbase patente muestra Exchange es la refinación de la seguridad para los pagos de Bitcoin...
 
+###### 2018-08-17
+
 Una patente de u.s. crypto Exchange y el proveedor de cartera Coinbase propone un nuevo mecanismo para asegurar aún más los pagos de Bitcoin (BTC), de acuerdo con una presentación publicada por la oficina de patentes y marcas de los Estados Unidos (USPTO) el 14 de agosto.
 
 La presentación afirma que los sistemas existentes no abordan adecuadamente las preocupaciones "que las claves privadas de \ [usuarios ' \] direcciones Bitcoin pueden ser robados de sus carteras", al hacer los pagos, y en particular, cuando el registro en una página de comerciante.
@@ -14,6 +16,6 @@ Las transacciones se confirmarían "sólo si la clave API recibida del servidor 
 
 Como Coinbase busca reforzar la seguridad dentro de las transacciones criptográficas, MasterCard ha estado persiguiendo recientemente una patente que usaría bloques para asegurar las credenciales de pago del consumidor en el punto de venta.
 
-Original source: [Coinbase Patent Shows Exchange Is Refining Security for Bitcoin Payments](https://cointelegraph.com/news/coinbase-patent-shows-exchange-is-refining-security-for-bitcoin-payments)
+[Original source](https://cointelegraph.com/news/coinbase-patent-shows-exchange-is-refining-security-for-bitcoin-payments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

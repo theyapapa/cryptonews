@@ -1,5 +1,7 @@
 # Todos menos uno de los mejores 20 cryptos ver verde, Bitcoin con seguridad por encima de $6.700...
 
+###### 2018-09-23
+
 Todos menos uno de los 20 mejores cryptocurrencies por tapa del mercado han hecho ganancias en las últimas 24 horas, según CoinMarketCap.
 
 Fuente: Cointelegraph Bitcoin price index Ethereum (ETH), después de haber renunciado brevemente a su posición durante una ola masiva (XRP) Rally, ahora está de vuelta al segundo lugar por capitalización de mercado.
@@ -14,6 +16,6 @@ Fuente: CoinMarketCap la sexta moneda más grande por el Cap estelar del mercado
 
 Los altcoin experimentaron un crecimiento considerable esta semana, en torno al 40 por ciento en los últimos 7 días, según CoinMarketCap.
 
-Original source: [All But One of Top 20 Cryptos See Green, Bitcoin Safely Above $6,700](https://cointelegraph.com/news/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700)
+[Original source](https://cointelegraph.com/news/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

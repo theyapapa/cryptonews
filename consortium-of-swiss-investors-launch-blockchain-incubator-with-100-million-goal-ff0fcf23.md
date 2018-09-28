@@ -1,5 +1,7 @@
 # Consorcio de inversionistas suizos lanzan bloques incubadora con $100 millones gol...
 
+###### 2018-09-20
+
 Consorcio con sede en Suiza, Crypto Valley Venture Capital (CV VC) ha lanzado una incubadora de bloques con un objetivo de $100 millones, swissinfo.ch informó el 20 de septiembre.
 
 Según se informa, CV VC lanzó su incubadora inicial denominada "Genesis Hub" en el cantón de Zug, también conocido como el valle de Crypto de Suiza.
@@ -14,6 +16,6 @@ El co-fundador de CV VC Mathias la colmena dijo que "la tecnología de bloques e
 
 Vasiliy Suvorov, asesor del CV VC y Vicepresidente de la Asociación de Crypto Valley, apoyó esa visión, diciendo: "icos seguirá siendo un mecanismo útil, pero ya no será el núcleo de la economía bloques.
 
-Original source: [Consortium of Swiss Investors Launch Blockchain Incubator with $100 Million Goal](https://cointelegraph.com/news/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal)
+[Original source](https://cointelegraph.com/news/consortium-of-swiss-investors-launch-blockchain-incubator-with-100-million-goal)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

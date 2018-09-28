@@ -1,5 +1,7 @@
 # Report: algunas aplicaciones de minería de criptografía permanecen en Google Play Store a pesar de la reciente prohibición...
 
+###### 2018-08-28
+
 Según un informe de la siguiente web publicada el 28 de agosto, varias aplicaciones mineras cryptocurrency permanecen en la tienda de Google Play a pesar de la prohibición.
 
 El 27 de julio, Google prohibió aplicaciones de minería de criptografía de su tienda de juegos.
@@ -14,6 +16,6 @@ Lukas Stefanko, un investigador de malware de Eslovaquia, según se informa, enc
 
 En abril, Google también anunció que está eliminando las extensiones mineras de su tienda de Chrome Web después de "90 por ciento" supuestamente no cumplen con sus reglas.
 
-Original source: [Report: Some Crypto Mining Apps Remain in Google Play Store Despite Recent Ban](https://cointelegraph.com/news/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban)
+[Original source](https://cointelegraph.com/news/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

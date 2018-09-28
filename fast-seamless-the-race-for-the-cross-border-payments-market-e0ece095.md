@@ -1,5 +1,7 @@
 # Fast & inconsútil: la carrera por el mercado de pagos transfronterizos...
 
+###### 2018-09-09
+
 La primera semana de septiembre vio la ruptura de noticias que cambiaba el juego, ya que IBM anunció la promoción de su sistema de pago impulsado por DLT, bloques World WIRE (BWW), de beta a un producto listo para usar.
 
 Operando en el bloques estelar, el nuevo ferrocarril financiero proporcionará una infraestructura para despejar y resolver pagos transfronterizos con la finalidad "en casi en tiempo real", al mismo tiempo que reduce los costos de transacción mediante la eliminación de intermediarios de terceros del proceso.
@@ -14,6 +16,6 @@ Jesse Lund, el jefe del Departamento de bloques de IBM, señaló en una entrada 
 
 A juzgar por lo que se conoce acerca de bloques World WIRE en este punto, el diseño y la funcionalidad del sistema directamente en el hoyo contra el carril xRapid de Ripple en la carrera por las buenas gracias de los bancos globales.
 
-Original source: [Fast & Seamless: The Race for the Cross-Border Payments Market](https://cointelegraph.com/news/fast-seamless-the-race-for-the-cross-border-payments-market)
+[Original source](https://cointelegraph.com/news/fast-seamless-the-race-for-the-cross-border-payments-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

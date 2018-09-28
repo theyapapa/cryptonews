@@ -1,5 +1,7 @@
 # Policía de Tailandia sospechoso de arresto en $24 millones Bitcoin estafa...
 
+###### 2018-08-09
+
 La policía tailandesa ha detenido a 27 años de edad, el actor Jiratpisit "boom" Jaravijit en una presunta estafa de $24 millones cryptocurrency, Bangkok Post informó el 9 de agosto.
 
 Según se informa, el presunto ciber prometió comprar acciones en empresas que invirtieron en la moneda de dragón cryptocurrency.
@@ -14,6 +16,6 @@ Recientemente, el fabricante de software de seguridad basado en Tokio Trend Micr
 
 Por el precio de $25.000, los criminales podrían comprar malware de Bitcoin ATM acompañado de una tarjeta lista para usar con EMV y capacidades de comunicación de campo cercano (NFC).
 
-Original source: [Thai Police Arrest Suspect in $24 Million Bitcoin Scam](https://cointelegraph.com/news/thai-police-arrest-suspect-in-24-million-bitcoin-scam)
+[Original source](https://cointelegraph.com/news/thai-police-arrest-suspect-in-24-million-bitcoin-scam)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

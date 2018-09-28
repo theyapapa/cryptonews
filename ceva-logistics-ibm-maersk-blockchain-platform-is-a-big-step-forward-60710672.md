@@ -1,5 +1,7 @@
 # CEVA Logistics: la plataforma IBM-Maersk bloques es ' gran paso adelante '...
 
+###### 2018-08-10
+
 El gigante logístico registrado en Suiza CEVA Logistics ha anunciado su participación en la nueva plataforma conjunta bloques de IBM y Maersk TradeLens en un comunicado de prensa del 10 de agosto.
 
 CEVA dijo que la plataforma constituía su "respuesta al potencial sin explotar de las aplicaciones bloques en la industria logística".
@@ -14,6 +16,6 @@ Las cadenas de suministro de envío han formado desde hace tiempo un enfoque par
 
 Como Cointelegraph informó previamente, TradeLens comenzó como un proyecto piloto en marzo de 2017, mientras que otros esquemas han comenzado a operar con el objetivo de utilizar bloques para reducir los costos, papeleo y plazos, al tiempo que mejora la seguridad.
 
-Original source: [CEVA Logistics: IBM-Maersk Blockchain Platform Is ‘Big Step Forward’](https://cointelegraph.com/news/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward)
+[Original source](https://cointelegraph.com/news/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

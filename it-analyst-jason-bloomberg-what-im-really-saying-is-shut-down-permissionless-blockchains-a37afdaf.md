@@ -1,5 +1,7 @@
 # Analista de ti Jason Bloomberg: lo que realmente estoy diciendo es ' apagar Blockchains permissionless '...
 
+###### 2018-09-08
+
 Lo que esperaría que ocurriera es que, con el tiempo, como varias organizaciones y gobiernos, así como los bancos y las firmas comerciales de Wall Street se dan cuenta de que cryptocurrency permissionless tiene estos problemas, entonces gradualmente la tendencia sería estimular los sistemas de permisión en contra de la misión, y eso podría reducir el valor de Bitcoin y otros cryptocurrencies que se ejecutan en sistemas permissionless.
 
 Vea la entrevista completa con Jason Bloomberg aquí: # # contra un sistema sin confianza OC: para muchos, si no la mayoría de la gente en la industria del CRYPTO, el hecho de que cualquier persona puede enviar el dinero de una persona a otra directamente-sin los intermediarios, sin una empresa, fuera de un Banco — es un valor básico.
@@ -14,6 +16,6 @@ En 2018, el más popular es cryptojacking — o minería de criptografía ilíci
 
 Así que esencialmente, lo que cryptocurrency se ha convertido no es sólo una manera para que los criminales para entrar en la minería, pero es una manera de llevar a cabo las transacciones criminales, es una manera de conducir el hacking.
 
-Original source: [IT Analyst Jason Bloomberg: What I’m Really Saying Is ‘Shut Down Permissionless Blockchains’](https://cointelegraph.com/news/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains)
+[Original source](https://cointelegraph.com/news/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

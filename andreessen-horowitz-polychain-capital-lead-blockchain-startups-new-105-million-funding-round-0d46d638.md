@@ -1,5 +1,7 @@
 # Andreessen Horowitz, polichain capital plomo bloques nueva ronda de financiación $105 millones...
 
+###### 2018-08-30
+
 Los suizos y los Estados Unidos basados en bloques Cloud Computing startup DFINITY ha cerrado una nueva ronda de financiación por valor de más de $100 millones de los Backers de repetición, incluyendo Andreessen Horowitz, confirmó el 29 de agosto.
 
 DFINITY, que tiene como objetivo construir lo que describe como un "ordenador de Internet", recaudó un total de $102 millones francos suizos ($105 millones) de los socios que también ofreció bloques de inversión centrada en polichain capital.
@@ -14,6 +16,6 @@ El movimiento marca un nuevo compromiso de Andreessen a la esfera cryptocurrency
 
 Más recientemente, en julio, Andreesen participó en una ronda de financiación de $45 millones para bloques Cloud Computing Platform oasis Labs como parte de su plan para ayudar a las empresas a adoptar bloques.
 
-Original source: [Andreessen Horowitz, Polychain Capital Lead Blockchain Startup’s New $105 Million Funding Round](https://cointelegraph.com/news/andreessen-horowitz-polychain-capital-lead-blockchain-startups-new-105-million-funding-round)
+[Original source](https://cointelegraph.com/news/andreessen-horowitz-polychain-capital-lead-blockchain-startups-new-105-million-funding-round)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

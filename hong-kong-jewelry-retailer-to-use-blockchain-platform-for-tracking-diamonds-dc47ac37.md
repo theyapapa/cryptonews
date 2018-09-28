@@ -1,5 +1,7 @@
 # Hong Kong joyería minorista para utilizar bloques plataforma para el rastreo de diamantes...
 
+###### 2018-09-12
+
 El grupo de joyería de la joyería Chow Tai Fook, con sede en Hong Kong, comenzará a utilizar una plataforma bloques para rastrear los diamantes, informó el 12 de septiembre el correo de la mañana del sur de China.
 
 Chow Tai Fook, según informes, ha puesto algunos de sus diamantes en una plataforma bloques desarrollada por bloques startup Everledger y asegurada por la plataforma IBM bloques.
@@ -14,6 +16,6 @@ Global Diamond Giant de Beers anunció en mayo que rastreó 100 diamantes de alt
 
 En abril, los principales fabricantes y proveedores de la industria del oro y del diamante se asociaron con IBM para desarrollar una red de bloques para rastrear el origen de piezas de joyería acabadas.
 
-Original source: [Hong Kong Jewelry Retailer to Use Blockchain Platform for Tracking Diamonds](https://cointelegraph.com/news/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds)
+[Original source](https://cointelegraph.com/news/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

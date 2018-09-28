@@ -1,5 +1,7 @@
 # SEC intensifica la investigación en Biotech-convertido en la firma minera de criptografía bloques Riot...
 
+###### 2018-08-16
+
 La Comisión de valores y bolsa de Estados Unidos (SEC) ha intensificado su investigación sobre la firma minera de criptografía bloques Riot, según el último informe trimestral 10-Q de la firma presentado el 14 de agosto.
 
 Riot bloques es una antigua empresa de biotecnología que cambió su nombre para contener la palabra "bloques" el año pasado, viendo que las valuaciones se disparan de $8 a más de $40 como resultado, según un informe de CNBC.
@@ -14,6 +16,6 @@ Como Cointelegraph informó previamente, bloques Riot ya había recibido una cit
 
 Este marzo, la SEC se embarcó en una sonda criptográfica ampliamente publicitada, después de que el Presidente Jay Clayton se comprometiera a aumentar el escrutinio de las empresas que buscan "capitalizar la promesa percibida", el bloques Buzz.
 
-Original source: [SEC Intensifies Probe Into Biotech-Turned-Crypto Mining Firm Blockchain Riot](https://cointelegraph.com/news/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot)
+[Original source](https://cointelegraph.com/news/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

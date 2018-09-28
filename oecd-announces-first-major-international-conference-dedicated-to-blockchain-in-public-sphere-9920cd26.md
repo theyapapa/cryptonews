@@ -1,5 +1,7 @@
 # OCDE anuncia la ' primera gran conferencia internacional ' dedicada a bloques en la esfera pública...
 
+###### 2018-08-30
+
 La organización para la cooperación y el desarrollo económicos (OCDE) ha anunciado oficialmente un foro de política bloques en una publicación en el sitio web de la OCDE el 28 de agosto.
 
 La OCDE declara que el evento se celebrará en París el 4-5 de septiembre y que marcará el primer gran evento internacional de su tipo, dedicado a la tecnología bloques.
@@ -14,6 +16,6 @@ La OCDE se estableció en 1961 para "promover políticas que mejoren el bienesta
 
 En marzo de este año, la regulación de cryptocurrency y bloques formó un tema de discusión en la Cumbre del G20 en Argentina.
 
-Original source: [OECD Announces ‘First Major International Conference’ Dedicated to Blockchain in Public Sphere](https://cointelegraph.com/news/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere)
+[Original source](https://cointelegraph.com/news/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

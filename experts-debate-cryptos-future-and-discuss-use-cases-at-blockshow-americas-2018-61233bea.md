@@ -1,5 +1,7 @@
 # Los expertos debaten el futuro de Crypto y discuten casos de uso en BlockShow Americas 2018...
 
+###### 2018-08-21
+
 Roubini argumentó que "en el espacio de Crypto hay cero seguridad", alegando que no hay "democratización y descentralización".
 
 Kimm dijo que "no hay caso de uso real, \ [la industria tiene \] para encontrar una razón por la que las personas mayores se recogen con crypto."
@@ -14,6 +16,6 @@ Mientras que Manish Sharma, jefe de producto Senior en LinkedIn, propuso dar "po
 
 Durante la discusión del panel de ETF de bitcoin, bloques Media Advisor Dallas Santana dijo que se aburre con Crypto porque "no hay negocio real detrás de él", agregando que él está "enfermo y cansado de la historia de Bitcoin", ya que está perjudicando el desarrollo de la industria.
 
-Original source: [Experts Debate Crypto’s Future and Discuss Use Cases at BlockShow Americas 2018](https://cointelegraph.com/news/experts-debate-cryptos-future-and-discuss-use-cases-at-blockshow-americas-2018)
+[Original source](https://cointelegraph.com/news/experts-debate-cryptos-future-and-discuss-use-cases-at-blockshow-americas-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

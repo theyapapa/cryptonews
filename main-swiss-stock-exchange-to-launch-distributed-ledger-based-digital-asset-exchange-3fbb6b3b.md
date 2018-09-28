@@ -16,6 +16,6 @@ La medida ya ha captado la atención de la industria de la criptodivisa, pionero
 
 Esta semana, el mayor fondo de bolsa de Europa (ETF, por sus siglas en holandés), el holandés  [🔗](https://cointelegraph.com/tags/netherlands)  Speed Trader, anunció que se estaba moviendo hacia el terreno de la criptomoneda, a pesar de las reservas del regulador financiero del país.
 
-Original source: [Main Swiss Stock Exchange to Launch Distributed Ledger-Based ‘Digital Asset’ Exchange](https://cointelegraph.com/news/main-swiss-stock-exchange-to-launch-distributed-ledger-based-digital-asset-exchange)
+[Original source](https://cointelegraph.com/news/main-swiss-stock-exchange-to-launch-distributed-ledger-based-digital-asset-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

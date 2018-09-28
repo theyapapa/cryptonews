@@ -1,5 +1,7 @@
 # BitPay CCO predice que Altcoins ' nunca volver ', Bitcoin a ' rebote ' en 2019...
 
+###### 2018-09-13
+
 El principal oficial comercial del procesador de pagos Crypto global BitPay dijo que altcoins "nunca volverá", mientras que Bitcoin (BTC) "rebotará" en 2019, en una entrevista con Bloomberg el 12 de septiembre.
 
 "pero el año que viene verás la charla de los grandes participantes se vuelven reales, donde verás que Goldman lanza un escritorio de negociación, la fidelidad lanza un producto bitcoin, Square ofrece procesamiento de Bitcoin para los comerciantes, BlackRock lanza un ETF... Así que todo eso se volverá real, y verás algo de adopción en realidad.
@@ -14,6 +16,6 @@ En este sentido, BitPay fue recientemente integrado por los automóviles de lujo
 
 Con respecto a los nuevos "grandes participantes" a la industria, fuentes anónimas revelaron hoy que el gigante bancario estadounidense Morgan Stanley está planeando ofrecer a los clientes los swaps comerciales de bitcoin, lo que les permitiría comerciar con derivados criptográficos sin tener ninguna de las cryptocurrency.
 
-Original source: [BitPay CCO Predicts Altcoins to ‘Never Come Back,’ Bitcoin to ‘Rebound’ in 2019](https://cointelegraph.com/news/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019)
+[Original source](https://cointelegraph.com/news/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # China prohíbe la promoción relacionada con la criptografía en el distrito de Chaoyang de Beijing...
 
+###### 2018-08-23
+
 Fuente: el periódico muchos creen que la prohibición, primero cubierta por una aplicación de noticias local conocida como Jwview, también podría extenderse a otros distritos, según los corresponsales de Cointelegraph en China.
 
 Como Cointelegraph Japón ha informado, las restricciones en el distrito de Chaoyang se entrecruzan con un barrido de medidas más amplias dirigidas a los canales de comunicación o "lagunas" a través de los cuales los inversores chinos pueden acceder a las ofertas iniciales de monedas (ICO) o actividades relacionadas con la criptografía.
@@ -14,6 +16,6 @@ En un correo electrónico compartido con Cointelegraph, Crypto media site Coinda
 
 Este mes de febrero, China agregó los intercambios de cryptocurrency offshore y los sitios web de ICO a su gran firewall, el mismo meses que los anuncios relacionados con criptografía fueron eliminados del motor de búsqueda chino Baidu y la plataforma de medios sociales Weibo.
 
-Original source: [China Prohibits Crypto-Related Promotion in Beijing’s Chaoyang District](https://cointelegraph.com/news/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district)
+[Original source](https://cointelegraph.com/news/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # No importa el estancamiento del mercado, binance está empujando más en su expansión...
 
+###### 2018-09-24
+
 El 15 de septiembre vino con el anuncio del cofundador de binance y CEO Changpeng Zhao (también conocido como ' cz '): uno de los más grandes intercambios globales de criptografía comenzará a probar un intercambio de Crypto-Fiat en Singapur.
 
 # # conquista en Europa anteriormente en septiembre, binance había firmado un memorando de entendimiento (MOU) con la filial de FinTech y activos digitales de la bolsa de Malta, MSX PLC.
@@ -14,6 +16,6 @@ Destacando que el binance está interesado en expandirse al mercado africano "en
 
 En una entrevista exclusiva con Cointelegraph, CZ apareció tranquilo por la caída de los volúmenes de comercio — tanto en el binance como en otros intercambios de criptografía — a lo largo de 2018, señalando que "los mercados siempre exageran" — tanto cuando las cosas van bien, como cuando las cosas se refrescan — y que ha "visto esto muchas veces: cinco o seis veces, en un ciclo anual".
 
-Original source: [Nevermind the Stagnating Market, Binance Is Pushing Further in Its Expansion](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
+[Original source](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

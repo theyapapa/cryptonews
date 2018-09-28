@@ -1,5 +1,7 @@
 # IBM CTO nos dice congresistas ' vamos a conseguir el gobierno listo para bloques '...
 
+###### 2018-09-24
+
 IBM y los miembros del Caucus bloques del Congreso de los Estados Unidos discutieron el uso de bloques para sistemas de identificación, pagos y cadenas de suministro durante una reunión hoy, 24 de septiembre, según una llamada de prensa a la que asistieron Cointelegraph.
 
 IBM publicó recientemente un informe titulado "el impacto de bloques para el gobierno: ideas sobre la identidad, los pagos y la cadena de suministro" realizada en colaboración con el Caucus bloques del Congreso de los Estados Unidos.
@@ -14,6 +16,6 @@ Durante la llamada, el representante Schweikert — quien previamente instó al 
 
 Como Cointelegraph informó a principios de esta semana, el Congresista estadounidense y el miembro del Caucus bloques Tom Emmer anunció que iba a introducir tres proyectos de ley para apoyar el desarrollo de la tecnología bloques y cryptocurrencies, así como establecer un puerto seguro para contribuyentes con activos digitales "bifurcados".
 
-Original source: [IBM CTO Tells US Congressmen ‘Let's Get Government Ready for Blockchain’](https://cointelegraph.com/news/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain)
+[Original source](https://cointelegraph.com/news/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

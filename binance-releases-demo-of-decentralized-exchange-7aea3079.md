@@ -1,5 +1,7 @@
 # Binance lanza demostración de intercambio descentralizado...
 
+###### 2018-08-09
+
 El CEO de cryptocurrency Trading plataforma binance Changpeng Zhao anunció una demostración del intercambio descentralizado de la plataforma en un tweet hoy, 9 de agosto.
 
 En un video de seis minutos adjunto al tweet, Zhao presentó una demo "casual, Early, pre-Offer" del intercambio descentralizado.
@@ -14,6 +16,6 @@ Zhao dijo entonces que binance planea enumerar la cartera de confianza como una 
 
 Binance, que trasladó sus operaciones a Malta esta primavera, es el número uno de intercambio de criptografía por volumen de comercio, de acuerdo con Coinmarketcap.
 
-Original source: [Binance Releases Demo of Decentralized Exchange](https://cointelegraph.com/news/binance-releases-demo-of-decentralized-exchange)
+[Original source](https://cointelegraph.com/news/binance-releases-demo-of-decentralized-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # China extiende la prohibición de la promoción relacionada con la criptografía más allá de la capital...
 
+###### 2018-08-29
+
 El ataque anti-Crypto de China continúa, como una prohibición contra los lugares comerciales de alojamiento de eventos relacionados con la criptografía se ha extendido al distrito de desarrollo de Guangzhou, local media Outlet Jiemian informa el 29 de agosto.
 
 Según los informes, la oficina de desarrollo financiero del distrito emitió una notificación de la nueva prohibición del 24 de agosto, alertando de la necesidad de "mantener la seguridad y la estabilidad del sistema financiero".
@@ -14,6 +16,6 @@ Alibaba gigante chino del comercio electrónico-cuya filial ANT Financial ejecut
 
 El 24 de agosto, el Banco Popular de China (PBoC) emitió su propia alerta de riesgo contra la icos "ilegal", advirtiendo que bloques y la idea de "innovación financiera" están siendo utilizadas para atraer a los inversionistas como un "truco" que esconde esquemas de Ponzi esencialmente fraudulentos.
 
-Original source: [China Extends Crypto-Related Promotion Ban Beyond the Capital](https://cointelegraph.com/news/china-extends-crypto-related-promotion-ban-beyond-the-capital)
+[Original source](https://cointelegraph.com/news/china-extends-crypto-related-promotion-ban-beyond-the-capital)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

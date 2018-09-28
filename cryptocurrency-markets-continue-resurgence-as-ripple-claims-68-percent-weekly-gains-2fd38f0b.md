@@ -1,5 +1,7 @@
 # Cryptocurrency mercados continúan resurgiendo como Ripple reclama 68 por ciento de ganancias semanales...
 
+###### 2018-09-21
+
 Bitcoin (BTC) ha corregido rápidamente sus pérdidas mensuales el viernes, 21 de septiembre, después de que los mercados se reunieron para enviar precios por encima de $6.700 por primera vez en dos semanas.
 
 Los datos de Cointelegraph Price Tracker y Coin360 confirma un fuerte rendimiento para bitcoin, que había visto una semana de operaciones planas más cerca de $6.200.
@@ -14,6 +16,6 @@ Fuente: Cointelegraph Ethereum índice de precios ondulación (XRP) sin embargo,
 
 Fuente: Cointelegraph los comentaristas del índice de precio de la ondulación eran inicialmente inseguros en cuanto a la motivación para tal subida, ondulación sí mismo que insinuaba su red de transferencia del pago de xRapid pronto comenzaría a servir a sus primeros clientes bancarios.
 
-Original source: [Cryptocurrency Markets Continue Resurgence as Ripple Claims 68 Percent Weekly Gains](https://cointelegraph.com/news/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains)
+[Original source](https://cointelegraph.com/news/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

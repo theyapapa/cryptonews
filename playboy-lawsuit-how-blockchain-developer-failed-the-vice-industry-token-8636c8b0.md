@@ -1,5 +1,7 @@
 # Playboy pleito: Cómo bloques desarrollador falló la Vice industria token...
 
+###### 2018-08-18
+
 El sistema blockchains que bloque ha fallado en implementar en los sitios de Playboy es el token de la industria del vicio — un prometedor concepto de recompensa simbólica con la misión de crear la red de afiliados, de los cuales PlayboyTV es con un poco de duda el más famoso.
 
 El token de la industria del vicio (VIT) es básicamente un token de utilidad diseñado para ser usado en el universo de sitios web de la industria adulta.
@@ -14,6 +16,6 @@ Como dijo justamente el Vicepresidente de PornHub, Corey Price: "la historia ha 
 
 Hay también un número de icos que están demandando para proporcionar las soluciones para las diversas ramas de la industria, pero el token de la industria del vicio sigue siendo el primer y último proyecto iniciado por la empresa adulta grande y bien-renombrada.
 
-Original source: [Playboy Lawsuit: How Blockchain Developer Failed The Vice Industry Token](https://cointelegraph.com/news/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token)
+[Original source](https://cointelegraph.com/news/playboy-lawsuit-how-blockchain-developer-failed-the-vice-industry-token)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

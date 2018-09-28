@@ -16,6 +16,6 @@ Benson ha recaudado más de $5 bln desde el 2003, con su primer fondo, incluyend
 
 Mientras tanto, la tecnología de la cadena de bloqueo continúa siendo cada vez más popular en el país este año. Como Cointelegraph reportó  [🔗](https://cointelegraph.com/news/blockchain-technology-takes-hold-in-israel-expert-take)  en marzo, el gobierno de Israel ha adoptado una postura práctica hacia la innovación basada en la cadena de éxito en los servicios gubernamentales y más allá.
 
-Original source: [Czech Firm Reveals $100 Mln Venture Fund for Israeli Startups With ‘Emphasis’ on Blockchain](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
+[Original source](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

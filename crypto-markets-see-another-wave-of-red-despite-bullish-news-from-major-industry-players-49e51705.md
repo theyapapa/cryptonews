@@ -1,5 +1,7 @@
 # Los mercados criptográficos ven otra ola de rojo, a pesar de las noticias alcistas de los principales jugadores de la industria...
 
+###### 2018-09-10
+
 Lunes, 10 de septiembre: los mercados criptográficos han visto principalmente red hoy en día, con sólo dos monedas de los 20 mejores cryptocurrencies en el verde, y la tapa del mercado total rondando alrededor de $194 mil millones.
 
 Fuente: Cointelegraph Bitcoin price index después de también caer y luego probar un ligero rebote ayer, el mayor altcoin Ethereum (ETH) no ha podido mantener el punto $200 hoy.
@@ -14,6 +16,6 @@ Dash (Dash), puesto undécimo por la tapa del mercado, es la única otra moneda 
 
 En cambio, Ripple (XRP), tercera posición, ha sufrido las mayores pérdidas entre los 20 mejores cryptocurrencies en el último día, después de haber perdido el 6 por ciento para comerciar a $0,268 en el momento de la prensa.
 
-Original source: [Crypto Markets See Another Wave of Red, Despite Bullish News From Major Industry Players](https://cointelegraph.com/news/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

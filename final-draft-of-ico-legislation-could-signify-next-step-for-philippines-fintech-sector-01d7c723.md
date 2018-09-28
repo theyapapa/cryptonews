@@ -1,5 +1,7 @@
 # El borrador final de la legislación del ICO podría significar el próximo paso para el sector FinTech de Filipinas...
 
+###### 2018-09-14
+
 La Comisión de valores y bolsa de Filipinas (SEC) debe revelar el muy esperado proyecto de Reglamento para cryptocurrencies en los próximos días, si la información proporcionada por la manilla Times es correcta.
 
 El Presidente de la SEC, Amatong, explica su cooperación: "ya hemos discutido el asunto con el BSP, ya que el BSP también está interesado y también estamos interesados \ [... \] la discusión \ [... \] \ [implica \] supervisión cooperativa conjunta sobre \ [cryptocurrency intercambios \] comprometidos en el comercio.
@@ -14,6 +16,6 @@ De Lima proporcionó una lista de actividades ilícitas que podrían usar crypto
 
 # # Cryptocurrency y bloques podrían ayudar a unir el sector de pagos fragmentados de Filipinas en un intento por mantener al país a la vanguardia de la siempre creciente frontera criptográfica, el gobierno filipino ha creado la autoridad de la zona económica de Cagayan (Ceza).
 
-Original source: [Final Draft of ICO Legislation Could Signify Next Step for Philippines Fintech Sector](https://cointelegraph.com/news/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector)
+[Original source](https://cointelegraph.com/news/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # West Virginians comienzan a usar la aplicación de votación móvil basada en bloques...
 
+###### 2018-09-26
+
 West Virginians han comenzado a utilizar una aplicación de votación móvil basada en bloques para emitir papeletas ausentes en las próximas elecciones de mitad de período, Slate informó el 25 de septiembre.
 
 Los ciudadanos de Virginia Occidental que actualmente viven en el extranjero han empezado a utilizar una solicitud de bloques para votar el viernes, 21 de septiembre.

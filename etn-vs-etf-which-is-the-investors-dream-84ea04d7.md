@@ -1,5 +1,7 @@
 # ETN vs ETF: ¿Cuál es el sueño del inversor? ...
 
+###### 2018-08-18
+
 Sin embargo, el mayor premio en oferta para los inversionistas — principalmente de la variedad institucionalizada, que aún se muestran escépticos sobre la posesión de Bitcoin — es un fondo negociado con Exchange (ETF).
 
 El ETN se considera una alternativa "suave" al ETF de Bitcoin que muchos están persiguiendo, pero incluso con este movimiento para hacerla accesible a una audiencia en los Estados Unidos, separada de las regulaciones de su país y de la Comisión de los valores y de cambio de los e.e.u.u. (SEC) , no había mucho movimiento en el mercado.
@@ -14,6 +16,6 @@ De hecho, continúa afirmando: "todo el mundo está tan entusiasmado con ETFs, p
 
 # # el Santo Grial de ETF con un ETN ahora disponible para los inversionistas estadounidenses — así como el comercio de futuros posible a través de una serie de casas comerciales institucionalizadas — Bitcoin todavía no está alcanzando nuevas alturas.
 
-Original source: [ETN vs. ETF: Which Is the Investor’s Dream?](https://cointelegraph.com/news/etn-vs-etf-which-is-the-investors-dream)
+[Original source](https://cointelegraph.com/news/etn-vs-etf-which-is-the-investors-dream)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

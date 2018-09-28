@@ -1,5 +1,7 @@
 # Los mercados criptográficos ven señales mixtas como la tapa del mercado total mantiene la posición...
 
+###### 2018-09-16
+
 La visualización del mercado de Coin360 Bitcoin (BTC) es insignificante para arriba en el día, y el negociar en alrededor $6.504 en el tiempo de la prensa.
 
 Fuente: Cointelegraph Bitcoin price index Ethereum (ETH) está viendo pequeñas ganancias, en torno al 1 por ciento en las últimas 24 horas.
@@ -14,6 +16,6 @@ Estelar, la sexta moneda superior por la tapa del mercado, ahora está negociand
 
 Tezos, que vio las ganancias más grandes entre las 20 primeras monedas de ayer, ahora está negociando en $1,58, todavía hasta el 27 por ciento durante la semana, con BNB de comercio en alrededor de $9,88 en el momento de la prensa.
 
-Original source: [Crypto Markets See Mixed Signals as Total Market Cap Holds Position](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-as-total-market-cap-holds-position)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

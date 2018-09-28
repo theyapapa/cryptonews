@@ -1,5 +1,7 @@
 # Tech gigante Dell busca bloques para mantenerse competitivo en el mercado de servidores India...
 
+###### 2018-09-26
+
 Tech Giant Dell EMC Technologies planea seguir siendo un líder en el mercado de servidores de la India introduciendo productos que tienen capacidades bloques, noticias locales económico Times India informa el 26 de septiembre.
 
 Dell ha identificado bloques, inteligencia artificial (AI), análisis de datos y cumplimiento de la nube como características clave con las que la empresa avanzará para mantener su ventaja.
@@ -14,6 +16,6 @@ Como se informó a principios de este verano, el estado indio de Telangana ha an
 
 Mientras que receptivo a bloques, el más alto poder judicial del país está actualmente en el medio de revisar la prohibición discutible del Banco de la reserva de la India (RBI) en las relaciones de los bancos con las entidades Crypto-relacionadas.
 
-Original source: [Tech Giant Dell Looks to Blockchain to Stay Competitive in Indian Server Market](https://cointelegraph.com/news/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market)
+[Original source](https://cointelegraph.com/news/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

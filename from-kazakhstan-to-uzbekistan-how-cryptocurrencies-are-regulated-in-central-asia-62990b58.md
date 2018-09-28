@@ -1,5 +1,7 @@
 # De Kazajstán a Uzbekistán: Cómo Cryptocurrencies están regulados en Asia central...
 
+###### 2018-09-15
+
 El comentario del Presidente siguió al anuncio del Banco Nacional de Kazajstán (NBK) de que van a prohibir el comercio de criptografía y la minería en el país.
 
 El 30 de marzo, CBK Head Daniyar Akishev declaró en una entrevista con RIA Novosti: "en Kazajstán, el Banco Nacional es muy conservador hacia \ [cryptocurrencies \], acojo con beneplácito sólo regulaciones relativamente estrictas.
@@ -14,6 +16,6 @@ Según un informe de marzo denominado "la condición jurídica de la tecnología
 
 # # el Reglamento de Uzbekistán recientemente, Uzbekistán ha introducido una serie de leyes de regulación positivas para la industria de criptografía local, a saber, reconocer el comercio y la minería, así como eximir a los comerciantes criptográficos locales de impuestos.
 
-Original source: [From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia](https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia)
+[Original source](https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

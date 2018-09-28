@@ -147,6 +147,6 @@ Aquí está un Cryptocurrency. Ahora, por favor Use. [🔗](https://www.nytimes.
 
 El New York Times pide la importante cuestión de qué se puede hacer exactamente con las criptodivisas una vez que las tiene, usando el XRP de Ripple como un caso de ejemplo. El artículo detalla cómo Ripple está tratando de llevar el uso de XRP a la corriente principal, no solo a través de juicios con compañías financieras, sino también con grandes trucos publicitarios como Ashton Kutcher y Stephen Colbert, donando grandes cantidades de XRP en vivo por televisión a varias causas.
 
-Original source: [Hodler’s Digest, July 1-8: Finland Calls Bitcoin a ‘Fallacy,’ While EU Warns Against BTC Pessimists Like Robert Shiller](https://cointelegraph.com/news/hodler-s-digest-july-1-8-finland-calls-bitcoin-a-fallacy-while-eu-warns-against-btc-pessimists-like-robert-shiller)
+[Original source](https://cointelegraph.com/news/hodler-s-digest-july-1-8-finland-calls-bitcoin-a-fallacy-while-eu-warns-against-btc-pessimists-like-robert-shiller)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

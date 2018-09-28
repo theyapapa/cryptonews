@@ -1,5 +1,7 @@
 # Ripple se eleva a medida que los mercados Crypto más amplios ven el rubor de verde...
 
+###### 2018-09-20
+
 Visualización de mercado de Coin360 después de una semana volátil, Bitcoin (BTC) rebotado más allá de la marca $6.400 ayer por la noche, golpeando tan alto como $6.450 antes de corregir un poco y luego comerciando de lado para sellar su actual precio de comercio de $6.410.
 
 El crecimiento de Bitcoin las 24 horas es del 1,8 por ciento, según el índice de precios Bitcoin de Cointelegraph.
@@ -14,6 +16,6 @@ Fuente: el índice de precios de ondulación de Cointelegraph entre las otras di
 
 Tron (TRX) es el más fuerte de los veinte primeros de la moneda de ejecución en el día, un 5,55 por ciento para el comercio en $0,02 en el momento de la prensa.
 
-Original source: [Ripple Soars as Wider Crypto Markets See Flush of Green](https://cointelegraph.com/news/ripple-soars-as-wider-crypto-markets-see-flush-of-green)
+[Original source](https://cointelegraph.com/news/ripple-soars-as-wider-crypto-markets-see-flush-of-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

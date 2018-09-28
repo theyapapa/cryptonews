@@ -1,5 +1,7 @@
 # Aquí es cómo bloques ayudará a explorar el espacio...
 
+###### 2018-08-06
+
 Los grandes jugadores están adoptando bloques para la exploración espacial: gigantes espaciales como la administración nacional de Aeronáutica y espacial de Estados Unidos (NASA) y la Agencia Espacial Europea (esa) están estudiando formas de emplear a bloques para su misión.
 
 Como explica Kocsis, el RNCP examinará la aplicación de los contratos Smart bloques basados en Ethereum en el desarrollo de un sistema de cómputo seguro que sería aplicable para condiciones de espacio desafiantes: "en este proyecto, la tecnología Ethereum bloques se ser explotado para desarrollar una infraestructura descentralizada, segura y cognitiva de redes e informática para la exploración del espacio profundo.
@@ -14,6 +16,6 @@ Como explica Kocsis, el RNCP examinará la aplicación de los contratos Smart bl
 
 Para ejecutar un bloques basado en el espacio, el satélite Blockstream se basó en tecnologías de código abierto: su comunicado de prensa citó a GNU radio y Fast Internet Bitcoin Relay Engine (Fibre) como tecnologías incorporadas, mientras que la FAQ elabora: "cualquiera puede recibir la señal con una pequeña antena parabólica (similar a una antena de televisión por satélite de consumo) y una interfaz de SDR USB (radio definida por software) \ [... \] el costo total del equipo para un usuario es de sólo $100.
 
-Original source: [Here Is How Blockchain Will Help to Explore Space](https://cointelegraph.com/news/here-is-how-blockchain-will-help-to-explore-space)
+[Original source](https://cointelegraph.com/news/here-is-how-blockchain-will-help-to-explore-space)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

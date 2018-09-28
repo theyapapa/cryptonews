@@ -1,5 +1,7 @@
 # El gigante minorista chino JD.com lanza la plataforma Enterprise bloques-as-a-Service...
 
+###### 2018-08-17
+
 El gigante chino del comercio electrónico JD.com ha revelado su nueva plataforma bloques-as-a-Service (BaaS) en un comunicado de prensa publicado hoy, el 17 de agosto.
 
 La nueva herramienta, denominada JD bloques Open Platform, pretende permitir a las empresas construir, hospedar e implementar soluciones bloques sin tener que desarrollar la tecnología desde cero.
@@ -14,6 +16,6 @@ Mientras que JD no es de ninguna manera un recién llegado al espacio bloques, o
 
 En abril, el gigante de las telecomunicaciones Huawei reveló su herramienta BaaS con hipersustentador, que también está orientada hacia el desarrollo de contratos inteligentes basados en la nube y soluciones bloques eficientes para las empresas.
 
-Original source: [Chinese Retail Giant JD.com Launches Enterprise Blockchain-as-a-Service Platform](https://cointelegraph.com/news/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform)
+[Original source](https://cointelegraph.com/news/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

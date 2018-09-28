@@ -1,5 +1,7 @@
 # Los líderes de la industria de criptografía establecen grupo de lobby con sede en Washington...
 
+###### 2018-09-11
+
 Un grupo de bloques y compañías de criptografía con sede en Estados Unidos han anunciado que formarán la Asociación bloques, el "primer" grupo de cabildeo que representa a la industria bloques en Washington D.C., informó el 11 de septiembre el Washington Post.
 
 La Asociación bloques está formada por líderes de la industria como Crypto Exchange Coinbase, laboratorios de protocolo de inicio de tecnología, así como el grupo de moneda digital y el capital polichain.
@@ -14,6 +16,6 @@ En julio, Coinbase creó su propio Comité de acción política (PAC) para recau
 
 En los Estados Unidos, los PACS son organizaciones que aportan contribuciones de campaña de miembros con objetivos políticos y políticas similares y posteriormente las donan a campañas políticas a favor o en contra de candidatos, leyes o iniciativas electorales.
 
-Original source: [Crypto Industry Leaders Establish Washington-Based Lobby Group](https://cointelegraph.com/news/crypto-industry-leaders-establish-washington-based-lobby-group)
+[Original source](https://cointelegraph.com/news/crypto-industry-leaders-establish-washington-based-lobby-group)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

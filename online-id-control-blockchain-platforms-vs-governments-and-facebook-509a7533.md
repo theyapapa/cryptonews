@@ -1,5 +1,7 @@
 # Online ID control: bloques plataformas frente a gobiernos y Facebook...
 
+###### 2018-08-23
+
 En su esquema más básico, el uso de blockchains en el área de asegurar datos personales es simple: nuestros datos se almacenan en forma cifrada en una red descentralizada, y podemos conceder a otras partes el acceso a (algunos de) estos datos por el uso de nuestras claves privadas , de la misma manera que el uso de nuestras llaves nos permite enviar cryptocurrency a otra persona.
 
 # # Control y privacidad Alastair Johnson, CEO y fundador de e-commerce y de la plataforma de identificación Nuggets, Johnson entiende las trampas de almacenar masas de datos de identificación en silos centralizados demasiado bien.
@@ -14,6 +16,6 @@ Van a prescindir de las organizaciones que verifican nuestros IDS el dolor de ca
 
 Alastair Johnson está de acuerdo: "el mayor beneficio de una contabilidad descentralizada de datos personales sobre una base de datos centralizada es la seguridad contra los hackers que proporciona.
 
-Original source: [Online ID Control: Blockchain Platforms vs. Governments and Facebook](https://cointelegraph.com/news/online-id-control-blockchain-platforms-vs-governments-and-facebook)
+[Original source](https://cointelegraph.com/news/online-id-control-blockchain-platforms-vs-governments-and-facebook)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Los mercados Crypto se desploman después de sec Bitcoin ETF demora...
 
+###### 2018-08-07
+
 En el momento de la prensa, todos los diez cryptocurrencies que no son la correa (USDT) están en el rojo, según Coin360.
 
 Visualización de mercado de Coin360 BTC está negociando alrededor de $6.598 en el momento de la prensa, cayendo 5,29 por ciento en el último día y trayendo un nuevo semanal baja.
@@ -14,6 +16,6 @@ Entre las veinte primeras monedas por capitalización de mercado, Ethereum Class
 
 Fuente: CoinMarketCap la capitalización total del mercado de todo el cryptocurrencies está en $236,7 mil millones en la hora de la prensa, abajo casi $15 mil millones sobre el período de 24 horas.
 
-Original source: [Crypto Markets Slump Following SEC Bitcoin ETF Delay](https://cointelegraph.com/news/crypto-markets-slump-following-sec-bitcoin-etf-delay)
+[Original source](https://cointelegraph.com/news/crypto-markets-slump-following-sec-bitcoin-etf-delay)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

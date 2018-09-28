@@ -1,5 +1,7 @@
 # Los mercados Crypto intentan la recuperación, los círculos Bitcoin $6.500 apoyan...
 
+###### 2018-08-10
+
 La visualización de mercado de Coin360 Bitcoin (BTC) está intentando mantener el soporte de $6.500 en el momento de la prensa, comerciando alrededor de $6.485 y una fracción de un porcentaje en el día.
 
 Fuente: Cointelegraph Bitcoin price index Ethereum (ETH) actualmente está negociando alrededor de $360, perdiendo alrededor de un uno por ciento en el día para presionar el tiempo.
@@ -14,6 +16,6 @@ La capitalización total del mercado de todo el cryptocurrencies es alrededor de
 
 7-Day gráfico de la capitalización total del mercado de todos los cryptocurrencies de CoinMarketCap mientras que los cryptos individuales estacan sus fortunas en el mercado, ha habido nuevos progresos alcistas para su tecnología subyacente del bloques.
 
-Original source: [Crypto Markets Attempt Recovery, Bitcoin Circles $6,500 Support](https://cointelegraph.com/news/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support)
+[Original source](https://cointelegraph.com/news/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

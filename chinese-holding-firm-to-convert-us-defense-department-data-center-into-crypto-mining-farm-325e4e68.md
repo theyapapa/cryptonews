@@ -1,5 +1,7 @@
 # China Holding empresa para convertir el Departamento de defensa de Estados Unidos Centro de datos en la granja de minería crypto...
 
+###### 2018-09-11
+
 La compañía China de Holding Wuhan general Group (China), Inc. ha entrado en negociaciones para transformar una instalación del Departamento de defensa de los Estados Unidos en una granja de minería de criptografía, según un comunicado de prensa publicado el 11 de septiembre.
 
 Al convertir la instalación, se informa que el grupo general de Wuhan planea beneficiarse de las bajas tarifas de electricidad en los Estados Unidos, un clima fresco y Internet de alta velocidad, que es crucial para las operaciones mineras.
@@ -14,6 +16,6 @@ Algunos Estados Unidos son conocidos por los bajos costos de energía, que los c
 
 En julio, los reguladores del estado de Nueva York aprobaron un nuevo esquema de la tarifa eléctrica para los mineros cryptocurrency que les permitiera negociar contratos.
 
-Original source: [Chinese Holding Firm to Convert US Defense Department Data Center Into Crypto Mining Farm](https://cointelegraph.com/news/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm)
+[Original source](https://cointelegraph.com/news/chinese-holding-firm-to-convert-us-defense-department-data-center-into-crypto-mining-farm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # El funcionario surcoreano propone una mayor cooperación para la regulación criptográfica global...
 
+###### 2018-09-08
+
 Un funcionario del servicio de supervisión financiera de Corea del Sur (FSS) ha propuesto una mayor cooperación internacional entre los reguladores para la criptografía y la oferta inicial de monedas (ICO), noticias de la prensa económica asiática informes de televisión de Asia viernes, 7 de septiembre.
 
 Yoon Suk-Heun, gobernador de FSS, hizo una declaración sobre el potencial para más cooperación durante la ceremonia de inauguración de la vigésima conferencia integrada de supervisores financieros (IFSC) celebrada en Seúl el jueves, 6 de septiembre, y asistieron funcionarios de 15 países.
@@ -14,6 +16,6 @@ Los funcionarios del país han visitado el valle de Crypto de Suiza para obtener
 
 Sin embargo, los funcionarios de Corea del sur también han tomado medidas estrictas para regular el mercado criptográfico.
 
-Original source: [South Korean Official Proposes Greater Cooperation for Global Crypto Regulation](https://cointelegraph.com/news/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation)
+[Original source](https://cointelegraph.com/news/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

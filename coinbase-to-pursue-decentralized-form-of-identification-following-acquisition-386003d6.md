@@ -1,5 +1,7 @@
 # Coinbase para perseguir la forma descentralizada de identificación después de la adquisición...
 
+###### 2018-08-15
+
 Cryptocurrency Exchange y el servicio de cartera Coinbase ha adquirido en San Francisco startup Distributed Systems Inc., que trabaja en soluciones descentralizadas de identidad, de acuerdo con un anuncio del 15 de agosto.
 
 En la entrada del blog, B Byrne, Gerente de proyectos de identidad en Coinbase, dijo que los sistemas distribuidos ayudarán al intercambio a trabajar en nuevas formas de validar y verificar la identidad dentro de sus planes para desarrollar un sistema financiero abierto.
@@ -14,6 +16,6 @@ Byrne declaró además que Coinbase necesita ser "deliberada acerca de cómo y d
 
 La compañía estaba considerando elevar un $4 millones a $8 millones ronda este verano, pero el equipo comenzó las negociaciones sobre la inversión con Coinbase, que resultó en la adquisición.
 
-Original source: [Coinbase to Pursue Decentralized Form of Identification Following Acquisition](https://cointelegraph.com/news/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition)
+[Original source](https://cointelegraph.com/news/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

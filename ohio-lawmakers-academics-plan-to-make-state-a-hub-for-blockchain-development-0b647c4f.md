@@ -1,5 +1,7 @@
 # Los legisladores de Ohio, los académicos planean hacer del estado un centro para el desarrollo bloques...
 
+###### 2018-08-24
+
 El estado de Ohio de Estados Unidos ha hecho un intento de posicionarse a la vanguardia de la innovación bloques, de acuerdo con las observaciones hechas en una conferencia de prensa reciente en el Ohio statehouse 23 de agosto.
 
 Un grupo formado por legisladores, académicos y figuras del mundo de los negocios fueron convocados por el Presidente de la cámara de representantes de Ohio Ryan Smith para discutir los planes para fomentar el desarrollo de la tecnología y atraer a los desarrolladores y empresas bloques a la Estado.
@@ -14,6 +16,6 @@ Mientras que la referencia de la prensa de ayer no propuso una legislación bloq
 
 Este mes de abril, un proyecto de ley que permitía a las corporaciones mantener y compartir datos sobre un bloques fue oficialmente firmado en la ley del estado de Arizona, y los estatutos revisados del estado han estipulado que los datos "escritos" y almacenados en un bloques son "inmutables y auditables y proporcionan una verdad sin censura "desde el 2017 de abril.
 
-Original source: [Ohio Lawmakers, Academics Plan to Make State a Hub for Blockchain Development](https://cointelegraph.com/news/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development)
+[Original source](https://cointelegraph.com/news/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

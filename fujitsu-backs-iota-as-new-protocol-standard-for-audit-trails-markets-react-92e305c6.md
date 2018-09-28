@@ -1,5 +1,7 @@
 # Fujitsu respalda a Iota como "nuevo protocolo estándar" para las pistas de auditoría, los mercados reaccionan...
 
+###### 2018-08-27
+
 El conglomerado de TICs japonés Fujitsu lanza una prueba de concepto (POC) basada en Iota para los procesos de seguimiento de auditoría en la industria manufacturera, según un aviso oficial publicado el 25 de agosto.
 
 El aviso dice que la compañía usará el protocolo Iota como un "medio de almacenamiento de datos inmutable" para las rutas de auditoría a través de "entornos de producción industrial y cadenas de suministro", con el objetivo de mejorar la transparencia, la confianza de los datos y la seguridad de los datos.
@@ -14,6 +16,6 @@ El precio de Iota (Miota) ha aumentado más del 13 por ciento desde el anuncio d
 
 Fuente: CoinMarketCap noticias menos positivas a comienzos de este mes, la Fundación iota se vio envuelta en polémica después de que se filtrara una transcripción revelando un gran desacuerdo entre la alta dirección y los fundadores del proyecto, que desde entonces la Fundación ha sido SWIFT para conciliar públicamente.
 
-Original source: [Fujitsu Backs IOTA as ‘New Protocol Standard’ for Audit Trails, Markets React](https://cointelegraph.com/news/fujitsu-backs-iota-as-new-protocol-standard-for-audit-trails-markets-react)
+[Original source](https://cointelegraph.com/news/fujitsu-backs-iota-as-new-protocol-standard-for-audit-trails-markets-react)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

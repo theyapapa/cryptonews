@@ -1,5 +1,7 @@
 # Los sitios gubernamentales en la India entre los objetivos principales de Cryptojacking, la investigación muestra...
 
+###### 2018-09-17
+
 Los sitios oficiales del gobierno se han convertido en el objetivo principal de cryptojacking en la India, los informes de los tiempos económicos (et) hoy, 17 de septiembre.
 
 Según informes, nuevas investigaciones de analistas de ciberseguridad revelan que los sitios web gubernamentales de gran confianza – incluidos los del Director de la administración municipal de Andhra Pradesh, la Corporación Municipal de Tirupati y el municipio de Macherla – se han convertido en el lo último en ser explotado por la práctica.
@@ -14,6 +16,6 @@ Rajesh Maurya de Fortinet dijo a et que cryptojacking genera ingresos "con una f
 
 ET otros informes de que los productos de Internet de las cosas (lote) son considerados por los expertos de seguridad para ser "la próxima frontera" para cryptojackers, ya que tales dispositivos tienen una alta potencia de procesamiento y, sin embargo, puede estar inactivo durante gran parte del día.
 
-Original source: [Government Sites in India Among Prime Targets for Cryptojacking, Research Shows](https://cointelegraph.com/news/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows)
+[Original source](https://cointelegraph.com/news/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # El regulador financiero de Japón mejora el proceso de cribado de riesgos para los intercambios...
 
+###### 2018-09-02
+
 El regulador financiero de Japón, la Agencia de servicios financieros (FSA), fortalecerá el proceso de registro de registros para los intercambios cryptocurrency, medios de comunicación locales que el Japón Times reporta el 2 de septiembre.
 
 La FSA ha descalificado el proceso de registro, revisando la ley de servicios de pago — aplicada desde abril de 2017 — para "ver si [los intercambios criptográficos] están conduciendo correctamente la gestión del riesgo", dijeron las fuentes a los tiempos de Japón.
@@ -14,6 +16,6 @@ Más tarde, en agosto, Toshihide Endo, Comisionado de la FSA de Japón, le dijo 
 
 En julio, la FSA había estado considerando cambios en el fundamento jurídico de las reglamentaciones de cambio cryptocurrency, con un posible cambio de la ley de servicios de pago a la ley de instrumentos financieros y de cambio (FIEA), tal como Cointelegraph informó el 3 de julio.
 
-Original source: [Japan’s Financial Regulator Enhances Risk Screening Process for Crypto Exchanges](https://cointelegraph.com/news/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges)
+[Original source](https://cointelegraph.com/news/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

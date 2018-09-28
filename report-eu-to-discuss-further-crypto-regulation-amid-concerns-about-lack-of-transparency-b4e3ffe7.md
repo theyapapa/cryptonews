@@ -1,5 +1,7 @@
 # Informe: UE para discutir la regulación de la criptografía en medio de preocupaciones sobre la falta de transparencia...
 
+###### 2018-08-29
+
 Según se informa, los ministros de asuntos económicos y financieros de los 28 Estados miembros de la Unión Europea (UE) celebrarán una reunión informal sobre los desafíos que plantean los activos digitales y la posibilidad de endurecer las reglamentaciones, informó Bloomberg el 29 de agosto.
 
 Según un proyecto de nota de Bloomberg, los participantes discutirán una falta general de transparencia y el potencial de cryptocurrency para la evasión fiscal, el financiamiento terrorista y el blanqueo de dinero en una reunión del 7 de septiembre en Viena, Austria.
@@ -14,6 +16,6 @@ Las medidas de la Directiva establecen un nuevo marco jurídico para que los org
 
 Las nuevas normas promulgan requisitos de transparencia más estrictos dirigidos al uso de "pagos anónimos a través de tarjetas prepagadas" y "plataformas de cambio de moneda virtual" para el blanqueo de dinero o el financiamiento terrorista.
 
-Original source: [Report: EU to Discuss Further Crypto Regulation Amid Concerns About Lack of Transparency](https://cointelegraph.com/news/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency)
+[Original source](https://cointelegraph.com/news/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

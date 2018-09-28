@@ -1,5 +1,7 @@
 # Los mercados Crypto ven el rebote agudo, pero el casquillo total del mercado todavía debajo de $200 mil millones...
 
+###### 2018-09-09
+
 Domingo, 9 de septiembre: tras el baño de sangre después de la caída del mercado de esta semana, el precio de Bitcoin (BTC) ha subido bruscamente hoy.
 
 La visualización de mercado de Coin360 Bitcoin (BTC) saltó más del 3 por ciento en menos de una hora hoy, procediendo a comerciar de costado justo debajo de la marca $6.400 durante varias horas, antes de caer de nuevo en la hora para presionar el tiempo.
@@ -14,6 +16,6 @@ La tabla de precios de 7 días de EOS de CoinMarketCap Litecoin (LTC) también h
 
 7-Day gráfico de la capitalización total de mercado de todos cryptocurrencies de CoinMarketCap en una entrevista con Bloomberg 8 de septiembre, Ethereum (ETH) Co-fundador Vitalik Buterin dijo que cree que el crecimiento explosivo en el espacio criptográfico es "acercarse a golpear un callejón sin salida, "ahora que el trabajo inicial para elevar la conciencia criptográfica y bloques se ha hecho en gran medida:" Si usted habla con la persona educada promedio en este punto, probablemente han oído hablar de bloques al menos una vez.
 
-Original source: [Crypto Markets See Sharp Rebound, but Total Market Cap Still Below $200 Billion](https://cointelegraph.com/news/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

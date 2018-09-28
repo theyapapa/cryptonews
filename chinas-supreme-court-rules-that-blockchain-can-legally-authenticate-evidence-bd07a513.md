@@ -1,5 +1,7 @@
 # La Corte Suprema de China gobierna que bloques puede autenticar legalmente evidencia...
 
+###### 2018-09-07
+
 La Suprema Corte de China ha dictaminado que la evidencia autenticada con la tecnología bloques es vinculante en disparates legales, en un anuncio oficial publicado hoy, el 7 de septiembre.
 
 El nuevo fallo viene como parte de una serie de normas más completas que clarifican los procedimientos de litigio para los tribunales de Internet en toda China y entran en vigor inmediatamente.
@@ -14,6 +16,6 @@ En la actualidad, China cuenta con dos tribunales de Internet para la capital de
 
 Como ha esbozado una Cointelegraph experta, las innovaciones relacionadas con el bloques no sólo se reconocen legalmente como capaces de autenticar pruebas, sino que incluso, como en el caso de los contratos inteligentes, se considera que tienen el potencial de convertirse en una de las principales perturbadoras fuerza a la esfera jurídica.
 
-Original source: [China’s Supreme Court Rules That Blockchain Can Legally Authenticate Evidence](https://cointelegraph.com/news/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence)
+[Original source](https://cointelegraph.com/news/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

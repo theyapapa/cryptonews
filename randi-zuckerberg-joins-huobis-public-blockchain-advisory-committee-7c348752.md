@@ -1,5 +1,7 @@
 # Randi Zuckerberg se une al Comité Consultivo de la bloques pública de Huobi...
 
+###### 2018-08-27
+
 Randi Zuckerberg, la hermana mayor del fundador de Facebook, Mark Zuckerberg, se ha unido al Consejo Consultivo de cryptocurrency Exchange Huobi para desarrollar el nuevo bloques público de Huobi, según un comunicado de prensa reciente.
 
 Zuckerberg, quien trabajó en Facebook por más de seis años, es también el fundador y CEO de Zuckerberg media.
@@ -14,6 +16,6 @@ En junio, Facebook revocó su prohibición de la publicidad criptográfica, que 
 
 La nueva póliza requiere que los anunciantes de productos y servicios de cryptocurrency envíen una aplicación para permitir que Facebook evalúe su elegibilidad.
 
-Original source: [Randi Zuckerberg Joins Huobi’s Public Blockchain Advisory Committee](https://cointelegraph.com/news/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee)
+[Original source](https://cointelegraph.com/news/randi-zuckerberg-joins-huobis-public-blockchain-advisory-committee)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

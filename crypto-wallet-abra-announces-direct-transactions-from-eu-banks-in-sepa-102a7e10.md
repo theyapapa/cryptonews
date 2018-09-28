@@ -1,5 +1,7 @@
 # Crypto Wallet abra anuncia transacciones directas de bancos de la UE en sepa...
 
+###### 2018-09-04
+
 Global Crypto Wallet abra ha permitido la compra y venta directa de cryptocurrencies para cuentas bancarias europeas, según un comunicado de prensa publicado por PR Newswire el martes, 4 de septiembre.
 
 Abra, que ofrece 28 cryptocurrencies para consumidores en todo el mundo, ahora apoyará cuentas bancarias de la zona de pagos individuales (sepa).
@@ -14,6 +16,6 @@ Hasta el anuncio de hoy, la cartera de abra sólo podría ser financiada por el 
 
 La zona única de pagos del euro (sepa) es un sistema de pago que simplifica las transferencias bancarias en la UE.
 
-Original source: [Crypto Wallet Abra Announces Direct Transactions From EU Banks in SEPA](https://cointelegraph.com/news/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa)
+[Original source](https://cointelegraph.com/news/crypto-wallet-abra-announces-direct-transactions-from-eu-banks-in-sepa)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Coinbase custodia considera la adición de 37 nuevos activos incluyendo XRP, EOS y XMR...
 
+###### 2018-08-03
+
 San Francisco, con sede en Exchange y el servicio de cartera Coinbase anunció hoy, 3 de agosto que está explorando la adición de 40 nuevos activos a su servicio de custodia, Coinbase custodia.
 
 La publicación del blog subraya que los activos criptográficos pueden ser añadidos "sólo para almacenamiento", y que Coinbase los agregará "lo más rápido y seguro posible".
@@ -16,6 +18,6 @@ La custodia de Coinbase se lanzó el 2 de julio de este año, con el objetivo de
 
 El nuevo servicio supuestamente utiliza una serie de medidas de seguridad que incluyen "segregación en cadena de activos criptográficos", "protección de transacciones offline, multi-SIG y geográficamente distribuida" y "auditoría y reporting robustos de almacenamiento en frío".
 
-Original source: [Coinbase Custody Considers Addition of 37 New Assets Including XRP, EOS and XMR](https://cointelegraph.com/news/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr)
+[Original source](https://cointelegraph.com/news/coinbase-custody-considers-addition-of-37-new-assets-including-xrp-eos-and-xmr)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

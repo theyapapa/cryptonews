@@ -1,5 +1,7 @@
 # Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, Cardano, Monero, iota: Análisis de precios, 15 de agosto...
 
+###### 2018-08-15
+
 Una vez que los toros escapan de la línea bajista del triángulo descendente y el SMA de 50-Day, es probable atraer la cubierta corta por los osos, que pueden propulsar los precios a $8.500 y más altos.
 
 El 14 de agosto, el par ETH/USD se desplomó por debajo del soporte clave de $280 y cayó a una baja intradía de $249,93.
@@ -14,6 +16,6 @@ Por otra parte, si los toros empujan rápidamente los precios por encima de $538
 
 # # Iota/USD esperábamos que los toros defendieran el nivel psicológico de $0,5, pero la venta arrastró Iota a un bajo intradía de $0,4037, cerca de nuestro objetivo inferior de $0,38.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 15](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-15)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-15)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

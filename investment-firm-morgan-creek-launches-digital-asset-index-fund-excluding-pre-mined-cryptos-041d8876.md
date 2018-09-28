@@ -1,5 +1,7 @@
 # La firma de inversión Morgan Creek lanza el fondo de índice de activos digitales excluyendo criptas pre-minadas...
 
+###### 2018-08-28
+
 Morgan Creek digital, respaldado por la casa de inversión institucional Morgan Creek capital con $1,5 mil millones en activos bajo la administración, ha lanzado un nuevo fondo de índice de activos digitales en asociación con bit a bits, Forbes informa el 28 de agosto.
 
 El nuevo fondo dará a los inversionistas acreditados, dotaciones, pensiones y otros inversionistas institucionales aprobados la posibilidad de obtener una exposición indirecta a Bitcoin (BTC), Ethereum (ETH) y otros ocho grandes activos de la PAC del mercado, aunque notablemente no Ripple (XRP) y Estelar (XLM).
@@ -14,6 +16,6 @@ Junto con sus restricciones en las monedas pre-minadas, Morgan Creek estipula la
 
 Como Cointelegraph ha informado, este regulador del gobierno de primavera Gary Gensler argumentó que altcoins como Ethereum y Ripple podrían ser considerados como valores no registrados basados en sus Preventas de fichas.
 
-Original source: [Investment Firm Morgan Creek Launches Digital Asset Index Fund Excluding Pre-Mined Cryptos](https://cointelegraph.com/news/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos)
+[Original source](https://cointelegraph.com/news/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

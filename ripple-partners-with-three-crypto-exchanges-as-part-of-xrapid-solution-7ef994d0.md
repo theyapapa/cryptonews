@@ -1,5 +1,7 @@
 # Ripple se asocia con tres intercambios de criptografía como parte de la solución XRapid...
 
+###### 2018-08-16
+
 Ripple ha añadido tres intercambios cryptocurrency a su producto de liquidación de pagos transfronterizos, según un comunicado de prensa publicado el 16 de agosto.
 
 Los nuevos socios permitirán que la solución de pagos xRapid de Ripple se desplace entre XRP y dólares estadounidenses, pesos mexicanos y pesos filipinos, respectivamente.
@@ -14,6 +16,6 @@ En mayo, las instituciones financieras que participaron en el proyecto piloto de
 
 Aunque las pruebas mostraron un rendimiento sólido del producto, el cifrador principal de Ripple, David Schwartz, afirmó que es improbable que los bancos desplieguen bloques para procesar los pagos internacionales, citando baja escalabilidad y problemas de privacidad.
 
-Original source: [Ripple Partners With Three Crypto Exchanges as Part of XRapid Solution](https://cointelegraph.com/news/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution)
+[Original source](https://cointelegraph.com/news/ripple-partners-with-three-crypto-exchanges-as-part-of-xrapid-solution)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

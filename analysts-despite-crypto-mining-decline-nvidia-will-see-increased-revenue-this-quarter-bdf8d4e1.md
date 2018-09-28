@@ -1,5 +1,7 @@
 # Analistas: a pesar de la disminución de la minería Crypto, NVIDIA verá un aumento de los ingresos de este trimestre...
 
+###### 2018-08-10
+
 Analistas encuestados por FactSet sugieren que NVIDIA verá aumento de los ingresos de este trimestre a pesar de "menguante" cryptocurrency minería, MarketWatch informó el 10 de agosto.
 
 Mientras que los analistas sugieren que los ingresos de la compañía de hardware de la minería de criptografía disminuirán, el fabricante de unidades de procesamiento gráfico (GPU) con sede en Estados Unidos verá un crecimiento significativo en sus ventas de juegos y servidores.
@@ -14,6 +16,6 @@ NVIDIA, sin embargo, sugirió que las ventas al mercado de criptografía probabl
 
 El principal competidor de NVIDIA Advanced Micro Devices (AMD) reveló en abril que el 10 por ciento de los ingresos de la compañía durante el trimestre fue atribuido a bloques o minería, aunque la CEO de la compañía lisa su dijo que bloques era "un poco de una distracción en el corto término ".
 
-Original source: [Analysts: Despite Crypto Mining Decline, Nvidia Will See Increased Revenue This Quarter](https://cointelegraph.com/news/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter)
+[Original source](https://cointelegraph.com/news/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

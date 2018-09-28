@@ -1,5 +1,7 @@
 ¿Toro o oso? Cómo se correlacionan las acciones de sec con los precios de mercado...
 
+###### 2018-08-13
+
 Si bien es importante recordar que en un mercado tan volátil y apenas regulado, las noticias podrían afectar a los precios en menor grado, y la reciente caída correlacionó con la decisión de la Comisión de valores y bolsa de Estados Unidos (SEC) de aplazar su veredicto sobre la lista y comercio de un fondo negociado con Bitcoin (ETF) hasta finales de septiembre.
 
 # # SEC considera que los tokens DAO son valores ilegales cuando: Julio 2017 presunta reacción: ligeramente bajista en julio de 2017, la SEC llegó con una decisión importante, poniendo su marca de interés en el mercado de criptografía.
@@ -14,6 +16,6 @@ Mientras que la noticia parecía bastante neutral, y esencialmente significaba q
 
 Un par de días después, William Hinman, Director de la división de finanzas corporativas de la SEC, afirmó que Ethereum (ETH) tampoco es una garantía, poniendo fin a un dilema de un mes de duración que podría haber podido terminar con el 2014 ICO de Ethereum siendo fuera de la ley: "dejando de lado la recaudación de fondos que acompañó a la creación de éter, basándome en mi comprensión del estado actual de éter, la red Ethereum y su estructura descentralizada, las ofertas actuales y las ventas de éter no son transacciones de valores \ [... \] Y, como con bitcoin, aplicar el régimen de divulgación de las leyes federales de valores a las transacciones actuales en éter parecería añadir poco v
 
-Original source: [Bull or Bear? How SEC Actions Correlate With Market Prices](https://cointelegraph.com/news/bull-or-bear-how-sec-actions-correlate-with-market-prices)
+[Original source](https://cointelegraph.com/news/bull-or-bear-how-sec-actions-correlate-with-market-prices)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

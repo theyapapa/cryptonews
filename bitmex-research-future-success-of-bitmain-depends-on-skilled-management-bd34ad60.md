@@ -1,5 +1,7 @@
 # BitMEX Research: el éxito futuro de Bitmain depende de la gestión especializada...
 
+###### 2018-08-31
+
 Una unidad de investigación de Crypto Exchange BitMEX analizó los datos recientes sobre Bitmain que se filtró a Twitter a principios de esta semana.
 
 Discutiendo la fuente de datos financieros filtrados de Bitmain — aparentemente una cuenta de Twitter @brian \_trollz — BitMEX afirma que tiene "razones para creer la autenticidad de estos documentos".
@@ -14,6 +16,6 @@ Como BitMEX ha aprendido de los datos filtrados, Bitmain acaba de llevar a cabo 
 
 En conclusión, BitMEX expresa un cauteloso optimismo sobre las perspectivas futuras de Bitmain: "Bitmain puede ser una legendaria empresa de criptografía, generando fuertes retornos de los accionistas en las próximas décadas, pero con el fin de lograrlo (y es mucho más difícil de lo que suena) el Bitmain el equipo directivo puede necesitar mejorar su gestión de los recursos de la empresa.
 
-Original source: [BitMEX Research: Future Success of Bitmain Depends on Skilled Management](https://cointelegraph.com/news/bitmex-research-future-success-of-bitmain-depends-on-skilled-management)
+[Original source](https://cointelegraph.com/news/bitmex-research-future-success-of-bitmain-depends-on-skilled-management)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

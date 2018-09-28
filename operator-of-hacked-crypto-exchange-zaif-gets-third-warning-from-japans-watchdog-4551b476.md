@@ -1,5 +1,7 @@
 # Operador de Hacked Crypto Exchange Zaif obtiene la tercera ADVERTENCIA del perro guardián de Japón...
 
+###### 2018-09-25
+
 La Agencia de servicios financieros de Japón (FSA) ha emitido una tercera orden de mejora de negocios al propietario de Hacked Crypto Exchange Zaif, Tech Bureau.
 
 La Agencia de servicios financieros ya había ordenado a la oficina técnica que hiciera mejoras en el negocio primero en marzo, y posteriormente en junio de este año.
@@ -14,6 +16,6 @@ A comienzos de este verano, la FSA publicó los resultados de sus inspecciones i
 
 A raíz de la industria de enero rompiendo récords $532 millones hack of Crypto Exchange Coincheck, el año ha visto a la Agencia revelar una serie de medidas cada vez más exigentes para los operadores nacionales.
 
-Original source: [Operator of Hacked Crypto Exchange Zaif Gets Third Warning From Japan's Watchdog](https://cointelegraph.com/news/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog)
+[Original source](https://cointelegraph.com/news/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

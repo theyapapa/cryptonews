@@ -1,5 +1,7 @@
 # Importante grupo minero F2Pool publica la lista de precios mínimos para la minería de criptografía rentable...
 
+###### 2018-09-07
+
 El CEO de la empresa de minería de criptografía con sede en China F2Pool publicó una infografía de marca de la compañía 6 de septiembre que indica en qué puntos de precio mínimo la minería de varios cryptocurrencies se vuelve no rentable.
 
 Shixing Mao, cofundador y CEO y de la sexta mayor agrupación minera F2Pool del mundo, publicó una lista de los niveles de precios de los principales cryptocurrencies, como Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) y Zcash (Canaria) por debajo de la cual la minería dijo que la moneda con varios los diferentes mineros supuestamente se vuelven imrentables.
@@ -14,6 +16,6 @@ En el momento de la prensa, Bitcoin está comerciando a $6.452, según el índic
 
 En julio, el mayor productor de microchips taiwaneses TSMC una vez más sus estimaciones anuales de ingresos y gastos de capital, después de la reducción de la tasa de crecimiento en el campo de la minería de criptografía, entre otras áreas.
 
-Original source: [Major Mining Pool F2Pool Publishes List of Minimum Prices for Profitable Crypto Mining](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
+[Original source](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

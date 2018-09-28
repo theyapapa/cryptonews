@@ -1,5 +1,7 @@
 # Informe: bolsa de Hong Kong mirando bloques firmes adquisiciones...
 
+###### 2018-09-21
+
 Fuentes de información privilegiada han sugerido que la bolsa de valores de Hong Kong (HKEx) está mirando las adquisiciones en el bloques y otros sectores tecnológicos, según un artículo de Bloomberg publicado el 21 de septiembre.
 
 Bloomberg cita "personas con conocimiento de la materia" como diciendo que el intercambio está considerando un cambio en la estrategia debido a estancamiento de los vínculos comerciales con los intercambios en China, alegando que empeorar las relaciones comerciales entre Estados Unidos y China como otra causa de preocupación.
@@ -14,6 +16,6 @@ Las fuentes de Bloomberg alegan además que las adquisiciones de tecnología pot
 
 De acuerdo con Bloomberg, HKEx ha "luchado para integrar" su 2012 adquisición de London Metal Exchange, y el artículo cita a un innamed HKEx Asesor como diciendo que hay "preocupaciones de la industria" que rodea el éxito de las ofertas futuras.
 
-Original source: [Report: Hong Kong Stock Exchange Eyeing Blockchain Firm Acquisitions](https://cointelegraph.com/news/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions)
+[Original source](https://cointelegraph.com/news/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

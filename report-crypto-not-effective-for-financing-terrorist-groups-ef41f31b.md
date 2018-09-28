@@ -1,5 +1,7 @@
 # Report: Crypto no es efectivo para financiar grupos terroristas...
 
+###### 2018-09-10
+
 Un nuevo informe publicado el 7 de septiembre por el centro de sanciones y Finanzas ilícitas de la Fundación para la defensa de las democracias de Estados Unidos (FDD) (CSIF) muestra que las monedas digitales no son apropiadas para financiar grupos terroristas.
 
 El informe fue presentado por el director de análisis CSIF Yaya Fanusie en una audiencia ante el Subcomité de terrorismo y Finanzas ilícitas de la cámara de representantes de los Estados Unidos.
@@ -14,6 +16,6 @@ Fanusie también señaló que los legisladores reconocen a cryptocurrencies como
 
 Fanusie concluyó diciendo que el uso terrorista de monedas digitales refleja el del público en general: "pero la tecnología cryptocurrencies y bloques no son ilícitas e innatas y no deben ser temidas.
 
-Original source: [Report: Crypto Not Effective for Financing Terrorist Groups](https://cointelegraph.com/news/report-crypto-not-effective-for-financing-terrorist-groups)
+[Original source](https://cointelegraph.com/news/report-crypto-not-effective-for-financing-terrorist-groups)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

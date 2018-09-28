@@ -1,5 +1,7 @@
 # Australiano inmobiliario mayor a prueba bloques-Powered energía solar solución de gestión...
 
+###### 2018-09-25
+
 La vecindad firme australiana ha anunciado que juzgará una solución bloques para su red de la energía.
 
 La vecindad – con más de $42 mil millones en activos inmobiliarios bajo administración – se ha asociado con la compañía australiana Energy Tech, Power Ledger.
@@ -14,6 +16,6 @@ Power Ledger es una compañía australiana de energía renovable que utiliza sol
 
 En febrero, Cointelegraph informó que bloques es ampliamente utilizado en la industria de la energía, con casos de uso notable, incluyendo sistemas de monitoreo de consumo de energía y recompensas cryptocurrency para aquellos que utilizan fuentes de energía renovables, como la energía solar.
 
-Original source: [Australian Real Estate Major to Trial Blockchain-Powered Solar Energy Management Solution](https://cointelegraph.com/news/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution)
+[Original source](https://cointelegraph.com/news/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

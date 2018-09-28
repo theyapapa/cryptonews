@@ -1,5 +1,7 @@
 # Jamie Dimon dice que JPMorgan usará bloques ' para un montón de cosas '...
 
+###### 2018-08-05
+
 Jamie Dimon de JPMorgan Chase era alcista en bloques Tech, pero evitó lejos de comentar sobre cryptocurrency, diciendo que las aplicaciones de pago de Fiat son "la mayor interrupción potencial de nuestro negocio" en una entrevista publicada en la edición de julio-agosto de la Harvard Revisión de negocios.
 
 Cuando se le preguntó sobre la principal amenaza competitiva de su compañía, Dimon, Presidente y CEO de JPMorgan Chase, el mayor de los cuatro grandes bancos de Estados Unidos, señaló lo que él llamaba "nuevas formas de pago".
@@ -14,6 +16,6 @@ Algo contrariamente a lo que Dimon dijo a Harvard Business Review en su reciente
 
 Sin embargo, en los últimos meses, JPMorgan — y evidentemente Dimon — han salido más explícitamente como alcistas en bloques, y el Banco incluso ha presentado una patente relacionada con bloques el 3 de mayo.
 
-Original source: [Jamie Dimon Says JPMorgan Will Use Blockchain ‘for a Whole Lot of Things’](https://cointelegraph.com/news/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things)
+[Original source](https://cointelegraph.com/news/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

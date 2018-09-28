@@ -1,5 +1,7 @@
 # Fedex se une a hyperledger bloques Hub, ' grandes implicaciones ' para la logística...
 
+###### 2018-09-26
+
 El gigante federal de servicios de mensajería de Fedex se ha unido a hyperledger, un proyecto de código abierto establecido para mejorar las tecnologías de bloques entre industrias, según un comunicado de prensa publicado el 26 de septiembre.
 
 Al unirse a hyperledger, Fedex se ha convertido en uno de los más de 270 miembros.

@@ -1,5 +1,7 @@
 # Nuevo estudio proporciona perspectivas alcistas sobre bitcoin, alegando $98.000 posible...
 
+###### 2018-08-30
+
 De acuerdo con las nuevas investigaciones realizadas por el grupo de la firma asesora de la moneda inicial (ICO), el precio de Bitcoin (BTC) podría llegar potencialmente a $98.000 en los próximos cinco años.
 
 El último estudio también se expande sobre la valoración de cryptoassets necesarios para apoyar una economía pronosticada y proporciona estimaciones de las condiciones del mercado para los próximos diez años.
@@ -14,6 +16,6 @@ Como resultado, el crecimiento de la capitalización de mercado de cryptoasset e
 
 A comienzos de este mes, la investigación de Sanford C. Bernstein & Co. sugirió que los ingresos generados por los intercambios cryptocurrency podrían ser más del doble para alcanzar $4 mil millones en 2018, mientras que el informe del mercado ICO de ICORating para el segundo trimestre de 2018 mostró que el ICO mercado se había duplicado en un año.
 
-Original source: [New Study Provides Bullish Outlook on Bitcoin, Claiming $98,000 Possible](https://cointelegraph.com/news/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible)
+[Original source](https://cointelegraph.com/news/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

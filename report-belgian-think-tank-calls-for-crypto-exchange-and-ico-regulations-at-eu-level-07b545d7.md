@@ -1,5 +1,7 @@
 # Report: el think tank belga pide regulaciones de intercambio de criptografía e ICO a nivel de la UE...
 
+###### 2018-09-05
+
 Un informe de un tanque de reflexión belga que, según se informa, será distribuido a los ministros de la Unión Europea (UE) pide una legislación unificada sobre cryptocurrencies y un mayor escrutinio de cómo se distribuyen a los inversores, informó Reuters 5 de septiembre.
 
 El informe, ostensiblemente publicado por el think tank Bruegel, con sede en Bruselas, se adelanta a una reunión informal de Ministros de asuntos económicos y financieros de la u.e. sobre inversiones cryptocurrency y Tributación de la economía digital.
@@ -14,6 +16,6 @@ Bruegel observa que los reguladores deben tolerar los intercambios de criptograf
 
 El 30 de agosto, Bloomberg informó que los ministros de la u.e. planean debatir los desafíos que plantean los activos digitales y la posibilidad de ajustar las regulaciones en la próxima reunión.
 
-Original source: [Report: Belgian Think Tank Calls for Crypto Exchange and ICO Regulations at EU Level](https://cointelegraph.com/news/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level)
+[Original source](https://cointelegraph.com/news/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

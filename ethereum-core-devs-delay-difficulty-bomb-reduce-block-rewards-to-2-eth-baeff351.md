@@ -1,5 +1,7 @@
 # Ethereum Core Devs Delay ' bomba de dificultad, ' reducir las recompensas de bloque a 2 ETH...
 
+###### 2018-08-31
+
 Ethereum (ETH) los desarrolladores principales decidieron en su reunión regular de YouTube el 31 de agosto para retrasar la "bomba de dificultad" al aceptar incluir el código para tal cambio en el próximo tenedor duro de Constantinopla.
 
 Para implementarlo, los desarrolladores se les ocurrió una solución llamada "bomba de dificultad", que hace que la producción de nuevos bloques sea más compleja y desfavorable.
@@ -14,6 +16,6 @@ El Resumen de la discusión dice: "comenzando con ' CNSTNTNPL\_FORK\_BLKNUM ' el
 
 Además, las recompensas de bloques se ajustarán a una base de 2 ETH, las recompensas del tío y del sobrino se ajustarán en consecuencia. "
 
-Original source: [Ethereum Core Devs Delay ‘Difficulty Bomb,’ Reduce Block Rewards to 2 ETH](https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth)
+[Original source](https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

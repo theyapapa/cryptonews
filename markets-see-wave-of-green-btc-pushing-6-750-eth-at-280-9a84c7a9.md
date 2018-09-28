@@ -1,5 +1,7 @@
 # Los mercados ven la ola de verde, BTC empujando $6.750, ETH en $280...
 
+###### 2018-08-25
+
 Prácticamente todos los Top 100 cryptocurrencies están en el Green hoy en día, con un crecimiento sólido de entre 1 y 4 por ciento entre las 10 monedas más grandes de la tapa del mercado, como muestra Coin360 Data.
 
 La visualización de mercado de Coin360 Bitcoin (BTC) está negociando alrededor de $6.696 en el momento de la prensa, hasta alrededor de 2,5 por ciento en el día, de acuerdo con el índice de precios Bitcoin de Cointelegraph.
@@ -14,6 +16,6 @@ La capitalización total de mercado de todos los cryptocurrencies es de alrededo
 
 gráfico de 7 días de la capitalización total del mercado de todos los cryptocurrencies de CoinMarketCap a mediados de la semana, los mercados vieron una caída similar a la que vino en respuesta a la noticia de julio de que la propuesta de alto perfil de BTC ETF de los gemelos Winklevoss también había sido rechazada por el SEC, que entonces vio un $12 mil millones comparable limpió de capitalización de mercado total.
 
-Original source: [Markets See Wave of Green, BTC Pushing $6,750, ETH At $280](https://cointelegraph.com/news/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280)
+[Original source](https://cointelegraph.com/news/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

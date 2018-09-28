@@ -1,5 +1,7 @@
 # IBM solicita patente bloques para garantizar el cumplimiento de las transacciones a través de datos de nodos...
 
+###### 2018-08-17
+
 Tech Giant IBM ha solicitado una patente bloques para el desarrollo de identificadores de datos de transacciones basados en nodos, de acuerdo con un documento de patente publicado por la oficina de patentes y marcas de Estados Unidos (USPTO) el 16 de agosto.
 
 El sistema descrito en la patente, titulado "Caracterización de nodos en bloques", pretende introducir un método de extracción de datos a partir de nodos en una red bloques para identificar diferentes tipos de transacciones.
@@ -14,6 +16,6 @@ El día de hoy, Cointelegraph informó que el Banco de Estados Unidos capital de
 
 El 14 de agosto, se lanzó una solicitud de patente por parte de los principales Estados Unidos de comercio criptográfico y la plataforma de cartera Coinbase para impulsar la seguridad de los pagos de Bitcoin (BTC), especialmente para abordar los problemas asociados con el robo de las claves privadas de los usuarios de sus billeteras.
 
-Original source: [IBM Applies for Blockchain Patent to Ensure Transaction Compliance via Nodes Data](https://cointelegraph.com/news/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data)
+[Original source](https://cointelegraph.com/news/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

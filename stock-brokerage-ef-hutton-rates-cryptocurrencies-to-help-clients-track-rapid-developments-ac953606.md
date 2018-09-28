@@ -1,5 +1,7 @@
 # Corretaje de acciones EF Hutton tarifas Cryptocurrencies para ayudar a los clientes a seguir ' desarrollos rápidos '...
 
+###### 2018-09-07
+
 La firma de corretaje de valores de Estados Unidos, EF Hutton, anunció que lanzaría investigación y calificaciones de cryptocurrencies y negocios de la industria para sus clientes el miércoles 5 de septiembre.
 
 EF Hutton, cuyo afiliado Megga Inc. lanzó anteriormente su propio token criptográfico MeggaCoin el año pasado, dijo en un comunicado de prensa que quiere ayudar a los inversores "confundidos" que están interesados en obtener una mejor comprensión del espacio.
@@ -14,6 +16,6 @@ La cobertura de las empresas también usará la misma escala, EF Hutton anuncian
 
 Mientras que EF Hutton no explicó las razones detrás de sus selecciones, las calificaciones hacen eco de los esfuerzos de agencias como Weiss a principios de este año, cuyos resultados rápidamente ganó notoriedad en los círculos cryptocurrency.
 
-Original source: [Stock Brokerage EF Hutton Rates Cryptocurrencies to Help Clients Track ‘Rapid Developments’](https://cointelegraph.com/news/stock-brokerage-ef-hutton-rates-cryptocurrencies-to-help-clients-track-rapid-developments)
+[Original source](https://cointelegraph.com/news/stock-brokerage-ef-hutton-rates-cryptocurrencies-to-help-clients-track-rapid-developments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

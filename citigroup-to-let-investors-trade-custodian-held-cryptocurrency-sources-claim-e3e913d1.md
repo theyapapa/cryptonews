@@ -1,5 +1,7 @@
 # Citigroup permitirá a los inversores comerciar con custodios Cryptocurrency, fuentes reclaman...
 
+###### 2018-09-10
+
 El banco multinacional de Estados Unidos Citigroup está desarrollando un producto cryptocurrency para dar a los inversores institucionales acceso a los mercados criptográficos sin poseer cryptoassets directamente, fuentes anónimas dijeron a Business Insider el 9 de septiembre.
 
 Citigroup, que anteriormente había tomado un enfoque centralizado de cryptocurrency, utilizará, según se informa, una versión renovada de los recibos depositarios americanos (ADR) – un tipo de seguridad emitida desde la década de 1920 que representa valores de una empresa que no es de Estados Unidos – para dejar inversores indirectamente Trade crypto.
@@ -14,6 +16,6 @@ Aunque no se mencionó un plazo para una posible implementación y Citigroup se 
 
 Como Cointelegraph informó, el 9 de septiembre vio a los Estados Unidos regulador de la Comisión de valores y bolsa (SEC) emitir una sorpresiva prohibición temporal de las primeras notas relacionadas con el intercambio de Crypto (ETNS), citando "confusión" entre los inversionistas.
 
-Original source: [Citigroup to Let Investors Trade Custodian-Held Cryptocurrency, Sources Claim](https://cointelegraph.com/news/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim)
+[Original source](https://cointelegraph.com/news/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

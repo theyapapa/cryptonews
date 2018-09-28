@@ -1,5 +1,7 @@
 # Survey: la mitad de los milenios americanos interesados en el uso de Crypto...
 
+###### 2018-09-06
+
 Una encuesta reciente realizada por el servicio de investigación YouGov omnibus muestra que la mitad de los milenios americanos están interesados en usar cryptocurrency.
 
 La encuesta, que recogió respuestas de 1202 encuestados del 29-30 de agosto, evalúa el interés de los encuestados en el uso de criptografía en la vida diaria: "de las personas que creen que cryptocurrencies se aceptará ampliamente, más de un tercio (36%) dicen que sería interesado en convertir a principalmente el uso de un cryptocurrency en lugar del dólar estadounidense.
@@ -14,6 +16,6 @@ Por la encuesta, sólo el 9 por ciento de los encuestados poseen criptografía, 
 
 66 por ciento de los europeos han oído hablar de cryptocurrency, 35 por ciento acordó que el CRYPTO es el "futuro del gasto en línea", mientras que 35 por ciento dijo que aumentaría su valor en los siguientes 12 meses.
 
-Original source: [Survey: Half of American Millennials Interested in Using Crypto](https://cointelegraph.com/news/survey-half-of-american-millennials-interested-in-using-crypto)
+[Original source](https://cointelegraph.com/news/survey-half-of-american-millennials-interested-in-using-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

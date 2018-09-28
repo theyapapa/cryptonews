@@ -1,5 +1,7 @@
 # Jeremy Gardner: ' Bitcoin no es diferente de los sistemas monetarios de hoy, excepto que puede ser mejor '...
 
+###### 2018-09-21
+
 La razón por la cual Bitcoin fue inicialmente adoptada — la razón por la que la tecnología Bitcoin y bloques existe hoy en día — es que existe por sobre todo una razón y una razón solamente.
 
 Fue sólo una vez que los individuos en el mundo desarrollado realmente tenían un propósito de adquirir estos tokens criptográficos para intercambiar en el comercio que Bitcoin alcanzó un valor significativo — una vez que la gente entendía que Bitcoin permitía que la gente hiciera algo que no podía hacer antes.
@@ -14,6 +16,6 @@ Pero para las 2 mil millones personas en el mundo que no tienen acceso a los ser
 
 Ya sabes, con soluciones de remesas hoy, pruebas hoy, sobre dar directamente a gente como esta, pero históricamente hemos estado construyendo la tecnología bloques para las personas que más lo necesitan: tú y yo, la gente en los Estados Unidos, la gente en el Oeste.
 
-Original source: [Jeremy Gardner: ‘Bitcoin Is No Different Than Money Systems Today, Except That It May Be Better’ ](https://cointelegraph.com/news/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better)
+[Original source](https://cointelegraph.com/news/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

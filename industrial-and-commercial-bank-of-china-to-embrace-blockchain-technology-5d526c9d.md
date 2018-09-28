@@ -1,5 +1,7 @@
 # Banco Industrial y comercial de China para abrazar la tecnología bloques...
 
+###### 2018-09-03
+
 El Presidente del banco industrial y comercial de China (ICBC) ha dicho que el Banco se centrará en el desarrollo de la tecnología de bloques, reportó binueva el 1 de septiembre.
 
 En 2017, el Banco se centró en la construcción de "banca inteligente" y "despliegue acelerado en el campo de las tecnologías financieras".
@@ -14,6 +16,6 @@ A comienzos de agosto, el partido comunista de China (CPC) lanzó una cartilla s
 
 Al presentar el libro, el CPC supuestamente tiene como objetivo ayudar a las autoridades gubernamentales a entender el concepto de tecnología de contabilidad distribuida (DLT) y considerar los beneficios y desafíos de adoptar bloques a escala nacional.
 
-Original source: [Industrial and Commercial Bank of China To Embrace Blockchain Technology](https://cointelegraph.com/news/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology)
+[Original source](https://cointelegraph.com/news/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Galaxy digital CEO Mike Novogratz llama fondo de precio crypto...
 
+###### 2018-09-13
+
 Mike Novogratz, fundador y CEO de la firma de inversión de Crypto Galaxy digital Capital Management, dijo que los precios de cryptocurrency han tocado un fondo en un tweet hoy, 13 de septiembre.
 
 Novogratz también señaló que el Bloomberg Galaxy Crypto index (BGCI), que está diseñado para medir el rendimiento de la mayor cryptocurrencies comerciado en dólares estadounidenses, "retocó los altos de finales del año pasado y el punto de aceleración que llevó a la masiva Rally/burbuja ".
@@ -14,6 +16,6 @@ Más tarde ese mes, Galaxy digital publicó su primer trimestre de informe para 
 
 A partir del 31 de marzo, Galaxy digital tenía $281,7 millones en activos, de los cuales $225,8 millones eran activos digitales e inversiones.
 
-Original source: [Galaxy Digital CEO Mike Novogratz Calls Crypto Price Bottom](https://cointelegraph.com/news/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom)
+[Original source](https://cointelegraph.com/news/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

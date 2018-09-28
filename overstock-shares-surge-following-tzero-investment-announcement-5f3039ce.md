@@ -1,5 +1,7 @@
 # Sobrestock shares surge después del anuncio de inversión de tZERO...
 
+###### 2018-08-09
+
 Las acciones de sobrestock se elevaron en un 21 por ciento en operaciones después de horas después de la noticia de que la firma de capital privado con sede en Hong Kong, GSR, invertirá hasta $270 millones en tZERO, una filial de bloques de sobrepoblación, CNBC informó el 9 de agosto.
 
 Las dos compañías firmaron un acuerdo en el que GSR capital invertirá hasta $374.550.000 a cambio de tZERO y acciones de sobrestock.
@@ -14,6 +16,6 @@ tZERO también "entró en las cajas fuertes ejecutadas \ [acuerdos simples para 
 
 El 6 de agosto, tZERO anunció el cierre de su oferta de token de seguridad (STO) a las 11:59 PM EDT ese día.
 
-Original source: [Overstock Shares Surge Following tZERO Investment Announcement](https://cointelegraph.com/news/overstock-shares-surge-following-tzero-investment-announcement)
+[Original source](https://cointelegraph.com/news/overstock-shares-surge-following-tzero-investment-announcement)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

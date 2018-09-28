@@ -1,5 +1,7 @@
 # El operador eléctrico más grande de China del autobús y el socio firme de bloques en $24 mil millones reparto...
 
+###### 2018-08-20
+
 La firma estadounidense de tecnología Seven Stars Cloud Group (SSC) anunció que había entrado en un acuerdo con el operador de autobuses eléctricos más grande de China para proporcionar servicios financieros usando la tecnología bloques el 20 de agosto.
 
 Parte del interés continuo de China en los reacondicionamientos de transporte público eléctrico, el gobierno planea reemplazar todos los autobuses tradicionales con vehículos eléctricos tan pronto como 2021.
@@ -14,6 +16,6 @@ Desde bloques sistemas de pago de exploración por parte de Bank of China y Unio
 
 "cada uno de los diez principales fabricantes de autobuses en China respalda con firmeza el NTS en esta iniciativa, y el éxito de esta transacción con SSC situará las ofertas digitales respaldadas por activos firmemente en el mapa", agregó Huang.
 
-Original source: [China’s Largest Electric Bus Operator and Blockchain Firm Partner in $24 Billion Deal](https://cointelegraph.com/news/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal)
+[Original source](https://cointelegraph.com/news/chinas-largest-electric-bus-operator-and-blockchain-firm-partner-in-24-billion-deal)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

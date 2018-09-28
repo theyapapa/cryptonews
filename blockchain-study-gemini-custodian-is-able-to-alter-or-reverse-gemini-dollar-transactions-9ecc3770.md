@@ -1,5 +1,7 @@
 # Bloques Study: Gemini custodio es capaz de alterar o revertir las transacciones de Gemini Dollar...
 
+###### 2018-09-16
+
 La implementación del recientemente lanzado Gemini Dollar (GUSD) stablecoin puede ser completamente cambiado por un custodio Gemini cada 48 horas, según un estudio escrito por el investigador bloques Alex Lebed y el consultor criptográfico Alexey Akhunov, publicado en medio el 11 de septiembre.
 
 En la investigación, los autores repasan el código del contrato elegante de GUSD para demostrar que la puesta en práctica de los USD de Gemini puede llegar a ser intransferible o congelada en cualquier momento, que se observa en el libro blanco del dólar de Géminis.
@@ -14,6 +16,6 @@ Después de la aprobación del Departamento de servicios financieros de Nueva Yo
 
 El dólar Gemini representa el primer activo relacionado con el Crypto de los gemelos Winklevoss, quienes anteriormente recibieron un segundo rechazo de los reguladores para lanzar el fondo negociado con Bitcoin (BTC) (ETF) en julio.
 
-Original source: [Blockchain Study: Gemini Custodian is Able to Alter or Reverse Gemini Dollar Transactions](https://cointelegraph.com/news/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions)
+[Original source](https://cointelegraph.com/news/blockchain-study-gemini-custodian-is-able-to-alter-or-reverse-gemini-dollar-transactions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

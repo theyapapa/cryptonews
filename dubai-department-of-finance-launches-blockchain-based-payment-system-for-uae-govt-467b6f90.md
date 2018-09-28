@@ -1,5 +1,7 @@
 # El Departamento de Finanzas de Dubai lanza el sistema de pago basado en bloques para los EAU Gov't...
 
+###### 2018-09-23
+
 El Departamento de Finanzas de Dubai (DoF) se ha asociado con la oficina de Smart Dubai (SDO) para lanzar un sistema de pago impulsado por bloques.
 
 Según Zawya, el DoF y el SDO de Dubai tienen la intención de que el sistema prevea un proceso de gobernanza más preciso y transparente, así como de permitir pagos en tiempo real dentro y entre estructuras gubernamentales.
@@ -14,6 +16,6 @@ En abril de este año, el Vicepresidente y primer ministro de los EAU lanzó la 
 
 En julio, el centro financiero internacional de Dubai (DIFC) anunció su asociación con Smart Dubai para desarrollar un "Tribunal de la bloques".
 
-Original source: [Dubai Department of Finance Launches Blockchain-Based Payment System for UAE Gov’t](https://cointelegraph.com/news/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt)
+[Original source](https://cointelegraph.com/news/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

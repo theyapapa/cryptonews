@@ -1,5 +1,7 @@
 # Paris Saint-Germain Soccer Club para lanzar fan token...
 
+###### 2018-09-10
+
 El Club de fútbol francés Paris Saint-Germain (PSG) se asocia con la plataforma bloques socios.com para lanzar un ecosistema simbólico, según un comunicado de prensa compartido con Cointelegraph el 11 de septiembre.
 
 La plataforma está impulsada por un deporte bloques Venture apodado chiliZ, que cuenta con el respaldo de los jugadores de alto perfil de la industria Crypto que incluyen el intercambio de Crypto binance.
@@ -16,6 +18,6 @@ La FTO del Club se llevará a cabo antes del comienzo de la próxima temporada d
 
 Dreyfus también enfatizó en Cointelegraph que mientras PSG es el primer club de alto perfil en unirse a la iniciativa, la plataforma finalmente pretende comprometer a "cientos de millones" de fanáticos del fútbol de clubes de fútbol de alto calibre en todo el mundo.
 
-Original source: [Paris Saint-Germain Soccer Club to Launch Fan Token](https://cointelegraph.com/news/paris-saint-germain-soccer-club-to-launch-fan-token)
+[Original source](https://cointelegraph.com/news/paris-saint-germain-soccer-club-to-launch-fan-token)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

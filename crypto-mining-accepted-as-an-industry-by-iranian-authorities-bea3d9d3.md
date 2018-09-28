@@ -1,5 +1,7 @@
 # La minería de criptografía aceptada como una industria por las autoridades iraníes...
 
+###### 2018-09-04
+
 El Consejo Supremo del ciberespacio del Secretario del Irán reveló que varios ministerios del gobierno del país han aceptado la minería de criptografía como industria, informó el 4 de septiembre la Agencia de noticias local IBENA.
 
 Según el informe, la Secretaria del Consejo del ciberespacio, Abolhassan Firoozabadi, destacó que la minería de cryptocurrencies como Bitcoin (BTC) ha sido aprobada como una industria por las principales autoridades gubernamentales.
@@ -14,6 +16,6 @@ A finales de agosto, el centro nacional del ciberespacio de Irán reveló que el
 
 En ese momento, el subdirector encargado de redactar reglamentos para el Consejo Supremo del ciberespacio del Irán afirmó que la idea de lanzar un cryptocurrency nacional se está persiguiendo activamente.
 
-Original source: [Crypto Mining Accepted as an Industry by Iranian Authorities](https://cointelegraph.com/news/crypto-mining-accepted-as-an-industry-by-iranian-authorities)
+[Original source](https://cointelegraph.com/news/crypto-mining-accepted-as-an-industry-by-iranian-authorities)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

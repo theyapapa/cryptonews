@@ -1,5 +1,7 @@
 # El ex ingeniero SpaceX se dirige a los comerciantes de consumo con su LXDX Crypto Exchange...
 
+###### 2018-09-17
+
 Un ex ingeniero de la SpaceX de Elon Musk ha anunciado que su nueva firma LXDX lanzará un intercambio público de cryptocurrency, Leaprate informa el lunes, 17 de septiembre.
 
 Previamente involucrado en la automatización y propulsión en SpaceX, Joshua Greenwald ha convertido su atención en el comercio cryptocurrency de grado institucional.
@@ -14,6 +16,6 @@ El anuncio viene cuando el sector de inversión institucional se convierte en un
 
 "Cryptocurrencies son una clase de activos totalmente nueva", dijo Greenwald a venturebeat después de anunciar la ronda de financiación de agosto.
 
-Original source: [Former SpaceX Engineer Targets Consumer Traders With His LXDX Crypto Exchange](https://cointelegraph.com/news/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange)
+[Original source](https://cointelegraph.com/news/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

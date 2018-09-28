@@ -1,5 +1,7 @@
 # SIM intercambiar: Cómo hackers robó millones de valor de Crypto a través de operador de telecomunicaciones de la víctima...
 
+###### 2018-08-18
+
 "lo que at&T hizo fue como un hotel dando un ladrón con una identificación falsa una llave de la habitación y una llave de la caja fuerte para robar joyas en la caja fuerte del dueño legítimo", dice la queja, argumentando que terpin cayó víctima de un fraude SIM swap , también conocido como secuestro de SIM o una "estafa de puerto".
 
 Más relacionado con el caso terpin, el diálogo de la Motherboard con un empleado de at&T sugirió que el diseño de su sistema permite al parecer que algunos empleados reemplacen las características de seguridad, como el código de conexión del teléfono que at&T requiere al portar números: "desde allí, la contraseña se puede cambiar \ [... \] con una nueva contraseña, el número se puede portar fuera sin colgar UPS. "
@@ -14,6 +16,6 @@ AT&T supuestamente "ignoró" su petición, dejando a los hackers suficiente tiem
 
 # # el caso Teprin podría ser un precedente legal para SIM intercambiar estafas a medida que la queja resume, enfatizando la escala potencial de Port out estafas: "at&T no está haciendo nada para proteger a sus casi 140 millones clientes de fraude de tarjetas SIM.
 
-Original source: [SIM Swapping: How Hackers Stole Millions Worth of Crypto Via Victim’s Telecoms Operator](https://cointelegraph.com/news/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator)
+[Original source](https://cointelegraph.com/news/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

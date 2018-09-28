@@ -1,5 +1,7 @@
 # Los mercados Crypto ver verde en medio de hablar de ' apretón corto forzado ' en BitMEX...
 
+###### 2018-08-22
+
 La visualización de mercado de Coin360 Bitcoin (BTC) está negociando alrededor de $6.644 en el momento de la prensa, hasta casi un 4 por ciento en el día, de acuerdo con el índice de precios Bitcoin de Cointelegraph.
 
 Fuente: Cointelegraph Bitcoin price index Ethereum (ETH) está comerciando alrededor de $285 en el momento de la prensa, hasta alrededor de 3,5 por ciento en el día.
@@ -14,6 +16,6 @@ El analista técnico y comentarista de criptografía Alex Kruger ha twitteado qu
 
 En particular, en su rechazo por segunda vez de otra aplicación de BTC ETF de los gemelos Winklevoss este julio, la SEC había declarado la razón como la naturaleza en gran parte no regulada de los mercados de Bitcoin.
 
-Original source: [Crypto Markets See Green Amid Talk of ‘Forced Short Squeeze’ on BitMEX](https://cointelegraph.com/news/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 laS acciones de la realidad se unirán cada vez más abarrotado fondo de cobertura de bitcoin, dice fuente...
 
+###### 2018-08-15
+
 Asset Manager, con sede en California, reality shares se ha convertido en el último competidor en el espacio de fondos de cobertura bitcoin, una fuente anónima contada por Business Insider el 15 de agosto.
 
 La realidad comparte, que se hizo conocida en el espacio cryptocurrency este año después de lanzar el primer bloques chino ETF en junio, según se informa ya atrajo $25 millones para el fondo.
@@ -14,6 +16,6 @@ El capitalista de riesgo Spencer Bogart mientras tanto dijo a CNBC a finales de 
 
 En caso de que las acciones de la realidad aumenten la cantidad total de $100 millones, su fondo rivalizaría con los únicos 28 que han pasado la cifra.
 
-Original source: [Reality Shares Will Join Increasingly Crowded Bitcoin Hedge Fund Arena, Says Source](https://cointelegraph.com/news/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source)
+[Original source](https://cointelegraph.com/news/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

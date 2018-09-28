@@ -14,6 +14,6 @@ El director de mensajería de la compañía, David Marcus, anunció en mayo que 
 
 La semana pasada, la subsidiaria taiwanesa de la firma de tecnología multinacional Microsoft anunció que empezó a trabajar en una plataforma para el desarrollo de la cadena de ventas de empresas. A mediados de junio, Microsoft también reveló que empezó a desarrollar una plataforma de seguimiento basada en bloques de éxito en asociación con Adents, proveedor de soluciones de serialización y rastreabilidad de productos.
 
-Original source: [Facebook Director of Engineering Moves to Same Position at Company’s Blockchain Team](https://cointelegraph.com/news/facebook-director-of-engineering-moves-to-same-position-at-company-s-blockchain-team)
+[Original source](https://cointelegraph.com/news/facebook-director-of-engineering-moves-to-same-position-at-company-s-blockchain-team)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

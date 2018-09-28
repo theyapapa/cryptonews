@@ -1,5 +1,7 @@
 # Shanghai bolsa de socios con las principales firmas de seguros para mejorar la industria con bloques...
 
+###### 2018-08-20
+
 La bolsa de valores de Shanghai (SSE) y la Asociación de gestión de activos de seguros de China (IAMAC) han acordado cooperar en la mejora de las industrias de seguros y pensiones con el uso de bloques Tech.
 
 China Securities Journal escribió que la SSE, la cuarta bolsa de valores más grande del mundo, fue acompañada por varios importantes jugadores de la industria de seguros, incluyendo el IAMAC, la compañía de seguros de pensiones Changjiang, el sol marítimo de Tokio, y otros.
@@ -14,6 +16,6 @@ La semana pasada, un importante acelerador empresarial con sede en Estados Unido
 
 A principios de este mes, Intercontinental Exchange (ICE), que opera la bolsa de valores de Nueva York (NYSE), ha presentado sus planes para construir un "ecosistema global abierto y regulado para los activos digitales" en cooperación con Microsoft y otros.
 
-Original source: [Shanghai Stock Exchange Partners With Major Insurance Firms to Improve Industry With Blockchain](https://cointelegraph.com/news/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain)
+[Original source](https://cointelegraph.com/news/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

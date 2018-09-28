@@ -1,5 +1,7 @@
 # Ripple podría lanzar xRapid Solution ' en el próximo mes o así, ' dice exec...
 
+###### 2018-09-17
+
 Ripple podría lanzar una versión comercial de su plataforma de pago xRapid "en el próximo mes o así", informó CNBC 17 de septiembre.
 
 El jefe de relaciones regulatorias para Asia-Pacífico y Oriente Medio en Ripple Sagar Sarbhai dijo a CNBC que Ripple ha estado haciendo avances hacia el lanzamiento de su producto xRapid.
@@ -14,6 +16,6 @@ La nueva asociación permitirá a xRapid moverse entre XRP, dólares estadounide
 
 Esta primavera, varias instituciones financieras participaron en un piloto de la plataforma xRapid, que probó pagos entre Estados Unidos y México.
 
-Original source: [Ripple Could Launch xRapid Solution ‘In the Next Month or So,’ Says Exec](https://cointelegraph.com/news/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec)
+[Original source](https://cointelegraph.com/news/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

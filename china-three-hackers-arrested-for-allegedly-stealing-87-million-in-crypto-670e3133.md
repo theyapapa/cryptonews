@@ -1,5 +1,7 @@
 # China: tres hackers arrestados por supuestamente robar $87 millones en crypto...
 
+###### 2018-08-20
+
 La policía China ha arrestado a tres hackers "altamente experimentados" sospechosos de robar hasta 600 millones Yuan (alrededor de $87,3 millones) en Crypto, el outlet local de noticias Xinhua informó el 18 de agosto.
 
 La alarma fue levantada por primera vez por un individuo identificado por el apellido Zhang, que se dice que primero presentó su queja el 30 de marzo con la policía local en la ciudad noroccidental de Xi'an.
@@ -14,6 +16,6 @@ Los tres sospechosos han sido acusados de coordinar una serie más amplia de ata
 
 Como Cointelegraph ha informado previamente, este verano la policía China arrestó a un total de 20 sospechosos en un caso importante de cryptojacking que presuntamente infectó más de 1 millón Computadoras y generó 15 millones Yuan (alrededor de $2,2 millones) en ganancias ilícitas sobre el curso de dos años.
 
-Original source: [China: Three Hackers Arrested for Allegedly Stealing $87 Million in Crypto](https://cointelegraph.com/news/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto)
+[Original source](https://cointelegraph.com/news/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

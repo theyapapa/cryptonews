@@ -1,5 +1,7 @@
 # Ministro de Finanzas alemán dudas Crypto puede actualmente reemplazar las monedas tradicionales...
 
+###### 2018-09-19
+
 El Ministro de Finanzas de Alemania, Olaf Scholz, duda de que cryptocurrencies pueda reemplazar actualmente las monedas tradicionales de Fiat, Cointelegraph auf Deutsch informa hoy, 18 de septiembre.
 
 Según Scholz, los reguladores también deben observar de cerca a cryptocurrencies, ya que podrían utilizarse para el financiamiento terrorista, el blanqueo de dinero u otras actividades delictivas.
@@ -14,6 +16,6 @@ Al tiempo que señala que Crypto está "aquí para quedarse", Dombrovsksis recal
 
 Antes de la citada reunión, un informe de la Comisión de reflexión belga Bruegel instó a los reguladores europeos a adoptar normas uniformes sobre la cryptocurrencies a nivel de la u.e..
 
-Original source: [German Finance Minister Doubts Crypto Can Currently Replace Traditional Currencies](https://cointelegraph.com/news/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies)
+[Original source](https://cointelegraph.com/news/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

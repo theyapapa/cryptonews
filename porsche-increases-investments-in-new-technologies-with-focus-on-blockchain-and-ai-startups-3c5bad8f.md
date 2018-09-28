@@ -1,5 +1,7 @@
 # Porsche aumenta las inversiones en nuevas tecnologías con enfoque en bloques y AI startups...
 
+###### 2018-09-26
+
 El fabricante de automóviles alemán Porsche AG aumentará en sus inversiones en startups — con un enfoque en bloques e inteligencia artificial (AI) — alrededor de $176 millones en los próximos cinco años, según un comunicado de prensa de la compañía publicado el 25 de septiembre.
 
 El aumento de la inversión total de Porsche en actividades de capital de riesgo para los próximos cinco años fue motivado por la necesidad de "tener acceso a las tendencias, las nuevas tecnologías y los modelos de negocio", señala el comunicado de prensa.

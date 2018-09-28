@@ -1,5 +1,7 @@
 # La plataforma criptográfica brasileña Atlas Quantum revela brecha de datos que afecta a los clientes de 260k...
 
+###### 2018-08-27
+
 La plataforma brasileña de comercio criptográfico Atlas Quantum ha sufrido recientemente una brecha importante de datos que llevó a la exposición de los datos personales de los clientes, la página oficial de Facebook de la compañía declaró el domingo, 26 de agosto.
 
 Atlas Quantum descubrió la brecha el sábado 25 de agosto, y ya ha empezado una investigación.
@@ -14,6 +16,6 @@ Sitio del índice de infracción de datos he sido pwned informó el 26 de agosto
 
 Atlas Quantum es una plataforma de inversión y comercio basada en Brasil que, según se informa, gestiona más de $27 millones en activos.
 
-Original source: [Brazilian Crypto Platform Atlas Quantum Reveals Data Breach Affecting 260K Customers](https://cointelegraph.com/news/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers)
+[Original source](https://cointelegraph.com/news/brazilian-crypto-platform-atlas-quantum-reveals-data-breach-affecting-260k-customers)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

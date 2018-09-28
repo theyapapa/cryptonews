@@ -1,5 +1,7 @@
 # Chino Tech Giant Baidu lanza ' Super Chain ' papel blanco...
 
+###### 2018-09-26
+
 El buscador chino y la empresa de servicios web Baidu ha publicado el Baidu bloques White Paper v 1.0 el miércoles 26 de septiembre, que describe el desarrollo de un sistema de red "súper cadena".
 
 Baidu bloques Lab publicó el libro blanco de bloques enfocado en "el desarrollo independiente del sistema de red de la" Super cadena ".

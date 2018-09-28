@@ -1,5 +1,7 @@
 # Brasileños minoristas gigantes socios con bloques servicio de pago Airfox a ' impulsar la adopción '...
 
+###### 2018-09-13
+
 El gigante minorista brasileño Via Varejo se ha asociado con el servicio de pago de bloques Airfox, según un comunicado de prensa del 12 de septiembre.
 
 Via Varejo, propietaria de la cadena de electrodomésticos y muebles casa Bahia, está integrando la plataforma de banca digital de Airfox en sus plataformas de comercio electrónico, así como en casi 1.000 de sus tiendas offline.
@@ -14,6 +16,6 @@ Via Varejo es uno de los mayores minoristas de electrónica de consumo y electro
 
 Según el reciente comunicado de prensa, Via Varejo manejó aproximadamente $6,3 mil millones ventas en 2017.
 
-Original source: [Brazilian Retail Giant Partners With Blockchain Payment Service Airfox to ‘Drive Adoption’](https://cointelegraph.com/news/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption)
+[Original source](https://cointelegraph.com/news/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

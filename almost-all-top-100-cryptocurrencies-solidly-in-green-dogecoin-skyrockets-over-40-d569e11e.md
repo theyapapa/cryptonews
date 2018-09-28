@@ -1,5 +1,7 @@
 # Casi todos los Top 100 Cryptocurrencies sólidamente en verde, Dogecoin se dispara más de 40%...
 
+###### 2018-09-01
+
 La visualización de mercado de Coin360 Bitcoin (BTC) continúa ascendiendo constantemente sobre la marca $7.000, viendo el 2,52 por ciento de las ganancias en las últimas 24 horas, según Coinmarketcap.
 
 Bitcoin está comerciando alrededor de $7.216 en el momento de la prensa, un 7,2 por ciento en la semana pasada.
@@ -14,6 +16,6 @@ Fuente: Coinmarketcap la capitalización total del mercado de todos los cryptocu
 
 Fuente: Coinmarketcap de los 25 mejores cryptocurrencies, Dogecoin (Doge) ha visto el crecimiento más notable, hasta un enorme 41 por ciento en las últimas 24 horas, según Coinmarketcap.
 
-Original source: [Almost All Top 100 Cryptocurrencies Solidly in Green, Dogecoin Skyrockets Over 40%](https://cointelegraph.com/news/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40)
+[Original source](https://cointelegraph.com/news/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

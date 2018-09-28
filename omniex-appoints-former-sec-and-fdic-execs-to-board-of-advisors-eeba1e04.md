@@ -1,5 +1,7 @@
 # Omniex designa a los ex ejecutivos de sec y FDIC a la Junta de asesores...
 
+###### 2018-08-07
+
 Plataforma de comercio de criptografía orientada a instituciones Omniex ha ampliado su personal con expertos de alto perfil, incluyendo ex ejecutivos de los principales reguladores financieros de Estados Unidos, según un comunicado de prensa del 7 de agosto.
 
 Omniex ha nombrado al ex Presidente de la Comisión de valores y bolsa de Estados Unidos (SEC), Arthur Levitt, y a la Presidenta de Federal Deposit Insurance Corp (FDIC), Sheila Bair, como miembros de la Junta de asesores.
@@ -14,6 +16,6 @@ La ex FDIC exec Sheila Bair enfatizó que la industria de la criptografía es un
 
 Omniex es una plataforma de inversión y comercio de oficinas para inversores institucionales.
 
-Original source: [Omniex Appoints Former SEC and FDIC Execs to Board of Advisors](https://cointelegraph.com/news/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors)
+[Original source](https://cointelegraph.com/news/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # US sec busca sanciones contra individuos detrás de presunto timo PlexCoin...
 
+###### 2018-09-26
+
 La SEC ha estado involucrada en procedimientos judiciales en curso contra los propietarios de la firma asociada PlexCorps — Dominic Lacroix y Sabrina Paradis-Royer — en el Tribunal de distrito del este de Nueva York desde el 2017 de diciembre.
 
 La queja inicial de la SEC había acusado a la pareja de violar la ley de valores con respecto a PlexCorps ' PlexCoin ICO en agosto 2017.

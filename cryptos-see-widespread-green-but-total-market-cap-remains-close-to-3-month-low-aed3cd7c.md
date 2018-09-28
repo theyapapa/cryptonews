@@ -1,5 +1,7 @@
 # Cryptos ver verde generalizado, pero la tapa del mercado total se mantiene cerca de 3 meses de baja...
 
+###### 2018-08-12
+
 La visualización de mercado de Coin360 Bitcoin (BTC) está negociando alrededor de $6.310 en el momento de la prensa, un fuerte 3,45 por ciento en el día, de acuerdo con el índice de precios Bitcoin de Cointelegraph.
 
 Fuente: Cointelegraph Ethereum índice de precios en los listados de CoinMarketCap, todos los 25 activos criptográficos de la tapa del mercado están viendo un rubor saludable de verde, con ganancias en el día que empujan tan alto como alrededor de 5-6 por ciento.
@@ -14,6 +16,6 @@ El dominio de BTC ha sido consistentemente en ascenso a mediados de mayo, mientr
 
 Fuente CoinMarketcap la capitalización total del mercado de todos los cryptocurrencies es de alrededor de $214,7 mil millones en el momento de la prensa, cerca de sus niveles más bajos en el gráfico de tres meses, sólo golpear los puntos más bajos en los últimos dos días, y hasta un poco de la baja de ayer alrededor de $207 Mil millones.
 
-Original source: [Cryptos See Widespread Green, But Total Market Cap Remains Close to 3-Month Low](https://cointelegraph.com/news/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low)
+[Original source](https://cointelegraph.com/news/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

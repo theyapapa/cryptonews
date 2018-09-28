@@ -1,5 +1,7 @@
 # No ' viable '? Berkeley profesor toma la visión tenue de Stablecoins en Nueva crítica...
 
+###### 2018-09-12
+
 Un profesor de la Universidad de Berkeley ha afirmado que stablecoins son un "mito" en una nueva crítica publicada el martes, 11 de septiembre.
 
 Tomando el sector de los mercados emergentes, que incluye activos bien conocidos como la correa (USDT), a la tarea, el profesor de economía Barry Eichengreen argumenta que stablecoins no son automáticamente "viables" sólo porque están vinculados a las reservas de, por ejemplo, Fiat Moneda.
@@ -14,6 +16,6 @@ Antes de eso, un banco de Liechtenstein anunció su intención de emitir un stab
 
 Sin embargo, para Eichengreen estos activos se dividen en tres categorías, de acuerdo con la integridad de las garantías de los tokens — completas, parciales y no Colateralizadas — y cada una tiene sus puntos débiles.
 
-Original source: [Not ‘Viable’? Berkeley Professor Takes Dim View of Stablecoins in New Critique](https://cointelegraph.com/news/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique)
+[Original source](https://cointelegraph.com/news/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

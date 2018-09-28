@@ -1,5 +1,7 @@
 # Controversial Stablecoin atadura emite nuevo lote de USDT tokens vale $50 millones...
 
+###### 2018-08-13
+
 Tethering (USDT) ha emitido nuevos tokens por valor de $50 millones el 11 de agosto, de acuerdo con Block Explorer OmniExplorer.
 
 Durante los últimos 30 días, la capitalización de mercado de la correa perdió alrededor de $300 millones, abajo de $2,7 mil millones a mediados de julio a la $2,4 mil millones actual, según CoinMarketCap.
@@ -14,6 +16,6 @@ Ambas compañías han sido incendiadas por falta de transparencia, ya que los to
 
 Según la investigación, los patrones de la transacción de la correa demuestran que era "utilizado para proporcionar la ayuda del precio y para manipular precios cryptocurrency."
 
-Original source: [Controversial Stablecoin Tether Issues New Batch of USDT Tokens Worth $50 Million](https://cointelegraph.com/news/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million)
+[Original source](https://cointelegraph.com/news/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

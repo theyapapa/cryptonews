@@ -1,5 +1,7 @@
 # El inicio de eCommerce de Corea del sur eleva $32 millones para crear Stablecoin crypto...
 
+###### 2018-08-29
+
 Corea del sur mercado de comercio electrónico de boletos Monster (TMON) reveló que había cerrado una ronda de financiación de $32 millones para su nueva stablecoin Terra en un comunicado de prensa miércoles, 29 de agosto.
 
 TMON, que cuenta con un considerable $4 mil millones en ventas totales, está tratando de crear un cryptocurrency interno para complementar su token existente, Luna, que actúa como garantía en su plataforma bloques.
@@ -14,6 +16,6 @@ Explicando el ímpetu detrás de su contribución, la jefa de laboratorios de bi
 
 "mientras vemos muchos stablecoins que salen, el viaje de Terra es especialmente significativo ya que están diseñando uno de los pocos protocolos de precio estable con la estrategia y el uso existentes, de trabajo y fuertes de ir al mercado", dijo.
 
-Original source: [South Korean eCommerce Startup Raises $32 Million to Create Crypto Stablecoin](https://cointelegraph.com/news/south-korean-ecommerce-startup-raises-32-million-to-create-crypto-stablecoin)
+[Original source](https://cointelegraph.com/news/south-korean-ecommerce-startup-raises-32-million-to-create-crypto-stablecoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

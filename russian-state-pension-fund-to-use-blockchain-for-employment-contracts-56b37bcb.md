@@ -1,5 +1,7 @@
 # Fondo de pensiones del estado ruso para utilizar bloques para contratos de empleo...
 
+###### 2018-08-29
+
 El fondo de pensiones del estado ruso (PFR), el servicio social más grande del país, ha sugerido recientemente la implementación de la tecnología de bloques en las relaciones laborales, el noticiero local Izvestiya informa el miércoles 29 de agosto, citando el centro de prensa de la organización.
 
 Según los informes, los funcionarios también creen que el nuevo sistema protegerá a los ciudadanos de "empleadores negligentes que violan la legislación actual al concluir los contratos", recalcó el centro de prensa del FMI.
@@ -14,6 +16,6 @@ En el contexto más amplio de la presión de las sanciones económicas estadouni
 
 Después de que las ciudades más grandes de Rusia celebraran protestas contra las reformas propuestas en julio, el Presidente ruso, Vladimir Putin, anunció en un discurso de hoy que el gobierno planea enmendar la reforma.
 
-Original source: [Russian State Pension Fund to Use Blockchain for Employment Contracts](https://cointelegraph.com/news/russian-state-pension-fund-to-use-blockchain-for-employment-contracts)
+[Original source](https://cointelegraph.com/news/russian-state-pension-fund-to-use-blockchain-for-employment-contracts)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Candidato a gobernador quiere hacer de Colorado un "bloques Hub"...
 
+###### 2018-08-09
+
 El candidato demócrata a gobernador de Colorado, el representante de los Estados Unidos Jared Polis, ha añadido una política bloques a la lista de temas de su campaña para gobernador este año, según un anuncio en el sitio web de Polis.
 
 Habiendo fijado una meta para establecer Colorado como "eje nacional para la innovación bloques en negocio y gobierno," polis agregó un sistema de las propuestas bloques-relacionadas a su plataforma que gobernaba el miércoles, agosto 8.
@@ -14,6 +16,6 @@ En junio, el gobernador de Connecticut, Dannel Malloy, firmó la ley SB 443, que
 
 Polis, que actualmente está sirviendo en la cámara de representantes, pertenece a un pequeño grupo de defensores de criptografía en Capitol Hill.
 
-Original source: [Gubernatorial Candidate Wants to Make Colorado a “Blockchain Hub”](https://cointelegraph.com/news/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub)
+[Original source](https://cointelegraph.com/news/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

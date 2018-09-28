@@ -1,5 +1,7 @@
 # Notas del borde: razones detrás del mercado de los osos crypto...
 
+###### 2018-08-16
+
 Después de una semana en la que las pérdidas de dos dígitos causó estragos en muchos cryptos de alto perfil, y Bitcoin (BTC) momentáneamente cayó a través del apoyo de $6.000, sentimiento bajista despiadado ha estado dando vueltas, con algunos acusando a la moneda superior de ser "exhibir a" en un "permanentemente deteriorado o incluso Game ‐ Over "mercado.
 
 El CEO de CryptoCompare, Charles Hayter, propuso ayer que la caída del mercado de la semana fue un rebote de la reciente decisión de los reguladores estadounidenses de dejar de hacer una solicitud de alto perfil para el fondo de intercambio de fondos de Bitcoin (ETF) hasta septiembre.
@@ -14,6 +16,6 @@ De regreso durante la Cumbre de Ethereum, supuestamente con el ICO, en 2017, el 
 
 Con la dominación de Ethereum ahora sumergiendo tan bajo como 13,5 por ciento el 14 de agosto, Timothy TAM tomó la medida de la fortuna como ahora doblemente invertido, enfatizando que "la gran historia en el mercado [esta semana] es la enorme debilidad en Ethereum", y observando que "Bitcoin ha sostenido relativamente bien versus Ethereum, "incluso cuando vio una abolladura en su tabla contra el dólar.
 
-Original source: [Notes From the Brink: Reasons Behind the Crypto Bear Market](https://cointelegraph.com/news/notes-from-the-brink-reasons-behind-the-crypto-bear-market)
+[Original source](https://cointelegraph.com/news/notes-from-the-brink-reasons-behind-the-crypto-bear-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

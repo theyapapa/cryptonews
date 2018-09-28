@@ -28,6 +28,6 @@ La indecisión de los mercados se ha visto reflejada por una mezcla de noticias 
 
 En un lado más positivo, ha habido noticias de dos profesionales clave que se unifican a la industria de la cadena de ventas: el intercambio criptográfico Gemini de Winklevoss ha contratado a TagPreserver,LNK11,158,167 NYSE Chief Information Officer Robert Cornish, y Facebook ha visto que el director de Ingeniería Evan Cheng se muda a la misma posición en el equipo de éxito de la compañía.
 
-Original source: [Crypto Markets Hold Weekly Gains Amidst Little Action](https://cointelegraph.com/news/crypto-markets-hold-weekly-gains-amidst-little-action)
+[Original source](https://cointelegraph.com/news/crypto-markets-hold-weekly-gains-amidst-little-action)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

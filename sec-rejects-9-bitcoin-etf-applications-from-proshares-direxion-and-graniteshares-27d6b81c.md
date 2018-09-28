@@ -1,5 +1,7 @@
 # SEC rechaza 9 aplicaciones de ETF de Bitcoin de proshares, Direxion y GraniteShares...
 
+###### 2018-08-22
+
 La Comisión de bolsa y valores de los Estados Unidos (SEC) ha rechazado un total de nueve solicitudes para listar y comerciar varios fondos negociados con Bitcoin (BTC) (ETFs) de tres solicitantes diferentes, de acuerdo con tres órdenes separadas publicadas por la SEC hoy, 22 de agosto.
 
 Para los tres desacuerdos, la SEC ha declarado que: "\ [T \] l Comisión está desautorizando este cambio propuesto de la regla porque, según lo discutido abajo, el intercambio no ha satisfecho su carga bajo ley de intercambio y las reglas de la Comisión de la práctica para demostrar que su la propuesta es consistente con los requisitos de la ley de intercambio sección 6 (b) (5), en particular el requisito de que las reglas de la Bolsa Nacional de valores estén diseñadas para prevenir actos y prácticas fraudulentas y manipuladoras. "
@@ -14,6 +16,6 @@ Las nuevas aprobaciones de la SEC hacen eco de las preocupaciones que la Agencia
 
 A principios de agosto, la SEC retrasó su decisión sobre otra aplicación de ETF de Bitcoin – – esta vez presentada por la empresa de inversión VanEck y la compañía de servicios financieros SolidX, para comerciar en CBOE.
 
-Original source: [SEC Rejects 9 Bitcoin ETF Applications from ProShares, Direxion and GraniteShares](https://cointelegraph.com/news/sec-rejects-9-bitcoin-etf-applications-from-proshares-direxion-and-graniteshares)
+[Original source](https://cointelegraph.com/news/sec-rejects-9-bitcoin-etf-applications-from-proshares-direxion-and-graniteshares)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

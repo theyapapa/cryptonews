@@ -1,5 +1,7 @@
 # Bitcoin se cierne cerca de $7K, como más amplios consejos de mercado de nuevo en el verde...
 
+###### 2018-08-31
+
 Viernes, 30 de agosto: después de la fuerte mejora de mediados de la semana, los mercados de criptografía posteriormente vieron correcciones generalizadas, pero la mayoría de los cryptocurrencies están consolidando hoy estos mínimos más altos.
 
 La visualización de mercado de Coin360 Bitcoin (BTC) está negociando alrededor de $6.925 en el momento de la prensa, alrededor de 1 por ciento en el día, de acuerdo con el índice de precios Bitcoin de Cointelegraph.
@@ -14,6 +16,6 @@ Fuente: CoinMarketCap entre las veinte monedas superiores, Monero (XLM) es el ej
 
 La noticia llega en un momento crucial para el espacio criptográfico Coreano, ya que el Parlamento del país debate la legalización de las ofrendas iniciales de monedas (icos) e incluso la creación de una "isla bloques" al estilo de Malta.
 
-Original source: [Bitcoin Hovers Near $7K, as Wider Market Tips Back Into the Green](https://cointelegraph.com/news/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green)
+[Original source](https://cointelegraph.com/news/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

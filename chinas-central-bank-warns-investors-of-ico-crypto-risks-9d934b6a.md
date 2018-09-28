@@ -1,5 +1,7 @@
 # El Banco Central de China advierte a los inversores del ICO, los riesgos criptográficos...
 
+###### 2018-09-18
+
 El Banco Central de China, el Banco Popular de China (PBoC), ha emitido hoy, 18 de septiembre, un nuevo aviso público "Recordando" a los inversores de los riesgos asociados con las ofertas iniciales de monedas (icos) y el comercio de criptografía.
 
 El aviso, publicado en la sede del Banco en Shanghai, reitera la severa línea que ha sido adoptada por la oficina del país para la remediación especial de los riesgos financieros de Internet, que introdujo por primera vez una prohibición global de icos en septiembre de 2017.
@@ -14,6 +16,6 @@ Como se informó anteriormente, el 25 de agosto el PBoC ya había emitido una al
 
 Junto con las medidas "offline", los titanes tecnológicos de China – el Chino ' Google ' Baidu, el alibaba de Alipay y el WeChat-Developer Tencent – han apretado su monitoreo y han actuado para prohibir las cuentas sospechosas de involucrar o propagar criptografía e incluso bloques relacionadas Actividades.
 
-Original source: [China's Central Bank Warns Investors of ICO, Crypto Risks](https://cointelegraph.com/news/chinas-central-bank-warns-investors-of-ico-crypto-risks)
+[Original source](https://cointelegraph.com/news/chinas-central-bank-warns-investors-of-ico-crypto-risks)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

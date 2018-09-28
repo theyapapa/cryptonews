@@ -1,5 +1,7 @@
 # ¿puede el registro Crypto un 1, 000x vuelta y alcanza el casquillo del mercado $200 billones? ...
 
+###### 2018-09-20
+
 El 8 de septiembre, Buterin declaró con la conciencia de cryptocurrencies por el público en general y la corriente principal llegar a un pico a finales de 2017, no es realista para la valuación del mercado de criptografía para aumentar en mil veces a partir de su valor actual en $200 mil millones.
 
 Como un número creciente de personas empezaron a cuestionar el motivo de Buterin en su declaración bastante simple, lanzó una explicación de seguimiento sobre los medios sociales, reafirmando que, a pesar de que lucha por ver la valuación del mercado de criptografía logrando $200 billones, el crecimiento exponencial en el uso de los protocolos DApps y bloques es posible.
@@ -14,6 +16,6 @@ La capacidad de la tecnología bloques para operar como un sistema de cómputo e
 
 Pero, haciéndose eco del punto de vista del multimillonario inversor Mike Novogratz, tan dijo que una vez que las instituciones encuentran su camino en el CRYPTO, el mercado verá una diferencia en términos de volumen y valor, como Novogratz dijo anteriormente: "Creo que si usted comienza a ver institucional LPS \ [asociaciones limitadas \] — como dotaciones, fundaciones, planes de pensiones y fondos soberanos ponen capital en cryptocurrencies — usted verá un punto de inflexión en el que un porcentaje de la riqueza mundial comienza a fluir.
 
-Original source: [Can Crypto Record a 1,000x Return and Reach $200 Trillion Market Cap?](https://cointelegraph.com/news/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap)
+[Original source](https://cointelegraph.com/news/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

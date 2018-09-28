@@ -1,5 +1,7 @@
 # MT. GOX Crypto Exchange abre reclamaciones para acreedores para solicitar fondos perdidos...
 
+###### 2018-08-24
+
 Acreedores de Hacked Japanese cryptocurrency Exchange MT. GOX comenzó a presentar reclamaciones de rehabilitación civil el jueves, 23 de agosto en un nuevo intento de recuperar su bitcoins perdido.
 
 Un proceso de presentación de reclamaciones en línea publicado por el Fiduciario Nobuaki Kobayashi detalla los diversos prerrequisitos para los acreedores de la bolsa, que ahora tienen hasta el 22 de octubre para presentar una presentación.
@@ -14,6 +16,6 @@ Los acreedores que no enviaron reclamaciones antes de la quiebra de Mt. GOX, con
 
 El acontecimiento de junio había ganado una recepción mezclada, a pesar de los comentaristas que reaccionaban con la relevación cuando Kobayashi confirmó que él pondría fin a los Sell-offs de Bitcoin de la masa que habían caracterizado antes los procedimientos del Mt. GOX.
 
-Original source: [Mt. Gox Crypto Exchange Opens Claims for Creditors to Request Lost Funds](https://cointelegraph.com/news/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds)
+[Original source](https://cointelegraph.com/news/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

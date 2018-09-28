@@ -1,5 +1,7 @@
 # OpenFinance lanza sistema de comercio alternativo regulado para tokens de valores...
 
+###### 2018-08-29
+
 OpenFinance, una plataforma de comercio de fichas de seguridad, ha lanzado un sistema de comercio alternativo regulado (ATS) para tokens de seguridad, según información compartida con Cointelegraph el 29 de agosto.
 
 En un correo electrónico, Juan Hernández, CEO de OpenFinance, con sede en Estados Unidos, confirmó a Cointelegraph que la compañía ha creado el sistema de comercio, señalando que el comunicado de prensa oficial aparecerá más tarde en la cuenta media de la compañía.
@@ -14,6 +16,6 @@ La semana pasada, el corredor de bolsa registrado en Estados Unidos, Rialto Trad
 
 El 16 de julio, el líder del servicio de intercambio y monedero de u.s. cryptocurrency Coinbase anunció que había recibido la aprobación de la Comisión de bolsa y valores de los Estados Unidos (SEC) y de la autoridad regulatoria de la industria financiera (FINRA) para enumerar las monedas digitales consideradas a ser valores.
 
-Original source: [OpenFinance Launches Regulated Alternative Trading System for Securities Tokens](https://cointelegraph.com/news/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens)
+[Original source](https://cointelegraph.com/news/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

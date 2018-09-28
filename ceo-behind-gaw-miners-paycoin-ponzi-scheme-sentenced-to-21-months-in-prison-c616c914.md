@@ -1,5 +1,7 @@
 # CEO detrás de GAW mineros, PayCoin esquema Ponzi condenado a 21 meses de prisión...
 
+###### 2018-09-13
+
 Homero Joshua Garza, el CEO de la ahora difunta empresa de criptografía de Estados Unidos GAW mineros, ha sido condenado a 21 meses de prisión por defraudar a los inversores, la Agencia de noticias local de Hartford informes de negocios el jueves, 13 de septiembre.
 
 Garza recibió el veredicto en el Tribunal Federal de Hartford, después de su declaración de culpabilidad a una carga de fraude por cable relacionado con la creación y venta de un scamcoin apodado PayCoin (XPY).
@@ -14,6 +16,6 @@ Mientras que los mineros de GAW habían supuestamente "garantizado" a los invers
 
 A finales de agosto, el presunto ex propietario del CRYPTO Exchange BTC-e Alexander Vinnik fue procesado y sometido a un interrogatorio "falso" por los fiscales franceses en un tribunal griego.
 
-Original source: [CEO Behind GAW Miners, PayCoin Ponzi Scheme Sentenced to 21 Months in Prison](https://cointelegraph.com/news/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison)
+[Original source](https://cointelegraph.com/news/ceo-behind-gaw-miners-paycoin-ponzi-scheme-sentenced-to-21-months-in-prison)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

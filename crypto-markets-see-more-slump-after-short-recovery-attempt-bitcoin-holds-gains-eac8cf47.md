@@ -1,5 +1,7 @@
 # Los mercados criptográficos ven más depresión después de un intento de recuperación corto, Bitcoin tiene ganancias...
 
+###### 2018-08-11
+
 Casi todos los cryptocurrencies han bajado por porcentajes significativos, con Bitcoin (BTC) siendo una notable excepción entre los 20 mejores de la PAC del mercado, en menos de un uno por ciento en el día.
 
 La visualización de los mercados criptográficos de Coin360 Bitcoin está comerciando de costado, en cerca de 0,1 por ciento en las últimas 24 horas.
@@ -14,6 +16,6 @@ La participación de Bitcoin en la capitalización total del mercado (dominancia
 
 Fuente: Coinmarketcap a comienzos de esta semana, el jefe de investigación de Fundstrat, Tom Lee, citó el dominio de Bitcoin como uno de los factores más importantes de cómo el mercado está "reaccionando a lo que se está llevando a cabo" en la industria.
 
-Original source: [Crypto Markets See More Slump After Short Recovery Attempt, Bitcoin Holds Gains](https://cointelegraph.com/news/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-more-slump-after-short-recovery-attempt-bitcoin-holds-gains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

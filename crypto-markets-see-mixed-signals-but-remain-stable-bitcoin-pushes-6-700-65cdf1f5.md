@@ -36,6 +36,6 @@ Ethereum Classic  [🔗](https://coinmarketcap.com/currencies/ethereum-classic/)
 
 Ayer, 5 de julio, Tom Lee, de Fundstrat, reiteró  [🔗](https://cointelegraph.com/news/wall-street-s-tom-lee-says-bitcoin-price-to-hit-22k-by-year-s-end-can-reach-25k)  su predicción de enero  [🔗](https://cointelegraph.com/news/tom-lee-says-btc-will-hit-25000-in-2018-advises-aggressive-buying-at-market-low)  de que el bitcoin podría valer entre 22.000 y 25.000 dólares para fines de 2018, un cálculo hecho basado en el costo de la minería  [🔗](https://cointelegraph.com/tags/bitcoin-mining).
 
-Original source: [Crypto Markets See Mixed Signals But Remain Stable, Bitcoin Pushes $6,700](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-but-remain-stable-bitcoin-pushes-6-700)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-but-remain-stable-bitcoin-pushes-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

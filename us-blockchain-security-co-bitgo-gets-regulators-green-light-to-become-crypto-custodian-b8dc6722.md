@@ -1,5 +1,7 @@
 # Nosotros: bloques Security Co. BitGo obtiene luz verde del regulador para convertirse en custodio crypto...
 
+###### 2018-09-13
+
 American Crypto Wallet y bloques de seguridad de la firma BitGo ha recibido una carta de la compañía estatal de fideicomiso de la división de Dakota del sur de la banca, por lo que es un custodio calificado para Crypto, informes de CNBC 13 de septiembre.
 
 A medida que lanza su oferta de custodia criptográfica reglamentada, el cofundador y CEO de BitGo, Mike Belshe, dijo a CNBC que: "esta es la pieza que falta para la infraestructura, hoy es un ambiente traicionero.
@@ -14,6 +16,6 @@ Junto a BitGo, este año ha visto a los principales proveedores de servicios de 
 
 Como parte de su próxima oferta de Bakkt, el operador Ice de Nueva York Stock Exchange (NYSE) también traerá una nueva solución de custodio de confianza al espacio criptográfico.
 
-Original source: [US: Blockchain Security Co. BitGo Gets Regulator's Green Light to Become Crypto Custodian](https://cointelegraph.com/news/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian)
+[Original source](https://cointelegraph.com/news/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

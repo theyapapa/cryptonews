@@ -1,5 +1,7 @@
 # Banking on bloques: el Banco Mundial Desempaqueta el lanzamiento de ' Bondi ' Bond con el CBA de Australia...
 
+###### 2018-08-24
+
 Ha sido cerca de 10 años desde que Bitcoin llegó a la existencia, y en ese tiempo, las instituciones financieras importantes han llegado lentamente a los apretones con tecnología y cryptocurrencies de bloques.
 
 En agosto, el Banco Mundial anunció que estaba lanzando el primer bono basado en bloques, a través del Banco Commonwealth de Australia (CBA).
@@ -14,6 +16,6 @@ Por último, el mercado: el Banco Mundial ha estado emitiendo deudas en Australi
 
 Esperamos profundizar nuestra comprensión del impacto de esta tecnología en los mercados de capitales, y ciertamente Esperamos hacer exploraciones con respecto a otros medios de valor en movimiento.
 
-Original source: [Banking on Blockchain: World Bank Unpacks Launch of ‘BONDI’ Bond With Australia’s CBA](https://cointelegraph.com/news/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba)
+[Original source](https://cointelegraph.com/news/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

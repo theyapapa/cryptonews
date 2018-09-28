@@ -1,5 +1,7 @@
 # Binance LCX lanza Fiat-to-Crypto Exchange en Liechtenstein...
 
+###### 2018-08-16
+
 Binance LCX, una joint venture entre binance y Liechtenstein Cryptoassets Exchange (LCX), ha anunciado el lanzamiento de un intercambio Fiat-a-Crypto, según un comunicado de prensa publicado el 16 de agosto.
 
 La nueva plataforma de comercio se ubicará en Liechtenstein y ofrecerá comercio entre francos suizos (CHF) y euros (EUR) contra las principales parejas de divisas digitales, añadiendo posteriormente más pares comerciales tras aprobaciones regulatorias.
@@ -14,6 +16,6 @@ Recientemente, Liechtenstein introdujo una nueva ley de bloques que proporciona 
 
 En marzo, el Banco de instituciones crediticias de Liechtenstein, Frick, comenzó a ofrecer "inversión directa" y almacenamiento en frío durante cinco cryptocurrencies; Bitcoin, Bitcoin Cash, Litecoin, Ripple y Ethereum.
 
-Original source: [Binance LCX Launches Fiat-to-Crypto Exchange in Liechtenstein](https://cointelegraph.com/news/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein)
+[Original source](https://cointelegraph.com/news/binance-lcx-launches-fiat-to-crypto-exchange-in-liechtenstein)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

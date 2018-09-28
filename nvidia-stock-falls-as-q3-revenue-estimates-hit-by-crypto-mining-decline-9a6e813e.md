@@ -1,5 +1,7 @@
 # NVIDIA stock cae como Q3 estimaciones de ingresos afectados por la disminución de la minería crypto...
 
+###### 2018-08-16
+
 Los ingresos de la empresa se vieron afectados por una disminución de la minería de criptografía como los mercados de divisas digitales se desplomó a principios de este año.
 
 NVIDIA pronosticó su tercer trimestre de ingresos entre $3,19 mil millones y $3,32 mil millones, más bajo que la cifra prevista por los analistas de $3,34 mil millones.
@@ -14,6 +16,6 @@ En meses anteriores, el precio de las acciones de la compañía había crecido h
 
 Los analistas explicaron entonces: "la fuerza Cryptocurrency ha compensado en cierta medida el progreso lento y constante que establece el impulso en los microprocesadores de sobremesa y servidores después de varios años fuera de esos mercados, pero que los ingresos más altos han impulsado más gastos de operación, lo que aumenta aún más la barra para el negocio del procesador si el momento Crypto debe desaparecer.
 
-Original source: [Nvidia Stock Falls as Q3 Revenue Estimates Hit by Crypto Mining Decline](https://cointelegraph.com/news/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline)
+[Original source](https://cointelegraph.com/news/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Opera para lanzar la cartera Cryptocurrency incorporada para el navegador de escritorio...
 
+###### 2018-08-08
+
 Opera está lanzando su navegador web de escritorio con la funcionalidad de Crypto Wallet incorporado, de acuerdo con un comunicado de prensa compartido con Cointelegraph miércoles, 8 de agosto.
 
 La firma ya ofrece una cartera Crypto móvil como parte de su versión beta de opera para Android, que se lanzó en julio a principios de este año.
@@ -14,6 +16,6 @@ Los navegadores web y móviles de opera han incluido notablemente el software an
 
 A finales de junio, los rumores no confirmados surgió que la corretaje popular y la aplicación de criptografía de Robinhood estaría ofreciendo la funcionalidad de Crypto Wallet nativo, después de la firma publicó un anuncio de trabajo para los ingenieros de cryptocurrency que sugirió que estaba investigando desarrollando una infraestructura de cartera.
 
-Original source: [Opera to Launch Built-In Cryptocurrency Wallet for Desktop Browser](https://cointelegraph.com/news/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser)
+[Original source](https://cointelegraph.com/news/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

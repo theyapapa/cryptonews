@@ -1,5 +1,7 @@
 # Por qué Bitcoin Gold fue descartado de Bittrex...
 
+###### 2018-09-05
+
 Crypto Exchange Bittrex se establece para delist Bitcoin Gold (BTG), un tenedor duro de Bitcoin (BTC), para el 14 de septiembre, después de los detalles de un hack $18 millones de la red BTG en mayo surgió esta semana.
 
 # # "una CPU un voto" ideología: Cómo Bitcoin Gold fue creado Bitcoin Gold (BTG) es un duro tenedor de Bitcoin (BTC).
@@ -14,6 +16,6 @@ Mientras que Bittrex ha culpado al algoritmo de PoW de BTG como la razón que ll
 
 Si bien aún no está claro si otros intercambios seguirán Bittrex en la delistación de BTG, en el momento de la prensa, la cuota de mercado de Bitcoin Gold asciende a $368 millones, y la moneda está comerciando en alrededor de $21,39, ranking 30 por capitalización del mercado, según datos de CoinMarketCap.
 
-Original source: [Why Bitcoin Gold Got Delisted From Bittrex](https://cointelegraph.com/news/why-bitcoin-gold-got-delisted-from-bittrex)
+[Original source](https://cointelegraph.com/news/why-bitcoin-gold-got-delisted-from-bittrex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

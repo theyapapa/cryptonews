@@ -1,5 +1,7 @@
 # Desarrollador completa "prueba de vida" fuera de la red de transacción Crypto preparado para post-Apocalipsis...
 
+###### 2018-09-18
+
 Un desarrollador conocido como "Daniel Jones" en Twitter afirma haber completado una transacción con energía solar, fuera de la red de encriptación utilizando radio onda corta y bloques, la próxima web informes martes, 18 de septiembre.
 
 La transacción fuera de la red se completó en la red de código abierto de bloques ' Burst ' e involucró sólo un disco duro portátil, un paquete de baterías solares y una radio de onda corta, como uno de los Devs proyecto reveló en un tweet 15 de septiembre: "es con gran honor les presento la primera transacción de radio $Burst.
@@ -12,6 +14,6 @@ Jones agregó que "en un entorno desgarrado por la guerra, es posible que no des
 
 Como Jones ha enfatizado, el uso de la radio amateur requiere una licencia de la FCC, y el desarrollador optó por no revelar el operador licenciado que permitió el experimento.
 
-Original source: [Developer Completes "Proof-of-Life" Off-Grid Crypto Transaction Primed for Post-Apocalypse](https://cointelegraph.com/news/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse)
+[Original source](https://cointelegraph.com/news/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

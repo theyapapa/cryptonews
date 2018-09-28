@@ -1,5 +1,7 @@
 # ' Operation Cryptosweep ' resulta en 200 investigaciones relacionadas con criptografía...
 
+###### 2018-08-28
+
 La Asociación norteamericana de administradores de valores (Nasaa) anunció hoy, 28 de agosto, que su iniciativa en curso "Operation Cryptosweep" ha dado como resultado más de 200 investigaciones de ofertas iniciales de monedas (icos) y productos de inversión relacionados con criptografía. .
 
 Los reguladores estatales y provinciales de valores en los Estados Unidos y Canadá lanzaron sondeos en programas de inversión criptográfica potencialmente fraudulentos como parte de la "operación Cryptosweep" de Nasaa en mayo.
@@ -14,6 +16,6 @@ Borg dijo: "aunque no todas las inversiones relacionadas con el ICO o el cryptoc
 
 La Nasaa señala que incluso los productos registrados pueden ser fraudulentos, por lo que los inversores deben realizar su propia diligencia debida antes de invertir en proyectos relacionados con icos o criptografía.
 
-Original source: [‘Operation Cryptosweep’ Results in 200 Crypto-Related Investigations](https://cointelegraph.com/news/operation-cryptosweep-results-in-200-crypto-related-investigations)
+[Original source](https://cointelegraph.com/news/operation-cryptosweep-results-in-200-crypto-related-investigations)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Cómo Venezuela llegó a ser uno de los mercados más grandes de Crypto en el mundo...
 
+###### 2018-09-02
+
 En noviembre de 2013, en la época en que Venezuela tenía una tasa de inflación de ' Just ' 43 por ciento oficial (es decir, masajeada), un total de dos Bitcoin fueron negociados por VEF en el intercambio de LocalBitcoins.
 
 Fue en este momento que la inflación estaba en el 63 por ciento, según el gobierno, y dado que el país había sido atrapado en la hiperinflación durante más de un año, muchos grupos y personas estaban comenzando a reconocer el papel vital que Crypto podría desempeñar en dar Venezolanos un salvavidas.
@@ -14,6 +16,6 @@ Teniendo en cuenta que Bitcoin se volvió más costoso en 2017 — elevándose a
 
 De hecho, la superioridad de Dash sobre bitcoin, en términos de honorarios de transacción y tiempos de confirmación, es tal que el cryptocurrency es ahora, según se informa, el más popular en Venezuela entre los comerciantes — o en leas
 
-Original source: [How Venezuela Came to Be One of the Biggest Markets for Crypto in the World](https://cointelegraph.com/news/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world)
+[Original source](https://cointelegraph.com/news/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

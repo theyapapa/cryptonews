@@ -1,5 +1,7 @@
 # Corea del sur: la policía de la empresa RAID cuya presunta estafa Crypto prometió a los inversionistas naufragio oro...
 
+###### 2018-08-08
+
 La policía de Corea del Sur ha allanado la oficina de una empresa local cuya presunta estafa criptográfica prometió a los inversores el botín de un buque de guerra ruso hundido, el Korea Herald informó el 7 de agosto.
 
 A mediados de julio, Shini había lanzado imágenes submarinas de lo que se afirmaba que era el naufragio del Dmitrii Donskoi, un crucero blindado ruso que se hundió en 1905 en medio de la guerra ruso-japonesa, alegando que había sido encontrado bajo las aguas de la isla de Ulleung, al este de la península coreana, el Herald de Corea escribe.
@@ -14,6 +16,6 @@ Según un informe noticioso local el 1 de agosto, Shiny Gold Coin ha recaudado 6
 
 Como Cointelegraph informó anteriormente, las autoridades también están persiguiendo el jefe del afiliado de la firma en Singapur, Yu ji-Beom, quien supuestamente creó un intercambio de criptografía apodado Donskoi internacional y difundir los puestos sobre el naufragio en las redes sociales.
 
-Original source: [South Korea: Police Raid Firm Whose Alleged Crypto Scam Promised Investors Shipwreck Gold](https://cointelegraph.com/news/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold)
+[Original source](https://cointelegraph.com/news/south-korea-police-raid-firm-whose-alleged-crypto-scam-promised-investors-shipwreck-gold)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

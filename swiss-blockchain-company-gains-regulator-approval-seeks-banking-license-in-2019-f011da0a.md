@@ -1,5 +1,7 @@
 # Swiss bloques Company obtiene la aprobación del regulador, busca licencia bancaria en 2019...
 
+###### 2018-09-05
+
 Swiss bloques startup Smart valor ha obtenido la aprobación de los reguladores del país para operar en el mercado financiero local, informó Reuters 5 de septiembre.
 
 Smart valor será regulado por la asociación local de estándares de servicios financieros (VQF) en lugar de la Agencia Nacional de reglamentación, la autoridad de supervisión del mercado financiero (FINMA).
@@ -14,6 +16,6 @@ A principios de julio, las empresas locales ayudaron al Gobierno de Zug a probar
 
 Smart valor fue fundado en 2017 por Olga Feldmeier que anteriormente había trabajado para Bitcoin Wallet Xapo, con sede en China.
 
-Original source: [Swiss Blockchain Company Gains Regulator Approval, Seeks Banking License in 2019](https://cointelegraph.com/news/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019)
+[Original source](https://cointelegraph.com/news/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

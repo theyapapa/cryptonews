@@ -1,5 +1,7 @@
 # Celsius Network para administrar fondos para la iniciativa de las Naciones Unidas...
 
+###### 2018-09-21
+
 Plataforma de préstamo y préstamo descentralizada la red Celsius administrará el fondo de impacto de metas de desarrollo sostenible (fondo de impacto de SDG) dentro de la iniciativa de las Naciones Unidas para el desarrollo sostenible, según un comunicado de prensa publicado el 21 de septiembre.
 
 Los objetivos de desarrollo sustentable es un programa internacional enfocado en traer un "futuro mejor y más sustentable para todos".
@@ -14,6 +16,6 @@ En febrero, el Fondo Internacional de emergencia para niños de las Naciones Uni
 
 Más tarde en abril, UNICEF Australia también anunció una iniciativa que permite a los usuarios dar el poder de procesamiento de su computadora a la mina cryptocurrency para la caridad.
 
-Original source: [Celsius Network to Manage Funds for United Nations Initiative](https://cointelegraph.com/news/celsius-network-to-manage-funds-for-united-nations-initiative)
+[Original source](https://cointelegraph.com/news/celsius-network-to-manage-funds-for-united-nations-initiative)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

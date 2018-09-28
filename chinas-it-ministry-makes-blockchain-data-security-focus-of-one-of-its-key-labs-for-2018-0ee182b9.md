@@ -1,5 +1,7 @@
 # El Ministerio de TI de China hace de bloques, el foco de seguridad de datos de uno de sus laboratorios clave para 2018...
 
+###### 2018-08-13
+
 El Ministerio de industria y tecnología de la información de China (MIIT) ha incluido un laboratorio dedicado a la bloques en la lista de sus laboratorios clave para 2018, publicado el 13 de agosto.
 
 Según el cargo del Ministerio, el laboratorio se dedicará a aprovechar las bloques para la industria de seguridad de datos y la misma, y será supervisada por el Centro Nacional de investigación para el desarrollo de la seguridad de la información industrial.
@@ -14,6 +16,6 @@ Si bien la política oficial del gobierno chino sigue siendo notoriamente dura e
 
 Esta primavera, el presidente chino Xi Jinping elogió abiertamente a bloques como un ejemplo de una "nueva generación" de tecnologías que ofrecen "avances".
 
-Original source: [China’s IT Ministry Makes Blockchain, Data Security Focus of One of Its Key Labs for 2018](https://cointelegraph.com/news/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018)
+[Original source](https://cointelegraph.com/news/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

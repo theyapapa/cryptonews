@@ -1,5 +1,7 @@
 # Filipinas publicará la reglamentación final del ICO, borrará las reglas de intercambio de criptografía dentro de dos semanas...
 
+###### 2018-09-04
+
 Los reguladores en Filipinas planean revelar el proyecto de Reglamento cryptocurrency a mediados de este mes, la prensa local The Manila Times informó el lunes, 3 de septiembre.
 
 Citando a Ephyro Luis Amatong, Presidente de la Comisión de valores y bolsa del país (SEC) hablando con los reporteros, los tiempos de Manila confirmaron que los intercambios de cryptocurrency pronto podrían considerarse como "plataformas comerciales" tradicionales.
@@ -14,6 +16,6 @@ La SEC filipina también reveló que había estado trabajando en tándem con el 
 
 Este enfoque es una reminiscencia de la tomada en Japón, donde los reguladores continúan apretando los requisitos de los intercambios para evitar una repetición de un hack serio en enero de este año.
 
-Original source: [Philippines to Publish Final ICO Regulation, Draft Crypto Exchange Rules Within Two Weeks](https://cointelegraph.com/news/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks)
+[Original source](https://cointelegraph.com/news/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

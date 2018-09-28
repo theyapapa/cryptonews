@@ -16,6 +16,6 @@ El profesor William Knottenbelt del Imperial College dijo que las criptodivisas 
 
 La semana pasada, el jefe del Banco de Pagos Internacionales (BIS), Agustín Carstens, afirmó que las criptomonedas "no pueden asumir las funciones del dinero" y advirtió a los "jóvenes" en contra de "tratar de crear dinero"." Previamente en junio, BIS dedicó un artículo de 24 páginas a la cuestión, enfocándose en los problemas de escalabilidad de Bitcoin. El artículo dice que las criptomonedas no son capaces de escalar lo suficiente como para convertirse en un medio de intercambio en una economía global.
 
-Original source: [Study: Crypto Could Become Mainstream Means of Payment Within Next Decade](https://cointelegraph.com/news/study-crypto-could-become-mainstream-means-of-payment-within-next-decade)
+[Original source](https://cointelegraph.com/news/study-crypto-could-become-mainstream-means-of-payment-within-next-decade)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

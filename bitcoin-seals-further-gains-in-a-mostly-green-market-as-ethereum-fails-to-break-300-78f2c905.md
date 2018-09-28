@@ -1,5 +1,7 @@
 # Bitcoin sellos más ganancias en un mercado en su mayoría verde como Ethereum no logra romper $300...
 
+###### 2018-09-04
+
 Martes, 4 de septiembre: los mercados criptográficos son en gran parte verdes hoy en día, con Bitcoin (BTC) avanzando hacia arriba aún más, y varios de gran mercado-Cap Alts ver ganancias sólidas, como muestra datos Coin360.
 
 La visualización de mercado de Coin360 Bitcoin (BTC) está negociando alrededor de $7.374 en el momento de la prensa, más de un 1 por ciento en el día, ya que continúa impulsar sus ganancias recién ganadas, de acuerdo con el índice de precios Bitcoin de Cointelegraph.
@@ -14,6 +16,6 @@ La capitalización total del mercado de todos los cryptocurrencies es de alreded
 
 la carta de 7 días de la capitalización total del mercado de todos los cryptocurrencies de CoinMarketCap hoy ha visto noticias alcistas para el espacio bloques, con la Agencia de Internet y seguridad de Corea del Sur (Kisa) — una suborganización del Ministerio de ciencia y TIC del país. — anunciando planes para más del doble de su presupuesto para proyectos piloto de bloques público el próximo año.
 
-Original source: [Bitcoin Seals Further Gains in a Mostly Green Market as Ethereum Fails to Break $300](https://cointelegraph.com/news/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300)
+[Original source](https://cointelegraph.com/news/bitcoin-seals-further-gains-in-a-mostly-green-market-as-ethereum-fails-to-break-300)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

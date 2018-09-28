@@ -1,5 +1,7 @@
 # Coinbase contrata al ex ejecutivo de Fannie Mae como nuevo Chief legal Officer...
 
+###### 2018-09-19
+
 Cryptocurrency Exchange Coinbase ha contratado al ex asesor general de Fannie Mae, Brian Brooks, como su nuevo director legal, según un anuncio publicado el 19 de septiembre.
 
 En Coinbase, Brooks será responsable de asuntos legales, de cumplimiento de normas y de gobierno.
@@ -16,6 +18,6 @@ Coinbase fundó su propio PAC en julio de 2018.
 
 Esta semana está marcada con otro nombramiento notable en Coinbase, como el ex ejecutivo de LinkedIn Michael Li se unió al intercambio como el Vicepresidente de datos.
 
-Original source: [Coinbase Hires Former Fannie Mae Exec as New Chief Legal Officer](https://cointelegraph.com/news/coinbase-hires-former-fannie-mae-exec-as-new-chief-legal-officer)
+[Original source](https://cointelegraph.com/news/coinbase-hires-former-fannie-mae-exec-as-new-chief-legal-officer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

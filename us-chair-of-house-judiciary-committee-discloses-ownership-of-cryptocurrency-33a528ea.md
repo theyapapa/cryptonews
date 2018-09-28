@@ -1,5 +1,7 @@
 # Nosotros: Presidente del Comité Judicial de la casa divulga la propiedad de Cryptocurrency...
 
+###### 2018-08-06
+
 El Presidente del Comité Judicial de la cámara de representantes de los Estados Unidos puede ser el primer miembro del Congreso en revelar que es dueño de cryptocurrency, informes de lodos el 6 de agosto.
 
 El congresista Bob Goodlatte (R-va) informó que posee entre $17.000 y $80.000 en moneda digital en su declaración de divulgación financiera anual.
@@ -14,6 +16,6 @@ Si bien algunos reguladores y legisladores han pedido que se aprieten las regula
 
 A medida que nuestro gobierno comienza a mirar Crypto, no creo que se puede separar cryptocurrencies de la tecnología que se basan en ", dijo.
 
-Original source: [US: Chair of House Judiciary Committee Discloses Ownership of Cryptocurrency](https://cointelegraph.com/news/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency)
+[Original source](https://cointelegraph.com/news/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

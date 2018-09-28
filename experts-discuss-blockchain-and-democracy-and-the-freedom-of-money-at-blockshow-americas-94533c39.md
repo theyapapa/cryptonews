@@ -1,5 +1,7 @@
 # Los expertos discuten la bloques y la democracia y la ' libertad del dinero ' en BlockShow Américas...
 
+###### 2018-08-20
+
 BlockShow Americas 2018 se inició esta mañana en las Vegas, reuniendo a más de 1.500 asistentes y 80 hablantes de la industria bloques de más de 50 países en todo el mundo para discutir los temas más candentes que afectan a la comunidad bloques.
 
 Hoy, el escenario principal puso en foco las iniciativas gubernamentales, el impacto de bloques en las principales industrias, y las últimas actualizaciones sobre aspectos tecnológicos y jurídicos, mientras que la segunda etapa proporcionó un foro de ideas y opiniones contradictorias, donde las empresas y los expertos globales desafiaron sus posiciones.
@@ -14,6 +16,6 @@ La Conferencia continuó con debates sobre cómo la regulación apropiada puede 
 
 Julian Zegelman, Ángel inversionista y socio fundador de TMT bloques Fund, argumentó que la industria ha estado experimentando "agnosticismo jurisdiccional".
 
-Original source: [Experts Discuss Blockchain and Democracy and The ‘Freedom of Money’ at BlockShow Americas](https://cointelegraph.com/news/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas)
+[Original source](https://cointelegraph.com/news/experts-discuss-blockchain-and-democracy-and-the-freedom-of-money-at-blockshow-americas)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

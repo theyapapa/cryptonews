@@ -1,5 +1,7 @@
 # Seven Premier League Football clubs firman el contrato de publicidad de Bitcoin con eToro...
 
+###### 2018-08-21
+
 Plataforma de comercio con sede en el Reino Unido eToro ha firmado un acuerdo publicitario con siete clubes de fútbol de la Premier League pagados en Bitcoin por primera vez, las partes revelaron el martes 21 de agosto.
 
 Según varias fuentes, los clubs británicos Tottenham Hotspur, Brighton & Hove Albion, Crystal Palace, Cardiff City, Leicester City Football Club, Newcastle United y Southampton anunciaron que habían firmado para albergar anuncios eToro.
@@ -14,6 +16,6 @@ Los experimentos esporádicos ya provienen de clubes en otros lugares, entre ell
 
 La semana pasada, la Unión de asociaciones europeas de fútbol, más comúnmente conocida como UEFA, confirmó que había desplegado un sistema de tickets basado en bloques como parte de un despliegue gradual.
 
-Original source: [Seven Premier League Football Clubs Sign Bitcoin Advertising Deal With eToro](https://cointelegraph.com/news/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro)
+[Original source](https://cointelegraph.com/news/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

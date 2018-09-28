@@ -1,5 +1,7 @@
 # Japonés E-Commerce mayor Rakuten para adquirir local Crypto Exchange todo el mundo Bitcoin...
 
+###### 2018-08-31
+
 Japonés e-commerce gigante Rakuten, que tiene una capitalización de mercado de más de $12,5 mil millones, ha revelado un 265 millones yen ($2,4 millones) acuerdo para adquirir nacional Crypto Exchange todo el mundo bitcoin, en un anuncio publicado el 31 de agosto.
 
 El anuncio de hoy indica que Bitcoin de todos reportó una pérdida neta de alrededor de $444.200 en el año fiscal que terminó el 30 de marzo de 2018.
@@ -14,6 +16,6 @@ A principios de este año, Rakuten anunció planes para lanzar su propio cryptoc
 
 Desde 2016, la compañía había adquirido los activos de propiedad intelectual del procesador de pagos Bitcoin BitNet, así como la apertura de su Rakuten bloques Lab para explorar las aplicaciones de bloques en e-commerce y FinTech.
 
-Original source: [Japanese E-Commerce Major Rakuten to Acquire Local Crypto Exchange Everybody's Bitcoin](https://cointelegraph.com/news/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin)
+[Original source](https://cointelegraph.com/news/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

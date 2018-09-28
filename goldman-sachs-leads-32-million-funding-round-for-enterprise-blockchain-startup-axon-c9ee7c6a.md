@@ -1,5 +1,7 @@
 # Goldman Sachs lleva la ronda de financiación $32 millones para la empresa bloques startup axoni...
 
+###### 2018-08-14
+
 La empresa centrada en bloques startup axoni ha recaudado $32 millones en una ronda de financiación liderada por Goldman Sachs y otros bancos de alto perfil y inversores de capital de riesgo, Forbes informa el 14 de agosto.
 
 La ronda de financiación de la serie B de $32 millones fue liderada por Goldman Sachs y Nyca Partners, con numerosos otros inversionistas como Wells Fargo, JPMorgan, Citigroup y Andreessen Horowitz.
@@ -14,6 +16,6 @@ El año pasado, DTCC había anunciado que trabajaría con axoni, IBM y bloques C
 
 Otras notables infusiones recientes de capital de riesgo en el espacio Crypto y bloques incluyen $28 millones de Andreessen Horowitz y Pantera capital para los valores bloques Platform Harbor, y la Asociación de Venrock de VC del brazo de Rockefeller con la inversión de CRYPTO Grupo Coinfund.
 
-Original source: [Goldman Sachs Leads $32 Million Funding Round for Enterprise Blockchain Startup Axoni](https://cointelegraph.com/news/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon)
+[Original source](https://cointelegraph.com/news/goldman-sachs-leads-32-million-funding-round-for-enterprise-blockchain-startup-axon)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

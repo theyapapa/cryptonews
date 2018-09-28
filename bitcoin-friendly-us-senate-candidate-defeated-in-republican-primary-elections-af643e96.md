@@ -1,5 +1,7 @@
 # Bitcoin-amistoso candidato del Senado de los e.e.u.u. derrotado en elecciones primarias republicanas...
 
+###### 2018-08-08
+
 El candidato del Senado de los Estados Unidos, Austin Petersen, quien es conocido por su activismo Bitcoin (BTC), perdió la elección primaria republicana el 7 de agosto.
 
 De acuerdo con los resultados no oficiales publicados por el Secretario de estado de Missouri, Petersen perdió la batalla contra el fiscal general Josh Hawley, quien recibió el 58,6 por ciento de los 663.553 votos.
@@ -16,6 +18,6 @@ La campaña de Petersen representó una oportunidad para que los defensores de l
 
 Mientras tanto, el candidato del partido libertario para el gobernador de Wisconsin, Phil Anderson, dijo en julio que aceptará donaciones de BTC a pesar de que la Comisión de ética del Estado les encuentre un "desafío serio" al cumplimiento de la ley estatal.
 
-Original source: [Bitcoin-Friendly US Senate Candidate Defeated in Republican Primary Elections](https://cointelegraph.com/news/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections)
+[Original source](https://cointelegraph.com/news/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

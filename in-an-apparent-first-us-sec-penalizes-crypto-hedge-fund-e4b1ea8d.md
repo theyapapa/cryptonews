@@ -1,5 +1,7 @@
 # En un aparente primero, U.S. sec penaliza a Crypto Hedge Fund...
 
+###### 2018-09-12
+
 La Comisión de valores y bolsa de Estados Unidos (SEC) ha emitido una orden de cese y desistimiento y una multa de $200.000 a la administración de los activos criptográficos (CAM) y su fundador Timothy Enneking, según un documento publicado en el sitio web de la Comisión el martes, 11 de septiembre.
 
 De acuerdo con CNBC, esta es la primera acción disciplinaria de la SEC contra un fondo de gestión de activos digitales.
@@ -14,6 +16,6 @@ También hoy, la SEC emitió una orden contra "ICO Superstore" TokenLot.
 
 La Comisión dice que TokenLot violó la ley al no registrarse.
 
-Original source: [In an Apparent First, U.S. SEC Penalizes Crypto Hedge Fund](https://cointelegraph.com/news/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund)
+[Original source](https://cointelegraph.com/news/in-an-apparent-first-us-sec-penalizes-crypto-hedge-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

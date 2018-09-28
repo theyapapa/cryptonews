@@ -1,5 +1,7 @@
 # Los mercados criptográficos siguen fluctuando: la mayoría de las 20 monedas superiores de nuevo en verde, Bitcoin por encima de $6.700...
 
+###### 2018-08-27
+
 Lunes, 27 de agosto: los mercados criptográficos han visto otro intento de recuperación, con todas las 20 monedas de la tapa del mercado en el Green, según datos de CoinMarketCap.
 
 Después de sufrir una depresión ayer, los mercados criptográficos vuelven al verde, con Iota (Miota), Cardano (ADA) y EOS (EOS) viendo las mayores ganancias entre las 10 mejores monedas, mientras que Bitcoin (BTC) se ha roto por encima del punto $6.700.
@@ -14,6 +16,6 @@ Fuente: CoinMarketCap de las diez monedas superiores por el casquillo del mercad
 
 Ayer, Cointelegraph informó que las emisiones recientes de los controvertidos cryptocurrency no están afectando a los precios de las monedas importantes o altcoins más pequeños en el momento, después de las alegaciones anteriores sobre las prácticas de "manipulación del mercado" utilizando la correa.
 
-Original source: [Crypto Markets Keep Fluctuating: Most Top 20 Coins Back in Green, Bitcoin Above $6,700](https://cointelegraph.com/news/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700)
+[Original source](https://cointelegraph.com/news/crypto-markets-keep-fluctuating-most-top-20-coins-back-in-green-bitcoin-above-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

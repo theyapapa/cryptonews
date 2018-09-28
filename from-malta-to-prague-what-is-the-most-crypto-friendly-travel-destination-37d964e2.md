@@ -1,5 +1,7 @@
 # De Malta a Praga: ¿Cuál es el destino de viajes más fácil de encriptar? ...
 
+###### 2018-09-16
+
 Sin embargo, algunas ciudades están más dispuestas a aceptar su BTC — y los principales altcoins — que otros, dependiendo de la infraestructura local y de las políticas relacionadas con la criptografía.
 
 Gershonok confirma que Praga es una de las ciudades más cómodas para las monedas virtuales, llamándola su favorita: "las empresas con TPV Crypto y cajeros automáticos no lo son todo \ [There \].
@@ -14,6 +16,6 @@ En Berlín, Bitcoin se puede usar no sólo para beber y comer en bares y restaur
 
 # # Zug, Suiza infraestructura mientras que Zug puede no estar tan bien equipada para las actividades turísticas habituales de BTC como otras ciudades de la lista, sin embargo representa una ciudad histórica para los entusiastas de los crypto.
 
-Original source: [From Malta to Prague: What Is the Most Crypto-Friendly Travel Destination?](https://cointelegraph.com/news/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination)
+[Original source](https://cointelegraph.com/news/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

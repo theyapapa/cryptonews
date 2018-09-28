@@ -1,5 +1,7 @@
 # WSJ: los mercados manipulados de los "grupos de comercio" criptográficos organizados para hacer $825 millones en 2018...
 
+###### 2018-08-06
+
 La manipulación del precio de Cryptocurrency es conducida en gran parte por los "grupos comerciales organizados" usando servicios tales como telegrama, el diario de Wall Street reclamó en un estudio lanzado el 5 de agosto.
 
 Al revelar los resultados de la investigación en los mercados cryptocurrency, el WSJ sugirió que los planes coordinados de "bombeo y volcado" han visto a los comerciantes inflar y chocar los precios de varios cryptocurrencies este año.
@@ -14,6 +16,6 @@ Un repentino crecimiento a borbotones el 1 de julio en el gran binance de interc
 
 Para bitcoin, varias fuentes han reclamado factores tales como las ventas de liquidación de Mt. GOX y los principales bagholders han causado fluctuaciones de precios artificiales desde los máximos de todos los tiempos de diciembre de 2017, mientras que otros han afirmado que ninguna de esas actividades había influenciado a los mercados.
 
-Original source: [WSJ: Organized Crypto ‘Trading Groups’ Manipulated Markets to Make $825 Million in 2018](https://cointelegraph.com/news/wsj-organized-crypto-trading-groups-manipulated-markets-to-make-825-million-in-2018)
+[Original source](https://cointelegraph.com/news/wsj-organized-crypto-trading-groups-manipulated-markets-to-make-825-million-in-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

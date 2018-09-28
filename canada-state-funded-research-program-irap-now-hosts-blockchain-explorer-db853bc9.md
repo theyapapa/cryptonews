@@ -1,5 +1,7 @@
 # Canada: programa de investigación financiado por el estado IRAP ahora alberga bloques Explorer...
 
+###### 2018-08-21
+
 El programa de investigación de investigación industrial financiado por el gobierno canadiense (IRAP) es ahora el anfitrión de su propio bloques Explorer, según una declaración oficial el 20 de agosto.
 
 El IRAP, administrado por el Consejo Nacional de investigaciones de Canadá (NRC), ha anunciado que el proyecto ha implementado la aplicación basada en bloques sobre el sistema de archivos interplanetarios (CIP), un protocolo y una red que está diseñado para permitir el almacenamiento y el intercambio entre iguales de datos en un libro mayor distribuido.
@@ -14,6 +16,6 @@ En junio de 2018, la organización reguladora de la industria de las inversiones
 
 A principios de junio, el Banco Central de Canadá (BOC) emitió un estudio en el que reafirmaba que el doble gasto en bloques es "irreal".
 
-Original source: [Canada: State-Funded Research Program IRAP Now Hosts Blockchain Explorer](https://cointelegraph.com/news/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer)
+[Original source](https://cointelegraph.com/news/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

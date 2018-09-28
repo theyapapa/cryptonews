@@ -1,5 +1,7 @@
 # Dash Core Group CEO: Venezuela ' 2do mercado más grande ' como interés en los puntos de cifrado...
 
+###### 2018-08-22
+
 Venezuela se ha convertido en el segundo mercado más grande de Dash (Dash), con casi 100 comerciantes aceptando el cryptocurrency cada semana, un portavoz dijo a los medios masivos el miércoles, 22 de agosto.
 
 Hablando con Business Insider, Ryan Taylor, CEO de Dash Core Group, que es la entidad legal detrás del equipo de desarrollo principal de Dash, dijo que el interés de ambas empresas y los consumidores estaba aumentando semana a semana.
@@ -14,6 +16,6 @@ Dash pretende facilitar que la elusión continua, Taylor implícita, observando 
 
 Dash previamente hizo titulares cuando su valor se elevó y las figuras bien conocidas como Max Keiser comenzaron a promover públicamente su uso en Estados Unidos.
 
-Original source: [Dash Core Group CEO: Venezuela ‘2nd Biggest Market’ as Interest in Crypto Spikes](https://cointelegraph.com/news/dash-core-group-ceo-venezuela-2nd-biggest-market-as-interest-in-crypto-spikes)
+[Original source](https://cointelegraph.com/news/dash-core-group-ceo-venezuela-2nd-biggest-market-as-interest-in-crypto-spikes)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

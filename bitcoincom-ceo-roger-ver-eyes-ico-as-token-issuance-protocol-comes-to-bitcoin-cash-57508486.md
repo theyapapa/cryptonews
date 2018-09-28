@@ -1,5 +1,7 @@
 # Bitcoin.com CEO Roger ver ojos ICO como protocolo de emisión simbólica viene a Bitcoin Cash...
 
+###### 2018-08-13
+
 El CEO de Bitcoin.com, Roger ver, ha insinuado que su publicación puede lanzar un ICO al revelar una nueva herramienta que permite a los desarrolladores emitir fichas sobre el bloques de efectivo de Bitcoin en un video de Bitcoin.com el 11 de agosto.
 
 Junto con uno de los desarrolladores de bitcoin, Corbin Fraser, ver insinuó en el video en que la llegada del Protocolo de efectivo del Wormhole, que permite la creación de tokens en efectivo de bitcoin, permitiría nuevas posibilidades.
@@ -14,6 +16,6 @@ Como divulgan los comentaristas múltiples, el esquema podría ayudar a aliviar 
 
 "de acuerdo con la cubierta del inversor pre-IPO de Bitmain, vendieron la mayor parte de su \ [Bitcoin \] para \ [Bitcoin Cash \].
 
-Original source: [Bitcoin.com CEO Roger Ver Eyes ICO as Token Issuance Protocol Comes to Bitcoin Cash](https://cointelegraph.com/news/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash)
+[Original source](https://cointelegraph.com/news/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

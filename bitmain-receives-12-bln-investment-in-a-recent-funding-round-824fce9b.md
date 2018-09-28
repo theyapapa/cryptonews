@@ -10,6 +10,6 @@ En mayo, uno de los principales competidores de Bitmain, Canaan Creative, de Chi
 
 Fundada  [🔗](https://en.wikipedia.org/wiki/Bitmain)  en 2013, Bitmain Technologies es una compañía privada que desarrolla chips de hardware y ASIC de bitcoin. Según se informa, la firma tenía entre el 70-80 por ciento del mercado del hardware de la minería de Bitcoin en febrero de 2018. Bitmain también opera una de las mayores agrupaciones de minería de Bitcoin, Antpool  [🔗](https://cointelegraph.com/tags/antpool). A principios de este año, la compañía fue reportada  [🔗](https://cointelegraph.com/news/chinese-crypto-mining-giant-bitmain-developing-facilities-in-us-document-suggests)  para participar en el desarrollo de los centros mineros de Ant Creek en Estados Unidos.
 
-Original source: [Bitmain Now Valued at $12 Bln Following Recent Funding Round ](https://cointelegraph.com/news/bitmain-receives-12-bln-investment-in-a-recent-funding-round)
+[Original source](https://cointelegraph.com/news/bitmain-receives-12-bln-investment-in-a-recent-funding-round)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

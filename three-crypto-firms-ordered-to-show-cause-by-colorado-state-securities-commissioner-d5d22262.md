@@ -1,5 +1,7 @@
 # Tres firmas de criptografía ordenó Mostrar la causa por el Comisionado estatal de valores de Colorado...
 
+###### 2018-08-29
+
 El Comisionado de valores de Colorado, Gerald Rome, ha ordenado a tres firmas de criptografía presuntas de promover ofertas de monedas iniciales no registradas (icos) para mostrar la causa, según un comunicado de prensa del 28 de agosto.
 
 Las órdenes vienen como parte de una investigación estatal sobre "lo que se ha convertido en una tendencia de compañías supuestamente fraudulentas que buscan ganar dinero rápido", según el comunicado de prensa.
@@ -14,6 +16,6 @@ El Comisionado de valores de Colorado dijo que linda Healthcare Corp., con sede 
 
 Los funcionarios de Dora dijeron que ninguna compañía proporcionó información sobre los riesgos de invertir en icos.
 
-Original source: [Three Crypto Firms Ordered to Show Cause by Colorado State Securities Commissioner](https://cointelegraph.com/news/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner)
+[Original source](https://cointelegraph.com/news/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

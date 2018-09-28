@@ -1,5 +1,7 @@
 # Informe del Banco de Corea: la brecha de precio Crypto entre los intercambios locales, extranjeros podría ensanchar otra vez...
 
+###### 2018-09-11
+
 El Banco Central de Corea del sur, el Banco de Corea (Bok), ha advertido de otra posible ampliación de la brecha en los precios de los Crypto entre los intercambios locales y extranjeros, informó el 11 de septiembre la agencia local de noticias no CUT News.
 
 En el informe, el Banco advirtió al público sobre otra posible emergencia de la llamada "Kimchi Premium", un fenómeno que consiste en la diferencia entre los precios del Crypto en los intercambios de Corea del sur y los intercambios de criptografía en el extranjero.
@@ -14,6 +16,6 @@ Según el informe del Bok, un alto nivel de "Kimchi Premium" puede causar otros 
 
 Recientemente, el servicio de supervisión financiera (FSS) de Corea del Sur ha sugerido la necesidad de una mayor cooperación internacional entre los reguladores para la regulación del Crypto y el ICO, destacando que el principal desafío del país es "mejorar la transparencia en las transacciones para prevenir las actividades ilegales ".
 
-Original source: [Bank of Korea Report: Crypto Price Gap Between Local, Foreign Exchanges Could Widen Again](https://cointelegraph.com/news/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again)
+[Original source](https://cointelegraph.com/news/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

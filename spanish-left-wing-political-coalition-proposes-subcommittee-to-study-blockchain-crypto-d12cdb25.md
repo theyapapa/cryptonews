@@ -1,5 +1,7 @@
 # Coalición política de izquierdas españolas propone Subcomité para estudiar bloques, Crypto...
 
+###### 2018-08-13
+
 La coalición política de izquierdas Unidos podemos ha pedido al estado que explore e implemente los beneficios de la tecnología bloques, informó el 12 de agosto la Agencia de noticias local Europa Press.
 
 Podemos, formada por los partidos de izquierda podemos, Unidos a la izquierda, EQUO y otros han sugerido que el gobierno español establezca un Subcomité encargado de estudiar el potencial de la tecnología bloques, así como la regulación cryptocurrency.
@@ -14,6 +16,6 @@ En cuanto a la reglamentación criptográfica, el Congreso Español ha indicado 
 
 El proyecto de iniciativa, propuesto por el partido popular, sugiere que el estado coopera con la Comisión Nacional del mercado de valores (CNMV) y el Banco de España para coordinar una posición regulatoria común sobre la criptografía en el contexto europeo más amplio.
 
-Original source: [Spanish Left-Wing Political Coalition Proposes Subcommittee to Study Blockchain, Crypto](https://cointelegraph.com/news/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto)
+[Original source](https://cointelegraph.com/news/spanish-left-wing-political-coalition-proposes-subcommittee-to-study-blockchain-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

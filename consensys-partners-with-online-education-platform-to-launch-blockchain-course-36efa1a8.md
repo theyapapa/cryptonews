@@ -1,5 +1,7 @@
 # Consensies se asocia con la plataforma de educación en línea para lanzar el curso bloques...
 
+###### 2018-09-06
+
 Bloques startup consensis se ha asociado con la plataforma de educación en línea Coursera para ofrecer un curso de tecnología bloques, de acuerdo con un anuncio publicado el 5 de septiembre.
 
 Las dos empresas están lanzando un curso titulado "bloques: fundaciones y casos de uso".
@@ -14,6 +16,6 @@ Las instituciones educativas de todo el mundo han estado adoptando activamente l
 
 La Fundación Tezos también anunció que estará emitiendo subvenciones financieras a instituciones de investigación para el desarrollo de bloques Tech y Smart Contracts en varias universidades ubicadas en Estados Unidos, Portugal y Francia.
 
-Original source: [ConsenSys Partners With Online Education Platform to Launch Blockchain Course](https://cointelegraph.com/news/consensys-partners-with-online-education-platform-to-launch-blockchain-course)
+[Original source](https://cointelegraph.com/news/consensys-partners-with-online-education-platform-to-launch-blockchain-course)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

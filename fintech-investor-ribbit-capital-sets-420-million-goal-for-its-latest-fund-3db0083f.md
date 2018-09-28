@@ -1,5 +1,7 @@
 # FinTech inversor ribbit capital establece $420 millones objetivo para su último fondo...
 
+###### 2018-09-12
+
 La firma de capital de riesgo ribbit capital, con sede en Estados Unidos, cuyo portafolio incluye importantes proyectos de cryptocurrency y bloques, tiene como objetivo recaudar $420 millones para su último fondo, según una declaración de la SEC de fecha 12 de septiembre.
 
 Según se informa, el fondo será la quinta empresa de ribbit con socios limitados, mientras que la cifra de $420 millones es un "aumento nominal" de los $300 millones que la compañía atrajo el año pasado.
@@ -16,6 +18,6 @@ Después de las rondas de financiación, Robinhood fue valorado en $5,6 mil mill
 
 Coinbase, que fue fundado en 2012, ha crecido desde entonces para ser un líder entre los intercambios de Crypto y los servicios de la carpeta en los e.e.u.u.
 
-Original source: [Fintech Investor Ribbit Capital Sets $420 Million Goal for Its Latest Fund](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
+[Original source](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

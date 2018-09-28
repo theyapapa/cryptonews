@@ -1,5 +1,7 @@
 # EU reguladores antimonopolio para gobernar en Microsoft adquisición de github a mediados de octubre...
 
+###### 2018-09-19
+
 El gigante de software Microsoft ha solicitado la aprobación de la Unión Europea (u.e.) de su $7,5 mil millones adquisición del servicio de hosting basado en Web GitHub, Reuters informó el 17 de septiembre.
 
 Con la adquisición, la compañía busca fortalecer su brazo de Cloud Computing contra la compañía de comercio electrónico estadounidense Amazon.
@@ -14,6 +16,6 @@ En mayo, Amazon Web Services (AWS) del brazo de Cloud Computing de Amazon se aso
 
 Kaleido es una nube de negocios con sede en ETH bloques que ofrece a las empresas aplicaciones de bloques ya confeccionadas.
 
-Original source: [EU Antitrust Regulators to Rule on Microsoft Acquisition of GitHub by Mid-October](https://cointelegraph.com/news/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october)
+[Original source](https://cointelegraph.com/news/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Los mercados Crypto ver señales mixtas, Ethereum beats ondulación por la tapa del mercado...
 
+###### 2018-09-22
+
 Sábado, 22 de septiembre: los mercados criptográficos han visto una mezcla de rojo y verde, con Ethereum (ETH) habiendo pasado Ripple (XRP) para volver a ser clasificado el segundo Top cryptocurrency por el Cap del mercado, según CoinMarketCap.
 
 Fuente: Cointelegraph Bitcoin price index Ethereum (ETH) ha recuperado su posición como la segunda cryptocurrency por la tapa del mercado, habiendo sobretomado Ripple por unos $2 mil millones, con una capitalización del mercado de $24,4 mil millones en el momento de la prensa.
@@ -14,6 +16,6 @@ Fuente: CoinMarketCap la mayoría de las 20 monedas de la tapa del mercado han v
 
 El séptimo Top cryptocurrency por Market Cap, Litecoin (LTC), es de casi el 4 por ciento, comerciando alrededor de $60 en el momento de la prensa.
 
-Original source: [Crypto Markets See Mixed Signals, Ethereum Beats Ripple by Market Cap](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-ethereum-beats-ripple-by-market-cap)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

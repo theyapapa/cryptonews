@@ -1,5 +1,7 @@
 # Los investigadores revelan red de 15.000 bots de estafa relacionados con criptografía en Twitter...
 
+###### 2018-08-06
+
 Nuevas investigaciones publicadas hoy, 6 de agosto, ha arrojado luz sobre el fenómeno infame de las cuentas de Twitter relacionadas con cryptocurrency publicidad falsos "regalos", revelando una red de al menos 15.000 bots estafa.
 
 El análisis de los bots de Twitter, que continúan agravando e incluso engañando a los usuarios desprevenidos, provino de la seguridad de la compañía Duo de ciberseguridad.
@@ -14,6 +16,6 @@ Para aquellos que participan activamente en "Crypto Twitter", los bots se han co
 
 En muchos casos, el contenido de spam se esconde en Twitter basándose en las detecciones automáticas, "añadiendo en la defensa" \ [l \] ESS que el 5% de las cuentas de Twitter están relacionadas con el spam. "
 
-Original source: [Researchers Reveal Network of 15K Crypto-Related Scam Bots on Twitter](https://cointelegraph.com/news/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter)
+[Original source](https://cointelegraph.com/news/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

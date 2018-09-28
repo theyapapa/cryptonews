@@ -1,5 +1,7 @@
 # El juez del distrito de Nueva York gobierna que CFTC puede prohibir permanentemente la firma crypto...
 
+###### 2018-08-24
+
 La Comisión de comercio de futuros commodities de los Estados Unidos (CFTC) ha ganado una orden judicial para barrar permanentemente al operador de la empresa con sede en Nueva York CabbageTech Corp. por "fraude audaz y vicioso" relacionado con cryptocurrency, informó Bloomberg el 24 de agosto.
 
 A principios de este año, Patrick McDonnell, cryptocurrency promotor y operador de CabbageTech Corp., fue acusado de "fraude y apropiación indebida en relación con las compras y el comercio de Bitcoin (BTC) y Litecoin (LTC)."
@@ -14,6 +16,6 @@ El CFTC alegó en el pleito que los clientes que pagaron McDonnell y la gota de 
 
 El pleito también señala que la gota de la moneda no fue registrada con el CFTC.
 
-Original source: [New York District Judge Rules That CFTC Can Permanently Ban Crypto Firm](https://cointelegraph.com/news/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm)
+[Original source](https://cointelegraph.com/news/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

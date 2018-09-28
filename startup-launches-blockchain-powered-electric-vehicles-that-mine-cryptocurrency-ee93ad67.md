@@ -1,5 +1,7 @@
 # Startup lanza bloques vehículos eléctricos motorizados que minan Cryptocurrency...
 
+###### 2018-09-19
+
 Un startup de bloques de Singapur está lanzando una flota de vehículos eléctricos bloques-habilitados que minan Crypto mientras que los usuarios viajan.
 
 En el Reino Unido, el sector del transporte es el mayor contribuyente del Reino Unido a las emisiones de CO2, y en la actualidad hay una lucha no sólo en el Reino Unido, sino en todo el mundo para poner más vehículos eléctricos en las carreteras.
@@ -14,6 +16,6 @@ En una reciente Conferencia bloques en Seúl, el planificador estratégico de Cy
 
 En 2017, otra compañía de bloques comenzó a probar un mercado del cargador del vehículo eléctrico de peer-to-peer que permitió que los usuarios carguen sus coches usando la salida de energía de otra persona.
 
-Original source: [Startup Launches Blockchain Powered Electric Vehicles That Mine Cryptocurrency](https://cointelegraph.com/news/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency)
+[Original source](https://cointelegraph.com/news/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

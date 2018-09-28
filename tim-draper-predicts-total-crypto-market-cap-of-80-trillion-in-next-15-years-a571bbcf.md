@@ -1,5 +1,7 @@
 # Tim Draper predice la tapa total del mercado Crypto de $80 billones en los próximos 15 años...
 
+###### 2018-09-14
+
 El inversor de capital de riesgo Tim Draper ha pronosticado que la capitalización total del mercado cryptocurrencyrá a $80 billones en los próximos 15 años, el noticiero DealStreetAsia informó el 14 de septiembre.
 
 En la Cumbre 2018 de DealStreetAsia PE-VC en Singapur, Draper argumentó que el importante deslizamiento en el mercado de cryptocurrency en los últimos meses se atribuye a personas que no han adoptado las monedas digitales como una nueva clase de activos.
@@ -14,6 +16,6 @@ Brian Kelly del dinero rápido de CNBC comparó cryptocurrency con el "Internet 
 
 En el momento de la prensa, la capitalización total del mercado criptográfico es de alrededor de $202 mil millones, según CoinMarketCap.
 
-Original source: [Tim Draper Predicts Total Crypto Market Cap of $80 Trillion in Next 15 Years](https://cointelegraph.com/news/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years)
+[Original source](https://cointelegraph.com/news/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

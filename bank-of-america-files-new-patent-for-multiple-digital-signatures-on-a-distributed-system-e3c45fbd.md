@@ -1,5 +1,7 @@
 # Bank of America archiva nueva patente para múltiples firmas digitales en un sistema distribuido...
 
+###### 2018-09-24
+
 El segundo banco más grande de Estados Unidos, Bank of America (BofA), ha presentado una nueva patente para la adaptación de múltiples firmas digitales en una red distribuida, de acuerdo con una oficina de patentes y marcas registradas de los Estados Unidos (USPTO) publicada el 18 de septiembre.
 
 La nueva patente propone un sistema de gestión de la comunicación de datos desde dispositivos conectados a Internet.
@@ -14,6 +16,6 @@ El Banco de América, según los informes, uno de los mayores titulares de paten
 
 En julio, BofA también había presentado una patente para un sistema que permite la validación externa de datos basados en la tecnología de contabilidad distribuida.
 
-Original source: [Bank of America Files New Patent for Multiple Digital Signatures on a Distributed System](https://cointelegraph.com/news/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system)
+[Original source](https://cointelegraph.com/news/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

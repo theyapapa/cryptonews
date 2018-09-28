@@ -1,5 +1,7 @@
 # American National Standards Institute para dirigirse a bloques en el próximo Foro...
 
+###### 2018-09-17
+
 El American National Standards Institute (ANSI) discutirá temas de bloques e inteligencia artificial (AI) en sus próximas ediciones legales y foro de miembros conjuntos, según un anuncio publicado el 17 de septiembre.
 
 El Instituto no desarrolla normas, pero administra y coordina el sistema de evaluación de conformidad y estándares voluntarios de Estados Unidos.
@@ -14,6 +16,6 @@ Recientemente, el foro económico mundial (FEM) publicó un informe llamado "edi
 
 Según el informe, el siguiente paso importante en la introducción de aplicaciones bloques para la protección del medio ambiente es el establecimiento de un ecosistema bloques "responsable" y "global", en lugar de financiar proyectos específicos y separados.
 
-Original source: [American National Standards Institute to Address Blockchain at Upcoming Forum](https://cointelegraph.com/news/american-national-standards-institute-to-address-blockchain-at-upcoming-forum)
+[Original source](https://cointelegraph.com/news/american-national-standards-institute-to-address-blockchain-at-upcoming-forum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

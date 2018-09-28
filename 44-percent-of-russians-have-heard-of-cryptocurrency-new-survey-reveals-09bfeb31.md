@@ -1,5 +1,7 @@
 # 44 por ciento de los rusos han oído hablar de Cryptocurrency, nueva encuesta revela...
 
+###### 2018-08-08
+
 Casi la mitad de los rusos han oído hablar de cryptocurrencies, y el 13 por ciento afirman tener una buena comprensión de ellos, una encuesta realizada por Research Holding ROMIR reveló el 7 de agosto.
 
 ROMIR, un representante de la Asociación Internacional Gallup en Rusia, preguntó a 1.500 residentes rusos acerca de su conocimiento de cryptocurrency, así como sus planes para interactuar con la industria.
@@ -14,6 +16,6 @@ Los otros hallazgos de la encuesta incluyeron una relación entre el ingreso y e
 
 A finales de enero, otra encuesta relacionada con la criptografía realizada por el centro ruso para el estudio de la opinión pública (VCIOM) encontró que más del 56 por ciento de los rusos habían oído hablar de bitcoin, señalando que el 74 por ciento de la población de Moscú, la capital de Rusia, está ahora consciente de la cryptocurrency.
 
-Original source: [44 Percent of Russians Have Heard of Cryptocurrency, New Survey Reveals](https://cointelegraph.com/news/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals)
+[Original source](https://cointelegraph.com/news/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # El mayor banco tailandés para probar la solución de Visa bloques para pagos transfronterizos...
 
+###### 2018-09-24
+
 El cuarto banco más grande de Tailandia, Kasikornbank, se ha incorporado recientemente al programa de Visa B2B Connect basado en bloques para pagos transfronterizos, el periódico local The Nation informó el jueves 20 de septiembre.
 
 Según la nación, Kasikornbank es el "primer" Banco en el país en utilizar la tecnología, estableciendo el escenario para un uso más extendido de la bloques en el sector bancario del país.
@@ -14,6 +16,6 @@ Kasikornbank, anteriormente conocido como Thai Farmers Bank, tiene su sede en Ba
 
 Como Cointelegraph escribió en agosto, el Banco de Tailandia (bot) comenzó a permitir a los bancos locales para establecer filiales para tratar con cryptocurrencies.
 
-Original source: [Major Thai Bank to Test Visa Blockchain Solution for Cross-Border Payments](https://cointelegraph.com/news/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments)
+[Original source](https://cointelegraph.com/news/major-thai-bank-to-test-visa-blockchain-solution-for-cross-border-payments)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

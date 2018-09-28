@@ -1,5 +1,7 @@
 # Unión de asociaciones europeas de fútbol implementa sistema de ticketing basado en bloques...
 
+###### 2018-08-16
+
 La Unión Europea de asociaciones de fútbol (UEFA) ha implementado con éxito un nuevo sistema de ticketing a través de teléfonos móviles basados en tecnología bloques, según un comunicado de prensa del 16 de agosto.
 
 Después de la "exitosa implementación" del sistema de ticketing bloques por 50 por ciento de las entradas para la 2018 final de la UEFA Europa League en Lyon en mayo, la UEFA decidió aumentar el alcance de la tecnología "a todo el público en general" en Estonia.
@@ -12,6 +14,6 @@ A principios de este verano, Cointelegraph publicó un seguimiento descriptivo d
 
 Y este invierno, Harunustaspor, un equipo de fútbol turco, había anunciado que había pagado parcialmente a uno de sus jugadores en Bitcoin (BTC), Cointelegraph informó el 31 de enero.
 
-Original source: [Union of European Football Associations Implements Blockchain-Based Ticketing System](https://cointelegraph.com/news/union-of-european-football-associations-implements-blockchain-based-ticketing-system)
+[Original source](https://cointelegraph.com/news/union-of-european-football-associations-implements-blockchain-based-ticketing-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

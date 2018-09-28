@@ -1,5 +1,7 @@
 # Francia finaliza el nuevo marco de ICO para ' atraer innovadores a nivel mundial '...
 
+###### 2018-09-14
+
 El Ministro de economía y Finanzas de Francia ha anunciado que el Gobierno ha aceptado un artículo del proyecto de ley de crecimiento y transformación de negocios (pacte) dedicado a la oferta inicial de monedas (ICO), según un tweet publicado el miércoles, 12 de septiembre.
 
 Como dice el Ministro de Hacienda, Bruno Le Maire, el regulador francés de mercados bursátiles Autorité des Marchés Financers (AMF) está ahora facultado para otorgar licencias a empresas que quieran recaudar fondos a través de un ICO, con la legislación con el objetivo de ayudar a proteger a los colaboradores Intereses.
@@ -14,6 +16,6 @@ Como Cointelegraph informó en mayo, el Consejo de Estado francés aclaró las e
 
 En cuanto al contexto europeo más amplio, como Cointelegraph informó a comienzos de este mes, los miembros del Parlamento Europeo celebraron una reunión con expertos del bloques sobre el Reglamento del ICO a principios de septiembre.
 
-Original source: [France Finalizes New ICO Framework to ‘Attract Innovators Globally’](https://cointelegraph.com/news/france-finalizes-new-ico-framework-to-attract-innovators-globally)
+[Original source](https://cointelegraph.com/news/france-finalizes-new-ico-framework-to-attract-innovators-globally)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

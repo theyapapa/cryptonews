@@ -1,5 +1,7 @@
 # El verano está terminando: ¿el ERC-20 de Ethereum pasará la gobernanza a ERC-777? ...
 
+###### 2018-09-19
+
 El final del verano es un buen momento para fijar metas personales, para empaparse en los días finales de sol y para recordar los acontecimientos importantes del verano, como la promesa hecha por Jordi Baylina, Jacques Dafflon y Thomas Shababi para introducir la comunidad de tokens ERC-777 lista el estándar, que se piensa para substituir el estándar simbólico más popular del mundo, el ERC-20.
 
 Los principales méritos del Ethereum bloques incluyen que el proceso de desarrollo de una aplicación es extremadamente simple y el procedimiento para emitir un token utilizando un contrato inteligente se apaga sin el menor enganche.
@@ -14,6 +16,6 @@ El problema era que los desarrolladores de Ethereum no proporcionaban esa opció
 
 El nuevo estándar ERC-777 solucionará el problema de que los tokens de un destinatario se pierden cuando se envían a un contrato que no admite la recepción o administración de dichos activos.
 
-Original source: [Summer Is Ending: Will Ethereum’s ERC-20 Pass the Governance to ERC-777?](https://cointelegraph.com/news/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777)
+[Original source](https://cointelegraph.com/news/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

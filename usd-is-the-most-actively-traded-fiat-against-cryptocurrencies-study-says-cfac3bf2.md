@@ -1,5 +1,7 @@
 # USD es el Fiat más cotizado contra Cryptocurrencies, dice el estudio...
 
+###### 2018-09-07
+
 La firma de consultoría de gestión y tecnología GreySpark ha encontrado que los dólares estadounidenses son la moneda Fiat más comercializada activamente contra cryptocurrencies en un nuevo estudio publicado el 4 de septiembre.
 
 Los expertos de GreySpark encontraron que los precios criptográficos correlacionaron con el interés de búsqueda de Google.
@@ -14,6 +16,6 @@ La investigación divide a los países en tres grupos basados en la dureza de la
 
 Fuente: el informe de GreySpark.com GreySpark también toma nota de la falta de soluciones de custodia de confianza en la industria de la criptografía, argumentando que el mercado está esperando a grandes casas como State Street, con sede en Estados Unidos y Northern Trust, como Cointelegraph escribió el mes pasado, citando La investigación Coinbase, el interés general en los activos digitales ha impulsado a las grandes universidades a lanzar cursos dedicados a la tecnología emergente.
 
-Original source: [USD Is the Most Actively Traded Fiat Against Cryptocurrencies, Study Says](https://cointelegraph.com/news/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says)
+[Original source](https://cointelegraph.com/news/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

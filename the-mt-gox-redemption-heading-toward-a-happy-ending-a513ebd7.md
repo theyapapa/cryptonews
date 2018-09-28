@@ -1,5 +1,7 @@
 # El Mt. GOX Redemption: ¿hacia un final feliz? ...
 
+###### 2018-08-28
+
 El desarrollo se produjo gracias a un grupo de acreedores de Mt. GOX con éxito en el montaje de un esfuerzo para sacar el intercambio de los procedimientos de bancarrota y lo empujó a un proceso legal alternativo, conocido como la rehabilitación civil.
 
 # # rehabilitación la lógica del movimiento es que este último modo, de acuerdo con la ley japonesa, permitiría distribuir los activos pendientes de la bolsa (que valen más de $1,3 mil millones a partir del tiempo de prensa) entre los que habían perdido sus fondos en medio del colapso de Mt. GOX en 2014. Si hubiera permanecido en el proceso de quiebra, a su conclusión, la mayor parte del dinero se habría acumulado a los accionistas de la bolsa, en particular el ex CEO de la firma, Mark Karpelès, quien, en el momento del colapso, poseía el 88 por ciento del Mt. GOX.
@@ -12,6 +14,6 @@ En un momento en que la parte del dinero institucional en la industria de la cri
 
 Un incidente indicativo de la actitud del CEO ocurrió a raíz del Hack del 2011 de junio, cuando prominentes empresarios Crypto Jesse Powell, que más tarde se convertiría en un co-fundador de Crypto Exchange Kraken, y el evangelista de Bitcoin Roger ver fueron convocados a Tokio para ayudar a GOX de vuelta a Mt.
 
-Original source: [The Mt. Gox Redemption: Heading Toward a Happy Ending?](https://cointelegraph.com/news/the-mt-gox-redemption-heading-toward-a-happy-ending)
+[Original source](https://cointelegraph.com/news/the-mt-gox-redemption-heading-toward-a-happy-ending)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

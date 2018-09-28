@@ -1,5 +1,7 @@
 # Ice ' s Bakkt revela primer producto Crypto como los futuros físicos Bitcoin...
 
+###### 2018-09-25
+
 Intercontinental Exchange (ICE) confirmó que la primera oferta de su plataforma Bakkt cryptocurrency tomará la forma de futuros de Bitcoin físicos.
 
 Bakkt, que ICE ha dicho será un "ecosistema regulado" para los inversionistas institucionales con el objetivo de obtener la exposición a cryptocurrency, ofrecerá futuros contra al menos tres monedas Fiat: el dólar estadounidense, libra esterlina y euro.
@@ -14,6 +16,6 @@ Mientras que el lanzamiento de noviembre de Bakkt aumentó a la prominencia con 
 
 Los tan esperados fondos de intercambio de Bitcoin (ETFs), actualmente en espera de la aprobación de los reguladores de Estados Unidos, se diferencian de la oferta de Bakkt por el hecho de que los comerciantes de la primera no tomarían la entrega de ningún bitcoins real.
 
-Original source: [ICE’s Bakkt Reveals First Crypto Product as Physical Bitcoin Futures](https://cointelegraph.com/news/ices-bakkt-reveals-first-crypto-product-as-physical-bitcoin-futures)
+[Original source](https://cointelegraph.com/news/ices-bakkt-reveals-first-crypto-product-as-physical-bitcoin-futures)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

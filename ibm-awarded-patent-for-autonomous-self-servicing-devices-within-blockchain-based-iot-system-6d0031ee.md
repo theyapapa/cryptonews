@@ -1,5 +1,7 @@
 # IBM otorgó la patente para los dispositivos autónomos del autoservicio dentro del sistema del lote de bloques...
 
+###### 2018-09-24
+
 IBM ha ganado una patente para el autoservicio autónomo de los dispositivos conectados en red que forman parte de su entorno autónomo descentralizado de telemetría de peer-to-peer (adepto).
 
 Como explica IBM como un fondo a su nueva presentación de patentes, "controladores de lote a menudo están centralizados \ [... \] \ [con \] diferentes proveedores de soluciones de lote \ [proporcionando \] soluciones propietarias que siguen arquitecturas centralizadas similares," lo que sugiere que una descentralizada la arquitectura puede ofrecer un mejor costo y eficiencia operativa.
@@ -14,6 +16,6 @@ Apenas la semana pasada, Cointelegraph informó sobre una nueva patente relacion
 
 Un nuevo informe publicó a finales de agosto indicó que IBM compitió con cerca con alibaba gigante chino del e-commerce para el punto superior en una nueva lista que alineó entidades por el número de las patentes bloques-relacionadas archivadas hasta la fecha.
 
-Original source: [IBM Awarded Patent for Autonomous Self-Servicing Devices Within Blockchain-Based IoT System](https://cointelegraph.com/news/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system)
+[Original source](https://cointelegraph.com/news/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

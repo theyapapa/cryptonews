@@ -1,5 +1,7 @@
 # Irán: el borrador de criptografía respaldado por el estado está listo, el Banco Central anunciará pronto la postura en crypto...
 
+###### 2018-08-25
+
 El centro nacional del ciberespacio de Irán ha revelado que el borrador del proyecto cryptocurrency respaldado por el estado está listo, la tribuna financiera de noticias local reporta el 25 de agosto.
 
 Según el artículo, el proyecto nacional de moneda digital fue desarrollado siguiendo instrucciones del Presidente de Irán Hassan Rouhani.
@@ -14,6 +16,6 @@ Imitando la práctica de Venezuela, cuyo gobierno introdujo el primer cryptocurr
 
 El 7 de agosto, Cointelegraph informó que la amenaza Crypto ransomware de Irán está aumentando y crecerá aún más en el entorno geopolítico actual.
 
-Original source: [Iran: State-Backed Crypto Draft is Ready, Central Bank to Soon Announce Stance on Crypto](https://cointelegraph.com/news/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto)
+[Original source](https://cointelegraph.com/news/iran-state-backed-crypto-draft-is-ready-central-bank-to-soon-announce-stance-on-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

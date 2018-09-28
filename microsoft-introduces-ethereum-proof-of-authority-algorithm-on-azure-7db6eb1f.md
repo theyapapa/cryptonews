@@ -1,5 +1,7 @@
 # Microsoft presenta el algoritmo de prueba de autoridad de Ethereum en Azure...
 
+###### 2018-08-08
+
 La plataforma Cloud Azure de Microsoft ha introducido un algoritmo de prueba de autoridad (POA) en su producto Ethereum (ETH) bloques, según un blog post 7 de agosto.
 
 Según se informa, el nuevo algoritmo de red de Ethereum permitirá una forma "más eficiente" de construir aplicaciones descentralizadas (DApps) para redes privadas o consorciadas, donde "todos los participantes en el consenso son conocidos y de buena reputación".
@@ -14,6 +16,6 @@ El DApp de gobernanza también asegurará que cada miembro del consorcio tenga e
 
 A principios de junio, el consorcio R3 bloques anunció que la firma, junto con 39 compañías financieras globales, había probado con éxito su aplicación Know Your Client (KYC), que ejecutaba un total de 45 nodos en Microsoft Azure.
 
-Original source: [Microsoft Introduces Ethereum Proof-of-Authority Algorithm on Azure](https://cointelegraph.com/news/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure)
+[Original source](https://cointelegraph.com/news/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

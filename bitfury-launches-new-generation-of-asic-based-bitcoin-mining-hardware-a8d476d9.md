@@ -1,5 +1,7 @@
 # Bitfury lanza nueva generación de hardware de minería de Bitcoin basado en ASIC...
 
+###### 2018-09-20
+
 El fabricante de software de minería Bitcoin (BTC) Bitfury Group ha lanzado una nueva generación de su hardware de minería BTC basado en su chip Bitfury Clarke de circuito integrado específico para aplicaciones (ASIC), según un anuncio publicado el 19 de septiembre.
 
 Un chip ASIC es una pieza de hardware minero orientada a la moneda digital basada en un algoritmo de hashing específico.
@@ -14,6 +16,6 @@ En diciembre, Bitfury facilitó el lanzamiento de la compañía de minería de B
 
 En julio, Cointelegraph también informó de que, de acuerdo con fuentes de la "cadena de suministro upstream", la venta de hardware de la minería de criptografía ASIC se había visto afectada negativamente, con una caída de precios prevista del 20 por ciento de ese mes.
 
-Original source: [Bitfury Launches New Generation of ASIC-Based Bitcoin Mining Hardware](https://cointelegraph.com/news/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware)
+[Original source](https://cointelegraph.com/news/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

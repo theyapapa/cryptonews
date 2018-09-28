@@ -1,5 +1,7 @@
 el accionista más grande de # uber Softbank niega reparto con Bitmain, otras inversiones inciertas...
 
+###### 2018-08-18
+
 Un funcionario de Softbank ha negado su participación en el acuerdo de inversión con Bitcoin (BTC) minería gigante Bitmain que fue reportado la semana pasada por las fuentes de medios de comunicación Crypto y mainstream.
 
 Después de recibir una propina anónima que Tencent y Softbank no estaban involucrados en ningún acuerdo con Bitmain, Cointelegraph se acercó a Softbank y Tencent para la confirmación.
@@ -14,6 +16,6 @@ A medida que los medios de comunicación comenzaron a informar de Softbank y Ten
 
 La publicación China QQ — la misma fuente que alegó la participación de Tencent y Softbank en el reciente acuerdo de financiamiento — ha sugerido recientemente que la firma será valorada en $30 mil millones.
 
-Original source: [Uber's Largest Shareholder SoftBank Denies Deal With Bitmain, Other Investments Uncertain](https://cointelegraph.com/news/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain)
+[Original source](https://cointelegraph.com/news/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

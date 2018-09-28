@@ -1,5 +1,7 @@
 # Estudio: los inversores y especuladores de Bitcoin mantuvieron sus posiciones durante el verano...
 
+###### 2018-09-24
+
 Los inversores y especuladores de Bitcoin (BTC) mantuvieron sus posiciones durante el verano, mientras que los mercados parecen haberse vuelto más estables en general, según un nuevo estudio de Chainalysis publicado el 24 de septiembre.
 
 Según el estudio, los agregados monetarios fueron "extremadamente constantes" durante el verano, demostrando que la cantidad de BTC que se celebró para la especulación fue estable de mayo a agosto en alrededor del 22 por ciento de los BTC disponibles.
@@ -14,6 +16,6 @@ En junio, Chainalysis publicó un estudio, que muestra un cambio de BTC "hodlers
 
 Desde el 2017 de diciembre, la cantidad de BTC celebrada por los comerciantes de día ha aumentado a 5,1 millones BTC, casi igual a la cantidad de los inversionistas a largo plazo, aquellos que han celebrado las monedas por más de un año, lo que equivale a aproximadamente 6 millones BTC.
 
-Original source: [Study: Bitcoin Investors and Speculators Maintained Their Positions Over Summer](https://cointelegraph.com/news/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer)
+[Original source](https://cointelegraph.com/news/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

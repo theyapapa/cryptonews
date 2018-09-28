@@ -1,5 +1,7 @@
 # La mayor correduría brasileña lanzará el intercambio de Bitcoin y Ethereum...
 
+###### 2018-09-21
+
 La mayor correduría en Brasil entrará en el espacio criptográfico al lanzar un intercambio para Bitcoin (BTC) y Ethereum (ETH) en un futuro próximo, informó Bloomberg 21 de septiembre.
 
 El CEO de grupo XP Guilherme Benchimol dijo a Bloomberg que la compañía lanzará un intercambio llamado XDEX en los próximos meses, con alrededor de 40 empleados.
@@ -14,6 +16,6 @@ Inicialmente, grupo XP anunció sus planes de lanzar un over-Counter (OTC) BTC E
 
 A comienzos de esta semana, el Consejo Administrativo de defensa económica de Brasil (CADE) lanzó una investigación en seis grandes bancos nacionales sobre las presuntas prácticas monopólicas en el espacio criptográfico.
 
-Original source: [Largest Brazilian Brokerage to Launch Exchange for Bitcoin and Ethereum](https://cointelegraph.com/news/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum)
+[Original source](https://cointelegraph.com/news/largest-brazilian-brokerage-to-launch-exchange-for-bitcoin-and-ethereum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

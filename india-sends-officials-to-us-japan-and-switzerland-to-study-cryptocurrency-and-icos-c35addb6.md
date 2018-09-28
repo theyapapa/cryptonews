@@ -1,5 +1,7 @@
 # India envía funcionarios a nosotros, Japón y Suiza para estudiar Cryptocurrency y icos...
 
+###### 2018-09-03
+
 La Junta de valores y bolsa de la India (SEBI) organizó giras a otros países para que sus funcionarios estudien cryptocurrencies y ofrendas iniciales de monedas (ICO), según su informe anual 2017-18.
 
 El regulador indio informa que las autoridades ya han emprendido "viajes de estudio" en particular para estudiar cryptocurrency y icos en la Agencia de servicios financieros del Japón (FSA), la autoridad de conducta financiera del Reino Unido (FCA) y la Supervisora del mercado financiero suizo Autoridad (FINMA).
@@ -14,6 +16,6 @@ El informe SEBI se presenta en un contexto de una polémica decisión RBI que en
 
 El Tribunal Supremo de la India había sostenido la restricción de RBI hasta la audiencia de julio, que más tarde fue aplazada hasta el 11 de septiembre.
 
-Original source: [India Sends Officials to US, Japan and Switzerland to Study Cryptocurrency and ICOs](https://cointelegraph.com/news/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos)
+[Original source](https://cointelegraph.com/news/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
