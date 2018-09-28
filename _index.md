@@ -1,3 +1,4 @@
+* 2018-09-28 [Роскошный часовщик Hublot раскрывает новую модель, доступную только для Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/luxury-watchmaker-hublot-unveils-new-model-available-for-bitcoin-only-a3228024.md)
 * 2018-09-28 [Клуб с открытым исходным кодом: Монеро dodges еще одно нападение с помощью сообщества](https://github.com/theyapapa/cryptonews/blob/ru/open-source-club-monero-dodges-yet-another-attack-with-communitys-help-da1209fe.md)
 * 2018-09-28 [Япония сообщения гигантской линии объявляет о новой цифровой монеты и 5 децентрализованных приложений](https://github.com/theyapapa/cryptonews/blob/ru/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps-d7f37de9.md)
 * 2018-09-28 [Австралия: клиенты файл претензии против публично перечисленные ICO консультационная фирма дигиталкс](https://github.com/theyapapa/cryptonews/blob/ru/australia-clients-file-claim-against-publicly-listed-ico-advisory-firm-digitalx-029b0fb2.md)
