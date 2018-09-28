@@ -16,6 +16,8 @@
 
 Запущенный 30 июля 2015, Ethereum является вторым по величине рынком по капитализации в период печати.
 
+![](https://s3.cointelegraph.com/storage/uploads/view/5f46b54910f15b7fcd60bcd7edc5fc51.png)
+
 [Original source](https://cointelegraph.com/news/tom-lee-ethereum-will-rally-strongly-up-to-1-900-by-the-end-of-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
