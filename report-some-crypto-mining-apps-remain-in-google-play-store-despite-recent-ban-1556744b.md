@@ -1,5 +1,7 @@
 # 보고서: 일부 암호화 마이닝 애플 리 케이 션은 최근 금지에도 불구 하 고 구글 플레이 스토어에 남아 ...
 
+###### 2018-08-28
+
 8 월 28 일에 발표 된 다음 웹 보고서에 따르면, 여러 암호 화폐 채굴 앱은 금지에도 불구 하 고 Google Play 스토어에 남아 있습니다.
 
 7 월 27 일, 구글은 Play 스토어에서 암호화 마이닝 애플 리 케이 션을 금지.
@@ -14,6 +16,6 @@ min광물 게이트는 이메일에 하드 포크 말했다: "휴대 전화에 �
 
 4 월, 구글은 또한 그것의 크롬 웹 스토어에서 "90%" 살 일 걸 요 자사의 규칙을 준수 하는 데 실패 후 광산 확장 기능을 제거 한다고 발표 했다.
 
-Original source: [Report: Some Crypto Mining Apps Remain in Google Play Store Despite Recent Ban](https://cointelegraph.com/news/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban)
+[Original source](https://cointelegraph.com/news/report-some-crypto-mining-apps-remain-in-google-play-store-despite-recent-ban)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

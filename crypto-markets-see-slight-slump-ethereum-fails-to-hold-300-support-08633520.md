@@ -1,5 +1,7 @@
 # 암호화 시장은 약간의 슬 럼 프를 참조 하십시오,이 더 리 움은 $300 지원을 개최 하지 ...
 
+###### 2018-08-18
+
 총 시장 총액은 언론 시간에 $2100억 만큼 낮게 떨어졌다.
 
 Coin360에서 시장 시각화 비트 코인 (BTC)은 프레스 시간에 $6396에서 거래, 지난 24 시간 동안 다운 1.79% 이다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 프레스 시간에 $6396�
 
 출처: cointelegraph xrp 가격 지 수 스텔라 (xrp) 및 monero (xrp)는 각각 지난 24 시간 동안 2.3 및 0.6% 아래로도 있습니다.
 
-Original source: [Crypto Markets See Slight Slump, Ethereum Fails to Hold $300 Support](https://cointelegraph.com/news/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-slight-slump-ethereum-fails-to-hold-300-support)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

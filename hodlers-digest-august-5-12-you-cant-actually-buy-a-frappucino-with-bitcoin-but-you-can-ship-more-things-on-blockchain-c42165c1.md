@@ -1,5 +1,7 @@
 # hodler의 다이제스트, 8 월 5-12: 당신은 실제로 비트 코인과 frappucino를 구입할 수 없습니다, 하지만 당신은 블록 체인에 더 많은 것 들을 출시할 수 ... # # # # 인기 기사 이번 주 미국 안보와 교환 위원회는 미국 증권 거래소와 외환 거래를 위해 비트 코인 ETF를 연기 합니다. 위원회는 9 월 30 일까 지 비트 코인 거래소 상장 펀드 (ETF)의 상장 및 거래에 대 한 결정을 지연 시켰습니다.
 
+###### 2018-08-12
+
 월스트리트 저널에 의해이 주의 기사에 따르면 편성 한 "무역 그룹"에 의해 지휘 된 crypto에 있는 WSJ 보고 가격 조작, 암호 화폐 가격 조작은 "펌프와 덤프" 계획을 창조 하는 편성 한 "무역 그룹"에 의해 주로 지휘 된다 전보 같은 서비스에.
 
 뉴욕 증권 거래소의 운영자에 의해 지난주 발표 후 그들은 제휴, 뉴스 리포트의 물결으로 스타벅스와 함께 새로운 디지털 자산 생태계를 만드는 것이 거짓 스타벅스 커피에 대 한 암호화를 받아들일 것 이라고 표현 하는 동안 정말 고객 것입니다 오히려 다음 스타벅스에 사용할 수 있는 피아트로 BTC를 변환 할 수 있습니다.
@@ -12,6 +14,6 @@
 
 영국 금융 레 귤 레이 터는 두 개의 암호화 "클론 회사"에 대 한 경고 영국의 금융 행위 당국 (FCA) 두 소위 "클론" 회사에 대해 투자자 들에 게 경고 했다 이번 주, 즉 회사는 허위 하에서 사업 활동을 수행 하는 기업 FCA에 의해 등록.
 
-Original source: [Hodler’s Digest, August 5-12: You Can’t Actually Buy A Frappucino With Bitcoin, But You Can Ship More Things On Blockchain](https://cointelegraph.com/news/hodlers-digest-august-5-12-you-cant-actually-buy-a-frappucino-with-bitcoin-but-you-can-ship-more-things-on-blockchain)
+[Original source](https://cointelegraph.com/news/hodlers-digest-august-5-12-you-cant-actually-buy-a-frappucino-with-bitcoin-but-you-can-ship-more-things-on-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

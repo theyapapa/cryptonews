@@ -1,5 +1,7 @@
 # Tech giant Dell은 인도 서버 시장에서 경쟁력을 유지 하기 위해 블록 체인을 찾습니다 ...
 
+###### 2018-09-26
+
 테크 자이언트 Dell EMC Technologies는 블록 체인 기능이 있는 제품을 도입 하 여 인도 서버 시장에서 선두 주자로 남을 계획 이며, 지역 뉴스 아울렛 경제 타임즈 인도는 9 월 26 일을 보고 합니다.
 
 Dell은 블록 체인, 인공 지능 (AI), 데이터 분석 및 클라우드 컴플라이언스를 핵심 기능으로 파악 하 여이 회사의 우위를 유지 하기 위해 앞으로 나아갈 것입니다.
@@ -14,6 +16,6 @@ gupta는 수요가 "IT 지원 서비스, 뱅킹, 금융 서비스 및 보험 (bf
 
 블록 체인을 수용 하는 동안, 국가의 가장 높은 사법부는 현재 인도의 예비 은행 (타 점)의 은행 들의 거래에 대 한 논쟁 적인 금지를 검토 하는 중간에 있다 암호화 관련 단체.
 
-Original source: [Tech Giant Dell Looks to Blockchain to Stay Competitive in Indian Server Market](https://cointelegraph.com/news/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market)
+[Original source](https://cointelegraph.com/news/tech-giant-dell-looks-to-blockchain-to-stay-competitive-in-indian-server-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 블록 체인과 선거: 일본, 스위스, 미국의 경험 ... # 일본의 과학 허브 시험 블록 체인 8 월 하순, 일본 쓰쿠바 시는 블록 체인 기술을 투표 시스템에 사용 하는 것을 trialed.
 
+###### 2018-09-06
+
 # # 시에라 리온: 블록 체인 선거 3 월 7 일 아니, 2018, 시에라 리온은 선거 과정에서 블록 체인 기술을 구현 하는 최초의 국가가 되었다 보고 되었다.
 
 사실, 아고라는 실제로 투표 과정을 관찰 하 고 선거와 함께 완전히 분리 된 블록 체인 재판을 실행 하 여 미래 선거가이 기술을 사용 하 여 수행 될 수 있는 방법을 설명 했습니다.
@@ -12,6 +14,6 @@
 
 블록 체인 기술이 투표 과정을 변화 시킬 가능성에 대해 긍정적 이지만, 보고서는 블록 체인이 광범위 하 게 구현 되는 비용과 규모를 고려 하기 위해 종합적으로 테스트 되어야 한다는 결론을 내렸다.
 
-Original source: [Blockchain and Elections: The Japanese, Swiss and American Experience](https://cointelegraph.com/news/blockchain-and-elections-the-japanese-swiss-and-american-experience)
+[Original source](https://cointelegraph.com/news/blockchain-and-elections-the-japanese-swiss-and-american-experience)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

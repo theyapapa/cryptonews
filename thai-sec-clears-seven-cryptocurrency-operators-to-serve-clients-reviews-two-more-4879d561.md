@@ -1,5 +1,7 @@
 # 타이어 SEC는 클라이언트를 제공 하는 일곱 암호 화폐 사업자를 지웁니다, 리뷰 두 개 더 ...
 
+###### 2018-08-16
+
 태국 당국은 8 월 16 일 목요일, 그들은 지금까지 국가의 국내 시장의 흔하다의 일환으로 암호 화폐 작업을 수행 하는 7 개의 사업 기관을 승인 했다고 발표 했다.
 
 성명에서 태국의 증권 거래 위원회 (타이 SEC)는 비트 코인 주식을 확인 했습니다. 주식회사 (BX), bitkub Online (주), Cash2coins 주식회사, 그룹 주식회사 (tdax), 코인 자산 (주)은 법적 암호 화폐 거래소로 운영할 수 있었습니다.
@@ -14,6 +16,6 @@ cointelegraph가 보고 된 바와 같이, 그 엔티티는 적용 하 고 5 월
 
 지난 주, SEC는 또한 태국에서 규제 상태를 신청에 예비 초기 동전 제공 (ICO) 발급자 로부터 무거운 관심을 공개 했다.
 
-Original source: [Thai SEC Clears Seven Cryptocurrency Operators to Serve Clients, Reviews Two More](https://cointelegraph.com/news/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more)
+[Original source](https://cointelegraph.com/news/thai-sec-clears-seven-cryptocurrency-operators-to-serve-clients-reviews-two-more)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

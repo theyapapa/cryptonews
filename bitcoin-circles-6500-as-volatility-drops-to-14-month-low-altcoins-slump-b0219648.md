@@ -1,5 +1,7 @@
 # 비트 코인 서클 $6500 변동성이 14 개월 낮은, 알트 코인 폭락으로 하락 하 고 있습니다.
 
+###### 2018-08-20
+
 비트 코인 (BTC) 가격이 꾸준히 월요일, 8 월 20 일 개최, 알트 코인이 더 하락 하는 동안 동그라미 $6500에 작은 이득을 게시.
 
 codegraph의 가격 추적기와 Coin360의 데이터는 8 월 14 일부 터 $6250과 $6600 사이에 바인딩된 범위를 유지 한 비트 코인에 대 한 상대적으로 안정적인 활동의 여섯째 날을 묘사 합니다.
@@ -14,6 +16,6 @@ codegraph의 가격 추적기와 Coin360의 데이터는 8 월 14 일부 터 $62
 
 출처:이 더 리 움 가격 지수가 9 월 2017 이후 보이지 않는 기온에 도달 했으므로 ETH/USD는 주요 알트 코인 자산 중 비슷한 불황을 울리는 것만 소폭 회복 되었습니다.
 
-Original source: [Bitcoin Circles $6500 as Volatility Drops to 14-Month Low, Altcoins Slump](https://cointelegraph.com/news/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump)
+[Original source](https://cointelegraph.com/news/bitcoin-circles-6500-as-volatility-drops-to-14-month-low-altcoins-slump)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

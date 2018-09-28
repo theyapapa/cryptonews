@@ -1,5 +1,7 @@
 # ' cryptosweep 작업 ' 200 암호화 관련 수사 결과 ...
 
+###### 2018-08-28
+
 북미 증권 관리자 협회 (nasaa)는 현재 8 월 28 일 발표, 그 지속적인 이니셔티브 "cryptosweep"는 이상 200 초기 동전 제물 (ico) 및 암호화 관련 투자 제품의 조사 결과 .
 
 미국과 캐나다의 주 및 지방 증권 규제 당국은 5 월에 nasaa의 "운영 cryptosweep"의 일환으로 잠재적으로 사기성 암호화 투자 프로그램으로 조사를 시작 했습니다.
@@ -14,6 +16,6 @@ nasaa 대통령과 알라바 마 증권 위원회 책임자 조셉 피 보 그�
 
 nasaa는 등록 된 제품 조차도 사기 일 수 있다는 것을 기록 하므로, 투자자는 ico 또는 암호화 관련 프로젝트에 투자 하기 전에 실사를 수행 해야 합니다.
 
-Original source: [‘Operation Cryptosweep’ Results in 200 Crypto-Related Investigations](https://cointelegraph.com/news/operation-cryptosweep-results-in-200-crypto-related-investigations)
+[Original source](https://cointelegraph.com/news/operation-cryptosweep-results-in-200-crypto-related-investigations)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

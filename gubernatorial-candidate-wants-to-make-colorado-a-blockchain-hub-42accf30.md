@@ -1,5 +1,7 @@
 # 주지사 후보는 콜로라도에 게 "블록 체인 허브"를 만들고 싶어 ...
 
+###### 2018-08-09
+
 콜로라도 주지사, 미국 대표 제라드 폴리스에 대 한 민주당 후보, polis ' 웹사이트에 발표에 따르면, 올해 그의 주지사 캠페인의 문제 목록에 블록 체인 정책을 추가 했습니다.
 
 "비즈니스와 정부에서 블록 체인 혁신을 위한 국가적 허브"로 서 콜로라도를 설립 하겠다는 목표를 세운 폴리스는 8 월 8 일 수요일에 블록 체인 관련 제안서를 주지사 플랫폼에 추가 했습니다.
@@ -14,6 +16,6 @@
 
 현재 하 원에서 봉사 하 고 있는 Polis는 capitol Hill에 대 한 암호화 지지자의 작은 그룹에 속한다.
 
-Original source: [Gubernatorial Candidate Wants to Make Colorado a “Blockchain Hub”](https://cointelegraph.com/news/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub)
+[Original source](https://cointelegraph.com/news/gubernatorial-candidate-wants-to-make-colorado-a-blockchain-hub)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

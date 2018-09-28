@@ -1,5 +1,7 @@
 # 리플의 sarbhai: 레 귤 레이 터는 더 이상 "블록 체인 좋은, 암호화 나쁜" 접근법을 취하지 않습니다 ...
 
+###### 2018-09-17
+
 리플의 sagar sarbhai 그는 블록 체인 기술과 암호화 자산 지금은 더 많은 정책 입안자에 의해, CNBC 시장에서 인터뷰에서 오늘 9 월 17 일에 부딪히는 되 고 있다고 믿고 있다.
 
 아시아 태평양 및 리플의 중동에 대 한 규제 관계 책임자 인 sarbhai는 규제 기관 들이 블록 체인과 같은 분산 장부 기술 (DLT)을 취하는 구분 된 접근법을 더 이상 고려 하지 않는다고 말했습니다. 암호화 자산 자체.
@@ -14,6 +16,6 @@
 
 이번 봄, 시진핑 중국 대통령은 "돌파구"를 제공 하는 기술의 "새로운 세대"의 한 예로서 공개적으로 블록 체인을 칭찬 했으며,이 국가는 2016에 걸쳐 제기 된 블록 체인 관련 특허 출원에 대 한 세계 기록을 봉인 했습니다. 2017.
 
-Original source: [Ripple's Sarbhai: Regulators No Longer Take the "Blockchain Good, Crypto Bad" Approach](https://cointelegraph.com/news/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach)
+[Original source](https://cointelegraph.com/news/ripples-sarbhai-regulators-no-longer-take-the-blockchain-good-crypto-bad-approach)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

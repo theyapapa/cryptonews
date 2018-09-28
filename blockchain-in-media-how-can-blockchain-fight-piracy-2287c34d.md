@@ -1,5 +1,7 @@
 미디어의 블록 체인: 블록 체인이 불법 복제를 어떻게 싸울 수 있습니까? ...
 
+###### 2018-08-08
+
 이 그림은 스포츠, 게임, 유료 TV 및 미디어 콘텐츠의 다른 형태의 불법 복제에 손실 될 수익에 요소를 하지 않기 때문에, 감각은 미디어 산업에 불법 복제의 비용이 훨씬 $520억 보다 큰 것입니다.
 
 다시 말하지만, 위의 어떤 것도 결정적이 고 완전 한 것은 아니며, 사람들이 불법적으로 미디어 콘텐츠를 공유할 수 있는 위 이유 중 하나에 대 한 응답으로 구축 된 블록 체인 프로젝트가 특정 종류의 콘텐츠를 불법 복제 하는 것을 막을 것 이라는 의미는 없습니다.
@@ -14,6 +16,6 @@ custostoch는 인코딩 중에 비디오, 오디오, 전자책 및 오디오북�
 
 크로스 디바이스 게임 디스커버리 플랫폼인 rawg는 게임 내 업적에 대 한 토큰을 게이머에 게 보상 하는 블록 체인 시스템을 구축 하 여 게임 업계가 불법 복제를 줄일 수 있도록 지원 하고자 합니다.
 
-Original source: [Blockchain in Media: How Can Blockchain Fight Piracy?](https://cointelegraph.com/news/blockchain-in-media-how-can-blockchain-fight-piracy)
+[Original source](https://cointelegraph.com/news/blockchain-in-media-how-can-blockchain-fight-piracy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

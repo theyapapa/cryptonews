@@ -1,5 +1,7 @@
 # 딜로 이트 2018 설문 조사: 블록 체인 "매일 순간 브레이크 아웃에 가까워 지는" ...
 
+###### 2018-08-28
+
 8 월 27 일 게시 된 "빅 4" 감사자 딜로 이트의 2018 블록 체인 설문 조사는 다양 한 산업에서 기업의 경영진 수준에서 견인 력을 고르게 하는 경우에도이 기술이 크게 증가 하 고 있음을 밝혀 줍니다.
 
 설문 조사에 대 한 모든 응답자의 74%가 그들의 경영진은 블록 체인 기술의 사용에 대 한 "강력한 비즈니스 사례"가 있다고 믿고, 34%의 블록 체인 배포가 조직 내에서 이미 진행 중 이라고 말했습니다. .
@@ -14,6 +16,6 @@
 
 이번 봄에, 블록 체인에 다른 딜로 이트 보고서는 소매 및 소비재 포장 제품 (CPG) 산업에 초점을 맞춘, 마찬가지로 강력 하 게 그 기술의 가능성을 고려 하지 않는 기업은 "낙하의 위험에 있다 결론 뒤에. "
 
-Original source: [Deloitte 2018 Survey: Blockchain "Getting Closer to Breakout Moment Every Day"](https://cointelegraph.com/news/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day)
+[Original source](https://cointelegraph.com/news/deloitte-2018-survey-blockchain-getting-closer-to-breakout-moment-every-day)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

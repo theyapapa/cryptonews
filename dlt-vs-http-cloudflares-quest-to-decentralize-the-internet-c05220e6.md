@@ -1,5 +1,7 @@
 # DLT 대 HTTP: cloudflare의 퀘스트를 통해 인터넷을 분산 시킬 수 있습니다 ...
 
+###### 2018-09-21
+
 9 월 17 일에 중요 한 미국 기반 콘텐츠 전송 네트워크 (CDN) cloudflare는 행성간 파일 시스템 (ipfs)을 통해 새로운 분산 된 콘텐츠 게이트웨이를 도입, 기존의 HTTP를 우회 하는 컴퓨터의 수천에 의해 실행 피어-투-피어 (p2p) 네트워크 시스템.
 
 cloudflare는 콘텐츠 전송 네트워크 (CDN) 서비스 및 DDoS 보호를 제공 하는 회사입니다.
@@ -14,6 +16,6 @@ cloudflare는 다음 예제를 사용 하 여이 시스템을 설명 합니다. 
 
 또한, 아마도 시도 새로운 그물 중립성 관련 스캔들을 방지 하기 위해, 회사는 주장 "cloudflare의 ipfs 게이트웨이 단순히 ipfs 앞에 캐시" 그리고 그들은 "수정 하거나 ipfs 네트워크에서 콘텐츠를 제거 하는 능력을가지고" 하지 않는 것을 상기 사용자가 악성 콘텐츠를 공유할 가능성이 있다는 것입니다.
 
-Original source: [DLT vs. HTTP: CloudFlare’s Quest to Decentralize the Internet](https://cointelegraph.com/news/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet)
+[Original source](https://cointelegraph.com/news/dlt-vs-http-cloudflares-quest-to-decentralize-the-internet)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

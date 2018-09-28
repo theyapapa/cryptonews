@@ -1,5 +1,7 @@
 # 암호화 시장은 bitmex에서 ' 강제 짧은 스퀴즈 '의 이야기 가운데 녹색을 참조 하십시오 ...
 
+###### 2018-08-22
+
 Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 코인 가격 지 수에 따라, 하루에 거의 4%까지, 언론 시간에 약 $6644에서 거래 된다.
 
 출처: codeelegraph 비트 코인 가격 지 수이 더 리 움 (ETH)은 하루에 약 3.5%의 언론 시간에 $285 주위를 거래 하 고 있습니다.
@@ -14,6 +16,6 @@ coinmarketcap의 모든 가상 화폐의 총 시장 자본 화에 대 한 24 시
 
 특히,이 7 월 winklevoss 쌍둥이에서 다른 BTC ETF 응용 프로그램의 두 번째 시간 거부에, SEC는 비트 코인 시장의 크게 관계가 없는 성격으로 이유를 명시 했다.
 
-Original source: [Crypto Markets See Green Amid Talk of ‘Forced Short Squeeze’ on BitMEX](https://cointelegraph.com/news/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-green-amid-talk-of-forced-short-squeeze-on-bitmex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

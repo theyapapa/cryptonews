@@ -18,6 +18,6 @@ BSP는 이전에는 고객을 위한 지갑 서비스를 제공하기 때문에 
 
 지난해 11월 필리핀 증권거래위원회 (SEC)  [🔗](https://cointelegraph.com/news/philippine-regulator-plans-to-legalize-cryptocurrencies-classify-as-securities) 이들을 유가증권으로 분류해 자국 내 디지털 화폐 사용을 합법화하는 방안을 검토하고 있다고 밝혔다. 그 해 초에, BSP는 공식적인 지불 방식의 비트코인  [🔗](https://cointelegraph.com/news/the-philippines-officially-legitimize-bitcoin-as-payment-method)  공식적으로 인정했습니다.
 
-Original source: [Central Bank of the Philippines Accredits Two New Crypto Exchanges](https://cointelegraph.com/news/central-bank-of-the-philippines-accredits-two-new-crypto-exchanges)
+[Original source](https://cointelegraph.com/news/central-bank-of-the-philippines-accredits-two-new-crypto-exchanges)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 블록 체인 결제 서비스 airfox와 브라질 소매 거 대 한 파트너는 ' 드라이브 입양 ' ...
 
+###### 2018-09-13
+
 9 월 12 일 보도 자료에의 하면, 바레 조를 통해 브라질 소매 거 대 한 블록 체인 결제 서비스에 어 폭스와 제휴 했다.
 
 비아 바레 조,이는 가전 및 가구 체인 카사 바이아를 소유 하 고, 자사의 전자 상거래 플랫폼 뿐만 아니라, 자사의 오프 라인 상점의 거의 1000에 airfox의 디지털 뱅킹 플랫폼을 통합 합니다.
@@ -14,6 +16,6 @@ airfox는에 어 토큰 (AIR) 코인, erc-20 기반 토큰을 통해 피아트 �
 
 최근 보도 자료에 따르면, 통해 vvjo 2017에서 약 $63억 판매를 처리.
 
-Original source: [Brazilian Retail Giant Partners With Blockchain Payment Service Airfox to ‘Drive Adoption’](https://cointelegraph.com/news/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption)
+[Original source](https://cointelegraph.com/news/brazilian-retail-giant-partners-with-blockchain-payment-service-airfox-to-drive-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

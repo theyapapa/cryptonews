@@ -1,5 +1,7 @@
 # 독일 금융 장관 의혹 암호화는 현재 전통적인 통화를 대체 할 수 있습니다 ...
 
+###### 2018-09-19
+
 독일의 ' 올라 프 schoz '는 가상 화폐가 현재 전통적인 피아트 통화를 대체할 수 있다고 의심 하 고 있다.
 
 스숄에 따르면, 가상 화폐는 테러리스트 융자, 돈세탁 또는 기타 범죄 활동에 사용 될 수 있으므로 규제 당국에 의해 면밀히 관찰 되어야 합니다.
@@ -14,6 +16,6 @@
 
 앞서 언급 한 회의에 앞서 벨기에 생각 탱크 bruegel에 의해 보고서는 eu 수준에서 암호 화폐에 대 한 통일 규정을 채택 하는 유럽 규제를 촉구 했다.
 
-Original source: [German Finance Minister Doubts Crypto Can Currently Replace Traditional Currencies](https://cointelegraph.com/news/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies)
+[Original source](https://cointelegraph.com/news/german-finance-minister-doubts-crypto-can-currently-replace-traditional-currencies)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

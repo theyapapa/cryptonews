@@ -1,5 +1,7 @@
 # 보고서: 투명성의 부족에 대 한 우려 가운데 추가 암호화 규정을 논의 하기 위해 EU ...
 
+###### 2018-08-29
+
 경제 및 금융 업무 장관 유럽 연합의 (e)에서 28 회원국 보도에 도전 디지털 자산과 규제 강화의 가능성에 의해 제기에 대 한 비공식적인 회의를 개최 한다, 블룸버그는 8 월 29 일 보도 했다.
 
 블룸버그에 의해 본 초안 노트에 따르면, 참가자 들은 투명성의 일반적인 부족과 암호 화폐에 대 한 잠재적인 탈세, 테러리스트 금융 및 돈세탁 비엔나, 오스트리아에서 9 월 7 일 회의에서 사용 되는 논의할 예정 이다.
@@ -14,6 +16,6 @@ eu 금융 워치 독의 이전 경고에도 불구 하 고, 블룸버그가 얻�
 
 새로운 규칙은 자금 세탁 또는 테러리스트 금융의 목적을 위해 "선불 카드를 통한 익명 결제" 및 "가상 환전 플랫폼"을 사용 하는 것에 대 한 엄격한 투명성 요구 사항을 규정 합니다.
 
-Original source: [Report: EU to Discuss Further Crypto Regulation Amid Concerns About Lack of Transparency](https://cointelegraph.com/news/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency)
+[Original source](https://cointelegraph.com/news/report-eu-to-discuss-further-crypto-regulation-amid-concerns-about-lack-of-transparency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

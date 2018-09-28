@@ -1,5 +1,7 @@
 # 뱅크 오브 아메리카 분산 시스템에서 여러 디지털 서명에 대 한 새로운 특허를 파일 ...
 
+###### 2018-09-24
+
 미국에서 두번째로 큰 은행, 뱅크 오브 아메리카 (bofa)는 9 월 18 일 발표 된 미국 특허 상표청 (USPTO) 제출에 따라 분산 네트워크에 여러 디지털 서명을 적용 하기 위한 새로운 특허를 출원 했습니다.
 
 새로운 특허는 인터넷에 연결 된 장치에서 데이터 통신을 관리 하기 위한 시스템을 제안 합니다.
@@ -14,6 +16,6 @@ bofa의 제안 된 시스템은 사물 인터넷 (IoT) 환경 내에서 디바�
 
 7 월에 다시, bofa 또한 분산 원장 기술에 따라 데이터의 외부 유효성 검사를 허용 하는 시스템에 대 한 특허를 제기 했다.
 
-Original source: [Bank of America Files New Patent for Multiple Digital Signatures on a Distributed System](https://cointelegraph.com/news/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system)
+[Original source](https://cointelegraph.com/news/bank-of-america-files-new-patent-for-multiple-digital-signatures-on-a-distributed-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

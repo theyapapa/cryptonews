@@ -1,5 +1,7 @@
 # 비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 14 일 ...
 
+###### 2018-09-14
+
 비트 코인은 9 월 13 일에 $6500에서 탈출 했지만 현재 20 일간의 EMA에서 저항에 직면 하 고 있습니다.
 
 황소가 20 일 EMA, 50-하루 SMA의 집회, 하강 삼각형의 하향 추세 라인으로 이동에 따라 밖으로 휴식 하는 경우 가능성이 높습니다.
@@ -14,6 +16,6 @@ LTC/USD 쌍은 20 일 EMA, 다운 트렌드 라인 및 50 데이 SMA에서 위�
 
 # # iota/USD iota는 $0.5 마르크에서 지원을 복용 후 반송 하려고 시도 하지만, 그것은 20 일 EMA에서 강한 저항에 직면 하 고 있습니다.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, September 14](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-14)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-14)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

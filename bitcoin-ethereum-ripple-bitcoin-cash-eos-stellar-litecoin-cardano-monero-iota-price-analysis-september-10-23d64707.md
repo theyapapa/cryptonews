@@ -1,5 +1,7 @@
 # 비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 9 월 10 일 ...
 
+###### 2018-09-10
+
 거꾸로 모든 복구 시도는 20 일 EMA와 하향 추세 라인에서 딱딱한 저항에 직면 하 게 될 것입니다.
 
 # # xlm/달러 스텔라가 점차 $0.184의 중요 한 지원에,이는 지난해 12 월 중순 이후 깨진 되지 않았습니다 흘 렀 고 있다.
@@ -14,6 +16,6 @@
 
 그러나, 20 일 EMA의 위 황소 가늠 자 경우에, iota 또는 USD 쌍은 다시 중요 한 저항 인 50 일 SMA의 끊는 것을 시도할 것 이다.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, September 10](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-10)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-september-10)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

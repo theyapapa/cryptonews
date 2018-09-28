@@ -1,5 +1,7 @@
 # etn vs. ETF: 투자자의 꿈은 무엇입니까? ...
 
+###### 2018-08-18
+
 그러나, 투자자 들에 게 가장 큰 혜택을 제공 하는 것은-주로 비트 코인 소유에 대 한 회의적이 고 제도화 된 다양 한 것 들 —은 거래소 거래 펀드 (ETF)입니다.
 
 etn은 비트 코인 ETF에 대 한 ' 소프트 '의 대안이 며 많은 사람들이 추격 하 고 있지만,이를 통해 미국의 청중에 게 접근할 수 있도록 하는 것으로 간주 되며, 국가의 규정과 미국 증권 거래 위원회 (SEC)와는 별개입니다. , 시장에 있는 다량 운동이 없었다.
@@ -14,6 +16,6 @@ andreas analopoulos는 비트 코인 ETF에 대 한 아이디어를 아주 반�
 
 # # ETF의 성배와 etn 지금 미국 투자자 들이 사용할 수-뿐만 아니라 선물 거래 제도화 된 무역 주택의 숫자를 통해 가능-비트 코인은 여전히 새로운 높이에 도달 하지 않습니다.
 
-Original source: [ETN vs. ETF: Which Is the Investor’s Dream?](https://cointelegraph.com/news/etn-vs-etf-which-is-the-investors-dream)
+[Original source](https://cointelegraph.com/news/etn-vs-etf-which-is-the-investors-dream)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

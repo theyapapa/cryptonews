@@ -1,5 +1,7 @@
 # 그렇 소 스와핑: 어떻게 해커가 피해자의 통신 사업자를 통해 암호화 수백만의 가치를 훔쳐 ...
 
+###### 2018-08-18
+
 "무슨 AT&T는 호텔 가짜 ID를 가진 도둑에 게 방을 열쇠 및 정당한 소유자에 게 서 안전에 있는 보석을 훔 치기 위하여 안전한 방에 열쇠를," 불평 국가, terpin가 SIM 교환 사기에 피해자에 게 내린 ᄂ 다 고 변론 하는 것과 같이 이었다 , 일컬어 SIM 하이재킹 또는 "밖으로 항구 사기."
 
 더 terpin 사건, AT&T 직원과 마더보드의 대화와 관련 된 자신의 시스템의 디자인 보도 일부 직원 들이 전화 번호를 포팅할 때 필요로 하는 휴대폰 암호와 같은 보안 기능을 대체할 수 있도록 제안: "거기에서, 암호는 변경 될 수 있습니다 \ [... \] 신선한 암호로, 번호는 끊지 ups와 함께 밖으로 포팅 할 수 있습니다. "
@@ -14,6 +16,6 @@ AT&T 혐의는 자신의 계정에 자신의 자금을 이동 terpin의 암호�
 
 # # teprin 사건은 sim 카드를 사기 밖으로의 잠재적인 가늠 자를 강조 사기를 위로 교환 하는 때 심 교환을 위한 법적인 전례 일 수 있었다: "AT&T는 그것의 거의 1억4000만 고객을 보호 하는 것을 아무 것도 하지 않는 것은 sim card 사기로.
 
-Original source: [SIM Swapping: How Hackers Stole Millions Worth of Crypto Via Victim’s Telecoms Operator](https://cointelegraph.com/news/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator)
+[Original source](https://cointelegraph.com/news/sim-swapping-how-hackers-stole-millions-worth-of-crypto-via-victims-telecoms-operator)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

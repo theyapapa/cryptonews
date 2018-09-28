@@ -1,5 +1,7 @@
 # Life 코드: 블록 체인 및 유전체학의 미래 ...
 
+###### 2018-09-03
+
 이러한 가장 중요 한 형태의 정체성을 보호 하기 위해, 블록 체인은 폐쇄형 아키텍처의 강력한 대안과 기존 유전체학 데이터 시장의 독점적 악용으로 상당한 관심을 자극 하 여,이를 대신 하 여 안전한 그리고 생활의 부호를 위한 열려있는 의정서.
 
 그는 자원 봉사자에 게 자신의 비영리 개인 게놈 프로젝트 (PGP)에 기여 하기 위해 호소 했다-지금까지 약 1만 샘플을 집계 했다 오픈 액세스 인간 게놈 데이터의 ' 위키백과 '.
@@ -14,6 +16,6 @@ dnama는 사이버 보안을 수행 했다 그: "그 결과는 매우 상상 하
 
 유전체학 혁명을 위한 전투 증거, 익명의 블록 체인 시스템이 점점 불투명 게놈 데이터 환경에서, 민간 기업 들은 소비자에 의해 생성 된 genotypic 데이터를 수익을 창출 하 고, 시퀀스 데이터는 독점에 걸쳐 조각화 중앙 집중식 사일로 — wheth
 
-Original source: [Life’s Code: Blockchain and the Future of Genomics](https://cointelegraph.com/news/lifes-code-blockchain-and-the-future-of-genomics)
+[Original source](https://cointelegraph.com/news/lifes-code-blockchain-and-the-future-of-genomics)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

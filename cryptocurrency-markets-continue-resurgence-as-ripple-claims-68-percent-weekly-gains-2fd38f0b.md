@@ -1,5 +1,7 @@
 # 암호 화폐 시장 리플 주장 68% 주간 이익으로 재기를 계속 ...
 
+###### 2018-09-21
+
 비트 코인 (BTC)은 2 주만에 $6700 이상의 가격을 처음으로 보내기로 한 후, 9 월 21 일 금요일 매월 손실을 신속 하 게 수정 했습니다.
 
 cointelegraph의 가격 추적기와 Coin360의 데이터는 $6200에 가까운 평면 거래의 주를 본 비트 코인에 대 한 강력한 성능을 확인 합니다.
@@ -14,6 +16,6 @@ cointelegraph의 가격 추적기와 Coin360의 데이터는 $6200에 가까운 
 
 출처: cointelegraph 리플 가격 지 수 해설자는 처음에는 이러한 상승에 대 한 동기 부여로, 리플 자체는 xrapid 지불 전송 네트워크는 곧 최초의 은행 고객 서비스를 시작 하는 것이 암시 하는 데 확신 했다.
 
-Original source: [Cryptocurrency Markets Continue Resurgence as Ripple Claims 68 Percent Weekly Gains](https://cointelegraph.com/news/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains)
+[Original source](https://cointelegraph.com/news/cryptocurrency-markets-continue-resurgence-as-ripple-claims-68-percent-weekly-gains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

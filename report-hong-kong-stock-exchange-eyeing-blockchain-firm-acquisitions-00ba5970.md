@@ -1,5 +1,7 @@
 # 보고서: 홍콩 증권 거래소는 블록 체인 회사 인수를 쫒는 ...
 
+###### 2018-09-21
+
 내부자 소식통 들은 9 월 21 일 게시 된 블룸버그 문서에 따르면 홍콩 증권 거래소 (hkex)가 블록 체인과 기타 기술 분야에서 인수를 쫒는 다는 것을 시사 했다.
 
 블룸버그 통신은 "문제에 대 한 지식을 가진 사람"을 인용 하 고 그 교환은 중국의 교류와 거래 링크를 연기 하는 전략으로 인해 변화를 고려 하 고, 우려에 대 한 추가 원인으로 미국-중국 무역 관계를 악화 인용해.
@@ -14,6 +16,6 @@
 
 블룸버그에 따르면, hkex는 "" 런던 금속 거래소의 2012 인수를 통합 하기 위해 노력 하 고 있으며, 문서는 "업계의 우려가" 미래의 거래의 성공을 둘러싼 있다는 말을 익명 hkex 고문 인용.
 
-Original source: [Report: Hong Kong Stock Exchange Eyeing Blockchain Firm Acquisitions](https://cointelegraph.com/news/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions)
+[Original source](https://cointelegraph.com/news/report-hong-kong-stock-exchange-eyeing-blockchain-firm-acquisitions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

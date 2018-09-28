@@ -1,5 +1,7 @@
 # 세계 경제 포럼은 환경 보호를 위한 65 블록 체인 사용 사례를 통해 설명 ...
 
+###### 2018-09-15
+
 세계 경제 포럼 (wef) 재단은 9 월 14 일 출판 된 보고서에서 "가장 시급한" 환경 문제를 해결 하기 위한 65 개 이상의 블록 체인 사용 사례를 설명 했습니다.
 
 "더 나은 환경을 위한 빌딩 블록 (chain) s" 라는 제목의이 보고서에서 스위스 기반 wef는 세계에서 가장 시급한 환경 문제를 해결 하는 데 사용할 수 있는 수많은 블록 체인 애플리케이션을 강조 했습니다.
@@ -14,6 +16,6 @@
 
 9 월 13 일, wef는 분산 원장 기술 (DLT)이 향후 10 년 동안 글로벌 무역의 볼륨에 $1조을 추가할 수 있다고 추산 한 공동 보고서를 발표 했다.
 
-Original source: [World Economic Forum Outlines Over 65 Blockchain Use Cases for Environmental Protection](https://cointelegraph.com/news/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection)
+[Original source](https://cointelegraph.com/news/world-economic-forum-outlines-over-65-blockchain-use-cases-for-environmental-protection)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

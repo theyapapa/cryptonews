@@ -1,5 +1,7 @@
 # 기관 투자자 및 핀 테크: 월스트리트는 암호화로 머리를 먼저 갈 것인가? # # # 골드만 삭스-2017 후반 이후 단조, 거기에 투자 하 고 금융 회사는 가상 화폐 트레이딩 데스크 출범의 불평 했다.
 
+###### 2018-08-03
+
 다음 달, 골드만 삭스이 그 제 큐 티브 라 나이 회사는 비트 코인을 구입 하 고 판매 하고자 하는 것을 확인-걸출 한 암호 화폐를 체결 한 후 "사기가 아니 었 어."
 
 갤럭시 디지털 설립자 마이크 novogratz 4 월에 가상 화폐 가맹점 은행의 CEO로 인계 하는 골드만 삭스, 리처드 김의 전직 임원 유혹.
@@ -12,6 +14,6 @@ CEO는 비트 코인과 가상 화폐가 황금과 은색 동전을 대체 하�
 
 # # 모건 스탠리 모건 스탠리는 블록 체인 기술과 가상 화폐와 연계 하 여 흥미로운 여행을 했습니다.
 
-Original source: [Institutional Investors and Fintech: Will Wall Street Go Head-First Into Crypto?](https://cointelegraph.com/news/institutional-investors-and-fintech-will-wall-street-go-head-first-into-crypto)
+[Original source](https://cointelegraph.com/news/institutional-investors-and-fintech-will-wall-street-go-head-first-into-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

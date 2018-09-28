@@ -1,5 +1,7 @@
 # 산 gox 보너스: 행복 한 결말을 향해 향하고? ...
 
+###### 2018-08-28
+
 개발은 성공적으로 파산 절차의 교환을 당겨 하 고 민사 재활으로 알려진 대체 법적 절차에 밀어 노력을 탑재, 산 gox 채권자의 그룹에 감사를 함께 했다.
 
 # # 재활 이동의 논리는 후자의 모드, 일본 법률에 따르면, 교환의 뛰어난 자산을 배포 하는 것입니다 (가치 $13억 이상의 언론 시간으로) 자들 중에 자신의 자금을 잃은 가운데 산. gox의 붕괴 2014. 그것은 파산 과정에 남아 있었다면, 그 결론에 따라, 돈의 대부분은 교환의 주주에, 가장 주목할 만한 회사의 전 CEO 마크 karpelès, 붕괴의 시간에, 소유 88%가 발생 했을 gox.
@@ -12,6 +14,6 @@
 
 사건 CEO의 태도를 나타내는 6 월 2011 해킹의 여파로 발생, 때 저명한 암호 기업가 제시 파월, 나중에 암호 교환 크 라 켄의 공동 설립자가 될 것 이다, 그리고 비트 코인 전도사 로저 Ver는 도움을 도쿄에 소환 되었다 Mt. gox를 온라인으로 다시 받으십시오.
 
-Original source: [The Mt. Gox Redemption: Heading Toward a Happy Ending?](https://cointelegraph.com/news/the-mt-gox-redemption-heading-toward-a-happy-ending)
+[Original source](https://cointelegraph.com/news/the-mt-gox-redemption-heading-toward-a-happy-ending)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

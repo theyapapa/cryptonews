@@ -1,5 +1,7 @@
 # 제이미 디 몬은 jp 모건이 블록 체인을 ' 수많은 것 들 '에 사용할 것 이라고 말합니다.
 
+###### 2018-08-05
+
 jp 모건 체이스의 제이미 디 몬은 블록 체인 기술에 대 한 낙관 이었지만, 암호 화폐에 대 한 논평에서 벗어나, 피아트 결제 앱은 하버드의 7 월-8 월호에 발표 된 인터뷰에서 "우리의 사업에 가장 큰 잠재적인 중단" 이라고 말하는 비즈니스 검토.
 
 그의 회사의 최고 경쟁적인 위협에 관해서 물었을 때, dimon의 의장 그리고 CEO jp 모건 체이스-미국의 큰 4 개의 은행의 가장 큰-그가 "지불의 새로운 형태 이라고" 칭하는 무슨을 선발 하는.
@@ -14,6 +16,6 @@ dimon은 또한 블록 체인 기술 "real"을 호출 하는 포인트를 만들
 
 그러나 지난 몇 개월 동안 jp 모건과 분명히 dimon은 블록 체인에서 더 많은 명시적으로 강세를가지고 있으며, 은행은 5 월 3 일에 블록 체인 관련 특허를 제출 하기도 합니다.
 
-Original source: [Jamie Dimon Says JPMorgan Will Use Blockchain ‘for a Whole Lot of Things’](https://cointelegraph.com/news/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things)
+[Original source](https://cointelegraph.com/news/jamie-dimon-says-jpmorgan-will-use-blockchain-for-a-whole-lot-of-things)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

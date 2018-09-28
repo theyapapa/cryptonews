@@ -1,5 +1,7 @@
 # 연구: 하드 포크는 암호 화폐 안정성에 위협을 구성 ...
 
+###### 2018-09-13
+
 새로운 연구는 디지털 통화의 안정성은 9 월 12 일 보도 자료에 따르면, "하드 포크"로 알려진 소프트웨어 업데이트에 의해 위협 되는 것을 제안 합니다.
 
 종이는 연구원의 그룹에 의해 준비 되었다, 오크 릿지 과학 교육 연구원 벤자민 트럼프에 의해 주도, 비트 코인 (BTC)에서 800 소프트 포크와 하드 포크를 조사 하 여 암호 화폐 "포크"의 상태를 검토.
@@ -14,6 +16,6 @@
 
 8 월말에 초기 동전 제공 (ICO) 자문 회사인 satus 그룹에 의해 실시 한 또 다른 연구는 BTC 가격이 향후 5 년 동안 잠재적으로 $98000에 도달할 수 있다고 제안 합니다.
 
-Original source: [Study: Hard Forks Constitute Threat to Cryptocurrency Stability](https://cointelegraph.com/news/study-hard-forks-constitute-threat-to-cryptocurrency-stability)
+[Original source](https://cointelegraph.com/news/study-hard-forks-constitute-threat-to-cryptocurrency-stability)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

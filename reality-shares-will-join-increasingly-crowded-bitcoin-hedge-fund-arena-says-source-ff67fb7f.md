@@ -1,5 +1,7 @@
 # 현실 주식은 점점 혼잡 비트 코인 헤 지 펀드 아레나에 참여 합니다, 소스를 말합니다 ...
 
+###### 2018-08-15
+
 캘리포니아 기반 자산 관리자 현실 주식은 Bitcoin 헤 지 펀드의 최신 경쟁자가 되었으며, 익명의 소식통은 8 월 15 일에 비즈니스 내부자에 게 말했습니다.
 
 6 월에 첫 번째 중국 블록 체인 ETF를 출시 한 후 올해 암호 화폐 공간에 알려지게 된 리얼리티 쉐어는 이미 펀드에 대 한 $2500만을 끌었다.
@@ -14,6 +16,6 @@
 
 현실 주식은 전체 $1억 금액을 인상 해야 합니다, 그 기금은 그림을 통과 한 유일한 28 라이벌 것입니다.
 
-Original source: [Reality Shares Will Join Increasingly Crowded Bitcoin Hedge Fund Arena, Says Source](https://cointelegraph.com/news/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source)
+[Original source](https://cointelegraph.com/news/reality-shares-will-join-increasingly-crowded-bitcoin-hedge-fund-arena-says-source)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

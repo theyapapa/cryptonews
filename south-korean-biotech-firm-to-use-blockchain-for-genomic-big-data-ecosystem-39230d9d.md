@@ -1,5 +1,7 @@
 # 한국 생명 공학 회사 게놈 빅 데이터 생태계에 대 한 블록 체인을 사용 하는 ...
 
+###### 2018-08-07
+
 공공 한국 생명 공학 엔터 프 라이즈 macrogen, 국가의 선도적인 유전자 서비스 공급자를 시퀀싱, 8 월 6 일 보도 자료에 따르면 지역 기술 회사 bigster와 함께 게놈 빅 데이터 블록 체인 기반 플랫폼을 개발 하 고 있습니다.
 
 새로운 파트너십은 블록 체인 기술을 활용 하 여 안전 하 고 사적인 스토리지와 많은 양의 민감한 게놈 및 개인 정보를 전송할 수 있는 의료 빅 데이터 생태계를 구축 합니다.
@@ -14,6 +16,6 @@ macrogen과 bigster 6 월 2019 하 여 플랫폼을 개발 하는 것을 목표�
 
 cointelegraph가이 5 월을 보고 하는 때, 게놈 자료의 안전한 교환을 위한 블록 체인의 사용을 위한 전례는 미국 성운 유전체학의 longenesis를 가진 협력에 의해 설정 되었다-후자는 insilico 약 사이 홍콩 근거한 공동체 정신을이 고 bitfury 그룹.
 
-Original source: [South Korean Biotech Firm to Use Blockchain for Genomic Big Data Ecosystem](https://cointelegraph.com/news/south-korean-biotech-firm-to-use-blockchain-for-genomic-big-data-ecosystem)
+[Original source](https://cointelegraph.com/news/south-korean-biotech-firm-to-use-blockchain-for-genomic-big-data-ecosystem)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

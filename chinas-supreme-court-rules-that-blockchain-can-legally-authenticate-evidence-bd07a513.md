@@ -1,5 +1,7 @@
 # 중국의 대법원은 블록 체인이 법적으로 증거를 인증할 수 있는 규칙 ...
 
+###### 2018-09-07
+
 중국 대법원은 블록 체인 기술로 인증 된 증거가 오늘 발표 된 공식 발표 인 9 월 7 일에 법적 분쟁에 구속력을가지고 있다는 판결을 내렸다.
 
 새로운 판결은 더 포괄적인 규칙의 일련의 일환으로 중국 전역의 인터넷 법원에 대 한 소송 절차를 명확 하 게, 그리고 강제로 즉시 온다.
@@ -14,6 +16,6 @@
 
 cointelegraph 전문가가 설명 하는 바와 같이, 블록 체인 관련 혁신은 증거를 인증할 수 있는 것으로 합법적으로 인정 되는 것이 아니라 스마트 계약의 경우와 같이 중요 한 파괴적 요인이 될 가능성이 있는 것으로 간주 됩니다. 법적인 구체에 힘.
 
-Original source: [China’s Supreme Court Rules That Blockchain Can Legally Authenticate Evidence](https://cointelegraph.com/news/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence)
+[Original source](https://cointelegraph.com/news/chinas-supreme-court-rules-that-blockchain-can-legally-authenticate-evidence)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Mt. gox는 기업 사용자를 위한 온라인 재활 청구 제기 시스템을 엽니다 ...
 
+###### 2018-09-12
+
 지금-없어진 일본어 비트 코인 (BTC) 교환 Mt. gox는 온라인 재활 청구 신고 시스템을 기업 사용자에 게 확대 하였으며, 오늘 exchange 사이트에 게시 된 공식 발표에 따르면 9 월 12 일입니다.
 
 오늘 발표는 8 월 23 일 공개 된 개인 (비 법인) 사용자를 위한 온라인 시스템에 따라, 파산 주장의 증거를 파일 수 있습니다.
@@ -14,6 +16,6 @@
 
 cointelegraph 분석이 설명 된 바와 같이, 약 24000 채권자는 850, 00 BTC의 손실의 결과는 시간에 약 $4억6000만에 상당 하는 초기 2014에 Mt. gox의 해킹과 후속 붕괴에 의해 영향을 받은 것으로 생각 됩니다.
 
-Original source: [Mt. Gox Opens Online Rehabilitation Claim Filing System for Corporate Users](https://cointelegraph.com/news/mt-gox-opens-online-rehabilitation-claim-filing-system-for-corporate-users)
+[Original source](https://cointelegraph.com/news/mt-gox-opens-online-rehabilitation-claim-filing-system-for-corporate-users)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

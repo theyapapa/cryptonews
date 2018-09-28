@@ -1,5 +1,7 @@
 #이 더 선물이 현실이 되는 경우에는 무엇을 기대 하는가? ...
 
+###### 2018-09-08
+
 비트 코인에 대 한 최초의 선물 계약을 시작한 후 1 년이 채 걸리지 않은이 더 리 움은 규제 선물 거래소에서 거래 되는 두 번째 암호 화폐가 될 수 있습니다.
 
 cboe는 비트 코인 선물을 위해 이미 사용 하 고 있는 제미니 화폐 거래소 시장에서 ETH 계약을 기반으로 합니다.
@@ -14,6 +16,6 @@ cointelegraph는 etoro 수석 시장 분석가 matinspan이 에테르 선물의 
 
 nnun은 30 년 전 외환 시장에 BTC 선물을 출시 하는 것을 기념 하 여 시장에 큰 영향력을 가진 선물 시장이 있습니다. "2018은 주로 비트 코인 선물의 출현으로 인해 암호화의 행동에 막대 한 변화를 보이고 있으며, 차트는 분명히 달랐다 e는 시장 조작과 "고래" 어느 쪽이 든 시장을 지배 하고있다.
 
-Original source: [What to Expect If Ether Futures Become a Reality?](https://cointelegraph.com/news/what-to-expect-if-ether-futures-become-a-reality)
+[Original source](https://cointelegraph.com/news/what-to-expect-if-ether-futures-become-a-reality)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

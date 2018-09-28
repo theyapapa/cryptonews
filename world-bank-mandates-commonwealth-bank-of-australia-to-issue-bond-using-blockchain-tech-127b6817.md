@@ -1,5 +1,7 @@
 # 세계 은행 위임 장 커먼 웰 스 은행 블록 체인 기술을 사용 하 여 본드를 발행 하는 호주 ...
 
+###### 2018-08-10
+
 호주 커먼 웰 스 은행 (cba), 국가에서 가장 큰 은행, 블록 체인에 독점적으로 채권 문제를 마련 하기 위해 세계 은행에 의해 위임 되었습니다, 보도 자료에 따르면 8 월. 10.
 
 cba는 세계 최초로 본드를 "블록 체인 기술을 사용 하 여 생성, 할당, 전송 및 관리" 할 것으로 알려졌다.
@@ -14,6 +16,6 @@ cba와 세계은행에 따르면, 블록 체인 기술을 사용 하면 자본 �
 
 태국에서 태국 채권 시장 협회 (tbma)는 레지스트라 서비스 플랫폼에 블록 체인 솔루션을 배포할 것 이라고 밝혔다.
 
-Original source: [World Bank Mandates Commonwealth Bank of Australia to Issue Bond Using Blockchain Tech](https://cointelegraph.com/news/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech)
+[Original source](https://cointelegraph.com/news/world-bank-mandates-commonwealth-bank-of-australia-to-issue-bond-using-blockchain-tech)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

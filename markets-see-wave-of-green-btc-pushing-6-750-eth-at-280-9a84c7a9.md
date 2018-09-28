@@ -1,5 +1,7 @@
 # 시장은 녹색의 물결을 참조 하십시오, BTC 밀어 $6750, $280에 ETH ...
 
+###### 2018-08-25
+
 거의 모든 상위 100 가상 화폐의 녹색 오늘, Coin360 데이터를 보여주는 것 처럼, 시장 모자에 의해 상위 10 개 큰 동전 사이에 1 ~ 4% 사이의 고체 성장과 함께 있습니다.
 
 Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 코인 가격 지 수에 따라, 하루에 2.5% 주위에, 언론 시간에 약 $6696에서 거래 되고있다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 �
 
 coinmarketcap 중순 주에서 모든 암호 화폐의 총 시가 총액의 7 일 차트, 시장은 winklevoss 쌍둥이의 높은-프로필 BTC ETF 제안이 또한에 의해 거부 되었습니다 7 월 뉴스에 대 한 응답으로 온 것과 유사한 공중 제비를 보았다 SEC는 다음 비교 $120억 총 시장 자본에서 닦아 보았다.
 
-Original source: [Markets See Wave of Green, BTC Pushing $6,750, ETH At $280](https://cointelegraph.com/news/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280)
+[Original source](https://cointelegraph.com/news/markets-see-wave-of-green-btc-pushing-6-750-eth-at-280)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

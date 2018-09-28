@@ -1,5 +1,7 @@
 # 암호 교환 크 라 켄 캐나다에서 갑자기 직원 정리 해 고의 소문을 거부 ...
 
+###### 2018-09-06
+
 암호 교환 크 라 켄, 현재 세계적으로 매일 무역 볼륨에 의해 11 번째로 큰 순위, 그것은 핼리팩스, 캐나다, 재무부에서 자사의 단위에 직원을 세우고 있다는 소문을 거부 했다 9 월 6 일 재무 보고서.
 
 거부는 reddit에 로컬 토론 스레드에 게시 후 오는 것은 크 라 켄의 "단위 102 60 highfield 파크 드라이브에서" 사람들의 수백을 해 고 했다고 주장 했다 "그들은 자발적으로 종료 양식을 서명 만들기 후," 추가 주장 "거 대 한 소동"에 분출 했다 보안 침해 혐의에 대 한 대응.
@@ -14,6 +16,6 @@
 
 지난 달, 데이터 암호화 산업 뉴스 레터에 의해 컴파일된 diar는 2018의 시작 이후, 크 라 켄에 상장 볼륨-미국 기반 거래소 코인 베이스와 bitstamp와 함께-상대적으로 더 나은 대조적으로 가파른 하락을 본 것을 제안 동일한 기간 동안 아시아 기반 암호 교환에 대 한 성능.
 
-Original source: [Crypto Exchange Kraken Denies Rumors of Sudden Staff Layoffs in Canada](https://cointelegraph.com/news/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada)
+[Original source](https://cointelegraph.com/news/crypto-exchange-kraken-denies-rumors-of-sudden-staff-layoffs-in-canada)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

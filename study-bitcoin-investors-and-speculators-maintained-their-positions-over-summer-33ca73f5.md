@@ -1,5 +1,7 @@
 # 연구: 비트 코인 투자자와 투기는 여름 동안 자신의 위치를 유지 ...
 
+###### 2018-09-24
+
 비트 코인 (BTC) 투자자와 투기는 여름 동안 자신의 위치를 개최, 시장은 9 월 24 일 출판 chaysis에 의해 새로운 연구에 따르면, 전반적으로 안정 되는 것 같습니다 동안.
 
 연구에 따라, 통화 집계 "매우 꾸준한" 여름 동안, btc 투기에 대 한 개최의 금액은 5 월에서 8에 사용할 수 있는 btc의 약 22%에서 안정적인 것을 보여주는 했다.
@@ -14,6 +16,6 @@ chayalsis는 이것이 시장에 의하여과 대 광고에 보다 적게 감염
 
 12 월 2017 일 이후, btc 일 상인에 의해 개최의 금액은 거의 장기 투자자에 의해 개최 금액을 두배에 이르는 510만 btc로 증가 했다-그 1 년 이상 동전을 개최 한-600만 BTC에 대해 동일 합니다.
 
-Original source: [Study: Bitcoin Investors and Speculators Maintained Their Positions Over Summer](https://cointelegraph.com/news/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer)
+[Original source](https://cointelegraph.com/news/study-bitcoin-investors-and-speculators-maintained-their-positions-over-summer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

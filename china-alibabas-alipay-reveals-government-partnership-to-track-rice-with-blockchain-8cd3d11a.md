@@ -1,5 +1,7 @@
 # 중국: 알리바바의 알리 페이 블록 체인으로 쌀을 추적 하는 정부 파트너십을 밝혀 ...
 
+###### 2018-08-28
+
 alipay와 모회사 개미 금융은 쌀의 진위를 보장 하기 위해 블록 체인을 사용 하는 현지 중국 당국과 파트너십을 발표, 지방 미디어 보고서 8 월 28.
 
 중국 시장에 있는 중요 한 선수, alipay는 8 월 2017에 있는 4억 사용자를 자랑 했다.
@@ -14,6 +16,6 @@ alipay와 모회사 개미 금융은 쌀의 진위를 보장 하기 위해 블�
 
 alipay는 또한 계정을 사용 하 여 암호 화폐 거래를 수행 하는 사용자에 대 한 힘든 자세를 취했습니다, 주말 동안 보고 된 cointelegraph, 6 월에 있는 동안, 개미 금융은 필리핀으로 블록 체인 송금 프로젝트를 시작 했다.
 
-Original source: [China: Alibaba’s Alipay Reveals Government Partnership to Track Rice With Blockchain](https://cointelegraph.com/news/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain)
+[Original source](https://cointelegraph.com/news/china-alibabas-alipay-reveals-government-partnership-to-track-rice-with-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -10,6 +10,6 @@
 
 비트메인 테크놀로지는 2013년에는 비트코인 채광 하드웨어와 ASIC칩을 개발하는 개인적으로 보유하고 있는 회사입니다  [🔗](https://en.wikipedia.org/wiki/Bitmain) 이 회사는 비트코인 채굴 하드웨어 시장의 70~80%  [🔗](http://fortune.com/2018/02/24/bitcoin-mining-bitmain-profits/)  2018년 2월에 개최한 것으로 알려졌다. 비트주는 또한 가장 큰 비트코인 마이닝 풀 중 하나인 Antpool  [🔗](https://cointelegraph.com/tags/antpool) 운영하고 있습니다. 이 회사는 올해 초 미국에서 앤트 크리크 마이닝 센터 개발에 참여하고 있는  [🔗](https://cointelegraph.com/news/chinese-crypto-mining-giant-bitmain-developing-facilities-in-us-document-suggests) 으로 알려졌다.
 
-Original source: [Bitmain Now Valued at $12 Bln Following Recent Funding Round ](https://cointelegraph.com/news/bitmain-receives-12-bln-investment-in-a-recent-funding-round)
+[Original source](https://cointelegraph.com/news/bitmain-receives-12-bln-investment-in-a-recent-funding-round)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

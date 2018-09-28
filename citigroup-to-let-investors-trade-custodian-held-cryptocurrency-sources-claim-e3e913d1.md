@@ -1,5 +1,7 @@
 # 씨티 그룹은 투자자 들이 후견인-개최 암호 화폐를 거래 할 수 있도록, 소스 주장 ...
 
+###### 2018-09-10
+
 미국 다국적 은행 씨티 그룹은 가상 화폐 자산을 직접 소유 하지 않고 기관 투자가 들에 게 암호화 시장에 대 한 액세스를 제공 하기 위해 암호 해독 제품을 개발 하 고 있으며, 익명 소식통은 9 월 9 일
 
 이전에는 가상 화폐에 대 한 중앙 집중화 된 접근 방식을 취한 씨티 그룹은 미국 (ADR)이 아닌 미국의 증권을 대표 하는 1920 년대 이후 발행 된 보안의 종류 인 아메리칸 수 탁자 영수증 (ADR)의 개정 버전을 사용 하 게 될 것입니다. – 투자자는 간접적으로 암호 화폐를 거래 합니다.
@@ -14,6 +16,6 @@
 
 cointelegraph로 보고, 9 월 9 일 미국 레 귤 레이 터는 증권 거래 위원회 (SEC)는 투자자 들 사이에서 "혼란"을 인용, 첫 번째 암호화 관련 거래소 거래 노트 (etns)에 깜짝 임시 금지 문제를 보았다.
 
-Original source: [Citigroup to Let Investors Trade Custodian-Held Cryptocurrency, Sources Claim](https://cointelegraph.com/news/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim)
+[Original source](https://cointelegraph.com/news/citigroup-to-let-investors-trade-custodian-held-cryptocurrency-sources-claim)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

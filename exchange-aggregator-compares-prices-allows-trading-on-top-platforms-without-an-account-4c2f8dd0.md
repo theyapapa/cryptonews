@@ -1,5 +1,7 @@
 # 교환 수집기는 가격을 비교, 계정 없이 상위 플랫폼에서 거래 할 수 있습니다 ...
 
+###### 2018-09-24
+
 coinswitch는 신규 및 숙련 된 사용자에 게 중요 한 정보를 제공 하며, 거래자를 위한 많은 유명 암호 화폐 거래소의 관문 역할을 합니다.
 
 또한, coinswitch를 사용 하 여 사용자는 자신의 웹 사이트에서 맞춤형 암호 화폐 교환을 시작할 수 있습니다.
@@ -14,6 +16,6 @@ coinswitch는 신규 및 숙련 된 사용자에 게 중요 한 정보를 제공
 
 coinswitch에 따르면, 그들은이 제품을 사용 하 여 100 이상의 웹사이트가, reddcoin과 코모도 같은 회사를 포함 하 여, 모두는 인스턴트 교환 기능 발사 한 달 이내에 설정 했다.
 
-Original source: [Exchange Aggregator Compares Prices, Allows Trading on Top Platforms Without an Account](https://cointelegraph.com/news/exchange-aggregator-compares-prices-allows-trading-on-top-platforms-without-an-account)
+[Original source](https://cointelegraph.com/news/exchange-aggregator-compares-prices-allows-trading-on-top-platforms-without-an-account)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

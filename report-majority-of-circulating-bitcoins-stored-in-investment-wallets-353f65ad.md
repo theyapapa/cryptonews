@@ -1,5 +1,7 @@
 # 보고서: 투자 지갑에 저장 된 순환 비트 코인의 대부분 ...
 
+###### 2018-09-18
+
 대부분의 순환 비트 코인 (BTC)은 암호화 화폐 산업과 분석 뉴스레터 diar의 새로운 보고서에 따라 투자 지갑에 저장 됩니다.
 
 분석은 비트 코인의 55%가 현재 $130만 이상의 가치를 지닌 지갑에 보관 되어 200 BTC 이상의 저울을 구성 하 고 있음을 보여줍니다.
@@ -14,6 +16,6 @@
 
 프레스 타임에 BTC는 cointelegraph의 비트 코인 가격 지 수에 따라 지난 24 시간 동안 1.3%의 $6332 주위를 거래 하 고 있습니다.
 
-Original source: [Report: Majority of Circulating Bitcoins Stored in Investment Wallets](https://cointelegraph.com/news/report-majority-of-circulating-bitcoins-stored-in-investment-wallets)
+[Original source](https://cointelegraph.com/news/report-majority-of-circulating-bitcoins-stored-in-investment-wallets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

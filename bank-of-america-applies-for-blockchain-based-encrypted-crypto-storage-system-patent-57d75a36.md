@@ -1,5 +1,7 @@
 # 뱅크 오브 아메리카는 블록 체인 기반의 암호화 된 암호 저장 시스템 특허를 적용 ...
 
+###### 2018-08-24
+
 미국에서 두번째로 큰 은행, 뱅크 오브 아메리카 (bofa)는 미국 특허 및 상표 사무국 (USPTO) 8 월 23 일에 게시 된 특허 문서에 따라 보안 암호화 스토리지 시스템 개발에 대 한 다른 블록 체인 특허를 신청 했습니다.
 
 "블록 체인 암호화 태그" 라는 특허는 기업에서 처리 하는 암호 화폐 관련 거래를 기록 하 고 저장 하는 시스템을 설명 합니다.
@@ -14,6 +16,6 @@ bofa는 이전에는 블록 체인 기술을 채택 하기 위한 조치를 취�
 
 bofa는 블록 체인 영역에서 혁신을 촉진 하는 선두 기업 중 하나 이지만, 12 월 2017 일에 디지털 환전 시스템 개발에 대 한 특허를 취득 했음에도 불구 하 고 여전히 가상 화폐에 대 한 회의적인 은행입니다.
 
-Original source: [Bank of America Applies for Blockchain-Based Encrypted Crypto Storage System Patent](https://cointelegraph.com/news/bank-of-america-applies-for-blockchain-based-encrypted-crypto-storage-system-patent)
+[Original source](https://cointelegraph.com/news/bank-of-america-applies-for-blockchain-based-encrypted-crypto-storage-system-patent)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -68,6 +68,6 @@ MJ: 좋아요! 블록체인과 소낭에 대한 애비 선생님의 생각을 �
 
 아폴로: 제가 기쁩니다. 정말 감사합니다!
 
-Original source: [Blockgeek’s Ameer Rosic: ‘Everyone Is Smart Enough to Lose or Make Money’ in Crypto](https://cointelegraph.com/news/blockgeek-s-ameer-rosic-everyone-is-smart-enough-to-lose-or-make-money-in-crypto)
+[Original source](https://cointelegraph.com/news/blockgeek-s-ameer-rosic-everyone-is-smart-enough-to-lose-or-make-money-in-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

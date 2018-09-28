@@ -1,5 +1,7 @@
 # Lenovo는 블록 체인 플랫폼과 제휴 하 여 IoT와 AR/VR 하이브리드 소프트웨어를 개발할 수 있습니다 ...
 
+###### 2018-09-07
+
 9 월 4 일에, dapps 발사를 위한 서비스의 범위 제공을 전문화 하는, 신용 플 래 트 홈은 Lenovo의 새로운 비전 기술 프로젝트를 결합 했다 중간 포스트에서 알렸다.
 
 # # 레 노 버 새로운 비전 기술 공식 보도 자료에 따르면 크레딧 "은 lenovo의 새로운 비전 기술 프로젝트를 위한 소프트웨어 구축을 용이 하 게 하기 위해 블록 체인 전문 기술을 활용 하 게 될 것입니다.
@@ -14,6 +16,6 @@ Lenovo 새로운 비전 기술은 크레딧의 블록 체인 솔루션을 통합
 
 현재 크레딧 파트너 목록은 블록 체인 시스템을 기반으로 dapp 서비스를 개발 하기 위해 크레딧 플랫폼을 구현한 100 스타트업을 통해 계산 됩니다.
 
-Original source: [Lenovo Partners With Blockchain Platform to Develop Its IoT and AR/VR Hybrid Software](https://cointelegraph.com/news/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software)
+[Original source](https://cointelegraph.com/news/lenovo-partners-with-blockchain-platform-to-develop-its-iot-and-ar-vr-hybrid-software)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

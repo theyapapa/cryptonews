@@ -1,5 +1,7 @@
 # 플레이보이에 대 한 캐나다 블록 체인 회사를 Sues ...
 
+###### 2018-08-14
+
 비벌리 힐스 기반의 플레이보이 기업은 캐나다 기업 글로벌 블록 체인 기술 (gpt)을 고소 하 고, 그것은 플레이보이의 온라인 미디어 채널로 블록 체인 기술을 통합 하는 데 실패 했다고 주장, 로스 앤젤레스 타임스는 8 월 14 일 보도 했다.
 
 플레이보이 기업 보도, 사기의 캐나다 회사를 비난 하 고 두 회사는 3 월에 그린 계약을 위반, 로스 앤젤레스 카운티 상급 법원에 소송을 제기 했다.
@@ -14,6 +16,6 @@
 
 Pornhub 부사장 코리 프라이스는 보도 자료에서 말했다: "역사는 성인 엔터테인먼트 산업은 혁신적인 기술에 대 한 채택에 중요 한 역할을 입증 하고있다.
 
-Original source: [Playboy Sues Canadian Blockchain Firm for](https://cointelegraph.com/news/playboy-sues-canadian-blockchain-firm-for)
+[Original source](https://cointelegraph.com/news/playboy-sues-canadian-blockchain-firm-for)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 라이트 코인, 카르다노, 스텔라, iota, 트 론: 가격 분석, 8 월 08 일 ... # # BTC/USD 비트 코인은 50 일 SMA를 세분화 하 여 중요 한 지원 수준으로 $6000 합니다.
 
+###### 2018-08-08
+
 곰이 $350-$358의 지원 구역 아래에 휴식을 강제 하는 경우, ETH/USD 쌍은 $280에서 다음 지원을 거부할 수 있습니다.
 
 아래 $0.32, xrp/USD 쌍에 대 한 다음 주요 지원은 $0.24001에 아래 방법입니다, 12 월에 마지막으로 볼 수 있는 수준, 12, 2017.
@@ -12,6 +14,6 @@ $619.751 라인 아래에 침입 한 후 # # bch/USD, 비트 코인 현금은 $5
 
 이 수준 에서도 지원을 제공 하지 못하면 $0.5-$0.52의 다음 지원 영역으로 감소할 수 있습니다.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, TRON: Price Analysis, August 08](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-08)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-august-08)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

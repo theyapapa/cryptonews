@@ -1,5 +1,7 @@
 # 돈 또는 자산? 세계 정부가 암호 화폐를 정의 하는 방법 ... # # 미국: 증권, 원자재, 재산, 돈 세계 정부가 가상 화폐의 상태에 대 한 세계적인 합의에 도달 하는 것이 얼마나 어려운 지에 대 한 지표로 서, 그것을 가리키는 가치가 있다 현재는 국가 내에서 약간의 합의가-그들 사이에 내버려 두지.
 
+###### 2018-08-05
+
 첫 번째는 증권 거래 위원회 (SEC) 이며,이는 6 월까지-일반적으로 증권으로 암호 화폐를 정의, 어떤 사람이 수익을 받을 기대에 투자 하는 자산을 의미.
 
 비트 코인은이 발표 후 10% 감소 했지만, 다른 미국 당국과 기관의 진술은 암호화 화폐가 증권 이라는 SEC의 주장과 다릅니다.
@@ -12,6 +14,6 @@
 
 그러나 다른 모든 암호 화폐는 즉시 금융 자산과 유가 증권으로 분류 되었지만,이는 석유를 설립 하는 법령의 결과로 서 법적 입찰이 선언 되지 않았습니다.
 
-Original source: [Money or Assets? How World Governments Define Cryptocurrencies](https://cointelegraph.com/news/money-or-assets-how-world-governments-define-cryptocurrencies)
+[Original source](https://cointelegraph.com/news/money-or-assets-how-world-governments-define-cryptocurrencies)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

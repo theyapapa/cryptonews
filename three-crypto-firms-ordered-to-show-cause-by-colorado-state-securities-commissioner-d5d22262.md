@@ -1,5 +1,7 @@
 # 3 암호화 회사는 콜로라도 주 증권 감독 관에 의해 원인을 보여 주문 ...
 
+###### 2018-08-29
+
 콜로라도 증권 국장 제럴드 로마는 8 월 28 일 보도 자료에 따르면, 원인을 보여주기 위해 등록 되지 않은 초기 코인 제물 (ico)을 홍보 하는 혐의로 세 개의 암호화 회사를 주문 했습니다.
 
 명령에 대 한 상태 조사의 일환으로 "무슨 혐의로 사기 회사의 빠른 돈을 벌기 위해 찾고 있는 추세 되고있다"와 서 보도 자료에 따르면.
@@ -14,6 +16,6 @@
 
 도 라 관계자는 어느 회사 ico에 투자의 위험에 대 한 정보를 제공 했다.
 
-Original source: [Three Crypto Firms Ordered to Show Cause by Colorado State Securities Commissioner](https://cointelegraph.com/news/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner)
+[Original source](https://cointelegraph.com/news/three-crypto-firms-ordered-to-show-cause-by-colorado-state-securities-commissioner)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

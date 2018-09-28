@@ -10,6 +10,6 @@
 
 4월에, Gemini는  [🔗](https://cointelegraph.com/news/winklevoss-twins-crypto-exchange-gemini-to-begin-block-trading-with-btc-eth) 적인 주문 책들의 외부에서 암호 블록 거래를 시작할 것이라고 발표했습니다. 게니니 블록 트레이딩 시장에 관심이 있는 투자자들은 대량의 디지털 화폐를 구매하고 판매할 수 있는 것으로 알려졌다. 지난해 12월, 제미니호는 시카고 보드지 옵션 거래소와 제휴를 맺고, 전통적인 시장 상품들을 암호 공간으로 가져다 주는 비트코인 (Bitcoin) 선물을 출시했습니다.
 
-Original source: [Winklevoss’ Gemini Exchange Recruits NYSE Chief Information Officer](https://cointelegraph.com/news/winklevoss-gemini-exchange-recruits-nyse-chief-information-officer)
+[Original source](https://cointelegraph.com/news/winklevoss-gemini-exchange-recruits-nyse-chief-information-officer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

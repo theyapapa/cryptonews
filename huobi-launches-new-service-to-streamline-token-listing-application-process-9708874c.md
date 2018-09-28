@@ -1,5 +1,7 @@
 # huobi는 토큰 목록 응용 프로그램 프로세스를 간소화 하기 위해 새로운 서비스를 시작 합니다 ...
 
+###### 2018-08-20
+
 싱가포르 기반 암호 화폐 거래소 huobi Group은 토큰 목록 신청 절차를 간소화 하기 위해 설계 된 신제품을 출시 했습니다.
 
 cointelegraph와 공유 하는 성명에 따르면, huobi 보다 투명 한 리스팅 프로세스를 제공 하기 위해 개발 된 새로운 서비스는, huobi 자동 목록 플랫폼 이라고 합니다.
@@ -14,6 +16,6 @@ cointelegraph와 공유 하는 성명에 따르면, huobi 보다 투명 한 리�
 
 파트너는 또한 주문 통합 및 지갑 시스템 뿐만 아니라 huobi 글로벌 플랫폼의 자산 관리 및 청산 시스템을 사용할 수 있습니다.
 
-Original source: [Huobi Launches New Service to Streamline Token Listing Application Process](https://cointelegraph.com/news/huobi-launches-new-service-to-streamline-token-listing-application-process)
+[Original source](https://cointelegraph.com/news/huobi-launches-new-service-to-streamline-token-listing-application-process)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

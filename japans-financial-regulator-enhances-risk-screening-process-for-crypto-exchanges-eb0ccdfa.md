@@ -1,5 +1,7 @@
 # 일본의 금융 규제는 암호 교환에 대 한 위험 심사 프로세스를 강화 ...
 
+###### 2018-09-02
+
 일본의 금융 규제 기관인 금융 서비스 기구 (FSA)는 2017 년 9 월 2 일 일본 타임즈의 암호 화폐 거래소, 현지 언론 매체에 대 한 등록 심사 과정을 강화할 것입니다.
 
 FSA는 등록 절차를 채 점하고, 4 월 2017 일부 터 시행 되는 결제 서비스 법을 개정 하 여 "\ [암호화 거래소 \]가 위험 관리를 제대로 수행 하 고 있는지 확인" 하기 위해 일본 타임즈에 말했다.
@@ -14,6 +16,6 @@ FSA는 또한 이제 "반 사회적 그룹에 대 한 링크를 확인" 하기 �
 
 지난 7 월, FSA는 결제 서비스 법에서 금융 상품 및 교환 법 (fiea)으로의 잠재적 변화와 함께 7 월 3 일 보고 된 암호 화폐 교환 규정에 대 한 법적 근거의 변화를 고려 하 고 있었습니다.
 
-Original source: [Japan’s Financial Regulator Enhances Risk Screening Process for Crypto Exchanges](https://cointelegraph.com/news/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges)
+[Original source](https://cointelegraph.com/news/japans-financial-regulator-enhances-risk-screening-process-for-crypto-exchanges)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

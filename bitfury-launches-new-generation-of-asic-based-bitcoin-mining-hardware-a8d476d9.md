@@ -1,5 +1,7 @@
 # bitfury는 ASIC 기반 비트 코인 채굴 하드웨어의 새로운 세대를 출시 ...
 
+###### 2018-09-20
+
 비트 코인 (BTC) 채굴 소프트웨어 제조업체 bitfury Group은 9 월 19 일 발표 된 공고에 따라 ASIC (응용 프로그램별 집적 회로) 칩 bitfury clarke를 기반으로 새로운 세대의 BTC 채굴 하드웨어를 출시 했습니다.
 
 ASIC 칩은 특정 해싱 알고리즘을 기반으로 디지털 통화를 채굴 하기 위해 개발 된 채굴 하드웨어입니다.
@@ -14,6 +16,6 @@ bitfury는 캐나다, 노르웨이, 아이슬란드 및 조지아의 광업 센�
 
 또한, 지난 7 월, "업스트림 공급망"의 소식통에 따르면 ASIC 암호화 채굴 하드웨어의 판매가 부정적으로 영향을 받았고, 그 달의 예상 가격 하락이 20%에 달하는 것으로 보고 되었습니다.
 
-Original source: [Bitfury Launches New Generation of ASIC-Based Bitcoin Mining Hardware](https://cointelegraph.com/news/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware)
+[Original source](https://cointelegraph.com/news/bitfury-launches-new-generation-of-asic-based-bitcoin-mining-hardware)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

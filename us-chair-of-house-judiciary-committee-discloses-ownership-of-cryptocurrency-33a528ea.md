@@ -1,5 +1,7 @@
 # 미국: 하우스 사법 위원회의의 자는 암호 화폐의 소유권을 공개 ...
 
+###### 2018-08-06
+
 미국 하 원의 사법 위원회의의 자는 그가 암호 화폐를 소유 하 고 공개 하는의 회의 첫 번째 구성원 수 있습니다, 슬러지 보고서 8 월 6.
 
 하 원 의원 밥 goodlatte (연구-VA) 그는 $17000과 $8만 사이에 디지털 통화에서 자신의 연례 금융 공시 성명에서 소유 하 고 있다고 보도 했다.
@@ -14,6 +16,6 @@ goodlatte는 미국 윤리 위원회가 디지털 통화 홀딩스를 공개에 
 
 우리 정부가 암호화를 보는 것을 시작 하는 때, 나는 당신이 암호 화폐를 근거 하는 기술에서 분리할 다는 것을 생각 하지 않는다, "그는 말했다.
 
-Original source: [US: Chair of House Judiciary Committee Discloses Ownership of Cryptocurrency](https://cointelegraph.com/news/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency)
+[Original source](https://cointelegraph.com/news/us-chair-of-house-judiciary-committee-discloses-ownership-of-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

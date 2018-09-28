@@ -1,5 +1,7 @@
 # 스위스 은행 메이 키 바 움만은 암호화 화폐 자산을 수용 하기 위해 국가에서 두 번째로 될 것입니다 ...
 
+###### 2018-08-07
+
 maerki baumann 민간 은행은 두 번째 스위스 은행이 될 것입니다 암호 화폐 자산을 받아, 금융 뉴스 아울렛 국제 투자 보고서 8 월 6 일.
 
 사설 취리히 은행은 새로운 시장 수요와 가상 화폐의 인기, 국제 투자 기록의 상승에 대 한 응답으로 암호화 채굴에서 얻은 서비스를 비롯 하 여, 제공 받은 결제 로부터 암호화 자산을 수용 하기로 결정 했습니다.
@@ -14,6 +16,6 @@ maerki baumann은 직접 암호 화폐 투자를 제공할 준비가 되어 있�
 
 작년에 팔 콘 프라이빗 뱅크는 블록 체인 기술을 기반으로 비트 코인 (BTC) 및 기타 암호 화폐를 관리 하기 위한 스위스 금융 감독 기관 (finma)의 승인을 받았습니다.
 
-Original source: [Swiss Bank Maerki Baumann to Become Second in Country to Accept Cryptocurrency Assets](https://cointelegraph.com/news/swiss-bank-maerki-baumann-to-become-second-in-country-to-accept-cryptocurrency-assets)
+[Original source](https://cointelegraph.com/news/swiss-bank-maerki-baumann-to-become-second-in-country-to-accept-cryptocurrency-assets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

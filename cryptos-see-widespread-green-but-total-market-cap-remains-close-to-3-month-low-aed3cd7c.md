@@ -1,5 +1,7 @@
 # cryptos는 광범위 한 녹색을 참조 하지만, 총 시장 총액은 3 개월 낮은 가까이 남아 ...
 
+###### 2018-08-12
+
 Coin360에서 시장 시각화 비트 코인 (BTC)는 cointelegraph의 비트 코인 가격 지 수에 따라, 하루에 강한 3.45%까지, 언론 시간에 약 $6310에서 거래 되고있다.
 
 출처: cointelegraph에이 더 리 움 가격 지 수 코인 마켓의 목록에서, 시장 총액 별 상위 25 개 암호화 자산은 모두 약 5-6%의 높이로 추진 되는 날에 이익이 되는 녹색의 건강 한 플러시를 보고 있습니다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)는 cointelegraph의 비트 �
 
 소스 코인 마켓 캡 모든 가상 화폐의 시가 총액은 프레스 타임에 약 $2147억이 고, 3 개월 차트에서 가장 낮은 레벨에 가깝고, 지난 이틀 동안 낮은 지점에만 타격 하 고, 어제의 저가 약 $207에서 약간 올라 왔습니다. 억.
 
-Original source: [Cryptos See Widespread Green, But Total Market Cap Remains Close to 3-Month Low](https://cointelegraph.com/news/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low)
+[Original source](https://cointelegraph.com/news/cryptos-see-widespread-green-but-total-market-cap-remains-close-to-3-month-low)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # hodler의 다이제스트, 7 월 29 일-8 월 5: 모두 김 kardashian와 뉴욕 증권 거래소의 운영자가 비트 코인에 들어가 ... # # 인기 기사 이번 주 뉴욕 증권 거래소 운영자는 디지털 자산 플랫폼, BTC 선물 대륙간 교환을 발표 뉴욕 증권 거래소 (nyse)를 포함 한 23 개 글로벌 거래소의 운영자는 "개방적이 고 규제 된" 글로벌 디지털 자산 생태계를 출시할 계획을 발표 했으며, cftc 검토 및 승인 보류 중 1 일 물리적으로 비트 코인 계약을 제공 했습니다.
 
+###### 2018-08-05
+
 coinbase 양육 권은 그것의 구금 서비스 암호 지갑 및 교환 coinbase에 40 알트 코인의 추가 고려 이번 주 그것의 구금 서비스에 40 새로운 자산을 추가 하는 것을 고려 하 고 발표, 그들은 추가 될 수 있다는 경고와 함께 "스토리지에 대해서만" 그리고 현재 거래에 대 한 그들을 고려 하지.
 
 그냥 technoabble과 자유 주의적 derp의 혼합물과 회의론 자 소리 하려고 하지 마십시오, "-폴 krugman, 노벨상 수상 이코노미 스 트 # # 법률 및 태국의 세금 은행 은행에 암호화 관련 자회사를 설정할 수 있습니다 태국 은행이 발표 했다 현지 은행은 암호 화폐를 다루는 자회사를 설정할 수 있으며, 은행 및 기타 금융 기관은 여전히 암호화를 직접 처리 하는 것을 금지 하 고 있습니다.
@@ -12,6 +14,6 @@ coinbase 양육 권은 그것의 구금 서비스 암호 지갑 및 교환 coinb
 
 # # fud 주 노벨상 수상 이코노미 스 트 폴 krugman 총 암호화가 붕괴 가능한 폴 krugman, 누가 경제 과학 분야에서 2008에서 노벨상을 수상 하는 이코노미 스 트는, 뉴욕 타임즈 작전에 "암호화 회의론 자"로 자신의 입장을 설명-에 드 이번 주 생각 합니다.
 
-Original source: [Hodler’s Digest, July 29-August 5: Both Kim Kardashian and the Operator of the New York Stock Exchange Get Into Bitcoin](https://cointelegraph.com/news/hodlers-digest-july-29-august-5-both-kim-kardashian-and-the-operator-of-the-new-york-stock-exchange-get-into-bitcoin)
+[Original source](https://cointelegraph.com/news/hodlers-digest-july-29-august-5-both-kim-kardashian-and-the-operator-of-the-new-york-stock-exchange-get-into-bitcoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

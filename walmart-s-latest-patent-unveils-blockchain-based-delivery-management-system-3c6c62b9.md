@@ -14,6 +14,6 @@
 
 지난 4월에는 월마트가 블록체인을  [🔗](https://cointelegraph.com/news/walmart-is-ready-to-use-blockchain-for-its-live-food-business) 적으로 사용할 준비가 돼 있다고 발표했고, 6월에는 의료기록에  [🔗](https://cointelegraph.com/news/walmart-awarded-patent-for-blockchain-based-medical-records-system)  블록체인 특허권을 추가로 제출했다. 이는 블록체인을 기반으로 한 고객 재판매 시장,  [🔗](https://cointelegraph.com/news/walmart-files-patent-for-blockchain-based-customer-marketplace) 암호를 이용하는 에너지 소비  [🔗](https://cointelegraph.com/news/walmart-awarded-patent-for-crypto-powered-energy-consumption-management-system)  관리하는 시스템이다.
 
-Original source: [Walmart’s Latest Patent Unveils Blockchain-Based Delivery Management System](https://cointelegraph.com/news/walmart-s-latest-patent-unveils-blockchain-based-delivery-management-system)
+[Original source](https://cointelegraph.com/news/walmart-s-latest-patent-unveils-blockchain-based-delivery-management-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

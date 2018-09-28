@@ -1,5 +1,7 @@
 # 암호화 시장은 최고의 동전의 대부분으로 몇 가지 이득을 볼 s급락 하는 ...
 
+###### 2018-08-26
+
 Coin360에서 시장 시각화 비트 코인 (BTC)는 행운의 사람 중 하나입니다, 하루에 1% 미만, 언론 시간으로 $6740에서 거래.
 
 출처: codeelegraph 비트 코인 가격 지 수 어제 $282 주위에 급증 후,이 더 리 움 (ETH)는 이제 언론 시간으로 $272에서 무역 2% 아래로.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)는 행운의 사람 중 하�
 
 어제, fundstrat의 연구 톰 리의 머리는 CNBC와의 인터뷰에서 암호 화폐는 "올해 폭발적으로 높은 끝낼 수 있다" 그것은 신흥 시장 사이의 상관 관계를 인용, 그리고 그는 여전히 비트 코인을 칠 수 있다고 주장 했다 $25000 2018의 말까지.
 
-Original source: [Crypto Markets See Few Gains as Most of Top Coins Are Slumping](https://cointelegraph.com/news/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-few-gains-as-most-of-top-coins-are-slumping)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

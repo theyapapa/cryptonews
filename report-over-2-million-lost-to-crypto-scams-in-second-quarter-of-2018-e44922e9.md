@@ -1,5 +1,7 @@
 # 보고서: 이상 $200만 2018의 2 분기에 암호화 사기에 손실 ...
 
+###### 2018-08-15
+
 러시아 기반의 바이러스 백신 및 사이버 보안 회사인 카스 퍼 스키 연구소의 최근 보고서는 2018의 2 분기에 사이버 범죄자가 암호화 사기를 통해 $230만 달러를 훔 쳤 다 고 주장 합니다.
 
 보고서, 제목이 "스팸 및 2 분기 2018에서 피싱," 소위 노트 "암호 경품" 피싱의 보급 예제로, 어떤 점에서 사이버 범죄자는 너무 좋은-투-진정한 프로 모션의 일환으로 중요 한 정보를 포기에 개인을 속는 다 인기 있는 암호 화폐.
@@ -14,6 +16,6 @@
 
 각 계정에서 가장 최근의 200 짹짹을 사용 하 여, 분류자는 가짜 대회를 확산 하 고 암호화 업계에서 잘 알려진 인물을 사칭 15000 봇의 네트워크를 발견.
 
-Original source: [Report: Over $2 Million Lost to Crypto Scams in Second Quarter of 2018](https://cointelegraph.com/news/report-over-2-million-lost-to-crypto-scams-in-second-quarter-of-2018)
+[Original source](https://cointelegraph.com/news/report-over-2-million-lost-to-crypto-scams-in-second-quarter-of-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

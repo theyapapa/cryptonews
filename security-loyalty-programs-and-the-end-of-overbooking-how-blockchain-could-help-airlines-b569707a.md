@@ -1,5 +1,7 @@
 # 보안, 충성도 프로그램 및 초과 예약의 끝: 블록 체인이 항공사를 도울 수 있는 방법 ...
 
+###### 2018-08-14
+
 주요 경쟁사 들은 항공 산업의 특성이 블록 체인에 부합 하는 방식을 인식 하 고 있으며,이는 공항의 정보 사일로 간 데이터 공유를 간소화할 수 있는 가능성과 부수적인 여행 기업 들을 더욱 폭넓게 구축 하 여 완벽 하 고 안전한 여행 경험.
 
 유럽에서 가장 큰 항공사의 자회사 인 루프트한자 산업 솔루션은 기술의 잠재적 응용 프로그램을 컴파일하고 사용 하기 위한 산업 표준을 만들기 위한 노력의 일환으로 항공 (BC4A)에 대 한 이니셔티브 블록 체인을 출시 했습니다.
@@ -14,6 +16,6 @@ sita는 비행 지연에 대 한 충돌 정보를 조정 하 고 "항공편 데�
 
 블록 체인은 다양 한 공항 정보 틈새에 응용 프로그램을가지고 있지만, 기술의 실용적이 고 비용 효율적인 사용을 만들기 위해 업계 리더에 의해 추가 개발이 필요 합니다.
 
-Original source: [Security, Loyalty Programs and the End of Overbooking: How Blockchain Could Help Airlines](https://cointelegraph.com/news/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines)
+[Original source](https://cointelegraph.com/news/security-loyalty-programs-and-the-end-of-overbooking-how-blockchain-could-help-airlines)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

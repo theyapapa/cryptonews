@@ -32,6 +32,6 @@ Tezos  [🔗](https://cointelegraph.com/tags/tezos)  (XTZ) 는 24시간 동안�
 
 오늘 아침, 미국의 3대 주요 국가 경제학자들은 디지털 화폐가 화폐로 실패할 것이라고 주장하면서,  [🔗](https://cointelegraph.com/news/former-world-bank-chief-economist-bitcoin-will-fail-as-governments-increase-regulation?utm_source=Telegram&utm_medium=social)  비트코인을 비난했다. 금융 전문가들은 비트코인의 변동성과 본질적 가치의 부족에 대해 우려를 표명했고, 익명의 속성은 '투명한 은행 시스템' 을 만드는 것과 모순되는 것이다.세계적인 경제학자들은 글로벌 금융 규제 기관들이 " 시장이라는 용어가 중요하게 되면 망치를 사용하게 될 것이라고 주장했다.
 
-Original source: [Crypto Markets Seeing Red, Total Market Cap Down Almost $15 Bln](https://cointelegraph.com/news/crypto-markets-seeing-red-total-market-cap-down-almost-15-bln)
+[Original source](https://cointelegraph.com/news/crypto-markets-seeing-red-total-market-cap-down-almost-15-bln)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

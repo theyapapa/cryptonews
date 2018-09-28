@@ -1,5 +1,7 @@
 # ' 계정 없이 교환 ' 점차적으로 회원 프로그램을 소개 하는 변신 ...
 
+###### 2018-09-04
+
 암호 화폐 교환 변신은 새로운 리 워드 프로그램을 도입 하였으며,이는 지난 9 월 4 일 발표 된 공지사항에 따라 거래소 사용자 들을 위한 필수 멤버십 모델이 될 것입니다.
 
 에릭 voerhees, 설립자 겸 CEO는 shaperhift, 오늘 교환 충성도 프로그램 shaperhift 회원 자격이 발표 했다.
@@ -14,6 +16,6 @@ shaphhift는 "계정 없는 교환"으로 알려져 있지만 새로 개발 된 
 
 1 월에는 빠른 비트 코인 (BTC)에 비트 코인 현금 (bch) 거래를 제공 하기 위해, 또한 고객 들이 bitpay 및 copay 지갑에 있는 두 개의 가상 화폐 사이에서 교류를 수행할 수 있도록 bitpay의 결제 프로세서를 통합 했습니다.
 
-Original source: [‘Exchange Without Accounts’ ShapeShift to Gradually Introduce Membership Program](https://cointelegraph.com/news/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program)
+[Original source](https://cointelegraph.com/news/exchange-without-accounts-shapeshift-to-gradually-introduce-membership-program)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

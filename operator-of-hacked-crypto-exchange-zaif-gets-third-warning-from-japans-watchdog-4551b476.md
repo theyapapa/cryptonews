@@ -1,5 +1,7 @@
 # 운영자 해킹 암호 교환 zaif 일본의 감시에서 세 번째 경고를 가져옵니다 ...
 
+###### 2018-09-25
+
 일본의 금융 서비스 기구 (FSA)는 해킹 된 암호 교환 zaif, 기술 국의 소유자에 게 세 번째 사업 개선 명령을 발표 했다.
 
 금융 서비스 기관은 이미 3 월에 처음으로 사업을 개선 하기 위해, 그리고 이후 6 월 올해 기술 관리국을 주문 했다.
@@ -14,6 +16,6 @@ CT 일본에 따르면, FSA 직원은 기술 국의 현지 검사를 착수 하�
 
 1 월의 산업 기록 속보 $5억3200만 암호 교환 코인 체크 해킹의 여파로, 올해 기관은 국내 사업자에 대 한 점점 더 엄격한 조치의 시리즈를 펼쳐 보았다.
 
-Original source: [Operator of Hacked Crypto Exchange Zaif Gets Third Warning From Japan's Watchdog](https://cointelegraph.com/news/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog)
+[Original source](https://cointelegraph.com/news/operator-of-hacked-crypto-exchange-zaif-gets-third-warning-from-japans-watchdog)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

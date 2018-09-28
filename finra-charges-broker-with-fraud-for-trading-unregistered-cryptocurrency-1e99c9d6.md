@@ -1,5 +1,7 @@
 # finra 요금 브로커는 미등록 암호 화폐 거래에 대 한 사기와 함께 ...
 
+###### 2018-09-12
+
 finra의 웹사이트에 발표 된 성명에 따르면 미국 금융 산업 규제 당국 (finra)은 티 모 틸 튼 ayre에 대 한 불만을 제기 하 고, 증권 사기와 미등록 암호 화폐의 불법 배포를 청구 했습니다 9 월 11 일 (화).
 
 불만, finra, 미국 증권 거래 위원회 (SEC)에 의해 감독, 미국 매사 추세 츠 기반 ayre 그의 공공 회사, 록 키 마운틴 ayre, inc. (rtn), 그는 "로 안하고 hepcoin, 판매에 대 한 투자를 유인 하 려 유가 증권에 의해 뒷받침 최초의 minable 동전. "
@@ -14,6 +16,6 @@ ayre는 동전을 등록 하는 시도 하지, finra는 등록 되지 않은 보
 
 finra의 진술은 같은 날 자사의 지배 조직 SEC는 벌금을 함께 두 개의 별도의 중단-및-단념 명령을 발표 했다 온다.
 
-Original source: [FINRA Charges Broker With Fraud for Trading Unregistered Cryptocurrency](https://cointelegraph.com/news/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency)
+[Original source](https://cointelegraph.com/news/finra-charges-broker-with-fraud-for-trading-unregistered-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

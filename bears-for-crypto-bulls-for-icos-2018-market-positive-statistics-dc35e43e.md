@@ -1,5 +1,7 @@
 # 암호화를 위한 곰, 아이 코스에 대 한 황소: 2018 시장 긍정적인 통계 ...
 
+###### 2018-08-12
+
 이제 과거 2018의 상반기와 함께, 그것은 초기 동전 제공 (ICO) 시장에서 데이터의 지난 7 개월을 다시 보고 신랄 한-암호 화폐 생태계의 중요 한 일 면.
 
 12 월에 연말에 열이 피치에 도달 했을 때, G20은 Bitcoin의 레이스와 함께 $2만로 암호 화폐 규정을 논의 한다는 제안과 함께 ICO 캐피탈은 새로운 기록을 기록 했습니다.
@@ -14,6 +16,6 @@
 
 # # 돈은 중요 하다 ICO 생태계에 관하여 이야기를 말할 수 있는 숫자 및 다른 통계의 주인이 있는 동안, 가장 크고 가장 중요 한 것은 매달 마다 나오는 프로젝트의 수 뿐만 아니라, 양육 되는 자본의 양 이다.
 
-Original source: [Bears for Crypto, Bulls for ICOs: 2018 Market Positive Statistics](https://cointelegraph.com/news/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics)
+[Original source](https://cointelegraph.com/news/bears-for-crypto-bulls-for-icos-2018-market-positive-statistics)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

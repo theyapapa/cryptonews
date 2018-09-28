@@ -1,5 +1,7 @@
 # counterparties okex에 $416 mln BTC 선물 무역 적자에 대 한 법안을 발 수 ...
 
+###### 2018-08-03
+
 암호 교환 okex 오늘 공식 성명을 발표 했다, 8 월 3, 거 대 한 불발 고의 강제 청산에 대 한 응답으로 비트 코인 (BTC) 선물 무역의 가치 개념적 $4억1600만 그 정체 불명의 문제 상인에 의해 이번 주 초에 시작 되었다.
 
 omex, 현재 거래 가치에 의해 세계에서 두 번째로 큰 교환, 그 위험 관리 경고 시스템은 즉시 때 긴 위치는 익명의 선물 상인에 의해 시작 되었다 트리거 되었습니다 말했다 2 (홍콩 시간) 7 월 31.
@@ -16,6 +18,6 @@ okex의 공식 성명은 exchange가 다시 발생 하 고 위험 관리를 강�
 
 마찬가지로 7 월에 보고, okex 현재 몰타 증권 거래소와 새로운 제도적 등급의 보안 토큰 거래 플랫폼을 만들 협력 하 고 있습니다.
 
-Original source: [Counterparties Could Foot the Bill For $416 Mln BTC Futures Trade Shortfall on OKEx](https://cointelegraph.com/news/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex)
+[Original source](https://cointelegraph.com/news/counterparties-could-foot-the-bill-for-416-mln-btc-futures-trade-shortfall-on-okex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 월마트는 블록 체인 기술을 배포 하는 특정 생산 공급 업체가 필요 합니다 ...
 
+###### 2018-09-24
+
 미국 소매 거 대 한 월마트와 부서 Sam 's club, 회원 전용 소매 창 고 클럽, 블록 체인 기술에 따라 농장-투-스토어 추적 시스템을 구현 하는 잎이 많은 채소의 공급이 필요 합니다, 로이터는 9 월 24 일 보도 했다.
 
 보고서에 따르면, 월마트는 9 월 2019에 의해 블록 체인 기술을 구현 하는 공급자가 필요 합니다.
@@ -14,6 +16,6 @@
 
 6 월, 월마트와 다른 9 개 회사는 IBM과 제휴 하 여 전 세계 공급망을 통해 식품을 추적 하기 위한 블록 체인 기반 시스템을 출시 했습니다.
 
-Original source: [Walmart Requires Certain Produce Suppliers to Deploy Blockchain Technology](https://cointelegraph.com/news/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology)
+[Original source](https://cointelegraph.com/news/walmart-requires-certain-produce-suppliers-to-deploy-blockchain-technology)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

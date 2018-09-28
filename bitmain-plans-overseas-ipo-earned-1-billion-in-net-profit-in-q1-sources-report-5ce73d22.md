@@ -14,6 +14,6 @@ bitmain $300과 $4억 사이에 세쿼이아 캐피탈 자회사 세쿼이아 �
 
 6 월말에 bitmain은 "공정 하 고 투명 한 암호 화폐 생태계"를 지원 하겠다는 확고 한의 지를 보여주기 위한 의도로 광업 및 광업 하드웨어 운송 관행을 모두 공개 했습니다.
 
-Original source: [Bitmain Plans Overseas IPO, Earned $1 Billion in Net Profit in Q1, Sources Report](https://cointelegraph.com/news/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report)
+[Original source](https://cointelegraph.com/news/bitmain-plans-overseas-ipo-earned-1-billion-in-net-profit-in-q1-sources-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 코인 베이스 CEO 브라이언 암스트롱: 10억 사람들은 5 년 동안 암호화 생태계에 있을 것입니다 ...
 
+###### 2018-09-07
+
 암호 화폐 거래소 코인 베이스 CEO 브라이언 암스트롱이 향후 5 년 동안 현재 4000만에서 10억으로 성장 하기 위해 암호 화폐 생태계에서 사람들의 수를 예측 하 고, 9 월 7 일 보고 된 테크 크 런치.
 
 암스트롱과의 인터뷰에서 암스트롱은 암호화 생태계와 총 디지털 통화 수가 증가할 것으로 예상 하 여 자체 토큰을 개발 하는 상업적 조직에 성장을 할당 했습니다.
@@ -14,6 +16,6 @@
 
 완전히 규제 브로커-딜러와 "암호화 증권 거래, 마진 및 창구 판매 거래를 포함 하는 미래의 서비스를 제공 하기 위해," coinbase는 venovate 시장, inc. 이외에 증권 딜러 키스톤 캐피탈 주식 회사를 인수 그리고 디지털 웰 스 LLC.
 
-Original source: [Coinbase CEO Brian Armstrong: 1 Billion People Will Be in Crypto Ecosystem in 5 Years](https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-1-billion-people-will-be-in-crypto-ecosystem-in-5-years)
+[Original source](https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-1-billion-people-will-be-in-crypto-ecosystem-in-5-years)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

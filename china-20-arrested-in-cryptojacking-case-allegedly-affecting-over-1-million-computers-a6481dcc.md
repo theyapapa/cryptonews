@@ -22,6 +22,6 @@
 
 또한 지난 6월, 사이버보안팀은 다양한 산업에 걸친 40,000개의 장치가 불법적인 트래픽 조작 및 암호 마이닝 캠페인의 일환으로 몽에로  [🔗](https://cointelegraph.com/tags/monero)  의해 감염되었다는  [🔗](https://cointelegraph.com/news/operation-prowli-malware-infects-over-40-000-machines-which-were-used-for-crypto-mining) 을 발견했다.
 
-Original source: [China: 20 Arrested in Cryptojacking Case Allegedly Affecting Over 1 Million Computers](https://cointelegraph.com/news/china-20-arrested-in-cryptojacking-case-allegedly-affecting-over-1-million-computers)
+[Original source](https://cointelegraph.com/news/china-20-arrested-in-cryptojacking-case-allegedly-affecting-over-1-million-computers)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

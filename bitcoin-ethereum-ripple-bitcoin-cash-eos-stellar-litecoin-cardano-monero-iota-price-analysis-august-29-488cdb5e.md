@@ -1,5 +1,7 @@
 # 비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 29 일 ...
 
+###### 2018-08-29
+
 이 추세는 ETH/USD 쌍이 하향 추세 라인과 50 일 SMA의 아래에 거래를 유지 하는 만큼 하향 한 것으로 유지 됩니다.
 
 하향 추세 선 2의 위, xrp/USD 쌍은 50 일 SMA에 뻣 뻣 한 저항을 직면할 것 같다.
@@ -14,6 +16,6 @@
 
 비록 황소가이 수준을 확장 하더라도, 50 일 SMA 및 장기 하향 추세 선은 판매를 초대할 것 이다.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 29](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-29)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

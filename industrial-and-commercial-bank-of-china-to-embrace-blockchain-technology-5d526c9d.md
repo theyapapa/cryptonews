@@ -1,5 +1,7 @@
 # 중국의 산업 및 상업 은행은 블록 체인 기술을 포용 하는 ...
 
+###### 2018-09-03
+
 중국의 산업 및 상업 은행의 의장 (icbc)는 은행이 블록 체인 기술 개발에 초점을 맞출 것 이라고 말했다, biaews는 9 월 1 일 보도 했다.
 
 이 은행은 "인텔리전트 뱅킹"과 "금융 기술 분야의 가속화 된 배치"의 건설에 주력 하 고 있습니다.
@@ -14,6 +16,6 @@ bianews에 따르면, 은행은 "스마트 뱅킹에 대 한 사용 사례를 �
 
 이 책을 소개 함으로써 CPC는 정부 당국이 분산 원장 기술 (DLT)의 개념을 이해 하 고, 블록 체인을 전국적인 규모로 채택 하는 이점과 도전을 고려 하는 것을 목표로 하 고 있습니다.
 
-Original source: [Industrial and Commercial Bank of China To Embrace Blockchain Technology](https://cointelegraph.com/news/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology)
+[Original source](https://cointelegraph.com/news/industrial-and-commercial-bank-of-china-to-embrace-blockchain-technology)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

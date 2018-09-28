@@ -1,5 +1,7 @@
 # 베네수엘라 급여, 상품 및 서비스에 대 한 계정의 단위로 페트로를 사용 하는 ...
 
+###### 2018-08-14
+
 베네수엘라 니콜라 마 두로는 국가 석유 기반 암호 화폐, 페트로, 국가 내에서 계정의 단위로 사용 됩니다 발표 했다, 뉴스 아울렛 ABC 인터내셔널은 8 월 14 일 보도 했다.
 
 nicoás mauro는 보도 텔레비전 주소에, 그 상태 석유 회사 pdvsa 계정의 단위로 페트로를 사용 하는 것 이라고 발표 했다.
@@ -14,6 +16,6 @@ ABC는 mauro를 인용 한다: "다음 월요일, 베네수엘라의 가격에 �
 
 백서는 페트로 쉽게 미국 달러와 다른 통화로, 베네수엘라 수출 무역에 도움이 될 것 입 변환 될 수 있다고.
 
-Original source: [Venezuela to Use Petro as Unit of Account for Salaries, Goods and Services](https://cointelegraph.com/news/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services)
+[Original source](https://cointelegraph.com/news/venezuela-to-use-petro-as-unit-of-account-for-salaries-goods-and-services)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 미국: 블록 체인 보안 유한 bitgo는 레 귤 레이 터의 녹색 빛을 얻을 암호화 후견인이 될 ...
 
+###### 2018-09-13
+
 미국 암호 지갑과 블록 체인 보안 회사인 bitgo는 사우스 다코타의 은행에서 국가 신탁 회사 헌장을 받았으며,이를 암호화, CNBC 보고서 9 월 13 일에 대 한 자격을 갖춘 후견인으로 만들고 있습니다.
 
 그것은 규제 암호화 된 보관 제공을 시작으로, bitgo 공동 설립자 겸 CEO 마이크 belshe는 CNBC 말했다: "이것은 인프라에 대 한 누락 된 부분입니다-그것은 위험한 환경 오늘.
@@ -14,6 +16,6 @@ bitgo와 함께, 올해는 미국의 주요 지갑과 교환 서비스 제공 �
 
 차기 bakkt 오퍼링의 일환으로 뉴욕 증권 거래소 (nyse) 운영자 ICE는 또한 암호화 공간에 새로운 주요 신뢰할 수 있는 후견인 솔루션을 제공할 것입니다.
 
-Original source: [US: Blockchain Security Co. BitGo Gets Regulator's Green Light to Become Crypto Custodian](https://cointelegraph.com/news/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian)
+[Original source](https://cointelegraph.com/news/us-blockchain-security-co-bitgo-gets-regulators-green-light-to-become-crypto-custodian)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

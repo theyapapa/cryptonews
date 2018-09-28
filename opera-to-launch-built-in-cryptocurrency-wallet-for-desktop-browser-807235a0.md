@@ -1,5 +1,7 @@
 # Opera는 데스크톱 브라우저에 내장 된 암호 화폐 지갑을 시작 합니다 ...
 
+###### 2018-08-08
+
 Opera는 8 월 8 일 수요일, cointelegraph와 공유 된 보도 자료에 따르면, 내장 된 암호 지갑 기능과 데스크톱 웹 브라우저를 시작 합니다.
 
 이 회사는 이미 안 드 로이드에 대 한 오페라의 베타 버전의 일환으로 모바일 암호 지갑을 제공 합니다,이는 올해 7 월에 시작.
@@ -14,6 +16,6 @@ Opera는 "강한 관심"과 "암호화 커뮤니티 로부터 압도적으로 �
 
 6 월 하순에, 미확인 소문은 인기 중개 및 암호 거래 애플 리 케이 션 bingehood는 네이티브 암호 지갑 기능을 제공 하는 것이 발생, 회사는 그것이 조사를 제안 하는 암호 화폐 엔지니어에 대 한 작업 광고를 게시 한 후 전자 지갑 인프라 개발
 
-Original source: [Opera to Launch Built-In Cryptocurrency Wallet for Desktop Browser](https://cointelegraph.com/news/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser)
+[Original source](https://cointelegraph.com/news/opera-to-launch-built-in-cryptocurrency-wallet-for-desktop-browser)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

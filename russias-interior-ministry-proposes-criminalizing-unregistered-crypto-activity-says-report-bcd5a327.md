@@ -1,5 +1,7 @@
 # 러시아의 내무부는 등록 되지 않은 암호화 활동을 criminalizing 제안, 보고서를 말한다 ...
 
+###### 2018-08-24
+
 러시아의 내무부는 등록 되지 않은 암호화 작전에 대 한 형사 책임의 확립을 고려 하 여, 8 월 23 일 보도 된 현지 언론 보도 이다.
 
 izvestia에 의해 인수 된 문서에 따르면, 러시아의 내무부는 비트 코인 (BTC),이 더 리 움 (ETH), 및 다른 사람과 같은 오픈 소스 암호 화폐와 등록 작업을 합법화 우려 입법의 개정을 개발 하 고 있습니다.
@@ -14,6 +16,6 @@ tokachev는 또한 "암호화 거래"가 러시아의 이른바 ' 회색 지 대
 
 이러한 이니셔티브의 영향 측면에서, 법률 전문가는 러시아 암호화 프로젝트가 결국 "다른 관할권을 찾을 것" 이라고 제안 했으며, 일부 대형 암호화 관련 회사는 이미 "외부 설정을 통해" 작업 하 고 있다고 지적 합니다. 암호 화폐의 처벌이 마리화나이 미래에 힘을 얻을 것 이다 이니셔티브, 이것은 실제 프로젝트에 부정적인 영향을 미칠 것입니다, 그 결과는 다른 관할에 대 한 보고.
 
-Original source: [Russia’s Interior Ministry Proposes Criminalizing Unregistered Crypto Activity, Says Report](https://cointelegraph.com/news/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report)
+[Original source](https://cointelegraph.com/news/russias-interior-ministry-proposes-criminalizing-unregistered-crypto-activity-says-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

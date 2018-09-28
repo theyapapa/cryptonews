@@ -1,5 +1,7 @@
 # 베네수엘라는 세계에서 가장 큰 암호화 시장 중 하나가 되기 위해 온 방법 ...
 
+###### 2018-09-02
+
 11 월 2013 일, 베네수엘라는 공식-즉, 마사지-' 그냥 ' 43%의 인플레이션 율을 했다 무렵, 두 비트 코인의 총합은 localbitcoins 교환에 vef에 상장 되었다.
 
 그것은 인플레이션 63%에서, 정부에 따르면, 그리고 그 나라가 hyperinflation에서 1 년 동안 잘 잡힌 것을 감안할 때, 많은 그룹과 개인이 주는에서 재생할 수 있는 중요 한 역할을 암호화를 인식 하기 시작 했다이 시간에 했다 수명선을 베네수엘라 합니다.
@@ -14,6 +16,6 @@
 
 사실, 거래 수수료 및 확인 시간 측면에서 비트 코인에 대 한 대시의 우수성은 암호 화폐가 지금 소문에의 하면 가맹점 중 베네수엘라에서 가장 인기 있는 것입니다-또는 leas에서
 
-Original source: [How Venezuela Came to Be One of the Biggest Markets for Crypto in the World](https://cointelegraph.com/news/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world)
+[Original source](https://cointelegraph.com/news/how-venezuela-came-to-be-one-of-the-biggest-markets-for-crypto-in-the-world)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

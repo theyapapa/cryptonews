@@ -1,5 +1,7 @@
 # 프랑스는 새로운 ICO 프레임 워크를 마무리 ' 글로벌 혁신을 유치 ' ...
 
+###### 2018-09-14
+
 경제와 재정을 위한 프랑스의 장관은 정부가 사업 성장과 변화 빌 (pacte) 초기 동전 제물 (ICO)에 전념의 기사를 수락 했다고 발표 했다, 짹짹에 따라 수요일, 9 월 12 일 게시.
 
 마찬가지로 금융 장관은 브루노 르 maire 미국, 프랑스의 주식 시장 레 귤 레이 터 automité 데스 marchés의 재정 (amf) 이제는 ICO를 통해 기금을 마련 하고자 하는 기업에 라이선스를 부여 하는 권한, 법안은 기여자를 보호 하는 데 도움이 목표로 ' 관심사.
@@ -14,6 +16,6 @@ cointelegraph가 5 월에 보고 되는 때, 프랑스 국가 위원회는 진�
 
 유럽 의회 회원 들은이 달 초에 보고 된 바와 같이 더 넓은 유럽 맥락에서 9 월초에 ICO 규제에 대 한 블록 체인 전문가 들과 회의를 가졌다.
 
-Original source: [France Finalizes New ICO Framework to ‘Attract Innovators Globally’](https://cointelegraph.com/news/france-finalizes-new-ico-framework-to-attract-innovators-globally)
+[Original source](https://cointelegraph.com/news/france-finalizes-new-ico-framework-to-attract-innovators-globally)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

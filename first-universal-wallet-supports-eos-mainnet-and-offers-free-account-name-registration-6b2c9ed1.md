@@ -28,6 +28,6 @@ EOS가 초당 수백만 건의 거래를 할 수 있을 것으로 추정하고 �
 
 경고문. 코인텔레그래프는 이 페이지에서 컨텐츠나 제품을 보증하지 않습니다. 우리는 우리가 얻을 수 있는 모든 중요한 정보를 제공하는 것을 목표로 하지만, 독자들은 회사와 관련된 행위를 하기 전에 자신들의 연구를 해야 하며, 그들의 결정에 대한 모든 책임을 지기 전에 자신들의 연구를 해야 합니다. 그리고 이 글은 투자 조언으로 간주될 수도 없습니다.
 
-Original source: [‘First Universal Wallet’ Supports EOS Mainnet and Offers Free Account Name Registration](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
+[Original source](https://cointelegraph.com/news/first-universal-wallet-supports-eos-mainnet-and-offers-free-account-name-registration)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

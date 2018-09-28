@@ -1,5 +1,7 @@
 # 로이드의 런던의 디지털 통화에 대 한 양육 권 플랫폼을 보장 하기 위해 ...
 
+###### 2018-08-28
+
 영국의 보험 시장 리더 로이드 런던의 미국 기반의 구금 회사 왕국 신탁에 의해 암호화 양육 권 플랫폼을 보장 합니다, 8 월 28 일 발표 된 보도 자료에 따르면.
 
 10만 이상의 고객을 제공 하 고 양육 권 아래의 자산에 $120억을가지고 왕국 신뢰, 보도는 "첫 번째" 규제 금융 기관은 디지털 자산 투자에 대 한 자격을 갖춘 양육 권을 제공 하는 것입니다.
@@ -14,6 +16,6 @@
 
 그러나 그는 그 왕국 신뢰 "'는 디지털 동전이 오프 라인으로 저장 되어있는 자사의 기술, ' 콜드 스토리지 '의 유형 때문에 ' 과감 한 할인 '을 받은 지적 했다.
 
-Original source: [Lloyd’s Of London to Insure Custody Platform for Digital Currency](https://cointelegraph.com/news/lloyds-of-london-to-insure-custody-platform-for-digital-currency)
+[Original source](https://cointelegraph.com/news/lloyds-of-london-to-insure-custody-platform-for-digital-currency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

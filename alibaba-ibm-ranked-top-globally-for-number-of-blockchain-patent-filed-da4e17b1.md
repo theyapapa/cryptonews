@@ -1,5 +1,7 @@
 # 알리바바, IBM은 블록 체인 특허 출원의 번호에 대 한 세계적으로 순위를 ...
 
+###### 2018-09-03
+
 테크 자이언츠 알리바바와 IBM은 글로벌 엔티티를 날짜에 제출한 블록 체인 관련 특허의 수에 의해 순위를 새로운 목록에 있는 최고의 자리를 위해 경쟁 하 고 있습니다, ipr 매일에 의해 8 월 31 일 게시.
 
 ipr Daily-지적 재산권을 전문으로 하는 미디어 아울렛은 중국, EU, 미국, 일본 및 한국 전역에서 8 월 10 일의 데이터를 통합 하 고 세계 지적 재산권의 국제 특허 제도를 컨설팅 합니다. 조직 (WIPO).
@@ -14,6 +16,6 @@ codegraph가 보고 된 바와 같이, WIPO 데이터는 이전에 2017에서 �
 
 IBM은 다양 한 분야에서 블록 체인에 대 한 참여를 꾸준히 확대 하 고 있으며, 최근 호주 정부와 5 년 $7억4000만 계약을 체결 하 여 블록 체인과 기타 신기술을 사용 하 여 데이터 보안과 자동화를 개선 했습니다. 국방 및 가정 업무를 포함 한 연방 부서에서.
 
-Original source: [Alibaba, IBM Ranked Top Globally for Number of Blockchain Patent Filed](https://cointelegraph.com/news/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed)
+[Original source](https://cointelegraph.com/news/alibaba-ibm-ranked-top-globally-for-number-of-blockchain-patent-filed)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

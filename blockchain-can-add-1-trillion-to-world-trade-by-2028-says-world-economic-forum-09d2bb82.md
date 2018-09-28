@@ -1,5 +1,7 @@
 # 블록 체인은 세계 경제 포럼을 말합니다, 2028에 의해 전세계 무역에 $1조를 추가 할 수 있습니다 ...
 
+###### 2018-09-13
+
 블록 체인과 같은 분산 원장 기술 (DLT)은 향후 10 년 동안 새로운 거래에서 $1조을 생성할 수 있으며, 세계 경제 포럼 (wef)의 공동 보고서는 9 월 13 일 목요일에 청구 됩니다.
 
 베인 & 컴퍼니와 협력 하 여 출판 된 ' 트레이드 테크-트레이드 및 공급망 금융의 새로운 시대 '는 글로벌 무역 금융 산업 내에서 DLT 잠재 고객을 평가 합니다.
@@ -14,6 +16,6 @@
 
 그 사이에 wef 보고는 정부를 위한 유사한 신호를 포함 한다, DLT를 수용 하는 유럽 연합과 같은 구조 내의 그들을 위해 조차 그것을 변론 하는 조직은 사실상 불가피 하다.
 
-Original source: [Blockchain Can Add $1 Trillion to World Trade By 2028, Says World Economic Forum](https://cointelegraph.com/news/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum)
+[Original source](https://cointelegraph.com/news/blockchain-can-add-1-trillion-to-world-trade-by-2028-says-world-economic-forum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

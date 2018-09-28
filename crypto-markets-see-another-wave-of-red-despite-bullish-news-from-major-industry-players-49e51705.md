@@ -1,5 +1,7 @@
 # 암호화 시장은 주요 산업 선수의 강세 뉴스에도 불구 하 고, 빨간색의 또 다른 물결을 참조 하십시오 ...
 
+###### 2018-09-10
+
 월요일, 9 월 10: 암호화 시장 오늘 주로 빨간색, 녹색에서 상위 20 개 암호 화폐의 단지 두 동전, 그리고 총 시장 총액 $1940억 주위 유혹.
 
 출처: codeelegraph 비트 코인 가격 지 수 어제 약간의 리바운드를 떨어뜨리고 그때 테스트 한 후에 주요한 알트 코인 ethereum (ETH)은 오늘 $200 포인트를 잡는 데에 실패 했다.
@@ -14,6 +16,6 @@
 
 이와 대조적으로, 3 위를 차지한 리플 (xrp)은 지난 하루 동안 최고 20 개의 가상 화폐 중에서 가장 큰 손실을 입 었으 며 언론 시간에 $0.268에서 거래 할 6%를 잃었다.
 
-Original source: [Crypto Markets See Another Wave of Red, Despite Bullish News From Major Industry Players](https://cointelegraph.com/news/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-another-wave-of-red-despite-bullish-news-from-major-industry-players)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

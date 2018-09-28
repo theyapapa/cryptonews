@@ -1,5 +1,7 @@
 # 암호화 업계 리더는 워싱턴 기반 로비 그룹을 설립 ...
 
+###### 2018-09-11
+
 미국 기반의 블록 체인과 크립 토 기업 들이 블록 체인 협회를 형성할 것 이라고 발표 한 그룹, 워싱턴 dc의 블록 체인 산업을 대표 하는 "첫 번째" 로비 그룹은 9 월 11 일 보도 했다.
 
 블록 체인 협회는 암호화 거래소 코인 베이스, 기술 스타트업 프로토콜 연구소, 디지털 통화 그룹과 폴 리 체인 캐피탈 등의 업계 리더로 구성 되어 있습니다.
@@ -14,6 +16,6 @@
 
 미국에서 pacs는 유사한 정책 및 정치적 목표가 있는 회원 들 로부터 캠페인 기부금을 모금 하 고 후보자, 입법 또는 투표 계획에 대 한 정치적 캠페인에 기부 하는 조직입니다.
 
-Original source: [Crypto Industry Leaders Establish Washington-Based Lobby Group](https://cointelegraph.com/news/crypto-industry-leaders-establish-washington-based-lobby-group)
+[Original source](https://cointelegraph.com/news/crypto-industry-leaders-establish-washington-based-lobby-group)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

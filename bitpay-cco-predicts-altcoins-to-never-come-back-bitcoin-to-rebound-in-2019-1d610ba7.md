@@ -1,5 +1,7 @@
 # bitpay cco는 altcoins를 ' 다시 돌아오지 않을 것으로 예측, ' 비트 코인은 2019에서 ' 리바운드 '로 ...
 
+###### 2018-09-13
+
 글로벌 암호 지불 프로세서 bitpay의 최고 상업 책임자는 알트 코인이 "돌아오지 않을 것" 이라고 말했다, 비트 코인 (BTC)은 블룸버그 9 월 12 일 인터뷰에서 2019에서 "리바운드" 하는 동안.
 
 "하지만 내년에 당신은 큰 참가자의 이야기가 현실이 될 것을 볼 수 있습니다, 당신은 골드만이 거래 데스크를 시작 않습니다, 피델 리 티는 비트 코인 제품을 출시 하지, 광장은 상인을 위한 비트 코인 처리를 제공 합니다, 검은 바위는 ETF를 출시 ... 그래서 모든 것이 현실이 될 것입니다, 당신은 실제로 일부 입양을 볼 수 있습니다.
@@ -14,6 +16,6 @@ bitpay에 대해 구체적으로 이야기 하 고, 회사의 cco는 그들이 "
 
 업계에 새로운 "큰 참가자"에 관한, 익명의 소식통은 오늘 미국 은행 거 대 한 모건 스탠리는 비트 코인 무역 스왑을 고객에 게 제공 할 계획 이라고 밝혔다, 어떤 암호 화폐를 보유 하지 않고 암호화 파생 상품을 거래 할 수 있도록.
 
-Original source: [BitPay CCO Predicts Altcoins to ‘Never Come Back,’ Bitcoin to ‘Rebound’ in 2019](https://cointelegraph.com/news/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019)
+[Original source](https://cointelegraph.com/news/bitpay-cco-predicts-altcoins-to-never-come-back-bitcoin-to-rebound-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

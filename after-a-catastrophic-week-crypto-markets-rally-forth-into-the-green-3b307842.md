@@ -1,5 +1,7 @@
 # 파국 적인 주 후에, 암호화 시장은 녹색으로 앞으로 재편성 한다 ...
 
+###### 2018-08-09
+
 Coin360 비트 코인 (BTC)에서 시장 시각화는 언론 시간에 고체 $6500에서 거래, 하루에 3.2% 주위.
 
 출처: codeelegraph 비트 코인 가격 지 수 오늘날의 기운 차게 하는 동안 일부 날카로운 암호화 신경, dogecoin 크리에이터 잭슨 팔 머 최근 미국 규제 ' 발표 8 월 7 일에 기인 하는 많은 급락 시장을 눈독이 있다 그들은 높은-프로필 BTC 교환-상장-펀드 (ETF) 승인 여부를 통해 자신의 결정을 지연 될 것 이다.
@@ -14,6 +16,6 @@ Coin360 비트 코인 (BTC)에서 시장 시각화는 언론 시간에 고체 $6
 
 코인 마켓에서 모든 가상 화폐의 총 시가 총액의 7 일 차트 암호화 시장의 현기증으로 일부 타운을 떠나, 예일 대학에서 금융 전문가의 팀이 일주일 예측 요인의 시스템을 제안 주요 암호 화폐의 가격 동향.
 
-Original source: [After a Catastrophic Week, Crypto Markets Rally Forth Into the Green](https://cointelegraph.com/news/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green)
+[Original source](https://cointelegraph.com/news/after-a-catastrophic-week-crypto-markets-rally-forth-into-the-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 7 프리미어 리그 축구 클럽은 e 토로와 비트 코인 광고 계약에 서명 ...
 
+###### 2018-08-21
+
 영국 기반의 트레이딩 플랫폼 etoro는 처음으로 비트 코인에서 지불 된 7 개의 프리미어 리그 축구 클럽과 광고 거래에 서명 했으며 8 월 21 일 화요일에 공개 되었습니다.
 
 다양 한 소스에 따르면, 영국 클럽 토트넘 hotspur, 브라이튼 & 호베 알 비 언, 크리스털 팰리스, 카디프 시티, 레스터 시티 풋볼 클럽, 뉴캐슬 유나이티드와 사우샘프턴 그들은 etoro 광고를 호스트에 가입 했다고 발표 했다.
@@ -14,6 +16,6 @@ Harunustaspor는 1 월에 비트 코인을 위한 프로 선수를 고용 하는
 
 지난 주, 더 일반적으로 UEFA로 알려져 있는 유럽 축구 협회의 조합은, 그것을 단계적인 롤아웃의 한 부분으로 블록 체인 근거한 티켓팅 체계를 배치 했었다는 것을 확인 했다.
 
-Original source: [Seven Premier League Football Clubs Sign Bitcoin Advertising Deal With eToro](https://cointelegraph.com/news/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro)
+[Original source](https://cointelegraph.com/news/seven-premier-league-football-clubs-sign-bitcoin-advertising-deal-with-etoro)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

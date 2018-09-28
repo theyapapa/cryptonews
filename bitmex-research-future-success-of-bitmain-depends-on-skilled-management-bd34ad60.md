@@ -1,5 +1,7 @@
 # bitmex 연구: bitmex의 미래 성공은 숙련 된 관리에 따라 달라 집니다 ...
 
+###### 2018-08-31
+
 암호 교환 bitmex에 대 한 연구 단위는 이번 주 초 트위터에 유출 된 bitmex에 최근 데이터를 분석 했다.
 
 유출 bitmain 금융 데이터의 소스를 논의-분명히 트위터 계정 @brian \_trolz-bitmain 그것이 "이 문서의 진위를 믿을 이유가 있다" 고 말합니다.
@@ -14,6 +16,6 @@ bitmex는 유출 된 데이터에서 배운 바와 같이, bitmex은 단지 추�
 
 결론적으로, bitmex는 bitmex의 미래 전망에 대 한 신중한 낙관론을 표현 한다: "bitmex은 수십 년 동안 강력한 주주 수익률을 창출 하는 전설적인 암호 회사 일 수 있지만,이를 달성 하기 위해 (그리고 그것은 소리 보다 훨씬 더 어려워) bitmex 관리 팀은 회사 리소스 관리를 개선 해야 할 수 있습니다.
 
-Original source: [BitMEX Research: Future Success of Bitmain Depends on Skilled Management](https://cointelegraph.com/news/bitmex-research-future-success-of-bitmain-depends-on-skilled-management)
+[Original source](https://cointelegraph.com/news/bitmex-research-future-success-of-bitmain-depends-on-skilled-management)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

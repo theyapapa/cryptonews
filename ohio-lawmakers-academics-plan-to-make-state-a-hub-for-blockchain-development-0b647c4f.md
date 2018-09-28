@@ -1,5 +1,7 @@
 # 오하이오 국회 의원, 학자는 국가 블록 체인 개발을 위한 허브를 만들 계획 ...
 
+###### 2018-08-24
+
 오하이오 주 정부는 8 월 23 일 오하이오 statehouse에서 최근 기자 회견에서 만든 발언에 따르면, 블록 체인 혁신의 전면에 위치를 입찰 했다.
 
 의원, 학계 및 비즈니스 세계에서 인물을 구성 하는 그룹에 의해 소집 되었다 오하이오 하 원 스피커 라이언 스미스는 기술의 개발을 육성하 고 블록 체인 개발자와 기업을 유치 할 계획을 논의 하기 위해 상태.
@@ -14,6 +16,6 @@
 
 이 4 월, 기업 들이 블록 체인에 대 한 데이터를 보유 하 고 공유할 수 있도록 하는 법안은 공식적으로 애리조나 주법에 서명 되었으며, 국가의 개정 법령은 "서 면"과 블록 체인에 저장 된 데이터는 "불변 하 고 감사 하 고 제공 하는 규정 무수정 진실 "4 월 2017 이후.
 
-Original source: [Ohio Lawmakers, Academics Plan to Make State a Hub for Blockchain Development](https://cointelegraph.com/news/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development)
+[Original source](https://cointelegraph.com/news/ohio-lawmakers-academics-plan-to-make-state-a-hub-for-blockchain-development)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

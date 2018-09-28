@@ -1,5 +1,7 @@
 # 중국 소매 거 대 한 JD.com는 서비스 플랫폼으로 엔터 프 라이즈 블록 체인을 출시 ...
 
+###### 2018-08-17
+
 중국 전자 상거래 거 대 한 JD.com는 8 월 17 일 오늘 발표 된 보도 자료에서 새로운 블록 체인 (baas) 플랫폼을 공개 했습니다.
 
 새로운 도구인 JD 블록 체인 개방형 플랫폼은 기업이 기술을 처음부터 개발 하지 않고도 블록 체인 솔루션을 구축, 호스팅 및 구현할 수 있도록 하는 것을 목표로 합니다.
@@ -14,6 +16,6 @@ JD가 블록 체인 공간에 신인을 의미 하는 것은 아니지만, 다�
 
 4 월, 통신 거 대 한 화 웨이는 hyperledger 전원 baas 도구를 공개,이는 유사 하 게 클라우드 기반 스마트 계약 개발과 기업을 위한 효율적인 블록 체인 솔루션에 맞도록.
 
-Original source: [Chinese Retail Giant JD.com Launches Enterprise Blockchain-as-a-Service Platform](https://cointelegraph.com/news/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform)
+[Original source](https://cointelegraph.com/news/chinese-retail-giant-jdcom-launches-enterprise-blockchain-as-a-service-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 웨스트 버지니아는 중간 선거에 대 한 해외 거주자 블록 체인 투표 옵션을 제공 합니다 ...
 
+###### 2018-08-07
+
 미국 군대는 해외에서 제공 하는 스마트폰 애플 리 케이 션을 사용할 수 있을 것입니다 블록 체인 기술에 대 한 웨스트 버지니아에서 연방 선거 투표를 주조이 11 월, CNN은 8 월 6 일 보도 했다.
 
 모바일 투표 플랫폼 voatz, employes 얼굴 인식 소프트웨어는 각 유권자 들이 정부 발행 신분증을 일치 하도록 보장 합니다.
@@ -14,6 +16,6 @@ CNN은 웨스트 버지니아는 주로 현재 해외 병력에 모바일 애플
 
 웨스트 버지니아는 이전에이 봄 주 선거에서 해리슨과 monongalia 카운티에서 voatz의 모바일 블록 체인 투표 플랫폼을 조종 했다.
 
-Original source: [West Virginia Offers Overseas Residents Blockchain Voting Option for Midterm Elections](https://cointelegraph.com/news/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections)
+[Original source](https://cointelegraph.com/news/west-virginia-offers-overseas-residents-blockchain-voting-option-for-midterm-elections)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

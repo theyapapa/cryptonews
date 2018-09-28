@@ -1,5 +1,7 @@
 # 일본어 전자 상거래 메이저 라쿠텐에서 로컬 암호 교환 모두 비트 코인을 취득 ...
 
+###### 2018-08-31
+
 $125억 이상의 시가 총액을가지고 있는 일본 전자 상거래 자이언트 라쿠텐은 8 월 31 일 발표 된 국내 암호 교환 모두의 비트 코인을 획득 하기 위해 2억6500만 엔 ($240만) 거래를 공개 했습니다.
 
 오늘의 발표는 모든 사람의 비트 코인이 3 월 30, 2018 결말 회계 연도에 약 $444200의 순 손실을 보고 했음을 나타냅니다.
@@ -14,6 +16,6 @@ Rakuten은 공식 운영 라이센스를 취득 하기 위한 레 귤 레이 터
 
 2016으로,이 회사는 비트 코인 결제 프로세서 bitnet의 지적 재산권 자산을 취득 했 고, 라쿠텐 블록 체인 랩을 개설 하 여 전자 상거래 및 핀 테크에서 블록 체인 애플리케이션을 탐색 했습니다.
 
-Original source: [Japanese E-Commerce Major Rakuten to Acquire Local Crypto Exchange Everybody's Bitcoin](https://cointelegraph.com/news/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin)
+[Original source](https://cointelegraph.com/news/japanese-e-commerce-major-rakuten-to-acquire-local-crypto-exchange-everybodys-bitcoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

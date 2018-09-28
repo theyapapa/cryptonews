@@ -1,5 +1,7 @@
 # 몰타에서 프라하: 가장 암호화 하기 쉬운 여행 목적지는 무엇입니까? ...
 
+###### 2018-09-16
+
 그럼에도 불구 하 고 일부 도시 들은 지역 인프라와 암호화 관련 정책에 따라 BTC와 주요 알트 코인 들을 받아들일 준비가 되어 있습니다.
 
 gershonok는 프라하가 가상 통화를 위한 가장 편안한 도시 중 하나 임을 확인, 그녀의 개인 좋아하는 그것을 명명: "암호화 POS 및 atm을 가진 기업은 모든 것을 하지 않습니다 \ [이 \].
@@ -14,6 +16,6 @@ gershonok는 프라하가 가상 통화를 위한 가장 편안한 도시 중 �
 
 스위스 (추크) 인프라 저 그는 목록에 있는 다른 도시와 같은 일반적인 BTC-융자 관광 활동에 대 한 잘 갖추고 있지 않을 수 있지만, 그럼에도 불구 하 고 암호화 매니아를 위한 역사적인 도시를 나타냅니다.
 
-Original source: [From Malta to Prague: What Is the Most Crypto-Friendly Travel Destination?](https://cointelegraph.com/news/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination)
+[Original source](https://cointelegraph.com/news/from-malta-to-prague-what-is-the-most-crypto-friendly-travel-destination)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

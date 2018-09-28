@@ -1,5 +1,7 @@
 # 카타르에서 팔레스타인에: 어떻게 가상 화폐는 중동에서 규제 하는 ...
 
+###### 2018-09-09
+
 그러나, 9 월에, ablahussain mirza, 바레인의 전기와 물 사변의 성직자는, 기술을 지 원하는 정부의 투입을 확인 했다: "블록 체인과 같은 기술은 우리에 게 안전한 방법을 찾아내기에서 앞으로 거 대 한 단계를가지고가 거래를 촉진 ... 사용자의 데이터를 보호 하는 블록 체인의 능력은 특히 사이버 보안을 포함 한 다양 한 업종의 다른 회사에서 적용 될 수 있다는 사실 때문에 진행의 진정한 표시입니다. "
 
 # # 터키 암호 화폐 법적 프레임 워크: 국가 수준에서 블록 체인을 탐험 계획의 지: 예 규정 암호 화폐는 터키에서 인기 있는 것으로 나타납니다: 최근 ING 은행 보고서에 따르면, 터키 국민의 18%가 자신의 화폐는 미국에서 8%와 비교 했습니다.
@@ -14,6 +16,6 @@
 
 비자와 마스터 카드는 국가에서 작동 하지 않기 때문에, 그리고 현지 통화-리알-높은 인플레이션 속도 때문에 급락, 비트 코인은 지역의 인기를 얻고 있다: 5 월, 로컬 미디어는 $25억 이상 가상을 구입 하는 발송 했다 보고 이란의 통화.
 
-Original source: [From Qatar to Palestine: How Cryptocurrencies Are Regulated in the Middle East](https://cointelegraph.com/news/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east)
+[Original source](https://cointelegraph.com/news/from-qatar-to-palestine-how-cryptocurrencies-are-regulated-in-the-middle-east)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 갤럭시 디지털 CEO 마이크 novogratz는 암호화 가격 바닥을 호출 ...
 
+###### 2018-09-13
+
 마이크 novogratz는, 암호화 투자 회사인 갤럭시 디지털 캐피탈 매니지먼트의 창립자 겸 CEO로, 암호 화폐 가격이 오늘 9 월 13 일 트 윗에 바닥을 맞 았 다 고 말했습니다.
 
 novogrvz는 또한 미국 달러로 거래 되는 가장 큰 가상 화폐의 성능을 측정 하도록 설계 된 블룸버그 Galaxy crypto Index (bgci)가 "작년 말의 최고치와 대규모 랠리/버블. "
@@ -14,6 +16,6 @@ novogrvz는 또한 미국 달러로 거래 되는 가장 큰 가상 화폐의 �
 
 3 월 31 일 현재, 갤럭시 디지털 했다 $2억8170만 자산에, 그 중 $2억2580만 디지털 자산과 투자 했다.
 
-Original source: [Galaxy Digital CEO Mike Novogratz Calls Crypto Price Bottom](https://cointelegraph.com/news/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom)
+[Original source](https://cointelegraph.com/news/galaxy-digital-ceo-mike-novogratz-calls-crypto-price-bottom)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

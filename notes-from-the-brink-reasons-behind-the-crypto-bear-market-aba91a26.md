@@ -1,5 +1,7 @@
 위기에서 # 노트: 암호화 곰 시장의 뒤에 이유 ...
 
+###### 2018-08-16
+
 두 자릿수 손실이 많은 하이 프로 파일 암호에 위력을 wreaked 주 후, 비트 코인 (BTC) 순간적으로 $6000 지원을 통해 떨어졌다, pitless 약 세 감정은 돌고 있다, 일부는 "전시 되는 최고 동전을 고발" 영구적으로 게임 오버 "시장에도 장애가 있습니다.
 
 가상의 CEO 찰스 hayter는 어제의 시장 하락은 9 월까지 비트 코인 거래소 거래 펀드 (ETF)에 대 한 높은 프로필 응용 프로그램을 보류 하는 미국의 규제 당국의 최근 결정의 뒷면에 떨어져 총알 이었다는 것을 제안 했다.
@@ -14,6 +16,6 @@ e 토로 애 널 리스트 매튜 뉴턴은 영국 신문에 게 독립을 말�
 
 이 더 리 움의 지배력이 이제 8 월 14 일 13.5%로 낮게 찍기 때문에 티모시 Tam은 "시장에서 가장 큰 이야기 \ [이번 주 \\]가이 더 리 움의 커다란 약점" 이라고 강조 하 고 "비트 코인이 상대적으로 잘 대이 더 리 움, "그것은 달러에 대 한 차트에 덴트를 본 것 처럼.
 
-Original source: [Notes From the Brink: Reasons Behind the Crypto Bear Market](https://cointelegraph.com/news/notes-from-the-brink-reasons-behind-the-crypto-bear-market)
+[Original source](https://cointelegraph.com/news/notes-from-the-brink-reasons-behind-the-crypto-bear-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # OECD는 공공 영역에서 블록 체인에 전념 ' 최초의 주요 국제 회의 ' 발표 ...
 
+###### 2018-08-30
+
 경제 협력 개발 기구 (oecd)는 공식적으로 경제 개발 협력 기구 웹사이트 8 월 28 일에 방출에 있는 블록 체인 정책 공개 토론을 알렸다.
 
 경제 개발 협력 기구는 사건이 파리 9 월 4-5 일에서 보전 될 것 이라는 점을 진술 하 고 블록 체인 기술에 전념 한 그것의 종류의 첫번째 중요 한 국제적인 사건을 표시할 것 이다.
@@ -14,6 +16,6 @@ hyperledger, 리플, iota 및 기타 블록 체인 회사의 경영진은 또한
 
 올해 3 월, 암호 화폐와 블록 체인 규제가 아르헨티나의 G20 정상회의에서 논의 주제를 형성 했습니다.
 
-Original source: [OECD Announces ‘First Major International Conference’ Dedicated to Blockchain in Public Sphere](https://cointelegraph.com/news/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere)
+[Original source](https://cointelegraph.com/news/oecd-announces-first-major-international-conference-dedicated-to-blockchain-in-public-sphere)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

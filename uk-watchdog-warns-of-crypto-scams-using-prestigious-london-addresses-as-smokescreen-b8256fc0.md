@@ -1,5 +1,7 @@
 # 영국 워치 독은 smokescreen로 ' 권위 있는 ' 런던 주소를 사용 하 여 암호화 사기의 경고 ...
 
+###### 2018-08-17
+
 영국의 금융 행위 당국 (FCA)은 암호화 투자 사기가 점점 영국 투자자를 대상으로 하 고 있으며, 8 월 17 일에 공식 경고를 발표 했다.
 
 그것은 추가 한다: "사기 상사는 가격과 투자 반환을 왜곡 하기 위하여 소프트웨어를 교묘히 다룰 수 있다.
@@ -14,6 +16,6 @@ FCA는 가상 화폐 자체가 현재 기관에 의해 규제 되지 않는다�
 
 바로 지난주, 영국 경찰은 사기 암호화 투자 계획을 통해 영국 국민에 게 자신의 경고를 발행, 액션 사기 국립 보고 센터에서 통계 후 영국 희생자는 $250만의 암호화-사기 관련 손실을 보고 한 것으로 나타났다 6 월과 7 월 2018 혼자.
 
-Original source: [UK Watchdog Warns of Crypto Scams Using ‘Prestigious’ London Addresses as Smokescreen](https://cointelegraph.com/news/uk-watchdog-warns-of-crypto-scams-using-prestigious-london-addresses-as-smokescreen)
+[Original source](https://cointelegraph.com/news/uk-watchdog-warns-of-crypto-scams-using-prestigious-london-addresses-as-smokescreen)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

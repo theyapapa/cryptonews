@@ -1,5 +1,7 @@
 # 필리핀 최종 ICO 규정, 2 주 이내에 초안 암호화 교환 규칙을 게시 하려면 ...
 
+###### 2018-09-04
+
 필리핀 규제 당국은 이달 중순에 의해 초안 암호 화폐 규제를 공개 계획, 마닐라 타임스는 로컬 미디어 아울렛 월요일, 9 월 3 일 보도 했다.
 
 ephyro 루이스 amamong, 국가의 증권 거래 위원회 (SEC) 기자 들에 게 말하기의 회장을 인용해, 마닐라 타임스는 가상 화폐 거래소는 곧 전통적인 "무역 플랫폼으로 간주 될 수 확인 했다."
@@ -14,6 +16,6 @@ ephyro 루이스 amamong, 국가의 증권 거래 위원회 (SEC) 기자 들에 
 
 이러한 접근 방식은 올해 1 월에 심각한 해킹의 반복을 피하기 위해 규제 교류에 대 한 요구 사항을 강화 하기 위해 계속 일본에서 찍은 것을 연상 시킨다.
 
-Original source: [Philippines to Publish Final ICO Regulation, Draft Crypto Exchange Rules Within Two Weeks](https://cointelegraph.com/news/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks)
+[Original source](https://cointelegraph.com/news/philippines-to-publish-final-ico-regulation-draft-crypto-exchange-rules-within-two-weeks)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

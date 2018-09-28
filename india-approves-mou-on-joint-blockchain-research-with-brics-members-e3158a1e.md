@@ -1,5 +1,7 @@
 # 인도는 브릭스 회원 들과 공동 블록 체인 연구에 대 한 MOU를 승인 ...
 
+###### 2018-09-12
+
 인도의 노조 각료는 분산 원장 기술 (DLT)의 공동 연구에 대 한 양해 각 서 (mou)를 승인 하였으며, 지역 뉴스 아울렛 애니는 9 월 12 일 보도 했다.
 
 브릭스 은행간 협력 메커니즘에 따른 협동 이니셔티브 인 MOU는 DLT에 대 한 이해를 높이고 운영 효율성을 개선 하기 위해 기술을 배포할 수 있는 영역을 정의 하는 것을 목표로 합니다.
@@ -14,6 +16,6 @@ MOU는 당초 7 월 요하네스 버그에서 열린 제 10 회 국제 브릭스
 
 그 달, telangana의 인도 국가는 또한 결국 정부 서비스를 합리화 하기 위하여 국가 신청에 있는 기술을 실행 하기 위하여 블록 체인 회사와 mous를 서명 했다.
 
-Original source: [India Approves MOU on Joint Blockchain Research with BRICS Members](https://cointelegraph.com/news/india-approves-mou-on-joint-blockchain-research-with-brics-members)
+[Original source](https://cointelegraph.com/news/india-approves-mou-on-joint-blockchain-research-with-brics-members)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

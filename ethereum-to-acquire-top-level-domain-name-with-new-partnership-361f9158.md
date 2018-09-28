@@ -1,5 +1,7 @@
 # 새로운 파트너십과 최상위 도메인 이름을 취득 하는 테 리 움 ...
 
+###### 2018-08-03
+
 에 테 리 움은 엔드-투-엔드 도메인 서비스 마인드 + 머신 그룹 제한 (MMX)의 공급자와 계약을 체결 하 여 8 월 3 일 보도 자료에 따르면이 더 리 움 이름 서비스 (ENS)가 최상위 도메인 이름을 얻을 수 있게 합니다.
 
 계약에 따라, ethereum의 (ETH) 소비자는 MMX의 최상위 도메인에 자신의 주소를 등록할 수 있습니다.
@@ -14,6 +16,6 @@ eth zone은 블록 체인으로 활성화 된 단어 기반 식별자에 대 한
 
 기본적으로 ENS는 가상 화폐 대량 도입을 향한이 더 리 움의 첫 걸음으로 읽을 수 있는 ETH 주소를 대 중에 게 제공 했습니다.
 
-Original source: [Ethereum to Acquire Top-Level Domain Name With New Partnership](https://cointelegraph.com/news/ethereum-to-acquire-top-level-domain-name-with-new-partnership)
+[Original source](https://cointelegraph.com/news/ethereum-to-acquire-top-level-domain-name-with-new-partnership)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

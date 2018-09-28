@@ -1,5 +1,7 @@
 # 에너지 회사 engie 파트너는 블록 체인 소프트웨어를 제공 하는 컨설팅 회사와 ...
 
+###### 2018-09-07
+
 프랑스 전기 유틸리티 회사 engie 및 컨설팅 회사인 maltem 컨설팅 그룹은 9 월 7 일 발표 된 보도 자료에 따라 상용 고객을 위해 설계 된 블록 체인 개발 회사를 공동으로 설립 했습니다.
 
 블록 체인 스튜디오 라는 새로운 프로젝트는 총 €190만 (약 $210만) 종자 자금을 받았습니다.
@@ -14,6 +16,6 @@
 
 engie는 이전에 에너지 비즈니스에서 블록 체인 애플리케이션을 탐색 했습니다.
 
-Original source: [Energy Firm ENGIE Partners With Consulting Firm to Create Blockchain Software Offering](https://cointelegraph.com/news/energy-firm-engie-partners-with-consulting-firm-to-create-blockchain-software-offering)
+[Original source](https://cointelegraph.com/news/energy-firm-engie-partners-with-consulting-firm-to-create-blockchain-software-offering)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

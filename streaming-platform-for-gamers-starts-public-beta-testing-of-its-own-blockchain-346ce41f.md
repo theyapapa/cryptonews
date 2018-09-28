@@ -1,5 +1,7 @@
 # 게이머를 위한 스트리밍 플랫폼은 자체 블록 체인의 공개 베타 테스트를 시작 합니다 ...
 
+###### 2018-09-20
+
 9 월 19 일, 게이머와 e 스포츠 팬 들을 위한 Play2Live 스트리밍 플랫폼은 일반 대 중에 게 블록 체인 스트리밍 플랫폼의 오픈 베타 테스트의 출시를 공식적으로 발표 했습니다.
 
 새로운 블록 체인 플랫폼은 참가자가 깃발, 시청자 및 e 스포츠 토너먼트 주최자와 관련 된 수익 창출 체계를 활용할 수 있도록 하는 것을 목표로 합니다.
@@ -14,6 +16,6 @@ Play2Live의 제작자는 스 트리머에서 뷰어로 콘텐츠 전달을 가�
 
 "따라서, Play2Live는 사용자에 게 정보 보호를 제공 하 고 그들의 식별의 안전을 보장 하기 위해 컴팩트 한 장치를 사용 하는 세계 최초의 플랫폼이 될 것" arbatov 댓글을 달았습니다.
 
-Original source: [Streaming Platform for Gamers Starts Public Beta Testing of Its Own Blockchain](https://cointelegraph.com/news/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain)
+[Original source](https://cointelegraph.com/news/streaming-platform-for-gamers-starts-public-beta-testing-of-its-own-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

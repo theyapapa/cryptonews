@@ -1,5 +1,7 @@
 # 아이슬란드의 산업은 암호화 채굴에서 ' 순수한 블록 체인 사업 '으로 전환 하는 것을 말합니다.
 
+###### 2018-09-23
+
 아이슬란드의 암호화 산업은 암호화 채굴에서 벗어나 "순수한 블록 체인 기업"으로 전환 될 것으로 예상 됩니다.
 
 레이캬비크 기반 보 레알 리스 데이터 센터 회장 이었던 halldór jörgensson은 레드 헤링에 게 지역 암호 및 블록 체인 시설의 수요가 Bitcoin 채굴에 주력 하는 것이 아니라 "순수한 블록 체인 사업을 향해 더 많이 이동" 하 고 있다고 말했습니다.
@@ -14,6 +16,6 @@ HS orka CEO 인 asgeir Margeirsson는 7 월에 암호화 채굴 산업이 "제 4
 
 이번 주 초, 블록 체인 기술 그룹 bitfury는 캐나다, 노르웨이, 아이슬란드 및 조지아의 광업 센터에서 새로운 기계를 사용할 계획으로 새로운 세대 BTC 채굴 하드웨어의 출시를 발표 했습니다.
 
-Original source: [Iceland’s Industry to Shift From Crypto Mining to ‘Pure Blockchain Business,’ Insiders Say](https://cointelegraph.com/news/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say)
+[Original source](https://cointelegraph.com/news/icelands-industry-to-shift-from-crypto-mining-to-pure-blockchain-business-insiders-say)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

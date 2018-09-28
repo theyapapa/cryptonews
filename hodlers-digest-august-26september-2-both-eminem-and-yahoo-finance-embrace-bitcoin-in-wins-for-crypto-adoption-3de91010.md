@@ -1,5 +1,7 @@
 # hodler의 다이제스트, 8 월 26 일 – 9 월 2: 에미넴과 야 후 금융 모두 암호 채택에 대 한 승리에 비트 코인을 포용 ...
 
+###### 2018-09-02
+
 jpmorgan CIO는 블록 체인이 "기존 기술을 대체" 한다고 생각 합니다. jp 모건의 최고 정보 책임자 인로 리 맥주는 블록 체인 기술이 결국 몇 년 동안 현재 기술을 대체할 것 이라고 믿고 있습니다.
 
 아르헨티나 언론 소식통에 따르면, 맥주는 jpmorgan이 블록 체인 기술을 사용 하 여 "지불 프로세스를 단순화 하 고 kyc (고객의 고객과 관련 된 고객의 정보) 정책을 저장 하는 것" 이라고 지적 했다.
@@ -16,6 +18,6 @@ ibm은 호주 컨소시엄과 협력 하 여 블록 체인 플랫폼 ibm, csiro�
 
 # # 자금 조달 라운드 stadcoin 테라 닫힙니다 $3200만 자금 라운드 binance 연구소와 함께, huobi 자본 한국 전자 상거래 마켓 플레이스 티켓 몬스터를 만들 수 있는 목표와 함께, 그것의 stadcoin 테라에 대 한 $3200만 자금 조달 라운드를 폐쇄 했다 이번 주 발표 사내 암호 화폐는 기존 토큰 루나를 보완 합니다.
 
-Original source: [Hodler’s Digest, August 26–September 2: Both Eminem and Yahoo Finance Embrace Bitcoin in Wins for Crypto Adoption](https://cointelegraph.com/news/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption)
+[Original source](https://cointelegraph.com/news/hodlers-digest-august-26september-2-both-eminem-and-yahoo-finance-embrace-bitcoin-in-wins-for-crypto-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

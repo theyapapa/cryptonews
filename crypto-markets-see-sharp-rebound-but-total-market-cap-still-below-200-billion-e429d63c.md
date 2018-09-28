@@ -1,5 +1,7 @@
 # 암호화 시장, 하지만 여전히 아래의 총 시장 총액 $2000억 날카로운 리바운드를 참조 하십시오 ...
 
+###### 2018-09-09
+
 9 월 9 일 일요일: 이번 주 시장 추락 이후 유혈 사태에이은, 비트 코인의 (BTC) 가격이 오늘 급격히 급증 했다.
 
 Coin360에서 시장 시각화 비트 코인 (BTC) 시간을 눌러 다시 시간에 떨어지기 전에, 몇 시간 동안 $6400 마르크 바로 아래 옆으로 무역 진행, 오늘 한 시간 미만 3% 이상 뛰어 내렸습니다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC) 시간을 눌러 다시 시�
 
 coinmarketcap의 모든 가상 화폐의 총 시가 총액의 7 일 차트 블룸버그 9 월 8 일 인터뷰에서,이 더 리 움 (ETH) 공동 설립자 vitalik buterin 그는 암호화 공간에서 폭발적인 성장은 "근접 타격을 받고 있다고 말했다 "이제 암호화 및 블록 체인 인식을 높이는 초기 작업이 크게 완료 되었습니다."이 시점에서 평균 교육을 받은 사람에 게 이야기 한다면, 그들은 블록 체인에 대해 적어도 한 번은 들었을 것입니다.
 
-Original source: [Crypto Markets See Sharp Rebound, but Total Market Cap Still Below $200 Billion](https://cointelegraph.com/news/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-sharp-rebound-but-total-market-cap-still-below-200-billion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

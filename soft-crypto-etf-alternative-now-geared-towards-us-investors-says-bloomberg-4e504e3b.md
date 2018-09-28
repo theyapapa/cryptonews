@@ -1,5 +1,7 @@
 # ' 소프트 ' 암호화 ETF 대안 지금 미국 투자자에 대 한 기어 드, 블룸버그 말한다 ...
 
+###### 2018-08-16
+
 비트 코인 (BTC) 기반 거래소 상장 (etn) 나스닥 스톡홀름 거래소에 상장 지금은 미국 투자자를 대상으로 하 고, 블룸버그는 수요일, 8 월 15 일 보도 했다.
 
 미국 시끄럽게에 많은로 서,이 소위 "소프트" 대안은 2015 이후 스웨덴 거래소에서 거래 되었습니다 비트 코인 거래소 상장 펀드 (ETF) 규제에 의해 승인 볼 수 있지만 지금은 달러로 시세 cxbtf 아래에 인용 되고있다 수요일.
@@ -14,6 +16,6 @@ cointelegraph가 보고 된 바와 같이, 미국 레 귤 레이 터가 여러 �
 
 승인 되 면, 의견은 암호화 공간에 대 한 미래의 영향으로 나누어집니다.
 
-Original source: [‘Soft’ Crypto ETF Alternative Now Geared Towards U.S. Investors, Says Bloomberg](https://cointelegraph.com/news/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg)
+[Original source](https://cointelegraph.com/news/soft-crypto-etf-alternative-now-geared-towards-us-investors-says-bloomberg)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

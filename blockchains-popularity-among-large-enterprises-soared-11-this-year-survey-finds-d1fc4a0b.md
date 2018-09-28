@@ -1,5 +1,7 @@
 # 대기업 중 블록 체인의 인기는 올해 11%를 치 솟 고, 설문 조사 발견 ...
 
+###### 2018-09-14
+
 핀 테크 분석가의 새로운 연구 주 니 퍼 하우스는 9 월 11 일 발표 된 보도 자료에 따르면 대기업의 블록 체인이 올해 11% 증가 한 것으로 나타났습니다.
 
 주 니 퍼의 블록 체인 엔터프라이즈 설문 조사: 배포, 혜택 & 태도 (제 2 판)는 65%의 대규모 기업 들이 최소 1만의 직원을 고용 하는 사람으로 정의 된다는 것을 발견 했습니다. 블록 체인에서 "고려 중이거나 적극적으로 참여" 해당 54% 수치에서 지난해 11%까지 배포 합니다.
@@ -14,6 +16,6 @@
 
 "빅 네" 감사자 딜로 이트의 주요 최근 조사에 따르면, 레거시 제약이 있는 블록 체인 솔루션을 구현 하는 데 직면 한 기업 들 중에서, 설문 조사에 대 한 모든 응답자의 74%가 "경쟁력 있는 비즈니스" 라고 믿고 있습니다. 사례 "를 배포 합니다.
 
-Original source: [Blockchain’s Popularity Among Large Enterprises Soared 11% This Year, Survey Finds](https://cointelegraph.com/news/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds)
+[Original source](https://cointelegraph.com/news/blockchains-popularity-among-large-enterprises-soared-11-this-year-survey-finds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

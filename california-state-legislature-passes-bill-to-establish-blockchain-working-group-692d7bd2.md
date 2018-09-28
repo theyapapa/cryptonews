@@ -1,5 +1,7 @@
 # 캘리포니아 주 입법부는 블록 체인 작업 그룹을 설정 하는 법안을 통과 ...
 
+###### 2018-08-29
+
 캘리포니아의 AB 2658, 블록 체인 기술에 대 한 실무 그룹의 설립을 요구 하는 법안은, 주 입법부의 두 주택을 통과 하 고 지금은 승인을 위해 주지사에 머리 것입니다, 공공 문서에 따르면.
 
 이 법안은 블록 체인을 "수학적으로 안전 하 고, 연대기 적 이며, 분권 화 된 장부 또는 데이타 베이스"로 정의 하 고, 정부 운영 기구의 장관이 7 월 1 일 2019에 블록 체인 실무 그룹을 형성 하도록 요구 합니다.
@@ -14,6 +16,6 @@
 
 5 월, 뉴욕 주 의회는 블록 체인 태스크 포스를 만들기 위해 비슷한 법안을 진행 했습니다.
 
-Original source: [California State Legislature Passes Bill to Establish Blockchain Working Group](https://cointelegraph.com/news/california-state-legislature-passes-bill-to-establish-blockchain-working-group)
+[Original source](https://cointelegraph.com/news/california-state-legislature-passes-bill-to-establish-blockchain-working-group)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

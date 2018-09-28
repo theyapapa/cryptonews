@@ -1,5 +1,7 @@
 # 보고서: 벨기에 생각 탱크는 유럽 수준에서 암호 교환 및 ICO 규정에 대 한 호출 ...
 
+###### 2018-09-05
+
 유럽 연합 (eu) 장관에 게 분배 될 벨기에 생각 탱크에서 보고는 암호 화폐에 통일 한 입법 및 투자자에 게 배 부하는 방법에 대 한 면밀 한 조사를 요구 한다, 로이터는 9 월 5 일을 보고 했다.
 
 이 보고서는 표면적으로 브뤼셀 기반의 탱크 bruegel 생각에 의해 발표, 앞서 경제 및 금융 업무 장관의 비공식 회의의 암호 화폐 투자와 디지털 경제의 과세에 e. u .에서 온다.
@@ -14,6 +16,6 @@ brinegel는 규제 당국이 더 많은 laissez 시 방 규정으로 관할 지�
 
 8 월 30 일에, bloomberg는 eu 성직자가 디지털 자산에 의해 제기 된 도전을 곧 나오는 회의에 규정 강화의 가능성을 토론 하는 것을 계획 했다는 것을 보고 했다.
 
-Original source: [Report: Belgian Think Tank Calls for Crypto Exchange and ICO Regulations at EU Level](https://cointelegraph.com/news/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level)
+[Original source](https://cointelegraph.com/news/report-belgian-think-tank-calls-for-crypto-exchange-and-ico-regulations-at-eu-level)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

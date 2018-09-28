@@ -1,5 +1,7 @@
 # 태국 경찰 체포 용의자 $2400만 비트 코인 사기 ...
 
+###### 2018-08-09
+
 태국 경찰은 혐의 $2400만 암호 화폐 사기에 27 세의 배우 jjiatpisit "붐" jaravijit 억류, 방콕 포스트는 8 월 9 일 보도 했다.
 
 사이버 범죄자 혐의는 가상 화폐 드래곤 코인에 투자 한 회사에서 주식을 매입 하겠다고 약속 했다.
@@ -14,6 +16,6 @@
 
 $25000의 가격으로, 범죄자는 emv 및 근거리 통신 (NFC) 기능이 있는 즉시 사용 가능한 카드와 함께 비트 코인 ATM 악성 코드를 구입할 수 있습니다.
 
-Original source: [Thai Police Arrest Suspect in $24 Million Bitcoin Scam](https://cointelegraph.com/news/thai-police-arrest-suspect-in-24-million-bitcoin-scam)
+[Original source](https://cointelegraph.com/news/thai-police-arrest-suspect-in-24-million-bitcoin-scam)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

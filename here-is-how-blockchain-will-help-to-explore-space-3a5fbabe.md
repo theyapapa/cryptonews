@@ -1,5 +1,7 @@
 # 여기 블록 체인이 공간을 탐험 하는 데 도움이 됩니다 방법입니다 ...
 
+###### 2018-08-06
+
 빅 플레이어는 우주 탐사를 위해 블록 체인을 채택 하 고 있습니다: 미국 항공 우주 행정 (NASA)과 유럽 우주국 (ESA)과 같은 우주 거 인 들은 블록 체인을 자신의 사명으로 채택 하는 방법을 연구 하 고 있습니다.
 
 kosis가 설명 하는 것 처럼, rncp는 까다로운 공간 조건에 적용 될 수 있는 보안 컴퓨팅 시스템을 개발 하는 데이 더 리 움 기반 블록 체인 스마트 계약의 적용을 검토할 것입니다. "이 프로젝트에서이 더 리 움 블록 체인 기술은 심층 탐사를 위해 분산 되 고, 안전 하며, 인지 네트워킹 및 컴퓨팅 인프라를 개발 하는 데 악용 될 수 있습니다.
@@ -14,6 +16,6 @@ kosis가 설명 하는 것 처럼, rncp는 까다로운 공간 조건에 적용 
 
 공간 기반 블록 체인을 실행 하기 위해, 블록 스트림 위성은 오픈 소스 기술에 의존 했다: 그 보도 자료는 GNU 라디오와 빠른 인터넷 비트 코인 릴레이 엔진 (파이버)을 통합 기술로 서 인용, FAQ는 elaborates 동안: "누구나 신호를 받을 수 있습니다 작은 위성 접시 (소비자 위성 텔레비젼 접시와 유사한)와 USB SDR (소프트웨어 정의 라디오) 인터페이스 \ [... \] 사용자의 총 장비 비용은 약 $100입니다.
 
-Original source: [Here Is How Blockchain Will Help to Explore Space](https://cointelegraph.com/news/here-is-how-blockchain-will-help-to-explore-space)
+[Original source](https://cointelegraph.com/news/here-is-how-blockchain-will-help-to-explore-space)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

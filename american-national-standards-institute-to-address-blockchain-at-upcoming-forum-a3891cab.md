@@ -1,5 +1,7 @@
 # 미국 국립 표준 연구소는 곧 포럼에서 블록 체인을 해결 하기 위해 ...
 
+###### 2018-09-17
+
 미국 국립 표준 협회 (ANSI)는 9 월 17 일 공표 된 발표에 따라 블록 체인 및 인공 지능 (AI) 문제를 다음 법적 문제 및 공동 회원 포럼에서 논의할 것입니다.
 
 이 연구소는 표준을 개발 하지 않지만, 미국의 자발적인 기준과 적합성 평가 시스템을 관리 하 고 조정 합니다.
@@ -14,6 +16,6 @@
 
 보고서에 따라, 환경 보호를 위한 블록 체인 애플리케이션을 도입 하는 데 있어 중요 한 다음 단계는 별도의 특정 프로젝트에 자금을 조달 하는 것과는 대조적으로 "책임"과 "글로벌" 블록 체인 생태계를 구축 하는 것입니다.
 
-Original source: [American National Standards Institute to Address Blockchain at Upcoming Forum](https://cointelegraph.com/news/american-national-standards-institute-to-address-blockchain-at-upcoming-forum)
+[Original source](https://cointelegraph.com/news/american-national-standards-institute-to-address-blockchain-at-upcoming-forum)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

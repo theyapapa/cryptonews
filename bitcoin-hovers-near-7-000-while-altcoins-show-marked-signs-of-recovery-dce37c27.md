@@ -1,5 +1,7 @@
 # 비트 코인은 $7000 근처에 있으며, 알트 코인은 회복의 흔적을 표시 합니다 ...
 
+###### 2018-08-05
+
 Coin360 비트 코인 (BTC)의 시장 시각화는 7 월 17 일부 터 볼 수 없는 가격대로 어제 다시 급속 한 공중 제비 후 하루에 지상을 들고, 시간을 언론에 $7040 주위에 거래입니다.
 
 출처: codeelegraph 비트 코인 가격 지 수이 더 리 움 (ETH)은 약간 더 중요 한 일일 이득을 보고 있다, 최대 1-2% 언론 시간에 $412 주위에 무역.
@@ -14,6 +16,6 @@ iota (miota)는 압박 시간에 $0.91의 주위에 무역 하는 단단한 7.21
 
 coinmarketcap에서 모든 가상 화폐의 총 시장 자본 화에 대 한 1 개월 차트 시장은 금요일 폭락으로 서, 주의 주요 뉴스는 낙관적인 계시로 남아 대륙간 교환 (ICE는)-23 선도적인 글로벌 교류의 운영자 뉴욕 증권 거래소 (nyse)를 포함 하 여-연방 정부가 규제 하는 시장과 가맹점 및 소비자 요구에 대 한 웨어하우징 등의 범위를 포괄 하는 디지털 자산을 위한 Microsoft 클라우드 기반 에코 시스템을 만들 계획입니다.
 
-Original source: [Bitcoin Hovers Near $7,000, While Altcoins Show Marked Signs of Recovery](https://cointelegraph.com/news/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery)
+[Original source](https://cointelegraph.com/news/bitcoin-hovers-near-7-000-while-altcoins-show-marked-signs-of-recovery)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

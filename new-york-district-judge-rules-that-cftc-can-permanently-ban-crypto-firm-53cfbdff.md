@@ -1,5 +1,7 @@
 # 뉴욕 지구 판사 규칙 cftc 영구적으로 암호 회사를 금지 할 수 있습니다 ...
 
+###### 2018-08-24
+
 미국 상품 선물 거래 위원회 (cftc)는 영구적으로 뉴욕의 운영자를 바에 법원 명령을 수상 하였으며-기반 회사 cabbagetech 공사 암호 화폐 관련 "대담 하 고 악순환의 사기," 블룸버그는 8 월 24 일 보도 했다.
 
 올해 초, 패트릭 맥 맥 더, cabbagetech 사의 암호 화폐 발기인 및 운영자, "비트 코인 (BTC) 및 라이트 코인 (LTC)의 구매 및 거래와 관련 하 여 사기와 남용 혐의로 기소 되었다."
@@ -14,6 +16,6 @@ cftc는 소송에서 주장 하는 고객은 맥 그 라와 암호 거래 조언
 
 소송은 또한 동전 하락이 cftc에 등록 되지 않았다는 것을 주의 한다.
 
-Original source: [New York District Judge Rules That CFTC Can Permanently Ban Crypto Firm](https://cointelegraph.com/news/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm)
+[Original source](https://cointelegraph.com/news/new-york-district-judge-rules-that-cftc-can-permanently-ban-crypto-firm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

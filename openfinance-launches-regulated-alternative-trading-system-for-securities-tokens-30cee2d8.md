@@ -1,5 +1,7 @@
 # openfinance 증권 토큰에 대 한 규제 대체 무역 시스템 출시 ...
 
+###### 2018-08-29
+
 보안 토큰 거래 플랫폼인 openfinance는 cointelegraph 8 월 29 일에 공유 된 정보에 따라 보안 토큰에 대 한 규제 대체 거래 시스템 (ATS)을 출시 했습니다.
 
 이메일, 후안 에르난데스, 미국에서 CEO-openfinance 기반으로, cointelegraph에 그 회사는 공식 보도 자료는 나중에 회사의 중간 계정에 나타납니다 지적 거래 시스템을 만들었습니다 확인 했다.
@@ -14,6 +16,6 @@ huobi의 전략적 투자에 관해서는, 에르난데스는 말했다: "우리
 
 7 월 16 일, 선도적인 미국 암호 화폐 거래소 및 지갑 서비스 코인 베이스는 미국 증권 거래 위원회 (SEC)와 금융 산업 규제 당국 (finra)에서 디지털 동전을 고려 하 여 목록 승인을 받았다는 것을 발표 했습니다. 증권 수 있습니다.
 
-Original source: [OpenFinance Launches Regulated Alternative Trading System for Securities Tokens](https://cointelegraph.com/news/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens)
+[Original source](https://cointelegraph.com/news/openfinance-launches-regulated-alternative-trading-system-for-securities-tokens)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

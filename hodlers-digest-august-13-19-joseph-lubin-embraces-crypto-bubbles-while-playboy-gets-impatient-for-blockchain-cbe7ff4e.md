@@ -1,5 +1,7 @@
 # hodler의 다이제스트, 8 월 13-19: 플레이보이 블록 체인에 대 한 참을성이 도착 하는 동안 조셉 루 빈은 암호화 거품을 포용 ... # # 가장 기억에 남는 인용문 "우리는 6 개의 큰 거품, 이전 보다 각각 더 서사시를 본 적이 있고, 각 거품이 놀라운 때 그들이 있어 일 이지만, 다시 보면 그들은 차트에 여드름 처럼 보이는 "— 요셉 루 빈,이 더 리 움의 공동 설립자, ConsenSys" 어떤 AT&T은 합법적인 소유자 로부터 금고에 보석을 훔치는 방 열쇠와 방에 열쇠가 가짜 ID로 도둑을 주는 호텔 같 았 어 요 , "-투자자 마이클 terpin에 의해 AT&T에 대 한 소송, 누가 통신 거 대 한 그의 전화에 해커를 허용 주장 # # 법률과 세금 유럽 의회는 icos를 포함 하는 크 라우드 펀 딩 규정에 대 한 유럽 의회 위원회 경제 및 금융 업무는 일부 초기 코인 오퍼링 (ico)으로 확장 될 수 있는 새로운 크 라우드 펀 딩 규정을 개발 하 고 있으며,이는 크 라우드 펀 딩을 위한 새로운 규제 프레임 워크의 송금으로 일부 ico를 가져올 가능성이 있습니다.
 
+###### 2018-08-19
+
 # # 입양 스웨덴어 암호화 ETF "대안" 지금 미국 투자자를 대상으로 비트 코인 (BTC)-기반 거래소 상장 참고 (etn) 나스닥 스톡홀름 거래소에 상장 지금은 이번 주에 미국 투자자를 대상으로 하고있다.
 
 미국 광장 현금 응용 프로그램은 모든 50 국가에 암호화 거래를 확장 모바일 결제 회사 광장의 현금 응용 프로그램은 모든 50 미국 주에 비트 코인 (BTC) 거래를 확장 했다.
@@ -12,6 +14,6 @@
 
 # # fud 주 미국 레 귤 레이 터는 암호화 마이닝 회사 블록 체인 폭동으로 감시를 증가 미국 증권 거래 위원회 (SEC)는 암호화 마이닝 회사 블록 체인 폭동으로 자사의 프로브를 강화 했다, 포함 하는 이름을 변경 전 생명 공학 회사 지난해 단어 "블록 체인".
 
-Original source: [Hodler’s Digest, August 13-19: Joseph Lubin Embraces Crypto Bubbles, While Playboy Gets Impatient for Blockchain](https://cointelegraph.com/news/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain)
+[Original source](https://cointelegraph.com/news/hodlers-digest-august-13-19-joseph-lubin-embraces-crypto-bubbles-while-playboy-gets-impatient-for-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

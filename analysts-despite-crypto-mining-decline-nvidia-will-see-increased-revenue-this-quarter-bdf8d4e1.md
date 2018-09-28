@@ -1,5 +1,7 @@
 # 분석가: 암호화 마이닝 감소에도 불구 하 고, 엔비디아 증가 수익을 볼 것 이다이 분기 ...
 
+###### 2018-08-10
+
 facset에 의해 폴링된 분석가 들은 Nvidia가 "말기" 암호 화폐 채굴에도 불구 하 고 이번 분기 매출 증가를 볼 것을 제안 marketwatch 8 월 10 일 보도 했다.
 
 분석가는 암호화 마이닝 하드웨어에서 회사의 수익이 감소할 것을 제안 하지만, 미국 기반의 그래픽 처리 장치 (GPU) 제조업체는 게임 및 서버 판매에서 상당한 성장을 볼 수 있습니다.
@@ -14,6 +16,6 @@ facset에 의해 폴링된 분석가 들은 Nvidia가 "말기" 암호 화폐 채
 
 엔비디아의 주요 경쟁자 고급 마이크로 장치 (AMD) 4 월에는 회사의 수익의 10% 분기 동안 블록 체인 또는 마이닝에 기인 했다 발표, 회사의 CEO 리사 Su는 블록 체인은 "짧은에 산만의 비트 라고 하지만 용어입니다. "
 
-Original source: [Analysts: Despite Crypto Mining Decline, Nvidia Will See Increased Revenue This Quarter](https://cointelegraph.com/news/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter)
+[Original source](https://cointelegraph.com/news/analysts-despite-crypto-mining-decline-nvidia-will-see-increased-revenue-this-quarter)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 일본의 도시 쓰쿠바 시험 블록 체인 기반 투표 시스템 ...
 
+###### 2018-09-03
+
 도쿄 북쪽의 츠 쿠바 시는 최근 블록 체인 기술에 기초한 투표 시스템을 테스트 하였으며, 일본 타임즈는 9 월 2 일 (일요일)에 쓴 지역 신문입니다.
 
 일본 시대가 "과학 연구 센터"로 묘사 된이 도시는 8 월 하순에 투표 재판을 실시 했다.
@@ -14,6 +16,6 @@
 
 이후 미국에서 해외로 복무 하는 미군 들은 블록 체인 기술을 기반으로 한 스마트폰 앱을 사용 하 여 11 월 웨스트 버지니아 주에서 연방 선거 투표에 참여 했다.
 
-Original source: [Japanese City Tsukuba Trials Blockchain-Based Voting System](https://cointelegraph.com/news/japanese-city-tsukuba-trials-blockchain-based-voting-system)
+[Original source](https://cointelegraph.com/news/japanese-city-tsukuba-trials-blockchain-based-voting-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

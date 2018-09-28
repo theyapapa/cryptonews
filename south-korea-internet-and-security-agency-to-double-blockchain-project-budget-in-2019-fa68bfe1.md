@@ -1,5 +1,7 @@
 # 한국 인터넷 및 보안 기관은 2019에서 블록 체인 프로젝트 예산을 두 배로 ...
 
+###### 2018-09-04
+
 한국 과학 ICT의 하위 기관인 대한민국 인터넷 진흥원 (kisa)은 국내 블록 체인 시장 활성화를 위해 공공 블록 체인 파일럿 프로젝트를 확대할 계획을 발표 했으며, zdnet 코리아는 9 월 4 일에 보고 합니다.
 
 정부는 공공 및 민간 부문에 걸쳐 블록 체인 프로젝트를 확산 하기 위해 $900만에 대해 지출할 계획 이다.
@@ -14,6 +16,6 @@
 
 그는 또한 덧붙였다: "공공 부문의 목적은 뇌관의 역할에 의해 업계 활성화에 적극적인 역할을 하는 것입니다 \ [... \] 우리는 공공 사업에 대 한 더 많은 돈을 벌 계획 이다."
 
-Original source: [South Korea Internet and Security Agency to Double Blockchain Project Budget in 2019](https://cointelegraph.com/news/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019)
+[Original source](https://cointelegraph.com/news/south-korea-internet-and-security-agency-to-double-blockchain-project-budget-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

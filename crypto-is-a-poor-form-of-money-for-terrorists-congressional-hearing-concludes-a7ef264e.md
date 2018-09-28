@@ -1,5 +1,7 @@
 # 암호화는 테러리스트를 위한 돈의 ' 빈약한 양식 ' 이다, 의회 청각은 종결 한다 ...
 
+###### 2018-09-08
+
 테러 및 불법 금융에 대 한 미국 의회 분과 위원회는 미국 하 원의 금융 서비스 위원회 9 월 7 일 공식 보도 자료에 따르면, 암호 화폐와 테러리즘 금융의 다양 한 방법을 논의 했다.
 
 하기 위해서는 위협과 테러 금융의 방법을 모니터링 하기 위해, 청문회, 전통적인 금융 기관과 준결승-공식적인 방법, hawala 교환 시스템과 같은 뿐만 아니라, 테러리스트에 의해 자금을 전송 하는 주요 수단으로 간주 암호 화폐.
@@ -14,6 +16,6 @@ Fanusie 지적 했다: "지금 테러리스트를 위해 준비 함으로써 ' �
 
 올해 초, 위험 관리 거 대 한 lexisnexis는 다른 불법 활동 중 테러 자금 조달을 방지 하고자 하는 "신뢰와 무역" 이라고 불리는 교류를 위한 보안 솔루션을 도입 하기 위해 암호 교환 blockbid와 제휴.
 
-Original source: [Crypto is a ‘Poor Form of Money’ for Terrorists, Congressional Hearing Concludes](https://cointelegraph.com/news/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes)
+[Original source](https://cointelegraph.com/news/crypto-is-a-poor-form-of-money-for-terrorists-congressional-hearing-concludes)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

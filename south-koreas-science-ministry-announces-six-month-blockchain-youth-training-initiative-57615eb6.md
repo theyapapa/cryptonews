@@ -1,5 +1,7 @@
 # 한국 과학 사역 6 개월 블록 체인 청소년 훈련 이니셔티브 발표 ...
 
+###### 2018-08-09
+
 한국 정부는 8 월 10 일 보도 자료로 8 월 9 일부 터 블록 체인을 포함 한 신흥 지역에서 젊은 인재 육성을 위한 프로그램을 시작 하도록 설정 되어 있습니다.
 
 2018 혁신 성장 청소년 인재 농도 프로젝트는 6 월 11 일부 터 7 월 10 일을 실행 성공적인 취임 라운드 다음 이니셔티브의 두 번째 할부입니다.
@@ -14,6 +16,6 @@
 
 최근 국가 수준의 계획은 지난 주에 국가의 금융 워치독 주식 거래에 대 한 블록 체인 구현을 위한 전화 등장.
 
-Original source: [South Korea’s Science Ministry Announces Six-Month Blockchain Youth Training Initiative](https://cointelegraph.com/news/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative)
+[Original source](https://cointelegraph.com/news/south-koreas-science-ministry-announces-six-month-blockchain-youth-training-initiative)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

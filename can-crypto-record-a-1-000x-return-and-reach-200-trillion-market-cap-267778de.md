@@ -1,5 +1,7 @@
 # crypto 기록 1, 000x 반환 및 $200조 시장 총액에 도달 할 수 있습니까? ...
 
+###### 2018-09-20
+
 9 월 8 일, buterin은 일반 대중과 주류에의 한 암호 화폐에 대 한 인식이 2017 후반에 절정에 도달 하는 것으로 명시 되어 있으며, 암호화 시장 평가는 $2000억에서 현재 가치를 1,000 배로 증가 시키는 것은 비현실적입니다.
 
 점점 더 많은 사람들이 그의 오히려 간단한 성명 buterin의 동기에 대 한 질문을 하기 시작, 그는 후속-소셜 미디어에 대 한 설명을 발표, 그는 비록 암호화 시장 $200조 달성의 평가를 보고 투쟁, 재확인 dapps 및 블록 체인 프로토콜의 사용에 기하급수적 인 성장이 가능 합니다.
@@ -14,6 +16,6 @@
 
 그러나, 억만 장자 투자자 마이크 novogratz의 관점을 메아리, 황갈색은 일단 기관 들이 암호화에 그들의 방법을 찾으면, 시장은 양 및 가치의 측면에서 차이를 볼 것 이라고 밝혔다, novogratz 이전에 말했듯이: "나는 당신이 기관을 보고 시작 하면 생각 LPs \ [제한 된 파트너십 \]-기금, 재단, 연금 계획 및 주권 자산 자금을 가상 화폐로 자본을 투입 하는 것 처럼-당신은 세계 부의 비율이 흐르는 시작 티핑 포인트를 볼 수 있습니다
 
-Original source: [Can Crypto Record a 1,000x Return and Reach $200 Trillion Market Cap?](https://cointelegraph.com/news/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap)
+[Original source](https://cointelegraph.com/news/can-crypto-record-a-1-000x-return-and-reach-200-trillion-market-cap)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

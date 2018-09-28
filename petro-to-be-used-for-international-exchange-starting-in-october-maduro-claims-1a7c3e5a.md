@@ -1,5 +1,7 @@
 # 페트로 국제 교류 10 월, maduro 주장에 시작 하는 데 사용 되는 ...
 
+###### 2018-09-21
+
 베네수엘라의 석유 기반 암호 화폐, 페트로, 10 월 2018에서 시작 하는 국제 상업 거래에 대 한 사용 됩니다., 9 월에 따라 21 니콜라 mauro에 의해 만들어진 성명.
 
 국제 석유 무역에 maduro의 발표는 국제적으로 2 월 2018에서 처음 시작 되었다 국유 동전의 성격에 대 한 놀라운 로이터의 보고서 속에서 온다.
@@ -14,6 +16,6 @@
 
 cointelegraph가 나중에 9 월에서 보고 하는 때, 베네수엘라는 통화가 국가 내의 계정의 단위로 사용 될 것 이라는 점을, 급여 및 가격 설정 체계가 페트로에 묶인 만들기 알렸다.
 
-Original source: [Petro to Be Used for International Exchange Starting in October, Maduro Claims](https://cointelegraph.com/news/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims)
+[Original source](https://cointelegraph.com/news/petro-to-be-used-for-international-exchange-starting-in-october-maduro-claims)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -28,6 +28,6 @@ Bancor는 2017년 최초의 Coin 오퍼링 (초기 Coin 오퍼링) 동안 3시�
 
 Ethereum의 공동 창립자인 비탈릭 부테린  [🔗](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)  "그가 지옥에서 불에 타기를 바란다" 며 지난 주 중앙집중적인 교류에 대한 비난을 받았다.
 
-Original source: [Decentralized Crypto Exchange Bancor Reports ‘Security Breach,’ Remains Down for ‘Maintenance’](https://cointelegraph.com/news/decentralized-crypto-exchange-bancor-reports-security-breach-remains-down-for-maintenance)
+[Original source](https://cointelegraph.com/news/decentralized-crypto-exchange-bancor-reports-security-breach-remains-down-for-maintenance)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

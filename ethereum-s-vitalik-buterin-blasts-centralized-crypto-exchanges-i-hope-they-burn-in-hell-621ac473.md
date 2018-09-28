@@ -18,6 +18,6 @@ Ethereum의 분권화 정도는 일부 전문가  [🔗](https://cointelegraph.c
 
 언론에 따르면, 에그룸은 시가총액이 약 475억  [🔗](https://coinmarketcap.com/currencies/ethereum/#charts) (약 4조 5000억원) 를 기록하는 두 번째로 큰 규모의 크립토르토르시이다.
 
-Original source: [Ethereum’s Vitalik Buterin Blasts Centralized Crypto Exchanges: ‘I Hope They Burn in Hell’](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)
+[Original source](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

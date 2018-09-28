@@ -1,5 +1,7 @@
 # 은행 블록에 뱅킹: 세계 은행은 호주의 cba와 ' 본다이 ' 본드의 출시 unpacks ...
 
+###### 2018-08-24
+
 Bitcoin이 존재 하기 때문에 10 년 가까이에 있었고, 그 당시 주요 금융 기관은 블록 체인 기술과 암호 화폐를 천천히 잡기 위해 왔습니다.
 
 8 월, 세계은행은 호주 커먼 웰 스 은행 (cba)을 통해 최초의 블록 체인 기반 채권을 출시 한다고 발표 했습니다.
@@ -14,6 +16,6 @@ cointelegraph와 독점 인터뷰에서, 세계 은행의 폴 snaith, 누가 재
 
 우리는 자본 시장에서이 기술의 영향에 대 한 우리의 이해를 심화 할 수 있도록 노력 하겠습니다, 우리는 확실히 앞으로 가치를 이동 하는 다른 수단에 관한 탐사를 다하겠습니다.
 
-Original source: [Banking on Blockchain: World Bank Unpacks Launch of ‘BONDI’ Bond With Australia’s CBA](https://cointelegraph.com/news/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba)
+[Original source](https://cointelegraph.com/news/banking-on-blockchain-world-bank-unpacks-launch-of-bondi-bond-with-australias-cba)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

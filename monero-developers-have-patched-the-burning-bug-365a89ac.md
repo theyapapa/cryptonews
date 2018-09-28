@@ -1,5 +1,7 @@
 # monero 개발자 패치는 ' 굽기 버그 ' ...
 
+###### 2018-09-25
+
 오픈 소스 암호 화폐 monero (xmr)의 개발자는 9 월 25 일 발표 된 공지에 따라 공격자가 네트워크 거래 수수료만 손실 하면서 조직의 지갑의 자금을 "연소" 할 수 있는 버그를 패치 했습니다.
 
 이 버그는 커뮤니티 회원이 xmr subreddit에 대 한 가상의 공격을 설명한 후에 발견 되었다.
@@ -14,6 +16,6 @@
 
 xmr 개발자는 이후 생성 하 고 xmr의 공식 트위터 계정을 통해 발표 된 코드에 패치를 포함: 어떤 거래소, 서비스, 상인, 그리고 monero 생태계에 존재 하는 다른 조직에, 당신이 받지 않았거나 패치를 적용 하는 경우 그러나, 컴파일 v 0.13.0.0-RC1 패치가 포함 되어 있는지 확인 합니다.
 
-Original source: [Monero Developers Have Patched the ‘Burning Bug’](https://cointelegraph.com/news/monero-developers-have-patched-the-burning-bug)
+[Original source](https://cointelegraph.com/news/monero-developers-have-patched-the-burning-bug)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

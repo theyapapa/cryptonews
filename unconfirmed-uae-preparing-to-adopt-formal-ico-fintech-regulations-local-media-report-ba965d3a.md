@@ -1,5 +1,7 @@
 # 미확인: UAE 공식 ICO, 핀 테크 규정, 현지 언론 보도를 채택 준비 ...
 
+###### 2018-09-11
+
 아랍에미리트 (UAE)는 초기 코인 오퍼링 (ICO)을 관장 하는 규정 초안을 승인 하였으며, 9 월 9 일 일요일에 보도 된 현지 언론 매체 wam이 정부 출처를 인용 했습니다.
 
 보고 된 이동은 더 큰 핀 테크 활동을 유치 하기 위한 규제 샌드 박스에 대 한 계획을 채택 국가에서 국회 의원 이외에 온다.
@@ -14,6 +16,6 @@ SCA에 의해 개발 된 계획은 디지털 증권 및 상품을 규제 하는 
 
 UAE는 최근 몇 년간 핀 테크 통합에 대 한 심층적인 정책을 추진 하 고 있으며,이는 도시 및 주 정부 차원에서 블록 체인을 특히 강조 하 고 있습니다.
 
-Original source: [Unconfirmed: UAE Preparing to Adopt Formal ICO, Fintech Regulations, Local Media Report](https://cointelegraph.com/news/unconfirmed-uae-preparing-to-adopt-formal-ico-fintech-regulations-local-media-report)
+[Original source](https://cointelegraph.com/news/unconfirmed-uae-preparing-to-adopt-formal-ico-fintech-regulations-local-media-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

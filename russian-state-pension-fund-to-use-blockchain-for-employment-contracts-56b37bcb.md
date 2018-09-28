@@ -1,5 +1,7 @@
 # 러시아 국가 연금 펀드는 고용 계약에 대 한 블록 체인을 사용 하는 ...
 
+###### 2018-08-29
+
 러시아 국영 연금 기금 (pfr), 국가의 최대 규모의 사회 서비스, 최근 노사 관계에서 블록 체인 기술을 구현 하는 것이 좋습니다, 지역 뉴스 콘센트 izvestiya 보고서 수요일, 8 월 29 일, 조직의 보도 센터를 인용해.
 
 당국은 또한 보도 새로운 시스템은 "계약을 체결 때 현재의 법안을 위반 과실 고용주 로부터 시민을 보호 하는 것 이라고 믿고," 기금의 보도 센터는 강조 했다.
@@ -14,6 +16,6 @@
 
 러시아에서 가장 큰 도시가 7 월에 제안 된 개혁에 대 한 시위를 개최 한 후, 블라디미르 푸틴 러시아 대통령은 정부가 개혁을 개정 할 계획 오늘 연설에서 발표 했다.
 
-Original source: [Russian State Pension Fund to Use Blockchain for Employment Contracts](https://cointelegraph.com/news/russian-state-pension-fund-to-use-blockchain-for-employment-contracts)
+[Original source](https://cointelegraph.com/news/russian-state-pension-fund-to-use-blockchain-for-employment-contracts)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

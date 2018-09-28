@@ -1,5 +1,7 @@
 # 일본의 금융 규제는 암호 교환 라이센스 수요의 유입을 처리 하기 위해 확장 ...
 
+###### 2018-09-13
+
 일본의 금융 서비스 기구 (FSA)는 12 명의 직원 들이 암호 교환 라이선스에 대 한 응용 프로그램의 유입을 더 잘 처리할 수 있도록 인력을 강화 하는 것을 계획 하 고 있으며, 로이터는 9 월 12 일 보도 했습니다.
 
 수요일에 암호 교환 스터디 그룹 회의에서, FSA의 정책 조정을 위한 부 위원, 기요 타 카 타 사사키는 기관이 현재 약 30 명으로 구성 된 팀과 암호 교환을 감독 하 고 있으며, 그의 작품에는 검토가 포함 되어 있습니다. 라이센스 응용 프로그램의.
@@ -14,6 +16,6 @@
 
 한편, 오늘날의 문서는 reiterates, 대부분의 교류 ' 시스템 요원은 20 명 미만, 평균 한 직원 33억 엔 ($2960만)의 가치가 디지털 자산을 관리 하는 것으로 밝혀졌다 의미 합니다.
 
-Original source: [Japan’s Financial Regulator Expands to Handle Influx of Crypto Exchange License Demand](https://cointelegraph.com/news/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand)
+[Original source](https://cointelegraph.com/news/japans-financial-regulator-expands-to-handle-influx-of-crypto-exchange-license-demand)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

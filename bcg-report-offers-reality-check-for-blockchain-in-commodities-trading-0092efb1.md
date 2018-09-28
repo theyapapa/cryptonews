@@ -1,5 +1,7 @@
 # bcg 보고서는 상품 거래에서 블록 체인에 대 한 ' 현실 체크 '를 제공 합니다 ...
 
+###### 2018-08-16
+
 미국의 주요 컨설팅 회사인 보스턴 컨설팅 그룹 (bcg)은 8 월 16 일 심층 보고서를 발표 했으며,이는 상품 거래 업계에서 블록 체인의 사용을 위한 "현실 검사"를 실시 하 고 있습니다.
 
 bcg는 상품 거래를 위해 블록 체인 사용에 대 한 강력한 논쟁이 있으며, "여러 전선에서 중대 한 단점"을 재고 하 고 있다고 주장 합니다.
@@ -14,6 +16,6 @@ bcg는 또한 블록 체인 애플리케이션과 관련 된 "복잡도 결점"�
 
 "빅 네" 감사 및 컨설팅 회사인 deloitte에서 발행 한 최근 보고서는 소매 및 소비재 포장 제품 (CPG) 업계에서 이번에는 블록 체인의 잠재적인 영향에 대 한 폭넓은 평가를 수행 했습니다.
 
-Original source: [BCG Report Offers ‘Reality Check’ for Blockchain in Commodities Trading](https://cointelegraph.com/news/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading)
+[Original source](https://cointelegraph.com/news/bcg-report-offers-reality-check-for-blockchain-in-commodities-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

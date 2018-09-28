@@ -1,5 +1,7 @@
 #에 테 리 움 코어 Devs 지연 ' 난이도 폭탄, ' 2 ETH에 블록 보상을 감소 ...
 
+###### 2018-08-31
+
 이 더 리 움 (ETH) 핵심 개발자 들은 정규 YouTube 회의에서 8 월 31 일에 다가오는 콘스탄티노플 하드 포크에 이러한 변화에 대 한 코드를 포함 하는 데 동의 함으로써 "난이도 폭탄"을 지연 하기로 결정 했습니다.
 
 그것을 구현 하기 위해, 개발자는 새로운 블록의 생산을 더 복잡 하 고 불리 한 만드는 "어려움 폭탄" 이라는 솔루션을 내놓았다.
@@ -14,6 +16,6 @@ devs에 따르면, eip-858는 블록 당 1 eth로 블록 보상을 줄일 것, e
 
 또한, 블록 보상은 2 ETH의 기지로 조정 됩니다, 삼촌과 조카 보상은 그에 따라 조정 됩니다. "
 
-Original source: [Ethereum Core Devs Delay ‘Difficulty Bomb,’ Reduce Block Rewards to 2 ETH](https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth)
+[Original source](https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

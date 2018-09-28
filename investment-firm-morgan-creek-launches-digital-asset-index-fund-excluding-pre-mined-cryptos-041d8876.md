@@ -1,5 +1,7 @@
 # 투자 회사인 모건 크릭은 사전 채굴 암호를 제외 하 고 디지털 자산 지 수 펀드를 출시 합니다.
 
+###### 2018-08-28
+
 모건 크릭 디지털, 기관 투자 하우스 모건 크릭 캐피탈 $15억 자산 관리 하에 의해 뒷받침, 비트, 포브스 보고서 8 월 28 일 파트너십에 새로운 디지털 자산 지 수 펀드를 발표 했다.
 
 새로운 기금은 공인 투자자, 엔 다 우먼 트, 연금 및 기타 승인 기관 투자가 들에 게 비트 코인 (BTC),이 더 리 움 (ETH) 및 8 개의 다른 대형 시장 총액 자산에 간접적으로 노출 될 수 있는 가능성을 제공할 것 이지만 특히 리플 (xrp)과 스텔라 (xlm).
@@ -14,6 +16,6 @@ pompiano 그가 기관 투자가 펀드에 상관 없이 "여부 \ [자산 간�
 
 cointelegraph이 보고 된 바와 같이,이 봄 정부 레 귤 레이 터 게리 gensler는이 더 리 움과 리플 같은 알트 코인 가능성이 자신의 토큰 사전 판매를 기반으로 미등록 증권으로 간주 될 수 있다고 주장 했다.
 
-Original source: [Investment Firm Morgan Creek Launches Digital Asset Index Fund Excluding Pre-Mined Cryptos](https://cointelegraph.com/news/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos)
+[Original source](https://cointelegraph.com/news/investment-firm-morgan-creek-launches-digital-asset-index-fund-excluding-pre-mined-cryptos)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

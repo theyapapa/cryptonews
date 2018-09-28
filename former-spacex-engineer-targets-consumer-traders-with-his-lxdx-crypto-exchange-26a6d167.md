@@ -1,5 +1,7 @@
 # 전 spacex 엔지니어는 자신의 lxdx 암호 교환으로 소비자 상인을 대상으로 ...
 
+###### 2018-09-17
+
 엘 론 머 스크의 spacex에서 전직 엔지니어가 그의 새로운 회사인 lxdx를 공개 암호 화폐 거래소를 출시할 것 이라고 발표 했습니다.
 
 이전에는 spacex에서 자동화 및 추진에 참여 했 고, 이후 조슈아 그린 발트는 제도적 인 암호 화폐 거래에 관심을 돌렸다.
@@ -14,6 +16,6 @@ lxdx는 지난 주 몰타로의 이동을 확인 하기 전에 dymon 아시아 �
 
 "가상 화폐는 완전히 새로운 자산 등급입니다." 그린 발트는 8 월 자금 조달 라운드를 발표 한 후 venturebeat에 게 말했습니다.
 
-Original source: [Former SpaceX Engineer Targets Consumer Traders With His LXDX Crypto Exchange](https://cointelegraph.com/news/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange)
+[Original source](https://cointelegraph.com/news/former-spacex-engineer-targets-consumer-traders-with-his-lxdx-crypto-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

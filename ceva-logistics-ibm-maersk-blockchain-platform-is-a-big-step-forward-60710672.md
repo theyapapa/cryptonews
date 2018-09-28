@@ -1,5 +1,7 @@
 # ceva 물류: IBM-maersk 블록 체인 플랫폼은 ' 큰 걸음 앞으로 ' ...
 
+###### 2018-08-10
+
 스위스 등록 물류 업체인 ceva 물류는 8 월 10 일 보도 자료에서 IBM과 maersk의 새로운 공동 블록 체인 플랫폼 tragelens에 참여 했다고 발표 했다.
 
 ceva는 플랫폼이 "물류 산업에서 블록 체인 응용 프로그램의 숨은 잠재력에 대 한 해답"으로 구성 되었다고 말했습니다.
@@ -14,6 +16,6 @@ ceva의 보도 자료는 "다른 이니셔티브는 파이프라인에 있으며
 
 이전에 cointelegraph가 보고 된 바와 같이, tragelens는 3 월 2017 일 파일럿 프로젝트로 시작 되었으며, 이후 다른 계획 들은 블록 체인을 사용 하 여 비용, 서류 작업 및 시간대를 줄이는 한편 보안을 강화 하기 시작 했습니다.
 
-Original source: [CEVA Logistics: IBM-Maersk Blockchain Platform Is ‘Big Step Forward’](https://cointelegraph.com/news/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward)
+[Original source](https://cointelegraph.com/news/ceva-logistics-ibm-maersk-blockchain-platform-is-a-big-step-forward)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

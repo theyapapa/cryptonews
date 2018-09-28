@@ -1,5 +1,7 @@
 # 논란 stilcoin 밧줄 문제 $5000만의 가치 usdt 토큰의 새로운 배치 ...
 
+###### 2018-08-13
+
 테더 (usdt)는 블록 탐색기 omniexplorer에 따르면 8 월 11 일에 $5000만 상당의 새 토큰을 발행 했습니다.
 
 지난 30 일 동안, 밧줄의 시장 대문자 $3억 주위를 잃 었, $27억에서 7 월 중순에 현재 $24억에 따라, 코인 마켓 캡.
@@ -14,6 +16,6 @@
 
 연구에 따르면, 밧줄의 거래 패턴은 "가격 지원을 제공 하 고 암호 화폐 가격을 조작 하는 데 사용 되었습니다 보여줍니다."
 
-Original source: [Controversial Stablecoin Tether Issues New Batch of USDT Tokens Worth $50 Million](https://cointelegraph.com/news/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million)
+[Original source](https://cointelegraph.com/news/controversial-stablecoin-tether-issues-new-batch-of-usdt-tokens-worth-50-million)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

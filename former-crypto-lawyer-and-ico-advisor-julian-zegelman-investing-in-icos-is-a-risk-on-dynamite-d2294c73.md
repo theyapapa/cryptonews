@@ -1,5 +1,7 @@
 # 전 암호화 변호사 및 ICO 고문 줄리안 zegelman: ico에 투자 하는 것은 다 이너 마이트에 위험 ...
 
+###### 2018-09-05
+
 줄리안 zegelman, 다년간의 경험을 가진 변호사, VC로 변해-그는 이제 tmt 블록 체인 펀드, 블록 체인 기술 프로젝트에 투자 벤처 캐피털 펀드의 일반 파트너.
 
 CR: 그러나 블록 체인은 기술 이기 때문에 다른 기술로는 규제를 받을 수 있습니까?
@@ -14,6 +16,6 @@ JZ: 실제 언어에서는 블록 체인을 사용 하 여 실제 문제를 해�
 
 하나는 법적 준수 및 위험 관리, 그리고 다른 하나-기업 개발: 다른 고문 모집, 초기 고객을 모집, \ [조언 \] 사업 파트너를 얻을 수 있는 전략, 프로젝트를 더 지속 가능 하 고 실제 초기에 만드는 방법에 대 한.
 
-Original source: [Former Crypto Lawyer and ICO Advisor Julian Zegelman: Investing in ICOs Is a Risk on Dynamite](https://cointelegraph.com/news/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite)
+[Original source](https://cointelegraph.com/news/former-crypto-lawyer-and-ico-advisor-julian-zegelman-investing-in-icos-is-a-risk-on-dynamite)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

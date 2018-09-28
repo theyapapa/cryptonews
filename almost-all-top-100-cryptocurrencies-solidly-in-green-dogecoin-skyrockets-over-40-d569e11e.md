@@ -1,5 +1,7 @@
 # 거의 모든 최고 100 가상 화폐는 녹색, 40% 이상도 코인 스카이 로켓에 단단하게 ...
 
+###### 2018-09-01
+
 Coin360에서 시장 시각화 비트 코인 (BTC)은 코인 마켓 캡에 따르면, 지난 24 시간 동안 2.52%의 이득을 보고, $7000 마르크를 통해 꾸준히 상승 하 고 있습니다.
 
 비트 코인은 언론 시간에 약 $7216에 거래, 지난 주 동안 7.2%.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 코인 마켓 캡에 따�
 
 출처: 상위 25 개 암호 화폐의 코인 마켓 캡,도 지 코인 (총독)은 코인 마켓 캡에 따르면, 지난 24 시간 동안 무려 41%까지 가장 주목할 만한 성장을 보이고 있습니다.
 
-Original source: [Almost All Top 100 Cryptocurrencies Solidly in Green, Dogecoin Skyrockets Over 40%](https://cointelegraph.com/news/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40)
+[Original source](https://cointelegraph.com/news/almost-all-top-100-cryptocurrencies-solidly-in-green-dogecoin-skyrockets-over-40)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

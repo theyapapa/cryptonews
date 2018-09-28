@@ -1,5 +1,7 @@
 # Bitcoin-친절 한 미국 상원 후보는 공화당 기본 선거에서 패배 ...
 
+###### 2018-08-08
+
 미국 상원 의원 후보 오스틴 피터슨, 그의 비트 코인 (BTC) 옹호에 대 한 알려져 있다, 공화당 주 선거를 잃 었 8 월 7.
 
 비공식 결과 미주리 국무 장관에 의해 출판에 따르면, 피터슨 법무 장관 조 쉬 hawley, 누가 663553 투표의 58.6%를 받은 전투를 잃었다.
@@ -16,6 +18,6 @@
 
 한편, 위스콘신 주지사 필 앤더슨에 대 한 자유 주의적 정당 후보는 7 월 그가 국가의 윤리 위원회는 그들에 게 "심각한 도전" 주법 준수에도 불구 하 고 BTC 기부금을 받아들일 것 이라고 말했다.
 
-Original source: [Bitcoin-Friendly US Senate Candidate Defeated in Republican Primary Elections](https://cointelegraph.com/news/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections)
+[Original source](https://cointelegraph.com/news/bitcoin-friendly-us-senate-candidate-defeated-in-republican-primary-elections)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

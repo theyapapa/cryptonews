@@ -1,5 +1,7 @@
 마이그레이션 정책의 DLT #: 블록 체인이 난민 및 호스트 국가를 도울 수 있는 방법 ...
 
+###### 2018-09-19
+
 buzzwords ' 난민 위기 '가 2015 년에 남아 있었지만, 대량 이동의 문제는 21 세기의 중앙 화제 중 하나로 남아 있으며, 시리아에서 베네수엘라에 이르기까지 경제적이 고 사회 정치적인 위기의 방대한 수를 기후 이주 위기, 과학자 들이 기다려온.
 
 그들은 이민자에 대 한 중요 한 정보의 접근에 관한 문제를 직면으로 호스트 국가는 확실히 피해에 공유를가지고-서류 미비 난민 처리, 이민 서비스는 그/그녀의 건강 상태에 대 한 정보를 얻을 수 없습니다 가족 관계 또는 범죄 기록, 또는 결정을 내리는 데 도움이 되는 기타 중요 한 데이터를 확인 합니다.
@@ -14,6 +16,6 @@ buzzwords ' 난민 위기 '가 2015 년에 남아 있었지만, 대량 이동의
 
 2017, 액 센 추 어와 마이크로 소프트는 공식 문서 없이 전세계 11억 사람들에 게 법적 식별을 제공 하는 un 지원 프로젝트의 일환으로, 블록 체인 기술을 사용 하 여 디지털 ID 네트워크를 구축 하기 위해 협력.
 
-Original source: [DLT in Migration Policy: How Blockchain Can Help Both Refugees and Host Nations](https://cointelegraph.com/news/dlt-in-migration-policy-how-blockchain-can-help-both-refugees-and-host-nations)
+[Original source](https://cointelegraph.com/news/dlt-in-migration-policy-how-blockchain-can-help-both-refugees-and-host-nations)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

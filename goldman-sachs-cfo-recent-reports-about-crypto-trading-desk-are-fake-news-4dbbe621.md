@@ -1,5 +1,7 @@
 # 골드만 삭스 CFO: 암호화 트레이딩 데스크에 대 한 최근 보고서는 ' 가짜 뉴스 ' ...
 
+###### 2018-09-06
+
 골드만 삭스 최고 재무 책임자 (CFO) 마틴 차베스 대통령은 암호 화폐 트레이딩 데스크를 열 계획을 포기 회사에 대 한 최근의 보고서는 "가짜 뉴스," CNBC는 9 월 6 일 보도 했다.
 
 샌 프란 시스 코에서 테크 크 런치 혼란 회의에서, 차베스 대통령은 소문에 따르면 암호화 거래 데스크에 대 한 회사의 의도에 대 한 보고서는 근거가 있다고 말했다: "나는 내 자신이 용어를 사용 하는 것 이라고 생각 하지 않았지만 정말 가짜 뉴스로 그 소식을 설명 해야 합니다."
@@ -14,6 +16,6 @@
 
 비트 코인과 다른 디지털 통화의 가격은 골드만 삭스가 거래 데스크에 대 한 계획을 취소에 대 한 뉴스를 다음과 급락, 총 시장 총액은 $120억에 의해 한 시간에 떨어지고 있습니다.
 
-Original source: [Goldman Sachs CFO: Recent Reports About Crypto Trading Desk Are ‘Fake News’](https://cointelegraph.com/news/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news)
+[Original source](https://cointelegraph.com/news/goldman-sachs-cfo-recent-reports-about-crypto-trading-desk-are-fake-news)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

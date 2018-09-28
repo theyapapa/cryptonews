@@ -1,5 +1,7 @@
 # 영국에서 브 렉 시트 후 암호화를 다루는 방법: 전문가 포획 ...
 
+###### 2018-08-06
+
 eu의 ' eu 블록 체인 천문대 및 포럼 '을 포함 하 여 eu의 멤버십은 $60억에 상당 하는 유럽의 핀 테크 시장과 함께 영국 '의 경제적 번영에 기여 했습니다 ' 블록 체인 같은 디지털 기술은 금융 서비스에 대 한 게임 체인저 수 그리고 그 너머, ' ' marya 가브리엘, 디지털 경제와 사회에 대 한 위원을 설명 했다.
 
 # # 브 렉 시트와 법적 프레임 워크 관점에서의 eu의 암호 화폐 및 블록 체인 입법 이니셔티브는 금융 상품 들과는 달리, 암호화 자산 들은 eu에서 크게 조화 되지 않으며 대다수의 eu 회원국에서 높은 규제를 받지 않습니다.
@@ -14,6 +16,6 @@ eu의 ' eu 블록 체인 천문대 및 포럼 '을 포함 하 여 eu의 멤버�
 
 일부 회원국은 새로운 신체에 대 한 eu의 수준에서 돈세탁을 카운터로 설정 되 고, 다른 하나는 유럽의 금융 기관 (eba)와 같은 기존의 eu의 재정 규제에 더 많은 전력을 제공 하는 아이디어를 부탁을 부르고 있다.
 
-Original source: [How Will the UK Deal With Crypto After Brexit: Expert Take](https://cointelegraph.com/news/how-will-the-uk-deal-with-crypto-after-brexit-expert-take)
+[Original source](https://cointelegraph.com/news/how-will-the-uk-deal-with-crypto-after-brexit-expert-take)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

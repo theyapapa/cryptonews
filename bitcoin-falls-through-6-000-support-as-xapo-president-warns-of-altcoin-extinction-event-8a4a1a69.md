@@ -1,5 +1,7 @@
 # 비트 코인은 $6000 지원을 통해 폭포 xapo 대통령은 altcoin의 경고 ' 멸종 이벤트 ' ...
 
+###### 2018-08-14
+
 bitcoin (BTC) 가격은 8 월 14 일 화요일 6 월말 이후 처음으로 $6000 미만으로 하락 하 여 암호 화폐 커뮤니티가 탄력적으로 유지 됩니다.
 
 cointelegraph의 가격 추적기와 Coin360에서 데이터는 비트 코인이 24 시간 안에 거의 5% 떨어지는 것 처럼 빨간색으로 모든 주요 자산과 화요일 상인에 대 한 우울한 환경을 묘사.
@@ -14,6 +16,6 @@ cointelegraph의 가격 추적기와 Coin360에서 데이터는 비트 코인이
 
 더 높은 비트 코인 시장 지배력, 그들은 주장, altcoins ' 하향 추세에 U 턴을 생산 하는 경향이 있다.
 
-Original source: [Bitcoin Falls Through $6,000 Support as Xapo President Warns of Altcoin ‘Extinction Event’](https://cointelegraph.com/news/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event)
+[Original source](https://cointelegraph.com/news/bitcoin-falls-through-6-000-support-as-xapo-president-warns-of-altcoin-extinction-event)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # SEC는 바이오-설정-암호화 마이닝 회사 블록 체인 폭동으로 프로브를 강렬 하 게 ...
 
+###### 2018-08-16
+
 미국 증권 거래 위원회 (SEC)는 8 월 14 일에 제기 된 회사의 최신 10-Q 분기별 보고서에 따라 암호화 채굴 회사 블록 체인 폭동에 대 한 조사를 강화 했습니다.
 
 폭동 블록 체인은 CNBC 보고서에 따르면, 작년에 단어 "블록 체인"을 포함 하도록 이름을 변경 전 생명 공학 회사, $8에서 $40 이상으로 공유를 거래액의 급등을 보고 있다.
@@ -14,6 +16,6 @@ cointelegraph 이전에 보고 된 바와 같이, 블록 체인 폭동은 이미
 
 이 3 월, SEC는 널리 공표 된 암호화 프로브에 착수, 제이 클레이튼 회장은 "인식 약속" 블록 체인 버즈를 활용 하고자 하는 기업으로 정밀 검사를 증가 하겠다고 약속 한 후.
 
-Original source: [SEC Intensifies Probe Into Biotech-Turned-Crypto Mining Firm Blockchain Riot](https://cointelegraph.com/news/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot)
+[Original source](https://cointelegraph.com/news/sec-intensifies-probe-into-biotech-turned-crypto-mining-firm-blockchain-riot)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # bitmain 새로운 antminer 기계에 통합 할 차세대 ASIC 칩을 발표 ...
 
+###### 2018-09-21
+
 비트 코인 (BTC) 광업 괴수 bitmain은 곧 회사의 새로운 "antminer" 암호화 채굴 기계에 사용 되는 차세대 ASIC 칩을 발표 했다, 로이터 보고서 9 월 21 일.
 
 ASIC (응용 프로그램별 집적 회로) 칩은 특정 해시 알고리즘을 기반으로 광산 암호 화폐에 맞도록 제작 된 맞춤형 채굴 하드웨어입니다.
@@ -14,6 +16,6 @@ CEO Wu에 따르면, 테스트는 칩을 보여주었다 "42j/T로 낮은 광산
 
 어제, 비트 코인 채굴 소프트웨어 제조업체 bitfury Group은 자체 ASIC 칩 더빙 bitfury clarke를 발표 했으며,이 회사는 채굴 서버를 포함 한 다양 한 하드웨어에 통합할 계획입니다.
 
-Original source: [Bitmain Unveils Next-Generation ASIC Chip to Be Integrated into New Antminer Machines](https://cointelegraph.com/news/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines)
+[Original source](https://cointelegraph.com/news/bitmain-unveils-next-generation-asic-chip-to-be-integrated-into-new-antminer-machines)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

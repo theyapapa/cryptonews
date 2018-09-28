@@ -1,5 +1,7 @@
 # SEC의 수석 회계사: 디지털 자산을 가진 기업은 여전히 순서 대로 자신의 책을 계속 해야 ...
 
+###### 2018-09-18
+
 미국 증권 거래 위원회 (SEC)의 최고 회계사 웨슬리 bricker는 디지털 자산과 블록 체인 기술의 출현으로 재무 보고에 있어서는 기업의 "근본적인 책임"이 변하지 않는다고 말했습니다. 활동.
 
 bricker는 회계 직업에 대 한 그것은 적절 하 게 "재무 보고와 관련 된 발급자 준수에 대 한 게이트 키퍼로 서의 역할을 수행할 수 있도록 신흥 기술 뒤지지 않도록 하는 것이 중요 했다 강조 하 여 열었습니다."
@@ -14,6 +16,6 @@ bricker는 기업과 그들의 감사를 위해 비슷하게, 그들의 수행�
 
 미국에서 암호화 규제 환경에 대 한 최근 높은 프로필 개발은 SEC가 암호화 헤 지 펀드를 감독 하는 범위를 확장 하 고, 증권 사기 혐의의 경우 finra 근육, 그리고 증권 법이 규정 하는 뉴욕 연방 판사 판결을 암호 사기 의혹을 다루기를 위해 적용 가능한.
 
-Original source: [SEC's Chief Accountant: Firms With Digital Assets Still Need to Keep Their Books in Order](https://cointelegraph.com/news/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order)
+[Original source](https://cointelegraph.com/news/secs-chief-accountant-firms-with-digital-assets-still-need-to-keep-their-books-in-order)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 전문가: 베네수엘라의 페트로 ' smokescreen ' 중앙 집중화 된 채무에 의해 뒷받침-불구 엔티티 ...
 
+###### 2018-08-22
+
 베네수엘라의 국가 석유 기반 암호 화폐, 페트로 (PTR), 불투명 한 "스턴 트" 중앙 및 부채에 매 여 엔티티, 오늘 유선 보고서, 8 월 22 일에 의해 뒷받침으로 scathingly 비난 하고있다.
 
 베네수엘라 경제에 만연 hyperinflation 가운데, 니콜라스 mauro 대통령은 이번 주 rebranded 피아트 통화를 도입 했습니다-주권 bolívar-어느 병 든 전임자 보다 5 적은 0을 해야 합니다, bolívar fuerte (vef).
@@ -14,6 +16,6 @@
 
 maduro는 최근 페트로 계정의 단위 역할을 하 고 이미 청소년 실업에 노숙자에서 모든에 대 한만 병 통치 약으로 제시 했다 밝혔습니다.
 
-Original source: [Experts: Venezuela's Petro Is a ‘Smokescreen’ Backed by Centralized Debt-Crippled Entity](https://cointelegraph.com/news/experts-venezuelas-petro-is-a-smokescreen-backed-by-centralized-debt-crippled-entity)
+[Original source](https://cointelegraph.com/news/experts-venezuelas-petro-is-a-smokescreen-backed-by-centralized-debt-crippled-entity)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

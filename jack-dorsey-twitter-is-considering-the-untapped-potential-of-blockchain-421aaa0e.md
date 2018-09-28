@@ -1,5 +1,7 @@
 # Jack dorsey: 트위터는 블록 체인의 ' 숨은 잠재력 '을 고려 중입니다 ...
 
+###### 2018-09-06
+
 트위터의 CEO 잭 dorsey는 의회 위원회 수요일, 9 월 5 일의 앞에 회사가 잠재적인 신청을 위한 블록 체인 기술을 탐구 하 고 있다는 것을 증언 했다.
 
 dorsey은 에너지와 상업에 관한 미국 집 위원회에 (서) 잡은 지 저 귐 투명성과 책임 (위)에 심리 중에 질문에 대답 했다.
@@ -14,6 +16,6 @@ dorsey 국회 의사당 9 월 5 일 같은 날에 또 다른 회의에 참석, �
 
 cointelegraph는 8 월에 보고로 서, 사이버 보안 회사 듀오 보안에서 연구는 가짜 암호를 광고 하는 트위터 사기 계정의 악명 높은 현상에 빛을 흘렸다 "경품," 적어도 15000 사기 봇의 네트워크를 공개.
 
-Original source: [Jack Dorsey: Twitter Is Considering the ‘Untapped Potential’ of Blockchain](https://cointelegraph.com/news/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain)
+[Original source](https://cointelegraph.com/news/jack-dorsey-twitter-is-considering-the-untapped-potential-of-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

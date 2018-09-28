@@ -1,5 +1,7 @@
 # $7k 근처에 비트 코인 호버, 녹색으로 다시 넓은 시장 팁으로 ...
 
+###### 2018-08-31
+
 8 월 30 일 (금): 1 주일의 강한 상향 선에이 어, 암호화 시장은 연속적으로 대폭적인 개정을 보았다, 그러나 대부분의 암호 화폐는 오늘이 더 높은 기온을 통합 하 고 있다.
 
 Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 코인 가격 지 수에 따라, 하루에 약 1%를, 언론 시간에 약 $6925에서 거래 된다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 �
 
 이 소식은 우리나라의 의회 토론회에서 초기 코인 제물 (ico)을 합법화 하 고 몰타 스타일의 ' 블록 체인 섬 '을 만드는 것 처럼 한국 암호 공간에 대 한 중추적인 시간에 온다.
 
-Original source: [Bitcoin Hovers Near $7K, as Wider Market Tips Back Into the Green](https://cointelegraph.com/news/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green)
+[Original source](https://cointelegraph.com/news/bitcoin-hovers-nears-7k-as-wider-market-tips-back-into-the-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

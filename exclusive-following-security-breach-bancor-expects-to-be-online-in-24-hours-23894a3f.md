@@ -10,6 +10,6 @@
 
 지난 주, 에그룸 비탈리크 부테린의 공동 설립자는 "지옥에서 화상을 입기를 바란다"  [🔗](https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell)  중앙 집중적인 교류를 비판했다.그 대리인은 이 문제에 대해 의견을 밝히면서, 중앙 집중적이고 분산된 시스템을 위한 공간이 있으며, 서로 다른 종류의 해결책들 사이에 대립 파들을 만들기 보다는 공동체의 협력과 개선의 중요성을 강조하고 있다고 말했다. 그러나 이 관계자는 분권형 솔루션이 블록체인  [🔗](https://cointelegraph.com/tags/blockchain)  미래와 가치 교환의 미래라고 결론을 내렸다.
 
-Original source: [Exclusive: Following ‘Security Breach,’ Bancor Expects to Be Online in 24 Hours](https://cointelegraph.com/news/exclusive-following-security-breach-bancor-expects-to-be-online-in-24-hours)
+[Original source](https://cointelegraph.com/news/exclusive-following-security-breach-bancor-expects-to-be-online-in-24-hours)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

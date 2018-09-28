@@ -1,5 +1,7 @@
 # ' 비트 코인에 대 한 커피, ' 스타벅스는 새로운 암호화 벤처를 허위 미디어로 명확히 ...
 
+###### 2018-08-05
+
 스타벅스는 그것이 비트 코인 (BTC) 또는 지불로 다른 암호 화폐를 받아들이지 않을 것을 명확히 하고있다, 주류 언론에서 오해의 소지가 보고서에도 불구 하 고, 대변인은 마 더 보드 말했다 7 월 3 일.
 
 금요일, 뉴욕 증권 거래소 (nyse) 연산자 인터 콘티넨탈 교환 (ICE는) 새로운 "글로벌 플랫폼 및 디지털 자산에 대 한 생태계를 만들 계획을 발표," "bakkt," 스타벅스를 포함 한 큰 이름 기업의 그룹과 함께 bcg 그리고 마이크로소프트.
@@ -14,6 +16,6 @@
 
 7 월 하순, 전 월스트리트 간부는 암호화 기업가 명시 된 암호화 시장 "이 필요 신뢰할 수 있는, 이름 후견인-일본 은행이 나 HSBC 또는 아이스 또는 골드만 삭스-기관 투자가 편안 하 게 느낄 수 있도록."
 
-Original source: [‘No Coffee for Bitcoin,’ Starbucks Clarifies as Media Misrepresent Its New Crypto Venture](https://cointelegraph.com/news/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture)
+[Original source](https://cointelegraph.com/news/no-coffee-for-bitcoin-starbucks-clarifies-as-media-misrepresent-its-new-crypto-venture)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

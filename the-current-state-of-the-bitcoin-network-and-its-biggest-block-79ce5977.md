@@ -1,5 +1,7 @@
 # 비트 코인 네트워크의 현재 상태와 가장 큰 블록 ...
 
+###### 2018-09-26
+
 9 월 18, 2018, 비트 코인 네트워크의 평균 블록 크기는. 8mb 및 블록 당 평균 거래 수는 1609-그래서 몇 눈 썹은 2mb 이상의 블록이 블록 체인에 9 월 5, 2018에 추가 되었을 때 제기 되었다.
 
 현재 비트 코인 네트워크에서, 평균 블록 크기는 0.804 mb이 고 블록 당 1609 트랜잭션의 평균이 있다-그 이유는 540107 같은 블록,이는 2.26 메가바이트 큰 하지만 단지 230 트랜잭션을 포함, 이러한 변칙 이다.
@@ -14,6 +16,6 @@
 
 블록에는 230 개의 트랜잭션만 있었지만, 여러 트랜잭션이 일괄 처리 되어 하나의 입력에 많은 수의 출력이 있을 수 있습니다. 이를 위해서는 각 입력에 연결 된 출력의 수에 따라 비트 코인 네트워크가 더 많은 바이트를 소비 하 여 트랜잭션을 가능 하 게 해야 합니다.
 
-Original source: [The Current State of the Bitcoin Network and Its Biggest Block](https://cointelegraph.com/news/the-current-state-of-the-bitcoin-network-and-its-biggest-block)
+[Original source](https://cointelegraph.com/news/the-current-state-of-the-bitcoin-network-and-its-biggest-block)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

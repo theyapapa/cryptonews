@@ -1,5 +1,7 @@
 # 보고서: 암호는 테러 집단을 융자에 대 한 효과적인 ...
 
+###### 2018-09-10
+
 미국의 민주 국방 재단 (FDD)의 제재 및 불법 금융 (CSIF) 센터에 의해 9 월 7 일에 발표 된 새로운 보고서는 디지털 통화가 테러 집단의 자금 조달에 부적합 하다는 것을 보여준다.
 
 이 보고서는 CSIF 감독 분석 yaya Fanusie에 의해 미국 하 원 위원회의 테러와 불법 금융에 대 한 청문회에서 제시 했다.
@@ -14,6 +16,6 @@ Fanusie는 또한 국회 의원은 불법 행위에 대 한 지불 방법으로 
 
 Fanusie는 디지털 화폐의 테러리스트 사용이 일반 대중의 것을 반영 한다는 결론을 내렸다: "그러나 암호 화폐와 블록 체인 기술은 천 하 게 불법적인 것이 아니며 두려워할 필요가 없습니다.
 
-Original source: [Report: Crypto Not Effective for Financing Terrorist Groups](https://cointelegraph.com/news/report-crypto-not-effective-for-financing-terrorist-groups)
+[Original source](https://cointelegraph.com/news/report-crypto-not-effective-for-financing-terrorist-groups)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # europol: 비트 코인은 사이버 범죄자의 첫 번째 선택 남아 있지만, 개인 정보 보호에 초점을 맞춘 alts는 상승 할 것 이다 ...
 
+###### 2018-09-19
+
 europol의 새로운 사이버 범죄 보고서는 비트 코인 (BTC)이 불법 사용에 대 한 가장 인기 있는 형태의 암호화를 유지 하지만, Zcash (zec) 및 monero (xmr)와 같은 익명 중심의 알트 코인의 인기 상승을 예측 한다는 것을 발견 했습니다.
 
 europol에 따르면, 비트 코인의 시장 점유율이 "초기 2017에서 35%"로 낮게 하락 한 것 처럼, 유럽 연합의 사이버 범죄 조사에서 가장 "일반적으로 발생 한" 암호화 된 것으로 남아 있었습니다.
@@ -14,6 +16,6 @@ europol은 뿐만 아니라 교환, 그러나 "광업 서비스 및 다른 지�
 
 이 보고서에 따르면 암호화는 몇 년 동안 분산 된 인프라의 장점과 범죄 절차 세탁에 대 한 익명 거래를 제공 하지만 대규모 암호화 업계의 플레이어 들은 규제 기관, 분권 화 된 교환은 곧 자금에 대 한 더 유리한 채널이 될 수 있습니다.
 
-Original source: [Europol: Bitcoin Remains Cybercriminals’ First Choice, But Privacy-Focused Alts Will Rise](https://cointelegraph.com/news/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise)
+[Original source](https://cointelegraph.com/news/europol-bitcoin-remains-cybercriminals-first-choice-but-privacy-focused-alts-will-rise)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

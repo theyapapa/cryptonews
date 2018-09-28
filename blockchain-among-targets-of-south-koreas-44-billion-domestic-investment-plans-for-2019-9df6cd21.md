@@ -1,5 +1,7 @@
 # 2019에 대 한 한국 $44억 국내 투자 계획의 대상 중 블록 체인 ...
 
+###### 2018-08-13
+
 한국은 8 월 13 일 월요일, 5조 원 (약 $44억)을 내년에 투자 하 여 블록 체인을 포함 한 국내 경제의 8 개 부문을 "육성" 할 것 이라고 발표 했다.
 
 이 나라의 재정 사역과 관련 된 회의의 결과에 따르면, 정부는 블록 체인, 빅 데이터 및 인공 지능 (AI)과 같은 분야에 대 한 지출 금액을 2018 추산에서 65% 증가 하기로 했습니다.
@@ -14,6 +16,6 @@
 
 지난 주에 cointelegraph가 보도 한 바와 같이, 과학 및 ICT의 사역에 의해 후원 전용 청소년 훈련 제도는 9 월에 다시 진행을 얻을 것 이다, 블록 체인에 초점을, AI, 청소년 실업을 완화 하 고 일치 하는 수단으로 다른 영역 적당 한 위치를 가진 유망한 후보자.
 
-Original source: [Blockchain Among Targets of South Korea’s $4.4 Billion Domestic Investment Plans for 2019](https://cointelegraph.com/news/blockchain-among-targets-of-south-koreas-44-billion-domestic-investment-plans-for-2019)
+[Original source](https://cointelegraph.com/news/blockchain-among-targets-of-south-koreas-44-billion-domestic-investment-plans-for-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

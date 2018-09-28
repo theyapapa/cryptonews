@@ -1,5 +1,7 @@
 # ICO 입법의 최종 초안은 필리핀 핀 테크 섹터에 대 한 다음 단계를 의미 할 수 ...
 
+###### 2018-09-14
+
 필리핀 증권 거래 위원회 (SEC)는 manilla 타임즈에서 제공 하는 정보가 정확한 경우, 앞으로 몇 일 안에 암호 화폐에 대 한 뜨겁게 예상 초안 규정을 공개할 예정 이다.
 
 SEC 회장 amamong 그들의 협조를 설명 합니다: "우리는 이미 bsp와 문제를 논의, bsp는 또한 관심이 있기 때문에 우리는 또한 관심 \ [... \] 토론 \ [... \] \ [가상 화폐 거래소 \]에 대 한 공동 협동 감독 거래에 종사. "
@@ -14,6 +16,6 @@ SEC는 피아트 머니 또는 암호 화폐를 사용 하는 모든 투자 제�
 
 # # # 암호 화폐와 블록 체인은 필리핀 정부는 카가 얀 경제 지 대 당국 (ceza)을 만들었습니다 끊임없이 확장 암호 국경의 최전선에 있는 국가를 유지 하기 위해 입찰에 조각난 된 지불 섹터를 필리핀과 단결 도움이 될 수 있습니다.
 
-Original source: [Final Draft of ICO Legislation Could Signify Next Step for Philippines Fintech Sector](https://cointelegraph.com/news/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector)
+[Original source](https://cointelegraph.com/news/final-draft-of-ico-legislation-could-signify-next-step-for-philippines-fintech-sector)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

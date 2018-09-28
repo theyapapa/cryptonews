@@ -1,5 +1,7 @@
 # 남미 암호 교환 Buda.com 재개에 대 한 콜롬비아 대통령의 도움을 찾고 ...
 
+###### 2018-09-24
+
 남미의 암호 화폐 교환 Buda.com는 국가에서의 작업을 다시 열 수 있도록 콜롬비아 대통령 iván duque 요청 했다, 지역 뉴스 아울렛 라 republica 9 월 21 일 보도 했다.
 
 디지털 환전 Buda.com-콜롬비아에서 약 35000 계정을 자랑 하는-국가의 은행이 보장의 부족에 대 한 모든 exchange의 계정을 "폐쇄 하기로 결정 후 6 월 20 일에 자사의 운영을 중단 했다."
@@ -14,6 +16,6 @@ duque 사장은 이전에 암호 화폐 및 블록 체인 스타트업에 대 �
 
 지난 4 월, 칠레의 반 독점 법원은 판결을 발표 하 고, 두 개의 은행을 주문 하 여, 상기 두 은행을 포함 한 10 개 은행의 소송을 제기한 후 부 다의 계좌를 재개 했다.
 
-Original source: [South American Crypto Exchange Buda.com Seeks Help of Colombian President for Reopening](https://cointelegraph.com/news/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening)
+[Original source](https://cointelegraph.com/news/south-american-crypto-exchange-budacom-seeks-help-of-colombian-president-for-reopening)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

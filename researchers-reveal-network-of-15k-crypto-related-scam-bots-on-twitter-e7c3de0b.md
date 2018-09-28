@@ -1,5 +1,7 @@
 # 연구진은 트위터에 15k는 암호 관련 사기 봇의 네트워크를 공개 ...
 
+###### 2018-08-06
+
 오늘 발표 된 새로운 연구, 8 월 6 일, 암호 화폐의 악명 높은 현상에 빛을 흘리 고 있다-가짜 "경품을 광고 하는 트위터 계정," 적어도 15000 사기 봇의 네트워크를 공개.
 
 트위터 봇의 분석,이는 악화를 계속 하 고 심지어 순진한 사용자를 속일, 사이버 보안 회사 듀오 시큐리티에서 왔어.
@@ -14,6 +16,6 @@
 
 대부분의 경우 자동 탐지를 기반으로 스팸 성 콘텐츠가 트위터에 숨겨져 있으며, 트위터 계정의 5% 보다 "방어에 추가" \ [l \] ess는 스팸 관련입니다. "
 
-Original source: [Researchers Reveal Network of 15K Crypto-Related Scam Bots on Twitter](https://cointelegraph.com/news/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter)
+[Original source](https://cointelegraph.com/news/researchers-reveal-network-of-15k-crypto-related-scam-bots-on-twitter)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 아라곤의 스페인어 자율 커뮤니티는 블록 체인을 적용 하는 국가에서 처음으로 될 ...
 
+###### 2018-09-17
+
 스페인 북동부에 있는 아라곤의 자치 공동체는 공공 행정, 지역 뉴스 에이전시 유로 파 보도 보고서 월요일, 9 월 17에 블록 체인 기술을 적용 하는 국가에서 첫 번째가 될 것입니다.
 
 aragaese 정부에서 재무 및 행정학의 상담자 인 페르난도 gimeno는 Alastria와 계약을 체결 했으며,이는 블록 체인 기반 도구를 작성 하는 기업과 기관을 포함 하 여 274 개 이상의 단체의 블록 체인 에코 시스템입니다. 스페인어 및 eu 법률 프레임 워크와 라인.
@@ -14,6 +16,6 @@ gimeno는 "transformative" 라는 계약을 체결 하 여, 세계는 가까운 
 
 6 월 후반에 스페인 좌익 정치 연합 유니도스 포데모가 스페인 정부가 블록 체인 기술과 암호 화폐 규제의 가능성을 연구 하는 소 위원회를 설립할 것을 제안 했습니다.
 
-Original source: [Spanish Autonomous Community of Aragon to Become First in Country to Apply Blockchain](https://cointelegraph.com/news/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain)
+[Original source](https://cointelegraph.com/news/spanish-autonomous-community-of-aragon-to-become-first-in-country-to-apply-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

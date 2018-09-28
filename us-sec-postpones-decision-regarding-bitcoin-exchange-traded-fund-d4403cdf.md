@@ -1,5 +1,7 @@
 # 미국 SEC는 비트 코인 거래소 상장 펀드에 관한 결정을 연기 합니다 ...
 
+###### 2018-08-07
+
 미국 증권 거래 위원회 (sec)는 8 월 7 일에 발표 된 공식 문서에 따라 9 월 30 일까 지 비트 코인 거래소 거래 펀드 (ETF)의 상장 및 거래에 대 한 결정을 연기 했습니다.
 
 고려 중인 기금은 투자 회사인 vaneck 및 금융 서비스 회사 solidx에 의해 구동 되며, 시카고 거래소 (cboe) bzx 주식 거래소에 목록으로 예정 되어 있습니다.
@@ -14,6 +16,6 @@ SEC 제출에 따라, vaneck solidx 비트 코인 트러스트의 각 몫의 가
 
 레 귤 레이 터는 또한 원래 2016에 제기 된 winklevoss 비트 코인 트러스트의 주식을 나열 하 고 거래 하기 위해 박쥐 bzx 거래소, inc. (bzx)에 의해 항소를 거부 했습니다.
 
-Original source: [U.S. SEC Postpones Decision Regarding Bitcoin Exchange Traded Fund](https://cointelegraph.com/news/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund)
+[Original source](https://cointelegraph.com/news/us-sec-postpones-decision-regarding-bitcoin-exchange-traded-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

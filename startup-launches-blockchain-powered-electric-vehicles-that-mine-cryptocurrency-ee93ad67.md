@@ -1,5 +1,7 @@
 # 스타트업은 암호 화폐를 채굴 하는 블록 체인 구동 전기 차량을 출시 합니다.
 
+###### 2018-09-19
+
 싱가포르 블록 체인 스타트업은 사용자가 여행할 때 암호화를 채굴 하는 블록 체인을 지 원하는 전기 자동차를 출시 하는 것입니다.
 
 영국에서 운송 부문은 영국에서 CO2 배출량에 가장 큰 기여를 하 고 있으며, 현재는 영국에서 뿐만 아니라 전 세계적으로도로에 더 많은 전기 차량을 투입 하는 스크램블입니다.
@@ -14,6 +16,6 @@ cyclean은 블록 체인과 가상 화폐 소프트웨어를 전기 자동차와
 
 2017, 다른 블록 체인 회사는 사용자가 다른 사람의 전원 콘센트를 사용 하 여 자신의 자동차를 충전 할 수 있도록 피어-투-피어 전기 자동차 충전기 시장을 테스트 하기 시작 했다.
 
-Original source: [Startup Launches Blockchain Powered Electric Vehicles That Mine Cryptocurrency](https://cointelegraph.com/news/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency)
+[Original source](https://cointelegraph.com/news/startup-launches-blockchain-powered-electric-vehicles-that-mine-cryptocurrency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

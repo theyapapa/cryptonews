@@ -1,5 +1,7 @@
 # 싱가포르, 딜로 이트, 나스닥과의 블록 체인 자산 결제에 대 한 중앙 은행 파트너 ...
 
+###### 2018-08-24
+
 싱가포르의 사실상 중앙 은행은 그것을 보도 자료 금요일, 8 월 24 일에 있는 디지털 자산 타협을 편해지는 다 수 큰 이름 실재 물에 거래를 서명 했었다는 것을 알렸다.
 
 자사의 지속적인 프로젝트 우 빈 블록 체인 통합 계획의 일환으로 싱가포르 (MAS)의 통화 당국은 싱가포르 거래소 (sgx)와 함께 anquan, 딜로 이트 및 나스닥과 협력 하 여 향상 된 기능을 제공 합니다.
@@ -14,6 +16,6 @@ MAS는 싱가포르에서 암호 화폐 친화적인 관할권을 만들기 위�
 
 "세 저명한 기술 파트너의 참여는이 현실을 만들기에 상업적인 관심을 강조 표시 합니다."
 
-Original source: [Singapore Central Bank Partners With Deloitte, Nasdaq on Blockchain Asset Settlement](https://cointelegraph.com/news/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement)
+[Original source](https://cointelegraph.com/news/singapore-central-bank-partners-with-deloitte-nasdaq-on-blockchain-asset-settlement)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 새로운 플랫폼은 기업이 자신의 암호 화폐 교환을 시작할 수 있습니다 ...
 
+###### 2018-09-12
+
 9 월 3 일, spotware 회사는 차액 (CFD) 및 외환 기술 서비스에 대 한 계약을 제공 하 고, 고객이 자신의 암호 화폐 교환을 시작할 수 있는 새로운 솔루션을 발표, 공식 보도 자료를 말합니다.
 
 이 플랫폼은 cxchange 라고 하 고 회사는 최신의 기술적으로 가장 진보 된 암호 화폐 교환 플랫폼이 될 것 이라고 주장 한다.
@@ -14,6 +16,6 @@
 
 단지 몇 가지 솔루션을 시장 cxchange 닮은에서 사용할 수 있지만, 그것은 전문 금융 소프트웨어 개발 회사에 의해 개발 된 우리의 플랫폼은 다른 것 들과는 달리 높은 품질의 제품입니다, "shulman 댓글을 달았습니다.
 
-Original source: [New Platform Allows Businesses to Launch Their Own Cryptocurrency Exchange](https://cointelegraph.com/news/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange)
+[Original source](https://cointelegraph.com/news/new-platform-allows-businesses-to-launch-their-own-cryptocurrency-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

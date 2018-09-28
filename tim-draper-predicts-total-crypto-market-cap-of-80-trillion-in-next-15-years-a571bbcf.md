@@ -1,5 +1,7 @@
 # 팀 드레이퍼는 다음 15 년에 $80조의 총 암호화 시장 총액을 예측 ...
 
+###### 2018-09-14
+
 벤처 캐피탈 투자 팀 드레이퍼는 총 암호화 화폐 시장 자본은 다음 15 년 동안 $80조을 칠 것으로 예상 했다, 뉴스 아울렛 deprestreetasia는 9 월 14 일 보도 했다.
 
 싱가포르에서 deerstreetasia PE-VC 정상회의 2018에서 말하기, draper는 최근 몇 달 동안 암호 화폐 시장에서 중요 한 슬라이드가 새로운 자산 클래스로 디지털 통화를 채택 하지 않은 사람들에 기인 한다고 주장 했다.
@@ -14,6 +16,6 @@
 
 언론 시간에 총 가상 화폐 시가 총액은 코인 마켓 캡에 따라 약 $2020억입니다.
 
-Original source: [Tim Draper Predicts Total Crypto Market Cap of $80 Trillion in Next 15 Years](https://cointelegraph.com/news/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years)
+[Original source](https://cointelegraph.com/news/tim-draper-predicts-total-crypto-market-cap-of-80-trillion-in-next-15-years)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

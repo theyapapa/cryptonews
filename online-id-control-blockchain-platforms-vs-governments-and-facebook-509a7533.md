@@ -1,5 +1,7 @@
 # 온라인 ID 제어: 블록 체인 플랫폼 대 정부와 페이스 북 ...
 
+###### 2018-08-23
+
 가장 기본적인 윤곽에서, 개인 데이터 보안의 영역에서 블록 체인의 사용은 간단 하다: 우리의 데이터는 분산 네트워크에 암호화 된 형태로 저장 되 고, 우리는 우리의 개인 키를 사용 하 여 (일부)이 데이터에 대 한 액세스를 다른 당사자에 게 부여 할 수 있습니다 , 우리의 열쇠를 사용 하 여 우리가 다른 사람에 게 암호 화폐를 보낼 수 있도록 거의 같은 방식으로.
 
 # # 제어 및 개인 정보 보호 정책 alastair 존슨, CEO 겸 설립자 전자 상거래 및 id 플랫폼 너 겟, 존슨은 모두 너무 잘 중앙 sigoes에 id 데이터의 질량을 저장 하는 함정을 이해 합니다.
@@ -14,6 +16,6 @@
 
 alastair 존슨: "중앙 집중식 데이터베이스를 통해 개인 데이터의 분산 원장의 주요 이점은 그것이 제공 하는 해커에 대 한 보안입니다.
 
-Original source: [Online ID Control: Blockchain Platforms vs. Governments and Facebook](https://cointelegraph.com/news/online-id-control-blockchain-platforms-vs-governments-and-facebook)
+[Original source](https://cointelegraph.com/news/online-id-control-blockchain-platforms-vs-governments-and-facebook)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

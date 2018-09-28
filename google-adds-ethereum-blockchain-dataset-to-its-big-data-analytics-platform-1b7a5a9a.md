@@ -1,5 +1,7 @@
 # 구글은 빅 데이터 분석 플랫폼에이 더 리 움 블록 체인 데이터 세트를 추가 ...
 
+###### 2018-09-04
+
 구글 클라우드 팀은 공식적으로이 더 리 움 (ETH) 데이터 집합 bigquery에서 사용할 수 있도록 했다, 분석을 위한 회사의 빅 데이터 웨어하우스, 구글의 공식 블로그에 게시 된 게시물에 따르면 8 월 29 일.
 
 이 더 리 움 블록 체인 데이터가 데이터 세트에 게시 되 고 매일 업데이트 됩니다.
@@ -14,6 +16,6 @@ bigquery는 적어도 10 개의 cryptokitties (그래픽 색상 소유자를 나
 
 2 월,이 회사는 비트 코인 (BTC) 블록 체인에 대 한 유사한 도구를 만들어 거래를 시각화 하 고 비정상을 감지 하며 블록 체인 원장 으로부터 필요한 데이터를 추출 합니다.
 
-Original source: [Google Adds Ethereum Blockchain Dataset to Its Big Data Analytics Platform](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
+[Original source](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

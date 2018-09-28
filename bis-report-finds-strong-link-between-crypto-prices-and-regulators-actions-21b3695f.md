@@ -1,5 +1,7 @@
 # BIS 보고서는 암호화 가격과 규제 기관의 행동 사이의 강력한 링크를 찾습니다 ...
 
+###### 2018-09-25
+
 국제 정착지에 대 한 은행 (BIS)에 의해 게시 된 새로운 보고서는 암호화 가격과 규제의 개입의 뉴스 사이에 강한 상관 관계를 발견 했다.
 
 보고서에 따르면 9 월 23 일 BIS에 의해 출판-조직 스위스에 본사를 둔 60 세계의 중앙 은행의 구성-암호 화폐는 다른 국가 관할 지역에 걸쳐 규제 조치의 뉴스에 가까운 링크를 유지 합니다.
@@ -14,6 +16,6 @@ BIS는 가상 화폐의 위험성에 대 한 비 특이 적 또는 일반적인 
 
 요약 하자면, BIS는 규제 "가 나쁜 소식이 될 필요가 없습니다 제안 \ [암호화 \] 시장, 특히 정의 된 법적 지위를 위한 명확한 특혜를 신호 하는 가격 응답과, 가벼운 규제 정권 임에도 불구 하 고."
 
-Original source: [BIS Report Finds Strong Link Between Crypto Prices and Regulators' Actions](https://cointelegraph.com/news/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions)
+[Original source](https://cointelegraph.com/news/bis-report-finds-strong-link-between-crypto-prices-and-regulators-actions)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

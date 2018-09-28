@@ -1,5 +1,7 @@
 # 총 암호화 시장 캡은 bitmex가 거래를 일시 중지로 한 시간에 $1200만 점프 ...
 
+###### 2018-08-22
+
 Coin360에서의 시장 시각화 모든 가상 화폐의 자본 화는 언론 시간에 의해 $2억9170만에 약간 떨어지기 전에, $2억2280만에서 피크에 $1200만 이상에 총을 쐈 다.
 
 코인 마켓 캡의 모든 암호 화폐의 총 시가 총액의 1 일 차트 Bitcoin (BTC)은 약 45 분의 공간에서 날카로운 5% 스파이크를 보기 전에 $6400-$ 6500 주위를 오늘 옆으로 거래 하 여 $6790 주위를 정점으로 하 고 있었습니다.
@@ -14,6 +16,6 @@ bitmex는 자신의 사이트에서 추적 서비스 상태가 "\ [t \] 이기 �
 
 프레스 타임에 코인 마켓 캡은 지난 24 시간 동안 약 $37억에 비트 멕 스의 총 BTC/USD 거래량을 나열 합니다.
 
-Original source: [Total Crypto Market Cap Jumps $12 Million in an Hour as BitMEX Pauses Trading](https://cointelegraph.com/news/total-crypto-market-cap-jumps-12-million-in-an-hour-as-bitmex-pauses-trading)
+[Original source](https://cointelegraph.com/news/total-crypto-market-cap-jumps-12-million-in-an-hour-as-bitmex-pauses-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 일본: 그것은 거 대 한 NTT 데이터, 경제 교육부 블록 체인 기반 플랫폼 무역에 대 한 발표 ...
 
+###### 2018-08-26
+
 일본의 새로운 에너지 및 산업 기술 개발 기구 (nedo)는 무역 산업을 위한 블록 체인 기반의 데이터 공유 시스템을 위해 노력 하 고 있으며, 8 월 23 일 목요일에는 일본의 cointelegraph가 보도 했다.
 
 산업 및 에너지 기술의 연구와 배치를 촉진 하는 일본 최대의 공공 관리 조직인 nedo는 무역 정보 공유를 위한 인프라를 합리화 하기 위해 블록 체인 기반 프로젝트를 개발 하는 것으로 알려졌다.
@@ -14,6 +16,6 @@
 
 NTT의 보도 자료에 따르면,이 회사는 또한 글로벌 공급망을 강화 하기 위해 FY2019 동안 새로운 인프라 플랫폼의 사회적 구현을 도입할 계획입니다.
 
-Original source: [Japan: IT Giant NTT Data, Ministry of Economy Announce Blockchain-Based Platform for Trade](https://cointelegraph.com/news/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade)
+[Original source](https://cointelegraph.com/news/japan-it-giant-ntt-data-ministry-of-economy-announce-blockchain-based-platform-for-trade)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

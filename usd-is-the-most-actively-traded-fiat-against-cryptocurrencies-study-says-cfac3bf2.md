@@ -1,5 +1,7 @@
 # USD는 가상 화폐에 대 한 가장 적극적으로 거래 되는 피아트 이며, 연구는 말합니다 ...
 
+###### 2018-09-07
+
 경영 및 기술 컨설팅 회사 greyspark는 9 월 4 일에 발표 된 새로운 연구에서 미국 달러가 가상 화폐에 대 한 가장 활발 하 게 거래 되는 명목 화폐입니다.
 
 greyspark 전문가 들은 암호화 가격이 Google 검색 관심과 상관관계가 있다는 것을 발견 했습니다.
@@ -14,6 +16,6 @@ greyspark 전문가 들은 암호화 가격이 Google 검색 관심과 상관관
 
 출처: GreySpark.com greyspark의 보고서는 또한 암호화 산업에서 신뢰할 수 있는 양육 권 솔루션의 부족을 기록, 시장은 미국 기반 국가 거리와 같은 큰 집을 기다리고 있다는 것을 주장 하 고 북부 신뢰 cointelegraph는 지난 달 쓴 것 처럼, 인용 coinbase 연구, 디지털 자산에 대 한 일반적인 관심은 신흥 기술에 전념 하는 과정을 시작 하는 큰 대학을 묻는 메시지가 있다.
 
-Original source: [USD Is the Most Actively Traded Fiat Against Cryptocurrencies, Study Says](https://cointelegraph.com/news/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says)
+[Original source](https://cointelegraph.com/news/usd-is-the-most-actively-traded-fiat-against-cryptocurrencies-study-says)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

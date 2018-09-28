@@ -1,5 +1,7 @@
 # 홍콩 보석 소매 업체는 다이아몬드를 추적 하기 위해 블록 체인 플랫폼을 사용 하는 ...
 
+###### 2018-09-12
+
 홍콩-기반 보석 소매 차 우 타이 fook 보석 그룹은 다이아몬드를 추적 하는 블록 체인 플랫폼을 사용 하기 시작 합니다, 사우스 차이나 모닝 포스트는 9 월 12 일 보도 했다.
 
 차 우 타이 fook는 블록 체인 시작에 버 레저에 의해 개발 되 고 IBM 블록 체인 플랫폼에 의해 보호 되는 블록 체인 플랫폼에 다이아몬드의 일부를 넣어 보도 했다.
@@ -14,6 +16,6 @@
 
 4 월, 주요 금과 다이아몬드 산업 제조 업체 및 공급 업체는 IBM과 협력 하 여 보석의 완성 된 조각의 기원을 추적 하기 위한 블록 체인 네트워크를 개발 했습니다.
 
-Original source: [Hong Kong Jewelry Retailer to Use Blockchain Platform for Tracking Diamonds](https://cointelegraph.com/news/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds)
+[Original source](https://cointelegraph.com/news/hong-kong-jewelry-retailer-to-use-blockchain-platform-for-tracking-diamonds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

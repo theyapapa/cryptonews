@@ -1,5 +1,7 @@
 # 새로운 코인 베이스 목록 프로세스를 통해 Exchange는 ' 빠르게 ' 지원 되는 자산을 늘릴 수 있습니다 ...
 
+###### 2018-09-25
+
 암호 화폐 거래소 코인 베이스는 9 월 25 일 발표 된 성명에 따라 더 많은 디지털 자산을 더 빨리 나열할 수 있는 새로운 프로세스를 발표 했습니다.
 
 공지 사항에 따라 새 프로세스는 현지 법률을 준수 하는 디지털 자산을 의미 하며,이는 플랫폼에 나열 된 특정 자산이 특정 관할권의 고객 에게만 제공 될 수 있음을 의미 합니다.
@@ -14,6 +16,6 @@ coinbase는 새로운 프로세스가 "우리의 표준을 충족 하는 시간�
 
 8 월에 coinbase는 영국 은행 계좌를 사용 하는 거래소 고객 들이 빠른 전송을 실시 하 여 같은 날에 고객 들이 파운드에 대 한 암호화를 구매 하 고 판매할 수 있도록 하는 영국의 파운드 (GBP) 지원을 출시 하기 시작 했습니다.
 
-Original source: [New Coinbase Listing Process Will Allow Exchange to ‘Rapidly’ Increase Supported Assets](https://cointelegraph.com/news/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets)
+[Original source](https://cointelegraph.com/news/new-coinbase-listing-process-will-allow-exchange-to-rapidly-increase-supported-assets)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

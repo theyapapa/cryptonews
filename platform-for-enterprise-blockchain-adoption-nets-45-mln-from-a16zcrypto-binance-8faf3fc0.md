@@ -18,6 +18,6 @@
 
 Ripple  [🔗](https://cointelegraph.com/tags/xrp-price-index)은 지난 달 은행들이 국경을 초월한 결제에 초점을 맞추고 있다고 시인했다.  [🔗](https://cointelegraph.com/news/ripple-banks-unlikely-to-apply-blockchain-for-cross-border-payments-in-near-future) 는 지난 달 은행들이 사생활과 다른 우려 때문에 기술을 채택하지 않을 것이라는 점을 인정했다.
 
-Original source: [Platform for Enterprise Blockchain Adoption Nets $45 Mln From A16ZCrypto, Binance](https://cointelegraph.com/news/platform-for-enterprise-blockchain-adoption-nets-45-mln-from-a16zcrypto-binance)
+[Original source](https://cointelegraph.com/news/platform-for-enterprise-blockchain-adoption-nets-45-mln-from-a16zcrypto-binance)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

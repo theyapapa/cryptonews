@@ -1,5 +1,7 @@
 # 한국 sbi 저축 은행은 블록 체인과 AI 전문가와의 MoU에 서명 합니다 ...
 
+###### 2018-09-03
+
 한국의 sbi savings Bank는 핀 테크 비즈니스를 강화 하기 위해 AI 및 블록 체인 기술 전문가 인 dayli intelligence와 MoU를 체결 하였으며, 오늘날의 돈은 9 월 3 일을 보고 합니다.
 
 dayli intelligence는 금융 기관을 위한 블록 체인 솔루션과 AI 기반 기술 인프라를 제공 합니다.
@@ -14,6 +16,6 @@ cointelegraph가 보고 된 바와 같이, 한국의 블록 체인 공간에 대
 
 5 월, 정부는 국내 최초 코인 오퍼링 (ico)에 대 한 악명 높은 담요 금지를 해제 하는 계획을 표명 했으며,이는 국회는 계속 해 서 논의 하 고, 심지어는 한국 고유의 몰타 스타일의 블록 체인을 창조 할 계획을 제안 한다. 섬.
 
-Original source: [Korea's SBI Savings Bank Signs MoU With Blockchain and AI Specialist](https://cointelegraph.com/news/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist)
+[Original source](https://cointelegraph.com/news/koreas-sbi-savings-bank-signs-mou-with-blockchain-and-ai-specialist)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

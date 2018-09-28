@@ -1,5 +1,7 @@
 # 카자흐스탄에서 우즈베키스탄에: 어떻게 가상 화폐는 중앙 아시아에서 규제 하는 ...
 
+###### 2018-09-15
+
 대통령의 의견은 국립 은행 카자흐스탄의 (nbk) 발표 그들은 국가에서 암호 거래 및 광업 금지 거 야.
 
 3 월 30 일, cbk 헤드 daniyar akishev 리아 novosti와의 인터뷰에서 선언: "카자흐스탄에서, 국립 은행은 \ [가상 화폐 \]를 향해 매우 보수적 이다, 나는 상대적으로 엄격한 규정을 환영 합니다.
@@ -14,6 +16,6 @@ kg, 키르기스스탄에서 가상 화폐에 대 한 투자가 가능 합니다
 
 # # 우즈베키스탄 규정 최근 우즈베키스탄은 무역 및 광업을 인정 하 고 현지 암호화 거래자를 과세 로부터 면제 하는 등 현지 암호화 산업에 대 한 많은 양의 규제 법을 도입 했습니다.
 
-Original source: [From Kazakhstan to Uzbekistan: How Cryptocurrencies Are Regulated in Central Asia](https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia)
+[Original source](https://cointelegraph.com/news/from-kazakhstan-to-uzbekistan-how-cryptocurrencies-are-regulated-in-central-asia)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

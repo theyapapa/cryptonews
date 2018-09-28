@@ -1,5 +1,7 @@
 # 월마트의 최신 블록 체인 특허는 로봇이 공급망에 걸쳐 배달을 수행 할 수 있습니다 ...
 
+###### 2018-09-01
+
 미국 소매 업체인 월마트는 8 월 30 일 출시 된 공식 특허 문서에 따라 미국 특허 상표청 (USPTO)에 게 블록 체인 시스템을 납품 하는 특허를 신청 했습니다.
 
 새로운 특허는 안전한 납품을 가능 하 게 하기 위하여 "자치 전자 장치의 현장에서 인증" 실행을 위한 기술을 제공 하는 것을 작정 이다.
@@ -14,6 +16,6 @@
 
 7 월 중순, 소매 거 인은 블록 체인 전원 공급 관리 시스템에 대 한 특허를 획득 하 여 구매자가 서명 하 고 수집할 수 있을 때까지 물품을 안전 하 게 보관할 수 있습니다.
 
-Original source: [Walmart’s Latest Blockchain Patent Lets Robots Conduct Deliveries Across Supply Chain](https://cointelegraph.com/news/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain)
+[Original source](https://cointelegraph.com/news/walmarts-latest-blockchain-patent-lets-robots-conduct-deliveries-across-supply-chain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

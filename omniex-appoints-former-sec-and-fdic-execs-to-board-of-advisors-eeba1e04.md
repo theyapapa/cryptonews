@@ -1,5 +1,7 @@
 # omniex는 고문 위원회에 전직 SEC 및 FDIC 경영진을 임명 ...
 
+###### 2018-08-07
+
 기관 중심의 암호화 거래 플랫폼 omniex는 보도 자료 8 월 7 일에 따르면, 주요 미국 금융 규제의 전 경영진을 포함 한 높은 프로필 전문가와의 직원을 확장 했다.
 
 omniex는 고문 위원회의 구성원으로 전직 미국 증권 거래 위원회 (SEC) 회장 아서 레 빗과 연방 예금 보험 공사 (FDIC)의 자 쉴라 bair을 임명 했다.
@@ -14,6 +16,6 @@ levitt, 누가 20-5와 최장-1993에서 2001에 이르기까지, 기관 투자�
 
 omniex는 기관 투자자를 위한 사무실 투자 및 거래 플랫폼입니다.
 
-Original source: [Omniex Appoints Former SEC and FDIC Execs to Board of Advisors](https://cointelegraph.com/news/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors)
+[Original source](https://cointelegraph.com/news/omniex-appoints-former-sec-and-fdic-execs-to-board-of-advisors)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

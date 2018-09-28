@@ -1,5 +1,7 @@
 # 은행 보고서: 지역 간의 암호화 가격 격차, 외국 거래소는 다시 넓힐 수 ...
 
+###### 2018-09-11
+
 한국 중앙 은행, 한국 은행 (BoK), 지역 및 외국 거래소 간의 암호화 가격 격차의 또 다른 가능성을 경고 했다, 지역 뉴스 에이전시 컷 뉴스가 9 월 11 일 보도 했다.
 
 이 보고서에서 은행은 한국 거래소와 해외 암호화 거래소에서 암호화 가격의 차이로 구성 된 소위 "김치 프리미엄"의 또 다른 출현에 대해 대 중에 게 경고 했다.
@@ -14,6 +16,6 @@
 
 최근, 한국의 금융 감독원 (FSS)은 암호화 및 ICO 규제 당국 간의 국제적인 협력이 필요 하다는 것을 제안 했으며,이는 국가의 주요 과제가 "거래의 투명성을 개선 하 여 불법적인 활동을 막는다. "
 
-Original source: [Bank of Korea Report: Crypto Price Gap Between Local, Foreign Exchanges Could Widen Again](https://cointelegraph.com/news/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again)
+[Original source](https://cointelegraph.com/news/bank-of-korea-report-crypto-price-gap-between-local-foreign-exchanges-could-widen-again)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

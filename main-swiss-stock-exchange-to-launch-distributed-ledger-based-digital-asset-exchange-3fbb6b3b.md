@@ -16,6 +16,6 @@ SDX는 2019년 중반에 시작할 때 세계 최초로 거래, 결산 및 양�
 
 이번 주에는 유럽 최대의 상장지수펀드 (ETF) 호스터, 네덜란드  [🔗](https://cointelegraph.com/tags/netherlands)  스피드 트레이더 등 유럽 최대 규모의 상장지수펀드 (ETF) 를 발견했다  [🔗](https://cointelegraph.com/news/dutch-speed-trading-firm-enters-crypto-market-despite-regulator-s-warnings)  발표했다. 이는 필리핀 금융당국의 예약에도 불구하고 크리르와 관련된 것으로 알려졌다.
 
-Original source: [Main Swiss Stock Exchange to Launch Distributed Ledger-Based ‘Digital Asset’ Exchange](https://cointelegraph.com/news/main-swiss-stock-exchange-to-launch-distributed-ledger-based-digital-asset-exchange)
+[Original source](https://cointelegraph.com/news/main-swiss-stock-exchange-to-launch-distributed-ledger-based-digital-asset-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

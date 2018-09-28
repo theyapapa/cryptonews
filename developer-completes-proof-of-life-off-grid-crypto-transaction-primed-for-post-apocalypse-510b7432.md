@@ -1,5 +1,7 @@
 # 개발자는 사후 종말에 대 한 "생명 증명" 오프 그리드 암호화 트랜잭션을 완료 ...
 
+###### 2018-09-18
+
 트위터에서 "다니엘 존스" 라고 알려진 개발자는 단파 라디오와 블록 체인을 사용 하 여 태양 열로 구동 되는 오프 그리드 암호화 트랜잭션을 완료 한다고 주장 하며, 다음 웹 보고서는 9 월 18 일 화요일입니다.
 
 오프 그리드 트랜잭션은 오픈 소스 블록 체인 네트워크 ' 버스트 '에 완료 하 고 그냥 휴대용 하드 드라이브, 태양 전지 팩과 단파 라디오를 참여, 한 프로젝트 devs의 짹짹에 밝혀 9 월 15 일: "그것은 내가 당신에 게 선물 큰 영광입니다 첫 번째 $burst 라디오 트랜잭션입니다.
@@ -12,6 +14,6 @@ https://explore.burst.cryptoguru.org/transaction/17490887355364942154 "개발자
 
 존스가 강조 하 고 있듯이, 아마추어 라디오의 사용은 FCC의 라이센스를 필요로 하 고, 개발자는 실험을 활성화 라이센스 연산자를 공개 하지 않기로 결정 했다.
 
-Original source: [Developer Completes "Proof-of-Life" Off-Grid Crypto Transaction Primed for Post-Apocalypse](https://cointelegraph.com/news/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse)
+[Original source](https://cointelegraph.com/news/developer-completes-proof-of-life-off-grid-crypto-transaction-primed-for-post-apocalypse)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # binhood: 어떻게 빠르게 성장 하는 주식 거래 응용 프로그램은 암호에 합격 ...
 
+###### 2018-09-10
+
 시리즈 D의 라운드와 $1억1000만 시리즈 C 라운드에서 $3억6300만를 모금 후, binrohood는 그것에 게 현재 미국에서 두번째로 가장 가치 있는 핀 테크 시작 하 고, $56억에 상당 했다, 거기에 보도 500만 사용자와 거래를 수행 하는 robinhood 플랫폼에서 가상 화폐.
 
 # # 어떤 로비 후드 이며 어떻게 그것은 "millennials에 대 한 거래 애플 리 케이 션으로 언론에 의해 더빙 작동," 암호화에 개입 하기 전에, binrohood 주식 거래에 대 한 전적으로 모바일 응용 프로그램으로 존재.
@@ -14,6 +16,6 @@
 
 디지털 통화에 관해서는, binrohood 암호화 응용 프로그램은 여전히 좋은 평판을 즐기고 있으며, 설립 된 선수에 의해 부과 된 거래 수수료의 피곤 작은 투자자에 낙관론을 생산, 실질적인 논란을 촉발 하지 않았다.
 
-Original source: [Robinhood: How the Fast-Growing Stock Trading App Got Into Crypto](https://cointelegraph.com/news/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto)
+[Original source](https://cointelegraph.com/news/robinhood-how-the-fast-growing-stock-trading-app-got-into-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

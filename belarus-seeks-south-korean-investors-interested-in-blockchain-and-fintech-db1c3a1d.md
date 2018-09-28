@@ -1,5 +1,7 @@
 # 벨라루스는 블록 체인과 핀 테크에 관심이 있는 한국 투자자 들을 찾고 있습니다.
 
+###### 2018-09-06
+
 벨라루스어 외교관 들은이 나라의 성장 하는 블록 체인과 핀 테크 산업을 위해 남한 투자자 들을 찾고 있으며, 한국 중앙 일보는 9 월 6 일 보도 했다.
 
 화요일에 서울을 방문 하는 동안 벨라루스 안드레이 Dapkiunas 부장관은 벨라루스가 블록 체인을 포함 한 "제 4 차 산업혁명" 기술에 관심이 있는 한국 투자자 들과의 관계를 확립 하기 위해 노력 한다고 밝혔습니다. 인공 지능 (AI).
@@ -14,6 +16,6 @@ Dapkiunas는 "벨라루스와 한국 간의 상호 관심에 대 한 잠재력�
 
 벨라루스는 명확 하 게 5 월에 경제의 디지털화에 대 한 위치를 정의, 때 통신 및 정보화의 장관 세르게이 popkov 디지털 기술은 "경제를 변환 할 수 있는 능력으로 인해 최우선으로 간주 되 고, 공공 행정 및 사회 봉사. "
 
-Original source: [Belarus Seeks South Korean Investors Interested in Blockchain and Fintech](https://cointelegraph.com/news/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech)
+[Original source](https://cointelegraph.com/news/belarus-seeks-south-korean-investors-interested-in-blockchain-and-fintech)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

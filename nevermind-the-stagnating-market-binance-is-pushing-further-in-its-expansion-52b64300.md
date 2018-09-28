@@ -1,5 +1,7 @@
 # 신경 끄시고 정체 시장, binance는 확장에 더 밀고 있다 ...
 
+###### 2018-09-24
+
 9 월 15 일은 binance 공동 설립자 겸 CEO 인 changpeni 자오에서 발표와 함께 (이 라고도 ' CZ '): 가장 큰 글로벌 암호 교환 중 하나는 싱가포르에서 암호화 피아트 교환을 테스트 하기 시작 합니다.
 
 # # 유럽으로의 정복 이전 9 월에, 빈은 몰타 증권 거래소의 핀 테크 및 디지털 자산 자회사 msx PLC와 양해 각 서 (MOU)를 체결 했다.
@@ -14,6 +16,6 @@
 
 cointelegraph와 독점 인터뷰에서 CZ은 떨어지는 무역 볼륨에 의해 unfazed 등장-binance 및 기타 암호 교환-2018 전체에 걸쳐, "시장은 항상 과민 반응"-둘 다 일이 잘 될 때, 그리고 것 들을 냉각 지적-그리고 그는 "이 여러 번 본적이 있어: 5 ~ 6 번, 연간 주기에 있습니다."
 
-Original source: [Nevermind the Stagnating Market, Binance Is Pushing Further in Its Expansion](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
+[Original source](https://cointelegraph.com/news/nevermind-the-stagnating-market-binance-is-pushing-further-in-its-expansion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

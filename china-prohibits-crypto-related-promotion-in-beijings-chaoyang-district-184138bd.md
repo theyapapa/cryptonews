@@ -1,5 +1,7 @@
 # 중국은 베이징의 차오양 지구에서 암호화 관련 프로 모션을 금지 ...
 
+###### 2018-08-23
+
 출처: 신문은 많은 보도 금지, 첫 번째 지역 뉴스 애플 리 케이 션으로 알려진 jwview로 덮여, 다른 지역으로 뿐만 아니라, 중국의 cointelegraph 특 파 원에 따라 확장 될 수 있다고 생각 합니다.
 
 cointelegraph 일본이 더 보고 된 대로, 조 양 지구에 있는 금지는 커뮤니케이션 채널을 표적으로 하는 더 넓은 측정의 청소와 교차 한다 또는 중국 투자자가 처음 동전 제물 (ICO)에 접근을 얻을 수 있는 "허점" 암호화 관련 활동.
@@ -14,6 +16,6 @@ cointelegraph와 공유 하는 이메일에서, 암호화 미디어 사이트 co
 
 이 2 월, 중국은 큰 방화벽에 근해 암호 화폐 교환 및 ICO 웹사이트를 추가, 같은 달 암호화 관련 광고는 중국 검색 엔진 바이 두와 소셜 미디어 플랫폼 weibo에서 제거 되었습니다.
 
-Original source: [China Prohibits Crypto-Related Promotion in Beijing’s Chaoyang District](https://cointelegraph.com/news/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district)
+[Original source](https://cointelegraph.com/news/china-prohibits-crypto-related-promotion-in-beijings-chaoyang-district)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

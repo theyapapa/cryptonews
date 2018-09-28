@@ -1,5 +1,7 @@
 # 암호화 수집품 사이트는 새로운 게임, 여론 조사 및 콘텐츠를 만들 개발자를 초대 할 계획 ...
 
+###### 2018-08-29
+
 암호화 매니아가 공공 수치에서 영감을 얻은 디지털 수집품을 소유할 수 있는 블록 체인 기반 플랫폼은 새로운 게임과 경쟁이 급성장 하는 시장에 추가 될 것 이라는 희망으로 개발자에 게 생태계를 개방 하는 것을 계획 하 고 있습니다.
 
 그것의 짝 지어주는 게임은 각 쌍의 합병 인 아주 새로운 cryptons의 결과로 유명 인사와 결합 된 2 명의 정치가를 보았다.
@@ -14,6 +16,6 @@ mycryptons는 또한 사용자가 도구의 배열을 사용 하 여 모든 cryp
 
 일단 특정 목표가 도달 되 면-200 ETH는, 예를 들면-crypton는을 위해 이익을 수집 하기 위하여 후에 복귀 한다.
 
-Original source: [Crypto Collectibles Site Plans to Invite Developers to Create New Games, Polls and Content](https://cointelegraph.com/news/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content)
+[Original source](https://cointelegraph.com/news/crypto-collectibles-site-plans-to-invite-developers-to-create-new-games-polls-and-content)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # pwc: 규제 불확실성 및 사용자 신뢰의 부족은 블록 체인 채택을 억제 ...
 
+###### 2018-08-27
+
 규제 불확실성과 신뢰는 8 월 27 일 ' 빅 네 ' 감사 회사인 프라이스 워터 쿠퍼 스 (pwc)가 발표 한 연구에 따르면, 기업 간의 블록 체인 도입에 대 한 주요 장벽입니다.
 
 pwc에 의해 실시 15 개국에서 블록 체인의 개발과 잠재력에 대 한 의견에 600 임원 조사.
@@ -16,6 +18,6 @@ pwc에 의해 실시 15 개국에서 블록 체인의 개발과 잠재력에 대
 
 미국 및 중국은 응답자 들이 블록 체인 개발을 위한 선도적인 시장으로 선정 되었으며, 각각 29%에서 18%로 투표 했습니다.
 
-Original source: [PwC: Regulatory Uncertainty and Lack of User Trust Inhibit Blockchain Adoption](https://cointelegraph.com/news/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption)
+[Original source](https://cointelegraph.com/news/pwc-regulatory-uncertainty-and-lack-of-user-trust-inhibit-blockchain-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

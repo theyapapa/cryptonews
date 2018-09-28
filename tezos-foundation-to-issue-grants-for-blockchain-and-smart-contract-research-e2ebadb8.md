@@ -1,5 +1,7 @@
 # tezos 재단은 블록 체인 및 스마트 계약 연구에 대 한 보조금을 발급 합니다 ...
 
+###### 2018-08-10
+
 tezos 재단은 8 월 9 일 발표 된 공식 보도 자료에 따르면 블록 체인 기술 및 스마트 계약 개발을 위한 연구 기관에 재정 보조금을 발행할 것 이라고 밝혔습니다.
 
 tezos 재단은 4 개의 연구 기관에 보조금을 제공 합니다: 코넬 대학, 베이 라 인테리어 대학, 일리노이 대학 어바나-샴페인, 그리고 프랑스-ioi, 보도 자료 노트.
@@ -12,6 +14,6 @@ emin gern sirer는 "tezos에 적용 될 수 있는 프로토콜을 개발 하는
 
 이번 여름, tezos 재단은 8 월 오픈 grantmaking 과정을 통해 연구 제안서에 대 한 호출을 개최 것 이라고 성명을 발표 했다.
 
-Original source: [Tezos Foundation to Issue Grants for Blockchain and Smart Contract Research](https://cointelegraph.com/news/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research)
+[Original source](https://cointelegraph.com/news/tezos-foundation-to-issue-grants-for-blockchain-and-smart-contract-research)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

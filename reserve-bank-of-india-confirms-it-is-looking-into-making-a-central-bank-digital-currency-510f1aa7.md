@@ -1,5 +1,7 @@
 # 예약 은행은 인도의 중앙 은행 디지털 통화를 만들기로 찾고 확인 ...
 
+###### 2018-08-30
+
 인도의 중앙 은행, 예비 은행은 인도의 (타 점), 남북-부서 그룹 루피-백업 중앙 은행의 디지털 통화 (cbdc), 경제학 타임즈 리포트 8 월 30 일 발행의 타당성을 분석 하는 임무가 주어의 생성을 확인 했다.
 
 그룹의 설립 및 초점은 은행의 연례 보고서 2017-18, 4 월 인도의 통화 정책 위원회 (MPC)의 회의를 따라 이전 내용을 확인에 대 한 자세한 되었습니다.
@@ -14,6 +16,6 @@ EY 인도의 mahesh makhija는 디지털 위조의 주위에 문제점이 해결
 
 암호 교환 주택의 어두운 풀/현금 및 해외 지점으로의 마이 그 레이 션의 가능성 \ [제기 \] 안티 돈세탁에 대 한 우려 (AML)/테러의 자금 조달을 퇴치 (cft) 및 과세 문제. "
 
-Original source: [Reserve Bank of India Confirms It Is Looking Into Making a Central Bank Digital Currency](https://cointelegraph.com/news/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency)
+[Original source](https://cointelegraph.com/news/reserve-bank-of-india-confirms-it-is-looking-into-making-a-central-bank-digital-currency)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

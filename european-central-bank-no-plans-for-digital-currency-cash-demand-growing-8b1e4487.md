@@ -1,5 +1,7 @@
 # 유럽 중앙 은행: ' 아니 계획 ' 디지털 통화, 현금 수요 증가 ...
 
+###### 2018-09-14
+
 유럽 중앙 은행 (ECB)은 "아니 계획" 자체 디지털 통화를 발행 하고있다, 대통령은 마리오 dradhi 유럽 의회 수요일, 9 월 12 일 말했다.
 
 MEP jonás fernández에 의해 쿼리를 해결, dradhi "실질적인 개발" 여전히 중앙 은행이 그들을 사용 하는 것이 좋습니다 전에 가상 화폐 뒤에 기본 기술에 필요 했다.
@@ -14,6 +16,6 @@ MEP jonás fernández에 의해 쿼리를 해결, dradhi "실질적인 개발" �
 
 올해는 ECB와 은행의 국제 정착지에 대 한 공동 보고서 (BIS), 또한 사전에 더 많은 연구에 대 한 필요성을 고려 하 여 이러한 통화의 잠재적인 발사의 "부작용"을 강조 했다.
 
-Original source: [European Central Bank: ‘No Plans’ for Digital Currency, Cash Demand Growing](https://cointelegraph.com/news/european-central-bank-no-plans-for-digital-currency-cash-demand-growing)
+[Original source](https://cointelegraph.com/news/european-central-bank-no-plans-for-digital-currency-cash-demand-growing)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

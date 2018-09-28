@@ -1,5 +1,7 @@
 # 도이치 뱅크 기관 상인은 일본어 암호화 시작을 조인 ...
 
+###### 2018-09-03
+
 전 도이치 은행 상인은 일본 암호 교환 시작 fxcoin 주식 회사에 합류 했다, 블룸버그는 9 월 3 일 보고.
 
 발표에 따르면, yasuo 마쓰다, 도이치 은행의 기관 상인, 9 월 2018에서 시작 하는 수석 암호화 전략가 fxcoin에 참여 합니다.
@@ -14,6 +16,6 @@ fxcoin의 설립자 이자 CEO 인 토모 오 온 시는 도이치 뱅크의 베
 
 12 월 하순, 도이치 은행 torsten slok의 수석 국제 이코노미 스 트는 주요 암호 화폐 비트 코인에 대 한 회의론을 표명, 2018에서 세계 경제의 주요 위험 중 하나로 서 암호 화폐의 잠재적인 충돌을 보고.
 
-Original source: [Deutsche Bank Institutional Trader Joins Japanese Crypto Startup](https://cointelegraph.com/news/deutsche-bank-institutional-trader-joins-japanese-crypto-startup)
+[Original source](https://cointelegraph.com/news/deutsche-bank-institutional-trader-joins-japanese-crypto-startup)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 알리바바의 개미 금융 블록 체인 백엔드 서비스 플랫폼을 실행 하는 ...
 
+###### 2018-09-21
+
 개미 금융, 중국 전자 상거래 거 대 한 알리바바의 금융 제휴, 블록 체인 baas (백엔드-서비스로) 플랫폼, 지역 뉴스 아울렛 중국 머니 네트워크 보고서 9 월 21 일을 시작 합니다.
 
 발표 소문에의 하면 ant 금융 부사장 장 guifei에 의해 개미 기술 탐사 컨퍼런스 (ATEC) 항 주에서 어제 했다.
@@ -14,6 +16,6 @@
 
 알리바바 설립자 잭 마는 몇 년 동안 블록 체인에 alipay의 참여를 증가 신호 있다, 개미 금융 가장 최근 보안 $140억 기술 개발을 위한 자금 조달이 6 월.
 
-Original source: [Alibaba's Ant Financial to Launch Blockchain Backend-as-a-Service Platform](https://cointelegraph.com/news/alibabas-ant-financial-to-launch-blockchain-backend-as-a-service-platform)
+[Original source](https://cointelegraph.com/news/alibabas-ant-financial-to-launch-blockchain-backend-as-a-service-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

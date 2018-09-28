@@ -1,5 +1,7 @@
 # 암호화 마이닝 이란 당국에 의해 산업으로 인정 ...
 
+###### 2018-09-04
+
 이란의 최고 사이버 공간 위원회 장관은 국가 정부의 다양 한 부처는 산업으로 암호화 마이닝을 허용 한 것으로 나타났다, 지역 뉴스 에이전시 IBENA 보고서 9 월 4.
 
 보고서에 따르면 사이버 공간 위원회 장관 abohassan firoozabadi는 비트 코인 (BTC)과 같은 암호 화폐의 채굴이 주요 정부 당국에 의해 산업으로 승인 되었다는 것을 강조 했습니다.
@@ -14,6 +16,6 @@ firoozabadi 이란 국립 사이버 공간 센터는 암호 화폐 채굴 규제
 
 그 당시, 이란의 최고 사이버 공간 위원회에 대 한 규정을 제도 담당 부국장은 국가 암호 화폐 발사의 아이디어를 적극적으로 추진 되 고 있다고 주장 했다.
 
-Original source: [Crypto Mining Accepted as an Industry by Iranian Authorities](https://cointelegraph.com/news/crypto-mining-accepted-as-an-industry-by-iranian-authorities)
+[Original source](https://cointelegraph.com/news/crypto-mining-accepted-as-an-industry-by-iranian-authorities)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

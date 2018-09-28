@@ -1,5 +1,7 @@
 # 리눅스 재단은 새로운 hyperledger 블록 체인 교육 과정을 시작 ...
 
+###### 2018-09-06
+
 Linux Foundation은 9 월 5 일 발표 된 보도 자료에 따라 hyperledger 패브릭 블록 체인 기술에 대 한 새로운 고급 교육 과정에 대 한 등록을 열었습니다.
 
 새로운 코스 ' hyperledger 원단의 기본 '은 재단의 기업 지향적 블록 체인 교육 활동에 추가 된 것으로, 비영리 온라인 학습을 통해 이미 온라인 자습 형 "비즈니스를 위한 블록 체인" 과정을 포함 하 고 있습니다. 플랫폼 edX.org
@@ -14,6 +16,6 @@ Linux Foundation은 9 월 5 일 발표 된 보도 자료에 따라 hyperledger �
 
 블록 체인 부문의 빠른 확장을 유지 하면서 광범위 한 주요 국제 대학은 블록 체인, 스마트 계약 및 암호 화폐 관련 과정을 제공 합니다.
 
-Original source: [Linux Foundation Launches New Hyperledger Blockchain Training Course](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
+[Original source](https://cointelegraph.com/news/linux-foundation-launches-new-hyperledger-blockchain-training-course)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 중국 TV에 대 한 네트워크를 개발 하는 # 시작 유망 인스턴트 암호 거래 ...
 
+###### 2018-09-11
+
 실리콘 밸리 기반의 스타트업 spend는 인스턴트 크립 토 거래에 대 한 블록 체인 확장 문제를 해결 하기 위한 솔루션 개발을 전문으로 하 여 중국 기반의 it 회사인 상하이 코드 센터 산업과 협력 하 고 있음을 발표 하 고 "다음 세대 "중국 케이블 텔레비전 네트워크에 대 한 네트워크 인프라.
 
 "spend의 최첨단 기술을 채택 함으로써 현재 네트워크의 현실을 전복 하 고 빠른 거래를 가능 하 게 하 고 비용을 획기적으로 절감할 수 있는 차세대 네트워크 인프라 구축을 계획 하 고 있습니다." 회사의 언론 릴리스 시세 씨 콴 laisheng, 상하이 코드 센터 산업 주식 회사의 대통령
@@ -14,6 +16,6 @@
 
 spend의 네트워크는 피싱 방지 블록 체인을 기반으로 구축 되어 고객의 금융 경험을 다른 시장 솔루션 보다 상대적으로 안전 하 게 만듭니다.
 
-Original source: [Startup Promising Instant Crypto Transactions to Develop Network for Chinese TV](https://cointelegraph.com/news/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv)
+[Original source](https://cointelegraph.com/news/startup-promising-instant-crypto-transactions-to-develop-network-for-chinese-tv)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

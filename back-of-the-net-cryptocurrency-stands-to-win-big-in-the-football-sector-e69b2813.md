@@ -1,5 +1,7 @@
 # 인터넷의 뒷면: 암호 화폐는 축구 부문에서 큰 승리를 의미 합니다 ...
 
+###### 2018-09-17
+
 dreyfus는 전략의 목적이 축구 클럽의 기업 계층 구조를 흔들 수 있는 것이 아니라, 오히려 암호화를 통해 수익을 창출할 수 있는 팬의 참여를 극대화 한다는 것을 기록 합니다.
 
 찰스 pittar, 런던 축구 거래소의 기업 CEO, 조직의 목표에 빛을 흘렸다: "우리의 비전은 그들의 자금 조달을 위한 토큰 자금을 활용 하는 축구 클럽을 허용 하는 것입니다 토큰화 된 파이 낸 싱을 제공 하 여 필요 토큰 디자인 및 발급 서비스를 포함 하는 인프라. "
@@ -14,6 +16,6 @@ lfe는 블록 체인과 암호 화폐를 사용 하 여 클럽과 팬을 하나�
 
 지불 방법 블록 체인으로 # # 암호화는 이미 축구 클럽의 소유권에 대 한 최초의 주목할 만한 영향을 만들었습니다.
 
-Original source: [Back of the Net: Cryptocurrency Stands to Win Big in the Football Sector](https://cointelegraph.com/news/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector)
+[Original source](https://cointelegraph.com/news/back-of-the-net-cryptocurrency-stands-to-win-big-in-the-football-sector)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

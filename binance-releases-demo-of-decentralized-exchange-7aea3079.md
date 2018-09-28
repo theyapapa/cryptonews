@@ -1,5 +1,7 @@
 # binance는 분산 된 교환의 데모를 출시 ...
 
+###### 2018-08-09
+
 암호 화폐 거래 플랫폼의 CEO 인 changpeng 자오는 오늘, 8 월 9 일 짹 짹짹에서 플랫폼의 분산형 교환의 데모를 발표 했다.
 
 트 윗에 첨부 된 6 분 길이의 비디오에서, Zhao는 분산형 거래소의 "캐주얼 하 고, 초기, 사전 제공" 데모를 선보였습니다.
@@ -14,6 +16,6 @@ Zhao은 그때 binance이 그것의 탈 중앙화 된 교환 (위)에 채무 불
 
 이번 봄에 운영을 몰타로 옮긴 binance는 코인 마켓 캡에 따르면, 거래량에 따른 1 번의 암호 교환입니다.
 
-Original source: [Binance Releases Demo of Decentralized Exchange](https://cointelegraph.com/news/binance-releases-demo-of-decentralized-exchange)
+[Original source](https://cointelegraph.com/news/binance-releases-demo-of-decentralized-exchange)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

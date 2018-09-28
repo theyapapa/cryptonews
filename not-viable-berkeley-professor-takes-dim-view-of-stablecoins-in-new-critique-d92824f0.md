@@ -1,5 +1,7 @@
 # 안 ' 실용적 '? 버클리 교수는 새로운 비판에 stadecoins의 희미 한 보기를 걸립니다 ...
 
+###### 2018-09-12
+
 버클리 대학의 교수 stadecoins는 새로운 비판 화요일, 9 월 11 일 출판에 "신화" 라고 주장 하고있다.
 
 , 작업에 밧줄 (usdt)와 같은 잘 알려진 자산을 포함 신흥 시장 부문을 복용, 경제학 교수 배리 eichengreen은 stilecoins가 자동으로 "실용적" 단지 그들이 보유 하는 불 렀 고 때문에 아니라고 주장, 예를 들어, 피아트 통화.
@@ -14,6 +16,6 @@ cointelegraph가 보고 된 바와 같이, 이번 주 규제 녹색 빛을 모�
 
 그러나 eichengreen의 경우, 이러한 자산은 토큰의 담보의 완전성에 따라 세 가지 범주로 분류 되며,이는 전체, 부분 및 중복 되지 않은 것으로 서 각각의 약점을가지고 있습니다.
 
-Original source: [Not ‘Viable’? Berkeley Professor Takes Dim View of Stablecoins in New Critique](https://cointelegraph.com/news/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique)
+[Original source](https://cointelegraph.com/news/not-viable-berkeley-professor-takes-dim-view-of-stablecoins-in-new-critique)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

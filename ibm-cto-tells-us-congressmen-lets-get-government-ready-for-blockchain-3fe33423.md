@@ -1,5 +1,7 @@
 # IBM의 CTO는 우리에 게 국회 의원 '의 블록 체인에 대 한 정부의 준비를 하자 '를 알려줍니다 ...
 
+###### 2018-09-24
+
 IBM과 미국 의회 블록 체인 코 커 스의 회원은 cointelegraph가 참석 한 언론 통화에 따라, 오늘 9 월 24 일 회의 동안 ID 시스템, 지불 및 공급망에 대 한 블록 체인의 사용을 논의 했다.
 
 IBM은 최근 "정부에 대 한 블록 체인의 영향: 신원, 지불 및 공급망에 대 한 인 사이트" 라는 제목의 보고서를 미국 의회 블록 체인 코 커 스와 공동으로 발표 했습니다.
@@ -14,6 +16,6 @@ IBM과 MIT는 국회 의원 들과 3 회의를 개최 하 여 블록 체인 혁�
 
 이번 주 초에 보고 된 cointelegraph로, 미국 하 원 의원과 블록 체인 간부 위원 Tom emmer는 블록 체인 기술과 암호 화폐의 개발을 지원 하기 위해 3 개의 지폐를 소개할 뿐만 아니라 안전한 항구를 구축 한다고 발표 했습니다. "갈래" 디지털 자산을 가진 납세자.
 
-Original source: [IBM CTO Tells US Congressmen ‘Let's Get Government Ready for Blockchain’](https://cointelegraph.com/news/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain)
+[Original source](https://cointelegraph.com/news/ibm-cto-tells-us-congressmen-lets-get-government-ready-for-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 빠른 & 이음새가 없는: 크로스 보더 지불 시장을 위한 인종 ...
 
+###### 2018-09-09
+
 9 월 첫째 주에는 IBM이 자사의 DLT 전원 결제 시스템, 블록 체인 월드 와이어 (bww)를 베타에서 바로 사용할 수 있는 제품으로 홍보 한다고 발표 하면서 게임을 바꾸는 뉴스 브레이크를 보았습니다.
 
 스텔라 블록 체인에서 운영 되는 새로운 금융 철도는 "거의 실시간으로" 최후로 국경을 넘는 지불을 청산 하 고 정산 하는 인프라를 제공 하며, 동시에 제 3 자 중개를 제거 하 여 거래 비용을 절감 합니다. 과정에서.
@@ -14,6 +16,6 @@ IBM과 스텔라가 처음으로 공동 개발 크로스-국경 금융 솔루션
 
 이 시점에서 블록 체인 세계 전선에 대해 알려진 것을 보면, 시스템의 디자인과 기능은 글로벌 은행의 좋은 품위를 위한 레이스에서 리플의 xrapid 레일에 대해 직접 구 덩이.
 
-Original source: [Fast & Seamless: The Race for the Cross-Border Payments Market](https://cointelegraph.com/news/fast-seamless-the-race-for-the-cross-border-payments-market)
+[Original source](https://cointelegraph.com/news/fast-seamless-the-race-for-the-cross-border-payments-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

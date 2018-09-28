@@ -1,5 +1,7 @@
 # jp 오르간 CEO 제이미 dimon은 비트 코인 강타로 돌아갑니다, 통화 암호 화폐 ' 사기 ' ...
 
+###### 2018-08-06
+
 jp 모건 CEO 제이미 디 몬은 비트 코인에 대 한 그의 더 중요 한 의견을 반환 하 고, 암호 화폐를 "사기" 라고 부르고, 그가 "관심 없음" 이라고 말하면서 블룸버그가 8 월 5 일 일요일을 보도 했습니다.
 
 dimon은 그가 미국 경제 전망에 대해 만든 일반적인 의견의 일환으로 암호 화폐를 포함 한 아스펜 연구소의 25 일 연례 여름 축 하 갈라 토요일에 연설 했다.
@@ -14,6 +16,6 @@ dimon은 그가 미국 경제 전망에 대해 만든 일반적인 의견의 일
 
 같은 인터뷰에서 dimon은 또한 블록 체인 기술 "real"을 호출 하는 포인트를 만들어--그 암호화가 아니라는 것을 암시 하는 동안 – 은행 거 인은 "그것을 테스트 \ [블록 체인 \] 그것은 많은 것 들을 위해 그것을 사용 합니다."
 
-Original source: [JPMorgan CEO Jamie Dimon Returns to Bitcoin Bashing, Calls Cryptocurrency a ‘Scam’](https://cointelegraph.com/news/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam)
+[Original source](https://cointelegraph.com/news/jpmorgan-ceo-jamie-dimon-returns-to-bitcoin-bashing-calls-cryptocurrency-a-scam)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

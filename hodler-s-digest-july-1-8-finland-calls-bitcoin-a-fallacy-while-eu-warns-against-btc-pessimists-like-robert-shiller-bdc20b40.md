@@ -147,6 +147,6 @@ IBM의 Hyperledger Fabric 기반 Blockchain Platform을 사용하는 유럽의 �
 
 뉴욕 타임즈는 예를 들어 Ripple의 XRP를 예로 들면, 그것들을 가지고 있을 때 정확히 무엇을 암호로 할 수 있는지에 대한 가장 중요한 질문에 대해 묻는다. 이 기사에서는, Ripple이 단지 금융 회사들과의 재판뿐만 아니라, 애쉬튼 커처, 스테판 콜버트와 같은 대형 퍼블리싱 스턴트와 함께 대규모의 XRP를 여러 가지 원인으로 제공하는 방법에 대해 자세히 설명합니다.
 
-Original source: [Hodler’s Digest, July 1-8: Finland Calls Bitcoin a ‘Fallacy,’ While EU Warns Against BTC Pessimists Like Robert Shiller](https://cointelegraph.com/news/hodler-s-digest-july-1-8-finland-calls-bitcoin-a-fallacy-while-eu-warns-against-btc-pessimists-like-robert-shiller)
+[Original source](https://cointelegraph.com/news/hodler-s-digest-july-1-8-finland-calls-bitcoin-a-fallacy-while-eu-warns-against-btc-pessimists-like-robert-shiller)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

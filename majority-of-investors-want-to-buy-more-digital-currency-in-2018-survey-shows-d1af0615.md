@@ -1,5 +1,7 @@
 투자자의 # 대다수는 2018에 있는 디지털 통화, 조사 쇼를 사고 싶다 ...
 
+###### 2018-09-07
+
 투자 플랫폼 sharespost에 의해 9 월 5 일 게시 된 설문 조사에 따르면, 공인 및 소매 투자자의 대부분은 향후 12 개월 동안 자신의 암호화 자산 보유를 증가 할 계획 이다.
 
 최근 설문 조사는 2018에서 암호 화폐 거래액의 60% 감소에도 불구 하 고 소비자와 투자자가 가상 화폐에 대해 낙관적으로 남아 있음을 보여줍니다.
@@ -14,6 +16,6 @@
 
 소비자와 투자자 모두 블록 체인 통합의 성공은 주로 관련 상업적 응용 프로그램의 보급과 기술에 대 한 적절 한 교육에 달려 있다고 생각 합니다.
 
-Original source: [Majority of Investors Want to Buy More Digital Currency in 2018, Survey Shows](https://cointelegraph.com/news/majority-of-investors-want-to-buy-more-digital-currency-in-2018-survey-shows)
+[Original source](https://cointelegraph.com/news/majority-of-investors-want-to-buy-more-digital-currency-in-2018-survey-shows)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 블록 체인 신탁 회사 Paxos 출시 뉴욕 레 귤 레이 터 승인, USD 지원 stelcoin ...
 
+###### 2018-09-10
+
 블록 체인 신탁 회사 Paxos는 9 월 10 일 발표 된 보도 자료에 따르면 뉴욕 규제 당국의 승인을 받은 미국 달러의 안정화 된 stelcoin를 출시 했습니다.
 
 달러에 의해 뒷받침 1:1,이 더 리 움 블록 체인 기반 statcoin, 더빙 ' Paxos 표준, ' 뉴욕 주 금융 서비스의 승인 되었습니다 (nydfs), 자산 발행 및 거래에 대 한 규제 감독을 행사할 것입니다.
@@ -14,6 +16,6 @@ Paxos 공동 설립자 겸 CEO 찰스 cascarilla 그는 새로운 자산이 "돈
 
 오늘 또한 winklevoss 쌍둥이 ' 자신의 뉴욕 레 귤 레이 터 승인 미국 달러의 출시를 보았다-st을 지원, 제미니 달러 더빙.
 
-Original source: [Blockchain Trust Company Paxos Launches NY Regulator-Approved, USD-Backed Stablecoin](https://cointelegraph.com/news/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin)
+[Original source](https://cointelegraph.com/news/blockchain-trust-company-paxos-launches-ny-regulator-approved-usd-backed-stablecoin)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 인도는 암호 화폐와 ico를 공부 하기 위해 미국, 일본, 스위스에 공무원을 보냅니다 ...
 
+###### 2018-09-03
+
 인도 증권 거래 위원회 (sebi)는 2017-18 연례 보고서에 따르면 암호 화폐 및 초기 코인 오퍼링 (ICO)을 연구 하기 위해 다른 국가 들에 대 한 투어를 조직 했습니다.
 
 인도 레 귤 레이 터는 당국이 이미 일본 금융 서비스 기관 (FSA), 영국 금융 행동 당국 (FCA) 및 스위스 금융 시장 감독의 암호 화폐 및 ico를 공부 하기 위해 "스터디 투어"를 시행 한 것으로 보고 기관 (finma).
@@ -14,6 +16,6 @@ sebi 보고서는 7 월 5 일에 영향을 미치는 논란의 타 점 결정의
 
 인도 대 심원은 9 월 11 일까 지 나중에 연기 된 7 월 청각까지 타 점의 금지를 확정 했었다.
 
-Original source: [India Sends Officials to US, Japan and Switzerland to Study Cryptocurrency and ICOs](https://cointelegraph.com/news/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos)
+[Original source](https://cointelegraph.com/news/india-sends-officials-to-us-japan-and-switzerland-to-study-cryptocurrency-and-icos)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

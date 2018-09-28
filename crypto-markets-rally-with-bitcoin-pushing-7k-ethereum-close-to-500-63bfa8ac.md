@@ -48,6 +48,6 @@ CoinMarketCap  [🔗](https://coinmarketcap.com/charts/) 모든 암호화 화폐
 
 한편 이 회사의 2018년 순이익이 10억달러에 이를 것으로  [🔗](https://coinmarketcap.com/exchanges/volume/24-hour/) 하고  [🔗](https://cointelegraph.com/tags/binance) 다고  [🔗](https://cointelegraph.com/tags/changpeng-zhao)다.
 
-Original source: [Crypto Markets Rally, With Bitcoin Pushing $7K, Ethereum Close to $500](https://cointelegraph.com/news/crypto-markets-rally-with-bitcoin-pushing-7k-ethereum-close-to-500)
+[Original source](https://cointelegraph.com/news/crypto-markets-rally-with-bitcoin-pushing-7k-ethereum-close-to-500)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

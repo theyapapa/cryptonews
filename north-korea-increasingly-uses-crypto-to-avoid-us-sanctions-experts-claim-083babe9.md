@@ -1,5 +1,7 @@
 # 북한은 미국의 제재, 전문가의 주장을 피하기 위해 암호화를 사용 하는 ' 점점 ' ...
 
+###### 2018-09-25
+
 북한은 9 월 24 일 뉴스 사이트 아시아 타임즈의 두 워싱턴 기반 전문가 들에 따르면, 미국에서 부과한 제재를 회피 하기 위해 암호 화폐를 사용 하는 것이 점점 더 커지고 있다.
 
 루르 드 미 란다와 로스 델 스턴은 북한 정부에 의해 암호화의 사용에 관한 아시아 타임즈의 문의에 대 한 공동 응답을 보냈습니다.
@@ -14,6 +16,6 @@
 
 이 보고서에는 또한 북한의 암호화 교환을 만들려는 시도에 대 한 데이터가 포함 되어 있습니다.
 
-Original source: [North Korea ‘Increasingly’ Uses Crypto to Avoid US Sanctions, Experts Claim](https://cointelegraph.com/news/north-korea-increasingly-uses-crypto-to-avoid-us-sanctions-experts-claim)
+[Original source](https://cointelegraph.com/news/north-korea-increasingly-uses-crypto-to-avoid-us-sanctions-experts-claim)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

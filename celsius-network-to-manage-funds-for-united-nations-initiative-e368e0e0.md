@@ -1,5 +1,7 @@
 # 섭씨 네트워크는 유엔 이니셔티브에 대 한 기금을 관리 하는 ...
 
+###### 2018-09-21
+
 분산형 대출 및 차용 플랫폼 섭씨 네트워크는 유엔 ' 지속 가능한 개발 목표 이니셔티브 내에서 지속 가능한 개발 목표 임팩트 펀드 (sdg 임팩트 펀드)를 관리 합니다, 9 월 21 일 발표 된 보도 자료에 따르면.
 
 지속 가능한 개발 목표는 국제 프로그램은 "모두를 위한 더 나은 지속 가능한 미래를 데 려에 초점을 맞춘 것입니다."
@@ -14,6 +16,6 @@
 
 지난 4 월, 유니세프 호주는 또한 사용자가 자신의 컴퓨터의 처리 능력을 자선에 대 한 내 암호 화폐로 제공할 수 있는 이니셔티브를 발표 했습니다.
 
-Original source: [Celsius Network to Manage Funds for United Nations Initiative](https://cointelegraph.com/news/celsius-network-to-manage-funds-for-united-nations-initiative)
+[Original source](https://cointelegraph.com/news/celsius-network-to-manage-funds-for-united-nations-initiative)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

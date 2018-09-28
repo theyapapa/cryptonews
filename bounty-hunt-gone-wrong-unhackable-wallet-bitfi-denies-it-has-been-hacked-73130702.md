@@ -1,5 +1,7 @@
 # 현상금 헌트 잘못 됐어요: ' unhackable ' 지갑 bitfi 그것은 해킹 되었습니다 거부 ...
 
+###### 2018-08-07
+
 7 월, 암호 화폐 하드웨어 지갑 제조 업체 bitfi의이 그 제 큐 티브 회장, 존 맥 아 피, 그 bitfi "세계 최초의 unhackable 장치," 보안 전문가를 촉구 하는 $10만 현상금에 대 한 보안을 위반 했다 주장 했다.
 
 특히, 다른 하드웨어 지갑의 대부분과는 달리, bitfi 개인 키에 이러한 강한 강조를 넣지 않습니다., 자사의 웹사이트에 따르면: "bitfi 하드웨어 지갑이 보안 문제를 해결 한 번에 가장 우아한 방법으로 가능한-개인 키 단순히 어디에도 저장 되지 않습니다.
@@ -14,6 +16,6 @@
 
 따라서, 그들의 "해킹 bitfi" 시리즈의 후속 에피소드에서, 펜 테스트 파트너는 혐의 bitfi 장치가 저장을가지고 있다는 것을 증명 동영상을 게시: 그것에, 지갑은 존 맥 아 피의 업로드 된 동영상을 표시 합니다.
 
-Original source: [Bounty Hunt Gone Wrong: ‘Unhackable’ Wallet Bitfi Denies It Has Been Hacked](https://cointelegraph.com/news/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked)
+[Original source](https://cointelegraph.com/news/bounty-hunt-gone-wrong-unhackable-wallet-bitfi-denies-it-has-been-hacked)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

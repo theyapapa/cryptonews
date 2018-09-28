@@ -1,5 +1,7 @@
 # 황소 또는 곰? SEC 작업은 시장 가격과 상관 관계 ...
 
+###### 2018-08-13
+
 그것은 중요 한 그런 휘발성과 부족 하 게 규제 시장에, 뉴스, 그리고 낮은 정도로 가격에 영향을 미칠 수 있는 최근의 드롭 미국 증권 거래 위원회 (SEC)의 결정에 대 한 판결을 연기와 상관 기억 하는 동안 비트 코인 거래소 거래 펀드 (ETF)를 9 월 하순까지 상장 및 거래.
 
 # # SEC는 DAO 토큰을 불법 증권으로 간주 합니다. 7 월 2017 혐의 반응: 약간 0.8 년 7 월 2017, SEC는 중요 한 결정을 통해, 암호화 시장에 대 한 관심의 마크를 넣어 왔어요.
@@ -14,6 +16,6 @@ BTC와 ETH가 "유가 증권"이 아닌 # # SEC 규칙: 6 월 2018 주장 된 �
 
 그 후 며칠, 윌리엄 hinman, 기업 금융의 SEC의 부문의 이사,이 더 리 움 (ETH) 보안도 아니라, 잠재적으로이 더 리 움의 2014 ICO와 함께 끝날 수 있는 개월 긴 딜레마에 종지부를 넣어 주장 금지: "이 더 에테르의 현재 상태에 대 한 나의 이해를 바탕으로 에테르의 생성과 함께 모금을 제쳐두고 퍼 팅,이 더 리 움 네트워크와 분산 구조, 현재 제공 및 에테르의 판매는 증권 거래 되지 않습니다 \ [... \] 그리고, 비트 코인과 마찬가지로, 에테르의 현재 거래에 연방 증권 법률의 공개 정권을 적용 하는 것은 약간의 v를 추가 하는 것
 
-Original source: [Bull or Bear? How SEC Actions Correlate With Market Prices](https://cointelegraph.com/news/bull-or-bear-how-sec-actions-correlate-with-market-prices)
+[Original source](https://cointelegraph.com/news/bull-or-bear-how-sec-actions-correlate-with-market-prices)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

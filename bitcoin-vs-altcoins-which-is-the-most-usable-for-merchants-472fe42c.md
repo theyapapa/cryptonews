@@ -1,5 +1,7 @@
 # 비트 코인 대 알트 코인: 가맹점에 가장 유용 한가요? ...
 
+###### 2018-09-01
+
 하지만 bitcoin (BTC)과 다른 코인을 받아들이는 판매자의 수가 꾸준히 증가 하 고 있으며, 코인 맵에 보고 된 bitcoin 수용 상점의 수는 전 세계적으로 3716에 의해 1 년에 상승 했습니다.
 
 # # 비트 코인: 인기와 (상대적으로) 안정적인 가치 어떤 사업이 그것을 받아들이기 시작 하기 전에 암호 화폐에 의해 충족 되어야 하는 가장 간단 하 고 가장 중요 한 필요 조건의 한 개는 많은 사람들에 의해 보전 된다 이다.
@@ -14,6 +16,6 @@
 
 그리고 관점에서 이것을 넣으려면, jahosky는 회사는 올해 초에 비트 코인 현금 지불을 처리 하기 시작 했다 하더라도, cointelegraph 말했다: 비트 코인은 올해 초에 받아들이기 시작 비트 코인 현금, 10 미만입니다 bitpay의 부피의 백분율.
 
-Original source: [Bitcoin vs. Altcoins: Which is the Most Usable for Merchants?](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants)
+[Original source](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-is-the-most-usable-for-merchants)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

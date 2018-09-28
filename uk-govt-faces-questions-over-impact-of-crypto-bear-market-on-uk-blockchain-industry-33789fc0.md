@@ -1,5 +1,7 @@
 # 영국 Gov't 영국 블록 체인 업계에서 암호 베어 시장의 영향에 대 한 질문에 직면 ...
 
+###### 2018-09-18
+
 영국 정부는 국내 블록 체인 업계에서 글로벌 암호화 시장 하락의 영향을 적극적으로 모니터링 하 고 있는지 여부에 대 한 질문에 직면 하 고 있으며, 금융 피드 보고서는 9 월 18 일입니다.
 
 warwick의 주 테일러는 "미국에 있는 암호 화폐의 가치가 떨어지고 있다, 그리고 그런 쇠퇴가 영국 블록 체인에 있을지도 모른 잠재적인 효력의 보고로 만든 무슨 평가를" 그녀의 폐하의 정부에 게 질문 하는 보고 된다 산업. "
@@ -14,6 +16,6 @@ warwick의 주 테일러는 "미국에 있는 암호 화폐의 가치가 떨어�
 
 금융 피드 노트로 서의 영국, 차이에 대 한 암호화 기반 계약과 같은 특정 파생 상품 (cfd)을 제외 하 고, 광범위 하 게 암호화를 규제 하지 않습니다.
 
-Original source: [UK Gov’t Faces Questions Over Impact of Crypto Bear Market on UK Blockchain Industry](https://cointelegraph.com/news/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry)
+[Original source](https://cointelegraph.com/news/uk-govt-faces-questions-over-impact-of-crypto-bear-market-on-uk-blockchain-industry)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

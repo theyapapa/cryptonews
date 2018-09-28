@@ -1,5 +1,7 @@
 # 터키 거래소는 블록 체인 기반 고객 데이터베이스 개발 ...
 
+###### 2018-09-06
+
 터키 borsa 이스탄불 증권 거래소 (BIST)는 블록 체인으로 구동 되는 고객 데이터베이스를 개발 했으며, 매일 사바는 9 월 6 일 보도 했습니다.
 
 2013 년에 설립 된 BIST는 이스탄불 증권 거래소, 이스탄불 골드 거래소 및 터키 파생 상품 거래소 (turkdex) 합병의 결과입니다.
@@ -14,6 +16,6 @@
 
 정부의 입장에도 불구 하 고 터키의 암호 화폐 거래소는 대부분 은행의 지원을 누리 며 새로운 거래자 들이 암호 화폐를 구매 하 고 판매 하기 쉽게 합니다.
 
-Original source: [Turkish Exchange Develops Blockchain-Based Customer Database](https://cointelegraph.com/news/turkish-exchange-develops-blockchain-based-customer-database)
+[Original source](https://cointelegraph.com/news/turkish-exchange-develops-blockchain-based-customer-database)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

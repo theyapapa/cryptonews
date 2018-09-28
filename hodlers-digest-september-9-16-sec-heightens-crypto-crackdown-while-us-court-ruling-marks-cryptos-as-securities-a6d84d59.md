@@ -1,5 +1,7 @@
 # hodler의 다이제스트, 9 월 9-16: SEC는 암호화 단속을 좋아할, 미국 법원의 판결은 증권으로 암호를 표시 하는 동안 ... # # 인기 기사 이번 주 뉴욕 판사 규칙 증권 법은 "유연" 하 고 명백한 첫 번째, 뉴욕에서 암호 화폐에 적용 연방 판사는 미국 증권 법이 암호화 사기 혐의를 기소할 경우에 적용 된다는 판결을 내렸다.
 
+###### 2018-09-16
+
 브루클린에 거주 maksim zaslavskiy에 대 한 사기 사건 동안-누가 혐의로 두 개의 가상 화폐 보도 부동산과 다이아몬드에 의해 뒷받침 추진 하 여 투자자 사기-미국 지방 판사 레이 몬 드 dearie 판결을 내렸다 연방 증권 법률 수 케이스에 적용 됩니다.
 
 미국 레 귤 레이 터, finra는 사기를 가진 암호화 회사, 증권 위반을 처음으로 책임 지 고, sec와 finra 둘 다 이번 주에 투자자 들을 사취 하거나 증권 법을 따르지 않는 가상 화폐와 관련 된 회사를 위탁 했습니다.
@@ -12,6 +14,6 @@
 
 미국에 기반을 둔 블록 체인 및 가상 화폐 회사 들이 블록 체인 협회를 형성할 것 이라고 발표 했으며,이는 블록 체인 협회 라는 워싱턴 d. c .의 블록 체인 산업을 대표 하는 "최초의" 로비 그룹으로,이 그룹은 산업으로 구성 되어 있습니다. 암호화 거래소 코인 베이스, 기술 스타트업 프로토콜 연구소, 디지털 통화 그룹과 폴 리 체인 캐피탈 등의 리더 들.
 
-Original source: [Hodler’s Digest, September 9-16: SEC Heightens Crypto Crackdown, While US Court Ruling Marks Cryptos as Securities](https://cointelegraph.com/news/hodlers-digest-september-9-16-sec-heightens-crypto-crackdown-while-us-court-ruling-marks-cryptos-as-securities)
+[Original source](https://cointelegraph.com/news/hodlers-digest-september-9-16-sec-heightens-crypto-crackdown-while-us-court-ruling-marks-cryptos-as-securities)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

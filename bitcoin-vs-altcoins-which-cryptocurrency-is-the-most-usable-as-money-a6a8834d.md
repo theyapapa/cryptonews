@@ -58,6 +58,6 @@
 
 이와 같은 관측은 터키에서  [🔗](https://cointelegraph.com/tags/turkey)한 것으로, 터키의 리라의 인플레이션이 올해 두자릿수의 수치  [🔗](https://www.ft.com/content/b2d5f716-7e8d-11e8-8e67-1e1a0846c475)  도달했으며, 다른 유럽 국가들보다 더 많은 사람들이 암호를  [🔗](https://www.dailysabah.com/finance/2018/06/28/turks-lead-cryptocurrency-ownership-in-europe-at-1-in-every-5-people) 하고 있는 곳이다. 이는 불가분한 정부를 희생하여 성공할 수 있는 드문 기회를 갖고 있음을 보여주는 것입니다. 그리고 그들의 확장성 문제는 지금 이 기회를 최대한 활용할 준비가 되어 있지 않다는 것을 의미하며, 그들의 초기 사용은 이미 그들에게 미래에 성장할 수 있는 안전한 기반을 제공하고 있습니다.
 
-Original source: [Bitcoin vs Altcoins: Which Cryptocurrency Is the Most Usable as Money?](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-cryptocurrency-is-the-most-usable-as-money)
+[Original source](https://cointelegraph.com/news/bitcoin-vs-altcoins-which-cryptocurrency-is-the-most-usable-as-money)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

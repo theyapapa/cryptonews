@@ -1,5 +1,7 @@
 # 중국은 자본을 넘어 암호화 관련 프로 모션 금지를 확장 ...
 
+###### 2018-08-29
+
 암호화 관련 이벤트를 주최 하는 상업 장소에 대 한 금지가 guangzhou 발전 지역, 현지 미디어 출구 jiemian 리포트 8 월 29까지 연장 되어 서 중국의 반 암호화 맹 공격은 계속 된다.
 
 지구의 재정 개발 국은 보도 새로운 금지 8 월 24 일의 필요성을 "보안 및 금융 시스템의 안정성을 유지 하는 경고의 통지를 발표 했다."
@@ -14,6 +16,6 @@
 
 8 월 24 일, 중화 인민 은행 (pboc)은 "불법" ico에 대 한 자체적인 위험 경고를 발표 하 고, 블록 체인과 "금융 혁신" 이라는 아이디어는 근본적으로 사기성 Ponzi 계획을 은폐 하는 "눈 속임"으로 투자자를 유인 하는 데 사용 되 고 있음을 경고 합니다.
 
-Original source: [China Extends Crypto-Related Promotion Ban Beyond the Capital](https://cointelegraph.com/news/china-extends-crypto-related-promotion-ban-beyond-the-capital)
+[Original source](https://cointelegraph.com/news/china-extends-crypto-related-promotion-ban-beyond-the-capital)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

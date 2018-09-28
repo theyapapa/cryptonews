@@ -1,5 +1,7 @@
 # 주요 은행, 산업 플레이어 블록 체인 기반의 상품 플랫폼을 시작 합니다 ...
 
+###### 2018-09-19
+
 주요 글로벌 은행, 거래 회사, 그리고 선도적인 에너지 회사의 그룹은 상품의 거래 자금 조달을 위한 새로운 블록 체인 기반 플랫폼을 총괄 하는 합작 투자를 시작 했습니다, 로이터 보고서 9 월 19.
 
 스위스 기반의 벤처 기업, 불리는 kogo SA, 국제 금융, 무역의 호스트에 의해 설립 되었으며, abn 암로, BNP paribas, 씨티, crédit agricole 그룹, gunvor, ING, 코흐 공급을 포함 하는 생산 기관 &amp; 무역, 맥쿼리, Mercuria, mufg 은행, Natixis, rabobank, 쉘, SGS 및 사회 테 generale.
@@ -14,6 +16,6 @@ vakt, 블록 체인 기반의 석유 거래 플랫폼 kogo와 함께 자사의 �
 
 4 월, 중국의 4 개 주요 국유 석유 회사의 자회사는 성공적으로 블록 체인 기술 엔드 투 엔드를 사용 하는 싱가포르 중국에서 가솔린의 선적을 완료 "상품 거래 프로세스의 모든 주요 참가자."
 
-Original source: [Major Banks, Industry Players to Launch Blockchain-Based Commodities Platform](https://cointelegraph.com/news/major-banks-industry-players-to-launch-blockchain-based-commodities-platform)
+[Original source](https://cointelegraph.com/news/major-banks-industry-players-to-launch-blockchain-based-commodities-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

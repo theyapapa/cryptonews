@@ -1,5 +1,7 @@
 # DST 글로벌은 소프트 뱅크의 몇 일 후에 bitmain IPO 투자를 거부 하 고, tencent의 참여는 질문에 전화 ...
 
+###### 2018-08-21
+
 투자 회사인 DST Global은 8 월 21 일에 이메일을 통해 암호 화폐 채굴 거 대 bitmain의 사전 IPO에 "투자 하지" 않음을 확인 했습니다.
 
 cointelegraph 오늘, 그 반대로 보고서에도 불구 하 고, DST 글로벌 bitmain의 $4억 자금 조달 라운드에 참여 하지 않은 주장 익명의 제보를 받았습니다.
@@ -14,6 +16,6 @@ cointelegraph 오늘, 그 반대로 보고서에도 불구 하 고, DST 글로�
 
 프레스 시간으로, bitmain은 논평에 대 한 cointelegraph의 요청에 응답 하지 않았습니다.
 
-Original source: [DST Global Denies Bitmain IPO Investment Few Days After SoftBank, Tencent’s Involvement Called Into Question](https://cointelegraph.com/news/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question)
+[Original source](https://cointelegraph.com/news/dst-global-denies-bitmain-ipo-investment-few-days-after-softbank-tencents-involvement-called-into-question)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

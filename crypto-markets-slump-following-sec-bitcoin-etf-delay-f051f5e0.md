@@ -1,5 +1,7 @@
 # 암호화 시장 폭락 SEC 비트 코인 ETF 지연에 따라 ...
 
+###### 2018-08-07
+
 압박 시간에, 밧줄 (usdt) 이외에 최고 10 개의 암호 화폐 전부는 Coin360에 따라 빨강에, 있다.
 
 Coin360 BTC에서 시장 시각화는 마지막 날에 5.29%를 떨어지고 새로운 주간 낮은 데 려, 언론 시간에 $6598 주위에 거래를 하 고 있습니다.
@@ -14,6 +16,6 @@ Coin360 BTC에서 시장 시각화는 마지막 날에 5.29%를 떨어지고 새
 
 출처: 코인 마켓 캡 모든 가상 화폐의 시가 총액은 24 시간 동안 거의 $150억 아래로, 언론 시간에 $2367억에 있습니다.
 
-Original source: [Crypto Markets Slump Following SEC Bitcoin ETF Delay](https://cointelegraph.com/news/crypto-markets-slump-following-sec-bitcoin-etf-delay)
+[Original source](https://cointelegraph.com/news/crypto-markets-slump-following-sec-bitcoin-etf-delay)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

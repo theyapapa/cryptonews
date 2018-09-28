@@ -1,5 +1,7 @@
 # Bitcoin.com CEO 로저 Ver 아이즈 ico 토큰 발급 프로토콜로 비트 코인 현금에 관해서 ...
 
+###### 2018-08-13
+
 Bitcoin.com CEO 로저 Ver 그는 새로운 도구를 발표로 ICO를 시작할 수 있습니다 그의 간행물을 암시 했다 개발자가 비트 코인 현금 블록 체인에 토큰을 발급할 수 있도록 Bitcoin.com 비디오 8 월 11.
 
 비트 코인 닷컴의 선두 개발자 인 corbin fraser와 함께, Ver는 비트 코인 현금에서 토큰 생성을 허용 하는 웜 홀 현금 프로토콜의 출현으로 새로운 가능성을 감당할 것 이라고 비디오에 암시 했습니다.
@@ -14,6 +16,6 @@ Bitcoin.com CEO 로저 Ver 그는 새로운 도구를 발표로 ICO를 시작할
 
 "bitmain 사전 IPO 투자자 갑판에 따르면, 그들은 \ [비트 코인 현금 \]에 대 한 그들의 \ [비트 코인 \]의 대부분을 팔았다.
 
-Original source: [Bitcoin.com CEO Roger Ver Eyes ICO as Token Issuance Protocol Comes to Bitcoin Cash](https://cointelegraph.com/news/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash)
+[Original source](https://cointelegraph.com/news/bitcoincom-ceo-roger-ver-eyes-ico-as-token-issuance-protocol-comes-to-bitcoin-cash)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

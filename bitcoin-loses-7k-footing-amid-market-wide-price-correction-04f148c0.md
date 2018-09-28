@@ -1,5 +1,7 @@
 # 비트 코인은 시장 전반의 가격 보정 가운데 $7k 발판을 잃는다 ...
 
+###### 2018-08-30
+
 목요일, 8 월 30 일: 일주일의 짧은 일 들을 따라, 암호화 시장은 오늘날 광범위 한 수정을 보고 있다, 시장 모자에 의해 상위 10 개 동전은 하루에 1.5과 5% 사이에 잃는.
 
 Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 코인 가격 지 수에 따라, 하루에 1.52% 아래로, 언론 시간에 약 $6942에서 거래 된다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 �
 
 곰 시장이 입양에 도달에 초점을 지역 사회에 대 한 기회를 제공 하 고 있는 찰리 리의 최근 의견을 염두에 두고, 야 후 금융이 주 비트 코인 (BTC),이 더 리 움 (ETH), 그리고 라이트 코인 (LTC), 뉴스에 의해 환영 했다 통합 거래를 하고있다 모건 크릭 디지털의 앤서니 pompiano 낙관적인 서명으로 암호화 "바이러스가 확산 되고있다."
 
-Original source: [Bitcoin Loses $7K Footing Amid Market-Wide Price Correction](https://cointelegraph.com/news/bitcoin-loses-7k-footing-amid-market-wide-price-correction)
+[Original source](https://cointelegraph.com/news/bitcoin-loses-7k-footing-amid-market-wide-price-correction)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

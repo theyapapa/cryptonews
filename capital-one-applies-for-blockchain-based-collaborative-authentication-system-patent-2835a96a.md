@@ -1,5 +1,7 @@
 # 캐피탈 하나는 블록 체인 기반의 협업 인증 시스템 특허에 적용 됩니다 ...
 
+###### 2018-08-17
+
 미국 은행 지주 회사 자본 하나는 미국 특허 상표청 (USPTO) 8 월 16 일에 의해 게시 된 제출에 따라 사용자 인증에 블록 체인 기술의 구현을 위한 특허 출원을 제기 했다.
 
 제안 된 시스템은 여러 블록 체인 기반 멤버 플랫폼에서 사용자에 대 한 인증 정보를 수신, 저장, 기록 및 검색 하도록 설계 되었습니다.
@@ -14,6 +16,6 @@
 
 또한 시스템은 사용자와 기관 간의 개인 정보 공유를 제한 합니다.
 
-Original source: [Capital One Applies for Blockchain-Based Collaborative Authentication System Patent](https://cointelegraph.com/news/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent)
+[Original source](https://cointelegraph.com/news/capital-one-applies-for-blockchain-based-collaborative-authentication-system-patent)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

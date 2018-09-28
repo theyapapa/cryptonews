@@ -1,5 +1,7 @@
 # IBM은 노드 데이터를 통해 트랜잭션 준수를 보장 하기 위해 블록 체인 특허를 적용 ...
 
+###### 2018-08-17
+
 Tech 거 대 한 IBM은 미국 특허 및 상표 사무국 (USPTO) 8 월 16 일에 게시 된 특허 문서에 따라 노드 기반 거래 데이터 식별자 개발을 위한 블록 체인 특허를 신청 했습니다.
 
 특허에 기술 된이 시스템은 "블록 체인의 노드 특성화"를 통해 다양 한 유형의 거래를 식별 하기 위해 블록 체인 네트워크의 노드에서 데이터를 추출 하는 방법을 도입 하고자 합니다.
@@ -14,6 +16,6 @@ Tech 거 대 한 IBM은 미국 특허 및 상표 사무국 (USPTO) 8 월 16 일�
 
 8 월 14 일, 주요 미국 암호 거래 및 비트 코인 (BTC) 결제의 보안을 강화 하기 위한 지갑 플랫폼 코인 베이스에의 한 특허 출원은 특히 자신의 지갑에서 사용자의 개인 키의 도난과 관련 된 문제를 해결, 릴리스 되었습니다.
 
-Original source: [IBM Applies for Blockchain Patent to Ensure Transaction Compliance via Nodes Data](https://cointelegraph.com/news/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data)
+[Original source](https://cointelegraph.com/news/ibm-applies-for-blockchain-patent-to-ensure-transaction-compliance-via-nodes-data)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

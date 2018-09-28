@@ -1,5 +1,7 @@
 # 연구: 글로벌 자동차 블록 체인 시장은 2026에 의해 $16억에 도달 하도록 설정 ...
 
+###### 2018-08-21
+
 글로벌 자동차 블록 체인 시장의 거래량은 2026에 의해 $16억에 도달 하도록 설정 되어 있습니다.
 
 BIS 연구 보고서는 2018에서 2026 까지의 기간 동안, 자동차 블록 체인 시장은 65.80%의 복합 연간 성장률 (celr)에서 $15억7500만에 의해 2026에 도달 성장할 것으로 예측 하 고 있습니다.
@@ -14,6 +16,6 @@ BIS 연구 보고서는 2018에서 2026 까지의 기간 동안, 자동차 블�
 
 이달 초, tezos 재단은 4 개의 연구 기관에 블록 체인 기술과 스마트 계약 개발을 위한 재정 보조금을 발표 했다: 코넬 대학, 베이 라 인테리어 대학, 일리노이 대학에서 어바나-샴페인, 프랑스-ioi, 8 월 10 일 보도 했다.
 
-Original source: [Research: Global Automotive Blockchain Market Set to Reach $1.6 Billion by 2026](https://cointelegraph.com/news/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026)
+[Original source](https://cointelegraph.com/news/research-global-automotive-blockchain-market-set-to-reach-16-billion-by-2026)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

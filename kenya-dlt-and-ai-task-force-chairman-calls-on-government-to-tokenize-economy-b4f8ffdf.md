@@ -1,5 +1,7 @@
 # 케냐: DLT 및 AI 태스크 포스 위원장은 경제를 토큰화 하는 정부에 대 한 호출 ...
 
+###### 2018-09-25
+
 케냐의 분산 원장 및 인공 지능 태스크 포스 회장 bitange ndemo는 정부가 경제를 토큰화 해야한다 고 말했다, 지역 뉴스 아울렛 스타 9 월 25 일 보도 했다.
 
 태스크 포스는 공공 부문에서 블록 체인 기술을 전개 하는 방법에 대 한 제안서를 평가 하기 위해 케냐 정부에 의해 3 월에 설립 되었습니다.
@@ -14,6 +16,6 @@
 
 이 프로젝트는 케냐 커뮤니티가 자신의 디지털 토큰을 만들고 관리할 수 있도록 하 여 지역 및 지역 상거래 및 p2p 활동을 촉진 하고자 합니다.
 
-Original source: [Kenya: DLT and AI Task Force Chairman Calls on Government to Tokenize Economy](https://cointelegraph.com/news/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy)
+[Original source](https://cointelegraph.com/news/kenya-dlt-and-ai-task-force-chairman-calls-on-government-to-tokenize-economy)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

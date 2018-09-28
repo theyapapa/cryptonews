@@ -1,5 +1,7 @@
 # hodler의 다이제스트, 9 월 2-9: 골드만 삭스는 ' 암호 트레이딩 데스크에 ' 아니오 감사 합니다, 인도는 ' 암호화 대학 '에 공무원을 보내는 동안 ... # # 인기 기사 이번주 비즈니스 내부자: 골드만 삭스는 암호 트레이딩 데스크는 골드만 삭스 그룹 주식 회사는 중지 계획 암호 화폐 트레이딩 데스크를 열 계획, 사업 내부자는 이번 주에 보고 하지만, 그것은 큰 클라이언트를 대신 하 여 암호 화폐를 보유 하 고 가격을 추적 할 수 있습니다 암호화에 대 한 양육 권 제품에 초점을 맞출 것 이다.
 
+###### 2018-09-09
+
 google의 빅 데이터 분석 웨어하우스는이 더 리 움 블록 체인 데이터 세트를 추가 했습니다. 구글 클라우드 팀은 비트 코인에 대해 동일한 작업을 수행한 후, 분석을 위한 회사의 빅 데이터 웨어하우스 bigquery에서 공식적으로 ethereum (ETH) 데이터 세트를 만들었습니다 2 월의 블록 체인.
 
 중국: 대법원 규칙 블록 체인은 법적으로 증거를 인증할 수 있습니다 이번 주에는 블록 체인 기술로 인증 된 증거가 법적 분쟁에 구속력을가지고 있다고 판결 했습니다.
@@ -12,6 +14,6 @@ google의 빅 데이터 분석 웨어하우스는이 더 리 움 블록 체인 �
 
 25 년 동안 엔터프라이즈 인프라 플랫폼에서 협업 한 인텔과 sap는 최근 블록 체인 기술을 포괄 하는 공동 작업을 확장 했으며,이를 포함 하 여 sap led 글로벌 산업 블록 체인 컨소시엄을 구축 했습니다. SAP HANA 데이터 관리 시스템의 개발.
 
-Original source: [Hodler’s Digest, September 2-9: Goldman Sachs Says ‘No Thanks’ to Crypto Trading Desk, While India Sends Officials to ‘Crypto College’](https://cointelegraph.com/news/hodlers-digest-september-2-9-goldman-sachs-says-no-thanks-to-crypto-trading-desk-while-india-sends-officials-to-crypto-college)
+[Original source](https://cointelegraph.com/news/hodlers-digest-september-2-9-goldman-sachs-says-no-thanks-to-crypto-trading-desk-while-india-sends-officials-to-crypto-college)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 핀 테크 투자자 ribbit 자본 세트 $4억2000만의 최신 펀드에 대 한 목표 ...
 
+###### 2018-09-12
+
 주목할 만한 암호 화폐와 블록 체인 프로젝트를 포함 하는 미국의 벤처 캐피탈 회사인 ribbit 캐피탈은 9 월 12 일에 발표 된 SEC 제출에 따라 최신 펀드 $4억2000만을 목표로 하 고 있습니다.
 
 $4억2000만 수치는 "회사는 지난해에 매력 $3억에서 공칭 증가" 동안 기금은 보도 제한 된 파트너와 ribbit의 다섯 번째 벤처 될 것입니다.
@@ -16,6 +18,6 @@ bindhood는 2 월에 있는 디지털 방식으로 통화를 위한 무역 서�
 
 2012 년에 설립 된 코인 베이스는 미국에서 암호 교환 및 지갑 서비스의 선두 주자로 성장 했습니다.
 
-Original source: [Fintech Investor Ribbit Capital Sets $420 Million Goal for Its Latest Fund](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
+[Original source](https://cointelegraph.com/news/fintech-investor-ribbit-capital-sets-420-million-goal-for-its-latest-fund)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

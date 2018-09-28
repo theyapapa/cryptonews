@@ -16,6 +16,6 @@
 
 베인도르프에 따르면, Hyperledger는 현재 약 10개의 코드 베이스를 가지고 있으며, 여기서 2개의 코드 베이스는 블록체인을 구축하기 위한 8개의 프레임워크와 함께 사용된다. 그는 대부분의 개발자들이 블록체인 프로젝트를 진행하고 있다고 말했다. 왜냐하면 그들의 사업이 그들의 능력과 명성을 향상시키기 위해 개입하는 반면, 그들의 사업은 그것을 사용하거나 조종하기를 원하기 때문이라고 그는 말했다. 기술의 오픈 소스 특성에 대해서 그는 " 그들을 위해서 다른 회사들이 사용하고 있고 수익을 내는 것도 괜찮다고 말했다. 사실, 그것은 좋은 일입니다.
 
-Original source: [Hyperledger Exec: Early Blockchain Projects Will Hardly Be Noticeable to Consumers](https://cointelegraph.com/news/hyperledger-exec-early-blockchain-projects-will-hardly-be-noticeable-to-consumers)
+[Original source](https://cointelegraph.com/news/hyperledger-exec-early-blockchain-projects-will-hardly-be-noticeable-to-consumers)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

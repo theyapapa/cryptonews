@@ -1,5 +1,7 @@
 # 보고서: 올해에이 더 리 움 선물 거래를 시작 하는 cboe ...
 
+###### 2018-08-30
+
 cboe 글로벌 시장, 시카고 보드 옵션 거래소 (cboe)의 소유주 이자 세계 최대의 교환 지주 회사 중 하나인이 더 리 움 (ETH)에 대 한 미래를 시작 하고자 하는 기업 관계자는 8 월 30 일 보도 했습니다.
 
 이 상황을 잘 알고 있는 소식통은 cboe 글로벌 시장이 2018 말까지 ETH 선물을 출시할 계획 이라고 비즈니스 내부자 말했다.
@@ -14,6 +16,6 @@ CME는 12 월 17 일에 btc 선물 거래를 시작 했으며,이는 cboe에서 
 
 지난 7 월, CME CEO 테리 더 피는 가까운 장래에 비트 코인 (BTC) 이외의 가상 화폐에 대 한 선물을 소개 하지 않고 변동성을 주요 이유로 언급 하지 않을 것 이라고 말했습니다.
 
-Original source: [Report: CBOE to Launch Ethereum Futures Trading Later This Year](https://cointelegraph.com/news/report-cboe-to-launch-ethereum-futures-trading-later-this-year)
+[Original source](https://cointelegraph.com/news/report-cboe-to-launch-ethereum-futures-trading-later-this-year)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

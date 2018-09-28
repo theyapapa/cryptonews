@@ -1,5 +1,7 @@
 # 네덜란드 중앙 은행 고문: 구글 검색 활동과 비트 코인 가격 변경 ...
 
+###### 2018-08-31
+
 네덜란드의 중앙 은행에 대 한 정책 고문이 비트 코인 가격이 변경 암호 화폐에 대 한 Google 검색과 일치 하는 주장 하고있다, CNBC 보고서 금요일, 8 월 31.
 
 네트워크 수요일, 드 nederlandsche 은행의 joost 밴 데르 burgt와의 인터뷰에서 추세가 지난해 12 월 첫 번째 비트 코인 선물 시장 타격의 도래와 함께 명확 해졌다 고 말했다.
@@ -14,6 +16,6 @@
 
 그는 하이 먼 minsky의 금융 불안정 지 수를 사용 하 여 비트 코인 버블을 논의 샌 프란 시스 코의 연방 준비 은행에 대 한 4 월 보고서에서, 분석가는 비트 코인이 진정한 혁신을 나타내는 아이디어를 기 각 하지 않았다.
 
-Original source: [Dutch Central Bank Advisor: Bitcoin Price Changes With Google Search Activity](https://cointelegraph.com/news/dutch-central-bank-advisor-bitcoin-price-changes-with-google-search-activity)
+[Original source](https://cointelegraph.com/news/dutch-central-bank-advisor-bitcoin-price-changes-with-google-search-activity)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

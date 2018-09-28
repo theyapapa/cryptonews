@@ -1,5 +1,7 @@
 # 미국 SEC는 vaneck 비트 코인 ETF에 관한 추가 의견을 묻습니다 ...
 
+###### 2018-09-20
+
 미국 증권 거래 위원회 (SEC)는 9 월 20 일 발표 된 공식 통지에 따라 비트 코인 (BTC) 거래소 거래 펀드 (ETF)의 상장 및 거래에 대 한 결정에 관한 추가 의견을 요청 했습니다.
 
 통지에 (서) SEC은 그것이 "관련 된 이슈 모두와 관련 하 여 어떤 결말도 도달 하지 않았다는 것을 언급 하 고" 제안을 지지 하는 것에 (서) bzx의 진술의 자족을 말하는 관심 있는 파티 로부터 추가적인 코멘트를 요구 하 고 있다.
@@ -14,6 +16,6 @@
 
 8 월, SEC는 9 월까지 ETF 규칙 변경에 대 한 결정을 연기 30, 그것은 이상 1300 의견을 받았다고 진술.
 
-Original source: [US SEC Asks for Further Comment Regarding VanEck Bitcoin ETF](https://cointelegraph.com/news/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf)
+[Original source](https://cointelegraph.com/news/us-sec-asks-for-further-comment-regarding-vaneck-bitcoin-etf)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

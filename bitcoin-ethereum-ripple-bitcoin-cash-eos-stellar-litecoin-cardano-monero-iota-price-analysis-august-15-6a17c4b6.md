@@ -1,5 +1,7 @@
 # 비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 8 월 15 일 ...
 
+###### 2018-08-15
+
 일단 황소가 하강 하는 삼각형과 50 일 SMA의 하향 추세 라인을 깨뜨 리 면 그것은 $8500에 (게), 더 높이 가격을 추진할 수 있는 곰에 의하여 짧은 덮 음을 끌 것 같다.
 
 8 월 14 일에, ETH/USD 쌍은 $280의 중요 한 지원의 밑에 급락 하 고 $249.93의 일 중 낮은 것에 떨어졌다.
@@ -14,6 +16,6 @@
 
 # # iota/USD 우리는 $0.5의 심리학 수준을 방어 하기 위하여 황소를 예상 하 고, 그러나 판매는 $0.38의 우리의 더 낮은 표적에 $0.4037의 낮 낮은 것에, 가까운 것 iota를 끌었다.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Cardano, Monero, IOTA: Price Analysis, August 15](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-15)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-august-15)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

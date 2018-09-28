@@ -1,5 +1,7 @@
 # 대마초와 암호화: 싸움에서 동등한 수혜자가 주류를 치고 ... # # 대마초 동전 미국에서 대마초 사업은 모든 연방 규정에 따라 운영 하는 은행이 산업을 서비스 하는 것이 금지 되어 있기 때문에 현금 전용 기준으로 운영 여전히 연방 법률에 따라 불법으로 간주.
 
+###### 2018-09-11
+
 potcoin가 업계의 주력으로 자신을 확립 투쟁 있지만, 그것은 암호 화폐와 연방 면허 생산자와 배포자 사이의 최초의 파트너십 것으로 보인다 무엇에 weedmd 지난해 12 월 프로 모션 계약을 발표 의료 대마초의.
 
 # # 미완성 ICO 또 다른 중요 한 문제는 남 비 기업을 직면 하는 것은 전형적인 소기업의 그들 보다는 매우 더 높은 마리화나 의무 실을 열기의 높은 비용 이다.
@@ -12,6 +14,6 @@ potcoin가 업계의 주력으로 자신을 확립 투쟁 있지만, 그것은 �
 
 의학 마리화나 의무 실은 특정 한 긴장의의 약 재산에 관하여 세부 사항 정보를 제공 해 서 성공적으로 약을 rebranding, 그러나 남 비를 합법화 하기 위하여 이동 하는 지역 사회는 법적인 마리화나가 여전히 우려 전면 pushback를 본다
 
-Original source: [Cannabis and Crypto: Equal Beneficiaries In The Fight To Hit The Mainstream](https://cointelegraph.com/news/cannabis-and-crypto-equal-beneficiaries-in-the-fight-to-hit-the-mainstream)
+[Original source](https://cointelegraph.com/news/cannabis-and-crypto-equal-beneficiaries-in-the-fight-to-hit-the-mainstream)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

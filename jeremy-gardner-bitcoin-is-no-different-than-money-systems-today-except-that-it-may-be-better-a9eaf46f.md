@@ -1,5 +1,7 @@
 # 제레미 가드너: ' 비트 코인은 더 나은 수 있다는 점을 제외 하 고, 오늘 돈 시스템과 다르지 않다 ' ...
 
+###### 2018-09-21
+
 bitcoin과 블록 체인 기술이 오늘날 존재 하는 이유는 비트 코인이 처음 채택 된 이유 때문에 주로 하나의 이유와 이유 중 하나에만 존재 한다는 것입니다.
 
 그것은 한 때만 개발 된 세계에서 개인이 실제로 비트 코인이 의미 있는 가치를 달성 상거래에서 이러한 암호화 토큰을 획득 하기 위한 목적을 했다-일단 비트 코인 사람들이 전에는 할 수 없었던 일을 허용 이해.
@@ -14,6 +16,6 @@ bitcoin과 블록 체인 기술이 오늘날 존재 하는 이유는 비트 코�
 
 알다시피, 송금 솔루션 오늘, 시련 오늘,이 같은 사람에 게 직접 주고, 하지만 우리는 역사적으로 주로 그것을 필요로 하는 사람들을 위해 블록 체인 기술을 구축 했습니다: 당신과 나, 미국에 있는 사람들, 서쪽.
 
-Original source: [Jeremy Gardner: ‘Bitcoin Is No Different Than Money Systems Today, Except That It May Be Better’ ](https://cointelegraph.com/news/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better)
+[Original source](https://cointelegraph.com/news/jeremy-gardner-bitcoin-is-no-different-than-money-systems-today-except-that-it-may-be-better)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

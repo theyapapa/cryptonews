@@ -1,5 +1,7 @@
 # binance 싱가포르에서 새로운 암호화 피아트 교환의 폐쇄 베타 테스트를 시작 하려면 ...
 
+###### 2018-09-16
+
 binance의 공동 창업자 겸 CEO 인 changpeng 자오 (CZ)가 9 월 15 일에 tweeted 것 처럼, 가장 큰 글로벌 암호 교환으로, 싱가포르에서 암호 화폐 교환을 곧 비공개 베타 테스트를 시작할 예정입니다.
 
 마찬가지로 changpeng 자오 밝혀, 테스트는 9 월 18 일에 시작 됩니다: "나는 단지 우리가 싱가포르 피아트 교환 라이브 머니 #Binance 시작 됩니다 미 끄 러 9 월에 베타 테스트를 폐쇄, 3 일간 18.
@@ -14,6 +16,6 @@ binance의 공동 창업자 겸 CEO 인 changpeng 자오 (CZ)가 9 월 15 일에
 
 그리고 8 월 초, binance lvx, 이랜스와 리히텐슈타인의 cryptoassets 교환 (lvx) 사이의 합작 투자, 스위스 프랑 (CHF)과 주요 디지털에 대 한 유로 (EUR) 사이의 거래를 활성화 하기 위해 리히텐슈타인에서 암호화 피아트 교환의 출시를 발표 했다 통화 쌍.
 
-Original source: [Binance to Start Closed Beta Testing of New Crypto-Fiat Exchange in Singapore](https://cointelegraph.com/news/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore)
+[Original source](https://cointelegraph.com/news/binance-to-start-closed-beta-testing-of-new-crypto-fiat-exchange-in-singapore)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 크 라 켄은 뉴욕 검찰 총장의 교환 보고서에 rereking ' 악의적 인 ' 의미에서 코인 베이스를 조인 ...
 
+###### 2018-09-20
+
 또 다른 주요 미국 암호 화폐 거래소는 9 월 19 일 수요일 뉴욕 법무 장관 으로부터 자발적 정보 요청에 응하지 않기로 한 보고서를 비판 했다.
 
 캘리포니아에 본사를 두고 있는 크 라 켄, 바바라 언더우드의 보고서의 특정 측면을 규탄에서 가장 큰 미국 선수 coinbase 중 하나에 합류 불공정.
@@ -14,6 +16,6 @@ kraken가 정보를 공급 하지 않는 그것의 결정에서 혼자서이 지
 
 크 라 켄은 행동의 가장 적합 한 과정을 통해 불확 실한 등장 사용자 전에 그 결정을 지키려고 시도 하면서 분쟁은이 더 리 움 공동 설립자 vitalik buterin에서 참여를 받았다.
 
-Original source: [Kraken Joins Coinbase in Rebuking ‘Malicious’ Implications in New York Attorney General’s Exchange Report](https://cointelegraph.com/news/kraken-joins-coinbase-in-rebuking-malicious-implications-in-new-york-attorney-generals-exchange-report)
+[Original source](https://cointelegraph.com/news/kraken-joins-coinbase-in-rebuking-malicious-implications-in-new-york-attorney-generals-exchange-report)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 보고서: 페이스 북은 스텔라와 파트너십을 거부 ...
 
+###### 2018-08-10
+
 페이스 북은 소문에의 하면 암호 화폐 회사 스텔라 (xlm), 체 다 8 월 10 일 보도와 회담을 거부 했다.
 
 오늘 아침, 비즈니스 내부자는 페이스 북과 스텔라는 별의 블록 체인의 페이스 북의 변형을 구축 할 수 있는 잠재적인 파트너십을 고려 하 고 있었다 보도 했다.
@@ -14,6 +16,6 @@
 
 지난 달,에 반 쳉, 페이스 북의 엔지니어링 디렉터는 회사의 최근 설립 된 블록 체인 팀에서 같은 위치로 옮겼습니다.
 
-Original source: [Report: Facebook Denies Partnership With Stellar](https://cointelegraph.com/news/report-facebook-denies-partnership-with-stellar)
+[Original source](https://cointelegraph.com/news/report-facebook-denies-partnership-with-stellar)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

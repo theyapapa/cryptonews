@@ -1,5 +1,7 @@
 # 미국 재무부 핀 테크 혁신 보고서 암호화, 블록 체인에 대 한 접촉 ...
 
+###### 2018-08-01
+
 7 월 31 일 발표 된 미 재무부의 주요 신규 보고서는 핀 테크 부문의 혁신에 대 한 보다 민첩 하 고 도움이 되는 규제 접근 방식을 요구 했습니다.
 
 222-페이지 보고서는 ' 비은행 금융, 핀 테크, 혁신 '에 전념 하 고 있으며, 블록 체인과 같은 가상 화폐 및 분산 장부 기술 (DLT)에만 fleetingly을 두고 있으며,이는 현재 " 재무 안정성 감독 위원회의 실무 그룹이 이끄는 기관간 노력. "
@@ -14,6 +16,6 @@
 
 이 후반 관념은 미국이 혁신을 육성 시키기에 있는 다른 국가 "의 뒤에 떨어지고 있다" 고 말한 미국 필수품 선물 무역 위원회 (cftc)의 대통령에 의해 최근에 표명 된 관심사에 차 임 한다.
 
-Original source: [US Treasury Dept. Fintech Innovation Report Touches on Crypto, Blockchain](https://cointelegraph.com/news/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain)
+[Original source](https://cointelegraph.com/news/us-treasury-dept-fintech-innovation-report-touches-on-crypto-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

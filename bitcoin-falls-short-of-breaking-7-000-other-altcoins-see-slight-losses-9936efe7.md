@@ -1,5 +1,7 @@
 # 비트 코인은 $7000 속보의 짧은 폭포, 다른 altcoins는 약간의 손실을 참조 하십시오 ...
 
+###### 2018-08-06
+
 Coin360에서 시장 시각화 비트 코인 (BTC)은 하루에 1.17% 아래로, 언론 시간에 $6974 주위를 거래 하고있다.
 
 이 덧 없는 스파이크는 그러나 압박 시간 현재로 보전 되지 않으며, 주에 동전의 손실은 지금 14%의 위 집계 한다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 하루에 1.17% 아래로,
 
 코인 마켓에서 모든 가상 화폐의 총 시가 총액의 7 일 차트 시장에서 계속 해 서 유죄 판결 없이 맴 돕니다, 저명한 암호화 구경꾼은 암호화 공간에 대 한 주의 뉴스의 주식을 복용 하 고 있습니다.
 
-Original source: [Bitcoin Falls Short of Breaking $7,000, Other Altcoins See Slight Losses](https://cointelegraph.com/news/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses)
+[Original source](https://cointelegraph.com/news/bitcoin-falls-short-of-breaking-7-000-other-altcoins-see-slight-losses)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

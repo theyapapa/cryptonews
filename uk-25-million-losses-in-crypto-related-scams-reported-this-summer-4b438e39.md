@@ -1,5 +1,7 @@
 # 영국: $250만 암호화 관련 사기의 손실은 이번 여름에 보고 ...
 
+###### 2018-08-10
+
 영국 경찰은 가상 화폐를 포함 하는 사기 투자 계획에 대해 대 중에 게 경고 했다,의 볼륨을 주도하 고 있다 200만 파운드 ($255만) 손실의 가치 이번 여름, 발표에 따르면 8 월 10.
 
 발표에서 경찰은 사기와 사이버 범죄에 대 한 행동 사기 국립 보고 센터에 의해 준비 된 통계를 인용,이는 6 월과 7 월 희생자는 암호 화폐 사기에 $250만의 손실을 보고.
@@ -14,6 +16,6 @@
 
 첫 번째 회사는 공정한 오크 암호화 라는 혐의로 그들은 공정한 오크 캐피탈 주식 회사를 대표 하는 주장에 의해 잠재적인 희생자 눈 속임 려 고
 
-Original source: [UK:  $2.5 Million Losses in Crypto-Related Scams Reported This Summer](https://cointelegraph.com/news/uk-25-million-losses-in-crypto-related-scams-reported-this-summer)
+[Original source](https://cointelegraph.com/news/uk-25-million-losses-in-crypto-related-scams-reported-this-summer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

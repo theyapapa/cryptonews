@@ -1,5 +1,7 @@
 # 한국 공식 글로벌 암호 규정에 대 한 더 큰 협력을 제안 ...
 
+###### 2018-09-08
+
 한국 금융 감독원 (FSS)의 관계자는 암호화 및 초기 코인 제공 (ICO) 규제, 지역 뉴스 아울렛 아시아 경제 TV 보고서 (금요일, 9 월 7 일)에 대 한 규제 기관 간에 더 큰 국제 협력을 제안 했습니다.
 
 FSS 주지사 인 윤 석 희는 지난 9 월 6 일 서울에서 열린 제 20 회 통합 금융 감독 회의 (ifsc)의 개막식에서 15 개국 공무원 들이 참석 하 여 더 많은 협력을 할 가능성에 대해 성명을 발표 했다.
@@ -14,6 +16,6 @@ FSS 주지사 인 윤 석 희는 지난 9 월 6 일 서울에서 열린 제 20 �
 
 그러나 한국 정부 당국자 들은 또한 암호화 시장을 규제 하기 위한 엄격한 조치를 취하고 있다.
 
-Original source: [South Korean Official Proposes Greater Cooperation for Global Crypto Regulation](https://cointelegraph.com/news/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation)
+[Original source](https://cointelegraph.com/news/south-korean-official-proposes-greater-cooperation-for-global-crypto-regulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

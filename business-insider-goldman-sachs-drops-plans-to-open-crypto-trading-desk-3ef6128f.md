@@ -1,5 +1,7 @@
 # 비즈니스 내부자: 골드만 삭스는 암호 거래 데스크를 열 계획을 드랍 스 ...
 
+###### 2018-09-05
+
 골드만 삭스 그룹은 가상 화폐 트레이딩 데스크, 비즈니스 내부자 보고서를 오픈 할 계획을 중단 하 고 있습니다 9 월 5 일, 문제에 익숙한 소스를 인용.
 
 6 월 2018 말까지 암호화 중심 단위를 만드는 은행의 계획은 원래 블룸버그에 의해 보고 되었다, 골드만 삭스는 "가상 화폐에 시장을 만들기 위해 최초의 대형 월스트리트 회사"가 되는 것을 목표로 주장 하는 소스와 함께.
@@ -14,6 +16,6 @@
 
 골드만 삭스의 CEO 로이드 blankfein은 비트 코인 거래가 그를 위한 것이 아니라고 말했지만, 암호 화폐가 "더 확립" 되 면 그가 그것을 고려 하는 것이 분명해 졌습니다.
 
-Original source: [Business Insider: Goldman Sachs Drops Plans to Open Crypto Trading Desk](https://cointelegraph.com/news/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk)
+[Original source](https://cointelegraph.com/news/business-insider-goldman-sachs-drops-plans-to-open-crypto-trading-desk)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

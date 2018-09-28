@@ -1,5 +1,7 @@
 # 여름은 결말입니다:에 테 리 움의 erc-20은 erc-777에 거 버 넌 스를 통과? ...
 
+###### 2018-09-19
+
 여름의 끝을 개인적인 목표를 설정 하는 좋은 시간, 햇빛의 마지막 일에 담가 여름의 주요 행사에 대해 회상 하는 것입니다, 약속 조르디 baylina, 자크 수 선화와 토마스 shayabi에 의해 만들어진 같은 준비-erc-777 토큰 커뮤니티를 만들어 소개 표준,이는 세계에서 가장 인기 있는 토큰 표준을 대체 하기 위한 것입니다, erc-20.
 
 이 더 리 움 블록 체인의 주요 장점은 애플리케이션 개발 과정이 매우 간단 하 고 스마트 계약을 사용 하 여 토큰을 발행 하는 절차가 조금도 차질 없이 사라진다는 것을 포함 한다.
@@ -14,6 +16,6 @@ erc-20이 생성 되기 전에,이 더 리 움 개발자는 모든 토큰에 대
 
 새로운 erc-777 표준은 수신 또는 관리 자산을 지원 하지 않는 계약으로 전송 될 때 받는 사람의 토큰이 손실 되는 문제를 해결 합니다.
 
-Original source: [Summer Is Ending: Will Ethereum’s ERC-20 Pass the Governance to ERC-777?](https://cointelegraph.com/news/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777)
+[Original source](https://cointelegraph.com/news/summer-is-ending-will-ethereums-erc-20-pass-the-governance-to-erc-777)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

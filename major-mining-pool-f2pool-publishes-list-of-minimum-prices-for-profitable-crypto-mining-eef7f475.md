@@ -1,5 +1,7 @@
 # 주요 광업 풀 F2Pool 수익성 암호 마이닝을 위한 최소 가격의 목록을 게시 ...
 
+###### 2018-09-07
+
 중국 기반 암호화 채굴 풀의 CEO 인 F2Pool는 다양 한 암호 화폐의 채굴이 이익이 되지 않는 최소 가격 포인트를 나타내는 9 월 6 일 회사 브랜드 인포 그래픽을 게시 했습니다.
 
 shixing 마오, 공동 설립자 겸 CEO 및 세계에서 6 번째로 큰 광산 풀 F2Pool, 비트 코인 (BTC),이 더 리 움 (ETH), 라이트 코인 (LTC) 및 Zcash (zec)와 같은 주요 암호 화폐에 대 한 가격 수준의 목록을 발표 했다 .이는 다양 한 통화 다른 광부는 추정 되 게 이익이 없게 된다.
@@ -14,6 +16,6 @@ S7 모델 광부를 사용 하는 경우, 휴식-짝수 포인트는 상당히 �
 
 7 월, 주요 대만 마이크로칩 생산자 tsmc는 다른 지역 들 중에서 암호화 채굴 분야의 성장률 감소에 따라 연간 매출과 자본 지출 추정치를 다시 한 번 줄였습니다.
 
-Original source: [Major Mining Pool F2Pool Publishes List of Minimum Prices for Profitable Crypto Mining](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
+[Original source](https://cointelegraph.com/news/major-mining-pool-f2pool-publishes-list-of-minimum-prices-for-profitable-crypto-mining)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

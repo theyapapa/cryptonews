@@ -1,5 +1,7 @@
 # maersk, IBM 시작 블록 체인 배송 공급망 플랫폼 ...
 
+###### 2018-08-09
+
 IBM 및 덴마크어 운송 및 물류 업체인 maersk는 8 월 9 일 공식 보도 자료에 따르면 글로벌 블록 체인 지원 배송 솔루션을 출시 했습니다.
 
 글로벌 공급망 플랫폼은 ' tragelens ' 라는 별명을가지고 있으며, 그 데이터 세트는 소문에의 하면 하루에 100만 배송 이벤트에 가까운 비율로 성장 하고있다.
@@ -14,6 +16,6 @@ IBM과 maersk는 새로운 블록 체인 지원 플랫폼이 여러 거래 파�
 
 IBM은 제너럴 매니저와 블록 체인의 머리, 마리 wieck, 포브스 말했다: "우리는 의심의 많은 블록 체인 솔루션의 타당성에 대해 이야기를 본적이 있다 \ [... \] 나는 90 이상의 조직과 생각 하는 우리는 정말 증거를 보고 있는 시스템에서 캡처한 1억5000만 이벤트 사람들은 블록 체인의 혜택을 얻기 위해 자신의 시간을 보내는 곳의 측면에서 푸딩.
 
-Original source: [Maersk, IBM Launch Blockchain Shipping Supply Chain Platform](https://cointelegraph.com/news/maersk-ibm-launch-blockchain-shipping-supply-chain-platform)
+[Original source](https://cointelegraph.com/news/maersk-ibm-launch-blockchain-shipping-supply-chain-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

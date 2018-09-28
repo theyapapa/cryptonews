@@ -1,5 +1,7 @@
 # 두바이 재무부는 아랍 에미리트 연방 정부에 대 한 블록 체인 기반 지불 시스템을 출시 ...
 
+###### 2018-09-23
+
 두바이 금융 부서 (DoF)는 스마트 두바이 사무소 (sdo)와 제휴 하 여 블록 체인으로 구동 되는 결제 시스템을 출시 했습니다.
 
 zawya에 따르면, 두바이 DoF와 sdo는 시스템이 보다 정확 하 고 투명 한 거 버 넌 스 프로세스를 제공할 뿐만 아니라 정부 구조 내에서 실시간으로 지불을 가능 하 게 하기 위한 것입니다.
@@ -14,6 +16,6 @@ zawya에 따르면, 두바이 DoF와 sdo는 시스템이 보다 정확 하 고 �
 
 7 월, 두바이 국제 금융 센터 (difc)는 스마트 두바이와의 파트너십을 발표 하 여 "블록 체인 법원"을 개발 했습니다.
 
-Original source: [Dubai Department of Finance Launches Blockchain-Based Payment System for UAE Gov’t](https://cointelegraph.com/news/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt)
+[Original source](https://cointelegraph.com/news/dubai-department-of-finance-launches-blockchain-based-payment-system-for-uae-govt)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

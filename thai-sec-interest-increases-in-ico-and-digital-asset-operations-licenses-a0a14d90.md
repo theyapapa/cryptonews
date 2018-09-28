@@ -1,5 +1,7 @@
 # 타이어 SEC: ICO 및 디지털 자산 운용 라이센스의 이자 증가 ...
 
+###### 2018-08-08
+
 타이 증권 거래 위원회 (SEC)는 ICO 규정을 소개 하는 금융 사역의 발표에 따라 초기 동전 제물 (ico)를 운영 하기 위해 라이센스에 대 한 관심을 증가 본, 방콕 포스트는 8 월 8 일 보도 했다.
 
 SEC 사무 총장 rapee sucharitakul는 방콕 포스트는 거의 50 ICO 프로젝트가 인증을 지 고에 관심을 표명 했다고 말했다, 하지만 그들 모두가 기금을 마련 하기 위해 적절 한 자격 증명을 발급 됩니다 여부를 불분명 남아 있다.
@@ -14,6 +16,6 @@ rapee는 라이센스 신청에 관심이 5 ICO 포털의 세 밖으로 이미 S
 
 태국 은행은 이제 디지털 토큰을 발행 하 고, 암호화 중개 서비스를 제공 하며, 암호화 관련 사업을 운영 하 고, 자회사를 통해 암호 화폐에 투자할 수 있습니다.
 
-Original source: [Thai SEC: Interest Increases in ICO and Digital Asset Operations Licenses](https://cointelegraph.com/news/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses)
+[Original source](https://cointelegraph.com/news/thai-sec-interest-increases-in-ico-and-digital-asset-operations-licenses)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

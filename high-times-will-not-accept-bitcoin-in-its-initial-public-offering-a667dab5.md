@@ -1,5 +1,7 @@
 # 높은 시간은 초기 공공 제공에 비트 코인을 허용 하지 않습니다 ...
 
+###### 2018-08-14
+
 마리화나 문화 미디어 그룹 하이 타임즈 지주 회사는 미국 증권 거래 위원회 (SEC)와 8 월 13 일 제출에 따라 초기 공개 (IPO)에서 비트 코인 (BTC)을 수락 하지 않기로 결정 했다.
 
 8 월 초에, 높은 시간은 회사의 몫에 기부금을 위한 지불의 방법으로 BTC와 ethereum (ETH)를 받아들일 것 이라는 점을 밝히는 보도 자료를 간행 했다.
@@ -14,6 +16,6 @@ SEC 문서는 또한 원래 보도 자료에서 지불 방법으로 언급 된 �
 
 업계의 공급 업체에 대 한 더 나은 환경을 만들기 위해, 디지털 통화 대시는 블록 체인 시작 Alt 36와 제휴 2017에서 판매 시스템의 대마초 산업의 지점에서 지불 옵션으로 대시를 통합 하는.
 
-Original source: [High Times Will Not Accept Bitcoin in Its Initial Public Offering](https://cointelegraph.com/news/high-times-will-not-accept-bitcoin-in-its-initial-public-offering)
+[Original source](https://cointelegraph.com/news/high-times-will-not-accept-bitcoin-in-its-initial-public-offering)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

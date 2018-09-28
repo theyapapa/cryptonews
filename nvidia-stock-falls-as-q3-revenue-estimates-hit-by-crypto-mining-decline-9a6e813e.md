@@ -1,5 +1,7 @@
 # 엔비디아 주식은 암호화 마이닝 감소에 치여 Q3 수익 견적으로 폭포 ...
 
+###### 2018-08-16
+
 이 회사의 수익은 올해 초 폭락 한 디지털 화폐 시장으로 서 암호화 채굴의 감소로 영향을 받았습니다.
 
 엔비디아는 $31억9000만과 $33억2000만 사이의 3 분기 수익을 예측, $33억4000만의 분석가에 의해 예측 그림 보다 낮은.
@@ -14,6 +16,6 @@
 
 분석가는 그 때 설명 했다: "암호 화폐 힘은 그 시장에서 몇 년 떨어진 후에 데스크톱과 서버 마이크로프로세서에 있는 기세를 설치 하는 느리고 꾸준한 진도를 어느 정도 상쇄 해야 한다-그러나 더 높은 수익은 더 높은 몰 았다 운영 비용, 암호화 운동량이 사라질 경우 프로세서 비즈니스에 대 한 막대를 올립니다. "
 
-Original source: [Nvidia Stock Falls as Q3 Revenue Estimates Hit by Crypto Mining Decline](https://cointelegraph.com/news/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline)
+[Original source](https://cointelegraph.com/news/nvidia-stock-falls-as-q3-revenue-estimates-hit-by-crypto-mining-decline)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

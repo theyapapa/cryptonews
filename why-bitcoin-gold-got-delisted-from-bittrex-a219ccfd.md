@@ -1,5 +1,7 @@
 # 왜 비트 코인 골드 bittrex에서 delisted 있어 ...
 
+###### 2018-09-05
+
 암호 교환 bittrex는 비트 코인 금 (btg), 비트 코인의 하드 포크 (BTC)로 설정 되어 있으며, 9 월 14 일에는이 주 5 월에 btg 네트워크의 $1800만 해킹에 대 한 세부 정보가 등장 했습니다.
 
 # # "하나의 CPU 하나의 투표" 이데올로기: 비트 코인 금이 생성 된 방법 비트 코인 골드 (btg)는 비트 코인 (BTC)의 하드 포크입니다.
@@ -14,6 +16,6 @@ bittrex는 이중 지출 공격을 주도하는 이유로 btg의 pow 알고리�
 
 그것은 아직 불분명 하는 경우 다른 거래소는 btg에 bittrex을 따를 경우, 언론 시간에, 비트 코인 골드의 시장 점유율은 $3억6800만에 도달 하 고, 동전은 $21.39 주위에 거래, 시장 모자에 의해 30 순위, coinmarketcap 데이터에 따르면.
 
-Original source: [Why Bitcoin Gold Got Delisted From Bittrex](https://cointelegraph.com/news/why-bitcoin-gold-got-delisted-from-bittrex)
+[Original source](https://cointelegraph.com/news/why-bitcoin-gold-got-delisted-from-bittrex)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # nyse의 ' 올해의 가장 큰 뉴스 ' 비트 코인에도 불구 하 고, 암호화 시장은 점멸에 추 달린 ...
 
+###### 2018-08-04
+
 가상 화폐 시장은 8 월 4 일에 비트 코인 (BTC)이 $7000 아래를 Coin360 프레스 시간 6 시간 전에 거의 $500을 잃고, 빨간색으로 시장 모자에 의해 상위 10 개 가상 화폐의 모든 것을 보여주는 것과 같이, 지금의 데이터를가지고 있습니다.
 
 Coin360 비트 코인 (BTC)에서 시장 시각화 7 월 17 일 이후 볼 수 없는 가격 지점에 낙하 하는 하루에 거의 $500을 잃 었 데, 시간을 언론에 $7028 주위에 거래입니다.
@@ -14,6 +16,6 @@ Coin360 비트 코인 (BTC)에서 시장 시각화 7 월 17 일 이후 볼 수 �
 
 코인 마켓 캡에서 모든 가상 화폐의 총 시장 자본 화에 대 한 1 일 차트 시장 ' 급강하 오늘 어제 주요 뉴스에 스 탁 대조적으로 그 대륙간 교환 (ICE) –-연산자를 포함 하 여 23 선도적인 글로벌 교류의 뉴욕 증권 거래소 (nyse) – 연방 정부가 규제 하는 시장과 가맹점 및 소비자 요구에 대 한 창 고에서 스펙트럼을 포괄 하는 디지털 자산을 위한 글로벌 생태계를 만들 계획입니다.
 
-Original source: [Despite NYSE’s ‘Biggest News of the Year’ for Bitcoin, Crypto Markets Plummet in a Blink](https://cointelegraph.com/news/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink)
+[Original source](https://cointelegraph.com/news/despite-nyses-biggest-news-of-the-year-for-bitcoin-crypto-markets-plummet-in-a-blink)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

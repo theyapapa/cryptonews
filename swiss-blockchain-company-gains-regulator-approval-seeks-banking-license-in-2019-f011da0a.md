@@ -1,5 +1,7 @@
 # 스위스 블록 체인 회사 이득 레 귤 레이 터 승인, 2019에서 금융 라이센스를 추구 ...
 
+###### 2018-09-05
+
 스위스 블록 체인 스타트업 스마트 용 맹은 현지 금융 시장에서 운영 하는 국가의 규제 당국의 승인을 수상 하였으며, 로이터는 9 월 5 일 보도 했다.
 
 스마트 용 맹은 국가 규제 기관인 금융 시장 감독 당국 (finma)이 아닌 지역 금융 서비스 표준 협회 (vqf)에 의해 규제 됩니다.
@@ -14,6 +16,6 @@
 
 스마트 용 맹은 이전에 중국 기반의 비트 코인 지갑 xapo에 근무 했던 올가 펠트 마이어에 의해 2017 년에 설립 되었습니다.
 
-Original source: [Swiss Blockchain Company Gains Regulator Approval, Seeks Banking License in 2019](https://cointelegraph.com/news/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019)
+[Original source](https://cointelegraph.com/news/swiss-blockchain-company-gains-regulator-approval-seeks-banking-license-in-2019)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

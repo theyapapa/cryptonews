@@ -1,5 +1,7 @@
 # 블록 체인 갤럭시 게임은 플레이어가 우주선을 구축 할 수 있습니다, 암호화 가상 행성을 구입 ...
 
+###### 2018-09-07
+
 블록 체인 게임 개발자 0xgames는 인기 있는 블록 체인 기반 0xgames 게임의 지속을 발표 했습니다.
 
 # # 새로운 게임 기능 0xuniverse는이 더 리 움 블록 체인에 의해 구동 되는 게임 이다.
@@ -14,6 +16,6 @@ cryptokitties 한테는 다른 게임 개발자에 게 영감을, 0xgames를 포
 
 플레이어는 코인을 찾아 게임 자체 암호 화폐를 채굴 할 수 있습니다.
 
-Original source: [Blockchain Galaxy Game Enables Players to Build Spaceships, Buy Virtual Planets For Crypto](https://cointelegraph.com/news/blockchain-galaxy-game-enables-players-to-build-spaceships-buy-virtual-planets-for-crypto)
+[Original source](https://cointelegraph.com/news/blockchain-galaxy-game-enables-players-to-build-spaceships-buy-virtual-planets-for-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

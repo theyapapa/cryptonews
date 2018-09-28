@@ -1,5 +1,7 @@
 # 메가 크롬 확장은 사용자의 monero를 훔치는 타협 ...
 
+###### 2018-09-04
+
 메가 크롬 확장 버전 3.39.4는 손상 되어 이제 다른 민감한 정보 이외에 사용자의 monero를 훔칠 수 있습니다., 트위터와 레 딧에 최근 게시물에 따라.
 
 메가 크롬 확장은 보안 클라우드 스토리지 서비스를 제공 하는 것 외에도 페이지 로딩 시간을 줄임으로써 브라우저 성능을 향상 시키기 위해 주장 하는 도구입니다.
@@ -14,6 +16,6 @@ PSA: 공식 메가 확장이 손상 되었으며 이제 monero를 훔 치기 위
 
 언론 시간에, 메가 크롬 확장 크롬 webstore에서 다운로드할 수 없습니다.
 
-Original source: [MEGA Chrome Extension Compromised to Steal Users’ Monero](https://cointelegraph.com/news/mega-chrome-extension-compromised-to-steal-users-monero)
+[Original source](https://cointelegraph.com/news/mega-chrome-extension-compromised-to-steal-users-monero)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

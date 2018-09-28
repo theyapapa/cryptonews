@@ -14,6 +14,6 @@
 
 지난주에는 다국적 정보기술 (IT) 업체 마이크로소프트 (MS) 의 대만 자회사가  [🔗](https://cointelegraph.com/news/microsoft-partners-with-two-asian-firms-on-blockchain-platform-for-enterprises)  블록체인 개발을 위한 플랫폼 개발에 착수했다고 발표했다. 마이크로소프트는 지난 6월 중순 제품 직렬화 및 추적성 솔루션 제공업체인 Adents 와의 제휴를 통해 블록체인 기반의 추적 플랫폼을 개발하기 시작  [🔗](https://cointelegraph.com/news/new-blockchain-based-supply-chain-system-is-presented-by-microsoft-and-ardents) 다고 밝혔다.
 
-Original source: [Facebook Director of Engineering Moves to Same Position at Company’s Blockchain Team](https://cointelegraph.com/news/facebook-director-of-engineering-moves-to-same-position-at-company-s-blockchain-team)
+[Original source](https://cointelegraph.com/news/facebook-director-of-engineering-moves-to-same-position-at-company-s-blockchain-team)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

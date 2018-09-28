@@ -1,5 +1,7 @@
 # 한국 정부는 벤처 기업 분류에서 암호 화폐 거래소를 드랍 스 ...
 
+###### 2018-08-14
+
 한국 정부는 8 월 13 일 (월요일)에 발표 된 보도 자료에서 벤처 기업에 관한 법률에서 가상 화폐 거래소를 배제 했다고 밝혔다.
 
 중소 기업 (중소기업) 및 스타트업 (MSS)의 나라의 사역에서 짧은 문서는 이전의 결정에 반하는, 지금은 바, 그것은 "로 격려 하지 않을 것 이라고 기업으로 나이트 클럽을 함께 교류를 게재할 것 이라고 설명 벤처 기업. "
@@ -14,6 +16,6 @@ MSS가 추가 된 "\ [w \] e는 블록 체인 기술과 관련 회사 들을 정
 
 동시에, 블록 체인 기술은 투자에 대 한 장기적인 초점이 되었다, 정부는 이번 주에이 지역을 공개 하는 것은 그것을 2019 5조 원 (약 $44억)의 주요 예산 지출에 대 한 점찍어 했다 8 중 하나를 형성 합니다.
 
-Original source: [South Korean Ministry Drops Cryptocurrency Exchanges From Venture Enterprise Classification](https://cointelegraph.com/news/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification)
+[Original source](https://cointelegraph.com/news/south-korean-ministry-drops-cryptocurrency-exchanges-from-venture-enterprise-classification)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

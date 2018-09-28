@@ -1,5 +1,7 @@
 # 알트 코인은 레드를 볼, 비트 코인은 완고 한 탄력성을 보여줍니다 ...
 
+###### 2018-08-21
+
 가상 화폐 시장은 Coin360 데이터가 보여주는 것 처럼, 평균적으로 3-6%의 손실을 보는 시장 총액에 의해 거의 모든 상위 20 개의 동전과 함께, 8 월 21 일 다소 0.8입니다.
 
 Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 코인 가격 지 수에 따라 $6400 주위에서 거래, 언론 시간에 지난 24 시간 동안 거의 변화를 보고 있다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 cointelegraph의 비트 �
 
 출처: 코인 마켓 캡 모든 가상 화폐의 시가 총액은 프레스 시 약 $2098억 이며, $2057억 시에는 하루 중 낮은 것이 고, 1 주일 전에는 $1910억까지 편안 하 게 압착 됩니다: 총 시장 7 일 차트 coinmarketcap의 모든 암호 화폐의 자본 화 시장은 계속 해 서 변형을 보여 주며, 이번 주에는 한국에서 초기 코인 오퍼링 (ico)에 대 한 국가의 금지를 잠재적으로 되돌릴 수 있는 논의가 진행 되 고 있습니다.
 
-Original source: [Altcoins See Red, While Bitcoin Shows Dogged Resilience](https://cointelegraph.com/news/altcoins-see-red-while-bitcoin-shows-dogged-resilience)
+[Original source](https://cointelegraph.com/news/altcoins-see-red-while-bitcoin-shows-dogged-resilience)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

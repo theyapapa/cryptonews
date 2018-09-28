@@ -1,5 +1,7 @@
 # 동네 짱 최대 주주 소프트 뱅크 bitmain, 다른 투자 불확 실한 거래를 거부 ...
 
+###### 2018-08-18
+
 소프트 뱅크의 관계자는 지난 주에 암호화 및 주류 미디어 소스에 의해 보고 된 비트 코인 (BTC) 채굴 괴수 bitmain과의 투자 거래에 대 한 참여를 거부 했습니다.
 
 그 텐 센트와 소프트 뱅크는 실제로 bitmain와 어떤 거래에 관여 하지 않은 익명의 제보를 받은 후, cointelegraph는 확인을 위해 소프트 뱅크와 tencent에 밖으로 도달 했습니다.
@@ -14,6 +16,6 @@ QQ의 보고서는 bitmain은 "중국 기술 거 대 한 tencent과 일본의 �
 
 중국 간행물 QQ는-같은 소스는 최근 금융 거래에서 두 tencent와 소프트 뱅크의 개입 혐의-최근 그 회사는 $300억에서 상당 하는 것을 제안 했다.
 
-Original source: [Uber's Largest Shareholder SoftBank Denies Deal With Bitmain, Other Investments Uncertain](https://cointelegraph.com/news/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain)
+[Original source](https://cointelegraph.com/news/ubers-largest-shareholder-softbank-denies-deal-with-bitmain-other-investments-uncertain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

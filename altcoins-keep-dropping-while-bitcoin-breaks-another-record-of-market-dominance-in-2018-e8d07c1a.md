@@ -1,5 +1,7 @@
 # altcoins는 2018에서 비트 코인이 시장 지배력의 또 다른 기록을 나누기 동안 계속 떨어지고 ...
 
+###### 2018-09-11
+
 9 월 11 일 (화): 암호화 시장은 코인 마켓 캡의 데이터에 따라, 빨간색으로 시장 총액에 의해 상위 20 개 동전의 대부분과 함께, 오늘 또 다른 하락을 보았다.
 
 Coin360에서 시장 시각화 비트 코인 (BTC)는 오늘 약간 내려 현재 $6238에서 거래,이는 지난 24 시간 동안 0.3% 손실 주위.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)는 오늘 약간 내려 현�
 
 알트 코인는 최근 시장 판매를 따르는 과거 7 일 내내, 아직도 아래로 7% 이상 압박 시간에 대략 $1.34에, 무역 하 고 있다.
 
-Original source: [Altcoins Keep Dropping While Bitcoin Breaks Another Record of Market Dominance in 2018](https://cointelegraph.com/news/altcoins-keep-dropping-while-bitcoin-breaks-another-record-of-market-dominance-in-2018)
+[Original source](https://cointelegraph.com/news/altcoins-keep-dropping-while-bitcoin-breaks-another-record-of-market-dominance-in-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

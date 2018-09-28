@@ -1,5 +1,7 @@
 # 중국의 IT 사역은 블록 체인, 2018에 대 한 핵심 연구소 중 하나의 데이터 보안 초점을 만든다 ...
 
+###### 2018-08-13
+
 중국의 산업 정보 기술 부 (miit)에는 8 월 13 일 게시 된 2018에 대 한 핵심 연구소 목록에 블록 체인 전용 실험실이 포함 되어 있습니다.
 
 교육부의 게시물에 따르면, 연구소는 데이터 보안 산업과 그것을 위해 블록 체인을 활용 하는 데 전념 하 고, 국가 산업 정보 보안 개발 연구 센터에 의해 감독 됩니다.
@@ -14,6 +16,6 @@
 
 이번 봄, 시진핑 중국 대통령은 "돌파구"를 제공 하는 기술의 "새로운 세대"의 한 예로서 공개적으로 칭찬 블록 체인.
 
-Original source: [China’s IT Ministry Makes Blockchain, Data Security Focus of One of Its Key Labs for 2018](https://cointelegraph.com/news/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018)
+[Original source](https://cointelegraph.com/news/chinas-it-ministry-makes-blockchain-data-security-focus-of-one-of-its-key-labs-for-2018)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

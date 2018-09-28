@@ -1,5 +1,7 @@
 # 중국: 3 해커 혐의 암호화에 $8700만를 훔치는 혐의로 체포 ...
 
+###### 2018-08-20
+
 중국 경찰은 3 개를 검거 했다 "높게 경험 있는" 해커는 암호에 있는 6억 yuan ($8730만의 주위에)를 훔치는의 의심 했다, 현지 뉴스 출구 Xinhua는 8 월 18 일 보고 했다.
 
 경보는 먼저 서 안의 북서부 시에 있는 현지 경찰과의 그의 불평 3 월 30 일을 제기 했다고 말한 성 Zhang에 의하여 확인 된 개인에 의하여 처음 (에) 제기 되었다.
@@ -14,6 +16,6 @@
 
 cointelegraph가 이전에 보고 한 대로, 이전에이 여름 중국 경찰은 100만 컴퓨터 이상 추정 되 게 감염 하 고 불법 이익에 있는 1500만 yuan를 (대략 $220만) 생성 한 중요 한 cryptojacking 케이스에 있는 20 명의 용의자 토탈을 검거 했다 2 년의 과정.
 
-Original source: [China: Three Hackers Arrested for Allegedly Stealing $87 Million in Crypto](https://cointelegraph.com/news/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto)
+[Original source](https://cointelegraph.com/news/china-three-hackers-arrested-for-allegedly-stealing-87-million-in-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

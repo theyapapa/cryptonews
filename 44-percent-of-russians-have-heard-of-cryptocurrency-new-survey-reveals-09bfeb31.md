@@ -1,5 +1,7 @@
 # 44 러시아의 퍼센트는 암호 화폐의 들어, 새로운 설문 조사 밝혀 ...
 
+###### 2018-08-08
+
 러시아의 거의 절반이 암호 화폐를 들었고, 13%는 그들을 잘 이해 하 고 있다고 주장 하며, 8 월 7 일 공개 된 romir 연구를 통해 조사를 실시 했다.
 
 러시아 갤럽 국제 협회의 대표자 인 romir는 1500 러시아 거주자에 게 암호 화폐에 대 한 지식과 업계와의 상호 작용 계획에 대해 물었다.
@@ -14,6 +16,6 @@ romir 대통령 andrey milyokhin는 설문 조사의 결과는 "결정적으로 
 
 1 월 말, 러시아의 수도 모스크바 인구의 74%가 현재 있다는 것을 지적 하 고 있는 러시아의 여론 조사 (vciom)의 연구에 대 한 모든 러시아어 센터가 실시 한 또 다른 암호화 관련 설문 조사의 56%가 비트 코인에 대해 들었을 것으로 나타났습니다. 암호 화폐의 인식.
 
-Original source: [44 Percent of Russians Have Heard of Cryptocurrency, New Survey Reveals](https://cointelegraph.com/news/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals)
+[Original source](https://cointelegraph.com/news/44-percent-of-russians-have-heard-of-cryptocurrency-new-survey-reveals)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

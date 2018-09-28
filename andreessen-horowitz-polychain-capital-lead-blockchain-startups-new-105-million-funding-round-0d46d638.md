@@ -1,5 +1,7 @@
 # andreessen horowitz, 폴 리 체인 캐피탈 리드 블록 체인 시작의 새로운 $1억500만 자금 조달 라운드 ...
 
+###### 2018-08-30
+
 스위스와 미국-기반 블록 체인 클라우드 컴퓨팅 시작 dfinity $1억 이상의 새로운 자금을 폐쇄 했다 andreeshorwitz, 8 월 29 일 확인을 포함 한 반복 후원자 로부터 가치가 라운드.
 
 dfinity는, "인터넷 컴퓨터"로 설명 하는 것을 구축 하는 것을 목표로, 또한 블록 체인 중심의 투자 의상 폴 리 체인 자본을 갖춘 파트너에서 $1억200만 스위스 프랑 ($1억500만)의 총 제기.
@@ -14,6 +16,6 @@ dfinity는, "인터넷 컴퓨터"로 설명 하는 것을 구축 하는 것을 �
 
 최근 7 월, andreesen은 블록 체인을 채택 하는 데 도움이 되는 계획의 일환으로 블록 체인 클라우드 컴퓨팅 플랫폼 오아시스 랩에 대 한 $45 mln 기금 라운드에 참여 했습니다.
 
-Original source: [Andreessen Horowitz, Polychain Capital Lead Blockchain Startup’s New $105 Million Funding Round](https://cointelegraph.com/news/andreessen-horowitz-polychain-capital-lead-blockchain-startups-new-105-million-funding-round)
+[Original source](https://cointelegraph.com/news/andreessen-horowitz-polychain-capital-lead-blockchain-startups-new-105-million-funding-round)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

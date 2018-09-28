@@ -1,5 +1,7 @@
 # 암호화 시장 시도 복구, 비트 코인 서클 $6500 지원 ...
 
+###### 2018-08-10
+
 Coin360 비트 코인 (BTC)에서 시장 시각화는 언론 시간에 $6500 지원을 개최 하려고, 약 $6485에 거래 하 고 하루에 퍼센트의 비율.
 
 출처: codeelegraph 비트 코인 가격 지 수이 더 리 움 (ETH)은 현재 약 $360을 거래 하 고 있으며, 시간을 눌러 하루에 약 1%를 잃고 있습니다.
@@ -14,6 +16,6 @@ Coin360 비트 코인 (BTC)에서 시장 시각화는 언론 시간에 $6500 지
 
 코인 마켓에서 모든 가상 화폐의 총 시장 자본 화에 대 한 7 일 차트 개별 암호는 시장에서의 운명을 이해 하는 반면, 기본 블록 체인 기술에 대 한 새로운 낙관적인 발전이 있었습니다.
 
-Original source: [Crypto Markets Attempt Recovery, Bitcoin Circles $6,500 Support](https://cointelegraph.com/news/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support)
+[Original source](https://cointelegraph.com/news/crypto-markets-attempt-recovery-bitcoin-circles-6-500-support)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

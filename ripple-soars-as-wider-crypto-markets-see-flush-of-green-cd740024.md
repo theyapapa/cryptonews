@@ -1,5 +1,7 @@
 # 더 넓은 암호 시장으로 잔물결 솟아 녹색의 플러시를 참조 하십시오 ...
 
+###### 2018-09-20
+
 시장 시각화 Coin360에서 휘발성 주 후에, 비트 코인 (BTC)는 어제 밤 $6400 마르크 과거를 repounded, 약간 정정 하기 전에 $6450로 높은 타격 후 옆으로 거래는 $6410의 현재 거래 가격을 봉인.
 
 bitcoin의 24 시간 성장은 cointelegraph의 비트 코인 가격 지 수에 따라 1.8%입니다.
@@ -14,6 +16,6 @@ S source: codeelegraph 비트 코인 가격 지 수 이번 주 초에 히트 가
 
 Tron (TRX)는 하루에 가장 강한 톱 20 공연 동전, 최대 5.55% 언론 시간에 $0.02에서 거래 하는 것입니다.
 
-Original source: [Ripple Soars as Wider Crypto Markets See Flush of Green](https://cointelegraph.com/news/ripple-soars-as-wider-crypto-markets-see-flush-of-green)
+[Original source](https://cointelegraph.com/news/ripple-soars-as-wider-crypto-markets-see-flush-of-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

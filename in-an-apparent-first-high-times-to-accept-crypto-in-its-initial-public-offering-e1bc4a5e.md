@@ -1,5 +1,7 @@
 # 첫 번째, 높은 시간에 자사의 초기 공공 제공에 암호화를 받아 ...
 
+###### 2018-08-02
+
 대마초 문화 미디어 조직 높은 타임즈 지주 주식 회사는 초기 공공 제공 (IPO), 높은 시간 보고서 8 월 2 일에 암호 화폐를 받아들일 것입니다.
 
 "1974 이후 대마초 정보에 대 한 가장 걸출 한 소스"는 비트 코인 (BTC) 및이 더 리 움 (ETH)을 받아 투자자를 회사에 유치 할 수 있는 넓은 그물을 캐스팅 하기 위해 노력 합니다.
@@ -14,6 +16,6 @@ IPO를 앞두고, 높은 시간은 미국 증권 거래 위원회 (SEC)와 규�
 
 레빈은 암호화를 받아들이는 조직의 임무의 일부입니다 "대 중 문화의 최전선에 있을 뿐만 아니라 첫 번째 대마초 관련 브랜드 중 하나로 서 나스닥에 공개 하 고 또한 첫 번째로 비트 코인과이 더 리 움의 일환으로 우리의 공공 capit 허용 했다 알을 올립니다. "
 
-Original source: [In an Apparent First, High Times to Accept Crypto in Its Initial Public Offering](https://cointelegraph.com/news/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering)
+[Original source](https://cointelegraph.com/news/in-an-apparent-first-high-times-to-accept-crypto-in-its-initial-public-offering)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

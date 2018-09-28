@@ -16,6 +16,6 @@
 
 6월에 월마트와 9개의 다른 회사들은 IBM  [🔗](https://cointelegraph.com/tags/ibm)  세계적으로 식량 공급을 추적하는 블록체인을 개발하기 위해  [🔗](https://cointelegraph.com/news/walmart-ibm-blockchain-initiative-aims-to-track-global-food-supply-chain) 체인을 개발했습니다. 식품 트러스트 블록체인의 구성원은 네슬레 SA, Dole Food Co., Driscoll Inc., Tyson Foods Inc.및 Unilever NV를 포함한다.
 
-Original source: [Metal Concentrates Exchange to Form Blockchain Consortium for Minerals Trading](https://cointelegraph.com/news/metal-concentrates-exchange-to-form-blockchain-consortium-for-minerals-trading)
+[Original source](https://cointelegraph.com/news/metal-concentrates-exchange-to-form-blockchain-consortium-for-minerals-trading)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -36,6 +36,6 @@ MIOTA도 이날 7% 가량 하락하며 1.06  [🔗](https://coinmarketcap.com/cu
 
 7월 5일, 톰 리는 "비트코인은 2018년 말까지 2만 2천 달러에서 2만 2천 달러의 가치가 될 수 있다" 며  [🔗](https://cointelegraph.com/tags/bitcoin-mining) 광산비용에 기초한 계산을 했다  [🔗](https://cointelegraph.com/news/wall-street-s-tom-lee-says-bitcoin-price-to-hit-22k-by-year-s-end-can-reach-25k) 고 밝혔다.
 
-Original source: [Crypto Markets See Mixed Signals But Remain Stable, Bitcoin Pushes $6,700](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-but-remain-stable-bitcoin-pushes-6-700)
+[Original source](https://cointelegraph.com/news/crypto-markets-see-mixed-signals-but-remain-stable-bitcoin-pushes-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -20,6 +20,6 @@
 
 5월 말 네덜란드 정부의 한 지점은  [🔗](https://cointelegraph.com/news/low-capitalization-institutional-exposure-make-crypto-low-risk-says-dutch-govt-report)  지하경제가 금융 안정성에 낮은 위험을 주고 있다 " 고 선언했는데, 이는 또한 전통적인 금융 기관과 시스템의 제한된 개입을 지적하고 있다.
 
-Original source: [Former World Bank Chief Economist: Bitcoin Will Fail as Governments Increase Regulation](https://cointelegraph.com/news/former-world-bank-chief-economist-bitcoin-will-fail-as-governments-increase-regulation)
+[Original source](https://cointelegraph.com/news/former-world-bank-chief-economist-bitcoin-will-fail-as-governments-increase-regulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

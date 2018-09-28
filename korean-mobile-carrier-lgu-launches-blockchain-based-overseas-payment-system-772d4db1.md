@@ -1,5 +1,7 @@
 # 한국 이동 통신사 lgu + 블록 체인 기반의 해외 결제 시스템 출시 ...
 
+###### 2018-09-16
+
 국내 4 번째로 큰 대기업 lg 전자가 소유한 이동 통신사 인 한국 lg uplus는 블록 체인 기반의 크로스 캐리어 해외 결제 서비스를 시작 하 고 있으며, 오늘 9 월 16 일에 한국 타임즈 보고서를 작성 합니다.
 
 지난 목요일, 9 월 13 일, LG uplus는 3 개의 글로벌 파트너와 함께 새로운 서비스를 개발 하기 위해 MoU를 체결 했다: 대만 기반 멀리 eastone 통신, 일본의 소프트 뱅크, 그리고 미국 기반의 tbcasoft.
@@ -14,6 +16,6 @@ tbcasoft의 창립자 겸 CEO 인 Ling Wu는 "id 및 인증"을 위해 설계 �
 
 바로 지난주에, 소프트 뱅크는 새로운 증거의 발표-개념 (PoC) synchrooss 기술 및 tbcasoft와 협력 하 여 사용자가 전 세계적으로 SMS 및 이메일과 같은 레거시 메시징 서비스를 사용 하 여 피어-투-피어 송금을 실시 할 수 있도록 ccps를 사용 하는.
 
-Original source: [Korean Mobile Carrier LGU+ Launches Blockchain-Based Overseas Payment System](https://cointelegraph.com/news/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system)
+[Original source](https://cointelegraph.com/news/korean-mobile-carrier-lgu-launches-blockchain-based-overseas-payment-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

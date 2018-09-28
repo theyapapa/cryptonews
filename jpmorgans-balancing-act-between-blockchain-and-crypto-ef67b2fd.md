@@ -1,5 +1,7 @@
 # jp 모건의 블록 체인 및 크립 토 사이의 밸런싱 법 ...
 
+###### 2018-08-29
+
 따라서, 가상 화폐와 블록 체인 기술에 대 한 회사의 태도를 이해 하기 위해 기억을 더듬어 가면서 여행할 가치가 있습니다.
 
 # # topsy-turvy 2018 암호 화폐는 12 월에 비트 코인의 모든 시간 높은 후 개월에 비참 정정을 견디고-다른 은행 들 사이--다른 은행의 사이에서-의 변동성을 인용, 신용 카드를 사용 하 여 가상 화폐 구매 처리를 중지 시장.
@@ -14,6 +16,6 @@ jp 모건 글로벌 마켓 전략가 오 스 니콜라우스 panigirtzoglou는 �
 
 이는 가상 화폐 시장에 적극적으로 참여 하는 것에 더 가까워 지는 것이 아니라, 블록 체인의 개발에 대 한 식욕은 기반이 되는 기술과 금융 세계에 대 한 약속에 대해 많은 것을 말합니다.
 
-Original source: [JPMorgan’s Balancing Act Between Blockchain and Crypto](https://cointelegraph.com/news/jpmorgans-balancing-act-between-blockchain-and-crypto)
+[Original source](https://cointelegraph.com/news/jpmorgans-balancing-act-between-blockchain-and-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

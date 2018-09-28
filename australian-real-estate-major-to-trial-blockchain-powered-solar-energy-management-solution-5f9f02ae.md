@@ -1,5 +1,7 @@
 # 시험 블록 체인 전원 태양 에너지 관리 솔루션에 주요 호주 부동산 ...
 
+###### 2018-09-25
+
 호주 사무소 부근은 그것의 에너지 네트워크에 대 한 블록 체인 솔루션을 재판이 발표 했다.
 
 부근-관리의 밑에 부동산 자산에서 $420억 이상에-오스트레일리아 에너지 기술 회사 힘 원장과 파트너가 되었다.
@@ -14,6 +16,6 @@
 
 지난 2 월, cointelegraph는 블록 체인이 에너지 산업에서 널리 사용 되 고 있다고 보고 했으며, 에너지 소비 모니터링 시스템 및 신 재생 에너지 원을 사용 하는 사람들을 위한 가상 화폐 보상 등 주목할 만한 사용 사례가 있습니다.
 
-Original source: [Australian Real Estate Major to Trial Blockchain-Powered Solar Energy Management Solution](https://cointelegraph.com/news/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution)
+[Original source](https://cointelegraph.com/news/australian-real-estate-major-to-trial-blockchain-powered-solar-energy-management-solution)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

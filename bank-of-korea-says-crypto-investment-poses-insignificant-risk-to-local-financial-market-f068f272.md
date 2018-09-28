@@ -16,6 +16,6 @@
 
 지난 주 주요 정당화 조치로 한국 정부 각 부처는  [🔗](https://cointelegraph.com/news/south-korea-legitimizes-blockchain-industry-with-major-new-classification-standards) 운 블록체인  [🔗](https://cointelegraph.com/tags/blockchain)  분류 기준의 초안을 발표했는데, 이 같은 사실은 최초로 규제된 금융 기관으로서 암호 교류를 현저하게 인식하고 있는 것으로 나타났다.
 
-Original source: [Bank of Korea Says Crypto Investment Poses ‘Insignificant’ Risk to Local Financial Market](https://cointelegraph.com/news/bank-of-korea-says-crypto-investment-poses-insignificant-risk-to-local-financial-market)
+[Original source](https://cointelegraph.com/news/bank-of-korea-says-crypto-investment-poses-insignificant-risk-to-local-financial-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

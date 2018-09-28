@@ -1,5 +1,7 @@
 이 더 리 움 약속에 대 한 분산 교환 라이벌 보다 낮은 수수료 ...
 
+###### 2018-08-17
+
 분권 화 된 거래소는 거래 수수료가 경쟁사 보다 훨씬 낮은 것으로 주장 하며, 플랫폼의 네이티브 토큰을 사용할 때마다 1%의 수수료가 0.03%로 감소 했습니다.
 
 blockonix 그것의 교환은 "가장 깨끗 한, 대부분의 사용자는" 시장에 지금 친절 하 고 etherdelta, idex 및 ForkDelta의 좋아하는 보다 비용 효율적인 경험을 제공 말합니다.
@@ -14,6 +16,6 @@ blockonix는 다른 거래소와는 달리, 그것은 제로 퍼센트 벌고-�
 
 여기에서 설명 했 듯이 분산 된 교환은 비용을 절감 하 고 개인 정보 및 보안 수준을 향상 시키는 데 도움이 되는 단일 권한 지점을 제거 하기 때문에 일부에 게 매력적입니다.
 
-Original source: [Decentralized Exchange for Ethereum Promises Lower Fees Than Rivals](https://cointelegraph.com/news/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals)
+[Original source](https://cointelegraph.com/news/decentralized-exchange-for-ethereum-promises-lower-fees-than-rivals)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

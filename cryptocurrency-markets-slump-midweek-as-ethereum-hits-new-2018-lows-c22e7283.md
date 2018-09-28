@@ -1,5 +1,7 @@
 # 가상 화폐 시장 침체 midweek이 더 리 움은 새로운 2018 최저 안타로 ...
 
+###### 2018-09-12
+
 암호 화폐 시장은 9 월 12 일 수요일에 연장 된 하락의 압력을 느끼고 있으며, 비트 코인 (BTC)은 2.5%와이 더 리 움 (ETH)이 2017 년 5 월 이후 가장 낮은 수준에 도달 합니다.
 
 시장 시각화 Coin360에서 Bitcoin은 거의 $7400 지난 주 혼란 시장에 충돌 하기 전에 상승 했다, 골드만 삭스는 주장 이상의 텀블 링은 암호화 거래 계획을 보류 했다, 뭔가 관계자는 이후 "가짜 뉴스로 해산."
@@ -14,6 +16,6 @@
 
 비트 코인은 지난 12 월 시장 점유율을 달성, 가격은 $2만 주위에 모든 시간 최고치를 쳤을 때.
 
-Original source: [Cryptocurrency Markets Slump Midweek as Ethereum Hits New 2018 Lows](https://cointelegraph.com/news/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows)
+[Original source](https://cointelegraph.com/news/cryptocurrency-markets-slump-midweek-as-ethereum-hits-new-2018-lows)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

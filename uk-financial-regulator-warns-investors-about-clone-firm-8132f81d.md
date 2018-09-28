@@ -1,5 +1,7 @@
 # 영국 금융 레 귤 레이 터 경고 투자자 '에 대 한 클론 회사 ' ...
 
+###### 2018-08-07
+
 영국 재정적인 행위 권위 (FCA)는 소위 "복제품" 회사에 관하여 투자자를 경고 했다 투자 회사 공정한 오크 자본 회사, 8 월 7 일 간행 된 계산 서에서.
 
 클론 회사는 그들이 회사는 FCA에 의해 등록 된가 식 아래에 사업 활동을 수행 하는 기업입니다.
@@ -14,6 +16,6 @@ FCA는 잠재적인 투자자 또는 클라이언트가 그것을 피하는 것�
 
 최근 글로벌 금융 혁신 네트워크 (gfin) 라는 글로벌 이니셔티브를 창설 하 여 블록 체인과 같은 핀 테크 혁신에 대 한 규제 기관과 기업 간의 협업을 개선 했다고 발표 했습니다.
 
-Original source: [UK Financial Regulator Warns Investors About ‘Clone Firm’](https://cointelegraph.com/news/uk-financial-regulator-warns-investors-about-clone-firm)
+[Original source](https://cointelegraph.com/news/uk-financial-regulator-warns-investors-about-clone-firm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

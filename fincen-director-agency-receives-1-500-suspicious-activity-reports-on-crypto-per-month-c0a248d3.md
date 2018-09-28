@@ -1,5 +1,7 @@
 # fincen 감독: 기관 수신 1500 의심 스러운 활동 보고서 암호화 달 당 ...
 
+###### 2018-08-11
+
 미국 금융 범죄 집행 네트워크 (fincen)의 디렉터 인 케네스 a. 블랑코는 기관이 암호화 관련 의심 활동 보고서 (SARs)를 제출 하는 급증을 목격 했다는 사실을 밝혀 왔습니다.
 
 이 사는 신흥 암호 공간에 대 한 규제 및 법 집행에서 fincen의 지속적인 역할을 설명 했으며,이는 증권 거래 위원회 (SEC)와 미국 상품 선물 거래 위원회 (cftc)와 연계 하 여 조정 됩니다.
@@ -14,6 +16,6 @@ blanco는 "믹서" 또는 "텀블러" 라는 별명을 가진 서비스를 제�
 
 블랑코에 따르면, fincen, BSA 검사관 및 국세청 (IRS)은 2014 이후 등록 된 모든 암호화 교환기 및 관리자의 30% 이상을 조사 했습니다.
 
-Original source: [FinCEN Director: Agency Receives 1,500 Suspicious Activity Reports on Crypto per Month](https://cointelegraph.com/news/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month)
+[Original source](https://cointelegraph.com/news/fincen-director-agency-receives-1-500-suspicious-activity-reports-on-crypto-per-month)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

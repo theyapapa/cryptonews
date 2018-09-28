@@ -1,5 +1,7 @@
 # gazprom 및 러시아 항공 S7은 국내 최초의 블록 체인에 항공기의 연료를 넣어 ...
 
+###### 2018-08-27
+
 러시아어 항공 캐리어 S7 항공은 국유 석유 거 대 한 gazprom neft와 제휴 항공기 fuelling에 대 한 블록 체인 기반 스마트 계약을 사용 하는, 8 월 24 일 금요일 확인 보도 자료.
 
 S7,이는 지난 2 년 동안 여러 블록 체인 사용 사례를 개발, 이제 연료 공급 및 지불의 효율성을 증가 하는 기술을 사용 합니다., 뿐만 아니라 공항의 급 유 과정에서.
@@ -14,6 +16,6 @@ S7,이는 지난 2 년 동안 여러 블록 체인 사용 사례를 개발, 이�
 
 2016 후반에, S7은 B2B 지불에 대 한 스마트 계약을 사용 하 여 로컬 은행 알파 은행과 제휴, 작년 동안, 티켓 판매는 "오픈 API 블록 체인을 통해 세계 최초의 항공권 구매"로 시간에 설명 하는 것을에서 시작 은행.
 
-Original source: [Gazprom And Russian Airline S7 Put Aircraft Fuelling on Blockchain in Domestic First](https://cointelegraph.com/news/gazprom-and-russian-airline-s7-put-aircraft-fuelling-on-blockchain-in-domestic-first)
+[Original source](https://cointelegraph.com/news/gazprom-and-russian-airline-s7-put-aircraft-fuelling-on-blockchain-in-domestic-first)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

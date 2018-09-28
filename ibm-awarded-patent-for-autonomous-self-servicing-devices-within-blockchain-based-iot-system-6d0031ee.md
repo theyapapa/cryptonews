@@ -1,5 +1,7 @@
 # IBM은 블록 체인 기반 IoT 시스템 내의 자율 셀프 서비스 장치에 대 한 특허를 수 여 했습니다 ...
 
+###### 2018-09-24
+
 IBM은 자율 분산 피어-투-피어 텔 레 메 트리 (숙달 된) 환경의 일부를 형성 하는 네트워크 장치의 자율 셀프 서비스에 대 한 특허를 획득 했다.
 
 IBM이 새로운 특허 출원에 대 한 배경으로 설명 하는 것 처럼 "iot 컨트롤러는 종종 중앙 집중식 \ [... \] \ [와 \] 다른 iot 솔루션 공급 업체 \ [제공 \] 유사한 중앙 집중식 아키텍처를 따르는 독점적인 솔루션" 분산 된 아키텍처는 향상 된 비용 및 운영 효율성을 제공할 수 있습니다.
@@ -14,6 +16,6 @@ IBM에 따르면, 셀프서비스 장치는 "자기 진단, 예측 \ [ing \] 장
 
 새로운 보고서는 8 월 하순에 발표 IBM은 밀접 하 게 중국의 전자 상거래 거 대 한 알리바바와 함께 최고의 자리에 대 한 새로운 목록에 있는 블록 체인 관련 특허의 숫자로 날짜에 제출한 엔티티 vied 지적 했다.
 
-Original source: [IBM Awarded Patent for Autonomous Self-Servicing Devices Within Blockchain-Based IoT System](https://cointelegraph.com/news/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system)
+[Original source](https://cointelegraph.com/news/ibm-awarded-patent-for-autonomous-self-servicing-devices-within-blockchain-based-iot-system)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

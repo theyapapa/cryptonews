@@ -1,5 +1,7 @@
 # 설문 조사: 미국 밀레 니 얼 세대의 절반은 암호화를 사용 하는 것에 관심이 ...
 
+###### 2018-09-06
+
 리서치 서비스 yougov omnibus의 최근 설문 조사는 미국 밀레 니 얼 세대의 절반이 암호 화폐 사용에 관심이 있다는 것을 보여줍니다.
 
 8 월 29-30에서 1202 응답자의 답변을 수집한 설문 조사는 일상 생활에서 암호화를 사용 하 여 응답자의 관심을 평가 합니다: "암호 화폐가 널리 받아들여질 것 이라고 믿는 사람들 중 1/3 이상 (36%)이 주로 미국 달러 보다는 암호 화폐를 사용 하 여 변환에 관심.
@@ -14,6 +16,6 @@
 
 유럽의 66%가 암호 화폐에 대해 들었지만, 35%는 암호화가 "온라인 지출의 미래" 라고 합의 했으며 35%는 다음 12 개월 내에 가치가 증가할 것 이라고 말했습니다.
 
-Original source: [Survey: Half of American Millennials Interested in Using Crypto](https://cointelegraph.com/news/survey-half-of-american-millennials-interested-in-using-crypto)
+[Original source](https://cointelegraph.com/news/survey-half-of-american-millennials-interested-in-using-crypto)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

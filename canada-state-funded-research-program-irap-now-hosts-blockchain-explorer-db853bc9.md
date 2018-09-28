@@ -1,5 +1,7 @@
 # 캐나다: 국가 투자 연구 프로그램 irap 이제 블록 체인 탐색기를 호스트 ...
 
+###### 2018-08-21
+
 캐나다 정부 투자 연구 프로그램 산업 연구 지원 프로그램 (irap)은 이제 8 월 20 일 공식 성명에 따라 자체 블록 체인 탐색기를 호스팅하고 있습니다.
 
 캐나다 국립 연구 협의회 (nrc)가 관리 하는 irap는 프로젝트가 행성간 파일 시스템 (ipfs)에 대 한 블록 체인 기반 앱을 구현 했다고 발표 했으며, 프로토콜 및 네트워크는 피어 투 피어 저장 및 공유를 가능 하 게 하도록 설계 되었습니다. 분산 원장에 대 한 데이터입니다.
@@ -14,6 +16,6 @@
 
 6 월 초, 캐나다 중앙 은행 (BoC)은 블록 체인에 대 한 이중 지출이 "비현실적" 이라고 재확인 하는 연구를 발표 했습니다.
 
-Original source: [Canada: State-Funded Research Program IRAP Now Hosts Blockchain Explorer](https://cointelegraph.com/news/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer)
+[Original source](https://cointelegraph.com/news/canada-state-funded-research-program-irap-now-hosts-blockchain-explorer)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

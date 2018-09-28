@@ -16,6 +16,6 @@
 
 Blockchain 기술은 올해도 여전히 전국적으로 인기를 얻고 있습니다. 코인텔레그래프가 지난 3  [🔗](https://cointelegraph.com/news/blockchain-technology-takes-hold-in-israel-expert-take)  보도한 바와 같이, 이스라엘 정부는 정부 서비스의 블록체인 기반 혁신에 대한 직접적인 입장을 취하고 있습니다.
 
-Original source: [Czech Firm Reveals $100 Mln Venture Fund for Israeli Startups With ‘Emphasis’ on Blockchain](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
+[Original source](https://cointelegraph.com/news/czech-firm-reveals-100-mln-venture-fund-for-israeli-startups-with-emphasis-on-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

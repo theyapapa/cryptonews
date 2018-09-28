@@ -1,5 +1,7 @@
 # 크 라우드 펀 딩 회사 indiegogo 부동산 지원 보안 토큰을 판매 하는 ...
 
+###### 2018-08-23
+
 국제 크 라우드 펀 딩 회사인 indiegogo는 회사 웹사이트의 게시물에 따라 새로운 부동산 지원 토큰을 홍보할 것입니다.
 
 자산 기반 암호 화폐는 공인 투자자가 디지털 토큰 형태로 세인트 레 지 스 아스펜 호텔의 주식을 구입할 수 있게 합니다.
@@ -14,6 +16,6 @@
 
 2008에 설립 된 크 라우드 펀 딩 웹사이트 인 indiegogo는 크 라우드 펀 딩을 제공 하는 최초의 플랫폼 중 하나 이며, 대 중이 기부에 대해 5%의 수수료를 부과 하 여 아이디어, 자선단체 또는 신생 기업을 위한 기금을 투자 하 고 요청할 수 있습니다.
 
-Original source: [Crowdfunding Firm Indiegogo to Sell Real Estate-Backed Security Tokens](https://cointelegraph.com/news/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens)
+[Original source](https://cointelegraph.com/news/crowdfunding-firm-indiegogo-to-sell-real-estate-backed-security-tokens)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

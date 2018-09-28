@@ -1,5 +1,7 @@
 # 세계은행의 블록 체인 기반 채권 ― 입양을 향한 한 걸음? ...
 
+###### 2018-08-13
+
 이 프로젝트는 세계 은행에서 주도하 고 있으며,이는 블록 체인 기술을 사용 하 여 전 세계의 채권 발행 방식을 개선 하고자 합니다.
 
 자세히 알아보기: https://t.co/tieQoQ9uLe \ #blockchain \ #bond pic.twitter.com/LhEu4oKR37-세계 은행 재무부 (@Treasury \_wb) 2018 년 8 월 9 일 기관 문제 $600억 주위에 채권 매년 지속 가능한 개발을 위한-그리고 은행은 이동 말한다 다양 한 작업에서 블록 체인 기술의 사용을 탐구 하는 것을 목표로 합니다.
@@ -14,6 +16,6 @@ merten이 제안한 바와 같이, 세계 은행과 cba의 움직임은 블록 �
 
 세계 은행은 현재 시스템을 점검 하기 위해 블록 체인 기술을 활용 하는 진보와 함께, 다른 큰 은행이 소송을 수행 하기 전에 단지 시간 문제 인가?
 
-Original source: [World Bank’s Blockchain-Based Bonds — A Step Toward Adoption?](https://cointelegraph.com/news/world-banks-blockchain-based-bonds-a-step-toward-adoption)
+[Original source](https://cointelegraph.com/news/world-banks-blockchain-based-bonds-a-step-toward-adoption)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

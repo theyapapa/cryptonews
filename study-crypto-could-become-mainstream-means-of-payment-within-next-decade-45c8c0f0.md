@@ -16,6 +16,6 @@
 
 지난 주, 국제결제은행 (BIS) 아구스틴 카스트렌 총재는  [🔗](https://cointelegraph.com/news/bis-chief-bashes-cryptocurrency-again-in-scathing-review-of-its-failure-as-money)  지하경제가 돈의 기능을 맡을 수 없다고 주장하며 " 젊은 사람들이 돈을 벌려고 노력하는 것에 대해 주의를 주었다고 주장했다.지난 6월에는 BIS가 비트코인의 확장성 문제에 초점을 맞춘 24쪽 분량의  [🔗](https://cointelegraph.com/news/crypto-not-scalable-enough-to-be-money-says-bank-of-international-settlements) 를 이 문제에 할애했다. 이 기사에 따르면, 크립토콜은 세계 경제에서 교류의 매개체가 되기에 충분히 규모를 확대할 수 없다고 밝혔습니다.
 
-Original source: [Study: Crypto Could Become Mainstream Means of Payment Within Next Decade](https://cointelegraph.com/news/study-crypto-could-become-mainstream-means-of-payment-within-next-decade)
+[Original source](https://cointelegraph.com/news/study-crypto-could-become-mainstream-means-of-payment-within-next-decade)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

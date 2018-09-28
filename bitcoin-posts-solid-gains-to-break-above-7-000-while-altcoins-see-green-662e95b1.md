@@ -1,5 +1,7 @@
 # 비트 코인 게시물 고체 이득 이상 휴식 $7000 altcoins 녹색을 참조 하는 동안 ...
 
+###### 2018-08-07
+
 Coin360에서 시장 시각화 비트 코인 (BTC)은 하루에 약 2.5%의 언론 시간에 $7118 주위를 거래 하고있다.
 
 출처: codeelegraph 비트 코인 가격 지 수 fundstrat의 연구 및 잘 알려진 비트 코인 황소 톰 리 오늘 그의 회사의 최근 출시 비트 코인 불행 지 수 (BMI) 동전의 현재 시장 추진력을 평가 하는 데 사용.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 비트 코인 (BTC)은 하루에 약 2.5%의 언�
 
 코인 마켓에서 모든 가상 화폐의 총 시장 자본 화에 대 한 7 일 차트 암호화의 임박한 제도화의 징후는 어제 골드만 삭스가 "제공 하는 계획을 블룸버그에 게 말하고 내부자 소스와 함께, 휴식을 계속 \ [자사 고객 \] 암호 펀드에 대 한 양육 권, "은행의 주장에도 불구 하 고 \" 디지털 자산에 대 한 결론에 도달 하지 \ ".
 
-Original source: [Bitcoin Posts Solid Gains to Break Above $7,000 While Altcoins See Green](https://cointelegraph.com/news/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green)
+[Original source](https://cointelegraph.com/news/bitcoin-posts-solid-gains-to-break-above-7-000-while-altcoins-see-green)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # Microsoft는 Azure에이 더 리 움 증명 기관 알고리즘을 소개 합니다.
 
+###### 2018-08-08
+
 Microsoft의 클라우드 플랫폼 Azure는 블로그 게시물에 따르면 8 월 7 일에이 더 리 움 (ETH) 블록 체인 제품에 대 한 권한 증명 (poa) 알고리즘을 도입 했습니다.
 
 새로운이 더 리 움 네트워크 알고리즘은 "모든 합의 참가자 들이 알려지고 평판이 좋은" 개인 또는 컨소시엄 네트워크를 위한 분산 응용 프로그램 (dapps)을 구축 하는 "보다 효율적인" 방법을 허용 하는 것으로 알려졌다.
@@ -14,6 +16,6 @@ azure의 새로운 ethereum 제품에는 id 임대 시스템, 패리티의 웹 �
 
 6 월 초에 R3 블록 체인 컨소시엄은 39 글로벌 금융 회사와 함께이 회사가 고객의 노하우 (kyc) 응용 프로그램을 성공적으로 테스트 하 여 Microsoft Azure에서 총 45 노드를 실행 한다고 발표 했습니다.
 
-Original source: [Microsoft Introduces Ethereum Proof-of-Authority Algorithm on Azure](https://cointelegraph.com/news/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure)
+[Original source](https://cointelegraph.com/news/microsoft-introduces-ethereum-proof-of-authority-algorithm-on-azure)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

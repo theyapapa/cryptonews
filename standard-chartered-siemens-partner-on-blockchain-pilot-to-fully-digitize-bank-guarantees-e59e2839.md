@@ -1,5 +1,7 @@
 # 스탠다드 차 타 드, 블록 체인 파일럿에 지멘스 파트너는 ' 완벽 하 게 디지털화 ' 은행 보장 ...
 
+###### 2018-08-30
+
 영국 다국적 은행 및 금융 서비스 회사 스탠다드 차 타 드 (SC)는 8 월 30 일 (목) 보도 자료에서 R3 corda 블록 체인 기술을 사용 하 여 은행 보증을 위한 블록 체인 파일럿을 수행 하 고 있습니다.
 
 지멘스의 금융 팔 지멘스 파이낸셜 서비스 (sfs)와 무역 금융 플랫폼 tradeix와 협력, 조종사는 3 월에 운영 하기 시작 하 고 2018의 끝에 의해 완료 될 것을 목표로 합니다.
@@ -12,6 +14,6 @@
 
 블록 체인을 사용 하 여 운영 프로세스를 강화에 SC의 관심은 약간의 놀라움 한편으로 온다, 그것은 혼자 2014에 $2억를 분실 하는 방법에 대 한 보고를 cointelegraph.
 
-Original source: [Standard Chartered, Siemens Partner on Blockchain Pilot to ‘Fully Digitize’ Bank Guarantees](https://cointelegraph.com/news/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees)
+[Original source](https://cointelegraph.com/news/standard-chartered-siemens-partner-on-blockchain-pilot-to-fully-digitize-bank-guarantees)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

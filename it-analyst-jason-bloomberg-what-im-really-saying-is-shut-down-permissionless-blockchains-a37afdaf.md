@@ -1,5 +1,7 @@
 # IT 분석가 제이슨 블룸버그: 내가 정말 무슨 말을 하는지는 ' per승인 덜 blockchains ' 폐쇄 ...
 
+###### 2018-09-08
+
 나가 일어날 것을 예상할 것입니다 무엇을, 각종 조직 및 정부 뿐만 아니라 은행과 월스트리트 무역 회사로, 시간이 지남에 따라 이다이 문제점이, 그 후에 점차적으로 추세 permissioned 체계를 격려 하기 위한 것일 것 이라는 점을 인식 하 고 있다. 대 승인 하지 않음-이는 비트 코인과 다른 암호 화폐의 가치를 감소 시키는 시스템을 실행 하는 것입니다.
 
 제이슨 블룸버그와 함께 전체 인터뷰를 보고 여기에: # # trustless 시스템 OC에 대 한: 대부분의 경우, 암호화 업계의 대부분의 사람들이 아니라면, 사람이 직접 한 사람에 게 서 돈을 보낼 수 있다는 사실-중 개인 없이, 기업 없이, 없이 뱅크-코어 값입니다.
@@ -14,6 +16,6 @@ JB: 암호 화폐에 대 한 범죄 관련은 암호 화폐가 이륙 하는 최
 
 근본적으로, 암호화 화폐가 되는 것은 범죄자 들이 채굴에 들어갈 수 있는 방법이 아니라 범죄 거래를 수행 하는 방법 이지만 해킹을 수행 하는 방법입니다.
 
-Original source: [IT Analyst Jason Bloomberg: What I’m Really Saying Is ‘Shut Down Permissionless Blockchains’](https://cointelegraph.com/news/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains)
+[Original source](https://cointelegraph.com/news/it-analyst-jason-bloomberg-what-im-really-saying-is-shut-down-permissionless-blockchains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

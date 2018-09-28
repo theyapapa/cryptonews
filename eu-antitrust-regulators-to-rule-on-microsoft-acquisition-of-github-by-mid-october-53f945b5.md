@@ -1,5 +1,7 @@
 # EU 반독점 규제는 10 월 중순에 의해 GitHub의 마이크로 소프트 인수에 규칙 ...
 
+###### 2018-09-19
+
 소프트웨어 거 대 한 마이크로 소프트는 웹 기반 호스팅 서비스 GitHub의 $75억 인수 유럽 연합 (e)의 승인을 요청 했다, 로이터는 9 월 17 일 보도 했다.
 
 인수와 함께,이 회사는 미국의 전자 상거래 회사 아마존에 대 한 자사의 클라우드 컴퓨팅 팔을 강화 하기 위해 찾고 있습니다.
@@ -14,6 +16,6 @@
 
 카레이도는 기업에 게 기성 품 블록 체인 애플리케이션을 제공 하는 ETH 블록 체인 기반 비즈니스 클라우드입니다.
 
-Original source: [EU Antitrust Regulators to Rule on Microsoft Acquisition of GitHub by Mid-October](https://cointelegraph.com/news/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october)
+[Original source](https://cointelegraph.com/news/eu-antitrust-regulators-to-rule-on-microsoft-acquisition-of-github-by-mid-october)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

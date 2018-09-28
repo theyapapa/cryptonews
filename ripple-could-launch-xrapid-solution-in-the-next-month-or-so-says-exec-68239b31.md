@@ -1,5 +1,7 @@
 # 리플은 다음 달에 xrapid 솔루션 '을 시작할 수 있습니다., ' 간부 말한다 ...
 
+###### 2018-09-17
+
 리플은 지불 플랫폼의 상용 버전을 시작할 수 xrapid "다음 달 정도에," CNBC는 9 월 17 일 보도 했다.
 
 아시아-태평양 및 중동 리플 sagar sarbhai에 대 한 규제 관계의 책임자는 CNBC의 리플 자사의 제품 xrapid의 출시를 향해 진보를 하고있다 고 말했다.
@@ -14,6 +16,6 @@ xrapid 제품은 국제 결제 속도를 높일 수 있도록 설계 된 실시�
 
 이 봄, 각종 금융 기관은 미국과 멕시코 사이 지불을 시험 한 xrapid 플 래 트 홈의 조종사에 참가 했다.
 
-Original source: [Ripple Could Launch xRapid Solution ‘In the Next Month or So,’ Says Exec](https://cointelegraph.com/news/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec)
+[Original source](https://cointelegraph.com/news/ripple-could-launch-xrapid-solution-in-the-next-month-or-so-says-exec)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

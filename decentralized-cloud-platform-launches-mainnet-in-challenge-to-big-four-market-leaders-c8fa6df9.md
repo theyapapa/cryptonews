@@ -34,6 +34,6 @@ DADI는 지난 7월에 열리는 수상작인 100편의 한정판 DADI (한정�
 
 경고문. 코인텔레그래프는 이 페이지에서 컨텐츠나 제품을 보증하지 않습니다. 우리는 우리가 얻을 수 있는 모든 중요한 정보를 제공하는 것을 목표로 하지만, 독자들은 회사와 관련된 행위를 하기 전에 자신들의 연구를 해야 하며, 그들의 결정에 대한 모든 책임을 지기 전에 자신들의 연구를 해야 합니다. 그리고 이 글은 투자 조언으로 간주될 수도 없습니다.
 
-Original source: [Decentralized Cloud Platform Launches Mainnet in Challenge to ‘Big Four’ Market Leaders](https://cointelegraph.com/news/decentralized-cloud-platform-launches-mainnet-in-challenge-to-big-four-market-leaders)
+[Original source](https://cointelegraph.com/news/decentralized-cloud-platform-launches-mainnet-in-challenge-to-big-four-market-leaders)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

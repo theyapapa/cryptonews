@@ -1,5 +1,7 @@
 # 코인 베이스는 수집 후 식별의 분산 형태를 추구 하는 ...
 
+###### 2018-08-15
+
 가상 화폐 거래소 및 지갑 서비스 코인 베이스는 8 월 15 일 발표에 따라 분산형 id 솔루션에서 작동 하는 샌프란시스코 기반의 스타트업 분산 시스템을 인수 했습니다.
 
 블로그 포스트, B byrne, coinbase에서 정체성에 대 한 프로젝트 매니저, 분산 시스템은 오픈 금융 시스템을 개발 하기 위해 계획 내에서 정체성을 확인 하 고 검증 하는 새로운 방법에 대 한 교환 작업에 도움이 될 것입니다 말했다.
@@ -14,6 +16,6 @@ byrne는 coinbase가 "익명, 프라이버시 및 기타 민감한 데이터 문
 
 이 회사는 $400만 $800만 라운드 이번 여름에 모금 고려 했지만, 팀은 코인 베이스와 투자에 대 한 협상을 시작,이는 인수 결과.
 
-Original source: [Coinbase to Pursue Decentralized Form of Identification Following Acquisition](https://cointelegraph.com/news/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition)
+[Original source](https://cointelegraph.com/news/coinbase-to-pursue-decentralized-form-of-identification-following-acquisition)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

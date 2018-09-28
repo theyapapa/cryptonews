@@ -1,5 +1,7 @@
 # 암호화 시장은 약간 회복,이 더 리 움, tezos는 가장 큰 이득을 참조 하십시오 ...
 
+###### 2018-09-15
+
 9 월 15 일 (토): 암호 시장은 어제의 하락 이후 약간의 회복을 겪고 있으며, coinmarketcap 데이터에 따르면, 녹색의 시가 총액에 의해 20 개의 상위 가상 화폐 중 17 개를가지고 있습니다.
 
 Coin360에서 시장 시각화 어제 $6500 가격 포인트 이하로 떨어지고 나 서, 비트 코인 (BTC)은 프레스 타임에 $6533에서 거래 하기 위해 지난 24 시간 동안 1.6%로 올라가 다시 마크에 도전 했다.
@@ -14,6 +16,6 @@ Coin360에서 시장 시각화 어제 $6500 가격 포인트 이하로 떨어지
 
 어제, 실리콘 밸리의 벤처 자본주의와 잘 알려진 비트 코인 전도 자 팀 드레이퍼는 결합 된 암호 화폐 시장 총액은 향후 15 년 동안 $80조를 칠 것 이라고 예측, 시장에 의해 변형 될 다양 한을 인용 암호 화폐 산업.
 
-Original source: [Crypto Markets Recover Slightly, Ethereum, Tezos See Largest Gains](https://cointelegraph.com/news/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains)
+[Original source](https://cointelegraph.com/news/crypto-markets-recover-slightly-ethereum-tezos-see-largest-gains)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 호주 Gov't 스마트 계약 플랫폼을 구축 하는 IBM과 법률 전문가와 파트너 ...
 
+###### 2018-08-30
+
 IBM은, csiro의 Data61와 법률 사무소 허버트 스미스 freehills 새로운 호주 컨소시엄에 기업에 대 한 크로스-산업 블록 체인 기반의 스마트 계약 플랫폼을 구축 하는 제휴, 보도 자료에 따르면 8 월 29 일 발표 했다.
 
 Data61는 커먼 웰 스 과학 및 산업 연구 조직 (csiro)의 일부를 형성 하는 디지털 혁신 센터-다양 한 지역 산업을 발전 시키기 위한 과학적 연구를 실시 하는 호주 정부 법인입니다.
@@ -14,6 +16,6 @@ anb를 넘어, 정부 및 금융 부문에 걸쳐 블록 체인을 통합 하기
 
 이 7 월, IBM은 5 년의 AU $10억 ($7억4000만)에 서명 블록 체인과 다른 신기술을 사용 하 여 국방 및 가정 업무를 포함 한 연방 부서의 데이터 보안과 자동화를 개선 하기 위해 호주 정부와 거래 합니다.
 
-Original source: [Australian Gov’t Partners With IBM and Legal Experts to Build Smart Contracts Platform](https://cointelegraph.com/news/australian-govt-partners-with-ibm-and-legal-experts-to-build-smart-contracts-platform)
+[Original source](https://cointelegraph.com/news/australian-govt-partners-with-ibm-and-legal-experts-to-build-smart-contracts-platform)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

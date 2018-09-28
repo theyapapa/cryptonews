@@ -1,5 +1,7 @@
 # 뉴욕 법무 장관 보고서는 암호 교환이 조작의 위험에 있다고 ...
 
+###### 2018-09-18
+
 9 월 18 일 뉴욕 법무 장관의 사무실에서 발표 한 새로운 보고서는 암호 화폐 교환이 조작, 이해 상충 및 기타 소비자 위험에 취약 하다 고 말합니다.
 
 이 보고서는 뉴욕 법무 장관 에릭 t. schnederman이 13 개 암호화 교환에 편지를 보내 자신의 작업에 대 한 정보를 요청, 내부 제어 및 4 월에 시작 된 "가상 시장 무결성 이니셔티브"의 결과를 나타냅니다 기타 주요 문제.
@@ -14,6 +16,6 @@
 
 보고서는 더 읽습니다: "비록 일부 가상 화폐 플랫폼은 자신의 플랫폼의 공정성을 경찰에 조치를 취한 그들의 교환의 무결성을 보호, 다른 사람은 하지 않았습니다.
 
-Original source: [New York Attorney General Report Says Crypto Exchanges are at Risk of Manipulation](https://cointelegraph.com/news/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation)
+[Original source](https://cointelegraph.com/news/new-york-attorney-general-report-says-crypto-exchanges-are-at-risk-of-manipulation)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

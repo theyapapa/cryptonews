@@ -1,5 +1,7 @@
 # 연구: ICO 시장은 지난해부터 두 배로 증가 기관 투자를 보여줍니다 ...
 
+###### 2018-08-08
+
 초기 코인 제공 (ico) 시장은 8 월 8 일 발표 된 2018의 2 분기에 대 한 icicoating ICO 시장 보고서에 따르면 1 년에 두 배로 늘어났다.
 
 2 분기 2018, 827 프로젝트에서 $80억 이상 제기 하는 보고서를 icicoating, $33억에 비해 Q1 2018, 151% 증가 전반적인 대표.
@@ -14,6 +16,6 @@
 
 연구팀은 자금의 측면에서 국가에 의해 상위 100 icos의 공개적으로 사용할 수 있는 데이터에 대 한 순위를 기반으로 제기 하 고 프로젝트의 숫자로 그들을 선정 했다.
 
-Original source: [Study: ICO Market Doubled Since Last Year, Shows Increased Institutional Investment](https://cointelegraph.com/news/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment)
+[Original source](https://cointelegraph.com/news/study-ico-market-doubled-since-last-year-shows-increased-institutional-investment)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 주요 보험 회사와 상하이 증권 거래소 파트너 블록 체인으로 산업을 개선 하기 위해 ...
 
+###### 2018-08-20
+
 상하이 증권 거래소 (SSE)와 중국 보험 자산 운용 협회 (iamac)는 블록 체인 기술을 사용 하 여 보험 연금 산업을 개선 하는 데 협력 하기로 합의 했습니다.
 
 중국 증권 저널은 SSE, 세계에서 4 번째로 큰 증권 거래소, iamac, changjiang 연금 보험 회사, 도쿄 해양 햇빛 등 여러 주요 보험 업계의 선수에 의해 합류 했다 썼다.
@@ -14,6 +16,6 @@ cointelegraph가 7 월 12 일 보고 된 대로, 상해 증권 거래소는 더 
 
 이달 초, 뉴욕 증권 거래소 (nyse)를 운영 하는 대륙간 거래소 (ICE)는 Microsoft와 다른 이들과 협력 하 여 "디지털 자산을 위한 개방적이 고 규제를 받는 글로벌 생태계"를 구축할 계획을 발표 했습니다.
 
-Original source: [Shanghai Stock Exchange Partners With Major Insurance Firms to Improve Industry With Blockchain](https://cointelegraph.com/news/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain)
+[Original source](https://cointelegraph.com/news/shanghai-stock-exchange-partners-with-major-insurance-firms-to-improve-industry-with-blockchain)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

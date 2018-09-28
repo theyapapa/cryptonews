@@ -1,5 +1,7 @@
 # 한국 포스트 서비스는 골드만 삭스에서 암호화 ' 노하우 '를 추구 ...
 
+###### 2018-09-06
+
 한국 우편 서비스 코리아 포스트 (KP)는 골드만 삭스 경영진과만 나 암호 화폐에 대 한 "노하우"를 습득 하 고, 블룸버그는 9 월 5 일 수요일에 보도 했다.
 
 이 서비스는 $1120억의 투자 기금을 총괄 하 고, 암호 화폐에 대 한 회의가 이미 골드만 삭스의 수신 최고 경영자, 데이비드 솔로몬, 뉴욕에서 자리를 차지 했다.
@@ -14,6 +16,6 @@
 
 한국은 현재의 논란이 되는 초기 코인 제공 (ICO) 금지와 몰타 스타일의 ' 블록 체인 섬 '의 창설을 중심으로 정부 토론이 어떻게 진행 되 고 있는지에 대 한 암호 화폐 규정, cointelegraph 보고를 계속 해 서 공식화 하 고 있습니다.
 
-Original source: [South Korea Post Service Seeks Crypto ‘Know-How’ From Goldman Sachs](https://cointelegraph.com/news/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs)
+[Original source](https://cointelegraph.com/news/south-korea-post-service-seeks-crypto-know-how-from-goldman-sachs)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

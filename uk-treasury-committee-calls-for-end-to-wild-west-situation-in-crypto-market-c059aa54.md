@@ -1,5 +1,7 @@
 # 영국 재무부 위원회는 암호화 시장에서 ' 와일드 웨스트 상황 '에 대 한 최종 호출 ...
 
+###### 2018-09-18
+
 영국 재무부 위원회는 투자자를 보호 하기 위해 암호 화폐 규정을 요구 하 고 있으며, BBC는 9 월 18 일 보도 했다.
 
 의회 의원 (의원)의 위원회는 공동 주택에 보도 가격 변동성, 가난한 소비자 보호, 해커 공격의 위험과 같은 디지털 통화를 둘러싼 특정 문제에 대 한 해결책을 촉구 하 고 돈세탁.
@@ -14,6 +16,6 @@ BBC는 보고로, 위원회는 또한 금융 행위 권위를 촉구 했다 (fca
 
 5 월에, cryptouk는 소비자, 기업 및 정부에 의해 그들의 사용법에 연결 된 위험을 포함 하 여 uk에 있는 디지털 방식으로 통화의 역할을 시험 하는 그것의 기도를 인용해 유리한 규칙을 옹호 하기 위하여 국고 위원회를, 제시 했다.
 
-Original source: [UK Treasury Committee Calls for End to ‘Wild West Situation’ in Crypto Market](https://cointelegraph.com/news/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market)
+[Original source](https://cointelegraph.com/news/uk-treasury-committee-calls-for-end-to-wild-west-situation-in-crypto-market)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

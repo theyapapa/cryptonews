@@ -1,5 +1,7 @@
 cryptojacking에 대 한 주요 목표 중 인도에서 # 정부 사이트, 연구 쇼 ...
 
+###### 2018-09-17
+
 공식 정부 웹사이트는 인도에 있는 cryptojacking를 위한 주요한 표적이 되었다, 경제 시간 (ET) 보고 오늘, 9 월 17 일.
 
 사이버 보안 분석가의 새로운 연구에 따르면 널리 신뢰할 수 있는 정부 웹사이트-안 드 라 프라 시, 티 루 티 시 공사 및 macherla 시정 촌의 도시 행정부의 감독을 포함 하 여-이 되고있다 밝혀 최신 연습에 의해 악용 됩니다.
@@ -14,6 +16,6 @@ Fortinet의 rajesh maurya는 cryptojacking "랜 섬에의 한 노력과 관심�
 
 그런 장치가 높은 처리 능력을가지고 아직 하루의 대부분을 유휴 상태일 수 있습니다 감안할 때, 더 나아가 사물 인터넷 (IoT) 제품을 보안 전문가에 의해 cryptojackers에 대 한 "다음 개척지"로 간주 됩니다 보고 합니다.
 
-Original source: [Government Sites in India Among Prime Targets for Cryptojacking, Research Shows](https://cointelegraph.com/news/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows)
+[Original source](https://cointelegraph.com/news/government-sites-in-india-among-prime-targets-for-cryptojacking-research-shows)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

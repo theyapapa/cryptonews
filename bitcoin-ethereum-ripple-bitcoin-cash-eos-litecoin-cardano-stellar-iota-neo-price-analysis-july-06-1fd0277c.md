@@ -122,6 +122,6 @@ NEO는 오랫동안 우리의 분석에서 장소를 찾았다. 지난 6월 29�
 
 시장 데이터는 히BTC  [🔗](https://hitbtc.com/)  교환에 의해 제공된다. 분석에 대한 차트는 TradingView  [🔗](https://www.tradingview.com/markets/cryptocurrencies/?utm_source=cointelegraph&utm_medium=sponsored&utm_campaign=marketdata) 제공한다.
 
-Original source: [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, NEO: Price Analysis, July 06](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-neo-price-analysis-july-06)
+[Original source](https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-neo-price-analysis-july-06)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

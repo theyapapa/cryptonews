@@ -1,5 +1,7 @@
 # ' 인식 ': 영국 금융 조정기는 또 다른 암호화 ' 클론 회사 '를 통해 알람을 소리 ...
 
+###### 2018-08-09
+
 영국 규칙 금융 행동 기관 (fca)은 8 월 8 일 수요일, fca 공인 회사인 암호화 관련 "사기 범"을 통해 일주일에 두 번째 경고를 발행 했습니다.
 
 FCA에 따르면, 불량 회사, 좋은 암호화, "허위 내용을 제공 하거나 믹스 \ [ing \]이 경우에는 런던 기반 arup 기업 금융 했다 등록 된 회사의 일부 올바른 세부 사항".
@@ -14,6 +16,6 @@ FCA에 따르면, 불량 회사, 좋은 암호화, "허위 내용을 제공 하�
 
 지난 3 월, 영국은 국가에 등록 된 ' 쉘 ' 회사가 현재 소멸 된 암호 화폐 거래소 인 gox에서 도난당 한 자금에 연결 되었을 때 헤드라인을 기록 했습니다.
 
-Original source: [‘Be Aware’: UK Financial Regulator Sounds Alarm Over Yet Another Crypto ‘Clone Firm’](https://cointelegraph.com/news/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm)
+[Original source](https://cointelegraph.com/news/be-aware-uk-financial-regulator-sounds-alarm-over-yet-another-crypto-clone-firm)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 블록 체인 시작은 퀴 라 소의 중앙 은행과 신트마르마 르의 MOU에 서명 합니다.
 
+###### 2018-08-14
+
 바베이도스 기반 핀 테크 스타트업 bitt inc.는 8 월 12 일 보도 자료에 따르면, 디지털 길로 발행의 가능성을 연구 하기 위해 퀴 라 소 중앙 은행과 신 트 마틴 (cbcs)과 양해 각 서 (mou)를 체결 했습니다.
 
 당사자 들은 퀴 라 소와 신 트 마틴의 통화 연맹 내에서 금융 상환을 용이 하 게 하기 위해 중앙 은행 디지털 통화를 개발 하기 위해 MOU에 서명 했다.
@@ -14,6 +16,6 @@ rawdon 아담스, CEO는 bitt Inc의, 협력에 댓글을 달았습니다: "MOU�
 
 최근에, 이란은 중앙 은행이 국내 은행과 다른 금융 시설 들이 암호화를 다루는 것을 금지 했다는 사실에도 불구 하 고 미국 제재를 우회 하는 것을 목표로 하는 자체적인 국가 발행 암호 화폐를 만들 겠다는 공약을 발표 했다. 돈 세탁 우려.
 
-Original source: [Blockchain Startup Signs MOU With Central Bank of Curaçao and Sint Maarten](https://cointelegraph.com/news/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten)
+[Original source](https://cointelegraph.com/news/blockchain-startup-signs-mou-with-central-bank-of-curacao-and-sint-maarten)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

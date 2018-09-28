@@ -1,5 +1,7 @@
 # 말레이시아의 워치독 주문 즉시 중지에 아름다움 전문가 lauddhacoin 승진 ...
 
+###### 2018-09-05
+
 증권 위원회 (sc)의 말레이시아는 최근 출시 된 lavisdaacoin (lvc)에 대 한 모든 프로 모션 활동에 대 한 즉각적인 중단을 지시 했다 추가 검토 보류, 사우스 캐롤라이나 웹사이트에 9 월 5 일 통지에 따르면.
 
 지역 뉴스 아울렛 스타에 따르면, lavidaacoin 말레이시아 화장품의 거물과 아름다움 전문가 datuk 세리 hasmiza의 ooman, 일명 dato ' 비 다에 의해 만들어졌습니다.
@@ -14,6 +16,6 @@ lavisdaacoin 첫 번째 우려를 통해 8 월 말레이시아의 사우스 캐�
 
 스타 노트로, 모든 세 엔티티는 8 월에 말레이시아 negara 은행에 의해 블랙 리스트에 있었다.
 
-Original source: [Malaysia’s Watchdog Orders Immediate Stop to Beauty Guru Lavidacoin Promotion](https://cointelegraph.com/news/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion)
+[Original source](https://cointelegraph.com/news/malaysias-watchdog-orders-immediate-stop-to-beauty-guru-lavidacoin-promotion)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

@@ -1,5 +1,7 @@
 # 비이 성적인 충 분 재검토: 암호는 새로운 닷컴 버블 인가? ...
 
+###### 2018-09-15
+
 버블은 실제로 암호화 회의론 자에 대 한 shibboleth, 시장이 2017의 끝에 치 솟 고 특히 후, 그리고 디지털 통화와 토큰의 가치 평가와 본질적인 가치 사이의 격차를 확대 되었다 많은 표면상.
 
 # # 거품과 도트-com 가장 간단한 용어로, 시장 거품은 자산이 훨씬 그들의 근본적인 가치를 초과 하는 가격으로 거래 할 때 발생 합니다.
@@ -14,6 +16,6 @@
 
 닷 컴 사례에서 배 웠 고 외삽할 수 있는 것은 너무 많아, 암호화 시장의 현재 상태와 다소 유사 하지만 동일 하지 않은 경우에는 자신감을가지고 하나 또는 다른 것을 주장 하는 것은 불가능 합니다.
 
-Original source: [Irrational Exuberance Revisited: Is Crypto The New Dot-Com Bubble?](https://cointelegraph.com/news/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble)
+[Original source](https://cointelegraph.com/news/irrational-exuberance-revisited-is-crypto-the-new-dot-com-bubble)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

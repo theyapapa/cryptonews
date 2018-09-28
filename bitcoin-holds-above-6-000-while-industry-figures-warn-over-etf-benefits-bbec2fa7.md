@@ -1,5 +1,7 @@
 # 비트 코인은 $6000 이상을 보유 하 고 있으며, 업계 수치는 ETF ' 혜택 '을 통해 경고 합니다 ...
 
+###### 2018-08-16
+
 비트 코인 (btc) 가격은 8 월 16 일 (목요일)에 .05% 정도 이며, 8 월 14 일에 그 심리 가격 포인트 이하로 BTC dip를 본 시장 추락 후 $6000 이상으로 선도적 인 암호 화폐를 단단하게 다시 가져올 것입니다.
 
 cointelegraph의 가격 추적기에서 Coin360 데이터에서 시장 시각화는 거의 10%의 주간 손실에 대해, 그것의 주간 높은 $6600 주위에서 최신 정정에도 불구 하 고, 언론 시간으로 비트 코인에 대 한 전반적인 2.5% 월별 이익을 보여줍니다.
@@ -14,6 +16,6 @@ cointelegraph의 가격 추적기에서 Coin360 데이터에서 시장 시각화
 
 또 다른 알트 코인 이상치는이 더 리 움 클래식 (ETC), 코인 베이스에 추가 하 여 하루에 16% 이상 급증 하는 가격을 보낼 수 있습니다, 동전은 현재 언론 시간에 의해 $14.09 주위에 거래와 함께.
 
-Original source: [Bitcoin Holds Above $6,000 While Industry Figures Warn Over ETF ‘Benefits’](https://cointelegraph.com/news/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits)
+[Original source](https://cointelegraph.com/news/bitcoin-holds-above-6-000-while-industry-figures-warn-over-etf-benefits)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

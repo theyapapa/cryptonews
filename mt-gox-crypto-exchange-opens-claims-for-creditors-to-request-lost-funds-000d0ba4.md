@@ -1,5 +1,7 @@
 # Mt. gox crypto 교환은 분실 된 기금을 요구 하는 채권자를 위한 요구를 연다 ...
 
+###### 2018-08-24
+
 해킹 된 일본어 암호 화폐 거래소의 채권자 gox는 잃어버린 비트 코인을 검색 하기 위해 8 월 23 일 목요일에 민사 재활 주장을 제기 하기 시작 했습니다.
 
 온라인 청구 제출 프로세스 수 탁자에 의해 발표 된 고바야시 노부아키는 지금 10 월 22 일까 지 제출 하는 교환 채권자에 대 한 다양 한 전제 조건을 설명 합니다.
@@ -14,6 +16,6 @@
 
 6 월 이벤트 고바야시 때 그는 이전에 Mt. gox 절차를 특성화 했다 대량 비트 코인 판매 오프 끝낼 것 이라고 확인 구호와 반응 해설에도 불구 하 고, 혼합 수신을 얻었다.
 
-Original source: [Mt. Gox Crypto Exchange Opens Claims for Creditors to Request Lost Funds](https://cointelegraph.com/news/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds)
+[Original source](https://cointelegraph.com/news/mt-gox-crypto-exchange-opens-claims-for-creditors-to-request-lost-funds)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

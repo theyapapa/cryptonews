@@ -1,5 +1,7 @@
 # 모든 하지만 상위 20 개 cryptos 참조 녹색, 비트 코인 안전 하 게 $6700 이상 ...
 
+###### 2018-09-23
+
 마켓 캡에의 한 상위 20 개 암호 화폐 중 하나를 제외한 모든 것이 코인 마켓 캡에 따르면 지난 24 시간 동안 이득을 만들었습니다.
 
 출처: codegraph 비트 코인 물가지수 (ETH), 거 대 한 리플 (xrp) 랠리 중에 포지션을 잠시 포기 하 고 나면, 이제 시가 총액에 의해 두 번째 지점으로 돌아갑니다.
@@ -14,6 +16,6 @@
 
 알트 코인은 코인 마켓 캡에 따르면 지난 7 일간 약 40%의 상당한 성장을 이루었습니다.
 
-Original source: [All But One of Top 20 Cryptos See Green, Bitcoin Safely Above $6,700](https://cointelegraph.com/news/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700)
+[Original source](https://cointelegraph.com/news/all-but-one-of-top-20-cryptos-see-green-bitcoin-safely-above-6-700)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

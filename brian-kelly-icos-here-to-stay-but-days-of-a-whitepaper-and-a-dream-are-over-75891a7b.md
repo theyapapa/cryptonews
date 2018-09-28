@@ -1,5 +1,7 @@
 # 브라이언 켈리: 아이 코스는 여기에, 하지만 ' 백서 및 꿈의 일 ' 끝났습니다 ...
 
+###### 2018-09-05
+
 cointelegraph와 최근 인터뷰에서, 브라이언 켈리, 설립자 겸 CEO 인 디지털 통화 투자 회사인 bkcm LLC는, 초기 동전 제물 (ico) 주위에 있어, 하지만 몇 가지 변화와 함께 말했다.
 
 또한 암호화 분석가로 서 CNBC에 정기적으로 기여 하는 켈리는 암호 산업의 다양 한 측면에 대해 논의 하기 위해 cointelegraph와 함께 앉 았다.
@@ -14,6 +16,6 @@ ico가 모금 활동의 한 형태로 곧 종료 될 것인지에 대해 말하�
 
 ico 시장은 2018의 2 분기에 대 한 icicoating의 ICO 시장 보고서에 따르면, 2017 이후 두 배로 이상, 올해 긍정적인 성장을 보았다.
 
-Original source: [Brian Kelly: ICOs Here to Stay, but ‘Days of a Whitepaper and a Dream’ Are Over](https://cointelegraph.com/news/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over)
+[Original source](https://cointelegraph.com/news/brian-kelly-icos-here-to-stay-but-days-of-a-whitepaper-and-a-dream-are-over)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")

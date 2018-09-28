@@ -1,5 +1,7 @@
 # 새로운 연구는 가능한 $98000 주장, 비트 코인에 대 한 낙관적인 전망을 제공 합니다 ...
 
+###### 2018-08-30
+
 초기 코인 제공 (ICO) 자문 회사인 satus 그룹에 의해 실시 된 새로운 연구에 따르면, 비트 코인 (BTC) 가격은 향후 5 년 동안 $98000에 도달할 수 있습니다.
 
 최신 연구 결과는 또한 예측 한 경제를 지원 하기 위하여 필요로 한 cryptoassets의 평가에 확장 하 고 다음 10 년간 시장 조건 견적을 제공 한다.
@@ -14,6 +16,6 @@
 
 이달 초, 샌포드 c. 번스타인 & 코의 연구는 가상 화폐 거래소에서 생성 된 수익이 2018에 $40억을 두 배로 이상 할 수 있다고 제안 하는 반면, 2018의 2 분기에 대 한 icicoating의 ico 시장 보고서는 ico 시장은 1 년에 두 배 이상 했다.
 
-Original source: [New Study Provides Bullish Outlook on Bitcoin, Claiming $98,000 Possible](https://cointelegraph.com/news/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible)
+[Original source](https://cointelegraph.com/news/new-study-provides-bullish-outlook-on-bitcoin-claiming-98-000-possible)
 
 ![stats](https://c.statcounter.com/11760860/0/a89fa40b/1/ "stats")
