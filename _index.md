@@ -1,3 +1,4 @@
+* 2018-09-27 [톰 리:에 테리 움은 2019의 끝에 의해 $1900까지 강력 하 게 집회 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/tom-lee-ethereum-will-rally-strongly-up-to-1-900-by-the-end-of-2019-b47d73ea.md)
 * 2018-09-27 [미국 집은 테러리스트에의 한 암호 사용을 방지 하기 위해 태스크 포스 법안을 통과](https://github.com/theyapapa/cryptonews/blob/ko/us-house-passes-bill-for-task-force-to-combat-crypto-use-by-terrorists-e6d97099.md)
 * 2018-09-27 [코인 베이스는 암호화 거래를 단순화 하도록 설계 된 ' 코인 베이스 번들 '을 도입](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-introduces-coinbase-bundle-designed-to-simplify-crypto-trading-33ffb6f6.md)
 * 2018-09-27 [골드만 삭스는 블록 체인 지불 시작에 대 한 $2500만 자금을 리드 veem](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-leads-25-million-funding-round-for-blockchain-payments-startup-veem-2f04725b.md)
