@@ -1,3 +1,4 @@
+* 2018-09-28 [Клуб с открытым исходным кодом: Монеро dodges еще одно нападение с помощью сообщества](https://github.com/theyapapa/cryptonews/blob/ru/open-source-club-monero-dodges-yet-another-attack-with-communitys-help-da1209fe.md)
 * 2018-09-28 [Япония сообщения гигантской линии объявляет о новой цифровой монеты и 5 децентрализованных приложений](https://github.com/theyapapa/cryptonews/blob/ru/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps-d7f37de9.md)
 * 2018-09-28 [Австралия: клиенты файл претензии против публично перечисленные ICO консультационная фирма дигиталкс](https://github.com/theyapapa/cryptonews/blob/ru/australia-clients-file-claim-against-publicly-listed-ico-advisory-firm-digitalx-029b0fb2.md)
 * 2018-09-28 [Монголия: Центральный банк дает разрешение на выпуск первой цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/mongolia-central-bank-gives-permission-to-issue-first-digital-currency-1c7ae18f.md)
