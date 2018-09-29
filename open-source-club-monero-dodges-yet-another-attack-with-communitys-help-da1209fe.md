@@ -20,7 +20,7 @@ On Sept. 18, user u/s\_c\_m\_l described a hypothetical attack within the XMR ec
 
 Importantly, the Monero blockchain ‘burns’ XMR transactions between identical stealth addresses, seeing them as illegitimate.
 
-Soon, it became clear that the attack didn’t center around Monero specifically, as the malicious code was reportedly activated on websites such as Amazon, Google, Microsoft, GitHub and MyEtherWallet along with Monero XMR web wallet services.Array
+Soon, it became clear that the attack didn’t center around Monero specifically, as the malicious code was reportedly activated on websites such as Amazon, Google, Microsoft, GitHub and MyEtherWallet along with Monero XMR web wallet services.
 
 [Original source](https://cointelegraph.com/news/open-source-club-monero-dodges-yet-another-attack-with-communitys-help)
 

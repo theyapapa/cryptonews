@@ -14,7 +14,7 @@ Commenting on the achievement, which comes around five months after the central 
 
 According to the plans for digital currency put forward by the central bank in April, “regulation defines who will participate in digital currency system and how, process of getting permission, rights and duties of customers and service providers.”
 
-Candy already exists as an entire ecosystem for Mongolian consumers, who can use the digital currency to pay for various goods and services with a range of businesses.Array
+Candy already exists as an entire ecosystem for Mongolian consumers, who can use the digital currency to pay for various goods and services with a range of businesses.
 
 [Original source](https://cointelegraph.com/news/mongolia-central-bank-gives-permission-to-issue-first-digital-currency)
 

@@ -14,7 +14,7 @@ In August, JD.com revealed its new Blockchain-as-a-Service (BaaS) platform.
 
 The new tool, called JD Blockchain Open Platform, will purportedly enable businesses to build, host and implement blockchain solutions without having to develop the technology from scratch.
 
-Last month, a Chinese conglomerate with operations in insurance, banking, and financial services and one of the world's largest insurance company groups, Ping An Insurance, released a "White Paper on Smart Cities," which aims to “help the government to create a new model of ‘city as a service’ governance.”Array
+Last month, a Chinese conglomerate with operations in insurance, banking, and financial services and one of the world's largest insurance company groups, Ping An Insurance, released a "White Paper on Smart Cities," which aims to “help the government to create a new model of ‘city as a service’ governance.”
 
 [Original source](https://cointelegraph.com/news/jdcom-opens-institute-for-building-smart-cities-with-blockchain-and-ai)
 

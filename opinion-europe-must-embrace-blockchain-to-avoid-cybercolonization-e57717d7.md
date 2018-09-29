@@ -14,7 +14,7 @@ Even the “local” companies we think we have working in AI are often very dep
 
 Through the GDPR, Europe and France have already been the first to regulate data privacy, protecting both individual rights and digital sovereignty from foreign tech giants.
 
-On the other hand, when U.S. tech giants hold a monopoly they can charge significant fees, force certain types of payments, and coerce end-users in a myriad of other ways.Array
+On the other hand, when U.S. tech giants hold a monopoly they can charge significant fees, force certain types of payments, and coerce end-users in a myriad of other ways.
 
 [Original source](https://cointelegraph.com/news/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization)
 

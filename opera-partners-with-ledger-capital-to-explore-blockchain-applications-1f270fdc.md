@@ -14,7 +14,7 @@ This month, Opera launched a “Labs” special edition of its desktop web brows
 
 In December last year, Opera included anti-crypto mining in their integrated ad-blocker for its desktop browser, subsequently expanding it to its mobile browser as well.
 
-Last month, another major web browser, Firefox, announced it will block cryptojacking malware in its future versions.Array
+Last month, another major web browser, Firefox, announced it will block cryptojacking malware in its future versions.
 
 [Original source](https://cointelegraph.com/news/opera-partners-with-ledger-capital-to-explore-blockchain-applications)
 

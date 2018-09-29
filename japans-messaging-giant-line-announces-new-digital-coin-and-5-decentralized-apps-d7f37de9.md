@@ -14,7 +14,7 @@ A total of 1 billion LINK Point and LINK are to be issued, of which 800 million 
 
 Both tokens will form part of LINE’s new token economy, which is based on the firm’s in-house blockchain network, LINK Chain.
 
-As previously reported, LINE announced that the genesis block of LINK chain had been generated August 23, describing the mainnet at the time as a “service-oriented” blockchain network that would enable dApps to be directly applied to LINE’s messaging platform.Array
+As previously reported, LINE announced that the genesis block of LINK chain had been generated August 23, describing the mainnet at the time as a “service-oriented” blockchain network that would enable dApps to be directly applied to LINE’s messaging platform.
 
 [Original source](https://cointelegraph.com/news/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps)
 

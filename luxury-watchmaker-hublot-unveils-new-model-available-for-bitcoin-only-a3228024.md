@@ -16,7 +16,7 @@ The Swiss brand is not the only one to commemorate Bitcoin's upcoming anniversar
 
 The white paper, titled "Bitcoin: A Peer-to-Peer Electronic Cash System," was released on bitcoin.org on October 31 – a date that is widely considered as ground zero for BTC, although the first actual bitcoin was mined on January 3, 2009.
 
-Over the almost ten years since the mining of the first Bitcoin block, many have proclaimed the cryptocurrency dead – more than 300 times overall, as Cointelegraph reported earlier.Array
+Over the almost ten years since the mining of the first Bitcoin block, many have proclaimed the cryptocurrency dead – more than 300 times overall, as Cointelegraph reported earlier.
 
 [Original source](https://cointelegraph.com/news/luxury-watchmaker-hublot-unveils-new-model-available-for-bitcoin-only)
 
