@@ -1,3 +1,4 @@
+* 2018-09-29 [러시아의 ' 실망 ' 암호 화폐 입법: 왜 전문가가 법안 실패를 고려](https://github.com/theyapapa/cryptonews/blob/ko/russias-disappointing-cryptocurrency-legislation-why-experts-consider-the-bill-a-failure-c699be9c.md)
 * 2018-09-28 [JD.com는 블록 체인과 AI로 ' 스마트 시티 '를 구축 하기 위한 연구소를 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/jdcom-opens-institute-for-building-smart-cities-with-blockchain-and-ai-e308f982.md)
 * 2018-09-28 [블록 체인 응용 프로그램을 탐구 하는 장부 자본과 오페라 파트너](https://github.com/theyapapa/cryptonews/blob/ko/opera-partners-with-ledger-capital-to-explore-blockchain-applications-1f270fdc.md)
 * 2018-09-28 [의견: 유럽은 "사이버 식민지 화"를 피하기 위해 블록 체인을 포용 해야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization-e57717d7.md)
