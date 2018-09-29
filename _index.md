@@ -1,3 +1,4 @@
+* 2018-09-28 [블록 체인 응용 프로그램을 탐구 하는 장부 자본과 오페라 파트너](https://github.com/theyapapa/cryptonews/blob/ko/opera-partners-with-ledger-capital-to-explore-blockchain-applications-1f270fdc.md)
 * 2018-09-28 [의견: 유럽은 "사이버 식민지 화"를 피하기 위해 블록 체인을 포용 해야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization-e57717d7.md)
 * 2018-09-28 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 대시: 가격 분석, 9 월 28 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-september-28-4cf236f2.md)
 * 2018-09-28 [럭셔리 시계 hublot 발표 새로운 모델, 비트 코인에만 사용할 수](https://github.com/theyapapa/cryptonews/blob/ko/luxury-watchmaker-hublot-unveils-new-model-available-for-bitcoin-only-a3228024.md)
