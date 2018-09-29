@@ -1,3 +1,4 @@
+* 2018-09-29 [Российское «неутешительное» законодательство: почему эксперты считают законопроект провалом](https://github.com/theyapapa/cryptonews/blob/ru/russias-disappointing-cryptocurrency-legislation-why-experts-consider-the-bill-a-failure-c699be9c.md)
 * 2018-09-28 [JD.com открывает институт строительства «умных городов» с помощью блоков и AI](https://github.com/theyapapa/cryptonews/blob/ru/jdcom-opens-institute-for-building-smart-cities-with-blockchain-and-ai-e308f982.md)
 * 2018-09-28 [Opera Partners со столицей ГК для изучения приложений-блоков](https://github.com/theyapapa/cryptonews/blob/ru/opera-partners-with-ledger-capital-to-explore-blockchain-applications-1f270fdc.md)
 * 2018-09-28 [Мнение: Европа должна охватить цепочки, чтобы избежать "циберколонизатион"](https://github.com/theyapapa/cryptonews/blob/ru/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization-e57717d7.md)
