@@ -14,7 +14,7 @@ Este mes, opera lanzó una edición especial de "Labs" de su navegador web de es
 
 En diciembre del año pasado, opera incluyó la minería anti-Crypto en su bloqueador de anuncios integrado para su navegador de escritorio, y posteriormente lo amplió a su navegador móvil también.
 
-El mes pasado, otro gran navegador web, Firefox, anunció que bloqueará cryptojacking malware en sus futuras versiones.Array
+El mes pasado, otro gran navegador web, Firefox, anunció que bloqueará cryptojacking malware en sus futuras versiones.
 
 [Original source](https://cointelegraph.com/news/opera-partners-with-ledger-capital-to-explore-blockchain-applications)
 

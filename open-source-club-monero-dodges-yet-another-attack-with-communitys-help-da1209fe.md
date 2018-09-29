@@ -18,7 +18,7 @@ en sept. 18, usuario u/s \ _C \ _M \ _L describió un ataque hipotético dentro 
 
 Es importante destacar que el Monero bloques ' quema ' XMR transacciones entre direcciones de sigilo idénticas, viéndolos como ilegítimos.
 
-Pronto, quedó claro que el ataque no se centró alrededor de Monero específicamente, ya que el código malicioso fue activado según se informa en sitios web como Amazon, Google, Microsoft, GitHub y MyEtherWallet junto con Monero XMR web Wallet servicios.Array
+Pronto, quedó claro que el ataque no se centró alrededor de Monero específicamente, ya que el código malicioso fue activado según se informa en sitios web como Amazon, Google, Microsoft, GitHub y MyEtherWallet junto con Monero XMR web Wallet servicios.
 
 [Original source](https://cointelegraph.com/news/open-source-club-monero-dodges-yet-another-attack-with-communitys-help)
 

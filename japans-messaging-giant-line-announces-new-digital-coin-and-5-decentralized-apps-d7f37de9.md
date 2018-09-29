@@ -14,7 +14,7 @@ Se emitirá un total de 1 mil millones puntos de enlace y enlaces, de los cuales
 
 Ambos tokens formarán parte de la nueva economía de tokens de line, que se basa en la red bloques de la empresa, la cadena de enlaces.
 
-Según lo divulgado previamente, la línea anunció que el bloque del Génesis de la cadena del acoplamiento había sido generado el 23 de agosto, describiendo el mainnet en ese entonces como "servicio-orientado" la red de bloques que permitiría a dApps ser aplicado directamente a la plataforma de la mensajería de la línea.Array
+Según lo divulgado previamente, la línea anunció que el bloque del Génesis de la cadena del acoplamiento había sido generado el 23 de agosto, describiendo el mainnet en ese entonces como "servicio-orientado" la red de bloques que permitiría a dApps ser aplicado directamente a la plataforma de la mensajería de la línea.
 
 [Original source](https://cointelegraph.com/news/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps)
 

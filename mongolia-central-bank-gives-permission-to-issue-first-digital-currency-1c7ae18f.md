@@ -14,7 +14,7 @@ Al comentar sobre el logro, que llega alrededor de cinco meses después de que e
 
 Según los planes de moneda digital que el Banco Central ha presentado en abril, "la reglamentación define quién participará en el sistema de moneda digital y cómo, el proceso de obtener el permiso, los derechos y deberes de los clientes y proveedores de servicios."
 
-Candy ya existe como un ecosistema completo para los consumidores mongoles, que pueden usar la moneda digital para pagar varios bienes y servicios con una variedad de negocios.Array
+Candy ya existe como un ecosistema completo para los consumidores mongoles, que pueden usar la moneda digital para pagar varios bienes y servicios con una variedad de negocios.
 
 [Original source](https://cointelegraph.com/news/mongolia-central-bank-gives-permission-to-issue-first-digital-currency)
 

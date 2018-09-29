@@ -14,7 +14,7 @@ En agosto, JD.com reveló su nueva plataforma bloques-as-a-Service (BaaS).
 
 La nueva herramienta, denominada JD bloques Open Platform, supuestamente permitirá a las empresas construir, hospedar e implementar soluciones bloques sin tener que desarrollar la tecnología desde cero.
 
-El mes pasado, un conglomerado chino con operaciones en seguros, banca y servicios financieros y uno de los grupos de compañías de seguros más grandes del mundo, ping a un seguro, lanzó un "libro blanco sobre ciudades inteligentes", que tiene como objetivo "ayudar al Gobierno a crear un nuevo modelo de "ciudad como un servicio" gobierno ".Array
+El mes pasado, un conglomerado chino con operaciones en seguros, banca y servicios financieros y uno de los grupos de compañías de seguros más grandes del mundo, ping a un seguro, lanzó un "libro blanco sobre ciudades inteligentes", que tiene como objetivo "ayudar al Gobierno a crear un nuevo modelo de "ciudad como un servicio" gobierno ".
 
 [Original source](https://cointelegraph.com/news/jdcom-opens-institute-for-building-smart-cities-with-blockchain-and-ai)
 

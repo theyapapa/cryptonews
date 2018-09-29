@@ -14,7 +14,7 @@ Incluso las empresas "locales" que creemos que tenemos trabajando en AI son a me
 
 A través de la GDPR, Europa y Francia ya han sido los primeros en regular la privacidad de los datos, protegiendo tanto los derechos individuales como la soberanía digital de los gigantes tecnológicos extranjeros.
 
-Por otro lado, cuando los gigantes tecnológicos de Estados Unidos tienen un monopolio, pueden cobrar cargos significativos, forzar ciertos tipos de pagos y coaccionar a los usuarios finales en una miríada de otras maneras.Array
+Por otro lado, cuando los gigantes tecnológicos de Estados Unidos tienen un monopolio, pueden cobrar cargos significativos, forzar ciertos tipos de pagos y coaccionar a los usuarios finales en una miríada de otras maneras.
 
 [Original source](https://cointelegraph.com/news/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization)
 
