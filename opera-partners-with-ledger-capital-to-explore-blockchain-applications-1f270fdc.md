@@ -14,7 +14,7 @@ Opera는 블록 체인 자문 및 금융 서비스 회사 원장 자본과 협�
 
 지난해 12 월, 오페라는 데스크톱 브라우저에 대 한 통합 광고 차단기에 안티 암호화 마이닝을 포함, 이후 뿐만 아니라 모바일 브라우저로 확장.
 
-지난 달, 또 다른 주요 웹 브라우저, 파이어 폭스, 그것은 미래의 버전에서 악성 코드를 차단 합니다 발표.Array
+지난 달, 또 다른 주요 웹 브라우저, 파이어 폭스, 그것은 미래의 버전에서 악성 코드를 차단 합니다 발표.
 
 [Original source](https://cointelegraph.com/news/opera-partners-with-ledger-capital-to-explore-blockchain-applications)
 

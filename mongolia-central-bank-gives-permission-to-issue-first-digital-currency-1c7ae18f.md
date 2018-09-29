@@ -14,7 +14,7 @@ mobicom의 금융 팔 mobifinance 지금은 전자 화폐를 발행 하는, "사
 
 디지털 통화에 대 한 계획에 따르면 앞으로 4 월 중앙 은행에 넣어, "규제 누가 디지털 통화 시스템에 참여 하는 방법을 정의 하는 방법, 허가, 권리와 고객 및 서비스 제공 업체의 의무를 얻는 과정."
 
-캔디는 이미 다양 한 상품과 서비스에 대 한 기업의 범위를 지불 하는 디지털 통화를 사용할 수 있습니다 몽골어 소비자를 위한 전체 생태계로 존재 합니다.Array
+캔디는 이미 다양 한 상품과 서비스에 대 한 기업의 범위를 지불 하는 디지털 통화를 사용할 수 있습니다 몽골어 소비자를 위한 전체 생태계로 존재 합니다.
 
 [Original source](https://cointelegraph.com/news/mongolia-central-bank-gives-permission-to-issue-first-digital-currency)
 

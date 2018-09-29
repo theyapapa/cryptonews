@@ -14,7 +14,7 @@ AI에서 일 한다고 생각 하는 "지역" 회사 조차도 미국 기술에 
 
 GDPR을 통해, 유럽과 프랑스는 이미 데이터 프라이버시를 규제 하는 첫 번째, 외국 기술 거 인 으로부터 개인의 권리와 디지털 주권을 보호 하 고 있습니다.
 
-반면에, 미국 기술 거 인이 독점을 할 때 그들은 상당한 수수료를 부과 할 수 있습니다, 지불의 특정 유형을 강제, 다른 방법의 무수 한에 최종 사용자를 강제.Array
+반면에, 미국 기술 거 인이 독점을 할 때 그들은 상당한 수수료를 부과 할 수 있습니다, 지불의 특정 유형을 강제, 다른 방법의 무수 한에 최종 사용자를 강제.
 
 [Original source](https://cointelegraph.com/news/opinion-europe-must-embrace-blockchain-to-avoid-cybercolonization)
 

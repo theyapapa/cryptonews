@@ -14,7 +14,7 @@ line의 해외 암호화 토큰 링크는 9 월초의 회사 자체 글로벌 �
 
 두 토큰은 회사의 사내 블록 체인 네트워크, 링크 체인을 기반으로 하는 라인의 새로운 토큰 경제의 일부를 형성 합니다.
 
-이전에 보고 된 바와 같이, 라인은 링크 체인의 창세기 블록이 생성 된 것을 발표 했다 8 월 23 일, dapps가 라인의 메시징 플랫폼에 직접 적용 할 수 있도록 하는 "서비스 지향" 블록 체인 네트워크로 당시 mainnet을 설명.Array
+이전에 보고 된 바와 같이, 라인은 링크 체인의 창세기 블록이 생성 된 것을 발표 했다 8 월 23 일, dapps가 라인의 메시징 플랫폼에 직접 적용 할 수 있도록 하는 "서비스 지향" 블록 체인 네트워크로 당시 mainnet을 설명.
 
 [Original source](https://cointelegraph.com/news/japans-messaging-giant-line-announces-new-digital-coin-and-5-decentralized-apps)
 

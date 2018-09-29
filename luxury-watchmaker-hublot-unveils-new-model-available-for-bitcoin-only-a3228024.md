@@ -14,7 +14,7 @@ hublot는 분산화의 중요성을 더 설명 했습니다: "디지털 정보�
 
 "비트 코인: 피어-투-피어 전자 현금 시스템" 이라는 제목의 백서는 10 월 31 일 bitcoin.org에 출시 되었으며, 첫 번째 실제 비트 코인이 2009 년 1 월 3 일에 채굴 되었지만 BTC의 그라운드 제로 널리 고려 되는 날짜입니다.
 
-첫 번째 비트 코인 블록의 채굴 이후 거의 10 년 동안, 많은 사람들이 암호 화폐가 죽은 것으로 선포 했습니다 – 300 번 이상 전체, 이전에 cointelegraph 보고.Array
+첫 번째 비트 코인 블록의 채굴 이후 거의 10 년 동안, 많은 사람들이 암호 화폐가 죽은 것으로 선포 했습니다 – 300 번 이상 전체, 이전에 cointelegraph 보고.
 
 [Original source](https://cointelegraph.com/news/luxury-watchmaker-hublot-unveils-new-model-available-for-bitcoin-only)
 

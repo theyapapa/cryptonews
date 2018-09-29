@@ -18,7 +18,7 @@ xmr은 BTC 보다 훨씬 더 많은 프라이버시 속성을가지고 있습니
 
 중요 한 것은, monero 블록 체인 ' 번즈 ' 같은 스텔스 주소 사이에 거래 xmr, 불법으로 그들을 보고.
 
-악성 코드가 monero xmr 웹 지갑 서비스와 함께 아마존, 구글, 마이크로 소프트, GitHub 및 myetherwallet 같은 웹사이트에 활성화 된 것 처럼, 곧, 그것은 공격이 monero의 주위에 구체적으로 중심 하지 않았다 명확 하 게 되었다.Array
+악성 코드가 monero xmr 웹 지갑 서비스와 함께 아마존, 구글, 마이크로 소프트, GitHub 및 myetherwallet 같은 웹사이트에 활성화 된 것 처럼, 곧, 그것은 공격이 monero의 주위에 구체적으로 중심 하지 않았다 명확 하 게 되었다.
 
 [Original source](https://cointelegraph.com/news/open-source-club-monero-dodges-yet-another-attack-with-communitys-help)
 
