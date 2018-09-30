@@ -1,3 +1,4 @@
+* 2018-09-29 [바 뒤에 암호화: 전세계에 걸쳐 헤드 라인을 만드는 체포](https://github.com/theyapapa/cryptonews/blob/ko/crypto-behind-bars-arrests-making-headlines-across-the-globe-31961c44.md)
 * 2018-09-29 [Gov't 감독 격려 암호화, 블록 체인을 추구 하는 잔물결 리드 암호화 연합](https://github.com/theyapapa/cryptonews/blob/ko/ripple-leads-crypto-coalition-seeking-govt-oversight-encouraging-crypto-blockchain-f336f846.md)
 * 2018-09-29 [귀중 한 상품: cftc는 암호화 scammers에 대 한 무력을 보여줍니다, 하지만 ' 해를 끼치지 ' 접근을 유지](https://github.com/theyapapa/cryptonews/blob/ko/precious-commodities-cftc-shows-force-against-crypto-scammers-but-maintains-do-no-harm-approach-78ed6af1.md)
 * 2018-09-29 [cftc는 투자자와 cftc 관리의 사칭에 대 한 두 피 고 인 청구](https://github.com/theyapapa/cryptonews/blob/ko/cftc-charges-two-defendants-for-defrauding-investors-and-impersonation-of-cftc-officials-add83f3a.md)
