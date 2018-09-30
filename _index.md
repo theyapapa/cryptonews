@@ -1,3 +1,4 @@
+* 2018-09-30 [암호화 시장, 상단 100 동전의 절반을 약간 위로 빨강과 녹색의 믹스를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mix-of-red-and-green-with-half-of-top-100-coins-slightly-up-29f825c6.md)
 * 2018-09-30 [일본: 온라인 디지털 자산 저장에 대 한 규칙을 강화 하기 위해 설정 하는 암호화 거래소의 자율 규제 그룹](https://github.com/theyapapa/cryptonews/blob/ko/japan-self-regulatory-group-of-crypto-exchanges-set-to-tighten-rules-on-online-digital-asset-storage-79a4d9e8.md)
 * 2018-09-29 [바 뒤에 암호화: 전세계에 걸쳐 헤드 라인을 만드는 체포](https://github.com/theyapapa/cryptonews/blob/ko/crypto-behind-bars-arrests-making-headlines-across-the-globe-31961c44.md)
 * 2018-09-29 [Gov't 감독 격려 암호화, 블록 체인을 추구 하는 잔물결 리드 암호화 연합](https://github.com/theyapapa/cryptonews/blob/ko/ripple-leads-crypto-coalition-seeking-govt-oversight-encouraging-crypto-blockchain-f336f846.md)
