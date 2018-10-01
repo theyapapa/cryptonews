@@ -1,3 +1,4 @@
+* 2018-10-01 [Выявлено: количество монет в наиболее эффективных портфелях Crypto](https://github.com/theyapapa/cryptonews/blob/ru/revealed-how-many-coins-are-in-the-best-performing-crypto-portfolios-70990969.md)
 * 2018-10-01 [Российская государственная ядерная корпорация разрабатывает цепочки для «повышения эффективности»](https://github.com/theyapapa/cryptonews/blob/ru/russian-state-nuclear-corporation-to-develop-blockchain-for-increased-efficiency-e04b47da.md)
 * 2018-10-01 [Крупнейший китайский тек журнал добавляет оплаты в Bitcoin, чтобы показать цепочки ' практичность '](https://github.com/theyapapa/cryptonews/blob/ru/major-chinese-tech-magazine-adds-payment-in-bitcoin-to-show-blockchain-practicality-e5de7e32.md)
 * 2018-10-01 [Битмекс исследования: ИКО ' продали почти столько, сколько они подняли '](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-research-icos-have-sold-almost-as-much-as-they-raised-581526bc.md)
