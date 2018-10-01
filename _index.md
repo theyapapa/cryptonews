@@ -1,3 +1,4 @@
+* 2018-10-01 [리플의 xrapid payments 솔루션은 현재 시판 되 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripples-xrapid-payments-solution-is-now-commercially-available-ad0950ec.md)
 * 2018-10-01 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 대시: 가격 분석, 10 월 1 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-october-1-2de2ab7b.md)
 * 2018-10-01 [블록 체인의 주류 도입에 대 한 다섯 가지 주요 장애물 설명](https://github.com/theyapapa/cryptonews/blob/ko/deloitte-outlines-five-major-obstacles-to-blockchains-mainstream-adoption-a3f7d83b.md)
 * 2018-10-01 [공개: 최고 성능의 암호화 포트폴리오에 얼마나 많은 코인이 있는지](https://github.com/theyapapa/cryptonews/blob/ko/revealed-how-many-coins-are-in-the-best-performing-crypto-portfolios-70990969.md)
