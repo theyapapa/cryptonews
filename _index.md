@@ -1,3 +1,4 @@
+* 2018-10-01 [Deloitte esboza cinco grandes obstáculos a la adopción principal de bloques](https://github.com/theyapapa/cryptonews/blob/es/deloitte-outlines-five-major-obstacles-to-blockchains-mainstream-adoption-a3f7d83b.md)
 * 2018-10-01 [Revelado: ¿cuántas monedas hay en las carteras de criptografía de mejor rendimiento](https://github.com/theyapapa/cryptonews/blob/es/revealed-how-many-coins-are-in-the-best-performing-crypto-portfolios-70990969.md)
 * 2018-10-01 [Corporación nuclear del estado ruso para desarrollar bloques para la "eficacia creciente"](https://github.com/theyapapa/cryptonews/blob/es/russian-state-nuclear-corporation-to-develop-blockchain-for-increased-efficiency-e04b47da.md)
 * 2018-10-01 [La revista China de tecnología mayor agrega el pago en Bitcoin para mostrar bloques ' practicity '](https://github.com/theyapapa/cryptonews/blob/es/major-chinese-tech-magazine-adds-payment-in-bitcoin-to-show-blockchain-practicality-e5de7e32.md)
