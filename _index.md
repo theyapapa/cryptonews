@@ -1,3 +1,4 @@
+* 2018-10-01 [BitMEX Research: icos ' han vendido casi tanto como se planteó '](https://github.com/theyapapa/cryptonews/blob/es/bitmex-research-icos-have-sold-almost-as-much-as-they-raised-581526bc.md)
 * 2018-10-01 [El primer ministro de Malta le dice a la ONU que Crypto es el "futuro inevitable del dinero"](https://github.com/theyapapa/cryptonews/blob/es/maltas-prime-minister-tells-un-that-crypto-is-the-inevitable-future-of-money-954808b5.md)
 * 2018-10-01 [Bloques de escalabilidad récord australiano: Cómo Crypto es entrar en la tierra abajo bajo](https://github.com/theyapapa/cryptonews/blob/es/australian-record-scalability-blockchain-how-crypto-is-stepping-into-the-land-down-under-0ba8f073.md)
 * 2018-09-30 [El StellarX de intercambio de criptografía descentralizado, basado en estelar, está ahora completamente lanzado](https://github.com/theyapapa/cryptonews/blob/es/stellar-based-zero-fee-decentralized-crypto-exchange-stellarx-fully-launched-db30668a.md)
