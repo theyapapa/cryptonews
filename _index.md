@@ -1,3 +1,4 @@
+* 2018-10-01 [호주 기록 확장성 블록 체인: 어떻게 암호화가 땅에 아래에 스테핑입니다](https://github.com/theyapapa/cryptonews/blob/ko/australian-record-scalability-blockchain-how-crypto-is-stepping-into-the-land-down-under-0ba8f073.md)
 * 2018-09-30 [스텔라 기반 제로 요금 분산형 암호 교환 stelarx는 이제 완전히 시작](https://github.com/theyapapa/cryptonews/blob/ko/stellar-based-zero-fee-decentralized-crypto-exchange-stellarx-fully-launched-db30668a.md)
 * 2018-09-30 [아마추어 cryptojackers과 애플 맥은 2018에 대 한 두 개의 마이닝 악성 코드 동향으로 등장](https://github.com/theyapapa/cryptonews/blob/ko/amateur-cryptojackers-and-apple-macs-emerge-as-two-mining-malware-trends-for-2018-c3307875.md)
 * 2018-09-30 [암호화 시장, 상단 100 동전의 절반을 약간 위로 빨강과 녹색의 믹스를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mix-of-red-and-green-with-half-of-top-100-coins-slightly-up-29f825c6.md)
