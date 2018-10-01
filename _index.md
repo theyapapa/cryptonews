@@ -1,3 +1,4 @@
+* 2018-10-01 [bitmex 연구: 아이 코스 '는 거의 그들이 제기 만큼 판매 '](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-research-icos-have-sold-almost-as-much-as-they-raised-581526bc.md)
 * 2018-10-01 [몰타 총리는 암호화가 ' 피할 수 없는 미래 돈 ' 이라고 말한다.](https://github.com/theyapapa/cryptonews/blob/ko/maltas-prime-minister-tells-un-that-crypto-is-the-inevitable-future-of-money-954808b5.md)
 * 2018-10-01 [호주 기록 확장성 블록 체인: 어떻게 암호화가 땅에 아래에 스테핑입니다](https://github.com/theyapapa/cryptonews/blob/ko/australian-record-scalability-blockchain-how-crypto-is-stepping-into-the-land-down-under-0ba8f073.md)
 * 2018-09-30 [스텔라 기반 제로 요금 분산형 암호 교환 stelarx는 이제 완전히 시작](https://github.com/theyapapa/cryptonews/blob/ko/stellar-based-zero-fee-decentralized-crypto-exchange-stellarx-fully-launched-db30668a.md)
