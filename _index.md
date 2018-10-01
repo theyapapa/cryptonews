@@ -1,3 +1,4 @@
+* 2018-10-01 [Крупнейший китайский тек журнал добавляет оплаты в Bitcoin, чтобы показать цепочки ' практичность '](https://github.com/theyapapa/cryptonews/blob/ru/major-chinese-tech-magazine-adds-payment-in-bitcoin-to-show-blockchain-practicality-e5de7e32.md)
 * 2018-10-01 [Битмекс исследования: ИКО ' продали почти столько, сколько они подняли '](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-research-icos-have-sold-almost-as-much-as-they-raised-581526bc.md)
 * 2018-10-01 [Мальта премьер-министр говорит ООН, что крипто является "неизбежным будущее денег"](https://github.com/theyapapa/cryptonews/blob/ru/maltas-prime-minister-tells-un-that-crypto-is-the-inevitable-future-of-money-954808b5.md)
 * 2018-10-01 [Австралийская масштабируемость записи цепочки: как крипто вступает в землю вниз под](https://github.com/theyapapa/cryptonews/blob/ru/australian-record-scalability-blockchain-how-crypto-is-stepping-into-the-land-down-under-0ba8f073.md)
