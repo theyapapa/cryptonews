@@ -1,3 +1,4 @@
+* 2018-10-01 [' 효율성 향상 '을 위한 블록 체인 개발을 위한 러시아 국영 원자력 공사](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-nuclear-corporation-to-develop-blockchain-for-increased-efficiency-e04b47da.md)
 * 2018-10-01 [주요 중국 기술 잡지는 블록 체인 ' 실용성 '을 보여주기 위해 비트 코인에 지불을 추가](https://github.com/theyapapa/cryptonews/blob/ko/major-chinese-tech-magazine-adds-payment-in-bitcoin-to-show-blockchain-practicality-e5de7e32.md)
 * 2018-10-01 [bitmex 연구: 아이 코스 '는 거의 그들이 제기 만큼 판매 '](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-research-icos-have-sold-almost-as-much-as-they-raised-581526bc.md)
 * 2018-10-01 [몰타 총리는 암호화가 ' 피할 수 없는 미래 돈 ' 이라고 말한다.](https://github.com/theyapapa/cryptonews/blob/ko/maltas-prime-minister-tells-un-that-crypto-is-the-inevitable-future-of-money-954808b5.md)
