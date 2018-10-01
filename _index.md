@@ -1,3 +1,4 @@
+* 2018-10-01 [«Делойт» изложил пять основных препятствий на пути внедрения](https://github.com/theyapapa/cryptonews/blob/ru/deloitte-outlines-five-major-obstacles-to-blockchains-mainstream-adoption-a3f7d83b.md)
 * 2018-10-01 [Выявлено: количество монет в наиболее эффективных портфелях Crypto](https://github.com/theyapapa/cryptonews/blob/ru/revealed-how-many-coins-are-in-the-best-performing-crypto-portfolios-70990969.md)
 * 2018-10-01 [Российская государственная ядерная корпорация разрабатывает цепочки для «повышения эффективности»](https://github.com/theyapapa/cryptonews/blob/ru/russian-state-nuclear-corporation-to-develop-blockchain-for-increased-efficiency-e04b47da.md)
 * 2018-10-01 [Крупнейший китайский тек журнал добавляет оплаты в Bitcoin, чтобы показать цепочки ' практичность '](https://github.com/theyapapa/cryptonews/blob/ru/major-chinese-tech-magazine-adds-payment-in-bitcoin-to-show-blockchain-practicality-e5de7e32.md)
