@@ -1,3 +1,4 @@
+* 2018-10-01 [Corporación nuclear del estado ruso para desarrollar bloques para la "eficacia creciente"](https://github.com/theyapapa/cryptonews/blob/es/russian-state-nuclear-corporation-to-develop-blockchain-for-increased-efficiency-e04b47da.md)
 * 2018-10-01 [La revista China de tecnología mayor agrega el pago en Bitcoin para mostrar bloques ' practicity '](https://github.com/theyapapa/cryptonews/blob/es/major-chinese-tech-magazine-adds-payment-in-bitcoin-to-show-blockchain-practicality-e5de7e32.md)
 * 2018-10-01 [BitMEX Research: icos ' han vendido casi tanto como se planteó '](https://github.com/theyapapa/cryptonews/blob/es/bitmex-research-icos-have-sold-almost-as-much-as-they-raised-581526bc.md)
 * 2018-10-01 [El primer ministro de Malta le dice a la ONU que Crypto es el "futuro inevitable del dinero"](https://github.com/theyapapa/cryptonews/blob/es/maltas-prime-minister-tells-un-that-crypto-is-the-inevitable-future-of-money-954808b5.md)
