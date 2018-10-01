@@ -1,3 +1,4 @@
+* 2018-10-01 [Ксрапид платежное решение «рябь» теперь доступно на коммерческой основе](https://github.com/theyapapa/cryptonews/blob/ru/ripples-xrapid-payments-solution-is-now-commercially-available-ad0950ec.md)
 * 2018-10-01 [Bitcoin, Ethereum, рябь, Bitcoin Cash, EOS, Звездные, Litecoin, Кардано, Монеро, тире: анализ цен, 1 октября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-october-1-2de2ab7b.md)
 * 2018-10-01 [«Делойт» изложил пять основных препятствий на пути внедрения](https://github.com/theyapapa/cryptonews/blob/ru/deloitte-outlines-five-major-obstacles-to-blockchains-mainstream-adoption-a3f7d83b.md)
 * 2018-10-01 [Выявлено: количество монет в наиболее эффективных портфелях Crypto](https://github.com/theyapapa/cryptonews/blob/ru/revealed-how-many-coins-are-in-the-best-performing-crypto-portfolios-70990969.md)
