@@ -1,3 +1,4 @@
+* 2018-09-30 [스텔라 기반 제로 요금 분산형 암호 교환 stelarx는 이제 완전히 시작](https://github.com/theyapapa/cryptonews/blob/ko/stellar-based-zero-fee-decentralized-crypto-exchange-stellarx-fully-launched-db30668a.md)
 * 2018-09-30 [아마추어 cryptojackers과 애플 맥은 2018에 대 한 두 개의 마이닝 악성 코드 동향으로 등장](https://github.com/theyapapa/cryptonews/blob/ko/amateur-cryptojackers-and-apple-macs-emerge-as-two-mining-malware-trends-for-2018-c3307875.md)
 * 2018-09-30 [암호화 시장, 상단 100 동전의 절반을 약간 위로 빨강과 녹색의 믹스를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mix-of-red-and-green-with-half-of-top-100-coins-slightly-up-29f825c6.md)
 * 2018-09-30 [일본: 온라인 디지털 자산 저장에 대 한 규칙을 강화 하기 위해 설정 하는 암호화 거래소의 자율 규제 그룹](https://github.com/theyapapa/cryptonews/blob/ko/japan-self-regulatory-group-of-crypto-exchanges-set-to-tighten-rules-on-online-digital-asset-storage-79a4d9e8.md)
