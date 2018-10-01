@@ -1,3 +1,4 @@
+* 2018-10-01 [블록 체인의 주류 도입에 대 한 다섯 가지 주요 장애물 설명](https://github.com/theyapapa/cryptonews/blob/ko/deloitte-outlines-five-major-obstacles-to-blockchains-mainstream-adoption-a3f7d83b.md)
 * 2018-10-01 [공개: 최고 성능의 암호화 포트폴리오에 얼마나 많은 코인이 있는지](https://github.com/theyapapa/cryptonews/blob/ko/revealed-how-many-coins-are-in-the-best-performing-crypto-portfolios-70990969.md)
 * 2018-10-01 [' 효율성 향상 '을 위한 블록 체인 개발을 위한 러시아 국영 원자력 공사](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-nuclear-corporation-to-develop-blockchain-for-increased-efficiency-e04b47da.md)
 * 2018-10-01 [주요 중국 기술 잡지는 블록 체인 ' 실용성 '을 보여주기 위해 비트 코인에 지불을 추가](https://github.com/theyapapa/cryptonews/blob/ko/major-chinese-tech-magazine-adds-payment-in-bitcoin-to-show-blockchain-practicality-e5de7e32.md)
