@@ -1,3 +1,4 @@
+* 2018-10-01 [La solución de pagos xRapid de Ripple ahora está disponible comercialmente](https://github.com/theyapapa/cryptonews/blob/es/ripples-xrapid-payments-solution-is-now-commercially-available-ad0950ec.md)
 * 2018-10-01 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, Cardano, Monero, Dash: Análisis de precios, 1 de octubre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-october-1-2de2ab7b.md)
 * 2018-10-01 [Deloitte esboza cinco grandes obstáculos a la adopción principal de bloques](https://github.com/theyapapa/cryptonews/blob/es/deloitte-outlines-five-major-obstacles-to-blockchains-mainstream-adoption-a3f7d83b.md)
 * 2018-10-01 [Revelado: ¿cuántas monedas hay en las carteras de criptografía de mejor rendimiento](https://github.com/theyapapa/cryptonews/blob/es/revealed-how-many-coins-are-in-the-best-performing-crypto-portfolios-70990969.md)
