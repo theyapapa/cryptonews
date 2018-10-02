@@ -1,3 +1,4 @@
+* 2018-10-01 [Генеральный директор ShapeShift Эрик Вурхиз опровергает отчеты WSJ о "грязные деньги"](https://github.com/theyapapa/cryptonews/blob/ru/shapeshift-ceo-erik-voorhees-refutes-wsj-reports-of-dirty-money-f257cce5.md)
 * 2018-10-01 [Билл Клинтон: «перестановки и возможности цепочки потрясающие»](https://github.com/theyapapa/cryptonews/blob/ru/bill-clinton-permutations-and-possibilities-of-blockchain-are-staggeringly-great-f97f79ab.md)
 * 2018-10-01 [Ксрапид платежное решение «рябь» теперь доступно на коммерческой основе](https://github.com/theyapapa/cryptonews/blob/ru/ripples-xrapid-payments-solution-is-now-commercially-available-ad0950ec.md)
 * 2018-10-01 [Bitcoin, Ethereum, рябь, Bitcoin Cash, EOS, Звездные, Litecoin, Кардано, Монеро, тире: анализ цен, 1 октября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-october-1-2de2ab7b.md)
