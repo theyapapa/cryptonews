@@ -1,3 +1,4 @@
+* 2018-10-02 [국내 최대 규모의 VC 기업, 엔터프라이즈 블록 체인 스타트업에 대 한 첫 투자](https://github.com/theyapapa/cryptonews/blob/ko/koreas-largest-vc-firm-makes-first-investment-in-enterprise-blockchain-startup-4e87c393.md)
 * 2018-10-02 [엔터프라이즈이 더 리 움 얼라이언스 및 hyperledger 공식 ' 협회 ' 계약을 입력](https://github.com/theyapapa/cryptonews/blob/ko/enterprise-ethereum-alliance-and-hyperledger-enter-formal-association-agreement-6e588a37.md)
 * 2018-10-02 [보고서: 독일 ico의 투자자는 90% 만큼 높은 손실을 입었다.](https://github.com/theyapapa/cryptonews/blob/ko/report-investors-in-german-icos-have-suffered-losses-as-high-as-90-395084f6.md)
 * 2018-10-01 [변신 하는 CEO 에릭 voorhees ' 더티 머니 '의 WSJ 보고서를 반박](https://github.com/theyapapa/cryptonews/blob/ko/shapeshift-ceo-erik-voorhees-refutes-wsj-reports-of-dirty-money-f257cce5.md)
