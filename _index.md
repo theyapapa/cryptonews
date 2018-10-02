@@ -1,3 +1,4 @@
+* 2018-10-02 [Крупнейшая венчурная компания в Корее делает первые инвестиции в корпоративный запуск цепочки](https://github.com/theyapapa/cryptonews/blob/ru/koreas-largest-vc-firm-makes-first-investment-in-enterprise-blockchain-startup-4e87c393.md)
 * 2018-10-02 [Корпоративный Ethereum Альянс и ГК введите официальное соглашение об ассоциации](https://github.com/theyapapa/cryptonews/blob/ru/enterprise-ethereum-alliance-and-hyperledger-enter-formal-association-agreement-6e588a37.md)
 * 2018-10-02 [Отчет: инвесторы в немецкой ИКО понесли убытки до 90%](https://github.com/theyapapa/cryptonews/blob/ru/report-investors-in-german-icos-have-suffered-losses-as-high-as-90-395084f6.md)
 * 2018-10-01 [Генеральный директор ShapeShift Эрик Вурхиз опровергает отчеты WSJ о "грязные деньги"](https://github.com/theyapapa/cryptonews/blob/ru/shapeshift-ceo-erik-voorhees-refutes-wsj-reports-of-dirty-money-f257cce5.md)
