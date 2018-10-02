@@ -1,3 +1,4 @@
+* 2018-10-02 [보고서: 독일 ico의 투자자는 90% 만큼 높은 손실을 입었다.](https://github.com/theyapapa/cryptonews/blob/ko/report-investors-in-german-icos-have-suffered-losses-as-high-as-90-395084f6.md)
 * 2018-10-01 [변신 하는 CEO 에릭 voorhees ' 더티 머니 '의 WSJ 보고서를 반박](https://github.com/theyapapa/cryptonews/blob/ko/shapeshift-ceo-erik-voorhees-refutes-wsj-reports-of-dirty-money-f257cce5.md)
 * 2018-10-01 [빌 클린턴: ' 블록 체인의 순열과 가능성은 무지 큰 '](https://github.com/theyapapa/cryptonews/blob/ko/bill-clinton-permutations-and-possibilities-of-blockchain-are-staggeringly-great-f97f79ab.md)
 * 2018-10-01 [리플의 xrapid payments 솔루션은 현재 시판 되 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripples-xrapid-payments-solution-is-now-commercially-available-ad0950ec.md)
