@@ -1,3 +1,4 @@
+* 2018-10-02 [뱅크 오브 아메리카: 블록 체인 시장, 아마존, 마이크로 소프트에 부스트를 줄 것 이다 $7 bln 칠 수](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-blockchain-market-could-hit-7-bln-will-give-boost-to-amazon-microsoft-dea596d5.md)
 * 2018-10-02 [블룸버그: 푸에 르 토 리코의 고귀한 은행은 고객의 밧줄을 잃는다, bitfinex, 추구 구매자](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-puerto-ricos-noble-bank-reportedly-loses-clients-tether-bitfinex-seeks-buyer-9df692c0.md)
 * 2018-10-02 [개발 마일스 톤이 충족 되지 않으면 기여자를 환불 하기 위한 블록 체인 기반 광고 시작](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-based-ad-startup-to-refund-contributors-if-development-milestones-arent-met-c2b67797.md)
 * 2018-10-02 [웹 저장소 확장에서 난독 처리 코드의 Google의 금지는 cryptojackers에 영향을 미칠 가능성이](https://github.com/theyapapa/cryptonews/blob/ko/googles-ban-of-obfuscated-code-from-web-store-extensions-likely-to-affect-cryptojackers-73427ad3.md)
