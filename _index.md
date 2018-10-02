@@ -1,3 +1,4 @@
+* 2018-10-02 [Enterprise Ethereum Alliance e hypercontable entran en un acuerdo formal de asociación](https://github.com/theyapapa/cryptonews/blob/es/enterprise-ethereum-alliance-and-hyperledger-enter-formal-association-agreement-6e588a37.md)
 * 2018-10-02 [Informe: los inversionistas en icos alemanes han sufrido pérdidas tan altas como 90%](https://github.com/theyapapa/cryptonews/blob/es/report-investors-in-german-icos-have-suffered-losses-as-high-as-90-395084f6.md)
 * 2018-10-01 [Cambio CEO Erik Voorhees refuta WSJ informes de ' dinero sucio '](https://github.com/theyapapa/cryptonews/blob/es/shapeshift-ceo-erik-voorhees-refutes-wsj-reports-of-dirty-money-f257cce5.md)
 * 2018-10-01 [Bill Clinton: "las permutaciones y las posibilidades de bloques son asombrosamente grandes"](https://github.com/theyapapa/cryptonews/blob/es/bill-clinton-permutations-and-possibilities-of-blockchain-are-staggeringly-great-f97f79ab.md)
