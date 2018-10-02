@@ -1,3 +1,4 @@
+* 2018-10-02 [Корпоративный Ethereum Альянс и ГК введите официальное соглашение об ассоциации](https://github.com/theyapapa/cryptonews/blob/ru/enterprise-ethereum-alliance-and-hyperledger-enter-formal-association-agreement-6e588a37.md)
 * 2018-10-02 [Отчет: инвесторы в немецкой ИКО понесли убытки до 90%](https://github.com/theyapapa/cryptonews/blob/ru/report-investors-in-german-icos-have-suffered-losses-as-high-as-90-395084f6.md)
 * 2018-10-01 [Генеральный директор ShapeShift Эрик Вурхиз опровергает отчеты WSJ о "грязные деньги"](https://github.com/theyapapa/cryptonews/blob/ru/shapeshift-ceo-erik-voorhees-refutes-wsj-reports-of-dirty-money-f257cce5.md)
 * 2018-10-01 [Билл Клинтон: «перестановки и возможности цепочки потрясающие»](https://github.com/theyapapa/cryptonews/blob/ru/bill-clinton-permutations-and-possibilities-of-blockchain-are-staggeringly-great-f97f79ab.md)
