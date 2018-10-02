@@ -1,3 +1,4 @@
+* 2018-10-02 [웹 저장소 확장에서 난독 처리 코드의 Google의 금지는 cryptojackers에 영향을 미칠 가능성이](https://github.com/theyapapa/cryptonews/blob/ko/googles-ban-of-obfuscated-code-from-web-store-extensions-likely-to-affect-cryptojackers-73427ad3.md)
 * 2018-10-02 [국내 최대 규모의 VC 기업, 엔터프라이즈 블록 체인 스타트업에 대 한 첫 투자](https://github.com/theyapapa/cryptonews/blob/ko/koreas-largest-vc-firm-makes-first-investment-in-enterprise-blockchain-startup-4e87c393.md)
 * 2018-10-02 [엔터프라이즈이 더 리 움 얼라이언스 및 hyperledger 공식 ' 협회 ' 계약을 입력](https://github.com/theyapapa/cryptonews/blob/ko/enterprise-ethereum-alliance-and-hyperledger-enter-formal-association-agreement-6e588a37.md)
 * 2018-10-02 [보고서: 독일 ico의 투자자는 90% 만큼 높은 손실을 입었다.](https://github.com/theyapapa/cryptonews/blob/ko/report-investors-in-german-icos-have-suffered-losses-as-high-as-90-395084f6.md)
