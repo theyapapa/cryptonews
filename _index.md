@@ -1,3 +1,4 @@
+* 2018-10-01 [빌 클린턴: ' 블록 체인의 순열과 가능성은 무지 큰 '](https://github.com/theyapapa/cryptonews/blob/ko/bill-clinton-permutations-and-possibilities-of-blockchain-are-staggeringly-great-f97f79ab.md)
 * 2018-10-01 [리플의 xrapid payments 솔루션은 현재 시판 되 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripples-xrapid-payments-solution-is-now-commercially-available-ad0950ec.md)
 * 2018-10-01 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 대시: 가격 분석, 10 월 1 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-dash-price-analysis-october-1-2de2ab7b.md)
 * 2018-10-01 [블록 체인의 주류 도입에 대 한 다섯 가지 주요 장애물 설명](https://github.com/theyapapa/cryptonews/blob/ko/deloitte-outlines-five-major-obstacles-to-blockchains-mainstream-adoption-a3f7d83b.md)
