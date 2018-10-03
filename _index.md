@@ -1,3 +1,4 @@
+* 2018-10-03 [Оксфордский бизнес-Закон блог: "радикальные переосмыслить ' из цепочки регулирования является императивом](https://github.com/theyapapa/cryptonews/blob/ru/oxford-business-law-blog-radical-rethink-of-blockchain-regulation-is-imperative-4323355f.md)
 * 2018-10-03 ["этические вопросы": старший исполнительной останавливает Уолл-стрит журнал собственной](https://github.com/theyapapa/cryptonews/blob/ru/ethical-questions-senior-executive-halts-wall-street-journals-own-cryptocurrency-e73a9033.md)
 * 2018-10-03 [Отчет по безопасности рисует смешанную картину защиты на крупнейших биржах криптографии](https://github.com/theyapapa/cryptonews/blob/ru/security-report-paints-mixed-picture-of-protection-at-biggest-crypto-exchanges-839f7bcb.md)
 * 2018-10-03 [Доклад: Coinbase переговоры могли бы значение Crypto Exchange на $8 000 000 000](https://github.com/theyapapa/cryptonews/blob/ru/report-coinbase-negotiation-could-value-crypto-exchange-at-8-billion-3be81615.md)
