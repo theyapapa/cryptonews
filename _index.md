@@ -1,3 +1,4 @@
+* 2018-10-03 [Informe: Coinbase negociación podría valorar el intercambio de criptografía en $8 mil millones](https://github.com/theyapapa/cryptonews/blob/es/report-coinbase-negotiation-could-value-crypto-exchange-at-8-billion-3be81615.md)
 * 2018-10-02 [CEO de bloques Browser valiente insta al Senado estadounidense a considerar los estándares de privacidad europeos](https://github.com/theyapapa/cryptonews/blob/es/ceo-of-blockchain-browser-brave-urges-us-senate-to-consider-european-privacy-standards-c664579f.md)
 * 2018-10-02 [Las cuotas de fideicomiso de inversión Bitcoin bajan 80 por ciento, los inversores citan precios bajos, altos honorarios](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-investment-trust-shares-down-80-percent-investors-cite-low-prices-high-fees-7ea0176a.md)
 * 2018-10-02 [Charles Schwab exec se une a Coinbase Board](https://github.com/theyapapa/cryptonews/blob/es/charles-schwab-exec-joins-coinbase-board-a994b45f.md)
