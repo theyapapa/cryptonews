@@ -1,3 +1,4 @@
+* 2018-10-02 [Генеральный директор цепочки браузер смелый призывает Сенат США рассмотреть европейские стандарты конфиденциальности](https://github.com/theyapapa/cryptonews/blob/ru/ceo-of-blockchain-browser-brave-urges-us-senate-to-consider-european-privacy-standards-c664579f.md)
 * 2018-10-02 [Биткойн инвестиционный траст делится на 80%, инвесторы ссылаются на низкие цены, высокие тарифы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-investment-trust-shares-down-80-percent-investors-cite-low-prices-high-fees-7ea0176a.md)
 * 2018-10-02 [Чарльз Coinbase Exec присоединяется к доске](https://github.com/theyapapa/cryptonews/blob/ru/charles-schwab-exec-joins-coinbase-board-a994b45f.md)
 * 2018-10-02 [Бэнк оф Америка: рынок цепочки может ударить $7 млрд, даст толчок для Amazon, Microsoft](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-blockchain-market-could-hit-7-bln-will-give-boost-to-amazon-microsoft-dea596d5.md)
