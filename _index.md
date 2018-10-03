@@ -1,3 +1,4 @@
+* 2018-10-03 [США брокерская фирма TD AMERITRADE инвестировать в новый Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/ru/us-brokerage-firm-td-ameritrade-to-invest-in-new-crypto-exchange-ccdbff1f.md)
 * 2018-10-03 [Оксфордский бизнес-Закон блог: "радикальные переосмыслить ' из цепочки регулирования является императивом](https://github.com/theyapapa/cryptonews/blob/ru/oxford-business-law-blog-radical-rethink-of-blockchain-regulation-is-imperative-4323355f.md)
 * 2018-10-03 ["этические вопросы": старший исполнительной останавливает Уолл-стрит журнал собственной](https://github.com/theyapapa/cryptonews/blob/ru/ethical-questions-senior-executive-halts-wall-street-journals-own-cryptocurrency-e73a9033.md)
 * 2018-10-03 [Отчет по безопасности рисует смешанную картину защиты на крупнейших биржах криптографии](https://github.com/theyapapa/cryptonews/blob/ru/security-report-paints-mixed-picture-of-protection-at-biggest-crypto-exchanges-839f7bcb.md)
