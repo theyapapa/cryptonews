@@ -1,3 +1,4 @@
+* 2018-10-02 [Биткойн инвестиционный траст делится на 80%, инвесторы ссылаются на низкие цены, высокие тарифы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-investment-trust-shares-down-80-percent-investors-cite-low-prices-high-fees-7ea0176a.md)
 * 2018-10-02 [Чарльз Coinbase Exec присоединяется к доске](https://github.com/theyapapa/cryptonews/blob/ru/charles-schwab-exec-joins-coinbase-board-a994b45f.md)
 * 2018-10-02 [Бэнк оф Америка: рынок цепочки может ударить $7 млрд, даст толчок для Amazon, Microsoft](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-blockchain-market-could-hit-7-bln-will-give-boost-to-amazon-microsoft-dea596d5.md)
 * 2018-10-02 [Bloomberg: Пуэрто-Рико благородный банк, как сообщается, теряет клиентов троса, битфинекс, ищет покупателя](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-puerto-ricos-noble-bank-reportedly-loses-clients-tether-bitfinex-seeks-buyer-9df692c0.md)
