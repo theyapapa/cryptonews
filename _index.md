@@ -1,3 +1,4 @@
+* 2018-10-03 [새로운 암호 교환에 투자할 수 있는 미국 중개 회사 TD ameritrade](https://github.com/theyapapa/cryptonews/blob/ko/us-brokerage-firm-td-ameritrade-to-invest-in-new-crypto-exchange-ccdbff1f.md)
 * 2018-10-03 [옥스포드 비즈니스 법률 블로그: 블록 체인 규제의 ' 급진적인 재고 '는 필수적입니다](https://github.com/theyapapa/cryptonews/blob/ko/oxford-business-law-blog-radical-rethink-of-blockchain-regulation-is-imperative-4323355f.md)
 * 2018-10-03 [' 윤리적인 질문 ': 시 니 어 경영진 중단 월스트리트 저널의 자신의 암호 화폐](https://github.com/theyapapa/cryptonews/blob/ko/ethical-questions-senior-executive-halts-wall-street-journals-own-cryptocurrency-e73a9033.md)
 * 2018-10-03 [보안 보고서 페인트 가장 큰 암호 교환에서 보호의 혼합 그림](https://github.com/theyapapa/cryptonews/blob/ko/security-report-paints-mixed-picture-of-protection-at-biggest-crypto-exchanges-839f7bcb.md)
