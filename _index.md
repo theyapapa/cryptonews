@@ -1,3 +1,4 @@
+* 2018-10-02 [Las cuotas de fideicomiso de inversión Bitcoin bajan 80 por ciento, los inversores citan precios bajos, altos honorarios](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-investment-trust-shares-down-80-percent-investors-cite-low-prices-high-fees-7ea0176a.md)
 * 2018-10-02 [Charles Schwab exec se une a Coinbase Board](https://github.com/theyapapa/cryptonews/blob/es/charles-schwab-exec-joins-coinbase-board-a994b45f.md)
 * 2018-10-02 [Banco de América: bloques mercado podría golpear $7 BLN, dará impulso a Amazon, Microsoft](https://github.com/theyapapa/cryptonews/blob/es/bank-of-america-blockchain-market-could-hit-7-bln-will-give-boost-to-amazon-microsoft-dea596d5.md)
 * 2018-10-02 [Bloomberg: según se informa, el noble Banco de Puerto Rico pierde la correa de los clientes, Bitfinex, busca comprador](https://github.com/theyapapa/cryptonews/blob/es/bloomberg-puerto-ricos-noble-bank-reportedly-loses-clients-tether-bitfinex-seeks-buyer-9df692c0.md)
