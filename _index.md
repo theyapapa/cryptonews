@@ -1,3 +1,4 @@
+* 2018-10-02 [블록 체인 브라우저의 CEO 용감한 미국 상원 유럽의 개인 정보 보호 기준을 고려 촉구](https://github.com/theyapapa/cryptonews/blob/ko/ceo-of-blockchain-browser-brave-urges-us-senate-to-consider-european-privacy-standards-c664579f.md)
 * 2018-10-02 [비트 코인 투자 신탁 주식 80%, 투자자 저렴 한 가격, 높은 수수료를 인용](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-investment-trust-shares-down-80-percent-investors-cite-low-prices-high-fees-7ea0176a.md)
 * 2018-10-02 [찰리 schwab 간부 조인 코인 베이스 보드](https://github.com/theyapapa/cryptonews/blob/ko/charles-schwab-exec-joins-coinbase-board-a994b45f.md)
 * 2018-10-02 [뱅크 오브 아메리카: 블록 체인 시장, 아마존, 마이크로 소프트에 부스트를 줄 것 이다 $7 bln 칠 수](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-blockchain-market-could-hit-7-bln-will-give-boost-to-amazon-microsoft-dea596d5.md)
