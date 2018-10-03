@@ -1,3 +1,4 @@
+* 2018-10-02 [비트 코인 투자 신탁 주식 80%, 투자자 저렴 한 가격, 높은 수수료를 인용](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-investment-trust-shares-down-80-percent-investors-cite-low-prices-high-fees-7ea0176a.md)
 * 2018-10-02 [찰리 schwab 간부 조인 코인 베이스 보드](https://github.com/theyapapa/cryptonews/blob/ko/charles-schwab-exec-joins-coinbase-board-a994b45f.md)
 * 2018-10-02 [뱅크 오브 아메리카: 블록 체인 시장, 아마존, 마이크로 소프트에 부스트를 줄 것 이다 $7 bln 칠 수](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-blockchain-market-could-hit-7-bln-will-give-boost-to-amazon-microsoft-dea596d5.md)
 * 2018-10-02 [블룸버그: 푸에 르 토 리코의 고귀한 은행은 고객의 밧줄을 잃는다, bitfinex, 추구 구매자](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-puerto-ricos-noble-bank-reportedly-loses-clients-tether-bitfinex-seeks-buyer-9df692c0.md)
