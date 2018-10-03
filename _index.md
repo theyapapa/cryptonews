@@ -1,3 +1,4 @@
+* 2018-10-03 [winklevoss ' 제미니 암호화 거래소는 Custodied 자산에 대 한 보험 보장을 확보](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-gemini-crypto-exchange-secures-insurance-coverage-for-custodied-assets-42e7a3a8.md)
 * 2018-10-03 [jpmorgan의 블록 체인에 초점을 디지털 변환 로드맵의 일부입니다, 새로운 연구 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgans-focus-on-blockchain-is-part-of-digital-transformation-roadmap-new-study-reveals-08813cdd.md)
 * 2018-10-03 [이스라엘 증권 당국이 사이버 보안 개선을 위한 블록 체인으로 전환](https://github.com/theyapapa/cryptonews/blob/ko/israel-securities-authority-turns-to-blockchain-for-improving-cybersecurity-d8517ee5.md)
 * 2018-10-03 [새로운 암호 교환에 투자할 수 있는 미국 중개 회사 TD ameritrade](https://github.com/theyapapa/cryptonews/blob/ko/us-brokerage-firm-td-ameritrade-to-invest-in-new-crypto-exchange-ccdbff1f.md)
