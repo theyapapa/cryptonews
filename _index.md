@@ -1,3 +1,4 @@
+* 2018-10-03 [보안 보고서 페인트 가장 큰 암호 교환에서 보호의 혼합 그림](https://github.com/theyapapa/cryptonews/blob/ko/security-report-paints-mixed-picture-of-protection-at-biggest-crypto-exchanges-839f7bcb.md)
 * 2018-10-03 [보고서: 코인 베이스 협상이 $80억에서 암호화 교환을 가치 있게](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-negotiation-could-value-crypto-exchange-at-8-billion-3be81615.md)
 * 2018-10-02 [블록 체인 브라우저의 CEO 용감한 미국 상원 유럽의 개인 정보 보호 기준을 고려 촉구](https://github.com/theyapapa/cryptonews/blob/ko/ceo-of-blockchain-browser-brave-urges-us-senate-to-consider-european-privacy-standards-c664579f.md)
 * 2018-10-02 [비트 코인 투자 신탁 주식 80%, 투자자 저렴 한 가격, 높은 수수료를 인용](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-investment-trust-shares-down-80-percent-investors-cite-low-prices-high-fees-7ea0176a.md)
