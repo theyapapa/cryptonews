@@ -1,3 +1,4 @@
+* 2018-10-03 [Винклвосс ' Близнецы Crypto Exchange обеспечивает страховое покрытие для больнице активов](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-gemini-crypto-exchange-secures-insurance-coverage-for-custodied-assets-42e7a3a8.md)
 * 2018-10-03 [JPMorgan на цепочки блоков является частью цифровой карты трансформации, новое исследование показывает,](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgans-focus-on-blockchain-is-part-of-digital-transformation-roadmap-new-study-reveals-08813cdd.md)
 * 2018-10-03 [Управление ценных бумаг Израиля превращается в цепочки для улучшения кибербезопасности](https://github.com/theyapapa/cryptonews/blob/ru/israel-securities-authority-turns-to-blockchain-for-improving-cybersecurity-d8517ee5.md)
 * 2018-10-03 [США брокерская фирма TD AMERITRADE инвестировать в новый Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/ru/us-brokerage-firm-td-ameritrade-to-invest-in-new-crypto-exchange-ccdbff1f.md)
