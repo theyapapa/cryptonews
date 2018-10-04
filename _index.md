@@ -1,3 +1,4 @@
+* 2018-10-03 [Abra monedero y el servicio de Exchange introduce token que rastrea el índice Crypto](https://github.com/theyapapa/cryptonews/blob/es/abra-wallet-and-exchange-service-introduces-token-that-tracks-crypto-index-7a05befc.md)
 * 2018-10-03 [Informe: bloques en el mercado de la fabricación valdrá $500 millones por 2025](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-in-manufacturing-market-will-be-worth-500-million-by-2025-5c75b3a6.md)
 * 2018-10-03 [Crypto Exchange Poloniex elimina los márgenes y los productos de préstamo para los usuarios estadounidenses](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-poloniex-removes-margin-and-lending-products-for-us-users-6626f3db.md)
 * 2018-10-03 [Winklevoss ' Gemini Crypto Exchange asegura la cobertura de seguro para los activos con custodia](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-gemini-crypto-exchange-secures-insurance-coverage-for-custodied-assets-42e7a3a8.md)
