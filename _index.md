@@ -1,3 +1,4 @@
+* 2018-10-04 [비트 코인은 올해 $9000을 깰 하지 않습니다, 갤럭시 디지털의 novogratz는 말합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-wont-break-9-000-this-year-galaxy-digitals-novogratz-says-320b041c.md)
 * 2018-10-03 [아 브라 지갑과 교환 서비스는 암호화 인덱스를 추적 토큰을 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/abra-wallet-and-exchange-service-introduces-token-that-tracks-crypto-index-7a05befc.md)
 * 2018-10-03 [보고: 제조 시장에 있는 블록 체인은 2025에 의하여 가치가 있을 것 이다 $5억](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-in-manufacturing-market-will-be-worth-500-million-by-2025-5c75b3a6.md)
 * 2018-10-03 [암호화 교환 poloniex는 미국 사용자에 대 한 마진과 대출 상품을 제거](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-poloniex-removes-margin-and-lending-products-for-us-users-6626f3db.md)
