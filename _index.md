@@ -1,3 +1,4 @@
+* 2018-10-04 [글로벌 분산형 플랫폼 출시를 위한 한국의 주요 암호 교환 비 엄지](https://github.com/theyapapa/cryptonews/blob/ko/major-korean-crypto-exchange-bithumb-to-launch-global-decentralized-platform-71e69fda.md)
 * 2018-10-04 [스페인어 300 MW 암호 마이닝 팜을 지 원하는 중국 에너지 복장](https://github.com/theyapapa/cryptonews/blob/ko/chinese-energy-outfit-to-support-spanish-300-mw-crypto-mining-farm-caaf6e3a.md)
 * 2018-10-04 [세계에서 5 번째로 큰 항공 회사가 블록 체인을 탐구 하 여 고객의 비용 절감](https://github.com/theyapapa/cryptonews/blob/ko/worlds-fifth-largest-airline-firm-explores-blockchain-to-cut-costs-for-customers-d917b905.md)
 * 2018-10-04 [비트 코인은 올해 $9000을 깰 하지 않습니다, 갤럭시 디지털의 novogratz는 말합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-wont-break-9-000-this-year-galaxy-digitals-novogratz-says-320b041c.md)
