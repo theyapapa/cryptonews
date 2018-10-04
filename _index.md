@@ -1,3 +1,4 @@
+* 2018-10-04 [Бюджет финансового регулятора ЕС более 1 млн евро для FinTech и крипто надзора](https://github.com/theyapapa/cryptonews/blob/ru/eu-financial-regulator-budgets-over-1-mln-euro-for-fintech-and-crypto-supervision-18ae680e.md)
 * 2018-10-04 [Испанский город Валенсия для создания "смарт-порт" с помощью цепочки, большие данные](https://github.com/theyapapa/cryptonews/blob/ru/spanish-city-of-valencia-to-create-smart-port-using-blockchain-big-data-af930d50.md)
 * 2018-10-04 [Крупный Корейский крипто Exchange бисумб для запуска глобальной децентрализованной платформы](https://github.com/theyapapa/cryptonews/blob/ru/major-korean-crypto-exchange-bithumb-to-launch-global-decentralized-platform-71e69fda.md)
 * 2018-10-04 [Китайская энергия снаряжение для поддержки испанского 300 МВт крипто горнодобывающей фермы](https://github.com/theyapapa/cryptonews/blob/ru/chinese-energy-outfit-to-support-spanish-300-mw-crypto-mining-farm-caaf6e3a.md)
