@@ -1,3 +1,4 @@
+* 2018-10-03 [보고: 제조 시장에 있는 블록 체인은 2025에 의하여 가치가 있을 것 이다 $5억](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-in-manufacturing-market-will-be-worth-500-million-by-2025-5c75b3a6.md)
 * 2018-10-03 [암호화 교환 poloniex는 미국 사용자에 대 한 마진과 대출 상품을 제거](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-poloniex-removes-margin-and-lending-products-for-us-users-6626f3db.md)
 * 2018-10-03 [winklevoss ' 제미니 암호화 거래소는 Custodied 자산에 대 한 보험 보장을 확보](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-gemini-crypto-exchange-secures-insurance-coverage-for-custodied-assets-42e7a3a8.md)
 * 2018-10-03 [jpmorgan의 블록 체인에 초점을 디지털 변환 로드맵의 일부입니다, 새로운 연구 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgans-focus-on-blockchain-is-part-of-digital-transformation-roadmap-new-study-reveals-08813cdd.md)
