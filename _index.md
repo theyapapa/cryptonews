@@ -1,3 +1,4 @@
+* 2018-10-04 [Equipo chino de la energía para apoyar la granja de explotación minera Crypto del Español 300 MW](https://github.com/theyapapa/cryptonews/blob/es/chinese-energy-outfit-to-support-spanish-300-mw-crypto-mining-farm-caaf6e3a.md)
 * 2018-10-04 [La quinta empresa de aerolíneas más grande del mundo explora bloques para reducir los costos para los clientes](https://github.com/theyapapa/cryptonews/blob/es/worlds-fifth-largest-airline-firm-explores-blockchain-to-cut-costs-for-customers-d917b905.md)
 * 2018-10-04 [Bitcoin no se romperá $9.000 este año, Novogratz de Galaxy digital dice](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-wont-break-9-000-this-year-galaxy-digitals-novogratz-says-320b041c.md)
 * 2018-10-03 [Abra monedero y el servicio de Exchange introduce token que rastrea el índice Crypto](https://github.com/theyapapa/cryptonews/blob/es/abra-wallet-and-exchange-service-introduces-token-that-tracks-crypto-index-7a05befc.md)
