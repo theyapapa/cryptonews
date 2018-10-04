@@ -1,3 +1,4 @@
+* 2018-10-04 [Крупный Корейский крипто Exchange бисумб для запуска глобальной децентрализованной платформы](https://github.com/theyapapa/cryptonews/blob/ru/major-korean-crypto-exchange-bithumb-to-launch-global-decentralized-platform-71e69fda.md)
 * 2018-10-04 [Китайская энергия снаряжение для поддержки испанского 300 МВт крипто горнодобывающей фермы](https://github.com/theyapapa/cryptonews/blob/ru/chinese-energy-outfit-to-support-spanish-300-mw-crypto-mining-farm-caaf6e3a.md)
 * 2018-10-04 [Пятая по величине авиакомпания в мире исследует цепочки блоков, чтобы сократить расходы клиентов](https://github.com/theyapapa/cryptonews/blob/ru/worlds-fifth-largest-airline-firm-explores-blockchain-to-cut-costs-for-customers-d917b905.md)
 * 2018-10-04 [Bitcoin не сломает $9 000 в этом году, Galaxy Digital в Новограц говорит](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-wont-break-9-000-this-year-galaxy-digitals-novogratz-says-320b041c.md)
