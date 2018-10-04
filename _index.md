@@ -1,3 +1,4 @@
+* 2018-10-04 [핀 테크 및 암호화 감독을 위한 유럽 연합 금융 규제 당국 1 mln 유로](https://github.com/theyapapa/cryptonews/blob/ko/eu-financial-regulator-budgets-over-1-mln-euro-for-fintech-and-crypto-supervision-18ae680e.md)
 * 2018-10-04 [발렌시아 스페인어 도시 블록 체인을 사용 하 여 ' 스마트 포트 '를 만들려면 빅 데이터](https://github.com/theyapapa/cryptonews/blob/ko/spanish-city-of-valencia-to-create-smart-port-using-blockchain-big-data-af930d50.md)
 * 2018-10-04 [글로벌 분산형 플랫폼 출시를 위한 한국의 주요 암호 교환 비 엄지](https://github.com/theyapapa/cryptonews/blob/ko/major-korean-crypto-exchange-bithumb-to-launch-global-decentralized-platform-71e69fda.md)
 * 2018-10-04 [스페인어 300 MW 암호 마이닝 팜을 지 원하는 중국 에너지 복장](https://github.com/theyapapa/cryptonews/blob/ko/chinese-energy-outfit-to-support-spanish-300-mw-crypto-mining-farm-caaf6e3a.md)
