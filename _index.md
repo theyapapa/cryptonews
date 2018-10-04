@@ -1,3 +1,4 @@
+* 2018-10-04 [스페인어 300 MW 암호 마이닝 팜을 지 원하는 중국 에너지 복장](https://github.com/theyapapa/cryptonews/blob/ko/chinese-energy-outfit-to-support-spanish-300-mw-crypto-mining-farm-caaf6e3a.md)
 * 2018-10-04 [세계에서 5 번째로 큰 항공 회사가 블록 체인을 탐구 하 여 고객의 비용 절감](https://github.com/theyapapa/cryptonews/blob/ko/worlds-fifth-largest-airline-firm-explores-blockchain-to-cut-costs-for-customers-d917b905.md)
 * 2018-10-04 [비트 코인은 올해 $9000을 깰 하지 않습니다, 갤럭시 디지털의 novogratz는 말합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-wont-break-9-000-this-year-galaxy-digitals-novogratz-says-320b041c.md)
 * 2018-10-03 [아 브라 지갑과 교환 서비스는 암호화 인덱스를 추적 토큰을 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/abra-wallet-and-exchange-service-introduces-token-that-tracks-crypto-index-7a05befc.md)
