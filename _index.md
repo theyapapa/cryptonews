@@ -1,3 +1,4 @@
+* 2018-10-05 [칠레 MPs는 의회에 블록 체인 채용 해결책을 선물 한다](https://github.com/theyapapa/cryptonews/blob/ko/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
 * 2018-10-05 [예일 대학은 새로운 $4억 암호화 초점 펀드에 투자, 보고서를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/yale-university-invested-in-new-400-million-crypto-focused-fund-says-report-83880d0a.md)
 * 2018-10-05 [코인 베이스의 제도적 플랫폼 헤드는 5 년 후에 회사를 떠납니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbases-institutional-platform-head-leaves-firm-after-five-years-9f670223.md)
 * 2018-10-05 [' 전문 성장에 대 한 넷 플 릭 스 ': 플랫폼은 사용자가 동영상을 보면서 배울 수](https://github.com/theyapapa/cryptonews/blob/ko/netflix-for-professional-growth-platform-helps-users-learn-by-watching-videos-587c699c.md)
