@@ -1,3 +1,4 @@
+* 2018-10-05 [¿Gobernanza corrupta? Lo que sabemos sobre el reciente escándalo EOS](https://github.com/theyapapa/cryptonews/blob/es/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
 * 2018-10-05 [Time Magazine incluye bloques startup en su lista de 50 ' Genius companies 2018 '](https://github.com/theyapapa/cryptonews/blob/es/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
 * 2018-10-05 [Parlamentarios chilenos presentan bloques resolución de adopción al Parlamento](https://github.com/theyapapa/cryptonews/blob/es/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
 * 2018-10-05 [La Universidad de Yale inVirtió en el nuevo fondo de $400 millones con enfoque criptográfico, dice informe](https://github.com/theyapapa/cryptonews/blob/es/yale-university-invested-in-new-400-million-crypto-focused-fund-says-report-83880d0a.md)
