@@ -1,3 +1,4 @@
+* 2018-10-05 [Bitcoin, Ethereum, рябь, Bitcoin Cash, EOS, Звездные, Litecoin, Кардано, Монеро, на йоту: анализ цен, 5 октября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-october-5-d8c83a3e.md)
 * 2018-10-05 [Министр финансов Мальты: крипто средства финансирования посредников "лицо Чоп"](https://github.com/theyapapa/cryptonews/blob/ru/maltas-finance-minister-crypto-means-finance-middlemen-face-the-chop-19c9c2a7.md)
 * 2018-10-05 [Коррумпированное управление? Что мы знаем о недавнем скандале EOS](https://github.com/theyapapa/cryptonews/blob/ru/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
 * 2018-10-05 [Журнал Time включает в себя запуск цепочки в своем 50 ' Genius компании 2018 ' список](https://github.com/theyapapa/cryptonews/blob/ru/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
