@@ -1,3 +1,4 @@
+* 2018-10-05 [Министр финансов Мальты: крипто средства финансирования посредников "лицо Чоп"](https://github.com/theyapapa/cryptonews/blob/ru/maltas-finance-minister-crypto-means-finance-middlemen-face-the-chop-19c9c2a7.md)
 * 2018-10-05 [Коррумпированное управление? Что мы знаем о недавнем скандале EOS](https://github.com/theyapapa/cryptonews/blob/ru/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
 * 2018-10-05 [Журнал Time включает в себя запуск цепочки в своем 50 ' Genius компании 2018 ' список](https://github.com/theyapapa/cryptonews/blob/ru/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
 * 2018-10-05 [Чилийские парламентарии представят в парламент резолюцию об усыновлении](https://github.com/theyapapa/cryptonews/blob/ru/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
