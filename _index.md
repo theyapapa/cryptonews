@@ -1,3 +1,4 @@
+* 2018-10-05 [몰타의 재무 장관: 암호화 수단 금융 중간 ' 얼굴 들어온다 '](https://github.com/theyapapa/cryptonews/blob/ko/maltas-finance-minister-crypto-means-finance-middlemen-face-the-chop-19c9c2a7.md)
 * 2018-10-05 [부패한 거 버 넌 스? 우리는 최근 EOS 스캔들에 대해 무엇을 알고](https://github.com/theyapapa/cryptonews/blob/ko/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
 * 2018-10-05 [타임 매거진은 50 ' 천재 기업 2018 ' 목록에서 블록 체인 시작을 포함](https://github.com/theyapapa/cryptonews/blob/ko/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
 * 2018-10-05 [칠레 MPs는 의회에 블록 체인 채용 해결책을 선물 한다](https://github.com/theyapapa/cryptonews/blob/ko/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
