@@ -1,3 +1,4 @@
+* 2018-10-05 [' 전문 성장에 대 한 넷 플 릭 스 ': 플랫폼은 사용자가 동영상을 보면서 배울 수](https://github.com/theyapapa/cryptonews/blob/ko/netflix-for-professional-growth-platform-helps-users-learn-by-watching-videos-587c699c.md)
 * 2018-10-04 [과잉 재고의 메디치 벤처는 와인 위조품을 퇴치 하기 위해 블록 체인 플랫폼에 투자 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-medici-ventures-invests-in-blockchain-platform-to-fight-wine-counterfeits-4ef1eb76.md)
 * 2018-10-04 [블랙베리는 의료 서비스에 초점을 맞춘 블록 체인 기반 플랫폼 소개](https://github.com/theyapapa/cryptonews/blob/ko/blackberry-introduces-blockchain-backed-platform-focused-on-healthcare-services-04a7bac0.md)
 * 2018-10-04 [핀 테크 및 암호화 감독을 위한 유럽 연합 금융 규제 당국 1 mln 유로](https://github.com/theyapapa/cryptonews/blob/ko/eu-financial-regulator-budgets-over-1-mln-euro-for-fintech-and-crypto-supervision-18ae680e.md)
