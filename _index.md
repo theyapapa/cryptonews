@@ -1,3 +1,4 @@
+* 2018-10-05 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 10 월 5 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-october-5-d8c83a3e.md)
 * 2018-10-05 [몰타의 재무 장관: 암호화 수단 금융 중간 ' 얼굴 들어온다 '](https://github.com/theyapapa/cryptonews/blob/ko/maltas-finance-minister-crypto-means-finance-middlemen-face-the-chop-19c9c2a7.md)
 * 2018-10-05 [부패한 거 버 넌 스? 우리는 최근 EOS 스캔들에 대해 무엇을 알고](https://github.com/theyapapa/cryptonews/blob/ko/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
 * 2018-10-05 [타임 매거진은 50 ' 천재 기업 2018 ' 목록에서 블록 체인 시작을 포함](https://github.com/theyapapa/cryptonews/blob/ko/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
