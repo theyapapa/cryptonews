@@ -1,3 +1,4 @@
+* 2018-10-05 [Ministro de Finanzas de Malta: Crypto significa finanzas intermediarios ' Face the Chop '](https://github.com/theyapapa/cryptonews/blob/es/maltas-finance-minister-crypto-means-finance-middlemen-face-the-chop-19c9c2a7.md)
 * 2018-10-05 [¿Gobernanza corrupta? Lo que sabemos sobre el reciente escándalo EOS](https://github.com/theyapapa/cryptonews/blob/es/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
 * 2018-10-05 [Time Magazine incluye bloques startup en su lista de 50 ' Genius companies 2018 '](https://github.com/theyapapa/cryptonews/blob/es/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
 * 2018-10-05 [Parlamentarios chilenos presentan bloques resolución de adopción al Parlamento](https://github.com/theyapapa/cryptonews/blob/es/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
