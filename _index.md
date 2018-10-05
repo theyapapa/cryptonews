@@ -1,3 +1,4 @@
+* 2018-10-05 [부패한 거 버 넌 스? 우리는 최근 EOS 스캔들에 대해 무엇을 알고](https://github.com/theyapapa/cryptonews/blob/ko/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
 * 2018-10-05 [타임 매거진은 50 ' 천재 기업 2018 ' 목록에서 블록 체인 시작을 포함](https://github.com/theyapapa/cryptonews/blob/ko/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
 * 2018-10-05 [칠레 MPs는 의회에 블록 체인 채용 해결책을 선물 한다](https://github.com/theyapapa/cryptonews/blob/ko/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
 * 2018-10-05 [예일 대학은 새로운 $4억 암호화 초점 펀드에 투자, 보고서를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/yale-university-invested-in-new-400-million-crypto-focused-fund-says-report-83880d0a.md)
