@@ -1,3 +1,4 @@
+* 2018-10-05 [Журнал Time включает в себя запуск цепочки в своем 50 ' Genius компании 2018 ' список](https://github.com/theyapapa/cryptonews/blob/ru/time-magazine-includes-blockchain-startup-in-its-50-genius-companies-2018-list-409e831d.md)
 * 2018-10-05 [Чилийские парламентарии представят в парламент резолюцию об усыновлении](https://github.com/theyapapa/cryptonews/blob/ru/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
 * 2018-10-05 [Йельский университет инвестировал в новый $400 000 000 Crypto-сфокусированный фонд, говорит рапорт](https://github.com/theyapapa/cryptonews/blob/ru/yale-university-invested-in-new-400-million-crypto-focused-fund-says-report-83880d0a.md)
 * 2018-10-05 [Coinbase институциональной платформы глава листья фирмы после пяти лет](https://github.com/theyapapa/cryptonews/blob/ru/coinbases-institutional-platform-head-leaves-firm-after-five-years-9f670223.md)
