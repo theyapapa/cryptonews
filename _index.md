@@ -1,3 +1,4 @@
+* 2018-10-05 [예일 대학은 새로운 $4억 암호화 초점 펀드에 투자, 보고서를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/yale-university-invested-in-new-400-million-crypto-focused-fund-says-report-83880d0a.md)
 * 2018-10-05 [코인 베이스의 제도적 플랫폼 헤드는 5 년 후에 회사를 떠납니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbases-institutional-platform-head-leaves-firm-after-five-years-9f670223.md)
 * 2018-10-05 [' 전문 성장에 대 한 넷 플 릭 스 ': 플랫폼은 사용자가 동영상을 보면서 배울 수](https://github.com/theyapapa/cryptonews/blob/ko/netflix-for-professional-growth-platform-helps-users-learn-by-watching-videos-587c699c.md)
 * 2018-10-04 [과잉 재고의 메디치 벤처는 와인 위조품을 퇴치 하기 위해 블록 체인 플랫폼에 투자 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-medici-ventures-invests-in-blockchain-platform-to-fight-wine-counterfeits-4ef1eb76.md)
