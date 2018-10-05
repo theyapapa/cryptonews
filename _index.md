@@ -1,3 +1,4 @@
+* 2018-10-05 [' Netflix для профессионального роста ': платформа помогает пользователям учиться, просмотрев видео](https://github.com/theyapapa/cryptonews/blob/ru/netflix-for-professional-growth-platform-helps-users-learn-by-watching-videos-587c699c.md)
 * 2018-10-04 ["Медичи Венчурс" инвестирует в платформу для борьбы с винными подделками](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-medici-ventures-invests-in-blockchain-platform-to-fight-wine-counterfeits-4ef1eb76.md)
 * 2018-10-04 [BlackBerry знакомит с платформой, ориентированной на услуги здравоохранения](https://github.com/theyapapa/cryptonews/blob/ru/blackberry-introduces-blockchain-backed-platform-focused-on-healthcare-services-04a7bac0.md)
 * 2018-10-04 [Бюджет финансового регулятора ЕС более 1 млн евро для FinTech и крипто надзора](https://github.com/theyapapa/cryptonews/blob/ru/eu-financial-regulator-budgets-over-1-mln-euro-for-fintech-and-crypto-supervision-18ae680e.md)
