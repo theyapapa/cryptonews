@@ -1,3 +1,4 @@
+* 2018-10-05 [Parlamentarios chilenos presentan bloques resolución de adopción al Parlamento](https://github.com/theyapapa/cryptonews/blob/es/chilean-mps-present-blockchain-adoption-resolution-to-parliament-734d77f6.md)
 * 2018-10-05 [La Universidad de Yale inVirtió en el nuevo fondo de $400 millones con enfoque criptográfico, dice informe](https://github.com/theyapapa/cryptonews/blob/es/yale-university-invested-in-new-400-million-crypto-focused-fund-says-report-83880d0a.md)
 * 2018-10-05 [El jefe de plataforma institucional de Coinbase deja la firma después de cinco años](https://github.com/theyapapa/cryptonews/blob/es/coinbases-institutional-platform-head-leaves-firm-after-five-years-9f670223.md)
 * 2018-10-05 [' Netflix para el crecimiento profesional ': la plataforma ayuda a los usuarios a aprender viendo videos](https://github.com/theyapapa/cryptonews/blob/es/netflix-for-professional-growth-platform-helps-users-learn-by-watching-videos-587c699c.md)
