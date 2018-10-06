@@ -1,3 +1,4 @@
+* 2018-10-06 [Sudáfrica y Crypto – un enfoque conservadormente optimista](https://github.com/theyapapa/cryptonews/blob/es/south-africa-and-crypto-a-conservatively-optimistic-approach-0ca8507f.md)
 * 2018-10-05 [Informe: el número de enrutadores comprometidos en la India se duplicó, alcanzando casi 30.000](https://github.com/theyapapa/cryptonews/blob/es/report-number-of-compromised-routers-in-india-doubled-reaching-almost-30-000-db5086de.md)
 * 2018-10-05 [Encuesta: los hombres milenarios de alto ingreso están más interesados en invertir en criptografía](https://github.com/theyapapa/cryptonews/blob/es/survey-high-earning-millennial-men-are-most-interested-in-crypto-investing-a64df265.md)
 * 2018-10-05 [Circle adquiere plataforma de financiación y corredor-distribuidor SeedInvest](https://github.com/theyapapa/cryptonews/blob/es/circle-acquires-crowdfunding-platform-and-broker-dealer-seedinvest-591244d5.md)
