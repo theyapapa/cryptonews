@@ -1,3 +1,4 @@
+* 2018-10-05 [Circle adquiere plataforma de financiación y corredor-distribuidor SeedInvest](https://github.com/theyapapa/cryptonews/blob/es/circle-acquires-crowdfunding-platform-and-broker-dealer-seedinvest-591244d5.md)
 * 2018-10-05 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, Cardano, Monero, iota: Análisis de precios, 5 de octubre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-october-5-d8c83a3e.md)
 * 2018-10-05 [Ministro de Finanzas de Malta: Crypto significa finanzas intermediarios ' Face the Chop '](https://github.com/theyapapa/cryptonews/blob/es/maltas-finance-minister-crypto-means-finance-middlemen-face-the-chop-19c9c2a7.md)
 * 2018-10-05 [¿Gobernanza corrupta? Lo que sabemos sobre el reciente escándalo EOS](https://github.com/theyapapa/cryptonews/blob/es/corrupt-governance-what-we-know-about-recent-eos-scandal-54166856.md)
