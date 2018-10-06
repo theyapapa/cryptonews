@@ -1,3 +1,4 @@
+* 2018-10-06 [Южная Африка и крипто-консервативно оптимистичный подход](https://github.com/theyapapa/cryptonews/blob/ru/south-africa-and-crypto-a-conservatively-optimistic-approach-0ca8507f.md)
 * 2018-10-05 [Отчет: количество взломанных маршрутизаторов в Индии удвоилось, достигнув почти 30 000](https://github.com/theyapapa/cryptonews/blob/ru/report-number-of-compromised-routers-in-india-doubled-reaching-almost-30-000-db5086de.md)
 * 2018-10-05 [Опрос: высокий доход тысячелетнего мужчины больше всего заинтересованы в крипто инвестирования](https://github.com/theyapapa/cryptonews/blob/ru/survey-high-earning-millennial-men-are-most-interested-in-crypto-investing-a64df265.md)
 * 2018-10-05 [Circle приобретает платформу и брокера-дилера сидинвест](https://github.com/theyapapa/cryptonews/blob/ru/circle-acquires-crowdfunding-platform-and-broker-dealer-seedinvest-591244d5.md)
