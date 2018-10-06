@@ -1,3 +1,4 @@
+* 2018-10-05 [설문 조사: 밀레니엄 남성을 위한 높은 수익을 창출 하는 것은 암호화 투자에 가장 관심](https://github.com/theyapapa/cryptonews/blob/ko/survey-high-earning-millennial-men-are-most-interested-in-crypto-investing-a64df265.md)
 * 2018-10-05 [서클은 크 라우드 펀 딩 플랫폼과 브로커-딜러 시드 투자를 얻습니다.](https://github.com/theyapapa/cryptonews/blob/ko/circle-acquires-crowdfunding-platform-and-broker-dealer-seedinvest-591244d5.md)
 * 2018-10-05 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, iota: 가격 분석, 10 월 5 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-iota-price-analysis-october-5-d8c83a3e.md)
 * 2018-10-05 [몰타의 재무 장관: 암호화 수단 금융 중간 ' 얼굴 들어온다 '](https://github.com/theyapapa/cryptonews/blob/ko/maltas-finance-minister-crypto-means-finance-middlemen-face-the-chop-19c9c2a7.md)
