@@ -1,3 +1,4 @@
+* 2018-10-06 [Nuevos usuarios de canje taiwanés para la minería de fichas y estacas de sus ingresos de honorarios](https://github.com/theyapapa/cryptonews/blob/es/new-taiwanese-exchange-rewards-users-for-token-mining-and-staking-from-its-fee-revenue-05f3acbf.md)
 * 2018-10-06 [Sudáfrica y Crypto – un enfoque conservadormente optimista](https://github.com/theyapapa/cryptonews/blob/es/south-africa-and-crypto-a-conservatively-optimistic-approach-0ca8507f.md)
 * 2018-10-05 [Informe: el número de enrutadores comprometidos en la India se duplicó, alcanzando casi 30.000](https://github.com/theyapapa/cryptonews/blob/es/report-number-of-compromised-routers-in-india-doubled-reaching-almost-30-000-db5086de.md)
 * 2018-10-05 [Encuesta: los hombres milenarios de alto ingreso están más interesados en invertir en criptografía](https://github.com/theyapapa/cryptonews/blob/es/survey-high-earning-millennial-men-are-most-interested-in-crypto-investing-a64df265.md)
