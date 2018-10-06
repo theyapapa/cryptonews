@@ -1,3 +1,4 @@
+* 2018-10-06 [암호 시장은 주로 업계에 대 한 이번 주 주요 뉴스에도 불구 하 고 정체 있어](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-stay-mostly-stagnant-despite-this-weeks-major-news-for-industry-4b360fbf.md)
 * 2018-10-06 [새로운 대만 거래소는 사용자에 게 토큰 채굴을 보상 하 고 수수료 수익을 감시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-taiwanese-exchange-rewards-users-for-token-mining-and-staking-from-its-fee-revenue-05f3acbf.md)
 * 2018-10-06 [남아프리카 및 암호화 – 보수적으로 낙관적인 접근법](https://github.com/theyapapa/cryptonews/blob/ko/south-africa-and-crypto-a-conservatively-optimistic-approach-0ca8507f.md)
 * 2018-10-05 [보고서: 인도에서 손상 된 라우터의 수는 거의 3만에 도달, 두 배로](https://github.com/theyapapa/cryptonews/blob/ko/report-number-of-compromised-routers-in-india-doubled-reaching-almost-30-000-db5086de.md)
