@@ -1,3 +1,4 @@
+* 2018-10-06 [남아프리카 및 암호화 – 보수적으로 낙관적인 접근법](https://github.com/theyapapa/cryptonews/blob/ko/south-africa-and-crypto-a-conservatively-optimistic-approach-0ca8507f.md)
 * 2018-10-05 [보고서: 인도에서 손상 된 라우터의 수는 거의 3만에 도달, 두 배로](https://github.com/theyapapa/cryptonews/blob/ko/report-number-of-compromised-routers-in-india-doubled-reaching-almost-30-000-db5086de.md)
 * 2018-10-05 [설문 조사: 밀레니엄 남성을 위한 높은 수익을 창출 하는 것은 암호화 투자에 가장 관심](https://github.com/theyapapa/cryptonews/blob/ko/survey-high-earning-millennial-men-are-most-interested-in-crypto-investing-a64df265.md)
 * 2018-10-05 [서클은 크 라우드 펀 딩 플랫폼과 브로커-딜러 시드 투자를 얻습니다.](https://github.com/theyapapa/cryptonews/blob/ko/circle-acquires-crowdfunding-platform-and-broker-dealer-seedinvest-591244d5.md)
