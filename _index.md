@@ -1,3 +1,4 @@
+* 2018-10-06 [Крипто рынки остаются в основном застой, несмотря на эту неделю основные новости для промышленности](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-stay-mostly-stagnant-despite-this-weeks-major-news-for-industry-4b360fbf.md)
 * 2018-10-06 [Новая Тайваньская биржа вознаграждений пользователей для добычи полезных ископаемых и ставки от его комиссионных доходов](https://github.com/theyapapa/cryptonews/blob/ru/new-taiwanese-exchange-rewards-users-for-token-mining-and-staking-from-its-fee-revenue-05f3acbf.md)
 * 2018-10-06 [Южная Африка и крипто-консервативно оптимистичный подход](https://github.com/theyapapa/cryptonews/blob/ru/south-africa-and-crypto-a-conservatively-optimistic-approach-0ca8507f.md)
 * 2018-10-05 [Отчет: количество взломанных маршрутизаторов в Индии удвоилось, достигнув почти 30 000](https://github.com/theyapapa/cryptonews/blob/ru/report-number-of-compromised-routers-in-india-doubled-reaching-almost-30-000-db5086de.md)
