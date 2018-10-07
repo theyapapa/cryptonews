@@ -1,3 +1,4 @@
+* 2018-10-07 [El rastreo gubernamental del CRYPTO está creciendo, pero hay maneras de evitarlo](https://github.com/theyapapa/cryptonews/blob/es/government-tracking-of-crypto-is-growing-but-there-are-ways-to-avoid-it-cd3ef264.md)
 * 2018-10-06 [Los mercados criptográficos permanecen estancados a pesar de las principales noticias de esta semana para la industria](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-stay-mostly-stagnant-despite-this-weeks-major-news-for-industry-4b360fbf.md)
 * 2018-10-06 [Nuevos usuarios de canje taiwanés para la minería de fichas y estacas de sus ingresos de honorarios](https://github.com/theyapapa/cryptonews/blob/es/new-taiwanese-exchange-rewards-users-for-token-mining-and-staking-from-its-fee-revenue-05f3acbf.md)
 * 2018-10-06 [Sudáfrica y Crypto – un enfoque conservadormente optimista](https://github.com/theyapapa/cryptonews/blob/es/south-africa-and-crypto-a-conservatively-optimistic-approach-0ca8507f.md)
