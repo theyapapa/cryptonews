@@ -1,3 +1,4 @@
+* 2018-10-08 [암호화 시장은 마지막으로 관계 되는 안정성의 기간 후에 겸손 한 성장의 파를 본다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-finally-see-wave-of-modest-growth-after-period-of-relative-stability-dda2c1d8.md)
 * 2018-10-08 [IBM은 소매 거 대 한 까르푸에 의해 가입 블록 체인 식품 추적 네트워크를 출시](https://github.com/theyapapa/cryptonews/blob/ko/ibm-launches-blockchain-food-tracking-network-joined-by-retail-giant-carrefour-e6063c24.md)
 * 2018-10-08 [TRON CEO는 오늘의 업데이 트가 ' 200x 빠른 '이 더 리 움 보다 만들 것 이라고 주장](https://github.com/theyapapa/cryptonews/blob/ko/tron-ceo-claims-todays-update-will-make-it-200x-faster-than-ethereum-24cb4a72.md)
 * 2018-10-08 [중국: 남자는 내 비트 코인, 로컬 미디어에 기차 전원을 훔치는에 대 한 감옥에서 3.5 년을 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/china-man-gets-35-years-in-jail-for-stealing-train-power-to-mine-bitcoin-local-media-bb87fb48.md)
