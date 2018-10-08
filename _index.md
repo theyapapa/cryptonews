@@ -1,3 +1,4 @@
+* 2018-10-08 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 10 월 8 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-8-091e8306.md)
 * 2018-10-08 [암호화 시장은 마지막으로 관계 되는 안정성의 기간 후에 겸손 한 성장의 파를 본다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-finally-see-wave-of-modest-growth-after-period-of-relative-stability-dda2c1d8.md)
 * 2018-10-08 [IBM은 소매 거 대 한 까르푸에 의해 가입 블록 체인 식품 추적 네트워크를 출시](https://github.com/theyapapa/cryptonews/blob/ko/ibm-launches-blockchain-food-tracking-network-joined-by-retail-giant-carrefour-e6063c24.md)
 * 2018-10-08 [TRON CEO는 오늘의 업데이 트가 ' 200x 빠른 '이 더 리 움 보다 만들 것 이라고 주장](https://github.com/theyapapa/cryptonews/blob/ko/tron-ceo-claims-todays-update-will-make-it-200x-faster-than-ethereum-24cb4a72.md)
