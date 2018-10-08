@@ -1,3 +1,4 @@
+* 2018-10-08 [중국: 남자는 내 비트 코인, 로컬 미디어에 기차 전원을 훔치는에 대 한 감옥에서 3.5 년을 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/china-man-gets-35-years-in-jail-for-stealing-train-power-to-mine-bitcoin-local-media-bb87fb48.md)
 * 2018-10-08 [세계 최대 규모의 암호 교환 binance 발표 모든 리스팅 수수료는 자선 단체에 기부 됩니다](https://github.com/theyapapa/cryptonews/blob/ko/worlds-largest-crypto-exchange-binance-announces-all-listing-fees-will-be-donated-to-charity-5b375272.md)
 * 2018-10-08 [메시징 자이언트 카 카오 코퍼레이션, Q1 2019 출시 보다 블록 체인 플랫폼 testnet 출시](https://github.com/theyapapa/cryptonews/blob/ko/messaging-giant-kakao-corp-releases-blockchain-platform-testnet-ahead-of-q1-2019-launch-92cce733.md)
 * 2018-10-08 [암호화 된 메시지에서 중요 한 화재 시스템까지: 보안 부문의 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/from-encrypted-messaging-to-critical-fire-systems-blockchain-for-security-sector-01496497.md)
