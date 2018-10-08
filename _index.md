@@ -1,3 +1,4 @@
+* 2018-10-08 [메시징 자이언트 카 카오 코퍼레이션, Q1 2019 출시 보다 블록 체인 플랫폼 testnet 출시](https://github.com/theyapapa/cryptonews/blob/ko/messaging-giant-kakao-corp-releases-blockchain-platform-testnet-ahead-of-q1-2019-launch-92cce733.md)
 * 2018-10-08 [암호화 된 메시지에서 중요 한 화재 시스템까지: 보안 부문의 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/from-encrypted-messaging-to-critical-fire-systems-blockchain-for-security-sector-01496497.md)
 * 2018-10-07 [베네수엘라 명령 여권 수수료는 논란이 암호 화폐 석유에서 지불 해야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-mandates-passport-fees-must-be-paid-in-controversial-cryptocurrency-petro-24e2406a.md)
 * 2018-10-07 [hodler의 다이제스트, 10 월 1-8: WSJ는 crypto의 안으로 그리고 밖으로 얻고, 그러나 bofa는 블록 체인을 위한 $70억 미래를 본다](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-october-1-8-wsj-gets-in-and-out-of-crypto-while-bofa-sees-a-7-billion-future-for-blockchain-233389dd.md)
