@@ -1,3 +1,4 @@
+* 2018-10-09 [포브스가 블록 체인 기반 저널리즘 플랫폼과 협력 하 여 콘텐츠 게시](https://github.com/theyapapa/cryptonews/blob/ko/forbes-partners-with-blockchain-based-journalism-platform-to-publish-content-70cafa68.md)
 * 2018-10-09 [암호화의 도전은 독 특 하다 고 생각 하십니까? 그것은 단지 역사 자체를 반복](https://github.com/theyapapa/cryptonews/blob/ko/think-cryptos-challenges-are-unique-its-just-history-repeating-itself-37d8ff5a.md)
 * 2018-10-09 [미확인: IBM, azi 중앙 은행이 블록 체인 개발에 협력, 로컬 미디어 보고서](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-ibm-azeri-central-bank-cooperate-on-blockchain-development-local-media-report-da4499d4.md)
 * 2018-10-09 [두바이 정부 지원 디지털 통화는 자체 결제 시스템을 얻을 것 이다](https://github.com/theyapapa/cryptonews/blob/ko/dubai-government-backed-digital-currency-will-get-its-own-payment-system-e9815dae.md)
