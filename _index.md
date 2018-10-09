@@ -1,3 +1,4 @@
+* 2018-10-09 [2019에서 자본 시장을 위한 ico를 소개 하는 UAE 증권 조정기](https://github.com/theyapapa/cryptonews/blob/ko/uae-securities-regulator-to-introduce-icos-for-capital-markets-in-2019-62bdbc93.md)
 * 2018-10-08 [보고서: 가장 오래 된 영국 암호 교환 코인 플로어 직원 누워](https://github.com/theyapapa/cryptonews/blob/ko/report-oldest-uk-crypto-exchange-coinfloor-laying-off-staff-7ccc68d5.md)
 * 2018-10-08 [EU 시장 규제는 ico를 검토 하 여 규정을 결정 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/eu-markets-regulator-examines-icos-to-determine-regulations-fe6357c0.md)
 * 2018-10-08 [영국 통신 레 귤 레이 터는 전화 번호 관리를 위한 블록 체인을 배포 부여를 받습니다](https://github.com/theyapapa/cryptonews/blob/ko/uk-telecoms-regulator-receives-grant-to-deploy-blockchain-for-telephone-number-management-887c8d19.md)
