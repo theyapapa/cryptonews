@@ -1,3 +1,4 @@
+* 2018-10-09 [La moneda digital respaldada por el gobierno de Dubai obtendrá su propio sistema de pago](https://github.com/theyapapa/cryptonews/blob/es/dubai-government-backed-digital-currency-will-get-its-own-payment-system-e9815dae.md)
 * 2018-10-09 [Regulador de valores de los EAU para introducir ICOs para los mercados de capital en 2019](https://github.com/theyapapa/cryptonews/blob/es/uae-securities-regulator-to-introduce-icos-for-capital-markets-in-2019-62bdbc93.md)
 * 2018-10-08 [Informe: el más viejo Reino Unido Crypto intercambio Coinfloor desPidiendo personal](https://github.com/theyapapa/cryptonews/blob/es/report-oldest-uk-crypto-exchange-coinfloor-laying-off-staff-7ccc68d5.md)
 * 2018-10-08 [Regulador de mercados de la UE examina icos para determinar las regulaciones](https://github.com/theyapapa/cryptonews/blob/es/eu-markets-regulator-examines-icos-to-determine-regulations-fe6357c0.md)
