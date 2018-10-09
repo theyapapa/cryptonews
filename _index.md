@@ -1,3 +1,4 @@
+* 2018-10-09 [¿Crees que los desafíos de Crypto son únicos? Es sólo la historia repitiéndose](https://github.com/theyapapa/cryptonews/blob/es/think-cryptos-challenges-are-unique-its-just-history-repeating-itself-37d8ff5a.md)
 * 2018-10-09 [Sin confirmar: IBM, azerí Central Bank cooperar en el desarrollo de bloques, informe de medios locales](https://github.com/theyapapa/cryptonews/blob/es/unconfirmed-ibm-azeri-central-bank-cooperate-on-blockchain-development-local-media-report-da4499d4.md)
 * 2018-10-09 [La moneda digital respaldada por el gobierno de Dubai obtendrá su propio sistema de pago](https://github.com/theyapapa/cryptonews/blob/es/dubai-government-backed-digital-currency-will-get-its-own-payment-system-e9815dae.md)
 * 2018-10-09 [Regulador de valores de los EAU para introducir ICOs para los mercados de capital en 2019](https://github.com/theyapapa/cryptonews/blob/es/uae-securities-regulator-to-introduce-icos-for-capital-markets-in-2019-62bdbc93.md)
