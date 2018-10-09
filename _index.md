@@ -1,3 +1,4 @@
+* 2018-10-09 [로저 Ver: Bitcoin.Com는 자체 암호화 교환을 시작할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/roger-ver-bitcoincom-may-launch-its-own-crypto-exchange-10e4674a.md)
 * 2018-10-09 [포브스가 블록 체인 기반 저널리즘 플랫폼과 협력 하 여 콘텐츠 게시](https://github.com/theyapapa/cryptonews/blob/ko/forbes-partners-with-blockchain-based-journalism-platform-to-publish-content-70cafa68.md)
 * 2018-10-09 [암호화의 도전은 독 특 하다 고 생각 하십니까? 그것은 단지 역사 자체를 반복](https://github.com/theyapapa/cryptonews/blob/ko/think-cryptos-challenges-are-unique-its-just-history-repeating-itself-37d8ff5a.md)
 * 2018-10-09 [미확인: IBM, azi 중앙 은행이 블록 체인 개발에 협력, 로컬 미디어 보고서](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-ibm-azeri-central-bank-cooperate-on-blockchain-development-local-media-report-da4499d4.md)
