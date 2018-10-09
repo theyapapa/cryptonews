@@ -1,3 +1,4 @@
+* 2018-10-09 [Регулятор ценных бумаг ОАЭ введет ИКО для рынков капитала в 2019](https://github.com/theyapapa/cryptonews/blob/ru/uae-securities-regulator-to-introduce-icos-for-capital-markets-in-2019-62bdbc93.md)
 * 2018-10-08 [Отчет: старейший UK Crypto Exchange коинфлур увольнение сотрудников](https://github.com/theyapapa/cryptonews/blob/ru/report-oldest-uk-crypto-exchange-coinfloor-laying-off-staff-7ccc68d5.md)
 * 2018-10-08 [Регулятор рынков ЕС изучает ИКО для определения правил](https://github.com/theyapapa/cryptonews/blob/ru/eu-markets-regulator-examines-icos-to-determine-regulations-fe6357c0.md)
 * 2018-10-08 [UK Telecoms регулятор получает грант на развертывание цепочки для управления телефонным номером](https://github.com/theyapapa/cryptonews/blob/ru/uk-telecoms-regulator-receives-grant-to-deploy-blockchain-for-telephone-number-management-887c8d19.md)
