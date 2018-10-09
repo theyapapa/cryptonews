@@ -1,3 +1,4 @@
+* 2018-10-09 [Неподтвержденный: IBM, Центральный банк Азербайджана сотрудничают в развитии цепочки, сообщают местные СМИ](https://github.com/theyapapa/cryptonews/blob/ru/unconfirmed-ibm-azeri-central-bank-cooperate-on-blockchain-development-local-media-report-da4499d4.md)
 * 2018-10-09 [Правительство Дубая в цифровой валюте получит собственную платежную систему](https://github.com/theyapapa/cryptonews/blob/ru/dubai-government-backed-digital-currency-will-get-its-own-payment-system-e9815dae.md)
 * 2018-10-09 [Регулятор ценных бумаг ОАЭ введет ИКО для рынков капитала в 2019](https://github.com/theyapapa/cryptonews/blob/ru/uae-securities-regulator-to-introduce-icos-for-capital-markets-in-2019-62bdbc93.md)
 * 2018-10-08 [Отчет: старейший UK Crypto Exchange коинфлур увольнение сотрудников](https://github.com/theyapapa/cryptonews/blob/ru/report-oldest-uk-crypto-exchange-coinfloor-laying-off-staff-7ccc68d5.md)
