@@ -1,3 +1,4 @@
+* 2018-10-09 [미확인: IBM, azi 중앙 은행이 블록 체인 개발에 협력, 로컬 미디어 보고서](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-ibm-azeri-central-bank-cooperate-on-blockchain-development-local-media-report-da4499d4.md)
 * 2018-10-09 [두바이 정부 지원 디지털 통화는 자체 결제 시스템을 얻을 것 이다](https://github.com/theyapapa/cryptonews/blob/ko/dubai-government-backed-digital-currency-will-get-its-own-payment-system-e9815dae.md)
 * 2018-10-09 [2019에서 자본 시장을 위한 ico를 소개 하는 UAE 증권 조정기](https://github.com/theyapapa/cryptonews/blob/ko/uae-securities-regulator-to-introduce-icos-for-capital-markets-in-2019-62bdbc93.md)
 * 2018-10-08 [보고서: 가장 오래 된 영국 암호 교환 코인 플로어 직원 누워](https://github.com/theyapapa/cryptonews/blob/ko/report-oldest-uk-crypto-exchange-coinfloor-laying-off-staff-7ccc68d5.md)
