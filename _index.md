@@ -1,3 +1,4 @@
+* 2018-10-09 [Роджер ver: Bitcoin.Com может запустить свой собственный Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/ru/roger-ver-bitcoincom-may-launch-its-own-crypto-exchange-10e4674a.md)
 * 2018-10-09 [Forbes сотрудничает с платформой для журналистики на базе блоков для публикации контента](https://github.com/theyapapa/cryptonews/blob/ru/forbes-partners-with-blockchain-based-journalism-platform-to-publish-content-70cafa68.md)
 * 2018-10-09 [Подумайте крипта проблемы являются уникальными? Это просто история повторяется](https://github.com/theyapapa/cryptonews/blob/ru/think-cryptos-challenges-are-unique-its-just-history-repeating-itself-37d8ff5a.md)
 * 2018-10-09 [Неподтвержденный: IBM, Центральный банк Азербайджана сотрудничают в развитии цепочки, сообщают местные СМИ](https://github.com/theyapapa/cryptonews/blob/ru/unconfirmed-ibm-azeri-central-bank-cooperate-on-blockchain-development-local-media-report-da4499d4.md)
