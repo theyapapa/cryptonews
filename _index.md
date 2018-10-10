@@ -1,3 +1,4 @@
+* 2018-10-09 [La firma suiza de gestión de activos Tiberio Group AG retrasa el lanzamiento de tokens respaldados por metales](https://github.com/theyapapa/cryptonews/blob/es/swiss-asset-management-firm-tiberius-group-ag-delays-launch-of-metals-backed-token-bbd2b3bc.md)
 * 2018-10-09 [Roger ver: Bitcoin.Com puede lanzar su propio Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/roger-ver-bitcoincom-may-launch-its-own-crypto-exchange-10e4674a.md)
 * 2018-10-09 [Forbes se asocia con la plataforma de periodismo basada en bloques para publicar contenido](https://github.com/theyapapa/cryptonews/blob/es/forbes-partners-with-blockchain-based-journalism-platform-to-publish-content-70cafa68.md)
 * 2018-10-09 [¿Crees que los desafíos de Crypto son únicos? Es sólo la historia repitiéndose](https://github.com/theyapapa/cryptonews/blob/es/think-cryptos-challenges-are-unique-its-just-history-repeating-itself-37d8ff5a.md)
