@@ -1,3 +1,4 @@
+* 2018-10-10 [Исследования: $20 000 000 000 поднят через ИКО с 2017](https://github.com/theyapapa/cryptonews/blob/ru/research-20-billion-raised-through-icos-since-2017-8bdb9415.md)
 * 2018-10-10 [Crypto активы не представляют риска для финансовой стабильности, международные банкиры утверждают,](https://github.com/theyapapa/cryptonews/blob/ru/crypto-assets-pose-no-risks-to-financial-stability-international-bankers-claim-11d49ff2.md)
 * 2018-10-10 [SEC файлы в суд исполнения против якобы "насос-и-дамп" ICO схеме](https://github.com/theyapapa/cryptonews/blob/ru/sec-files-subpoena-enforcement-against-alleged-pump-and-dump-ico-scheme-b5a76d01.md)
 * 2018-10-10 [Бывший филиал NASDAQ Exec присоединяется к группе обслуживания клиентов Crypto Exchange Gemini](https://github.com/theyapapa/cryptonews/blob/ru/former-nasdaq-subsidiary-exec-joins-crypto-exchange-geminis-client-service-team-3fbb149b.md)
