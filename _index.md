@@ -1,3 +1,4 @@
+* 2018-10-10 [코인 베이스의 간부는 일본어 암호 단속 ' 좋은 ' 것은, 운영 라이센스를 기다리고 있다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exec-says-japanese-crypto-crackdown-a-good-thing-awaits-operating-license-5aeb4560.md)
 * 2018-10-10 [암호화를 위한 페이팔: 독일에서 최대 25000 온라인 상점은 2019에 디지털 돈을 받아들일 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/paypal-for-crypto-up-to-25-000-online-stores-in-germany-may-accept-digital-money-in-2019-ef324f49.md)
 * 2018-10-09 [시장 옆으로 무역, 비트 코인 터치 $6600 오늘 이전](https://github.com/theyapapa/cryptonews/blob/ko/markets-trade-sideways-bitcoin-touches-6-600-earlier-today-580f3e4f.md)
 * 2018-10-09 [캐나다의 암호화 암호 교환 quadrigacx는 지연에 대 한 주요 은행을 탓](https://github.com/theyapapa/cryptonews/blob/ko/canadian-crypto-crypto-exchange-quadrigacx-blames-major-bank-for-delays-e930ceb2.md)
