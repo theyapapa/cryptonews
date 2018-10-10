@@ -1,3 +1,4 @@
+* 2018-10-09 [스위스 자산 운용 회사 tiberius 그룹 AG 금속 역행 된 토큰의 발사를 연기 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/swiss-asset-management-firm-tiberius-group-ag-delays-launch-of-metals-backed-token-bbd2b3bc.md)
 * 2018-10-09 [로저 Ver: Bitcoin.Com는 자체 암호화 교환을 시작할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/roger-ver-bitcoincom-may-launch-its-own-crypto-exchange-10e4674a.md)
 * 2018-10-09 [포브스가 블록 체인 기반 저널리즘 플랫폼과 협력 하 여 콘텐츠 게시](https://github.com/theyapapa/cryptonews/blob/ko/forbes-partners-with-blockchain-based-journalism-platform-to-publish-content-70cafa68.md)
 * 2018-10-09 [암호화의 도전은 독 특 하다 고 생각 하십니까? 그것은 단지 역사 자체를 반복](https://github.com/theyapapa/cryptonews/blob/ko/think-cryptos-challenges-are-unique-its-just-history-repeating-itself-37d8ff5a.md)
