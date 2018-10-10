@@ -1,3 +1,4 @@
+* 2018-10-10 [Бразилия вершины список жертв криптожаккинг коинхиве, иранский орган кибербезопасности предупреждает](https://github.com/theyapapa/cryptonews/blob/ru/brazil-tops-list-of-cryptojacking-coinhive-victims-warns-iranian-cybersecurity-authority-f1e5a427.md)
 * 2018-10-10 [Coinbase Exec говорит японский крипто разгон "хорошо" вещь, ждет операционной лицензии](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-exec-says-japanese-crypto-crackdown-a-good-thing-awaits-operating-license-5aeb4560.md)
 * 2018-10-10 [PayPal для крипто: до 25 000 Интернет-магазинов в Германии могут принимать цифровые деньги в 2019](https://github.com/theyapapa/cryptonews/blob/ru/paypal-for-crypto-up-to-25-000-online-stores-in-germany-may-accept-digital-money-in-2019-ef324f49.md)
 * 2018-10-09 [Рынки торговли боком, Bitcoin затрагивает $6 600 ранее сегодня](https://github.com/theyapapa/cryptonews/blob/ru/markets-trade-sideways-bitcoin-touches-6-600-earlier-today-580f3e4f.md)
