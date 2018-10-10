@@ -1,3 +1,4 @@
+* 2018-10-10 [PayPal para Crypto: hasta 25.000 tiendas en línea en Alemania pueden aceptar dinero digital en 2019](https://github.com/theyapapa/cryptonews/blob/es/paypal-for-crypto-up-to-25-000-online-stores-in-germany-may-accept-digital-money-in-2019-ef324f49.md)
 * 2018-10-09 [Los mercados comercian de costado, Bitcoin toca $6.600 antes de hoy](https://github.com/theyapapa/cryptonews/blob/es/markets-trade-sideways-bitcoin-touches-6-600-earlier-today-580f3e4f.md)
 * 2018-10-09 [Canadian Crypto Crypto Exchange QuadrigaCX culpa al Banco mayor por retrasos](https://github.com/theyapapa/cryptonews/blob/es/canadian-crypto-crypto-exchange-quadrigacx-blames-major-bank-for-delays-e930ceb2.md)
 * 2018-10-09 [La firma suiza de gestión de activos Tiberio Group AG retrasa el lanzamiento de tokens respaldados por metales](https://github.com/theyapapa/cryptonews/blob/es/swiss-asset-management-firm-tiberius-group-ag-delays-launch-of-metals-backed-token-bbd2b3bc.md)
