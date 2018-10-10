@@ -1,3 +1,4 @@
+* 2018-10-10 [암호화를 위한 페이팔: 독일에서 최대 25000 온라인 상점은 2019에 디지털 돈을 받아들일 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/paypal-for-crypto-up-to-25-000-online-stores-in-germany-may-accept-digital-money-in-2019-ef324f49.md)
 * 2018-10-09 [시장 옆으로 무역, 비트 코인 터치 $6600 오늘 이전](https://github.com/theyapapa/cryptonews/blob/ko/markets-trade-sideways-bitcoin-touches-6-600-earlier-today-580f3e4f.md)
 * 2018-10-09 [캐나다의 암호화 암호 교환 quadrigacx는 지연에 대 한 주요 은행을 탓](https://github.com/theyapapa/cryptonews/blob/ko/canadian-crypto-crypto-exchange-quadrigacx-blames-major-bank-for-delays-e930ceb2.md)
 * 2018-10-09 [스위스 자산 운용 회사 tiberius 그룹 AG 금속 역행 된 토큰의 발사를 연기 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/swiss-asset-management-firm-tiberius-group-ag-delays-launch-of-metals-backed-token-bbd2b3bc.md)
