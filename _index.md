@@ -1,3 +1,4 @@
+* 2018-10-10 [연구: 2017 이후 ico를 통해 제기 $200억](https://github.com/theyapapa/cryptonews/blob/ko/research-20-billion-raised-through-icos-since-2017-8bdb9415.md)
 * 2018-10-10 [암호화 자산은 금융 안정성, 국제 은행 청구에 대 한 위험을 야기 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-assets-pose-no-risks-to-financial-stability-international-bankers-claim-11d49ff2.md)
 * 2018-10-10 [SEC는 ' 펌프 및 덤프 ' ICO 제도 혐의에 대 한 소환장 집행 파일](https://github.com/theyapapa/cryptonews/blob/ko/sec-files-subpoena-enforcement-against-alleged-pump-and-dump-ico-scheme-b5a76d01.md)
 * 2018-10-10 [전 나스닥 자회사 간부는 암호화 교환 제미니의 클라이언트 서비스 팀을 조인](https://github.com/theyapapa/cryptonews/blob/ko/former-nasdaq-subsidiary-exec-joins-crypto-exchange-geminis-client-service-team-3fbb149b.md)
