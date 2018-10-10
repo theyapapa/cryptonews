@@ -1,3 +1,4 @@
+* 2018-10-10 [Coinbase Exec говорит японский крипто разгон "хорошо" вещь, ждет операционной лицензии](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-exec-says-japanese-crypto-crackdown-a-good-thing-awaits-operating-license-5aeb4560.md)
 * 2018-10-10 [PayPal для крипто: до 25 000 Интернет-магазинов в Германии могут принимать цифровые деньги в 2019](https://github.com/theyapapa/cryptonews/blob/ru/paypal-for-crypto-up-to-25-000-online-stores-in-germany-may-accept-digital-money-in-2019-ef324f49.md)
 * 2018-10-09 [Рынки торговли боком, Bitcoin затрагивает $6 600 ранее сегодня](https://github.com/theyapapa/cryptonews/blob/ru/markets-trade-sideways-bitcoin-touches-6-600-earlier-today-580f3e4f.md)
 * 2018-10-09 [Канадский крипто крипто обмен куадригаккс обвиняет Главный крен для задержек](https://github.com/theyapapa/cryptonews/blob/ru/canadian-crypto-crypto-exchange-quadrigacx-blames-major-bank-for-delays-e930ceb2.md)
