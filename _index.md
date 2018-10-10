@@ -1,3 +1,4 @@
+* 2018-10-09 [Рынки торговли боком, Bitcoin затрагивает $6 600 ранее сегодня](https://github.com/theyapapa/cryptonews/blob/ru/markets-trade-sideways-bitcoin-touches-6-600-earlier-today-580f3e4f.md)
 * 2018-10-09 [Канадский крипто крипто обмен куадригаккс обвиняет Главный крен для задержек](https://github.com/theyapapa/cryptonews/blob/ru/canadian-crypto-crypto-exchange-quadrigacx-blames-major-bank-for-delays-e930ceb2.md)
 * 2018-10-09 [Швейцарская компания по управлению активами Тверия Group AG задерживает запуск токена с металлом](https://github.com/theyapapa/cryptonews/blob/ru/swiss-asset-management-firm-tiberius-group-ag-delays-launch-of-metals-backed-token-bbd2b3bc.md)
 * 2018-10-09 [Роджер ver: Bitcoin.Com может запустить свой собственный Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/ru/roger-ver-bitcoincom-may-launch-its-own-crypto-exchange-10e4674a.md)
