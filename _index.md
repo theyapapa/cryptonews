@@ -1,3 +1,4 @@
+* 2018-10-10 [Investigación: $20 mil millones levantado a través de ICOs desde 2017](https://github.com/theyapapa/cryptonews/blob/es/research-20-billion-raised-through-icos-since-2017-8bdb9415.md)
 * 2018-10-10 [Los activos criptográficos no representan riesgos para la estabilidad financiera, afirman los banqueros internacionales](https://github.com/theyapapa/cryptonews/blob/es/crypto-assets-pose-no-risks-to-financial-stability-international-bankers-claim-11d49ff2.md)
 * 2018-10-10 [Los archivos de la SEC ordenan la aplicación contra el esquema ICO de "bombeo y volcado"](https://github.com/theyapapa/cryptonews/blob/es/sec-files-subpoena-enforcement-against-alleged-pump-and-dump-ico-scheme-b5a76d01.md)
 * 2018-10-10 [La ex subsidiaria de NASDAQ se une al equipo de servicio al cliente de Crypto Exchange Gemini](https://github.com/theyapapa/cryptonews/blob/es/former-nasdaq-subsidiary-exec-joins-crypto-exchange-geminis-client-service-team-3fbb149b.md)
