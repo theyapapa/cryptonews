@@ -1,3 +1,4 @@
+* 2018-10-10 [전 나스닥 자회사 간부는 암호화 교환 제미니의 클라이언트 서비스 팀을 조인](https://github.com/theyapapa/cryptonews/blob/ko/former-nasdaq-subsidiary-exec-joins-crypto-exchange-geminis-client-service-team-3fbb149b.md)
 * 2018-10-10 [브라질 정상 cryptojacking Coinhive 피해자의 목록, 이란의 사이버 보안 기관 경고](https://github.com/theyapapa/cryptonews/blob/ko/brazil-tops-list-of-cryptojacking-coinhive-victims-warns-iranian-cybersecurity-authority-f1e5a427.md)
 * 2018-10-10 [코인 베이스의 간부는 일본어 암호 단속 ' 좋은 ' 것은, 운영 라이센스를 기다리고 있다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exec-says-japanese-crypto-crackdown-a-good-thing-awaits-operating-license-5aeb4560.md)
 * 2018-10-10 [암호화를 위한 페이팔: 독일에서 최대 25000 온라인 상점은 2019에 디지털 돈을 받아들일 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/paypal-for-crypto-up-to-25-000-online-stores-in-germany-may-accept-digital-money-in-2019-ef324f49.md)
