@@ -1,3 +1,4 @@
+* 2018-10-09 [캐나다의 암호화 암호 교환 quadrigacx는 지연에 대 한 주요 은행을 탓](https://github.com/theyapapa/cryptonews/blob/ko/canadian-crypto-crypto-exchange-quadrigacx-blames-major-bank-for-delays-e930ceb2.md)
 * 2018-10-09 [스위스 자산 운용 회사 tiberius 그룹 AG 금속 역행 된 토큰의 발사를 연기 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/swiss-asset-management-firm-tiberius-group-ag-delays-launch-of-metals-backed-token-bbd2b3bc.md)
 * 2018-10-09 [로저 Ver: Bitcoin.Com는 자체 암호화 교환을 시작할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/roger-ver-bitcoincom-may-launch-its-own-crypto-exchange-10e4674a.md)
 * 2018-10-09 [포브스가 블록 체인 기반 저널리즘 플랫폼과 협력 하 여 콘텐츠 게시](https://github.com/theyapapa/cryptonews/blob/ko/forbes-partners-with-blockchain-based-journalism-platform-to-publish-content-70cafa68.md)
