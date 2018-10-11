@@ -1,3 +1,4 @@
+* 2018-10-11 [영국에 대 한 암호 규정은 2 년이 걸릴 수 있다, 법률 전문가를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-regulations-for-uk-could-take-two-years-says-legal-expert-895c5dab.md)
 * 2018-10-11 [미국 SEC는 레 귤 레이 터의 승인을 보유 한다고 주장 하는 사기성 ICO를 중단](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-halts-fraudulent-ico-that-claimed-to-possess-regulators-approval-bd3c675b.md)
 * 2018-10-11 [주요 동전은 두 자릿수 손실을 참조로 암호화 시장은 거의 $200억을 흘리 다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-shed-almost-20-billion-as-major-coins-see-double-digit-losses-3fec8627.md)
 * 2018-10-11 [암호 교환 bitfinex는 피아트 예금을 일시 중단, ' 일주일 이내에 ' 재개 예정](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitfinex-suspends-fiat-deposits-expects-to-resume-within-a-week-6d4d1749.md)
