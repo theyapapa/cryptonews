@@ -1,3 +1,4 @@
+* 2018-10-11 [Crypto Exchange Bitfinex suspende depósitos Fiat, espera reanudar "dentro de una semana"](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-bitfinex-suspends-fiat-deposits-expects-to-resume-within-a-week-6d4d1749.md)
 * 2018-10-11 [Corea del sur anunciará su postura de ICO en noviembre, dice el alto funcionario](https://github.com/theyapapa/cryptonews/blob/es/south-korea-to-announce-its-ico-stance-in-november-top-official-says-7c0db155.md)
 * 2018-10-11 [Informe: Harvard, Stanford, dotaciones del MIT todos invierten en fondos Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-harvard-stanford-mit-endowments-all-invest-in-crypto-funds-401a95d8.md)
 * 2018-10-11 [¿Quieres conocer a tu celebridad favorita? Nueva plataforma respaldada por Jason Derulo podría hacer que suceda](https://github.com/theyapapa/cryptonews/blob/es/want-to-meet-your-favorite-celeb-new-platform-backed-by-jason-derulo-could-make-it-happen-29867705.md)
