@@ -1,3 +1,4 @@
+* 2018-10-11 [US sec detiene el ICO fraudulento que afirmó poseer la aprobación del regulador](https://github.com/theyapapa/cryptonews/blob/es/us-sec-halts-fraudulent-ico-that-claimed-to-possess-regulators-approval-bd3c675b.md)
 * 2018-10-11 [Los mercados criptográficos arrojan casi $20 mil millones como monedas principales ver pérdidas de dos dígitos](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-shed-almost-20-billion-as-major-coins-see-double-digit-losses-3fec8627.md)
 * 2018-10-11 [Crypto Exchange Bitfinex suspende depósitos Fiat, espera reanudar "dentro de una semana"](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-bitfinex-suspends-fiat-deposits-expects-to-resume-within-a-week-6d4d1749.md)
 * 2018-10-11 [Corea del sur anunciará su postura de ICO en noviembre, dice el alto funcionario](https://github.com/theyapapa/cryptonews/blob/es/south-korea-to-announce-its-ico-stance-in-november-top-official-says-7c0db155.md)
