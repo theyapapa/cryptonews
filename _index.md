@@ -1,3 +1,4 @@
+* 2018-10-11 [США SEC останавливает мошеннических ICO, которые утверждали, что имеют одобрение регулятора](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-halts-fraudulent-ico-that-claimed-to-possess-regulators-approval-bd3c675b.md)
 * 2018-10-11 [Крипто рынках пролить почти $20 000 000 000 как основные монеты увидеть двойные цифры потерь](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-shed-almost-20-billion-as-major-coins-see-double-digit-losses-3fec8627.md)
 * 2018-10-11 [Crypto Exchange битфинекс приостанавливает Fiat депозиты, планирует возобновить "в течение недели"](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bitfinex-suspends-fiat-deposits-expects-to-resume-within-a-week-6d4d1749.md)
 * 2018-10-11 [Южная Корея объявить свою позицию ICO в ноябре, Top официальный говорит](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-to-announce-its-ico-stance-in-november-top-official-says-7c0db155.md)
