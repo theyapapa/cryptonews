@@ -1,3 +1,4 @@
+* 2018-10-11 [미국 SEC는 레 귤 레이 터의 승인을 보유 한다고 주장 하는 사기성 ICO를 중단](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-halts-fraudulent-ico-that-claimed-to-possess-regulators-approval-bd3c675b.md)
 * 2018-10-11 [주요 동전은 두 자릿수 손실을 참조로 암호화 시장은 거의 $200억을 흘리 다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-shed-almost-20-billion-as-major-coins-see-double-digit-losses-3fec8627.md)
 * 2018-10-11 [암호 교환 bitfinex는 피아트 예금을 일시 중단, ' 일주일 이내에 ' 재개 예정](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitfinex-suspends-fiat-deposits-expects-to-resume-within-a-week-6d4d1749.md)
 * 2018-10-11 [한국은 11 월에 자사의 ICO 입장을 발표, 탑 공식 달래](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-to-announce-its-ico-stance-in-november-top-official-says-7c0db155.md)
