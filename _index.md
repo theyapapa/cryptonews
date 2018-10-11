@@ -1,3 +1,4 @@
+* 2018-10-11 [암호 교환 bitfinex는 피아트 예금을 일시 중단, ' 일주일 이내에 ' 재개 예정](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitfinex-suspends-fiat-deposits-expects-to-resume-within-a-week-6d4d1749.md)
 * 2018-10-11 [한국은 11 월에 자사의 ICO 입장을 발표, 탑 공식 달래](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-to-announce-its-ico-stance-in-november-top-official-says-7c0db155.md)
 * 2018-10-11 [보고서: 하버드, 스탠포드, MIT 기금 암호화 펀드에 대 한 모든 투자](https://github.com/theyapapa/cryptonews/blob/ko/report-harvard-stanford-mit-endowments-all-invest-in-crypto-funds-401a95d8.md)
 * 2018-10-11 [좋아하는 명사를 만나고 싶으십니까? 새로운 플랫폼 제이슨 derulo에 의해 뒷받침이 일어날 수 있도록](https://github.com/theyapapa/cryptonews/blob/ko/want-to-meet-your-favorite-celeb-new-platform-backed-by-jason-derulo-could-make-it-happen-29867705.md)
