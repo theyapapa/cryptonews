@@ -1,3 +1,4 @@
+* 2018-10-11 [보고서: 하버드, 스탠포드, MIT 기금 암호화 펀드에 대 한 모든 투자](https://github.com/theyapapa/cryptonews/blob/ko/report-harvard-stanford-mit-endowments-all-invest-in-crypto-funds-401a95d8.md)
 * 2018-10-11 [좋아하는 명사를 만나고 싶으십니까? 새로운 플랫폼 제이슨 derulo에 의해 뒷받침이 일어날 수 있도록](https://github.com/theyapapa/cryptonews/blob/ko/want-to-meet-your-favorite-celeb-new-platform-backed-by-jason-derulo-could-make-it-happen-29867705.md)
 * 2018-10-10 [암호화 시장은 하루에 날카로운 드롭 오프를 참조 하십시오, 비트 코인 딥 $6300 아래](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-drop-off-on-the-day-bitcoin-dips-below-6-300-aecc86ca.md)
 * 2018-10-10 [가상 화폐 교환 YoBit는 무작위 동전에 펌프 계획을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-yobit-starts-pump-scheme-on-random-coins-a09d2f4a.md)
