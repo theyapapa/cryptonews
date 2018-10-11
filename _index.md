@@ -1,3 +1,4 @@
+* 2018-10-11 [Хотите встретить любимую знаменитостей? Новая платформа, подвернутая Джейсон Derulo может сделать это случиться](https://github.com/theyapapa/cryptonews/blob/ru/want-to-meet-your-favorite-celeb-new-platform-backed-by-jason-derulo-could-make-it-happen-29867705.md)
 * 2018-10-10 [Crypto рынки видят резкое падение-офф в день, Bitcoin провалы ниже $6 300](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-sharp-drop-off-on-the-day-bitcoin-dips-below-6-300-aecc86ca.md)
 * 2018-10-10 [Crypto Exchange йобит запускает схему насоса на случайных монетах](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-yobit-starts-pump-scheme-on-random-coins-a09d2f4a.md)
 * 2018-10-10 [Подозреваемый в тайском Bitcoin афера не в состоянии вернуться в Таиланд из-за аннулирования паспорта](https://github.com/theyapapa/cryptonews/blob/ru/suspect-in-thai-bitcoin-scam-unable-to-return-to-thailand-due-to-passport-revocation-107aad88.md)
