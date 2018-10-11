@@ -1,3 +1,4 @@
+* 2018-10-11 [Informe: Harvard, Stanford, dotaciones del MIT todos invierten en fondos Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-harvard-stanford-mit-endowments-all-invest-in-crypto-funds-401a95d8.md)
 * 2018-10-11 [¿Quieres conocer a tu celebridad favorita? Nueva plataforma respaldada por Jason Derulo podría hacer que suceda](https://github.com/theyapapa/cryptonews/blob/es/want-to-meet-your-favorite-celeb-new-platform-backed-by-jason-derulo-could-make-it-happen-29867705.md)
 * 2018-10-10 [Los mercados criptográficos ven la caída fuerte en el día, Bitcoin sumerge debajo de $6.300](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-sharp-drop-off-on-the-day-bitcoin-dips-below-6-300-aecc86ca.md)
 * 2018-10-10 [Crypto Exchange YoBit inicia esquema de bomba en monedas aleatorias](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-yobit-starts-pump-scheme-on-random-coins-a09d2f4a.md)
