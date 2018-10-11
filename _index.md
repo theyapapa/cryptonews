@@ -1,3 +1,4 @@
+* 2018-10-10 [암호화 시장은 하루에 날카로운 드롭 오프를 참조 하십시오, 비트 코인 딥 $6300 아래](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-drop-off-on-the-day-bitcoin-dips-below-6-300-aecc86ca.md)
 * 2018-10-10 [가상 화폐 교환 YoBit는 무작위 동전에 펌프 계획을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-yobit-starts-pump-scheme-on-random-coins-a09d2f4a.md)
 * 2018-10-10 [태국 비트 코인 사기의 용의자는 여권 해지로 인해 태국으로 돌아갈 수 없습니다](https://github.com/theyapapa/cryptonews/blob/ko/suspect-in-thai-bitcoin-scam-unable-to-return-to-thailand-due-to-passport-revocation-107aad88.md)
 * 2018-10-10 [연구: 2017 이후 ico를 통해 제기 $200억](https://github.com/theyapapa/cryptonews/blob/ko/research-20-billion-raised-through-icos-since-2017-8bdb9415.md)
