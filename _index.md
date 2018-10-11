@@ -1,3 +1,4 @@
+* 2018-10-11 [Южная Корея объявить свою позицию ICO в ноябре, Top официальный говорит](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-to-announce-its-ico-stance-in-november-top-official-says-7c0db155.md)
 * 2018-10-11 [Доклад: Гарвард, Стэнфорд, MIT пожертвований все инвестировать в крипте фонды](https://github.com/theyapapa/cryptonews/blob/ru/report-harvard-stanford-mit-endowments-all-invest-in-crypto-funds-401a95d8.md)
 * 2018-10-11 [Хотите встретить любимую знаменитостей? Новая платформа, подвернутая Джейсон Derulo может сделать это случиться](https://github.com/theyapapa/cryptonews/blob/ru/want-to-meet-your-favorite-celeb-new-platform-backed-by-jason-derulo-could-make-it-happen-29867705.md)
 * 2018-10-10 [Crypto рынки видят резкое падение-офф в день, Bitcoin провалы ниже $6 300](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-sharp-drop-off-on-the-day-bitcoin-dips-below-6-300-aecc86ca.md)
