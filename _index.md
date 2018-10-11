@@ -1,3 +1,4 @@
+* 2018-10-10 [Подозреваемый в тайском Bitcoin афера не в состоянии вернуться в Таиланд из-за аннулирования паспорта](https://github.com/theyapapa/cryptonews/blob/ru/suspect-in-thai-bitcoin-scam-unable-to-return-to-thailand-due-to-passport-revocation-107aad88.md)
 * 2018-10-10 [Исследования: $20 000 000 000 поднят через ИКО с 2017](https://github.com/theyapapa/cryptonews/blob/ru/research-20-billion-raised-through-icos-since-2017-8bdb9415.md)
 * 2018-10-10 [Crypto активы не представляют риска для финансовой стабильности, международные банкиры утверждают,](https://github.com/theyapapa/cryptonews/blob/ru/crypto-assets-pose-no-risks-to-financial-stability-international-bankers-claim-11d49ff2.md)
 * 2018-10-10 [SEC файлы в суд исполнения против якобы "насос-и-дамп" ICO схеме](https://github.com/theyapapa/cryptonews/blob/ru/sec-files-subpoena-enforcement-against-alleged-pump-and-dump-ico-scheme-b5a76d01.md)
