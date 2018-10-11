@@ -1,3 +1,4 @@
+* 2018-10-11 [주요 동전은 두 자릿수 손실을 참조로 암호화 시장은 거의 $200억을 흘리 다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-shed-almost-20-billion-as-major-coins-see-double-digit-losses-3fec8627.md)
 * 2018-10-11 [암호 교환 bitfinex는 피아트 예금을 일시 중단, ' 일주일 이내에 ' 재개 예정](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitfinex-suspends-fiat-deposits-expects-to-resume-within-a-week-6d4d1749.md)
 * 2018-10-11 [한국은 11 월에 자사의 ICO 입장을 발표, 탑 공식 달래](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-to-announce-its-ico-stance-in-november-top-official-says-7c0db155.md)
 * 2018-10-11 [보고서: 하버드, 스탠포드, MIT 기금 암호화 펀드에 대 한 모든 투자](https://github.com/theyapapa/cryptonews/blob/ko/report-harvard-stanford-mit-endowments-all-invest-in-crypto-funds-401a95d8.md)
