@@ -1,3 +1,4 @@
+* 2018-10-10 [Crypto Exchange YoBit inicia esquema de bomba en monedas aleatorias](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-yobit-starts-pump-scheme-on-random-coins-a09d2f4a.md)
 * 2018-10-10 [Sospechoso en la estafa de Bitcoin tailandés inCapaz de volver a Tailandia debido a la revocación de pasaporte](https://github.com/theyapapa/cryptonews/blob/es/suspect-in-thai-bitcoin-scam-unable-to-return-to-thailand-due-to-passport-revocation-107aad88.md)
 * 2018-10-10 [Investigación: $20 mil millones levantado a través de ICOs desde 2017](https://github.com/theyapapa/cryptonews/blob/es/research-20-billion-raised-through-icos-since-2017-8bdb9415.md)
 * 2018-10-10 [Los activos criptográficos no representan riesgos para la estabilidad financiera, afirman los banqueros internacionales](https://github.com/theyapapa/cryptonews/blob/es/crypto-assets-pose-no-risks-to-financial-stability-international-bankers-claim-11d49ff2.md)
