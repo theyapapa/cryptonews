@@ -1,3 +1,4 @@
+* 2018-10-12 [Пластический хирург и начинающий инвестор покупает $352 000 000 доли в корейском крипто обмена бисумб](https://github.com/theyapapa/cryptonews/blob/ru/plastic-surgeon-and-startup-investor-buys-352-million-stake-in-korean-crypto-exchange-bithumb-482ac160.md)
 * 2018-10-11 [Coinbase запускает первый маркер-20 на платформе](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-launches-first-erc-20-token-on-platform-0896760a.md)
 * 2018-10-11 [Отчет: sec расширяет репрессии на ИКО, регулятивная неоднозначность остается](https://github.com/theyapapa/cryptonews/blob/ru/report-sec-expands-crackdown-on-icos-regulatory-ambiguity-remains-84f56be0.md)
 * 2018-10-11 [Правила шифрования для Великобритании могут занять два года, говорит эксперт по правовым](https://github.com/theyapapa/cryptonews/blob/ru/crypto-regulations-for-uk-could-take-two-years-says-legal-expert-895c5dab.md)
