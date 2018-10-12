@@ -1,3 +1,4 @@
+* 2018-10-12 [El regulador estadounidense emite ceses y desistimientos contra tres promotores criptográficos](https://github.com/theyapapa/cryptonews/blob/es/us-regulator-issues-cease-and-desist-orders-against-three-crypto-promoters-93bb63ae.md)
 * 2018-10-12 [Primer sospechoso en $24 millones estafa Bitcoin arrestado en Tailandia](https://github.com/theyapapa/cryptonews/blob/es/prime-suspect-in-24-million-bitcoin-scam-arrested-in-thailand-a9d693c4.md)
 * 2018-10-12 [Ex-ejecutivo de Coinbase Adam White se une a la plataforma de criptografía de ICE Bakkt, fuentes dicen](https://github.com/theyapapa/cryptonews/blob/es/ex-coinbase-executive-adam-white-joins-ices-crypto-platform-bakkt-sources-say-679dac0c.md)
 * 2018-10-12 [Casa de subastas los ensayos de Christie bloques registro de datos en Nueva Asociación](https://github.com/theyapapa/cryptonews/blob/es/auction-house-christies-trials-blockchain-data-recording-in-new-partnership-dd8924cb.md)
