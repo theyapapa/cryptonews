@@ -1,3 +1,4 @@
+* 2018-10-12 [미국 레 귤 레이 터 문제 3 개의 암호화 프로모터에 대 한 중단 및 단념 명령](https://github.com/theyapapa/cryptonews/blob/ko/us-regulator-issues-cease-and-desist-orders-against-three-crypto-promoters-93bb63ae.md)
 * 2018-10-12 [$2400만에서 프라임 용의자는 태국에서 체포 비트 코인 사기](https://github.com/theyapapa/cryptonews/blob/ko/prime-suspect-in-24-million-bitcoin-scam-arrested-in-thailand-a9d693c4.md)
 * 2018-10-12 [전 코인 베이스 이그제큐티브 아담 화이트 얼음의 암호화 플랫폼 bakkt 조인, 소스 말](https://github.com/theyapapa/cryptonews/blob/ko/ex-coinbase-executive-adam-white-joins-ices-crypto-platform-bakkt-sources-say-679dac0c.md)
 * 2018-10-12 [옥션 하우스 크리스티의 재판 새로운 파트너십의 블록 체인 데이터 기록](https://github.com/theyapapa/cryptonews/blob/ko/auction-house-christies-trials-blockchain-data-recording-in-new-partnership-dd8924cb.md)
