@@ -1,3 +1,4 @@
+* 2018-10-12 [ETC laboratorios lanza el piloto de incubadora de arranque como aplicaciones exceden 100](https://github.com/theyapapa/cryptonews/blob/es/etc-labs-launches-startup-incubator-pilot-as-applications-exceed-100-8a4fbce6.md)
 * 2018-10-12 [Cirujano plástico y inversor de arranque compra $352 millones participación en Coreano Crypto intercambio bipulgar](https://github.com/theyapapa/cryptonews/blob/es/plastic-surgeon-and-startup-investor-buys-352-million-stake-in-korean-crypto-exchange-bithumb-482ac160.md)
 * 2018-10-11 [Coinbase lanza el primer token ERC-20 en la plataforma](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-first-erc-20-token-on-platform-0896760a.md)
 * 2018-10-11 [Informe: sec amplía la represión contra icos, la ambigüedad regulatoria sigue siendo](https://github.com/theyapapa/cryptonews/blob/es/report-sec-expands-crackdown-on-icos-regulatory-ambiguity-remains-84f56be0.md)
