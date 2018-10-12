@@ -1,3 +1,4 @@
+* 2018-10-11 [Отчет: sec расширяет репрессии на ИКО, регулятивная неоднозначность остается](https://github.com/theyapapa/cryptonews/blob/ru/report-sec-expands-crackdown-on-icos-regulatory-ambiguity-remains-84f56be0.md)
 * 2018-10-11 [Правила шифрования для Великобритании могут занять два года, говорит эксперт по правовым](https://github.com/theyapapa/cryptonews/blob/ru/crypto-regulations-for-uk-could-take-two-years-says-legal-expert-895c5dab.md)
 * 2018-10-11 [США SEC останавливает мошеннических ICO, которые утверждали, что имеют одобрение регулятора](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-halts-fraudulent-ico-that-claimed-to-possess-regulators-approval-bd3c675b.md)
 * 2018-10-11 [Крипто рынках пролить почти $20 000 000 000 как основные монеты увидеть двойные цифры потерь](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-shed-almost-20-billion-as-major-coins-see-double-digit-losses-3fec8627.md)
