@@ -1,3 +1,4 @@
+* 2018-10-12 [США регулятор вопросы прекратить и воздерживаться приказы против трех крипто промоутеров](https://github.com/theyapapa/cryptonews/blob/ru/us-regulator-issues-cease-and-desist-orders-against-three-crypto-promoters-93bb63ae.md)
 * 2018-10-12 [Главный подозреваемый в $24 000 000 Bitcoin афера арестован в Таиланде](https://github.com/theyapapa/cryptonews/blob/ru/prime-suspect-in-24-million-bitcoin-scam-arrested-in-thailand-a9d693c4.md)
 * 2018-10-12 [Экс-Coinbase Исполнительный Адам Уайт присоединяется к крипто-платформе Ice баккт, говорят источники](https://github.com/theyapapa/cryptonews/blob/ru/ex-coinbase-executive-adam-white-joins-ices-crypto-platform-bakkt-sources-say-679dac0c.md)
 * 2018-10-12 [Аукционный дом Кристи в испытаниях цепочки данных запись в новом партнерстве](https://github.com/theyapapa/cryptonews/blob/ru/auction-house-christies-trials-blockchain-data-recording-in-new-partnership-dd8924cb.md)
