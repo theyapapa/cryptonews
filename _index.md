@@ -1,3 +1,4 @@
+* 2018-10-12 [Экс-Coinbase Исполнительный Адам Уайт присоединяется к крипто-платформе Ice баккт, говорят источники](https://github.com/theyapapa/cryptonews/blob/ru/ex-coinbase-executive-adam-white-joins-ices-crypto-platform-bakkt-sources-say-679dac0c.md)
 * 2018-10-12 [Аукционный дом Кристи в испытаниях цепочки данных запись в новом партнерстве](https://github.com/theyapapa/cryptonews/blob/ru/auction-house-christies-trials-blockchain-data-recording-in-new-partnership-dd8924cb.md)
 * 2018-10-12 [Глава трона Tweets предстоящего партнерства с "промышленность гигант" ценится на ' $10 миллиардов '](https://github.com/theyapapa/cryptonews/blob/ru/trons-ceo-tweets-of-forthcoming-partnership-with-industry-giant-valued-at-10s-of-billions-29550422.md)
 * 2018-10-12 [ETC Labs запускает стартап-инкубатор пилота, поскольку приложения превышают 100](https://github.com/theyapapa/cryptonews/blob/ru/etc-labs-launches-startup-incubator-pilot-as-applications-exceed-100-8a4fbce6.md)
