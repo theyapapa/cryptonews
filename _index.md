@@ -1,3 +1,4 @@
+* 2018-10-12 [' 업계 거 인 '과 차기 파트너십의 트 론의 CEO 짹짹 '에서 $10s의 가치 '](https://github.com/theyapapa/cryptonews/blob/ko/trons-ceo-tweets-of-forthcoming-partnership-with-industry-giant-valued-at-10s-of-billions-29550422.md)
 * 2018-10-12 [응용 프로그램이 100을 초과 하는 등 실험실 시작 인큐베이터 파일럿 출시](https://github.com/theyapapa/cryptonews/blob/ko/etc-labs-launches-startup-incubator-pilot-as-applications-exceed-100-8a4fbce6.md)
 * 2018-10-12 [성형 외과 의사와 시작 투자자는 한국 암호 교환 비 엄지에 $3억5200만 지분 구입](https://github.com/theyapapa/cryptonews/blob/ko/plastic-surgeon-and-startup-investor-buys-352-million-stake-in-korean-crypto-exchange-bithumb-482ac160.md)
 * 2018-10-11 [코인 베이스 플랫폼에서 첫 번째 erc-20 토큰 출시](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-launches-first-erc-20-token-on-platform-0896760a.md)
