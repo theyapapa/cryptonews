@@ -1,3 +1,4 @@
+* 2018-10-11 [Coinbase lanza el primer token ERC-20 en la plataforma](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-first-erc-20-token-on-platform-0896760a.md)
 * 2018-10-11 [Informe: sec amplía la represión contra icos, la ambigüedad regulatoria sigue siendo](https://github.com/theyapapa/cryptonews/blob/es/report-sec-expands-crackdown-on-icos-regulatory-ambiguity-remains-84f56be0.md)
 * 2018-10-11 [Las regulaciones criptográficas para el Reino Unido podrían tardar dos años, dice experto legal](https://github.com/theyapapa/cryptonews/blob/es/crypto-regulations-for-uk-could-take-two-years-says-legal-expert-895c5dab.md)
 * 2018-10-11 [US sec detiene el ICO fraudulento que afirmó poseer la aprobación del regulador](https://github.com/theyapapa/cryptonews/blob/es/us-sec-halts-fraudulent-ico-that-claimed-to-possess-regulators-approval-bd3c675b.md)
