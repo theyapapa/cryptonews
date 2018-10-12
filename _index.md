@@ -1,3 +1,4 @@
+* 2018-10-12 [성형 외과 의사와 시작 투자자는 한국 암호 교환 비 엄지에 $3억5200만 지분 구입](https://github.com/theyapapa/cryptonews/blob/ko/plastic-surgeon-and-startup-investor-buys-352-million-stake-in-korean-crypto-exchange-bithumb-482ac160.md)
 * 2018-10-11 [코인 베이스 플랫폼에서 첫 번째 erc-20 토큰 출시](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-launches-first-erc-20-token-on-platform-0896760a.md)
 * 2018-10-11 [보고서: SEC는 icos에 대 한 단속을 확장, 규제 모호함이 남아](https://github.com/theyapapa/cryptonews/blob/ko/report-sec-expands-crackdown-on-icos-regulatory-ambiguity-remains-84f56be0.md)
 * 2018-10-11 [영국에 대 한 암호 규정은 2 년이 걸릴 수 있다, 법률 전문가를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-regulations-for-uk-could-take-two-years-says-legal-expert-895c5dab.md)
