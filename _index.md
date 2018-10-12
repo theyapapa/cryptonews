@@ -1,3 +1,4 @@
+* 2018-10-12 [전 코인 베이스 이그제큐티브 아담 화이트 얼음의 암호화 플랫폼 bakkt 조인, 소스 말](https://github.com/theyapapa/cryptonews/blob/ko/ex-coinbase-executive-adam-white-joins-ices-crypto-platform-bakkt-sources-say-679dac0c.md)
 * 2018-10-12 [옥션 하우스 크리스티의 재판 새로운 파트너십의 블록 체인 데이터 기록](https://github.com/theyapapa/cryptonews/blob/ko/auction-house-christies-trials-blockchain-data-recording-in-new-partnership-dd8924cb.md)
 * 2018-10-12 [' 업계 거 인 '과 차기 파트너십의 트 론의 CEO 짹짹 '에서 $10s의 가치 '](https://github.com/theyapapa/cryptonews/blob/ko/trons-ceo-tweets-of-forthcoming-partnership-with-industry-giant-valued-at-10s-of-billions-29550422.md)
 * 2018-10-12 [응용 프로그램이 100을 초과 하는 등 실험실 시작 인큐베이터 파일럿 출시](https://github.com/theyapapa/cryptonews/blob/ko/etc-labs-launches-startup-incubator-pilot-as-applications-exceed-100-8a4fbce6.md)
