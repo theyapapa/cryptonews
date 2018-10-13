@@ -1,3 +1,4 @@
+* 2018-10-13 [Среди смешанных ценовых действий, половина из десяти крипто увидеть зеленый](https://github.com/theyapapa/cryptonews/blob/ru/amidst-mixed-price-action-half-of-top-ten-cryptos-see-green-9aed0b35.md)
 * 2018-10-13 [Неподтвержденные: трон в партнерстве с "Китай Google," Baidu](https://github.com/theyapapa/cryptonews/blob/ru/unconfirmed-tron-to-partner-with-chinas-google-baidu-77098c8b.md)
 * 2018-10-12 [Южнокорейский финансовый регулятор подтверждает негативную позицию по ИКО и крипто-](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-financial-regulator-reaffirms-negative-stance-on-icos-and-crypto-9f25c504.md)
 * 2018-10-12 [Президент Всемирного банка: технология распределенной книги имеет "огромный потенциал"](https://github.com/theyapapa/cryptonews/blob/ru/world-bank-president-distributed-ledger-technology-has-huge-potential-4341dac6.md)
