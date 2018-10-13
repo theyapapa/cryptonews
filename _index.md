@@ -1,3 +1,4 @@
+* 2018-10-13 [Неподтвержденные: трон в партнерстве с "Китай Google," Baidu](https://github.com/theyapapa/cryptonews/blob/ru/unconfirmed-tron-to-partner-with-chinas-google-baidu-77098c8b.md)
 * 2018-10-12 [Южнокорейский финансовый регулятор подтверждает негативную позицию по ИКО и крипто-](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-financial-regulator-reaffirms-negative-stance-on-icos-and-crypto-9f25c504.md)
 * 2018-10-12 [Президент Всемирного банка: технология распределенной книги имеет "огромный потенциал"](https://github.com/theyapapa/cryptonews/blob/ru/world-bank-president-distributed-ledger-technology-has-huge-potential-4341dac6.md)
 * 2018-10-12 [США регулятор вопросы прекратить и воздерживаться приказы против трех крипто промоутеров](https://github.com/theyapapa/cryptonews/blob/ru/us-regulator-issues-cease-and-desist-orders-against-three-crypto-promoters-93bb63ae.md)
