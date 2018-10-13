@@ -1,3 +1,4 @@
+* 2018-10-13 [미확인: TRON ' 중국의 구글과 파트너, ' 바이](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-tron-to-partner-with-chinas-google-baidu-77098c8b.md)
 * 2018-10-12 [한국 금융 규제는 아이 코스와 암호에 대 한 부정적인 입장을 재확인](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-financial-regulator-reaffirms-negative-stance-on-icos-and-crypto-9f25c504.md)
 * 2018-10-12 [세계 은행 대통령: 분산 원장 기술 ' 거 대 한 잠재력 '](https://github.com/theyapapa/cryptonews/blob/ko/world-bank-president-distributed-ledger-technology-has-huge-potential-4341dac6.md)
 * 2018-10-12 [미국 레 귤 레이 터 문제 3 개의 암호화 프로모터에 대 한 중단 및 단념 명령](https://github.com/theyapapa/cryptonews/blob/ko/us-regulator-issues-cease-and-desist-orders-against-three-crypto-promoters-93bb63ae.md)
