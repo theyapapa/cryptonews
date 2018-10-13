@@ -1,3 +1,4 @@
+* 2018-10-13 [En medio de la acción de precios mixtos, la mitad de los primeros diez cryptos ver verde](https://github.com/theyapapa/cryptonews/blob/es/amidst-mixed-price-action-half-of-top-ten-cryptos-see-green-9aed0b35.md)
 * 2018-10-13 [Sin confirmar: Tron se asociará con ' Google de China, ' Baidu](https://github.com/theyapapa/cryptonews/blob/es/unconfirmed-tron-to-partner-with-chinas-google-baidu-77098c8b.md)
 * 2018-10-12 [El regulador financiero surcoreano reafirma la postura negativa en icos y Crypto](https://github.com/theyapapa/cryptonews/blob/es/south-korean-financial-regulator-reaffirms-negative-stance-on-icos-and-crypto-9f25c504.md)
 * 2018-10-12 [Presidente del Banco Mundial: la tecnología de contabilidad distribuida tiene un "enorme potencial"](https://github.com/theyapapa/cryptonews/blob/es/world-bank-president-distributed-ledger-technology-has-huge-potential-4341dac6.md)
