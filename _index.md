@@ -1,3 +1,4 @@
+* 2018-10-13 [가운데 혼합 가격 액션, 톱 10 cryptos의 절반 녹색 참조](https://github.com/theyapapa/cryptonews/blob/ko/amidst-mixed-price-action-half-of-top-ten-cryptos-see-green-9aed0b35.md)
 * 2018-10-13 [미확인: TRON ' 중국의 구글과 파트너, ' 바이](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-tron-to-partner-with-chinas-google-baidu-77098c8b.md)
 * 2018-10-12 [한국 금융 규제는 아이 코스와 암호에 대 한 부정적인 입장을 재확인](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-financial-regulator-reaffirms-negative-stance-on-icos-and-crypto-9f25c504.md)
 * 2018-10-12 [세계 은행 대통령: 분산 원장 기술 ' 거 대 한 잠재력 '](https://github.com/theyapapa/cryptonews/blob/ko/world-bank-president-distributed-ledger-technology-has-huge-potential-4341dac6.md)
