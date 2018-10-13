@@ -1,3 +1,4 @@
+* 2018-10-12 [Presidente del Banco Mundial: la tecnología de contabilidad distribuida tiene un "enorme potencial"](https://github.com/theyapapa/cryptonews/blob/es/world-bank-president-distributed-ledger-technology-has-huge-potential-4341dac6.md)
 * 2018-10-12 [El regulador estadounidense emite ceses y desistimientos contra tres promotores criptográficos](https://github.com/theyapapa/cryptonews/blob/es/us-regulator-issues-cease-and-desist-orders-against-three-crypto-promoters-93bb63ae.md)
 * 2018-10-12 [Primer sospechoso en $24 millones estafa Bitcoin arrestado en Tailandia](https://github.com/theyapapa/cryptonews/blob/es/prime-suspect-in-24-million-bitcoin-scam-arrested-in-thailand-a9d693c4.md)
 * 2018-10-12 [Ex-ejecutivo de Coinbase Adam White se une a la plataforma de criptografía de ICE Bakkt, fuentes dicen](https://github.com/theyapapa/cryptonews/blob/es/ex-coinbase-executive-adam-white-joins-ices-crypto-platform-bakkt-sources-say-679dac0c.md)
