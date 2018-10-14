@@ -1,3 +1,4 @@
+* 2018-10-14 [유럽 블록 체인 파트너십은 유럽 분산 장부 기술에 대 한 진지한 발견](https://github.com/theyapapa/cryptonews/blob/ko/the-european-blockchain-partnership-finds-europe-getting-serious-about-distributed-ledger-technology-ccb4c2ff.md)
 * 2018-10-13 [상위 5 개 암호화 수행자 개요: 트 론, 비트 코인, 라이트 코인, EOS, 카르다노](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-bitcoin-litecoin-eos-cardano-eca86584.md)
 * 2018-10-13 [가운데 혼합 가격 액션, 톱 10 cryptos의 절반 녹색 참조](https://github.com/theyapapa/cryptonews/blob/ko/amidst-mixed-price-action-half-of-top-ten-cryptos-see-green-9aed0b35.md)
 * 2018-10-13 [미확인: TRON ' 중국의 구글과 파트너, ' 바이](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-tron-to-partner-with-chinas-google-baidu-77098c8b.md)
