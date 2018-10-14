@@ -1,3 +1,4 @@
+* 2018-10-14 [Nouriel "닥터 둠" roubini: "가상 화폐의 99%는 가치가 0"](https://github.com/theyapapa/cryptonews/blob/ko/nouriel-dr-doom-roubini-99-percent-of-cryptocurrencies-are-worth-zero-e6c14626.md)
 * 2018-10-14 [암호화 시장은 최근 판매 후 잔액을 유지, $6300 이상 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/crypto-market-keeps-its-balance-after-recent-sell-off-bitcoin-above-6-300-211d1bb1.md)
 * 2018-10-14 [유럽 블록 체인 파트너십은 유럽 분산 장부 기술에 대 한 진지한 발견](https://github.com/theyapapa/cryptonews/blob/ko/the-european-blockchain-partnership-finds-europe-getting-serious-about-distributed-ledger-technology-ccb4c2ff.md)
 * 2018-10-13 [상위 5 개 암호화 수행자 개요: 트 론, 비트 코인, 라이트 코인, EOS, 카르다노](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-bitcoin-litecoin-eos-cardano-eca86584.md)
