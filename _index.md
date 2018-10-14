@@ -1,3 +1,4 @@
+* 2018-10-14 [암호화 시장은 최근 판매 후 잔액을 유지, $6300 이상 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/crypto-market-keeps-its-balance-after-recent-sell-off-bitcoin-above-6-300-211d1bb1.md)
 * 2018-10-14 [유럽 블록 체인 파트너십은 유럽 분산 장부 기술에 대 한 진지한 발견](https://github.com/theyapapa/cryptonews/blob/ko/the-european-blockchain-partnership-finds-europe-getting-serious-about-distributed-ledger-technology-ccb4c2ff.md)
 * 2018-10-13 [상위 5 개 암호화 수행자 개요: 트 론, 비트 코인, 라이트 코인, EOS, 카르다노](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-bitcoin-litecoin-eos-cardano-eca86584.md)
 * 2018-10-13 [가운데 혼합 가격 액션, 톱 10 cryptos의 절반 녹색 참조](https://github.com/theyapapa/cryptonews/blob/ko/amidst-mixed-price-action-half-of-top-ten-cryptos-see-green-9aed0b35.md)
