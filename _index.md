@@ -1,3 +1,4 @@
+* 2018-10-14 [Crypto Market сохраняет свой баланс после недавнего распродажи, Bitcoin выше $6 300](https://github.com/theyapapa/cryptonews/blob/ru/crypto-market-keeps-its-balance-after-recent-sell-off-bitcoin-above-6-300-211d1bb1.md)
 * 2018-10-14 [Европейское партнерство по цепочке связей находит в Европе серьезную технологию распределенной книги](https://github.com/theyapapa/cryptonews/blob/ru/the-european-blockchain-partnership-finds-europe-getting-serious-about-distributed-ledger-technology-ccb4c2ff.md)
 * 2018-10-13 [Топ 5 крипто исполнителей Обзор: трон, Bitcoin, Litecoin, EOS, Кардано](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-tron-bitcoin-litecoin-eos-cardano-eca86584.md)
 * 2018-10-13 [Среди смешанных ценовых действий, половина из десяти крипто увидеть зеленый](https://github.com/theyapapa/cryptonews/blob/ru/amidst-mixed-price-action-half-of-top-ten-cryptos-see-green-9aed0b35.md)
