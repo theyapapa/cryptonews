@@ -1,3 +1,4 @@
+* 2018-10-15 [우간다에서 첫 번째 피아트-암호화 교환을 시작 하는 binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-its-first-fiat-crypto-exchange-in-uganda-16c7bff1.md)
 * 2018-10-15 [소니, 내부 파트너십을 통한 권리 관리를 위한 블록 체인 솔루션 개발](https://github.com/theyapapa/cryptonews/blob/ko/sony-develops-blockchain-solution-for-rights-management-with-internal-partnerships-fa27b4b1.md)
 * 2018-10-15 [홍콩의 보안 감시는 암호화 규정을 제안 하기 위해, 회장은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/hong-kongs-security-watchdog-to-propose-crypto-regulation-chairman-says-47e3e0d0.md)
 * 2018-10-14 [테스트에서이 더 리 움의 콘스탄티노플 하드 포크 얼굴 ' 합의 문제 '](https://github.com/theyapapa/cryptonews/blob/ko/ethereums-constantinople-hard-fork-faces-consensus-issue-in-testing-f24e8763.md)
