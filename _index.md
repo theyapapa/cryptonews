@@ -1,3 +1,4 @@
+* 2018-10-14 [Ethereum в Константинополе жесткий вилка сталкивается "консенсус вопрос" в тестировании](https://github.com/theyapapa/cryptonews/blob/ru/ethereums-constantinople-hard-fork-faces-consensus-issue-in-testing-f24e8763.md)
 * 2018-10-14 [Нуриэль "д-р Doom" Рубини: "99% от стоимости, нулевой"](https://github.com/theyapapa/cryptonews/blob/ru/nouriel-dr-doom-roubini-99-percent-of-cryptocurrencies-are-worth-zero-e6c14626.md)
 * 2018-10-14 [Crypto Market сохраняет свой баланс после недавнего распродажи, Bitcoin выше $6 300](https://github.com/theyapapa/cryptonews/blob/ru/crypto-market-keeps-its-balance-after-recent-sell-off-bitcoin-above-6-300-211d1bb1.md)
 * 2018-10-14 [Европейское партнерство по цепочке связей находит в Европе серьезную технологию распределенной книги](https://github.com/theyapapa/cryptonews/blob/ru/the-european-blockchain-partnership-finds-europe-getting-serious-about-distributed-ledger-technology-ccb4c2ff.md)
