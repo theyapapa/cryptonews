@@ -1,3 +1,4 @@
+* 2018-10-15 [' Todo el mundo es el Banco ': la red bloques permite a cualquiera lanzar su propia moneda](https://github.com/theyapapa/cryptonews/blob/es/everyone-is-the-bank-blockchain-network-allows-anyone-to-launch-their-own-coin-0c9036af.md)
 * 2018-10-15 [Binance lanza su primer Fiat-Crypto Exchange en Uganda](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-its-first-fiat-crypto-exchange-in-uganda-16c7bff1.md)
 * 2018-10-15 [Sony desarrolla la solución bloques para la gestión de derechos con alianzas internas](https://github.com/theyapapa/cryptonews/blob/es/sony-develops-blockchain-solution-for-rights-management-with-internal-partnerships-fa27b4b1.md)
 * 2018-10-15 [El vigilante de la seguridad de Hong Kong para proponer la regulación Crypto, Presidente dice](https://github.com/theyapapa/cryptonews/blob/es/hong-kongs-security-watchdog-to-propose-crypto-regulation-chairman-says-47e3e0d0.md)
