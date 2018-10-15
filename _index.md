@@ -1,3 +1,4 @@
+* 2018-10-15 [투자 거 대 한 충실도는 기관 투자자를 대상으로 디지털 자산 서비스 출시](https://github.com/theyapapa/cryptonews/blob/ko/investment-giant-fidelity-launches-digital-assets-services-targeting-institutional-investors-6046bdf8.md)
 * 2018-10-15 [' 모두 은행 ': 블록 체인 네트워크는 누구나 자신의 동전을 발사 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/everyone-is-the-bank-blockchain-network-allows-anyone-to-launch-their-own-coin-0c9036af.md)
 * 2018-10-15 [우간다에서 첫 번째 피아트-암호화 교환을 시작 하는 binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-its-first-fiat-crypto-exchange-in-uganda-16c7bff1.md)
 * 2018-10-15 [소니, 내부 파트너십을 통한 권리 관리를 위한 블록 체인 솔루션 개발](https://github.com/theyapapa/cryptonews/blob/ko/sony-develops-blockchain-solution-for-rights-management-with-internal-partnerships-fa27b4b1.md)
