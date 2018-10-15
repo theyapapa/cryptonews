@@ -1,3 +1,4 @@
+* 2018-10-14 [테스트에서이 더 리 움의 콘스탄티노플 하드 포크 얼굴 ' 합의 문제 '](https://github.com/theyapapa/cryptonews/blob/ko/ethereums-constantinople-hard-fork-faces-consensus-issue-in-testing-f24e8763.md)
 * 2018-10-14 [Nouriel "닥터 둠" roubini: "가상 화폐의 99%는 가치가 0"](https://github.com/theyapapa/cryptonews/blob/ko/nouriel-dr-doom-roubini-99-percent-of-cryptocurrencies-are-worth-zero-e6c14626.md)
 * 2018-10-14 [암호화 시장은 최근 판매 후 잔액을 유지, $6300 이상 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/crypto-market-keeps-its-balance-after-recent-sell-off-bitcoin-above-6-300-211d1bb1.md)
 * 2018-10-14 [유럽 블록 체인 파트너십은 유럽 분산 장부 기술에 대 한 진지한 발견](https://github.com/theyapapa/cryptonews/blob/ko/the-european-blockchain-partnership-finds-europe-getting-serious-about-distributed-ledger-technology-ccb4c2ff.md)
