@@ -1,3 +1,4 @@
+* 2018-10-15 [«Все – банк»: сеть цепочки блоков позволяет каждому запускать собственные монеты](https://github.com/theyapapa/cryptonews/blob/ru/everyone-is-the-bank-blockchain-network-allows-anyone-to-launch-their-own-coin-0c9036af.md)
 * 2018-10-15 [Бинанце запускает свой первый Fiat-крипто обмен в Уганде](https://github.com/theyapapa/cryptonews/blob/ru/binance-launches-its-first-fiat-crypto-exchange-in-uganda-16c7bff1.md)
 * 2018-10-15 [Sony разрабатывает цепочки решений для управления правами с внутренними партнерствами](https://github.com/theyapapa/cryptonews/blob/ru/sony-develops-blockchain-solution-for-rights-management-with-internal-partnerships-fa27b4b1.md)
 * 2018-10-15 [Гонконг безопасности WatchDog предложить крипто регулирование, Председатель говорит](https://github.com/theyapapa/cryptonews/blob/ru/hong-kongs-security-watchdog-to-propose-crypto-regulation-chairman-says-47e3e0d0.md)
