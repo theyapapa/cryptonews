@@ -1,3 +1,4 @@
+* 2018-10-15 [Бинанце запускает свой первый Fiat-крипто обмен в Уганде](https://github.com/theyapapa/cryptonews/blob/ru/binance-launches-its-first-fiat-crypto-exchange-in-uganda-16c7bff1.md)
 * 2018-10-15 [Sony разрабатывает цепочки решений для управления правами с внутренними партнерствами](https://github.com/theyapapa/cryptonews/blob/ru/sony-develops-blockchain-solution-for-rights-management-with-internal-partnerships-fa27b4b1.md)
 * 2018-10-15 [Гонконг безопасности WatchDog предложить крипто регулирование, Председатель говорит](https://github.com/theyapapa/cryptonews/blob/ru/hong-kongs-security-watchdog-to-propose-crypto-regulation-chairman-says-47e3e0d0.md)
 * 2018-10-14 [Ethereum в Константинополе жесткий вилка сталкивается "консенсус вопрос" в тестировании](https://github.com/theyapapa/cryptonews/blob/ru/ethereums-constantinople-hard-fork-faces-consensus-issue-in-testing-f24e8763.md)
