@@ -1,3 +1,4 @@
+* 2018-10-15 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 10 월 15 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-15-bc192b51.md)
 * 2018-10-15 [국내 주요 금융 지주 회사, 핀 테크 보안 강화를 위한 블록 체인 특허 획득](https://github.com/theyapapa/cryptonews/blob/ko/major-korean-financial-holding-company-wins-blockchain-patent-for-improved-fintech-security-aef66b60.md)
 * 2018-10-15 [투자 거 대 한 충실도는 기관 투자자를 대상으로 디지털 자산 서비스 출시](https://github.com/theyapapa/cryptonews/blob/ko/investment-giant-fidelity-launches-digital-assets-services-targeting-institutional-investors-6046bdf8.md)
 * 2018-10-15 [' 모두 은행 ': 블록 체인 네트워크는 누구나 자신의 동전을 발사 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/everyone-is-the-bank-blockchain-network-allows-anyone-to-launch-their-own-coin-0c9036af.md)
