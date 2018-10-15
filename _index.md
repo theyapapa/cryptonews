@@ -1,3 +1,4 @@
+* 2018-10-15 [Sony desarrolla la solución bloques para la gestión de derechos con alianzas internas](https://github.com/theyapapa/cryptonews/blob/es/sony-develops-blockchain-solution-for-rights-management-with-internal-partnerships-fa27b4b1.md)
 * 2018-10-15 [El vigilante de la seguridad de Hong Kong para proponer la regulación Crypto, Presidente dice](https://github.com/theyapapa/cryptonews/blob/es/hong-kongs-security-watchdog-to-propose-crypto-regulation-chairman-says-47e3e0d0.md)
 * 2018-10-14 [La bifurcación dura de Constantinopla de Ethereum se enfrenta al "tema del consenso" en las pruebas](https://github.com/theyapapa/cryptonews/blob/es/ethereums-constantinople-hard-fork-faces-consensus-issue-in-testing-f24e8763.md)
 * 2018-10-14 [Nouriel "Dr. Doom" Roubini: "99 por ciento de Cryptocurrencies valen cero"](https://github.com/theyapapa/cryptonews/blob/es/nouriel-dr-doom-roubini-99-percent-of-cryptocurrencies-are-worth-zero-e6c14626.md)
