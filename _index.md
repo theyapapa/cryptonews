@@ -1,3 +1,4 @@
+* 2018-10-16 [러시아 내에서 비트 코인에 대 한 공공 서버 해킹 혐의 감옥에서 5 년까지 직면](https://github.com/theyapapa/cryptonews/blob/ko/russian-accused-of-hacking-public-servers-to-mine-bitcoin-faces-up-to-five-years-in-prison-b5553357.md)
 * 2018-10-16 [암호 화폐 시장 대부분의 코인이 최근 이익을 통합 함에 따라 평온 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-calm-as-most-coins-consolidate-recent-gains-68dd2fb1.md)
 * 2018-10-16 [AI 기반 플랫폼 ' 제치고 주식 시장 '은 이제 암호화에 초점을 맞추고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ai-driven-platform-outperformed-stock-markets-and-now-it-is-focusing-on-crypto-53aff8da.md)
 * 2018-10-16 [보고서: 바이두 트 론 ' 파트너십 '은 블록 체인이 아닌 클라우드 컴퓨팅 규정을 포함 한다](https://github.com/theyapapa/cryptonews/blob/ko/report-baidu-tron-partnership-involves-cloud-computing-provision-not-blockchain-8f739b79.md)
