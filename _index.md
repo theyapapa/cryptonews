@@ -1,3 +1,4 @@
+* 2018-10-16 [도요타는 블록 체인 기술을 사용 하 여 디지털 광고 캠페인에서 사기 행위를 감소 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/toyota-uses-blockchain-tech-to-reduce-fraud-in-digital-advertising-campaigns-5cfd28fa.md)
 * 2018-10-16 [브라질의 대통령 후보자가 블록 체인을 사용 하 여 정부 계획 서를 발간](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-presidential-candidate-uses-blockchain-to-publish-government-plan-e5ad21fa.md)
 * 2018-10-16 [러시아 내에서 비트 코인에 대 한 공공 서버 해킹 혐의 감옥에서 5 년까지 직면](https://github.com/theyapapa/cryptonews/blob/ko/russian-accused-of-hacking-public-servers-to-mine-bitcoin-faces-up-to-five-years-in-prison-b5553357.md)
 * 2018-10-16 [암호 화폐 시장 대부분의 코인이 최근 이익을 통합 함에 따라 평온 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-calm-as-most-coins-consolidate-recent-gains-68dd2fb1.md)
