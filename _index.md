@@ -1,3 +1,4 @@
+* 2018-10-16 [Бразильский кандидат в президенты использует блокчейн для публикации правительственного плана](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-presidential-candidate-uses-blockchain-to-publish-government-plan-e5ad21fa.md)
 * 2018-10-16 [Российские обвиняют в взломе публичных серверов для майнинга биткоина лица до пяти лет тюрьмы](https://github.com/theyapapa/cryptonews/blob/ru/russian-accused-of-hacking-public-servers-to-mine-bitcoin-faces-up-to-five-years-in-prison-b5553357.md)
 * 2018-10-16 [Крипто рынки видят спокойствие, как большинство монет консолидировать недавние выгоды](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-calm-as-most-coins-consolidate-recent-gains-68dd2fb1.md)
 * 2018-10-16 [AI-driven платформы ' выгнали фондовые рынки '-и теперь, он фокусируется на крипто](https://github.com/theyapapa/cryptonews/blob/ru/ai-driven-platform-outperformed-stock-markets-and-now-it-is-focusing-on-crypto-53aff8da.md)
