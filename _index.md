@@ -1,3 +1,4 @@
+* 2018-10-15 [Coinbase abre su oficina en Irlanda como parte del plan de contingencia de Brexit](https://github.com/theyapapa/cryptonews/blob/es/coinbase-opens-office-in-ireland-as-part-of-brexit-contingency-plan-8c7aba40.md)
 * 2018-10-15 [Ex Presidente de CFTC Gary Gensler: ICOs deben ser considerados valores](https://github.com/theyapapa/cryptonews/blob/es/former-cftc-chairman-gary-gensler-icos-should-be-considered-securities-ad583ef5.md)
 * 2018-10-15 [Plataforma de pago Crypto BitPay presenta asentamiento en Stablecoins](https://github.com/theyapapa/cryptonews/blob/es/crypto-payment-platform-bitpay-introduces-settlement-in-stablecoins-d619bf32.md)
 * 2018-10-15 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, Cardano, Monero, Tron: Price Analysis, 15 de octubre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-15-bc192b51.md)
