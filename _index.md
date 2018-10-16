@@ -1,3 +1,4 @@
+* 2018-10-16 [Mike Novogratz: las instituciones entrarán en Bitcoin en el Q1-Q2 2019 trayendo ' nuevos altos '](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratz-institutions-will-get-into-bitcoin-in-q1-q2-2019-bringing-new-highs-efadc4a0.md)
 * 2018-10-15 [Coinbase abre su oficina en Irlanda como parte del plan de contingencia de Brexit](https://github.com/theyapapa/cryptonews/blob/es/coinbase-opens-office-in-ireland-as-part-of-brexit-contingency-plan-8c7aba40.md)
 * 2018-10-15 [Ex Presidente de CFTC Gary Gensler: ICOs deben ser considerados valores](https://github.com/theyapapa/cryptonews/blob/es/former-cftc-chairman-gary-gensler-icos-should-be-considered-securities-ad583ef5.md)
 * 2018-10-15 [Plataforma de pago Crypto BitPay presenta asentamiento en Stablecoins](https://github.com/theyapapa/cryptonews/blob/es/crypto-payment-platform-bitpay-introduces-settlement-in-stablecoins-d619bf32.md)
