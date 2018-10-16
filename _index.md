@@ -1,3 +1,4 @@
+* 2018-10-16 [Майк Novogratz: заведения получат в Bitcoin в Q1-Q2 2019 принося ' новые максимумы '](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-institutions-will-get-into-bitcoin-in-q1-q2-2019-bringing-new-highs-efadc4a0.md)
 * 2018-10-15 [Coinbase открывает офис в Ирландии в рамках резервного плана Евросоюза](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-opens-office-in-ireland-as-part-of-brexit-contingency-plan-8c7aba40.md)
 * 2018-10-15 [Бывший Председатель Комиссии Гарри Gensler: ИКОС должны считаться ценными бумагами](https://github.com/theyapapa/cryptonews/blob/ru/former-cftc-chairman-gary-gensler-icos-should-be-considered-securities-ad583ef5.md)
 * 2018-10-15 [Крипто-платежная платформа BitPay вводит поселение в стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/crypto-payment-platform-bitpay-introduces-settlement-in-stablecoins-d619bf32.md)
