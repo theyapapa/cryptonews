@@ -1,3 +1,4 @@
+* 2018-10-16 [암호 화폐 시장 대부분의 코인이 최근 이익을 통합 함에 따라 평온 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-calm-as-most-coins-consolidate-recent-gains-68dd2fb1.md)
 * 2018-10-16 [AI 기반 플랫폼 ' 제치고 주식 시장 '은 이제 암호화에 초점을 맞추고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ai-driven-platform-outperformed-stock-markets-and-now-it-is-focusing-on-crypto-53aff8da.md)
 * 2018-10-16 [보고서: 바이두 트 론 ' 파트너십 '은 블록 체인이 아닌 클라우드 컴퓨팅 규정을 포함 한다](https://github.com/theyapapa/cryptonews/blob/ko/report-baidu-tron-partnership-involves-cloud-computing-provision-not-blockchain-8f739b79.md)
 * 2018-10-16 [블록 체인 '이가을 '의 ' 테스트 버전 ' 데뷔에 전보, '이가을, ' 말한다 투자자](https://github.com/theyapapa/cryptonews/blob/ko/telegram-to-debut-test-version-of-blockchain-platform-ton-this-autumn-say-investors-d78e9abd.md)
