@@ -1,3 +1,4 @@
+* 2018-10-15 [전 cftc 회장 게리 젠 슬 러: 아이 코스는 증권으로 간주 되어야 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-cftc-chairman-gary-gensler-icos-should-be-considered-securities-ad583ef5.md)
 * 2018-10-15 [암호화 결제 플랫폼 bitpay는 stadecoins에 정착을 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-payment-platform-bitpay-introduces-settlement-in-stablecoins-d619bf32.md)
 * 2018-10-15 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 10 월 15 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-15-bc192b51.md)
 * 2018-10-15 [국내 주요 금융 지주 회사, 핀 테크 보안 강화를 위한 블록 체인 특허 획득](https://github.com/theyapapa/cryptonews/blob/ko/major-korean-financial-holding-company-wins-blockchain-patent-for-improved-fintech-security-aef66b60.md)
