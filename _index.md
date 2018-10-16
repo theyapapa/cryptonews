@@ -1,3 +1,4 @@
+* 2018-10-16 [Доклад: Baidu-трон "Партнерство" включает в себя облачные вычисления, а не блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/report-baidu-tron-partnership-involves-cloud-computing-provision-not-blockchain-8f739b79.md)
 * 2018-10-16 [Телеграмма к дебюту ' тестовая версия ' блокчейн платформы Ton ' эта осень, ' Скажите инвесторам](https://github.com/theyapapa/cryptonews/blob/ru/telegram-to-debut-test-version-of-blockchain-platform-ton-this-autumn-say-investors-d78e9abd.md)
 * 2018-10-16 [Майк Novogratz: заведения получат в Bitcoin в Q1-Q2 2019 принося ' новые максимумы '](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-institutions-will-get-into-bitcoin-in-q1-q2-2019-bringing-new-highs-efadc4a0.md)
 * 2018-10-15 [Coinbase открывает офис в Ирландии в рамках резервного плана Евросоюза](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-opens-office-in-ireland-as-part-of-brexit-contingency-plan-8c7aba40.md)
