@@ -1,3 +1,4 @@
+* 2018-10-16 [블록 체인 '이가을 '의 ' 테스트 버전 ' 데뷔에 전보, '이가을, ' 말한다 투자자](https://github.com/theyapapa/cryptonews/blob/ko/telegram-to-debut-test-version-of-blockchain-platform-ton-this-autumn-say-investors-d78e9abd.md)
 * 2018-10-16 [마이크 노 볼 라의: 기관은 Q1-Q2 2019에서 비트 코인으로 ' 새로운 최고 '를 가져다 드립니다.](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-institutions-will-get-into-bitcoin-in-q1-q2-2019-bringing-new-highs-efadc4a0.md)
 * 2018-10-15 [아일랜드에 있는 코인 베이스를 통해 브 렉 시트 긴급 대책 계획의 일환으로 오피스 오픈](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-opens-office-in-ireland-as-part-of-brexit-contingency-plan-8c7aba40.md)
 * 2018-10-15 [전 cftc 회장 게리 젠 슬 러: 아이 코스는 증권으로 간주 되어야 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-cftc-chairman-gary-gensler-icos-should-be-considered-securities-ad583ef5.md)
