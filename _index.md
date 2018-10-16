@@ -1,3 +1,4 @@
+* 2018-10-16 [AI-driven платформы ' выгнали фондовые рынки '-и теперь, он фокусируется на крипто](https://github.com/theyapapa/cryptonews/blob/ru/ai-driven-platform-outperformed-stock-markets-and-now-it-is-focusing-on-crypto-53aff8da.md)
 * 2018-10-16 [Доклад: Baidu-трон "Партнерство" включает в себя облачные вычисления, а не блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/report-baidu-tron-partnership-involves-cloud-computing-provision-not-blockchain-8f739b79.md)
 * 2018-10-16 [Телеграмма к дебюту ' тестовая версия ' блокчейн платформы Ton ' эта осень, ' Скажите инвесторам](https://github.com/theyapapa/cryptonews/blob/ru/telegram-to-debut-test-version-of-blockchain-platform-ton-this-autumn-say-investors-d78e9abd.md)
 * 2018-10-16 [Майк Novogratz: заведения получат в Bitcoin в Q1-Q2 2019 принося ' новые максимумы '](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-institutions-will-get-into-bitcoin-in-q1-q2-2019-bringing-new-highs-efadc4a0.md)
