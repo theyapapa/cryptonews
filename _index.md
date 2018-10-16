@@ -1,3 +1,4 @@
+* 2018-10-15 [아일랜드에 있는 코인 베이스를 통해 브 렉 시트 긴급 대책 계획의 일환으로 오피스 오픈](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-opens-office-in-ireland-as-part-of-brexit-contingency-plan-8c7aba40.md)
 * 2018-10-15 [전 cftc 회장 게리 젠 슬 러: 아이 코스는 증권으로 간주 되어야 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-cftc-chairman-gary-gensler-icos-should-be-considered-securities-ad583ef5.md)
 * 2018-10-15 [암호화 결제 플랫폼 bitpay는 stadecoins에 정착을 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-payment-platform-bitpay-introduces-settlement-in-stablecoins-d619bf32.md)
 * 2018-10-15 [비트 코인,이 더 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 10 월 15 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-15-bc192b51.md)
