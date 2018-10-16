@@ -1,3 +1,4 @@
+* 2018-10-15 [Coinbase открывает офис в Ирландии в рамках резервного плана Евросоюза](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-opens-office-in-ireland-as-part-of-brexit-contingency-plan-8c7aba40.md)
 * 2018-10-15 [Бывший Председатель Комиссии Гарри Gensler: ИКОС должны считаться ценными бумагами](https://github.com/theyapapa/cryptonews/blob/ru/former-cftc-chairman-gary-gensler-icos-should-be-considered-securities-ad583ef5.md)
 * 2018-10-15 [Крипто-платежная платформа BitPay вводит поселение в стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/crypto-payment-platform-bitpay-introduces-settlement-in-stablecoins-d619bf32.md)
 * 2018-10-15 [Bitcoin, Ethereum, рябь, Bitcoin Cash, EOS, Звездная, Litecoin, Кардано, Монеро, трон: ценовой анализ, 15 октября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-15-bc192b51.md)
