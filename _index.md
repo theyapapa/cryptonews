@@ -1,3 +1,4 @@
+* 2018-10-17 [개발자의 85%가 암호 화폐 자산 ' 프로토콜을 변경 하 고 연구 결과를](https://github.com/theyapapa/cryptonews/blob/ko/85-percent-of-developers-can-alter-their-cryptoassets-protocol-research-shows-a6a70353.md)
 * 2018-10-17 [CME 보고서: BTC 선물 거래는 3 분기에 계속 성장 하 고 있으며, 일일 평균 거래량은 2 분기에 41% 증가](https://github.com/theyapapa/cryptonews/blob/ko/cme-report-btc-futures-trading-keeps-growing-in-q3-average-daily-volume-up-41-over-q2-ecceba74.md)
 * 2018-10-17 [binance는 Chainalysis 협력을 통한 사기 방지 조치를 증가 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-increases-anti-fraud-measures-with-chainalysis-partnership-596ab9c8.md)
 * 2018-10-17 [언 테더: 스타 레 레체 밧줄의 역사와 그것을 잃어버린 방법 $1 페그](https://github.com/theyapapa/cryptonews/blob/ko/untethered-the-history-of-stablecoin-tether-and-how-it-has-lost-its-1-peg-03e17f69.md)
