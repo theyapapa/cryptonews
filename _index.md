@@ -1,3 +1,4 @@
+* 2018-10-16 [Coinbase запускает торговлю для первого токена-20 на платформе](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-launches-trading-for-first-erc-20-token-on-platform-ad999b94.md)
 * 2018-10-16 [Toyota использует технологию блокчейн для снижения мошенничества в цифровых рекламных кампаниях](https://github.com/theyapapa/cryptonews/blob/ru/toyota-uses-blockchain-tech-to-reduce-fraud-in-digital-advertising-campaigns-5cfd28fa.md)
 * 2018-10-16 [Бразильский кандидат в президенты использует блокчейн для публикации правительственного плана](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-presidential-candidate-uses-blockchain-to-publish-government-plan-e5ad21fa.md)
 * 2018-10-16 [Российские обвиняют в взломе публичных серверов для майнинга биткоина лица до пяти лет тюрьмы](https://github.com/theyapapa/cryptonews/blob/ru/russian-accused-of-hacking-public-servers-to-mine-bitcoin-faces-up-to-five-years-in-prison-b5553357.md)
