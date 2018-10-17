@@ -1,3 +1,4 @@
+* 2018-10-17 [Отвязанный: История Stablecoin троса и как он потерял свой $1 Peg](https://github.com/theyapapa/cryptonews/blob/ru/untethered-the-history-of-stablecoin-tether-and-how-it-has-lost-its-1-peg-03e17f69.md)
 * 2018-10-17 [Правительство Руанды использует технологию блокчейн для отслеживания металлического тантала в конфликте](https://github.com/theyapapa/cryptonews/blob/ru/rwandan-government-to-use-blockchain-tech-to-track-conflict-metal-tantalum-3f152e65.md)
 * 2018-10-17 [Официальная подотчетность США в эпоху умных контрактов](https://github.com/theyapapa/cryptonews/blob/ru/us-cftc-official-tackles-accountability-in-an-era-of-smart-contracts-35fb3736.md)
 * 2018-10-17 [Пантера капитал exec: рынок криптовалют цены могут увеличиться в десять раз на 2020](https://github.com/theyapapa/cryptonews/blob/ru/pantera-capital-exec-cryptocurrency-market-prices-could-increase-tenfold-by-2020-03b0c47d.md)
