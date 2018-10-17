@@ -1,3 +1,4 @@
+* 2018-10-17 [Gobierno ruandés utilizar bloques Tech para rastrear conflictos metálicos de tantalio](https://github.com/theyapapa/cryptonews/blob/es/rwandan-government-to-use-blockchain-tech-to-track-conflict-metal-tantalum-3f152e65.md)
 * 2018-10-17 [US CFTC oficial aborda la rendición de cuentas en una era de contratos inteligentes](https://github.com/theyapapa/cryptonews/blob/es/us-cftc-official-tackles-accountability-in-an-era-of-smart-contracts-35fb3736.md)
 * 2018-10-17 [Pantera capital Exec: Cryptocurrency los precios del mercado podrían aumentar diez veces por 2020](https://github.com/theyapapa/cryptonews/blob/es/pantera-capital-exec-cryptocurrency-market-prices-could-increase-tenfold-by-2020-03b0c47d.md)
 * 2018-10-16 [La Fundación Ethereum publica la cuarta ola de subvenciones](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-releases-fourth-wave-of-grants-9358e246.md)
