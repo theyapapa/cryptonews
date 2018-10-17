@@ -1,3 +1,4 @@
+* 2018-10-17 [Пантера капитал exec: рынок криптовалют цены могут увеличиться в десять раз на 2020](https://github.com/theyapapa/cryptonews/blob/ru/pantera-capital-exec-cryptocurrency-market-prices-could-increase-tenfold-by-2020-03b0c47d.md)
 * 2018-10-16 [Эфириум Фонд выпускает четвертую волну грантов](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-releases-fourth-wave-of-grants-9358e246.md)
 * 2018-10-16 [Coinbase запускает торговлю для первого токена-20 на платформе](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-launches-trading-for-first-erc-20-token-on-platform-ad999b94.md)
 * 2018-10-16 [Toyota использует технологию блокчейн для снижения мошенничества в цифровых рекламных кампаниях](https://github.com/theyapapa/cryptonews/blob/ru/toyota-uses-blockchain-tech-to-reduce-fraud-in-digital-advertising-campaigns-5cfd28fa.md)
