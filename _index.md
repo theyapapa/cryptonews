@@ -1,3 +1,4 @@
+* 2018-10-16 [이 더 리 움 재단, 제 4 회 보조금의 물결](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-releases-fourth-wave-of-grants-9358e246.md)
 * 2018-10-16 [coinbase는 플랫폼에서 첫 번째 erc-20 토큰에 대 한 거래를 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-launches-trading-for-first-erc-20-token-on-platform-ad999b94.md)
 * 2018-10-16 [도요타는 블록 체인 기술을 사용 하 여 디지털 광고 캠페인에서 사기 행위를 감소 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/toyota-uses-blockchain-tech-to-reduce-fraud-in-digital-advertising-campaigns-5cfd28fa.md)
 * 2018-10-16 [브라질의 대통령 후보자가 블록 체인을 사용 하 여 정부 계획 서를 발간](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-presidential-candidate-uses-blockchain-to-publish-government-plan-e5ad21fa.md)
