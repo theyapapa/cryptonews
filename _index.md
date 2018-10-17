@@ -1,3 +1,4 @@
+* 2018-10-17 [Pantera capital Exec: Cryptocurrency los precios del mercado podrían aumentar diez veces por 2020](https://github.com/theyapapa/cryptonews/blob/es/pantera-capital-exec-cryptocurrency-market-prices-could-increase-tenfold-by-2020-03b0c47d.md)
 * 2018-10-16 [La Fundación Ethereum publica la cuarta ola de subvenciones](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-releases-fourth-wave-of-grants-9358e246.md)
 * 2018-10-16 [Coinbase lanza el comercio para el primer token ERC-20 en la plataforma](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-trading-for-first-erc-20-token-on-platform-ad999b94.md)
 * 2018-10-16 [Toyota utiliza bloques Tech para reducir el fraude en las campañas publicitarias digitales](https://github.com/theyapapa/cryptonews/blob/es/toyota-uses-blockchain-tech-to-reduce-fraud-in-digital-advertising-campaigns-5cfd28fa.md)
