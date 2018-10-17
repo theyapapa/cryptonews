@@ -1,3 +1,4 @@
+* 2018-10-17 [Binance усиливает меры по борьбе с мошенничеством с Chainalysis партнерством](https://github.com/theyapapa/cryptonews/blob/ru/binance-increases-anti-fraud-measures-with-chainalysis-partnership-596ab9c8.md)
 * 2018-10-17 [Отвязанный: История Stablecoin троса и как он потерял свой $1 Peg](https://github.com/theyapapa/cryptonews/blob/ru/untethered-the-history-of-stablecoin-tether-and-how-it-has-lost-its-1-peg-03e17f69.md)
 * 2018-10-17 [Правительство Руанды использует технологию блокчейн для отслеживания металлического тантала в конфликте](https://github.com/theyapapa/cryptonews/blob/ru/rwandan-government-to-use-blockchain-tech-to-track-conflict-metal-tantalum-3f152e65.md)
 * 2018-10-17 [Официальная подотчетность США в эпоху умных контрактов](https://github.com/theyapapa/cryptonews/blob/ru/us-cftc-official-tackles-accountability-in-an-era-of-smart-contracts-35fb3736.md)
