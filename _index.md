@@ -1,3 +1,4 @@
+* 2018-10-17 [르완다 정부는 블록 체인 기술을 사용 하 여 충돌 금속 탄탈를 추적](https://github.com/theyapapa/cryptonews/blob/ko/rwandan-government-to-use-blockchain-tech-to-track-conflict-metal-tantalum-3f152e65.md)
 * 2018-10-17 [미국 cftc 공식에서 스마트 계약의 시대를 책임 졌습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-cftc-official-tackles-accountability-in-an-era-of-smart-contracts-35fb3736.md)
 * 2018-10-17 [판 테라 캐피탈 실행: 암호 화폐 시장 가격이 텐 폴드를 2020으로 늘릴 수 있었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/pantera-capital-exec-cryptocurrency-market-prices-could-increase-tenfold-by-2020-03b0c47d.md)
 * 2018-10-16 [이 더 리 움 재단, 제 4 회 보조금의 물결](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-releases-fourth-wave-of-grants-9358e246.md)
