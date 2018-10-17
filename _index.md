@@ -1,3 +1,4 @@
+* 2018-10-17 [미국 cftc 공식에서 스마트 계약의 시대를 책임 졌습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-cftc-official-tackles-accountability-in-an-era-of-smart-contracts-35fb3736.md)
 * 2018-10-17 [판 테라 캐피탈 실행: 암호 화폐 시장 가격이 텐 폴드를 2020으로 늘릴 수 있었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/pantera-capital-exec-cryptocurrency-market-prices-could-increase-tenfold-by-2020-03b0c47d.md)
 * 2018-10-16 [이 더 리 움 재단, 제 4 회 보조금의 물결](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-releases-fourth-wave-of-grants-9358e246.md)
 * 2018-10-16 [coinbase는 플랫폼에서 첫 번째 erc-20 토큰에 대 한 거래를 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-launches-trading-for-first-erc-20-token-on-platform-ad999b94.md)
