@@ -1,3 +1,4 @@
+* 2018-10-16 [Coinbase lanza el comercio para el primer token ERC-20 en la plataforma](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-trading-for-first-erc-20-token-on-platform-ad999b94.md)
 * 2018-10-16 [Toyota utiliza bloques Tech para reducir el fraude en las campañas publicitarias digitales](https://github.com/theyapapa/cryptonews/blob/es/toyota-uses-blockchain-tech-to-reduce-fraud-in-digital-advertising-campaigns-5cfd28fa.md)
 * 2018-10-16 [Candidato presidencial brasileño utiliza bloques para publicar el plan del gobierno](https://github.com/theyapapa/cryptonews/blob/es/brazilian-presidential-candidate-uses-blockchain-to-publish-government-plan-e5ad21fa.md)
 * 2018-10-16 [Ruso acusado de hackear servidores públicos para minar Bitcoin enfrenta hasta cinco años en prisión](https://github.com/theyapapa/cryptonews/blob/es/russian-accused-of-hacking-public-servers-to-mine-bitcoin-faces-up-to-five-years-in-prison-b5553357.md)
