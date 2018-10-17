@@ -1,3 +1,4 @@
+* 2018-10-17 [Канадская фирма строит платформу цепочки поставок на основе блокчейн для промышленности каннабиса](https://github.com/theyapapa/cryptonews/blob/ru/canadian-firm-to-build-blockchain-based-supply-chain-platform-for-cannabis-industry-816d5fe7.md)
 * 2018-10-17 [85% разработчиков могут изменить протокол криптоактивами, исследовательские шоу](https://github.com/theyapapa/cryptonews/blob/ru/85-percent-of-developers-can-alter-their-cryptoassets-protocol-research-shows-a6a70353.md)
 * 2018-10-17 [Отчет CME: торговля фьючерсами BTC продолжает расти в Q3, средний ежедневный объем до 41% над Q2](https://github.com/theyapapa/cryptonews/blob/ru/cme-report-btc-futures-trading-keeps-growing-in-q3-average-daily-volume-up-41-over-q2-ecceba74.md)
 * 2018-10-17 [Binance усиливает меры по борьбе с мошенничеством с Chainalysis партнерством](https://github.com/theyapapa/cryptonews/blob/ru/binance-increases-anti-fraud-measures-with-chainalysis-partnership-596ab9c8.md)
