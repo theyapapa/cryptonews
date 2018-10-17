@@ -1,3 +1,4 @@
+* 2018-10-17 [Binance aumenta las medidas de lucha contra el fraude con Chainalysis Partnership](https://github.com/theyapapa/cryptonews/blob/es/binance-increases-anti-fraud-measures-with-chainalysis-partnership-596ab9c8.md)
 * 2018-10-17 [Ataduras: la historia de la atadura de Stablecoin y cómo ha perdido su $1 PEG](https://github.com/theyapapa/cryptonews/blob/es/untethered-the-history-of-stablecoin-tether-and-how-it-has-lost-its-1-peg-03e17f69.md)
 * 2018-10-17 [Gobierno ruandés utilizar bloques Tech para rastrear conflictos metálicos de tantalio](https://github.com/theyapapa/cryptonews/blob/es/rwandan-government-to-use-blockchain-tech-to-track-conflict-metal-tantalum-3f152e65.md)
 * 2018-10-17 [US CFTC oficial aborda la rendición de cuentas en una era de contratos inteligentes](https://github.com/theyapapa/cryptonews/blob/es/us-cftc-official-tackles-accountability-in-an-era-of-smart-contracts-35fb3736.md)
