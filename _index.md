@@ -1,3 +1,4 @@
+* 2018-10-18 [La firma de seguridad global G4S anuncia la "bóveda de almacenamiento" de alta seguridad para la tenencia de CRYPTO](https://github.com/theyapapa/cryptonews/blob/es/global-security-firm-g4s-announces-high-security-vault-storage-for-holding-crypto-f3807e15.md)
 * 2018-10-18 [NatWest Bank lanza una plataforma de préstamo sindicada basada en bloques de R3 corde](https://github.com/theyapapa/cryptonews/blob/es/natwest-bank-launches-r3-corda-blockchain-based-syndicated-lending-platform-d671d9de.md)
 * 2018-10-18 [Los Marshals estadounidenses pusieron más de 600 confiscados bitcoins en subasta](https://github.com/theyapapa/cryptonews/blob/es/us-marshals-put-up-more-than-600-confiscated-bitcoins-at-auction-5d66b257.md)
 * 2018-10-18 [Sólo 39 por ciento de los chilenos son conscientes de Cryptocurrencies, estudio muestra](https://github.com/theyapapa/cryptonews/blob/es/only-39-percent-of-chileans-are-aware-of-cryptocurrencies-study-shows-19c45379.md)
