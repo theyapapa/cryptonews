@@ -1,3 +1,4 @@
+* 2018-10-17 [전 세계 결제 보고서 2018: DLT는 금융 시장 요구를 충족 하지 못하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/world-payments-report-2018-dlt-falls-short-of-meeting-financial-market-demands-b3c59fda.md)
 * 2018-10-17 [대마초 산업을 위한 블록 체인 기반 공급망 플랫폼 구축을 위한 캐나다 기업](https://github.com/theyapapa/cryptonews/blob/ko/canadian-firm-to-build-blockchain-based-supply-chain-platform-for-cannabis-industry-816d5fe7.md)
 * 2018-10-17 [개발자의 85%가 암호 화폐 자산 ' 프로토콜을 변경 하 고 연구 결과를](https://github.com/theyapapa/cryptonews/blob/ko/85-percent-of-developers-can-alter-their-cryptoassets-protocol-research-shows-a6a70353.md)
 * 2018-10-17 [CME 보고서: BTC 선물 거래는 3 분기에 계속 성장 하 고 있으며, 일일 평균 거래량은 2 분기에 41% 증가](https://github.com/theyapapa/cryptonews/blob/ko/cme-report-btc-futures-trading-keeps-growing-in-q3-average-daily-volume-up-41-over-q2-ecceba74.md)
