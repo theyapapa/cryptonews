@@ -1,3 +1,4 @@
+* 2018-10-18 [US SEC lanza ' Hub estratégico ' para resolver problemas de DLT y de activos digitales](https://github.com/theyapapa/cryptonews/blob/es/us-sec-launches-strategic-hub-to-address-dlt-and-digital-assets-issues-e354fda9.md)
 * 2018-10-18 [¿MasterCard y VISA reCortan los corredores de criptografía no regulados y ICOs?](https://github.com/theyapapa/cryptonews/blob/es/are-mastercard-and-visa-cutting-out-unregulated-crypto-brokers-and-icos-3d577fb4.md)
 * 2018-10-18 ["Fiebre Cryptocurrency" ha empezado a disminuir, dice el jefe del banco central ruso](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-fever-has-begun-to-diminish-russian-central-bank-head-says-bc905dab.md)
 * 2018-10-18 [La firma de seguridad global G4S anuncia la "bóveda de almacenamiento" de alta seguridad para la tenencia de CRYPTO](https://github.com/theyapapa/cryptonews/blob/es/global-security-firm-g4s-announces-high-security-vault-storage-for-holding-crypto-f3807e15.md)
