@@ -1,3 +1,4 @@
+* 2018-10-18 [Sólo 39 por ciento de los chilenos son conscientes de Cryptocurrencies, estudio muestra](https://github.com/theyapapa/cryptonews/blob/es/only-39-percent-of-chileans-are-aware-of-cryptocurrencies-study-shows-19c45379.md)
 * 2018-10-18 [130 coffee shops en Europa comenzó a aceptar y vender criptografía](https://github.com/theyapapa/cryptonews/blob/es/130-coffee-shops-in-europe-started-to-accept-and-sell-crypto-2706a670.md)
 * 2018-10-17 [World Payments Report 2018: DLT no cumple con las demandas del mercado financiero](https://github.com/theyapapa/cryptonews/blob/es/world-payments-report-2018-dlt-falls-short-of-meeting-financial-market-demands-b3c59fda.md)
 * 2018-10-17 [Firma canadiense para construir plataforma de cadena de suministro basada en bloques para la industria del cannabis](https://github.com/theyapapa/cryptonews/blob/es/canadian-firm-to-build-blockchain-based-supply-chain-platform-for-cannabis-industry-816d5fe7.md)
