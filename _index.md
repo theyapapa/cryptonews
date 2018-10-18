@@ -1,3 +1,4 @@
+* 2018-10-18 [130 кофе-магазины в Европе начали принимать и продавать крипто](https://github.com/theyapapa/cryptonews/blob/ru/130-coffee-shops-in-europe-started-to-accept-and-sell-crypto-2706a670.md)
 * 2018-10-17 [Отчет о мировых платежах 2018: ДЗО не соответствует требованиям финансового рынка](https://github.com/theyapapa/cryptonews/blob/ru/world-payments-report-2018-dlt-falls-short-of-meeting-financial-market-demands-b3c59fda.md)
 * 2018-10-17 [Канадская фирма строит платформу цепочки поставок на основе блокчейн для промышленности каннабиса](https://github.com/theyapapa/cryptonews/blob/ru/canadian-firm-to-build-blockchain-based-supply-chain-platform-for-cannabis-industry-816d5fe7.md)
 * 2018-10-17 [85% разработчиков могут изменить протокол криптоактивами, исследовательские шоу](https://github.com/theyapapa/cryptonews/blob/ru/85-percent-of-developers-can-alter-their-cryptoassets-protocol-research-shows-a6a70353.md)
