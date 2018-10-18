@@ -1,3 +1,4 @@
+* 2018-10-18 [글로벌 보안 회사 G4S는 암호화를 유지 하기 위한 높은 보안 ' Vault 스토리지 ' 발표](https://github.com/theyapapa/cryptonews/blob/ko/global-security-firm-g4s-announces-high-security-vault-storage-for-holding-crypto-f3807e15.md)
 * 2018-10-18 [natwest 은행, R3 corda 블록 체인 기반 신디케이트 대출 플랫폼 런칭](https://github.com/theyapapa/cryptonews/blob/ko/natwest-bank-launches-r3-corda-blockchain-based-syndicated-lending-platform-d671d9de.md)
 * 2018-10-18 [600 이상의 압수 비트 코인을 경매에서 추가 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-marshals-put-up-more-than-600-confiscated-bitcoins-at-auction-5d66b257.md)
 * 2018-10-18 [오직 39%의 칠레만이 암호 화폐를 인식 하 고 있으며, 연구 결과가](https://github.com/theyapapa/cryptonews/blob/ko/only-39-percent-of-chileans-are-aware-of-cryptocurrencies-study-shows-19c45379.md)
