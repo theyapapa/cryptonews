@@ -1,3 +1,4 @@
+* 2018-10-18 [Маршалы США поставили более 600 конфискованных биткоинов на аукционе](https://github.com/theyapapa/cryptonews/blob/ru/us-marshals-put-up-more-than-600-confiscated-bitcoins-at-auction-5d66b257.md)
 * 2018-10-18 [Только 39% чилийских знают о криптовалюты, учебные шоу](https://github.com/theyapapa/cryptonews/blob/ru/only-39-percent-of-chileans-are-aware-of-cryptocurrencies-study-shows-19c45379.md)
 * 2018-10-18 [130 кофе-магазины в Европе начали принимать и продавать крипто](https://github.com/theyapapa/cryptonews/blob/ru/130-coffee-shops-in-europe-started-to-accept-and-sell-crypto-2706a670.md)
 * 2018-10-17 [Отчет о мировых платежах 2018: ДЗО не соответствует требованиям финансового рынка](https://github.com/theyapapa/cryptonews/blob/ru/world-payments-report-2018-dlt-falls-short-of-meeting-financial-market-demands-b3c59fda.md)
