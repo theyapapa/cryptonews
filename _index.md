@@ -1,3 +1,4 @@
+* 2018-10-18 [Глава российского центрального банка: «лихорадка Криптовалют» стала уменьшаться](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-fever-has-begun-to-diminish-russian-central-bank-head-says-bc905dab.md)
 * 2018-10-18 [Глобальная безопасность фирмы G4S объявляет высокой безопасности "хранилище Vault" для холдинга Crypto](https://github.com/theyapapa/cryptonews/blob/ru/global-security-firm-g4s-announces-high-security-vault-storage-for-holding-crypto-f3807e15.md)
 * 2018-10-18 [NatWest Bank запускает платформу синдицированного кредитования на основе Блокчейн-кабеля R3](https://github.com/theyapapa/cryptonews/blob/ru/natwest-bank-launches-r3-corda-blockchain-based-syndicated-lending-platform-d671d9de.md)
 * 2018-10-18 [Маршалы США поставили более 600 конфискованных биткоинов на аукционе](https://github.com/theyapapa/cryptonews/blob/ru/us-marshals-put-up-more-than-600-confiscated-bitcoins-at-auction-5d66b257.md)
