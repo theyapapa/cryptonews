@@ -1,3 +1,4 @@
+* 2018-10-18 [США SEC запускает «стратегический хаб» для решения вопросов ДЗО и цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-launches-strategic-hub-to-address-dlt-and-digital-assets-issues-e354fda9.md)
 * 2018-10-18 [Являются MasterCard и VISA выРезания нерегулируемых крипто брокеров и ИКОС?](https://github.com/theyapapa/cryptonews/blob/ru/are-mastercard-and-visa-cutting-out-unregulated-crypto-brokers-and-icos-3d577fb4.md)
 * 2018-10-18 [Глава российского центрального банка: «лихорадка Криптовалют» стала уменьшаться](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-fever-has-begun-to-diminish-russian-central-bank-head-says-bc905dab.md)
 * 2018-10-18 [Глобальная безопасность фирмы G4S объявляет высокой безопасности "хранилище Vault" для холдинга Crypto](https://github.com/theyapapa/cryptonews/blob/ru/global-security-firm-g4s-announces-high-security-vault-storage-for-holding-crypto-f3807e15.md)
