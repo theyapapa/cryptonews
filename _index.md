@@ -1,3 +1,4 @@
+* 2018-10-18 [Los Marshals estadounidenses pusieron más de 600 confiscados bitcoins en subasta](https://github.com/theyapapa/cryptonews/blob/es/us-marshals-put-up-more-than-600-confiscated-bitcoins-at-auction-5d66b257.md)
 * 2018-10-18 [Sólo 39 por ciento de los chilenos son conscientes de Cryptocurrencies, estudio muestra](https://github.com/theyapapa/cryptonews/blob/es/only-39-percent-of-chileans-are-aware-of-cryptocurrencies-study-shows-19c45379.md)
 * 2018-10-18 [130 coffee shops en Europa comenzó a aceptar y vender criptografía](https://github.com/theyapapa/cryptonews/blob/es/130-coffee-shops-in-europe-started-to-accept-and-sell-crypto-2706a670.md)
 * 2018-10-17 [World Payments Report 2018: DLT no cumple con las demandas del mercado financiero](https://github.com/theyapapa/cryptonews/blob/es/world-payments-report-2018-dlt-falls-short-of-meeting-financial-market-demands-b3c59fda.md)
