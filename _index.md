@@ -1,3 +1,4 @@
+* 2018-10-18 [마스터 카드와 비자는 규제 되지 않는 암호화 브로커와 ico를 절단 하 고 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/are-mastercard-and-visa-cutting-out-unregulated-crypto-brokers-and-icos-3d577fb4.md)
 * 2018-10-18 [' 암호 화폐 열 ' 감소 하기 시작 했다, 러시아 중앙 은행 머리는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-fever-has-begun-to-diminish-russian-central-bank-head-says-bc905dab.md)
 * 2018-10-18 [글로벌 보안 회사 G4S는 암호화를 유지 하기 위한 높은 보안 ' Vault 스토리지 ' 발표](https://github.com/theyapapa/cryptonews/blob/ko/global-security-firm-g4s-announces-high-security-vault-storage-for-holding-crypto-f3807e15.md)
 * 2018-10-18 [natwest 은행, R3 corda 블록 체인 기반 신디케이트 대출 플랫폼 런칭](https://github.com/theyapapa/cryptonews/blob/ko/natwest-bank-launches-r3-corda-blockchain-based-syndicated-lending-platform-d671d9de.md)
