@@ -1,3 +1,4 @@
+* 2018-10-18 ["Fiebre Cryptocurrency" ha empezado a disminuir, dice el jefe del banco central ruso](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-fever-has-begun-to-diminish-russian-central-bank-head-says-bc905dab.md)
 * 2018-10-18 [La firma de seguridad global G4S anuncia la "bóveda de almacenamiento" de alta seguridad para la tenencia de CRYPTO](https://github.com/theyapapa/cryptonews/blob/es/global-security-firm-g4s-announces-high-security-vault-storage-for-holding-crypto-f3807e15.md)
 * 2018-10-18 [NatWest Bank lanza una plataforma de préstamo sindicada basada en bloques de R3 corde](https://github.com/theyapapa/cryptonews/blob/es/natwest-bank-launches-r3-corda-blockchain-based-syndicated-lending-platform-d671d9de.md)
 * 2018-10-18 [Los Marshals estadounidenses pusieron más de 600 confiscados bitcoins en subasta](https://github.com/theyapapa/cryptonews/blob/es/us-marshals-put-up-more-than-600-confiscated-bitcoins-at-auction-5d66b257.md)
