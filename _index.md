@@ -1,3 +1,4 @@
+* 2018-10-18 [Bitcoin Hedge Fund y CEO abofeteado con $2,5 millones pena por el esquema Ponzi](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hedge-fund-and-ceo-slapped-with-25-million-penalty-for-ponzi-scheme-9dc2c3b1.md)
 * 2018-10-18 [Informe: industrias bloques y Crypto ver demanda creciente de talento](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-and-crypto-industries-see-growing-demand-for-talent-76912d45.md)
 * 2018-10-18 [US SEC lanza ' Hub estratégico ' para resolver problemas de DLT y de activos digitales](https://github.com/theyapapa/cryptonews/blob/es/us-sec-launches-strategic-hub-to-address-dlt-and-digital-assets-issues-e354fda9.md)
 * 2018-10-18 [¿MasterCard y VISA reCortan los corredores de criptografía no regulados y ICOs?](https://github.com/theyapapa/cryptonews/blob/es/are-mastercard-and-visa-cutting-out-unregulated-crypto-brokers-and-icos-3d577fb4.md)
