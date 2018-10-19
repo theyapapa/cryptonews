@@ -1,3 +1,4 @@
+* 2018-10-19 [3 번째로 큰 암호 교환 화 오비는 새로운 ' 안정화에 대 한 해결책 ' husd에 대 한 예금을 엽니다](https://github.com/theyapapa/cryptonews/blob/ko/third-largest-crypto-exchange-huobi-opens-deposits-for-new-stablecoin-solution-husd-a592c567.md)
 * 2018-10-19 [밧줄은 투명성에 좋은 일을 하지 않았다, ' 주장 투자자 마이크 노 볼 라](https://github.com/theyapapa/cryptonews/blob/ko/tether-didnt-do-a-great-job-on-transparency-claims-investor-mike-novogratz-63586b03.md)
 * 2018-10-19 [안정화의 중요 한 측면: 페 깅, 담보 화, Redeemability의 차이](https://github.com/theyapapa/cryptonews/blob/ko/important-aspects-of-stablecoins-the-difference-between-pegging-collateralization-and-redeemability-5443a921.md)
 * 2018-10-18 [폰 지 방식에 대 한 비트 코인 헤 지 펀드와 CEO는 $250만 패널티로 갈라 졌습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hedge-fund-and-ceo-slapped-with-25-million-penalty-for-ponzi-scheme-9dc2c3b1.md)
