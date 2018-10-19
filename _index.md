@@ -1,3 +1,4 @@
+* 2018-10-18 [폰 지 방식에 대 한 비트 코인 헤 지 펀드와 CEO는 $250만 패널티로 갈라 졌습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hedge-fund-and-ceo-slapped-with-25-million-penalty-for-ponzi-scheme-9dc2c3b1.md)
 * 2018-10-18 [보고서: 블록 체인 및 가상 화폐 산업 인재 수요 증가](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-and-crypto-industries-see-growing-demand-for-talent-76912d45.md)
 * 2018-10-18 [미국 SEC, DLT 및 디지털 자산 문제를 해결 하기 위한 ' 전략적 허브 ' 출시](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-launches-strategic-hub-to-address-dlt-and-digital-assets-issues-e354fda9.md)
 * 2018-10-18 [마스터 카드와 비자는 규제 되지 않는 암호화 브로커와 ico를 절단 하 고 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/are-mastercard-and-visa-cutting-out-unregulated-crypto-brokers-and-icos-3d577fb4.md)
