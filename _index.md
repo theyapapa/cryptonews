@@ -1,3 +1,4 @@
+* 2018-10-19 [Трос "не делать большую работу по прозрачности", претензии инвестор Майк Novogratz](https://github.com/theyapapa/cryptonews/blob/ru/tether-didnt-do-a-great-job-on-transparency-claims-investor-mike-novogratz-63586b03.md)
 * 2018-10-19 [Важные аспекты Стаблекоинс: разница между привязка, обеспечение и выкупа](https://github.com/theyapapa/cryptonews/blob/ru/important-aspects-of-stablecoins-the-difference-between-pegging-collateralization-and-redeemability-5443a921.md)
 * 2018-10-18 [Bitcoin хедж-фонд и Генеральный директор ударил с $2 500 000 казни для финансовой пирамиды](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hedge-fund-and-ceo-slapped-with-25-million-penalty-for-ponzi-scheme-9dc2c3b1.md)
 * 2018-10-18 [Отчет: Блокчейн и Crypto Industries видят растущий спрос на таланты](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-and-crypto-industries-see-growing-demand-for-talent-76912d45.md)
