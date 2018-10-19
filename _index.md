@@ -1,3 +1,4 @@
+* 2018-10-18 [Отчет: Блокчейн и Crypto Industries видят растущий спрос на таланты](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-and-crypto-industries-see-growing-demand-for-talent-76912d45.md)
 * 2018-10-18 [США SEC запускает «стратегический хаб» для решения вопросов ДЗО и цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-launches-strategic-hub-to-address-dlt-and-digital-assets-issues-e354fda9.md)
 * 2018-10-18 [Являются MasterCard и VISA выРезания нерегулируемых крипто брокеров и ИКОС?](https://github.com/theyapapa/cryptonews/blob/ru/are-mastercard-and-visa-cutting-out-unregulated-crypto-brokers-and-icos-3d577fb4.md)
 * 2018-10-18 [Глава российского центрального банка: «лихорадка Криптовалют» стала уменьшаться](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-fever-has-begun-to-diminish-russian-central-bank-head-says-bc905dab.md)
