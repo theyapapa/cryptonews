@@ -1,3 +1,4 @@
+* 2018-10-19 [' 적절 한 ' 베어 시장에서, 암호 합병 & Over 200%의 인수 서 지 2018](https://github.com/theyapapa/cryptonews/blob/ko/in-the-opportune-bear-market-crypto-merger-acquisitions-surge-over-200-in-2018-e8d31e42.md)
 * 2018-10-19 [3 번째로 큰 암호 교환 화 오비는 새로운 ' 안정화에 대 한 해결책 ' husd에 대 한 예금을 엽니다](https://github.com/theyapapa/cryptonews/blob/ko/third-largest-crypto-exchange-huobi-opens-deposits-for-new-stablecoin-solution-husd-a592c567.md)
 * 2018-10-19 [밧줄은 투명성에 좋은 일을 하지 않았다, ' 주장 투자자 마이크 노 볼 라](https://github.com/theyapapa/cryptonews/blob/ko/tether-didnt-do-a-great-job-on-transparency-claims-investor-mike-novogratz-63586b03.md)
 * 2018-10-19 [안정화의 중요 한 측면: 페 깅, 담보 화, Redeemability의 차이](https://github.com/theyapapa/cryptonews/blob/ko/important-aspects-of-stablecoins-the-difference-between-pegging-collateralization-and-redeemability-5443a921.md)
