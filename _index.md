@@ -1,3 +1,4 @@
+* 2018-10-19 [지브롤터 고 블, 블록 체인 관련 교육 과정 개발 자문 그룹 출시](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-govt-launches-advisory-group-to-develop-blockchain-related-educational-courses-7d39f174.md)
 * 2018-10-19 [재무 조치 태스크 포스는 가상 통화를 다루는 표준에 대 한 변화를 채택 ](https://github.com/theyapapa/cryptonews/blob/ko/financial-action-task-force-adopts-changes-to-standards-covering-virtual-currencies-7048cd3d.md)
 * 2018-10-19 [가상 화폐 시장 상대적으로 침착이 계속 되 면 사소한 손실을 볼, 비트 코인은 아래에 전표 $6500](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-minor-losses-as-relative-calm-continues-bitcoin-slips-below-6-500-28fe05a4.md)
 * 2018-10-19 [' 적절 한 ' 베어 시장에서, 암호 합병 & Over 200%의 인수 서 지 2018](https://github.com/theyapapa/cryptonews/blob/ko/in-the-opportune-bear-market-crypto-merger-acquisitions-surge-over-200-in-2018-e8d31e42.md)
