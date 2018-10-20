@@ -1,3 +1,4 @@
+* 2018-10-20 [보고서: 1 년 이상, ico의 운명은 ' 우리가 생각 한 것 보다 더 나쁘다 '](https://github.com/theyapapa/cryptonews/blob/ko/ernst-young-report-one-year-on-icos-fate-is-worse-than-we-thought-693a1ac1.md)
 * 2018-10-19 [지브롤터 고 블, 블록 체인 관련 교육 과정 개발 자문 그룹 출시](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-govt-launches-advisory-group-to-develop-blockchain-related-educational-courses-7d39f174.md)
 * 2018-10-19 [재무 조치 태스크 포스는 가상 통화를 다루는 표준에 대 한 변화를 채택 ](https://github.com/theyapapa/cryptonews/blob/ko/financial-action-task-force-adopts-changes-to-standards-covering-virtual-currencies-7048cd3d.md)
 * 2018-10-19 [가상 화폐 시장 상대적으로 침착이 계속 되 면 사소한 손실을 볼, 비트 코인은 아래에 전표 $6500](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-minor-losses-as-relative-calm-continues-bitcoin-slips-below-6-500-28fe05a4.md)
