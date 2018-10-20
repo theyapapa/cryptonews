@@ -1,3 +1,4 @@
+* 2018-10-20 [이 더 리 움 Devs은 1 월 2019까지 콘스탄티노플 하드 포크를 지연 하기 위해 합의에 도달](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-devs-reach-consensus-to-delay-constantinople-hard-fork-until-january-2019-e62d624c.md)
 * 2018-10-20 [보고서: 1 년 이상, ico의 운명은 ' 우리가 생각 한 것 보다 더 나쁘다 '](https://github.com/theyapapa/cryptonews/blob/ko/ernst-young-report-one-year-on-icos-fate-is-worse-than-we-thought-693a1ac1.md)
 * 2018-10-19 [지브롤터 고 블, 블록 체인 관련 교육 과정 개발 자문 그룹 출시](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-govt-launches-advisory-group-to-develop-blockchain-related-educational-courses-7d39f174.md)
 * 2018-10-19 [재무 조치 태스크 포스는 가상 통화를 다루는 표준에 대 한 변화를 채택 ](https://github.com/theyapapa/cryptonews/blob/ko/financial-action-task-force-adopts-changes-to-standards-covering-virtual-currencies-7048cd3d.md)
