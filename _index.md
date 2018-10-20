@@ -1,3 +1,4 @@
+* 2018-10-20 [bitfinex: "파산", 은행 파트너의 탈출, 및 피아트 예금의 정지의 소문](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-the-rumors-of-insolvency-banking-partners-escape-and-the-suspension-of-fiat-deposits-2c5375e6.md)
 * 2018-10-20 [이 더 리 움 Devs은 1 월 2019까지 콘스탄티노플 하드 포크를 지연 하기 위해 합의에 도달](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-devs-reach-consensus-to-delay-constantinople-hard-fork-until-january-2019-e62d624c.md)
 * 2018-10-20 [보고서: 1 년 이상, ico의 운명은 ' 우리가 생각 한 것 보다 더 나쁘다 '](https://github.com/theyapapa/cryptonews/blob/ko/ernst-young-report-one-year-on-icos-fate-is-worse-than-we-thought-693a1ac1.md)
 * 2018-10-19 [지브롤터 고 블, 블록 체인 관련 교육 과정 개발 자문 그룹 출시](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-govt-launches-advisory-group-to-develop-blockchain-related-educational-courses-7d39f174.md)
