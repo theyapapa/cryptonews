@@ -1,3 +1,4 @@
+* 2018-10-20 [Крипто рынки видят маленькое движение, Bitcoin продолжает торговать чуть ниже $6 500](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-little-movement-bitcoin-continues-to-trade-just-below-6-500-cd45bde4.md)
 * 2018-10-20 [Bitfinex: слухи о "несостоятельности", побег банковских партнеров ", и приостановление Fiat депозиты](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-the-rumors-of-insolvency-banking-partners-escape-and-the-suspension-of-fiat-deposits-2c5375e6.md)
 * 2018-10-20 [Эфириум разработчики достичь консенсуса по задержке Константинополь жесткий вилка до января 2019](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-devs-reach-consensus-to-delay-constantinople-hard-fork-until-january-2019-e62d624c.md)
 * 2018-10-20 [Эрнст энд Янг доклад: один год, ИКОС ' судьба "хуже, чем мы думали"](https://github.com/theyapapa/cryptonews/blob/ru/ernst-young-report-one-year-on-icos-fate-is-worse-than-we-thought-693a1ac1.md)
