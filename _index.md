@@ -1,3 +1,4 @@
+* 2018-10-21 [상위 5 개 암호 수행자 개요: 스텔라, 리플, 네오, 카르다노, EOS](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-stellar-ripple-neo-cardano-eos-bcb8e217.md)
 * 2018-10-21 [에 프 프라 타, 워싱턴은 새로운 암호 화폐 채굴 작전을 1 년 동안 금지 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ephrata-washington-imposes-year-long-ban-on-new-cryptocurrency-mining-operations-68f59457.md)
 * 2018-10-20 [암호 시장 작은 움직임 참조, 비트 코인은 바로 아래 무역을 계속 $6500](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-little-movement-bitcoin-continues-to-trade-just-below-6-500-cd45bde4.md)
 * 2018-10-20 [bitfinex: "파산", 은행 파트너의 탈출, 및 피아트 예금의 정지의 소문](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-the-rumors-of-insolvency-banking-partners-escape-and-the-suspension-of-fiat-deposits-2c5375e6.md)
