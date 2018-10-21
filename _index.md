@@ -1,3 +1,4 @@
+* 2018-10-21 [Топ 5 крипто исполнители Обзор: Звездный, пульсация, нео, и...](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-stellar-ripple-neo-cardano-eos-bcb8e217.md)
 * 2018-10-21 [Ephrata, Вашингтон накладывает годичный запрет на новые операции по добыче Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/ephrata-washington-imposes-year-long-ban-on-new-cryptocurrency-mining-operations-68f59457.md)
 * 2018-10-20 [Крипто рынки видят маленькое движение, Bitcoin продолжает торговать чуть ниже $6 500](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-little-movement-bitcoin-continues-to-trade-just-below-6-500-cd45bde4.md)
 * 2018-10-20 [Bitfinex: слухи о "несостоятельности", побег банковских партнеров ", и приостановление Fiat депозиты](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-the-rumors-of-insolvency-banking-partners-escape-and-the-suspension-of-fiat-deposits-2c5375e6.md)
