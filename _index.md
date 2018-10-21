@@ -1,3 +1,4 @@
+* 2018-10-21 [호 들러의 다이제스트: 큰 밧줄 ' 언 페 깅 ' 및 wozniak 블록 체인에 도착](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-the-great-tether-unpegging-and-wozniak-gets-into-blockchain-5cb2061f.md)
 * 2018-10-21 [암호화 시장, 다시 $6500 이상 비트 코인 거래를 참조 하십시오.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-slight-rebound-bitcoin-trades-above-6-500-again-3fba5cf2.md)
 * 2018-10-21 [상위 5 개 암호 수행자 개요: 스텔라, 리플, 네오, 카르다노, EOS](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-stellar-ripple-neo-cardano-eos-bcb8e217.md)
 * 2018-10-21 [에 프 프라 타, 워싱턴은 새로운 암호 화폐 채굴 작전을 1 년 동안 금지 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ephrata-washington-imposes-year-long-ban-on-new-cryptocurrency-mining-operations-68f59457.md)
