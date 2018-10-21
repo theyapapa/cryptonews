@@ -1,3 +1,4 @@
+* 2018-10-21 [Ходлер: большой трос ' unpegging ' и Возняк попадает в Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-the-great-tether-unpegging-and-wozniak-gets-into-blockchain-5cb2061f.md)
 * 2018-10-21 [Крипто рынки видят неЗначительные отскок, Bitcoin торгует выше $6 500 снова](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-slight-rebound-bitcoin-trades-above-6-500-again-3fba5cf2.md)
 * 2018-10-21 [Топ 5 крипто исполнители Обзор: Звездный, пульсация, нео, и...](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-stellar-ripple-neo-cardano-eos-bcb8e217.md)
 * 2018-10-21 [Ephrata, Вашингтон накладывает годичный запрет на новые операции по добыче Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/ephrata-washington-imposes-year-long-ban-on-new-cryptocurrency-mining-operations-68f59457.md)
