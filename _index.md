@@ -1,3 +1,4 @@
+* 2018-10-22 [영국 MP는 암호 교환에 대 한 조언을, ' 가파른 학습 곡선 '을 앞으로 말한다](https://github.com/theyapapa/cryptonews/blob/ko/uk-mp-to-advise-crypto-exchange-on-govt-relations-says-steep-learning-curve-ahead-b4dbdd70.md)
 * 2018-10-22 [러시아: 암호화 법안의 새로운 버전은 개인 보유 기업의 디지털화 ' 공유를 허용 합니다](https://github.com/theyapapa/cryptonews/blob/ko/russia-new-version-of-crypto-bill-will-let-privately-held-firms-digitize-shares-571c9eba.md)
 * 2018-10-22 [블록 체인 엔지니어를 위한 수요는 2017의 끝 이후 400%가 증가 했습니다, 보고서는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/demand-for-blockchain-engineers-has-grown-400-since-end-of-2017-report-says-8fa3607f.md)
 * 2018-10-22 [암호화를 위한 스마트 폰을 구입 하는 방법: 프로젝트 새로운 블록 체인 기반 시장을 출시](https://github.com/theyapapa/cryptonews/blob/ko/how-to-buy-smartphone-for-crypto-project-launches-new-blockchain-based-marketplace-a7669b84.md)
