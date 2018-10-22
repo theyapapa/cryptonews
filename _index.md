@@ -1,3 +1,4 @@
+* 2018-10-22 [Money 20/20: 블록 체인이 현재 결제 시스템을 대체할 것인지 여부에 대 한 논쟁](https://github.com/theyapapa/cryptonews/blob/ko/money-20-20-experts-debate-whether-blockchain-will-replace-current-payment-systems-0b0c108c.md)
 * 2018-10-22 [미국 SEC, 허위 암호 청구를 위해 네바다 주 회사의 증권 거래를 중단](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-suspends-securities-trading-of-nevada-based-firm-for-false-crypto-claims-0052f994.md)
 * 2018-10-22 [영국 MP는 암호 교환에 대 한 조언을, ' 가파른 학습 곡선 '을 앞으로 말한다](https://github.com/theyapapa/cryptonews/blob/ko/uk-mp-to-advise-crypto-exchange-on-govt-relations-says-steep-learning-curve-ahead-b4dbdd70.md)
 * 2018-10-22 [러시아: 암호화 법안의 새로운 버전은 개인 보유 기업의 디지털화 ' 공유를 허용 합니다](https://github.com/theyapapa/cryptonews/blob/ko/russia-new-version-of-crypto-bill-will-let-privately-held-firms-digitize-shares-571c9eba.md)
