@@ -1,3 +1,4 @@
+* 2018-10-22 [Online Bank Swissquote ingresa al mercado ICO con opción de compra y custodia para clientes](https://github.com/theyapapa/cryptonews/blob/es/online-bank-swissquote-enters-ico-market-with-purchase-and-custody-option-for-clients-195e1194.md)
 * 2018-10-21 [Hodler Digest: la gran atadura ' Unpegging ' y Wozniak se mete en bloques](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-the-great-tether-unpegging-and-wozniak-gets-into-blockchain-5cb2061f.md)
 * 2018-10-21 [Los mercados criptográficos ven un ligero rebote, Bitcoin comercia por encima de $6.500 otra vez](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-slight-rebound-bitcoin-trades-above-6-500-again-3fba5cf2.md)
 * 2018-10-21 [Top 5 de los ejecutantes Crypto Descripción: estelar, ondulación, NEO, carDano, EOS](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-stellar-ripple-neo-cardano-eos-bcb8e217.md)
