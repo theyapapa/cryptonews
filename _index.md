@@ -1,3 +1,4 @@
+* 2018-10-22 [Россия: Новая версия крипто Билла позволит частным компаниям ' оцифровка ' акций](https://github.com/theyapapa/cryptonews/blob/ru/russia-new-version-of-crypto-bill-will-let-privately-held-firms-digitize-shares-571c9eba.md)
 * 2018-10-22 [Спрос на Блокчейн-инженеров вырос на 400% с конца 2017, говорится в отчете](https://github.com/theyapapa/cryptonews/blob/ru/demand-for-blockchain-engineers-has-grown-400-since-end-of-2017-report-says-8fa3607f.md)
 * 2018-10-22 [Как купить смартфон для Crypto: проект запускает новый Блокчейн на основе Marketplace](https://github.com/theyapapa/cryptonews/blob/ru/how-to-buy-smartphone-for-crypto-project-launches-new-blockchain-based-marketplace-a7669b84.md)
 * 2018-10-22 [Интернет банк MIG Bank входит ICO рынка с покупкой и хранение вариант для клиентов](https://github.com/theyapapa/cryptonews/blob/ru/online-bank-swissquote-enters-ico-market-with-purchase-and-custody-option-for-clients-195e1194.md)
