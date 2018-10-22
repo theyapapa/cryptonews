@@ -1,3 +1,4 @@
+* 2018-10-22 [Cómo comprar Smartphone para Crypto: proyecto lanza nuevo mercado basado en bloques](https://github.com/theyapapa/cryptonews/blob/es/how-to-buy-smartphone-for-crypto-project-launches-new-blockchain-based-marketplace-a7669b84.md)
 * 2018-10-22 [Online Bank Swissquote ingresa al mercado ICO con opción de compra y custodia para clientes](https://github.com/theyapapa/cryptonews/blob/es/online-bank-swissquote-enters-ico-market-with-purchase-and-custody-option-for-clients-195e1194.md)
 * 2018-10-21 [Hodler Digest: la gran atadura ' Unpegging ' y Wozniak se mete en bloques](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-the-great-tether-unpegging-and-wozniak-gets-into-blockchain-5cb2061f.md)
 * 2018-10-21 [Los mercados criptográficos ven un ligero rebote, Bitcoin comercia por encima de $6.500 otra vez](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-slight-rebound-bitcoin-trades-above-6-500-again-3fba5cf2.md)
