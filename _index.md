@@ -1,3 +1,4 @@
+* 2018-10-22 [Как купить смартфон для Crypto: проект запускает новый Блокчейн на основе Marketplace](https://github.com/theyapapa/cryptonews/blob/ru/how-to-buy-smartphone-for-crypto-project-launches-new-blockchain-based-marketplace-a7669b84.md)
 * 2018-10-22 [Интернет банк MIG Bank входит ICO рынка с покупкой и хранение вариант для клиентов](https://github.com/theyapapa/cryptonews/blob/ru/online-bank-swissquote-enters-ico-market-with-purchase-and-custody-option-for-clients-195e1194.md)
 * 2018-10-21 [Ходлер: большой трос ' unpegging ' и Возняк попадает в Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-the-great-tether-unpegging-and-wozniak-gets-into-blockchain-5cb2061f.md)
 * 2018-10-21 [Крипто рынки видят неЗначительные отскок, Bitcoin торгует выше $6 500 снова](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-slight-rebound-bitcoin-trades-above-6-500-again-3fba5cf2.md)
