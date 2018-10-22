@@ -1,3 +1,4 @@
+* 2018-10-22 [암호화를 위한 스마트 폰을 구입 하는 방법: 프로젝트 새로운 블록 체인 기반 시장을 출시](https://github.com/theyapapa/cryptonews/blob/ko/how-to-buy-smartphone-for-crypto-project-launches-new-blockchain-based-marketplace-a7669b84.md)
 * 2018-10-22 [온라인 은행 수영 고객을 위한 구매 및 양육 권 옵션을 통해 ICO 시장에 진입 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/online-bank-swissquote-enters-ico-market-with-purchase-and-custody-option-for-clients-195e1194.md)
 * 2018-10-21 [호 들러의 다이제스트: 큰 밧줄 ' 언 페 깅 ' 및 wozniak 블록 체인에 도착](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-the-great-tether-unpegging-and-wozniak-gets-into-blockchain-5cb2061f.md)
 * 2018-10-21 [암호화 시장, 다시 $6500 이상 비트 코인 거래를 참조 하십시오.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-slight-rebound-bitcoin-trades-above-6-500-again-3fba5cf2.md)
