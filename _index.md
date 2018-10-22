@@ -1,3 +1,4 @@
+* 2018-10-22 [Британский депутат поСоветует крипто-обмен по Gov't отношениям, говорит «крутой кривой обучения» впереди](https://github.com/theyapapa/cryptonews/blob/ru/uk-mp-to-advise-crypto-exchange-on-govt-relations-says-steep-learning-curve-ahead-b4dbdd70.md)
 * 2018-10-22 [Россия: Новая версия крипто Билла позволит частным компаниям ' оцифровка ' акций](https://github.com/theyapapa/cryptonews/blob/ru/russia-new-version-of-crypto-bill-will-let-privately-held-firms-digitize-shares-571c9eba.md)
 * 2018-10-22 [Спрос на Блокчейн-инженеров вырос на 400% с конца 2017, говорится в отчете](https://github.com/theyapapa/cryptonews/blob/ru/demand-for-blockchain-engineers-has-grown-400-since-end-of-2017-report-says-8fa3607f.md)
 * 2018-10-22 [Как купить смартфон для Crypto: проект запускает новый Блокчейн на основе Marketplace](https://github.com/theyapapa/cryptonews/blob/ru/how-to-buy-smartphone-for-crypto-project-launches-new-blockchain-based-marketplace-a7669b84.md)
