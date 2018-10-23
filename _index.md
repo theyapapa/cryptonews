@@ -1,3 +1,4 @@
+* 2018-10-22 [홍콩 정부 지주 기업 자회사, 빈스 오브 싱가포르 확장에 투자](https://github.com/theyapapa/cryptonews/blob/ko/govt-owned-holding-company-subsidiary-invests-in-binances-singapore-expansion-4391f5da.md)
 * 2018-10-22 [오버 스톡의 메디치 벤처 기업이 분산형 소셜 네트워크에 투자](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-medici-ventures-invests-in-decentralized-social-network-53427fce.md)
 * 2018-10-22 [Money 20/20: 블록 체인이 현재 결제 시스템을 대체할 것인지 여부에 대 한 논쟁](https://github.com/theyapapa/cryptonews/blob/ko/money-20-20-experts-debate-whether-blockchain-will-replace-current-payment-systems-0b0c108c.md)
 * 2018-10-22 [미국 SEC, 허위 암호 청구를 위해 네바다 주 회사의 증권 거래를 중단](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-suspends-securities-trading-of-nevada-based-firm-for-false-crypto-claims-0052f994.md)
