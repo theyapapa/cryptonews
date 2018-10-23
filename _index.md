@@ -1,3 +1,4 @@
+* 2018-10-23 [Уровень вверх! 500 игры принять Альткоин в качестве оплаты в первый раз](https://github.com/theyapapa/cryptonews/blob/ru/level-up-500-games-to-accept-altcoin-as-payment-for-the-first-time-5d7d6a24.md)
 * 2018-10-23 [Национальный банк Канады пилотов Блокчейн для борьбы с "комплекс" процессов](https://github.com/theyapapa/cryptonews/blob/ru/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes-81e5bdbb.md)
 * 2018-10-22 [Gov't Холдинговая компания доЧернее предприятие инвестирует в Binance Сингапур расширение](https://github.com/theyapapa/cryptonews/blob/ru/govt-owned-holding-company-subsidiary-invests-in-binances-singapore-expansion-4391f5da.md)
 * 2018-10-22 [Венчурные компании Медичи инвестируют в децентрализованную социальную сеть](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-medici-ventures-invests-in-decentralized-social-network-53427fce.md)
