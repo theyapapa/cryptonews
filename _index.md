@@ -1,3 +1,4 @@
+* 2018-10-22 [Gov't Холдинговая компания доЧернее предприятие инвестирует в Binance Сингапур расширение](https://github.com/theyapapa/cryptonews/blob/ru/govt-owned-holding-company-subsidiary-invests-in-binances-singapore-expansion-4391f5da.md)
 * 2018-10-22 [Венчурные компании Медичи инвестируют в децентрализованную социальную сеть](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-medici-ventures-invests-in-decentralized-social-network-53427fce.md)
 * 2018-10-22 [Money 20/20: эксперты обсуждают, заменит ли Блокчейн текущие платежные системы](https://github.com/theyapapa/cryptonews/blob/ru/money-20-20-experts-debate-whether-blockchain-will-replace-current-payment-systems-0b0c108c.md)
 * 2018-10-22 [США SEC приОстанавливает торговлю ценными бумагами на основе Невада фирмы для ложных криптографических претензий](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-suspends-securities-trading-of-nevada-based-firm-for-false-crypto-claims-0052f994.md)
