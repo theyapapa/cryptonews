@@ -1,3 +1,4 @@
+* 2018-10-23 [Швейцарская финансовая Ассоциация публикует стандарты по борьбе с отМыванием денег для цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/swiss-financial-association-publishes-anti-money-laundering-standards-for-digital-assets-dae74408.md)
 * 2018-10-23 [Электроника гигант HTC объявляет предпродажной его Блокчейн смартфон исход в BTC, ETH](https://github.com/theyapapa/cryptonews/blob/ru/electronics-giant-htc-announces-presale-of-its-blockchain-smartphone-exodus-in-btc-eth-9875bef8.md)
 * 2018-10-23 [Уровень вверх! 500 игры принять Альткоин в качестве оплаты в первый раз](https://github.com/theyapapa/cryptonews/blob/ru/level-up-500-games-to-accept-altcoin-as-payment-for-the-first-time-5d7d6a24.md)
 * 2018-10-23 [Национальный банк Канады пилотов Блокчейн для борьбы с "комплекс" процессов](https://github.com/theyapapa/cryptonews/blob/ru/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes-81e5bdbb.md)
