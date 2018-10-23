@@ -1,3 +1,4 @@
+* 2018-10-23 [¡ Sube de nivel! 500 juegos para aceptar Altcoin como pago por primera vez](https://github.com/theyapapa/cryptonews/blob/es/level-up-500-games-to-accept-altcoin-as-payment-for-the-first-time-5d7d6a24.md)
 * 2018-10-23 [Los pilotos del Banco Nacional de Canadá bloques para combatir procesos "complejos"](https://github.com/theyapapa/cryptonews/blob/es/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes-81e5bdbb.md)
 * 2018-10-22 [La filial de propiedad de Gov't inVierte en la expansión de Singapur de binance](https://github.com/theyapapa/cryptonews/blob/es/govt-owned-holding-company-subsidiary-invests-in-binances-singapore-expansion-4391f5da.md)
 * 2018-10-22 [Las empresas Medici de SUPERSTOCK inVierten en redes sociales descentralizadas](https://github.com/theyapapa/cryptonews/blob/es/overstocks-medici-ventures-invests-in-decentralized-social-network-53427fce.md)
