@@ -1,3 +1,4 @@
+* 2018-10-23 [SEC는 solidx, vaneck BTC ETF 제안서에 대 한 각 서를 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-publishes-memorandum-from-meeting-on-solidx-vaneck-btc-etf-proposal-1520ad5b.md)
 * 2018-10-23 [국제 경제에 대 한 서클 CEO의 요구로 암호화 규제 조율](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-calls-on-global-economies-to-coordinate-on-crypto-regulation-83f7afe5.md)
 * 2018-10-23 [스위스 금융 협회, 디지털 자산의 자금 세탁 방지 기준 게시](https://github.com/theyapapa/cryptonews/blob/ko/swiss-financial-association-publishes-anti-money-laundering-standards-for-digital-assets-dae74408.md)
 * 2018-10-23 [전자 거 대 한 HTC는 자사의 블록 체인 스마트 폰의 사전 판매를 발표 BTC, ETH에서](https://github.com/theyapapa/cryptonews/blob/ko/electronics-giant-htc-announces-presale-of-its-blockchain-smartphone-exodus-in-btc-eth-9875bef8.md)
