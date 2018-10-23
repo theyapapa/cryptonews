@@ -1,3 +1,4 @@
+* 2018-10-23 [레벨 업! 처음으로 알트 코인을 지불 하는 500 게임](https://github.com/theyapapa/cryptonews/blob/ko/level-up-500-games-to-accept-altcoin-as-payment-for-the-first-time-5d7d6a24.md)
 * 2018-10-23 [캐나다 국립 은행 파일럿 블록 체인 ' 복잡 한 ' 프로세스에 대처 하기](https://github.com/theyapapa/cryptonews/blob/ko/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes-81e5bdbb.md)
 * 2018-10-22 [홍콩 정부 지주 기업 자회사, 빈스 오브 싱가포르 확장에 투자](https://github.com/theyapapa/cryptonews/blob/ko/govt-owned-holding-company-subsidiary-invests-in-binances-singapore-expansion-4391f5da.md)
 * 2018-10-22 [오버 스톡의 메디치 벤처 기업이 분산형 소셜 네트워크에 투자](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-medici-ventures-invests-in-decentralized-social-network-53427fce.md)
