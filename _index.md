@@ -1,3 +1,4 @@
+* 2018-10-23 [스위스 금융 협회, 디지털 자산의 자금 세탁 방지 기준 게시](https://github.com/theyapapa/cryptonews/blob/ko/swiss-financial-association-publishes-anti-money-laundering-standards-for-digital-assets-dae74408.md)
 * 2018-10-23 [전자 거 대 한 HTC는 자사의 블록 체인 스마트 폰의 사전 판매를 발표 BTC, ETH에서](https://github.com/theyapapa/cryptonews/blob/ko/electronics-giant-htc-announces-presale-of-its-blockchain-smartphone-exodus-in-btc-eth-9875bef8.md)
 * 2018-10-23 [레벨 업! 처음으로 알트 코인을 지불 하는 500 게임](https://github.com/theyapapa/cryptonews/blob/ko/level-up-500-games-to-accept-altcoin-as-payment-for-the-first-time-5d7d6a24.md)
 * 2018-10-23 [캐나다 국립 은행 파일럿 블록 체인 ' 복잡 한 ' 프로세스에 대처 하기](https://github.com/theyapapa/cryptonews/blob/ko/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes-81e5bdbb.md)
