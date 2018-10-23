@@ -1,3 +1,4 @@
+* 2018-10-23 [SEC publica memorándum de reunión en SolidX, VanEck BTC propuesta de ETF](https://github.com/theyapapa/cryptonews/blob/es/sec-publishes-memorandum-from-meeting-on-solidx-vaneck-btc-etf-proposal-1520ad5b.md)
 * 2018-10-23 [Circle CEO insta a las economías globales a coordinar la reglamentación criptográfica](https://github.com/theyapapa/cryptonews/blob/es/circle-ceo-calls-on-global-economies-to-coordinate-on-crypto-regulation-83f7afe5.md)
 * 2018-10-23 [La Asociación financiera Suiza publica normas contra el blanqueo de dinero para los activos digitales](https://github.com/theyapapa/cryptonews/blob/es/swiss-financial-association-publishes-anti-money-laundering-standards-for-digital-assets-dae74408.md)
 * 2018-10-23 [Electrónica gigante HTC anuncia la preventa de su bloques smartphone éxodo en BTC, ETH](https://github.com/theyapapa/cryptonews/blob/es/electronics-giant-htc-announces-presale-of-its-blockchain-smartphone-exodus-in-btc-eth-9875bef8.md)
