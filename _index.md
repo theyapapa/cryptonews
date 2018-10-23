@@ -1,3 +1,4 @@
+* 2018-10-23 [Финансовая гигантская ВОО группа по разработке бумажника после нового партнерства](https://github.com/theyapapa/cryptonews/blob/ru/financial-giant-sbi-group-to-develop-wallet-following-new-partnership-35c336fb.md)
 * 2018-10-23 [SEC публикует меморандум от совещания по Солидкс, Ванек BTC ETF предложение](https://github.com/theyapapa/cryptonews/blob/ru/sec-publishes-memorandum-from-meeting-on-solidx-vaneck-btc-etf-proposal-1520ad5b.md)
 * 2018-10-23 [Круг Генеральный директор приЗывает глобальные экономики к координации по крипто регулирования](https://github.com/theyapapa/cryptonews/blob/ru/circle-ceo-calls-on-global-economies-to-coordinate-on-crypto-regulation-83f7afe5.md)
 * 2018-10-23 [Швейцарская финансовая Ассоциация публикует стандарты по борьбе с отМыванием денег для цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/swiss-financial-association-publishes-anti-money-laundering-standards-for-digital-assets-dae74408.md)
