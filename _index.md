@@ -1,3 +1,4 @@
+* 2018-10-23 [Национальный банк Канады пилотов Блокчейн для борьбы с "комплекс" процессов](https://github.com/theyapapa/cryptonews/blob/ru/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes-81e5bdbb.md)
 * 2018-10-22 [Gov't Холдинговая компания доЧернее предприятие инвестирует в Binance Сингапур расширение](https://github.com/theyapapa/cryptonews/blob/ru/govt-owned-holding-company-subsidiary-invests-in-binances-singapore-expansion-4391f5da.md)
 * 2018-10-22 [Венчурные компании Медичи инвестируют в децентрализованную социальную сеть](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-medici-ventures-invests-in-decentralized-social-network-53427fce.md)
 * 2018-10-22 [Money 20/20: эксперты обсуждают, заменит ли Блокчейн текущие платежные системы](https://github.com/theyapapa/cryptonews/blob/ru/money-20-20-experts-debate-whether-blockchain-will-replace-current-payment-systems-0b0c108c.md)
