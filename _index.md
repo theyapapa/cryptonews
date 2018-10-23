@@ -1,3 +1,4 @@
+* 2018-10-23 [Los pilotos del Banco Nacional de Canadá bloques para combatir procesos "complejos"](https://github.com/theyapapa/cryptonews/blob/es/national-bank-of-canada-pilots-blockchain-to-combat-complex-processes-81e5bdbb.md)
 * 2018-10-22 [La filial de propiedad de Gov't inVierte en la expansión de Singapur de binance](https://github.com/theyapapa/cryptonews/blob/es/govt-owned-holding-company-subsidiary-invests-in-binances-singapore-expansion-4391f5da.md)
 * 2018-10-22 [Las empresas Medici de SUPERSTOCK inVierten en redes sociales descentralizadas](https://github.com/theyapapa/cryptonews/blob/es/overstocks-medici-ventures-invests-in-decentralized-social-network-53427fce.md)
 * 2018-10-22 [Money 20/20: los expertos discuten si bloques reemplazará los sistemas de pago actuales](https://github.com/theyapapa/cryptonews/blob/es/money-20-20-experts-debate-whether-blockchain-will-replace-current-payment-systems-0b0c108c.md)
