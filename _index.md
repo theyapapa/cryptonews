@@ -1,3 +1,4 @@
+* 2018-10-23 [Coinbase y el círculo de lanzamiento USDC Stablecoin con supuesto respaldo completo en dólares estadounidenses](https://github.com/theyapapa/cryptonews/blob/es/coinbase-and-circle-launch-usdc-stablecoin-with-purported-full-backing-in-us-dollars-644b2504.md)
 * 2018-10-23 [Juez de Nueva York despide caso contra nano desarrolladores](https://github.com/theyapapa/cryptonews/blob/es/new-york-judge-dismisses-case-against-nano-developers-5c9af65e.md)
 * 2018-10-23 [Gigante financiero del grupo SBI para desarrollar cartera tras nueva asociación](https://github.com/theyapapa/cryptonews/blob/es/financial-giant-sbi-group-to-develop-wallet-following-new-partnership-35c336fb.md)
 * 2018-10-23 [SEC publica memorándum de reunión en SolidX, VanEck BTC propuesta de ETF](https://github.com/theyapapa/cryptonews/blob/es/sec-publishes-memorandum-from-meeting-on-solidx-vaneck-btc-etf-proposal-1520ad5b.md)
