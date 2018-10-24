@@ -1,3 +1,4 @@
+* 2018-10-24 [Южно-Корейский финансовый регулятор говорит крипто фонды нарушают закон о рынках капитала](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-financial-regulator-says-crypto-funds-violate-capital-markets-act-22d3063d.md)
 * 2018-10-24 [Crypto Exchange Bitfinex отрицает якобы «фальшивые» тросовые тома, перечисленные на CoinMarketCap](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bitfinex-denies-allegedly-fake-tether-volumes-listed-on-coinmarketcap-a4cff634.md)
 * 2018-10-24 [Джонни Депп, чтобы произвести фильм в крипто-Powered распределение контента платформы Татату](https://github.com/theyapapa/cryptonews/blob/ru/johnny-depp-to-produce-film-within-crypto-powered-content-distribution-platform-tatatu-80c4e31b.md)
 * 2018-10-24 [Тайвань будет выпускать проект правил ICO к июню 2019, говорит регулятор](https://github.com/theyapapa/cryptonews/blob/ru/taiwan-will-issue-draft-ico-rules-by-june-2019-regulator-says-89fac817.md)
