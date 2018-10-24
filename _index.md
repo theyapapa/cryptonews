@@ -1,3 +1,4 @@
+* 2018-10-24 [동선의 절반 이상을 밧줄을 구속 및 ' 화상 '.](https://github.com/theyapapa/cryptonews/blob/ko/tether-redeems-and-burns-more-than-half-of-usdt-in-circulation-a7bd3eda.md)
 * 2018-10-24 [한국 금융 레 귤 레이 터는 자본 시장 법을 위반 하는 암호화 자금을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-financial-regulator-says-crypto-funds-violate-capital-markets-act-22d3063d.md)
 * 2018-10-24 [암호 교환 bitfinex 주장 하는 ' 가짜 ' 밧줄 볼륨에 나열 하는 것을 거부 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitfinex-denies-allegedly-fake-tether-volumes-listed-on-coinmarketcap-a4cff634.md)
 * 2018-10-24 [암호화 기반 콘텐츠 배포 플랫폼 내에서 영화를 생산 하는 조니 뎁 (TaTaTu)](https://github.com/theyapapa/cryptonews/blob/ko/johnny-depp-to-produce-film-within-crypto-powered-content-distribution-platform-tatatu-80c4e31b.md)
