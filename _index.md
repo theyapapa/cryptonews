@@ -1,3 +1,4 @@
+* 2018-10-23 [El periódico chino más grande para lanzar el laboratorio de bloques después de nuevo reparto con la compañía de tecnología](https://github.com/theyapapa/cryptonews/blob/es/largest-chinese-newspaper-to-launch-blockchain-lab-after-new-deal-with-tech-company-b5431da9.md)
 * 2018-10-23 [Coinbase y el círculo de lanzamiento USDC Stablecoin con supuesto respaldo completo en dólares estadounidenses](https://github.com/theyapapa/cryptonews/blob/es/coinbase-and-circle-launch-usdc-stablecoin-with-purported-full-backing-in-us-dollars-644b2504.md)
 * 2018-10-23 [Juez de Nueva York despide caso contra nano desarrolladores](https://github.com/theyapapa/cryptonews/blob/es/new-york-judge-dismisses-case-against-nano-developers-5c9af65e.md)
 * 2018-10-23 [Gigante financiero del grupo SBI para desarrollar cartera tras nueva asociación](https://github.com/theyapapa/cryptonews/blob/es/financial-giant-sbi-group-to-develop-wallet-following-new-partnership-35c336fb.md)
