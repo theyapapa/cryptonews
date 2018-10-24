@@ -1,3 +1,4 @@
+* 2018-10-23 [코인 베이스 및 서클 런칭 usdc 스타 시만의 미국 달러 전체 지원](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-and-circle-launch-usdc-stablecoin-with-purported-full-backing-in-us-dollars-644b2504.md)
 * 2018-10-23 [뉴욕 판사의 나노 개발자에 대 한 사례 해제](https://github.com/theyapapa/cryptonews/blob/ko/new-york-judge-dismisses-case-against-nano-developers-5c9af65e.md)
 * 2018-10-23 [금융 거 인 sbi 그룹은 새로운 파트너십을 다음 지갑 개발](https://github.com/theyapapa/cryptonews/blob/ko/financial-giant-sbi-group-to-develop-wallet-following-new-partnership-35c336fb.md)
 * 2018-10-23 [SEC는 solidx, vaneck BTC ETF 제안서에 대 한 각 서를 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-publishes-memorandum-from-meeting-on-solidx-vaneck-btc-etf-proposal-1520ad5b.md)
