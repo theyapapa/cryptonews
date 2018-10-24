@@ -1,3 +1,4 @@
+* 2018-10-24 [HSBC Exec на Монэй20/20: Блокчейн, Кбдкс ставят ' большой вызов ' на межБанковское урегулирование](https://github.com/theyapapa/cryptonews/blob/ru/hsbc-exec-at-money20-20-blockchain-cbdcs-pose-great-challenge-to-interbank-settlement-645ede0e.md)
 * 2018-10-23 [Крупнейшая Китайская газета для запуска Блокчейн-лаборатории после новой сделки с Tech Company](https://github.com/theyapapa/cryptonews/blob/ru/largest-chinese-newspaper-to-launch-blockchain-lab-after-new-deal-with-tech-company-b5431da9.md)
 * 2018-10-23 [Coinbase и круг запуск USDC Stablecoin с предполагаемой полной бэк в долларах США](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-and-circle-launch-usdc-stablecoin-with-purported-full-backing-in-us-dollars-644b2504.md)
 * 2018-10-23 [Судья Нью-Йорка отклонил дело против нано разработчиков](https://github.com/theyapapa/cryptonews/blob/ru/new-york-judge-dismisses-case-against-nano-developers-5c9af65e.md)
