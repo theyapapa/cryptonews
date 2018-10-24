@@ -1,3 +1,4 @@
+* 2018-10-24 [암호화 기반 콘텐츠 배포 플랫폼 내에서 영화를 생산 하는 조니 뎁 (TaTaTu)](https://github.com/theyapapa/cryptonews/blob/ko/johnny-depp-to-produce-film-within-crypto-powered-content-distribution-platform-tatatu-80c4e31b.md)
 * 2018-10-24 [대만 6 월 2019에 의해 초안 ICO 규칙을 발행 합니다, 레 귤 레이 터 말한다](https://github.com/theyapapa/cryptonews/blob/ko/taiwan-will-issue-draft-ico-rules-by-june-2019-regulator-says-89fac817.md)
 * 2018-10-24 [Money20에서 HSBC의 간부/20: 블록 체인, cbdcs는 인터 뱅크 결제에 ' 큰 도전 ' 포즈](https://github.com/theyapapa/cryptonews/blob/ko/hsbc-exec-at-money20-20-blockchain-cbdcs-pose-great-challenge-to-interbank-settlement-645ede0e.md)
 * 2018-10-23 [기술 회사와 새로운 거래 후 블록 체인 랩을 시작 하는 가장 큰 중국 신문](https://github.com/theyapapa/cryptonews/blob/ko/largest-chinese-newspaper-to-launch-blockchain-lab-after-new-deal-with-tech-company-b5431da9.md)
