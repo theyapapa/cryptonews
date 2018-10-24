@@ -1,3 +1,4 @@
+* 2018-10-24 [Air Canada интегрирует платформу распределения путешествий на основе Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
 * 2018-10-24 [Том ли, спикер на предСтоящем Блоккшов Азии: "Bitcoin готовится к прорыву"](https://github.com/theyapapa/cryptonews/blob/ru/tom-lee-speaker-at-the-upcoming-blockshow-asia-bitcoin-is-preparing-to-breakout-7a852dbc.md)
 * 2018-10-24 [Трос погашения и "Бернс" более половины USDT в обращении](https://github.com/theyapapa/cryptonews/blob/ru/tether-redeems-and-burns-more-than-half-of-usdt-in-circulation-a7bd3eda.md)
 * 2018-10-24 [Южно-Корейский финансовый регулятор говорит крипто фонды нарушают закон о рынках капитала](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-financial-regulator-says-crypto-funds-violate-capital-markets-act-22d3063d.md)
