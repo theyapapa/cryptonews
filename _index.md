@@ -1,3 +1,4 @@
+* 2018-10-24 [대만 6 월 2019에 의해 초안 ICO 규칙을 발행 합니다, 레 귤 레이 터 말한다](https://github.com/theyapapa/cryptonews/blob/ko/taiwan-will-issue-draft-ico-rules-by-june-2019-regulator-says-89fac817.md)
 * 2018-10-24 [Money20에서 HSBC의 간부/20: 블록 체인, cbdcs는 인터 뱅크 결제에 ' 큰 도전 ' 포즈](https://github.com/theyapapa/cryptonews/blob/ko/hsbc-exec-at-money20-20-blockchain-cbdcs-pose-great-challenge-to-interbank-settlement-645ede0e.md)
 * 2018-10-23 [기술 회사와 새로운 거래 후 블록 체인 랩을 시작 하는 가장 큰 중국 신문](https://github.com/theyapapa/cryptonews/blob/ko/largest-chinese-newspaper-to-launch-blockchain-lab-after-new-deal-with-tech-company-b5431da9.md)
 * 2018-10-23 [코인 베이스 및 서클 런칭 usdc 스타 시만의 미국 달러 전체 지원](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-and-circle-launch-usdc-stablecoin-with-purported-full-backing-in-us-dollars-644b2504.md)
