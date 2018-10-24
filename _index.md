@@ -1,3 +1,4 @@
+* 2018-10-24 [암호 교환 bitfinex 주장 하는 ' 가짜 ' 밧줄 볼륨에 나열 하는 것을 거부 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitfinex-denies-allegedly-fake-tether-volumes-listed-on-coinmarketcap-a4cff634.md)
 * 2018-10-24 [암호화 기반 콘텐츠 배포 플랫폼 내에서 영화를 생산 하는 조니 뎁 (TaTaTu)](https://github.com/theyapapa/cryptonews/blob/ko/johnny-depp-to-produce-film-within-crypto-powered-content-distribution-platform-tatatu-80c4e31b.md)
 * 2018-10-24 [대만 6 월 2019에 의해 초안 ICO 규칙을 발행 합니다, 레 귤 레이 터 말한다](https://github.com/theyapapa/cryptonews/blob/ko/taiwan-will-issue-draft-ico-rules-by-june-2019-regulator-says-89fac817.md)
 * 2018-10-24 [Money20에서 HSBC의 간부/20: 블록 체인, cbdcs는 인터 뱅크 결제에 ' 큰 도전 ' 포즈](https://github.com/theyapapa/cryptonews/blob/ko/hsbc-exec-at-money20-20-blockchain-cbdcs-pose-great-challenge-to-interbank-settlement-645ede0e.md)
