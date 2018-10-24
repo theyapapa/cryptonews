@@ -1,3 +1,4 @@
+* 2018-10-24 [Air Canada integrará la plataforma de distribución de viajes basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
 * 2018-10-24 [Tom Lee, ponente en el próximo Blockshow Asia: ' Bitcoin se está preparando para Breakout '](https://github.com/theyapapa/cryptonews/blob/es/tom-lee-speaker-at-the-upcoming-blockshow-asia-bitcoin-is-preparing-to-breakout-7a852dbc.md)
 * 2018-10-24 [La atadura reDime y ' quema ' más de la mitad de USDT en circulación](https://github.com/theyapapa/cryptonews/blob/es/tether-redeems-and-burns-more-than-half-of-usdt-in-circulation-a7bd3eda.md)
 * 2018-10-24 [El regulador financiero surcoreano dice que los fondos criptográficos violan la ley de mercados de capital](https://github.com/theyapapa/cryptonews/blob/es/south-korean-financial-regulator-says-crypto-funds-violate-capital-markets-act-22d3063d.md)
