@@ -1,3 +1,4 @@
+* 2018-10-24 [에 어 캐나다, 블록 체인 기반의 여행 배포 플랫폼 통합](https://github.com/theyapapa/cryptonews/blob/ko/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
 * 2018-10-24 [Tom Lee, 다가오는 블록 쇼 아시아에서의 연사: ' 비트 코인이 브레이크 아웃 준비 중입니다 '](https://github.com/theyapapa/cryptonews/blob/ko/tom-lee-speaker-at-the-upcoming-blockshow-asia-bitcoin-is-preparing-to-breakout-7a852dbc.md)
 * 2018-10-24 [동선의 절반 이상을 밧줄을 구속 및 ' 화상 '.](https://github.com/theyapapa/cryptonews/blob/ko/tether-redeems-and-burns-more-than-half-of-usdt-in-circulation-a7bd3eda.md)
 * 2018-10-24 [한국 금융 레 귤 레이 터는 자본 시장 법을 위반 하는 암호화 자금을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-financial-regulator-says-crypto-funds-violate-capital-markets-act-22d3063d.md)
