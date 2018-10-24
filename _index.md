@@ -1,3 +1,4 @@
+* 2018-10-24 [Трос погашения и "Бернс" более половины USDT в обращении](https://github.com/theyapapa/cryptonews/blob/ru/tether-redeems-and-burns-more-than-half-of-usdt-in-circulation-a7bd3eda.md)
 * 2018-10-24 [Южно-Корейский финансовый регулятор говорит крипто фонды нарушают закон о рынках капитала](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-financial-regulator-says-crypto-funds-violate-capital-markets-act-22d3063d.md)
 * 2018-10-24 [Crypto Exchange Bitfinex отрицает якобы «фальшивые» тросовые тома, перечисленные на CoinMarketCap](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bitfinex-denies-allegedly-fake-tether-volumes-listed-on-coinmarketcap-a4cff634.md)
 * 2018-10-24 [Джонни Депп, чтобы произвести фильм в крипто-Powered распределение контента платформы Татату](https://github.com/theyapapa/cryptonews/blob/ru/johnny-depp-to-produce-film-within-crypto-powered-content-distribution-platform-tatatu-80c4e31b.md)
