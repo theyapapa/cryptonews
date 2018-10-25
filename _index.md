@@ -1,3 +1,4 @@
+* 2018-10-25 [El vigilante financiero de Malta advierte de la "dudosa" plataforma de comercio de criptografía](https://github.com/theyapapa/cryptonews/blob/es/maltas-financial-watchdog-warns-against-dubious-crypto-trading-platform-816993b9.md)
 * 2018-10-25 [El Banco Central alemán y Deutsche Boerse completan exitosamente el juicio de asentamiento bloques](https://github.com/theyapapa/cryptonews/blob/es/german-central-bank-and-deutsche-boerse-successfully-complete-blockchain-settlement-trial-b62d298e.md)
 * 2018-10-25 [SEC lanza FinHub para comunicarse con la industria, pero ¿qué tiene que decir?](https://github.com/theyapapa/cryptonews/blob/es/sec-launches-finhub-to-communicate-with-industry-but-what-does-it-have-to-say-f39b982e.md)
 * 2018-10-25 [SONY revela ' aplicación múltiple ' sin contacto Cryptocurrency hardware Wallet](https://github.com/theyapapa/cryptonews/blob/es/sony-unveils-multiple-application-contactless-cryptocurrency-hardware-wallet-7d94e72d.md)
