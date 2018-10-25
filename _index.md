@@ -1,3 +1,4 @@
+* 2018-10-25 [SEC lanza FinHub para comunicarse con la industria, pero ¿qué tiene que decir?](https://github.com/theyapapa/cryptonews/blob/es/sec-launches-finhub-to-communicate-with-industry-but-what-does-it-have-to-say-f39b982e.md)
 * 2018-10-25 [SONY revela ' aplicación múltiple ' sin contacto Cryptocurrency hardware Wallet](https://github.com/theyapapa/cryptonews/blob/es/sony-unveils-multiple-application-contactless-cryptocurrency-hardware-wallet-7d94e72d.md)
 * 2018-10-24 [AMD: ' las ventas de GPU relacionadas con bloques en el tercer trimestre fueron inSignificantes '](https://github.com/theyapapa/cryptonews/blob/es/amd-blockchain-related-gpu-sales-in-third-quarter-were-negligible-66807da0.md)
 * 2018-10-24 [Air Canada integrará la plataforma de distribución de viajes basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
