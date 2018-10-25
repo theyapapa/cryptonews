@@ -1,3 +1,4 @@
+* 2018-10-25 [Мальта финансового Watchdog предупреждает против "сомнительных" крипто торговая платформа](https://github.com/theyapapa/cryptonews/blob/ru/maltas-financial-watchdog-warns-against-dubious-crypto-trading-platform-816993b9.md)
 * 2018-10-25 [Германский Центральный банк и Дойче Бур успешно завершили процесс урегулирования Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/german-central-bank-and-deutsche-boerse-successfully-complete-blockchain-settlement-trial-b62d298e.md)
 * 2018-10-25 [SEC запускает Финхуб для связи с промышленностью, но что это должно сказать?](https://github.com/theyapapa/cryptonews/blob/ru/sec-launches-finhub-to-communicate-with-industry-but-what-does-it-have-to-say-f39b982e.md)
 * 2018-10-25 [Sony представила ' множественное применение ' бесконтактный Криптовалюта аппаратный кошелек](https://github.com/theyapapa/cryptonews/blob/ru/sony-unveils-multiple-application-contactless-cryptocurrency-hardware-wallet-7d94e72d.md)
