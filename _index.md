@@ -1,3 +1,4 @@
+* 2018-10-25 [Крупный сельскохозяйственный партнер компании использует Блокчейн в торговле зерном](https://github.com/theyapapa/cryptonews/blob/ru/major-agriculture-companies-partner-to-use-blockchain-in-grain-trading-8a113424.md)
 * 2018-10-25 [Мальта финансового Watchdog предупреждает против "сомнительных" крипто торговая платформа](https://github.com/theyapapa/cryptonews/blob/ru/maltas-financial-watchdog-warns-against-dubious-crypto-trading-platform-816993b9.md)
 * 2018-10-25 [Германский Центральный банк и Дойче Бур успешно завершили процесс урегулирования Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/german-central-bank-and-deutsche-boerse-successfully-complete-blockchain-settlement-trial-b62d298e.md)
 * 2018-10-25 [SEC запускает Финхуб для связи с промышленностью, но что это должно сказать?](https://github.com/theyapapa/cryptonews/blob/ru/sec-launches-finhub-to-communicate-with-industry-but-what-does-it-have-to-say-f39b982e.md)
