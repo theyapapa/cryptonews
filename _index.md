@@ -1,3 +1,4 @@
+* 2018-10-25 [몰타의 금융 감시 타이머가 ' 모호한 ' 암호 거래 플랫폼에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/maltas-financial-watchdog-warns-against-dubious-crypto-trading-platform-816993b9.md)
 * 2018-10-25 [독일 중앙 은행과 도이치 보 세이 성공적으로 블록 체인 정착 재판을 완료](https://github.com/theyapapa/cryptonews/blob/ko/german-central-bank-and-deutsche-boerse-successfully-complete-blockchain-settlement-trial-b62d298e.md)
 * 2018-10-25 [SEC는 업계와 통신 하기 위해 finhub를 출시 하지만, 무슨 말을 해야 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/sec-launches-finhub-to-communicate-with-industry-but-what-does-it-have-to-say-f39b982e.md)
 * 2018-10-25 [소니는 ' 여러 응용 프로그램 ' 비접촉 식 암호 화폐 하드웨어 지갑 발표](https://github.com/theyapapa/cryptonews/blob/ko/sony-unveils-multiple-application-contactless-cryptocurrency-hardware-wallet-7d94e72d.md)
