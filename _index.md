@@ -1,3 +1,4 @@
+* 2018-10-25 [Sony представила ' множественное применение ' бесконтактный Криптовалюта аппаратный кошелек](https://github.com/theyapapa/cryptonews/blob/ru/sony-unveils-multiple-application-contactless-cryptocurrency-hardware-wallet-7d94e72d.md)
 * 2018-10-24 [AMD: «Блокчейн-связанные продажи GPU в третьем квартале были ничтожны»](https://github.com/theyapapa/cryptonews/blob/ru/amd-blockchain-related-gpu-sales-in-third-quarter-were-negligible-66807da0.md)
 * 2018-10-24 [Air Canada интегрирует платформу распределения путешествий на основе Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
 * 2018-10-24 [Том ли, спикер на предСтоящем Блоккшов Азии: "Bitcoin готовится к прорыву"](https://github.com/theyapapa/cryptonews/blob/ru/tom-lee-speaker-at-the-upcoming-blockshow-asia-bitcoin-is-preparing-to-breakout-7a852dbc.md)
