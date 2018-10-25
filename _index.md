@@ -1,3 +1,4 @@
+* 2018-10-25 [SEC запускает Финхуб для связи с промышленностью, но что это должно сказать?](https://github.com/theyapapa/cryptonews/blob/ru/sec-launches-finhub-to-communicate-with-industry-but-what-does-it-have-to-say-f39b982e.md)
 * 2018-10-25 [Sony представила ' множественное применение ' бесконтактный Криптовалюта аппаратный кошелек](https://github.com/theyapapa/cryptonews/blob/ru/sony-unveils-multiple-application-contactless-cryptocurrency-hardware-wallet-7d94e72d.md)
 * 2018-10-24 [AMD: «Блокчейн-связанные продажи GPU в третьем квартале были ничтожны»](https://github.com/theyapapa/cryptonews/blob/ru/amd-blockchain-related-gpu-sales-in-third-quarter-were-negligible-66807da0.md)
 * 2018-10-24 [Air Canada интегрирует платформу распределения путешествий на основе Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
