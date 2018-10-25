@@ -1,3 +1,4 @@
+* 2018-10-25 [Резервный банк Австралии чиновник "не убежден" о необходимости цифрового доллара](https://github.com/theyapapa/cryptonews/blob/ru/reserve-bank-of-australia-official-not-convinced-of-need-for-digital-dollar-588feb37.md)
 * 2018-10-25 [IBM Study: большинство глобальных финансовых компаний считают центральные банки должны выДавать цифровые валюты](https://github.com/theyapapa/cryptonews/blob/ru/ibm-study-most-global-financial-firms-think-central-banks-should-issue-digital-currencies-039b20bb.md)
 * 2018-10-25 [Крупный сельскохозяйственный партнер компании использует Блокчейн в торговле зерном](https://github.com/theyapapa/cryptonews/blob/ru/major-agriculture-companies-partner-to-use-blockchain-in-grain-trading-8a113424.md)
 * 2018-10-25 [Мальта финансового Watchdog предупреждает против "сомнительных" крипто торговая платформа](https://github.com/theyapapa/cryptonews/blob/ru/maltas-financial-watchdog-warns-against-dubious-crypto-trading-platform-816993b9.md)
