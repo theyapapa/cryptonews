@@ -1,3 +1,4 @@
+* 2018-10-24 [AMD: ' las ventas de GPU relacionadas con bloques en el tercer trimestre fueron inSignificantes '](https://github.com/theyapapa/cryptonews/blob/es/amd-blockchain-related-gpu-sales-in-third-quarter-were-negligible-66807da0.md)
 * 2018-10-24 [Air Canada integrará la plataforma de distribución de viajes basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
 * 2018-10-24 [Tom Lee, ponente en el próximo Blockshow Asia: ' Bitcoin se está preparando para Breakout '](https://github.com/theyapapa/cryptonews/blob/es/tom-lee-speaker-at-the-upcoming-blockshow-asia-bitcoin-is-preparing-to-breakout-7a852dbc.md)
 * 2018-10-24 [La atadura reDime y ' quema ' más de la mitad de USDT en circulación](https://github.com/theyapapa/cryptonews/blob/es/tether-redeems-and-burns-more-than-half-of-usdt-in-circulation-a7bd3eda.md)
