@@ -1,3 +1,4 @@
+* 2018-10-25 [SONY revela ' aplicación múltiple ' sin contacto Cryptocurrency hardware Wallet](https://github.com/theyapapa/cryptonews/blob/es/sony-unveils-multiple-application-contactless-cryptocurrency-hardware-wallet-7d94e72d.md)
 * 2018-10-24 [AMD: ' las ventas de GPU relacionadas con bloques en el tercer trimestre fueron inSignificantes '](https://github.com/theyapapa/cryptonews/blob/es/amd-blockchain-related-gpu-sales-in-third-quarter-were-negligible-66807da0.md)
 * 2018-10-24 [Air Canada integrará la plataforma de distribución de viajes basada en bloques](https://github.com/theyapapa/cryptonews/blob/es/air-canada-to-integrate-blockchain-based-travel-distribution-platform-9833437f.md)
 * 2018-10-24 [Tom Lee, ponente en el próximo Blockshow Asia: ' Bitcoin se está preparando para Breakout '](https://github.com/theyapapa/cryptonews/blob/es/tom-lee-speaker-at-the-upcoming-blockshow-asia-bitcoin-is-preparing-to-breakout-7a852dbc.md)
