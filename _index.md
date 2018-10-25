@@ -1,3 +1,4 @@
+* 2018-10-25 [IBM 연구: 대부분의 글로벌 금융 회사는 중앙 은행이 디지털 통화를 발행할 것 이라고 생각 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ibm-study-most-global-financial-firms-think-central-banks-should-issue-digital-currencies-039b20bb.md)
 * 2018-10-25 [곡물 거래에서 블록 체인을 사용 하는 주요 농업 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/major-agriculture-companies-partner-to-use-blockchain-in-grain-trading-8a113424.md)
 * 2018-10-25 [몰타의 금융 감시 타이머가 ' 모호한 ' 암호 거래 플랫폼에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/maltas-financial-watchdog-warns-against-dubious-crypto-trading-platform-816993b9.md)
 * 2018-10-25 [독일 중앙 은행과 도이치 보 세이 성공적으로 블록 체인 정착 재판을 완료](https://github.com/theyapapa/cryptonews/blob/ko/german-central-bank-and-deutsche-boerse-successfully-complete-blockchain-settlement-trial-b62d298e.md)
