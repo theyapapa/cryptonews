@@ -1,3 +1,4 @@
+* 2018-10-26 [VeChain firma MoU para el desarrollo de bloques con Chipre](https://github.com/theyapapa/cryptonews/blob/es/vechain-signs-mou-for-blockchain-development-with-cyprus-e64f9b07.md)
 * 2018-10-26 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, carDano, Monero, TRON: Análisis de precios, 26 de octubre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-26-0e3d2928.md)
 * 2018-10-26 [Estados Unidos: el Comité Consultivo del IRS pide pautas adicionales sobre impuestos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/us-irs-advisory-committee-calls-for-additional-guidelines-on-crypto-taxation-791b5476.md)
 * 2018-10-26 [Todo tranquilo en el frente Crypto como bitcoin, Altcoins Shun volatilidad](https://github.com/theyapapa/cryptonews/blob/es/all-quiet-on-the-crypto-front-as-bitcoin-altcoins-shun-volatility-099d13d8.md)
