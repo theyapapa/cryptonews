@@ -1,3 +1,4 @@
+* 2018-10-26 [' 단점 ' 블록 체인과 같은 신흥 테크, 미국 통신 기관 위원장을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/dont-disadvantage-emerging-tech-like-blockchain-says-us-telecoms-authority-chairman-77dd3ddb.md)
 * 2018-10-26 [마스터 카드 특허 주장 암호 화폐는 분수 예약 뱅킹 혜택을 누릴 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/mastercard-patent-claims-cryptocurrency-can-benefit-from-fractional-reserve-banking-dbdd1c45.md)
 * 2018-10-25 [인도에서 암호 화폐 ' 불법 ' 무역 조직 머리를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-illegal-in-india-says-trade-organization-head-5e12ecbc.md)
 * 2018-10-25 [베트남 최대의 통신 회사가 블록 체인 영역으로 진입 하 여 업계 리더가 되는 것을 목표로 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/vietnams-largest-telecoms-company-enters-blockchain-sphere-aims-to-be-industry-leader-4b1e73eb.md)
