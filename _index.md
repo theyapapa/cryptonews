@@ -1,3 +1,4 @@
+* 2018-10-26 [비트 코인,에 테 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 10 월 26 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-26-0e3d2928.md)
 * 2018-10-26 [미국: IRS 자문 위원회는 암호화 과세에 관한 추가 가이드라인을 요구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-irs-advisory-committee-calls-for-additional-guidelines-on-crypto-taxation-791b5476.md)
 * 2018-10-26 [비트 코인으로 서의 모든 침묵, 알트 코인은 변동성을 슌](https://github.com/theyapapa/cryptonews/blob/ko/all-quiet-on-the-crypto-front-as-bitcoin-altcoins-shun-volatility-099d13d8.md)
 * 2018-10-26 [블록 체인의 게 전쟁: 롱 타임 개발자가 첫 번째 암호화 게임 출시](https://github.com/theyapapa/cryptonews/blob/ko/crab-war-on-blockchain-long-time-developer-launches-its-first-crypto-game-a1191e2b.md)
