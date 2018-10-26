@@ -1,3 +1,4 @@
+* 2018-10-26 [미국: IRS 자문 위원회는 암호화 과세에 관한 추가 가이드라인을 요구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-irs-advisory-committee-calls-for-additional-guidelines-on-crypto-taxation-791b5476.md)
 * 2018-10-26 [비트 코인으로 서의 모든 침묵, 알트 코인은 변동성을 슌](https://github.com/theyapapa/cryptonews/blob/ko/all-quiet-on-the-crypto-front-as-bitcoin-altcoins-shun-volatility-099d13d8.md)
 * 2018-10-26 [블록 체인의 게 전쟁: 롱 타임 개발자가 첫 번째 암호화 게임 출시](https://github.com/theyapapa/cryptonews/blob/ko/crab-war-on-blockchain-long-time-developer-launches-its-first-crypto-game-a1191e2b.md)
 * 2018-10-26 [비트 코인의 낮은 변동성 신호는 ' 투기 잎 '으로 남아 있습니다. 블룸버그 애 널 리스트가 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-low-volatility-signals-bottoming-as-speculation-leaves-bloomberg-analyst-says-3f2bb15b.md)
