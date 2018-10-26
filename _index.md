@@ -1,3 +1,4 @@
+* 2018-10-26 [Не "недостаток" новые технологии, как Блокчейн, говорит США Телеком власти Председатель](https://github.com/theyapapa/cryptonews/blob/ru/dont-disadvantage-emerging-tech-like-blockchain-says-us-telecoms-authority-chairman-77dd3ddb.md)
 * 2018-10-26 [MasterCard патентных претензий Криптовалюта может извлечь выГоду из дробных резервных банковских](https://github.com/theyapapa/cryptonews/blob/ru/mastercard-patent-claims-cryptocurrency-can-benefit-from-fractional-reserve-banking-dbdd1c45.md)
 * 2018-10-25 [Криптовалюта "Нелегал" в Индии говорит глава торговой организации](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-illegal-in-india-says-trade-organization-head-5e12ecbc.md)
 * 2018-10-25 [Крупнейшая телеКоммуникационная компания Вьетнама входит в Блокчейн-сферу, стремится стать лидером отрасли](https://github.com/theyapapa/cryptonews/blob/ru/vietnams-largest-telecoms-company-enters-blockchain-sphere-aims-to-be-industry-leader-4b1e73eb.md)
