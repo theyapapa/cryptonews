@@ -1,3 +1,4 @@
+* 2018-10-26 [США: IRS Консультативный комитет приЗывает дополнительные руководящие принципы по крипто налогообложения](https://github.com/theyapapa/cryptonews/blob/ru/us-irs-advisory-committee-calls-for-additional-guidelines-on-crypto-taxation-791b5476.md)
 * 2018-10-26 [Все тихие на крипто фронте как Bitcoin, Altcoins изБегают волатильности](https://github.com/theyapapa/cryptonews/blob/ru/all-quiet-on-the-crypto-front-as-bitcoin-altcoins-shun-volatility-099d13d8.md)
 * 2018-10-26 [Краб войны на Блокчейн: долгое время разработчик запускает свою первую крипто игры](https://github.com/theyapapa/cryptonews/blob/ru/crab-war-on-blockchain-long-time-developer-launches-its-first-crypto-game-a1191e2b.md)
 * 2018-10-26 [Низкие волатильности Bitcoin сигналы снизу как ' спекуляции листья, ' Bloomberg аналитик говорит](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-low-volatility-signals-bottoming-as-speculation-leaves-bloomberg-analyst-says-3f2bb15b.md)
