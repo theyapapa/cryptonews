@@ -1,3 +1,4 @@
+* 2018-10-25 [블룸버그: 유럽 암호 마이닝 회사 bitfury가 공개 고려](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-european-crypto-mining-firm-bitfury-considers-going-public-066d647b.md)
 * 2018-10-25 [호주 연방 준비 은행 디지털 달러에 대 한 요구의 ' 확신 하지 않음 '](https://github.com/theyapapa/cryptonews/blob/ko/reserve-bank-of-australia-official-not-convinced-of-need-for-digital-dollar-588feb37.md)
 * 2018-10-25 [IBM 연구: 대부분의 글로벌 금융 회사는 중앙 은행이 디지털 통화를 발행할 것 이라고 생각 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ibm-study-most-global-financial-firms-think-central-banks-should-issue-digital-currencies-039b20bb.md)
 * 2018-10-25 [곡물 거래에서 블록 체인을 사용 하는 주요 농업 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/major-agriculture-companies-partner-to-use-blockchain-in-grain-trading-8a113424.md)
