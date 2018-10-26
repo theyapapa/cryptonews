@@ -1,3 +1,4 @@
+* 2018-10-26 [블록 체인의 게 전쟁: 롱 타임 개발자가 첫 번째 암호화 게임 출시](https://github.com/theyapapa/cryptonews/blob/ko/crab-war-on-blockchain-long-time-developer-launches-its-first-crypto-game-a1191e2b.md)
 * 2018-10-26 [비트 코인의 낮은 변동성 신호는 ' 투기 잎 '으로 남아 있습니다. 블룸버그 애 널 리스트가 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-low-volatility-signals-bottoming-as-speculation-leaves-bloomberg-analyst-says-3f2bb15b.md)
 * 2018-10-26 [' 단점 ' 블록 체인과 같은 신흥 테크, 미국 통신 기관 위원장을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/dont-disadvantage-emerging-tech-like-blockchain-says-us-telecoms-authority-chairman-77dd3ddb.md)
 * 2018-10-26 [마스터 카드 특허 주장 암호 화폐는 분수 예약 뱅킹 혜택을 누릴 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/mastercard-patent-claims-cryptocurrency-can-benefit-from-fractional-reserve-banking-dbdd1c45.md)
