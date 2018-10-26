@@ -1,3 +1,4 @@
+* 2018-10-26 [Вечаин подПисывает МОВ для развития Блокчейн с Кипром](https://github.com/theyapapa/cryptonews/blob/ru/vechain-signs-mou-for-blockchain-development-with-cyprus-e64f9b07.md)
 * 2018-10-26 [Bitcoin, Эфириум, эфир, рябь, Bitcoin Cash, EOS, Звездный, Litecoin, Monero, трон: анализ цен, 26 октября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-26-0e3d2928.md)
 * 2018-10-26 [США: IRS Консультативный комитет приЗывает дополнительные руководящие принципы по крипто налогообложения](https://github.com/theyapapa/cryptonews/blob/ru/us-irs-advisory-committee-calls-for-additional-guidelines-on-crypto-taxation-791b5476.md)
 * 2018-10-26 [Все тихие на крипто фронте как Bitcoin, Altcoins изБегают волатильности](https://github.com/theyapapa/cryptonews/blob/ru/all-quiet-on-the-crypto-front-as-bitcoin-altcoins-shun-volatility-099d13d8.md)
