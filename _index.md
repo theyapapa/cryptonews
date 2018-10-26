@@ -1,3 +1,4 @@
+* 2018-10-25 [Криптовалюта "Нелегал" в Индии говорит глава торговой организации](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-illegal-in-india-says-trade-organization-head-5e12ecbc.md)
 * 2018-10-25 [Крупнейшая телеКоммуникационная компания Вьетнама входит в Блокчейн-сферу, стремится стать лидером отрасли](https://github.com/theyapapa/cryptonews/blob/ru/vietnams-largest-telecoms-company-enters-blockchain-sphere-aims-to-be-industry-leader-4b1e73eb.md)
 * 2018-10-25 [Bloomberg: Европейская крипто-добывающая фирма Bitfury считает, что будет общественным](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-european-crypto-mining-firm-bitfury-considers-going-public-066d647b.md)
 * 2018-10-25 [Резервный банк Австралии чиновник "не убежден" о необходимости цифрового доллара](https://github.com/theyapapa/cryptonews/blob/ru/reserve-bank-of-australia-official-not-convinced-of-need-for-digital-dollar-588feb37.md)
