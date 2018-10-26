@@ -1,3 +1,4 @@
+* 2018-10-26 [Низкие волатильности Bitcoin сигналы снизу как ' спекуляции листья, ' Bloomberg аналитик говорит](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-low-volatility-signals-bottoming-as-speculation-leaves-bloomberg-analyst-says-3f2bb15b.md)
 * 2018-10-26 [Не "недостаток" новые технологии, как Блокчейн, говорит США Телеком власти Председатель](https://github.com/theyapapa/cryptonews/blob/ru/dont-disadvantage-emerging-tech-like-blockchain-says-us-telecoms-authority-chairman-77dd3ddb.md)
 * 2018-10-26 [MasterCard патентных претензий Криптовалюта может извлечь выГоду из дробных резервных банковских](https://github.com/theyapapa/cryptonews/blob/ru/mastercard-patent-claims-cryptocurrency-can-benefit-from-fractional-reserve-banking-dbdd1c45.md)
 * 2018-10-25 [Криптовалюта "Нелегал" в Индии говорит глава торговой организации](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-illegal-in-india-says-trade-organization-head-5e12ecbc.md)
