@@ -1,3 +1,4 @@
+* 2018-10-27 [«Мы не должны торопиться, чтобы сдержать темп»,-говорит комиссар](https://github.com/theyapapa/cryptonews/blob/ru/we-should-not-scurry-to-keep-pace-with-fintech-says-cftc-commissioner-5939fa9a.md)
 * 2018-10-27 [Крупнейшая в мире крипто-биржа Окекс для деКодирования 50 + торговых пар из-за «слабой» производительности](https://github.com/theyapapa/cryptonews/blob/ru/worlds-largest-crypto-exchange-okex-to-delist-50-trading-pairs-due-to-weak-performance-a32a80c1.md)
 * 2018-10-26 [Тайский SEC предупреждает общественность об инвестировании в девять незарегистрированных токенов и ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/thai-sec-warns-public-about-investing-in-nine-unregistered-tokens-and-icos-edb6dca3.md)
 * 2018-10-26 [Вечаин подПисывает МОВ для развития Блокчейн с Кипром](https://github.com/theyapapa/cryptonews/blob/ru/vechain-signs-mou-for-blockchain-development-with-cyprus-e64f9b07.md)
