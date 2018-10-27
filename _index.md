@@ -1,3 +1,4 @@
+* 2018-10-27 [우리는 "핀 테크는 속도를 유지 하는 것을" 하지 말아야 한다.](https://github.com/theyapapa/cryptonews/blob/ko/we-should-not-scurry-to-keep-pace-with-fintech-says-cftc-commissioner-5939fa9a.md)
 * 2018-10-27 [세계에서 가장 큰 암호 교환 okex 목록 해제 50 + 거래 쌍으로 인해 ' 약한 ' 성능](https://github.com/theyapapa/cryptonews/blob/ko/worlds-largest-crypto-exchange-okex-to-delist-50-trading-pairs-due-to-weak-performance-a32a80c1.md)
 * 2018-10-26 [태국 SEC는 9 개의 미등록 토큰과 ico에 투자 하는 것에 대해 공개적으로 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-warns-public-about-investing-in-nine-unregistered-tokens-and-icos-edb6dca3.md)
 * 2018-10-26 [사이프러스와 함께 블록 체인 개발을 위한 MoU 체결](https://github.com/theyapapa/cryptonews/blob/ko/vechain-signs-mou-for-blockchain-development-with-cyprus-e64f9b07.md)
