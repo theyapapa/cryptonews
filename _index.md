@@ -1,3 +1,4 @@
+* 2018-10-28 [Bordeando la gran muralla: la saga a cuadros de Crypto en China, 2013-2017](https://github.com/theyapapa/cryptonews/blob/es/skirting-the-great-wall-the-chequered-saga-of-crypto-in-china-2013-2017-280cdc9b.md)
 * 2018-10-27 [Bitcoin muestra nueva resiliencia a medida que los mercados sacuden el asentamiento de futuros](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-shows-new-resilience-as-markets-shake-off-futures-settlement-ff800175.md)
 * 2018-10-27 [' Bastante molesto ': el personal de Coinbase protesta como la compañía corta ' por lo menos 15 ' trabajos, dicen fuentes](https://github.com/theyapapa/cryptonews/blob/es/pretty-upset-coinbase-staff-protest-as-company-cuts-at-least-15-jobs-say-sources-aa5a16dc.md)
 * 2018-10-27 [No debemos "correr para mantener el ritmo" con FinTech, dice el Comisionado CFTC](https://github.com/theyapapa/cryptonews/blob/es/we-should-not-scurry-to-keep-pace-with-fintech-says-cftc-commissioner-5939fa9a.md)
