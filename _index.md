@@ -1,3 +1,4 @@
+* 2018-10-28 [Плинтус Великая стена: клетчатая Сага крипто в Китае, 2013-2017](https://github.com/theyapapa/cryptonews/blob/ru/skirting-the-great-wall-the-chequered-saga-of-crypto-in-china-2013-2017-280cdc9b.md)
 * 2018-10-27 [Bitcoin показывает новые устойчивости как рынки трясти от фьючерсов урегулирования](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-shows-new-resilience-as-markets-shake-off-futures-settlement-ff800175.md)
 * 2018-10-27 [' Довольно расстроен ': Coinbase персонала протест как компания отрубы ' по крайней мере 15 ' Вакансии, скажем источники](https://github.com/theyapapa/cryptonews/blob/ru/pretty-upset-coinbase-staff-protest-as-company-cuts-at-least-15-jobs-say-sources-aa5a16dc.md)
 * 2018-10-27 [«Мы не должны торопиться, чтобы сдержать темп»,-говорит комиссар](https://github.com/theyapapa/cryptonews/blob/ru/we-should-not-scurry-to-keep-pace-with-fintech-says-cftc-commissioner-5939fa9a.md)
