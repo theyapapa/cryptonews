@@ -1,3 +1,4 @@
+* 2018-10-29 [' 모든 현금 거래 '에서 벨기에 투자 회사에 의해 획득 한 암호 교환 bitstamp](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitstamp-acquired-by-belgian-investment-firm-in-all-cash-deal-0e963e9a.md)
 * 2018-10-29 [러시아 레 귤 레이 터는 재무 조치 태스크 포스 회원에 게 암호화 순환을 제어 하도록 지시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/russian-regulator-tells-financial-action-task-force-members-to-control-crypto-circulation-56023474.md)
 * 2018-10-29 [영국: 새로운 보고서 ' 잘못 된 ' 정부 암호 화폐 규정에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-new-report-warns-over-bad-government-cryptocurrency-regulation-600a8095.md)
 * 2018-10-29 [싱가포르: 주요 유틸리티 회사, 블록 체인 기반 태양 에너지 시장 진출](https://github.com/theyapapa/cryptonews/blob/ko/singapore-major-utility-company-launches-blockchain-based-solar-energy-marketplace-5ece5ede.md)
