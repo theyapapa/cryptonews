@@ -1,3 +1,4 @@
+* 2018-10-29 [Как один проект борется подДельные ICO обзоры использование ии и Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/how-one-project-is-fighting-fake-ico-reviews-using-ai-and-blockchain-27a5534e.md)
 * 2018-10-29 [Bitcoin, Эфириум, эфир, рябь, Bitcoin Cash, EOS, Звездный, Litecoin, Monero, трон: анализ цен, 29 октября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-29-9e8234b9.md)
 * 2018-10-29 [Немецкий регулятор финансов: международные правила «желательны» для ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/german-finance-regulator-international-regulations-desirable-for-icos-08b64d0a.md)
 * 2018-10-29 [Крупнейший в мире производитель алмазов АЛРОСА приСоединяется к Блокчейн-пилоту De Beers](https://github.com/theyapapa/cryptonews/blob/ru/worlds-largest-diamond-producer-alrosa-joins-de-beers-blockchain-pilot-c5baeb2f.md)
