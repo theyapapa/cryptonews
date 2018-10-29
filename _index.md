@@ -1,3 +1,4 @@
+* 2018-10-29 [Cómo un proyecto está luchando falsos comentarios de ICO usando AI y bloques](https://github.com/theyapapa/cryptonews/blob/es/how-one-project-is-fighting-fake-ico-reviews-using-ai-and-blockchain-27a5534e.md)
 * 2018-10-29 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, estelar, Litecoin, carDano, Monero, TRON: Price Analysis, 29 de octubre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-29-9e8234b9.md)
 * 2018-10-29 [Regulador financiero alemán: regulaciones internacionales ' deseables ' para ICOs](https://github.com/theyapapa/cryptonews/blob/es/german-finance-regulator-international-regulations-desirable-for-icos-08b64d0a.md)
 * 2018-10-29 [El mayor productor de diamantes del mundo, Alrosa, se une al piloto bloques de Beers](https://github.com/theyapapa/cryptonews/blob/es/worlds-largest-diamond-producer-alrosa-joins-de-beers-blockchain-pilot-c5baeb2f.md)
