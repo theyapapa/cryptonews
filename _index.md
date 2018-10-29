@@ -1,3 +1,4 @@
+* 2018-10-29 [러시아 레 귤 레이 터는 재무 조치 태스크 포스 회원에 게 암호화 순환을 제어 하도록 지시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/russian-regulator-tells-financial-action-task-force-members-to-control-crypto-circulation-56023474.md)
 * 2018-10-29 [영국: 새로운 보고서 ' 잘못 된 ' 정부 암호 화폐 규정에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-new-report-warns-over-bad-government-cryptocurrency-regulation-600a8095.md)
 * 2018-10-29 [싱가포르: 주요 유틸리티 회사, 블록 체인 기반 태양 에너지 시장 진출](https://github.com/theyapapa/cryptonews/blob/ko/singapore-major-utility-company-launches-blockchain-based-solar-energy-marketplace-5ece5ede.md)
 * 2018-10-28 [ Top 5 암호 수행자 개요: EOS, 리플,이 더 리 움 클래식, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-eos-ripple-ethereum-classic-dash-monero-f99afbb1.md)
