@@ -1,3 +1,4 @@
+* 2018-10-29 [싱가포르: 주요 유틸리티 회사, 블록 체인 기반 태양 에너지 시장 진출](https://github.com/theyapapa/cryptonews/blob/ko/singapore-major-utility-company-launches-blockchain-based-solar-energy-marketplace-5ece5ede.md)
 * 2018-10-28 [ Top 5 암호 수행자 개요: EOS, 리플,이 더 리 움 클래식, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-eos-ripple-ethereum-classic-dash-monero-f99afbb1.md)
 * 2018-10-28 [호 들러의 다이제스트, 10 월 21 일부 터 10 월 28 일: US SEC의 비트 코인 etf를 통한 미국 증권 거래의 BTC 선물을 통해 승인에 가까워졌습니다.](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-october-21-october-28-us-sec-mulls-over-bitcoin-etfs-while-bakkts-btc-futures-inch-closer-to-approval-9358ee15.md)
 * 2018-10-28 [Google 전문가 개발자가 리플 암호화 기반 결제 네트워크를 리드 하는 연결](https://github.com/theyapapa/cryptonews/blob/ko/google-expert-developer-joins-ripple-to-lead-crypto-powered-payments-network-ripplenet-bb8184af.md)
