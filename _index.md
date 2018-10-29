@@ -1,3 +1,4 @@
+* 2018-10-29 [세계 최대의 다이아몬드 프로듀서 알로 사 조인 맥주 블록 체인 파일럿](https://github.com/theyapapa/cryptonews/blob/ko/worlds-largest-diamond-producer-alrosa-joins-de-beers-blockchain-pilot-c5baeb2f.md)
 * 2018-10-29 [암호화 시장, 주요 코인 팁이 빨간색으로 Stirrings의 변동성 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-stirrings-of-volatility-as-major-coins-tip-into-red-7dc9e2c8.md)
 * 2018-10-29 [' 모든 현금 거래 '에서 벨기에 투자 회사에 의해 획득 한 암호 교환 bitstamp](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitstamp-acquired-by-belgian-investment-firm-in-all-cash-deal-0e963e9a.md)
 * 2018-10-29 [러시아 레 귤 레이 터는 재무 조치 태스크 포스 회원에 게 암호화 순환을 제어 하도록 지시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/russian-regulator-tells-financial-action-task-force-members-to-control-crypto-circulation-56023474.md)
