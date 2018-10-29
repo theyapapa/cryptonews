@@ -1,3 +1,4 @@
+* 2018-10-29 [비트 코인,에 테 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 10 월 29 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-29-9e8234b9.md)
 * 2018-10-29 [독일어 금융 규제: ico를 위한 국제 규정 ' 바람직한 '](https://github.com/theyapapa/cryptonews/blob/ko/german-finance-regulator-international-regulations-desirable-for-icos-08b64d0a.md)
 * 2018-10-29 [세계 최대의 다이아몬드 프로듀서 알로 사 조인 맥주 블록 체인 파일럿](https://github.com/theyapapa/cryptonews/blob/ko/worlds-largest-diamond-producer-alrosa-joins-de-beers-blockchain-pilot-c5baeb2f.md)
 * 2018-10-29 [암호화 시장, 주요 코인 팁이 빨간색으로 Stirrings의 변동성 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-stirrings-of-volatility-as-major-coins-tip-into-red-7dc9e2c8.md)
