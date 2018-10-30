@@ -1,3 +1,4 @@
+* 2018-10-30 [영국의 금융 규제 당국의 암호화 파생 상품 판매 금지](https://github.com/theyapapa/cryptonews/blob/ko/uks-financial-regulator-mulls-ban-on-sale-of-crypto-derivatives-d444e26c.md)
 * 2018-10-30 [코인 체크 새로운 가입, 입금 및 ' 일부 ' 암호 화폐 출금](https://github.com/theyapapa/cryptonews/blob/ko/coincheck-reopens-new-signups-deposits-and-withdrawals-of-some-cryptocurrencies-ab9cd61c.md)
 * 2018-10-29 [설문 조사: 미국인의 60%가 정치 캠페인에서 화폐로 간주 되어야 한다고 생각 한다.](https://github.com/theyapapa/cryptonews/blob/ko/survey-60-of-americans-think-crypto-should-be-treated-as-fiat-in-political-campaigns-bc1035fe.md)
 * 2018-10-29 [이스라엘 블록 체인 스타트업 결론 $30 ml 인텔, 세쿼이아](https://github.com/theyapapa/cryptonews/blob/ko/israeli-blockchain-startup-concludes-30-mln-financing-round-that-included-intel-sequoia-663c9358.md)
