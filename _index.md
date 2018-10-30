@@ -1,3 +1,4 @@
+* 2018-10-30 [Bitcoin является "что-нибудь, но полезное" говорит экс-Федеральная резервная Кафедра Джанет](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-is-anything-but-useful-says-ex-federal-reserve-chair-janet-yellen-775ac034.md)
 * 2018-10-30 [Финансовый регулятор Великобритании обДумывает запрет на продажу произВодных Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/uks-financial-regulator-mulls-ban-on-sale-of-crypto-derivatives-d444e26c.md)
 * 2018-10-30 [Коинчекк вновь открывает новые регистрации, депозиты и снятие "некоторые" криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/coincheck-reopens-new-signups-deposits-and-withdrawals-of-some-cryptocurrencies-ab9cd61c.md)
 * 2018-10-29 [Опрос: 60% американцев думаю, Crypto должны рассматриваться как Fiat в политических кампаниях](https://github.com/theyapapa/cryptonews/blob/ru/survey-60-of-americans-think-crypto-should-be-treated-as-fiat-in-political-campaigns-bc1035fe.md)
