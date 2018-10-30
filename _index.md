@@ -1,3 +1,4 @@
+* 2018-10-30 [비트 트 렉스는 몰타를 기반으로 ' 국제 트레이딩 플랫폼 '을 출시 하 고 있으며, 미국 고객 들은 마이너스](https://github.com/theyapapa/cryptonews/blob/ko/bittrex-launches-malta-based-international-trading-platform-minus-us-customers-0353b485.md)
 * 2018-10-30 [이 머 징 마켓을 중심으로 한 핀 테크 기업에 워렌 버핏의 지주 투자 $600 mln](https://github.com/theyapapa/cryptonews/blob/ko/warren-buffetts-holding-invests-600-mln-in-fintech-firms-focused-on-emerging-markets-6b6ef02d.md)
 * 2018-10-30 [비트 코인은 ' 유용한 것은 아니지만 ' 전 연방 준비 자 재 닛 옐 런가 말한다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-is-anything-but-useful-says-ex-federal-reserve-chair-janet-yellen-775ac034.md)
 * 2018-10-30 [영국의 금융 규제 당국의 암호화 파생 상품 판매 금지](https://github.com/theyapapa/cryptonews/blob/ko/uks-financial-regulator-mulls-ban-on-sale-of-crypto-derivatives-d444e26c.md)
