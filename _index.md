@@ -1,3 +1,4 @@
+* 2018-10-30 [한국 투자자에 의해 인수 된 후 bitstamp ' 글로벌 확장 '을 향해 찾고](https://github.com/theyapapa/cryptonews/blob/ko/bitstamp-is-looking-towards-global-expansion-after-being-acquired-by-south-korean-investors-c76edf46.md)
 * 2018-10-30 [$200 미만,이 더 리 움 거래는 시장에서 약간의 침체](https://github.com/theyapapa/cryptonews/blob/ko/slight-slump-in-markets-continues-ethereum-trades-below-200-257c1659.md)
 * 2018-10-30 [암호화 교환 서비스 도움 bithumb 복구 100만 XRP 후 대규모 6 월 해킹](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-service-helps-bithumb-recover-1-million-xrp-after-massive-june-hack-13a71839.md)
 * 2018-10-30 [비트 트 렉스는 몰타를 기반으로 ' 국제 트레이딩 플랫폼 '을 출시 하 고 있으며, 미국 고객 들은 마이너스](https://github.com/theyapapa/cryptonews/blob/ko/bittrex-launches-malta-based-international-trading-platform-minus-us-customers-0353b485.md)
