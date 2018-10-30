@@ -1,3 +1,4 @@
+* 2018-10-30 [Bitstamp смотрит на "Глобальное расширение" после того, как приобрели южнокорейские инвесторы](https://github.com/theyapapa/cryptonews/blob/ru/bitstamp-is-looking-towards-global-expansion-after-being-acquired-by-south-korean-investors-c76edf46.md)
 * 2018-10-30 [Небольшое падение рынка продолжается, Эфириум торги ниже $200](https://github.com/theyapapa/cryptonews/blob/ru/slight-slump-in-markets-continues-ethereum-trades-below-200-257c1659.md)
 * 2018-10-30 [Служба Crypto Exchange помогает Бисумб восстановить 1 000 000 после массового июня Hack](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-service-helps-bithumb-recover-1-million-xrp-after-massive-june-hack-13a71839.md)
 * 2018-10-30 [Bittrex запускает основанную на Мальте международную торговую платформу, за вычетом клиентов из США](https://github.com/theyapapa/cryptonews/blob/ru/bittrex-launches-malta-based-international-trading-platform-minus-us-customers-0353b485.md)
