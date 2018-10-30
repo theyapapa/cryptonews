@@ -1,3 +1,4 @@
+* 2018-10-30 [$200 미만,이 더 리 움 거래는 시장에서 약간의 침체](https://github.com/theyapapa/cryptonews/blob/ko/slight-slump-in-markets-continues-ethereum-trades-below-200-257c1659.md)
 * 2018-10-30 [암호화 교환 서비스 도움 bithumb 복구 100만 XRP 후 대규모 6 월 해킹](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-service-helps-bithumb-recover-1-million-xrp-after-massive-june-hack-13a71839.md)
 * 2018-10-30 [비트 트 렉스는 몰타를 기반으로 ' 국제 트레이딩 플랫폼 '을 출시 하 고 있으며, 미국 고객 들은 마이너스](https://github.com/theyapapa/cryptonews/blob/ko/bittrex-launches-malta-based-international-trading-platform-minus-us-customers-0353b485.md)
 * 2018-10-30 [이 머 징 마켓을 중심으로 한 핀 테크 기업에 워렌 버핏의 지주 투자 $600 mln](https://github.com/theyapapa/cryptonews/blob/ko/warren-buffetts-holding-invests-600-mln-in-fintech-firms-focused-on-emerging-markets-6b6ef02d.md)
