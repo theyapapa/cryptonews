@@ -1,3 +1,4 @@
+* 2018-10-29 [설문 조사: 미국인의 60%가 정치 캠페인에서 화폐로 간주 되어야 한다고 생각 한다.](https://github.com/theyapapa/cryptonews/blob/ko/survey-60-of-americans-think-crypto-should-be-treated-as-fiat-in-political-campaigns-bc1035fe.md)
 * 2018-10-29 [이스라엘 블록 체인 스타트업 결론 $30 ml 인텔, 세쿼이아](https://github.com/theyapapa/cryptonews/blob/ko/israeli-blockchain-startup-concludes-30-mln-financing-round-that-included-intel-sequoia-663c9358.md)
 * 2018-10-29 [한 프로젝트와 싸우는 방법 가짜 ICO 리뷰 AI 및 블록 체인 사용](https://github.com/theyapapa/cryptonews/blob/ko/how-one-project-is-fighting-fake-ico-reviews-using-ai-and-blockchain-27a5534e.md)
 * 2018-10-29 [비트 코인,에 테 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 10 월 29 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-october-29-9e8234b9.md)
