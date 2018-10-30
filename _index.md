@@ -1,3 +1,4 @@
+* 2018-10-30 [Небольшое падение рынка продолжается, Эфириум торги ниже $200](https://github.com/theyapapa/cryptonews/blob/ru/slight-slump-in-markets-continues-ethereum-trades-below-200-257c1659.md)
 * 2018-10-30 [Служба Crypto Exchange помогает Бисумб восстановить 1 000 000 после массового июня Hack](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-service-helps-bithumb-recover-1-million-xrp-after-massive-june-hack-13a71839.md)
 * 2018-10-30 [Bittrex запускает основанную на Мальте международную торговую платформу, за вычетом клиентов из США](https://github.com/theyapapa/cryptonews/blob/ru/bittrex-launches-malta-based-international-trading-platform-minus-us-customers-0353b485.md)
 * 2018-10-30 [Холдинг «Уоррен Баффетт» инвестирует $600 млн в компании, ориентированные на развивающиеся рынки](https://github.com/theyapapa/cryptonews/blob/ru/warren-buffetts-holding-invests-600-mln-in-fintech-firms-focused-on-emerging-markets-6b6ef02d.md)
