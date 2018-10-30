@@ -1,3 +1,4 @@
+* 2018-10-30 [Холдинг «Уоррен Баффетт» инвестирует $600 млн в компании, ориентированные на развивающиеся рынки](https://github.com/theyapapa/cryptonews/blob/ru/warren-buffetts-holding-invests-600-mln-in-fintech-firms-focused-on-emerging-markets-6b6ef02d.md)
 * 2018-10-30 [Bitcoin является "что-нибудь, но полезное" говорит экс-Федеральная резервная Кафедра Джанет](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-is-anything-but-useful-says-ex-federal-reserve-chair-janet-yellen-775ac034.md)
 * 2018-10-30 [Финансовый регулятор Великобритании обДумывает запрет на продажу произВодных Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/uks-financial-regulator-mulls-ban-on-sale-of-crypto-derivatives-d444e26c.md)
 * 2018-10-30 [Коинчекк вновь открывает новые регистрации, депозиты и снятие "некоторые" криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/coincheck-reopens-new-signups-deposits-and-withdrawals-of-some-cryptocurrencies-ab9cd61c.md)
