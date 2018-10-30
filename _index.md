@@ -1,3 +1,4 @@
+* 2018-10-30 [비트 코인은 ' 유용한 것은 아니지만 ' 전 연방 준비 자 재 닛 옐 런가 말한다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-is-anything-but-useful-says-ex-federal-reserve-chair-janet-yellen-775ac034.md)
 * 2018-10-30 [영국의 금융 규제 당국의 암호화 파생 상품 판매 금지](https://github.com/theyapapa/cryptonews/blob/ko/uks-financial-regulator-mulls-ban-on-sale-of-crypto-derivatives-d444e26c.md)
 * 2018-10-30 [코인 체크 새로운 가입, 입금 및 ' 일부 ' 암호 화폐 출금](https://github.com/theyapapa/cryptonews/blob/ko/coincheck-reopens-new-signups-deposits-and-withdrawals-of-some-cryptocurrencies-ab9cd61c.md)
 * 2018-10-29 [설문 조사: 미국인의 60%가 정치 캠페인에서 화폐로 간주 되어야 한다고 생각 한다.](https://github.com/theyapapa/cryptonews/blob/ko/survey-60-of-americans-think-crypto-should-be-treated-as-fiat-in-political-campaigns-bc1035fe.md)
