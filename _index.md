@@ -1,3 +1,4 @@
+* 2018-10-31 [비트 코인 백서 – 사토시의 비전은 생명을 가져다 준 10 년](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-whitepaper-10-years-since-satoshis-vision-was-brought-to-life-d1546dfe.md)
 * 2018-10-31 [coinbase Exec는 곧 IPO ' 언제 든 지 '에 대 한 계획을 거부, '에 게 최대 추가 할 계획을 보여준다 300 동전](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exec-denies-plans-for-ipo-any-time-soon-reveals-plans-to-add-up-to-300-coins-82032faf.md)
 * 2018-10-31 [뱅크 오브 아메리카, 블록 체인 특허의 비축에 개인 키 저장 서류 추가](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-adds-private-key-storage-filing-to-stockpile-of-blockchain-patents-46a9bbfb.md)
 * 2018-10-31 [홍콩에 지사를 설립 하는 암호화 보안 회사 원장](https://github.com/theyapapa/cryptonews/blob/ko/crypto-security-company-ledger-opens-branch-in-hong-kong-7a2e844c.md)
