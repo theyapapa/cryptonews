@@ -1,3 +1,4 @@
+* 2018-10-31 [El Ledger de la compañía de seguridad Crypto abre sucursal en Hong Kong](https://github.com/theyapapa/cryptonews/blob/es/crypto-security-company-ledger-opens-branch-in-hong-kong-7a2e844c.md)
 * 2018-10-30 [Nueva Zelanda Gov't-backed Institute emite subvenciones para la cartera de Crypto y el servicio de comercio](https://github.com/theyapapa/cryptonews/blob/es/new-zealand-govt-backed-institute-issues-grant-to-crypto-wallet-and-trading-service-222ce56d.md)
 * 2018-10-30 [El gigante minorista chino JD.com lanza bloques Research Lab](https://github.com/theyapapa/cryptonews/blob/es/chinese-retail-giant-jdcom-launches-blockchain-research-lab-f4ec75e6.md)
 * 2018-10-30 [Bitstamp está mirando hacia la ' expansión global ' después de ser adquirida por los inversores surcoreanos](https://github.com/theyapapa/cryptonews/blob/es/bitstamp-is-looking-towards-global-expansion-after-being-acquired-by-south-korean-investors-c76edf46.md)
