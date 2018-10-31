@@ -1,3 +1,4 @@
+* 2018-10-31 [글로벌 암호화 표준을 개발 하기 위한 서클은 산업 기관에 합류](https://github.com/theyapapa/cryptonews/blob/ko/circle-joins-industry-body-for-developing-global-crypto-standards-b4cdf858.md)
 * 2018-10-31 [홍콩 증권 거래소, 블록 체인 회사와의 협력을 통해 거래 후 과정 개선](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-stock-exchange-partners-with-blockchain-firm-to-improve-post-trade-process-98b3c828.md)
 * 2018-10-31 [외환 논란의 대가로 자금 세탁을 의심 하는 링크를 가진 펀드를 동결](https://github.com/theyapapa/cryptonews/blob/ko/binance-freezes-funds-with-suspected-money-laundering-links-from-controversial-exchange-wex-04a7bc88.md)
 * 2018-10-31 [erc-20 공동 저자 사기 토큰 판매에서 투자자를 보호 하기 위해 새로운 ICO 모델 제안](https://github.com/theyapapa/cryptonews/blob/ko/erc-20-co-author-proposes-new-ico-model-to-protect-investors-from-fraudulent-token-sales-02f24250.md)
