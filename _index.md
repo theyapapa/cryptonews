@@ -1,3 +1,4 @@
+* 2018-10-31 [White Paper de Bitcoin – 10 años desde que la visión de Satoshi fue traída a la vida](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-whitepaper-10-years-since-satoshis-vision-was-brought-to-life-d1546dfe.md)
 * 2018-10-31 [Coinbase exec niega planes para IPO ' en cualquier momento pronto, ' revela planes para añadir hasta 300 monedas](https://github.com/theyapapa/cryptonews/blob/es/coinbase-exec-denies-plans-for-ipo-any-time-soon-reveals-plans-to-add-up-to-300-coins-82032faf.md)
 * 2018-10-31 [Bank of America agrega almacenamiento de claves privadas para almacenar las patentes de bloques](https://github.com/theyapapa/cryptonews/blob/es/bank-of-america-adds-private-key-storage-filing-to-stockpile-of-blockchain-patents-46a9bbfb.md)
 * 2018-10-31 [El Ledger de la compañía de seguridad Crypto abre sucursal en Hong Kong](https://github.com/theyapapa/cryptonews/blob/es/crypto-security-company-ledger-opens-branch-in-hong-kong-7a2e844c.md)
