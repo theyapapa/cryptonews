@@ -1,3 +1,4 @@
+* 2018-10-30 [Nueva Zelanda Gov't-backed Institute emite subvenciones para la cartera de Crypto y el servicio de comercio](https://github.com/theyapapa/cryptonews/blob/es/new-zealand-govt-backed-institute-issues-grant-to-crypto-wallet-and-trading-service-222ce56d.md)
 * 2018-10-30 [El gigante minorista chino JD.com lanza bloques Research Lab](https://github.com/theyapapa/cryptonews/blob/es/chinese-retail-giant-jdcom-launches-blockchain-research-lab-f4ec75e6.md)
 * 2018-10-30 [Bitstamp está mirando hacia la ' expansión global ' después de ser adquirida por los inversores surcoreanos](https://github.com/theyapapa/cryptonews/blob/es/bitstamp-is-looking-towards-global-expansion-after-being-acquired-by-south-korean-investors-c76edf46.md)
 * 2018-10-30 [Leve caída en los mercados continúa, Ethereum comercios por debajo de $200](https://github.com/theyapapa/cryptonews/blob/es/slight-slump-in-markets-continues-ethereum-trades-below-200-257c1659.md)
