@@ -1,3 +1,4 @@
+* 2018-10-31 [Банк Америки добавляет хранение закрытого ключа для хранения запасов Блокчейн-патентов](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-adds-private-key-storage-filing-to-stockpile-of-blockchain-patents-46a9bbfb.md)
 * 2018-10-31 [Крипто безопасности компания книга открывает филиал в Гонконге](https://github.com/theyapapa/cryptonews/blob/ru/crypto-security-company-ledger-opens-branch-in-hong-kong-7a2e844c.md)
 * 2018-10-30 [Новая Зеландия Gov't институт вопросы Грант крипто бумажник и торговая служба](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-govt-backed-institute-issues-grant-to-crypto-wallet-and-trading-service-222ce56d.md)
 * 2018-10-30 [Китайские розничные гигантские JD.com запускает Блокчейн исследовательской лаборатории](https://github.com/theyapapa/cryptonews/blob/ru/chinese-retail-giant-jdcom-launches-blockchain-research-lab-f4ec75e6.md)
