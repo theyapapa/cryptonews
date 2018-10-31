@@ -1,3 +1,4 @@
+* 2018-10-31 [Coinbase Exec отрицает планы на IPO ' в любое время скоро, ' показывает планы добавить до 300 монеты](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-exec-denies-plans-for-ipo-any-time-soon-reveals-plans-to-add-up-to-300-coins-82032faf.md)
 * 2018-10-31 [Банк Америки добавляет хранение закрытого ключа для хранения запасов Блокчейн-патентов](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-adds-private-key-storage-filing-to-stockpile-of-blockchain-patents-46a9bbfb.md)
 * 2018-10-31 [Крипто безопасности компания книга открывает филиал в Гонконге](https://github.com/theyapapa/cryptonews/blob/ru/crypto-security-company-ledger-opens-branch-in-hong-kong-7a2e844c.md)
 * 2018-10-30 [Новая Зеландия Gov't институт вопросы Грант крипто бумажник и торговая служба](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-govt-backed-institute-issues-grant-to-crypto-wallet-and-trading-service-222ce56d.md)
