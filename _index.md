@@ -1,3 +1,4 @@
+* 2018-10-30 [중국 소매 거 대 한 JD.com는 블록 체인 연구 실험실을 발사 합니다](https://github.com/theyapapa/cryptonews/blob/ko/chinese-retail-giant-jdcom-launches-blockchain-research-lab-f4ec75e6.md)
 * 2018-10-30 [한국 투자자에 의해 인수 된 후 bitstamp ' 글로벌 확장 '을 향해 찾고](https://github.com/theyapapa/cryptonews/blob/ko/bitstamp-is-looking-towards-global-expansion-after-being-acquired-by-south-korean-investors-c76edf46.md)
 * 2018-10-30 [$200 미만,이 더 리 움 거래는 시장에서 약간의 침체](https://github.com/theyapapa/cryptonews/blob/ko/slight-slump-in-markets-continues-ethereum-trades-below-200-257c1659.md)
 * 2018-10-30 [암호화 교환 서비스 도움 bithumb 복구 100만 XRP 후 대규모 6 월 해킹](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-service-helps-bithumb-recover-1-million-xrp-after-massive-june-hack-13a71839.md)
