@@ -1,3 +1,4 @@
+* 2018-10-30 [Новая Зеландия Gov't институт вопросы Грант крипто бумажник и торговая служба](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-govt-backed-institute-issues-grant-to-crypto-wallet-and-trading-service-222ce56d.md)
 * 2018-10-30 [Китайские розничные гигантские JD.com запускает Блокчейн исследовательской лаборатории](https://github.com/theyapapa/cryptonews/blob/ru/chinese-retail-giant-jdcom-launches-blockchain-research-lab-f4ec75e6.md)
 * 2018-10-30 [Bitstamp смотрит на "Глобальное расширение" после того, как приобрели южнокорейские инвесторы](https://github.com/theyapapa/cryptonews/blob/ru/bitstamp-is-looking-towards-global-expansion-after-being-acquired-by-south-korean-investors-c76edf46.md)
 * 2018-10-30 [Небольшое падение рынка продолжается, Эфириум торги ниже $200](https://github.com/theyapapa/cryptonews/blob/ru/slight-slump-in-markets-continues-ethereum-trades-below-200-257c1659.md)
