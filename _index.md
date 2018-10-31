@@ -1,3 +1,4 @@
+* 2018-10-31 [외환 논란의 대가로 자금 세탁을 의심 하는 링크를 가진 펀드를 동결](https://github.com/theyapapa/cryptonews/blob/ko/binance-freezes-funds-with-suspected-money-laundering-links-from-controversial-exchange-wex-04a7bc88.md)
 * 2018-10-31 [erc-20 공동 저자 사기 토큰 판매에서 투자자를 보호 하기 위해 새로운 ICO 모델 제안](https://github.com/theyapapa/cryptonews/blob/ko/erc-20-co-author-proposes-new-ico-model-to-protect-investors-from-fraudulent-token-sales-02f24250.md)
 * 2018-10-31 [비트 코인 백서 – 사토시의 비전은 생명을 가져다 준 10 년](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-whitepaper-10-years-since-satoshis-vision-was-brought-to-life-d1546dfe.md)
 * 2018-10-31 [coinbase Exec는 곧 IPO ' 언제 든 지 '에 대 한 계획을 거부, '에 게 최대 추가 할 계획을 보여준다 300 동전](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exec-denies-plans-for-ipo-any-time-soon-reveals-plans-to-add-up-to-300-coins-82032faf.md)
