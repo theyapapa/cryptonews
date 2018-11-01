@@ -1,3 +1,4 @@
+* 2018-11-01 [' 나는 대통령이 되 고 싶지 않아 ': 독점적으로 2020 경주에서 암호를 홍보 존 m카페](https://github.com/theyapapa/cryptonews/blob/ko/i-dont-want-to-be-president-john-mcaffee-to-exclusively-promote-crypto-in-2020-race-b6a9d609.md)
 * 2018-11-01 [비트 코인 ATM 운영자 coinsource는 ' bitlicense '와 함께 뉴욕 레 귤 레이 터의 녹색 빛을 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-atm-operator-coinsource-gets-new-york-regulators-green-light-with-bitlicense-0e81cb6b.md)
 * 2018-11-01 [논란의 여 지에 대 한 논쟁 후 새로운 은행 파트너 deltec 확인](https://github.com/theyapapa/cryptonews/blob/ko/controversial-stablecoin-tether-confirms-new-banking-partner-deltec-after-weeks-of-rumors-b58715d6.md)
 * 2018-11-01 [최고 암호 유도체 플랫폼의 CEO: 암호 베어 시장은 다른 18 개월을 지속 할 수](https://github.com/theyapapa/cryptonews/blob/ko/ceo-of-top-crypto-derivatives-platform-crypto-bear-market-could-last-another-18-months-89744d8c.md)
