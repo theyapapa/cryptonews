@@ -1,3 +1,4 @@
+* 2018-11-01 [Гонконг выДает новые правила для регулирования фондов Криптовалют и бирж](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-issues-new-rules-to-regulate-cryptocurrency-funds-and-exchanges-ed65a107.md)
 * 2018-10-31 [Отчет: Бисумб подПисывает сделку с американской фирмой, чтобы открыть обмен токенов безопасности](https://github.com/theyapapa/cryptonews/blob/ru/report-bithumb-signs-deal-with-us-fintech-firm-to-open-security-token-exchange-42f89383.md)
 * 2018-10-31 [Российский промышленный союз создаст арбитражный совет по спорам, связанным с криптой](https://github.com/theyapapa/cryptonews/blob/ru/russian-industrialist-union-to-create-arbitration-board-for-crypto-related-disputes-a1b4dbab.md)
 * 2018-10-31 [Круг объединяет отраслевые органы для разработки глобальных стандартов шифрования](https://github.com/theyapapa/cryptonews/blob/ru/circle-joins-industry-body-for-developing-global-crypto-standards-b4cdf858.md)
