@@ -1,3 +1,4 @@
+* 2018-11-01 [Генеральный директор Top Crypto произВодные платформы: Crypto Bear Market может длиться еще 18 месяцев](https://github.com/theyapapa/cryptonews/blob/ru/ceo-of-top-crypto-derivatives-platform-crypto-bear-market-could-last-another-18-months-89744d8c.md)
 * 2018-11-01 [Эфириум 2,0 запуск ' действительно не так далеко, ' говорит Виталик Бутерин в Девкон4 Keynote](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-20-launch-really-not-so-far-away-says-vitalik-buterin-in-devcon4-keynote-4cc629ab.md)
 * 2018-11-01 [Джейми Даймон комментарии по Bitcoin еще раз, говорит, что он не дает sh * t об этом](https://github.com/theyapapa/cryptonews/blob/ru/jamie-dimon-comments-on-bitcoin-yet-again-says-he-doesnt-give-a-sht-about-it-ea40b036.md)
 * 2018-11-01 [Гонконг выДает новые правила для регулирования фондов Криптовалют и бирж](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-issues-new-rules-to-regulate-cryptocurrency-funds-and-exchanges-ed65a107.md)
