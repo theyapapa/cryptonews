@@ -1,3 +1,4 @@
+* 2018-11-01 [논란의 여 지에 대 한 논쟁 후 새로운 은행 파트너 deltec 확인](https://github.com/theyapapa/cryptonews/blob/ko/controversial-stablecoin-tether-confirms-new-banking-partner-deltec-after-weeks-of-rumors-b58715d6.md)
 * 2018-11-01 [최고 암호 유도체 플랫폼의 CEO: 암호 베어 시장은 다른 18 개월을 지속 할 수](https://github.com/theyapapa/cryptonews/blob/ko/ceo-of-top-crypto-derivatives-platform-crypto-bear-market-could-last-another-18-months-89744d8c.md)
 * 2018-11-01 [에이 더 리 움 2.0는 ' 정말 멀지 않은 곳에 ' 출시 Devcon4 기조 연설에서 비 alik Buterin를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-20-launch-really-not-so-far-away-says-vitalik-buterin-in-devcon4-keynote-4cc629ab.md)
 * 2018-11-01 [제이미 dimon 다시 비트 코인에 대 한 의견은, 그는 그것에 대해 Sh * t를 주지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/jamie-dimon-comments-on-bitcoin-yet-again-says-he-doesnt-give-a-sht-about-it-ea40b036.md)
