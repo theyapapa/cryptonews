@@ -1,3 +1,4 @@
+* 2018-10-31 [Отчет: Бисумб подПисывает сделку с американской фирмой, чтобы открыть обмен токенов безопасности](https://github.com/theyapapa/cryptonews/blob/ru/report-bithumb-signs-deal-with-us-fintech-firm-to-open-security-token-exchange-42f89383.md)
 * 2018-10-31 [Российский промышленный союз создаст арбитражный совет по спорам, связанным с криптой](https://github.com/theyapapa/cryptonews/blob/ru/russian-industrialist-union-to-create-arbitration-board-for-crypto-related-disputes-a1b4dbab.md)
 * 2018-10-31 [Круг объединяет отраслевые органы для разработки глобальных стандартов шифрования](https://github.com/theyapapa/cryptonews/blob/ru/circle-joins-industry-body-for-developing-global-crypto-standards-b4cdf858.md)
 * 2018-10-31 [Гонконгские партнеры по фондовой бирже с Блокчейн-фирмой улучшают процесс после торговли](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-stock-exchange-partners-with-blockchain-firm-to-improve-post-trade-process-98b3c828.md)
