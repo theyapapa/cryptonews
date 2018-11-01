@@ -1,3 +1,4 @@
+* 2018-10-31 [보고서: bithumb 표시 보안 토큰 교환을 열기 위해 미국 핀 테크 회사와 거래](https://github.com/theyapapa/cryptonews/blob/ko/report-bithumb-signs-deal-with-us-fintech-firm-to-open-security-token-exchange-42f89383.md)
 * 2018-10-31 [러시아 제조업 연합, 암호 관련 분쟁에 대 한 중재 위원회 작성](https://github.com/theyapapa/cryptonews/blob/ko/russian-industrialist-union-to-create-arbitration-board-for-crypto-related-disputes-a1b4dbab.md)
 * 2018-10-31 [글로벌 암호화 표준을 개발 하기 위한 서클은 산업 기관에 합류](https://github.com/theyapapa/cryptonews/blob/ko/circle-joins-industry-body-for-developing-global-crypto-standards-b4cdf858.md)
 * 2018-10-31 [홍콩 증권 거래소, 블록 체인 회사와의 협력을 통해 거래 후 과정 개선](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-stock-exchange-partners-with-blockchain-firm-to-improve-post-trade-process-98b3c828.md)
