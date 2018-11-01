@@ -1,3 +1,4 @@
+* 2018-11-01 [제이미 dimon 다시 비트 코인에 대 한 의견은, 그는 그것에 대해 Sh * t를 주지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/jamie-dimon-comments-on-bitcoin-yet-again-says-he-doesnt-give-a-sht-about-it-ea40b036.md)
 * 2018-11-01 [홍콩은 가상 화폐 기금과 거래소를 규제 하기 위한 새로운 규칙을 발행 합니다](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-issues-new-rules-to-regulate-cryptocurrency-funds-and-exchanges-ed65a107.md)
 * 2018-10-31 [보고서: bithumb 표시 보안 토큰 교환을 열기 위해 미국 핀 테크 회사와 거래](https://github.com/theyapapa/cryptonews/blob/ko/report-bithumb-signs-deal-with-us-fintech-firm-to-open-security-token-exchange-42f89383.md)
 * 2018-10-31 [러시아 제조업 연합, 암호 관련 분쟁에 대 한 중재 위원회 작성](https://github.com/theyapapa/cryptonews/blob/ko/russian-industrialist-union-to-create-arbitration-board-for-crypto-related-disputes-a1b4dbab.md)
