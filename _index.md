@@ -1,3 +1,4 @@
+* 2018-11-01 [검은 바위 사장: 업계의 ' 합법적인 ' 경우에는 암호 화폐 ETF가 올 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/blackrock-ceo-crypto-etf-will-come-when-industry-is-legitimate-fb8dcdbf.md)
 * 2018-11-01 [' 블록 체인 아일랜드 '로 성공을 거둔 AI 전략 개발 몰타](https://github.com/theyapapa/cryptonews/blob/ko/after-becoming-blockchain-island-malta-to-develop-artificial-intelligence-strategy-b700242f.md)
 * 2018-11-01 [' 나는 대통령이 되 고 싶지 않아 ': 독점적으로 2020 경주에서 암호를 홍보 존 m카페](https://github.com/theyapapa/cryptonews/blob/ko/i-dont-want-to-be-president-john-mcaffee-to-exclusively-promote-crypto-in-2020-race-b6a9d609.md)
 * 2018-11-01 [비트 코인 ATM 운영자 coinsource는 ' bitlicense '와 함께 뉴욕 레 귤 레이 터의 녹색 빛을 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-atm-operator-coinsource-gets-new-york-regulators-green-light-with-bitlicense-0e81cb6b.md)
