@@ -1,3 +1,4 @@
+* 2018-11-02 [Crypto Wallet открывает «самую безопасную торговую платформу на рынке» с фиксированными ставками](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-opens-most-secure-trading-platform-on-the-market-with-fixed-rates-ae945732.md)
 * 2018-11-02 [Финансовая власть Новой Зеландии черный список трех локальных крипто-платформ](https://github.com/theyapapa/cryptonews/blob/ru/new-zealands-financial-authority-blacklists-three-local-crypto-platforms-17ddee7f.md)
 * 2018-11-02 [Бразильский налоговый регулятор публикует проект по налогообложению Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-tax-regulator-publishes-draft-on-cryptocurrency-taxation-1a85d9c0.md)
 * 2018-11-01 [«Крестный отец ETF» говорит Bitcoin биржевые фонды будут утверждены "нет времени скоро"](https://github.com/theyapapa/cryptonews/blob/ru/godfather-of-etfs-says-bitcoin-exchange-traded-funds-will-be-approved-no-time-soon-4befd6bc.md)
