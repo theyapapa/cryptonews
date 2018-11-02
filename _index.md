@@ -1,3 +1,4 @@
+* 2018-11-01 [«Крестный отец ETF» говорит Bitcoin биржевые фонды будут утверждены "нет времени скоро"](https://github.com/theyapapa/cryptonews/blob/ru/godfather-of-etfs-says-bitcoin-exchange-traded-funds-will-be-approved-no-time-soon-4befd6bc.md)
 * 2018-11-01 [Доход от крипто-инвестиционной фирмы достигает рекордных $330 млн в 2018, несмотря на медвежий рынок](https://github.com/theyapapa/cryptonews/blob/ru/crypto-investment-firms-revenue-reaches-record-330-mln-in-2018-despite-bear-market-e9acbe7f.md)
 * 2018-11-01 [Генеральный директор черной горы: крипто ЕФО придет, когда промышленность является "законным"](https://github.com/theyapapa/cryptonews/blob/ru/blackrock-ceo-crypto-etf-will-come-when-industry-is-legitimate-fb8dcdbf.md)
 * 2018-11-01 [Мальта разРаботает стратегию AI после успеха как "Блокчейн-Айленд"](https://github.com/theyapapa/cryptonews/blob/ru/after-becoming-blockchain-island-malta-to-develop-artificial-intelligence-strategy-b700242f.md)
