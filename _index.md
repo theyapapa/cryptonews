@@ -1,3 +1,4 @@
+* 2018-11-02 [Финансовая консалтинговая фирма деВере запускает арбитражное решение Crypto Trading](https://github.com/theyapapa/cryptonews/blob/ru/financial-consulting-firm-devere-launches-arbitrage-crypto-trading-solution-78decec5.md)
 * 2018-11-02 [Crypto Wallet открывает «самую безопасную торговую платформу на рынке» с фиксированными ставками](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-opens-most-secure-trading-platform-on-the-market-with-fixed-rates-ae945732.md)
 * 2018-11-02 [Финансовая власть Новой Зеландии черный список трех локальных крипто-платформ](https://github.com/theyapapa/cryptonews/blob/ru/new-zealands-financial-authority-blacklists-three-local-crypto-platforms-17ddee7f.md)
 * 2018-11-02 [Бразильский налоговый регулятор публикует проект по налогообложению Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-tax-regulator-publishes-draft-on-cryptocurrency-taxation-1a85d9c0.md)
