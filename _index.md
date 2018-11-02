@@ -1,3 +1,4 @@
+* 2018-11-02 [뉴질랜드의 금융 당국, 3 개 지역 암호화 플랫폼 블랙 리스트](https://github.com/theyapapa/cryptonews/blob/ko/new-zealands-financial-authority-blacklists-three-local-crypto-platforms-17ddee7f.md)
 * 2018-11-02 [브라질 세금 규제는 암호 화폐 과세에 초안을 게시](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-tax-regulator-publishes-draft-on-cryptocurrency-taxation-1a85d9c0.md)
 * 2018-11-01 [' etf의 대 부 '는 비트 코인 거래소에서 거래 된 자금이 ' 곧 시간 ' 승인 될 것 이라고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/godfather-of-etfs-says-bitcoin-exchange-traded-funds-will-be-approved-no-time-soon-4befd6bc.md)
 * 2018-11-01 [암호 투자 회사의 수익에 도달 레코드 $330 mln 2018, 곰 시장에도 불구 하 고](https://github.com/theyapapa/cryptonews/blob/ko/crypto-investment-firms-revenue-reaches-record-330-mln-in-2018-despite-bear-market-e9acbe7f.md)
