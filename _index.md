@@ -1,3 +1,4 @@
+* 2018-11-02 [Финансовая власть Новой Зеландии черный список трех локальных крипто-платформ](https://github.com/theyapapa/cryptonews/blob/ru/new-zealands-financial-authority-blacklists-three-local-crypto-platforms-17ddee7f.md)
 * 2018-11-02 [Бразильский налоговый регулятор публикует проект по налогообложению Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-tax-regulator-publishes-draft-on-cryptocurrency-taxation-1a85d9c0.md)
 * 2018-11-01 [«Крестный отец ETF» говорит Bitcoin биржевые фонды будут утверждены "нет времени скоро"](https://github.com/theyapapa/cryptonews/blob/ru/godfather-of-etfs-says-bitcoin-exchange-traded-funds-will-be-approved-no-time-soon-4befd6bc.md)
 * 2018-11-01 [Доход от крипто-инвестиционной фирмы достигает рекордных $330 млн в 2018, несмотря на медвежий рынок](https://github.com/theyapapa/cryptonews/blob/ru/crypto-investment-firms-revenue-reaches-record-330-mln-in-2018-despite-bear-market-e9acbe7f.md)
