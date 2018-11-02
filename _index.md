@@ -1,3 +1,4 @@
+* 2018-11-01 [Генеральный директор черной горы: крипто ЕФО придет, когда промышленность является "законным"](https://github.com/theyapapa/cryptonews/blob/ru/blackrock-ceo-crypto-etf-will-come-when-industry-is-legitimate-fb8dcdbf.md)
 * 2018-11-01 [Мальта разРаботает стратегию AI после успеха как "Блокчейн-Айленд"](https://github.com/theyapapa/cryptonews/blob/ru/after-becoming-blockchain-island-malta-to-develop-artificial-intelligence-strategy-b700242f.md)
 * 2018-11-01 ["Я не хочу быть президентом": Джон McAffee исключительно соДействовать Crypto в 2020 гонка](https://github.com/theyapapa/cryptonews/blob/ru/i-dont-want-to-be-president-john-mcaffee-to-exclusively-promote-crypto-in-2020-race-b6a9d609.md)
 * 2018-11-01 [Bitcoin ATM оператор Коинсаурце получает Нью-Йорк регулятор зеленый свет с ' Bitlicense '](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-atm-operator-coinsource-gets-new-york-regulators-green-light-with-bitlicense-0e81cb6b.md)
