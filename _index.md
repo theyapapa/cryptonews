@@ -1,3 +1,4 @@
+* 2018-11-01 [암호 투자 회사의 수익에 도달 레코드 $330 mln 2018, 곰 시장에도 불구 하 고](https://github.com/theyapapa/cryptonews/blob/ko/crypto-investment-firms-revenue-reaches-record-330-mln-in-2018-despite-bear-market-e9acbe7f.md)
 * 2018-11-01 [검은 바위 사장: 업계의 ' 합법적인 ' 경우에는 암호 화폐 ETF가 올 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/blackrock-ceo-crypto-etf-will-come-when-industry-is-legitimate-fb8dcdbf.md)
 * 2018-11-01 [' 블록 체인 아일랜드 '로 성공을 거둔 AI 전략 개발 몰타](https://github.com/theyapapa/cryptonews/blob/ko/after-becoming-blockchain-island-malta-to-develop-artificial-intelligence-strategy-b700242f.md)
 * 2018-11-01 [' 나는 대통령이 되 고 싶지 않아 ': 독점적으로 2020 경주에서 암호를 홍보 존 m카페](https://github.com/theyapapa/cryptonews/blob/ko/i-dont-want-to-be-president-john-mcaffee-to-exclusively-promote-crypto-in-2020-race-b6a9d609.md)
