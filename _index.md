@@ -1,3 +1,4 @@
+* 2018-11-01 [CEO de BlackRock: Crypto ETF vendrá cuando la industria sea "legítima"](https://github.com/theyapapa/cryptonews/blob/es/blackrock-ceo-crypto-etf-will-come-when-industry-is-legitimate-fb8dcdbf.md)
 * 2018-11-01 [Malta para desarrollar la estrategia de AI tras el éxito como ' Isla bloques '](https://github.com/theyapapa/cryptonews/blob/es/after-becoming-blockchain-island-malta-to-develop-artificial-intelligence-strategy-b700242f.md)
 * 2018-11-01 ["Yo no quiero ser Presidente": John McAffee para promover exclusivamente Crypto en 2020 carrera](https://github.com/theyapapa/cryptonews/blob/es/i-dont-want-to-be-president-john-mcaffee-to-exclusively-promote-crypto-in-2020-race-b6a9d609.md)
 * 2018-11-01 [El operador de ATM de Bitcoin Coinsource obtiene la luz verde del regulador de Nueva York con ' Bitlicense '](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-atm-operator-coinsource-gets-new-york-regulators-green-light-with-bitlicense-0e81cb6b.md)
