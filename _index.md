@@ -1,3 +1,4 @@
+* 2018-11-02 [암호화 지갑은 고정 요금으로 ' 시중에서 가장 안전한 거래 플랫폼 '을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-wallet-opens-most-secure-trading-platform-on-the-market-with-fixed-rates-ae945732.md)
 * 2018-11-02 [뉴질랜드의 금융 당국, 3 개 지역 암호화 플랫폼 블랙 리스트](https://github.com/theyapapa/cryptonews/blob/ko/new-zealands-financial-authority-blacklists-three-local-crypto-platforms-17ddee7f.md)
 * 2018-11-02 [브라질 세금 규제는 암호 화폐 과세에 초안을 게시](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-tax-regulator-publishes-draft-on-cryptocurrency-taxation-1a85d9c0.md)
 * 2018-11-01 [' etf의 대 부 '는 비트 코인 거래소에서 거래 된 자금이 ' 곧 시간 ' 승인 될 것 이라고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/godfather-of-etfs-says-bitcoin-exchange-traded-funds-will-be-approved-no-time-soon-4befd6bc.md)
