@@ -1,3 +1,4 @@
+* 2018-11-02 [SEC 보고서는 회계연도 말에 ' 수십 ' 개의 ico 조사를 기록 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-report-notes-dozens-of-investigations-into-icos-at-end-of-fiscal-year-08472791.md)
 * 2018-11-02 [글로벌 암호화 마이닝의 동향: 미국-중국 무역 전쟁에도 불구 하 고, 삼성 및 GMO 입력으로 활동 급증](https://github.com/theyapapa/cryptonews/blob/ko/trend-of-global-crypto-mining-despite-the-us-china-trade-war-activity-surges-as-samsung-and-gmo-enter-fabe4693.md)
 * 2018-11-02 [유럽 대상 암호 화폐 구금 서비스 멀티 지갑은 몰타의 양육 면허증에 적용 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/europe-targeted-crypto-custodial-service-multiwallet-applies-for-custodial-license-in-malta-5ef8a590.md)
 * 2018-11-02 [금융 컨설팅 회사의 드 베가 차 익 거래 암호 트레이딩 솔루션 출시](https://github.com/theyapapa/cryptonews/blob/ko/financial-consulting-firm-devere-launches-arbitrage-crypto-trading-solution-78decec5.md)
