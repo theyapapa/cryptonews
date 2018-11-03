@@ -1,3 +1,4 @@
+* 2018-11-03 [El Comité Estatal de la Duma de Rusia considera el lanzamiento del Stablecoin emitido por el Banco Central](https://github.com/theyapapa/cryptonews/blob/es/russian-state-duma-committee-considers-launch-of-central-bank-issued-stablecoin-3c6e15b8.md)
 * 2018-11-02 [Los mercados criptográficos siguen comerciando de lado, con ligeras ganancias entre las 20 mejores monedas](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-keep-trading-sideways-with-slight-gains-among-the-top-20-coins-435609ea.md)
 * 2018-11-02 [Coinbase lanza soporte para token de atención básica (BAT)](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-support-for-basic-attention-token-bat-e5c79d9a.md)
 * 2018-11-02 [Informe de la SEC notas "docenas" de investigaciones sobre ICOs al final del año fiscal](https://github.com/theyapapa/cryptonews/blob/es/sec-report-notes-dozens-of-investigations-into-icos-at-end-of-fiscal-year-08472791.md)
