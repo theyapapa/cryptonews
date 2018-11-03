@@ -1,3 +1,4 @@
+* 2018-11-02 [가상 화폐 시장은 거래를 옆으로 유지 하 고 상위 20 개 코인 사이에 약간의 이득을 얻습니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-keep-trading-sideways-with-slight-gains-among-the-top-20-coins-435609ea.md)
 * 2018-11-02 [coinbase는 기본 주의 토큰 (BAT)에 대 한 지원을 출시 합니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-launches-support-for-basic-attention-token-bat-e5c79d9a.md)
 * 2018-11-02 [SEC 보고서는 회계연도 말에 ' 수십 ' 개의 ico 조사를 기록 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-report-notes-dozens-of-investigations-into-icos-at-end-of-fiscal-year-08472791.md)
 * 2018-11-02 [글로벌 암호화 마이닝의 동향: 미국-중국 무역 전쟁에도 불구 하 고, 삼성 및 GMO 입력으로 활동 급증](https://github.com/theyapapa/cryptonews/blob/ko/trend-of-global-crypto-mining-despite-the-us-china-trade-war-activity-surges-as-samsung-and-gmo-enter-fabe4693.md)
