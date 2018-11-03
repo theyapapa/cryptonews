@@ -1,3 +1,4 @@
+* 2018-11-03 [Los mercados criptográficos ven señales mixtas mientras BCH y XLM crecen significativamente](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mixed-signals-while-bch-and-xlm-grow-significantly-74be2bda.md)
 * 2018-11-03 [El Comité Estatal de la Duma de Rusia considera el lanzamiento del Stablecoin emitido por el Banco Central](https://github.com/theyapapa/cryptonews/blob/es/russian-state-duma-committee-considers-launch-of-central-bank-issued-stablecoin-3c6e15b8.md)
 * 2018-11-02 [Los mercados criptográficos siguen comerciando de lado, con ligeras ganancias entre las 20 mejores monedas](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-keep-trading-sideways-with-slight-gains-among-the-top-20-coins-435609ea.md)
 * 2018-11-02 [Coinbase lanza soporte para token de atención básica (BAT)](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-support-for-basic-attention-token-bat-e5c79d9a.md)
