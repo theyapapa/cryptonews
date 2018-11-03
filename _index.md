@@ -1,3 +1,4 @@
+* 2018-11-03 [Крипто-рынки видят смешанные сигналы при значительном росте XLM](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mixed-signals-while-bch-and-xlm-grow-significantly-74be2bda.md)
 * 2018-11-03 [Комитет Госдумы РФ расСматривает запуск Stablecoin, выпущенного Центральным банком](https://github.com/theyapapa/cryptonews/blob/ru/russian-state-duma-committee-considers-launch-of-central-bank-issued-stablecoin-3c6e15b8.md)
 * 2018-11-02 [Crypto Markets Держите торговлю боком, с небольшим выигрышем среди 20 лучших монет](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-keep-trading-sideways-with-slight-gains-among-the-top-20-coins-435609ea.md)
 * 2018-11-02 [Coinbase запускает поддержку базового маркера внимания (BAT)](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-launches-support-for-basic-attention-token-bat-e5c79d9a.md)
