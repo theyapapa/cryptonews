@@ -1,3 +1,4 @@
+* 2018-11-03 [Топ крипто исполнители Обзор: Bitcoin наличными, Звездный, Monero, EOS, пульсации, АРК](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-bitcoin-cash-stellar-monero-eos-ripple-a53d30e6.md)
 * 2018-11-03 [Крипто-рынки видят смешанные сигналы при значительном росте XLM](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mixed-signals-while-bch-and-xlm-grow-significantly-74be2bda.md)
 * 2018-11-03 [Комитет Госдумы РФ расСматривает запуск Stablecoin, выпущенного Центральным банком](https://github.com/theyapapa/cryptonews/blob/ru/russian-state-duma-committee-considers-launch-of-central-bank-issued-stablecoin-3c6e15b8.md)
 * 2018-11-02 [Crypto Markets Держите торговлю боком, с небольшим выигрышем среди 20 лучших монет](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-keep-trading-sideways-with-slight-gains-among-the-top-20-coins-435609ea.md)
