@@ -1,3 +1,4 @@
+* 2018-11-04 [그레이트 월을 둘러싸는: 중국에서 암호 화폐의 체 커드 사가, 2018](https://github.com/theyapapa/cryptonews/blob/ko/skirting-the-great-wall-the-chequered-saga-of-crypto-in-china-2018-c68eebff.md)
 * 2018-11-03 [새로운 cryptopunk 게임: 플레이어는 실제 상을 얻기 위해 미래 종말 이후 세계에서 싸움](https://github.com/theyapapa/cryptonews/blob/ko/new-cryptopunk-game-players-fight-in-futuristic-post-apocalyptic-world-to-get-real-prizes-b6a69bd7.md)
 * 2018-11-03 [최고의 암호 수행자 개요: 비트 코인 현금, 스텔라, monero, EOS, 리플, 방주](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bitcoin-cash-stellar-monero-eos-ripple-a53d30e6.md)
 * 2018-11-03 [암호화 시장, bch 및 xlm이 크게 성장 하는 동안 혼합 신호 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mixed-signals-while-bch-and-xlm-grow-significantly-74be2bda.md)
