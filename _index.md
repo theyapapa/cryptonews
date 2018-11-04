@@ -1,3 +1,4 @@
+* 2018-11-04 [비트 코인 현금 스파이크에 의해 뒷받침 되는 하드 포크의 출시 20%](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-spikes-20-percent-in-the-wake-of-upcoming-hard-fork-backed-by-binance-64900f11.md)
 * 2018-11-04 [그레이트 월을 둘러싸는: 중국에서 암호 화폐의 체 커드 사가, 2018](https://github.com/theyapapa/cryptonews/blob/ko/skirting-the-great-wall-the-chequered-saga-of-crypto-in-china-2018-c68eebff.md)
 * 2018-11-03 [새로운 cryptopunk 게임: 플레이어는 실제 상을 얻기 위해 미래 종말 이후 세계에서 싸움](https://github.com/theyapapa/cryptonews/blob/ko/new-cryptopunk-game-players-fight-in-futuristic-post-apocalyptic-world-to-get-real-prizes-b6a69bd7.md)
 * 2018-11-03 [최고의 암호 수행자 개요: 비트 코인 현금, 스텔라, monero, EOS, 리플, 방주](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bitcoin-cash-stellar-monero-eos-ripple-a53d30e6.md)
