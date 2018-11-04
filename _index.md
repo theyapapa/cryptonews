@@ -1,3 +1,4 @@
+* 2018-11-04 [Bordeando la gran muralla: la saga a cuadros de Crypto en China, 2018](https://github.com/theyapapa/cryptonews/blob/es/skirting-the-great-wall-the-chequered-saga-of-crypto-in-china-2018-c68eebff.md)
 * 2018-11-03 [Nuevo juego de Cryptopunk: los jugadores luchan en el mundo post-apocalíptico futurista para obtener premios reales](https://github.com/theyapapa/cryptonews/blob/es/new-cryptopunk-game-players-fight-in-futuristic-post-apocalyptic-world-to-get-real-prizes-b6a69bd7.md)
 * 2018-11-03 [Top Crypto Performer general: Bitcoin Cash, estelar, Monero, EOS, Ripple, ARK](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-bitcoin-cash-stellar-monero-eos-ripple-a53d30e6.md)
 * 2018-11-03 [Los mercados criptográficos ven señales mixtas mientras BCH y XLM crecen significativamente](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mixed-signals-while-bch-and-xlm-grow-significantly-74be2bda.md)
