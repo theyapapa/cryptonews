@@ -1,3 +1,4 @@
+* 2018-11-04 [미국 은행은 대부분의 블록 체인 특허를 보유 하 고 있지만 실제로는이를 사용 하 고 있습니까? ](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-has-the-most-blockchain-patents-but-is-it-actually-going-to-use-them-ebf96584.md)
 * 2018-11-04 [ AR 게임 플레이어, 실제 위치 사이의 ' 신뢰 '를 만드는 IBM 특허 블록 체인 시스템](https://github.com/theyapapa/cryptonews/blob/ko/ibm-patents-blockchain-system-to-create-trust-between-ar-game-players-real-world-locations-9fd51bd3.md)
 * 2018-11-04 [비트 코인 현금 스파이크에 의해 뒷받침 되는 하드 포크의 출시 20%](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-spikes-20-percent-in-the-wake-of-upcoming-hard-fork-backed-by-binance-64900f11.md)
 * 2018-11-04 [그레이트 월을 둘러싸는: 중국에서 암호 화폐의 체 커드 사가, 2018](https://github.com/theyapapa/cryptonews/blob/ko/skirting-the-great-wall-the-chequered-saga-of-crypto-in-china-2018-c68eebff.md)
