@@ -1,3 +1,4 @@
+* 2018-11-05 [BitMEX релизы вилка мониторинга инструмент в запуск до Bitcoin наличными жесткий вилка](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-releases-fork-monitoring-tool-in-run-up-to-bitcoin-cash-hard-fork-959da554.md)
 * 2018-11-05 [Bit.ly сообщается блоки ' 200 ' ссылки с Андреаса Antonopoulos ' ' мастеринг Эфириум '](https://github.com/theyapapa/cryptonews/blob/ru/bitly-reportedly-blocks-200-links-from-andreas-antonopoulos-mastering-ethereum-5bca0349.md)
 * 2018-11-05 [Торговый Сват: платформа пар клиентов с финансовыми экспертами](https://github.com/theyapapa/cryptonews/blob/ru/trading-matchmaker-platform-pairs-clients-with-financial-experts-1ddfa5f0.md)
 * 2018-11-04 [Банк Америки имеет большинство Блокчейн патентов, но это на самом деле собирается использовать их? ](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-has-the-most-blockchain-patents-but-is-it-actually-going-to-use-them-ebf96584.md)
