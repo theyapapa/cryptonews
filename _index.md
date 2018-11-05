@@ -1,3 +1,4 @@
+* 2018-11-05 [거래 매치 메이커: 금융 전문가와의 고객 쌍](https://github.com/theyapapa/cryptonews/blob/ko/trading-matchmaker-platform-pairs-clients-with-financial-experts-1ddfa5f0.md)
 * 2018-11-04 [미국 은행은 대부분의 블록 체인 특허를 보유 하 고 있지만 실제로는이를 사용 하 고 있습니까? ](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-has-the-most-blockchain-patents-but-is-it-actually-going-to-use-them-ebf96584.md)
 * 2018-11-04 [ AR 게임 플레이어, 실제 위치 사이의 ' 신뢰 '를 만드는 IBM 특허 블록 체인 시스템](https://github.com/theyapapa/cryptonews/blob/ko/ibm-patents-blockchain-system-to-create-trust-between-ar-game-players-real-world-locations-9fd51bd3.md)
 * 2018-11-04 [비트 코인 현금 스파이크에 의해 뒷받침 되는 하드 포크의 출시 20%](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-spikes-20-percent-in-the-wake-of-upcoming-hard-fork-backed-by-binance-64900f11.md)
