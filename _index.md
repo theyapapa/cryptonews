@@ -1,3 +1,4 @@
+* 2018-11-05 [비트 멕 스 출시 포크 모니터링 도구 Bitcoin 현금 하드 포크로 실행](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-releases-fork-monitoring-tool-in-run-up-to-bitcoin-cash-hard-fork-959da554.md)
 * 2018-11-05 ["Bit.ly ' 안드레아스 안토니오 로스 ' 마스터링에이 더 리 움 ' 링크 블록 ' 200 '](https://github.com/theyapapa/cryptonews/blob/ko/bitly-reportedly-blocks-200-links-from-andreas-antonopoulos-mastering-ethereum-5bca0349.md)
 * 2018-11-05 [거래 매치 메이커: 금융 전문가와의 고객 쌍](https://github.com/theyapapa/cryptonews/blob/ko/trading-matchmaker-platform-pairs-clients-with-financial-experts-1ddfa5f0.md)
 * 2018-11-04 [미국 은행은 대부분의 블록 체인 특허를 보유 하 고 있지만 실제로는이를 사용 하 고 있습니까? ](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-has-the-most-blockchain-patents-but-is-it-actually-going-to-use-them-ebf96584.md)
