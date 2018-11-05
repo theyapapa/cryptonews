@@ -1,3 +1,4 @@
+* 2018-11-04 [Банк Америки имеет большинство Блокчейн патентов, но это на самом деле собирается использовать их? ](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-has-the-most-blockchain-patents-but-is-it-actually-going-to-use-them-ebf96584.md)
 * 2018-11-04 [ IBM патентов Блокчейн системы для создания "доверие" между игроками AR игры, реальный мир местах](https://github.com/theyapapa/cryptonews/blob/ru/ibm-patents-blockchain-system-to-create-trust-between-ar-game-players-real-world-locations-9fd51bd3.md)
 * 2018-11-04 [Bitcoin Cash шипы 20 процентов в результате предСтоящего жесткого вилка при Binance](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-cash-spikes-20-percent-in-the-wake-of-upcoming-hard-fork-backed-by-binance-64900f11.md)
 * 2018-11-04 [Плинтус Великая стена: клетчатая Сага крипто в Китае, 2018](https://github.com/theyapapa/cryptonews/blob/ru/skirting-the-great-wall-the-chequered-saga-of-crypto-in-china-2018-c68eebff.md)
