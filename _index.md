@@ -1,3 +1,4 @@
+* 2018-11-05 [Bit.ly сообщается блоки ' 200 ' ссылки с Андреаса Antonopoulos ' ' мастеринг Эфириум '](https://github.com/theyapapa/cryptonews/blob/ru/bitly-reportedly-blocks-200-links-from-andreas-antonopoulos-mastering-ethereum-5bca0349.md)
 * 2018-11-05 [Торговый Сват: платформа пар клиентов с финансовыми экспертами](https://github.com/theyapapa/cryptonews/blob/ru/trading-matchmaker-platform-pairs-clients-with-financial-experts-1ddfa5f0.md)
 * 2018-11-04 [Банк Америки имеет большинство Блокчейн патентов, но это на самом деле собирается использовать их? ](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-has-the-most-blockchain-patents-but-is-it-actually-going-to-use-them-ebf96584.md)
 * 2018-11-04 [ IBM патентов Блокчейн системы для создания "доверие" между игроками AR игры, реальный мир местах](https://github.com/theyapapa/cryptonews/blob/ru/ibm-patents-blockchain-system-to-create-trust-between-ar-game-players-real-world-locations-9fd51bd3.md)
