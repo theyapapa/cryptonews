@@ -1,3 +1,4 @@
+* 2018-11-05 [' dapps를 간단 하 게 만들기 ': 분산형 경제를 대량으로 도입 하기 위한 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/creating-dapps-can-be-simple-platform-to-bring-decentralized-economy-to-mass-adoption-753458a0.md)
 * 2018-11-05 [비트 멕 스 출시 포크 모니터링 도구 Bitcoin 현금 하드 포크로 실행](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-releases-fork-monitoring-tool-in-run-up-to-bitcoin-cash-hard-fork-959da554.md)
 * 2018-11-05 ["Bit.ly ' 안드레아스 안토니오 로스 ' 마스터링에이 더 리 움 ' 링크 블록 ' 200 '](https://github.com/theyapapa/cryptonews/blob/ko/bitly-reportedly-blocks-200-links-from-andreas-antonopoulos-mastering-ethereum-5bca0349.md)
 * 2018-11-05 [거래 매치 메이커: 금융 전문가와의 고객 쌍](https://github.com/theyapapa/cryptonews/blob/ko/trading-matchmaker-platform-pairs-clients-with-financial-experts-1ddfa5f0.md)
