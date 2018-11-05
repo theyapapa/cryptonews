@@ -1,3 +1,4 @@
+* 2018-11-05 [Encuesta: alemanes más jóvenes más inclinados a invertir en Cryptocurrencies](https://github.com/theyapapa/cryptonews/blob/es/survey-younger-germans-more-inclined-to-invest-in-cryptocurrencies-26e89a59.md)
 * 2018-11-05 [Japón: expertos en ciberseguridad afirman haber progresado en el seguimiento de los hackers de intercambio Zaif](https://github.com/theyapapa/cryptonews/blob/es/japan-cybersecurity-experts-claim-to-have-made-progress-in-tracking-zaif-exchange-hackers-0967a130.md)
 * 2018-11-05 [Ex-FED. Fiscal se volvió Crypto VC Katie Haun: Crypto está en el ' dial-up días '](https://github.com/theyapapa/cryptonews/blob/es/ex-fed-prosecutor-turned-crypto-vc-katie-haun-crypto-is-in-the-dial-up-days-1295bf66.md)
 * 2018-11-05 [Los mercados criptográficos ven una ola de verde generalizada, Bitcoin empuja $6.500](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-widespread-wave-of-green-bitcoin-pushes-6-500-a6ed1fba.md)
