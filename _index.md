@@ -1,3 +1,4 @@
+* 2018-11-05 [설문 조사: 더 젊은 독일인 가상 화폐에 투자 하는 경향이](https://github.com/theyapapa/cryptonews/blob/ko/survey-younger-germans-more-inclined-to-invest-in-cryptocurrencies-26e89a59.md)
 * 2018-11-05 [일본: 사이버 보안 전문가 들이 zaif 익스체인지 해커 들의 추적을 진행 하 고 있다고 주장 하다](https://github.com/theyapapa/cryptonews/blob/ko/japan-cybersecurity-experts-claim-to-have-made-progress-in-tracking-zaif-exchange-hackers-0967a130.md)
 * 2018-11-05 [전 연. 검사 암호 VC 케이티 haun: 암호는 ' 전화 접속 일 '에](https://github.com/theyapapa/cryptonews/blob/ko/ex-fed-prosecutor-turned-crypto-vc-katie-haun-crypto-is-in-the-dial-up-days-1295bf66.md)
 * 2018-11-05 [암호화 시장, 비트 코인의 광범위 한 물결 참조 $6500](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-widespread-wave-of-green-bitcoin-pushes-6-500-a6ed1fba.md)
