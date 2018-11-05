@@ -1,3 +1,4 @@
+* 2018-11-05 [BitMEX lanza la herramienta de supervisión de horquilla en el plazo de la horquilla de Bitcoin en efectivo duro](https://github.com/theyapapa/cryptonews/blob/es/bitmex-releases-fork-monitoring-tool-in-run-up-to-bitcoin-cash-hard-fork-959da554.md)
 * 2018-11-05 [Bit.ly, según se informa, bloquea los enlaces ' 200 ' de Andreas Antonopoulos ' ' Mastering Ethereum '](https://github.com/theyapapa/cryptonews/blob/es/bitly-reportedly-blocks-200-links-from-andreas-antonopoulos-mastering-ethereum-5bca0349.md)
 * 2018-11-05 [Casamentero de comercio: pares de plataformas clientes con expertos financieros](https://github.com/theyapapa/cryptonews/blob/es/trading-matchmaker-platform-pairs-clients-with-financial-experts-1ddfa5f0.md)
 * 2018-11-04 [Bank of America tiene las patentes más bloques, pero ¿realmente va a usarlas? ](https://github.com/theyapapa/cryptonews/blob/es/bank-of-america-has-the-most-blockchain-patents-but-is-it-actually-going-to-use-them-ebf96584.md)
