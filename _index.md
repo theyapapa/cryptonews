@@ -1,3 +1,4 @@
+* 2018-11-05 [전 연. 검사 암호 VC 케이티 haun: 암호는 ' 전화 접속 일 '에](https://github.com/theyapapa/cryptonews/blob/ko/ex-fed-prosecutor-turned-crypto-vc-katie-haun-crypto-is-in-the-dial-up-days-1295bf66.md)
 * 2018-11-05 [암호화 시장, 비트 코인의 광범위 한 물결 참조 $6500](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-widespread-wave-of-green-bitcoin-pushes-6-500-a6ed1fba.md)
 * 2018-11-05 [' dapps를 간단 하 게 만들기 ': 분산형 경제를 대량으로 도입 하기 위한 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/creating-dapps-can-be-simple-platform-to-bring-decentralized-economy-to-mass-adoption-753458a0.md)
 * 2018-11-05 [비트 멕 스 출시 포크 모니터링 도구 Bitcoin 현금 하드 포크로 실행](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-releases-fork-monitoring-tool-in-run-up-to-bitcoin-cash-hard-fork-959da554.md)
