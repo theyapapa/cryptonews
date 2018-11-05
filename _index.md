@@ -1,3 +1,4 @@
+* 2018-11-05 [Крипто-рынки видят широкую волну зеленого, Bitcoin толкает $6 500](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-widespread-wave-of-green-bitcoin-pushes-6-500-a6ed1fba.md)
 * 2018-11-05 [' Создание DApps может быть простым ': платформа для привлечения децентрализованной экономики к массовому усыновлению](https://github.com/theyapapa/cryptonews/blob/ru/creating-dapps-can-be-simple-platform-to-bring-decentralized-economy-to-mass-adoption-753458a0.md)
 * 2018-11-05 [BitMEX релизы вилка мониторинга инструмент в запуск до Bitcoin наличными жесткий вилка](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-releases-fork-monitoring-tool-in-run-up-to-bitcoin-cash-hard-fork-959da554.md)
 * 2018-11-05 [Bit.ly сообщается блоки ' 200 ' ссылки с Андреаса Antonopoulos ' ' мастеринг Эфириум '](https://github.com/theyapapa/cryptonews/blob/ru/bitly-reportedly-blocks-200-links-from-andreas-antonopoulos-mastering-ethereum-5bca0349.md)
