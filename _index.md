@@ -1,3 +1,4 @@
+* 2018-11-05 [트위터에 가짜 엘 론 머 스크 계정은 비트 코인 사기를 홍보, 하나는 $170k 수집](https://github.com/theyapapa/cryptonews/blob/ko/fake-elon-musk-accounts-on-twitter-promote-bitcoin-scams-one-collects-170k-3e9289fe.md)
 * 2018-11-05 [설문 조사: 더 젊은 독일인 가상 화폐에 투자 하는 경향이](https://github.com/theyapapa/cryptonews/blob/ko/survey-younger-germans-more-inclined-to-invest-in-cryptocurrencies-26e89a59.md)
 * 2018-11-05 [일본: 사이버 보안 전문가 들이 zaif 익스체인지 해커 들의 추적을 진행 하 고 있다고 주장 하다](https://github.com/theyapapa/cryptonews/blob/ko/japan-cybersecurity-experts-claim-to-have-made-progress-in-tracking-zaif-exchange-hackers-0967a130.md)
 * 2018-11-05 [전 연. 검사 암호 VC 케이티 haun: 암호는 ' 전화 접속 일 '에](https://github.com/theyapapa/cryptonews/blob/ko/ex-fed-prosecutor-turned-crypto-vc-katie-haun-crypto-is-in-the-dial-up-days-1295bf66.md)
