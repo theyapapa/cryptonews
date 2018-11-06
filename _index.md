@@ -1,3 +1,4 @@
+* 2018-11-06 [La autoridad portuaria de Valencia se une a Maersk, IBM bloques Project para el envío](https://github.com/theyapapa/cryptonews/blob/es/port-authority-of-valencia-joins-maersk-ibm-blockchain-project-for-shipping-365baa7b.md)
 * 2018-11-06 [Brasil: nuevo socio bancario de la correa Deltec sospechoso de aceptar fondos lavados](https://github.com/theyapapa/cryptonews/blob/es/brazil-tethers-new-banking-partner-deltec-suspected-of-accepting-laundered-funds-dfb3e0a5.md)
 * 2018-11-06 [Informe de Morgan Stanley muestra una fuerte inversión institucional para Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/morgan-stanley-report-shows-strong-institutional-investment-for-bitcoin-206e7824.md)
 * 2018-11-06 [' El CRYPTO más a prueba de balas del mundo ': compañía para crear una moneda respaldada por el franco suizo](https://github.com/theyapapa/cryptonews/blob/es/worlds-most-bulletproof-crypto-company-to-create-a-coin-backed-by-swiss-franc-e1f950b2.md)
