@@ -1,3 +1,4 @@
+* 2018-11-06 [' 세계에서 가장 방 탄 암호화 ': 회사는 스위스 프랑에 의해 뒷받침 동전을 만들 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/worlds-most-bulletproof-crypto-company-to-create-a-coin-backed-by-swiss-franc-e1f950b2.md)
 * 2018-11-06 [애플 암호 팟 캐스트를 제거 ' 투자 '에서 #4 순위가 미국 아이튠즈 스토어에서](https://github.com/theyapapa/cryptonews/blob/ko/apple-removes-crypto-podcast-reportedly-ranked-4-in-investing-from-us-itunes-store-ccb376d7.md)
 * 2018-11-06 [' 복용 ' 후 $6800, 비트 코인은 2019에서 ' 새로운 최고 '를 칠 것 이다, 갤럭시 디지털의 novo격자가 말한다](https://github.com/theyapapa/cryptonews/blob/ko/after-taking-out-6-800-bitcoin-will-hit-new-highs-in-2019-says-galaxy-digitals-novogratz-bac48f3c.md)
 * 2018-11-06 [중국: 비트 코인 채굴 괴수 bitmain 출시 새로운 7nm antminer 하드웨어](https://github.com/theyapapa/cryptonews/blob/ko/china-bitcoin-mining-behemoth-bitmain-releases-new-7nm-antminer-hardware-0391a9e7.md)
