@@ -1,3 +1,4 @@
+* 2018-11-06 [Аналитики CBOE: крипто-моря являются спокойными с рекордным низким волатильность Bitcoin фьючерсы](https://github.com/theyapapa/cryptonews/blob/ru/cboe-analysts-crypto-seas-are-calm-with-record-low-bitcoin-futures-volatility-edcdfff8.md)
 * 2018-11-05 [Доклад: швейцарский финансовый Watchdog рекомендует банкам установить крипто-риск покрытия на 800%](https://github.com/theyapapa/cryptonews/blob/ru/report-swiss-financial-watchdog-recommends-banks-set-crypto-risk-coverage-at-800-8745b11a.md)
 * 2018-11-05 [Фальшивые учетные записи на Twitter соДействовать Bitcoin мошенничества, один собирает $170K](https://github.com/theyapapa/cryptonews/blob/ru/fake-elon-musk-accounts-on-twitter-promote-bitcoin-scams-one-collects-170k-3e9289fe.md)
 * 2018-11-05 [Опрос: молодые немцы более склонны инвестировать в криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/survey-younger-germans-more-inclined-to-invest-in-cryptocurrencies-26e89a59.md)
