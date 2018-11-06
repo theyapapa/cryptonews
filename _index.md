@@ -1,3 +1,4 @@
+* 2018-11-06 [발렌시아 항만 공사 maersk, 판매를 위한 IBM 블록 체인 프로젝트를 조인](https://github.com/theyapapa/cryptonews/blob/ko/port-authority-of-valencia-joins-maersk-ibm-blockchain-project-for-shipping-365baa7b.md)
 * 2018-11-06 [브라질: 한 밧줄의 새로운 은행 파트너 deltec은 세탁 자금을 받아들이는 의심](https://github.com/theyapapa/cryptonews/blob/ko/brazil-tethers-new-banking-partner-deltec-suspected-of-accepting-laundered-funds-dfb3e0a5.md)
 * 2018-11-06 [모건 스탠리 보고서는 비트 코인에 대 한 강력한 기관 투자를 보여줍니다](https://github.com/theyapapa/cryptonews/blob/ko/morgan-stanley-report-shows-strong-institutional-investment-for-bitcoin-206e7824.md)
 * 2018-11-06 [' 세계에서 가장 방 탄 암호화 ': 회사는 스위스 프랑에 의해 뒷받침 동전을 만들 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/worlds-most-bulletproof-crypto-company-to-create-a-coin-backed-by-swiss-franc-e1f950b2.md)
