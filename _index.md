@@ -1,3 +1,4 @@
+* 2018-11-05 [Фальшивые учетные записи на Twitter соДействовать Bitcoin мошенничества, один собирает $170K](https://github.com/theyapapa/cryptonews/blob/ru/fake-elon-musk-accounts-on-twitter-promote-bitcoin-scams-one-collects-170k-3e9289fe.md)
 * 2018-11-05 [Опрос: молодые немцы более склонны инвестировать в криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/survey-younger-germans-more-inclined-to-invest-in-cryptocurrencies-26e89a59.md)
 * 2018-11-05 [Япония: эксперты по кибербезопасности утверждают, что доБились прогресса в слежении за хакерами Заиф Exchange](https://github.com/theyapapa/cryptonews/blob/ru/japan-cybersecurity-experts-claim-to-have-made-progress-in-tracking-zaif-exchange-hackers-0967a130.md)
 * 2018-11-05 [Экс-ФРС. Прокурор поВернул крипто VC Кэти Хонсмилле: крипто находится в "коммутируемых дней"](https://github.com/theyapapa/cryptonews/blob/ru/ex-fed-prosecutor-turned-crypto-vc-katie-haun-crypto-is-in-the-dial-up-days-1295bf66.md)
