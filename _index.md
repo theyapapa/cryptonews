@@ -1,3 +1,4 @@
+* 2018-11-06 [중국: 비트 코인 채굴 괴수 bitmain 출시 새로운 7nm antminer 하드웨어](https://github.com/theyapapa/cryptonews/blob/ko/china-bitcoin-mining-behemoth-bitmain-releases-new-7nm-antminer-hardware-0391a9e7.md)
 * 2018-11-06 [스와이 분석가: 암호화 된 바다는 낮은 비트 코인 선물 변동성으로 평온 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/cboe-analysts-crypto-seas-are-calm-with-record-low-bitcoin-futures-volatility-edcdfff8.md)
 * 2018-11-05 [보고서: 스위스 금융 감시는 은행이 암호화 위험 범위를 800%로 설정 하는 것을 권장 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-swiss-financial-watchdog-recommends-banks-set-crypto-risk-coverage-at-800-8745b11a.md)
 * 2018-11-05 [트위터에 가짜 엘 론 머 스크 계정은 비트 코인 사기를 홍보, 하나는 $170k 수집](https://github.com/theyapapa/cryptonews/blob/ko/fake-elon-musk-accounts-on-twitter-promote-bitcoin-scams-one-collects-170k-3e9289fe.md)
