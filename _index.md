@@ -1,3 +1,4 @@
+* 2018-11-06 [애플 암호 팟 캐스트를 제거 ' 투자 '에서 #4 순위가 미국 아이튠즈 스토어에서](https://github.com/theyapapa/cryptonews/blob/ko/apple-removes-crypto-podcast-reportedly-ranked-4-in-investing-from-us-itunes-store-ccb376d7.md)
 * 2018-11-06 [' 복용 ' 후 $6800, 비트 코인은 2019에서 ' 새로운 최고 '를 칠 것 이다, 갤럭시 디지털의 novo격자가 말한다](https://github.com/theyapapa/cryptonews/blob/ko/after-taking-out-6-800-bitcoin-will-hit-new-highs-in-2019-says-galaxy-digitals-novogratz-bac48f3c.md)
 * 2018-11-06 [중국: 비트 코인 채굴 괴수 bitmain 출시 새로운 7nm antminer 하드웨어](https://github.com/theyapapa/cryptonews/blob/ko/china-bitcoin-mining-behemoth-bitmain-releases-new-7nm-antminer-hardware-0391a9e7.md)
 * 2018-11-06 [스와이 분석가: 암호화 된 바다는 낮은 비트 코인 선물 변동성으로 평온 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/cboe-analysts-crypto-seas-are-calm-with-record-low-bitcoin-futures-volatility-edcdfff8.md)
