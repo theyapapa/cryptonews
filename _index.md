@@ -1,3 +1,4 @@
+* 2018-11-06 [Regulador de Texas emite cese y desistimiento de la empresa de minería en nube](https://github.com/theyapapa/cryptonews/blob/es/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
 * 2018-11-06 [Abu Dhabi valores cambia el papel de pensamiento sobre Crypto y bloques](https://github.com/theyapapa/cryptonews/blob/es/abu-dhabi-securities-exchange-issues-thought-paper-on-crypto-and-blockchain-2fd7d91f.md)
 * 2018-11-06 [La autoridad portuaria de Valencia se une a Maersk, IBM bloques Project para el envío](https://github.com/theyapapa/cryptonews/blob/es/port-authority-of-valencia-joins-maersk-ibm-blockchain-project-for-shipping-365baa7b.md)
 * 2018-11-06 [Brasil: nuevo socio bancario de la correa Deltec sospechoso de aceptar fondos lavados](https://github.com/theyapapa/cryptonews/blob/es/brazil-tethers-new-banking-partner-deltec-suspected-of-accepting-laundered-funds-dfb3e0a5.md)
