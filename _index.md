@@ -1,3 +1,4 @@
+* 2018-11-07 [La policía cibernética de California se centra en Cryptocurrency SIM intercambiando como "la prioridad más alta"](https://github.com/theyapapa/cryptonews/blob/es/california-cybercrime-police-focus-on-cryptocurrency-sim-swapping-as-highest-priority-20e4ec8a.md)
 * 2018-11-06 [Regulador de Texas emite cese y desistimiento de la empresa de minería en nube](https://github.com/theyapapa/cryptonews/blob/es/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
 * 2018-11-06 [Abu Dhabi valores cambia el papel de pensamiento sobre Crypto y bloques](https://github.com/theyapapa/cryptonews/blob/es/abu-dhabi-securities-exchange-issues-thought-paper-on-crypto-and-blockchain-2fd7d91f.md)
 * 2018-11-06 [La autoridad portuaria de Valencia se une a Maersk, IBM bloques Project para el envío](https://github.com/theyapapa/cryptonews/blob/es/port-authority-of-valencia-joins-maersk-ibm-blockchain-project-for-shipping-365baa7b.md)
