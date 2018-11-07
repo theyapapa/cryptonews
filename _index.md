@@ -1,3 +1,4 @@
+* 2018-11-06 [텍사스 레 귤 레이 터 이슈 중단 및 클라우드 채굴 회사에 대 한 주문](https://github.com/theyapapa/cryptonews/blob/ko/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
 * 2018-11-06 [아부다비 증권 거래소, 암호화 및 블록 체인으로 생각 하는 논문 발행](https://github.com/theyapapa/cryptonews/blob/ko/abu-dhabi-securities-exchange-issues-thought-paper-on-crypto-and-blockchain-2fd7d91f.md)
 * 2018-11-06 [발렌시아 항만 공사 maersk, 판매를 위한 IBM 블록 체인 프로젝트를 조인](https://github.com/theyapapa/cryptonews/blob/ko/port-authority-of-valencia-joins-maersk-ibm-blockchain-project-for-shipping-365baa7b.md)
 * 2018-11-06 [브라질: 한 밧줄의 새로운 은행 파트너 deltec은 세탁 자금을 받아들이는 의심](https://github.com/theyapapa/cryptonews/blob/ko/brazil-tethers-new-banking-partner-deltec-suspected-of-accepting-laundered-funds-dfb3e0a5.md)
