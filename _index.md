@@ -1,3 +1,4 @@
+* 2018-11-07 [Чарли Shrem "совершили никаких проступков" говорит адвокат, как Винклвосс иск продолжается](https://github.com/theyapapa/cryptonews/blob/ru/charlie-shrem-committed-no-misconduct-says-lawyer-as-winklevoss-lawsuit-continues-76d61a03.md)
 * 2018-11-07 [Калифорния киберпреступности полиции сосредоточиться на Криптовалюта SIM обмен как "наивысший приоритет"](https://github.com/theyapapa/cryptonews/blob/ru/california-cybercrime-police-focus-on-cryptocurrency-sim-swapping-as-highest-priority-20e4ec8a.md)
 * 2018-11-06 [Техас регулятор вопросы прекратить и возДерживаться от того, чтобы облако горнодобывающей компании](https://github.com/theyapapa/cryptonews/blob/ru/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
 * 2018-11-06 [Абу-Даби по ценным бумагам выДает мысль о крипте и Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/abu-dhabi-securities-exchange-issues-thought-paper-on-crypto-and-blockchain-2fd7d91f.md)
