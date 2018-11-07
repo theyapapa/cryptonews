@@ -1,3 +1,4 @@
+* 2018-11-07 [Servicio de pago de Lanches con ' Asian Amazon ' Qoo10](https://github.com/theyapapa/cryptonews/blob/es/south-korean-crypto-exchange-bithumb-lanches-payment-service-with-asian-amazon-qoo10-667f72f4.md)
 * 2018-11-07 [Charlie Shrem ' no cometió ninguna mala conducta ', dice el abogado como Winklevoss pleito continúa](https://github.com/theyapapa/cryptonews/blob/es/charlie-shrem-committed-no-misconduct-says-lawyer-as-winklevoss-lawsuit-continues-76d61a03.md)
 * 2018-11-07 [La policía cibernética de California se centra en Cryptocurrency SIM intercambiando como "la prioridad más alta"](https://github.com/theyapapa/cryptonews/blob/es/california-cybercrime-police-focus-on-cryptocurrency-sim-swapping-as-highest-priority-20e4ec8a.md)
 * 2018-11-06 [Regulador de Texas emite cese y desistimiento de la empresa de minería en nube](https://github.com/theyapapa/cryptonews/blob/es/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
