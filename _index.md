@@ -1,3 +1,4 @@
+* 2018-11-07 [한국 암호 교환 Qoo10 ' 아시아 아마존 '와 함께 지불 서비스](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-bithumb-lanches-payment-service-with-asian-amazon-qoo10-667f72f4.md)
 * 2018-11-07 [winklevoss 소송이 계속 되 면 찰리 shrem이 ' 아무런 위법 행위 ' 라고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/charlie-shrem-committed-no-misconduct-says-lawyer-as-winklevoss-lawsuit-continues-76d61a03.md)
 * 2018-11-07 [캘리포니아 사이버 범죄 경찰에 초점을 맞추고 ' 가장 높은 우선 순위 '로 교체 하는 가상 화폐 시뮬레이션](https://github.com/theyapapa/cryptonews/blob/ko/california-cybercrime-police-focus-on-cryptocurrency-sim-swapping-as-highest-priority-20e4ec8a.md)
 * 2018-11-06 [텍사스 레 귤 레이 터 이슈 중단 및 클라우드 채굴 회사에 대 한 주문](https://github.com/theyapapa/cryptonews/blob/ko/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
