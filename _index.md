@@ -1,3 +1,4 @@
+* 2018-11-06 [Техас регулятор вопросы прекратить и возДерживаться от того, чтобы облако горнодобывающей компании](https://github.com/theyapapa/cryptonews/blob/ru/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
 * 2018-11-06 [Абу-Даби по ценным бумагам выДает мысль о крипте и Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/abu-dhabi-securities-exchange-issues-thought-paper-on-crypto-and-blockchain-2fd7d91f.md)
 * 2018-11-06 [Портовая администрация Валенсии приСоединяется к компании "Blockchain", IBM Блокчейн-проекта для судоходства](https://github.com/theyapapa/cryptonews/blob/ru/port-authority-of-valencia-joins-maersk-ibm-blockchain-project-for-shipping-365baa7b.md)
 * 2018-11-06 [Бразилия: новый банковский партнер троса Делтек подозревается в принятии отМывания средств](https://github.com/theyapapa/cryptonews/blob/ru/brazil-tethers-new-banking-partner-deltec-suspected-of-accepting-laundered-funds-dfb3e0a5.md)
