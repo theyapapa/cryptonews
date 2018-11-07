@@ -1,3 +1,4 @@
+* 2018-11-07 [캘리포니아 사이버 범죄 경찰에 초점을 맞추고 ' 가장 높은 우선 순위 '로 교체 하는 가상 화폐 시뮬레이션](https://github.com/theyapapa/cryptonews/blob/ko/california-cybercrime-police-focus-on-cryptocurrency-sim-swapping-as-highest-priority-20e4ec8a.md)
 * 2018-11-06 [텍사스 레 귤 레이 터 이슈 중단 및 클라우드 채굴 회사에 대 한 주문](https://github.com/theyapapa/cryptonews/blob/ko/texas-regulator-issues-cease-and-desist-order-to-cloud-mining-company-e0d1b8c0.md)
 * 2018-11-06 [아부다비 증권 거래소, 암호화 및 블록 체인으로 생각 하는 논문 발행](https://github.com/theyapapa/cryptonews/blob/ko/abu-dhabi-securities-exchange-issues-thought-paper-on-crypto-and-blockchain-2fd7d91f.md)
 * 2018-11-06 [발렌시아 항만 공사 maersk, 판매를 위한 IBM 블록 체인 프로젝트를 조인](https://github.com/theyapapa/cryptonews/blob/ko/port-authority-of-valencia-joins-maersk-ibm-blockchain-project-for-shipping-365baa7b.md)
