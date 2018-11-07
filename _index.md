@@ -1,3 +1,4 @@
+* 2018-11-07 [모리셔스 금융 위원회, 암호 보관 업체 서비스에 대 한 초안 규칙을 발표](https://github.com/theyapapa/cryptonews/blob/ko/mauritius-financial-commission-releases-draft-regulation-for-crypto-custodian-services-37606955.md)
 * 2018-11-07 [암호 교환 Gate.io 보안 위반 보고서 다음의 statcounter 서비스를 제거 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-gateio-removes-statcounter-service-following-report-of-security-breach-ddfb4136.md)
 * 2018-11-07 [한국 암호 교환 Qoo10 ' 아시아 아마존 '와 함께 지불 서비스](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-bithumb-lanches-payment-service-with-asian-amazon-qoo10-667f72f4.md)
 * 2018-11-07 [winklevoss 소송이 계속 되 면 찰리 shrem이 ' 아무런 위법 행위 ' 라고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/charlie-shrem-committed-no-misconduct-says-lawyer-as-winklevoss-lawsuit-continues-76d61a03.md)
