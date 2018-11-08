@@ -1,3 +1,4 @@
+* 2018-11-08 [한국: 4 ' 젊은 ' 해커를 예약 하는 암호를 재 킹 케이스에 6000 개 이상 타겟팅](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-four-young-hackers-booked-in-cryptojacking-case-targeting-over-6-000-pcs-0ad8d1f4.md)
 * 2018-11-08 [국가 두 마 위원장: 러시아 안정성은 ' 디지털 공간 '에서 피아트 루블과 동등 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/state-duma-chairman-russian-stablecoin-would-be-equivalent-to-fiat-ruble-in-digital-space-aae89b0d.md)
 * 2018-11-08 [법률 사무소 퍼 킨 스 coie는 전용 암호화, 블록 체인 그룹에 대 한 전 cftc에 대 한 조언을 추가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/law-firm-perkins-coie-adds-ex-cftc-counsel-to-dedicated-crypto-blockchain-group-af7c15e0.md)
 * 2018-11-07 [태국 차관 총리는 암호 화폐에 대 한 더 많은 통제를 요구 한다](https://github.com/theyapapa/cryptonews/blob/ko/thai-deputy-prime-minister-calls-for-more-controls-for-cryptocurrencies-eca42d19.md)
