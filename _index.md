@@ -1,3 +1,4 @@
+* 2018-11-08 [법률 사무소 퍼 킨 스 coie는 전용 암호화, 블록 체인 그룹에 대 한 전 cftc에 대 한 조언을 추가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/law-firm-perkins-coie-adds-ex-cftc-counsel-to-dedicated-crypto-blockchain-group-af7c15e0.md)
 * 2018-11-07 [태국 차관 총리는 암호 화폐에 대 한 더 많은 통제를 요구 한다](https://github.com/theyapapa/cryptonews/blob/ko/thai-deputy-prime-minister-calls-for-more-controls-for-cryptocurrencies-eca42d19.md)
 * 2018-11-07 [최고의 암호 교환 안전의 순위를 평가 하는 사이버 보안 기업](https://github.com/theyapapa/cryptonews/blob/ko/cybersecurity-firm-ranks-safety-of-top-crypto-exchanges-a0ded501.md)
 * 2018-11-07 [최고의 동전, 혼합 신호 참조, 주로 옆으로 거래](https://github.com/theyapapa/cryptonews/blob/ko/top-coins-see-mixed-signals-mostly-trading-sideways-1cd31e6f.md)
