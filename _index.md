@@ -1,3 +1,4 @@
+* 2018-11-08 [Coinbase запускает полную торговлю основного маркера внимания](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-launches-full-trading-of-basic-attention-token-6317ec82.md)
 * 2018-11-08 [США SEC обвинения, штрафы Есерделта основатель с операционной незарегистрированной бирже ценных бумаг](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-charges-fines-etherdelta-founder-with-operating-unregistered-securities-exchange-819938ca.md)
 * 2018-11-08 [Добыча гигантских Bitmain спешит развернуть 90 000 S9 Антминерс впереди Bitcoin наличными жесткий вилка](https://github.com/theyapapa/cryptonews/blob/ru/mining-giant-bitmain-hurries-to-deploy-90-000-s9-antminers-ahead-of-bitcoin-cash-hard-fork-7892cfeb.md)
 * 2018-11-08 [Южная Корея в тройном бюджете для Блокчейн-проектов по сравнению с 2018](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-to-triple-the-budget-for-blockchain-projects-compared-to-2018-78bfa438.md)
