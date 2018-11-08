@@ -1,3 +1,4 @@
+* 2018-11-08 [Юридическая фирма Перкинс Коие добавляет экс-советника в специализированные крипто-Блокчейн группы](https://github.com/theyapapa/cryptonews/blob/ru/law-firm-perkins-coie-adds-ex-cftc-counsel-to-dedicated-crypto-blockchain-group-af7c15e0.md)
 * 2018-11-07 [Тайский заместитель премьер-министра приЗывает к больше контроля для Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/thai-deputy-prime-minister-calls-for-more-controls-for-cryptocurrencies-eca42d19.md)
 * 2018-11-07 [Компания кибербезопасности занимается безопасностью Топ-крипто-бирж](https://github.com/theyapapa/cryptonews/blob/ru/cybersecurity-firm-ranks-safety-of-top-crypto-exchanges-a0ded501.md)
 * 2018-11-07 [Лучшие монеты см смешанные сигналы, в основном торговые боком](https://github.com/theyapapa/cryptonews/blob/ru/top-coins-see-mixed-signals-mostly-trading-sideways-1cd31e6f.md)
