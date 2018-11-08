@@ -1,3 +1,4 @@
+* 2018-11-08 [Coinbase lanza el comercio completo de token de atención básica](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-full-trading-of-basic-attention-token-6317ec82.md)
 * 2018-11-08 [US SEC cargos, multas EtherDelta fundador con operaciones no registradas bolsa de valores](https://github.com/theyapapa/cryptonews/blob/es/us-sec-charges-fines-etherdelta-founder-with-operating-unregistered-securities-exchange-819938ca.md)
 * 2018-11-08 [Bitmain gigante minero se apresura a desplegar 90.000 S9 Antminers por delante de Bitcoin en efectivo tenedor duro](https://github.com/theyapapa/cryptonews/blob/es/mining-giant-bitmain-hurries-to-deploy-90-000-s9-antminers-ahead-of-bitcoin-cash-hard-fork-7892cfeb.md)
 * 2018-11-08 [Corea del sur triplicará el presupuesto para proyectos de bloques en comparación con 2018](https://github.com/theyapapa/cryptonews/blob/es/south-korea-to-triple-the-budget-for-blockchain-projects-compared-to-2018-78bfa438.md)
