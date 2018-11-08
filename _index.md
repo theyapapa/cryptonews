@@ -1,3 +1,4 @@
+* 2018-11-08 [Presidente de la Duma: Russian Stablecoin sería equivalente a Fiat rublo en ' espacio digital '](https://github.com/theyapapa/cryptonews/blob/es/state-duma-chairman-russian-stablecoin-would-be-equivalent-to-fiat-ruble-in-digital-space-aae89b0d.md)
 * 2018-11-08 [La firma de abogados Perkins COIE agrega a ex-CFTC Consejo a Crypto dedicado, grupo de bloques](https://github.com/theyapapa/cryptonews/blob/es/law-firm-perkins-coie-adds-ex-cftc-counsel-to-dedicated-crypto-blockchain-group-af7c15e0.md)
 * 2018-11-07 [El viceprimer ministro tailandés pide más controles para Cryptocurrencies](https://github.com/theyapapa/cryptonews/blob/es/thai-deputy-prime-minister-calls-for-more-controls-for-cryptocurrencies-eca42d19.md)
 * 2018-11-07 [La firma ciberseguridad clasifica la seguridad de los principales interCambios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/cybersecurity-firm-ranks-safety-of-top-crypto-exchanges-a0ded501.md)
