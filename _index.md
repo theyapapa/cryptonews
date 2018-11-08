@@ -1,3 +1,4 @@
+* 2018-11-08 [미국 SEC 수수료, 운영 등록 되지 않은 증권 거래소와 벌금이 더 델타 설립자](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-charges-fines-etherdelta-founder-with-operating-unregistered-securities-exchange-819938ca.md)
 * 2018-11-08 [광업 거 대 한 bitmain은 비트 코인 현금 하드 포크 앞에 9만 S9 antminers를 배포 하기 위하여 돌진](https://github.com/theyapapa/cryptonews/blob/ko/mining-giant-bitmain-hurries-to-deploy-90-000-s9-antminers-ahead-of-bitcoin-cash-hard-fork-7892cfeb.md)
 * 2018-11-08 [한국, 2018에 비해 블록 체인 프로젝트 예산을 세 겹으로](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-to-triple-the-budget-for-blockchain-projects-compared-to-2018-78bfa438.md)
 * 2018-11-08 [한국: 4 ' 젊은 ' 해커를 예약 하는 암호를 재 킹 케이스에 6000 개 이상 타겟팅](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-four-young-hackers-booked-in-cryptojacking-case-targeting-over-6-000-pcs-0ad8d1f4.md)
