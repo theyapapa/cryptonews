@@ -1,3 +1,4 @@
+* 2018-11-07 [Компания кибербезопасности занимается безопасностью Топ-крипто-бирж](https://github.com/theyapapa/cryptonews/blob/ru/cybersecurity-firm-ranks-safety-of-top-crypto-exchanges-a0ded501.md)
 * 2018-11-07 [Лучшие монеты см смешанные сигналы, в основном торговые боком](https://github.com/theyapapa/cryptonews/blob/ru/top-coins-see-mixed-signals-mostly-trading-sideways-1cd31e6f.md)
 * 2018-11-07 [Новые поПравки к французскому финансовому законопроекту облегчили бы налоги для связанных с криптой доходов](https://github.com/theyapapa/cryptonews/blob/ru/new-amendments-to-french-finance-bill-would-ease-taxes-for-crypto-related-revenue-3513369f.md)
 * 2018-11-07 [США программное обеспечение компания Salesforce выИгрывает патент на Блокчейн анти-спам решение](https://github.com/theyapapa/cryptonews/blob/ru/us-software-company-salesforce-wins-patent-for-blockchain-anti-spam-solution-ba9adaf6.md)
