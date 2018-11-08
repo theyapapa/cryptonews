@@ -1,3 +1,4 @@
+* 2018-11-08 [La firma de abogados Perkins COIE agrega a ex-CFTC Consejo a Crypto dedicado, grupo de bloques](https://github.com/theyapapa/cryptonews/blob/es/law-firm-perkins-coie-adds-ex-cftc-counsel-to-dedicated-crypto-blockchain-group-af7c15e0.md)
 * 2018-11-07 [El viceprimer ministro tailandés pide más controles para Cryptocurrencies](https://github.com/theyapapa/cryptonews/blob/es/thai-deputy-prime-minister-calls-for-more-controls-for-cryptocurrencies-eca42d19.md)
 * 2018-11-07 [La firma ciberseguridad clasifica la seguridad de los principales interCambios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/cybersecurity-firm-ranks-safety-of-top-crypto-exchanges-a0ded501.md)
 * 2018-11-07 [Las monedas superiores ven señales mezcladas, sobre todo comerciando de lado](https://github.com/theyapapa/cryptonews/blob/es/top-coins-see-mixed-signals-mostly-trading-sideways-1cd31e6f.md)
