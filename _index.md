@@ -1,3 +1,4 @@
+* 2018-11-08 [캐나다의 DMG 블록 체인은 85 메가 와트 암호화 광산 시설을 운영 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadas-dmg-blockchain-puts-85-megawatt-crypto-mining-facility-into-operation-6689aaad.md)
 * 2018-11-08 [binance의 연구 날개를 발사 하 여 ' 기관 등급 ' 연구 보고서 작성](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-research-wing-to-create-institutional-grade-research-reports-3ba845d4.md)
 * 2018-11-08 [coinbase는 기본 주의 토큰의 전체 거래를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-launches-full-trading-of-basic-attention-token-6317ec82.md)
 * 2018-11-08 [미국 SEC 수수료, 운영 등록 되지 않은 증권 거래소와 벌금이 더 델타 설립자](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-charges-fines-etherdelta-founder-with-operating-unregistered-securities-exchange-819938ca.md)
