@@ -1,3 +1,4 @@
+* 2018-11-09 [El pionero de Bitcoin Jeff Garzik dice que Bitcoin ' indudablemente un éxito ' como almacén de valor](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-trailblazer-jeff-garzik-says-bitcoin-unquestionably-a-success-as-store-of-value-248cbde3.md)
 * 2018-11-09 [Tailandia para legitimar el primer ' Portal ' ICO a través de la nueva regulación, dice la SEC Head](https://github.com/theyapapa/cryptonews/blob/es/thailand-to-legitimize-first-ico-portal-via-new-regulation-says-sec-head-fcfed6ce.md)
 * 2018-11-09 [El Banco canadiense puso en marcha la "caja de depósito" no verificable para Cryptocurrency](https://github.com/theyapapa/cryptonews/blob/es/canadian-bank-set-to-launch-uncheckable-deposit-box-for-cryptocurrency-0a149d45.md)
 * 2018-11-08 [Juez termina congelar los activos de Charlie Shrem en demanda Winklevoss](https://github.com/theyapapa/cryptonews/blob/es/judge-ends-freeze-on-charlie-shrems-assets-in-winklevoss-lawsuit-1f8694b7.md)
