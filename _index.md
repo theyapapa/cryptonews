@@ -1,3 +1,4 @@
+* 2018-11-08 [DMG bloques de Canadá pone en funcionamiento la instalación de 85 megavatios de minería de criptografía](https://github.com/theyapapa/cryptonews/blob/es/canadas-dmg-blockchain-puts-85-megawatt-crypto-mining-facility-into-operation-6689aaad.md)
 * 2018-11-08 [Binance lanza el ala de investigación para crear informes de investigación de "grado institucional"](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-research-wing-to-create-institutional-grade-research-reports-3ba845d4.md)
 * 2018-11-08 [Coinbase lanza el comercio completo de token de atención básica](https://github.com/theyapapa/cryptonews/blob/es/coinbase-launches-full-trading-of-basic-attention-token-6317ec82.md)
 * 2018-11-08 [US SEC cargos, multas EtherDelta fundador con operaciones no registradas bolsa de valores](https://github.com/theyapapa/cryptonews/blob/es/us-sec-charges-fines-etherdelta-founder-with-operating-unregistered-securities-exchange-819938ca.md)
