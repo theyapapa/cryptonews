@@ -1,3 +1,4 @@
+* 2018-11-09 [Канадский банк установил для запуска непроверяемый ' депозитный ящик ' для криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/canadian-bank-set-to-launch-uncheckable-deposit-box-for-cryptocurrency-0a149d45.md)
 * 2018-11-08 [Судья заканчивается замораживание на активы Чарли Shrem в Винклвосс иск](https://github.com/theyapapa/cryptonews/blob/ru/judge-ends-freeze-on-charlie-shrems-assets-in-winklevoss-lawsuit-1f8694b7.md)
 * 2018-11-08 [В Канаде DMG Блокчейн ставит 85 мегаватт крипто-шахтного фонда в эксплуатацию](https://github.com/theyapapa/cryptonews/blob/ru/canadas-dmg-blockchain-puts-85-megawatt-crypto-mining-facility-into-operation-6689aaad.md)
 * 2018-11-08 [Binance запускает исследование крыла для создания "институционального класса" Отчеты исследований](https://github.com/theyapapa/cryptonews/blob/ru/binance-launches-research-wing-to-create-institutional-grade-research-reports-3ba845d4.md)
