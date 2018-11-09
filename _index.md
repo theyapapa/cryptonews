@@ -1,3 +1,4 @@
+* 2018-11-08 [binance의 연구 날개를 발사 하 여 ' 기관 등급 ' 연구 보고서 작성](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-research-wing-to-create-institutional-grade-research-reports-3ba845d4.md)
 * 2018-11-08 [coinbase는 기본 주의 토큰의 전체 거래를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-launches-full-trading-of-basic-attention-token-6317ec82.md)
 * 2018-11-08 [미국 SEC 수수료, 운영 등록 되지 않은 증권 거래소와 벌금이 더 델타 설립자](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-charges-fines-etherdelta-founder-with-operating-unregistered-securities-exchange-819938ca.md)
 * 2018-11-08 [광업 거 대 한 bitmain은 비트 코인 현금 하드 포크 앞에 9만 S9 antminers를 배포 하기 위하여 돌진](https://github.com/theyapapa/cryptonews/blob/ko/mining-giant-bitmain-hurries-to-deploy-90-000-s9-antminers-ahead-of-bitcoin-cash-hard-fork-7892cfeb.md)
