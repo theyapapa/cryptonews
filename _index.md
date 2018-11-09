@@ -1,3 +1,4 @@
+* 2018-11-09 [암호화 시장, $6400 이하의 비트 코인 거래, 지속적인 경미한 손실 확인 ](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-ongoing-mild-losses-bitcoin-trades-below-6-400-7feff692.md)
 * 2018-11-09 [비트 코인은 제프가 르 크가 의심, 가치의 매장으로 비트 코인 ' 성공 '을 말하다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-trailblazer-jeff-garzik-says-bitcoin-unquestionably-a-success-as-store-of-value-248cbde3.md)
 * 2018-11-09 [새로운 규제를 통해 첫 번째 ICO ' 포털 '을 합법화 하는 태국, SEC 머리를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/thailand-to-legitimize-first-ico-portal-via-new-regulation-says-sec-head-fcfed6ce.md)
 * 2018-11-09 [캐나다 은행에서 암호 화폐에 대 한 ' 예금 박스 '를 실행할 수 있도록 설정](https://github.com/theyapapa/cryptonews/blob/ko/canadian-bank-set-to-launch-uncheckable-deposit-box-for-cryptocurrency-0a149d45.md)
