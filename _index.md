@@ -1,3 +1,4 @@
+* 2018-11-09 [새로운 규제를 통해 첫 번째 ICO ' 포털 '을 합법화 하는 태국, SEC 머리를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/thailand-to-legitimize-first-ico-portal-via-new-regulation-says-sec-head-fcfed6ce.md)
 * 2018-11-09 [캐나다 은행에서 암호 화폐에 대 한 ' 예금 박스 '를 실행할 수 있도록 설정](https://github.com/theyapapa/cryptonews/blob/ko/canadian-bank-set-to-launch-uncheckable-deposit-box-for-cryptocurrency-0a149d45.md)
 * 2018-11-08 [심판의 끝에 찰리 쉬 렘의 자산 동결](https://github.com/theyapapa/cryptonews/blob/ko/judge-ends-freeze-on-charlie-shrems-assets-in-winklevoss-lawsuit-1f8694b7.md)
 * 2018-11-08 [캐나다의 DMG 블록 체인은 85 메가 와트 암호화 광산 시설을 운영 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadas-dmg-blockchain-puts-85-megawatt-crypto-mining-facility-into-operation-6689aaad.md)
