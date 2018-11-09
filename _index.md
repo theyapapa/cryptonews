@@ -1,3 +1,4 @@
+* 2018-11-09 [잃어버린 암호를 통해 암호화 회사에 폭탄을 보낸 후 스웨덴어 남자](https://github.com/theyapapa/cryptonews/blob/ko/swedish-man-sentenced-after-sending-bomb-to-crypto-firm-over-lost-password-3fb37511.md)
 * 2018-11-09 [93%의 brits는 비트 코인을 들었지만, 단지 4%가 그것을 구입 했다, 조사 쇼](https://github.com/theyapapa/cryptonews/blob/ko/93-of-brits-have-heard-of-bitcoin-but-only-4-have-bought-it-survey-shows-5a9bc5e5.md)
 * 2018-11-09 [암호화 시장, $6400 이하의 비트 코인 거래, 지속적인 경미한 손실 확인 ](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-ongoing-mild-losses-bitcoin-trades-below-6-400-7feff692.md)
 * 2018-11-09 [비트 코인은 제프가 르 크가 의심, 가치의 매장으로 비트 코인 ' 성공 '을 말하다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-trailblazer-jeff-garzik-says-bitcoin-unquestionably-a-success-as-store-of-value-248cbde3.md)
