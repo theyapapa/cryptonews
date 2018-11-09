@@ -1,3 +1,4 @@
+* 2018-11-09 [Crypto Markets видеть текущие мягкие потери, Bitcoin торгует ниже $6 400 ](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-ongoing-mild-losses-bitcoin-trades-below-6-400-7feff692.md)
 * 2018-11-09 [Bitcoin первопроходцем Джефф Гарзик говорит Bitcoin ' бесспорно успех ' как магазин стоимости](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-trailblazer-jeff-garzik-says-bitcoin-unquestionably-a-success-as-store-of-value-248cbde3.md)
 * 2018-11-09 [Таиланд узаконить первый ICO "портал" через новые правила, говорит SEC глава](https://github.com/theyapapa/cryptonews/blob/ru/thailand-to-legitimize-first-ico-portal-via-new-regulation-says-sec-head-fcfed6ce.md)
 * 2018-11-09 [Канадский банк установил для запуска непроверяемый ' депозитный ящик ' для криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/canadian-bank-set-to-launch-uncheckable-deposit-box-for-cryptocurrency-0a149d45.md)
