@@ -1,3 +1,4 @@
+* 2018-11-09 [Эксперты: финансовые компании нуждаются в замене ИТ-инфраструктуры на внедрение Блокчейна и крипто](https://github.com/theyapapa/cryptonews/blob/ru/experts-finance-firms-need-to-replace-it-infrastructure-to-adopt-blockchain-and-crypto-e729163c.md)
 * 2018-11-09 [Шведский человек приговорен после отправки бомбы крипто фирмы за потерянный пароль](https://github.com/theyapapa/cryptonews/blob/ru/swedish-man-sentenced-after-sending-bomb-to-crypto-firm-over-lost-password-3fb37511.md)
 * 2018-11-09 [93% британцев слышали о Bitcoin, но только 4% купили его, обзор показывает](https://github.com/theyapapa/cryptonews/blob/ru/93-of-brits-have-heard-of-bitcoin-but-only-4-have-bought-it-survey-shows-5a9bc5e5.md)
 * 2018-11-09 [Crypto Markets видеть текущие мягкие потери, Bitcoin торгует ниже $6 400 ](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-ongoing-mild-losses-bitcoin-trades-below-6-400-7feff692.md)
