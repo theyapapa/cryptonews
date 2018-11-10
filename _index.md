@@ -1,3 +1,4 @@
+* 2018-11-10 [Новая игра Crypto Битва запускает там, где навыки, а не Коллекционирование, материя](https://github.com/theyapapa/cryptonews/blob/ru/new-crypto-battle-game-launches-where-skills-not-collectibles-matter-c90798be.md)
 * 2018-11-10 [Руководящие принципы ФАТФ обновлены для борьбы с отМыванием денег и финансированием терроризма в Европе](https://github.com/theyapapa/cryptonews/blob/ru/fatf-guidelines-updated-to-combat-money-laundering-and-terrorism-financing-in-europe-189123c5.md)
 * 2018-11-10 [Немецкий финансовый регулятор BaFin завершает деятельность британской крипто-родственной фирмы](https://github.com/theyapapa/cryptonews/blob/ru/german-financial-regulator-bafin-shuts-down-activity-of-british-crypto-related-firm-c1c9a0a8.md)
 * 2018-11-09 [Тим драпировка стоит на его Bitcoin Цена прогнозирования $250 тыс в 2022](https://github.com/theyapapa/cryptonews/blob/ru/tim-draper-stands-by-his-bitcoin-price-prediction-of-250k-in-2022-ef5b5592.md)
