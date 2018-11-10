@@ -1,3 +1,4 @@
+* 2018-11-09 [2022에서의 비트 코인 가격 예측에 의해 팀 드레이퍼 스탠드 ($ 250k)](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-stands-by-his-bitcoin-price-prediction-of-250k-in-2022-ef5b5592.md)
 * 2018-11-09 [콜로라도 증권 감독 관을 중단 하기 위해 4 개의 암호 회사를 주문 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/four-crypto-firms-ordered-to-cease-and-desist-by-colorado-securities-commissioner-151bd6c3.md)
 * 2018-11-09 [전문가: 금융 회사는 블록 체인과 암호화를 채택 하기 위해 IT 인프라를 교체 해야 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/experts-finance-firms-need-to-replace-it-infrastructure-to-adopt-blockchain-and-crypto-e729163c.md)
 * 2018-11-09 [잃어버린 암호를 통해 암호화 회사에 폭탄을 보낸 후 스웨덴어 남자](https://github.com/theyapapa/cryptonews/blob/ko/swedish-man-sentenced-after-sending-bomb-to-crypto-firm-over-lost-password-3fb37511.md)
