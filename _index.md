@@ -1,3 +1,4 @@
+* 2018-11-10 [새로운 암호화 전투 게임은 기술, 아니 수집품, 문제를 출시](https://github.com/theyapapa/cryptonews/blob/ko/new-crypto-battle-game-launches-where-skills-not-collectibles-matter-c90798be.md)
 * 2018-11-10 [유럽에서 자금 세탁 및 테러 자금 조달을 위해 업데이트 된 fatf 가이드라인](https://github.com/theyapapa/cryptonews/blob/ko/fatf-guidelines-updated-to-combat-money-laundering-and-terrorism-financing-in-europe-189123c5.md)
 * 2018-11-10 [독일 금융 레 귤 레이 터 bafin은 영국 암호 관련 회사의 활동을 종료](https://github.com/theyapapa/cryptonews/blob/ko/german-financial-regulator-bafin-shuts-down-activity-of-british-crypto-related-firm-c1c9a0a8.md)
 * 2018-11-09 [2022에서의 비트 코인 가격 예측에 의해 팀 드레이퍼 스탠드 ($ 250k)](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-stands-by-his-bitcoin-price-prediction-of-250k-in-2022-ef5b5592.md)
