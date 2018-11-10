@@ -1,3 +1,4 @@
+* 2018-11-10 [마이닝 거 대 한 bitmain은 알 수 없는 해커에서 $550만의 도둑 질을 주장에 대 한](https://github.com/theyapapa/cryptonews/blob/ko/mining-giant-bitmain-sues-unknown-hacker-for-alleged-theft-of-55-million-in-crypto-945353e2.md)
 * 2018-11-10 [새로운 암호화 전투 게임은 기술, 아니 수집품, 문제를 출시](https://github.com/theyapapa/cryptonews/blob/ko/new-crypto-battle-game-launches-where-skills-not-collectibles-matter-c90798be.md)
 * 2018-11-10 [유럽에서 자금 세탁 및 테러 자금 조달을 위해 업데이트 된 fatf 가이드라인](https://github.com/theyapapa/cryptonews/blob/ko/fatf-guidelines-updated-to-combat-money-laundering-and-terrorism-financing-in-europe-189123c5.md)
 * 2018-11-10 [독일 금융 레 귤 레이 터 bafin은 영국 암호 관련 회사의 활동을 종료](https://github.com/theyapapa/cryptonews/blob/ko/german-financial-regulator-bafin-shuts-down-activity-of-british-crypto-related-firm-c1c9a0a8.md)
