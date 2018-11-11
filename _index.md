@@ -1,3 +1,4 @@
+* 2018-11-11 [호 들러의 다이제스트, 11 월 5-11 일: 스타 트랙의 캡틴 커크, 연방 분권을 방어, 가짜 엘 론 musks는 트위터 오버런](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-november-5-11-star-treks-captain-kirk-defends-eth-decentralization-while-fake-elon-musks-overrun-twitter-1c936b29.md)
 * 2018-11-11 [싱가포르 거래소, 토큰화 되는 자산 결제를 위한 블록 체인 성공적 시험](https://github.com/theyapapa/cryptonews/blob/ko/singapore-exchange-successfully-trials-blockchain-for-tokenized-assets-settlement-7ae534d6.md)
 * 2018-11-11 [한국의 제니 넥 스는 무단 암호 교환에 대 한 정부의 단속을 통해](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-zeniex-closes-amid-government-crackdown-on-unauthorized-crypto-exchanges-70555a38.md)
 * 2018-11-10 [마이닝 거 대 한 bitmain은 알 수 없는 해커에서 $550만의 도둑 질을 주장에 대 한](https://github.com/theyapapa/cryptonews/blob/ko/mining-giant-bitmain-sues-unknown-hacker-for-alleged-theft-of-55-million-in-crypto-945353e2.md)
