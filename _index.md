@@ -1,3 +1,4 @@
+* 2018-11-11 [싱가포르 거래소, 토큰화 되는 자산 결제를 위한 블록 체인 성공적 시험](https://github.com/theyapapa/cryptonews/blob/ko/singapore-exchange-successfully-trials-blockchain-for-tokenized-assets-settlement-7ae534d6.md)
 * 2018-11-11 [한국의 제니 넥 스는 무단 암호 교환에 대 한 정부의 단속을 통해](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-zeniex-closes-amid-government-crackdown-on-unauthorized-crypto-exchanges-70555a38.md)
 * 2018-11-10 [마이닝 거 대 한 bitmain은 알 수 없는 해커에서 $550만의 도둑 질을 주장에 대 한](https://github.com/theyapapa/cryptonews/blob/ko/mining-giant-bitmain-sues-unknown-hacker-for-alleged-theft-of-55-million-in-crypto-945353e2.md)
 * 2018-11-10 [새로운 암호화 전투 게임은 기술, 아니 수집품, 문제를 출시](https://github.com/theyapapa/cryptonews/blob/ko/new-crypto-battle-game-launches-where-skills-not-collectibles-matter-c90798be.md)
