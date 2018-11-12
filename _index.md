@@ -1,3 +1,4 @@
+* 2018-11-12 [크림 정부는 블록 체인-클러스터 및 암호 펀드의 생성을 고려](https://github.com/theyapapa/cryptonews/blob/ko/crimean-government-considers-creation-of-blockchain-cluster-and-crypto-fund-83ae58b1.md)
 * 2018-11-12 [아프리카 BTC 지원 송금 서비스 bitpesa와 함께 하는 일본 보험 업체 sompo](https://github.com/theyapapa/cryptonews/blob/ko/japanese-insurer-sompo-partners-with-african-btc-enabled-remittance-service-bitpesa-a3cabd29.md)
 * 2018-11-12 [4 개의 금융 중심 플랫폼을 위한 새로운 중국 블록 체인 얼라이언스 계획 개발](https://github.com/theyapapa/cryptonews/blob/ko/new-chinese-blockchain-alliance-plans-development-of-four-finance-oriented-platforms-b53dc5d8.md)
 * 2018-11-12 [스위스 암호화 기업, sharia-규정 준수 안정성에 대 한 이슬람 금융 인증을 받습니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-crypto-firm-gets-islamic-finance-certification-for-sharia-compliant-stablecoin-e09e5c28.md)
