@@ -1,3 +1,4 @@
+* 2018-11-12 [4 개의 금융 중심 플랫폼을 위한 새로운 중국 블록 체인 얼라이언스 계획 개발](https://github.com/theyapapa/cryptonews/blob/ko/new-chinese-blockchain-alliance-plans-development-of-four-finance-oriented-platforms-b53dc5d8.md)
 * 2018-11-12 [스위스 암호화 기업, sharia-규정 준수 안정성에 대 한 이슬람 금융 인증을 받습니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-crypto-firm-gets-islamic-finance-certification-for-sharia-compliant-stablecoin-e09e5c28.md)
 * 2018-11-11 [우리가 알고 있는 상업용 부동산의 얼굴을 변경 하는 블록 체인 세트](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-set-to-change-the-face-of-commercial-real-estate-as-we-know-it-0fe1a5df.md)
 * 2018-11-11 [호 들러의 다이제스트, 11 월 5-11 일: 스타 트랙의 캡틴 커크, 연방 분권을 방어, 가짜 엘 론 musks는 트위터 오버런](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-november-5-11-star-treks-captain-kirk-defends-eth-decentralization-while-fake-elon-musks-overrun-twitter-1c936b29.md)
