@@ -1,3 +1,4 @@
+* 2018-11-12 [비트 코인,에 테 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 11 월 12 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-nov-12-7a4d69e0.md)
 * 2018-11-12 [마셜 제도 대통령이 국가 암호화 계획에 의해 요구 되는 신뢰 투표를 하지 않고 생존](https://github.com/theyapapa/cryptonews/blob/ko/marshall-islands-president-survives-no-confidence-vote-prompted-by-national-crypto-plans-a9fd985b.md)
 * 2018-11-12 [주요 석유 기업, 은행은 에너지 상품 거래를 위한 블록 체인 플랫폼을 출시 하는 파트너입니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-oil-firms-banks-partner-to-launch-blockchain-platform-for-energy-commodity-trading-23ae796c.md)
 * 2018-11-12 [미국 사람 벌금 $110만, 사기 비트 코인에 대 한 15 개월 선 고, 체계 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/us-man-fined-11-million-sentenced-to-15-months-for-fraudulent-bitcoin-litecoin-schemes-ad43cd4c.md)
