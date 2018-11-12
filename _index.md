@@ -1,3 +1,4 @@
+* 2018-11-12 [주요 석유 기업, 은행은 에너지 상품 거래를 위한 블록 체인 플랫폼을 출시 하는 파트너입니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-oil-firms-banks-partner-to-launch-blockchain-platform-for-energy-commodity-trading-23ae796c.md)
 * 2018-11-12 [미국 사람 벌금 $110만, 사기 비트 코인에 대 한 15 개월 선 고, 체계 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/us-man-fined-11-million-sentenced-to-15-months-for-fraudulent-bitcoin-litecoin-schemes-ad43cd4c.md)
 * 2018-11-12 [크림 정부는 블록 체인-클러스터 및 암호 펀드의 생성을 고려](https://github.com/theyapapa/cryptonews/blob/ko/crimean-government-considers-creation-of-blockchain-cluster-and-crypto-fund-83ae58b1.md)
 * 2018-11-12 [아프리카 BTC 지원 송금 서비스 bitpesa와 함께 하는 일본 보험 업체 sompo](https://github.com/theyapapa/cryptonews/blob/ko/japanese-insurer-sompo-partners-with-african-btc-enabled-remittance-service-bitpesa-a3cabd29.md)
