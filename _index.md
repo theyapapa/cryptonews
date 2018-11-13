@@ -1,3 +1,4 @@
+* 2018-11-12 [Сырьевые фирмы полный Блокчейн пилот для черной пшеницы моря](https://github.com/theyapapa/cryptonews/blob/ru/commodities-firms-complete-blockchain-pilot-for-black-sea-wheat-a4f8225c.md)
 * 2018-11-12 [Российская крипто-биржа получила одобрение от эстонского финансового контролера](https://github.com/theyapapa/cryptonews/blob/ru/russian-crypto-exchange-gets-approval-from-estonian-financial-watchdog-f97b74b7.md)
 * 2018-11-12 [Bitcoin, Эфириум, эфир, рябь, Bitcoin Cash, EOS, Звездный, Litecoin, Monero, трон: анализ цен, 12 ноября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-nov-12-7a4d69e0.md)
 * 2018-11-12 [Маршалловы острова президент выЖивает без доверия голосование побудило национальные крипто планы](https://github.com/theyapapa/cryptonews/blob/ru/marshall-islands-president-survives-no-confidence-vote-prompted-by-national-crypto-plans-a9fd985b.md)
