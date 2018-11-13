@@ -1,3 +1,4 @@
+* 2018-11-13 [El mayor museo estadounidense se convierte en el tercer país en aceptar Bitcoin como pago](https://github.com/theyapapa/cryptonews/blob/es/major-us-museum-becomes-countrys-third-to-accept-bitcoin-as-payment-2b787b8e.md)
 * 2018-11-12 [Por delante de Bitcoin en efectivo tenedor duro, las visiones de la moneda compitiendo competir por la tasa de hash](https://github.com/theyapapa/cryptonews/blob/es/ahead-of-bitcoin-cash-hard-fork-the-coins-competing-visions-vie-for-hash-rate-5fb36104.md)
 * 2018-11-12 [Empresas de materias primas completa bloques piloto de trigo de mar negro](https://github.com/theyapapa/cryptonews/blob/es/commodities-firms-complete-blockchain-pilot-for-black-sea-wheat-a4f8225c.md)
 * 2018-11-12 [Russian Crypto Exchange obtiene la aprobación del vigilante financiero estonio](https://github.com/theyapapa/cryptonews/blob/es/russian-crypto-exchange-gets-approval-from-estonian-financial-watchdog-f97b74b7.md)
