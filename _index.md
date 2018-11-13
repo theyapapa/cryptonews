@@ -1,3 +1,4 @@
+* 2018-11-13 [암호화 시장 하루에 약간의 감소를 참조 하십시오, 비트 코인 캐쉬는 약간의 이득을 만든다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-slight-decline-on-the-day-bitcoin-cash-makes-minor-gains-fac32ef7.md)
 * 2018-11-13 [블록 체인 시스템을 위한 특허 출원, 저장 된 기록과 영수증의 이미지 일치](https://github.com/theyapapa/cryptonews/blob/ko/amex-files-patent-for-blockchain-system-to-match-images-of-receipts-with-stored-records-3a30b508.md)
 * 2018-11-13 [암호화 및 분산 데이터 스토리지 솔루션에 대 한 Amazon win 특허](https://github.com/theyapapa/cryptonews/blob/ko/amazon-wins-patents-for-cryptography-and-distributed-data-storage-solutions-d3671cd9.md)
 * 2018-11-13 [후 오비의 미국 기반 전략 파트너 hbus, VC 회사 드레이퍼 아테나의 전 Exec](https://github.com/theyapapa/cryptonews/blob/ko/huobis-us-based-strategic-partner-hbus-hires-former-exec-of-vc-firm-draper-athena-7e0c7895.md)
