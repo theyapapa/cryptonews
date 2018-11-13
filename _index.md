@@ -1,3 +1,4 @@
+* 2018-11-13 [리플 변호사가 ' 매끄러운 ' 이동에 연방 법원에 증권 소송을 이동 하려고](https://github.com/theyapapa/cryptonews/blob/ko/ripple-lawyers-try-to-move-securities-lawsuit-to-federal-court-in-slick-move-687e129e.md)
 * 2018-11-13 [미국 메이저 박물관은 비트 코인을 지불로 받아들이는 3 번째 국가가 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-us-museum-becomes-countrys-third-to-accept-bitcoin-as-payment-2b787b8e.md)
 * 2018-11-12 [앞서 비트 코인 현금 하드 포크의, 동전의 경쟁 비전은 해시 속도에 대 한 Vie](https://github.com/theyapapa/cryptonews/blob/ko/ahead-of-bitcoin-cash-hard-fork-the-coins-competing-visions-vie-for-hash-rate-5fb36104.md)
 * 2018-11-12 [원자재 회사, 검은 바다 밀에 대 한 완벽 한 블록 체인 파일럿](https://github.com/theyapapa/cryptonews/blob/ko/commodities-firms-complete-blockchain-pilot-for-black-sea-wheat-a4f8225c.md)
