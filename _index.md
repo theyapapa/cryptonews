@@ -1,3 +1,4 @@
+* 2018-11-13 [Huobi США стратегический партнер HBUS наНимает бывший EXEC из VC фирмы драпировка Афина](https://github.com/theyapapa/cryptonews/blob/ru/huobis-us-based-strategic-partner-hbus-hires-former-exec-of-vc-firm-draper-athena-7e0c7895.md)
 * 2018-11-13 [Япония: крипто-обмен Коинчекк возобновляет нем торговли почти 10 месяцев после основных Hack](https://github.com/theyapapa/cryptonews/blob/ru/japan-crypto-exchange-coincheck-resumes-nem-trading-almost-10-months-after-major-hack-797125e8.md)
 * 2018-11-13 [Рябь юристы пытаются перенести иск о ценных бумагах в Федеральный суд в "пятно" двигаться](https://github.com/theyapapa/cryptonews/blob/ru/ripple-lawyers-try-to-move-securities-lawsuit-to-federal-court-in-slick-move-687e129e.md)
 * 2018-11-13 [Основной музей США становится третьей страной принять Bitcoin в качестве оплаты](https://github.com/theyapapa/cryptonews/blob/ru/major-us-museum-becomes-countrys-third-to-accept-bitcoin-as-payment-2b787b8e.md)
