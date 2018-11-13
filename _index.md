@@ -1,3 +1,4 @@
+* 2018-11-12 [원자재 회사, 검은 바다 밀에 대 한 완벽 한 블록 체인 파일럿](https://github.com/theyapapa/cryptonews/blob/ko/commodities-firms-complete-blockchain-pilot-for-black-sea-wheat-a4f8225c.md)
 * 2018-11-12 [러시아 암호 교환 에스토니아 금융 감시에서 승인을 얻는다](https://github.com/theyapapa/cryptonews/blob/ko/russian-crypto-exchange-gets-approval-from-estonian-financial-watchdog-f97b74b7.md)
 * 2018-11-12 [비트 코인,에 테 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 11 월 12 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-nov-12-7a4d69e0.md)
 * 2018-11-12 [마셜 제도 대통령이 국가 암호화 계획에 의해 요구 되는 신뢰 투표를 하지 않고 생존](https://github.com/theyapapa/cryptonews/blob/ko/marshall-islands-president-survives-no-confidence-vote-prompted-by-national-crypto-plans-a9fd985b.md)
