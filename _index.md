@@ -1,3 +1,4 @@
+* 2018-11-13 [Япония: крипто-обмен Коинчекк возобновляет нем торговли почти 10 месяцев после основных Hack](https://github.com/theyapapa/cryptonews/blob/ru/japan-crypto-exchange-coincheck-resumes-nem-trading-almost-10-months-after-major-hack-797125e8.md)
 * 2018-11-13 [Рябь юристы пытаются перенести иск о ценных бумагах в Федеральный суд в "пятно" двигаться](https://github.com/theyapapa/cryptonews/blob/ru/ripple-lawyers-try-to-move-securities-lawsuit-to-federal-court-in-slick-move-687e129e.md)
 * 2018-11-13 [Основной музей США становится третьей страной принять Bitcoin в качестве оплаты](https://github.com/theyapapa/cryptonews/blob/ru/major-us-museum-becomes-countrys-third-to-accept-bitcoin-as-payment-2b787b8e.md)
 * 2018-11-12 [Впереди Bitcoin наличными жесткий вилка, конкурирующие видения монеты соперничают за хэш-скорость](https://github.com/theyapapa/cryptonews/blob/ru/ahead-of-bitcoin-cash-hard-fork-the-coins-competing-visions-vie-for-hash-rate-5fb36104.md)
