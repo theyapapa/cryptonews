@@ -1,3 +1,4 @@
+* 2018-11-13 [블록 체인 시스템을 위한 특허 출원, 저장 된 기록과 영수증의 이미지 일치](https://github.com/theyapapa/cryptonews/blob/ko/amex-files-patent-for-blockchain-system-to-match-images-of-receipts-with-stored-records-3a30b508.md)
 * 2018-11-13 [암호화 및 분산 데이터 스토리지 솔루션에 대 한 Amazon win 특허](https://github.com/theyapapa/cryptonews/blob/ko/amazon-wins-patents-for-cryptography-and-distributed-data-storage-solutions-d3671cd9.md)
 * 2018-11-13 [후 오비의 미국 기반 전략 파트너 hbus, VC 회사 드레이퍼 아테나의 전 Exec](https://github.com/theyapapa/cryptonews/blob/ko/huobis-us-based-strategic-partner-hbus-hires-former-exec-of-vc-firm-draper-athena-7e0c7895.md)
 * 2018-11-13 [일본: 암호 교환 코인 검사는 주요 해킹 후에 거의 10 개월의 NEM 거래를 다시 시작](https://github.com/theyapapa/cryptonews/blob/ko/japan-crypto-exchange-coincheck-resumes-nem-trading-almost-10-months-after-major-hack-797125e8.md)
