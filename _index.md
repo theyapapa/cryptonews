@@ -1,3 +1,4 @@
+* 2018-11-14 [비트 코인은 3 개월의 최저 가격과 알트 코인이 낙하 함에 따라 변동성을 보게 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sees-volatility-as-prices-hit-three-month-lows-and-altcoins-fall-ef2fa6fa.md)
 * 2018-11-14 [중앙 은행 디지털 통화는 합법적 인 ' 역할을 할 수 있습니다, ' IMF의 lagarde는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/central-bank-digital-currencies-could-have-legitimate-role-says-imfs-lagarde-51f8974a.md)
 * 2018-11-13 [전자 문서에 대 한 개정을 추적 하는 블록 체인 시스템에 대 한 Xerox win 특허](https://github.com/theyapapa/cryptonews/blob/ko/xerox-wins-patent-for-blockchain-system-that-tracks-revisions-to-electronic-documents-c0fcb14e.md)
 * 2018-11-13 [보고서: Google G 스위트 트위터 계정 1만 비트 코인 사기를 홍보 하는 손상](https://github.com/theyapapa/cryptonews/blob/ko/report-google-g-suite-twitter-account-compromised-to-promote-10-000-bitcoin-scam-1e48ed83.md)
