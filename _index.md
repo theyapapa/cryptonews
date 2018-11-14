@@ -1,3 +1,4 @@
+* 2018-11-14 [IBM exec: Кбдкс может облегчить риски, которые способствовали 2008 финансового краха](https://github.com/theyapapa/cryptonews/blob/ru/ibm-exec-cbdcs-can-alleviate-risks-that-contributed-to-2008-financial-crash-483074fb.md)
 * 2018-11-14 [Bitcoin видит волатильность как цены хит три месяца минимумов и Altcoins падение](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-sees-volatility-as-prices-hit-three-month-lows-and-altcoins-fall-ef2fa6fa.md)
 * 2018-11-14 [Цифровые валюты центрального банка могут иметь законную роль, – говорит Лагард МВФ](https://github.com/theyapapa/cryptonews/blob/ru/central-bank-digital-currencies-could-have-legitimate-role-says-imfs-lagarde-51f8974a.md)
 * 2018-11-13 [Xerox выИгрывает патент на Блокчейн-систему, которая отслеживает изменения в электронных документах](https://github.com/theyapapa/cryptonews/blob/ru/xerox-wins-patent-for-blockchain-system-that-tracks-revisions-to-electronic-documents-c0fcb14e.md)
