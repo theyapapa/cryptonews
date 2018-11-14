@@ -1,3 +1,4 @@
+* 2018-11-13 [Доклад: Google G Suite щебетать счета скомпрометирована для содействия 10 000 Bitcoin афера](https://github.com/theyapapa/cryptonews/blob/ru/report-google-g-suite-twitter-account-compromised-to-promote-10-000-bitcoin-scam-1e48ed83.md)
 * 2018-11-13 [Судья правила в пользу канадского банка в споре с крипто-обмен](https://github.com/theyapapa/cryptonews/blob/ru/judge-rules-in-favor-of-canadian-bank-in-dispute-with-crypto-exchange-0bc3a359.md)
 * 2018-11-13 [Опрос: одна треть немецких логистических менеджеров думают, что Блокчейн улучшит цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/poll-one-third-of-german-logistic-managers-think-blockchain-will-improve-supply-chains-2066ab14.md)
 * 2018-11-13 [Крипто рынки видят небольшое снижение на день, Bitcoin Cash делает неЗначительные выгоды](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-slight-decline-on-the-day-bitcoin-cash-makes-minor-gains-fac32ef7.md)
