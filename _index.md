@@ -1,3 +1,4 @@
+* 2018-11-14 [' 저렴 한 수수료와 인스턴트 송금 ': 새로운 플랫폼은 더 나은-알려진 라이벌 도전](https://github.com/theyapapa/cryptonews/blob/ko/instant-money-transfers-with-low-fees-new-platform-is-challenging-better-known-rivals-e6bd18a0.md)
 * 2018-11-14 [보고서: 프랑스는 글로벌 ICO 시장의 일부에 대 한 계정, 우리는 업계를 리드 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/report-france-accounts-for-minor-part-of-global-ico-market-while-us-leads-the-industry-31af8481.md)
 * 2018-11-14 [IBM Exec: cbdcs는 2008의 금융 충돌에 기여 하는 위험을 완화할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ibm-exec-cbdcs-can-alleviate-risks-that-contributed-to-2008-financial-crash-483074fb.md)
 * 2018-11-14 [비트 코인은 3 개월의 최저 가격과 알트 코인이 낙하 함에 따라 변동성을 보게 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sees-volatility-as-prices-hit-three-month-lows-and-altcoins-fall-ef2fa6fa.md)
