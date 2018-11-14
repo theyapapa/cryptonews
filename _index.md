@@ -1,3 +1,4 @@
+* 2018-11-14 [시장은 대량 판매를 참조 하십시오, 비트 코인은 2018에서 처음으로 $5600 미만으로 급락](https://github.com/theyapapa/cryptonews/blob/ko/markets-see-massive-selloff-bitcoin-dips-below-5-600-for-the-first-time-in-2018-de417ea1.md)
 * 2018-11-14 [' 저렴 한 수수료와 인스턴트 송금 ': 새로운 플랫폼은 더 나은-알려진 라이벌 도전](https://github.com/theyapapa/cryptonews/blob/ko/instant-money-transfers-with-low-fees-new-platform-is-challenging-better-known-rivals-e6bd18a0.md)
 * 2018-11-14 [보고서: 프랑스는 글로벌 ICO 시장의 일부에 대 한 계정, 우리는 업계를 리드 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/report-france-accounts-for-minor-part-of-global-ico-market-while-us-leads-the-industry-31af8481.md)
 * 2018-11-14 [IBM Exec: cbdcs는 2008의 금융 충돌에 기여 하는 위험을 완화할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ibm-exec-cbdcs-can-alleviate-risks-that-contributed-to-2008-financial-crash-483074fb.md)
