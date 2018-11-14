@@ -1,3 +1,4 @@
+* 2018-11-14 [비트 코인,에 테 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, 몬에로, 트 론: 가격 분석, 11 월 14 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-nov-14-932eccd5.md)
 * 2018-11-14 [시장은 대량 판매를 참조 하십시오, 비트 코인은 2018에서 처음으로 $5600 미만으로 급락](https://github.com/theyapapa/cryptonews/blob/ko/markets-see-massive-selloff-bitcoin-dips-below-5-600-for-the-first-time-in-2018-de417ea1.md)
 * 2018-11-14 [' 저렴 한 수수료와 인스턴트 송금 ': 새로운 플랫폼은 더 나은-알려진 라이벌 도전](https://github.com/theyapapa/cryptonews/blob/ko/instant-money-transfers-with-low-fees-new-platform-is-challenging-better-known-rivals-e6bd18a0.md)
 * 2018-11-14 [보고서: 프랑스는 글로벌 ICO 시장의 일부에 대 한 계정, 우리는 업계를 리드 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/report-france-accounts-for-minor-part-of-global-ico-market-while-us-leads-the-industry-31af8481.md)
