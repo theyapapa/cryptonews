@@ -1,3 +1,4 @@
+* 2018-11-14 [Bitcoin видит волатильность как цены хит три месяца минимумов и Altcoins падение](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-sees-volatility-as-prices-hit-three-month-lows-and-altcoins-fall-ef2fa6fa.md)
 * 2018-11-14 [Цифровые валюты центрального банка могут иметь законную роль, – говорит Лагард МВФ](https://github.com/theyapapa/cryptonews/blob/ru/central-bank-digital-currencies-could-have-legitimate-role-says-imfs-lagarde-51f8974a.md)
 * 2018-11-13 [Xerox выИгрывает патент на Блокчейн-систему, которая отслеживает изменения в электронных документах](https://github.com/theyapapa/cryptonews/blob/ru/xerox-wins-patent-for-blockchain-system-that-tracks-revisions-to-electronic-documents-c0fcb14e.md)
 * 2018-11-13 [Доклад: Google G Suite щебетать счета скомпрометирована для содействия 10 000 Bitcoin афера](https://github.com/theyapapa/cryptonews/blob/ru/report-google-g-suite-twitter-account-compromised-to-promote-10-000-bitcoin-scam-1e48ed83.md)
