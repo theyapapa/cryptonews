@@ -1,3 +1,4 @@
+* 2018-11-13 [전자 문서에 대 한 개정을 추적 하는 블록 체인 시스템에 대 한 Xerox win 특허](https://github.com/theyapapa/cryptonews/blob/ko/xerox-wins-patent-for-blockchain-system-that-tracks-revisions-to-electronic-documents-c0fcb14e.md)
 * 2018-11-13 [보고서: Google G 스위트 트위터 계정 1만 비트 코인 사기를 홍보 하는 손상](https://github.com/theyapapa/cryptonews/blob/ko/report-google-g-suite-twitter-account-compromised-to-promote-10-000-bitcoin-scam-1e48ed83.md)
 * 2018-11-13 [캐나다 은행 암호화 거래소와의 분쟁에 찬성 규칙을 판사](https://github.com/theyapapa/cryptonews/blob/ko/judge-rules-in-favor-of-canadian-bank-in-dispute-with-crypto-exchange-0bc3a359.md)
 * 2018-11-13 [설문 조사: 독일 물류 관리자의 1/3이 블록 체인으로 공급망을 개선 한다고 생각 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/poll-one-third-of-german-logistic-managers-think-blockchain-will-improve-supply-chains-2066ab14.md)
