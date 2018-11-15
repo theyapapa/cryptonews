@@ -1,3 +1,4 @@
+* 2018-11-15 [coinshares cso demirors 가격 슬라이드 12%로 비트 코인 투자자 들을 진정 촉구](https://github.com/theyapapa/cryptonews/blob/ko/coinshares-cso-demirors-urges-calm-among-bitcoin-investors-as-prices-slide-12-percent-10322043.md)
 * 2018-11-14 [투표: 지불 방법으로 암호화에 대 한 관심은 모스크바 주민들 사이에 작은 진출](https://github.com/theyapapa/cryptonews/blob/ko/poll-interest-in-crypto-as-payment-method-makes-small-inroads-among-moscow-residents-42762a5e.md)
 * 2018-11-14 [구글 플레이 스토어에서 발견 4 가짜 암호 화폐 지갑](https://github.com/theyapapa/cryptonews/blob/ko/four-fake-cryptocurrency-wallets-found-on-google-play-store-bc2cb220.md)
 * 2018-11-14 [뉴욕 bitlicense를 취득 하는 뉴욕시 디지털 투자 그룹 자회사](https://github.com/theyapapa/cryptonews/blob/ko/new-york-digital-investment-group-subsidiary-acquires-new-york-bitlicense-bbe6d30b.md)
