@@ -1,3 +1,4 @@
+* 2018-11-14 [구글 플레이 스토어에서 발견 4 가짜 암호 화폐 지갑](https://github.com/theyapapa/cryptonews/blob/ko/four-fake-cryptocurrency-wallets-found-on-google-play-store-bc2cb220.md)
 * 2018-11-14 [뉴욕 bitlicense를 취득 하는 뉴욕시 디지털 투자 그룹 자회사](https://github.com/theyapapa/cryptonews/blob/ko/new-york-digital-investment-group-subsidiary-acquires-new-york-bitlicense-bbe6d30b.md)
 * 2018-11-14 [비트 코인,에 테 리 움, 리플, 비트 코인 현금, EOS, 스텔라, 라이트 코인, 카르다노, 몬에로, 트 론: 가격 분석, 11 월 14 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-cardano-monero-tron-price-analysis-nov-14-932eccd5.md)
 * 2018-11-14 [시장은 대량 판매를 참조 하십시오, 비트 코인은 2018에서 처음으로 $5600 미만으로 급락](https://github.com/theyapapa/cryptonews/blob/ko/markets-see-massive-selloff-bitcoin-dips-below-5-600-for-the-first-time-in-2018-de417ea1.md)
