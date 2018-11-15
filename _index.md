@@ -1,3 +1,4 @@
+* 2018-11-15 [Европейский Центральный банк Exec звонки Bitcoin "зло икру финансового кризиса"](https://github.com/theyapapa/cryptonews/blob/ru/european-central-bank-exec-calls-bitcoin-the-evil-spawn-of-the-financial-crisis-e9e806bb.md)
 * 2018-11-15 [Bitcoin пробоя займет ' недели, если не месяцы ' отскок, говорит Фундстрат аналитик](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-breakdown-will-take-weeks-if-not-months-to-rebound-says-fundstrat-analyst-bce8fb50.md)
 * 2018-11-15 [Пол Скоулз, бывший Манчестер Юнайтед Стар, для поддержки крипто запуска](https://github.com/theyapapa/cryptonews/blob/ru/paul-scholes-former-manchester-united-star-to-support-crypto-startup-39252431.md)
 * 2018-11-15 [Главная Русская картинная галерея Третьяков запускает проект по поддержке Блокчейн-Арт](https://github.com/theyapapa/cryptonews/blob/ru/major-russian-art-gallery-tretyakov-launches-blockchain-based-art-patronage-project-da84173e.md)
