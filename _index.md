@@ -1,3 +1,4 @@
+* 2018-11-15 [비트 코인의 고장에는 ' 주,이를 때가 아닌 경우 '가 소요 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-breakdown-will-take-weeks-if-not-months-to-rebound-says-fundstrat-analyst-bce8fb50.md)
 * 2018-11-15 [전 맨체스터 유나이티드 스타 폴 스콜스, 암호화 시작 지원](https://github.com/theyapapa/cryptonews/blob/ko/paul-scholes-former-manchester-united-star-to-support-crypto-startup-39252431.md)
 * 2018-11-15 [주요 러시아 아트 갤러리 트레티야코프 블록 체인 기반 예술 후원 프로젝트 출시](https://github.com/theyapapa/cryptonews/blob/ko/major-russian-art-gallery-tretyakov-launches-blockchain-based-art-patronage-project-da84173e.md)
 * 2018-11-15 [홍콩 거래소 쿠 코인 네트 $2000만 주요 VC 회사에서의 투자](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-exchange-kucoin-nets-20-million-investment-from-major-vc-firms-64a79471.md)
