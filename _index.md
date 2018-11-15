@@ -1,3 +1,4 @@
+* 2018-11-15 [Пол Скоулз, бывший Манчестер Юнайтед Стар, для поддержки крипто запуска](https://github.com/theyapapa/cryptonews/blob/ru/paul-scholes-former-manchester-united-star-to-support-crypto-startup-39252431.md)
 * 2018-11-15 [Главная Русская картинная галерея Третьяков запускает проект по поддержке Блокчейн-Арт](https://github.com/theyapapa/cryptonews/blob/ru/major-russian-art-gallery-tretyakov-launches-blockchain-based-art-patronage-project-da84173e.md)
 * 2018-11-15 [Гонконг Exchange Кукоин сети $20 000 000 инвестиции от крупных компаний VC](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-exchange-kucoin-nets-20-million-investment-from-major-vc-firms-64a79471.md)
 * 2018-11-15 [«Коиншарес» приЗывает к спокойствию среди биткоин-инвесторов, так как цены скользят на 12 процентов](https://github.com/theyapapa/cryptonews/blob/ru/coinshares-cso-demirors-urges-calm-among-bitcoin-investors-as-prices-slide-12-percent-10322043.md)
