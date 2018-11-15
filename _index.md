@@ -1,3 +1,4 @@
+* 2018-11-15 [Bitcoin пробоя займет ' недели, если не месяцы ' отскок, говорит Фундстрат аналитик](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-breakdown-will-take-weeks-if-not-months-to-rebound-says-fundstrat-analyst-bce8fb50.md)
 * 2018-11-15 [Пол Скоулз, бывший Манчестер Юнайтед Стар, для поддержки крипто запуска](https://github.com/theyapapa/cryptonews/blob/ru/paul-scholes-former-manchester-united-star-to-support-crypto-startup-39252431.md)
 * 2018-11-15 [Главная Русская картинная галерея Третьяков запускает проект по поддержке Блокчейн-Арт](https://github.com/theyapapa/cryptonews/blob/ru/major-russian-art-gallery-tretyakov-launches-blockchain-based-art-patronage-project-da84173e.md)
 * 2018-11-15 [Гонконг Exchange Кукоин сети $20 000 000 инвестиции от крупных компаний VC](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-exchange-kucoin-nets-20-million-investment-from-major-vc-firms-64a79471.md)
