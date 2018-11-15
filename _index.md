@@ -1,3 +1,4 @@
+* 2018-11-15 [전 맨체스터 유나이티드 스타 폴 스콜스, 암호화 시작 지원](https://github.com/theyapapa/cryptonews/blob/ko/paul-scholes-former-manchester-united-star-to-support-crypto-startup-39252431.md)
 * 2018-11-15 [주요 러시아 아트 갤러리 트레티야코프 블록 체인 기반 예술 후원 프로젝트 출시](https://github.com/theyapapa/cryptonews/blob/ko/major-russian-art-gallery-tretyakov-launches-blockchain-based-art-patronage-project-da84173e.md)
 * 2018-11-15 [홍콩 거래소 쿠 코인 네트 $2000만 주요 VC 회사에서의 투자](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-exchange-kucoin-nets-20-million-investment-from-major-vc-firms-64a79471.md)
 * 2018-11-15 [coinshares cso demirors 가격 슬라이드 12%로 비트 코인 투자자 들을 진정 촉구](https://github.com/theyapapa/cryptonews/blob/ko/coinshares-cso-demirors-urges-calm-among-bitcoin-investors-as-prices-slide-12-percent-10322043.md)
