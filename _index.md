@@ -1,3 +1,4 @@
+* 2018-11-15 [«Коиншарес» приЗывает к спокойствию среди биткоин-инвесторов, так как цены скользят на 12 процентов](https://github.com/theyapapa/cryptonews/blob/ru/coinshares-cso-demirors-urges-calm-among-bitcoin-investors-as-prices-slide-12-percent-10322043.md)
 * 2018-11-14 [Опрос: интерес к крипте в качестве способа оплаты делает небольшие наЧисления среди жителей Москвы](https://github.com/theyapapa/cryptonews/blob/ru/poll-interest-in-crypto-as-payment-method-makes-small-inroads-among-moscow-residents-42762a5e.md)
 * 2018-11-14 [Четыре фальшивые кошельки криптовалюты найдены в магазине Google Play](https://github.com/theyapapa/cryptonews/blob/ru/four-fake-cryptocurrency-wallets-found-on-google-play-store-bc2cb220.md)
 * 2018-11-14 [Нью-Йоркская цифровая инвестиционная группа доЧерняя приОбретает Нью-Йорк BitLicense](https://github.com/theyapapa/cryptonews/blob/ru/new-york-digital-investment-group-subsidiary-acquires-new-york-bitlicense-bbe6d30b.md)
