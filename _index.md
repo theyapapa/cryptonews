@@ -1,3 +1,4 @@
+* 2018-11-15 [Корпорация Майкрософт выпускает облачный пакет разработки Блокчейн для Azure](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-releases-cloud-based-azure-blockchain-development-kit-9c3df364.md)
 * 2018-11-15 [После вчерашней кровавой бойни, потери продолжаются для основных крипт, занимают Эфириум](https://github.com/theyapapa/cryptonews/blob/ru/after-yesterdays-bloodbath-losses-continue-for-major-cryptos-xrp-overtakes-ethereum-66d5d905.md)
 * 2018-11-15 [Европейский Центральный банк Exec звонки Bitcoin "зло икру финансового кризиса"](https://github.com/theyapapa/cryptonews/blob/ru/european-central-bank-exec-calls-bitcoin-the-evil-spawn-of-the-financial-crisis-e9e806bb.md)
 * 2018-11-15 [Bitcoin пробоя займет ' недели, если не месяцы ' отскок, говорит Фундстрат аналитик](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-breakdown-will-take-weeks-if-not-months-to-rebound-says-fundstrat-analyst-bce8fb50.md)
