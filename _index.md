@@ -1,3 +1,4 @@
+* 2018-11-16 [중국 블록 체인 관련 회사 xunlei 보고서 $4530만 Q3 수익 ](https://github.com/theyapapa/cryptonews/blob/ko/chinese-blockchain-related-company-xunlei-reports-453-million-q3-revenue-5d73b608.md)
 * 2018-11-16 [미국 SEC 납입금 ' 등록 되지 않은 증권 '에 대 한 두 개의 ico에 대 한 민사 처벌](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-levies-first-civil-penalties-against-two-icos-for-unregistered-securities-9aaa8990.md)
 * 2018-11-16 [크림은 제재를 피하기 위해 익명의 외국 투자에 대 한 블록 체인 센터를 고려](https://github.com/theyapapa/cryptonews/blob/ko/crimea-considers-blockchain-center-for-anonymous-foreign-investments-to-avoid-sanctions-8e19502f.md)
 * 2018-11-16 [비트 코인, 알트 코인은 복구를 시작 하는 반면 비트 코인 캐쉬는 Top 20의 최악의 수행자입니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-altcoins-begin-recovery-while-bitcoin-cash-becomes-top-20s-worst-performer-41dec8ac.md)
