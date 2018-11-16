@@ -1,3 +1,4 @@
+* 2018-11-15 [비트 코인 현금 네트워크 업데이트 후 시간, 비트 코인 ABC 10 블록을 통해 시작](https://github.com/theyapapa/cryptonews/blob/ko/hours-after-bitcoin-cash-network-update-begins-bitcoin-abc-over-10-blocks-ahead-4d173a57.md)
 * 2018-11-15 [마이크로소프트 릴리스 클라우드 기반 Azure 블록 체인 개발 키트](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-releases-cloud-based-azure-blockchain-development-kit-9c3df364.md)
 * 2018-11-15 [어제 피의 목욕을 하 고 난 후, 중요 한 cryptos에서 패배는 계속 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/after-yesterdays-bloodbath-losses-continue-for-major-cryptos-xrp-overtakes-ethereum-66d5d905.md)
 * 2018-11-15 [유럽 중앙 은행 Exec는 비트 코인이 ' 금융 위기의 악마 부활 '을 부른다.](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-exec-calls-bitcoin-the-evil-spawn-of-the-financial-crisis-e9e806bb.md)
