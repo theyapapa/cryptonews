@@ -1,3 +1,4 @@
+* 2018-11-16 [wsj: SEC, 에릭 부 히 트에 프로브를 열어 $2017 50 mln 토큰 판매를 통해 암호 대출 회사](https://github.com/theyapapa/cryptonews/blob/ko/wsj-sec-opened-probe-into-erik-voorhees-crypto-loans-firm-over-2017-50-mln-token-sale-0d0e1bea.md)
 * 2018-11-16 [먼저 미국 ICO 사기 사건을 최종 단계로 선 고, 4 월 세트](https://github.com/theyapapa/cryptonews/blob/ko/guilty-plea-moves-first-us-ico-fraud-case-to-final-stages-sentencing-set-for-april-04b585ce.md)
 * 2018-11-15 [엔비디아 Q3 결과 공개 ' 암호 숙취 ' 광산 판매의 실종 때문에](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-q3-results-reveal-crypto-hangover-due-to-disappearance-of-miner-sales-6d6b221f.md)
 * 2018-11-15 [비트 코인 현금 네트워크 업데이트 후 시간, 비트 코인 ABC 10 블록을 통해 시작](https://github.com/theyapapa/cryptonews/blob/ko/hours-after-bitcoin-cash-network-update-begins-bitcoin-abc-over-10-blocks-ahead-4d173a57.md)
