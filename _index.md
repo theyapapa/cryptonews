@@ -1,3 +1,4 @@
+* 2018-11-16 [트 론 dapp 개발자를 위한 가속기 프로그램 출시](https://github.com/theyapapa/cryptonews/blob/ko/tron-launches-accelerator-program-for-dapp-developers-977b56d7.md)
 * 2018-11-16 [비트 코인, 리플,에 테 리 움, 스텔라, EOS, 라이트 코인, 카르다노, monero, 트 론, 대 쉬: 가격 분석, 11 월 16 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-eos-litecoin-cardano-monero-tron-dash-price-analysis-nov-16-e2b1a85f.md)
 * 2018-11-16 [중국 블록 체인 관련 회사 xunlei 보고서 $4530만 Q3 수익 ](https://github.com/theyapapa/cryptonews/blob/ko/chinese-blockchain-related-company-xunlei-reports-453-million-q3-revenue-5d73b608.md)
 * 2018-11-16 [미국 SEC 납입금 ' 등록 되지 않은 증권 '에 대 한 두 개의 ico에 대 한 민사 처벌](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-levies-first-civil-penalties-against-two-icos-for-unregistered-securities-9aaa8990.md)
