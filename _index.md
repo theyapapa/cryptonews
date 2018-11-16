@@ -1,3 +1,4 @@
+* 2018-11-16 [TRON lanza programa acelerador para desarrolladores de DApp](https://github.com/theyapapa/cryptonews/blob/es/tron-launches-accelerator-program-for-dapp-developers-977b56d7.md)
 * 2018-11-16 [Bitcoin, Ripple, Ethereum, estelar, EOS, Litecoin, carDano, Monero, TRON, DASH: Análisis de precios, 16 de noviembre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ripple-ethereum-stellar-eos-litecoin-cardano-monero-tron-dash-price-analysis-nov-16-e2b1a85f.md)
 * 2018-11-16 [China bloques-empresa relacionada Xunlei informes $45,3 millones Q3 ingresos ](https://github.com/theyapapa/cryptonews/blob/es/chinese-blockchain-related-company-xunlei-reports-453-million-q3-revenue-5d73b608.md)
 * 2018-11-16 [US SEC impone sanciones civiles en primer lugar contra dos ICOs de valores "no registrados"](https://github.com/theyapapa/cryptonews/blob/es/us-sec-levies-first-civil-penalties-against-two-icos-for-unregistered-securities-9aaa8990.md)
