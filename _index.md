@@ -1,3 +1,4 @@
+* 2018-11-16 [비트 코인, 알트 코인은 복구를 시작 하는 반면 비트 코인 캐쉬는 Top 20의 최악의 수행자입니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-altcoins-begin-recovery-while-bitcoin-cash-becomes-top-20s-worst-performer-41dec8ac.md)
 * 2018-11-16 [wsj: SEC, 에릭 부 히 트에 프로브를 열어 $2017 50 mln 토큰 판매를 통해 암호 대출 회사](https://github.com/theyapapa/cryptonews/blob/ko/wsj-sec-opened-probe-into-erik-voorhees-crypto-loans-firm-over-2017-50-mln-token-sale-0d0e1bea.md)
 * 2018-11-16 [먼저 미국 ICO 사기 사건을 최종 단계로 선 고, 4 월 세트](https://github.com/theyapapa/cryptonews/blob/ko/guilty-plea-moves-first-us-ico-fraud-case-to-final-stages-sentencing-set-for-april-04b585ce.md)
 * 2018-11-15 [엔비디아 Q3 결과 공개 ' 암호 숙취 ' 광산 판매의 실종 때문에](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-q3-results-reveal-crypto-hangover-due-to-disappearance-of-miner-sales-6d6b221f.md)
