@@ -1,3 +1,4 @@
+* 2018-11-15 [Часы после того, как начинается обновление Bitcoin Cash Network, Bitcoin ABC более 10 блоков впереди](https://github.com/theyapapa/cryptonews/blob/ru/hours-after-bitcoin-cash-network-update-begins-bitcoin-abc-over-10-blocks-ahead-4d173a57.md)
 * 2018-11-15 [Корпорация Майкрософт выпускает облачный пакет разработки Блокчейн для Azure](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-releases-cloud-based-azure-blockchain-development-kit-9c3df364.md)
 * 2018-11-15 [После вчерашней кровавой бойни, потери продолжаются для основных крипт, занимают Эфириум](https://github.com/theyapapa/cryptonews/blob/ru/after-yesterdays-bloodbath-losses-continue-for-major-cryptos-xrp-overtakes-ethereum-66d5d905.md)
 * 2018-11-15 [Европейский Центральный банк Exec звонки Bitcoin "зло икру финансового кризиса"](https://github.com/theyapapa/cryptonews/blob/ru/european-central-bank-exec-calls-bitcoin-the-evil-spawn-of-the-financial-crisis-e9e806bb.md)
