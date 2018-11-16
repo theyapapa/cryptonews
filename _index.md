@@ -1,3 +1,4 @@
+* 2018-11-15 [엔비디아 Q3 결과 공개 ' 암호 숙취 ' 광산 판매의 실종 때문에](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-q3-results-reveal-crypto-hangover-due-to-disappearance-of-miner-sales-6d6b221f.md)
 * 2018-11-15 [비트 코인 현금 네트워크 업데이트 후 시간, 비트 코인 ABC 10 블록을 통해 시작](https://github.com/theyapapa/cryptonews/blob/ko/hours-after-bitcoin-cash-network-update-begins-bitcoin-abc-over-10-blocks-ahead-4d173a57.md)
 * 2018-11-15 [마이크로소프트 릴리스 클라우드 기반 Azure 블록 체인 개발 키트](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-releases-cloud-based-azure-blockchain-development-kit-9c3df364.md)
 * 2018-11-15 [어제 피의 목욕을 하 고 난 후, 중요 한 cryptos에서 패배는 계속 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/after-yesterdays-bloodbath-losses-continue-for-major-cryptos-xrp-overtakes-ethereum-66d5d905.md)
