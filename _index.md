@@ -1,3 +1,4 @@
+* 2018-11-16 [웨스트버지니아 주 국무 장관, 2018 중간 선거에서 성공적인 블록 체인 투표를 보고](https://github.com/theyapapa/cryptonews/blob/ko/west-virginia-secretary-of-state-reports-successful-blockchain-voting-in-2018-midterm-elections-b518705f.md)
 * 2018-11-16 [미국: 암호화 이니셔티브는 얼음 구금에 이민자를 보석 금](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-initiative-donates-monero-to-bail-out-immigrants-in-ice-detention-a59bd71c.md)
 * 2018-11-16 [트 론 dapp 개발자를 위한 가속기 프로그램 출시](https://github.com/theyapapa/cryptonews/blob/ko/tron-launches-accelerator-program-for-dapp-developers-977b56d7.md)
 * 2018-11-16 [비트 코인, 리플,에 테 리 움, 스텔라, EOS, 라이트 코인, 카르다노, monero, 트 론, 대 쉬: 가격 분석, 11 월 16 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-eos-litecoin-cardano-monero-tron-dash-price-analysis-nov-16-e2b1a85f.md)
