@@ -1,3 +1,4 @@
+* 2018-11-17 [Tom Lee de Fundstrat preDice la recuperación de bitcoin, pero baja el objetivo del año final a $15K](https://github.com/theyapapa/cryptonews/blob/es/fundstrats-tom-lee-predicts-bitcoin-recovery-but-lowers-end-year-target-to-15k-f659a0c0.md)
 * 2018-11-17 [CryptoRuble: ¿cuán estable podría ser el Stablecoin nacional Ruso?](https://github.com/theyapapa/cryptonews/blob/es/cryptoruble-how-stable-could-russian-national-stablecoin-be-2ba75672.md)
 * 2018-11-17 [El bot de comercio automatizado, libre y festivo se puede configurar en 10 minutos](https://github.com/theyapapa/cryptonews/blob/es/festive-free-automated-trading-bot-can-be-set-up-in-10-minutes-2629027f.md)
 * 2018-11-16 [El Secretario de estado de Virginia Occidental reporta éxito bloques votación en 2018 elecciones de mitad de período](https://github.com/theyapapa/cryptonews/blob/es/west-virginia-secretary-of-state-reports-successful-blockchain-voting-in-2018-midterm-elections-b518705f.md)
