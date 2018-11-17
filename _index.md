@@ -1,3 +1,4 @@
+* 2018-11-16 [Госсекретарь штата Западная Вирджиния сообщает об успешной Блокчейн-голосовании в 2018 среднесрочных выборах](https://github.com/theyapapa/cryptonews/blob/ru/west-virginia-secretary-of-state-reports-successful-blockchain-voting-in-2018-midterm-elections-b518705f.md)
 * 2018-11-16 [США: крипто инициатива жертвует Monero для спасения иммигрантов в ЛЕДЯной задержания](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-initiative-donates-monero-to-bail-out-immigrants-in-ice-detention-a59bd71c.md)
 * 2018-11-16 [ТРОН запускает Ускоритель программы для разработчиков DApp](https://github.com/theyapapa/cryptonews/blob/ru/tron-launches-accelerator-program-for-dapp-developers-977b56d7.md)
 * 2018-11-16 [Bitcoin, рябь, Эфириум, Звёздный, EOS, Litecoin, Monero, трон, ТИРЕ: анализ цен, 16 ноября](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-stellar-eos-litecoin-cardano-monero-tron-dash-price-analysis-nov-16-e2b1a85f.md)
