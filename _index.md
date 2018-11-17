@@ -1,3 +1,4 @@
+* 2018-11-17 [Компания по исследованию данных: 96% компаний, которые существуют сегодня не удастся через 10 лет](https://github.com/theyapapa/cryptonews/blob/ru/data-research-firm-96-percent-of-companies-that-exist-today-will-fail-in-10-years-c49a4bc2.md)
 * 2018-11-17 [Фундстрат том ли прогнозирует биткойн-восстановление, но понижает целевой показатель на конец года до $15 000](https://github.com/theyapapa/cryptonews/blob/ru/fundstrats-tom-lee-predicts-bitcoin-recovery-but-lowers-end-year-target-to-15k-f659a0c0.md)
 * 2018-11-17 [Крипторубле: насколько стабильным может быть российский национальный Stablecoin?](https://github.com/theyapapa/cryptonews/blob/ru/cryptoruble-how-stable-could-russian-national-stablecoin-be-2ba75672.md)
 * 2018-11-17 [Праздничный, бесплатный автоматический торговый бот может быть настроен в течение 10 минут](https://github.com/theyapapa/cryptonews/blob/ru/festive-free-automated-trading-bot-can-be-set-up-in-10-minutes-2629027f.md)
