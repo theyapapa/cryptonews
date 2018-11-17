@@ -1,3 +1,4 @@
+* 2018-11-17 [cryptoruble: 얼마나 안정적으로 러시아 국립 스타 펜가 될 수 있을까?](https://github.com/theyapapa/cryptonews/blob/ko/cryptoruble-how-stable-could-russian-national-stablecoin-be-2ba75672.md)
 * 2018-11-17 [축제, 무료 자동 거래 봇은 10 분에 설정할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/festive-free-automated-trading-bot-can-be-set-up-in-10-minutes-2629027f.md)
 * 2018-11-16 [웨스트버지니아 주 국무 장관, 2018 중간 선거에서 성공적인 블록 체인 투표를 보고](https://github.com/theyapapa/cryptonews/blob/ko/west-virginia-secretary-of-state-reports-successful-blockchain-voting-in-2018-midterm-elections-b518705f.md)
 * 2018-11-16 [미국: 암호화 이니셔티브는 얼음 구금에 이민자를 보석 금](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-initiative-donates-monero-to-bail-out-immigrants-in-ice-detention-a59bd71c.md)
