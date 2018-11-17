@@ -1,3 +1,4 @@
+* 2018-11-17 [데이터 연구 회사: 현재 존재 하는 기업의 96%가 10 년 동안 실패 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/data-research-firm-96-percent-of-companies-that-exist-today-will-fail-in-10-years-c49a4bc2.md)
 * 2018-11-17 [fundstrat의 톰 리는 비트 코인 복구를 예측 하지만, $15k에 연말 목표를 낮춘 다](https://github.com/theyapapa/cryptonews/blob/ko/fundstrats-tom-lee-predicts-bitcoin-recovery-but-lowers-end-year-target-to-15k-f659a0c0.md)
 * 2018-11-17 [cryptoruble: 얼마나 안정적으로 러시아 국립 스타 펜가 될 수 있을까?](https://github.com/theyapapa/cryptonews/blob/ko/cryptoruble-how-stable-could-russian-national-stablecoin-be-2ba75672.md)
 * 2018-11-17 [축제, 무료 자동 거래 봇은 10 분에 설정할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/festive-free-automated-trading-bot-can-be-set-up-in-10-minutes-2629027f.md)
