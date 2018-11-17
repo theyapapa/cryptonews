@@ -1,3 +1,4 @@
+* 2018-11-17 [Крипторубле: насколько стабильным может быть российский национальный Stablecoin?](https://github.com/theyapapa/cryptonews/blob/ru/cryptoruble-how-stable-could-russian-national-stablecoin-be-2ba75672.md)
 * 2018-11-17 [Праздничный, бесплатный автоматический торговый бот может быть настроен в течение 10 минут](https://github.com/theyapapa/cryptonews/blob/ru/festive-free-automated-trading-bot-can-be-set-up-in-10-minutes-2629027f.md)
 * 2018-11-16 [Госсекретарь штата Западная Вирджиния сообщает об успешной Блокчейн-голосовании в 2018 среднесрочных выборах](https://github.com/theyapapa/cryptonews/blob/ru/west-virginia-secretary-of-state-reports-successful-blockchain-voting-in-2018-midterm-elections-b518705f.md)
 * 2018-11-16 [США: крипто инициатива жертвует Monero для спасения иммигрантов в ЛЕДЯной задержания](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-initiative-donates-monero-to-bail-out-immigrants-in-ice-detention-a59bd71c.md)
