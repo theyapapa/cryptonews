@@ -1,3 +1,4 @@
+* 2018-11-18 [캘리포니아에서 SIM 교체가 점점 더 대중화 되 고, 경찰은 "높은 우선 순위"를 만듭니다.](https://github.com/theyapapa/cryptonews/blob/ko/sim-swapping-becomes-increasingly-popular-in-california-police-make-it-high-priority-5d543b2d.md)
 * 2018-11-18 [전원 워싱턴 카운티 유틸리티는 암호화 광부에 대 한 증가 전기 비용을 제안](https://github.com/theyapapa/cryptonews/blob/ko/rural-washington-county-utility-proposes-increased-electricity-costs-for-crypto-miners-8468f926.md)
 * 2018-11-18 [암호 화폐 시장은 비트 코인이 $5600에 가깝게 이동함에 따라 녹색의 플러시 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-flush-of-green-as-bitcoin-moves-closer-to-5-600-f9686398.md)
 * 2018-11-18 [자금 세탁을 방지 하기 위한 암호화 규제를 권장 하는 캐나다 하우스 재정 위원회](https://github.com/theyapapa/cryptonews/blob/ko/canadian-house-finance-committee-recommends-crypto-regulation-to-prevent-money-laundering-07cc3a14.md)
