@@ -1,3 +1,4 @@
+* 2018-11-17 [리플은 계속 해 서 리바운드 되는 반면, 대부분의 주요 암호 화폐는 빨간색의 온화한 물결을 참조 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripple-continues-to-rebound-while-most-major-cryptocurrencies-see-mild-wave-of-red-07cc4310.md)
 * 2018-11-17 [데이터 연구 회사: 현재 존재 하는 기업의 96%가 10 년 동안 실패 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/data-research-firm-96-percent-of-companies-that-exist-today-will-fail-in-10-years-c49a4bc2.md)
 * 2018-11-17 [fundstrat의 톰 리는 비트 코인 복구를 예측 하지만, $15k에 연말 목표를 낮춘 다](https://github.com/theyapapa/cryptonews/blob/ko/fundstrats-tom-lee-predicts-bitcoin-recovery-but-lowers-end-year-target-to-15k-f659a0c0.md)
 * 2018-11-17 [cryptoruble: 얼마나 안정적으로 러시아 국립 스타 펜가 될 수 있을까?](https://github.com/theyapapa/cryptonews/blob/ko/cryptoruble-how-stable-could-russian-national-stablecoin-be-2ba75672.md)
