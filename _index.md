@@ -1,3 +1,4 @@
+* 2018-11-18 [암호 화폐 시장은 비트 코인이 $5600에 가깝게 이동함에 따라 녹색의 플러시 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-flush-of-green-as-bitcoin-moves-closer-to-5-600-f9686398.md)
 * 2018-11-18 [자금 세탁을 방지 하기 위한 암호화 규제를 권장 하는 캐나다 하우스 재정 위원회](https://github.com/theyapapa/cryptonews/blob/ko/canadian-house-finance-committee-recommends-crypto-regulation-to-prevent-money-laundering-07cc3a14.md)
 * 2018-11-18 [상위 5 암호 수행자 개요: xem, 리플, 스텔라, 비트 코인, 이오타](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-xem-ripple-stellar-bitcoin-iota-fcda4986.md)
 * 2018-11-18 [50%는 전 미국 담당자 론 폴의 트위터 설문 조사에 대 한 장기적인 투자로 비트 코인을 선호 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/50-favor-bitcoin-as-long-term-investment-in-former-us-rep-ron-pauls-twitter-surveym-d0e4532c.md)
