@@ -1,3 +1,4 @@
+* 2018-11-18 [주요 스위스 증권 거래소, 시장 붕괴 속 세계 최초의 크립 토 ETP를 목록으로 표시](https://github.com/theyapapa/cryptonews/blob/ko/major-swiss-stock-exchange-six-lists-the-worlds-first-crypto-etp-amidst-market-collapse-6d8eddb1.md)
 * 2018-11-17 [리플은 계속 해 서 리바운드 되는 반면, 대부분의 주요 암호 화폐는 빨간색의 온화한 물결을 참조 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripple-continues-to-rebound-while-most-major-cryptocurrencies-see-mild-wave-of-red-07cc4310.md)
 * 2018-11-17 [데이터 연구 회사: 현재 존재 하는 기업의 96%가 10 년 동안 실패 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/data-research-firm-96-percent-of-companies-that-exist-today-will-fail-in-10-years-c49a4bc2.md)
 * 2018-11-17 [fundstrat의 톰 리는 비트 코인 복구를 예측 하지만, $15k에 연말 목표를 낮춘 다](https://github.com/theyapapa/cryptonews/blob/ko/fundstrats-tom-lee-predicts-bitcoin-recovery-but-lowers-end-year-target-to-15k-f659a0c0.md)
