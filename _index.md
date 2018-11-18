@@ -1,3 +1,4 @@
+* 2018-11-18 [Крипто рынки видят флеш зеленого как Bitcoin движется ближе к $5 600](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-flush-of-green-as-bitcoin-moves-closer-to-5-600-f9686398.md)
 * 2018-11-18 [Канадский дом финансов Комитет рекомендует крипто регулирования для предотвращения отМывания денег](https://github.com/theyapapa/cryptonews/blob/ru/canadian-house-finance-committee-recommends-crypto-regulation-to-prevent-money-laundering-07cc3a14.md)
 * 2018-11-18 [Топ 5 крипто исполнители Обзор: XEM, рябь, Звездный, Bitcoin, IOTA](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-xem-ripple-stellar-bitcoin-iota-fcda4986.md)
 * 2018-11-18 [50% пользу Bitcoin как долгосрочные инвестиции в бывший США REP Рон Пол щебетать обследования](https://github.com/theyapapa/cryptonews/blob/ru/50-favor-bitcoin-as-long-term-investment-in-former-us-rep-ron-pauls-twitter-surveym-d0e4532c.md)
