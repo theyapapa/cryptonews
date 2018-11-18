@@ -1,3 +1,4 @@
+* 2018-11-18 [전원 워싱턴 카운티 유틸리티는 암호화 광부에 대 한 증가 전기 비용을 제안](https://github.com/theyapapa/cryptonews/blob/ko/rural-washington-county-utility-proposes-increased-electricity-costs-for-crypto-miners-8468f926.md)
 * 2018-11-18 [암호 화폐 시장은 비트 코인이 $5600에 가깝게 이동함에 따라 녹색의 플러시 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-flush-of-green-as-bitcoin-moves-closer-to-5-600-f9686398.md)
 * 2018-11-18 [자금 세탁을 방지 하기 위한 암호화 규제를 권장 하는 캐나다 하우스 재정 위원회](https://github.com/theyapapa/cryptonews/blob/ko/canadian-house-finance-committee-recommends-crypto-regulation-to-prevent-money-laundering-07cc3a14.md)
 * 2018-11-18 [상위 5 암호 수행자 개요: xem, 리플, 스텔라, 비트 코인, 이오타](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-xem-ripple-stellar-bitcoin-iota-fcda4986.md)
