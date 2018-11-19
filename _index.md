@@ -1,3 +1,4 @@
+* 2018-11-19 [Ломать Peg: каждый Stablecoin имеет свои точки отказа](https://github.com/theyapapa/cryptonews/blob/ru/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
 * 2018-11-19 [Имеет платформу, предлагающую 40м TPS нашли ключ к интеграции Блокчейн в основной?](https://github.com/theyapapa/cryptonews/blob/ru/has-a-platform-offering-40m-tps-found-the-key-to-blockchains-mainstream-adoption-e71cef11.md)
 * 2018-11-18 [Bitcoin наличными жесткий вилка битвы: кто выИгрывает хэш войны](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-cash-hard-fork-battle-who-is-winning-the-hash-war-833bdeb0.md)
 * 2018-11-18 [SIM замена становится все более популярным в Калифорнии, полиция сделать это "высокий приоритет"](https://github.com/theyapapa/cryptonews/blob/ru/sim-swapping-becomes-increasingly-popular-in-california-police-make-it-high-priority-5d543b2d.md)
