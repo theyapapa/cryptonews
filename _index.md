@@ -1,3 +1,4 @@
+* 2018-11-18 [Bitcoin наличными жесткий вилка битвы: кто выИгрывает хэш войны](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-cash-hard-fork-battle-who-is-winning-the-hash-war-833bdeb0.md)
 * 2018-11-18 [SIM замена становится все более популярным в Калифорнии, полиция сделать это "высокий приоритет"](https://github.com/theyapapa/cryptonews/blob/ru/sim-swapping-becomes-increasingly-popular-in-california-police-make-it-high-priority-5d543b2d.md)
 * 2018-11-18 [Сельское Вашингтон Каунти утилита предлагает увеличение расходов на электроЭнергию для крипто шахтеров](https://github.com/theyapapa/cryptonews/blob/ru/rural-washington-county-utility-proposes-increased-electricity-costs-for-crypto-miners-8468f926.md)
 * 2018-11-18 [Крипто рынки видят флеш зеленого как Bitcoin движется ближе к $5 600](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-flush-of-green-as-bitcoin-moves-closer-to-5-600-f9686398.md)
