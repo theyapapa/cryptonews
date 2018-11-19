@@ -1,3 +1,4 @@
+* 2018-11-19 [중국 공산당 위원회를 설정 하 여 탑 암호화 거래소의 회 비를 베이징에 지급](https://github.com/theyapapa/cryptonews/blob/ko/top-crypto-exchange-huobi-pays-its-dues-to-beijing-by-setting-up-communist-party-committee-460277aa.md)
 * 2018-11-19 [블록 체인 네트워크의 하드 포크를 Triple TPS로 만들고 사용자에 게 유연한 거래 수수료 제공](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-networks-hard-fork-to-triple-tps-and-give-users-flexible-transaction-fees-3d723c6b.md)
 * 2018-11-19 [중국의 IT 사역은 블록 체인 표준화의 ' 가속화 '를 요구 합니다](https://github.com/theyapapa/cryptonews/blob/ko/chinas-it-ministry-calls-for-acceleration-of-blockchain-standardization-4863443b.md)
 * 2018-11-19 [Peg를 깨고: 모든 스타 시는 실패의 포인트를가지고](https://github.com/theyapapa/cryptonews/blob/ko/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
