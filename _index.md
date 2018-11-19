@@ -1,3 +1,4 @@
+* 2018-11-19 [El Ministerio de TI de China llama a la "aceleración" de la estandarización bloques](https://github.com/theyapapa/cryptonews/blob/es/chinas-it-ministry-calls-for-acceleration-of-blockchain-standardization-4863443b.md)
 * 2018-11-19 [Rompiendo la clavija: cada Stablecoin tiene sus puntos de fracaso](https://github.com/theyapapa/cryptonews/blob/es/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
 * 2018-11-19 [¿Ha encontrado una plataforma que ofrezca 40m TPS la clave para la adopción principal de bloques?](https://github.com/theyapapa/cryptonews/blob/es/has-a-platform-offering-40m-tps-found-the-key-to-blockchains-mainstream-adoption-e71cef11.md)
 * 2018-11-18 [Bitcoin en efectivo duro tenedor batalla: que está ganando la guerra hash](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-cash-hard-fork-battle-who-is-winning-the-hash-war-833bdeb0.md)
