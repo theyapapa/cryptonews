@@ -1,3 +1,4 @@
+* 2018-11-18 [Bitcoin en efectivo duro tenedor batalla: que está ganando la guerra hash](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-cash-hard-fork-battle-who-is-winning-the-hash-war-833bdeb0.md)
 * 2018-11-18 [El intercambio de SIM se hace cada vez más popular en California, la policía lo hace "prioridad alta"](https://github.com/theyapapa/cryptonews/blob/es/sim-swapping-becomes-increasingly-popular-in-california-police-make-it-high-priority-5d543b2d.md)
 * 2018-11-18 [La utilidad rural del Condado de Washington propone mayores costos de electricidad para mineros criptográficos](https://github.com/theyapapa/cryptonews/blob/es/rural-washington-county-utility-proposes-increased-electricity-costs-for-crypto-miners-8468f926.md)
 * 2018-11-18 [Los mercados criptográficos ven a ras de verde mientras Bitcoin se acerca a $5.600](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-flush-of-green-as-bitcoin-moves-closer-to-5-600-f9686398.md)
