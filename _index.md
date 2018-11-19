@@ -1,3 +1,4 @@
+* 2018-11-19 [중국의 IT 사역은 블록 체인 표준화의 ' 가속화 '를 요구 합니다](https://github.com/theyapapa/cryptonews/blob/ko/chinas-it-ministry-calls-for-acceleration-of-blockchain-standardization-4863443b.md)
 * 2018-11-19 [Peg를 깨고: 모든 스타 시는 실패의 포인트를가지고](https://github.com/theyapapa/cryptonews/blob/ko/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
 * 2018-11-19 [플랫폼을 제공 하는 40m TPS가 블록 체인의 주요 채택에 대 한 핵심을 발견 했습니까?](https://github.com/theyapapa/cryptonews/blob/ko/has-a-platform-offering-40m-tps-found-the-key-to-blockchains-mainstream-adoption-e71cef11.md)
 * 2018-11-18 [비트 코인 현금 하드 포크 전투: 누가 해시 전쟁을 이기고 있다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-hard-fork-battle-who-is-winning-the-hash-war-833bdeb0.md)
