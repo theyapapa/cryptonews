@@ -1,3 +1,4 @@
+* 2018-11-19 [Top Crypto Exchange Huobi платит свои взносы в Пекин путем создания Коммунистической партии Комитета](https://github.com/theyapapa/cryptonews/blob/ru/top-crypto-exchange-huobi-pays-its-dues-to-beijing-by-setting-up-communist-party-committee-460277aa.md)
 * 2018-11-19 [Жесткая вилка Блокчейн сети для тройной TPS и дать пользователям гибкие комиссионные транзакции](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-networks-hard-fork-to-triple-tps-and-give-users-flexible-transaction-fees-3d723c6b.md)
 * 2018-11-19 [Китайское IT-Министерство приЗывает к «ускорению» стандартизации Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/chinas-it-ministry-calls-for-acceleration-of-blockchain-standardization-4863443b.md)
 * 2018-11-19 [Ломать Peg: каждый Stablecoin имеет свои точки отказа](https://github.com/theyapapa/cryptonews/blob/ru/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
