@@ -1,3 +1,4 @@
+* 2018-11-19 [Жесткая вилка Блокчейн сети для тройной TPS и дать пользователям гибкие комиссионные транзакции](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-networks-hard-fork-to-triple-tps-and-give-users-flexible-transaction-fees-3d723c6b.md)
 * 2018-11-19 [Китайское IT-Министерство приЗывает к «ускорению» стандартизации Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/chinas-it-ministry-calls-for-acceleration-of-blockchain-standardization-4863443b.md)
 * 2018-11-19 [Ломать Peg: каждый Stablecoin имеет свои точки отказа](https://github.com/theyapapa/cryptonews/blob/ru/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
 * 2018-11-19 [Имеет платформу, предлагающую 40м TPS нашли ключ к интеграции Блокчейн в основной?](https://github.com/theyapapa/cryptonews/blob/ru/has-a-platform-offering-40m-tps-found-the-key-to-blockchains-mainstream-adoption-e71cef11.md)
