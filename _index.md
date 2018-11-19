@@ -1,3 +1,4 @@
+* 2018-11-19 [Top Crypto Exchange Huobi paga sus cuotas a Beijing mediante la creación del Comité del partido comunista](https://github.com/theyapapa/cryptonews/blob/es/top-crypto-exchange-huobi-pays-its-dues-to-beijing-by-setting-up-communist-party-committee-460277aa.md)
 * 2018-11-19 [La bifurcación dura de la red de bloques para triple TPS y da a usuarios honorarios flexibles de la transacción](https://github.com/theyapapa/cryptonews/blob/es/blockchain-networks-hard-fork-to-triple-tps-and-give-users-flexible-transaction-fees-3d723c6b.md)
 * 2018-11-19 [El Ministerio de TI de China llama a la "aceleración" de la estandarización bloques](https://github.com/theyapapa/cryptonews/blob/es/chinas-it-ministry-calls-for-acceleration-of-blockchain-standardization-4863443b.md)
 * 2018-11-19 [Rompiendo la clavija: cada Stablecoin tiene sus puntos de fracaso](https://github.com/theyapapa/cryptonews/blob/es/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
