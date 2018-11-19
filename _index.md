@@ -1,3 +1,4 @@
+* 2018-11-18 [비트 코인 현금 하드 포크 전투: 누가 해시 전쟁을 이기고 있다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-hard-fork-battle-who-is-winning-the-hash-war-833bdeb0.md)
 * 2018-11-18 [캘리포니아에서 SIM 교체가 점점 더 대중화 되 고, 경찰은 "높은 우선 순위"를 만듭니다.](https://github.com/theyapapa/cryptonews/blob/ko/sim-swapping-becomes-increasingly-popular-in-california-police-make-it-high-priority-5d543b2d.md)
 * 2018-11-18 [전원 워싱턴 카운티 유틸리티는 암호화 광부에 대 한 증가 전기 비용을 제안](https://github.com/theyapapa/cryptonews/blob/ko/rural-washington-county-utility-proposes-increased-electricity-costs-for-crypto-miners-8468f926.md)
 * 2018-11-18 [암호 화폐 시장은 비트 코인이 $5600에 가깝게 이동함에 따라 녹색의 플러시 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-flush-of-green-as-bitcoin-moves-closer-to-5-600-f9686398.md)
