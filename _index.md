@@ -1,3 +1,4 @@
+* 2018-11-19 [La bifurcación dura de la red de bloques para triple TPS y da a usuarios honorarios flexibles de la transacción](https://github.com/theyapapa/cryptonews/blob/es/blockchain-networks-hard-fork-to-triple-tps-and-give-users-flexible-transaction-fees-3d723c6b.md)
 * 2018-11-19 [El Ministerio de TI de China llama a la "aceleración" de la estandarización bloques](https://github.com/theyapapa/cryptonews/blob/es/chinas-it-ministry-calls-for-acceleration-of-blockchain-standardization-4863443b.md)
 * 2018-11-19 [Rompiendo la clavija: cada Stablecoin tiene sus puntos de fracaso](https://github.com/theyapapa/cryptonews/blob/es/breaking-the-peg-every-stablecoin-has-its-points-of-failure-8ac6479b.md)
 * 2018-11-19 [¿Ha encontrado una plataforma que ofrezca 40m TPS la clave para la adopción principal de bloques?](https://github.com/theyapapa/cryptonews/blob/es/has-a-platform-offering-40m-tps-found-the-key-to-blockchains-mainstream-adoption-e71cef11.md)
