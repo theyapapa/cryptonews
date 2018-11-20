@@ -1,3 +1,4 @@
+* 2018-11-20 [Правительство Индии предСтавит проект закона о крипто-регулировании в декабре, документы Показать](https://github.com/theyapapa/cryptonews/blob/ru/indian-government-to-present-draft-bill-on-crypto-regulation-in-december-documents-show-814ef3b1.md)
 * 2018-11-19 [Исследование: «соответствие трилеммы» ограничивает потенциал ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/study-compliance-trilemma-limits-potential-of-icos-846e4a9c.md)
 * 2018-11-19 [Генеральный директор Autodesk: Блокчейн может остановить коррупцию в строительной отрасли](https://github.com/theyapapa/cryptonews/blob/ru/autodesk-ceo-blockchain-can-stem-corruption-in-construction-industry-dc0abe3e.md)
 * 2018-11-19 [Правительство Каталонии расСматривает Блокчейн для публичной системы ЭЛЕКТРОНного голосования](https://github.com/theyapapa/cryptonews/blob/ru/catalan-government-considers-blockchain-for-public-e-voting-system-d6e4fbab.md)
