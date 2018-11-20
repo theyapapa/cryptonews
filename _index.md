@@ -1,3 +1,4 @@
+* 2018-11-19 [오토 데스크 CEO: 블록 체인이 건설 산업의 부패를 초래할 수 있음](https://github.com/theyapapa/cryptonews/blob/ko/autodesk-ceo-blockchain-can-stem-corruption-in-construction-industry-dc0abe3e.md)
 * 2018-11-19 [카탈루냐어 정부 공공 전자 투표 시스템에 대 한 블록 체인을 고려](https://github.com/theyapapa/cryptonews/blob/ko/catalan-government-considers-blockchain-for-public-e-voting-system-d6e4fbab.md)
 * 2018-11-19 [IBM은 컬럼비아 대학교에서 블록 체인 기업을 위한 2 개의 액셀러레이터 프로그램을 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/columbia-university-ibm-launch-two-accelerator-programs-for-blockchain-enterprises-2e4eb52c.md)
 * 2018-11-19 [중국 공산당 위원회를 설정 하 여 탑 암호화 거래소의 회 비를 베이징에 지급](https://github.com/theyapapa/cryptonews/blob/ko/top-crypto-exchange-huobi-pays-its-dues-to-beijing-by-setting-up-communist-party-committee-460277aa.md)
