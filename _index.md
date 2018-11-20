@@ -1,3 +1,4 @@
+* 2018-11-20 [프로 농구 정상회의에 참석 하는 NBA 슈퍼스타 고베 브라이언트 특별 초청 연사](https://github.com/theyapapa/cryptonews/blob/ko/nba-superstar-kobe-bryant-to-attend-crypto-summit-as-special-guest-speaker-9a7376e5.md)
 * 2018-11-20 [인도 정부 12 월에 암호화 규제에 초안 법안을 제시, 문서 표시](https://github.com/theyapapa/cryptonews/blob/ko/indian-government-to-present-draft-bill-on-crypto-regulation-in-december-documents-show-814ef3b1.md)
 * 2018-11-19 [연구: ico의 ' 준 법 컴플라이언스 '의 가능성 제한](https://github.com/theyapapa/cryptonews/blob/ko/study-compliance-trilemma-limits-potential-of-icos-846e4a9c.md)
 * 2018-11-19 [오토 데스크 CEO: 블록 체인이 건설 산업의 부패를 초래할 수 있음](https://github.com/theyapapa/cryptonews/blob/ko/autodesk-ceo-blockchain-can-stem-corruption-in-construction-industry-dc0abe3e.md)
