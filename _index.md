@@ -1,3 +1,4 @@
+* 2018-11-19 [Исследование: «соответствие трилеммы» ограничивает потенциал ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/study-compliance-trilemma-limits-potential-of-icos-846e4a9c.md)
 * 2018-11-19 [Генеральный директор Autodesk: Блокчейн может остановить коррупцию в строительной отрасли](https://github.com/theyapapa/cryptonews/blob/ru/autodesk-ceo-blockchain-can-stem-corruption-in-construction-industry-dc0abe3e.md)
 * 2018-11-19 [Правительство Каталонии расСматривает Блокчейн для публичной системы ЭЛЕКТРОНного голосования](https://github.com/theyapapa/cryptonews/blob/ru/catalan-government-considers-blockchain-for-public-e-voting-system-d6e4fbab.md)
 * 2018-11-19 [Колумбийский университет, IBM запускает два ускорителя программы для Блокчейн-предприятий](https://github.com/theyapapa/cryptonews/blob/ru/columbia-university-ibm-launch-two-accelerator-programs-for-blockchain-enterprises-2e4eb52c.md)
