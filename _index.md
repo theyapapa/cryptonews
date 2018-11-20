@@ -1,3 +1,4 @@
+* 2018-11-20 [비트 피 넥 스 활동-미국 법무부에서 조사 하는 밧줄-BTC 가격 관계, 소스 주장](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-activity-tether-btc-price-relation-under-scrutiny-from-us-doj-sources-claim-f6e05910.md)
 * 2018-11-20 [프로 농구 정상회의에 참석 하는 NBA 슈퍼스타 고베 브라이언트 특별 초청 연사](https://github.com/theyapapa/cryptonews/blob/ko/nba-superstar-kobe-bryant-to-attend-crypto-summit-as-special-guest-speaker-9a7376e5.md)
 * 2018-11-20 [인도 정부 12 월에 암호화 규제에 초안 법안을 제시, 문서 표시](https://github.com/theyapapa/cryptonews/blob/ko/indian-government-to-present-draft-bill-on-crypto-regulation-in-december-documents-show-814ef3b1.md)
 * 2018-11-19 [연구: ico의 ' 준 법 컴플라이언스 '의 가능성 제한](https://github.com/theyapapa/cryptonews/blob/ko/study-compliance-trilemma-limits-potential-of-icos-846e4a9c.md)
