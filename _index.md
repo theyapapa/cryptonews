@@ -1,3 +1,4 @@
+* 2018-11-20 [바 넥 자회사는 미국 현물 지 수에 따라 비트 코인 인덱스를 출시](https://github.com/theyapapa/cryptonews/blob/ko/vaneck-subsidiary-launches-bitcoin-index-based-on-us-spot-indices-e37588d0.md)
 * 2018-11-20 [' 빅 이슈 ' 신문사, 블록 체인 플랫폼으로 임팩트 투자 촉진](https://github.com/theyapapa/cryptonews/blob/ko/the-big-issue-newspaper-launches-blockchain-platform-to-promote-impact-investing-4a805e50.md)
 * 2018-11-20 [비트 피 넥 스 활동-미국 법무부에서 조사 하는 밧줄-BTC 가격 관계, 소스 주장](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-activity-tether-btc-price-relation-under-scrutiny-from-us-doj-sources-claim-f6e05910.md)
 * 2018-11-20 [프로 농구 정상회의에 참석 하는 NBA 슈퍼스타 고베 브라이언트 특별 초청 연사](https://github.com/theyapapa/cryptonews/blob/ko/nba-superstar-kobe-bryant-to-attend-crypto-summit-as-special-guest-speaker-9a7376e5.md)
