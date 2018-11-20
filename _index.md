@@ -1,3 +1,4 @@
+* 2018-11-20 [Gobierno de la India para presentar proyecto de ley sobre la reglamentación criptográfica en diciembre, los documentos muestran](https://github.com/theyapapa/cryptonews/blob/es/indian-government-to-present-draft-bill-on-crypto-regulation-in-december-documents-show-814ef3b1.md)
 * 2018-11-19 [Estudio: "cumplimiento trilema" limita el potencial de ICOs](https://github.com/theyapapa/cryptonews/blob/es/study-compliance-trilemma-limits-potential-of-icos-846e4a9c.md)
 * 2018-11-19 [CEO de Autodesk: bloques puede detener la corrupción en la industria de la construcción](https://github.com/theyapapa/cryptonews/blob/es/autodesk-ceo-blockchain-can-stem-corruption-in-construction-industry-dc0abe3e.md)
 * 2018-11-19 [Gobierno catalán considera bloques para el sistema público de voto electrónico](https://github.com/theyapapa/cryptonews/blob/es/catalan-government-considers-blockchain-for-public-e-voting-system-d6e4fbab.md)
