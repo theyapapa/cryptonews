@@ -1,3 +1,4 @@
+* 2018-11-20 [SWIFT India se asocia con la firma FinTech para bloques Pilot](https://github.com/theyapapa/cryptonews/blob/es/swift-india-partners-with-fintech-firm-for-blockchain-pilot-04580f5a.md)
 * 2018-11-20 [El vigilante de valores italiano ordena que las empresas criptográficas no autorizadas cesen y deSistan](https://github.com/theyapapa/cryptonews/blob/es/italian-securities-watchdog-orders-unauthorized-crypto-companies-to-cease-and-desist-b1c34a6c.md)
 * 2018-11-20 [VanEck subsidiario lanza el índice de Bitcoin basado en índices del punto de los E.E.U.U.](https://github.com/theyapapa/cryptonews/blob/es/vaneck-subsidiary-launches-bitcoin-index-based-on-us-spot-indices-e37588d0.md)
 * 2018-11-20 [El periódico "el gran problema" lanza la plataforma bloques para promover la inversión en impacto](https://github.com/theyapapa/cryptonews/blob/es/the-big-issue-newspaper-launches-blockchain-platform-to-promote-impact-investing-4a805e50.md)
