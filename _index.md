@@ -1,3 +1,4 @@
+* 2018-11-21 [Bloques capital Exec: Bear Markets ' do Bear Things ', pero BTC tiene un potencial "gigantesco"](https://github.com/theyapapa/cryptonews/blob/es/blockchain-capital-exec-bear-markets-do-bear-things-but-btc-has-gigantic-potential-68e492c7.md)
 * 2018-11-21 [Ex Comisionado de la SEC y veterano de la banca de inversión se unen al equipo Bitfury](https://github.com/theyapapa/cryptonews/blob/es/ex-sec-commissioner-and-investment-banking-veteran-join-bitfury-team-4b9f1da1.md)
 * 2018-11-21 [Proveedor de liquidez demanda intercambio de criptografía por $13,7 millones en el primer caso de la corte BTC de Singapur](https://github.com/theyapapa/cryptonews/blob/es/liquidity-provider-sues-crypto-exchange-for-137-mln-in-singapores-first-btc-court-case-ddcb7a22.md)
 * 2018-11-20 [SWIFT India se asocia con la firma FinTech para bloques Pilot](https://github.com/theyapapa/cryptonews/blob/es/swift-india-partners-with-fintech-firm-for-blockchain-pilot-04580f5a.md)
