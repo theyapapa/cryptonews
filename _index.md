@@ -1,3 +1,4 @@
+* 2018-11-21 [블록 체인 자본 실행: 베어 마켓 ' 일을 부담 한다 ' 하지만 BTC는 ' 거 대 한 ' 잠재력](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-capital-exec-bear-markets-do-bear-things-but-btc-has-gigantic-potential-68e492c7.md)
 * 2018-11-21 [전 초 장관 및 투자 은행 베테랑 bitfury 팀에 합류](https://github.com/theyapapa/cryptonews/blob/ko/ex-sec-commissioner-and-investment-banking-veteran-join-bitfury-team-4b9f1da1.md)
 * 2018-11-21 [싱가포르 첫 번째 BTC 법원에서 $13.7 mln에 대 한 유동성 공급자는 암호 교환](https://github.com/theyapapa/cryptonews/blob/ko/liquidity-provider-sues-crypto-exchange-for-137-mln-in-singapores-first-btc-court-case-ddcb7a22.md)
 * 2018-11-20 [블록 체인 시범 회사를 위한 빠른 인도 파트너](https://github.com/theyapapa/cryptonews/blob/ko/swift-india-partners-with-fintech-firm-for-blockchain-pilot-04580f5a.md)
