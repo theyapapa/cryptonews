@@ -1,3 +1,4 @@
+* 2018-11-21 [Блокчейн капитал exec: медведь рынки ' делать медведь вещи ", но BTC имеет ' гигантский ' потенциал](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-capital-exec-bear-markets-do-bear-things-but-btc-has-gigantic-potential-68e492c7.md)
 * 2018-11-21 [Экс-SEC комиссара и инвестиционного банкинга ветеран приСоединиться к команде Bitfury](https://github.com/theyapapa/cryptonews/blob/ru/ex-sec-commissioner-and-investment-banking-veteran-join-bitfury-team-4b9f1da1.md)
 * 2018-11-21 [Поставщик ликвидности подал в суд на крипто-биржу за $13,7 млн в первом случае в Сингапуре](https://github.com/theyapapa/cryptonews/blob/ru/liquidity-provider-sues-crypto-exchange-for-137-mln-in-singapores-first-btc-court-case-ddcb7a22.md)
 * 2018-11-20 [SWIFT Индия партнеры с фирмой для Блокчейн пилот](https://github.com/theyapapa/cryptonews/blob/ru/swift-india-partners-with-fintech-firm-for-blockchain-pilot-04580f5a.md)
