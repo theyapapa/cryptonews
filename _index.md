@@ -1,3 +1,4 @@
+* 2018-11-20 [이탈리아 증권 감시 장치는 허가 되지 않은 암호화 기업 들이이를 중단 하도록 명령 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/italian-securities-watchdog-orders-unauthorized-crypto-companies-to-cease-and-desist-b1c34a6c.md)
 * 2018-11-20 [바 넥 자회사는 미국 현물 지 수에 따라 비트 코인 인덱스를 출시](https://github.com/theyapapa/cryptonews/blob/ko/vaneck-subsidiary-launches-bitcoin-index-based-on-us-spot-indices-e37588d0.md)
 * 2018-11-20 [' 빅 이슈 ' 신문사, 블록 체인 플랫폼으로 임팩트 투자 촉진](https://github.com/theyapapa/cryptonews/blob/ko/the-big-issue-newspaper-launches-blockchain-platform-to-promote-impact-investing-4a805e50.md)
 * 2018-11-20 [비트 피 넥 스 활동-미국 법무부에서 조사 하는 밧줄-BTC 가격 관계, 소스 주장](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-activity-tether-btc-price-relation-under-scrutiny-from-us-doj-sources-claim-f6e05910.md)
