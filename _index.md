@@ -1,3 +1,4 @@
+* 2018-11-21 [' 모두에 대 한 민주주의 ': 새로운 암호화 교환 될 것 이다 ' 100% 사용자가 소유 '](https://github.com/theyapapa/cryptonews/blob/ko/democratic-for-all-new-crypto-exchange-will-be-100-percent-owned-by-users-ee859322.md)
 * 2018-11-21 [블록 체인 자본 실행: 베어 마켓 ' 일을 부담 한다 ' 하지만 BTC는 ' 거 대 한 ' 잠재력](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-capital-exec-bear-markets-do-bear-things-but-btc-has-gigantic-potential-68e492c7.md)
 * 2018-11-21 [전 초 장관 및 투자 은행 베테랑 bitfury 팀에 합류](https://github.com/theyapapa/cryptonews/blob/ko/ex-sec-commissioner-and-investment-banking-veteran-join-bitfury-team-4b9f1da1.md)
 * 2018-11-21 [싱가포르 첫 번째 BTC 법원에서 $13.7 mln에 대 한 유동성 공급자는 암호 교환](https://github.com/theyapapa/cryptonews/blob/ko/liquidity-provider-sues-crypto-exchange-for-137-mln-in-singapores-first-btc-court-case-ddcb7a22.md)
