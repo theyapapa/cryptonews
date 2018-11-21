@@ -1,3 +1,4 @@
+* 2018-11-21 [어제 주요 드랍 오프 후 녹색에서 최고의 동전 거래](https://github.com/theyapapa/cryptonews/blob/ko/top-coins-trading-in-the-green-after-major-drop-off-yesterday-3a548c01.md)
 * 2018-11-21 [비트 코인 현금 SV 블록 체인 재구성이 더 많은 중앙 집중화 비판을 그립니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-sv-blockchain-reorganization-draws-further-centralization-criticism-9e8f44ab.md)
 * 2018-11-21 [주요 암호 교환 binance가 내부 워크플로우에서 리 액티브 KYC 솔루션을 사용 하도록 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-exchange-binance-to-use-refinitiv-kyc-solution-in-internal-workflow-4daad97d.md)
 * 2018-11-21 [' 모두에 대 한 민주주의 ': 새로운 암호화 교환 될 것 이다 ' 100% 사용자가 소유 '](https://github.com/theyapapa/cryptonews/blob/ko/democratic-for-all-new-crypto-exchange-will-be-100-percent-owned-by-users-ee859322.md)
