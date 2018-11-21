@@ -1,3 +1,4 @@
+* 2018-11-21 [Поставщик ликвидности подал в суд на крипто-биржу за $13,7 млн в первом случае в Сингапуре](https://github.com/theyapapa/cryptonews/blob/ru/liquidity-provider-sues-crypto-exchange-for-137-mln-in-singapores-first-btc-court-case-ddcb7a22.md)
 * 2018-11-20 [SWIFT Индия партнеры с фирмой для Блокчейн пилот](https://github.com/theyapapa/cryptonews/blob/ru/swift-india-partners-with-fintech-firm-for-blockchain-pilot-04580f5a.md)
 * 2018-11-20 [Итальянские ценные бумаги Watchdog заказы неСанкционированных крипто компаний прекратить и возДерживаться](https://github.com/theyapapa/cryptonews/blob/ru/italian-securities-watchdog-orders-unauthorized-crypto-companies-to-cease-and-desist-b1c34a6c.md)
 * 2018-11-20 [Ванек доЧернее предприятие запускает индекс Bitcoin на основе индексов спот США](https://github.com/theyapapa/cryptonews/blob/ru/vaneck-subsidiary-launches-bitcoin-index-based-on-us-spot-indices-e37588d0.md)
