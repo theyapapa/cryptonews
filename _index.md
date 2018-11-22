@@ -1,3 +1,4 @@
+* 2018-11-22 [Opciones son la respuesta para tratar con ' bajista ' mercado criptográfico, plataforma de comercio dice](https://github.com/theyapapa/cryptonews/blob/es/options-are-the-answer-for-dealing-with-bearish-crypto-market-trading-platform-says-cb49ecbd.md)
 * 2018-11-21 [Crypto venture capital exec compara Bitcoin a post dot-com Bubble Amazon](https://github.com/theyapapa/cryptonews/blob/es/crypto-venture-capital-exec-compares-bitcoin-to-post-dot-com-bubble-amazon-30f48735.md)
 * 2018-11-21 [Informe: líder de la línea naviera japonesa para introducir su propia moneda digital](https://github.com/theyapapa/cryptonews/blob/es/report-leading-japanese-shipping-line-to-introduce-its-own-digital-currency-bdbd377b.md)
 * 2018-11-21 [Top monedas de comercio en el verde después de la gran caída de ayer](https://github.com/theyapapa/cryptonews/blob/es/top-coins-trading-in-the-green-after-major-drop-off-yesterday-3a548c01.md)
