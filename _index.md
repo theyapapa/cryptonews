@@ -1,3 +1,4 @@
+* 2018-11-22 [Варианты являются ответом на дело с "медвежий" Crypto Market, торговая платформа говорит](https://github.com/theyapapa/cryptonews/blob/ru/options-are-the-answer-for-dealing-with-bearish-crypto-market-trading-platform-says-cb49ecbd.md)
 * 2018-11-21 [Crypto венчурный капитал Exec сравнивает Bitcoin, чтобы опубликовать dot-com Bubble Amazon](https://github.com/theyapapa/cryptonews/blob/ru/crypto-venture-capital-exec-compares-bitcoin-to-post-dot-com-bubble-amazon-30f48735.md)
 * 2018-11-21 [Доклад: ведущая японская судоходная линия ввести свою собственную цифровую валюту](https://github.com/theyapapa/cryptonews/blob/ru/report-leading-japanese-shipping-line-to-introduce-its-own-digital-currency-bdbd377b.md)
 * 2018-11-21 [Лучшие монеты торговли в зеленой после основных выПадающего вчера](https://github.com/theyapapa/cryptonews/blob/ru/top-coins-trading-in-the-green-after-major-drop-off-yesterday-3a548c01.md)
