@@ -1,3 +1,4 @@
+* 2018-11-21 [Informe: líder de la línea naviera japonesa para introducir su propia moneda digital](https://github.com/theyapapa/cryptonews/blob/es/report-leading-japanese-shipping-line-to-introduce-its-own-digital-currency-bdbd377b.md)
 * 2018-11-21 [Top monedas de comercio en el verde después de la gran caída de ayer](https://github.com/theyapapa/cryptonews/blob/es/top-coins-trading-in-the-green-after-major-drop-off-yesterday-3a548c01.md)
 * 2018-11-21 [La reorganización de Bitcoin Cash SV bloques atrae más crítica de centralización](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-cash-sv-blockchain-reorganization-draws-further-centralization-criticism-9e8f44ab.md)
 * 2018-11-21 [Mayor Crypto Exchange binance para utilizar la solución Refinitiv KYC en el flujo de trabajo interno](https://github.com/theyapapa/cryptonews/blob/es/major-crypto-exchange-binance-to-use-refinitiv-kyc-solution-in-internal-workflow-4daad97d.md)
