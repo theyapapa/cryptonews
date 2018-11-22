@@ -1,3 +1,4 @@
+* 2018-11-22 [중국: 암호화 채굴 자는 시장 쇠퇴 속에서 ' 킬로 ' 채굴 장치를 판매 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/china-crypto-miners-sell-off-mining-devices-by-kilo-amidst-market-decline-ec9a372f.md)
 * 2018-11-22 [암호화 시장에서 일어나는 일, 분석가는 10 일간의 침체 뒤에 요소를 압축 해제 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/what-is-going-on-with-the-crypto-markets-analysts-unpack-factors-behind-10-days-slump-d1f7b0e5.md)
 * 2018-11-22 [흔들리는 암호화 시장 이지만 대부분의 최고 코인은 경미한 손실만을 보입니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-shaky-but-most-top-coins-see-only-mild-losses-9e8d00aa.md)
 * 2018-11-22 [프랑스: 담배 샵이 비트 코인 판매 계획을 보증 하는 것은 아닙니다.](https://github.com/theyapapa/cryptonews/blob/ko/france-central-bank-does-not-endorse-plans-for-tobacco-shops-to-sell-bitcoin-dec24012.md)
