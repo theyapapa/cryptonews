@@ -1,3 +1,4 @@
+* 2018-11-21 [암호화 벤처 자본 간부 비트 코인을 포스트 닷컴 거품 아마존 비교](https://github.com/theyapapa/cryptonews/blob/ko/crypto-venture-capital-exec-compares-bitcoin-to-post-dot-com-bubble-amazon-30f48735.md)
 * 2018-11-21 [보고서: 디지털 화폐를 소개 하는 일본 해운 라인 선도](https://github.com/theyapapa/cryptonews/blob/ko/report-leading-japanese-shipping-line-to-introduce-its-own-digital-currency-bdbd377b.md)
 * 2018-11-21 [어제 주요 드랍 오프 후 녹색에서 최고의 동전 거래](https://github.com/theyapapa/cryptonews/blob/ko/top-coins-trading-in-the-green-after-major-drop-off-yesterday-3a548c01.md)
 * 2018-11-21 [비트 코인 현금 SV 블록 체인 재구성이 더 많은 중앙 집중화 비판을 그립니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-cash-sv-blockchain-reorganization-draws-further-centralization-criticism-9e8f44ab.md)
