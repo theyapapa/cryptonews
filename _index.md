@@ -1,3 +1,4 @@
+* 2018-11-22 [Что происходит с крипто-рынками, аналитики распакуют факторы за 10-дневный спад](https://github.com/theyapapa/cryptonews/blob/ru/what-is-going-on-with-the-crypto-markets-analysts-unpack-factors-behind-10-days-slump-d1f7b0e5.md)
 * 2018-11-22 [Крипто рынки шаткой, но большинство топ монеты видеть только мягкие потери](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-shaky-but-most-top-coins-see-only-mild-losses-9e8d00aa.md)
 * 2018-11-22 [Франция: Центральный банк не одобряет планы табачных магазинов на продажу биткоинов](https://github.com/theyapapa/cryptonews/blob/ru/france-central-bank-does-not-endorse-plans-for-tobacco-shops-to-sell-bitcoin-dec24012.md)
 * 2018-11-22 [Варианты являются ответом на дело с "медвежий" Crypto Market, торговая платформа говорит](https://github.com/theyapapa/cryptonews/blob/ru/options-are-the-answer-for-dealing-with-bearish-crypto-market-trading-platform-says-cb49ecbd.md)
