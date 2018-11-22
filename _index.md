@@ -1,3 +1,4 @@
+* 2018-11-22 [Франция: Центральный банк не одобряет планы табачных магазинов на продажу биткоинов](https://github.com/theyapapa/cryptonews/blob/ru/france-central-bank-does-not-endorse-plans-for-tobacco-shops-to-sell-bitcoin-dec24012.md)
 * 2018-11-22 [Варианты являются ответом на дело с "медвежий" Crypto Market, торговая платформа говорит](https://github.com/theyapapa/cryptonews/blob/ru/options-are-the-answer-for-dealing-with-bearish-crypto-market-trading-platform-says-cb49ecbd.md)
 * 2018-11-21 [Crypto венчурный капитал Exec сравнивает Bitcoin, чтобы опубликовать dot-com Bubble Amazon](https://github.com/theyapapa/cryptonews/blob/ru/crypto-venture-capital-exec-compares-bitcoin-to-post-dot-com-bubble-amazon-30f48735.md)
 * 2018-11-21 [Доклад: ведущая японская судоходная линия ввести свою собственную цифровую валюту](https://github.com/theyapapa/cryptonews/blob/ru/report-leading-japanese-shipping-line-to-introduce-its-own-digital-currency-bdbd377b.md)
