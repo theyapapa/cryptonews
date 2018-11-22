@@ -1,3 +1,4 @@
+* 2018-11-22 [Los mercados criptográficos tiemblan pero la mayoría de las monedas superiores ven solamente pérdidas suaves](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-shaky-but-most-top-coins-see-only-mild-losses-9e8d00aa.md)
 * 2018-11-22 [Francia: el banco central no aprueba planes para que las tiendas de tabaco vendan Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/france-central-bank-does-not-endorse-plans-for-tobacco-shops-to-sell-bitcoin-dec24012.md)
 * 2018-11-22 [Opciones son la respuesta para tratar con ' bajista ' mercado criptográfico, plataforma de comercio dice](https://github.com/theyapapa/cryptonews/blob/es/options-are-the-answer-for-dealing-with-bearish-crypto-market-trading-platform-says-cb49ecbd.md)
 * 2018-11-21 [Crypto venture capital exec compara Bitcoin a post dot-com Bubble Amazon](https://github.com/theyapapa/cryptonews/blob/es/crypto-venture-capital-exec-compares-bitcoin-to-post-dot-com-bubble-amazon-30f48735.md)
