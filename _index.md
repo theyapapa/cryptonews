@@ -1,3 +1,4 @@
+* 2018-11-22 [프랑스: 담배 샵이 비트 코인 판매 계획을 보증 하는 것은 아닙니다.](https://github.com/theyapapa/cryptonews/blob/ko/france-central-bank-does-not-endorse-plans-for-tobacco-shops-to-sell-bitcoin-dec24012.md)
 * 2018-11-22 [옵션은 ' 약 세 ' 가상 화폐 시장을 다루는 답변입니다, 무역 플랫폼은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/options-are-the-answer-for-dealing-with-bearish-crypto-market-trading-platform-says-cb49ecbd.md)
 * 2018-11-21 [암호화 벤처 자본 간부 비트 코인을 포스트 닷컴 거품 아마존 비교](https://github.com/theyapapa/cryptonews/blob/ko/crypto-venture-capital-exec-compares-bitcoin-to-post-dot-com-bubble-amazon-30f48735.md)
 * 2018-11-21 [보고서: 디지털 화폐를 소개 하는 일본 해운 라인 선도](https://github.com/theyapapa/cryptonews/blob/ko/report-leading-japanese-shipping-line-to-introduce-its-own-digital-currency-bdbd377b.md)
