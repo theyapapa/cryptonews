@@ -1,3 +1,4 @@
+* 2018-11-23 [인도: ' 빅 4 ' 감사 인은 블록 체인 개발을 위해 2k 직원을 고용 하 고 AI](https://github.com/theyapapa/cryptonews/blob/ko/india-big-four-auditor-ey-to-hire-2k-employees-to-develop-in-blockchain-ai-e42ecaf8.md)
 * 2018-11-23 [bitpay COO 소니 싱: 비트 코인은 2019의 끝으로 $15-20k를 칠 수](https://github.com/theyapapa/cryptonews/blob/ko/bitpay-coo-sonny-singh-bitcoin-could-hit-15-20k-by-end-of-2019-868a33d6.md)
 * 2018-11-23 [지브롤터 증권 거래소의 블록 체인 플랫폼이 금융 규제 당국의 라이선스를 보호 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-stock-exchanges-blockchain-platform-secures-licence-from-financial-regulator-0aff137e.md)
 * 2018-11-22 [중국: 암호화 채굴 자는 시장 쇠퇴 속에서 ' 킬로 ' 채굴 장치를 판매 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/china-crypto-miners-sell-off-mining-devices-by-kilo-amidst-market-decline-ec9a372f.md)
