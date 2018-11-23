@@ -1,3 +1,4 @@
+* 2018-11-23 [Блокчейн-платформа Гибралтарской фондовой биржи обеспечивает лицензию от финансового регулятора](https://github.com/theyapapa/cryptonews/blob/ru/gibraltar-stock-exchanges-blockchain-platform-secures-licence-from-financial-regulator-0aff137e.md)
 * 2018-11-22 [Китай: крипто шахтеров продать горнодобывающей устройств "на килограмм" в условиях спада рынка](https://github.com/theyapapa/cryptonews/blob/ru/china-crypto-miners-sell-off-mining-devices-by-kilo-amidst-market-decline-ec9a372f.md)
 * 2018-11-22 [Что происходит с крипто-рынками, аналитики распакуют факторы за 10-дневный спад](https://github.com/theyapapa/cryptonews/blob/ru/what-is-going-on-with-the-crypto-markets-analysts-unpack-factors-behind-10-days-slump-d1f7b0e5.md)
 * 2018-11-22 [Крипто рынки шаткой, но большинство топ монеты видеть только мягкие потери](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-shaky-but-most-top-coins-see-only-mild-losses-9e8d00aa.md)
