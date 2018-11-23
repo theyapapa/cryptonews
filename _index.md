@@ -1,3 +1,4 @@
+* 2018-11-23 [지브롤터 증권 거래소의 블록 체인 플랫폼이 금융 규제 당국의 라이선스를 보호 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-stock-exchanges-blockchain-platform-secures-licence-from-financial-regulator-0aff137e.md)
 * 2018-11-22 [중국: 암호화 채굴 자는 시장 쇠퇴 속에서 ' 킬로 ' 채굴 장치를 판매 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/china-crypto-miners-sell-off-mining-devices-by-kilo-amidst-market-decline-ec9a372f.md)
 * 2018-11-22 [암호화 시장에서 일어나는 일, 분석가는 10 일간의 침체 뒤에 요소를 압축 해제 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/what-is-going-on-with-the-crypto-markets-analysts-unpack-factors-behind-10-days-slump-d1f7b0e5.md)
 * 2018-11-22 [흔들리는 암호화 시장 이지만 대부분의 최고 코인은 경미한 손실만을 보입니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-shaky-but-most-top-coins-see-only-mild-losses-9e8d00aa.md)
