@@ -1,3 +1,4 @@
+* 2018-11-23 [블록 체인 가속기 구축을 위한 러시아의 경제학 대학과의 파트너](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-partners-with-russian-economics-university-to-establish-blockchain-accelerator-43ee1760.md)
 * 2018-11-23 [비트 코인, 리플,에 테 리 움, 스텔라, EOS, 라이트 코인, 카르다노, monero, 트 론, 대 쉬: 가격 분석, 11 월 23 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-eos-litecoin-cardano-monero-tron-dash-price-analysis-nov-23-b9f60f13.md)
 * 2018-11-23 [오버 스톡 CEO, 소매 업체를 판매 하 여 블록 체인에 집중 하기 위한 예정일을 밝혀 냅니다](https://github.com/theyapapa/cryptonews/blob/ko/overstock-ceo-reveals-estimated-date-for-selling-retail-business-to-focus-on-blockchain-02323c54.md)
 * 2018-11-23 [베네수엘라: 의회는 ' 금융 봉쇄 '에 대처 하기 위해 암호화 청구를 승인 한다.](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-parliament-approves-crypto-bill-to-combat-financial-blockade-6894b27b.md)
