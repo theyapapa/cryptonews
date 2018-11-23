@@ -1,3 +1,4 @@
+* 2018-11-23 [India: ' cuatro grandes ' auditor EY a contratar a 2K empleados para desarrollar en bloques, AI](https://github.com/theyapapa/cryptonews/blob/es/india-big-four-auditor-ey-to-hire-2k-employees-to-develop-in-blockchain-ai-e42ecaf8.md)
 * 2018-11-23 [BitPay COO Sonny Singh: Bitcoin podría golpear $15-20K por el final de 2019](https://github.com/theyapapa/cryptonews/blob/es/bitpay-coo-sonny-singh-bitcoin-could-hit-15-20k-by-end-of-2019-868a33d6.md)
 * 2018-11-23 [La plataforma bloques de la bolsa de Gibraltar garantiza la licencia del regulador financiero](https://github.com/theyapapa/cryptonews/blob/es/gibraltar-stock-exchanges-blockchain-platform-secures-licence-from-financial-regulator-0aff137e.md)
 * 2018-11-22 [China: los mineros Crypto venden los dispositivos mineros ' por kilo ' en medio de la declinación del mercado](https://github.com/theyapapa/cryptonews/blob/es/china-crypto-miners-sell-off-mining-devices-by-kilo-amidst-market-decline-ec9a372f.md)
