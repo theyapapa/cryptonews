@@ -1,3 +1,4 @@
+* 2018-11-24 [Los mercados criptográficos ven una volatilidad leve en el día, no logran mantener una tendencia aguda de rebote](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mild-volatility-on-the-day-fail-to-hold-sharp-rebound-trend-4892d5e1.md)
 * 2018-11-24 [Presunto lavador de Bitcoin Vinnik anuncia huelga de hambre para "obtener un juicio justo"](https://github.com/theyapapa/cryptonews/blob/es/alleged-bitcoin-launderer-vinnik-announces-hunger-strike-to-get-a-fair-trial-42086f7c.md)
 * 2018-11-24 [La creación del primer caso de fraude de los Estados Unidos ICO](https://github.com/theyapapa/cryptonews/blob/es/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
 * 2018-11-24 [El Departamento de los E.E.U.U. del brazo de la investigación de la defensa para hospedar el taller bloques ](https://github.com/theyapapa/cryptonews/blob/es/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
