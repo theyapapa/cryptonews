@@ -1,3 +1,4 @@
+* 2018-11-24 [Предполагаемый «Винник» объявляет голодовку «получить справедливое судебное разбирательство»](https://github.com/theyapapa/cryptonews/blob/ru/alleged-bitcoin-launderer-vinnik-announces-hunger-strike-to-get-a-fair-trial-42086f7c.md)
 * 2018-11-24 [Создание первого случая мошенничества США ICO](https://github.com/theyapapa/cryptonews/blob/ru/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
 * 2018-11-24 [США отдел оборонных исследований ARM провести безРазрешения Блокчейн семинар ](https://github.com/theyapapa/cryptonews/blob/ru/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
 * 2018-11-23 [Обмен партнерами с университетом Люксембурга для повышения безопасности криптографических активов](https://github.com/theyapapa/cryptonews/blob/ru/exchange-partners-with-university-of-luxembourg-to-improve-crypto-asset-security-2a02b5f8.md)
