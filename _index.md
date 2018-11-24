@@ -1,3 +1,4 @@
+* 2018-11-24 [가상 화폐 시장은 하루에 경미한 변동성, 날카로운 리바운드 추세를 유지 하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mild-volatility-on-the-day-fail-to-hold-sharp-rebound-trend-4892d5e1.md)
 * 2018-11-24 [비트 코인 라고스 vinnik ' 공정한 재판을 받기 '에 단식 파업 발표](https://github.com/theyapapa/cryptonews/blob/ko/alleged-bitcoin-launderer-vinnik-announces-hunger-strike-to-get-a-fair-trial-42086f7c.md)
 * 2018-11-24 [첫 번째 미국 ICO 사기 사건의 만들기](https://github.com/theyapapa/cryptonews/blob/ko/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
 * 2018-11-24 [미 국방부 연구 Arm Permissionless 블록 체인 워크샵 개최 ](https://github.com/theyapapa/cryptonews/blob/ko/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
