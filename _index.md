@@ -1,3 +1,4 @@
+* 2018-11-24 [La creación del primer caso de fraude de los Estados Unidos ICO](https://github.com/theyapapa/cryptonews/blob/es/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
 * 2018-11-24 [El Departamento de los E.E.U.U. del brazo de la investigación de la defensa para hospedar el taller bloques ](https://github.com/theyapapa/cryptonews/blob/es/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
 * 2018-11-23 [Intercambiar socios con la Universidad de Luxemburgo para mejorar la seguridad de los activos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/exchange-partners-with-university-of-luxembourg-to-improve-crypto-asset-security-2a02b5f8.md)
 * 2018-11-23 [Crypto traDing Exec: desplome de precios para continuar, con Bitcoin en el fondo a $3.000](https://github.com/theyapapa/cryptonews/blob/es/crypto-trading-exec-price-slump-to-continue-with-bitcoin-bottoming-out-at-3-000-ef4d0ff3.md)
