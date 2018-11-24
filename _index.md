@@ -1,3 +1,4 @@
+* 2018-11-24 [Создание первого случая мошенничества США ICO](https://github.com/theyapapa/cryptonews/blob/ru/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
 * 2018-11-24 [США отдел оборонных исследований ARM провести безРазрешения Блокчейн семинар ](https://github.com/theyapapa/cryptonews/blob/ru/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
 * 2018-11-23 [Обмен партнерами с университетом Люксембурга для повышения безопасности криптографических активов](https://github.com/theyapapa/cryptonews/blob/ru/exchange-partners-with-university-of-luxembourg-to-improve-crypto-asset-security-2a02b5f8.md)
 * 2018-11-23 [Crypto Trading exec: падение цен, чтобы продолжить, с Bitcoin снизу на $3 000](https://github.com/theyapapa/cryptonews/blob/ru/crypto-trading-exec-price-slump-to-continue-with-bitcoin-bottoming-out-at-3-000-ef4d0ff3.md)
