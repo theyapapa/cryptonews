@@ -1,3 +1,4 @@
+* 2018-11-24 [미 국방부 연구 Arm Permissionless 블록 체인 워크샵 개최 ](https://github.com/theyapapa/cryptonews/blob/ko/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
 * 2018-11-23 [룩셈부르크 대학과의 교환 파트너가 암호화 자산 보안을 향상 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/exchange-partners-with-university-of-luxembourg-to-improve-crypto-asset-security-2a02b5f8.md)
 * 2018-11-23 [암호 화폐 거래 실행: 비트 코인이 바닥에 $3000에서 계속 되는 가격 침체](https://github.com/theyapapa/cryptonews/blob/ko/crypto-trading-exec-price-slump-to-continue-with-bitcoin-bottoming-out-at-3-000-ef4d0ff3.md)
 * 2018-11-23 [블록 체인 가속기 구축을 위한 러시아의 경제학 대학과의 파트너](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-partners-with-russian-economics-university-to-establish-blockchain-accelerator-43ee1760.md)
