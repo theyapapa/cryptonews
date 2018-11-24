@@ -1,3 +1,4 @@
+* 2018-11-23 [룩셈부르크 대학과의 교환 파트너가 암호화 자산 보안을 향상 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/exchange-partners-with-university-of-luxembourg-to-improve-crypto-asset-security-2a02b5f8.md)
 * 2018-11-23 [암호 화폐 거래 실행: 비트 코인이 바닥에 $3000에서 계속 되는 가격 침체](https://github.com/theyapapa/cryptonews/blob/ko/crypto-trading-exec-price-slump-to-continue-with-bitcoin-bottoming-out-at-3-000-ef4d0ff3.md)
 * 2018-11-23 [블록 체인 가속기 구축을 위한 러시아의 경제학 대학과의 파트너](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-partners-with-russian-economics-university-to-establish-blockchain-accelerator-43ee1760.md)
 * 2018-11-23 [비트 코인, 리플,에 테 리 움, 스텔라, EOS, 라이트 코인, 카르다노, monero, 트 론, 대 쉬: 가격 분석, 11 월 23 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-eos-litecoin-cardano-monero-tron-dash-price-analysis-nov-23-b9f60f13.md)
