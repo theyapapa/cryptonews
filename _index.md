@@ -1,3 +1,4 @@
+* 2018-11-24 [Крипто-рынки видят умеренную волатильность на дне, не держат острый тренд отскока](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mild-volatility-on-the-day-fail-to-hold-sharp-rebound-trend-4892d5e1.md)
 * 2018-11-24 [Предполагаемый «Винник» объявляет голодовку «получить справедливое судебное разбирательство»](https://github.com/theyapapa/cryptonews/blob/ru/alleged-bitcoin-launderer-vinnik-announces-hunger-strike-to-get-a-fair-trial-42086f7c.md)
 * 2018-11-24 [Создание первого случая мошенничества США ICO](https://github.com/theyapapa/cryptonews/blob/ru/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
 * 2018-11-24 [США отдел оборонных исследований ARM провести безРазрешения Блокчейн семинар ](https://github.com/theyapapa/cryptonews/blob/ru/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
