@@ -1,3 +1,4 @@
+* 2018-11-24 [Топ 5 крипто исполнители Обзор: XEM, рябь, EOS, Bitcoin, IOTA ](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-xem-ripple-eos-bitcoin-iota-8ba3b3e3.md)
 * 2018-11-24 [Крипто-рынки видят умеренную волатильность на дне, не держат острый тренд отскока](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mild-volatility-on-the-day-fail-to-hold-sharp-rebound-trend-4892d5e1.md)
 * 2018-11-24 [Предполагаемый «Винник» объявляет голодовку «получить справедливое судебное разбирательство»](https://github.com/theyapapa/cryptonews/blob/ru/alleged-bitcoin-launderer-vinnik-announces-hunger-strike-to-get-a-fair-trial-42086f7c.md)
 * 2018-11-24 [Создание первого случая мошенничества США ICO](https://github.com/theyapapa/cryptonews/blob/ru/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
