@@ -1,3 +1,4 @@
+* 2018-11-24 [비트 코인 라고스 vinnik ' 공정한 재판을 받기 '에 단식 파업 발표](https://github.com/theyapapa/cryptonews/blob/ko/alleged-bitcoin-launderer-vinnik-announces-hunger-strike-to-get-a-fair-trial-42086f7c.md)
 * 2018-11-24 [첫 번째 미국 ICO 사기 사건의 만들기](https://github.com/theyapapa/cryptonews/blob/ko/the-making-of-the-first-us-ico-fraud-case-634cce3f.md)
 * 2018-11-24 [미 국방부 연구 Arm Permissionless 블록 체인 워크샵 개최 ](https://github.com/theyapapa/cryptonews/blob/ko/us-dept-of-defense-research-arm-to-host-permissionless-blockchain-workshop-4a6fadd4.md)
 * 2018-11-23 [룩셈부르크 대학과의 교환 파트너가 암호화 자산 보안을 향상 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/exchange-partners-with-university-of-luxembourg-to-improve-crypto-asset-security-2a02b5f8.md)
