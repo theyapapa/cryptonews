@@ -1,3 +1,4 @@
+* 2018-11-25 [Будут ли агенты на основе AI на Blockchain заменить пользовательские интерфейсы?](https://github.com/theyapapa/cryptonews/blob/ru/will-ai-based-agents-on-blockchain-replace-user-interfaces-7c84db49.md)
 * 2018-11-25 [Как Окекс Exchange обрабатывает "манипулирование рынком" дело](https://github.com/theyapapa/cryptonews/blob/ru/how-okex-exchange-is-handling-market-manipulation-case-4d7b55ce.md)
 * 2018-11-24 [Топ 5 крипто исполнители Обзор: XEM, рябь, EOS, Bitcoin, IOTA ](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-xem-ripple-eos-bitcoin-iota-8ba3b3e3.md)
 * 2018-11-24 [Крипто-рынки видят умеренную волатильность на дне, не держат острый тренд отскока](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mild-volatility-on-the-day-fail-to-hold-sharp-rebound-trend-4892d5e1.md)
