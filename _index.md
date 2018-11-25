@@ -1,3 +1,4 @@
+* 2018-11-25 [Mike Novogratz de Galaxy digital: los mercados Cryptocurrency se ' voltearán el año que viene '](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digitals-mike-novogratz-cryptocurrency-markets-will-flip-next-year-bf3e688d.md)
 * 2018-11-25 [¿Los agentes basados en AI en bloques reemplazan las interfaces de usuario?](https://github.com/theyapapa/cryptonews/blob/es/will-ai-based-agents-on-blockchain-replace-user-interfaces-7c84db49.md)
 * 2018-11-25 [Cómo OKEx Exchange está manejando el caso de "manipulación del mercado"](https://github.com/theyapapa/cryptonews/blob/es/how-okex-exchange-is-handling-market-manipulation-case-4d7b55ce.md)
 * 2018-11-24 [Top 5 Descripción de los ejecutantes Crypto: XEM, Ripple, EOS, bitcoin, IOTA ](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-xem-ripple-eos-bitcoin-iota-8ba3b3e3.md)
