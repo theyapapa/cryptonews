@@ -1,3 +1,4 @@
+* 2018-11-25 [Ohio ' parece ' ser el primer estado de Estados Unidos en aceptar Bitcoin para impuestos, Informe WSJ](https://github.com/theyapapa/cryptonews/blob/es/ohio-appears-to-be-first-us-state-to-accept-bitcoin-for-taxes-wsj-report-2084ef70.md)
 * 2018-11-25 [Bitcoin se desliza por debajo de $4.000, EOS se aprovecha de Bitcoin en efectivo como los mercados se hunden](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-slips-below-4-000-eos-overtakes-bitcoin-cash-as-markets-plunge-af5ec72b.md)
 * 2018-11-25 [Mike Novogratz de Galaxy digital: los mercados Cryptocurrency se ' voltearán el año que viene '](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digitals-mike-novogratz-cryptocurrency-markets-will-flip-next-year-bf3e688d.md)
 * 2018-11-25 [¿Los agentes basados en AI en bloques reemplazan las interfaces de usuario?](https://github.com/theyapapa/cryptonews/blob/es/will-ai-based-agents-on-blockchain-replace-user-interfaces-7c84db49.md)
