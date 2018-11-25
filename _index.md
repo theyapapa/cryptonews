@@ -1,3 +1,4 @@
+* 2018-11-25 [블록 체인의 AI 기반 에이전트는 사용자 인터페이스를 대체 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/will-ai-based-agents-on-blockchain-replace-user-interfaces-7c84db49.md)
 * 2018-11-25 [okex 거래소가 "시장 조작" 사례를 처리 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/how-okex-exchange-is-handling-market-manipulation-case-4d7b55ce.md)
 * 2018-11-24 [상위 5 암호화 수행자 개요: xem, 리플, EOS, 비트 코인, 이오타 ](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-xem-ripple-eos-bitcoin-iota-8ba3b3e3.md)
 * 2018-11-24 [가상 화폐 시장은 하루에 경미한 변동성, 날카로운 리바운드 추세를 유지 하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mild-volatility-on-the-day-fail-to-hold-sharp-rebound-trend-4892d5e1.md)
