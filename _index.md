@@ -1,3 +1,4 @@
+* 2018-11-25 [Майк Novogratz галактики цифров: рынки Криптовалют будут «сальто следующий год»](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digitals-mike-novogratz-cryptocurrency-markets-will-flip-next-year-bf3e688d.md)
 * 2018-11-25 [Будут ли агенты на основе AI на Blockchain заменить пользовательские интерфейсы?](https://github.com/theyapapa/cryptonews/blob/ru/will-ai-based-agents-on-blockchain-replace-user-interfaces-7c84db49.md)
 * 2018-11-25 [Как Окекс Exchange обрабатывает "манипулирование рынком" дело](https://github.com/theyapapa/cryptonews/blob/ru/how-okex-exchange-is-handling-market-manipulation-case-4d7b55ce.md)
 * 2018-11-24 [Топ 5 крипто исполнители Обзор: XEM, рябь, EOS, Bitcoin, IOTA ](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-xem-ripple-eos-bitcoin-iota-8ba3b3e3.md)
