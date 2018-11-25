@@ -1,3 +1,4 @@
+* 2018-11-25 [비트 코인은 $4000 이하로 미 끄 러 져 있으며, 시장이 뛰어 든 경우 bitcoin 현금을 초과 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-slips-below-4-000-eos-overtakes-bitcoin-cash-as-markets-plunge-af5ec72b.md)
 * 2018-11-25 [갤럭시 디지털 마이크 노 볼 라 그: 암호 화폐 시장은 ' 내년 플립 '입니다](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digitals-mike-novogratz-cryptocurrency-markets-will-flip-next-year-bf3e688d.md)
 * 2018-11-25 [블록 체인의 AI 기반 에이전트는 사용자 인터페이스를 대체 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/will-ai-based-agents-on-blockchain-replace-user-interfaces-7c84db49.md)
 * 2018-11-25 [okex 거래소가 "시장 조작" 사례를 처리 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/how-okex-exchange-is-handling-market-manipulation-case-4d7b55ce.md)
