@@ -1,3 +1,4 @@
+* 2018-11-25 [Bitcoin скользит ниже $4 000, EOS берет Bitcoin Cash как рынки окунуться](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-slips-below-4-000-eos-overtakes-bitcoin-cash-as-markets-plunge-af5ec72b.md)
 * 2018-11-25 [Майк Novogratz галактики цифров: рынки Криптовалют будут «сальто следующий год»](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digitals-mike-novogratz-cryptocurrency-markets-will-flip-next-year-bf3e688d.md)
 * 2018-11-25 [Будут ли агенты на основе AI на Blockchain заменить пользовательские интерфейсы?](https://github.com/theyapapa/cryptonews/blob/ru/will-ai-based-agents-on-blockchain-replace-user-interfaces-7c84db49.md)
 * 2018-11-25 [Как Окекс Exchange обрабатывает "манипулирование рынком" дело](https://github.com/theyapapa/cryptonews/blob/ru/how-okex-exchange-is-handling-market-manipulation-case-4d7b55ce.md)
