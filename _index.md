@@ -1,3 +1,4 @@
+* 2018-11-26 [주요 거래소에서 트레이딩 볼륨 ' 급락 '을 디 아 르 보고서는](https://github.com/theyapapa/cryptonews/blob/ko/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
 * 2018-11-26 [과학 중심의 유망 벤처 프로젝트 선정을 위한 블록 체인 순위 기계](https://github.com/theyapapa/cryptonews/blob/ko/a-blockchain-ranking-machine-to-select-promising-science-focused-venture-projects-7fa176b3.md)
 * 2018-11-26 [고객의 비용으로 혐의를 받지 않은 광업을 위한 bitmain 얼굴 $5 mln 소송](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-faces-5-mln-lawsuit-for-allegedly-unauthorized-mining-at-clients-expense-f4e78a12.md)
 * 2018-11-26 [비트 코인은 $4000 이상, 비트 코인 캐쉬는 하루에 20% 가까이 이익](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-briefly-breaks-over-4-000-bitcoin-cash-sees-gains-near-20-percent-on-the-day-51a0973f.md)
