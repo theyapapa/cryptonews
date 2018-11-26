@@ -1,3 +1,4 @@
+* 2018-11-26 [«Падение» на крупных биржах, пишет доклад](https://github.com/theyapapa/cryptonews/blob/ru/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
 * 2018-11-26 [Блокчейн рейтинг машины для выбора перспективных научно-ориентированных венчурных проектов](https://github.com/theyapapa/cryptonews/blob/ru/a-blockchain-ranking-machine-to-select-promising-science-focused-venture-projects-7fa176b3.md)
 * 2018-11-26 [Bitmain грозит $5 млн иск за якобы несанкционированное добычу на счет клиента](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-faces-5-mln-lawsuit-for-allegedly-unauthorized-mining-at-clients-expense-f4e78a12.md)
 * 2018-11-26 [Bitcoin кратко перерывы более $4 000, Bitcoin Cash видит выгоды около 20 процентов на день](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-briefly-breaks-over-4-000-bitcoin-cash-sees-gains-near-20-percent-on-the-day-51a0973f.md)
