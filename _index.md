@@ -1,3 +1,4 @@
+* 2018-11-26 [Bitcoin кратко перерывы более $4 000, Bitcoin Cash видит выгоды около 20 процентов на день](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-briefly-breaks-over-4-000-bitcoin-cash-sees-gains-near-20-percent-on-the-day-51a0973f.md)
 * 2018-11-26 [Банк Абу-Даби сообщает о «первой» транзакции на основе Блокчейна «облигаций, совместимых с шариатом»](https://github.com/theyapapa/cryptonews/blob/ru/abu-dhabi-bank-reports-first-blockchain-based-transaction-of-sharia-compliant-bonds-a56c3d50.md)
 * 2018-11-26 [Япония: Коинчекк завершает токен дополнений с рябь, Factom возобновить](https://github.com/theyapapa/cryptonews/blob/ru/japan-coincheck-completes-token-additions-with-ripple-factom-relaunch-ba7fdd39.md)
 * 2018-11-25 [Огайо "появляется", чтобы быть первым США государство принять Bitcoin для налогов, отчет](https://github.com/theyapapa/cryptonews/blob/ru/ohio-appears-to-be-first-us-state-to-accept-bitcoin-for-taxes-wsj-report-2084ef70.md)
