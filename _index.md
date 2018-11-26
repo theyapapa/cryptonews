@@ -1,3 +1,4 @@
+* 2018-11-26 [비트 코인은 $4000 이상, 비트 코인 캐쉬는 하루에 20% 가까이 이익](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-briefly-breaks-over-4-000-bitcoin-cash-sees-gains-near-20-percent-on-the-day-51a0973f.md)
 * 2018-11-26 [아부다비 은행 ' 첫 ' 블록 체인 기반 ' 샤리아 준수 채권 ' 거래 보고](https://github.com/theyapapa/cryptonews/blob/ko/abu-dhabi-bank-reports-first-blockchain-based-transaction-of-sharia-compliant-bonds-a56c3d50.md)
 * 2018-11-26 [일본: coincheck는 잔물결, factom 재탄생로 토큰 추가를 완료 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japan-coincheck-completes-token-additions-with-ripple-factom-relaunch-ba7fdd39.md)
 * 2018-11-25 [세금, wsj 보고서를 허용 하기 위해 가장 먼저 미국 주가 되는 ' 오하이오 ' 표시](https://github.com/theyapapa/cryptonews/blob/ko/ohio-appears-to-be-first-us-state-to-accept-bitcoin-for-taxes-wsj-report-2084ef70.md)
