@@ -1,3 +1,4 @@
+* 2018-11-26 [Япония: Коинчекк завершает токен дополнений с рябь, Factom возобновить](https://github.com/theyapapa/cryptonews/blob/ru/japan-coincheck-completes-token-additions-with-ripple-factom-relaunch-ba7fdd39.md)
 * 2018-11-25 [Огайо "появляется", чтобы быть первым США государство принять Bitcoin для налогов, отчет](https://github.com/theyapapa/cryptonews/blob/ru/ohio-appears-to-be-first-us-state-to-accept-bitcoin-for-taxes-wsj-report-2084ef70.md)
 * 2018-11-25 [Bitcoin скользит ниже $4 000, EOS берет Bitcoin Cash как рынки окунуться](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-slips-below-4-000-eos-overtakes-bitcoin-cash-as-markets-plunge-af5ec72b.md)
 * 2018-11-25 [Майк Novogratz галактики цифров: рынки Криптовалют будут «сальто следующий год»](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digitals-mike-novogratz-cryptocurrency-markets-will-flip-next-year-bf3e688d.md)
