@@ -1,3 +1,4 @@
+* 2018-11-26 [과학 중심의 유망 벤처 프로젝트 선정을 위한 블록 체인 순위 기계](https://github.com/theyapapa/cryptonews/blob/ko/a-blockchain-ranking-machine-to-select-promising-science-focused-venture-projects-7fa176b3.md)
 * 2018-11-26 [고객의 비용으로 혐의를 받지 않은 광업을 위한 bitmain 얼굴 $5 mln 소송](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-faces-5-mln-lawsuit-for-allegedly-unauthorized-mining-at-clients-expense-f4e78a12.md)
 * 2018-11-26 [비트 코인은 $4000 이상, 비트 코인 캐쉬는 하루에 20% 가까이 이익](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-briefly-breaks-over-4-000-bitcoin-cash-sees-gains-near-20-percent-on-the-day-51a0973f.md)
 * 2018-11-26 [아부다비 은행 ' 첫 ' 블록 체인 기반 ' 샤리아 준수 채권 ' 거래 보고](https://github.com/theyapapa/cryptonews/blob/ko/abu-dhabi-bank-reports-first-blockchain-based-transaction-of-sharia-compliant-bonds-a56c3d50.md)
