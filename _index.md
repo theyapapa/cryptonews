@@ -1,3 +1,4 @@
+* 2018-11-26 [Binance переименование своего USDT рынка в сочетании Stablecoin рынка](https://github.com/theyapapa/cryptonews/blob/ru/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [Гражданский директор: биткоин на торговлю Range-граница на ' три-шесть месяцев '](https://github.com/theyapapa/cryptonews/blob/ru/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
 * 2018-11-26 [«Падение» на крупных биржах, пишет доклад](https://github.com/theyapapa/cryptonews/blob/ru/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
 * 2018-11-26 [Блокчейн рейтинг машины для выбора перспективных научно-ориентированных венчурных проектов](https://github.com/theyapapa/cryptonews/blob/ru/a-blockchain-ranking-machine-to-select-promising-science-focused-venture-projects-7fa176b3.md)
