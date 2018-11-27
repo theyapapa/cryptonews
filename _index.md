@@ -1,3 +1,4 @@
+* 2018-11-27 [Crypto Exchange Bitstamp для интеграции новой платформы для мониторинга рынка](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bitstamp-to-integrate-new-platform-for-market-monitoring-cc9de1ea.md)
 * 2018-11-27 [Лихтенштейн Криптоактивами Exchange предоставил бизнес-лицензию регулятором](https://github.com/theyapapa/cryptonews/blob/ru/liechtenstein-cryptoassets-exchange-granted-business-license-by-regulator-90a55fd9.md)
 * 2018-11-27 [Окекс будет вычислять очередную волну торговых пар над «слабой ликвидностью»](https://github.com/theyapapa/cryptonews/blob/ru/okex-will-delist-another-wave-of-trading-pairs-over-weak-liquidity-83bab4f5.md)
 * 2018-11-27 [BitPay в Копай бумажник скомпрометированы вредоносный код, фирма вопросы советы для пользователей](https://github.com/theyapapa/cryptonews/blob/ru/bitpays-copay-wallet-compromised-by-malicious-code-firm-issues-advice-for-users-7b9a86aa.md)
