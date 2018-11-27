@@ -1,3 +1,4 @@
+* 2018-11-27 [악성 코드에 의해 손상 bitpay의 copay 지갑, 사용자에 대 한 확고 한 문제 조언](https://github.com/theyapapa/cryptonews/blob/ko/bitpays-copay-wallet-compromised-by-malicious-code-firm-issues-advice-for-users-7b9a86aa.md)
 * 2018-11-27 [미국 SEC 회장 클레이튼, ICO, ETF 규정 업데이트에 조용히 유지](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
 * 2018-11-26 [대 본 시장으로의 이름을 바꾸고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [시민 대표: 비트 코인은 ' 3 ~ 6 개월 '의 범위에 해당 하는 거래](https://github.com/theyapapa/cryptonews/blob/ko/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
