@@ -1,3 +1,4 @@
+* 2018-11-27 [El Presidente de la SEC, Clayton, mantiene silencio en ICO, actualizaciones](https://github.com/theyapapa/cryptonews/blob/es/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
 * 2018-11-26 [Binance renombra su mercado USDT al mercado Stablecoin combinado](https://github.com/theyapapa/cryptonews/blob/es/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [CEO cívico: Bitcoin al comercio gama-limitado para "tres a seis meses"](https://github.com/theyapapa/cryptonews/blob/es/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
 * 2018-11-26 [Los volúmenes de operaciones simbólicas se desploman en los principales interCambios, dice Diar informe](https://github.com/theyapapa/cryptonews/blob/es/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
