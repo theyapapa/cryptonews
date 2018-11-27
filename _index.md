@@ -1,3 +1,4 @@
+* 2018-11-27 [리히텐슈타인 암호화 자산 거래소, 레 귤 레이 터에의 한 사업 면허 부여](https://github.com/theyapapa/cryptonews/blob/ko/liechtenstein-cryptoassets-exchange-granted-business-license-by-regulator-90a55fd9.md)
 * 2018-11-27 [okex는 ' 약한 유동성 '을 통해 거래 쌍의 또 다른 물결을 목록에서](https://github.com/theyapapa/cryptonews/blob/ko/okex-will-delist-another-wave-of-trading-pairs-over-weak-liquidity-83bab4f5.md)
 * 2018-11-27 [악성 코드에 의해 손상 bitpay의 copay 지갑, 사용자에 대 한 확고 한 문제 조언](https://github.com/theyapapa/cryptonews/blob/ko/bitpays-copay-wallet-compromised-by-malicious-code-firm-issues-advice-for-users-7b9a86aa.md)
 * 2018-11-27 [미국 SEC 회장 클레이튼, ICO, ETF 규정 업데이트에 조용히 유지](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
