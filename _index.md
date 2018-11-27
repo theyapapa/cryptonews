@@ -1,3 +1,4 @@
+* 2018-11-26 [Гражданский директор: биткоин на торговлю Range-граница на ' три-шесть месяцев '](https://github.com/theyapapa/cryptonews/blob/ru/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
 * 2018-11-26 [«Падение» на крупных биржах, пишет доклад](https://github.com/theyapapa/cryptonews/blob/ru/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
 * 2018-11-26 [Блокчейн рейтинг машины для выбора перспективных научно-ориентированных венчурных проектов](https://github.com/theyapapa/cryptonews/blob/ru/a-blockchain-ranking-machine-to-select-promising-science-focused-venture-projects-7fa176b3.md)
 * 2018-11-26 [Bitmain грозит $5 млн иск за якобы несанкционированное добычу на счет клиента](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-faces-5-mln-lawsuit-for-allegedly-unauthorized-mining-at-clients-expense-f4e78a12.md)
