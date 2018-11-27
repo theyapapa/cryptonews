@@ -1,3 +1,4 @@
+* 2018-11-27 [Председатель SEC США Клейтон держит тихо на ICO, ETF регулирование обновления](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
 * 2018-11-26 [Binance переименование своего USDT рынка в сочетании Stablecoin рынка](https://github.com/theyapapa/cryptonews/blob/ru/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [Гражданский директор: биткоин на торговлю Range-граница на ' три-шесть месяцев '](https://github.com/theyapapa/cryptonews/blob/ru/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
 * 2018-11-26 [«Падение» на крупных биржах, пишет доклад](https://github.com/theyapapa/cryptonews/blob/ru/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
