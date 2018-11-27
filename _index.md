@@ -1,3 +1,4 @@
+* 2018-11-26 [대 본 시장으로의 이름을 바꾸고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [시민 대표: 비트 코인은 ' 3 ~ 6 개월 '의 범위에 해당 하는 거래](https://github.com/theyapapa/cryptonews/blob/ko/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
 * 2018-11-26 [주요 거래소에서 트레이딩 볼륨 ' 급락 '을 디 아 르 보고서는](https://github.com/theyapapa/cryptonews/blob/ko/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
 * 2018-11-26 [과학 중심의 유망 벤처 프로젝트 선정을 위한 블록 체인 순위 기계](https://github.com/theyapapa/cryptonews/blob/ko/a-blockchain-ranking-machine-to-select-promising-science-focused-venture-projects-7fa176b3.md)
