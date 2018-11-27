@@ -1,3 +1,4 @@
+* 2018-11-27 [미국 SEC 회장 클레이튼, ICO, ETF 규정 업데이트에 조용히 유지](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
 * 2018-11-26 [대 본 시장으로의 이름을 바꾸고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [시민 대표: 비트 코인은 ' 3 ~ 6 개월 '의 범위에 해당 하는 거래](https://github.com/theyapapa/cryptonews/blob/ko/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
 * 2018-11-26 [주요 거래소에서 트레이딩 볼륨 ' 급락 '을 디 아 르 보고서는](https://github.com/theyapapa/cryptonews/blob/ko/token-trading-volumes-plummet-on-major-exchanges-diar-report-says-50e79994.md)
