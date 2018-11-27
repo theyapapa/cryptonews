@@ -1,3 +1,4 @@
+* 2018-11-27 [Cartera de coPago de BitPay comprometido por el código malicioso, la empresa emite consejos para los usuarios](https://github.com/theyapapa/cryptonews/blob/es/bitpays-copay-wallet-compromised-by-malicious-code-firm-issues-advice-for-users-7b9a86aa.md)
 * 2018-11-27 [El Presidente de la SEC, Clayton, mantiene silencio en ICO, actualizaciones](https://github.com/theyapapa/cryptonews/blob/es/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
 * 2018-11-26 [Binance renombra su mercado USDT al mercado Stablecoin combinado](https://github.com/theyapapa/cryptonews/blob/es/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [CEO cívico: Bitcoin al comercio gama-limitado para "tres a seis meses"](https://github.com/theyapapa/cryptonews/blob/es/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
