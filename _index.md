@@ -1,3 +1,4 @@
+* 2018-11-27 [Liechtenstein Cryptoassets intercambio otorgado licencia de negocios por el regulador](https://github.com/theyapapa/cryptonews/blob/es/liechtenstein-cryptoassets-exchange-granted-business-license-by-regulator-90a55fd9.md)
 * 2018-11-27 [OKEx deMostrará otra ola de parejas comerciales sobre la "liquidez débil"](https://github.com/theyapapa/cryptonews/blob/es/okex-will-delist-another-wave-of-trading-pairs-over-weak-liquidity-83bab4f5.md)
 * 2018-11-27 [Cartera de coPago de BitPay comprometido por el código malicioso, la empresa emite consejos para los usuarios](https://github.com/theyapapa/cryptonews/blob/es/bitpays-copay-wallet-compromised-by-malicious-code-firm-issues-advice-for-users-7b9a86aa.md)
 * 2018-11-27 [El Presidente de la SEC, Clayton, mantiene silencio en ICO, actualizaciones](https://github.com/theyapapa/cryptonews/blob/es/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
