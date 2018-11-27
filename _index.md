@@ -1,3 +1,4 @@
+* 2018-11-27 [BitPay в Копай бумажник скомпрометированы вредоносный код, фирма вопросы советы для пользователей](https://github.com/theyapapa/cryptonews/blob/ru/bitpays-copay-wallet-compromised-by-malicious-code-firm-issues-advice-for-users-7b9a86aa.md)
 * 2018-11-27 [Председатель SEC США Клейтон держит тихо на ICO, ETF регулирование обновления](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-chairman-clayton-keeps-quiet-on-ico-etf-regulation-updates-feba8f11.md)
 * 2018-11-26 [Binance переименование своего USDT рынка в сочетании Stablecoin рынка](https://github.com/theyapapa/cryptonews/blob/ru/binance-renames-its-usdt-market-to-combined-stablecoin-market-04aad2b9.md)
 * 2018-11-26 [Гражданский директор: биткоин на торговлю Range-граница на ' три-шесть месяцев '](https://github.com/theyapapa/cryptonews/blob/ru/civic-ceo-bitcoin-to-trade-range-bound-for-three-to-six-months-0c69fad3.md)
