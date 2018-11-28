@@ -1,3 +1,4 @@
+* 2018-11-28 [아마존은 두 블록 체인 관련 제품을 발표; 양자 원장 및 관리형 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/amazon-announces-two-blockchain-related-products-quantum-ledger-and-managed-blockchain-0b04ec0d.md)
 * 2018-11-28 [미국 재무부는 혐의에 대 한 조치를 취한다 BTC 랜 섬에 참여 함](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-dept-takes-action-against-two-iranians-allegedly-involved-in-btc-ransomware-4758cf41.md)
 * 2018-11-28 [주요 미국 암호 교환 coinbase 기관 투자자에 대 한 OTC 암호화 거래를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/major-us-crypto-exchange-coinbase-launches-otc-crypto-trading-for-institutional-investors-86af19dd.md)
 * 2018-11-28 [나이지리아의 연방 은행이 암호 거래에 대해 경고 하는 보도](https://github.com/theyapapa/cryptonews/blob/ko/nigerias-union-bank-reportedly-warns-against-crypto-transactions-f47648e5.md)
