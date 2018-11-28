@@ -1,3 +1,4 @@
+* 2018-11-28 [Amazon объявляет о двух продуктах, связанных с Блокчейн; Квантовая книга и управляемый Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/amazon-announces-two-blockchain-related-products-quantum-ledger-and-managed-blockchain-0b04ec0d.md)
 * 2018-11-28 [Министерство финансов США принимает меры против двух иранцев якобы участвует в BTC вымогателей](https://github.com/theyapapa/cryptonews/blob/ru/us-treasury-dept-takes-action-against-two-iranians-allegedly-involved-in-btc-ransomware-4758cf41.md)
 * 2018-11-28 [Основные США Crypto Exchange Coinbase запускает OTC Crypto Trading для институциональных инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/major-us-crypto-exchange-coinbase-launches-otc-crypto-trading-for-institutional-investors-86af19dd.md)
 * 2018-11-28 [Союзный банк Нигерии предупреждает о крипто-сделках](https://github.com/theyapapa/cryptonews/blob/ru/nigerias-union-bank-reportedly-warns-against-crypto-transactions-f47648e5.md)
