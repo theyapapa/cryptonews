@@ -1,3 +1,4 @@
+* 2018-11-28 [Суд Кипра снимает отМывание денег, иск о мошенничестве против предполагаемого оператора BTC-e](https://github.com/theyapapa/cryptonews/blob/ru/cyprus-court-withdraws-money-laundering-fraud-lawsuit-against-alleged-btc-e-operator-fbd197e0.md)
 * 2018-11-28 [NASDAQ партнеры с Ванек для выпуска ' регулируется, видеонаблюдением ' Цифровые активы продукты](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-partners-with-vaneck-to-release-regulated-surveilled-digital-assets-products-eb639530.md)
 * 2018-11-28 [Клснет Блокчейн оплата услуги запуск функции Goldman Sachs, Морган Стэнли](https://github.com/theyapapa/cryptonews/blob/ru/clsnet-blockchain-payment-netting-service-launch-features-goldman-sachs-morgan-stanley-8c86a7e1.md)
 * 2018-11-27 [Блоккшов Азия 2018 начинается в Сингапуре](https://github.com/theyapapa/cryptonews/blob/ru/blockshow-asia-2018-starts-in-singapore-3648383d.md)
