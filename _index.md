@@ -1,3 +1,4 @@
+* 2018-11-28 [나이지리아의 연방 은행이 암호 거래에 대해 경고 하는 보도](https://github.com/theyapapa/cryptonews/blob/ko/nigerias-union-bank-reportedly-warns-against-crypto-transactions-f47648e5.md)
 * 2018-11-28 [캐나다: birks 그룹 보석 소매 자이언트 8 개 지역에서 비트 코인을 받아들이는 시작](https://github.com/theyapapa/cryptonews/blob/ko/canada-birks-group-jewelry-retail-giant-begins-accepting-bitcoin-in-eight-locations-cb579fe4.md)
 * 2018-11-28 [키프로스 법원, BTC-e 운영자의 주장에 대 한 자금 세탁, 사기 소송 철회](https://github.com/theyapapa/cryptonews/blob/ko/cyprus-court-withdraws-money-laundering-fraud-lawsuit-against-alleged-btc-e-operator-fbd197e0.md)
 * 2018-11-28 [바 넥 스와의 Nasdaq 파트너 들이 ' 규제, Surveilled ' 디지털 자산 제품 출시](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-partners-with-vaneck-to-release-regulated-surveilled-digital-assets-products-eb639530.md)
