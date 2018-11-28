@@ -1,3 +1,4 @@
+* 2018-11-27 [NYSE Председатель говорит выЖивание цифровых валют является "однозначной"](https://github.com/theyapapa/cryptonews/blob/ru/nyse-chair-says-survival-of-digital-currencies-is-unequivocal-f5849311.md)
 * 2018-11-27 [Crypto Exchange Bitstamp для интеграции новой платформы для мониторинга рынка](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bitstamp-to-integrate-new-platform-for-market-monitoring-cc9de1ea.md)
 * 2018-11-27 [Лихтенштейн Криптоактивами Exchange предоставил бизнес-лицензию регулятором](https://github.com/theyapapa/cryptonews/blob/ru/liechtenstein-cryptoassets-exchange-granted-business-license-by-regulator-90a55fd9.md)
 * 2018-11-27 [Окекс будет вычислять очередную волну торговых пар над «слабой ликвидностью»](https://github.com/theyapapa/cryptonews/blob/ru/okex-will-delist-another-wave-of-trading-pairs-over-weak-liquidity-83bab4f5.md)
