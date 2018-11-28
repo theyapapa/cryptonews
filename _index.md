@@ -1,3 +1,4 @@
+* 2018-11-28 [Tribunal de Chipre retira el blanqueo de dinero, demanda de fraude contra presunto operador de BTC-e](https://github.com/theyapapa/cryptonews/blob/es/cyprus-court-withdraws-money-laundering-fraud-lawsuit-against-alleged-btc-e-operator-fbd197e0.md)
 * 2018-11-28 [NASDAQ se asocia con VanEck para liberar productos de activos digitales "regulados y vigilados"](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-partners-with-vaneck-to-release-regulated-surveilled-digital-assets-products-eb639530.md)
 * 2018-11-28 [CLSNet bloques servicio de red de pago características de lanzamiento Goldman Sachs, Morgan Stanley](https://github.com/theyapapa/cryptonews/blob/es/clsnet-blockchain-payment-netting-service-launch-features-goldman-sachs-morgan-stanley-8c86a7e1.md)
 * 2018-11-27 [BlockShow Asia 2018 comienza en Singapur](https://github.com/theyapapa/cryptonews/blob/es/blockshow-asia-2018-starts-in-singapore-3648383d.md)
