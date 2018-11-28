@@ -1,3 +1,4 @@
+* 2018-11-28 [Союзный банк Нигерии предупреждает о крипто-сделках](https://github.com/theyapapa/cryptonews/blob/ru/nigerias-union-bank-reportedly-warns-against-crypto-transactions-f47648e5.md)
 * 2018-11-28 [Канада: Биркс группа ювелирных изделий розничной гигант начинает принимать Bitcoin в восьми местах](https://github.com/theyapapa/cryptonews/blob/ru/canada-birks-group-jewelry-retail-giant-begins-accepting-bitcoin-in-eight-locations-cb579fe4.md)
 * 2018-11-28 [Суд Кипра снимает отМывание денег, иск о мошенничестве против предполагаемого оператора BTC-e](https://github.com/theyapapa/cryptonews/blob/ru/cyprus-court-withdraws-money-laundering-fraud-lawsuit-against-alleged-btc-e-operator-fbd197e0.md)
 * 2018-11-28 [NASDAQ партнеры с Ванек для выпуска ' регулируется, видеонаблюдением ' Цифровые активы продукты](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-partners-with-vaneck-to-release-regulated-surveilled-digital-assets-products-eb639530.md)
