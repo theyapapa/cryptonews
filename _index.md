@@ -1,3 +1,4 @@
+* 2018-11-27 [NYSE의 자는 ' 명료한 ' 디지털 통화의 생존을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/nyse-chair-says-survival-of-digital-currencies-is-unequivocal-f5849311.md)
 * 2018-11-27 [시장 모니터링을 위해 새로운 플랫폼을 통합 하는 암호 교환 bitstamp](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitstamp-to-integrate-new-platform-for-market-monitoring-cc9de1ea.md)
 * 2018-11-27 [리히텐슈타인 암호화 자산 거래소, 레 귤 레이 터에의 한 사업 면허 부여](https://github.com/theyapapa/cryptonews/blob/ko/liechtenstein-cryptoassets-exchange-granted-business-license-by-regulator-90a55fd9.md)
 * 2018-11-27 [okex는 ' 약한 유동성 '을 통해 거래 쌍의 또 다른 물결을 목록에서](https://github.com/theyapapa/cryptonews/blob/ko/okex-will-delist-another-wave-of-trading-pairs-over-weak-liquidity-83bab4f5.md)
