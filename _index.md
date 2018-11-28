@@ -1,3 +1,4 @@
+* 2018-11-27 [BlockShow Asia 2018 comienza en Singapur](https://github.com/theyapapa/cryptonews/blob/es/blockshow-asia-2018-starts-in-singapore-3648383d.md)
 * 2018-11-27 [Informe: bloques despliegue podría agregar $3 billones en el comercio internacional por 2030](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-deployment-could-add-3-trillion-in-international-trade-by-2030-b38fa3fa.md)
 * 2018-11-27 [El Presidente NYSE dice que la supervivencia de las monedas digitales es ' inequívoca '](https://github.com/theyapapa/cryptonews/blob/es/nyse-chair-says-survival-of-digital-currencies-is-unequivocal-f5849311.md)
 * 2018-11-27 [Bitstamp de intercambio de criptografía para integrar nueva plataforma de monitoreo de mercado](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-bitstamp-to-integrate-new-platform-for-market-monitoring-cc9de1ea.md)
