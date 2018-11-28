@@ -1,3 +1,4 @@
+* 2018-11-28 [주요 미국 암호 교환 coinbase 기관 투자자에 대 한 OTC 암호화 거래를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/major-us-crypto-exchange-coinbase-launches-otc-crypto-trading-for-institutional-investors-86af19dd.md)
 * 2018-11-28 [나이지리아의 연방 은행이 암호 거래에 대해 경고 하는 보도](https://github.com/theyapapa/cryptonews/blob/ko/nigerias-union-bank-reportedly-warns-against-crypto-transactions-f47648e5.md)
 * 2018-11-28 [캐나다: birks 그룹 보석 소매 자이언트 8 개 지역에서 비트 코인을 받아들이는 시작](https://github.com/theyapapa/cryptonews/blob/ko/canada-birks-group-jewelry-retail-giant-begins-accepting-bitcoin-in-eight-locations-cb579fe4.md)
 * 2018-11-28 [키프로스 법원, BTC-e 운영자의 주장에 대 한 자금 세탁, 사기 소송 철회](https://github.com/theyapapa/cryptonews/blob/ko/cyprus-court-withdraws-money-laundering-fraud-lawsuit-against-alleged-btc-e-operator-fbd197e0.md)
