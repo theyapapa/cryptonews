@@ -1,3 +1,4 @@
+* 2018-11-27 [블 블록 쇼 아시아 2018은 싱가포르에서 시작 됩니다](https://github.com/theyapapa/cryptonews/blob/ko/blockshow-asia-2018-starts-in-singapore-3648383d.md)
 * 2018-11-27 [보고서: 블록 체인 배포는 2030로 국제 무역에 $3조를 추가 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-deployment-could-add-3-trillion-in-international-trade-by-2030-b38fa3fa.md)
 * 2018-11-27 [NYSE의 자는 ' 명료한 ' 디지털 통화의 생존을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/nyse-chair-says-survival-of-digital-currencies-is-unequivocal-f5849311.md)
 * 2018-11-27 [시장 모니터링을 위해 새로운 플랫폼을 통합 하는 암호 교환 bitstamp](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitstamp-to-integrate-new-platform-for-market-monitoring-cc9de1ea.md)
