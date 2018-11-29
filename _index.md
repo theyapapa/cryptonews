@@ -1,3 +1,4 @@
+* 2018-11-29 [' Звучает как Bitcoin ': новая принципиальная схема токена от EOS ' Дэн Лаример не сумеет выиграть вентиляторы](https://github.com/theyapapa/cryptonews/blob/ru/sounds-like-bitcoin-new-token-concept-from-eos-dan-larimer-fails-to-win-fans-a0abcccc.md)
 * 2018-11-29 [Нефть-торговая Блокчейн-платформа Вакт запускает с Shell, BP в качестве первых пользователей](https://github.com/theyapapa/cryptonews/blob/ru/oil-trading-blockchain-platform-vakt-launches-with-shell-bp-as-first-users-c22091df.md)
 * 2018-11-29 [ТРОН объявляет $100 000 000 Блокчейн игровой фонд](https://github.com/theyapapa/cryptonews/blob/ru/tron-announces-100-million-blockchain-gaming-fund-7e95b72a.md)
 * 2018-11-29 [ФБР аресты Арисебанк Генеральный директор, предъявлено обвинение в мошенничестве более $4 000 000](https://github.com/theyapapa/cryptonews/blob/ru/fbi-arrests-arisebank-ceo-indicted-for-fraud-of-over-4-million-cc907a03.md)
