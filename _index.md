@@ -1,3 +1,4 @@
+* 2018-11-29 [트 론, $1억 블록 체인 게임 펀드 발표](https://github.com/theyapapa/cryptonews/blob/ko/tron-announces-100-million-blockchain-gaming-fund-7e95b72a.md)
 * 2018-11-29 [FBI 체포 arisebank CEO, $400만 이상의 사기에 대 한 기소](https://github.com/theyapapa/cryptonews/blob/ko/fbi-arrests-arisebank-ceo-indicted-for-fraud-of-over-4-million-cc907a03.md)
 * 2018-11-29 [카스 퍼 스키: 킹 봇 넷에 대 한 점점 인기 있는 공격 벡터](https://github.com/theyapapa/cryptonews/blob/ko/kaspersky-cryptojacking-increasingly-popular-attack-vector-for-botnets-a9fc7064.md)
 * 2018-11-29 [옆으로 이동 애플: 암호 플랫폼은 세련 된 비디오에서 ' 프리미엄 ' 하드웨어 지갑 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/move-aside-apple-crypto-platform-reveals-premium-hardware-wallet-in-sleek-video-0d291338.md)
