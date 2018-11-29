@@ -1,3 +1,4 @@
+* 2018-11-28 [Галактика цифров Lost $136 000 000 в первых 3 четвертях 2018](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-lost-136-million-in-the-first-three-quarters-of-2018-00ee3fa8.md)
 * 2018-11-28 [Децентрализованные социальные медиа платформы Steemit отКладывает 70% сотрудников после краха рынка](https://github.com/theyapapa/cryptonews/blob/ru/decentralized-social-media-platform-steemit-lays-off-70-of-staff-following-market-crash-eed8ff4b.md)
 * 2018-11-28 [ОАЭ представили Блокчейн и AI инициативы после ежегодного заседания правительства](https://github.com/theyapapa/cryptonews/blob/ru/uae-presents-blockchain-and-ai-initiatives-following-annual-government-meeting-4f9d9dfe.md)
 * 2018-11-28 [Amazon объявляет о двух продуктах, связанных с Блокчейн; Квантовая книга и управляемый Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/amazon-announces-two-blockchain-related-products-quantum-ledger-and-managed-blockchain-0b04ec0d.md)
