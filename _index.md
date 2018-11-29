@@ -1,3 +1,4 @@
+* 2018-11-29 [Oil-traDing bloques plataforma VAKT lanza con Shell, BP como primeros usuarios](https://github.com/theyapapa/cryptonews/blob/es/oil-trading-blockchain-platform-vakt-launches-with-shell-bp-as-first-users-c22091df.md)
 * 2018-11-29 [TRON anuncia $100 millones bloques Gaming Fund](https://github.com/theyapapa/cryptonews/blob/es/tron-announces-100-million-blockchain-gaming-fund-7e95b72a.md)
 * 2018-11-29 [Arrestos del FBI AriseBank CEO, acusado de fraude de más de $4 millones](https://github.com/theyapapa/cryptonews/blob/es/fbi-arrests-arisebank-ceo-indicted-for-fraud-of-over-4-million-cc907a03.md)
 * 2018-11-29 [Kaspersky: Cryptojacking vector de ataque cada vez más popular para redes de bots](https://github.com/theyapapa/cryptonews/blob/es/kaspersky-cryptojacking-increasingly-popular-attack-vector-for-botnets-a9fc7064.md)
