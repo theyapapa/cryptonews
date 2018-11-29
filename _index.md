@@ -1,3 +1,4 @@
+* 2018-11-28 [갤럭시 디지털 잃어버린 $1억3600만의 첫 3/4에 2018](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-lost-136-million-in-the-first-three-quarters-of-2018-00ee3fa8.md)
 * 2018-11-28 [탈 중앙화 된 소셜 미디어 플랫폼 스 티어 방출이 시장 충돌 후 70%의 직원을 낳는다](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-social-media-platform-steemit-lays-off-70-of-staff-following-market-crash-eed8ff4b.md)
 * 2018-11-28 [UAE는 연례 정부 회의에서 블록 체인과 AI 이니셔티브를 소개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/uae-presents-blockchain-and-ai-initiatives-following-annual-government-meeting-4f9d9dfe.md)
 * 2018-11-28 [아마존은 두 블록 체인 관련 제품을 발표; 양자 원장 및 관리형 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/amazon-announces-two-blockchain-related-products-quantum-ledger-and-managed-blockchain-0b04ec0d.md)
