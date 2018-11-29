@@ -1,3 +1,4 @@
+* 2018-11-29 [Los mercados criptográficos vuelven a bajar después de un ligero salto ayer](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-come-back-down-after-slight-jump-yesterday-7d556387.md)
 * 2018-11-29 [' Sonidos como Bitcoin ': nuevo concepto simbólico de EOS ' dan Larimer no logra ganar fans](https://github.com/theyapapa/cryptonews/blob/es/sounds-like-bitcoin-new-token-concept-from-eos-dan-larimer-fails-to-win-fans-a0abcccc.md)
 * 2018-11-29 [Oil-traDing bloques plataforma VAKT lanza con Shell, BP como primeros usuarios](https://github.com/theyapapa/cryptonews/blob/es/oil-trading-blockchain-platform-vakt-launches-with-shell-bp-as-first-users-c22091df.md)
 * 2018-11-29 [TRON anuncia $100 millones bloques Gaming Fund](https://github.com/theyapapa/cryptonews/blob/es/tron-announces-100-million-blockchain-gaming-fund-7e95b72a.md)
