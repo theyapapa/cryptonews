@@ -1,3 +1,4 @@
+* 2018-11-28 [탈 중앙화 된 소셜 미디어 플랫폼 스 티어 방출이 시장 충돌 후 70%의 직원을 낳는다](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-social-media-platform-steemit-lays-off-70-of-staff-following-market-crash-eed8ff4b.md)
 * 2018-11-28 [UAE는 연례 정부 회의에서 블록 체인과 AI 이니셔티브를 소개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/uae-presents-blockchain-and-ai-initiatives-following-annual-government-meeting-4f9d9dfe.md)
 * 2018-11-28 [아마존은 두 블록 체인 관련 제품을 발표; 양자 원장 및 관리형 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/amazon-announces-two-blockchain-related-products-quantum-ledger-and-managed-blockchain-0b04ec0d.md)
 * 2018-11-28 [미국 재무부는 혐의에 대 한 조치를 취한다 BTC 랜 섬에 참여 함](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-dept-takes-action-against-two-iranians-allegedly-involved-in-btc-ransomware-4758cf41.md)
