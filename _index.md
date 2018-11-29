@@ -1,3 +1,4 @@
+* 2018-11-29 [ТРОН объявляет $100 000 000 Блокчейн игровой фонд](https://github.com/theyapapa/cryptonews/blob/ru/tron-announces-100-million-blockchain-gaming-fund-7e95b72a.md)
 * 2018-11-29 [ФБР аресты Арисебанк Генеральный директор, предъявлено обвинение в мошенничестве более $4 000 000](https://github.com/theyapapa/cryptonews/blob/ru/fbi-arrests-arisebank-ceo-indicted-for-fraud-of-over-4-million-cc907a03.md)
 * 2018-11-29 [Kaspersky: Криптожаккинг все более популярный вектор атаки для ботнетов](https://github.com/theyapapa/cryptonews/blob/ru/kaspersky-cryptojacking-increasingly-popular-attack-vector-for-botnets-a9fc7064.md)
 * 2018-11-29 [Переместить в сторону яблоко: Crypto платформа показывает ' премиум ' аппаратный кошелек в гладкий видео](https://github.com/theyapapa/cryptonews/blob/ru/move-aside-apple-crypto-platform-reveals-premium-hardware-wallet-in-sleek-video-0d291338.md)
