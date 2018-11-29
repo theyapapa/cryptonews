@@ -1,3 +1,4 @@
+* 2018-11-29 [' 비트 코인과 같은 소리 ': EOS의 새로운 토큰 컨셉에 대 한 라이 머는 팬을 이길 실패](https://github.com/theyapapa/cryptonews/blob/ko/sounds-like-bitcoin-new-token-concept-from-eos-dan-larimer-fails-to-win-fans-a0abcccc.md)
 * 2018-11-29 [오일 트레이딩 블록 체인 플랫폼에이는 쉘, BP를 첫 사용자로 출시](https://github.com/theyapapa/cryptonews/blob/ko/oil-trading-blockchain-platform-vakt-launches-with-shell-bp-as-first-users-c22091df.md)
 * 2018-11-29 [트 론, $1억 블록 체인 게임 펀드 발표](https://github.com/theyapapa/cryptonews/blob/ko/tron-announces-100-million-blockchain-gaming-fund-7e95b72a.md)
 * 2018-11-29 [FBI 체포 arisebank CEO, $400만 이상의 사기에 대 한 기소](https://github.com/theyapapa/cryptonews/blob/ko/fbi-arrests-arisebank-ceo-indicted-for-fraud-of-over-4-million-cc907a03.md)
