@@ -1,3 +1,4 @@
+* 2018-11-29 [옆으로 이동 애플: 암호 플랫폼은 세련 된 비디오에서 ' 프리미엄 ' 하드웨어 지갑 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/move-aside-apple-crypto-platform-reveals-premium-hardware-wallet-in-sleek-video-0d291338.md)
 * 2018-11-28 [갤럭시 디지털 잃어버린 $1억3600만의 첫 3/4에 2018](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-lost-136-million-in-the-first-three-quarters-of-2018-00ee3fa8.md)
 * 2018-11-28 [탈 중앙화 된 소셜 미디어 플랫폼 스 티어 방출이 시장 충돌 후 70%의 직원을 낳는다](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-social-media-platform-steemit-lays-off-70-of-staff-following-market-crash-eed8ff4b.md)
 * 2018-11-28 [UAE는 연례 정부 회의에서 블록 체인과 AI 이니셔티브를 소개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/uae-presents-blockchain-and-ai-initiatives-following-annual-government-meeting-4f9d9dfe.md)
