@@ -1,3 +1,4 @@
+* 2018-11-29 [Arrestos del FBI AriseBank CEO, acusado de fraude de más de $4 millones](https://github.com/theyapapa/cryptonews/blob/es/fbi-arrests-arisebank-ceo-indicted-for-fraud-of-over-4-million-cc907a03.md)
 * 2018-11-29 [Kaspersky: Cryptojacking vector de ataque cada vez más popular para redes de bots](https://github.com/theyapapa/cryptonews/blob/es/kaspersky-cryptojacking-increasingly-popular-attack-vector-for-botnets-a9fc7064.md)
 * 2018-11-29 [Mover a un lado Apple: la plataforma Crypto revela ' Premium ' cartera de hardware en un vídeo elegante](https://github.com/theyapapa/cryptonews/blob/es/move-aside-apple-crypto-platform-reveals-premium-hardware-wallet-in-sleek-video-0d291338.md)
 * 2018-11-28 [Galaxy digital perdió $136 millones en los primeros tres trimestres de 2018](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digital-lost-136-million-in-the-first-three-quarters-of-2018-00ee3fa8.md)
