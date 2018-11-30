@@ -1,3 +1,4 @@
+* 2018-11-30 [새로운 아수스 파트너십은 유휴 GPU 전원으로 광산 암호를 사용자 수](https://github.com/theyapapa/cryptonews/blob/ko/new-asus-partnership-allows-users-to-mine-crypto-with-idle-gpu-power-0e8a68a2.md)
 * 2018-11-30 [SEC 회장: 투자자는 암호화에 투자 하기 전에 ' 보호 '의 부족을 고려해 야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/sec-chairman-investors-should-consider-lack-of-safeguards-before-investing-in-crypto-9554fd05.md)
 * 2018-11-30 [' n 우리의 '와 새로운 친구: 사토시 나카 모토의 P2P 프로필은 새로운 게시물을 만든다, befriends 사용자](https://github.com/theyapapa/cryptonews/blob/ko/nour-and-a-new-friend-satoshi-nakamotos-p2p-profile-makes-new-post-befriends-user-2525a4e8.md)
 * 2018-11-30 [암호화 시장 지속적으로 빨간색, 비트 코인은 짧게 $4 이하로 딥 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-persistent-red-bitcoin-briefly-dips-below-4k-ed5445f7.md)
