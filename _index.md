@@ -1,3 +1,4 @@
+* 2018-11-30 [UBS Исполнительный Пол Донован взрывы Bitcoin снова, государства крипты являются "смертельно недостатки"](https://github.com/theyapapa/cryptonews/blob/ru/ubs-executive-paul-donovan-blasts-bitcoin-again-states-cryptos-are-fatally-flawed-1ccf9e0e.md)
 * 2018-11-29 [Создана первая Блокчейн-Ассоциация в Мексике](https://github.com/theyapapa/cryptonews/blob/ru/first-blockchain-association-in-mexico-established-cbaa7cb1.md)
 * 2018-11-29 [США SEC обвинения Флойд Мэйуэзер-младший и DJ Халед за незаконное продвижение ICO](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-charges-floyd-mayweather-jr-and-dj-khaled-for-unlawfully-promoting-ico-f97020a9.md)
 * 2018-11-29 [Крипто рынки вернуться вниз после небольшой прыжок вчера](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-come-back-down-after-slight-jump-yesterday-7d556387.md)
