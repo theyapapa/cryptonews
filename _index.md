@@ -1,3 +1,4 @@
+* 2018-11-30 [El ejecutivo de UBS Paul Donovan explosiona Bitcoin otra vez, los Estados Cryptos son ' fatalmente defectuosos '](https://github.com/theyapapa/cryptonews/blob/es/ubs-executive-paul-donovan-blasts-bitcoin-again-states-cryptos-are-fatally-flawed-1ccf9e0e.md)
 * 2018-11-29 [La primera asociación bloques en México estableció](https://github.com/theyapapa/cryptonews/blob/es/first-blockchain-association-in-mexico-established-cbaa7cb1.md)
 * 2018-11-29 [Estados Unidos cargos Floyd Mayweather Jr. y DJ Khaled para promover ilegalmente ICO](https://github.com/theyapapa/cryptonews/blob/es/us-sec-charges-floyd-mayweather-jr-and-dj-khaled-for-unlawfully-promoting-ico-f97020a9.md)
 * 2018-11-29 [Los mercados criptográficos vuelven a bajar después de un ligero salto ayer](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-come-back-down-after-slight-jump-yesterday-7d556387.md)
