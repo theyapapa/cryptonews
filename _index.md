@@ -1,3 +1,4 @@
+* 2018-11-29 [멕시코 최초의 블록 체인 협회 설립](https://github.com/theyapapa/cryptonews/blob/ko/first-blockchain-association-in-mexico-established-cbaa7cb1.md)
 * 2018-11-29 [미국 SEC 요금 플로이드 메이 웨 더 주니어와 DJ가 불법적으로 ICO 홍보](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-charges-floyd-mayweather-jr-and-dj-khaled-for-unlawfully-promoting-ico-f97020a9.md)
 * 2018-11-29 [가상 화폐 시장은 어제 약간의 점프를 한 후에 다시 돌아올 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-come-back-down-after-slight-jump-yesterday-7d556387.md)
 * 2018-11-29 [' 비트 코인과 같은 소리 ': EOS의 새로운 토큰 컨셉에 대 한 라이 머는 팬을 이길 실패](https://github.com/theyapapa/cryptonews/blob/ko/sounds-like-bitcoin-new-token-concept-from-eos-dan-larimer-fails-to-win-fans-a0abcccc.md)
