@@ -1,3 +1,4 @@
+* 2018-11-30 [' n 우리의 '와 새로운 친구: 사토시 나카 모토의 P2P 프로필은 새로운 게시물을 만든다, befriends 사용자](https://github.com/theyapapa/cryptonews/blob/ko/nour-and-a-new-friend-satoshi-nakamotos-p2p-profile-makes-new-post-befriends-user-2525a4e8.md)
 * 2018-11-30 [암호화 시장 지속적으로 빨간색, 비트 코인은 짧게 $4 이하로 딥 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-persistent-red-bitcoin-briefly-dips-below-4k-ed5445f7.md)
 * 2018-11-30 [미국 기술 거 대 한 인텔 파일 에너지 효율적인 비트 코인 채굴을 위한 새로운 특허](https://github.com/theyapapa/cryptonews/blob/ko/american-tech-giant-intel-files-new-patent-for-energy-efficient-bitcoin-mining-c86b0a7b.md)
 * 2018-11-30 [국내외의 블록 체인 흡수를 위해 스타트업과 협력 하는 마이크로소프트 재팬](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-japan-partners-with-startup-to-increase-domestic-blockchain-uptake-a95a6082.md)
