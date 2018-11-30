@@ -1,3 +1,4 @@
+* 2018-11-30 [SEC Председатель: инвесторы должны рассмотреть отсутствие "гарантии", прежде чем инвестировать в крипто](https://github.com/theyapapa/cryptonews/blob/ru/sec-chairman-investors-should-consider-lack-of-safeguards-before-investing-in-crypto-9554fd05.md)
 * 2018-11-30 ["Нур" и новый друг: Сатоши Накамото в P2P профиль делает новый пост, друзья пользователя](https://github.com/theyapapa/cryptonews/blob/ru/nour-and-a-new-friend-satoshi-nakamotos-p2p-profile-makes-new-post-befriends-user-2525a4e8.md)
 * 2018-11-30 [Крипто рынки смотрите стойкий красный, Bitcoin кратко провалы ниже $4K](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-persistent-red-bitcoin-briefly-dips-below-4k-ed5445f7.md)
 * 2018-11-30 [Американский технология гигантский Intel файлы новый патент для энергосберегающих Bitcoin майнинг](https://github.com/theyapapa/cryptonews/blob/ru/american-tech-giant-intel-files-new-patent-for-energy-efficient-bitcoin-mining-c86b0a7b.md)
