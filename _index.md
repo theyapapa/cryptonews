@@ -1,3 +1,4 @@
+* 2018-11-30 [Американский технология гигантский Intel файлы новый патент для энергосберегающих Bitcoin майнинг](https://github.com/theyapapa/cryptonews/blob/ru/american-tech-giant-intel-files-new-patent-for-energy-efficient-bitcoin-mining-c86b0a7b.md)
 * 2018-11-30 [Microsoft Япония партнеры с стартапом для увеличения внутреннего Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-japan-partners-with-startup-to-increase-domestic-blockchain-uptake-a95a6082.md)
 * 2018-11-30 [UBS Исполнительный Пол Донован взрывы Bitcoin снова, государства крипты являются "смертельно недостатки"](https://github.com/theyapapa/cryptonews/blob/ru/ubs-executive-paul-donovan-blasts-bitcoin-again-states-cryptos-are-fatally-flawed-1ccf9e0e.md)
 * 2018-11-29 [Создана первая Блокчейн-Ассоциация в Мексике](https://github.com/theyapapa/cryptonews/blob/ru/first-blockchain-association-in-mexico-established-cbaa7cb1.md)
