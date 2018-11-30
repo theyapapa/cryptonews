@@ -1,3 +1,4 @@
+* 2018-11-30 [Microsoft Япония партнеры с стартапом для увеличения внутреннего Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-japan-partners-with-startup-to-increase-domestic-blockchain-uptake-a95a6082.md)
 * 2018-11-30 [UBS Исполнительный Пол Донован взрывы Bitcoin снова, государства крипты являются "смертельно недостатки"](https://github.com/theyapapa/cryptonews/blob/ru/ubs-executive-paul-donovan-blasts-bitcoin-again-states-cryptos-are-fatally-flawed-1ccf9e0e.md)
 * 2018-11-29 [Создана первая Блокчейн-Ассоциация в Мексике](https://github.com/theyapapa/cryptonews/blob/ru/first-blockchain-association-in-mexico-established-cbaa7cb1.md)
 * 2018-11-29 [США SEC обвинения Флойд Мэйуэзер-младший и DJ Халед за незаконное продвижение ICO](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-charges-floyd-mayweather-jr-and-dj-khaled-for-unlawfully-promoting-ico-f97020a9.md)
