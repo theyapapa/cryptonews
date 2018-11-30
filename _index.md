@@ -1,3 +1,4 @@
+* 2018-11-30 [' Nour ' y un nuevo amigo: el perfil P2P de Satoshi Nakamoto hace nuevo post, usuario de Friends](https://github.com/theyapapa/cryptonews/blob/es/nour-and-a-new-friend-satoshi-nakamotos-p2p-profile-makes-new-post-befriends-user-2525a4e8.md)
 * 2018-11-30 [Los mercados criptográficos ven rojo persistente, Bitcoin inMersiones brevemente por debajo de $4K](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-persistent-red-bitcoin-briefly-dips-below-4k-ed5445f7.md)
 * 2018-11-30 [American Tech Giant archivos de Intel nueva patente para la minería de Bitcoin eficiente en energía](https://github.com/theyapapa/cryptonews/blob/es/american-tech-giant-intel-files-new-patent-for-energy-efficient-bitcoin-mining-c86b0a7b.md)
 * 2018-11-30 [Microsoft Japan se asocia con startup para aumentar la bloques nacional](https://github.com/theyapapa/cryptonews/blob/es/microsoft-japan-partners-with-startup-to-increase-domestic-blockchain-uptake-a95a6082.md)
