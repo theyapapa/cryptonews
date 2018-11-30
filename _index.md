@@ -1,3 +1,4 @@
+* 2018-11-30 [가장 오래 된 스위스 대학교 대상에이 더 리 움 공동 설립자에 대 한 명예 박사 Buterin](https://github.com/theyapapa/cryptonews/blob/ko/oldest-swiss-university-awards-honorary-doctorate-to-ethereum-co-founder-vitalik-buterin-d4ee15c8.md)
 * 2018-11-30 [새로운 아수스 파트너십은 유휴 GPU 전원으로 광산 암호를 사용자 수](https://github.com/theyapapa/cryptonews/blob/ko/new-asus-partnership-allows-users-to-mine-crypto-with-idle-gpu-power-0e8a68a2.md)
 * 2018-11-30 [SEC 회장: 투자자는 암호화에 투자 하기 전에 ' 보호 '의 부족을 고려해 야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/sec-chairman-investors-should-consider-lack-of-safeguards-before-investing-in-crypto-9554fd05.md)
 * 2018-11-30 [' n 우리의 '와 새로운 친구: 사토시 나카 모토의 P2P 프로필은 새로운 게시물을 만든다, befriends 사용자](https://github.com/theyapapa/cryptonews/blob/ko/nour-and-a-new-friend-satoshi-nakamotos-p2p-profile-makes-new-post-befriends-user-2525a4e8.md)
