@@ -1,3 +1,4 @@
+* 2018-11-30 [American Tech Giant archivos de Intel nueva patente para la minería de Bitcoin eficiente en energía](https://github.com/theyapapa/cryptonews/blob/es/american-tech-giant-intel-files-new-patent-for-energy-efficient-bitcoin-mining-c86b0a7b.md)
 * 2018-11-30 [Microsoft Japan se asocia con startup para aumentar la bloques nacional](https://github.com/theyapapa/cryptonews/blob/es/microsoft-japan-partners-with-startup-to-increase-domestic-blockchain-uptake-a95a6082.md)
 * 2018-11-30 [El ejecutivo de UBS Paul Donovan explosiona Bitcoin otra vez, los Estados Cryptos son ' fatalmente defectuosos '](https://github.com/theyapapa/cryptonews/blob/es/ubs-executive-paul-donovan-blasts-bitcoin-again-states-cryptos-are-fatally-flawed-1ccf9e0e.md)
 * 2018-11-29 [La primera asociación bloques en México estableció](https://github.com/theyapapa/cryptonews/blob/es/first-blockchain-association-in-mexico-established-cbaa7cb1.md)
