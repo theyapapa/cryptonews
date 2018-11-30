@@ -1,3 +1,4 @@
+* 2018-11-30 [국내외의 블록 체인 흡수를 위해 스타트업과 협력 하는 마이크로소프트 재팬](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-japan-partners-with-startup-to-increase-domestic-blockchain-uptake-a95a6082.md)
 * 2018-11-30 [UBS 경영진은 비트 코인을 다시 폭발 하 여 스테이트 cryptos가 ' 치명적인 결함 '입니다.](https://github.com/theyapapa/cryptonews/blob/ko/ubs-executive-paul-donovan-blasts-bitcoin-again-states-cryptos-are-fatally-flawed-1ccf9e0e.md)
 * 2018-11-29 [멕시코 최초의 블록 체인 협회 설립](https://github.com/theyapapa/cryptonews/blob/ko/first-blockchain-association-in-mexico-established-cbaa7cb1.md)
 * 2018-11-29 [미국 SEC 요금 플로이드 메이 웨 더 주니어와 DJ가 불법적으로 ICO 홍보](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-charges-floyd-mayweather-jr-and-dj-khaled-for-unlawfully-promoting-ico-f97020a9.md)
