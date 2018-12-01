@@ -1,3 +1,4 @@
+* 2018-11-30 [연구 결과: 시장 침체 후에 미디어의 암호화 적용 범위 정점](https://github.com/theyapapa/cryptonews/blob/ko/study-crypto-coverage-in-media-peaked-following-market-slump-01431d1c.md)
 * 2018-11-30 [가장 오래 된 스위스 대학교 대상에이 더 리 움 공동 설립자에 대 한 명예 박사 Buterin](https://github.com/theyapapa/cryptonews/blob/ko/oldest-swiss-university-awards-honorary-doctorate-to-ethereum-co-founder-vitalik-buterin-d4ee15c8.md)
 * 2018-11-30 [새로운 아수스 파트너십은 유휴 GPU 전원으로 광산 암호를 사용자 수](https://github.com/theyapapa/cryptonews/blob/ko/new-asus-partnership-allows-users-to-mine-crypto-with-idle-gpu-power-0e8a68a2.md)
 * 2018-11-30 [SEC 회장: 투자자는 암호화에 투자 하기 전에 ' 보호 '의 부족을 고려해 야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/sec-chairman-investors-should-consider-lack-of-safeguards-before-investing-in-crypto-9554fd05.md)
