@@ -1,3 +1,4 @@
+* 2018-11-30 [비엔나에 설립 된 다 학 제 연구를 위한 오스트리아의 블록 체인 센터](https://github.com/theyapapa/cryptonews/blob/ko/austrian-blockchain-center-for-multidisciplinary-research-established-in-vienna-d5353827.md)
 * 2018-11-30 [독일 금융 감시 장치는 무단 암호 제공에 대해 공개적으로 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/german-financial-watchdog-warns-public-about-unauthorized-crypto-offering-8e7880cd.md)
 * 2018-11-30 [연구 결과: 시장 침체 후에 미디어의 암호화 적용 범위 정점](https://github.com/theyapapa/cryptonews/blob/ko/study-crypto-coverage-in-media-peaked-following-market-slump-01431d1c.md)
 * 2018-11-30 [가장 오래 된 스위스 대학교 대상에이 더 리 움 공동 설립자에 대 한 명예 박사 Buterin](https://github.com/theyapapa/cryptonews/blob/ko/oldest-swiss-university-awards-honorary-doctorate-to-ethereum-co-founder-vitalik-buterin-d4ee15c8.md)
