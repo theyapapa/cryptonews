@@ -1,3 +1,4 @@
+* 2018-11-30 [El vigilante financiero alemán advierte al público sobre la oferta de criptografía no autorizada](https://github.com/theyapapa/cryptonews/blob/es/german-financial-watchdog-warns-public-about-unauthorized-crypto-offering-8e7880cd.md)
 * 2018-11-30 [Estudio: la cobertura criptográfica en los medios alcanzó la caída del mercado siguiente](https://github.com/theyapapa/cryptonews/blob/es/study-crypto-coverage-in-media-peaked-following-market-slump-01431d1c.md)
 * 2018-11-30 [La Universidad Suiza más antigua concede el doctorado honorario a Ethereum Co-fundador Vitalik Buterin](https://github.com/theyapapa/cryptonews/blob/es/oldest-swiss-university-awards-honorary-doctorate-to-ethereum-co-founder-vitalik-buterin-d4ee15c8.md)
 * 2018-11-30 [Nueva asociación ASUS permite a los usuarios de la mina Crypto con energía de la GPU ociosa](https://github.com/theyapapa/cryptonews/blob/es/new-asus-partnership-allows-users-to-mine-crypto-with-idle-gpu-power-0e8a68a2.md)
