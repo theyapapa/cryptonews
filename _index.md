@@ -1,3 +1,4 @@
+* 2018-11-30 [Исследование: крипто охват в СМИ пик после спада рынка](https://github.com/theyapapa/cryptonews/blob/ru/study-crypto-coverage-in-media-peaked-following-market-slump-01431d1c.md)
 * 2018-11-30 [Старейший швейцарский университет награды Почетный доктор в Эфириум соУчредитель Виталик Бутерин](https://github.com/theyapapa/cryptonews/blob/ru/oldest-swiss-university-awards-honorary-doctorate-to-ethereum-co-founder-vitalik-buterin-d4ee15c8.md)
 * 2018-11-30 [Новое партнерство ASUS позволяет пользователям доБывать крипту с неРаботающей мощностью GPU](https://github.com/theyapapa/cryptonews/blob/ru/new-asus-partnership-allows-users-to-mine-crypto-with-idle-gpu-power-0e8a68a2.md)
 * 2018-11-30 [SEC Председатель: инвесторы должны рассмотреть отсутствие "гарантии", прежде чем инвестировать в крипто](https://github.com/theyapapa/cryptonews/blob/ru/sec-chairman-investors-should-consider-lack-of-safeguards-before-investing-in-crypto-9554fd05.md)
