@@ -1,3 +1,4 @@
+* 2018-12-01 [아마존은 유사 블록 체인 솔루션,에 테 리 움 및 하이퍼 레저 패브릭에 대 한 플랫폼을 제시](https://github.com/theyapapa/cryptonews/blob/ko/amazon-presents-its-quasi-blockchain-solution-platform-for-ethereum-and-hyperledger-fabric-0bbc954e.md)
 * 2018-12-01 [러시아: sberbank 및 인터 로스 그룹은 블록 체인 기반의 외환 리 포 딜을 체결](https://github.com/theyapapa/cryptonews/blob/ko/russia-sberbank-and-interros-group-conclude-blockchain-based-foreign-exchange-repo-deal-dfef62a7.md)
 * 2018-12-01 [타이 증권 레 귤 레이 터는 규제 프레임 워크를 위한 다양 한 STO 분류를 고려](https://github.com/theyapapa/cryptonews/blob/ko/thai-securities-regulator-considers-various-sto-classifications-for-regulatory-framework-0cb7def2.md)
 * 2018-12-01 [비트 코인, 리플,에 테 리 움, 비트 코인 현금, 스텔라, EOS, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 12 월 1 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-stellar-eos-litecoin-cardano-monero-tron-price-analysis-december-1-73353af7.md)
