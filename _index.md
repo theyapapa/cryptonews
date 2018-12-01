@@ -1,3 +1,4 @@
+* 2018-11-30 [В Вене создан австрийский Блокчейн-центр для многодисциплинарных исследований](https://github.com/theyapapa/cryptonews/blob/ru/austrian-blockchain-center-for-multidisciplinary-research-established-in-vienna-d5353827.md)
 * 2018-11-30 [Немецкий финансовый сторожевой предупреждает общественности о несанкционированного крипто предложение](https://github.com/theyapapa/cryptonews/blob/ru/german-financial-watchdog-warns-public-about-unauthorized-crypto-offering-8e7880cd.md)
 * 2018-11-30 [Исследование: крипто охват в СМИ пик после спада рынка](https://github.com/theyapapa/cryptonews/blob/ru/study-crypto-coverage-in-media-peaked-following-market-slump-01431d1c.md)
 * 2018-11-30 [Старейший швейцарский университет награды Почетный доктор в Эфириум соУчредитель Виталик Бутерин](https://github.com/theyapapa/cryptonews/blob/ru/oldest-swiss-university-awards-honorary-doctorate-to-ethereum-co-founder-vitalik-buterin-d4ee15c8.md)
