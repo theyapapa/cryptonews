@@ -1,3 +1,4 @@
+* 2018-12-02 [호 들러 다이제스트, 11 월 26 일 — 12 월 2 일: 사토시는 새로운 친구를 만들고, Buterin은 중앙의 블록 체인을 통해 부정적으로 도착 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-nov-26dec-2-satoshi-makes-a-new-friend-buterin-gets-negative-over-centralized-blockchains-15740df8.md)
 * 2018-12-01 [에스토니아: 자금 세탁 방지 규정을 수정 하면 암호화 규제가 강화 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/estonia-amendments-to-anti-money-laundering-regulations-will-tighten-crypto-regulation-e8ef7033.md)
 * 2018-12-01 [아마존은 유사 블록 체인 솔루션,에 테 리 움 및 하이퍼 레저 패브릭에 대 한 플랫폼을 제시](https://github.com/theyapapa/cryptonews/blob/ko/amazon-presents-its-quasi-blockchain-solution-platform-for-ethereum-and-hyperledger-fabric-0bbc954e.md)
 * 2018-12-01 [러시아: sberbank 및 인터 로스 그룹은 블록 체인 기반의 외환 리 포 딜을 체결](https://github.com/theyapapa/cryptonews/blob/ko/russia-sberbank-and-interros-group-conclude-blockchain-based-foreign-exchange-repo-deal-dfef62a7.md)
