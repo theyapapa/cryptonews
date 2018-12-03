@@ -1,3 +1,4 @@
+* 2018-12-02 [Лучшие монеты шаткой, но Bitcoin по-прежнему держит $4 000 Марк](https://github.com/theyapapa/cryptonews/blob/ru/top-coins-are-shaky-but-bitcoin-still-holds-4-000-mark-5e0f8f8b.md)
 * 2018-12-02 [Лидеры стран G20 призывают к международному налогообложению Криптовалют ](https://github.com/theyapapa/cryptonews/blob/ru/g20-country-leaders-call-for-international-cryptocurrency-taxation-e56cfc3f.md)
 * 2018-12-02 [Топ 5 крипто исполнители Обзор: трон, Litecoin, XEM, Bitcoin, Эфириум (эфир)](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-tron-litecoin-xem-bitcoin-ethereum-7050d09c.md)
 * 2018-12-02 [Дайджест Ходлер, 26 ноября — 2 декабря: Сатоши делает нового друга, Бутерин получает отрицательный по сравнению с централизованным Блокчейнов](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-nov-26dec-2-satoshi-makes-a-new-friend-buterin-gets-negative-over-centralized-blockchains-15740df8.md)
