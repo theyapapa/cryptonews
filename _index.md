@@ -1,3 +1,4 @@
+* 2018-12-03 [Venezuela: maduro eleva el valor de Petro en un 150 por ciento en medio de la inflación](https://github.com/theyapapa/cryptonews/blob/es/venezuela-maduro-raises-petros-value-by-150-percent-amid-ongoing-inflation-5cd18409.md)
 * 2018-12-03 [China: la autoridad financiera de Beijing advierte sobre las ofertas de tokens de seguridad "ilegales"](https://github.com/theyapapa/cryptonews/blob/es/china-beijing-financial-authority-warns-against-illegal-security-token-offerings-03770a20.md)
 * 2018-12-03 [GM archivos bloques patente para gestionar datos de coches autónomos](https://github.com/theyapapa/cryptonews/blob/es/gm-files-blockchain-patent-to-manage-data-from-autonomous-cars-2bb55146.md)
 * 2018-12-03 [Institución financiera islámica se asocia con startup para desarrollar herramientas interbancarias bloques](https://github.com/theyapapa/cryptonews/blob/es/islamic-financial-institution-partners-with-startup-to-develop-interbank-blockchain-tools-ca48d593.md)
