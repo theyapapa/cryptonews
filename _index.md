@@ -1,3 +1,4 @@
+* 2018-12-03 [ABC의 사슬에 비트 코인 현금 거래를 재개 하는 일본어 교환 GMO 동전 세트](https://github.com/theyapapa/cryptonews/blob/ko/japanese-exchange-gmo-coin-set-to-resume-bitcoin-cash-trading-on-abcs-chain-14865dfa.md)
 * 2018-12-03 [베네수엘라: 마 두로는 페트로의 가치를 150%까지 지속적으로 인플레이션을 일으킨다.](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-maduro-raises-petros-value-by-150-percent-amid-ongoing-inflation-5cd18409.md)
 * 2018-12-03 [중국: 북경 금융 기관은 ' 불법 ' 보안 토큰 상품에 대해 경고](https://github.com/theyapapa/cryptonews/blob/ko/china-beijing-financial-authority-warns-against-illegal-security-token-offerings-03770a20.md)
 * 2018-12-03 [GM 파일 블록 체인 특허는 자율 자동차의 데이터를 관리 하는](https://github.com/theyapapa/cryptonews/blob/ko/gm-files-blockchain-patent-to-manage-data-from-autonomous-cars-2bb55146.md)
