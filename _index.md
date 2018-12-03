@@ -1,3 +1,4 @@
+* 2018-12-03 [Institución financiera islámica se asocia con startup para desarrollar herramientas interbancarias bloques](https://github.com/theyapapa/cryptonews/blob/es/islamic-financial-institution-partners-with-startup-to-develop-interbank-blockchain-tools-ca48d593.md)
 * 2018-12-02 [Las mejores monedas son temblorosas, pero Bitcoin aún tiene $4.000 marcos](https://github.com/theyapapa/cryptonews/blob/es/top-coins-are-shaky-but-bitcoin-still-holds-4-000-mark-5e0f8f8b.md)
 * 2018-12-02 [Líderes nacionales del G20 piden impuestos Cryptocurrency internacionales ](https://github.com/theyapapa/cryptonews/blob/es/g20-country-leaders-call-for-international-cryptocurrency-taxation-e56cfc3f.md)
 * 2018-12-02 [Top 5 Descripción de los ejecutantes Crypto: TRON, Litecoin, XEM, bitcoin, Ethereum](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-tron-litecoin-xem-bitcoin-ethereum-7050d09c.md)
