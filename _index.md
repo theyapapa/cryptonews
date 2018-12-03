@@ -1,3 +1,4 @@
+* 2018-12-03 [Японская биржа ГМО монета набор для возОбновления Bitcoin денежной торговли на ABC цепи](https://github.com/theyapapa/cryptonews/blob/ru/japanese-exchange-gmo-coin-set-to-resume-bitcoin-cash-trading-on-abcs-chain-14865dfa.md)
 * 2018-12-03 [Венесуэла: в условиях продолжающейся инфляции рост стоимости Петро повысился на 150%](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-maduro-raises-petros-value-by-150-percent-amid-ongoing-inflation-5cd18409.md)
 * 2018-12-03 [Китай: Пекин финансовое управление предупреждает против "неЗаконных" токенов безопасности предложения](https://github.com/theyapapa/cryptonews/blob/ru/china-beijing-financial-authority-warns-against-illegal-security-token-offerings-03770a20.md)
 * 2018-12-03 [GM файлы Блокчейн патент для управления данными из автономных автомобилей](https://github.com/theyapapa/cryptonews/blob/ru/gm-files-blockchain-patent-to-manage-data-from-autonomous-cars-2bb55146.md)
