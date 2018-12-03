@@ -1,3 +1,4 @@
+* 2018-12-03 [GM 파일 블록 체인 특허는 자율 자동차의 데이터를 관리 하는](https://github.com/theyapapa/cryptonews/blob/ko/gm-files-blockchain-patent-to-manage-data-from-autonomous-cars-2bb55146.md)
 * 2018-12-03 [은행 간 블록 체인 도구를 개발 하기 시작 하 여 이슬람 금융 기관 파트너](https://github.com/theyapapa/cryptonews/blob/ko/islamic-financial-institution-partners-with-startup-to-develop-interbank-blockchain-tools-ca48d593.md)
 * 2018-12-02 [최고 동전은 흔들리는, 하지만 비트 코인은 여전히 $4000 마크를 보유](https://github.com/theyapapa/cryptonews/blob/ko/top-coins-are-shaky-but-bitcoin-still-holds-4-000-mark-5e0f8f8b.md)
 * 2018-12-02 [G20 국가 지도자 들이 국제 암호 화폐 과세를 요청 하다 ](https://github.com/theyapapa/cryptonews/blob/ko/g20-country-leaders-call-for-international-cryptocurrency-taxation-e56cfc3f.md)
