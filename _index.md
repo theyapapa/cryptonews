@@ -1,3 +1,4 @@
+* 2018-12-03 [GM файлы Блокчейн патент для управления данными из автономных автомобилей](https://github.com/theyapapa/cryptonews/blob/ru/gm-files-blockchain-patent-to-manage-data-from-autonomous-cars-2bb55146.md)
 * 2018-12-03 [Партнеры Исламского финансового учреждения с стартапом разРабатывают межБанковские Блокчейн-инструменты](https://github.com/theyapapa/cryptonews/blob/ru/islamic-financial-institution-partners-with-startup-to-develop-interbank-blockchain-tools-ca48d593.md)
 * 2018-12-02 [Лучшие монеты шаткой, но Bitcoin по-прежнему держит $4 000 Марк](https://github.com/theyapapa/cryptonews/blob/ru/top-coins-are-shaky-but-bitcoin-still-holds-4-000-mark-5e0f8f8b.md)
 * 2018-12-02 [Лидеры стран G20 призывают к международному налогообложению Криптовалют ](https://github.com/theyapapa/cryptonews/blob/ru/g20-country-leaders-call-for-international-cryptocurrency-taxation-e56cfc3f.md)
