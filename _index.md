@@ -1,3 +1,4 @@
+* 2018-12-03 [China: la autoridad financiera de Beijing advierte sobre las ofertas de tokens de seguridad "ilegales"](https://github.com/theyapapa/cryptonews/blob/es/china-beijing-financial-authority-warns-against-illegal-security-token-offerings-03770a20.md)
 * 2018-12-03 [GM archivos bloques patente para gestionar datos de coches autónomos](https://github.com/theyapapa/cryptonews/blob/es/gm-files-blockchain-patent-to-manage-data-from-autonomous-cars-2bb55146.md)
 * 2018-12-03 [Institución financiera islámica se asocia con startup para desarrollar herramientas interbancarias bloques](https://github.com/theyapapa/cryptonews/blob/es/islamic-financial-institution-partners-with-startup-to-develop-interbank-blockchain-tools-ca48d593.md)
 * 2018-12-02 [Las mejores monedas son temblorosas, pero Bitcoin aún tiene $4.000 marcos](https://github.com/theyapapa/cryptonews/blob/es/top-coins-are-shaky-but-bitcoin-still-holds-4-000-mark-5e0f8f8b.md)
