@@ -1,3 +1,4 @@
+* 2018-12-04 [셀프 서비스 키오스크 네트워크는 공공 비용으로 청구서를 지불 하 고 암호화에서 구매를 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/network-of-self-service-kiosks-will-allow-public-to-pay-bills-and-make-purchases-in-crypto-4182b3a7.md)
 * 2018-12-03 [R3 블록 체인 컨소시엄을 갖춘 미국 무역 기술 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/us-trading-technology-firm-partners-with-r3-blockchain-consortium-e8bb174a.md)
 * 2018-12-03 [미국 국토 안보 부는 블록 체인 거래 조사에 관심을 갖습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-dept-of-homeland-security-takes-interest-in-investigating-blockchain-transactions-7e16e7e4.md)
 * 2018-12-03 [G20 회원국 들은 지속 가능한 발전에 대 한 최근의 선언에서 암호 규정을 참고](https://github.com/theyapapa/cryptonews/blob/ko/g20-members-note-crypto-regulation-in-recent-declaration-on-sustainable-development-37f0ff5f.md)
