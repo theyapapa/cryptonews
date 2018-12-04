@@ -1,3 +1,4 @@
+* 2018-12-04 [Подтверждено: фьючерсы на биткоины на бирже NASDAQ будут запущены в «первом тайме» 2019](https://github.com/theyapapa/cryptonews/blob/ru/confirmed-nasdaqs-bitcoin-futures-will-launch-in-first-half-of-2019-b730f1bf.md)
 * 2018-12-04 [Как традиционные финансовые инструменты вспыхивают в мире крипто](https://github.com/theyapapa/cryptonews/blob/ru/how-traditional-financial-instruments-are-breaking-out-in-the-world-of-crypto-a92a6ce4.md)
 * 2018-12-04 [Сеть киосков самоОбслуживания позволит общественности оплачивать счета и совершать покупки в крипте](https://github.com/theyapapa/cryptonews/blob/ru/network-of-self-service-kiosks-will-allow-public-to-pay-bills-and-make-purchases-in-crypto-4182b3a7.md)
 * 2018-12-03 [США торговая технология фирмы партнеры с R3 Блокчейн консорциум](https://github.com/theyapapa/cryptonews/blob/ru/us-trading-technology-firm-partners-with-r3-blockchain-consortium-e8bb174a.md)
