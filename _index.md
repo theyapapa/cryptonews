@@ -1,3 +1,4 @@
+* 2018-12-04 [' 앞으로 몇 달 ' 내에 자신의 블록 체인 ' binance 사슬 '을 발사 하는 binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-to-launch-its-own-blockchain-binance-chain-in-coming-months-9afe6862.md)
 * 2018-12-04 [주요 라틴 아메리카 은행 재벌은 작은 대출을 위한 블록 체인 플랫폼을 만들 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/major-latin-american-bank-conglomerate-itau-to-create-blockchain-platform-for-small-loans-8f1e7f48.md)
 * 2018-12-04 [세쿼이아 자본, huobi 및 다른 사람에서 확장 가능한 ' 블록 체인 ' 네트워크 씰 $3500만](https://github.com/theyapapa/cryptonews/blob/ko/scalable-blockchain-network-seals-35-million-from-sequoia-capital-huobi-and-others-57637c20.md)
 * 2018-12-04 [암호 교환 erisx는 충실도, 나스닥 벤처 및 기타에서 $2750만를 발생 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-erisx-raises-275-million-from-fidelity-nasdaq-ventures-and-others-40fc78c3.md)
