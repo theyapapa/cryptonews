@@ -1,3 +1,4 @@
+* 2018-12-04 [La red escalable ' bloques ' sella $35 millones de Sequoia Capital, Huobi y otros](https://github.com/theyapapa/cryptonews/blob/es/scalable-blockchain-network-seals-35-million-from-sequoia-capital-huobi-and-others-57637c20.md)
 * 2018-12-04 [Crypto Exchange ErisX plantea $27,5 millones de Fidelity, NASDAQ Ventures y otros](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-erisx-raises-275-million-from-fidelity-nasdaq-ventures-and-others-40fc78c3.md)
 * 2018-12-04 [Confirmado: los futuros Bitcoin de NASDAQ se lanzarán en ' primer semestre ' de 2019](https://github.com/theyapapa/cryptonews/blob/es/confirmed-nasdaqs-bitcoin-futures-will-launch-in-first-half-of-2019-b730f1bf.md)
 * 2018-12-04 [Cómo se están rompiendo los instrumentos financieros tradicionales en el mundo de la criptografía](https://github.com/theyapapa/cryptonews/blob/es/how-traditional-financial-instruments-are-breaking-out-in-the-world-of-crypto-a92a6ce4.md)
