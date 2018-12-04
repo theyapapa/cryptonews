@@ -1,3 +1,4 @@
+* 2018-12-04 [Gran conglomerado de bancos latinoamericanos Itau para crear plataforma bloques para pequeños préstamos](https://github.com/theyapapa/cryptonews/blob/es/major-latin-american-bank-conglomerate-itau-to-create-blockchain-platform-for-small-loans-8f1e7f48.md)
 * 2018-12-04 [La red escalable ' bloques ' sella $35 millones de Sequoia Capital, Huobi y otros](https://github.com/theyapapa/cryptonews/blob/es/scalable-blockchain-network-seals-35-million-from-sequoia-capital-huobi-and-others-57637c20.md)
 * 2018-12-04 [Crypto Exchange ErisX plantea $27,5 millones de Fidelity, NASDAQ Ventures y otros](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-erisx-raises-275-million-from-fidelity-nasdaq-ventures-and-others-40fc78c3.md)
 * 2018-12-04 [Confirmado: los futuros Bitcoin de NASDAQ se lanzarán en ' primer semestre ' de 2019](https://github.com/theyapapa/cryptonews/blob/es/confirmed-nasdaqs-bitcoin-futures-will-launch-in-first-half-of-2019-b730f1bf.md)
