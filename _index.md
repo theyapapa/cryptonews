@@ -1,3 +1,4 @@
+* 2018-12-04 [전통적인 금융 상품 들이 암호화 세계에서 어떻게 파괴 되 고 있는지](https://github.com/theyapapa/cryptonews/blob/ko/how-traditional-financial-instruments-are-breaking-out-in-the-world-of-crypto-a92a6ce4.md)
 * 2018-12-04 [셀프 서비스 키오스크 네트워크는 공공 비용으로 청구서를 지불 하 고 암호화에서 구매를 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/network-of-self-service-kiosks-will-allow-public-to-pay-bills-and-make-purchases-in-crypto-4182b3a7.md)
 * 2018-12-03 [R3 블록 체인 컨소시엄을 갖춘 미국 무역 기술 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/us-trading-technology-firm-partners-with-r3-blockchain-consortium-e8bb174a.md)
 * 2018-12-03 [미국 국토 안보 부는 블록 체인 거래 조사에 관심을 갖습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-dept-of-homeland-security-takes-interest-in-investigating-blockchain-transactions-7e16e7e4.md)
