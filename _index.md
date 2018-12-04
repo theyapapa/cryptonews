@@ -1,3 +1,4 @@
+* 2018-12-03 [США торговая технология фирмы партнеры с R3 Блокчейн консорциум](https://github.com/theyapapa/cryptonews/blob/ru/us-trading-technology-firm-partners-with-r3-blockchain-consortium-e8bb174a.md)
 * 2018-12-03 [Департамент внутренней безопасности США заинтересован в исследовании Блокчейн-транзакций](https://github.com/theyapapa/cryptonews/blob/ru/us-dept-of-homeland-security-takes-interest-in-investigating-blockchain-transactions-7e16e7e4.md)
 * 2018-12-03 [Члены G20 заМечают крипто-регулирование в неДавней декларации по устойчивому развитию](https://github.com/theyapapa/cryptonews/blob/ru/g20-members-note-crypto-regulation-in-recent-declaration-on-sustainable-development-37f0ff5f.md)
 * 2018-12-03 [Bitcoin, рябь, Эфириум, Bitcoin Cash, Звездный, EOS, Litecoin, Monero, трон: анализ цен, 3 декабря](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-bitcoin-cash-stellar-eos-litecoin-cardano-monero-tron-price-analysis-dec-3-44588dc1.md)
