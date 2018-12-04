@@ -1,3 +1,4 @@
+* 2018-12-03 [R3 블록 체인 컨소시엄을 갖춘 미국 무역 기술 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/us-trading-technology-firm-partners-with-r3-blockchain-consortium-e8bb174a.md)
 * 2018-12-03 [미국 국토 안보 부는 블록 체인 거래 조사에 관심을 갖습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-dept-of-homeland-security-takes-interest-in-investigating-blockchain-transactions-7e16e7e4.md)
 * 2018-12-03 [G20 회원국 들은 지속 가능한 발전에 대 한 최근의 선언에서 암호 규정을 참고](https://github.com/theyapapa/cryptonews/blob/ko/g20-members-note-crypto-regulation-in-recent-declaration-on-sustainable-development-37f0ff5f.md)
 * 2018-12-03 [비트 코인, 리플,에 테 리 움, 비트 코인 현금, 스텔라, EOS, 라이트 코인, 카르다노, monero, 트 론: 가격 분석, 12 월 3 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-stellar-eos-litecoin-cardano-monero-tron-price-analysis-dec-3-44588dc1.md)
