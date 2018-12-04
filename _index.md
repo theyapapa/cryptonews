@@ -1,3 +1,4 @@
+* 2018-12-04 [Crypto Exchange Ерискс подНимает $27 500 000 от верности, NASDAQ предприятий и других](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-erisx-raises-275-million-from-fidelity-nasdaq-ventures-and-others-40fc78c3.md)
 * 2018-12-04 [Подтверждено: фьючерсы на биткоины на бирже NASDAQ будут запущены в «первом тайме» 2019](https://github.com/theyapapa/cryptonews/blob/ru/confirmed-nasdaqs-bitcoin-futures-will-launch-in-first-half-of-2019-b730f1bf.md)
 * 2018-12-04 [Как традиционные финансовые инструменты вспыхивают в мире крипто](https://github.com/theyapapa/cryptonews/blob/ru/how-traditional-financial-instruments-are-breaking-out-in-the-world-of-crypto-a92a6ce4.md)
 * 2018-12-04 [Сеть киосков самоОбслуживания позволит общественности оплачивать счета и совершать покупки в крипте](https://github.com/theyapapa/cryptonews/blob/ru/network-of-self-service-kiosks-will-allow-public-to-pay-bills-and-make-purchases-in-crypto-4182b3a7.md)
