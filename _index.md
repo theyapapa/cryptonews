@@ -1,3 +1,4 @@
+* 2018-12-04 [Сеть киосков самоОбслуживания позволит общественности оплачивать счета и совершать покупки в крипте](https://github.com/theyapapa/cryptonews/blob/ru/network-of-self-service-kiosks-will-allow-public-to-pay-bills-and-make-purchases-in-crypto-4182b3a7.md)
 * 2018-12-03 [США торговая технология фирмы партнеры с R3 Блокчейн консорциум](https://github.com/theyapapa/cryptonews/blob/ru/us-trading-technology-firm-partners-with-r3-blockchain-consortium-e8bb174a.md)
 * 2018-12-03 [Департамент внутренней безопасности США заинтересован в исследовании Блокчейн-транзакций](https://github.com/theyapapa/cryptonews/blob/ru/us-dept-of-homeland-security-takes-interest-in-investigating-blockchain-transactions-7e16e7e4.md)
 * 2018-12-03 [Члены G20 заМечают крипто-регулирование в неДавней декларации по устойчивому развитию](https://github.com/theyapapa/cryptonews/blob/ru/g20-members-note-crypto-regulation-in-recent-declaration-on-sustainable-development-37f0ff5f.md)
