@@ -1,3 +1,4 @@
+* 2018-12-04 [Confirmado: los futuros Bitcoin de NASDAQ se lanzarán en ' primer semestre ' de 2019](https://github.com/theyapapa/cryptonews/blob/es/confirmed-nasdaqs-bitcoin-futures-will-launch-in-first-half-of-2019-b730f1bf.md)
 * 2018-12-04 [Cómo se están rompiendo los instrumentos financieros tradicionales en el mundo de la criptografía](https://github.com/theyapapa/cryptonews/blob/es/how-traditional-financial-instruments-are-breaking-out-in-the-world-of-crypto-a92a6ce4.md)
 * 2018-12-04 [La red de kioscos de autoServicio permitirá al público pagar facturas y realizar compras en criptografía](https://github.com/theyapapa/cryptonews/blob/es/network-of-self-service-kiosks-will-allow-public-to-pay-bills-and-make-purchases-in-crypto-4182b3a7.md)
 * 2018-12-03 [Empresa estadounidense de tecnología comercial se asocia con R3 bloques Consortium](https://github.com/theyapapa/cryptonews/blob/es/us-trading-technology-firm-partners-with-r3-blockchain-consortium-e8bb174a.md)
