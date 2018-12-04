@@ -1,3 +1,4 @@
+* 2018-12-04 [암호 교환 erisx는 충실도, 나스닥 벤처 및 기타에서 $2750만를 발생 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-erisx-raises-275-million-from-fidelity-nasdaq-ventures-and-others-40fc78c3.md)
 * 2018-12-04 [확인: 나스닥의 비트 코인 선물은 2019의 ' 상반기 '에서 시작 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/confirmed-nasdaqs-bitcoin-futures-will-launch-in-first-half-of-2019-b730f1bf.md)
 * 2018-12-04 [전통적인 금융 상품 들이 암호화 세계에서 어떻게 파괴 되 고 있는지](https://github.com/theyapapa/cryptonews/blob/ko/how-traditional-financial-instruments-are-breaking-out-in-the-world-of-crypto-a92a6ce4.md)
 * 2018-12-04 [셀프 서비스 키오스크 네트워크는 공공 비용으로 청구서를 지불 하 고 암호화에서 구매를 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/network-of-self-service-kiosks-will-allow-public-to-pay-bills-and-make-purchases-in-crypto-4182b3a7.md)
