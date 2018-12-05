@@ -1,3 +1,4 @@
+* 2018-12-05 [Ripple, NEM & Two Others lanzan la Asociación ' bloques for Europe '](https://github.com/theyapapa/cryptonews/blob/es/ripple-nem-two-others-launch-blockchain-for-europe-association-170329b9.md)
 * 2018-12-05 [Roger ver las líneas laterales Bitcoin guerra en efectivo para presentar caso de Crypto Bull](https://github.com/theyapapa/cryptonews/blob/es/roger-ver-sidelines-bitcoin-cash-war-to-present-crypto-bull-case-7e098bca.md)
 * 2018-12-05 [La comunidad EOS es retada después de que node anuncie recompensas financieras por votos](https://github.com/theyapapa/cryptonews/blob/es/eos-community-is-challenged-after-node-announces-financial-rewards-for-votes-487c69ac.md)
 * 2018-12-05 [La escuela de posgrado de la fuerza aérea estadounidense emite ' bloques para la cadena de suministro ' cartilla](https://github.com/theyapapa/cryptonews/blob/es/us-air-force-grad-school-issues-blockchain-for-supply-chain-primer-4081cd87.md)
