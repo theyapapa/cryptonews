@@ -1,3 +1,4 @@
+* 2018-12-05 [Bitfinex, Ethfinex agregar cuatro Stablecoins más respaldados por USD](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-ethfinex-add-four-more-usd-backed-stablecoins-c5142e76.md)
 * 2018-12-05 [R3 añade Ripple como primer Crypto para sus pagos universales DApp](https://github.com/theyapapa/cryptonews/blob/es/r3-adds-ripple-as-first-crypto-for-its-universal-payments-dapp-9e0a8deb.md)
 * 2018-12-05 [Ripple, NEM & Two Others lanzan la Asociación ' bloques for Europe '](https://github.com/theyapapa/cryptonews/blob/es/ripple-nem-two-others-launch-blockchain-for-europe-association-170329b9.md)
 * 2018-12-05 [Roger ver las líneas laterales Bitcoin guerra en efectivo para presentar caso de Crypto Bull](https://github.com/theyapapa/cryptonews/blob/es/roger-ver-sidelines-bitcoin-cash-war-to-present-crypto-bull-case-7e098bca.md)
