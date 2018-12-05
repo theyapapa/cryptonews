@@ -1,3 +1,4 @@
+* 2018-12-05 [Bitfinex, Ethfinex добавить еще четыре ДОЛЛАРа Стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-ethfinex-add-four-more-usd-backed-stablecoins-c5142e76.md)
 * 2018-12-05 [R3 добавляет пульсации как первый крипто для своих универсальных платежей DApp](https://github.com/theyapapa/cryptonews/blob/ru/r3-adds-ripple-as-first-crypto-for-its-universal-payments-dapp-9e0a8deb.md)
 * 2018-12-05 [Пульсация, он и двое других запускают ассоциацию «Блокчейн для Европы»](https://github.com/theyapapa/cryptonews/blob/ru/ripple-nem-two-others-launch-blockchain-for-europe-association-170329b9.md)
 * 2018-12-05 [Роджер ver стороне Bitcoin Cash войны представить Crypto Bull случае](https://github.com/theyapapa/cryptonews/blob/ru/roger-ver-sidelines-bitcoin-cash-war-to-present-crypto-bull-case-7e098bca.md)
