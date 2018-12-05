@@ -1,3 +1,4 @@
+* 2018-12-05 [비트 코인, 리플,에 테 리 움, 스텔라, 비트 코인 현금, EOS, 라이트 코인, 카르다노, 트 론, monero: 가격 분석, 12 월 5 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-bitcoin-cash-eos-litecoin-cardano-tron-monero-price-analysis-dec-5-b032aae2.md)
 * 2018-12-05 [bitfinex, ethfinex 더 많은 USD를 기반으로 하는 4 개 추가](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-ethfinex-add-four-more-usd-backed-stablecoins-c5142e76.md)
 * 2018-12-05 [R3이 보편적 지불 dapp에 대 한 첫 번째 암호화로 리플을 추가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/r3-adds-ripple-as-first-crypto-for-its-universal-payments-dapp-9e0a8deb.md)
 * 2018-12-05 [리플, NEM 및 기타 두 개는 ' 유럽 용 블록 체인 ' 연결을 실행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripple-nem-two-others-launch-blockchain-for-europe-association-170329b9.md)
