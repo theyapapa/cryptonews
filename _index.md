@@ -1,3 +1,4 @@
+* 2018-12-05 [La escuela de posgrado de la fuerza aérea estadounidense emite ' bloques para la cadena de suministro ' cartilla](https://github.com/theyapapa/cryptonews/blob/es/us-air-force-grad-school-issues-blockchain-for-supply-chain-primer-4081cd87.md)
 * 2018-12-05 [Poloniex se une a la lucha por el mercado inversor institucional con cuentas dedicadas](https://github.com/theyapapa/cryptonews/blob/es/poloniex-joins-fight-for-institutional-investor-market-with-dedicated-accounts-d39b28d1.md)
 * 2018-12-04 [Hyperledger anuncia nueva ' Biblioteca de criptografía ' para el desarrollo de DLT](https://github.com/theyapapa/cryptonews/blob/es/hyperledger-announces-new-cryptography-library-for-dlt-development-74aa6114.md)
 * 2018-12-04 [Thai Crypto Exchange satang planea recaudar $10 millones en la oferta de token de seguridad](https://github.com/theyapapa/cryptonews/blob/es/thai-crypto-exchange-satang-plans-to-raise-10-million-in-security-token-offering-f2ed3dba.md)
