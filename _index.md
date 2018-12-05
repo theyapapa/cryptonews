@@ -1,3 +1,4 @@
+* 2018-12-04 [태국 암호 교환 satang 보안 토큰 제공에서 $1000만을 인상 계획](https://github.com/theyapapa/cryptonews/blob/ko/thai-crypto-exchange-satang-plans-to-raise-10-million-in-security-token-offering-f2ed3dba.md)
 * 2018-12-04 [미국 재무부 암호 화폐 업계의 플레이어에 게 불법 사용을 방지 하기 위한 공식 통화](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-official-calls-on-crypto-industry-players-to-combat-illicit-use-of-crypto-5299fe3a.md)
 * 2018-12-04 [보고: 미국 의원은 연방 암호 화폐 및 ICO 규정에 대 한 계획을 발표](https://github.com/theyapapa/cryptonews/blob/ko/report-us-congressman-announces-plans-for-federal-cryptocurrency-and-ico-regulation-804f2e0f.md)
 * 2018-12-04 [' 앞으로 몇 달 ' 내에 자신의 블록 체인 ' binance 사슬 '을 발사 하는 binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-to-launch-its-own-blockchain-binance-chain-in-coming-months-9afe6862.md)
