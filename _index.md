@@ -1,3 +1,4 @@
+* 2018-12-05 [bitfinex, ethfinex 더 많은 USD를 기반으로 하는 4 개 추가](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-ethfinex-add-four-more-usd-backed-stablecoins-c5142e76.md)
 * 2018-12-05 [R3이 보편적 지불 dapp에 대 한 첫 번째 암호화로 리플을 추가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/r3-adds-ripple-as-first-crypto-for-its-universal-payments-dapp-9e0a8deb.md)
 * 2018-12-05 [리플, NEM 및 기타 두 개는 ' 유럽 용 블록 체인 ' 연결을 실행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripple-nem-two-others-launch-blockchain-for-europe-association-170329b9.md)
 * 2018-12-05 [로저 Ver 사이드 라인 Bitcoin 현금 전쟁 선물 암호 불 상자](https://github.com/theyapapa/cryptonews/blob/ko/roger-ver-sidelines-bitcoin-cash-war-to-present-crypto-bull-case-7e098bca.md)
