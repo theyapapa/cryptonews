@@ -1,3 +1,4 @@
+* 2018-12-05 [США военно-воздушных сил града вопросы "Блокчейн для цепочки поставок" грунтовка](https://github.com/theyapapa/cryptonews/blob/ru/us-air-force-grad-school-issues-blockchain-for-supply-chain-primer-4081cd87.md)
 * 2018-12-05 [Poloniex приСоединяется к борьбе за институциональный рынок инвесторов с выделенными счетами](https://github.com/theyapapa/cryptonews/blob/ru/poloniex-joins-fight-for-institutional-investor-market-with-dedicated-accounts-d39b28d1.md)
 * 2018-12-04 [ГК объявляет новую "криптографическая библиотека" для развития ДЗО](https://github.com/theyapapa/cryptonews/blob/ru/hyperledger-announces-new-cryptography-library-for-dlt-development-74aa6114.md)
 * 2018-12-04 [Тайский крипто Exchange сатангов планирует поднять $10 000 000 в предложении токена безопасности](https://github.com/theyapapa/cryptonews/blob/ru/thai-crypto-exchange-satang-plans-to-raise-10-million-in-security-token-offering-f2ed3dba.md)
