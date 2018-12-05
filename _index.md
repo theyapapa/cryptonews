@@ -1,3 +1,4 @@
+* 2018-12-05 [poloniex 조인 전담 계정으로 기관 투자자 시장을 위한 싸움](https://github.com/theyapapa/cryptonews/blob/ko/poloniex-joins-fight-for-institutional-investor-market-with-dedicated-accounts-d39b28d1.md)
 * 2018-12-04 [하이퍼 원장 DLT 개발에 대 한 새로운 ' 암호화 라이브러리 ' 발표](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-announces-new-cryptography-library-for-dlt-development-74aa6114.md)
 * 2018-12-04 [태국 암호 교환 satang 보안 토큰 제공에서 $1000만을 인상 계획](https://github.com/theyapapa/cryptonews/blob/ko/thai-crypto-exchange-satang-plans-to-raise-10-million-in-security-token-offering-f2ed3dba.md)
 * 2018-12-04 [미국 재무부 암호 화폐 업계의 플레이어에 게 불법 사용을 방지 하기 위한 공식 통화](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-official-calls-on-crypto-industry-players-to-combat-illicit-use-of-crypto-5299fe3a.md)
