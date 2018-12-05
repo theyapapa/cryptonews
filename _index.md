@@ -1,3 +1,4 @@
+* 2018-12-05 [La comunidad EOS es retada después de que node anuncie recompensas financieras por votos](https://github.com/theyapapa/cryptonews/blob/es/eos-community-is-challenged-after-node-announces-financial-rewards-for-votes-487c69ac.md)
 * 2018-12-05 [La escuela de posgrado de la fuerza aérea estadounidense emite ' bloques para la cadena de suministro ' cartilla](https://github.com/theyapapa/cryptonews/blob/es/us-air-force-grad-school-issues-blockchain-for-supply-chain-primer-4081cd87.md)
 * 2018-12-05 [Poloniex se une a la lucha por el mercado inversor institucional con cuentas dedicadas](https://github.com/theyapapa/cryptonews/blob/es/poloniex-joins-fight-for-institutional-investor-market-with-dedicated-accounts-d39b28d1.md)
 * 2018-12-04 [Hyperledger anuncia nueva ' Biblioteca de criptografía ' para el desarrollo de DLT](https://github.com/theyapapa/cryptonews/blob/es/hyperledger-announces-new-cryptography-library-for-dlt-development-74aa6114.md)
