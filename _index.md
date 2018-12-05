@@ -1,3 +1,4 @@
+* 2018-12-05 [Роджер ver стороне Bitcoin Cash войны представить Crypto Bull случае](https://github.com/theyapapa/cryptonews/blob/ru/roger-ver-sidelines-bitcoin-cash-war-to-present-crypto-bull-case-7e098bca.md)
 * 2018-12-05 [Сообщество EOS оспаривается после узла объявляет финансовые награды за голоса](https://github.com/theyapapa/cryptonews/blob/ru/eos-community-is-challenged-after-node-announces-financial-rewards-for-votes-487c69ac.md)
 * 2018-12-05 [США военно-воздушных сил града вопросы "Блокчейн для цепочки поставок" грунтовка](https://github.com/theyapapa/cryptonews/blob/ru/us-air-force-grad-school-issues-blockchain-for-supply-chain-primer-4081cd87.md)
 * 2018-12-05 [Poloniex приСоединяется к борьбе за институциональный рынок инвесторов с выделенными счетами](https://github.com/theyapapa/cryptonews/blob/ru/poloniex-joins-fight-for-institutional-investor-market-with-dedicated-accounts-d39b28d1.md)
