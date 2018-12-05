@@ -1,3 +1,4 @@
+* 2018-12-05 [노드는 투표에 대 한 금융 보상을 발표 한 후 EOS 커뮤니티가 도전](https://github.com/theyapapa/cryptonews/blob/ko/eos-community-is-challenged-after-node-announces-financial-rewards-for-votes-487c69ac.md)
 * 2018-12-05 [미국 공군 대학원의 공급망에 대 한 ' 블록 체인 ' 프라이 머](https://github.com/theyapapa/cryptonews/blob/ko/us-air-force-grad-school-issues-blockchain-for-supply-chain-primer-4081cd87.md)
 * 2018-12-05 [poloniex 조인 전담 계정으로 기관 투자자 시장을 위한 싸움](https://github.com/theyapapa/cryptonews/blob/ko/poloniex-joins-fight-for-institutional-investor-market-with-dedicated-accounts-d39b28d1.md)
 * 2018-12-04 [하이퍼 원장 DLT 개발에 대 한 새로운 ' 암호화 라이브러리 ' 발표](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-announces-new-cryptography-library-for-dlt-development-74aa6114.md)
