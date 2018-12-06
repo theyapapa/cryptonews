@@ -1,3 +1,4 @@
+* 2018-12-05 [US Crypto Exchange Coinbase añade soporte para Zcash en plataformas minoristas y aplicaciones móviles](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-exchange-coinbase-adds-support-for-zcash-on-retail-platform-and-mobile-apps-8923c994.md)
 * 2018-12-05 [Bitcoin, Ripple, Ethereum, estelar, Bitcoin Cash, EOS, Litecoin, carDano, TRON, Monero: Price Analysis, Dec. 5](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ripple-ethereum-stellar-bitcoin-cash-eos-litecoin-cardano-tron-monero-price-analysis-dec-5-b032aae2.md)
 * 2018-12-05 [Bitfinex, Ethfinex agregar cuatro Stablecoins más respaldados por USD](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-ethfinex-add-four-more-usd-backed-stablecoins-c5142e76.md)
 * 2018-12-05 [R3 añade Ripple como primer Crypto para sus pagos universales DApp](https://github.com/theyapapa/cryptonews/blob/es/r3-adds-ripple-as-first-crypto-for-its-universal-payments-dapp-9e0a8deb.md)
