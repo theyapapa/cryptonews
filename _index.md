@@ -1,3 +1,4 @@
+* 2018-12-05 [Coinbase США Crypto Exchange добавляет поддержку Zcash на розничной платформе и мобильных приложениях](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-exchange-coinbase-adds-support-for-zcash-on-retail-platform-and-mobile-apps-8923c994.md)
 * 2018-12-05 [Bitcoin, рябь, Эфириум, Звёздный, Bitcoin Cash, EOS, Litecoin, Monero, трон, «анализ цен», 5 декабря](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-stellar-bitcoin-cash-eos-litecoin-cardano-tron-monero-price-analysis-dec-5-b032aae2.md)
 * 2018-12-05 [Bitfinex, Ethfinex добавить еще четыре ДОЛЛАРа Стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-ethfinex-add-four-more-usd-backed-stablecoins-c5142e76.md)
 * 2018-12-05 [R3 добавляет пульсации как первый крипто для своих универсальных платежей DApp](https://github.com/theyapapa/cryptonews/blob/ru/r3-adds-ripple-as-first-crypto-for-its-universal-payments-dapp-9e0a8deb.md)
