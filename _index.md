@@ -1,3 +1,4 @@
+* 2018-12-06 [국제 암호화 표준: 그들은 지역 사회 또는 정부에서 올 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/international-crypto-standards-will-they-come-from-the-community-or-governments-0d07c692.md)
 * 2018-12-05 [독일의 큰 비즈니스의 1/3 이상이 인터넷으로 서 블록 체인 기술을 발견 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/over-one-third-of-german-big-business-finds-blockchain-tech-as-impactful-as-internet-13995ef2.md)
 * 2018-12-05 [연구: 월간 거래 물량의 $7에 대 한 펌프 및 덤프 계획 계정](https://github.com/theyapapa/cryptonews/blob/ko/study-pump-and-dump-schemes-account-for-7-million-of-monthly-trade-volume-1de82d1c.md)
 * 2018-12-05 [미국 암호 거래소 코인 베이스는 리테일 플랫폼과 모바일 앱에서 Zcash에 대 한 지원을 추가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-exchange-coinbase-adds-support-for-zcash-on-retail-platform-and-mobile-apps-8923c994.md)
