@@ -1,3 +1,4 @@
+* 2018-12-05 [Исследование: схемы насосов и дампов составляют $7 млн ежемесячных объемов торговли](https://github.com/theyapapa/cryptonews/blob/ru/study-pump-and-dump-schemes-account-for-7-million-of-monthly-trade-volume-1de82d1c.md)
 * 2018-12-05 [Coinbase США Crypto Exchange добавляет поддержку Zcash на розничной платформе и мобильных приложениях](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-exchange-coinbase-adds-support-for-zcash-on-retail-platform-and-mobile-apps-8923c994.md)
 * 2018-12-05 [Bitcoin, рябь, Эфириум, Звёздный, Bitcoin Cash, EOS, Litecoin, Monero, трон, «анализ цен», 5 декабря](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-stellar-bitcoin-cash-eos-litecoin-cardano-tron-monero-price-analysis-dec-5-b032aae2.md)
 * 2018-12-05 [Bitfinex, Ethfinex добавить еще четыре ДОЛЛАРа Стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-ethfinex-add-four-more-usd-backed-stablecoins-c5142e76.md)
