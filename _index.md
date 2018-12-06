@@ -1,3 +1,4 @@
+* 2018-12-06 [Внутри чилийского Битва власти: крипто бирж vs. государственные банки](https://github.com/theyapapa/cryptonews/blob/ru/inside-chilean-power-battle-crypto-exchanges-vs-state-banks-0af12c1c.md)
 * 2018-12-06 [Основные Crypto Exchange Binance запускает "суб-счетов" для институциональных клиентов](https://github.com/theyapapa/cryptonews/blob/ru/major-crypto-exchange-binance-launches-sub-accounts-for-institutional-clients-6d2f4e13.md)
 * 2018-12-06 [Crypto Fund пари $1 млн это будет преВзойти С&П 500 в ' Баффет ставку 2,0 '](https://github.com/theyapapa/cryptonews/blob/ru/crypto-fund-wagers-1-mln-it-will-outperform-sp-500-in-buffett-bet-20-972ada6b.md)
 * 2018-12-06 [Крипто компания предлагая виртуальные банкоматы хиты новых ежедневных максимумов-и стремится взять на площади](https://github.com/theyapapa/cryptonews/blob/ru/crypto-company-offering-virtual-atms-hits-new-daily-highs-and-aims-to-take-on-square-ade330f7.md)
