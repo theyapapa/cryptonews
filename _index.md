@@ -1,3 +1,4 @@
+* 2018-12-06 [암호 펀드 베팅 $1 mln은 ' buffett Bet 2.0 ' S&P 500를 능가 할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-fund-wagers-1-mln-it-will-outperform-sp-500-in-buffett-bet-20-972ada6b.md)
 * 2018-12-06 [가상 현금 인출기를 제공 하는 암호화 회사는 새로운 일일 최고 히트-광장에 걸릴 것을 목표로](https://github.com/theyapapa/cryptonews/blob/ko/crypto-company-offering-virtual-atms-hits-new-daily-highs-and-aims-to-take-on-square-ade330f7.md)
 * 2018-12-06 [' 희망 동전 ': 말레이시아의 암호 정치적 기금 모금 플랫폼의 이야기](https://github.com/theyapapa/cryptonews/blob/ko/hope-coin-the-story-of-malaysias-crypto-political-fundraising-platform-432dfa5a.md)
 * 2018-12-06 [sbi 홀딩스, R3은 아시아에서 corda 블록 체인 사용을 촉진 하기 위해 ' 합작 투자 '에 착수 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sbi-holdings-r3-embark-on-joint-venture-to-boost-corda-blockchain-use-in-asia-3a233c65.md)
