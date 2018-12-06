@@ -1,3 +1,4 @@
+* 2018-12-06 [Crypto Fund пари $1 млн это будет преВзойти С&П 500 в ' Баффет ставку 2,0 '](https://github.com/theyapapa/cryptonews/blob/ru/crypto-fund-wagers-1-mln-it-will-outperform-sp-500-in-buffett-bet-20-972ada6b.md)
 * 2018-12-06 [Крипто компания предлагая виртуальные банкоматы хиты новых ежедневных максимумов-и стремится взять на площади](https://github.com/theyapapa/cryptonews/blob/ru/crypto-company-offering-virtual-atms-hits-new-daily-highs-and-aims-to-take-on-square-ade330f7.md)
 * 2018-12-06 ["Надежда монета": История Малайзии крипто политической платформы по сбору средств](https://github.com/theyapapa/cryptonews/blob/ru/hope-coin-the-story-of-malaysias-crypto-political-fundraising-platform-432dfa5a.md)
 * 2018-12-06 [ВОО Holdings, R3 встать на "совместное предприятие", чтобы повысить корда Блокчейн использования в Азии](https://github.com/theyapapa/cryptonews/blob/ru/sbi-holdings-r3-embark-on-joint-venture-to-boost-corda-blockchain-use-in-asia-3a233c65.md)
