@@ -1,3 +1,4 @@
+* 2018-12-06 [' 희망 동전 ': 말레이시아의 암호 정치적 기금 모금 플랫폼의 이야기](https://github.com/theyapapa/cryptonews/blob/ko/hope-coin-the-story-of-malaysias-crypto-political-fundraising-platform-432dfa5a.md)
 * 2018-12-06 [sbi 홀딩스, R3은 아시아에서 corda 블록 체인 사용을 촉진 하기 위해 ' 합작 투자 '에 착수 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sbi-holdings-r3-embark-on-joint-venture-to-boost-corda-blockchain-use-in-asia-3a233c65.md)
 * 2018-12-06 [국제 암호화 표준: 그들은 지역 사회 또는 정부에서 올 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/international-crypto-standards-will-they-come-from-the-community-or-governments-0d07c692.md)
 * 2018-12-05 [독일의 큰 비즈니스의 1/3 이상이 인터넷으로 서 블록 체인 기술을 발견 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/over-one-third-of-german-big-business-finds-blockchain-tech-as-impactful-as-internet-13995ef2.md)
