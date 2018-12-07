@@ -1,3 +1,4 @@
+* 2018-12-07 [비트 코인, 리플,에 테 리 움, 스텔라, 비트 코인 현금, 비트 코인 SV, EOS, 라이트 코인, 트 론, 카르다노: 가격 분석, 12 월 7 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-bitcoin-cash-bitcoin-sv-eos-litecoin-tron-cardano-price-analysis-dec-7-27289524.md)
 * 2018-12-07 [주요 암호 화폐 거래소 coinbase '는 XRP, 카르다노, EOS, 다른 사람들의 리스팅을 탐구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-exchange-coinbase-explores-listing-xrp-cardano-eos-others-a341a122.md)
 * 2018-12-07 [트 론 CEO는 그가 자신의 플랫폼의 ' 붕괴 ' 주장에서 ETH와 EOS 개발자를 구출 할 것 이라고 말한다](https://github.com/theyapapa/cryptonews/blob/ko/tron-ceo-says-he-will-rescue-eth-and-eos-developers-from-alleged-collapse-of-their-platforms-163e33ba.md)
 * 2018-12-07 [시장 신체 상해: 비트 코인 싱크는 $3.4 k 이하로,이 더 리 움을 두 자릿수](https://github.com/theyapapa/cryptonews/blob/ko/market-mayhem-bitcoin-sinks-below-34k-ethereum-plummets-to-double-digits-3639a97a.md)
