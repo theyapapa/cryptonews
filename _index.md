@@ -1,3 +1,4 @@
+* 2018-12-06 [Bitmain, Роджер ver, чудище иск за якобы Bitcoin наличными жесткий вилка манипуляции](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-roger-ver-kraken-sued-for-alleged-bitcoin-cash-hard-fork-manipulation-7aa6873c.md)
 * 2018-12-06 [ГК, Неуфунд партнер для создания платформы маркеров безопасности](https://github.com/theyapapa/cryptonews/blob/ru/ledger-neufund-partner-to-create-security-tokens-framework-7ae9cf95.md)
 * 2018-12-06 [Внутри чилийского Битва власти: крипто бирж vs. государственные банки](https://github.com/theyapapa/cryptonews/blob/ru/inside-chilean-power-battle-crypto-exchanges-vs-state-banks-0af12c1c.md)
 * 2018-12-06 [Основные Crypto Exchange Binance запускает "суб-счетов" для институциональных клиентов](https://github.com/theyapapa/cryptonews/blob/ru/major-crypto-exchange-binance-launches-sub-accounts-for-institutional-clients-6d2f4e13.md)
