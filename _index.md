@@ -1,3 +1,4 @@
+* 2018-12-07 [트 론 CEO는 그가 자신의 플랫폼의 ' 붕괴 ' 주장에서 ETH와 EOS 개발자를 구출 할 것 이라고 말한다](https://github.com/theyapapa/cryptonews/blob/ko/tron-ceo-says-he-will-rescue-eth-and-eos-developers-from-alleged-collapse-of-their-platforms-163e33ba.md)
 * 2018-12-07 [시장 신체 상해: 비트 코인 싱크는 $3.4 k 이하로,이 더 리 움을 두 자릿수](https://github.com/theyapapa/cryptonews/blob/ko/market-mayhem-bitcoin-sinks-below-34k-ethereum-plummets-to-double-digits-3639a97a.md)
 * 2018-12-07 [' 비트 코인 ETF를 기다리는 중입니다 ' 라고 ' 초 ' 암호 엄마 '](https://github.com/theyapapa/cryptonews/blob/ko/dont-hold-your-breath-waiting-for-bitcoin-etf-says-sec-crypto-mom-7206bdef.md)
 * 2018-12-06 [bitmain, 로저 Ver, 크 라 켄은 비트 코인 현금 하드 포크 조작 혐의에 대 한 고소](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-roger-ver-kraken-sued-for-alleged-bitcoin-cash-hard-fork-manipulation-7aa6873c.md)
