@@ -1,3 +1,4 @@
+* 2018-12-07 [Основные Crypto Exchange Coinbase ' исследует ' листинге,](https://github.com/theyapapa/cryptonews/blob/ru/major-crypto-exchange-coinbase-explores-listing-xrp-cardano-eos-others-a341a122.md)
 * 2018-12-07 [ТРОН Генеральный директор говорит, что он будет "спасения" ETH и EOS разработчики из предполагаемого "крах" их платформ](https://github.com/theyapapa/cryptonews/blob/ru/tron-ceo-says-he-will-rescue-eth-and-eos-developers-from-alleged-collapse-of-their-platforms-163e33ba.md)
 * 2018-12-07 [Рынок хаос: Bitcoin раковины ниже $3.4 K, Эфириум падает до двойных цифр](https://github.com/theyapapa/cryptonews/blob/ru/market-mayhem-bitcoin-sinks-below-34k-ethereum-plummets-to-double-digits-3639a97a.md)
 * 2018-12-07 ["Не держите дыхание", ожидая Bitcoin ETF говорит SEC ' крипто мама '](https://github.com/theyapapa/cryptonews/blob/ru/dont-hold-your-breath-waiting-for-bitcoin-etf-says-sec-crypto-mom-7206bdef.md)
