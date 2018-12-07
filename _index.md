@@ -1,3 +1,4 @@
+* 2018-12-07 [주요 암호 화폐 거래소 coinbase '는 XRP, 카르다노, EOS, 다른 사람들의 리스팅을 탐구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-exchange-coinbase-explores-listing-xrp-cardano-eos-others-a341a122.md)
 * 2018-12-07 [트 론 CEO는 그가 자신의 플랫폼의 ' 붕괴 ' 주장에서 ETH와 EOS 개발자를 구출 할 것 이라고 말한다](https://github.com/theyapapa/cryptonews/blob/ko/tron-ceo-says-he-will-rescue-eth-and-eos-developers-from-alleged-collapse-of-their-platforms-163e33ba.md)
 * 2018-12-07 [시장 신체 상해: 비트 코인 싱크는 $3.4 k 이하로,이 더 리 움을 두 자릿수](https://github.com/theyapapa/cryptonews/blob/ko/market-mayhem-bitcoin-sinks-below-34k-ethereum-plummets-to-double-digits-3639a97a.md)
 * 2018-12-07 [' 비트 코인 ETF를 기다리는 중입니다 ' 라고 ' 초 ' 암호 엄마 '](https://github.com/theyapapa/cryptonews/blob/ko/dont-hold-your-breath-waiting-for-bitcoin-etf-says-sec-crypto-mom-7206bdef.md)
