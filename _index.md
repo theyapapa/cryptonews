@@ -1,3 +1,4 @@
+* 2018-12-07 [' No conTengas la respiración, ' esperando por Bitcoin ETF dice SEC ' Crypto Mom '](https://github.com/theyapapa/cryptonews/blob/es/dont-hold-your-breath-waiting-for-bitcoin-etf-says-sec-crypto-mom-7206bdef.md)
 * 2018-12-06 [Bitmain, Roger ver, Kraken demandado por presuntos Bitcoin efectivo manipulación tenedor duro](https://github.com/theyapapa/cryptonews/blob/es/bitmain-roger-ver-kraken-sued-for-alleged-bitcoin-cash-hard-fork-manipulation-7aa6873c.md)
 * 2018-12-06 [Ledger, Neufund Partner para crear marcos de tokens de seguridad](https://github.com/theyapapa/cryptonews/blob/es/ledger-neufund-partner-to-create-security-tokens-framework-7ae9cf95.md)
 * 2018-12-06 [Dentro de la batalla chilena del poder: interCambios criptográficos contra bancos estatales](https://github.com/theyapapa/cryptonews/blob/es/inside-chilean-power-battle-crypto-exchanges-vs-state-banks-0af12c1c.md)
