@@ -1,3 +1,4 @@
+* 2018-12-07 [Рынок хаос: Bitcoin раковины ниже $3.4 K, Эфириум падает до двойных цифр](https://github.com/theyapapa/cryptonews/blob/ru/market-mayhem-bitcoin-sinks-below-34k-ethereum-plummets-to-double-digits-3639a97a.md)
 * 2018-12-07 ["Не держите дыхание", ожидая Bitcoin ETF говорит SEC ' крипто мама '](https://github.com/theyapapa/cryptonews/blob/ru/dont-hold-your-breath-waiting-for-bitcoin-etf-says-sec-crypto-mom-7206bdef.md)
 * 2018-12-06 [Bitmain, Роджер ver, чудище иск за якобы Bitcoin наличными жесткий вилка манипуляции](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-roger-ver-kraken-sued-for-alleged-bitcoin-cash-hard-fork-manipulation-7aa6873c.md)
 * 2018-12-06 [ГК, Неуфунд партнер для создания платформы маркеров безопасности](https://github.com/theyapapa/cryptonews/blob/ru/ledger-neufund-partner-to-create-security-tokens-framework-7ae9cf95.md)
