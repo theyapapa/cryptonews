@@ -1,3 +1,4 @@
+* 2018-12-06 [Ledger, Neufund Partner para crear marcos de tokens de seguridad](https://github.com/theyapapa/cryptonews/blob/es/ledger-neufund-partner-to-create-security-tokens-framework-7ae9cf95.md)
 * 2018-12-06 [Dentro de la batalla chilena del poder: interCambios criptográficos contra bancos estatales](https://github.com/theyapapa/cryptonews/blob/es/inside-chilean-power-battle-crypto-exchanges-vs-state-banks-0af12c1c.md)
 * 2018-12-06 [El mayor Crypto Exchange binance lanza "sub-cuentas" para clientes institucionales](https://github.com/theyapapa/cryptonews/blob/es/major-crypto-exchange-binance-launches-sub-accounts-for-institutional-clients-6d2f4e13.md)
 * 2018-12-06 [Las apuestas $1 millones de fondos Crypto superarán a S&P 500 en ' Buffett Bet 2,0 '](https://github.com/theyapapa/cryptonews/blob/es/crypto-fund-wagers-1-mln-it-will-outperform-sp-500-in-buffett-bet-20-972ada6b.md)
