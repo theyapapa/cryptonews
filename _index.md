@@ -1,3 +1,4 @@
+* 2018-12-07 [' 비트 코인 ETF를 기다리는 중입니다 ' 라고 ' 초 ' 암호 엄마 '](https://github.com/theyapapa/cryptonews/blob/ko/dont-hold-your-breath-waiting-for-bitcoin-etf-says-sec-crypto-mom-7206bdef.md)
 * 2018-12-06 [bitmain, 로저 Ver, 크 라 켄은 비트 코인 현금 하드 포크 조작 혐의에 대 한 고소](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-roger-ver-kraken-sued-for-alleged-bitcoin-cash-hard-fork-manipulation-7aa6873c.md)
 * 2018-12-06 [원장, neufund 파트너, 보안 토큰 프레임 워크 생성](https://github.com/theyapapa/cryptonews/blob/ko/ledger-neufund-partner-to-create-security-tokens-framework-7ae9cf95.md)
 * 2018-12-06 [내부 칠레 파워 배틀: 암호화 거래소 vs. 주 은행](https://github.com/theyapapa/cryptonews/blob/ko/inside-chilean-power-battle-crypto-exchanges-vs-state-banks-0af12c1c.md)
