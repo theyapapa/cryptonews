@@ -1,3 +1,4 @@
+* 2018-12-07 [Major Crypto Exchange Coinbase ' explora ' listado XRP, carDano, EOS, otros](https://github.com/theyapapa/cryptonews/blob/es/major-crypto-exchange-coinbase-explores-listing-xrp-cardano-eos-others-a341a122.md)
 * 2018-12-07 [El CEO de TRON dice que ' rescatará ' a los desarrolladores de ETH y EOS del presunto ' coLapso ' de sus plataformas](https://github.com/theyapapa/cryptonews/blob/es/tron-ceo-says-he-will-rescue-eth-and-eos-developers-from-alleged-collapse-of-their-platforms-163e33ba.md)
 * 2018-12-07 [Caos de mercado: Bitcoin se hunde por debajo de $3,4 K, Ethereum se desploma a dígitos dobles](https://github.com/theyapapa/cryptonews/blob/es/market-mayhem-bitcoin-sinks-below-34k-ethereum-plummets-to-double-digits-3639a97a.md)
 * 2018-12-07 [' No conTengas la respiración, ' esperando por Bitcoin ETF dice SEC ' Crypto Mom '](https://github.com/theyapapa/cryptonews/blob/es/dont-hold-your-breath-waiting-for-bitcoin-etf-says-sec-crypto-mom-7206bdef.md)
