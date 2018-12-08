@@ -1,3 +1,4 @@
+* 2018-12-07 [제미니은 ABC 네트워크의 비트 코인 현금 거래 및 양육 권에 대 한 지원 추가](https://github.com/theyapapa/cryptonews/blob/ko/gemini-adds-support-for-bitcoin-cash-trading-and-custody-on-the-abc-network-05bf2781.md)
 * 2018-12-07 [보고서: 다음 암호화 시장 침체를 판매 하는 중국 광부 들이 많을 수록](https://github.com/theyapapa/cryptonews/blob/ko/report-more-chinese-miners-selling-short-following-crypto-market-slump-2290a5b9.md)
 * 2018-12-07 [이 더 리 움은 개발의 새로운 협정을 기반으로 1 월 중순에 콘스탄티노플 하드 포크](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-constantinople-hard-fork-to-come-in-mid-january-based-on-devs-new-agreement-cddfc5c3.md)
 * 2018-12-07 [비트 코인, 리플,에 테 리 움, 스텔라, 비트 코인 현금, 비트 코인 SV, EOS, 라이트 코인, 트 론, 카르다노: 가격 분석, 12 월 7 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-bitcoin-cash-bitcoin-sv-eos-litecoin-tron-cardano-price-analysis-dec-7-27289524.md)
