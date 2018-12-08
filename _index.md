@@ -1,3 +1,4 @@
+* 2018-12-08 [El Tribunal de Internet chino utiliza bloques para proteger la propiedad intelectual del escritor en línea](https://github.com/theyapapa/cryptonews/blob/es/chinese-internet-court-uses-blockchain-to-protect-online-writers-intellectual-property-8e91629c.md)
 * 2018-12-07 [El desarrollo de políticas bloques en China se conCentró en tres ciudades](https://github.com/theyapapa/cryptonews/blob/es/blockchain-policy-development-in-china-concentrated-in-three-cities-97d2d225.md)
 * 2018-12-07 [Gemini añade soporte para el comercio de efectivo y custodia de Bitcoin en la red ABC](https://github.com/theyapapa/cryptonews/blob/es/gemini-adds-support-for-bitcoin-cash-trading-and-custody-on-the-abc-network-05bf2781.md)
 * 2018-12-07 [Informe: más mineros chinos vendiendo corto después de la caída del mercado Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-more-chinese-miners-selling-short-following-crypto-market-slump-2290a5b9.md)
