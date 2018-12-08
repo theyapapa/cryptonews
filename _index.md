@@ -1,3 +1,4 @@
+* 2018-12-08 [Китайский Интернет-суд использует Блокчейн для защиты интеллектуальной собственности Интернет-писателя](https://github.com/theyapapa/cryptonews/blob/ru/chinese-internet-court-uses-blockchain-to-protect-online-writers-intellectual-property-8e91629c.md)
 * 2018-12-07 [Развитие Блокчейн-политики в Китае сконцентрировано в трех городах](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-policy-development-in-china-concentrated-in-three-cities-97d2d225.md)
 * 2018-12-07 [Близнецы добавляет поддержку Bitcoin денежной торговли и хранение на ABC сети](https://github.com/theyapapa/cryptonews/blob/ru/gemini-adds-support-for-bitcoin-cash-trading-and-custody-on-the-abc-network-05bf2781.md)
 * 2018-12-07 [Доклад: больше китайских шахтеров продажи коротких после спада крипто рынка](https://github.com/theyapapa/cryptonews/blob/ru/report-more-chinese-miners-selling-short-following-crypto-market-slump-2290a5b9.md)
