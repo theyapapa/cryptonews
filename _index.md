@@ -1,3 +1,4 @@
+* 2018-12-08 [비트 코인 현금 SV ' 0-Conf ' 거래에서 더블 지출 가능성을 보여 주는 비디오](https://github.com/theyapapa/cryptonews/blob/ko/video-demonstrates-double-spending-possibility-in-bitcoin-cash-sv-0-conf-transactions-411247c4.md)
 * 2018-12-08 [중국의 인터넷 법원은 블록 체인을 사용 하 여 온라인 작가의 지적 재산권을 보호 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/chinese-internet-court-uses-blockchain-to-protect-online-writers-intellectual-property-8e91629c.md)
 * 2018-12-07 [3 개 도시에 집중 된 중국의 블록 체인 정책 개발](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-policy-development-in-china-concentrated-in-three-cities-97d2d225.md)
 * 2018-12-07 [제미니은 ABC 네트워크의 비트 코인 현금 거래 및 양육 권에 대 한 지원 추가](https://github.com/theyapapa/cryptonews/blob/ko/gemini-adds-support-for-bitcoin-cash-trading-and-custody-on-the-abc-network-05bf2781.md)
