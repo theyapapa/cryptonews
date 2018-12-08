@@ -1,3 +1,4 @@
+* 2018-12-07 [3 개 도시에 집중 된 중국의 블록 체인 정책 개발](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-policy-development-in-china-concentrated-in-three-cities-97d2d225.md)
 * 2018-12-07 [제미니은 ABC 네트워크의 비트 코인 현금 거래 및 양육 권에 대 한 지원 추가](https://github.com/theyapapa/cryptonews/blob/ko/gemini-adds-support-for-bitcoin-cash-trading-and-custody-on-the-abc-network-05bf2781.md)
 * 2018-12-07 [보고서: 다음 암호화 시장 침체를 판매 하는 중국 광부 들이 많을 수록](https://github.com/theyapapa/cryptonews/blob/ko/report-more-chinese-miners-selling-short-following-crypto-market-slump-2290a5b9.md)
 * 2018-12-07 [이 더 리 움은 개발의 새로운 협정을 기반으로 1 월 중순에 콘스탄티노플 하드 포크](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-constantinople-hard-fork-to-come-in-mid-january-based-on-devs-new-agreement-cddfc5c3.md)
