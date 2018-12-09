@@ -1,3 +1,4 @@
+* 2018-12-09 [12 월 첫째 주 끝에는 녹색으로, 비트 코인은 $3700에 근접 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/first-week-of-december-ends-with-flush-of-green-bitcoin-nears-3-700-13513f08.md)
 * 2018-12-09 [블록 체인 공급망 시스템을 위한 아부다비 국립 오일 회사와의 제휴 관계](https://github.com/theyapapa/cryptonews/blob/ko/ibm-partners-with-abu-dhabi-national-oil-company-for-blockchain-supply-chain-system-e30d265b.md)
 * 2018-12-09 [대한민국 시작 프레스 토 지역 ICO 금지에 대 한 헌법의 매력을 파일](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-startup-presto-to-file-constitutional-appeal-against-local-ico-ban-4e5231fe.md)
 * 2018-12-09 [상위 5 개 암호 수행자 개요: bsv, xem, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
