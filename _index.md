@@ -1,3 +1,4 @@
+* 2018-12-09 [상위 5 개 암호 수행자 개요: bsv, xem, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
 * 2018-12-08 [기관 투자 확보를 위한 최신 전장으로 서의 창구 판매](https://github.com/theyapapa/cryptonews/blob/ko/over-the-counter-trading-as-the-latest-battleground-to-secure-institutional-investment-28ad973d.md)
 * 2018-12-08 [주요 영국 자선 기금 집행은 가상 화폐 시장 충돌이 ' 단지도로에서의 충돌 ' 이라고 믿습니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-uk-charity-fund-executive-believes-crypto-market-crash-is-just-a-bump-in-the-road-b8b27d1e.md)
 * 2018-12-08 [비트 코인 현금 SV ' 0-Conf ' 거래에서 더블 지출 가능성을 보여 주는 비디오](https://github.com/theyapapa/cryptonews/blob/ko/video-demonstrates-double-spending-possibility-in-bitcoin-cash-sv-0-conf-transactions-411247c4.md)
