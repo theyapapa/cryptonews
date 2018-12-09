@@ -1,3 +1,4 @@
+* 2018-12-09 [Партнеры IBM с национальной нефтяной компанией Абу-Даби для системы цепочек поставок Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/ibm-partners-with-abu-dhabi-national-oil-company-for-blockchain-supply-chain-system-e30d265b.md)
 * 2018-12-09 [Южный корейский стартап вуаля, чтобы поДать конституционную апелляцию против локального запрета ICO](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-startup-presto-to-file-constitutional-appeal-against-local-ico-ban-4e5231fe.md)
 * 2018-12-09 [Топ 5 крипто исполнители Обзор: BSV, XEM, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
 * 2018-12-08 [Внебиржевой трейдинг как Последнее поле боя для обеспечения институциональных инвестиций](https://github.com/theyapapa/cryptonews/blob/ru/over-the-counter-trading-as-the-latest-battleground-to-secure-institutional-investment-28ad973d.md)
