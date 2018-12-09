@@ -1,3 +1,4 @@
+* 2018-12-09 [Первая неделя декабря заканчивается флеш зеленого, Bitcoin приближается $3 700](https://github.com/theyapapa/cryptonews/blob/ru/first-week-of-december-ends-with-flush-of-green-bitcoin-nears-3-700-13513f08.md)
 * 2018-12-09 [Партнеры IBM с национальной нефтяной компанией Абу-Даби для системы цепочек поставок Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/ibm-partners-with-abu-dhabi-national-oil-company-for-blockchain-supply-chain-system-e30d265b.md)
 * 2018-12-09 [Южный корейский стартап вуаля, чтобы поДать конституционную апелляцию против локального запрета ICO](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-startup-presto-to-file-constitutional-appeal-against-local-ico-ban-4e5231fe.md)
 * 2018-12-09 [Топ 5 крипто исполнители Обзор: BSV, XEM, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
