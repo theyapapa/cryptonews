@@ -1,3 +1,4 @@
+* 2018-12-09 [Топ 5 крипто исполнители Обзор: BSV, XEM, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
 * 2018-12-08 [Внебиржевой трейдинг как Последнее поле боя для обеспечения институциональных инвестиций](https://github.com/theyapapa/cryptonews/blob/ru/over-the-counter-trading-as-the-latest-battleground-to-secure-institutional-investment-28ad973d.md)
 * 2018-12-08 [Главный благотворительный фонд Великобритании Исполнительный считает, что Crypto Market Crash является "просто Bump в дороге"](https://github.com/theyapapa/cryptonews/blob/ru/major-uk-charity-fund-executive-believes-crypto-market-crash-is-just-a-bump-in-the-road-b8b27d1e.md)
 * 2018-12-08 [Видео демонстрирует двойные расходы возможность в Bitcoin Cash SV ' 0-conf ' транзакции](https://github.com/theyapapa/cryptonews/blob/ru/video-demonstrates-double-spending-possibility-in-bitcoin-cash-sv-0-conf-transactions-411247c4.md)
