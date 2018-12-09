@@ -1,3 +1,4 @@
+* 2018-12-09 [대한민국 시작 프레스 토 지역 ICO 금지에 대 한 헌법의 매력을 파일](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-startup-presto-to-file-constitutional-appeal-against-local-ico-ban-4e5231fe.md)
 * 2018-12-09 [상위 5 개 암호 수행자 개요: bsv, xem, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
 * 2018-12-08 [기관 투자 확보를 위한 최신 전장으로 서의 창구 판매](https://github.com/theyapapa/cryptonews/blob/ko/over-the-counter-trading-as-the-latest-battleground-to-secure-institutional-investment-28ad973d.md)
 * 2018-12-08 [주요 영국 자선 기금 집행은 가상 화폐 시장 충돌이 ' 단지도로에서의 충돌 ' 이라고 믿습니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-uk-charity-fund-executive-believes-crypto-market-crash-is-just-a-bump-in-the-road-b8b27d1e.md)
