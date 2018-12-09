@@ -1,3 +1,4 @@
+* 2018-12-09 [호 들러의 다이제스트, 12 월 3 일-12 월 9 일: 미국 SEC btc ETF 결정을 다시 지연 시키면서, 나스닥이 2019 btc 선물 런칭을 확인 하면서](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-dec-3-dec9-us-sec-delays-btc-etf-decision-again-while-nasdaq-confirms-2019-btc-futures-launch-ffdbad4b.md)
 * 2018-12-09 [12 월 첫째 주 끝에는 녹색으로, 비트 코인은 $3700에 근접 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/first-week-of-december-ends-with-flush-of-green-bitcoin-nears-3-700-13513f08.md)
 * 2018-12-09 [블록 체인 공급망 시스템을 위한 아부다비 국립 오일 회사와의 제휴 관계](https://github.com/theyapapa/cryptonews/blob/ko/ibm-partners-with-abu-dhabi-national-oil-company-for-blockchain-supply-chain-system-e30d265b.md)
 * 2018-12-09 [대한민국 시작 프레스 토 지역 ICO 금지에 대 한 헌법의 매력을 파일](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-startup-presto-to-file-constitutional-appeal-against-local-ico-ban-4e5231fe.md)
