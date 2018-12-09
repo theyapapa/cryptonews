@@ -1,3 +1,4 @@
+* 2018-12-09 [블록 체인 공급망 시스템을 위한 아부다비 국립 오일 회사와의 제휴 관계](https://github.com/theyapapa/cryptonews/blob/ko/ibm-partners-with-abu-dhabi-national-oil-company-for-blockchain-supply-chain-system-e30d265b.md)
 * 2018-12-09 [대한민국 시작 프레스 토 지역 ICO 금지에 대 한 헌법의 매력을 파일](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-startup-presto-to-file-constitutional-appeal-against-local-ico-ban-4e5231fe.md)
 * 2018-12-09 [상위 5 개 암호 수행자 개요: bsv, xem, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
 * 2018-12-08 [기관 투자 확보를 위한 최신 전장으로 서의 창구 판매](https://github.com/theyapapa/cryptonews/blob/ko/over-the-counter-trading-as-the-latest-battleground-to-secure-institutional-investment-28ad973d.md)
