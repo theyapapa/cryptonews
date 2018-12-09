@@ -1,3 +1,4 @@
+* 2018-12-09 [La primera semana de diciembre termina con flush of Green, Bitcoin se acerca a $3.700](https://github.com/theyapapa/cryptonews/blob/es/first-week-of-december-ends-with-flush-of-green-bitcoin-nears-3-700-13513f08.md)
 * 2018-12-09 [IBM se asocia con la compañía petrolera nacional de Abu Dhabi para el sistema de cadena de suministro bloques](https://github.com/theyapapa/cryptonews/blob/es/ibm-partners-with-abu-dhabi-national-oil-company-for-blockchain-supply-chain-system-e30d265b.md)
 * 2018-12-09 [La startup de Corea del sur presto a presentar apelación constitucional contra la prohibición local del ICO](https://github.com/theyapapa/cryptonews/blob/es/south-korean-startup-presto-to-file-constitutional-appeal-against-local-ico-ban-4e5231fe.md)
 * 2018-12-09 [Top 5 Descripción de los ejecutantes Crypto: BSV, XEM, TRX, BNB, BTC](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-bsv-xem-trx-bnb-btc-552ccb21.md)
