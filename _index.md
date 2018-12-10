@@ -1,3 +1,4 @@
+* 2018-12-10 [지난 5 개월간 해커 들에 게 EOS dapps는 거의 $100만을 잃습니다.](https://github.com/theyapapa/cryptonews/blob/ko/eos-dapps-lose-almost-1-million-to-hackers-over-the-last-five-months-5fdd3290.md)
 * 2018-12-10 [암호 교환 erisx 디지털 시장과 교환 베테랑 매트 트루 토 cso를 임명](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-erisx-appoints-digital-markets-and-exchange-veteran-matt-trudeau-as-cso-30e326b7.md)
 * 2018-12-10 [주요 한국 도시 블록 체인 지원 가상 발전소 구축](https://github.com/theyapapa/cryptonews/blob/ko/major-south-korean-city-to-build-blockchain-enabled-virtual-power-plant-08bc9efb.md)
 * 2018-12-10 [PayPal은 직원 들을 위한 블록 체인 기반 혁신 보상 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/paypal-launches-blockchain-based-innovation-reward-system-for-employees-0a03fc20.md)
