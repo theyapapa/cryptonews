@@ -1,3 +1,4 @@
+* 2018-12-10 [PayPal은 직원 들을 위한 블록 체인 기반 혁신 보상 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/paypal-launches-blockchain-based-innovation-reward-system-for-employees-0a03fc20.md)
 * 2018-12-10 [bitmain은 가상 화폐 시장 상황을 밝히기 이스라엘 블록 체인 개발 센터를 닫습니다](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-closes-israeli-blockchain-development-center-citing-crypto-market-conditions-0e8114ed.md)
 * 2018-12-10 [호주: 식품 안전 시험을 위한 블록 체인 전국 교통 보험 파트너](https://github.com/theyapapa/cryptonews/blob/ko/australia-national-transport-insurance-partners-on-blockchain-for-food-safety-trial-e9e76585.md)
 * 2018-12-09 [호 들러의 다이제스트, 12 월 3 일-12 월 9 일: 미국 SEC btc ETF 결정을 다시 지연 시키면서, 나스닥이 2019 btc 선물 런칭을 확인 하면서](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-dec-3-dec9-us-sec-delays-btc-etf-decision-again-while-nasdaq-confirms-2019-btc-futures-launch-ffdbad4b.md)
