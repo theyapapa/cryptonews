@@ -1,3 +1,4 @@
+* 2018-12-10 [State Farm pruebas bloques solución para acelerar las reclamaciones de seguros de automóviles](https://github.com/theyapapa/cryptonews/blob/es/state-farm-tests-blockchain-solution-to-speed-up-auto-insurance-claims-6845feed.md)
 * 2018-12-10 [EOS DApps perder casi $1 millón a los hackers en los últimos cinco meses](https://github.com/theyapapa/cryptonews/blob/es/eos-dapps-lose-almost-1-million-to-hackers-over-the-last-five-months-5fdd3290.md)
 * 2018-12-10 [Crypto Exchange ErisX designa a los mercados digitales y el veterano de Exchange Matt Trudeau como CSO](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-erisx-appoints-digital-markets-and-exchange-veteran-matt-trudeau-as-cso-30e326b7.md)
 * 2018-12-10 [Importante ciudad de Corea del sur para construir una planta de energía virtual habilitada para bloques](https://github.com/theyapapa/cryptonews/blob/es/major-south-korean-city-to-build-blockchain-enabled-virtual-power-plant-08bc9efb.md)
