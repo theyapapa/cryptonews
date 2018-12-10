@@ -1,3 +1,4 @@
+* 2018-12-10 [Crypto Exchange Ерискс назначает цифровые рынки и обмен ветеран Мэтт Трюдо в качестве ого](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-erisx-appoints-digital-markets-and-exchange-veteran-matt-trudeau-as-cso-30e326b7.md)
 * 2018-12-10 [Крупный южнокорейский город для создания виртуальной электростанции с поддержкой Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/major-south-korean-city-to-build-blockchain-enabled-virtual-power-plant-08bc9efb.md)
 * 2018-12-10 [PayPal запускает систему поощрения инноваций на основе Блокчейн для сотрудников](https://github.com/theyapapa/cryptonews/blob/ru/paypal-launches-blockchain-based-innovation-reward-system-for-employees-0a03fc20.md)
 * 2018-12-10 [Bitmain заКрывает израильский центр Блокчейн-развития со ссылкой на условия крипто рынка](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-closes-israeli-blockchain-development-center-citing-crypto-market-conditions-0e8114ed.md)
