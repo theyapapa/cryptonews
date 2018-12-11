@@ -1,3 +1,4 @@
+* 2018-12-10 [Navegador descentralizado valiente se convierte en predeterminado en HTC blockchain smartphone](https://github.com/theyapapa/cryptonews/blob/es/decentralized-browser-brave-becomes-default-on-htc-blockchain-smartphone-9af1b51a.md)
 * 2018-12-10 [La Asamblea Nacional surcoreana mantiene un debate reglamentario con las Criptomonedas locales](https://github.com/theyapapa/cryptonews/blob/es/south-korean-national-assembly-holds-regulation-debate-with-local-crypto-exchanges-32be9d45.md)
 * 2018-12-10 [State Farm pruebas bloques solución para acelerar las reclamaciones de seguros de automóviles](https://github.com/theyapapa/cryptonews/blob/es/state-farm-tests-blockchain-solution-to-speed-up-auto-insurance-claims-6845feed.md)
 * 2018-12-10 [EOS DApps perder casi $1 millón a los hackers en los últimos cinco meses](https://github.com/theyapapa/cryptonews/blob/es/eos-dapps-lose-almost-1-million-to-hackers-over-the-last-five-months-5fdd3290.md)
