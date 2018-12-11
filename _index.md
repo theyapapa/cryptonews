@@ -1,3 +1,4 @@
+* 2018-12-11 [갤럭시 디지털 및 블록. 우리를 방해 하는 은행을 위한 1 개의 지도 $3000만 기금 라운드](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-and-blockone-lead-30-million-funding-round-for-us-disruptor-bank-c7ec9e25.md)
 * 2018-12-10 [분산 브라우저 용감한 HTC 블록 체인 스마트 폰에 기본값이 됩니다](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-browser-brave-becomes-default-on-htc-blockchain-smartphone-9af1b51a.md)
 * 2018-12-10 [한국 국회는 지역 암호 교환과 규제 논쟁을 개최](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-national-assembly-holds-regulation-debate-with-local-crypto-exchanges-32be9d45.md)
 * 2018-12-10 [자동차 보험 청구를 가속화 하는 국가 농장 테스트 블록 체인 솔루션](https://github.com/theyapapa/cryptonews/blob/ko/state-farm-tests-blockchain-solution-to-speed-up-auto-insurance-claims-6845feed.md)
