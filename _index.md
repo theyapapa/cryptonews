@@ -1,3 +1,4 @@
+* 2018-12-11 [Gibraltar blockchain Exchange asegura sus activos criptográficos con Broker local](https://github.com/theyapapa/cryptonews/blob/es/gibraltar-blockchain-exchange-insures-its-crypto-assets-with-local-broker-72f0b8f5.md)
 * 2018-12-11 [Crypto.com Nets ex-PayPal Exec para aumentar la adopción de criptomoneda comerciante](https://github.com/theyapapa/cryptonews/blob/es/cryptocom-nets-ex-paypal-exec-to-increase-merchant-cryptocurrency-adoption-2faa22db.md)
 * 2018-12-11 [Galaxy digital y Block. One conducen $30 millones ronda de financiación para el Banco disruptor de EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digital-and-blockone-lead-30-million-funding-round-for-us-disruptor-bank-c7ec9e25.md)
 * 2018-12-10 [Navegador descentralizado valiente se convierte en predeterminado en HTC blockchain smartphone](https://github.com/theyapapa/cryptonews/blob/es/decentralized-browser-brave-becomes-default-on-htc-blockchain-smartphone-9af1b51a.md)
