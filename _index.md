@@ -1,3 +1,4 @@
+* 2018-12-11 ["Мы находимся дома в крипто зима": Винклвосс Близнецы запуска Crypto торговая App](https://github.com/theyapapa/cryptonews/blob/ru/were-at-home-in-crypto-winter-winklevoss-twins-launch-crypto-trading-app-bc204789.md)
 * 2018-12-11 [Гибралтар Блокчейн Exchange гарантирует свои крипто активы с местным брокером](https://github.com/theyapapa/cryptonews/blob/ru/gibraltar-blockchain-exchange-insures-its-crypto-assets-with-local-broker-72f0b8f5.md)
 * 2018-12-11 [Crypto.com сети экс-PayPal exec для увеличения торгового Криптовалюта принятие](https://github.com/theyapapa/cryptonews/blob/ru/cryptocom-nets-ex-paypal-exec-to-increase-merchant-cryptocurrency-adoption-2faa22db.md)
 * 2018-12-11 [Галактика цифровой и блок. один свинца $30 000 000 финансирование раунда для США разрушитель банка](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-and-blockone-lead-30-million-funding-round-for-us-disruptor-bank-c7ec9e25.md)
