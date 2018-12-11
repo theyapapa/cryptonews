@@ -1,3 +1,4 @@
+* 2018-12-10 [한국 국회는 지역 암호 교환과 규제 논쟁을 개최](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-national-assembly-holds-regulation-debate-with-local-crypto-exchanges-32be9d45.md)
 * 2018-12-10 [자동차 보험 청구를 가속화 하는 국가 농장 테스트 블록 체인 솔루션](https://github.com/theyapapa/cryptonews/blob/ko/state-farm-tests-blockchain-solution-to-speed-up-auto-insurance-claims-6845feed.md)
 * 2018-12-10 [지난 5 개월간 해커 들에 게 EOS dapps는 거의 $100만을 잃습니다.](https://github.com/theyapapa/cryptonews/blob/ko/eos-dapps-lose-almost-1-million-to-hackers-over-the-last-five-months-5fdd3290.md)
 * 2018-12-10 [암호 교환 erisx 디지털 시장과 교환 베테랑 매트 트루 토 cso를 임명](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-erisx-appoints-digital-markets-and-exchange-veteran-matt-trudeau-as-cso-30e326b7.md)
