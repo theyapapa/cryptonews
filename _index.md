@@ -1,3 +1,4 @@
+* 2018-12-10 [Южно-Корейская Национальная Ассамблея проводит регулирование дебаты с местными крипто биржи](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-national-assembly-holds-regulation-debate-with-local-crypto-exchanges-32be9d45.md)
 * 2018-12-10 [Состояние фермы тесты Блокчейн решение для ускорения авто страховые претензии](https://github.com/theyapapa/cryptonews/blob/ru/state-farm-tests-blockchain-solution-to-speed-up-auto-insurance-claims-6845feed.md)
 * 2018-12-10 [EOS DApps потерять почти $1 000 000 для хакеров за последние пять месяцев](https://github.com/theyapapa/cryptonews/blob/ru/eos-dapps-lose-almost-1-million-to-hackers-over-the-last-five-months-5fdd3290.md)
 * 2018-12-10 [Crypto Exchange Ерискс назначает цифровые рынки и обмен ветеран Мэтт Трюдо в качестве ого](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-erisx-appoints-digital-markets-and-exchange-veteran-matt-trudeau-as-cso-30e326b7.md)
