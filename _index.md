@@ -1,3 +1,4 @@
+* 2018-12-11 [지브롤터 블록 체인 교환은 현지 브로커를 통해 암호화 자산을 보장 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-blockchain-exchange-insures-its-crypto-assets-with-local-broker-72f0b8f5.md)
 * 2018-12-11 [Crypto.com 그물 Ex-페이팔이 젝는 상인의 암호 화폐 채택을 증가](https://github.com/theyapapa/cryptonews/blob/ko/cryptocom-nets-ex-paypal-exec-to-increase-merchant-cryptocurrency-adoption-2faa22db.md)
 * 2018-12-11 [갤럭시 디지털 및 블록. 우리를 방해 하는 은행을 위한 1 개의 지도 $3000만 기금 라운드](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-and-blockone-lead-30-million-funding-round-for-us-disruptor-bank-c7ec9e25.md)
 * 2018-12-10 [분산 브라우저 용감한 HTC 블록 체인 스마트 폰에 기본값이 됩니다](https://github.com/theyapapa/cryptonews/blob/ko/decentralized-browser-brave-becomes-default-on-htc-blockchain-smartphone-9af1b51a.md)
