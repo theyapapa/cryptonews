@@ -1,3 +1,4 @@
+* 2018-12-11 [okex 암호화 거래소는 원래 비트 코인 현금 시세에서 비트 코인 현금 ABC를 나열](https://github.com/theyapapa/cryptonews/blob/ko/okex-crypto-exchange-lists-bitcoin-cash-abc-under-original-bitcoin-cash-ticker-ec5fcdbe.md)
 * 2018-12-11 [4 개의 버몬트 주 기관이 블록 체인 실무 그룹을 설립](https://github.com/theyapapa/cryptonews/blob/ko/four-vermont-state-agencies-establish-blockchain-working-group-161304c2.md)
 * 2018-12-11 [시장 변동성이 계속 되면서 비트 코인 $3400이 하락 함](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-400-as-market-volatility-continues-a48413b7.md)
 * 2018-12-11 [' 우리는 암호화 겨울에 집에 있어 ': 윈 클 보스 쌍둥이 암호화 거래 응용 프로그램을 시작](https://github.com/theyapapa/cryptonews/blob/ko/were-at-home-in-crypto-winter-winklevoss-twins-launch-crypto-trading-app-bc204789.md)
