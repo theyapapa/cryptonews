@@ -1,3 +1,4 @@
+* 2018-12-12 [나이지리아 금융 레 귤 레이 터는 비트 코인의 중개는 ' 중요 한 우려 '를 경고](https://github.com/theyapapa/cryptonews/blob/ko/nigerian-banking-regulator-warns-bitcoins-disintermediation-is-a-critical-concern-4400dff4.md)
 * 2018-12-12 [보고서: ' $40억 ' 평가 후 개인 제안을 계획 하는 암호화 교환 크 라 켄](https://github.com/theyapapa/cryptonews/blob/ko/reports-crypto-exchange-kraken-to-plan-private-offering-after-4-billion-valuation-6b42f536.md)
 * 2018-12-12 [암호화 플랫폼 cubits 해킹 혐의 후 파산 절차를 시작, 사용자의 자금을 잠급니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-platform-cubits-begins-insolvency-procedure-after-alleged-hack-locks-users-funds-c6a529eb.md)
 * 2018-12-12 [Ex-고 엑스 대표이사 karpeles는 10 년 감옥 임기 동안 검찰 전화로 횡령을 부인 한다.](https://github.com/theyapapa/cryptonews/blob/ko/ex-mt-gox-ceo-karpeles-denies-embezzlement-as-prosecutors-call-for-ten-year-jail-term-8f5a63f0.md)
