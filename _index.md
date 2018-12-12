@@ -1,3 +1,4 @@
+* 2018-12-12 [Канадский город Калгари запускает локальную цифровую валюту для транзакций](https://github.com/theyapapa/cryptonews/blob/ru/canadian-city-of-calgary-launches-local-digital-currency-for-intracity-transactions-bc57622f.md)
 * 2018-12-12 [Индия Телеком регулятор завершает мобильный Блокчейн пилот с IBM](https://github.com/theyapapa/cryptonews/blob/ru/indias-telecom-regulator-completes-mobile-blockchain-pilot-with-ibm-ed42da5b.md)
 * 2018-12-12 [Нигерийская банковский регулятор предупреждает посреднических Bitcoin является "критической проблемой"](https://github.com/theyapapa/cryptonews/blob/ru/nigerian-banking-regulator-warns-bitcoins-disintermediation-is-a-critical-concern-4400dff4.md)
 * 2018-12-12 [Отчеты: Crypto Exchange чудище планировать частные предложения после ' $4 000 000 000 ' Оценка](https://github.com/theyapapa/cryptonews/blob/ru/reports-crypto-exchange-kraken-to-plan-private-offering-after-4-billion-valuation-6b42f536.md)
