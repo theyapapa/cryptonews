@@ -1,3 +1,4 @@
+* 2018-12-12 [Ex-고 엑스 대표이사 karpeles는 10 년 감옥 임기 동안 검찰 전화로 횡령을 부인 한다.](https://github.com/theyapapa/cryptonews/blob/ko/ex-mt-gox-ceo-karpeles-denies-embezzlement-as-prosecutors-call-for-ten-year-jail-term-8f5a63f0.md)
 * 2018-12-12 [binance는 다국어 교육 기사 은행 암호 화폐 ' 잘못 된 '을 다룹니다](https://github.com/theyapapa/cryptonews/blob/ko/binance-tackles-cryptocurrency-misinformation-with-multilingual-educational-article-bankc-4d367904.md)
 * 2018-12-12 [우크라이나의 전직 총리는 블록 체인을 사용 하 여 부패를 해결 하기 위해 제안](https://github.com/theyapapa/cryptonews/blob/ko/ukraines-former-prime-minister-proposes-to-tackle-corruption-using-blockchain-88f73901.md)
 * 2018-12-11 [okex 암호화 거래소는 원래 비트 코인 현금 시세에서 비트 코인 현금 ABC를 나열](https://github.com/theyapapa/cryptonews/blob/ko/okex-crypto-exchange-lists-bitcoin-cash-abc-under-original-bitcoin-cash-ticker-ec5fcdbe.md)
