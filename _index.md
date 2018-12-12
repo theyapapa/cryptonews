@@ -1,3 +1,4 @@
+* 2018-12-12 [반환 하는 캐나다 법원 규칙 실수로 정당한 소유자에이 더 리 움을 전송](https://github.com/theyapapa/cryptonews/blob/ko/canadian-court-rules-to-return-mistakenly-sent-ethereum-to-rightful-owner-3df2e492.md)
 * 2018-12-12 [러시아 연방 총리: 초안 암호 법은 ' 크게 ' 편집 되지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/russian-deputy-prime-minister-draft-crypto-legislation-wont-be-significantly-edited-81569673.md)
 * 2018-12-12 [캐나다 도시인 캘거리는 인트라 티 거래를 위한 현지 디지털 통화를 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-city-of-calgary-launches-local-digital-currency-for-intracity-transactions-bc57622f.md)
 * 2018-12-12 [인도의 텔레콤 조정기는 IBM과 함께 모바일 블록 체인 파일럿을 완료 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/indias-telecom-regulator-completes-mobile-blockchain-pilot-with-ibm-ed42da5b.md)
