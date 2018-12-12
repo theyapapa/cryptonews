@@ -1,3 +1,4 @@
+* 2018-12-12 [Заместитель премьер-министра России: проект крипто-законодательства не будет «значительно» отредактирован](https://github.com/theyapapa/cryptonews/blob/ru/russian-deputy-prime-minister-draft-crypto-legislation-wont-be-significantly-edited-81569673.md)
 * 2018-12-12 [Канадский город Калгари запускает локальную цифровую валюту для транзакций](https://github.com/theyapapa/cryptonews/blob/ru/canadian-city-of-calgary-launches-local-digital-currency-for-intracity-transactions-bc57622f.md)
 * 2018-12-12 [Индия Телеком регулятор завершает мобильный Блокчейн пилот с IBM](https://github.com/theyapapa/cryptonews/blob/ru/indias-telecom-regulator-completes-mobile-blockchain-pilot-with-ibm-ed42da5b.md)
 * 2018-12-12 [Нигерийская банковский регулятор предупреждает посреднических Bitcoin является "критической проблемой"](https://github.com/theyapapa/cryptonews/blob/ru/nigerian-banking-regulator-warns-bitcoins-disintermediation-is-a-critical-concern-4400dff4.md)
