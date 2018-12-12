@@ -1,3 +1,4 @@
+* 2018-12-12 [우크라이나의 전직 총리는 블록 체인을 사용 하 여 부패를 해결 하기 위해 제안](https://github.com/theyapapa/cryptonews/blob/ko/ukraines-former-prime-minister-proposes-to-tackle-corruption-using-blockchain-88f73901.md)
 * 2018-12-11 [okex 암호화 거래소는 원래 비트 코인 현금 시세에서 비트 코인 현금 ABC를 나열](https://github.com/theyapapa/cryptonews/blob/ko/okex-crypto-exchange-lists-bitcoin-cash-abc-under-original-bitcoin-cash-ticker-ec5fcdbe.md)
 * 2018-12-11 [4 개의 버몬트 주 기관이 블록 체인 실무 그룹을 설립](https://github.com/theyapapa/cryptonews/blob/ko/four-vermont-state-agencies-establish-blockchain-working-group-161304c2.md)
 * 2018-12-11 [시장 변동성이 계속 되면서 비트 코인 $3400이 하락 함](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-400-as-market-volatility-continues-a48413b7.md)
