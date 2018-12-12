@@ -1,3 +1,4 @@
+* 2018-12-12 [Бывший премьер-министр Украины предлагает бороться с коррупцией с помощью Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/ukraines-former-prime-minister-proposes-to-tackle-corruption-using-blockchain-88f73901.md)
 * 2018-12-11 [Окекс Crypto Exchange списки Bitcoin наличными ABC под оригинальный Bitcoin Cash тикер](https://github.com/theyapapa/cryptonews/blob/ru/okex-crypto-exchange-lists-bitcoin-cash-abc-under-original-bitcoin-cash-ticker-ec5fcdbe.md)
 * 2018-12-11 [Четыре штата Вермонт создать Блокчейн Рабочей группы](https://github.com/theyapapa/cryptonews/blob/ru/four-vermont-state-agencies-establish-blockchain-working-group-161304c2.md)
 * 2018-12-11 [Bitcoin провалы ниже $3 400 как волатильность рынка продолжается](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dips-below-3-400-as-market-volatility-continues-a48413b7.md)
