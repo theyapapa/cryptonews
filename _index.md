@@ -1,3 +1,4 @@
+* 2018-12-11 [4 개의 버몬트 주 기관이 블록 체인 실무 그룹을 설립](https://github.com/theyapapa/cryptonews/blob/ko/four-vermont-state-agencies-establish-blockchain-working-group-161304c2.md)
 * 2018-12-11 [시장 변동성이 계속 되면서 비트 코인 $3400이 하락 함](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-400-as-market-volatility-continues-a48413b7.md)
 * 2018-12-11 [' 우리는 암호화 겨울에 집에 있어 ': 윈 클 보스 쌍둥이 암호화 거래 응용 프로그램을 시작](https://github.com/theyapapa/cryptonews/blob/ko/were-at-home-in-crypto-winter-winklevoss-twins-launch-crypto-trading-app-bc204789.md)
 * 2018-12-11 [지브롤터 블록 체인 교환은 현지 브로커를 통해 암호화 자산을 보장 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-blockchain-exchange-insures-its-crypto-assets-with-local-broker-72f0b8f5.md)
