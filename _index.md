@@ -1,3 +1,4 @@
+* 2018-12-11 [OKEx Crypto Exchange enumera Bitcoin Cash ABC bajo original Bitcoin Cash ticker](https://github.com/theyapapa/cryptonews/blob/es/okex-crypto-exchange-lists-bitcoin-cash-abc-under-original-bitcoin-cash-ticker-ec5fcdbe.md)
 * 2018-12-11 [Cuatro agencias del estado de Vermont establecen grupo de trabajo blockchain](https://github.com/theyapapa/cryptonews/blob/es/four-vermont-state-agencies-establish-blockchain-working-group-161304c2.md)
 * 2018-12-11 [Bitcoin dips por debajo de $3.400 como la volatilidad del mercado continúa](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-dips-below-3-400-as-market-volatility-continues-a48413b7.md)
 * 2018-12-11 [' Estamos en casa en Crypto invierno ': Winklevoss Twins Launch Crypto Trading App](https://github.com/theyapapa/cryptonews/blob/es/were-at-home-in-crypto-winter-winklevoss-twins-launch-crypto-trading-app-bc204789.md)
