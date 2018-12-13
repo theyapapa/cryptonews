@@ -1,3 +1,4 @@
+* 2018-12-13 [Crypto-friendly banca App revolut obtiene licencia bancaria de la UE](https://github.com/theyapapa/cryptonews/blob/es/crypto-friendly-banking-app-revolut-obtains-eu-banking-license-6ca4bec2.md)
 * 2018-12-13 [Tom Lee de Fundstat dice valor razonable de Bitcoin para llegar a $150K por moneda](https://github.com/theyapapa/cryptonews/blob/es/fundstats-tom-lee-says-fair-value-of-bitcoin-to-reach-150k-per-coin-fcf32160.md)
 * 2018-12-13 [Precio de Bitcoin cerca de $3.400, mercados criptográficos más anchos ver otra depresión leve](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-near-3-400-wider-crypto-markets-see-another-mild-slump-e7ae7bc5.md)
 * 2018-12-13 [Número de usuarios de cripto casi duplicado en 2018, dice el estudio](https://github.com/theyapapa/cryptonews/blob/es/number-of-crypto-users-nearly-doubled-in-2018-study-says-a4cd3aaf.md)
