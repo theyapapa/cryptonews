@@ -1,3 +1,4 @@
+* 2018-12-12 [하이퍼 레저, Alibaba cloud, 도이치 텔레콤 및 Citi를 포함 한 12 명의 신입 회원](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-onboards-12-new-members-including-alibaba-cloud-deutsche-telekom-and-citi-44e063a7.md)
 * 2018-12-12 [arisebank 설립자는 ICO 사기 혐의를 해결 하기 위해 벌금에 $270만을 지불](https://github.com/theyapapa/cryptonews/blob/ko/arisebank-founders-to-pay-27-million-in-fines-to-settle-ico-fraud-charges-ec87f192.md)
 * 2018-12-12 [콘스탄티노플 하드 포크 준비를 위한 주요이 더 리 움 소프트웨어 클라이언트 업그레이드](https://github.com/theyapapa/cryptonews/blob/ko/major-ethereum-software-client-upgrades-in-preparation-for-constantinople-hard-fork-ceba872d.md)
 * 2018-12-12 [반환 하는 캐나다 법원 규칙 실수로 정당한 소유자에이 더 리 움을 전송](https://github.com/theyapapa/cryptonews/blob/ko/canadian-court-rules-to-return-mistakenly-sent-ethereum-to-rightful-owner-3df2e492.md)
