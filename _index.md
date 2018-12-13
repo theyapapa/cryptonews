@@ -1,3 +1,4 @@
+* 2018-12-13 [Francia: el informe Gov't recomienda $570 millones blockchain Investment](https://github.com/theyapapa/cryptonews/blob/es/france-govt-report-recommends-570-million-blockchain-investment-81c71be8.md)
 * 2018-12-12 [Importante Stablecoin base para cerrar, devolver fondos a los inversionistas: fuentes](https://github.com/theyapapa/cryptonews/blob/es/major-stablecoin-basis-to-close-return-funds-to-investors-sources-516dac30.md)
 * 2018-12-12 [Hyperledger Onboards 12 nuevos miembros incluyendo alibaba Cloud, Deutsche Telekom y Citi](https://github.com/theyapapa/cryptonews/blob/es/hyperledger-onboards-12-new-members-including-alibaba-cloud-deutsche-telekom-and-citi-44e063a7.md)
 * 2018-12-12 [Los fundadores de AriseBank pagarán $2,7 millones en multas para liquidar cargos de fraude de ICO](https://github.com/theyapapa/cryptonews/blob/es/arisebank-founders-to-pay-27-million-in-fines-to-settle-ico-fraud-charges-ec87f192.md)
