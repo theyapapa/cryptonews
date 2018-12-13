@@ -1,3 +1,4 @@
+* 2018-12-13 [암호화 친화적인 뱅킹 앱을 통해 EU 뱅킹 라이센스 획득](https://github.com/theyapapa/cryptonews/blob/ko/crypto-friendly-banking-app-revolut-obtains-eu-banking-license-6ca4bec2.md)
 * 2018-12-13 [fundstat의 톰 리는 비트 코인의 공정 가치는 동전 당 150k에 도달 말한다](https://github.com/theyapapa/cryptonews/blob/ko/fundstats-tom-lee-says-fair-value-of-bitcoin-to-reach-150k-per-coin-fcf32160.md)
 * 2018-12-13 [$3400 근처 비트 코인 가격, 더 넓은 암호화 시장 다른 온화한 슬 럼 프 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-near-3-400-wider-crypto-markets-see-another-mild-slump-e7ae7bc5.md)
 * 2018-12-13 [암호 사용자의 수는 거의 두 배로 2018, 연구는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/number-of-crypto-users-nearly-doubled-in-2018-study-says-a4cd3aaf.md)
