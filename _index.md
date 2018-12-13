@@ -1,3 +1,4 @@
+* 2018-12-13 [암호 사용자의 수는 거의 두 배로 2018, 연구는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/number-of-crypto-users-nearly-doubled-in-2018-study-says-a4cd3aaf.md)
 * 2018-12-13 [PAX stablecoin이 처음 3 개월간 거래에서 $50억을 초과 함](https://github.com/theyapapa/cryptonews/blob/ko/pax-stablecoin-exceeds-5-billion-in-transactions-in-first-3-months-03ab4166.md)
 * 2018-12-13 [프랑스: 고 보 보고서 $5억7000만 블록 체인 투자 권장](https://github.com/theyapapa/cryptonews/blob/ko/france-govt-report-recommends-570-million-blockchain-investment-81c71be8.md)
 * 2018-12-12 [주요 stablecoin을 폐쇄 하는 기초, 투자자에 게 자금을 반환: 소스](https://github.com/theyapapa/cryptonews/blob/ko/major-stablecoin-basis-to-close-return-funds-to-investors-sources-516dac30.md)
