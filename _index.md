@@ -1,3 +1,4 @@
+* 2018-12-13 [PAX Stablecoin превышает $5 000 000 000 в сделках в первые 3 месяца](https://github.com/theyapapa/cryptonews/blob/ru/pax-stablecoin-exceeds-5-billion-in-transactions-in-first-3-months-03ab4166.md)
 * 2018-12-13 [Франция: Gov't доклад рекомендует $570 000 000 Блокчейн инвестиций](https://github.com/theyapapa/cryptonews/blob/ru/france-govt-report-recommends-570-million-blockchain-investment-81c71be8.md)
 * 2018-12-12 [Основные Stablecoin базы, чтобы закрыть, возврат средств для инвесторов: источники](https://github.com/theyapapa/cryptonews/blob/ru/major-stablecoin-basis-to-close-return-funds-to-investors-sources-516dac30.md)
 * 2018-12-12 [Главная книга на борту 12 новых членов, включая Alibaba облако, Deutsche Telekom и Citi](https://github.com/theyapapa/cryptonews/blob/ru/hyperledger-onboards-12-new-members-including-alibaba-cloud-deutsche-telekom-and-citi-44e063a7.md)
