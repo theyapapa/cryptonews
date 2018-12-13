@@ -1,3 +1,4 @@
+* 2018-12-13 [Crypto-Friendly банковское приложение revolut получает банковскую лицензию ЕС](https://github.com/theyapapa/cryptonews/blob/ru/crypto-friendly-banking-app-revolut-obtains-eu-banking-license-6ca4bec2.md)
 * 2018-12-13 [Фундстат том ли говорит, справедливая стоимость биткоина достигнет $150 за монету](https://github.com/theyapapa/cryptonews/blob/ru/fundstats-tom-lee-says-fair-value-of-bitcoin-to-reach-150k-per-coin-fcf32160.md)
 * 2018-12-13 [Цена Bitcoin NEAR $3 400, более широкие крипто рынки видят еще один мягкий спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-near-3-400-wider-crypto-markets-see-another-mild-slump-e7ae7bc5.md)
 * 2018-12-13 [Число крипто-пользователей почти удвоилось в 2018, говорит исследование](https://github.com/theyapapa/cryptonews/blob/ru/number-of-crypto-users-nearly-doubled-in-2018-study-says-a4cd3aaf.md)
