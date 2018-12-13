@@ -1,3 +1,4 @@
+* 2018-12-13 [Цена Bitcoin NEAR $3 400, более широкие крипто рынки видят еще один мягкий спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-near-3-400-wider-crypto-markets-see-another-mild-slump-e7ae7bc5.md)
 * 2018-12-13 [Число крипто-пользователей почти удвоилось в 2018, говорит исследование](https://github.com/theyapapa/cryptonews/blob/ru/number-of-crypto-users-nearly-doubled-in-2018-study-says-a4cd3aaf.md)
 * 2018-12-13 [PAX Stablecoin превышает $5 000 000 000 в сделках в первые 3 месяца](https://github.com/theyapapa/cryptonews/blob/ru/pax-stablecoin-exceeds-5-billion-in-transactions-in-first-3-months-03ab4166.md)
 * 2018-12-13 [Франция: Gov't доклад рекомендует $570 000 000 Блокчейн инвестиций](https://github.com/theyapapa/cryptonews/blob/ru/france-govt-report-recommends-570-million-blockchain-investment-81c71be8.md)
