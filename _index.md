@@ -1,3 +1,4 @@
+* 2018-12-13 [PAX Stablecoin supera $5 mil millones en transacciones en los primeros 3 meses](https://github.com/theyapapa/cryptonews/blob/es/pax-stablecoin-exceeds-5-billion-in-transactions-in-first-3-months-03ab4166.md)
 * 2018-12-13 [Francia: el informe Gov't recomienda $570 millones blockchain Investment](https://github.com/theyapapa/cryptonews/blob/es/france-govt-report-recommends-570-million-blockchain-investment-81c71be8.md)
 * 2018-12-12 [Importante Stablecoin base para cerrar, devolver fondos a los inversionistas: fuentes](https://github.com/theyapapa/cryptonews/blob/es/major-stablecoin-basis-to-close-return-funds-to-investors-sources-516dac30.md)
 * 2018-12-12 [Hyperledger Onboards 12 nuevos miembros incluyendo alibaba Cloud, Deutsche Telekom y Citi](https://github.com/theyapapa/cryptonews/blob/es/hyperledger-onboards-12-new-members-including-alibaba-cloud-deutsche-telekom-and-citi-44e063a7.md)
