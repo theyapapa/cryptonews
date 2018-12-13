@@ -1,3 +1,4 @@
+* 2018-12-13 [PAX stablecoin이 처음 3 개월간 거래에서 $50억을 초과 함](https://github.com/theyapapa/cryptonews/blob/ko/pax-stablecoin-exceeds-5-billion-in-transactions-in-first-3-months-03ab4166.md)
 * 2018-12-13 [프랑스: 고 보 보고서 $5억7000만 블록 체인 투자 권장](https://github.com/theyapapa/cryptonews/blob/ko/france-govt-report-recommends-570-million-blockchain-investment-81c71be8.md)
 * 2018-12-12 [주요 stablecoin을 폐쇄 하는 기초, 투자자에 게 자금을 반환: 소스](https://github.com/theyapapa/cryptonews/blob/ko/major-stablecoin-basis-to-close-return-funds-to-investors-sources-516dac30.md)
 * 2018-12-12 [하이퍼 레저, Alibaba cloud, 도이치 텔레콤 및 Citi를 포함 한 12 명의 신입 회원](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-onboards-12-new-members-including-alibaba-cloud-deutsche-telekom-and-citi-44e063a7.md)
