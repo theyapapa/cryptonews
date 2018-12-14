@@ -1,3 +1,4 @@
+* 2018-12-13 [보안 토큰 플랫폼 토큰 소프트 SEC 규제 브로커-딜러에 투자](https://github.com/theyapapa/cryptonews/blob/ko/security-token-platform-tokensoft-invests-in-sec-regulated-broker-dealer-0492a07a.md)
 * 2018-12-13 [암호화 친화적인 뱅킹 앱을 통해 EU 뱅킹 라이센스 획득](https://github.com/theyapapa/cryptonews/blob/ko/crypto-friendly-banking-app-revolut-obtains-eu-banking-license-6ca4bec2.md)
 * 2018-12-13 [fundstat의 톰 리는 비트 코인의 공정 가치는 동전 당 150k에 도달 말한다](https://github.com/theyapapa/cryptonews/blob/ko/fundstats-tom-lee-says-fair-value-of-bitcoin-to-reach-150k-per-coin-fcf32160.md)
 * 2018-12-13 [$3400 근처 비트 코인 가격, 더 넓은 암호화 시장 다른 온화한 슬 럼 프 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-near-3-400-wider-crypto-markets-see-another-mild-slump-e7ae7bc5.md)
