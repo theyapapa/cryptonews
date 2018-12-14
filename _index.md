@@ -1,3 +1,4 @@
+* 2018-12-14 [Importante banco español BBVA cierra €150 MLN préstamo con Porsche Holding usando blockchain](https://github.com/theyapapa/cryptonews/blob/es/major-spanish-bank-bbva-closes-150-mln-loan-with-porsche-holding-using-blockchain-7e572766.md)
 * 2018-12-14 [Gobierno de Estados Unidos dice Bitcoin bomba estafa víctimas para informar al FBI, no pagar el dinero del rescate](https://github.com/theyapapa/cryptonews/blob/es/us-government-tells-bitcoin-bomb-scam-victims-to-inform-fbi-not-pay-ransom-money-f59cd89e.md)
 * 2018-12-13 [Europa toma medidas serias hacia la adopción de blockchain](https://github.com/theyapapa/cryptonews/blob/es/europe-takes-serious-steps-towards-blockchain-adoption-780e5aa4.md)
 * 2018-12-13 [Plataforma de token de seguridad TokenSoft invierte en Broker-Dealer regulado por la SEC](https://github.com/theyapapa/cryptonews/blob/es/security-token-platform-tokensoft-invests-in-sec-regulated-broker-dealer-0492a07a.md)
