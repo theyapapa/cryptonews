@@ -1,3 +1,4 @@
+* 2018-12-14 [Brasileña Premier League Soccer Club lanza Crypto ' fan tokens '](https://github.com/theyapapa/cryptonews/blob/es/brazilian-premier-league-soccer-club-launches-crypto-fan-tokens-424d1d76.md)
 * 2018-12-14 [US Credit Union blockchain Consortium se une al ecosistema global de R3's](https://github.com/theyapapa/cryptonews/blob/es/us-credit-union-blockchain-consortium-joins-r3s-global-ecosystem-ccb4d501.md)
 * 2018-12-14 [Importante banco español BBVA cierra €150 MLN préstamo con Porsche Holding usando blockchain](https://github.com/theyapapa/cryptonews/blob/es/major-spanish-bank-bbva-closes-150-mln-loan-with-porsche-holding-using-blockchain-7e572766.md)
 * 2018-12-14 [Gobierno de Estados Unidos dice Bitcoin bomba estafa víctimas para informar al FBI, no pagar el dinero del rescate](https://github.com/theyapapa/cryptonews/blob/es/us-government-tells-bitcoin-bomb-scam-victims-to-inform-fbi-not-pay-ransom-money-f59cd89e.md)
