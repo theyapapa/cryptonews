@@ -1,3 +1,4 @@
+* 2018-12-14 [Правительство США рассказывает Bitcoin бомба афера жертвы информировать ФБР, не платят выкуп деньги](https://github.com/theyapapa/cryptonews/blob/ru/us-government-tells-bitcoin-bomb-scam-victims-to-inform-fbi-not-pay-ransom-money-f59cd89e.md)
 * 2018-12-13 [Европа предпринимает серьезные шаги к принятию Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/europe-takes-serious-steps-towards-blockchain-adoption-780e5aa4.md)
 * 2018-12-13 [Платформа токена безопасности Токенсофт инвестирует в SEC-регулируемый брокер-дилер](https://github.com/theyapapa/cryptonews/blob/ru/security-token-platform-tokensoft-invests-in-sec-regulated-broker-dealer-0492a07a.md)
 * 2018-12-13 [Crypto-Friendly банковское приложение revolut получает банковскую лицензию ЕС](https://github.com/theyapapa/cryptonews/blob/ru/crypto-friendly-banking-app-revolut-obtains-eu-banking-license-6ca4bec2.md)
