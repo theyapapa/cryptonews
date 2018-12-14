@@ -1,3 +1,4 @@
+* 2018-12-14 [브라질 프리미어리그 축구 클럽에서 암호화 ' 팬 토큰 ' 출시](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-premier-league-soccer-club-launches-crypto-fan-tokens-424d1d76.md)
 * 2018-12-14 [미국 신용 조합 블록 체인 컨소시엄 R3's 글로벌 생태계에 합류](https://github.com/theyapapa/cryptonews/blob/ko/us-credit-union-blockchain-consortium-joins-r3s-global-ecosystem-ccb4d501.md)
 * 2018-12-14 [주요 스페인 은행 bbva가 블록 체인을 사용 하 여 포 르 쉐 지주와 €150 백만 대출을 종료 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/major-spanish-bank-bbva-closes-150-mln-loan-with-porsche-holding-using-blockchain-7e572766.md)
 * 2018-12-14 [미국 정부는 몸값을 지불 하지, FBI를 알리기 위해 비트 코인 폭탄 사기 피해자를 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/us-government-tells-bitcoin-bomb-scam-victims-to-inform-fbi-not-pay-ransom-money-f59cd89e.md)
