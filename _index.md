@@ -1,3 +1,4 @@
+* 2018-12-14 [Блокчейн-консорциум кредитного союза США приСоединяется к глобальной экосистеме R3's](https://github.com/theyapapa/cryptonews/blob/ru/us-credit-union-blockchain-consortium-joins-r3s-global-ecosystem-ccb4d501.md)
 * 2018-12-14 [Крупный испанский банк BBVA заКрывает €150 млн займа с Porsche Холдинг использование Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/major-spanish-bank-bbva-closes-150-mln-loan-with-porsche-holding-using-blockchain-7e572766.md)
 * 2018-12-14 [Правительство США рассказывает Bitcoin бомба афера жертвы информировать ФБР, не платят выкуп деньги](https://github.com/theyapapa/cryptonews/blob/ru/us-government-tells-bitcoin-bomb-scam-victims-to-inform-fbi-not-pay-ransom-money-f59cd89e.md)
 * 2018-12-13 [Европа предпринимает серьезные шаги к принятию Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/europe-takes-serious-steps-towards-blockchain-adoption-780e5aa4.md)
