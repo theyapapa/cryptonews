@@ -1,3 +1,4 @@
+* 2018-12-14 [주요 미국 암호 교환 coinbase는 페이팔에 현금 인출 추가](https://github.com/theyapapa/cryptonews/blob/ko/major-us-crypto-exchange-coinbase-adds-cash-withdrawals-to-paypal-acd58ecd.md)
 * 2018-12-14 [스위스 연방 의회: 기존 금융 법은 블록 체인 산업에 맞게 조정 되어야 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-federal-council-existing-financial-law-should-be-adjusted-to-blockchain-industry-d007a6d2.md)
 * 2018-12-14 [비트 코인, 리플,이 더 리 움 스텔라, EOS, 비트 코인 캐시 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-eos-bitcoin-cash-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-14-c08a6376.md)
 * 2018-12-14 [브라질 프리미어리그 축구 클럽에서 암호화 ' 팬 토큰 ' 출시](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-premier-league-soccer-club-launches-crypto-fan-tokens-424d1d76.md)
