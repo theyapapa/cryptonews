@@ -1,3 +1,4 @@
+* 2018-12-14 [Телеком гигант AT&T ищет патент для Блокчейн-совместимых социальных медиа "картирование" системы](https://github.com/theyapapa/cryptonews/blob/ru/telecoms-giant-att-seeks-patent-for-blockchain-enabled-social-media-mapping-system-33b24d5e.md)
 * 2018-12-14 [Блокчейн-инкубатор Binance Labs выпускает первую «партию» Блокчейн-проектов](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-incubator-binance-labs-releases-first-batch-of-blockchain-projects-806e3eef.md)
 * 2018-12-14 [Основные США Crypto Exchange Coinbase добавляет снятие наЛичных денег на PayPal](https://github.com/theyapapa/cryptonews/blob/ru/major-us-crypto-exchange-coinbase-adds-cash-withdrawals-to-paypal-acd58ecd.md)
 * 2018-12-14 [Федеральный совет Швейцарии: существующее финансовое право должно быть скорректировано на Блокчейн-индустрию](https://github.com/theyapapa/cryptonews/blob/ru/swiss-federal-council-existing-financial-law-should-be-adjusted-to-blockchain-industry-d007a6d2.md)
