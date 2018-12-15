@@ -1,3 +1,4 @@
+* 2018-12-15 [Cryptojacking supera ransomware como principal malware en algunos países](https://github.com/theyapapa/cryptonews/blob/es/cryptojacking-overtakes-ransomware-as-top-malware-in-some-countries-70c05d24.md)
 * 2018-12-14 [El gigante de las telecomunicaciones AT&T busca la patente para el sistema de mapeo de redes sociales habilitado para blockchain](https://github.com/theyapapa/cryptonews/blob/es/telecoms-giant-att-seeks-patent-for-blockchain-enabled-social-media-mapping-system-33b24d5e.md)
 * 2018-12-14 [La incubadora de blockchain Binance Labs lanza el primer ' lote ' de proyectos de blockchain](https://github.com/theyapapa/cryptonews/blob/es/blockchain-incubator-binance-labs-releases-first-batch-of-blockchain-projects-806e3eef.md)
 * 2018-12-14 [Importante US Crypto Exchange Coinbase añade retiros de efectivo a PayPal](https://github.com/theyapapa/cryptonews/blob/es/major-us-crypto-exchange-coinbase-adds-cash-withdrawals-to-paypal-acd58ecd.md)
