@@ -1,3 +1,4 @@
+* 2018-12-15 [한국에서 IBM 푸드 트러스트-블록 체인이 식품 산업에서 사용 되는 방법](https://github.com/theyapapa/cryptonews/blob/ko/from-south-korea-to-ibm-food-trust-how-blockchain-is-used-in-the-food-industry-f38b33a9.md)
 * 2018-12-15 [크립 토 도둑은 일부 국가에서 최고의 멀웨어로 랜 섬 웨어를 압도 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/cryptojacking-overtakes-ransomware-as-top-malware-in-some-countries-70c05d24.md)
 * 2018-12-14 [telecoms 자이언트 AT&T 블록 체인 기반 소셜 미디어 ' 매핑 ' 시스템에 대 한 특허를 찾고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/telecoms-giant-att-seeks-patent-for-blockchain-enabled-social-media-mapping-system-33b24d5e.md)
 * 2018-12-14 [블록 체인 인큐베이터 binance 연구소는 블록 체인 프로젝트의 첫 번째 ' 배치 '를 발표](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-incubator-binance-labs-releases-first-batch-of-blockchain-projects-806e3eef.md)
