@@ -1,3 +1,4 @@
+* 2018-12-14 [블록 체인 인큐베이터 binance 연구소는 블록 체인 프로젝트의 첫 번째 ' 배치 '를 발표](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-incubator-binance-labs-releases-first-batch-of-blockchain-projects-806e3eef.md)
 * 2018-12-14 [주요 미국 암호 교환 coinbase는 페이팔에 현금 인출 추가](https://github.com/theyapapa/cryptonews/blob/ko/major-us-crypto-exchange-coinbase-adds-cash-withdrawals-to-paypal-acd58ecd.md)
 * 2018-12-14 [스위스 연방 의회: 기존 금융 법은 블록 체인 산업에 맞게 조정 되어야 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-federal-council-existing-financial-law-should-be-adjusted-to-blockchain-industry-d007a6d2.md)
 * 2018-12-14 [비트 코인, 리플,이 더 리 움 스텔라, EOS, 비트 코인 캐시 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-eos-bitcoin-cash-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-14-c08a6376.md)
