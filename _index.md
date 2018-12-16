@@ -1,3 +1,4 @@
+* 2018-12-16 [그린 라이트: 모든 최고 크립 토는 이득을 볼, 비트 코인은 $3300에 가까워](https://github.com/theyapapa/cryptonews/blob/ko/greenlight-all-top-cryptos-see-gains-bitcoin-nears-3-300-ca05f436.md)
 * 2018-12-16 [상위 5 개 암호화 수행자 개요: EOS, binance 동전, 트 론, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-eos-binance-coin-tron-litecoin-bitcoin-4e600536.md)
 * 2018-12-16 [미국 연방 정부: 암호화에 대 한 혼란 규제, 블록 체인에 대 한 전체 클리어런스](https://github.com/theyapapa/cryptonews/blob/ko/us-federal-government-confusing-regulation-for-crypto-full-clearance-for-blockchain-28465219.md)
 * 2018-12-16 [블록 체인은 현재 금융 시장, dtcc Exec의 안전을 위태롭게 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-could-jeopardize-the-safety-of-current-financial-marketplace-dtcc-exec-5cf8f48c.md)
