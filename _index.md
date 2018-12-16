@@ -1,3 +1,4 @@
+* 2018-12-15 [비즈니스 모델은 블록 체인에 대 한 ' 재 이미징 ' 해야 합니다, 바 클레이 Rep](https://github.com/theyapapa/cryptonews/blob/ko/business-models-should-be-re-imaged-for-blockchain-says-barclays-rep-0a87ef5a.md)
 * 2018-12-15 [블록 체인 지불의 대량 채택은 3-5 년 떨어져, bitpay CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-payments-mass-adoption-is-3-5-years-away-says-bitpay-ceo-8f4dafe1.md)
 * 2018-12-15 [최고 cryptos 혼합 이익 &, 비트 코인은 $3200 이상 머물 싸움을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-see-mixed-gains-losses-bitcoin-fights-to-stay-over-3-200-9b618ecf.md)
 * 2018-12-15 [한국에서 IBM 푸드 트러스트-블록 체인이 식품 산업에서 사용 되는 방법](https://github.com/theyapapa/cryptonews/blob/ko/from-south-korea-to-ibm-food-trust-how-blockchain-is-used-in-the-food-industry-f38b33a9.md)
