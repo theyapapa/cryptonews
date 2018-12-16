@@ -1,3 +1,4 @@
+* 2018-12-15 [Los modelos de negocio deben ser ' re-imaged ' para blockchain, dice Barclays REP](https://github.com/theyapapa/cryptonews/blob/es/business-models-should-be-re-imaged-for-blockchain-says-barclays-rep-0a87ef5a.md)
 * 2018-12-15 [La adopción masiva de pagos de blockchain está a 3-5 años de distancia, dice el CEO de BitPay](https://github.com/theyapapa/cryptonews/blob/es/blockchain-payments-mass-adoption-is-3-5-years-away-says-bitpay-ceo-8f4dafe1.md)
 * 2018-12-15 [Top Cryptos ver ganancias mixtas y pérdidas, Bitcoin lucha por permanecer más de $3.200](https://github.com/theyapapa/cryptonews/blob/es/top-cryptos-see-mixed-gains-losses-bitcoin-fights-to-stay-over-3-200-9b618ecf.md)
 * 2018-12-15 [De Corea del sur a IBM Food Trust-Cómo se utiliza blockchain en la industria alimentaria](https://github.com/theyapapa/cryptonews/blob/es/from-south-korea-to-ibm-food-trust-how-blockchain-is-used-in-the-food-industry-f38b33a9.md)
