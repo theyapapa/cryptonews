@@ -1,3 +1,4 @@
+* 2018-12-16 [상위 5 개 암호화 수행자 개요: EOS, binance 동전, 트 론, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-eos-binance-coin-tron-litecoin-bitcoin-4e600536.md)
 * 2018-12-16 [미국 연방 정부: 암호화에 대 한 혼란 규제, 블록 체인에 대 한 전체 클리어런스](https://github.com/theyapapa/cryptonews/blob/ko/us-federal-government-confusing-regulation-for-crypto-full-clearance-for-blockchain-28465219.md)
 * 2018-12-16 [블록 체인은 현재 금융 시장, dtcc Exec의 안전을 위태롭게 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-could-jeopardize-the-safety-of-current-financial-marketplace-dtcc-exec-5cf8f48c.md)
 * 2018-12-15 [비즈니스 모델은 블록 체인에 대 한 ' 재 이미징 ' 해야 합니다, 바 클레이 Rep](https://github.com/theyapapa/cryptonews/blob/ko/business-models-should-be-re-imaged-for-blockchain-says-barclays-rep-0a87ef5a.md)
