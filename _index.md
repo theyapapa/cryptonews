@@ -1,3 +1,4 @@
+* 2018-12-15 [Блокчейн платежей ' массовое усыновление составляет 3-5 лет, говорит Генеральный директор BitPay](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-payments-mass-adoption-is-3-5-years-away-says-bitpay-ceo-8f4dafe1.md)
 * 2018-12-15 [Лучшие крипты видят смешанные прибыли и убытки, Bitcoin борется, чтобы остаться более $3 200](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptos-see-mixed-gains-losses-bitcoin-fights-to-stay-over-3-200-9b618ecf.md)
 * 2018-12-15 [Из Южной Кореи в IBM Food Trust-как Блокчейн используется в пищевой промышленности](https://github.com/theyapapa/cryptonews/blob/ru/from-south-korea-to-ibm-food-trust-how-blockchain-is-used-in-the-food-industry-f38b33a9.md)
 * 2018-12-15 [Криптожаккинг берет вымогателей как топ вредоносных программ в некоторых странах](https://github.com/theyapapa/cryptonews/blob/ru/cryptojacking-overtakes-ransomware-as-top-malware-in-some-countries-70c05d24.md)
