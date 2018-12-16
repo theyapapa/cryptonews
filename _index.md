@@ -1,3 +1,4 @@
+* 2018-12-16 [GreenLight: todos los mejores Cryptos ver ganancias, Bitcoin Nears $3.300](https://github.com/theyapapa/cryptonews/blob/es/greenlight-all-top-cryptos-see-gains-bitcoin-nears-3-300-ca05f436.md)
 * 2018-12-16 [Top 5 cripto intérpretes Resumen: EOS, Binance Coin, TRON, Litecoin, Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-eos-binance-coin-tron-litecoin-bitcoin-4e600536.md)
 * 2018-12-16 [Gobierno Federal de los E.E.U.U.: regulación confusa para Crypto, autorización completa para blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-federal-government-confusing-regulation-for-crypto-full-clearance-for-blockchain-28465219.md)
 * 2018-12-16 [Blockchain podría ' poner en peligro la seguridad ' del mercado financiero actual, DTCC exec](https://github.com/theyapapa/cryptonews/blob/es/blockchain-could-jeopardize-the-safety-of-current-financial-marketplace-dtcc-exec-5cf8f48c.md)
