@@ -1,3 +1,4 @@
+* 2018-12-16 [Gobierno Federal de los E.E.U.U.: regulación confusa para Crypto, autorización completa para blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-federal-government-confusing-regulation-for-crypto-full-clearance-for-blockchain-28465219.md)
 * 2018-12-16 [Blockchain podría ' poner en peligro la seguridad ' del mercado financiero actual, DTCC exec](https://github.com/theyapapa/cryptonews/blob/es/blockchain-could-jeopardize-the-safety-of-current-financial-marketplace-dtcc-exec-5cf8f48c.md)
 * 2018-12-15 [Los modelos de negocio deben ser ' re-imaged ' para blockchain, dice Barclays REP](https://github.com/theyapapa/cryptonews/blob/es/business-models-should-be-re-imaged-for-blockchain-says-barclays-rep-0a87ef5a.md)
 * 2018-12-15 [La adopción masiva de pagos de blockchain está a 3-5 años de distancia, dice el CEO de BitPay](https://github.com/theyapapa/cryptonews/blob/es/blockchain-payments-mass-adoption-is-3-5-years-away-says-bitpay-ceo-8f4dafe1.md)
