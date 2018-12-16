@@ -1,3 +1,4 @@
+* 2018-12-16 [Федеральное правительство США: запутанное регулирование для крипто, полный зазор для Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/us-federal-government-confusing-regulation-for-crypto-full-clearance-for-blockchain-28465219.md)
 * 2018-12-16 [Блокчейн может «поставить под угрозу безопасность» текущего финансового рынка, DTCC Exec](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-could-jeopardize-the-safety-of-current-financial-marketplace-dtcc-exec-5cf8f48c.md)
 * 2018-12-15 [Бизнес-модели должны быть ' re-Imageed ' для Блокчейна, говорит Barclays REP](https://github.com/theyapapa/cryptonews/blob/ru/business-models-should-be-re-imaged-for-blockchain-says-barclays-rep-0a87ef5a.md)
 * 2018-12-15 [Блокчейн платежей ' массовое усыновление составляет 3-5 лет, говорит Генеральный директор BitPay](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-payments-mass-adoption-is-3-5-years-away-says-bitpay-ceo-8f4dafe1.md)
