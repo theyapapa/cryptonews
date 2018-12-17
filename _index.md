@@ -1,3 +1,4 @@
+* 2018-12-17 [에 테 리 움 암호 시장이 성장을 참조로 사상 처음으로 비트 코인 현금의 가격을 친다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-beats-bitcoin-cashs-price-for-first-time-ever-as-crypto-markets-see-growth-32c2eb61.md)
 * 2018-12-17 [이집트의 중앙 은행이 디지털 화폐 발행에 관한 ' 타당성 조사 ' 실시](https://github.com/theyapapa/cryptonews/blob/ko/egypts-central-bank-conducting-feasibility-studies-around-digital-currency-issuance-41877b01.md)
 * 2018-12-16 [암호화 anarchist 선언문 저자 팀은 자연의 원인의 죽을 수 있습니다, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/crypto-anarchist-manifesto-author-tim-may-dies-of-natural-causes-report-3c16006d.md)
 * 2018-12-16 [그린 라이트: 모든 최고 크립 토는 이득을 볼, 비트 코인은 $3300에 가까워](https://github.com/theyapapa/cryptonews/blob/ko/greenlight-all-top-cryptos-see-gains-bitcoin-nears-3-300-ca05f436.md)
