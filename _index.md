@@ -1,3 +1,4 @@
+* 2018-12-17 [지난 30 일 동안 ICO 팀 지갑을 떠난 40만 이상의 ETH, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/over-400-000-eth-left-ico-team-wallets-in-the-past-thirty-days-data-shows-28ae01ef.md)
 * 2018-12-17 [에 테 리 움 고유 주소 휴식 5000만, 활성 지갑 번호 계속 떨어지는](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-unique-addresses-break-50-million-active-wallet-number-keeps-dropping-0929e6be.md)
 * 2018-12-17 [에 테 리 움 암호 시장이 성장을 참조로 사상 처음으로 비트 코인 현금의 가격을 친다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-beats-bitcoin-cashs-price-for-first-time-ever-as-crypto-markets-see-growth-32c2eb61.md)
 * 2018-12-17 [이집트의 중앙 은행이 디지털 화폐 발행에 관한 ' 타당성 조사 ' 실시](https://github.com/theyapapa/cryptonews/blob/ko/egypts-central-bank-conducting-feasibility-studies-around-digital-currency-issuance-41877b01.md)
