@@ -1,3 +1,4 @@
+* 2018-12-17 [Эфириум уникальные адреса Break 50 000 000, активный номер кошелька продолжает падать](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-unique-addresses-break-50-million-active-wallet-number-keeps-dropping-0929e6be.md)
 * 2018-12-17 [Эфириум бьет Bitcoin денежные цены на первый раз когда-либо, как крипто рынки см рост](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-beats-bitcoin-cashs-price-for-first-time-ever-as-crypto-markets-see-growth-32c2eb61.md)
 * 2018-12-17 [Центральный банк Египта проводит «технико-экономическое обОснование» вокруг выДачи цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/egypts-central-bank-conducting-feasibility-studies-around-digital-currency-issuance-41877b01.md)
 * 2018-12-16 [Крипто анархист манифест Автор Тим мая умирает от естественных причин, доклад](https://github.com/theyapapa/cryptonews/blob/ru/crypto-anarchist-manifesto-author-tim-may-dies-of-natural-causes-report-3c16006d.md)
