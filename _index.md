@@ -1,3 +1,4 @@
+* 2018-12-17 [이집트의 중앙 은행이 디지털 화폐 발행에 관한 ' 타당성 조사 ' 실시](https://github.com/theyapapa/cryptonews/blob/ko/egypts-central-bank-conducting-feasibility-studies-around-digital-currency-issuance-41877b01.md)
 * 2018-12-16 [암호화 anarchist 선언문 저자 팀은 자연의 원인의 죽을 수 있습니다, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/crypto-anarchist-manifesto-author-tim-may-dies-of-natural-causes-report-3c16006d.md)
 * 2018-12-16 [그린 라이트: 모든 최고 크립 토는 이득을 볼, 비트 코인은 $3300에 가까워](https://github.com/theyapapa/cryptonews/blob/ko/greenlight-all-top-cryptos-see-gains-bitcoin-nears-3-300-ca05f436.md)
 * 2018-12-16 [상위 5 개 암호화 수행자 개요: EOS, binance 동전, 트 론, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-eos-binance-coin-tron-litecoin-bitcoin-4e600536.md)
