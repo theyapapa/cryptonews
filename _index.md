@@ -1,3 +1,4 @@
+* 2018-12-17 [Центральный банк Египта проводит «технико-экономическое обОснование» вокруг выДачи цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/egypts-central-bank-conducting-feasibility-studies-around-digital-currency-issuance-41877b01.md)
 * 2018-12-16 [Крипто анархист манифест Автор Тим мая умирает от естественных причин, доклад](https://github.com/theyapapa/cryptonews/blob/ru/crypto-anarchist-manifesto-author-tim-may-dies-of-natural-causes-report-3c16006d.md)
 * 2018-12-16 [Greenlight: все лучшие крипты See GAINS, Bitcoin приближается к $3 300](https://github.com/theyapapa/cryptonews/blob/ru/greenlight-all-top-cryptos-see-gains-bitcoin-nears-3-300-ca05f436.md)
 * 2018-12-16 [Топ 5 крипто исполнители Обзор: EOS, Binance монета, трон, Litecoin, Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-eos-binance-coin-tron-litecoin-bitcoin-4e600536.md)
