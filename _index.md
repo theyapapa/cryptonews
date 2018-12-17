@@ -1,3 +1,4 @@
+* 2018-12-17 [이탈리아: 증권 레 귤 레이 터는 사기 투자 계획을 주장에 대 한 두 암호 회사를 일시 중단](https://github.com/theyapapa/cryptonews/blob/ko/italy-securities-regulator-suspends-two-crypto-firms-for-alleged-scam-investment-schemes-947238de.md)
 * 2018-12-17 [지난 30 일 동안 ICO 팀 지갑을 떠난 40만 이상의 ETH, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/over-400-000-eth-left-ico-team-wallets-in-the-past-thirty-days-data-shows-28ae01ef.md)
 * 2018-12-17 [에 테 리 움 고유 주소 휴식 5000만, 활성 지갑 번호 계속 떨어지는](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-unique-addresses-break-50-million-active-wallet-number-keeps-dropping-0929e6be.md)
 * 2018-12-17 [에 테 리 움 암호 시장이 성장을 참조로 사상 처음으로 비트 코인 현금의 가격을 친다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-beats-bitcoin-cashs-price-for-first-time-ever-as-crypto-markets-see-growth-32c2eb61.md)
