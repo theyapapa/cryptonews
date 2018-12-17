@@ -1,3 +1,4 @@
+* 2018-12-17 [Banco Central de Egipto realiza ' estudios de viabilidad ' alrededor de la emisión de moneda digital](https://github.com/theyapapa/cryptonews/blob/es/egypts-central-bank-conducting-feasibility-studies-around-digital-currency-issuance-41877b01.md)
 * 2018-12-16 [Cripto anarquista manifiesto autor Tim May muere de causas naturales, informe](https://github.com/theyapapa/cryptonews/blob/es/crypto-anarchist-manifesto-author-tim-may-dies-of-natural-causes-report-3c16006d.md)
 * 2018-12-16 [GreenLight: todos los mejores Cryptos ver ganancias, Bitcoin Nears $3.300](https://github.com/theyapapa/cryptonews/blob/es/greenlight-all-top-cryptos-see-gains-bitcoin-nears-3-300-ca05f436.md)
 * 2018-12-16 [Top 5 cripto intérpretes Resumen: EOS, Binance Coin, TRON, Litecoin, Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-eos-binance-coin-tron-litecoin-bitcoin-4e600536.md)
