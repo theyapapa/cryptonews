@@ -1,3 +1,4 @@
+* 2018-12-18 [일본: 법적 입찰과 혼동을 막기 위해 ' 암호 자산 '으로 분류 된 암호화](https://github.com/theyapapa/cryptonews/blob/ko/japan-crypto-classified-as-crypto-assets-to-prevent-confusion-with-legal-tender-4a687acd.md)
 * 2018-12-18 [블록 스트림이 공간에서 5 번째 위성 스트리밍 비트 코인 블록 체인 출시](https://github.com/theyapapa/cryptonews/blob/ko/blockstream-launches-5th-satellite-streaming-bitcoin-blockchain-from-space-aeaa51db.md)
 * 2018-12-18 [Tim 월: 암호 대 광고와 불쾌 했다 원래 암호화 anarchist](https://github.com/theyapapa/cryptonews/blob/ko/tim-may-original-crypto-anarchist-who-was-displeased-with-crypto-hype-8600a616.md)
 * 2018-12-18 [홍콩 증권 거래소 호출 bitmain IPO 주저 ' 소문 ' 혐의](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-stock-exchange-calls-alleged-bitmain-ipo-hesitation-rumors-429d0aec.md)
