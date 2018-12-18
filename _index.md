@@ -1,3 +1,4 @@
+* 2018-12-18 [Блокчейн-сеть с динамическими платами говорит, что это тройной TPS, перепуская Эфириум и биткоин](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-network-with-dynamic-fees-says-it-triples-tps-overpassing-ethereum-and-bitcoin-0c83fb85.md)
 * 2018-12-18 [Япония: Crypto классифицируется как "крипто-активы", чтобы предотвратить путаницу с юридической тендер](https://github.com/theyapapa/cryptonews/blob/ru/japan-crypto-classified-as-crypto-assets-to-prevent-confusion-with-legal-tender-4a687acd.md)
 * 2018-12-18 [Blockstream запускает пятый спутник потокового Bitcoin Блокчейн из космоса](https://github.com/theyapapa/cryptonews/blob/ru/blockstream-launches-5th-satellite-streaming-bitcoin-blockchain-from-space-aeaa51db.md)
 * 2018-12-18 [Тим Мэй: оригинальный крипто анархист, который был недоволен крипто Hype](https://github.com/theyapapa/cryptonews/blob/ru/tim-may-original-crypto-anarchist-who-was-displeased-with-crypto-hype-8600a616.md)
