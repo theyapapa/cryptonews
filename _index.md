@@ -1,3 +1,4 @@
+* 2018-12-18 [Тим Мэй: оригинальный крипто анархист, который был недоволен крипто Hype](https://github.com/theyapapa/cryptonews/blob/ru/tim-may-original-crypto-anarchist-who-was-displeased-with-crypto-hype-8600a616.md)
 * 2018-12-18 [Гонконгская фондовая биржа звонит якобы Bitmain IPO колебаний "слухи"](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-stock-exchange-calls-alleged-bitmain-ipo-hesitation-rumors-429d0aec.md)
 * 2018-12-17 [Лучше, чем корпораций: увольнений в крипто находятся на подъеме, еще ниже, чем в других отраслях промышленности](https://github.com/theyapapa/cryptonews/blob/ru/better-than-corporations-layoffs-in-crypto-are-on-the-rise-still-lower-than-in-other-industries-4b5e4564.md)
 * 2018-12-17 [Отчет: традиционные инвесторы переНосятся на внебиржевой биткоин-рынки](https://github.com/theyapapa/cryptonews/blob/ru/report-traditional-investors-shift-to-over-the-counter-bitcoin-markets-4e0c5e2d.md)
