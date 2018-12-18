@@ -1,3 +1,4 @@
+* 2018-12-18 [Tim May: original Crypto anarquista que se disgustó con Crypto Hype](https://github.com/theyapapa/cryptonews/blob/es/tim-may-original-crypto-anarchist-who-was-displeased-with-crypto-hype-8600a616.md)
 * 2018-12-18 [La bolsa de Hong Kong llama supuesta Bitmain IPO vacilación ' rumores '](https://github.com/theyapapa/cryptonews/blob/es/hong-kong-stock-exchange-calls-alleged-bitmain-ipo-hesitation-rumors-429d0aec.md)
 * 2018-12-17 [Mejor que las corporaciones: los despidos en Cripto están en alza, aún más bajos que en otras industrias](https://github.com/theyapapa/cryptonews/blob/es/better-than-corporations-layoffs-in-crypto-are-on-the-rise-still-lower-than-in-other-industries-4b5e4564.md)
 * 2018-12-17 [Informe: los inversionistas tradicionales cambian a los mercados de Bitcoin de venta libre](https://github.com/theyapapa/cryptonews/blob/es/report-traditional-investors-shift-to-over-the-counter-bitcoin-markets-4e0c5e2d.md)
