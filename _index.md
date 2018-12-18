@@ -1,3 +1,4 @@
+* 2018-12-18 [Israel: la firma de servicios financieros GMT se une a RippleNet](https://github.com/theyapapa/cryptonews/blob/es/israel-financial-services-firm-gmt-joins-ripplenet-f35a6014.md)
 * 2018-12-18 [Blockchain red con tarifas dinámicas dice que triplica TPS, superando Ethereum y Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/blockchain-network-with-dynamic-fees-says-it-triples-tps-overpassing-ethereum-and-bitcoin-0c83fb85.md)
 * 2018-12-18 [Japón: cripto clasificado como ' cripto-activos ' para prevenir la confusión con la licitación legal](https://github.com/theyapapa/cryptonews/blob/es/japan-crypto-classified-as-crypto-assets-to-prevent-confusion-with-legal-tender-4a687acd.md)
 * 2018-12-18 [Blockstream lanza el quinto satélite de streaming de Bitcoin blockchain desde el espacio](https://github.com/theyapapa/cryptonews/blob/es/blockstream-launches-5th-satellite-streaming-bitcoin-blockchain-from-space-aeaa51db.md)
