@@ -1,3 +1,4 @@
+* 2018-12-18 [Pro-Bitcoin чиновник в Белом доме: что мы знаем о новом начальника штаба Трампа](https://github.com/theyapapa/cryptonews/blob/ru/pro-bitcoin-official-in-the-white-house-what-we-know-about-trumps-new-chief-of-staff-66e5d3e1.md)
 * 2018-12-18 [Израиль: финансовые услуги фирма GMT приСоединяется к Риппленет](https://github.com/theyapapa/cryptonews/blob/ru/israel-financial-services-firm-gmt-joins-ripplenet-f35a6014.md)
 * 2018-12-18 [Блокчейн-сеть с динамическими платами говорит, что это тройной TPS, перепуская Эфириум и биткоин](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-network-with-dynamic-fees-says-it-triples-tps-overpassing-ethereum-and-bitcoin-0c83fb85.md)
 * 2018-12-18 [Япония: Crypto классифицируется как "крипто-активы", чтобы предотвратить путаницу с юридической тендер](https://github.com/theyapapa/cryptonews/blob/ru/japan-crypto-classified-as-crypto-assets-to-prevent-confusion-with-legal-tender-4a687acd.md)
