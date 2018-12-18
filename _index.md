@@ -1,3 +1,4 @@
+* 2018-12-18 [이스라엘: 금융 서비스 회사 GMT 합류](https://github.com/theyapapa/cryptonews/blob/ko/israel-financial-services-firm-gmt-joins-ripplenet-f35a6014.md)
 * 2018-12-18 [동적 수수료와 Blockchain 네트워크는이 더 리 움과 비트 코인을 통과, TPS를 세 배로 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-network-with-dynamic-fees-says-it-triples-tps-overpassing-ethereum-and-bitcoin-0c83fb85.md)
 * 2018-12-18 [일본: 법적 입찰과 혼동을 막기 위해 ' 암호 자산 '으로 분류 된 암호화](https://github.com/theyapapa/cryptonews/blob/ko/japan-crypto-classified-as-crypto-assets-to-prevent-confusion-with-legal-tender-4a687acd.md)
 * 2018-12-18 [블록 스트림이 공간에서 5 번째 위성 스트리밍 비트 코인 블록 체인 출시](https://github.com/theyapapa/cryptonews/blob/ko/blockstream-launches-5th-satellite-streaming-bitcoin-blockchain-from-space-aeaa51db.md)
