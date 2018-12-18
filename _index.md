@@ -1,3 +1,4 @@
+* 2018-12-17 [보고서: 전통적인 투자자가 창구 판매 비트 코인 시장으로 전환](https://github.com/theyapapa/cryptonews/blob/ko/report-traditional-investors-shift-to-over-the-counter-bitcoin-markets-4e0c5e2d.md)
 * 2018-12-17 [비트 코인, 리플,이 더 리 움 스텔라, EOS 라이트 코인 비트 코인 캐시 비트 코인 SV, 트 론, 카르다노: 가격 분석, 12 월 17](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-stellar-eos-litecoin-bitcoin-cash-bitcoin-sv-tron-cardano-price-analysis-dec-17-0ebe4634.md)
 * 2018-12-17 [이탈리아: 증권 레 귤 레이 터는 사기 투자 계획을 주장에 대 한 두 암호 회사를 일시 중단](https://github.com/theyapapa/cryptonews/blob/ko/italy-securities-regulator-suspends-two-crypto-firms-for-alleged-scam-investment-schemes-947238de.md)
 * 2018-12-17 [지난 30 일 동안 ICO 팀 지갑을 떠난 40만 이상의 ETH, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/over-400-000-eth-left-ico-team-wallets-in-the-past-thirty-days-data-shows-28ae01ef.md)
