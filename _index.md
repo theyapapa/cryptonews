@@ -1,3 +1,4 @@
+* 2018-12-18 [jp 모건 체이스 애 널 리스트는 장기 암호화 곰 시장이 기관에서 겁을 끄는 말](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-chase-analysts-say-prolonged-crypto-bear-market-is-scaring-off-institutions-00a0fd65.md)
 * 2018-12-18 [백악관의 프로 비트 코인 공식: 트럼프의 새로운 직원에 대해 우리가 알고 있는 것](https://github.com/theyapapa/cryptonews/blob/ko/pro-bitcoin-official-in-the-white-house-what-we-know-about-trumps-new-chief-of-staff-66e5d3e1.md)
 * 2018-12-18 [이스라엘: 금융 서비스 회사 GMT 합류](https://github.com/theyapapa/cryptonews/blob/ko/israel-financial-services-firm-gmt-joins-ripplenet-f35a6014.md)
 * 2018-12-18 [동적 수수료와 Blockchain 네트워크는이 더 리 움과 비트 코인을 통과, TPS를 세 배로 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-network-with-dynamic-fees-says-it-triples-tps-overpassing-ethereum-and-bitcoin-0c83fb85.md)
