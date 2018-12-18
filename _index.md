@@ -1,3 +1,4 @@
+* 2018-12-18 [Japón: cripto clasificado como ' cripto-activos ' para prevenir la confusión con la licitación legal](https://github.com/theyapapa/cryptonews/blob/es/japan-crypto-classified-as-crypto-assets-to-prevent-confusion-with-legal-tender-4a687acd.md)
 * 2018-12-18 [Blockstream lanza el quinto satélite de streaming de Bitcoin blockchain desde el espacio](https://github.com/theyapapa/cryptonews/blob/es/blockstream-launches-5th-satellite-streaming-bitcoin-blockchain-from-space-aeaa51db.md)
 * 2018-12-18 [Tim May: original Crypto anarquista que se disgustó con Crypto Hype](https://github.com/theyapapa/cryptonews/blob/es/tim-may-original-crypto-anarchist-who-was-displeased-with-crypto-hype-8600a616.md)
 * 2018-12-18 [La bolsa de Hong Kong llama supuesta Bitmain IPO vacilación ' rumores '](https://github.com/theyapapa/cryptonews/blob/es/hong-kong-stock-exchange-calls-alleged-bitmain-ipo-hesitation-rumors-429d0aec.md)
