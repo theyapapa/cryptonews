@@ -1,3 +1,4 @@
+* 2018-12-19 [홍콩 스타트업과의 MoU에 따라 암호화 결제를 수락 하는 장부](https://github.com/theyapapa/cryptonews/blob/ko/ledger-to-accept-crypto-payments-following-mou-with-hong-kong-startup-ef513c45.md)
 * 2018-12-19 [어떻게 한 프로젝트는 블록 체인을 통해 파라과이에 나무를 저장 하려고](https://github.com/theyapapa/cryptonews/blob/ko/how-one-project-is-going-to-save-trees-in-paraguay-via-blockchain-931ce593.md)
 * 2018-12-19 [프랑스 의회는 암호 화폐 소유자를 위한 쉬운 과세를 거부](https://github.com/theyapapa/cryptonews/blob/ko/french-parliament-refuses-to-ease-taxation-for-cryptocurrency-owners-83f37870.md)
 * 2018-12-19 [qtum 어워드 $400k 그랜트는 스마트 계약에 대 한 컬럼비아 대학 연구 팀에 R&D](https://github.com/theyapapa/cryptonews/blob/ko/qtum-awards-400k-grant-to-columbia-university-research-team-for-smart-contracts-rd-03f77a5d.md)
