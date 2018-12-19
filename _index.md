@@ -1,3 +1,4 @@
+* 2018-12-19 [영국, 암호 화폐 투자자를 위한 세무 자문](https://github.com/theyapapa/cryptonews/blob/ko/united-kingdom-releases-tax-advice-for-cryptocurrency-investors-b2cfe3e4.md)
 * 2018-12-19 [비트 코인은 가격 기념일 랠리를 $3800, 알트 코인은 더 높은 것으로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-extends-price-anniversary-rally-to-hit-3-800-as-altcoins-surge-higher-d833d484.md)
 * 2018-12-18 [아일랜드 고 등 법원의 판결 ' 새로운 법적 근거를 나누기 ', 지역 언론 보도](https://github.com/theyapapa/cryptonews/blob/ko/irish-high-court-ruling-breaks-new-legal-ground-reports-local-media-46f2d8fc.md)
 * 2018-12-18 [홍콩: 사칭 비트 코인 백만 장자 보도 ' 비 현금 ' 그것을 만드는 후 체포](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-purported-bitcoin-millionaire-reportedly-arrested-after-making-it-rain-cash-afb48cf6.md)
