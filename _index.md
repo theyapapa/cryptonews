@@ -1,3 +1,4 @@
+* 2018-12-19 [qtum 어워드 $400k 그랜트는 스마트 계약에 대 한 컬럼비아 대학 연구 팀에 R&D](https://github.com/theyapapa/cryptonews/blob/ko/qtum-awards-400k-grant-to-columbia-university-research-team-for-smart-contracts-rd-03f77a5d.md)
 * 2018-12-19 [연구원은 메시징 응용 프로그램에 암호화 펌프 및 덤프 그룹의 수천을 찾을](https://github.com/theyapapa/cryptonews/blob/ko/researchers-find-thousands-of-crypto-pump-and-dump-groups-on-messaging-apps-d2758c03.md)
 * 2018-12-19 [영국, 암호 화폐 투자자를 위한 세무 자문](https://github.com/theyapapa/cryptonews/blob/ko/united-kingdom-releases-tax-advice-for-cryptocurrency-investors-b2cfe3e4.md)
 * 2018-12-19 [비트 코인은 가격 기념일 랠리를 $3800, 알트 코인은 더 높은 것으로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-extends-price-anniversary-rally-to-hit-3-800-as-altcoins-surge-higher-d833d484.md)
