@@ -1,3 +1,4 @@
+* 2018-12-19 [Los investigadores encuentran miles de grupos Crypto de bombeo y volcado en aplicaciones de mensajería](https://github.com/theyapapa/cryptonews/blob/es/researchers-find-thousands-of-crypto-pump-and-dump-groups-on-messaging-apps-d2758c03.md)
 * 2018-12-19 [Reino Unido libera asesoría fiscal para inversionistas criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/united-kingdom-releases-tax-advice-for-cryptocurrency-investors-b2cfe3e4.md)
 * 2018-12-19 [Bitcoin extiende el precio del Rally de aniversario para golpear $3.800 como Altcoins aumento más alto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-extends-price-anniversary-rally-to-hit-3-800-as-altcoins-surge-higher-d833d484.md)
 * 2018-12-18 [Fallo del Tribunal Supremo irlandés "rompe nuevos fundamentos jurídicos", informa los medios locales](https://github.com/theyapapa/cryptonews/blob/es/irish-high-court-ruling-breaks-new-legal-ground-reports-local-media-46f2d8fc.md)
