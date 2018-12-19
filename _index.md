@@ -1,3 +1,4 @@
+* 2018-12-19 [Bitcoin расширяет цены юбилей ралли хит $3 800 как Altcoins всплеск выше](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-extends-price-anniversary-rally-to-hit-3-800-as-altcoins-surge-higher-d833d484.md)
 * 2018-12-18 [Ирландский Верховный суд правящей "нарушает новые правовые основания", сообщает местные СМИ](https://github.com/theyapapa/cryptonews/blob/ru/irish-high-court-ruling-breaks-new-legal-ground-reports-local-media-46f2d8fc.md)
 * 2018-12-18 [Гонконг: предполагаемый миллионер Bitcoin, как сообщается, арестован после внесения его "дождь наличными"](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-purported-bitcoin-millionaire-reportedly-arrested-after-making-it-rain-cash-afb48cf6.md)
 * 2018-12-18 [Novogratz галактики цифров не ожидает цену Bitcoin для того чтобы утонуть очень больше](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digitals-novogratz-does-not-expect-bitcoin-price-to-sink-much-more-625d3bf3.md)
