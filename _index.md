@@ -1,3 +1,4 @@
+* 2018-12-19 [Qtum награды $400K Грант Колумбийского университета исследовательской группы по смарт-контрактов R&D](https://github.com/theyapapa/cryptonews/blob/ru/qtum-awards-400k-grant-to-columbia-university-research-team-for-smart-contracts-rd-03f77a5d.md)
 * 2018-12-19 [ИсСледователи найти тысячи Crypto насосно-дамп группы на сообщениями Apps](https://github.com/theyapapa/cryptonews/blob/ru/researchers-find-thousands-of-crypto-pump-and-dump-groups-on-messaging-apps-d2758c03.md)
 * 2018-12-19 [Великобритания выпускает налоговые консультации для инвесторов Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/united-kingdom-releases-tax-advice-for-cryptocurrency-investors-b2cfe3e4.md)
 * 2018-12-19 [Bitcoin расширяет цены юбилей ралли хит $3 800 как Altcoins всплеск выше](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-extends-price-anniversary-rally-to-hit-3-800-as-altcoins-surge-higher-d833d484.md)
