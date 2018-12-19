@@ -1,3 +1,4 @@
+* 2018-12-18 [홍콩: 사칭 비트 코인 백만 장자 보도 ' 비 현금 ' 그것을 만드는 후 체포](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-purported-bitcoin-millionaire-reportedly-arrested-after-making-it-rain-cash-afb48cf6.md)
 * 2018-12-18 [갤럭시 디지털의 노 보 그 라 츠는 비트 코인 가격이 훨씬 더 싱크할 것을 기대 하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digitals-novogratz-does-not-expect-bitcoin-price-to-sink-much-more-625d3bf3.md)
 * 2018-12-18 [jp 모건 체이스 애 널 리스트는 장기 암호화 곰 시장이 기관에서 겁을 끄는 말](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-chase-analysts-say-prolonged-crypto-bear-market-is-scaring-off-institutions-00a0fd65.md)
 * 2018-12-18 [백악관의 프로 비트 코인 공식: 트럼프의 새로운 직원에 대해 우리가 알고 있는 것](https://github.com/theyapapa/cryptonews/blob/ko/pro-bitcoin-official-in-the-white-house-what-we-know-about-trumps-new-chief-of-staff-66e5d3e1.md)
