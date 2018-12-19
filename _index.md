@@ -1,3 +1,4 @@
+* 2018-12-18 [Novogratz галактики цифров не ожидает цену Bitcoin для того чтобы утонуть очень больше](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digitals-novogratz-does-not-expect-bitcoin-price-to-sink-much-more-625d3bf3.md)
 * 2018-12-18 [JPMorgan Чейз аналитики говорят, что длительный рынок крипто медведь пугает учреждений](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-chase-analysts-say-prolonged-crypto-bear-market-is-scaring-off-institutions-00a0fd65.md)
 * 2018-12-18 [Pro-Bitcoin чиновник в Белом доме: что мы знаем о новом начальника штаба Трампа](https://github.com/theyapapa/cryptonews/blob/ru/pro-bitcoin-official-in-the-white-house-what-we-know-about-trumps-new-chief-of-staff-66e5d3e1.md)
 * 2018-12-18 [Израиль: финансовые услуги фирма GMT приСоединяется к Риппленет](https://github.com/theyapapa/cryptonews/blob/ru/israel-financial-services-firm-gmt-joins-ripplenet-f35a6014.md)
