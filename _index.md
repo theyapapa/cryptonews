@@ -1,3 +1,4 @@
+* 2018-12-19 [El Parlamento francés se niega a aliviar la tributación de los propietarios de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/french-parliament-refuses-to-ease-taxation-for-cryptocurrency-owners-83f37870.md)
 * 2018-12-19 [Premios Qtum $400K beca para el equipo de investigación de la Universidad de Columbia para contratos inteligentes R&D](https://github.com/theyapapa/cryptonews/blob/es/qtum-awards-400k-grant-to-columbia-university-research-team-for-smart-contracts-rd-03f77a5d.md)
 * 2018-12-19 [Los investigadores encuentran miles de grupos Crypto de bombeo y volcado en aplicaciones de mensajería](https://github.com/theyapapa/cryptonews/blob/es/researchers-find-thousands-of-crypto-pump-and-dump-groups-on-messaging-apps-d2758c03.md)
 * 2018-12-19 [Reino Unido libera asesoría fiscal para inversionistas criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/united-kingdom-releases-tax-advice-for-cryptocurrency-investors-b2cfe3e4.md)
