@@ -1,3 +1,4 @@
+* 2018-12-20 [Blockstream, Швейцарская IT консалтинговая фирма подПисывает мод на услуги Блокчейн-интеграции](https://github.com/theyapapa/cryptonews/blob/ru/blockstream-swiss-it-consulting-firm-sign-mou-for-blockchain-integration-services-bcbac331.md)
 * 2018-12-20 [С 90% Monero заминированных, внимание превращается в "хвост излучения" от 2022](https://github.com/theyapapa/cryptonews/blob/ru/with-90-percent-of-monero-mined-attention-turns-to-tail-emission-from-2022-e61944f4.md)
 * 2018-12-20 [PwC предупреждает отсутствие страхового доступа мешает крипто-бизнесу](https://github.com/theyapapa/cryptonews/blob/ru/pwc-warns-lack-of-insurance-access-is-hindering-crypto-businesses-6fadf2b2.md)
 * 2018-12-20 [Bitcoin обратно более $4K как крипто рынки см пятый день зеленого](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-back-over-4k-as-crypto-markets-see-fifth-day-of-green-7c80b3d3.md)
