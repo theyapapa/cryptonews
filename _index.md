@@ -1,3 +1,4 @@
+* 2018-12-20 [Галактика цифровая торговля: текущие ралли может привести к чему-то больше](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-trading-current-rally-could-be-leading-to-something-bigger-fc085fb3.md)
 * 2018-12-20 [Coinbase движется $5 000 000 000, отчеты крупнейших крипто передачи на запись](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-moves-5-billion-reports-largest-crypto-transfer-on-record-4059c89a.md)
 * 2018-12-20 [Blockstream, Швейцарская IT консалтинговая фирма подПисывает мод на услуги Блокчейн-интеграции](https://github.com/theyapapa/cryptonews/blob/ru/blockstream-swiss-it-consulting-firm-sign-mou-for-blockchain-integration-services-bcbac331.md)
 * 2018-12-20 [С 90% Monero заминированных, внимание превращается в "хвост излучения" от 2022](https://github.com/theyapapa/cryptonews/blob/ru/with-90-percent-of-monero-mined-attention-turns-to-tail-emission-from-2022-e61944f4.md)
