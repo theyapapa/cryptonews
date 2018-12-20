@@ -1,3 +1,4 @@
+* 2018-12-19 [인기 있는 암호 마이닝 GPU 가격 다운 67% 2 월 이후](https://github.com/theyapapa/cryptonews/blob/ko/popular-crypto-mining-gpu-price-down-67-since-february-01092eaa.md)
 * 2018-12-19 [홍콩 스타트업과의 MoU에 따라 암호화 결제를 수락 하는 장부](https://github.com/theyapapa/cryptonews/blob/ko/ledger-to-accept-crypto-payments-following-mou-with-hong-kong-startup-ef513c45.md)
 * 2018-12-19 [어떻게 한 프로젝트는 블록 체인을 통해 파라과이에 나무를 저장 하려고](https://github.com/theyapapa/cryptonews/blob/ko/how-one-project-is-going-to-save-trees-in-paraguay-via-blockchain-931ce593.md)
 * 2018-12-19 [프랑스 의회는 암호 화폐 소유자를 위한 쉬운 과세를 거부](https://github.com/theyapapa/cryptonews/blob/ko/french-parliament-refuses-to-ease-taxation-for-cryptocurrency-owners-83f37870.md)
