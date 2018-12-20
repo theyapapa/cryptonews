@@ -1,3 +1,4 @@
+* 2018-12-20 [coinbase 이동 $50억, 보고서 기록에 가장 큰 암호화 전송](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-moves-5-billion-reports-largest-crypto-transfer-on-record-4059c89a.md)
 * 2018-12-20 [블록 체인 통합 서비스를 위한 스위스 IT 컨설팅 회사 사인 MoU 체결](https://github.com/theyapapa/cryptonews/blob/ko/blockstream-swiss-it-consulting-firm-sign-mou-for-blockchain-integration-services-bcbac331.md)
 * 2018-12-20 [monero의 90%가 채굴 되 면, 주의는 2022에서 ' 꼬리 방출 '으로 변합니다.](https://github.com/theyapapa/cryptonews/blob/ko/with-90-percent-of-monero-mined-attention-turns-to-tail-emission-from-2022-e61944f4.md)
 * 2018-12-20 [PwC는 보험 액세스의 부족은 암호화 비즈니스를 방해 하는 경고](https://github.com/theyapapa/cryptonews/blob/ko/pwc-warns-lack-of-insurance-access-is-hindering-crypto-businesses-6fadf2b2.md)
