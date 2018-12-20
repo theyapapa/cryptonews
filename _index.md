@@ -1,3 +1,4 @@
+* 2018-12-19 [보고서: 4억6000만 비트 코인 주소 밖으로, 단지 37% ' 경제적으로 관련 '](https://github.com/theyapapa/cryptonews/blob/ko/report-out-of-460-million-bitcoin-addresses-only-37-economically-relevant-5afb17e9.md)
 * 2018-12-19 [인기 있는 암호 마이닝 GPU 가격 다운 67% 2 월 이후](https://github.com/theyapapa/cryptonews/blob/ko/popular-crypto-mining-gpu-price-down-67-since-february-01092eaa.md)
 * 2018-12-19 [홍콩 스타트업과의 MoU에 따라 암호화 결제를 수락 하는 장부](https://github.com/theyapapa/cryptonews/blob/ko/ledger-to-accept-crypto-payments-following-mou-with-hong-kong-startup-ef513c45.md)
 * 2018-12-19 [어떻게 한 프로젝트는 블록 체인을 통해 파라과이에 나무를 저장 하려고](https://github.com/theyapapa/cryptonews/blob/ko/how-one-project-is-going-to-save-trees-in-paraguay-via-blockchain-931ce593.md)
