@@ -1,3 +1,4 @@
+* 2018-12-20 [PwC는 보험 액세스의 부족은 암호화 비즈니스를 방해 하는 경고](https://github.com/theyapapa/cryptonews/blob/ko/pwc-warns-lack-of-insurance-access-is-hindering-crypto-businesses-6fadf2b2.md)
 * 2018-12-20 [비트 코인은 크립 토 시장이 녹색의 다섯 번째 날을 참조로 $4k 이상](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-back-over-4k-as-crypto-markets-see-fifth-day-of-green-7c80b3d3.md)
 * 2018-12-19 [binance CEO 창 펭 자오 암호화에 대 한 2018 ' 보정 연도 '를 호출](https://github.com/theyapapa/cryptonews/blob/ko/binance-ceo-changpeng-zhao-calls-2018-correction-year-for-crypto-0d9a1fd1.md)
 * 2018-12-19 [보고서: 4억6000만 비트 코인 주소 밖으로, 단지 37% ' 경제적으로 관련 '](https://github.com/theyapapa/cryptonews/blob/ko/report-out-of-460-million-bitcoin-addresses-only-37-economically-relevant-5afb17e9.md)
