@@ -1,3 +1,4 @@
+* 2018-12-19 [Informe: de 460 millones direcciones bitcoin, sólo 37% ' económicamente relevante '](https://github.com/theyapapa/cryptonews/blob/es/report-out-of-460-million-bitcoin-addresses-only-37-economically-relevant-5afb17e9.md)
 * 2018-12-19 [Popular cripto minería GPU Price Down 67% desde febrero](https://github.com/theyapapa/cryptonews/blob/es/popular-crypto-mining-gpu-price-down-67-since-february-01092eaa.md)
 * 2018-12-19 [Ledger para aceptar cripto pagos después de MoU con Hong Kong startup](https://github.com/theyapapa/cryptonews/blob/es/ledger-to-accept-crypto-payments-following-mou-with-hong-kong-startup-ef513c45.md)
 * 2018-12-19 [Cómo un proyecto va a salvar árboles en Paraguay a través de blockchain](https://github.com/theyapapa/cryptonews/blob/es/how-one-project-is-going-to-save-trees-in-paraguay-via-blockchain-931ce593.md)
