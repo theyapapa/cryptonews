@@ -1,3 +1,4 @@
+* 2018-12-20 [PwC предупреждает отсутствие страхового доступа мешает крипто-бизнесу](https://github.com/theyapapa/cryptonews/blob/ru/pwc-warns-lack-of-insurance-access-is-hindering-crypto-businesses-6fadf2b2.md)
 * 2018-12-20 [Bitcoin обратно более $4K как крипто рынки см пятый день зеленого](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-back-over-4k-as-crypto-markets-see-fifth-day-of-green-7c80b3d3.md)
 * 2018-12-19 [Binance Генеральный директор Чангпенг Чжао звонки 2018 ' коррекции год ' для крипто](https://github.com/theyapapa/cryptonews/blob/ru/binance-ceo-changpeng-zhao-calls-2018-correction-year-for-crypto-0d9a1fd1.md)
 * 2018-12-19 [Отчет: из 460 000 000 Bitcoin адресов, только 37% ' экономически релевантные '](https://github.com/theyapapa/cryptonews/blob/ru/report-out-of-460-million-bitcoin-addresses-only-37-economically-relevant-5afb17e9.md)
