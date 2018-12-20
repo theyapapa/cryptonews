@@ -1,3 +1,4 @@
+* 2018-12-19 [Популярные Crypto Mining GPU Цена вниз 67% с февраля](https://github.com/theyapapa/cryptonews/blob/ru/popular-crypto-mining-gpu-price-down-67-since-february-01092eaa.md)
 * 2018-12-19 [ГК принять крипто платежей после МОВ с Гонконга стартап](https://github.com/theyapapa/cryptonews/blob/ru/ledger-to-accept-crypto-payments-following-mou-with-hong-kong-startup-ef513c45.md)
 * 2018-12-19 [Как один проект собирается сохранить деревья в Парагвае через Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/how-one-project-is-going-to-save-trees-in-paraguay-via-blockchain-931ce593.md)
 * 2018-12-19 [Французский парламент отКазывается облегчить налогообложение владельцев Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/french-parliament-refuses-to-ease-taxation-for-cryptocurrency-owners-83f37870.md)
