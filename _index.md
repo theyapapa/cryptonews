@@ -1,3 +1,4 @@
+* 2018-12-20 [Blockstream, consultora de ti Suiza firma MoU para servicios de integración de blockchain](https://github.com/theyapapa/cryptonews/blob/es/blockstream-swiss-it-consulting-firm-sign-mou-for-blockchain-integration-services-bcbac331.md)
 * 2018-12-20 [Con 90 por ciento de Monero minado, la atención se convierte en ' emisión de cola ' de 2022](https://github.com/theyapapa/cryptonews/blob/es/with-90-percent-of-monero-mined-attention-turns-to-tail-emission-from-2022-e61944f4.md)
 * 2018-12-20 [PwC advierte que la falta de acceso al seguro está obstaculizando negocios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/pwc-warns-lack-of-insurance-access-is-hindering-crypto-businesses-6fadf2b2.md)
 * 2018-12-20 [Bitcoin back Over $4K como cripto mercados ver quinto día de verde](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-back-over-4k-as-crypto-markets-see-fifth-day-of-green-7c80b3d3.md)
