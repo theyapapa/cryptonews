@@ -1,3 +1,4 @@
+* 2018-12-20 [Con 90 por ciento de Monero minado, la atención se convierte en ' emisión de cola ' de 2022](https://github.com/theyapapa/cryptonews/blob/es/with-90-percent-of-monero-mined-attention-turns-to-tail-emission-from-2022-e61944f4.md)
 * 2018-12-20 [PwC advierte que la falta de acceso al seguro está obstaculizando negocios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/pwc-warns-lack-of-insurance-access-is-hindering-crypto-businesses-6fadf2b2.md)
 * 2018-12-20 [Bitcoin back Over $4K como cripto mercados ver quinto día de verde](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-back-over-4k-as-crypto-markets-see-fifth-day-of-green-7c80b3d3.md)
 * 2018-12-19 [Binance CEO Changpeng Zhao llama 2018 ' año de corrección ' para Crypto](https://github.com/theyapapa/cryptonews/blob/es/binance-ceo-changpeng-zhao-calls-2018-correction-year-for-crypto-0d9a1fd1.md)
