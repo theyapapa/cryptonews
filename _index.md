@@ -1,3 +1,4 @@
+* 2018-12-20 [패리티는 블록 체인을 빌드하기 위한 도구 스택의 베타 버전을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/parity-launches-beta-version-of-tool-stack-for-building-blockchains-299aea61.md)
 * 2018-12-20 [암호 투자 플랫폼은 피터 티 엘, 디지털 통화 그룹에서 종자 자금을 확보](https://github.com/theyapapa/cryptonews/blob/ko/crypto-investment-platform-secures-seed-funding-from-peter-thiel-digital-currency-group-a5e442c8.md)
 * 2018-12-20 [갤럭시 디지털 트레이딩: 현재 랠리는 더 큰 것으로 이어질 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-trading-current-rally-could-be-leading-to-something-bigger-fc085fb3.md)
 * 2018-12-20 [coinbase 이동 $50억, 보고서 기록에 가장 큰 암호화 전송](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-moves-5-billion-reports-largest-crypto-transfer-on-record-4059c89a.md)
