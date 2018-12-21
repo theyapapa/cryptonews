@@ -1,3 +1,4 @@
+* 2018-12-21 [암호 atm의 수 꾸준히 성장 ' 암호화 겨울, ' 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/number-of-crypto-atms-steadily-growing-amid-crypto-winter-data-shows-9805ec10.md)
 * 2018-12-21 [한국 레 귤 레이 터는 무역 볼륨 조작을 주장 하는 세 upbit 직원을 기소](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-regulators-indict-three-upbit-employees-for-alleged-trade-volume-manipulation-a3dbca70.md)
 * 2018-12-20 [패리티는 블록 체인을 빌드하기 위한 도구 스택의 베타 버전을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/parity-launches-beta-version-of-tool-stack-for-building-blockchains-299aea61.md)
 * 2018-12-20 [암호 투자 플랫폼은 피터 티 엘, 디지털 통화 그룹에서 종자 자금을 확보](https://github.com/theyapapa/cryptonews/blob/ko/crypto-investment-platform-secures-seed-funding-from-peter-thiel-digital-currency-group-a5e442c8.md)
