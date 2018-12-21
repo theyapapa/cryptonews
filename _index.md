@@ -1,3 +1,4 @@
+* 2018-12-21 [7 월-9 월의 ASIC 광산 프로듀서 ebang 보고서 ' 중요 한 감소 '](https://github.com/theyapapa/cryptonews/blob/ko/mining-asic-producer-ebang-reports-significant-decreases-in-revenue-from-july-september-f9fbf3a9.md)
 * 2018-12-21 [암호 atm의 수 꾸준히 성장 ' 암호화 겨울, ' 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/number-of-crypto-atms-steadily-growing-amid-crypto-winter-data-shows-9805ec10.md)
 * 2018-12-21 [한국 레 귤 레이 터는 무역 볼륨 조작을 주장 하는 세 upbit 직원을 기소](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-regulators-indict-three-upbit-employees-for-alleged-trade-volume-manipulation-a3dbca70.md)
 * 2018-12-20 [패리티는 블록 체인을 빌드하기 위한 도구 스택의 베타 버전을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/parity-launches-beta-version-of-tool-stack-for-building-blockchains-299aea61.md)
