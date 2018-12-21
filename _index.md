@@ -1,3 +1,4 @@
+* 2018-12-20 [Паритет запускает бета-версию стека инструментов для строительства Блокчейнов](https://github.com/theyapapa/cryptonews/blob/ru/parity-launches-beta-version-of-tool-stack-for-building-blockchains-299aea61.md)
 * 2018-12-20 [Крипто-Инвестиционная платформа защищает начальное финансирование от Питера Тиль, цифровой валютной группы](https://github.com/theyapapa/cryptonews/blob/ru/crypto-investment-platform-secures-seed-funding-from-peter-thiel-digital-currency-group-a5e442c8.md)
 * 2018-12-20 [Галактика цифровая торговля: текущие ралли может привести к чему-то больше](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-trading-current-rally-could-be-leading-to-something-bigger-fc085fb3.md)
 * 2018-12-20 [Coinbase движется $5 000 000 000, отчеты крупнейших крипто передачи на запись](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-moves-5-billion-reports-largest-crypto-transfer-on-record-4059c89a.md)
