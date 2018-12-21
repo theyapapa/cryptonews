@@ -1,3 +1,4 @@
+* 2018-12-20 [La paridad lanza la versión beta de la pila de herramientas para construir Blockchains](https://github.com/theyapapa/cryptonews/blob/es/parity-launches-beta-version-of-tool-stack-for-building-blockchains-299aea61.md)
 * 2018-12-20 [La plataforma de inversión Crypto obtiene fondos de semilla de Peter Thiel, grupo de moneda digital](https://github.com/theyapapa/cryptonews/blob/es/crypto-investment-platform-secures-seed-funding-from-peter-thiel-digital-currency-group-a5e442c8.md)
 * 2018-12-20 [Galaxy digital Trading: Rally actual podría estar llevando a algo más grande](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digital-trading-current-rally-could-be-leading-to-something-bigger-fc085fb3.md)
 * 2018-12-20 [Coinbase mueve $5 mil millones, reporta la mayor transferencia Crypto en el registro](https://github.com/theyapapa/cryptonews/blob/es/coinbase-moves-5-billion-reports-largest-crypto-transfer-on-record-4059c89a.md)
