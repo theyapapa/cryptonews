@@ -1,3 +1,4 @@
+* 2018-12-21 [После крипто майнинг аварии, GPU продюсер NVIDIA худший исполнитель в С&П 500](https://github.com/theyapapa/cryptonews/blob/ru/following-crypto-mining-crash-gpu-producer-nvidia-worst-performer-in-sp-500-e6dd0ae5.md)
 * 2018-12-21 [Bitfinex Crypto Exchange запускает маржинальную торговлю для Stablecoin троса](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-crypto-exchange-launches-margin-trading-for-stablecoin-tether-9d4276cb.md)
 * 2018-12-21 [Законодатели США вводят законопроект о введении санкций против иранской национальной криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/us-lawmakers-introduce-bill-to-impose-sanctions-on-iranian-national-cryptocurrency-221467e6.md)
 * 2018-12-21 [В провинции Гуандун официально начинает работу Китайская зона инкубации](https://github.com/theyapapa/cryptonews/blob/ru/chinese-fintech-incubation-zone-officially-begins-operations-in-guangdong-province-6f1999b0.md)
