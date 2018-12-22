@@ -1,3 +1,4 @@
+* 2018-12-22 [El Banco Central de Israel emite una solicitud de información sobre DLT](https://github.com/theyapapa/cryptonews/blob/es/israels-central-bank-issues-request-for-information-on-dlt-01dd9c65.md)
 * 2018-12-22 [Bitcoin dips por debajo de $3.900 como Crypto Markets ver rojo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-dips-below-3-900-as-crypto-markets-see-red-facfc4a8.md)
 * 2018-12-21 [Después de Crypto minería Crash, productor de GPU NVIDIA Worst Performer en S&P 500](https://github.com/theyapapa/cryptonews/blob/es/following-crypto-mining-crash-gpu-producer-nvidia-worst-performer-in-sp-500-e6dd0ae5.md)
 * 2018-12-21 [Bitfinex Crypto Exchange lanza margen de Trading para Stablecoin Tether](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-crypto-exchange-launches-margin-trading-for-stablecoin-tether-9d4276cb.md)
