@@ -1,3 +1,4 @@
+* 2018-12-21 [bitfinex 암호화 교환은 stablecoin 밧줄에 대 한 마진 거래를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-crypto-exchange-launches-margin-trading-for-stablecoin-tether-9d4276cb.md)
 * 2018-12-21 [미국 의원은 이란 국가 암호 화폐에 제재를 부과 하기 위해 법안을 소개](https://github.com/theyapapa/cryptonews/blob/ko/us-lawmakers-introduce-bill-to-impose-sanctions-on-iranian-national-cryptocurrency-221467e6.md)
 * 2018-12-21 [중국 핀 테크 지역 공식적으로 광 동 지방에서 사업을 시작](https://github.com/theyapapa/cryptonews/blob/ko/chinese-fintech-incubation-zone-officially-begins-operations-in-guangdong-province-6f1999b0.md)
 * 2018-12-21 [7 월-9 월의 ASIC 광산 프로듀서 ebang 보고서 ' 중요 한 감소 '](https://github.com/theyapapa/cryptonews/blob/ko/mining-asic-producer-ebang-reports-significant-decreases-in-revenue-from-july-september-f9fbf3a9.md)
