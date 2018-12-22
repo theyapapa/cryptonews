@@ -1,3 +1,4 @@
+* 2018-12-22 [Bitcoin провалы ниже $3 900 как крипто рынки видят красный](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dips-below-3-900-as-crypto-markets-see-red-facfc4a8.md)
 * 2018-12-21 [После крипто майнинг аварии, GPU продюсер NVIDIA худший исполнитель в С&П 500](https://github.com/theyapapa/cryptonews/blob/ru/following-crypto-mining-crash-gpu-producer-nvidia-worst-performer-in-sp-500-e6dd0ae5.md)
 * 2018-12-21 [Bitfinex Crypto Exchange запускает маржинальную торговлю для Stablecoin троса](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-crypto-exchange-launches-margin-trading-for-stablecoin-tether-9d4276cb.md)
 * 2018-12-21 [Законодатели США вводят законопроект о введении санкций против иранской национальной криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/us-lawmakers-introduce-bill-to-impose-sanctions-on-iranian-national-cryptocurrency-221467e6.md)
