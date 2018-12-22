@@ -1,3 +1,4 @@
+* 2018-12-22 [비트 코인은 $3900 아래에 하락 합니다. 암호화 시장은 빨간색을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-900-as-crypto-markets-see-red-facfc4a8.md)
 * 2018-12-21 [다음 암호화 광업 충돌, S&P 500에서 GPU 생산자 엔비디아 최악의 수행자](https://github.com/theyapapa/cryptonews/blob/ko/following-crypto-mining-crash-gpu-producer-nvidia-worst-performer-in-sp-500-e6dd0ae5.md)
 * 2018-12-21 [bitfinex 암호화 교환은 stablecoin 밧줄에 대 한 마진 거래를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-crypto-exchange-launches-margin-trading-for-stablecoin-tether-9d4276cb.md)
 * 2018-12-21 [미국 의원은 이란 국가 암호 화폐에 제재를 부과 하기 위해 법안을 소개](https://github.com/theyapapa/cryptonews/blob/ko/us-lawmakers-introduce-bill-to-impose-sanctions-on-iranian-national-cryptocurrency-221467e6.md)
