@@ -1,3 +1,4 @@
+* 2018-12-21 [Bitfinex Crypto Exchange запускает маржинальную торговлю для Stablecoin троса](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-crypto-exchange-launches-margin-trading-for-stablecoin-tether-9d4276cb.md)
 * 2018-12-21 [Законодатели США вводят законопроект о введении санкций против иранской национальной криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/us-lawmakers-introduce-bill-to-impose-sanctions-on-iranian-national-cryptocurrency-221467e6.md)
 * 2018-12-21 [В провинции Гуандун официально начинает работу Китайская зона инкубации](https://github.com/theyapapa/cryptonews/blob/ru/chinese-fintech-incubation-zone-officially-begins-operations-in-guangdong-province-6f1999b0.md)
 * 2018-12-21 [Добыча ASIC производитель Эбангу отчеты ' значительное снижение ' в доход с июля-сентября](https://github.com/theyapapa/cryptonews/blob/ru/mining-asic-producer-ebang-reports-significant-decreases-in-revenue-from-july-september-f9fbf3a9.md)
