@@ -1,3 +1,4 @@
+* 2018-12-22 [Центральный банк Израиля выДает запрос на информацию о ДЗО](https://github.com/theyapapa/cryptonews/blob/ru/israels-central-bank-issues-request-for-information-on-dlt-01dd9c65.md)
 * 2018-12-22 [Bitcoin провалы ниже $3 900 как крипто рынки видят красный](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dips-below-3-900-as-crypto-markets-see-red-facfc4a8.md)
 * 2018-12-21 [После крипто майнинг аварии, GPU продюсер NVIDIA худший исполнитель в С&П 500](https://github.com/theyapapa/cryptonews/blob/ru/following-crypto-mining-crash-gpu-producer-nvidia-worst-performer-in-sp-500-e6dd0ae5.md)
 * 2018-12-21 [Bitfinex Crypto Exchange запускает маржинальную торговлю для Stablecoin троса](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-crypto-exchange-launches-margin-trading-for-stablecoin-tether-9d4276cb.md)
