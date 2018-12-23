@@ -1,3 +1,4 @@
+* 2018-12-22 [Эфириум соУчредитель звонки ' Криптоботтом 2018 '](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-co-founder-calls-the-cryptobottom-of-2018-8514ca5f.md)
 * 2018-12-22 [Центральный банк Израиля выДает запрос на информацию о ДЗО](https://github.com/theyapapa/cryptonews/blob/ru/israels-central-bank-issues-request-for-information-on-dlt-01dd9c65.md)
 * 2018-12-22 [Bitcoin провалы ниже $3 900 как крипто рынки видят красный](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dips-below-3-900-as-crypto-markets-see-red-facfc4a8.md)
 * 2018-12-21 [После крипто майнинг аварии, GPU продюсер NVIDIA худший исполнитель в С&П 500](https://github.com/theyapapa/cryptonews/blob/ru/following-crypto-mining-crash-gpu-producer-nvidia-worst-performer-in-sp-500-e6dd0ae5.md)
