@@ -1,3 +1,4 @@
+* 2018-12-23 [맨 위로 5 암호화 수행자 개요: 비트 코인 현금, IOTA, 트 론, 비트 코인 SV, 대시](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
 * 2018-12-23 [hodler의 다이제스트, 12 월 17 일-23 일: 주요 기사, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-dec-1723-top-stories-price-movements-quotes-and-fud-of-the-week-572f924c.md)
 * 2018-12-22 [펌프 및 덤프 그룹 ' 광범위 하 게 ' 시장 남아 크게 규제](https://github.com/theyapapa/cryptonews/blob/ko/pump-and-dump-groups-become-widespread-as-market-remains-largely-unregulated-d7442c45.md)
 * 2018-12-22 [에 테 리 움 공동 설립자 호출 ' 2018의 크립 토 맨 '](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-calls-the-cryptobottom-of-2018-8514ca5f.md)
