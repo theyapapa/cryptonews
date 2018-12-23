@@ -1,3 +1,4 @@
+* 2018-12-22 [펌프 및 덤프 그룹 ' 광범위 하 게 ' 시장 남아 크게 규제](https://github.com/theyapapa/cryptonews/blob/ko/pump-and-dump-groups-become-widespread-as-market-remains-largely-unregulated-d7442c45.md)
 * 2018-12-22 [에 테 리 움 공동 설립자 호출 ' 2018의 크립 토 맨 '](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-calls-the-cryptobottom-of-2018-8514ca5f.md)
 * 2018-12-22 [이스라엘의 중앙 은행이 DLT에 대 한 정보 요청을 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/israels-central-bank-issues-request-for-information-on-dlt-01dd9c65.md)
 * 2018-12-22 [비트 코인은 $3900 아래에 하락 합니다. 암호화 시장은 빨간색을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-900-as-crypto-markets-see-red-facfc4a8.md)
