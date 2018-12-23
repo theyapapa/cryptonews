@@ -1,3 +1,4 @@
+* 2018-12-23 [Hodler's Digest, 17 – 23 de diciembre: mejores historias, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-dec-1723-top-stories-price-movements-quotes-and-fud-of-the-week-572f924c.md)
 * 2018-12-22 [Los grupos de bombeo y volcado se vuelven "generalizados", ya que el mercado permanece en gran medida no regulado](https://github.com/theyapapa/cryptonews/blob/es/pump-and-dump-groups-become-widespread-as-market-remains-largely-unregulated-d7442c45.md)
 * 2018-12-22 [Ethereum Co-Founder llama ' el Cryptobottom de 2018 '](https://github.com/theyapapa/cryptonews/blob/es/ethereum-co-founder-calls-the-cryptobottom-of-2018-8514ca5f.md)
 * 2018-12-22 [El Banco Central de Israel emite una solicitud de información sobre DLT](https://github.com/theyapapa/cryptonews/blob/es/israels-central-bank-issues-request-for-information-on-dlt-01dd9c65.md)
