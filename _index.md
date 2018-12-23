@@ -1,3 +1,4 @@
+* 2018-12-23 [Top 5 cripto intérpretes Resumen: Bitcoin Cash, IOTA, TRON, Bitcoin SV, DASH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
 * 2018-12-23 [Hodler's Digest, 17 – 23 de diciembre: mejores historias, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-dec-1723-top-stories-price-movements-quotes-and-fud-of-the-week-572f924c.md)
 * 2018-12-22 [Los grupos de bombeo y volcado se vuelven "generalizados", ya que el mercado permanece en gran medida no regulado](https://github.com/theyapapa/cryptonews/blob/es/pump-and-dump-groups-become-widespread-as-market-remains-largely-unregulated-d7442c45.md)
 * 2018-12-22 [Ethereum Co-Founder llama ' el Cryptobottom de 2018 '](https://github.com/theyapapa/cryptonews/blob/es/ethereum-co-founder-calls-the-cryptobottom-of-2018-8514ca5f.md)
