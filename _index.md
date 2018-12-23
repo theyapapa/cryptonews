@@ -1,3 +1,4 @@
+* 2018-12-23 [sbi 홀딩스의 암호 교환 vctrade는 비트 코인을 허용,이 더 리 움, 리플 예금](https://github.com/theyapapa/cryptonews/blob/ko/sbi-holdings-crypto-exchange-vctrade-accepts-bitcoin-ethereum-ripple-deposits-f06f8e89.md)
 * 2018-12-23 [맨 위로 5 암호화 수행자 개요: 비트 코인 현금, IOTA, 트 론, 비트 코인 SV, 대시](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
 * 2018-12-23 [hodler의 다이제스트, 12 월 17 일-23 일: 주요 기사, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-dec-1723-top-stories-price-movements-quotes-and-fud-of-the-week-572f924c.md)
 * 2018-12-22 [펌프 및 덤프 그룹 ' 광범위 하 게 ' 시장 남아 크게 규제](https://github.com/theyapapa/cryptonews/blob/ko/pump-and-dump-groups-become-widespread-as-market-remains-largely-unregulated-d7442c45.md)
