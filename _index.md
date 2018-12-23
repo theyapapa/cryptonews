@@ -1,3 +1,4 @@
+* 2018-12-23 [Дайджест Ходлер, 17 – 23 декабря: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-dec-1723-top-stories-price-movements-quotes-and-fud-of-the-week-572f924c.md)
 * 2018-12-22 [Группы насосов и дампов становятся "широко распространенными", поскольку рынок остается в значительной степени нерегулируемым](https://github.com/theyapapa/cryptonews/blob/ru/pump-and-dump-groups-become-widespread-as-market-remains-largely-unregulated-d7442c45.md)
 * 2018-12-22 [Эфириум соУчредитель звонки ' Криптоботтом 2018 '](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-co-founder-calls-the-cryptobottom-of-2018-8514ca5f.md)
 * 2018-12-22 [Центральный банк Израиля выДает запрос на информацию о ДЗО](https://github.com/theyapapa/cryptonews/blob/ru/israels-central-bank-issues-request-for-information-on-dlt-01dd9c65.md)
