@@ -1,3 +1,4 @@
+* 2018-12-24 [Bloomberg: Уолл-стрит гигантов отЛожить ввод крипто промышленности на фоне падения цен](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-wall-street-giants-postpone-entering-crypto-industry-amid-falling-prices-1fd10c53.md)
 * 2018-12-24 [Эфириум, пульсация свинца Альткоин Цена с более чем 15 процентов прибыли](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-ripple-lead-altcoin-price-charge-with-more-than-15-percent-gains-e8cbb655.md)
 * 2018-12-24 [Новые рейтинги Криптовалют в Китае смотрите BTC SLIP пока боевую готовность EOS поддерживает номер один](https://github.com/theyapapa/cryptonews/blob/ru/chinas-new-cryptocurrency-ratings-see-btc-slip-while-embattled-eos-maintains-number-one-d3c13732.md)
 * 2018-12-24 [Top Crypto Exchange Binance добавляет рябь-основанные торговые пары в новом расширении](https://github.com/theyapapa/cryptonews/blob/ru/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
