@@ -1,3 +1,4 @@
+* 2018-12-24 [Las nuevas calificaciones de Criptomonedas de China Ver BTC slip mientras Embattled EOS mantiene el número uno](https://github.com/theyapapa/cryptonews/blob/es/chinas-new-cryptocurrency-ratings-see-btc-slip-while-embattled-eos-maintains-number-one-d3c13732.md)
 * 2018-12-24 [Top Crypto intercambio Binance añade Ripple-based Trading pares en nueva expansión](https://github.com/theyapapa/cryptonews/blob/es/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
 * 2018-12-23 [Crypto Exchange Vctrade de SBI Holdings acepta bitcoin, Ethereum, depósitos de ondulación](https://github.com/theyapapa/cryptonews/blob/es/sbi-holdings-crypto-exchange-vctrade-accepts-bitcoin-ethereum-ripple-deposits-f06f8e89.md)
 * 2018-12-23 [Top 5 cripto intérpretes Resumen: Bitcoin Cash, IOTA, TRON, Bitcoin SV, DASH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
