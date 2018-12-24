@@ -1,3 +1,4 @@
+* 2018-12-24 [Top Crypto Exchange Binance добавляет рябь-основанные торговые пары в новом расширении](https://github.com/theyapapa/cryptonews/blob/ru/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
 * 2018-12-23 [ВОО Holdings ' Crypto Exchange Вктраде принимает Bitcoin, Эфириум (эфир), рябь депозиты](https://github.com/theyapapa/cryptonews/blob/ru/sbi-holdings-crypto-exchange-vctrade-accepts-bitcoin-ethereum-ripple-deposits-f06f8e89.md)
 * 2018-12-23 [Топ 5 крипто исполнители Обзор: Bitcoin Cash, IOTA, трон, Bitcoin SV, DASH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
 * 2018-12-23 [Дайджест Ходлер, 17 – 23 декабря: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-dec-1723-top-stories-price-movements-quotes-and-fud-of-the-week-572f924c.md)
