@@ -1,3 +1,4 @@
+* 2018-12-24 [블룸버그: 월스트리트 자이언츠가 떨어지는 가격 속에서 암호 산업을 입력 연기](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-wall-street-giants-postpone-entering-crypto-industry-amid-falling-prices-1fd10c53.md)
 * 2018-12-24 [에 테 리 움, 리플 리드 알트 코인 가격 요금 이상 15% 이득](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-ripple-lead-altcoin-price-charge-with-more-than-15-percent-gains-e8cbb655.md)
 * 2018-12-24 [중국의 새로운 암호 화폐 등급에 대 한 자세한 내용은 BTC 슬립을 참조 하십시오.](https://github.com/theyapapa/cryptonews/blob/ko/chinas-new-cryptocurrency-ratings-see-btc-slip-while-embattled-eos-maintains-number-one-d3c13732.md)
 * 2018-12-24 [최고 암호 교환 binance 새로운 확장에 리플 기반 거래 쌍을 추가](https://github.com/theyapapa/cryptonews/blob/ko/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
