@@ -1,3 +1,4 @@
+* 2018-12-24 [Top Crypto intercambio Binance añade Ripple-based Trading pares en nueva expansión](https://github.com/theyapapa/cryptonews/blob/es/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
 * 2018-12-23 [Crypto Exchange Vctrade de SBI Holdings acepta bitcoin, Ethereum, depósitos de ondulación](https://github.com/theyapapa/cryptonews/blob/es/sbi-holdings-crypto-exchange-vctrade-accepts-bitcoin-ethereum-ripple-deposits-f06f8e89.md)
 * 2018-12-23 [Top 5 cripto intérpretes Resumen: Bitcoin Cash, IOTA, TRON, Bitcoin SV, DASH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
 * 2018-12-23 [Hodler's Digest, 17 – 23 de diciembre: mejores historias, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-dec-1723-top-stories-price-movements-quotes-and-fud-of-the-week-572f924c.md)
