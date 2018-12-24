@@ -1,3 +1,4 @@
+* 2018-12-24 [Новые рейтинги Криптовалют в Китае смотрите BTC SLIP пока боевую готовность EOS поддерживает номер один](https://github.com/theyapapa/cryptonews/blob/ru/chinas-new-cryptocurrency-ratings-see-btc-slip-while-embattled-eos-maintains-number-one-d3c13732.md)
 * 2018-12-24 [Top Crypto Exchange Binance добавляет рябь-основанные торговые пары в новом расширении](https://github.com/theyapapa/cryptonews/blob/ru/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
 * 2018-12-23 [ВОО Holdings ' Crypto Exchange Вктраде принимает Bitcoin, Эфириум (эфир), рябь депозиты](https://github.com/theyapapa/cryptonews/blob/ru/sbi-holdings-crypto-exchange-vctrade-accepts-bitcoin-ethereum-ripple-deposits-f06f8e89.md)
 * 2018-12-23 [Топ 5 крипто исполнители Обзор: Bitcoin Cash, IOTA, трон, Bitcoin SV, DASH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
