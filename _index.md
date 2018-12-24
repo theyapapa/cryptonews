@@ -1,3 +1,4 @@
+* 2018-12-24 [Эфириум, пульсация свинца Альткоин Цена с более чем 15 процентов прибыли](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-ripple-lead-altcoin-price-charge-with-more-than-15-percent-gains-e8cbb655.md)
 * 2018-12-24 [Новые рейтинги Криптовалют в Китае смотрите BTC SLIP пока боевую готовность EOS поддерживает номер один](https://github.com/theyapapa/cryptonews/blob/ru/chinas-new-cryptocurrency-ratings-see-btc-slip-while-embattled-eos-maintains-number-one-d3c13732.md)
 * 2018-12-24 [Top Crypto Exchange Binance добавляет рябь-основанные торговые пары в новом расширении](https://github.com/theyapapa/cryptonews/blob/ru/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
 * 2018-12-23 [ВОО Holdings ' Crypto Exchange Вктраде принимает Bitcoin, Эфириум (эфир), рябь депозиты](https://github.com/theyapapa/cryptonews/blob/ru/sbi-holdings-crypto-exchange-vctrade-accepts-bitcoin-ethereum-ripple-deposits-f06f8e89.md)
