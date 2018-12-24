@@ -1,3 +1,4 @@
+* 2018-12-24 [중국의 새로운 암호 화폐 등급에 대 한 자세한 내용은 BTC 슬립을 참조 하십시오.](https://github.com/theyapapa/cryptonews/blob/ko/chinas-new-cryptocurrency-ratings-see-btc-slip-while-embattled-eos-maintains-number-one-d3c13732.md)
 * 2018-12-24 [최고 암호 교환 binance 새로운 확장에 리플 기반 거래 쌍을 추가](https://github.com/theyapapa/cryptonews/blob/ko/top-crypto-exchange-binance-adds-ripple-based-trading-pairs-in-new-expansion-82cbf235.md)
 * 2018-12-23 [sbi 홀딩스의 암호 교환 vctrade는 비트 코인을 허용,이 더 리 움, 리플 예금](https://github.com/theyapapa/cryptonews/blob/ko/sbi-holdings-crypto-exchange-vctrade-accepts-bitcoin-ethereum-ripple-deposits-f06f8e89.md)
 * 2018-12-23 [맨 위로 5 암호화 수행자 개요: 비트 코인 현금, IOTA, 트 론, 비트 코인 SV, 대시](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bitcoin-cash-iota-tron-bitcoin-sv-dash-04c29961.md)
