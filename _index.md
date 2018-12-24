@@ -1,3 +1,4 @@
+* 2018-12-24 [비트 코인, 리플,이 더 리 움 비트 코인 캐시 스텔라, EOS, 라이트 코인 비트 코인 SV 트 론](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-stellar-eos-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-24-77ace6ac.md)
 * 2018-12-24 [Ex-CIA 공식 주장 블록 체인은 미국 국가 안보 미래에 ' 가장 큰 위협 '](https://github.com/theyapapa/cryptonews/blob/ko/ex-cia-official-claims-blockchain-is-biggest-threat-to-future-of-us-national-security-2b2572d6.md)
 * 2018-12-24 [블룸버그: 월스트리트 자이언츠가 떨어지는 가격 속에서 암호 산업을 입력 연기](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-wall-street-giants-postpone-entering-crypto-industry-amid-falling-prices-1fd10c53.md)
 * 2018-12-24 [에 테 리 움, 리플 리드 알트 코인 가격 요금 이상 15% 이득](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-ripple-lead-altcoin-price-charge-with-more-than-15-percent-gains-e8cbb655.md)
