@@ -1,3 +1,4 @@
+* 2018-12-25 [모든 cryptos는 명백 하 게 축제 수정에 의해 시장 타격으로 주요 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/all-cryptos-see-major-losses-as-market-hit-by-distinctly-unfestive-correction-a3842cf8.md)
 * 2018-12-25 [GMO 인터넷은 Q4에서 ' 특별 한 손실 '을 기록한 후 비트 코인 광부 생산을 종료 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/gmo-internet-exits-bitcoin-miner-production-after-recording-extraordinary-loss-in-q4-bf30e8d3.md)
 * 2018-12-24 [알트 코인 비트 코인 개인 확인 추가 200만 동전 비밀리에 미리 채굴](https://github.com/theyapapa/cryptonews/blob/ko/altcoin-bitcoin-private-confirms-additional-2-million-coins-secretly-premined-68474712.md)
 * 2018-12-24 [비트 코인, 리플,이 더 리 움 비트 코인 캐시 스텔라, EOS, 라이트 코인 비트 코인 SV 트 론](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-stellar-eos-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-24-77ace6ac.md)
