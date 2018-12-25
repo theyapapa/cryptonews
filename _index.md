@@ -1,3 +1,4 @@
+* 2018-12-25 [GMO 인터넷은 Q4에서 ' 특별 한 손실 '을 기록한 후 비트 코인 광부 생산을 종료 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/gmo-internet-exits-bitcoin-miner-production-after-recording-extraordinary-loss-in-q4-bf30e8d3.md)
 * 2018-12-24 [알트 코인 비트 코인 개인 확인 추가 200만 동전 비밀리에 미리 채굴](https://github.com/theyapapa/cryptonews/blob/ko/altcoin-bitcoin-private-confirms-additional-2-million-coins-secretly-premined-68474712.md)
 * 2018-12-24 [비트 코인, 리플,이 더 리 움 비트 코인 캐시 스텔라, EOS, 라이트 코인 비트 코인 SV 트 론](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-stellar-eos-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-24-77ace6ac.md)
 * 2018-12-24 [Ex-CIA 공식 주장 블록 체인은 미국 국가 안보 미래에 ' 가장 큰 위협 '](https://github.com/theyapapa/cryptonews/blob/ko/ex-cia-official-claims-blockchain-is-biggest-threat-to-future-of-us-national-security-2b2572d6.md)
