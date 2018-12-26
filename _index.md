@@ -1,3 +1,4 @@
+* 2018-12-25 [왜 비트 코인,이 더 리 움 및 전체 암호화 시장이 가치에 미치지 못하는가](https://github.com/theyapapa/cryptonews/blob/ko/why-bitcoin-ethereum-and-the-entire-crypto-market-are-down-in-value-f85d744f.md)
 * 2018-12-25 [미국 은행, 새로운 블록 체인 특허를 대상으로 현금 처리를 공개](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-america-reveals-fresh-blockchain-patent-targeting-cash-handling-dcceb16c.md)
 * 2018-12-25 [모든 cryptos는 명백 하 게 축제 수정에 의해 시장 타격으로 주요 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/all-cryptos-see-major-losses-as-market-hit-by-distinctly-unfestive-correction-a3842cf8.md)
 * 2018-12-25 [GMO 인터넷은 Q4에서 ' 특별 한 손실 '을 기록한 후 비트 코인 광부 생산을 종료 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/gmo-internet-exits-bitcoin-miner-production-after-recording-extraordinary-loss-in-q4-bf30e8d3.md)
