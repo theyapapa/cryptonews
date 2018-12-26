@@ -1,3 +1,4 @@
+* 2018-12-25 [Почему Bitcoin, Эфириум и весь крипто-рынок снизились в цене](https://github.com/theyapapa/cryptonews/blob/ru/why-bitcoin-ethereum-and-the-entire-crypto-market-are-down-in-value-f85d744f.md)
 * 2018-12-25 [Банк Америки расКрывает новый Блокчейн патент наЦеливания обработки денежных средств](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-reveals-fresh-blockchain-patent-targeting-cash-handling-dcceb16c.md)
 * 2018-12-25 [Все крипты видят основные потери в качестве попадания на рынок заметной непраздничной коррекцией](https://github.com/theyapapa/cryptonews/blob/ru/all-cryptos-see-major-losses-as-market-hit-by-distinctly-unfestive-correction-a3842cf8.md)
 * 2018-12-25 [ГМО Интернет выходы Bitcoin Шахтер производства после записи "чрезвычайные потери" в Q4](https://github.com/theyapapa/cryptonews/blob/ru/gmo-internet-exits-bitcoin-miner-production-after-recording-extraordinary-loss-in-q4-bf30e8d3.md)
