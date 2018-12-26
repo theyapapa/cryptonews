@@ -1,3 +1,4 @@
+* 2018-12-26 [El precio de Bitcoin irá por debajo de $3.000, Anthony Pompliano dice mainstream media](https://github.com/theyapapa/cryptonews/blob/es/bitcoins-price-will-go-below-3-000-anthony-pompliano-tells-mainstream-media-369907c2.md)
 * 2018-12-26 [2019 verá la entrada de más jugadores institucionales en Crypto, dice Asia FinTech PwC Leader](https://github.com/theyapapa/cryptonews/blob/es/2019-will-see-entry-of-more-institutional-players-in-crypto-says-asia-fintech-pwc-leader-d8c88dcd.md)
 * 2018-12-26 [2019 Stanford blockchain Conference focos blockchain seguridad y ' riesgo '](https://github.com/theyapapa/cryptonews/blob/es/2019-stanford-blockchain-conference-spotlights-blockchain-security-and-risk-5f1e0d5e.md)
 * 2018-12-26 [BitMEX CEO: Etereum ' pondrá a prueba rápidamente $200 ' cuando el mercado ICO regresa](https://github.com/theyapapa/cryptonews/blob/es/bitmex-ceo-ethereum-will-quickly-test-200-when-ico-market-returns-c005b7c7.md)
