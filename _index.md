@@ -1,3 +1,4 @@
+* 2018-12-26 [2019는 암호 화폐로 더 많은 기관 선수들의 입장을 볼 것 이며,이는 아시아 핀 테크 PwC 리더](https://github.com/theyapapa/cryptonews/blob/ko/2019-will-see-entry-of-more-institutional-players-in-crypto-says-asia-fintech-pwc-leader-d8c88dcd.md)
 * 2018-12-26 [2019 스탠포드 블록 체인 컨퍼런스, 블록 체인 보안과 ' 리스크 ' 조명](https://github.com/theyapapa/cryptonews/blob/ko/2019-stanford-blockchain-conference-spotlights-blockchain-security-and-risk-5f1e0d5e.md)
 * 2018-12-26 [bitmex CEO:이 더 리 움 '은 ICO 시장이 돌아올 때 신속 하 게 $200 '을 테스트 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-ceo-ethereum-will-quickly-test-200-when-ico-market-returns-c005b7c7.md)
 * 2018-12-25 [국제 결제가 이루어질 때 암호화 변동성을 해결 하는 새로운 송금 시스템](https://github.com/theyapapa/cryptonews/blob/ko/new-remittances-system-to-tackle-crypto-volatility-when-international-payments-are-made-64e2863e.md)
