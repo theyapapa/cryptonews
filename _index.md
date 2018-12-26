@@ -1,3 +1,4 @@
+* 2018-12-26 [2019 Stanford blockchain Conference focos blockchain seguridad y ' riesgo '](https://github.com/theyapapa/cryptonews/blob/es/2019-stanford-blockchain-conference-spotlights-blockchain-security-and-risk-5f1e0d5e.md)
 * 2018-12-26 [BitMEX CEO: Etereum ' pondrá a prueba rápidamente $200 ' cuando el mercado ICO regresa](https://github.com/theyapapa/cryptonews/blob/es/bitmex-ceo-ethereum-will-quickly-test-200-when-ico-market-returns-c005b7c7.md)
 * 2018-12-25 [Nuevo sistema de remesas para enfrentar la volatilidad criptográfica cuando se realizan pagos internacionales](https://github.com/theyapapa/cryptonews/blob/es/new-remittances-system-to-tackle-crypto-volatility-when-international-payments-are-made-64e2863e.md)
 * 2018-12-25 [Por qué bitcoin, Ethereum y todo el mercado Crypto están en valor](https://github.com/theyapapa/cryptonews/blob/es/why-bitcoin-ethereum-and-the-entire-crypto-market-are-down-in-value-f85d744f.md)
