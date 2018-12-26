@@ -1,3 +1,4 @@
+* 2018-12-26 [새로운 인도 정부 위원회 호의 암호 화폐 합법화, 언론 보도](https://github.com/theyapapa/cryptonews/blob/ko/new-indian-governmental-committee-favors-legalizing-cryptocurrencies-media-reports-c6ae58c8.md)
 * 2018-12-26 [비트 코인의 가격은 $3000 이하로 갈 것입니다, 앤서니 폼 플 리아 노 주류 미디어를 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-price-will-go-below-3-000-anthony-pompliano-tells-mainstream-media-369907c2.md)
 * 2018-12-26 [2019는 암호 화폐로 더 많은 기관 선수들의 입장을 볼 것 이며,이는 아시아 핀 테크 PwC 리더](https://github.com/theyapapa/cryptonews/blob/ko/2019-will-see-entry-of-more-institutional-players-in-crypto-says-asia-fintech-pwc-leader-d8c88dcd.md)
 * 2018-12-26 [2019 스탠포드 블록 체인 컨퍼런스, 블록 체인 보안과 ' 리스크 ' 조명](https://github.com/theyapapa/cryptonews/blob/ko/2019-stanford-blockchain-conference-spotlights-blockchain-security-and-risk-5f1e0d5e.md)
