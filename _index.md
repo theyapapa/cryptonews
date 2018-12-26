@@ -1,3 +1,4 @@
+* 2018-12-25 [Por qué bitcoin, Ethereum y todo el mercado Crypto están en valor](https://github.com/theyapapa/cryptonews/blob/es/why-bitcoin-ethereum-and-the-entire-crypto-market-are-down-in-value-f85d744f.md)
 * 2018-12-25 [Bank of America revela nueva patente de blockchain dirigida a manejo de efectivo](https://github.com/theyapapa/cryptonews/blob/es/bank-of-america-reveals-fresh-blockchain-patent-targeting-cash-handling-dcceb16c.md)
 * 2018-12-25 [Todos los Cryptos ven pérdidas importantes como mercado golpeado por la corrección distintamente Unfestivo](https://github.com/theyapapa/cryptonews/blob/es/all-cryptos-see-major-losses-as-market-hit-by-distinctly-unfestive-correction-a3842cf8.md)
 * 2018-12-25 [GMO internet sale de la producción de Bitcoin Miner después de grabar "pérdida extraordinaria" en Q4](https://github.com/theyapapa/cryptonews/blob/es/gmo-internet-exits-bitcoin-miner-production-after-recording-extraordinary-loss-in-q4-bf30e8d3.md)
