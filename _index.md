@@ -1,3 +1,4 @@
+* 2018-12-26 [2019 스탠포드 블록 체인 컨퍼런스, 블록 체인 보안과 ' 리스크 ' 조명](https://github.com/theyapapa/cryptonews/blob/ko/2019-stanford-blockchain-conference-spotlights-blockchain-security-and-risk-5f1e0d5e.md)
 * 2018-12-26 [bitmex CEO:이 더 리 움 '은 ICO 시장이 돌아올 때 신속 하 게 $200 '을 테스트 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-ceo-ethereum-will-quickly-test-200-when-ico-market-returns-c005b7c7.md)
 * 2018-12-25 [국제 결제가 이루어질 때 암호화 변동성을 해결 하는 새로운 송금 시스템](https://github.com/theyapapa/cryptonews/blob/ko/new-remittances-system-to-tackle-crypto-volatility-when-international-payments-are-made-64e2863e.md)
 * 2018-12-25 [왜 비트 코인,이 더 리 움 및 전체 암호화 시장이 가치에 미치지 못하는가](https://github.com/theyapapa/cryptonews/blob/ko/why-bitcoin-ethereum-and-the-entire-crypto-market-are-down-in-value-f85d744f.md)
