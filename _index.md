@@ -1,3 +1,4 @@
+* 2018-12-26 [BitMEX Генеральный директор: Эфириум ' будет быстро тест $200 ' когда ICO рынка возвращается](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-ceo-ethereum-will-quickly-test-200-when-ico-market-returns-c005b7c7.md)
 * 2018-12-25 [Новая система денежных переводов для решения крипто волатильности, когда международные платежи сделаны](https://github.com/theyapapa/cryptonews/blob/ru/new-remittances-system-to-tackle-crypto-volatility-when-international-payments-are-made-64e2863e.md)
 * 2018-12-25 [Почему Bitcoin, Эфириум и весь крипто-рынок снизились в цене](https://github.com/theyapapa/cryptonews/blob/ru/why-bitcoin-ethereum-and-the-entire-crypto-market-are-down-in-value-f85d744f.md)
 * 2018-12-25 [Банк Америки расКрывает новый Блокчейн патент наЦеливания обработки денежных средств](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-america-reveals-fresh-blockchain-patent-targeting-cash-handling-dcceb16c.md)
