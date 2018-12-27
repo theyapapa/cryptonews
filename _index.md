@@ -1,3 +1,4 @@
+* 2018-12-27 [비트 코인-지원 지불 회사 광장 올해의 야 후 금융 회사 라는](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-supporting-payments-firm-square-named-yahoo-finances-company-of-the-year-d8355e62.md)
 * 2018-12-27 [네덜란드 암호화 회사 libereum 취득 스페인 축구 클럽 엘 체 CF](https://github.com/theyapapa/cryptonews/blob/ko/dutch-crypto-firm-libereum-acquires-spanish-soccer-club-elche-cf-3327e340.md)
 * 2018-12-27 [전기 지갑 그물 해커에 피싱 공격 거의 $100만 시간, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/phishing-attack-on-electrum-wallet-nets-hacker-almost-1-million-in-hours-report-9e0bef48.md)
 * 2018-12-27 [대만: 용의자는 암호화를 광산에 $3 백만 달러의 전기를 훔치는 혐의로 체포](https://github.com/theyapapa/cryptonews/blob/ko/taiwan-suspect-arrested-for-stealing-3-mln-of-electricity-to-mine-crypto-fa9a583e.md)
