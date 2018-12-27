@@ -1,3 +1,4 @@
+* 2018-12-27 [Bitcoin-apoyando la firma de pagos Square nombrada compañía del año de Yahoo Finanzas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-supporting-payments-firm-square-named-yahoo-finances-company-of-the-year-d8355e62.md)
 * 2018-12-27 [El holandés Crypto firm Libereum adquiere el Club de futbol español Elche CF](https://github.com/theyapapa/cryptonews/blob/es/dutch-crypto-firm-libereum-acquires-spanish-soccer-club-elche-cf-3327e340.md)
 * 2018-12-27 [Ataque de phishing en Electrum monedero redes hacker casi $1 millón en horas, informe](https://github.com/theyapapa/cryptonews/blob/es/phishing-attack-on-electrum-wallet-nets-hacker-almost-1-million-in-hours-report-9e0bef48.md)
 * 2018-12-27 [Taiwán: sospechoso arrestado por robar $3 + mln de electricidad a Mine Crypto](https://github.com/theyapapa/cryptonews/blob/es/taiwan-suspect-arrested-for-stealing-3-mln-of-electricity-to-mine-crypto-fa9a583e.md)
