@@ -1,3 +1,4 @@
+* 2018-12-27 [El ex CEO de Mt. GOX Karpeles declara la inocencia en el argumento final](https://github.com/theyapapa/cryptonews/blob/es/former-mt-gox-ceo-karpeles-declares-innocence-in-final-argument-3a51151e.md)
 * 2018-12-27 [Adopción corporativa blockchain alcanza 44%, dice encuesta](https://github.com/theyapapa/cryptonews/blob/es/corporate-blockchain-adoption-reaches-44-says-survey-5b5c06fc.md)
 * 2018-12-26 [Asociación de Naciones Unidas para la despliegue de telemedicina basada en blockchain, Telepsicología en África Oriental](https://github.com/theyapapa/cryptonews/blob/es/un-partnership-to-roll-out-blockchain-based-telemedicine-telepsychology-in-east-africa-a16904a1.md)
 * 2018-12-26 [Fundación Litecoin patrocinará pelea por el título de UFC en oferta para aumentar la adopción criptográfica](https://github.com/theyapapa/cryptonews/blob/es/litecoin-foundation-to-sponsor-ufc-title-fight-in-bid-to-increase-crypto-adoption-06ee995c.md)
