@@ -1,3 +1,4 @@
+* 2018-12-27 [대만: 용의자는 암호화를 광산에 $3 백만 달러의 전기를 훔치는 혐의로 체포](https://github.com/theyapapa/cryptonews/blob/ko/taiwan-suspect-arrested-for-stealing-3-mln-of-electricity-to-mine-crypto-fa9a583e.md)
 * 2018-12-27 [전 고 x 대표이사 카 펠 레 스가 최종 인수에 무죄 선언](https://github.com/theyapapa/cryptonews/blob/ko/former-mt-gox-ceo-karpeles-declares-innocence-in-final-argument-3a51151e.md)
 * 2018-12-27 [기업 블록 체인 채택이 44%에 이릅니다.](https://github.com/theyapapa/cryptonews/blob/ko/corporate-blockchain-adoption-reaches-44-says-survey-5b5c06fc.md)
 * 2018-12-26 [UN 파트너십을 통한 블록 체인 기반 원격 의료, 동아프리카의 텔 레 심리](https://github.com/theyapapa/cryptonews/blob/ko/un-partnership-to-roll-out-blockchain-based-telemedicine-telepsychology-in-east-africa-a16904a1.md)
