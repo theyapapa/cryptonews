@@ -1,3 +1,4 @@
+* 2018-12-27 [Бывший Генеральный директор GOX Карпелес объявляет неВиновность в заключительном аргументе](https://github.com/theyapapa/cryptonews/blob/ru/former-mt-gox-ceo-karpeles-declares-innocence-in-final-argument-3a51151e.md)
 * 2018-12-27 [Корпоративный Блокчейн усыновление достигает 44%, говорит опрос](https://github.com/theyapapa/cryptonews/blob/ru/corporate-blockchain-adoption-reaches-44-says-survey-5b5c06fc.md)
 * 2018-12-26 [Партнерство ООН по выКатке телемедицины на основе Блокчейн, телепсихологии в Восточной Африке](https://github.com/theyapapa/cryptonews/blob/ru/un-partnership-to-roll-out-blockchain-based-telemedicine-telepsychology-in-east-africa-a16904a1.md)
 * 2018-12-26 [Litecoin фонд спонсора UFC титульный бой в стремлении увеличить крипто усыновление](https://github.com/theyapapa/cryptonews/blob/ru/litecoin-foundation-to-sponsor-ufc-title-fight-in-bid-to-increase-crypto-adoption-06ee995c.md)
