@@ -1,3 +1,4 @@
+* 2018-12-27 [기업 블록 체인 채택이 44%에 이릅니다.](https://github.com/theyapapa/cryptonews/blob/ko/corporate-blockchain-adoption-reaches-44-says-survey-5b5c06fc.md)
 * 2018-12-26 [UN 파트너십을 통한 블록 체인 기반 원격 의료, 동아프리카의 텔 레 심리](https://github.com/theyapapa/cryptonews/blob/ko/un-partnership-to-roll-out-blockchain-based-telemedicine-telepsychology-in-east-africa-a16904a1.md)
 * 2018-12-26 [라이트 코인 재단은 암호화 채택을 증가 하기 위해 입찰 UFC 타이틀 싸움을 후원 하기](https://github.com/theyapapa/cryptonews/blob/ko/litecoin-foundation-to-sponsor-ufc-title-fight-in-bid-to-increase-crypto-adoption-06ee995c.md)
 * 2018-12-26 [비트 코인, 리플,이 더 리 움, 비트 코인 캐시, EOS, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-26-672c119f.md)
