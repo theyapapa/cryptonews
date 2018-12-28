@@ -1,3 +1,4 @@
+* 2018-12-27 [От «устаревшего» Блокчейна до биткоина на $1 млн: прогнозы 2018](https://github.com/theyapapa/cryptonews/blob/ru/from-obsolete-blockchain-to-bitcoin-at-1-mln-predictions-of-2018-bbfa999d.md)
 * 2018-12-27 [Национальный банк Кувейта запускает переКрестные платежные продукты на основе пульсаций](https://github.com/theyapapa/cryptonews/blob/ru/national-bank-of-kuwait-launches-ripple-based-cross-border-payments-product-961e4ee3.md)
 * 2018-12-27 [Bitcoin-поддержка платежей фирма площадь имени Yahoo Финансы компании года](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-supporting-payments-firm-square-named-yahoo-finances-company-of-the-year-d8355e62.md)
 * 2018-12-27 [Голландский крипто фирма Либереум приОбретает испанский футбольный клуб Эльче CF](https://github.com/theyapapa/cryptonews/blob/ru/dutch-crypto-firm-libereum-acquires-spanish-soccer-club-elche-cf-3327e340.md)
