@@ -1,3 +1,4 @@
+* 2018-12-28 [Ledger: las vulnerabilidades de billetera descubiertas recientemente no son críticas](https://github.com/theyapapa/cryptonews/blob/es/ledger-recently-discovered-wallet-vulnerabilities-not-critical-a9fec377.md)
 * 2018-12-28 [Cripto mercados en el verde tras duras pérdidas ](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-in-the-green-following-tough-losses-423ff0dc.md)
 * 2018-12-28 [Red social como herramienta financiera: planes de inicio para cambiar los modelos de inversión tradicionales](https://github.com/theyapapa/cryptonews/blob/es/social-network-as-a-financial-tool-startup-plans-to-change-traditional-investment-models-ae55bae8.md)
 * 2018-12-28 [Moneda global única como BTC enfrenta obstáculos insuperables, argumenta CEO de la firma de pagos](https://github.com/theyapapa/cryptonews/blob/es/single-global-currency-like-btc-faces-insurmountable-obstacles-argues-payments-firm-ceo-4fb9438a.md)
