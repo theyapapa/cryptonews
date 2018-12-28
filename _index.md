@@ -1,3 +1,4 @@
+* 2018-12-28 [금융 도구로 서의 소셜 네트워크: 전통적인 투자 모델을 변경 하는 스타트업 계획](https://github.com/theyapapa/cryptonews/blob/ko/social-network-as-a-financial-tool-startup-plans-to-change-traditional-investment-models-ae55bae8.md)
 * 2018-12-28 [BTC와 같은 단일 글로벌 통화는 극복할 장애물을 직면, 지불 회사 CEO를 주장](https://github.com/theyapapa/cryptonews/blob/ko/single-global-currency-like-btc-faces-insurmountable-obstacles-argues-payments-firm-ceo-4fb9438a.md)
 * 2018-12-28 [huobi 암호화 파생 상품의 일일 거래량은 플랫폼 나누기 $10억](https://github.com/theyapapa/cryptonews/blob/ko/daily-traded-volume-on-huobis-crypto-derivatives-platform-breaks-1-billion-54285bd1.md)
 * 2018-12-28 [연구 팀은 하드 지갑의 취약점을 보여, trezor는 펌웨어 업데이트를 약속](https://github.com/theyapapa/cryptonews/blob/ko/research-team-demonstrates-hard-wallets-vulnerabilities-trezor-promises-firmware-update-1842efa2.md)
