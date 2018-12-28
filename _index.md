@@ -1,3 +1,4 @@
+* 2018-12-28 [BTC와 같은 단일 글로벌 통화는 극복할 장애물을 직면, 지불 회사 CEO를 주장](https://github.com/theyapapa/cryptonews/blob/ko/single-global-currency-like-btc-faces-insurmountable-obstacles-argues-payments-firm-ceo-4fb9438a.md)
 * 2018-12-28 [huobi 암호화 파생 상품의 일일 거래량은 플랫폼 나누기 $10억](https://github.com/theyapapa/cryptonews/blob/ko/daily-traded-volume-on-huobis-crypto-derivatives-platform-breaks-1-billion-54285bd1.md)
 * 2018-12-28 [연구 팀은 하드 지갑의 취약점을 보여, trezor는 펌웨어 업데이트를 약속](https://github.com/theyapapa/cryptonews/blob/ko/research-team-demonstrates-hard-wallets-vulnerabilities-trezor-promises-firmware-update-1842efa2.md)
 * 2018-12-28 [시장은 경기 침체를 타고, cryptos는 보드에 걸쳐 강한 손실로 충돌](https://github.com/theyapapa/cryptonews/blob/ko/markets-take-renewed-downturn-cryptos-hit-by-strong-losses-across-the-board-2854e0b7.md)
