@@ -1,3 +1,4 @@
+* 2018-12-28 [Книга: недавно обнаруженные уязвимости кошелька не критичны](https://github.com/theyapapa/cryptonews/blob/ru/ledger-recently-discovered-wallet-vulnerabilities-not-critical-a9fec377.md)
 * 2018-12-28 [Крипто рынки в зеленой следующие жесткие потери ](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-in-the-green-following-tough-losses-423ff0dc.md)
 * 2018-12-28 [Социальная сеть как финансовый инструмент: стартап планы по изменению традиционных инвестиционных моделей](https://github.com/theyapapa/cryptonews/blob/ru/social-network-as-a-financial-tool-startup-plans-to-change-traditional-investment-models-ae55bae8.md)
 * 2018-12-28 [Единая глобальная валюта, как BTC сталкивается с непреодолимыми препятствиями, утверждает платежи фирма Генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/single-global-currency-like-btc-faces-insurmountable-obstacles-argues-payments-firm-ceo-4fb9438a.md)
