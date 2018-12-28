@@ -1,3 +1,4 @@
+* 2018-12-28 [Los mercados toman una desaceleración renovada, Cryptos golpeado por fuertes pérdidas en todo el tablero](https://github.com/theyapapa/cryptonews/blob/es/markets-take-renewed-downturn-cryptos-hit-by-strong-losses-across-the-board-2854e0b7.md)
 * 2018-12-27 [De blockchain "obsoleto" a Bitcoin a $1 MLN: predicciones de 2018](https://github.com/theyapapa/cryptonews/blob/es/from-obsolete-blockchain-to-bitcoin-at-1-mln-predictions-of-2018-bbfa999d.md)
 * 2018-12-27 [El Banco Nacional de Kuwait lanza productos de pagos transfronterizos basados en Ripple](https://github.com/theyapapa/cryptonews/blob/es/national-bank-of-kuwait-launches-ripple-based-cross-border-payments-product-961e4ee3.md)
 * 2018-12-27 [Bitcoin-apoyando la firma de pagos Square nombrada compañía del año de Yahoo Finanzas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-supporting-payments-firm-square-named-yahoo-finances-company-of-the-year-d8355e62.md)
