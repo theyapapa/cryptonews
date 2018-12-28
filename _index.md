@@ -1,3 +1,4 @@
+* 2018-12-28 [장부: 최근 발견 된 지갑 취약성이 중요 하지 않음](https://github.com/theyapapa/cryptonews/blob/ko/ledger-recently-discovered-wallet-vulnerabilities-not-critical-a9fec377.md)
 * 2018-12-28 [녹색 다음의 어려운 손실에 대 한 암호화 시장 ](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-in-the-green-following-tough-losses-423ff0dc.md)
 * 2018-12-28 [금융 도구로 서의 소셜 네트워크: 전통적인 투자 모델을 변경 하는 스타트업 계획](https://github.com/theyapapa/cryptonews/blob/ko/social-network-as-a-financial-tool-startup-plans-to-change-traditional-investment-models-ae55bae8.md)
 * 2018-12-28 [BTC와 같은 단일 글로벌 통화는 극복할 장애물을 직면, 지불 회사 CEO를 주장](https://github.com/theyapapa/cryptonews/blob/ko/single-global-currency-like-btc-faces-insurmountable-obstacles-argues-payments-firm-ceo-4fb9438a.md)
