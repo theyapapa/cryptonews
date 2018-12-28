@@ -1,3 +1,4 @@
+* 2018-12-28 [Equipo de investigación demuestra vulnerabilidades de carteras duras, Trezor promete actualización de firmware](https://github.com/theyapapa/cryptonews/blob/es/research-team-demonstrates-hard-wallets-vulnerabilities-trezor-promises-firmware-update-1842efa2.md)
 * 2018-12-28 [Los mercados toman una desaceleración renovada, Cryptos golpeado por fuertes pérdidas en todo el tablero](https://github.com/theyapapa/cryptonews/blob/es/markets-take-renewed-downturn-cryptos-hit-by-strong-losses-across-the-board-2854e0b7.md)
 * 2018-12-27 [De blockchain "obsoleto" a Bitcoin a $1 MLN: predicciones de 2018](https://github.com/theyapapa/cryptonews/blob/es/from-obsolete-blockchain-to-bitcoin-at-1-mln-predictions-of-2018-bbfa999d.md)
 * 2018-12-27 [El Banco Nacional de Kuwait lanza productos de pagos transfronterizos basados en Ripple](https://github.com/theyapapa/cryptonews/blob/es/national-bank-of-kuwait-launches-ripple-based-cross-border-payments-product-961e4ee3.md)
