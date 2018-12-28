@@ -1,3 +1,4 @@
+* 2018-12-28 [시장은 경기 침체를 타고, cryptos는 보드에 걸쳐 강한 손실로 충돌](https://github.com/theyapapa/cryptonews/blob/ko/markets-take-renewed-downturn-cryptos-hit-by-strong-losses-across-the-board-2854e0b7.md)
 * 2018-12-27 ["쓸모 없는" 블록 체인에서 $1 백만에서 비트 코인으로: 2018의 예측](https://github.com/theyapapa/cryptonews/blob/ko/from-obsolete-blockchain-to-bitcoin-at-1-mln-predictions-of-2018-bbfa999d.md)
 * 2018-12-27 [쿠웨이트 국립 은행은 리플 기반 국경 간 결제 제품 출시](https://github.com/theyapapa/cryptonews/blob/ko/national-bank-of-kuwait-launches-ripple-based-cross-border-payments-product-961e4ee3.md)
 * 2018-12-27 [비트 코인-지원 지불 회사 광장 올해의 야 후 금융 회사 라는](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-supporting-payments-firm-square-named-yahoo-finances-company-of-the-year-d8355e62.md)
