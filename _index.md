@@ -1,3 +1,4 @@
+* 2018-12-29 [No confirmado: los medios chinos informan Jihan Wu, grupo de Jenke a dimitir pronto como CEO de Bitmain](https://github.com/theyapapa/cryptonews/blob/es/unconfirmed-chinese-media-reports-jihan-wu-jenke-group-to-soon-resign-as-bitmain-ceos-0d1b4834.md)
 * 2018-12-29 [Huobi lanzará el primer intercambio de la compañía dedicado a EOS en Q1 2019](https://github.com/theyapapa/cryptonews/blob/es/huobi-to-launch-companys-first-exchange-dedicated-to-eos-in-q1-2019-fb5b1f18.md)
 * 2018-12-29 [Major American Magazine tiempo columna informes sobre el potencial liberador de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/major-american-magazine-time-column-reports-about-bitcoins-liberating-potential-6f301940.md)
 * 2018-12-29 [Bitcoin por encima de $3.900 de nuevo como todos los principales Cryptocurrencies ver ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-above-3-900-again-as-all-top-cryptocurrencies-see-gains-9db253ec.md)
