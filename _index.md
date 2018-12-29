@@ -1,3 +1,4 @@
+* 2018-12-29 [Huobi первой бирже, поСвященной EOS в Q1 2019](https://github.com/theyapapa/cryptonews/blob/ru/huobi-to-launch-companys-first-exchange-dedicated-to-eos-in-q1-2019-fb5b1f18.md)
 * 2018-12-29 [Главные американские кассеты время колонки рапорты о потенциале Bitcoin освобождая](https://github.com/theyapapa/cryptonews/blob/ru/major-american-magazine-time-column-reports-about-bitcoins-liberating-potential-6f301940.md)
 * 2018-12-29 [Bitcoin выше $3 900 снова, как все лучшие криптовалюты увидеть выгоды](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-above-3-900-again-as-all-top-cryptocurrencies-see-gains-9db253ec.md)
 * 2018-12-28 [Samsung ищет БРИТАНСКИй товарный знак для кошелька Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/samsung-seeks-uk-trademark-for-cryptocurrency-wallet-69e15fb3.md)
