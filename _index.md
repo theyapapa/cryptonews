@@ -1,3 +1,4 @@
+* 2018-12-29 [$3900 위의 비트 코인은 모든 최고 암호 화폐가 이득을 보게 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-above-3-900-again-as-all-top-cryptocurrencies-see-gains-9db253ec.md)
 * 2018-12-28 [삼성 전자는 암호 화폐 지갑에 대 한 영국의 상표를 추구](https://github.com/theyapapa/cryptonews/blob/ko/samsung-seeks-uk-trademark-for-cryptocurrency-wallet-69e15fb3.md)
 * 2018-12-28 [장부: 최근 발견 된 지갑 취약성이 중요 하지 않음](https://github.com/theyapapa/cryptonews/blob/ko/ledger-recently-discovered-wallet-vulnerabilities-not-critical-a9fec377.md)
 * 2018-12-28 [녹색 다음의 어려운 손실에 대 한 암호화 시장 ](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-in-the-green-following-tough-losses-423ff0dc.md)
