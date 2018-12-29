@@ -1,3 +1,4 @@
+* 2018-12-29 [Major American Magazine tiempo columna informes sobre el potencial liberador de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/major-american-magazine-time-column-reports-about-bitcoins-liberating-potential-6f301940.md)
 * 2018-12-29 [Bitcoin por encima de $3.900 de nuevo como todos los principales Cryptocurrencies ver ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-above-3-900-again-as-all-top-cryptocurrencies-see-gains-9db253ec.md)
 * 2018-12-28 [Samsung busca marca registrada UK para criptomoneda monedero](https://github.com/theyapapa/cryptonews/blob/es/samsung-seeks-uk-trademark-for-cryptocurrency-wallet-69e15fb3.md)
 * 2018-12-28 [Ledger: las vulnerabilidades de billetera descubiertas recientemente no son críticas](https://github.com/theyapapa/cryptonews/blob/es/ledger-recently-discovered-wallet-vulnerabilities-not-critical-a9fec377.md)
