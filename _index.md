@@ -1,3 +1,4 @@
+* 2018-12-29 [Q1 2019에서 EOS에 전념 하는 회사의 첫 번째 교환을 시작 하는 huobi](https://github.com/theyapapa/cryptonews/blob/ko/huobi-to-launch-companys-first-exchange-dedicated-to-eos-in-q1-2019-fb5b1f18.md)
 * 2018-12-29 [미국의 주요 잡지 시간 칼럼은 비트 코인의 해방 가능성에 대 한 보고](https://github.com/theyapapa/cryptonews/blob/ko/major-american-magazine-time-column-reports-about-bitcoins-liberating-potential-6f301940.md)
 * 2018-12-29 [$3900 위의 비트 코인은 모든 최고 암호 화폐가 이득을 보게 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-above-3-900-again-as-all-top-cryptocurrencies-see-gains-9db253ec.md)
 * 2018-12-28 [삼성 전자는 암호 화폐 지갑에 대 한 영국의 상표를 추구](https://github.com/theyapapa/cryptonews/blob/ko/samsung-seeks-uk-trademark-for-cryptocurrency-wallet-69e15fb3.md)
