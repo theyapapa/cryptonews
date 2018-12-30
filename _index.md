@@ -1,3 +1,4 @@
+* 2018-12-30 [Китайский обзор находит почти 40 процентов респондентов будет инвестировать в крипто](https://github.com/theyapapa/cryptonews/blob/ru/chinese-survey-finds-nearly-40-percent-of-respondents-would-invest-in-crypto-2c116169.md)
 * 2018-12-30 [Белая шляпа хакеры заРаботал $878 000 от крипто ошибка награды в 2018, данные показывает](https://github.com/theyapapa/cryptonews/blob/ru/white-hat-hackers-earned-878-000-from-crypto-bug-bounties-in-2018-data-shows-3be2c1fb.md)
 * 2018-12-29 [Неподтвержденные: китайские СМИ сообщает Джихан Ву, Женке группы в ближайшее время в отставку, как Bitmain руководителей](https://github.com/theyapapa/cryptonews/blob/ru/unconfirmed-chinese-media-reports-jihan-wu-jenke-group-to-soon-resign-as-bitmain-ceos-0d1b4834.md)
 * 2018-12-29 [Huobi первой бирже, поСвященной EOS в Q1 2019](https://github.com/theyapapa/cryptonews/blob/ru/huobi-to-launch-companys-first-exchange-dedicated-to-eos-in-q1-2019-fb5b1f18.md)
