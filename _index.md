@@ -1,3 +1,4 @@
+* 2018-12-30 [hodler의 다이제스트, 12 월 24 ~ 30 일: 주요 기사, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-dec-2430-top-stories-price-movements-quotes-and-fud-of-the-week-0da76af7.md)
 * 2018-12-30 [중국 설문 조사는 응답자의 거의 40%가 암호 화폐에 투자할 것을 발견 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/chinese-survey-finds-nearly-40-percent-of-respondents-would-invest-in-crypto-2c116169.md)
 * 2018-12-30 [화이트 햇 해커는 2018의 암호 버그 현상금에서 $878000를 획득, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/white-hat-hackers-earned-878-000-from-crypto-bug-bounties-in-2018-data-shows-3be2c1fb.md)
 * 2018-12-29 [확정: 중국 언론은 지 한 우, 젠 케 그룹에 게 곧 사임 하는 bitmain ceo로 보고](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-chinese-media-reports-jihan-wu-jenke-group-to-soon-resign-as-bitmain-ceos-0d1b4834.md)
