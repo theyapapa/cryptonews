@@ -1,3 +1,4 @@
+* 2018-12-30 [Los hackers de white Hat ganaron $878.000 de Crypto bug Bounties en 2018, muestra de datos](https://github.com/theyapapa/cryptonews/blob/es/white-hat-hackers-earned-878-000-from-crypto-bug-bounties-in-2018-data-shows-3be2c1fb.md)
 * 2018-12-29 [No confirmado: los medios chinos informan Jihan Wu, grupo de Jenke a dimitir pronto como CEO de Bitmain](https://github.com/theyapapa/cryptonews/blob/es/unconfirmed-chinese-media-reports-jihan-wu-jenke-group-to-soon-resign-as-bitmain-ceos-0d1b4834.md)
 * 2018-12-29 [Huobi lanzará el primer intercambio de la compañía dedicado a EOS en Q1 2019](https://github.com/theyapapa/cryptonews/blob/es/huobi-to-launch-companys-first-exchange-dedicated-to-eos-in-q1-2019-fb5b1f18.md)
 * 2018-12-29 [Major American Magazine tiempo columna informes sobre el potencial liberador de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/major-american-magazine-time-column-reports-about-bitcoins-liberating-potential-6f301940.md)
