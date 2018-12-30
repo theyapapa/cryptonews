@@ -1,3 +1,4 @@
+* 2018-12-30 [주로 레드에서 최고의 암호 화폐, 비트 코인은 $3900 아래로 떨어진다](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptocurrencies-mostly-in-the-red-bitcoin-falls-below-3-900-again-eb99565f.md)
 * 2018-12-30 [hodler의 다이제스트, 12 월 24 ~ 30 일: 주요 기사, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-dec-2430-top-stories-price-movements-quotes-and-fud-of-the-week-0da76af7.md)
 * 2018-12-30 [중국 설문 조사는 응답자의 거의 40%가 암호 화폐에 투자할 것을 발견 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/chinese-survey-finds-nearly-40-percent-of-respondents-would-invest-in-crypto-2c116169.md)
 * 2018-12-30 [화이트 햇 해커는 2018의 암호 버그 현상금에서 $878000를 획득, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/white-hat-hackers-earned-878-000-from-crypto-bug-bounties-in-2018-data-shows-3be2c1fb.md)
