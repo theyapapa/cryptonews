@@ -1,3 +1,4 @@
+* 2018-12-30 [Encuesta China encuentra casi 40 por ciento de los encuestados invertiría en Crypto](https://github.com/theyapapa/cryptonews/blob/es/chinese-survey-finds-nearly-40-percent-of-respondents-would-invest-in-crypto-2c116169.md)
 * 2018-12-30 [Los hackers de white Hat ganaron $878.000 de Crypto bug Bounties en 2018, muestra de datos](https://github.com/theyapapa/cryptonews/blob/es/white-hat-hackers-earned-878-000-from-crypto-bug-bounties-in-2018-data-shows-3be2c1fb.md)
 * 2018-12-29 [No confirmado: los medios chinos informan Jihan Wu, grupo de Jenke a dimitir pronto como CEO de Bitmain](https://github.com/theyapapa/cryptonews/blob/es/unconfirmed-chinese-media-reports-jihan-wu-jenke-group-to-soon-resign-as-bitmain-ceos-0d1b4834.md)
 * 2018-12-29 [Huobi lanzará el primer intercambio de la compañía dedicado a EOS en Q1 2019](https://github.com/theyapapa/cryptonews/blob/es/huobi-to-launch-companys-first-exchange-dedicated-to-eos-in-q1-2019-fb5b1f18.md)
