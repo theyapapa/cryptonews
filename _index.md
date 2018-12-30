@@ -1,3 +1,4 @@
+* 2018-12-30 [화이트 햇 해커는 2018의 암호 버그 현상금에서 $878000를 획득, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/white-hat-hackers-earned-878-000-from-crypto-bug-bounties-in-2018-data-shows-3be2c1fb.md)
 * 2018-12-29 [확정: 중국 언론은 지 한 우, 젠 케 그룹에 게 곧 사임 하는 bitmain ceo로 보고](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-chinese-media-reports-jihan-wu-jenke-group-to-soon-resign-as-bitmain-ceos-0d1b4834.md)
 * 2018-12-29 [Q1 2019에서 EOS에 전념 하는 회사의 첫 번째 교환을 시작 하는 huobi](https://github.com/theyapapa/cryptonews/blob/ko/huobi-to-launch-companys-first-exchange-dedicated-to-eos-in-q1-2019-fb5b1f18.md)
 * 2018-12-29 [미국의 주요 잡지 시간 칼럼은 비트 코인의 해방 가능성에 대 한 보고](https://github.com/theyapapa/cryptonews/blob/ko/major-american-magazine-time-column-reports-about-bitcoins-liberating-potential-6f301940.md)
