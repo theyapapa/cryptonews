@@ -1,3 +1,4 @@
+* 2018-12-31 [Великобритания регуляторы еще зондирования 18 предприятий за криптовалюты сделки: доклад](https://github.com/theyapapa/cryptonews/blob/ru/uk-regulators-still-probing-18-businesses-over-cryptocurrency-dealings-report-bc433cb5.md)
 * 2018-12-30 [Лучшие криптовалюты в основном в красном, Bitcoin падает ниже $3 900 снова](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptocurrencies-mostly-in-the-red-bitcoin-falls-below-3-900-again-eb99565f.md)
 * 2018-12-30 [Ходлер, 24 – 30 декабря: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-dec-2430-top-stories-price-movements-quotes-and-fud-of-the-week-0da76af7.md)
 * 2018-12-30 [Китайский обзор находит почти 40 процентов респондентов будет инвестировать в крипто](https://github.com/theyapapa/cryptonews/blob/ru/chinese-survey-finds-nearly-40-percent-of-respondents-would-invest-in-crypto-2c116169.md)
