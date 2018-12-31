@@ -1,3 +1,4 @@
+* 2018-12-31 [비트 코인은 거 버 넌 스에 혁명을 일으킬 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-could-revolutionize-governance-says-cypherpunk-jameson-lopp-f23f93ea.md)
 * 2018-12-31 [스텔라 공동 창업자 브랜드 암호화 프로젝트의 90% 학사](https://github.com/theyapapa/cryptonews/blob/ko/stellar-co-founder-brands-90-of-crypto-projects-bs-a864ec49.md)
 * 2018-12-31 [bakkt의 비트 코인 선물에 대 한 출시 타임 라인을 명확히 할 수 2019 일찍: 얼음](https://github.com/theyapapa/cryptonews/blob/ko/launch-timeline-for-bakkts-bitcoin-futures-to-be-clarified-early-2019-ice-e2c39550.md)
 * 2018-12-31 [2018 비트 코인의 최저 평균 일일 가격 변동 보고: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/2018-sees-bitcoins-lowest-average-daily-price-change-report-1c0cdba8.md)
