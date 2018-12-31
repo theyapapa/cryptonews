@@ -1,3 +1,4 @@
+* 2018-12-31 [Lanzamiento de la línea de tiempo para futuros de Bitcoin de Bakkt para ser clarificado temprano 2019: ICE](https://github.com/theyapapa/cryptonews/blob/es/launch-timeline-for-bakkts-bitcoin-futures-to-be-clarified-early-2019-ice-e2c39550.md)
 * 2018-12-31 [2018 Ve el cambio de precio diario promedio más bajo de Bitcoin: informe](https://github.com/theyapapa/cryptonews/blob/es/2018-sees-bitcoins-lowest-average-daily-price-change-report-1c0cdba8.md)
 * 2018-12-31 [Reguladores del Reino Unido siguen probando 18 negocios en transacciones con Criptomonedas: informe](https://github.com/theyapapa/cryptonews/blob/es/uk-regulators-still-probing-18-businesses-over-cryptocurrency-dealings-report-bc433cb5.md)
 * 2018-12-30 [Principales Cryptocurrencies sobre todo en el rojo, Bitcoin cae por debajo de $3.900 otra vez](https://github.com/theyapapa/cryptonews/blob/es/top-cryptocurrencies-mostly-in-the-red-bitcoin-falls-below-3-900-again-eb99565f.md)
