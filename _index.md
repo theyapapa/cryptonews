@@ -1,3 +1,4 @@
+* 2018-12-31 [2018 Ve el cambio de precio diario promedio más bajo de Bitcoin: informe](https://github.com/theyapapa/cryptonews/blob/es/2018-sees-bitcoins-lowest-average-daily-price-change-report-1c0cdba8.md)
 * 2018-12-31 [Reguladores del Reino Unido siguen probando 18 negocios en transacciones con Criptomonedas: informe](https://github.com/theyapapa/cryptonews/blob/es/uk-regulators-still-probing-18-businesses-over-cryptocurrency-dealings-report-bc433cb5.md)
 * 2018-12-30 [Principales Cryptocurrencies sobre todo en el rojo, Bitcoin cae por debajo de $3.900 otra vez](https://github.com/theyapapa/cryptonews/blob/es/top-cryptocurrencies-mostly-in-the-red-bitcoin-falls-below-3-900-again-eb99565f.md)
 * 2018-12-30 [Hodler's Digest, 24 – 30 de diciembre: mejores historias, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-dec-2430-top-stories-price-movements-quotes-and-fud-of-the-week-0da76af7.md)
