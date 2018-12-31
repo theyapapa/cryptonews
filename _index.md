@@ -1,3 +1,4 @@
+* 2018-12-31 [2018 비트 코인의 최저 평균 일일 가격 변동 보고: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/2018-sees-bitcoins-lowest-average-daily-price-change-report-1c0cdba8.md)
 * 2018-12-31 [영국 레 귤 레이 터는 여전히 암호 화폐 거래를 통해 18 기업을 프로 빙: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/uk-regulators-still-probing-18-businesses-over-cryptocurrency-dealings-report-bc433cb5.md)
 * 2018-12-30 [주로 레드에서 최고의 암호 화폐, 비트 코인은 $3900 아래로 떨어진다](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptocurrencies-mostly-in-the-red-bitcoin-falls-below-3-900-again-eb99565f.md)
 * 2018-12-30 [hodler의 다이제스트, 12 월 24 ~ 30 일: 주요 기사, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-dec-2430-top-stories-price-movements-quotes-and-fud-of-the-week-0da76af7.md)
