@@ -1,3 +1,4 @@
+* 2018-12-31 [bakkt의 비트 코인 선물에 대 한 출시 타임 라인을 명확히 할 수 2019 일찍: 얼음](https://github.com/theyapapa/cryptonews/blob/ko/launch-timeline-for-bakkts-bitcoin-futures-to-be-clarified-early-2019-ice-e2c39550.md)
 * 2018-12-31 [2018 비트 코인의 최저 평균 일일 가격 변동 보고: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/2018-sees-bitcoins-lowest-average-daily-price-change-report-1c0cdba8.md)
 * 2018-12-31 [영국 레 귤 레이 터는 여전히 암호 화폐 거래를 통해 18 기업을 프로 빙: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/uk-regulators-still-probing-18-businesses-over-cryptocurrency-dealings-report-bc433cb5.md)
 * 2018-12-30 [주로 레드에서 최고의 암호 화폐, 비트 코인은 $3900 아래로 떨어진다](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptocurrencies-mostly-in-the-red-bitcoin-falls-below-3-900-again-eb99565f.md)
