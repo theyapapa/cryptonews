@@ -1,3 +1,4 @@
+* 2018-12-31 [Запуск временной шкалы для Баккт Bitcoin фьючерсы будут уточнены рано 2019: ICE](https://github.com/theyapapa/cryptonews/blob/ru/launch-timeline-for-bakkts-bitcoin-futures-to-be-clarified-early-2019-ice-e2c39550.md)
 * 2018-12-31 [2018 видит самое низкое среднее дневное изменение цены Bitcoin: отчет](https://github.com/theyapapa/cryptonews/blob/ru/2018-sees-bitcoins-lowest-average-daily-price-change-report-1c0cdba8.md)
 * 2018-12-31 [Великобритания регуляторы еще зондирования 18 предприятий за криптовалюты сделки: доклад](https://github.com/theyapapa/cryptonews/blob/ru/uk-regulators-still-probing-18-businesses-over-cryptocurrency-dealings-report-bc433cb5.md)
 * 2018-12-30 [Лучшие криптовалюты в основном в красном, Bitcoin падает ниже $3 900 снова](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptocurrencies-mostly-in-the-red-bitcoin-falls-below-3-900-again-eb99565f.md)
