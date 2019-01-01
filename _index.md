@@ -1,3 +1,4 @@
+* 2018-12-31 [Irán declara las aspiraciones criptográficas de telegrama una ley contra la seguridad nacional](https://github.com/theyapapa/cryptonews/blob/es/iran-declares-telegram-crypto-aspirations-an-act-against-national-security-d4159f6c.md)
 * 2018-12-31 [Bitcoin, Ripple, Ethereum, Bitcoin Cash, EOS, Stellar, Litecoin, Bitcoin SV, TRON, Cardano: Análisis de precios, 31 de diciembre](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-31-e053b57d.md)
 * 2018-12-31 [Bitcoin podría revolucionar la gobernanza, dice cypherpunk Jameson LOPP](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-could-revolutionize-governance-says-cypherpunk-jameson-lopp-f23f93ea.md)
 * 2018-12-31 [Stellar Co-Founder marcas 90% de Crypto projects ' B.S. '](https://github.com/theyapapa/cryptonews/blob/es/stellar-co-founder-brands-90-of-crypto-projects-bs-a864ec49.md)
