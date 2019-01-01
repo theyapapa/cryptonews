@@ -1,3 +1,4 @@
+* 2019-01-01 [비트 코인은 2018에서 90 번 사망 했지만 거의 1000의 ' 데드 ' 알트 코인이 있으며 데이터는](https://github.com/theyapapa/cryptonews/blob/ko/while-bitcoin-died-90-times-in-2018-there-are-almost-1000-dead-altcoins-data-shows-02c6eb78.md)
 * 2019-01-01 [지미 노래는 알트 코인을 통해 비트 코인의 성공의 핵심으로 분권 화를 강조](https://github.com/theyapapa/cryptonews/blob/ko/jimmy-song-highlights-decentralization-as-key-to-success-of-bitcoin-over-altcoins-55a447ce.md)
 * 2018-12-31 [이란 전보 암호화 열망 국가 안보에 대 한 행위를 선언](https://github.com/theyapapa/cryptonews/blob/ko/iran-declares-telegram-crypto-aspirations-an-act-against-national-security-d4159f6c.md)
 * 2018-12-31 [비트 코인, 리플,이 더 리 움, 비트 코인 현금, EOS, 라이트 코인, 비트 코인 SV/트 론](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-31-e053b57d.md)
