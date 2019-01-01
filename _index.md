@@ -1,3 +1,4 @@
+* 2019-01-01 [India: media reports Banco Central ha aplazado planes de ' cripto-Rupia '](https://github.com/theyapapa/cryptonews/blob/es/india-media-reports-central-bank-has-postponed-crypto-rupee-plans-164194bd.md)
 * 2019-01-01 [Bitcoin cae por debajo de $3.800 como principales Criptomonedas permanecen en su mayoría en rojo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-3-800-as-top-cryptocurrencies-remain-mostly-in-red-a6c39e53.md)
 * 2019-01-01 [El senador estadounidense reporta a la cárcel veredicto pendiente en caso de fraude criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/us-senator-reports-to-jail-pending-verdict-in-cryptocurrency-fraud-case-2d7221ee.md)
 * 2019-01-01 [Mientras Bitcoin ' murió ' 90 veces en 2018, hay casi 1000 ' muertos ' Altcoins, muestra de datos](https://github.com/theyapapa/cryptonews/blob/es/while-bitcoin-died-90-times-in-2018-there-are-almost-1000-dead-altcoins-data-shows-02c6eb78.md)
