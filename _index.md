@@ -1,3 +1,4 @@
+* 2018-12-31 [Bitcoin, рябь, Эфириум, Bitcoin Cash, EOS, Звёздный, Litecoin, Bitcoin SV, трон, "переДвижение": анализ цен, 31 декабря](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-31-e053b57d.md)
 * 2018-12-31 [Bitcoin может революцию в управлении, говорит Шифропанк Джеймсон Лопп](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-could-revolutionize-governance-says-cypherpunk-jameson-lopp-f23f93ea.md)
 * 2018-12-31 [Звездный соучредитель бренды 90% крипто-проектов ' BS '](https://github.com/theyapapa/cryptonews/blob/ru/stellar-co-founder-brands-90-of-crypto-projects-bs-a864ec49.md)
 * 2018-12-31 [Запуск временной шкалы для Баккт Bitcoin фьючерсы будут уточнены рано 2019: ICE](https://github.com/theyapapa/cryptonews/blob/ru/launch-timeline-for-bakkts-bitcoin-futures-to-be-clarified-early-2019-ice-e2c39550.md)
