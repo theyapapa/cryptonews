@@ -1,3 +1,4 @@
+* 2019-01-01 [포트 나이트 상품 매장은 monero 결제 수단으로 ' 독점적으로 ' 수락을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/fortnite-merchandise-store-starts-exclusively-accepting-monero-as-payment-method-6bef57c1.md)
 * 2019-01-01 [암호화 ' 주로 개발자의 월스트리트 저널에 의해서만 사용할 수](https://github.com/theyapapa/cryptonews/blob/ko/crypto-largely-usable-only-by-developers-wall-street-journal-says-a42f1c28.md)
 * 2019-01-01 [인도: 미디어 보고서 중앙 은행이 ' 암호화 루피 ' 계획을 연기 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-media-reports-central-bank-has-postponed-crypto-rupee-plans-164194bd.md)
 * 2019-01-01 [비트 코인은 주로 적색으로 유지 되는 최고 암호 화폐로 서 $3800에 빠진다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-3-800-as-top-cryptocurrencies-remain-mostly-in-red-a6c39e53.md)
