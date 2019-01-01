@@ -1,3 +1,4 @@
+* 2019-01-01 [암호화 ' 주로 개발자의 월스트리트 저널에 의해서만 사용할 수](https://github.com/theyapapa/cryptonews/blob/ko/crypto-largely-usable-only-by-developers-wall-street-journal-says-a42f1c28.md)
 * 2019-01-01 [인도: 미디어 보고서 중앙 은행이 ' 암호화 루피 ' 계획을 연기 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-media-reports-central-bank-has-postponed-crypto-rupee-plans-164194bd.md)
 * 2019-01-01 [비트 코인은 주로 적색으로 유지 되는 최고 암호 화폐로 서 $3800에 빠진다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-3-800-as-top-cryptocurrencies-remain-mostly-in-red-a6c39e53.md)
 * 2019-01-01 [미국 상원 의원 보고서 암호 화폐 사기 사건에 미결 판정 보류](https://github.com/theyapapa/cryptonews/blob/ko/us-senator-reports-to-jail-pending-verdict-in-cryptocurrency-fraud-case-2d7221ee.md)
