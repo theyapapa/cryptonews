@@ -1,3 +1,4 @@
+* 2019-01-01 [지미 노래는 알트 코인을 통해 비트 코인의 성공의 핵심으로 분권 화를 강조](https://github.com/theyapapa/cryptonews/blob/ko/jimmy-song-highlights-decentralization-as-key-to-success-of-bitcoin-over-altcoins-55a447ce.md)
 * 2018-12-31 [이란 전보 암호화 열망 국가 안보에 대 한 행위를 선언](https://github.com/theyapapa/cryptonews/blob/ko/iran-declares-telegram-crypto-aspirations-an-act-against-national-security-d4159f6c.md)
 * 2018-12-31 [비트 코인, 리플,이 더 리 움, 비트 코인 현금, EOS, 라이트 코인, 비트 코인 SV/트 론](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-dec-31-e053b57d.md)
 * 2018-12-31 [비트 코인은 거 버 넌 스에 혁명을 일으킬 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-could-revolutionize-governance-says-cypherpunk-jameson-lopp-f23f93ea.md)
