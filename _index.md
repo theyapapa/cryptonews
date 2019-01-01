@@ -1,3 +1,4 @@
+* 2019-01-01 [인도: 미디어 보고서 중앙 은행이 ' 암호화 루피 ' 계획을 연기 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-media-reports-central-bank-has-postponed-crypto-rupee-plans-164194bd.md)
 * 2019-01-01 [비트 코인은 주로 적색으로 유지 되는 최고 암호 화폐로 서 $3800에 빠진다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-3-800-as-top-cryptocurrencies-remain-mostly-in-red-a6c39e53.md)
 * 2019-01-01 [미국 상원 의원 보고서 암호 화폐 사기 사건에 미결 판정 보류](https://github.com/theyapapa/cryptonews/blob/ko/us-senator-reports-to-jail-pending-verdict-in-cryptocurrency-fraud-case-2d7221ee.md)
 * 2019-01-01 [비트 코인은 2018에서 90 번 사망 했지만 거의 1000의 ' 데드 ' 알트 코인이 있으며 데이터는](https://github.com/theyapapa/cryptonews/blob/ko/while-bitcoin-died-90-times-in-2018-there-are-almost-1000-dead-altcoins-data-shows-02c6eb78.md)
