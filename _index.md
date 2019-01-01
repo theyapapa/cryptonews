@@ -1,3 +1,4 @@
+* 2019-01-01 [Fortnite магазин товаров начинает «исключительно» принимая Monero как метод компенсации](https://github.com/theyapapa/cryptonews/blob/ru/fortnite-merchandise-store-starts-exclusively-accepting-monero-as-payment-method-6bef57c1.md)
 * 2019-01-01 [Crypto ' в значительной степени пригодный только для разработчиков ' Уолл-стрит журнал говорит](https://github.com/theyapapa/cryptonews/blob/ru/crypto-largely-usable-only-by-developers-wall-street-journal-says-a42f1c28.md)
 * 2019-01-01 [Индия: СМИ сообщили, что Центральный банк отЛожил планы «крипто-рупии»](https://github.com/theyapapa/cryptonews/blob/ru/india-media-reports-central-bank-has-postponed-crypto-rupee-plans-164194bd.md)
 * 2019-01-01 [Bitcoin падает под $3 800 как лучшие криптовалюты остаются в основном в красном](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-3-800-as-top-cryptocurrencies-remain-mostly-in-red-a6c39e53.md)
