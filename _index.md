@@ -1,3 +1,4 @@
+* 2019-01-01 [Bitcoin падает под $3 800 как лучшие криптовалюты остаются в основном в красном](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-3-800-as-top-cryptocurrencies-remain-mostly-in-red-a6c39e53.md)
 * 2019-01-01 [Сенатор США сообщает в тюрьму в ожидании вердикта в случае мошенничества Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/us-senator-reports-to-jail-pending-verdict-in-cryptocurrency-fraud-case-2d7221ee.md)
 * 2019-01-01 [В то время как Bitcoin ' умер ' 90 раз в 2018, есть почти 1000 ' мертвых ' Altcoins, данные показывает](https://github.com/theyapapa/cryptonews/blob/ru/while-bitcoin-died-90-times-in-2018-there-are-almost-1000-dead-altcoins-data-shows-02c6eb78.md)
 * 2019-01-01 [Джимми Сонг основные моменты децентрализация как ключ к успеху Bitcoin over Altcoins](https://github.com/theyapapa/cryptonews/blob/ru/jimmy-song-highlights-decentralization-as-key-to-success-of-bitcoin-over-altcoins-55a447ce.md)
