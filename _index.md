@@ -1,3 +1,4 @@
+* 2019-01-02 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Stellar, Litecoin, Bitcoin SV, TRON, Cardano: Análisis de precios, 2 de enero](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-jan-2-62a6de71.md)
 * 2019-01-02 [Mike Novogratz sube participación en Galaxy digital a poseer casi 80% de acciones](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratz-ups-stake-in-galaxy-digital-to-own-almost-80-of-shares-1e578495.md)
 * 2019-01-02 [Los mercados Crypto son sobre todo en verde, Ethereum recupera la posición superior de Altcoin](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-are-mostly-in-green-ethereum-regains-top-altcoin-position-7366e286.md)
 * 2019-01-02 [Revisión de tecnología del MIT: blockchain se normaliza en 2019](https://github.com/theyapapa/cryptonews/blob/es/mit-technology-review-blockchain-will-become-normalized-in-2019-e8ddf4dd.md)
