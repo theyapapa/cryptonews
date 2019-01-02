@@ -1,3 +1,4 @@
+* 2019-01-01 [Senador y cripto crítico Elizabeth Warren entra 2020 carrera presidencial de los E.E.U.U.](https://github.com/theyapapa/cryptonews/blob/es/senator-and-crypto-critic-elizabeth-warren-enters-2020-us-presidential-race-1e823252.md)
 * 2019-01-01 [Tienda de mercancía de Fortnite comienza ' exclusivamente ' aceptando Monero como método de pago](https://github.com/theyapapa/cryptonews/blob/es/fortnite-merchandise-store-starts-exclusively-accepting-monero-as-payment-method-6bef57c1.md)
 * 2019-01-01 [Crypto ' en gran parte utilizable sólo por los desarrolladores ' Wall Street Journal dice](https://github.com/theyapapa/cryptonews/blob/es/crypto-largely-usable-only-by-developers-wall-street-journal-says-a42f1c28.md)
 * 2019-01-01 [India: media reports Banco Central ha aplazado planes de ' cripto-Rupia '](https://github.com/theyapapa/cryptonews/blob/es/india-media-reports-central-bank-has-postponed-crypto-rupee-plans-164194bd.md)
