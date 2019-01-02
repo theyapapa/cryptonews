@@ -1,3 +1,4 @@
+* 2019-01-02 [Revisión de tecnología del MIT: blockchain se normaliza en 2019](https://github.com/theyapapa/cryptonews/blob/es/mit-technology-review-blockchain-will-become-normalized-in-2019-e8ddf4dd.md)
 * 2019-01-02 [Gobierno sudafricano establece grupo de trabajo regulatorio de cripto activos](https://github.com/theyapapa/cryptonews/blob/es/south-african-government-establishes-crypto-assets-regulatory-working-group-d86ec71c.md)
 * 2019-01-02 [La cuenta HitBTC se congela en Spotlight como Trace Mayer, John McAfee Claim juego sucio](https://github.com/theyapapa/cryptonews/blob/es/hitbtc-account-freezes-in-spotlight-as-trace-mayer-john-mcafee-claim-foul-play-b5b428b9.md)
 * 2019-01-01 [Top Cryptos ver ganancias modestas después de vacilar hoy temprano](https://github.com/theyapapa/cryptonews/blob/es/top-cryptos-see-modest-gains-after-wavering-earlier-today-d4dabdaf.md)
