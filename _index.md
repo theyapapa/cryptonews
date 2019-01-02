@@ -1,3 +1,4 @@
+* 2019-01-02 [Майк Novogratz UPS доли в галактике цифровой владеть почти 80% акций](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-ups-stake-in-galaxy-digital-to-own-almost-80-of-shares-1e578495.md)
 * 2019-01-02 [Крипто рынки в основном в Грин, Эфириум восстановил Top Альткоин позиции](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-are-mostly-in-green-ethereum-regains-top-altcoin-position-7366e286.md)
 * 2019-01-02 [Обзор технологии MIT: Блокчейн станет нормализованным в 2019](https://github.com/theyapapa/cryptonews/blob/ru/mit-technology-review-blockchain-will-become-normalized-in-2019-e8ddf4dd.md)
 * 2019-01-02 [Правительство Южной Африки учреждает рабочую группу по регулированию крипто-активов](https://github.com/theyapapa/cryptonews/blob/ru/south-african-government-establishes-crypto-assets-regulatory-working-group-d86ec71c.md)
