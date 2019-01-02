@@ -1,3 +1,4 @@
+* 2019-01-02 [좋은 Ol ' fud: 2018에서 비트 코인의 가장 밝은 미디어의 부 대](https://github.com/theyapapa/cryptonews/blob/ko/good-ol-fud-the-brightest-media-burials-of-bitcoin-in-2018-d0c50326.md)
 * 2019-01-02 [비트 코인,이 더 리 움 리플 비트 코인 캐시, EOS, 스텔라, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-jan-2-62a6de71.md)
 * 2019-01-02 [Mike 노 보 그 라 츠 Ups 지분 거의 80%의 주식을 소유 하는 갤럭시 디지털](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-ups-stake-in-galaxy-digital-to-own-almost-80-of-shares-1e578495.md)
 * 2019-01-02 [암호화 시장은 주로 녹색으로,에 테 리 움은 최고 알트 코인 위치를 회복](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-are-mostly-in-green-ethereum-regains-top-altcoin-position-7366e286.md)
