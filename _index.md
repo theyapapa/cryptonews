@@ -1,3 +1,4 @@
+* 2019-01-02 [Биржа hitbtc учетная запись заВисает в Spotlight как Trace Mayer, Джон McAfee претензии фол играть](https://github.com/theyapapa/cryptonews/blob/ru/hitbtc-account-freezes-in-spotlight-as-trace-mayer-john-mcafee-claim-foul-play-b5b428b9.md)
 * 2019-01-01 [Лучшие крипты видят скромные выгоды после колебаний ранее сегодня](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptos-see-modest-gains-after-wavering-earlier-today-d4dabdaf.md)
 * 2019-01-01 [Правительство Абхазии сократило мощность до 15 объектов майнинга Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/government-of-abkhazia-cuts-off-power-to-15-cryptocurrency-mining-facilities-0561db2c.md)
 * 2019-01-01 [Сенатор и крипто критик Элизабет Уоррен входит 2020 США президентской гонке](https://github.com/theyapapa/cryptonews/blob/ru/senator-and-crypto-critic-elizabeth-warren-enters-2020-us-presidential-race-1e823252.md)
