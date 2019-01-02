@@ -1,3 +1,4 @@
+* 2019-01-02 [hitbtc 계정은 추적 메이어로 스포트 라이트에서 동결, 존 맥 아 피는 파울 플레이를 주장](https://github.com/theyapapa/cryptonews/blob/ko/hitbtc-account-freezes-in-spotlight-as-trace-mayer-john-mcafee-claim-foul-play-b5b428b9.md)
 * 2019-01-01 [최고 cryptos는 오늘 흔들리는 후 겸손 한 이득을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-see-modest-gains-after-wavering-earlier-today-d4dabdaf.md)
 * 2019-01-01 [abkhazia 정부는 15 개의 암호 화폐 채굴 시설에 전력을 차단 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/government-of-abkhazia-cuts-off-power-to-15-cryptocurrency-mining-facilities-0561db2c.md)
 * 2019-01-01 [상원 의원 및 암호 평론가 엘리자베스 워렌은 2020 미국 대통령 경주에 들어갑니다.](https://github.com/theyapapa/cryptonews/blob/ko/senator-and-crypto-critic-elizabeth-warren-enters-2020-us-presidential-race-1e823252.md)
