@@ -1,3 +1,4 @@
+* 2019-01-02 [MIT 기술 검토: 블록 체인은 2019에서 정상화 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/mit-technology-review-blockchain-will-become-normalized-in-2019-e8ddf4dd.md)
 * 2019-01-02 [남아프리카 공화국 정부, 암호화 자산 규제 실무 그룹 설립](https://github.com/theyapapa/cryptonews/blob/ko/south-african-government-establishes-crypto-assets-regulatory-working-group-d86ec71c.md)
 * 2019-01-02 [hitbtc 계정은 추적 메이어로 스포트 라이트에서 동결, 존 맥 아 피는 파울 플레이를 주장](https://github.com/theyapapa/cryptonews/blob/ko/hitbtc-account-freezes-in-spotlight-as-trace-mayer-john-mcafee-claim-foul-play-b5b428b9.md)
 * 2019-01-01 [최고 cryptos는 오늘 흔들리는 후 겸손 한 이득을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-see-modest-gains-after-wavering-earlier-today-d4dabdaf.md)
