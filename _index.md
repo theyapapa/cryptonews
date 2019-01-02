@@ -1,3 +1,4 @@
+* 2019-01-01 [상원 의원 및 암호 평론가 엘리자베스 워렌은 2020 미국 대통령 경주에 들어갑니다.](https://github.com/theyapapa/cryptonews/blob/ko/senator-and-crypto-critic-elizabeth-warren-enters-2020-us-presidential-race-1e823252.md)
 * 2019-01-01 [포트 나이트 상품 매장은 monero 결제 수단으로 ' 독점적으로 ' 수락을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/fortnite-merchandise-store-starts-exclusively-accepting-monero-as-payment-method-6bef57c1.md)
 * 2019-01-01 [암호화 ' 주로 개발자의 월스트리트 저널에 의해서만 사용할 수](https://github.com/theyapapa/cryptonews/blob/ko/crypto-largely-usable-only-by-developers-wall-street-journal-says-a42f1c28.md)
 * 2019-01-01 [인도: 미디어 보고서 중앙 은행이 ' 암호화 루피 ' 계획을 연기 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-media-reports-central-bank-has-postponed-crypto-rupee-plans-164194bd.md)
