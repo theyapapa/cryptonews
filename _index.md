@@ -1,3 +1,4 @@
+* 2019-01-02 [Los mercados Crypto son sobre todo en verde, Ethereum recupera la posición superior de Altcoin](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-are-mostly-in-green-ethereum-regains-top-altcoin-position-7366e286.md)
 * 2019-01-02 [Revisión de tecnología del MIT: blockchain se normaliza en 2019](https://github.com/theyapapa/cryptonews/blob/es/mit-technology-review-blockchain-will-become-normalized-in-2019-e8ddf4dd.md)
 * 2019-01-02 [Gobierno sudafricano establece grupo de trabajo regulatorio de cripto activos](https://github.com/theyapapa/cryptonews/blob/es/south-african-government-establishes-crypto-assets-regulatory-working-group-d86ec71c.md)
 * 2019-01-02 [La cuenta HitBTC se congela en Spotlight como Trace Mayer, John McAfee Claim juego sucio](https://github.com/theyapapa/cryptonews/blob/es/hitbtc-account-freezes-in-spotlight-as-trace-mayer-john-mcafee-claim-foul-play-b5b428b9.md)
