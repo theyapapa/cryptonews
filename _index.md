@@ -1,3 +1,4 @@
+* 2019-01-02 [Mike 노 보 그 라 츠 Ups 지분 거의 80%의 주식을 소유 하는 갤럭시 디지털](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-ups-stake-in-galaxy-digital-to-own-almost-80-of-shares-1e578495.md)
 * 2019-01-02 [암호화 시장은 주로 녹색으로,에 테 리 움은 최고 알트 코인 위치를 회복](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-are-mostly-in-green-ethereum-regains-top-altcoin-position-7366e286.md)
 * 2019-01-02 [MIT 기술 검토: 블록 체인은 2019에서 정상화 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/mit-technology-review-blockchain-will-become-normalized-in-2019-e8ddf4dd.md)
 * 2019-01-02 [남아프리카 공화국 정부, 암호화 자산 규제 실무 그룹 설립](https://github.com/theyapapa/cryptonews/blob/ko/south-african-government-establishes-crypto-assets-regulatory-working-group-d86ec71c.md)
