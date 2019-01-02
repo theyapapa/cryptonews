@@ -1,3 +1,4 @@
+* 2019-01-01 [Top Cryptos ver ganancias modestas después de vacilar hoy temprano](https://github.com/theyapapa/cryptonews/blob/es/top-cryptos-see-modest-gains-after-wavering-earlier-today-d4dabdaf.md)
 * 2019-01-01 [El gobierno de Abjasia corta el poder a 15 instalaciones mineras criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/government-of-abkhazia-cuts-off-power-to-15-cryptocurrency-mining-facilities-0561db2c.md)
 * 2019-01-01 [Senador y cripto crítico Elizabeth Warren entra 2020 carrera presidencial de los E.E.U.U.](https://github.com/theyapapa/cryptonews/blob/es/senator-and-crypto-critic-elizabeth-warren-enters-2020-us-presidential-race-1e823252.md)
 * 2019-01-01 [Tienda de mercancía de Fortnite comienza ' exclusivamente ' aceptando Monero como método de pago](https://github.com/theyapapa/cryptonews/blob/es/fortnite-merchandise-store-starts-exclusively-accepting-monero-as-payment-method-6bef57c1.md)
