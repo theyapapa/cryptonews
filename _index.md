@@ -1,3 +1,4 @@
+* 2019-01-01 [Правительство Абхазии сократило мощность до 15 объектов майнинга Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/government-of-abkhazia-cuts-off-power-to-15-cryptocurrency-mining-facilities-0561db2c.md)
 * 2019-01-01 [Сенатор и крипто критик Элизабет Уоррен входит 2020 США президентской гонке](https://github.com/theyapapa/cryptonews/blob/ru/senator-and-crypto-critic-elizabeth-warren-enters-2020-us-presidential-race-1e823252.md)
 * 2019-01-01 [Fortnite магазин товаров начинает «исключительно» принимая Monero как метод компенсации](https://github.com/theyapapa/cryptonews/blob/ru/fortnite-merchandise-store-starts-exclusively-accepting-monero-as-payment-method-6bef57c1.md)
 * 2019-01-01 [Crypto ' в значительной степени пригодный только для разработчиков ' Уолл-стрит журнал говорит](https://github.com/theyapapa/cryptonews/blob/ru/crypto-largely-usable-only-by-developers-wall-street-journal-says-a42f1c28.md)
