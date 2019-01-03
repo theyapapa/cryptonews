@@ -1,3 +1,4 @@
+* 2019-01-02 [La policía India advierte al público contra invertir en Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/indian-police-warn-public-against-investing-in-cryptocurrencies-8093ce62.md)
 * 2019-01-02 [Centro Nacional de desarrollo tecnológico tailandés para introducir blockchain en la votación](https://github.com/theyapapa/cryptonews/blob/es/thai-national-tech-development-center-to-introduce-blockchain-in-voting-92c9fb7b.md)
 * 2019-01-02 [El Asamble de Nueva York anuncia la creación de la primera fuerza operativa de Criptomonedas en EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/new-york-assemblyman-announces-creation-of-first-us-cryptocurrency-task-force-668cb465.md)
 * 2019-01-02 [Good Ol ' FUD: los medios más brillantes entierros de Bitcoin en 2018](https://github.com/theyapapa/cryptonews/blob/es/good-ol-fud-the-brightest-media-burials-of-bitcoin-in-2018-d0c50326.md)
