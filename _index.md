@@ -1,3 +1,4 @@
+* 2019-01-03 [Menos inicios de sesión, menos tokens, menos estrés: ecosistema para admitir DApps de todos los Blockchains](https://github.com/theyapapa/cryptonews/blob/es/fewer-logins-fewer-tokens-less-stress-ecosystem-to-support-dapps-from-all-blockchains-418aafbf.md)
 * 2019-01-02 [La policía India advierte al público contra invertir en Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/indian-police-warn-public-against-investing-in-cryptocurrencies-8093ce62.md)
 * 2019-01-02 [Centro Nacional de desarrollo tecnológico tailandés para introducir blockchain en la votación](https://github.com/theyapapa/cryptonews/blob/es/thai-national-tech-development-center-to-introduce-blockchain-in-voting-92c9fb7b.md)
 * 2019-01-02 [El Asamble de Nueva York anuncia la creación de la primera fuerza operativa de Criptomonedas en EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/new-york-assemblyman-announces-creation-of-first-us-cryptocurrency-task-force-668cb465.md)
