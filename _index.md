@@ -1,3 +1,4 @@
+* 2019-01-03 [US Retail gigante de exceso para usar Bitcoin para pagar sus impuestos en Ohio](https://github.com/theyapapa/cryptonews/blob/es/us-retail-giant-overstock-to-use-bitcoin-to-pay-its-taxes-in-ohio-e89da493.md)
 * 2019-01-03 [Bitcoin cumple diez años en el aniversario del bloque Genesis](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-turns-ten-on-anniversary-of-genesis-block-70a91bd7.md)
 * 2019-01-03 [BitTorrent lanza un token basado en TRON nativo](https://github.com/theyapapa/cryptonews/blob/es/bittorrent-launches-native-tron-based-token-1d2e12cb.md)
 * 2019-01-03 [HitBTC descarta las acusaciones se congeló cuentas en respuesta a prueba de evento de llaves](https://github.com/theyapapa/cryptonews/blob/es/hitbtc-dismisses-allegations-it-froze-accounts-in-response-to-proof-of-keys-event-5edc5d56.md)
