@@ -1,3 +1,4 @@
+* 2019-01-02 [Индийская полиция предупреждает общественность против инвестирования в криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/indian-police-warn-public-against-investing-in-cryptocurrencies-8093ce62.md)
 * 2019-01-02 [Тайский национальный центр развития технологий ввести Блокчейн в голосовании](https://github.com/theyapapa/cryptonews/blob/ru/thai-national-tech-development-center-to-introduce-blockchain-in-voting-92c9fb7b.md)
 * 2019-01-02 [Нью-Йоркская Ассамблея объявляет о создании «первой» целевой группы по Криптовалюта США](https://github.com/theyapapa/cryptonews/blob/ru/new-york-assemblyman-announces-creation-of-first-us-cryptocurrency-task-force-668cb465.md)
 * 2019-01-02 [Good Ol ' фуд: самые яркие средства массовой информации захоронения Bitcoin в 2018](https://github.com/theyapapa/cryptonews/blob/ru/good-ol-fud-the-brightest-media-burials-of-bitcoin-in-2018-d0c50326.md)
