@@ -1,3 +1,4 @@
+* 2019-01-03 [유럽 연합 규제 토큰화 된 주식 거래를 시작 하는 나스닥 기반 거래소](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-powered-exchange-to-launch-eu-regulated-tokenized-stock-trading-43a9c3ab.md)
 * 2019-01-03 [도 리안 나카 모토에서 엘 룬 머 스크까지: ' 사토시 나카 모토 '로 추측 되는 불완전 한 인물 목록](https://github.com/theyapapa/cryptonews/blob/ko/from-dorian-nakamoto-to-elon-musk-the-incomplete-list-of-people-speculated-to-be-satoshi-nakamoto-9d659e84.md)
 * 2019-01-03 [로그인 수 감소, 토큰 수 감소, 스트레스 감소: 모든 블록 체인의 dapps를 지 원하는 생태계](https://github.com/theyapapa/cryptonews/blob/ko/fewer-logins-fewer-tokens-less-stress-ecosystem-to-support-dapps-from-all-blockchains-418aafbf.md)
 * 2019-01-02 [인도 경찰은 암호 화폐에 대 한 투자를 공개적으로 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/indian-police-warn-public-against-investing-in-cryptocurrencies-8093ce62.md)
