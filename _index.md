@@ -1,3 +1,4 @@
+* 2019-01-03 [Bitcoin cumple diez años en el aniversario del bloque Genesis](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-turns-ten-on-anniversary-of-genesis-block-70a91bd7.md)
 * 2019-01-03 [BitTorrent lanza un token basado en TRON nativo](https://github.com/theyapapa/cryptonews/blob/es/bittorrent-launches-native-tron-based-token-1d2e12cb.md)
 * 2019-01-03 [HitBTC descarta las acusaciones se congeló cuentas en respuesta a prueba de evento de llaves](https://github.com/theyapapa/cryptonews/blob/es/hitbtc-dismisses-allegations-it-froze-accounts-in-response-to-proof-of-keys-event-5edc5d56.md)
 * 2019-01-03 [NASDAQ-Powered Exchange lanzará Trading de acciones con tokenizado regulado por la UE](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-powered-exchange-to-launch-eu-regulated-tokenized-stock-trading-43a9c3ab.md)
