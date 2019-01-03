@@ -1,3 +1,4 @@
+* 2019-01-03 [Bitcoin исполняется десять лет в годовщину блока Бытие](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-turns-ten-on-anniversary-of-genesis-block-70a91bd7.md)
 * 2019-01-03 [BitTorrent запускает родной трон на основе токена](https://github.com/theyapapa/cryptonews/blob/ru/bittorrent-launches-native-tron-based-token-1d2e12cb.md)
 * 2019-01-03 [Биржа hitbtc отклонил обвинения он заморозил счета в ответ на доказательство ключей события](https://github.com/theyapapa/cryptonews/blob/ru/hitbtc-dismisses-allegations-it-froze-accounts-in-response-to-proof-of-keys-event-5edc5d56.md)
 * 2019-01-03 [Биржи NASDAQ-Powered для запуска регулируемых ЕС маркеров биржевой торговли](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-powered-exchange-to-launch-eu-regulated-tokenized-stock-trading-43a9c3ab.md)
