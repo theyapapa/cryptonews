@@ -1,3 +1,4 @@
+* 2019-01-03 [도 리안 나카 모토에서 엘 룬 머 스크까지: ' 사토시 나카 모토 '로 추측 되는 불완전 한 인물 목록](https://github.com/theyapapa/cryptonews/blob/ko/from-dorian-nakamoto-to-elon-musk-the-incomplete-list-of-people-speculated-to-be-satoshi-nakamoto-9d659e84.md)
 * 2019-01-03 [로그인 수 감소, 토큰 수 감소, 스트레스 감소: 모든 블록 체인의 dapps를 지 원하는 생태계](https://github.com/theyapapa/cryptonews/blob/ko/fewer-logins-fewer-tokens-less-stress-ecosystem-to-support-dapps-from-all-blockchains-418aafbf.md)
 * 2019-01-02 [인도 경찰은 암호 화폐에 대 한 투자를 공개적으로 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/indian-police-warn-public-against-investing-in-cryptocurrencies-8093ce62.md)
 * 2019-01-02 [태국 국립 기술 개발 센터, 투표에서 블록 체인 소개](https://github.com/theyapapa/cryptonews/blob/ko/thai-national-tech-development-center-to-introduce-blockchain-in-voting-92c9fb7b.md)
