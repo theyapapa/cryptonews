@@ -1,3 +1,4 @@
+* 2019-01-03 [비트 토런트는 네이티브 트 론 기반 토큰을 출시](https://github.com/theyapapa/cryptonews/blob/ko/bittorrent-launches-native-tron-based-token-1d2e12cb.md)
 * 2019-01-03 [hitbtc는 혐의를 무시 합니다. 키 증명 이벤트에 대 한 응답으로 계정 동결](https://github.com/theyapapa/cryptonews/blob/ko/hitbtc-dismisses-allegations-it-froze-accounts-in-response-to-proof-of-keys-event-5edc5d56.md)
 * 2019-01-03 [유럽 연합 규제 토큰화 된 주식 거래를 시작 하는 나스닥 기반 거래소](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-powered-exchange-to-launch-eu-regulated-tokenized-stock-trading-43a9c3ab.md)
 * 2019-01-03 [도 리안 나카 모토에서 엘 룬 머 스크까지: ' 사토시 나카 모토 '로 추측 되는 불완전 한 인물 목록](https://github.com/theyapapa/cryptonews/blob/ko/from-dorian-nakamoto-to-elon-musk-the-incomplete-list-of-people-speculated-to-be-satoshi-nakamoto-9d659e84.md)
