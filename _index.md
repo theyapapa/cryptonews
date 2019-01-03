@@ -1,3 +1,4 @@
+* 2019-01-03 [США розничной гигантской заготовки использовать Bitcoin платить налоги в Огайо](https://github.com/theyapapa/cryptonews/blob/ru/us-retail-giant-overstock-to-use-bitcoin-to-pay-its-taxes-in-ohio-e89da493.md)
 * 2019-01-03 [Bitcoin исполняется десять лет в годовщину блока Бытие](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-turns-ten-on-anniversary-of-genesis-block-70a91bd7.md)
 * 2019-01-03 [BitTorrent запускает родной трон на основе токена](https://github.com/theyapapa/cryptonews/blob/ru/bittorrent-launches-native-tron-based-token-1d2e12cb.md)
 * 2019-01-03 [Биржа hitbtc отклонил обвинения он заморозил счета в ответ на доказательство ключей события](https://github.com/theyapapa/cryptonews/blob/ru/hitbtc-dismisses-allegations-it-froze-accounts-in-response-to-proof-of-keys-event-5edc5d56.md)
