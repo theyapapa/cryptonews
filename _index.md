@@ -1,3 +1,4 @@
+* 2019-01-03 [키 증명 이벤트는 암호 화폐의 중앙 집중화에 도전 하는 것을 목표로 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/proof-of-keys-event-aims-to-challenge-perceived-centralization-of-cryptocurrencies-2100e00d.md)
 * 2019-01-03 [미국 소매 거 대 한 과잉은 오하이오에서 세금을 지불 하는 비트 코인을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/us-retail-giant-overstock-to-use-bitcoin-to-pay-its-taxes-in-ohio-e89da493.md)
 * 2019-01-03 [비트 코인은 창세기 블록의 기념일에 10 회전](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-turns-ten-on-anniversary-of-genesis-block-70a91bd7.md)
 * 2019-01-03 [비트 토런트는 네이티브 트 론 기반 토큰을 출시](https://github.com/theyapapa/cryptonews/blob/ko/bittorrent-launches-native-tron-based-token-1d2e12cb.md)
