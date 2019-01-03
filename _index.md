@@ -1,3 +1,4 @@
+* 2019-01-02 [인도 경찰은 암호 화폐에 대 한 투자를 공개적으로 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/indian-police-warn-public-against-investing-in-cryptocurrencies-8093ce62.md)
 * 2019-01-02 [태국 국립 기술 개발 센터, 투표에서 블록 체인 소개](https://github.com/theyapapa/cryptonews/blob/ko/thai-national-tech-development-center-to-introduce-blockchain-in-voting-92c9fb7b.md)
 * 2019-01-02 [뉴욕 어셈블리 ' 최초의 ' 미국 암호 화폐 태스크 포스 생성 발표](https://github.com/theyapapa/cryptonews/blob/ko/new-york-assemblyman-announces-creation-of-first-us-cryptocurrency-task-force-668cb465.md)
 * 2019-01-02 [좋은 Ol ' fud: 2018에서 비트 코인의 가장 밝은 미디어의 부 대](https://github.com/theyapapa/cryptonews/blob/ko/good-ol-fud-the-brightest-media-burials-of-bitcoin-in-2018-d0c50326.md)
