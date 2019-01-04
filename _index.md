@@ -1,3 +1,4 @@
+* 2019-01-04 [Индия: Центральный банк доклад государства Crypto не угрожает финансовой стабильности](https://github.com/theyapapa/cryptonews/blob/ru/india-central-bank-report-states-crypto-does-not-threaten-financial-stability-8009d5a8.md)
 * 2019-01-04 [Американская экономическая ассоциация проводит презентации по крипто-Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/american-economic-association-holds-presentations-on-crypto-blockchain-3eb77f68.md)
 * 2019-01-04 [Coinbase Exec приСоединяется Stablecoin эмитента Труеусд в качестве руководителя комплаенс](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-exec-joins-stablecoin-issuer-trueusd-as-head-of-compliance-e720332d.md)
 * 2019-01-03 [Круг казненный $24 000 000 000 в OTC торгах в 2018](https://github.com/theyapapa/cryptonews/blob/ru/circle-executed-24-billion-in-otc-trades-in-2018-af587898.md)
