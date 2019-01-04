@@ -1,3 +1,4 @@
+* 2019-01-04 [Asociación económica americana celebra presentaciones sobre Crypto, blockchain](https://github.com/theyapapa/cryptonews/blob/es/american-economic-association-holds-presentations-on-crypto-blockchain-3eb77f68.md)
 * 2019-01-04 [Coinbase exec se une a Stablecoin issuer TrueUSD como jefe de cumplimiento](https://github.com/theyapapa/cryptonews/blob/es/coinbase-exec-joins-stablecoin-issuer-trueusd-as-head-of-compliance-e720332d.md)
 * 2019-01-03 [Círculo ejecutado $24 mil millones en operaciones OTC en 2018](https://github.com/theyapapa/cryptonews/blob/es/circle-executed-24-billion-in-otc-trades-in-2018-af587898.md)
 * 2019-01-03 [El productor de Bitcoin ATM se traslada a Suiza debido a dificultades regulatorias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-atm-producer-moves-to-switzerland-due-to-regulatory-difficulties-ad5b873a.md)
