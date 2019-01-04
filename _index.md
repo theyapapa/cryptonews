@@ -1,3 +1,4 @@
+* 2019-01-04 [Американская экономическая ассоциация проводит презентации по крипто-Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/american-economic-association-holds-presentations-on-crypto-blockchain-3eb77f68.md)
 * 2019-01-04 [Coinbase Exec приСоединяется Stablecoin эмитента Труеусд в качестве руководителя комплаенс](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-exec-joins-stablecoin-issuer-trueusd-as-head-of-compliance-e720332d.md)
 * 2019-01-03 [Круг казненный $24 000 000 000 в OTC торгах в 2018](https://github.com/theyapapa/cryptonews/blob/ru/circle-executed-24-billion-in-otc-trades-in-2018-af587898.md)
 * 2019-01-03 [Биткойн-производитель БАНКОМАТов переЕзжает в Швейцарию из-за регулятивных трудностей](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-atm-producer-moves-to-switzerland-due-to-regulatory-difficulties-ad5b873a.md)
