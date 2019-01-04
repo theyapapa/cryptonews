@@ -1,3 +1,4 @@
+* 2019-01-04 [' Биткойн-это моя первая любовь ': Топ-монета чемпионов Coinbase на 10-й день рождения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-is-my-first-love-coinbase-ceo-champions-top-coin-on-its-10th-birthday-25c72107.md)
 * 2019-01-04 [Индия: Центральный банк доклад государства Crypto не угрожает финансовой стабильности](https://github.com/theyapapa/cryptonews/blob/ru/india-central-bank-report-states-crypto-does-not-threaten-financial-stability-8009d5a8.md)
 * 2019-01-04 [Американская экономическая ассоциация проводит презентации по крипто-Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/american-economic-association-holds-presentations-on-crypto-blockchain-3eb77f68.md)
 * 2019-01-04 [Coinbase Exec приСоединяется Stablecoin эмитента Труеусд в качестве руководителя комплаенс](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-exec-joins-stablecoin-issuer-trueusd-as-head-of-compliance-e720332d.md)
