@@ -1,3 +1,4 @@
+* 2019-01-03 [El productor de Bitcoin ATM se traslada a Suiza debido a dificultades regulatorias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-atm-producer-moves-to-switzerland-due-to-regulatory-difficulties-ad5b873a.md)
 * 2019-01-03 [Prueba de evento de claves pretende desafiar la centralización percibida de Cryptocurrencies](https://github.com/theyapapa/cryptonews/blob/es/proof-of-keys-event-aims-to-challenge-perceived-centralization-of-cryptocurrencies-2100e00d.md)
 * 2019-01-03 [US Retail gigante de exceso para usar Bitcoin para pagar sus impuestos en Ohio](https://github.com/theyapapa/cryptonews/blob/es/us-retail-giant-overstock-to-use-bitcoin-to-pay-its-taxes-in-ohio-e89da493.md)
 * 2019-01-03 [Bitcoin cumple diez años en el aniversario del bloque Genesis](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-turns-ten-on-anniversary-of-genesis-block-70a91bd7.md)
