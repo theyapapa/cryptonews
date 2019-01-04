@@ -1,3 +1,4 @@
+* 2019-01-04 [' 비트 코인은 나의 첫 사랑 ': 코인 베이스 CEO 챔피언 탑 코인의 10 번째 생일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-is-my-first-love-coinbase-ceo-champions-top-coin-on-its-10th-birthday-25c72107.md)
 * 2019-01-04 [인도: 중앙 은행 보고서 상태 암호화는 금융 안정성을 위협 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/india-central-bank-report-states-crypto-does-not-threaten-financial-stability-8009d5a8.md)
 * 2019-01-04 [미국 경제 협회가 암호화, 블록 체인에 대 한 프레젠테이션을 개최 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/american-economic-association-holds-presentations-on-crypto-blockchain-3eb77f68.md)
 * 2019-01-04 [coinbase Exec는 규정 준수의 머리로 stablecoin 발급자 trueusd 조인](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exec-joins-stablecoin-issuer-trueusd-as-head-of-compliance-e720332d.md)
