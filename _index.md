@@ -1,3 +1,4 @@
+* 2019-01-04 [미국 경제 협회가 암호화, 블록 체인에 대 한 프레젠테이션을 개최 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/american-economic-association-holds-presentations-on-crypto-blockchain-3eb77f68.md)
 * 2019-01-04 [coinbase Exec는 규정 준수의 머리로 stablecoin 발급자 trueusd 조인](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exec-joins-stablecoin-issuer-trueusd-as-head-of-compliance-e720332d.md)
 * 2019-01-03 [서클은 2018에서 OTC 거래에서 $240억을 실행](https://github.com/theyapapa/cryptonews/blob/ko/circle-executed-24-billion-in-otc-trades-in-2018-af587898.md)
 * 2019-01-03 [규제 문제로 인해 스위스로 이동 하는 비트 코인 ATM 프로듀서](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-atm-producer-moves-to-switzerland-due-to-regulatory-difficulties-ad5b873a.md)
