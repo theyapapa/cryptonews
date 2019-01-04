@@ -1,3 +1,4 @@
+* 2019-01-03 [Круг казненный $24 000 000 000 в OTC торгах в 2018](https://github.com/theyapapa/cryptonews/blob/ru/circle-executed-24-billion-in-otc-trades-in-2018-af587898.md)
 * 2019-01-03 [Биткойн-производитель БАНКОМАТов переЕзжает в Швейцарию из-за регулятивных трудностей](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-atm-producer-moves-to-switzerland-due-to-regulatory-difficulties-ad5b873a.md)
 * 2019-01-03 [Доказательство ключей событие направлено на вызов предполагаемой централизации Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/proof-of-keys-event-aims-to-challenge-perceived-centralization-of-cryptocurrencies-2100e00d.md)
 * 2019-01-03 [США розничной гигантской заготовки использовать Bitcoin платить налоги в Огайо](https://github.com/theyapapa/cryptonews/blob/ru/us-retail-giant-overstock-to-use-bitcoin-to-pay-its-taxes-in-ohio-e89da493.md)
