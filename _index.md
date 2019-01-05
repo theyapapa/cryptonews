@@ -1,3 +1,4 @@
+* 2019-01-05 [Крипто рынки видят зеленый как Bitcoin приближается $3 900 и Эфириум коснется $160](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-green-as-bitcoin-nears-3-900-and-ethereum-touches-160-b89e3adb.md)
 * 2019-01-05 [Еще пять обменов приСоединиться к японской самоРегулируемой ассоциации крипто-обмена](https://github.com/theyapapa/cryptonews/blob/ru/five-more-exchanges-join-japans-self-regulatory-crypto-exchange-association-0cd86640.md)
 * 2019-01-05 [Основатель румынской крипто-биржи Коинфлукс будет выдан нам по нескольким обвинениям](https://github.com/theyapapa/cryptonews/blob/ru/founder-of-romanian-crypto-exchange-coinflux-to-be-extradited-to-us-on-multiple-allegations-6b45e870.md)
 * 2019-01-04 [' Crypto потребности правила ' говорит новый близнецы рекламная кампания](https://github.com/theyapapa/cryptonews/blob/ru/crypto-needs-rules-says-new-gemini-ad-campaign-c55cb856.md)
