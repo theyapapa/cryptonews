@@ -1,3 +1,4 @@
+* 2019-01-05 [Еще пять обменов приСоединиться к японской самоРегулируемой ассоциации крипто-обмена](https://github.com/theyapapa/cryptonews/blob/ru/five-more-exchanges-join-japans-self-regulatory-crypto-exchange-association-0cd86640.md)
 * 2019-01-05 [Основатель румынской крипто-биржи Коинфлукс будет выдан нам по нескольким обвинениям](https://github.com/theyapapa/cryptonews/blob/ru/founder-of-romanian-crypto-exchange-coinflux-to-be-extradited-to-us-on-multiple-allegations-6b45e870.md)
 * 2019-01-04 [' Crypto потребности правила ' говорит новый близнецы рекламная кампания](https://github.com/theyapapa/cryptonews/blob/ru/crypto-needs-rules-says-new-gemini-ad-campaign-c55cb856.md)
 * 2019-01-04 [Консенсис и AMD совместно разРабатывать инфраструктуру облачных вычислений на базе Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/consensys-and-amd-to-jointly-develop-blockchain-based-cloud-computing-infrastructure-b7d58b18.md)
