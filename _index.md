@@ -1,3 +1,4 @@
+* 2019-01-04 [블록 체인 기반 클라우드 컴퓨팅 인프라를 공동 개발 하는 ConsenSys 및 AMD](https://github.com/theyapapa/cryptonews/blob/ko/consensys-and-amd-to-jointly-develop-blockchain-based-cloud-computing-infrastructure-b7d58b18.md)
 * 2019-01-04 [비트 코인,이 더 리 움 리플 비트 코인 캐시, EOS, 스텔라, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-stellar-litecoin-bitcoin-sv-tron-cardano-price-analysis-jan-4-8bc57b44.md)
 * 2019-01-04 [' 비트 코인은 나의 첫 사랑 ': 코인 베이스 CEO 챔피언 탑 코인의 10 번째 생일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-is-my-first-love-coinbase-ceo-champions-top-coin-on-its-10th-birthday-25c72107.md)
 * 2019-01-04 [인도: 중앙 은행 보고서 상태 암호화는 금융 안정성을 위협 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/india-central-bank-report-states-crypto-does-not-threaten-financial-stability-8009d5a8.md)
