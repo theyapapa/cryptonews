@@ -1,3 +1,4 @@
+* 2019-01-05 [비트 코인 $3900에 가까워지면 암호화 시장은 녹색을 참조 하십시오 $160](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-green-as-bitcoin-nears-3-900-and-ethereum-touches-160-b89e3adb.md)
 * 2019-01-05 [5 개 이상의 거래소가 일본의 자율 규제 암호 교환 협회에 가입](https://github.com/theyapapa/cryptonews/blob/ko/five-more-exchanges-join-japans-self-regulatory-crypto-exchange-association-0cd86640.md)
 * 2019-01-05 [여러 의혹에 우리에 게 파문 루마니아어 암호화 교환 코 유입의 설립자](https://github.com/theyapapa/cryptonews/blob/ko/founder-of-romanian-crypto-exchange-coinflux-to-be-extradited-to-us-on-multiple-allegations-6b45e870.md)
 * 2019-01-04 [' 암호화 요구 규칙 ' 새로운 쌍둥이 자리 광고 캠페인 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-needs-rules-says-new-gemini-ad-campaign-c55cb856.md)
