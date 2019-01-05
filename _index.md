@@ -1,3 +1,4 @@
+* 2019-01-05 [ICO Market 2018 vs 2017: tendencias, capitalización, localización, industrias, tasa de éxito](https://github.com/theyapapa/cryptonews/blob/es/ico-market-2018-vs-2017-trends-capitalization-localization-industries-success-rate-a20422a3.md)
 * 2019-01-05 [Coinbase presuntamente prohíbe cuenta personal de la plataforma de medios sociales fundador de GAB](https://github.com/theyapapa/cryptonews/blob/es/coinbase-reportedly-bans-personal-account-of-social-media-platform-gab-founder-dc892a47.md)
 * 2019-01-05 [Crypto Markets ver verde como Bitcoin Nears $3.900 y Ethereum toca $160](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-green-as-bitcoin-nears-3-900-and-ethereum-touches-160-b89e3adb.md)
 * 2019-01-05 [Cinco intercambios más se unen a la Asociación de intercambio criptográfico autorregulador de Japón](https://github.com/theyapapa/cryptonews/blob/es/five-more-exchanges-join-japans-self-regulatory-crypto-exchange-association-0cd86640.md)
