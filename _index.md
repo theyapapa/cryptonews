@@ -1,3 +1,4 @@
+* 2019-01-05 [5 개 이상의 거래소가 일본의 자율 규제 암호 교환 협회에 가입](https://github.com/theyapapa/cryptonews/blob/ko/five-more-exchanges-join-japans-self-regulatory-crypto-exchange-association-0cd86640.md)
 * 2019-01-05 [여러 의혹에 우리에 게 파문 루마니아어 암호화 교환 코 유입의 설립자](https://github.com/theyapapa/cryptonews/blob/ko/founder-of-romanian-crypto-exchange-coinflux-to-be-extradited-to-us-on-multiple-allegations-6b45e870.md)
 * 2019-01-04 [' 암호화 요구 규칙 ' 새로운 쌍둥이 자리 광고 캠페인 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-needs-rules-says-new-gemini-ad-campaign-c55cb856.md)
 * 2019-01-04 [블록 체인 기반 클라우드 컴퓨팅 인프라를 공동 개발 하는 ConsenSys 및 AMD](https://github.com/theyapapa/cryptonews/blob/ko/consensys-and-amd-to-jointly-develop-blockchain-based-cloud-computing-infrastructure-b7d58b18.md)
