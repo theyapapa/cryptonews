@@ -1,3 +1,4 @@
+* 2019-01-05 [Crypto Markets ver verde como Bitcoin Nears $3.900 y Ethereum toca $160](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-green-as-bitcoin-nears-3-900-and-ethereum-touches-160-b89e3adb.md)
 * 2019-01-05 [Cinco intercambios más se unen a la Asociación de intercambio criptográfico autorregulador de Japón](https://github.com/theyapapa/cryptonews/blob/es/five-more-exchanges-join-japans-self-regulatory-crypto-exchange-association-0cd86640.md)
 * 2019-01-05 [Fundador de la Coafluencia de intercambio de Criptomonedas Rumano para ser extraditado a Estados Unidos en múltiples acusaciones](https://github.com/theyapapa/cryptonews/blob/es/founder-of-romanian-crypto-exchange-coinflux-to-be-extradited-to-us-on-multiple-allegations-6b45e870.md)
 * 2019-01-04 [' Crypto necesita reglas ' dice nueva campaña publicitaria de Gemini](https://github.com/theyapapa/cryptonews/blob/es/crypto-needs-rules-says-new-gemini-ad-campaign-c55cb856.md)
