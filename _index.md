@@ -1,3 +1,4 @@
+* 2019-01-05 [coinbase는 보도를 금지 소셜 미디어 플랫폼 gab 설립자의 개인 계정](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-reportedly-bans-personal-account-of-social-media-platform-gab-founder-dc892a47.md)
 * 2019-01-05 [비트 코인 $3900에 가까워지면 암호화 시장은 녹색을 참조 하십시오 $160](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-green-as-bitcoin-nears-3-900-and-ethereum-touches-160-b89e3adb.md)
 * 2019-01-05 [5 개 이상의 거래소가 일본의 자율 규제 암호 교환 협회에 가입](https://github.com/theyapapa/cryptonews/blob/ko/five-more-exchanges-join-japans-self-regulatory-crypto-exchange-association-0cd86640.md)
 * 2019-01-05 [여러 의혹에 우리에 게 파문 루마니아어 암호화 교환 코 유입의 설립자](https://github.com/theyapapa/cryptonews/blob/ko/founder-of-romanian-crypto-exchange-coinflux-to-be-extradited-to-us-on-multiple-allegations-6b45e870.md)
