@@ -1,3 +1,4 @@
+* 2019-01-06 [2018에 거의 세 배로 크 라 켄에 보낸 법 집행 문의](https://github.com/theyapapa/cryptonews/blob/ko/law-enforcement-inquiries-sent-to-kraken-nearly-tripled-in-2018-c6d694cd.md)
 * 2019-01-06 [비트 코인은 $3850 상단 크립 토가 혼합 된 신호를 참조로, 그것을 가리키기](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-3-850-as-top-cryptos-see-mixed-signals-db2da44b.md)
 * 2019-01-06 [가짜 뉴스 사이트는 Ex-뉴질랜드의 이미지와 비트 코인을 촉진](https://github.com/theyapapa/cryptonews/blob/ko/fake-news-site-promotes-bitcoin-with-image-of-ex-new-zealand-pm-1eb59bd0.md)
 * 2019-01-05 [ICO 시장 2018 vs 2017: 동향, 자본 화, 현지화, 산업, 성공 율](https://github.com/theyapapa/cryptonews/blob/ko/ico-market-2018-vs-2017-trends-capitalization-localization-industries-success-rate-a20422a3.md)
