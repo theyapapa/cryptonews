@@ -1,3 +1,4 @@
+* 2019-01-06 [ПодДельные Новости сайт способствует Bitcoin с изображением экс-Новой Зеландии PM](https://github.com/theyapapa/cryptonews/blob/ru/fake-news-site-promotes-bitcoin-with-image-of-ex-new-zealand-pm-1eb59bd0.md)
 * 2019-01-05 [ICO Market 2018 VS 2017: тренды, капитализация, локализация, отрасли, показатель успешности](https://github.com/theyapapa/cryptonews/blob/ru/ico-market-2018-vs-2017-trends-capitalization-localization-industries-success-rate-a20422a3.md)
 * 2019-01-05 [Coinbase, как сообщается, запреты Личный счет социальных медиа платформы шт основатель](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-reportedly-bans-personal-account-of-social-media-platform-gab-founder-dc892a47.md)
 * 2019-01-05 [Крипто рынки видят зеленый как Bitcoin приближается $3 900 и Эфириум коснется $160](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-green-as-bitcoin-nears-3-900-and-ethereum-touches-160-b89e3adb.md)
