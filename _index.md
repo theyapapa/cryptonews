@@ -1,3 +1,4 @@
+* 2019-01-06 [가짜 뉴스 사이트는 Ex-뉴질랜드의 이미지와 비트 코인을 촉진](https://github.com/theyapapa/cryptonews/blob/ko/fake-news-site-promotes-bitcoin-with-image-of-ex-new-zealand-pm-1eb59bd0.md)
 * 2019-01-05 [ICO 시장 2018 vs 2017: 동향, 자본 화, 현지화, 산업, 성공 율](https://github.com/theyapapa/cryptonews/blob/ko/ico-market-2018-vs-2017-trends-capitalization-localization-industries-success-rate-a20422a3.md)
 * 2019-01-05 [coinbase는 보도를 금지 소셜 미디어 플랫폼 gab 설립자의 개인 계정](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-reportedly-bans-personal-account-of-social-media-platform-gab-founder-dc892a47.md)
 * 2019-01-05 [비트 코인 $3900에 가까워지면 암호화 시장은 녹색을 참조 하십시오 $160](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-green-as-bitcoin-nears-3-900-and-ethereum-touches-160-b89e3adb.md)
