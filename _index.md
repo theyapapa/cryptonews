@@ -1,3 +1,4 @@
+* 2019-01-07 [나스닥 기반 EU 거래소, 암호화 거래 쌍, 토큰화 된 주식 공개](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-powered-eu-exchange-reveals-crypto-trading-pairs-tokenized-stocks-d6a13a74.md)
 * 2019-01-07 [' 비트 코인 극단 주의자 ' 트 윗을 통해 라이트 코인 설립자 스톡 스 논쟁](https://github.com/theyapapa/cryptonews/blob/ko/litecoin-founder-stokes-debate-over-bitcoin-extremists-tweet-d04289c4.md)
 * 2019-01-07 [구글을 버리고 대신 봇을 사용: 시작은 검색 애플 리 케이 션을 위한 황금 시대가 끝났습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/ditch-google-and-use-a-bot-instead-startup-says-the-golden-era-for-search-apps-is-over-a872d4fd.md)
 * 2019-01-07 [홍콩 기업가는 암호 마이닝 투자 방식으로 부정 행위 투자자 혐의로 기소 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-entrepreneur-accused-of-cheating-investors-in-crypto-mining-investment-scheme-4a17b0a1.md)
