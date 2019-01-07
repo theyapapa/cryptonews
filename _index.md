@@ -1,3 +1,4 @@
+* 2019-01-07 [Дэйв Рубин превращается в биткоин для финансирования после предполагаемой Patreon цензуры](https://github.com/theyapapa/cryptonews/blob/ru/dave-rubin-turns-to-bitcoin-for-crowdfunding-after-alleged-patreon-censorship-4f5774b6.md)
 * 2019-01-07 [NASDAQ-Powered EU Exchange показывает крипто-торговые пары, Токенные запасы](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-powered-eu-exchange-reveals-crypto-trading-pairs-tokenized-stocks-d6a13a74.md)
 * 2019-01-07 [В Твиттере «Bitcoin экстремистов» соУчредитель Litecoin проведут дебаты](https://github.com/theyapapa/cryptonews/blob/ru/litecoin-founder-stokes-debate-over-bitcoin-extremists-tweet-d04289c4.md)
 * 2019-01-07 [Канаву Google и использовать бот вместо: запуск говорит Золотая эра для поиска приложений более](https://github.com/theyapapa/cryptonews/blob/ru/ditch-google-and-use-a-bot-instead-startup-says-the-golden-era-for-search-apps-is-over-a872d4fd.md)
