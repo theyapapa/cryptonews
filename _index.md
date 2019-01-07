@@ -1,3 +1,4 @@
+* 2019-01-07 [Nevada emite casi 1.000 certificados de matrimonio en Ethereum, pero la aceptación de Gov't varía](https://github.com/theyapapa/cryptonews/blob/es/nevada-issues-almost-1-000-marriage-certificates-on-ethereum-but-govt-acceptance-varies-31226393.md)
 * 2019-01-07 [Colorado considera que Bill da Criptomonedas Limited exenciones de las leyes de valores](https://github.com/theyapapa/cryptonews/blob/es/colorado-considers-bill-giving-cryptocurrencies-limited-exemptions-from-securities-laws-580fe618.md)
 * 2019-01-06 [ US FEDs RAID Tech hub para Crypto Trading no autorizado: informe](https://github.com/theyapapa/cryptonews/blob/es/us-feds-raid-tech-hub-for-unauthorized-crypto-trading-report-cd7c9b81.md)
 * 2019-01-06 [Investigaciones policiales enviadas a Kraken casi triplicado en 2018](https://github.com/theyapapa/cryptonews/blob/es/law-enforcement-inquiries-sent-to-kraken-nearly-tripled-in-2018-c6d694cd.md)
