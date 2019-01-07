@@ -1,3 +1,4 @@
+* 2019-01-07 [콜로라도는 증권 법에서 암호화 화폐의 제한 된 면제를 주는 법안을 고려](https://github.com/theyapapa/cryptonews/blob/ko/colorado-considers-bill-giving-cryptocurrencies-limited-exemptions-from-securities-laws-580fe618.md)
 * 2019-01-06 [ 무단 암호화 거래를 위한 미국 feds Raid 기술 허브: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/us-feds-raid-tech-hub-for-unauthorized-crypto-trading-report-cd7c9b81.md)
 * 2019-01-06 [2018에 거의 세 배로 크 라 켄에 보낸 법 집행 문의](https://github.com/theyapapa/cryptonews/blob/ko/law-enforcement-inquiries-sent-to-kraken-nearly-tripled-in-2018-c6d694cd.md)
 * 2019-01-06 [비트 코인은 $3850 상단 크립 토가 혼합 된 신호를 참조로, 그것을 가리키기](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-3-850-as-top-cryptos-see-mixed-signals-db2da44b.md)
