@@ -1,3 +1,4 @@
+* 2019-01-07 [NASDAQ-Powered EU Exchange показывает крипто-торговые пары, Токенные запасы](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-powered-eu-exchange-reveals-crypto-trading-pairs-tokenized-stocks-d6a13a74.md)
 * 2019-01-07 [В Твиттере «Bitcoin экстремистов» соУчредитель Litecoin проведут дебаты](https://github.com/theyapapa/cryptonews/blob/ru/litecoin-founder-stokes-debate-over-bitcoin-extremists-tweet-d04289c4.md)
 * 2019-01-07 [Канаву Google и использовать бот вместо: запуск говорит Золотая эра для поиска приложений более](https://github.com/theyapapa/cryptonews/blob/ru/ditch-google-and-use-a-bot-instead-startup-says-the-golden-era-for-search-apps-is-over-a872d4fd.md)
 * 2019-01-07 [Гонконг предприниматель обвиняется в мошенничестве инвесторов в крипто-майнинг инвестиционной схеме](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-entrepreneur-accused-of-cheating-investors-in-crypto-mining-investment-scheme-4a17b0a1.md)
