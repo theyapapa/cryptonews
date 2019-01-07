@@ -1,3 +1,4 @@
+* 2019-01-07 [데이브 루빈은 patreon 검열을 주장 하는 크 라우드 펀 딩을 위해 비트 코인으로 변합니다.](https://github.com/theyapapa/cryptonews/blob/ko/dave-rubin-turns-to-bitcoin-for-crowdfunding-after-alleged-patreon-censorship-4f5774b6.md)
 * 2019-01-07 [나스닥 기반 EU 거래소, 암호화 거래 쌍, 토큰화 된 주식 공개](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-powered-eu-exchange-reveals-crypto-trading-pairs-tokenized-stocks-d6a13a74.md)
 * 2019-01-07 [' 비트 코인 극단 주의자 ' 트 윗을 통해 라이트 코인 설립자 스톡 스 논쟁](https://github.com/theyapapa/cryptonews/blob/ko/litecoin-founder-stokes-debate-over-bitcoin-extremists-tweet-d04289c4.md)
 * 2019-01-07 [구글을 버리고 대신 봇을 사용: 시작은 검색 애플 리 케이 션을 위한 황금 시대가 끝났습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/ditch-google-and-use-a-bot-instead-startup-says-the-golden-era-for-search-apps-is-over-a872d4fd.md)
