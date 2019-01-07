@@ -1,3 +1,4 @@
+* 2019-01-06 [ US FEDs RAID Tech hub para Crypto Trading no autorizado: informe](https://github.com/theyapapa/cryptonews/blob/es/us-feds-raid-tech-hub-for-unauthorized-crypto-trading-report-cd7c9b81.md)
 * 2019-01-06 [Investigaciones policiales enviadas a Kraken casi triplicado en 2018](https://github.com/theyapapa/cryptonews/blob/es/law-enforcement-inquiries-sent-to-kraken-nearly-tripled-in-2018-c6d694cd.md)
 * 2019-01-06 [Bitcoin hovers Оver $3.850 como Top Cryptos ver señales mixtas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-over-3-850-as-top-cryptos-see-mixed-signals-db2da44b.md)
 * 2019-01-06 [Sitio de noticias falsas promueve Bitcoin con la imagen de ex-Nueva Zelandia PM](https://github.com/theyapapa/cryptonews/blob/es/fake-news-site-promotes-bitcoin-with-image-of-ex-new-zealand-pm-1eb59bd0.md)
