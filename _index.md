@@ -1,3 +1,4 @@
+* 2019-01-07 [구글을 버리고 대신 봇을 사용: 시작은 검색 애플 리 케이 션을 위한 황금 시대가 끝났습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/ditch-google-and-use-a-bot-instead-startup-says-the-golden-era-for-search-apps-is-over-a872d4fd.md)
 * 2019-01-07 [홍콩 기업가는 암호 마이닝 투자 방식으로 부정 행위 투자자 혐의로 기소 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-entrepreneur-accused-of-cheating-investors-in-crypto-mining-investment-scheme-4a17b0a1.md)
 * 2019-01-07 [블룸버그: 일본은 비트 코인 ETF에 대 한 관심을 우리에 게 이야기 미국 승인 소문](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-japan-gauges-interest-in-bitcoin-etf-as-pundits-talk-down-us-approval-rumors-50d13109.md)
 * 2019-01-07 [네바다는이 더 리 움에 거의 1000 결혼 증명서를 발급 하지만, gov't 수락은 다릅니다](https://github.com/theyapapa/cryptonews/blob/ko/nevada-issues-almost-1-000-marriage-certificates-on-ethereum-but-govt-acceptance-varies-31226393.md)
