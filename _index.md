@@ -1,3 +1,4 @@
+* 2019-01-06 [ США федералы RAID технология концентратор для несанкционированного Crypto Trading: отчет](https://github.com/theyapapa/cryptonews/blob/ru/us-feds-raid-tech-hub-for-unauthorized-crypto-trading-report-cd7c9b81.md)
 * 2019-01-06 [Правоохранительные запросы отправлены на чудище почти втрое в 2018](https://github.com/theyapapa/cryptonews/blob/ru/law-enforcement-inquiries-sent-to-kraken-nearly-tripled-in-2018-c6d694cd.md)
 * 2019-01-06 [Bitcoin колеблется Остановись $3 850 как топ крипт см смешанные сигналы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-over-3-850-as-top-cryptos-see-mixed-signals-db2da44b.md)
 * 2019-01-06 [ПодДельные Новости сайт способствует Bitcoin с изображением экс-Новой Зеландии PM](https://github.com/theyapapa/cryptonews/blob/ru/fake-news-site-promotes-bitcoin-with-image-of-ex-new-zealand-pm-1eb59bd0.md)
