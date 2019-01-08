@@ -1,3 +1,4 @@
+* 2019-01-08 [수익 손실을 보고에도 불구 하 고, GMO 인터넷의 암호화 채굴 보상 급등](https://github.com/theyapapa/cryptonews/blob/ko/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
 * 2019-01-08 [에 테 리 움 재단 발표 $500만 패리티 기술에 보조금](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-announces-5-million-grant-to-parity-technologies-26db1778.md)
 * 2019-01-08 [이스라엘 국가 경제 위원회의 자: BTC ' 본질적으로 비효율적 이다, 사라질 것 이다 '](https://github.com/theyapapa/cryptonews/blob/ko/israel-national-economic-council-chair-btc-intrinsically-inefficient-will-disappear-8e8507f1.md)
 * 2019-01-08 [월스트리트의 빌 밀러: ' 비트 코인은 많은 가치가 또는 제로 가치가 있을 가능성이 있다 '](https://github.com/theyapapa/cryptonews/blob/ko/wall-streets-bill-miller-bitcoin-has-potential-to-be-worth-a-lot-or-worth-zero-49a64e45.md)
