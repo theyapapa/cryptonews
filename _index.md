@@ -1,3 +1,4 @@
+* 2019-01-08 [Председатель национального экономического совета Израиля: BTC ' неэффективно, исчезнет '](https://github.com/theyapapa/cryptonews/blob/ru/israel-national-economic-council-chair-btc-intrinsically-inefficient-will-disappear-8e8507f1.md)
 * 2019-01-08 [Билл Миллер Уолл-стрит: "Bitcoin имеет потенциал, чтобы быть стоит много или стоит ноль"](https://github.com/theyapapa/cryptonews/blob/ru/wall-streets-bill-miller-bitcoin-has-potential-to-be-worth-a-lot-or-worth-zero-49a64e45.md)
 * 2019-01-07 [Европейский Центральный банк политики Maker наЗывает крипто ' Сказка история '](https://github.com/theyapapa/cryptonews/blob/ru/european-central-bank-policy-maker-calls-crypto-a-fairy-tale-story-4c4faf95.md)
 * 2019-01-07 [Винклвосс Близнецы подтвердить приверженность к Bitcoin ETF во время Reddit AMA](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-twins-confirm-commitment-to-bitcoin-etf-during-reddit-ama-8f26eb10.md)
