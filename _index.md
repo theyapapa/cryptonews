@@ -1,3 +1,4 @@
+* 2019-01-08 [Несмотря на отчетность потери доходов, ГМО Интернет крипто майнинг награды парить](https://github.com/theyapapa/cryptonews/blob/ru/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
 * 2019-01-08 [Эфириум Фонд объявляет $5 000 000 грант на паритет технологий](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-announces-5-million-grant-to-parity-technologies-26db1778.md)
 * 2019-01-08 [Председатель национального экономического совета Израиля: BTC ' неэффективно, исчезнет '](https://github.com/theyapapa/cryptonews/blob/ru/israel-national-economic-council-chair-btc-intrinsically-inefficient-will-disappear-8e8507f1.md)
 * 2019-01-08 [Билл Миллер Уолл-стрит: "Bitcoin имеет потенциал, чтобы быть стоит много или стоит ноль"](https://github.com/theyapapa/cryptonews/blob/ru/wall-streets-bill-miller-bitcoin-has-potential-to-be-worth-a-lot-or-worth-zero-49a64e45.md)
