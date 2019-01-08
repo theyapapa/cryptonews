@@ -1,3 +1,4 @@
+* 2019-01-08 [A pesar de reportar pérdidas de ingresos, las recompensas Crypto Mining de OMG se disparan](https://github.com/theyapapa/cryptonews/blob/es/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
 * 2019-01-08 [La Fundación Ethereum anuncia $5 millones subvenciones a tecnologías de paridad](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-5-million-grant-to-parity-technologies-26db1778.md)
 * 2019-01-08 [Presidente del Consejo Económico Nacional de Israel: BTC ' intrínsecamente ineficiente, desaparecerá '](https://github.com/theyapapa/cryptonews/blob/es/israel-national-economic-council-chair-btc-intrinsically-inefficient-will-disappear-8e8507f1.md)
 * 2019-01-08 [Bill Miller de Wall Street: ' Bitcoin tiene potencial para valer mucho o vale cero '](https://github.com/theyapapa/cryptonews/blob/es/wall-streets-bill-miller-bitcoin-has-potential-to-be-worth-a-lot-or-worth-zero-49a64e45.md)
