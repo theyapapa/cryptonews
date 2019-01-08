@@ -1,3 +1,4 @@
+* 2019-01-08 [Red de pago RippleNet supera los 200 clientes, Garlinghouse destaca la volatilidad de Fiat](https://github.com/theyapapa/cryptonews/blob/es/payment-network-ripplenet-exceeds-200-customers-garlinghouse-highlights-fiat-volatility-833582b5.md)
 * 2019-01-08 [KodakOne blockchain beta prueba ve $1 MLN en reclamaciones de licencias de contenido](https://github.com/theyapapa/cryptonews/blob/es/kodakone-blockchain-beta-test-sees-1-mln-in-content-licensing-claims-c5e74af0.md)
 * 2019-01-08 [A pesar de reportar pérdidas de ingresos, las recompensas Crypto Mining de OMG se disparan](https://github.com/theyapapa/cryptonews/blob/es/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
 * 2019-01-08 [La Fundación Ethereum anuncia $5 millones subvenciones a tecnologías de paridad](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-5-million-grant-to-parity-technologies-26db1778.md)
