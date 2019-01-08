@@ -1,3 +1,4 @@
+* 2019-01-08 [Cripto mercados ver señales mixtas, Bitcoin todavía por encima de $4.000](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mixed-signals-bitcoin-still-above-4-000-9760b2b6.md)
 * 2019-01-08 [ETH dev sugiere pasar a ' algoritmo ASIC-Friendly ' después de la decisión de ProgPoW](https://github.com/theyapapa/cryptonews/blob/es/eth-dev-suggests-moving-to-asic-friendly-algorithm-after-progpow-decision-798570d5.md)
 * 2019-01-08 [Red de pago RippleNet supera los 200 clientes, Garlinghouse destaca la volatilidad de Fiat](https://github.com/theyapapa/cryptonews/blob/es/payment-network-ripplenet-exceeds-200-customers-garlinghouse-highlights-fiat-volatility-833582b5.md)
 * 2019-01-08 [KodakOne blockchain beta prueba ve $1 MLN en reclamaciones de licencias de contenido](https://github.com/theyapapa/cryptonews/blob/es/kodakone-blockchain-beta-test-sees-1-mln-in-content-licensing-claims-c5e74af0.md)
