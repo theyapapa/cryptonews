@@ -1,3 +1,4 @@
+* 2019-01-08 [ETH Dev는 ProgPoW 결정 후 ' ASIC 친화적 인 알고리즘 '으로 이동 제안](https://github.com/theyapapa/cryptonews/blob/ko/eth-dev-suggests-moving-to-asic-friendly-algorithm-after-progpow-decision-798570d5.md)
 * 2019-01-08 [지불 네트워크 리 플 래 넷은 200 고객을 초과, Garlinghouse 하이라이트 피아트 변동성](https://github.com/theyapapa/cryptonews/blob/ko/payment-network-ripplenet-exceeds-200-customers-garlinghouse-highlights-fiat-volatility-833582b5.md)
 * 2019-01-08 [kodakone 블록 체인 베타 테스트는 콘텐츠 라이센싱 클레임에서 $1 백만을 봅니다.](https://github.com/theyapapa/cryptonews/blob/ko/kodakone-blockchain-beta-test-sees-1-mln-in-content-licensing-claims-c5e74af0.md)
 * 2019-01-08 [수익 손실을 보고에도 불구 하 고, GMO 인터넷의 암호화 채굴 보상 급등](https://github.com/theyapapa/cryptonews/blob/ko/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
