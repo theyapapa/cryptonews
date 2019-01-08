@@ -1,3 +1,4 @@
+* 2019-01-08 [KodakOne blockchain beta prueba ve $1 MLN en reclamaciones de licencias de contenido](https://github.com/theyapapa/cryptonews/blob/es/kodakone-blockchain-beta-test-sees-1-mln-in-content-licensing-claims-c5e74af0.md)
 * 2019-01-08 [A pesar de reportar pérdidas de ingresos, las recompensas Crypto Mining de OMG se disparan](https://github.com/theyapapa/cryptonews/blob/es/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
 * 2019-01-08 [La Fundación Ethereum anuncia $5 millones subvenciones a tecnologías de paridad](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-5-million-grant-to-parity-technologies-26db1778.md)
 * 2019-01-08 [Presidente del Consejo Económico Nacional de Israel: BTC ' intrínsecamente ineficiente, desaparecerá '](https://github.com/theyapapa/cryptonews/blob/es/israel-national-economic-council-chair-btc-intrinsically-inefficient-will-disappear-8e8507f1.md)
