@@ -1,3 +1,4 @@
+* 2019-01-07 [유럽 중앙 은행 정책 제작자는 암호 ' 동화 이야기 '를 호출](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-policy-maker-calls-crypto-a-fairy-tale-story-4c4faf95.md)
 * 2019-01-07 [winklevoss 쌍둥이는 레 딧 AMA 동안 비트 코인 ETF에 대 한 약속을 확인](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-twins-confirm-commitment-to-bitcoin-etf-during-reddit-ama-8f26eb10.md)
 * 2019-01-07 [비트 코인,이 더 리 움 리플 비트 코인 캐시, EOS, 라이트 코인, 스텔라, 가격 분석, 1 월 7 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-stellar-bitcoin-sv-tron-cardano-price-analysis-jan-7-8d373156.md)
 * 2019-01-07 [데이브 루빈은 patreon 검열을 주장 하는 크 라우드 펀 딩을 위해 비트 코인으로 변합니다.](https://github.com/theyapapa/cryptonews/blob/ko/dave-rubin-turns-to-bitcoin-for-crowdfunding-after-alleged-patreon-censorship-4f5774b6.md)
