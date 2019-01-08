@@ -1,3 +1,4 @@
+* 2019-01-08 [ETH dev предлагает переход к ' ASIC-дружественный алгоритм ' после Прогпов решение](https://github.com/theyapapa/cryptonews/blob/ru/eth-dev-suggests-moving-to-asic-friendly-algorithm-after-progpow-decision-798570d5.md)
 * 2019-01-08 [Платежная сеть Риппленет превышает 200 клиентов, Гарлингхаусе основные моменты Fiat волатильности](https://github.com/theyapapa/cryptonews/blob/ru/payment-network-ripplenet-exceeds-200-customers-garlinghouse-highlights-fiat-volatility-833582b5.md)
 * 2019-01-08 [Кодаконе Блокчейн бета-тест видит $1 млн в содержании лицензирования претензий](https://github.com/theyapapa/cryptonews/blob/ru/kodakone-blockchain-beta-test-sees-1-mln-in-content-licensing-claims-c5e74af0.md)
 * 2019-01-08 [Несмотря на отчетность потери доходов, ГМО Интернет крипто майнинг награды парить](https://github.com/theyapapa/cryptonews/blob/ru/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
