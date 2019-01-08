@@ -1,3 +1,4 @@
+* 2019-01-08 [Кодаконе Блокчейн бета-тест видит $1 млн в содержании лицензирования претензий](https://github.com/theyapapa/cryptonews/blob/ru/kodakone-blockchain-beta-test-sees-1-mln-in-content-licensing-claims-c5e74af0.md)
 * 2019-01-08 [Несмотря на отчетность потери доходов, ГМО Интернет крипто майнинг награды парить](https://github.com/theyapapa/cryptonews/blob/ru/despite-reporting-revenue-losses-gmo-internets-crypto-mining-rewards-soar-65913892.md)
 * 2019-01-08 [Эфириум Фонд объявляет $5 000 000 грант на паритет технологий](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-announces-5-million-grant-to-parity-technologies-26db1778.md)
 * 2019-01-08 [Председатель национального экономического совета Израиля: BTC ' неэффективно, исчезнет '](https://github.com/theyapapa/cryptonews/blob/ru/israel-national-economic-council-chair-btc-intrinsically-inefficient-will-disappear-8e8507f1.md)
