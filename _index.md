@@ -1,3 +1,4 @@
+* 2019-01-08 [La Fundación Ethereum anuncia $5 millones subvenciones a tecnologías de paridad](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-5-million-grant-to-parity-technologies-26db1778.md)
 * 2019-01-08 [Presidente del Consejo Económico Nacional de Israel: BTC ' intrínsecamente ineficiente, desaparecerá '](https://github.com/theyapapa/cryptonews/blob/es/israel-national-economic-council-chair-btc-intrinsically-inefficient-will-disappear-8e8507f1.md)
 * 2019-01-08 [Bill Miller de Wall Street: ' Bitcoin tiene potencial para valer mucho o vale cero '](https://github.com/theyapapa/cryptonews/blob/es/wall-streets-bill-miller-bitcoin-has-potential-to-be-worth-a-lot-or-worth-zero-49a64e45.md)
 * 2019-01-07 [El creador de políticas del Banco Central Europeo llama a Crypto ' una historia de cuento de hadas '](https://github.com/theyapapa/cryptonews/blob/es/european-central-bank-policy-maker-calls-crypto-a-fairy-tale-story-4c4faf95.md)
