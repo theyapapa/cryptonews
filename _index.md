@@ -1,3 +1,4 @@
+* 2019-01-08 [Bloque de la aplicación de Cash de Square cuenta del sitio de redes sociales fundador de GAB: informe](https://github.com/theyapapa/cryptonews/blob/es/squares-cash-app-blocks-account-of-social-media-site-gabs-founder-report-95a9167e.md)
 * 2019-01-08 [El Litecoin Charlie lee: Crypto descentralizado ' debe ser susceptible a 51% de ataques '](https://github.com/theyapapa/cryptonews/blob/es/litecoins-charlie-lee-decentralized-crypto-must-be-susceptible-to-51-attacks-7f5abec0.md)
 * 2019-01-08 [Cripto mercados ver señales mixtas, Bitcoin todavía por encima de $4.000](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mixed-signals-bitcoin-still-above-4-000-9760b2b6.md)
 * 2019-01-08 [ETH dev sugiere pasar a ' algoritmo ASIC-Friendly ' después de la decisión de ProgPoW](https://github.com/theyapapa/cryptonews/blob/es/eth-dev-suggests-moving-to-asic-friendly-algorithm-after-progpow-decision-798570d5.md)
