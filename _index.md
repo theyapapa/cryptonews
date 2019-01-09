@@ -1,3 +1,4 @@
+* 2019-01-08 [Litecoin Чарли ли: децентрализованный крипто ' должны быть восприимчивы к 51% атаки '](https://github.com/theyapapa/cryptonews/blob/ru/litecoins-charlie-lee-decentralized-crypto-must-be-susceptible-to-51-attacks-7f5abec0.md)
 * 2019-01-08 [Крипто рынки видят смешанные сигналы, Bitcoin все еще выше $4 000](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mixed-signals-bitcoin-still-above-4-000-9760b2b6.md)
 * 2019-01-08 [ETH dev предлагает переход к ' ASIC-дружественный алгоритм ' после Прогпов решение](https://github.com/theyapapa/cryptonews/blob/ru/eth-dev-suggests-moving-to-asic-friendly-algorithm-after-progpow-decision-798570d5.md)
 * 2019-01-08 [Платежная сеть Риппленет превышает 200 клиентов, Гарлингхаусе основные моменты Fiat волатильности](https://github.com/theyapapa/cryptonews/blob/ru/payment-network-ripplenet-exceeds-200-customers-garlinghouse-highlights-fiat-volatility-833582b5.md)
