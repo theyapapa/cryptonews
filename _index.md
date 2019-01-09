@@ -1,3 +1,4 @@
+* 2019-01-09 [Франция желтые жилеты план банка бежать к "наПугать государство без насилия"](https://github.com/theyapapa/cryptonews/blob/ru/frances-yellow-vests-plan-bank-run-to-scare-state-without-violence-109b670a.md)
 * 2019-01-08 [Кассовые блоки App квадратов счет социальных медиа сайт основатель: отчет](https://github.com/theyapapa/cryptonews/blob/ru/squares-cash-app-blocks-account-of-social-media-site-gabs-founder-report-95a9167e.md)
 * 2019-01-08 [Litecoin Чарли ли: децентрализованный крипто ' должны быть восприимчивы к 51% атаки '](https://github.com/theyapapa/cryptonews/blob/ru/litecoins-charlie-lee-decentralized-crypto-must-be-susceptible-to-51-attacks-7f5abec0.md)
 * 2019-01-08 [Крипто рынки видят смешанные сигналы, Bitcoin все еще выше $4 000](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mixed-signals-bitcoin-still-above-4-000-9760b2b6.md)
