@@ -1,3 +1,4 @@
+* 2019-01-09 [Crypto Platform Tron contrata al ex abogado SEC como primer jefe de cumplimiento](https://github.com/theyapapa/cryptonews/blob/es/crypto-platform-tron-hires-former-sec-attorney-as-first-chief-of-compliance-2f09acdb.md)
 * 2019-01-09 [De Bitconnect a SIM-swap Swindling: las mayores estafas de 2018](https://github.com/theyapapa/cryptonews/blob/es/from-bitconnect-to-sim-swap-swindling-2018s-biggest-scams-238840f7.md)
 * 2019-01-09 [El Banco del plan de chalecos amarillos de Francia corre a "asustar al estado sin violencia"](https://github.com/theyapapa/cryptonews/blob/es/frances-yellow-vests-plan-bank-run-to-scare-state-without-violence-109b670a.md)
 * 2019-01-08 [Bloque de la aplicación de Cash de Square cuenta del sitio de redes sociales fundador de GAB: informe](https://github.com/theyapapa/cryptonews/blob/es/squares-cash-app-blocks-account-of-social-media-site-gabs-founder-report-95a9167e.md)
