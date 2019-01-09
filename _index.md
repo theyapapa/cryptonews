@@ -1,3 +1,4 @@
+* 2019-01-09 [암호화 교환 Gate.io 확인 51%에 테 리 움 클래식에 공격, 환불 약속](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-gateio-confirms-51-attack-on-ethereum-classic-promises-refunds-b7abc53f.md)
 * 2019-01-09 [비트 코인,에 테 리 움 리플 비트 코인 현금, EOS, 라이트 코인, 스텔라 트 론 비트 코인 SV 카르다노: 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-stellar-tron-bitcoin-sv-cardano-price-analysis-jan-9-61fce40f.md)
 * 2019-01-09 [블록 체인은 환자 데이터를 통합 하 고 의료 연구를 위한 자금을 늘리는 방법으로 보건 분야를 강화 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-is-boosting-the-health-sector-by-unifying-patient-data-and-increasing-funding-for-medical-research-f2c73846.md)
 * 2019-01-09 [암호 플랫폼 Tron은 전 SEC 변호사를 규정 준수의 첫 번째 수석으로 고용 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-platform-tron-hires-former-sec-attorney-as-first-chief-of-compliance-2f09acdb.md)
