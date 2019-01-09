@@ -1,3 +1,4 @@
+* 2019-01-09 [프랑스의 노란 조끼 계획 은행은 ' 폭력 없이 상태를 겁 '로 실행](https://github.com/theyapapa/cryptonews/blob/ko/frances-yellow-vests-plan-bank-run-to-scare-state-without-violence-109b670a.md)
 * 2019-01-08 [광장의 현금 응용 프로그램 블록 소셜 미디어 사이트 gab의 설립자의 계정: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/squares-cash-app-blocks-account-of-social-media-site-gabs-founder-report-95a9167e.md)
 * 2019-01-08 [라이트 코인의 찰리 리: 분권 화 된 암호화는 ' 51% 공격에 취약 해야 합니다 '](https://github.com/theyapapa/cryptonews/blob/ko/litecoins-charlie-lee-decentralized-crypto-must-be-susceptible-to-51-attacks-7f5abec0.md)
 * 2019-01-08 [암호화 시장 혼합 된 신호 참조, 비트 코인은 여전히 $4000 이상](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mixed-signals-bitcoin-still-above-4-000-9760b2b6.md)
