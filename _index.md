@@ -1,3 +1,4 @@
+* 2019-01-10 [물리적으로 보유 한 비트 코인 ETF에 대 한 미국 SEC의 비트 파일](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-files-with-the-us-sec-for-a-physically-held-bitcoin-etf-36a98f04.md)
 * 2019-01-10 [모든 최고 크립 토는 심각한 손실을 참조로 비트 코인은 $3700 아래 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-700-as-all-top-cryptos-see-severe-losses-ecdcc728.md)
 * 2019-01-10 [보고서: DX에서 발견 된 사용자 데이터가 누출 되는 치명적인 취약점 교환, 나중에 패치](https://github.com/theyapapa/cryptonews/blob/ko/report-critical-vulnerabilities-leaking-user-data-found-on-dxexchange-patched-later-ea048835.md)
 * 2019-01-09 [해커는 가짜 coinbase 프로 모션 계정으로 벨기에 비영리의 트위터를 돌려](https://github.com/theyapapa/cryptonews/blob/ko/hackers-turn-twitter-of-belgian-non-profit-into-fake-coinbase-promo-account-6ad999a8.md)
