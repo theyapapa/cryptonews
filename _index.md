@@ -1,3 +1,4 @@
+* 2019-01-10 [ПоБитовые файлы с США SEC для физически удерживаемых Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/bitwise-files-with-the-us-sec-for-a-physically-held-bitcoin-etf-36a98f04.md)
 * 2019-01-10 [Bitcoin провалы ниже $3 700 как все Top крипты увидеть серьезные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dips-below-3-700-as-all-top-cryptos-see-severe-losses-ecdcc728.md)
 * 2019-01-10 [Отчет: критические уязвимости утечка данных пользователя, найденных на DX. Exchange, исправлено позже](https://github.com/theyapapa/cryptonews/blob/ru/report-critical-vulnerabilities-leaking-user-data-found-on-dxexchange-patched-later-ea048835.md)
 * 2019-01-09 [Хакеры превратить щебетать бельгийской неКоммерческой в подДельные Coinbase промо-счет](https://github.com/theyapapa/cryptonews/blob/ru/hackers-turn-twitter-of-belgian-non-profit-into-fake-coinbase-promo-account-6ad999a8.md)
