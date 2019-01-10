@@ -1,3 +1,4 @@
+* 2019-01-10 [보고서: DX에서 발견 된 사용자 데이터가 누출 되는 치명적인 취약점 교환, 나중에 패치](https://github.com/theyapapa/cryptonews/blob/ko/report-critical-vulnerabilities-leaking-user-data-found-on-dxexchange-patched-later-ea048835.md)
 * 2019-01-09 [해커는 가짜 coinbase 프로 모션 계정으로 벨기에 비영리의 트위터를 돌려](https://github.com/theyapapa/cryptonews/blob/ko/hackers-turn-twitter-of-belgian-non-profit-into-fake-coinbase-promo-account-6ad999a8.md)
 * 2019-01-09 [4 개 기업에 디지털 자산 비즈니스 라이센스를 제공 하는 타이 재무부](https://github.com/theyapapa/cryptonews/blob/ko/thai-ministry-of-finance-gives-digital-asset-business-licenses-to-four-firms-ddbb2e75.md)
 * 2019-01-09 [암호화 교환 Gate.io 확인 51%에 테 리 움 클래식에 공격, 환불 약속](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-gateio-confirms-51-attack-on-ethereum-classic-promises-refunds-b7abc53f.md)
