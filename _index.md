@@ -1,3 +1,4 @@
+* 2019-01-10 [모든 최고 크립 토는 심각한 손실을 참조로 비트 코인은 $3700 아래 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-700-as-all-top-cryptos-see-severe-losses-ecdcc728.md)
 * 2019-01-10 [보고서: DX에서 발견 된 사용자 데이터가 누출 되는 치명적인 취약점 교환, 나중에 패치](https://github.com/theyapapa/cryptonews/blob/ko/report-critical-vulnerabilities-leaking-user-data-found-on-dxexchange-patched-later-ea048835.md)
 * 2019-01-09 [해커는 가짜 coinbase 프로 모션 계정으로 벨기에 비영리의 트위터를 돌려](https://github.com/theyapapa/cryptonews/blob/ko/hackers-turn-twitter-of-belgian-non-profit-into-fake-coinbase-promo-account-6ad999a8.md)
 * 2019-01-09 [4 개 기업에 디지털 자산 비즈니스 라이센스를 제공 하는 타이 재무부](https://github.com/theyapapa/cryptonews/blob/ko/thai-ministry-of-finance-gives-digital-asset-business-licenses-to-four-firms-ddbb2e75.md)
