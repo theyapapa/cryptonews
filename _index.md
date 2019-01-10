@@ -1,3 +1,4 @@
+* 2019-01-10 [Bitcoin провалы ниже $3 700 как все Top крипты увидеть серьезные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dips-below-3-700-as-all-top-cryptos-see-severe-losses-ecdcc728.md)
 * 2019-01-10 [Отчет: критические уязвимости утечка данных пользователя, найденных на DX. Exchange, исправлено позже](https://github.com/theyapapa/cryptonews/blob/ru/report-critical-vulnerabilities-leaking-user-data-found-on-dxexchange-patched-later-ea048835.md)
 * 2019-01-09 [Хакеры превратить щебетать бельгийской неКоммерческой в подДельные Coinbase промо-счет](https://github.com/theyapapa/cryptonews/blob/ru/hackers-turn-twitter-of-belgian-non-profit-into-fake-coinbase-promo-account-6ad999a8.md)
 * 2019-01-09 [Тайское Министерство финансов предоставляет цифровые активы бизнес лицензии на четыре фирмы](https://github.com/theyapapa/cryptonews/blob/ru/thai-ministry-of-finance-gives-digital-asset-business-licenses-to-four-firms-ddbb2e75.md)
