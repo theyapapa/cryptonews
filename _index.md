@@ -1,3 +1,4 @@
+* 2019-01-11 [США: Crypto является одним из главных приоритетов экспертизы SEC для 2019](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-is-among-secs-top-examination-priorities-for-2019-69830057.md)
 * 2019-01-11 [Монголия партнеры с Stablecoin использовать Блокчейн для кредитных услуг, денежные переводы](https://github.com/theyapapa/cryptonews/blob/ru/mongolia-partners-with-stablecoin-to-use-blockchain-for-lending-services-money-transfers-c78469bd.md)
 * 2019-01-11 [Huobi Global в США стратегический партнер Crypto Exchange HBUS ребрендинг как Huobi](https://github.com/theyapapa/cryptonews/blob/ru/huobi-globals-us-based-strategic-partner-crypto-exchange-hbus-rebrands-as-huobi-a2c1f048.md)
 * 2019-01-11 [НАСА публикует предложение по управлению воздушным движением Blockchain на основе ГК](https://github.com/theyapapa/cryptonews/blob/ru/nasa-publishes-proposal-for-air-traffic-management-blockchain-based-on-hyperledger-6d7cf084.md)
