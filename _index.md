@@ -1,3 +1,4 @@
+* 2019-01-11 [US: 암호화는 2019에 대 한 SEC의 최고 시험 우선 순위 중 하나입니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-is-among-secs-top-examination-priorities-for-2019-69830057.md)
 * 2019-01-11 [몽골, 대출 서비스, 자금 이체를 위해 블록 체인을 사용 하는 stablecoin 파트너](https://github.com/theyapapa/cryptonews/blob/ko/mongolia-partners-with-stablecoin-to-use-blockchain-for-lending-services-money-transfers-c78469bd.md)
 * 2019-01-11 [huobi 글로벌의 미국 기반 전략 파트너 암호 교환 hbus 브랜드 huobi로](https://github.com/theyapapa/cryptonews/blob/ko/huobi-globals-us-based-strategic-partner-crypto-exchange-hbus-rebrands-as-huobi-a2c1f048.md)
 * 2019-01-11 [NASA, 하이퍼 레저를 기반으로 항공 교통 관리 블록 체인에 대 한 제안을 게시](https://github.com/theyapapa/cryptonews/blob/ko/nasa-publishes-proposal-for-air-traffic-management-blockchain-based-on-hyperledger-6d7cf084.md)
