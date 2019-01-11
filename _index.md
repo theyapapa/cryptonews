@@ -1,3 +1,4 @@
+* 2019-01-11 [NASA, 하이퍼 레저를 기반으로 항공 교통 관리 블록 체인에 대 한 제안을 게시](https://github.com/theyapapa/cryptonews/blob/ko/nasa-publishes-proposal-for-air-traffic-management-blockchain-based-on-hyperledger-6d7cf084.md)
 * 2019-01-11 [비 니 링 스는 $3000와 $5000 사이의 2 개월 거래에 대 한 비트 코인 가격을 예측](https://github.com/theyapapa/cryptonews/blob/ko/vinny-lingham-forecasts-bitcoin-price-for-two-months-trading-between-3-000-and-5-000-56821a60.md)
 * 2019-01-11 [암호 화폐 헤 지 펀드 매니저 분쟁의 $2 백만, 주장만 $10만 지분](https://github.com/theyapapa/cryptonews/blob/ko/crypto-hedge-fund-manager-disputes-augur-metrics-of-2-mln-claims-only-100-000-at-stake-64204817.md)
 * 2019-01-10 [서클 CEO는 미국 SEC에서 더 많은 규제 명확성을 말한다 암호화 시장의 잠금을 해제 하는 데 도움이 됩니다](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-says-more-regulatory-clarity-from-us-sec-will-help-unlock-crypto-markets-37485cce.md)
