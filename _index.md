@@ -1,3 +1,4 @@
+* 2019-01-11 [주요 인도 은행은 암호화에서 거래 하는 사용자의 계정을 폐쇄 위협: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/major-indian-bank-threatens-to-close-accounts-of-users-transacting-in-crypto-report-6cc3d9e5.md)
 * 2019-01-11 [비트 코인, 리플,이 더 리 움 비트 코인 캐시, EOS, 스텔라 라이트, 트 론 비트 코인 SV: 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-11-635dc799.md)
 * 2019-01-11 [US: 암호화는 2019에 대 한 SEC의 최고 시험 우선 순위 중 하나입니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-is-among-secs-top-examination-priorities-for-2019-69830057.md)
 * 2019-01-11 [몽골, 대출 서비스, 자금 이체를 위해 블록 체인을 사용 하는 stablecoin 파트너](https://github.com/theyapapa/cryptonews/blob/ko/mongolia-partners-with-stablecoin-to-use-blockchain-for-lending-services-money-transfers-c78469bd.md)
