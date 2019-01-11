@@ -1,3 +1,4 @@
+* 2019-01-10 [Китай вводит новые правила защиты от анонимности для компаний, связанных с Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/china-introduces-new-anti-anonymity-regulations-for-blockchain-related-companies-53ce6308.md)
 * 2019-01-10 [Венесуэльский запрос ВТО обвиняет США в «дискриминационных мерах» против монеты Петра](https://github.com/theyapapa/cryptonews/blob/ru/venezuelan-wto-request-accuses-us-of-discriminatory-measures-against-petro-coin-cf564c2b.md)
 * 2019-01-10 [ПоБитовые файлы с США SEC для физически удерживаемых Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/bitwise-files-with-the-us-sec-for-a-physically-held-bitcoin-etf-36a98f04.md)
 * 2019-01-10 [Bitcoin провалы ниже $3 700 как все Top крипты увидеть серьезные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dips-below-3-700-as-all-top-cryptos-see-severe-losses-ecdcc728.md)
