@@ -1,3 +1,4 @@
+* 2019-01-11 [암호 화폐 헤 지 펀드 매니저 분쟁의 $2 백만, 주장만 $10만 지분](https://github.com/theyapapa/cryptonews/blob/ko/crypto-hedge-fund-manager-disputes-augur-metrics-of-2-mln-claims-only-100-000-at-stake-64204817.md)
 * 2019-01-10 [서클 CEO는 미국 SEC에서 더 많은 규제 명확성을 말한다 암호화 시장의 잠금을 해제 하는 데 도움이 됩니다](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-says-more-regulatory-clarity-from-us-sec-will-help-unlock-crypto-markets-37485cce.md)
 * 2019-01-10 [중국, 블록 체인 관련 회사를 위한 새로운 안티-익명 규정 도입](https://github.com/theyapapa/cryptonews/blob/ko/china-introduces-new-anti-anonymity-regulations-for-blockchain-related-companies-53ce6308.md)
 * 2019-01-10 [베네수엘라 WTO 요청은 우리에 게 페트로 코인에 대 한 ' 차별 대책 '을 비난 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/venezuelan-wto-request-accuses-us-of-discriminatory-measures-against-petro-coin-cf564c2b.md)
