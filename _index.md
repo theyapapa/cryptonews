@@ -1,3 +1,4 @@
+* 2019-01-10 [China presenta nuevas regulaciones anti-anonimato para empresas relacionadas con blockchain](https://github.com/theyapapa/cryptonews/blob/es/china-introduces-new-anti-anonymity-regulations-for-blockchain-related-companies-53ce6308.md)
 * 2019-01-10 [Solicitud de la OMC venezolana acusa a los Estados Unidos de "medidas discriminatorias" contra Petro Coin](https://github.com/theyapapa/cryptonews/blob/es/venezuelan-wto-request-accuses-us-of-discriminatory-measures-against-petro-coin-cf564c2b.md)
 * 2019-01-10 [Archivos BitWise con el SEC de EE. UU. para un ETF de Bitcoin físicamente retenido](https://github.com/theyapapa/cryptonews/blob/es/bitwise-files-with-the-us-sec-for-a-physically-held-bitcoin-etf-36a98f04.md)
 * 2019-01-10 [Bitcoin dips por debajo de $3.700 como todos los mejores Cryptos ver las pérdidas severas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-dips-below-3-700-as-all-top-cryptos-see-severe-losses-ecdcc728.md)
