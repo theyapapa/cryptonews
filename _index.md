@@ -1,3 +1,4 @@
+* 2019-01-10 [중국, 블록 체인 관련 회사를 위한 새로운 안티-익명 규정 도입](https://github.com/theyapapa/cryptonews/blob/ko/china-introduces-new-anti-anonymity-regulations-for-blockchain-related-companies-53ce6308.md)
 * 2019-01-10 [베네수엘라 WTO 요청은 우리에 게 페트로 코인에 대 한 ' 차별 대책 '을 비난 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/venezuelan-wto-request-accuses-us-of-discriminatory-measures-against-petro-coin-cf564c2b.md)
 * 2019-01-10 [물리적으로 보유 한 비트 코인 ETF에 대 한 미국 SEC의 비트 파일](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-files-with-the-us-sec-for-a-physically-held-bitcoin-etf-36a98f04.md)
 * 2019-01-10 [모든 최고 크립 토는 심각한 손실을 참조로 비트 코인은 $3700 아래 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dips-below-3-700-as-all-top-cryptos-see-severe-losses-ecdcc728.md)
