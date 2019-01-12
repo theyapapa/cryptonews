@@ -1,3 +1,4 @@
+* 2019-01-12 [Al parecer, el gobierno de Malasia aún no ha decidido si legalizar cripto](https://github.com/theyapapa/cryptonews/blob/es/malaysian-government-reportedly-still-undecided-on-whether-to-legalize-crypto-f5f7e833.md)
 * 2019-01-12 [Blockchain Research ahora otorga crédito tributario en Corea del sur](https://github.com/theyapapa/cryptonews/blob/es/blockchain-research-now-granted-tax-credit-in-south-korea-a1e8827f.md)
 * 2019-01-12 [Informe de la Reserva Federal de St. Louis: aumento del suministro de Altcoins disminuirá el valor de BTC](https://github.com/theyapapa/cryptonews/blob/es/st-louis-federal-reserve-report-increased-supply-of-altcoins-will-decrease-btcs-value-cf1193a5.md)
 * 2019-01-11 [2018 ve 550% Uptick en ofertas de valores de ICO exentos archivados con la SEC de EE. UU.: informe](https://github.com/theyapapa/cryptonews/blob/es/2018-sees-550-uptick-in-exempt-ico-securities-offerings-filed-with-the-us-sec-report-b96d4fc0.md)
