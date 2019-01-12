@@ -1,3 +1,4 @@
+* 2019-01-11 [2018는 미국 SEC에 제출 된 면제 ICO 증권에 대 한 550%의 업 틱을 보고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/2018-sees-550-uptick-in-exempt-ico-securities-offerings-filed-with-the-us-sec-report-b96d4fc0.md)
 * 2019-01-11 [우리가 노란 조끼 ' 은행 실행에 대해 알고 무엇 암호화가 도움이 될 수 있는 방법](https://github.com/theyapapa/cryptonews/blob/ko/what-we-know-about-yellow-vests-bank-run-and-how-crypto-could-help-it-9666493d.md)
 * 2019-01-11 [주요 인도 은행은 암호화에서 거래 하는 사용자의 계정을 폐쇄 위협: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/major-indian-bank-threatens-to-close-accounts-of-users-transacting-in-crypto-report-6cc3d9e5.md)
 * 2019-01-11 [비트 코인, 리플,이 더 리 움 비트 코인 캐시, EOS, 스텔라 라이트, 트 론 비트 코인 SV: 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-11-635dc799.md)
