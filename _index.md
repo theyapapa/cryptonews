@@ -1,3 +1,4 @@
+* 2019-01-12 [말레이시아 정부는 여전히 암호화를 합법화 여부에 대 한 결정을 취소 소문](https://github.com/theyapapa/cryptonews/blob/ko/malaysian-government-reportedly-still-undecided-on-whether-to-legalize-crypto-f5f7e833.md)
 * 2019-01-12 [블록 체인 연구가 대한민국에서 세금 공제를 부여 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-research-now-granted-tax-credit-in-south-korea-a1e8827f.md)
 * 2019-01-12 [세인트루이스 연방 준비 보고서: 알트 코인의 공급이 증가 하면 BTC의 가치가 감소 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/st-louis-federal-reserve-report-increased-supply-of-altcoins-will-decrease-btcs-value-cf1193a5.md)
 * 2019-01-11 [2018는 미국 SEC에 제출 된 면제 ICO 증권에 대 한 550%의 업 틱을 보고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/2018-sees-550-uptick-in-exempt-ico-securities-offerings-filed-with-the-us-sec-report-b96d4fc0.md)
