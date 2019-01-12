@@ -1,3 +1,4 @@
+* 2019-01-12 [Блокчейн исследования теперь предоставлены налоговые кредиты в Южной Корее](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-research-now-granted-tax-credit-in-south-korea-a1e8827f.md)
 * 2019-01-12 [Сент-Луис отчет Федеральной резервной системы: увеличение поставок Altcoins снизит стоимость BTC](https://github.com/theyapapa/cryptonews/blob/ru/st-louis-federal-reserve-report-increased-supply-of-altcoins-will-decrease-btcs-value-cf1193a5.md)
 * 2019-01-11 [2018 видит 550% вверх в освобождении ICO ценных бумаг, поДанных в США SEC: доклад](https://github.com/theyapapa/cryptonews/blob/ru/2018-sees-550-uptick-in-exempt-ico-securities-offerings-filed-with-the-us-sec-report-b96d4fc0.md)
 * 2019-01-11 [Что мы знаем о желтые жилеты ' Bank Run и как крипто может помочь ему](https://github.com/theyapapa/cryptonews/blob/ru/what-we-know-about-yellow-vests-bank-run-and-how-crypto-could-help-it-9666493d.md)
