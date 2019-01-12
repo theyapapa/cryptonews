@@ -1,3 +1,4 @@
+* 2019-01-11 [Что мы знаем о желтые жилеты ' Bank Run и как крипто может помочь ему](https://github.com/theyapapa/cryptonews/blob/ru/what-we-know-about-yellow-vests-bank-run-and-how-crypto-could-help-it-9666493d.md)
 * 2019-01-11 [Крупный индийский банк угрожает закрыть счета пользователей, реагирующих в крипто: отчет](https://github.com/theyapapa/cryptonews/blob/ru/major-indian-bank-threatens-to-close-accounts-of-users-transacting-in-crypto-report-6cc3d9e5.md)
 * 2019-01-11 [Bitcoin, рябь, Эфириум, Bitcoin Cash, EOS, Звёздный, Litecoin, трон, Bitcoin SV, «переДвижение»: анализ цен, 11 января](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-11-635dc799.md)
 * 2019-01-11 [США: Crypto является одним из главных приоритетов экспертизы SEC для 2019](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-is-among-secs-top-examination-priorities-for-2019-69830057.md)
