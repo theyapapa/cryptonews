@@ -1,3 +1,4 @@
+* 2019-01-13 [Acorazados por Bear Market, Bitmain enfrenta un futuro incierto](https://github.com/theyapapa/cryptonews/blob/es/cornered-by-bear-market-bitmain-is-facing-an-unclear-future-3b84426d.md)
 * 2019-01-13 [Ethereum Classic 51% atacantes supuestamente regresaron $100.000 a Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/ethereum-classic-51-attackers-allegedly-returned-100-000-to-crypto-exchange-74160cec.md)
 * 2019-01-12 [Al parecer, el gobierno de Malasia aún no ha decidido si legalizar cripto](https://github.com/theyapapa/cryptonews/blob/es/malaysian-government-reportedly-still-undecided-on-whether-to-legalize-crypto-f5f7e833.md)
 * 2019-01-12 [Blockchain Research ahora otorga crédito tributario en Corea del sur](https://github.com/theyapapa/cryptonews/blob/es/blockchain-research-now-granted-tax-credit-in-south-korea-a1e8827f.md)
