@@ -1,3 +1,4 @@
+* 2019-01-13 [В углу медвежьего рынка, Bitmain сталкивается с неясным будущее](https://github.com/theyapapa/cryptonews/blob/ru/cornered-by-bear-market-bitmain-is-facing-an-unclear-future-3b84426d.md)
 * 2019-01-13 [Эфириум Классик 51% нападавшие якобы вернулись $100 000 к крипто-обмену](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-classic-51-attackers-allegedly-returned-100-000-to-crypto-exchange-74160cec.md)
 * 2019-01-12 [Правительство Малайзии, по сообщениям, все еще не определилось, легализовать ли крипту](https://github.com/theyapapa/cryptonews/blob/ru/malaysian-government-reportedly-still-undecided-on-whether-to-legalize-crypto-f5f7e833.md)
 * 2019-01-12 [Блокчейн исследования теперь предоставлены налоговые кредиты в Южной Корее](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-research-now-granted-tax-credit-in-south-korea-a1e8827f.md)
