@@ -1,3 +1,4 @@
+* 2019-01-13 [Top 5 cripto intérpretes Resumen: Tron, neo, Cardano, Binance Coin, Litecoin](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-tron-neo-cardano-binance-coin-litecoin-4154d17b.md)
 * 2019-01-13 [Hodler's Digest, 7 – 13 de enero: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-jan713-top-stories-price-movements-quotes-and-fud-of-the-week-c03cf91f.md)
 * 2019-01-13 [Acorazados por Bear Market, Bitmain enfrenta un futuro incierto](https://github.com/theyapapa/cryptonews/blob/es/cornered-by-bear-market-bitmain-is-facing-an-unclear-future-3b84426d.md)
 * 2019-01-13 [Ethereum Classic 51% atacantes supuestamente regresaron $100.000 a Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/ethereum-classic-51-attackers-allegedly-returned-100-000-to-crypto-exchange-74160cec.md)
