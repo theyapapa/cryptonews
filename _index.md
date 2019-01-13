@@ -1,3 +1,4 @@
+* 2019-01-13 [Ethereum Classic 51% atacantes supuestamente regresaron $100.000 a Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/ethereum-classic-51-attackers-allegedly-returned-100-000-to-crypto-exchange-74160cec.md)
 * 2019-01-12 [Al parecer, el gobierno de Malasia aún no ha decidido si legalizar cripto](https://github.com/theyapapa/cryptonews/blob/es/malaysian-government-reportedly-still-undecided-on-whether-to-legalize-crypto-f5f7e833.md)
 * 2019-01-12 [Blockchain Research ahora otorga crédito tributario en Corea del sur](https://github.com/theyapapa/cryptonews/blob/es/blockchain-research-now-granted-tax-credit-in-south-korea-a1e8827f.md)
 * 2019-01-12 [Informe de la Reserva Federal de St. Louis: aumento del suministro de Altcoins disminuirá el valor de BTC](https://github.com/theyapapa/cryptonews/blob/es/st-louis-federal-reserve-report-increased-supply-of-altcoins-will-decrease-btcs-value-cf1193a5.md)
