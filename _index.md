@@ -1,3 +1,4 @@
+* 2019-01-13 [맨 위로 5 암호화 수행자 개요: 트 론, 네오, 카르다노, binance 동전, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-neo-cardano-binance-coin-litecoin-4154d17b.md)
 * 2019-01-13 [hodler의 다이제스트, 1 월 7 일 ~ 13 일자: 최고 스토리, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-jan713-top-stories-price-movements-quotes-and-fud-of-the-week-c03cf91f.md)
 * 2019-01-13 [곰 시장에 의해 궁지, bitmain은 불분명 한 미래에 직면 하고있다](https://github.com/theyapapa/cryptonews/blob/ko/cornered-by-bear-market-bitmain-is-facing-an-unclear-future-3b84426d.md)
 * 2019-01-13 [에 테 리 움 클래식 51% 공격자는 추정 $10만 암호 교환에 반환](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-classic-51-attackers-allegedly-returned-100-000-to-crypto-exchange-74160cec.md)
