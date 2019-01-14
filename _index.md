@@ -1,3 +1,4 @@
+* 2019-01-14 [비트 코인, 리플,이 더 리 움 비트 코인 캐시, EOS, 스텔라 라이트, 트 론 비트 코인 SV: 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-14-13373316.md)
 * 2019-01-14 [뱅킹 자이언트 HSBC의 블록 체인 플랫폼 2018에서 외환 $2500억 처리](https://github.com/theyapapa/cryptonews/blob/ko/banking-giant-hsbcs-blockchain-platform-processed-250-billion-in-forex-in-2018-41b022c0.md)
 * 2019-01-14 [재생 가능 에너지 추적에서 블록 체인을 사용 하는 스페인의 주요 에너지 회사](https://github.com/theyapapa/cryptonews/blob/ko/major-spanish-energy-company-to-use-blockchain-in-renewable-energy-tracking-8576d851.md)
 * 2019-01-14 [곰 시장에도 불구 하 고, 13 개월 실행에 대 한 암호화 마이닝 악성 코드 상위 위협 지 수](https://github.com/theyapapa/cryptonews/blob/ko/despite-bear-market-crypto-mining-malware-tops-threat-index-for-13th-month-running-7507f423.md)
