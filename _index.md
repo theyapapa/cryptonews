@@ -1,3 +1,4 @@
+* 2019-01-14 [재생 가능 에너지 추적에서 블록 체인을 사용 하는 스페인의 주요 에너지 회사](https://github.com/theyapapa/cryptonews/blob/ko/major-spanish-energy-company-to-use-blockchain-in-renewable-energy-tracking-8576d851.md)
 * 2019-01-14 [곰 시장에도 불구 하 고, 13 개월 실행에 대 한 암호화 마이닝 악성 코드 상위 위협 지 수](https://github.com/theyapapa/cryptonews/blob/ko/despite-bear-market-crypto-mining-malware-tops-threat-index-for-13th-month-running-7507f423.md)
 * 2019-01-14 [버몬트 주정부 기관은 포로 보험 기업을 위한 블록 체인 파일럿 프로그램을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/vermont-state-agencies-launch-blockchain-pilot-program-for-captive-insurance-industry-7dc9fda7.md)
 * 2019-01-14 [스위스 수십억 달러 은행 론 벨이 규제 암호화 관리 시작](https://github.com/theyapapa/cryptonews/blob/ko/swiss-multi-billion-dollar-bank-vontobel-launches-regulated-crypto-custody-0491e510.md)
