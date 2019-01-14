@@ -1,3 +1,4 @@
+* 2019-01-14 [윈 클 보스 쌍둥이는 stablecin 믿고, 토큰화 증권은 암호화 혁신의 미래](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-twins-believe-stablecoins-tokenized-securities-are-future-of-crypto-innovation-cb366493.md)
 * 2019-01-14 [크리켓 남아프리카 잠깐 $7만 비트 코인 트위터 사기에 피해자를 폭포](https://github.com/theyapapa/cryptonews/blob/ko/cricket-south-africa-briefly-falls-victim-to-70-000-bitcoin-twitter-scam-ddd14ce0.md)
 * 2019-01-13 [맨 위로 5 암호화 수행자 개요: 트 론, 네오, 카르다노, binance 동전, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-neo-cardano-binance-coin-litecoin-4154d17b.md)
 * 2019-01-13 [hodler의 다이제스트, 1 월 7 일 ~ 13 일자: 최고 스토리, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-jan713-top-stories-price-movements-quotes-and-fud-of-the-week-c03cf91f.md)
