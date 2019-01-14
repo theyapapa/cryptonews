@@ -1,3 +1,4 @@
+* 2019-01-14 [Agencias del estado de Vermont lanzan programa piloto de blockchain para industria de seguros cautivo](https://github.com/theyapapa/cryptonews/blob/es/vermont-state-agencies-launch-blockchain-pilot-program-for-captive-insurance-industry-7dc9fda7.md)
 * 2019-01-14 [Banco multimillonario suizo Vontobel lanza custodia cripto regulada](https://github.com/theyapapa/cryptonews/blob/es/swiss-multi-billion-dollar-bank-vontobel-launches-regulated-crypto-custody-0491e510.md)
 * 2019-01-14 [Los gemelos Winklevoss creen Stablecoins, los valores Tokenized son el futuro de la innovación Crypto](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-twins-believe-stablecoins-tokenized-securities-are-future-of-crypto-innovation-cb366493.md)
 * 2019-01-14 [Cricket Sudáfrica brevemente cae víctima de $70.000 Bitcoin Twitter estafa](https://github.com/theyapapa/cryptonews/blob/es/cricket-south-africa-briefly-falls-victim-to-70-000-bitcoin-twitter-scam-ddd14ce0.md)
