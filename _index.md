@@ -1,3 +1,4 @@
+* 2019-01-14 [Крикет Южной Африке кратко падает жертва $70 000 Bitcoin щебетать афера](https://github.com/theyapapa/cryptonews/blob/ru/cricket-south-africa-briefly-falls-victim-to-70-000-bitcoin-twitter-scam-ddd14ce0.md)
 * 2019-01-13 [Топ 5 крипто исполнители Обзор: трон, нео, Binance монета, Litecoin](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-tron-neo-cardano-binance-coin-litecoin-4154d17b.md)
 * 2019-01-13 [Ходлер, 7 – 13 января: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-jan713-top-stories-price-movements-quotes-and-fud-of-the-week-c03cf91f.md)
 * 2019-01-13 [В углу медвежьего рынка, Bitmain сталкивается с неясным будущее](https://github.com/theyapapa/cryptonews/blob/ru/cornered-by-bear-market-bitmain-is-facing-an-unclear-future-3b84426d.md)
