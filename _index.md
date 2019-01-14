@@ -1,3 +1,4 @@
+* 2019-01-14 [크리켓 남아프리카 잠깐 $7만 비트 코인 트위터 사기에 피해자를 폭포](https://github.com/theyapapa/cryptonews/blob/ko/cricket-south-africa-briefly-falls-victim-to-70-000-bitcoin-twitter-scam-ddd14ce0.md)
 * 2019-01-13 [맨 위로 5 암호화 수행자 개요: 트 론, 네오, 카르다노, binance 동전, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-neo-cardano-binance-coin-litecoin-4154d17b.md)
 * 2019-01-13 [hodler의 다이제스트, 1 월 7 일 ~ 13 일자: 최고 스토리, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-jan713-top-stories-price-movements-quotes-and-fud-of-the-week-c03cf91f.md)
 * 2019-01-13 [곰 시장에 의해 궁지, bitmain은 불분명 한 미래에 직면 하고있다](https://github.com/theyapapa/cryptonews/blob/ko/cornered-by-bear-market-bitmain-is-facing-an-unclear-future-3b84426d.md)
