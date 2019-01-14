@@ -1,3 +1,4 @@
+* 2019-01-14 [Швейцарский многоМиллиардный банк масштабы Vontobel запускает регулируемое крипто-хранение](https://github.com/theyapapa/cryptonews/blob/ru/swiss-multi-billion-dollar-bank-vontobel-launches-regulated-crypto-custody-0491e510.md)
 * 2019-01-14 [Винклвосс Близнецы верят Стаблекоинс, токены ценных бумаг являются будущее крипто инноваций](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-twins-believe-stablecoins-tokenized-securities-are-future-of-crypto-innovation-cb366493.md)
 * 2019-01-14 [Крикет Южной Африке кратко падает жертва $70 000 Bitcoin щебетать афера](https://github.com/theyapapa/cryptonews/blob/ru/cricket-south-africa-briefly-falls-victim-to-70-000-bitcoin-twitter-scam-ddd14ce0.md)
 * 2019-01-13 [Топ 5 крипто исполнители Обзор: трон, нео, Binance монета, Litecoin](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-tron-neo-cardano-binance-coin-litecoin-4154d17b.md)
