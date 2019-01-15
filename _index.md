@@ -1,3 +1,4 @@
+* 2019-01-15 [google Ads에 대해 우리가 알고 있는 것을 키워드로 블랙 리스팅 하기](https://github.com/theyapapa/cryptonews/blob/ko/what-we-know-about-google-ads-allegedly-blacklisting-ethereum-as-a-keyword-137ee38a.md)
 * 2019-01-15 [일본 금융 거 대 한 sbi의 암호화 자회사 백 모바일 지갑 BRD](https://github.com/theyapapa/cryptonews/blob/ko/japanese-finance-giant-sbis-crypto-subsidiary-backs-mobile-wallet-brd-dce3713b.md)
 * 2019-01-15 [비트 코인은 $3700 최고 cryptos 보고서 이익으로 접근](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-approaches-3-700-as-top-cryptos-report-gains-b66e2c9b.md)
 * 2019-01-15 [암호화에 대 한 미국 규제 기관의 접근 방식은 혁신을 방해 합니다: 전직 의원](https://github.com/theyapapa/cryptonews/blob/ko/us-regulators-approach-to-crypto-is-obstructing-innovation-ex-congressman-a2a99201.md)
