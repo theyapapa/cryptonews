@@ -1,3 +1,4 @@
+* 2019-01-15 [Японский Финансы гигантский ВОО крипто вспомогательный бэк мобильный бумажник ФРГ](https://github.com/theyapapa/cryptonews/blob/ru/japanese-finance-giant-sbis-crypto-subsidiary-backs-mobile-wallet-brd-dce3713b.md)
 * 2019-01-15 [Bitcoin подходы $3 700 как Top крипт отчет прибыли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-3-700-as-top-cryptos-report-gains-b66e2c9b.md)
 * 2019-01-15 [Американский регуляторный подход к крипте препятствует инновациям: экс-конгрессмен](https://github.com/theyapapa/cryptonews/blob/ru/us-regulators-approach-to-crypto-is-obstructing-innovation-ex-congressman-a2a99201.md)
 * 2019-01-15 [Общественность получает шанс заработать блок награды, жертвуя вычислительной мощности для научных исследований](https://github.com/theyapapa/cryptonews/blob/ru/public-gets-chance-to-earn-block-rewards-by-donating-computing-power-to-scientific-research-dc2e0cb9.md)
