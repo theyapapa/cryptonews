@@ -1,3 +1,4 @@
+* 2019-01-15 [일본 금융 거 대 한 sbi의 암호화 자회사 백 모바일 지갑 BRD](https://github.com/theyapapa/cryptonews/blob/ko/japanese-finance-giant-sbis-crypto-subsidiary-backs-mobile-wallet-brd-dce3713b.md)
 * 2019-01-15 [비트 코인은 $3700 최고 cryptos 보고서 이익으로 접근](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-approaches-3-700-as-top-cryptos-report-gains-b66e2c9b.md)
 * 2019-01-15 [암호화에 대 한 미국 규제 기관의 접근 방식은 혁신을 방해 합니다: 전직 의원](https://github.com/theyapapa/cryptonews/blob/ko/us-regulators-approach-to-crypto-is-obstructing-innovation-ex-congressman-a2a99201.md)
 * 2019-01-15 [공공 과학 연구에 컴퓨팅 파워를 기부 하 여 블록 보상을 얻을 수 있는 기회를 얻는다](https://github.com/theyapapa/cryptonews/blob/ko/public-gets-chance-to-earn-block-rewards-by-donating-computing-power-to-scientific-research-dc2e0cb9.md)
