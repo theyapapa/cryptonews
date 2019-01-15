@@ -1,3 +1,4 @@
+* 2019-01-15 [Американский регуляторный подход к крипте препятствует инновациям: экс-конгрессмен](https://github.com/theyapapa/cryptonews/blob/ru/us-regulators-approach-to-crypto-is-obstructing-innovation-ex-congressman-a2a99201.md)
 * 2019-01-15 [Общественность получает шанс заработать блок награды, жертвуя вычислительной мощности для научных исследований](https://github.com/theyapapa/cryptonews/blob/ru/public-gets-chance-to-earn-block-rewards-by-donating-computing-power-to-scientific-research-dc2e0cb9.md)
 * 2019-01-14 [Отчет: 2018 видит «рекордные объемы» на крипто-биржах](https://github.com/theyapapa/cryptonews/blob/ru/diar-report-2018-sees-record-transacting-volumes-on-crypto-exchanges-bd125a88.md)
 * 2019-01-14 [Лучшие грузоперевозки Израиля фирма зим открывает Блокчейн-платформу для всех клиентов](https://github.com/theyapapa/cryptonews/blob/ru/israels-top-cargo-shipping-firm-zim-opens-blockchain-platform-to-all-clients-08e520fb.md)
