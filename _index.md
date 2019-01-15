@@ -1,3 +1,4 @@
+* 2019-01-15 [La filial Crypto del gigante financiero japonés SBI respalda la billetera móvil BRD](https://github.com/theyapapa/cryptonews/blob/es/japanese-finance-giant-sbis-crypto-subsidiary-backs-mobile-wallet-brd-dce3713b.md)
 * 2019-01-15 [Bitcoin enfoques $3.700 como Top Cryptos Informe ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-approaches-3-700-as-top-cryptos-report-gains-b66e2c9b.md)
 * 2019-01-15 [El enfoque de los reguladores de Estados Unidos para Crypto está obstruyendo la innovación: ex congresista](https://github.com/theyapapa/cryptonews/blob/es/us-regulators-approach-to-crypto-is-obstructing-innovation-ex-congressman-a2a99201.md)
 * 2019-01-15 [Público obtiene la oportunidad de ganar recompensas de bloque mediante la donación de poder de computación a la investigación científica](https://github.com/theyapapa/cryptonews/blob/es/public-gets-chance-to-earn-block-rewards-by-donating-computing-power-to-scientific-research-dc2e0cb9.md)
