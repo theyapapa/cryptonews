@@ -1,3 +1,4 @@
+* 2019-01-15 [공공 과학 연구에 컴퓨팅 파워를 기부 하 여 블록 보상을 얻을 수 있는 기회를 얻는다](https://github.com/theyapapa/cryptonews/blob/ko/public-gets-chance-to-earn-block-rewards-by-donating-computing-power-to-scientific-research-dc2e0cb9.md)
 * 2019-01-14 [디 아 르 보고서: 2018 암호화 거래소에서 ' 기록 거래 볼륨 '을 본다](https://github.com/theyapapa/cryptonews/blob/ko/diar-report-2018-sees-record-transacting-volumes-on-crypto-exchanges-bd125a88.md)
 * 2019-01-14 [이스라엘의 최고 화물 운송 회사 짐은 모든 고객에 게 블록 체인 플랫폼을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/israels-top-cargo-shipping-firm-zim-opens-blockchain-platform-to-all-clients-08e520fb.md)
 * 2019-01-14 [비트 코인, 리플,이 더 리 움 비트 코인 캐시, EOS, 스텔라 라이트, 트 론 비트 코인 SV: 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-14-13373316.md)
