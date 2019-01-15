@@ -1,3 +1,4 @@
+* 2019-01-15 [Bitcoin подходы $3 700 как Top крипт отчет прибыли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-3-700-as-top-cryptos-report-gains-b66e2c9b.md)
 * 2019-01-15 [Американский регуляторный подход к крипте препятствует инновациям: экс-конгрессмен](https://github.com/theyapapa/cryptonews/blob/ru/us-regulators-approach-to-crypto-is-obstructing-innovation-ex-congressman-a2a99201.md)
 * 2019-01-15 [Общественность получает шанс заработать блок награды, жертвуя вычислительной мощности для научных исследований](https://github.com/theyapapa/cryptonews/blob/ru/public-gets-chance-to-earn-block-rewards-by-donating-computing-power-to-scientific-research-dc2e0cb9.md)
 * 2019-01-14 [Отчет: 2018 видит «рекордные объемы» на крипто-биржах](https://github.com/theyapapa/cryptonews/blob/ru/diar-report-2018-sees-record-transacting-volumes-on-crypto-exchanges-bd125a88.md)
