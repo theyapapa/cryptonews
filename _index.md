@@ -1,3 +1,4 @@
+* 2019-01-15 [Banco indio poseído por DBS para cerrar la cuenta sobre la actividad Crypto-relacionada: informe](https://github.com/theyapapa/cryptonews/blob/es/dbs-owned-indian-bank-to-close-account-over-crypto-related-activity-report-c3129e4c.md)
 * 2019-01-15 [Lo que sabemos acerca de Google Ads supuestamente Blacklisting ' Ethereum ' como una palabra clave](https://github.com/theyapapa/cryptonews/blob/es/what-we-know-about-google-ads-allegedly-blacklisting-ethereum-as-a-keyword-137ee38a.md)
 * 2019-01-15 [La filial Crypto del gigante financiero japonés SBI respalda la billetera móvil BRD](https://github.com/theyapapa/cryptonews/blob/es/japanese-finance-giant-sbis-crypto-subsidiary-backs-mobile-wallet-brd-dce3713b.md)
 * 2019-01-15 [Bitcoin enfoques $3.700 como Top Cryptos Informe ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-approaches-3-700-as-top-cryptos-report-gains-b66e2c9b.md)
