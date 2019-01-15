@@ -1,3 +1,4 @@
+* 2019-01-14 [이스라엘의 최고 화물 운송 회사 짐은 모든 고객에 게 블록 체인 플랫폼을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/israels-top-cargo-shipping-firm-zim-opens-blockchain-platform-to-all-clients-08e520fb.md)
 * 2019-01-14 [비트 코인, 리플,이 더 리 움 비트 코인 캐시, EOS, 스텔라 라이트, 트 론 비트 코인 SV: 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-14-13373316.md)
 * 2019-01-14 [뱅킹 자이언트 HSBC의 블록 체인 플랫폼 2018에서 외환 $2500억 처리](https://github.com/theyapapa/cryptonews/blob/ko/banking-giant-hsbcs-blockchain-platform-processed-250-billion-in-forex-in-2018-41b022c0.md)
 * 2019-01-14 [재생 가능 에너지 추적에서 블록 체인을 사용 하는 스페인의 주요 에너지 회사](https://github.com/theyapapa/cryptonews/blob/ko/major-spanish-energy-company-to-use-blockchain-in-renewable-energy-tracking-8576d851.md)
