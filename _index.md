@@ -1,3 +1,4 @@
+* 2019-01-16 [bitmex 연구: 자신에 게 팀에 의해 할당 ICO 토큰은 $24 bln 값의 54%를 잃었다](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-research-ico-tokens-allocated-by-teams-to-themselves-lost-54-of-24-bln-value-7fa1450f.md)
 * 2019-01-16 [비트 코인, 리플,이 더 리 움 비트 코인 현금, EOS, 스텔라 라이트 코인, 트 론 비트 코인 SV](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-16-fd39523a.md)
 * 2019-01-16 [ConsenSys 뉴스 업계 리더에 합류 하 여 새로운 워드 프레스 퍼블 리 싱 플랫폼에 투자](https://github.com/theyapapa/cryptonews/blob/ko/consensys-joins-news-industry-leaders-to-invest-in-new-wordpress-publishing-platform-08e615ed.md)
 * 2019-01-16 [설문 조사: BTC가 판매 된 미국 투자자는 $17억을 잃 었으 며 많은 사람들이 손실을 공제 할 의도가 없습니다.](https://github.com/theyapapa/cryptonews/blob/ko/survey-us-investors-that-sold-btc-lost-17-billion-many-dont-intend-to-deduct-losses-e217458a.md)
