@@ -1,3 +1,4 @@
+* 2019-01-16 [블록 체인 기반의 오픈 소스 플랫폼 출시로 음악 산업에 진입 하는 비트 퓨어 리](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-enters-music-industry-with-blockchain-based-open-source-platform-launch-f0efe282.md)
 * 2019-01-15 [abcc 거래소는 트 론과 협력 하 여 TRC10 토큰을 나열 하는 최초의 플랫폼이 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/abcc-exchange-partners-with-tron-to-become-first-platform-to-list-trc10-tokens-f2411d67.md)
 * 2019-01-15 [벨라루스 거래 플랫폼을 출시 하 여 고객이 토큰화 된 증권을 구매할 수 있도록 지원](https://github.com/theyapapa/cryptonews/blob/ko/belarus-launches-trading-platform-enabling-customers-to-buy-tokenized-securities-2c37fdf5.md)
 * 2019-01-15 [보안 문제는 ETH 개발자가 ' 최소 사건이 많았던 ' 하드 포크를 호출한 후 콘스탄티노플 시간에 발견 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/vulnerability-is-found-in-constantinople-hours-after-eth-devs-call-it-least-eventful-hard-fork-20861391.md)
