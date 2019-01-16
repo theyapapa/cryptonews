@@ -1,3 +1,4 @@
+* 2019-01-16 [보안 보고서는 주요 암호 화폐 거래소의 16%에 대 한 평가를 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/security-report-gives-a-or-a-rating-to-16-of-major-crypto-exchanges-none-get-a-38bc74f2.md)
 * 2019-01-16 [파산 신청 후, 광업 회사 기가 와트는 일상적인 운영을 폐쇄 소문](https://github.com/theyapapa/cryptonews/blob/ko/following-bankruptcy-filing-mining-firm-giga-watt-reportedly-closes-day-to-day-operations-96173e2d.md)
 * 2019-01-16 [bitmex는 우리에 대 한 보고서를 거부, 퀘이 스 계정 폐쇄 및 상관 볼륨 감소](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-denies-report-of-us-quebecois-account-closures-and-correlated-volume-decline-c4fefbc1.md)
 * 2019-01-16 [블록 체인 기반의 오픈 소스 플랫폼 출시로 음악 산업에 진입 하는 비트 퓨어 리](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-enters-music-industry-with-blockchain-based-open-source-platform-launch-f0efe282.md)
