@@ -1,3 +1,4 @@
+* 2019-01-15 [벨라루스 거래 플랫폼을 출시 하 여 고객이 토큰화 된 증권을 구매할 수 있도록 지원](https://github.com/theyapapa/cryptonews/blob/ko/belarus-launches-trading-platform-enabling-customers-to-buy-tokenized-securities-2c37fdf5.md)
 * 2019-01-15 [보안 문제는 ETH 개발자가 ' 최소 사건이 많았던 ' 하드 포크를 호출한 후 콘스탄티노플 시간에 발견 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/vulnerability-is-found-in-constantinople-hours-after-eth-devs-call-it-least-eventful-hard-fork-20861391.md)
 * 2019-01-15 [암호화 관련 활동을 통해 계정을 폐쇄 하는 DBS 소유의 인도 은행: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/dbs-owned-indian-bank-to-close-account-over-crypto-related-activity-report-c3129e4c.md)
 * 2019-01-15 [google Ads에 대해 우리가 알고 있는 것을 키워드로 블랙 리스팅 하기](https://github.com/theyapapa/cryptonews/blob/ko/what-we-know-about-google-ads-allegedly-blacklisting-ethereum-as-a-keyword-137ee38a.md)
