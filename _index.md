@@ -1,3 +1,4 @@
+* 2019-01-15 [abcc 거래소는 트 론과 협력 하 여 TRC10 토큰을 나열 하는 최초의 플랫폼이 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/abcc-exchange-partners-with-tron-to-become-first-platform-to-list-trc10-tokens-f2411d67.md)
 * 2019-01-15 [벨라루스 거래 플랫폼을 출시 하 여 고객이 토큰화 된 증권을 구매할 수 있도록 지원](https://github.com/theyapapa/cryptonews/blob/ko/belarus-launches-trading-platform-enabling-customers-to-buy-tokenized-securities-2c37fdf5.md)
 * 2019-01-15 [보안 문제는 ETH 개발자가 ' 최소 사건이 많았던 ' 하드 포크를 호출한 후 콘스탄티노플 시간에 발견 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/vulnerability-is-found-in-constantinople-hours-after-eth-devs-call-it-least-eventful-hard-fork-20861391.md)
 * 2019-01-15 [암호화 관련 활동을 통해 계정을 폐쇄 하는 DBS 소유의 인도 은행: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/dbs-owned-indian-bank-to-close-account-over-crypto-related-activity-report-c3129e4c.md)
