@@ -1,3 +1,4 @@
+* 2019-01-17 [Crypto Payments Service BitPay отчеты он видел более $1 000 000 000 в сделках в 2018](https://github.com/theyapapa/cryptonews/blob/ru/crypto-payments-service-bitpay-reports-it-saw-over-1-billion-in-transactions-in-2018-3f834fd9.md)
 * 2019-01-17 [Крипто инвестор имена первичного подозреваемого в $24 000 000 SIM замена случае](https://github.com/theyapapa/cryptonews/blob/ru/crypto-investor-names-primary-suspect-in-24-million-sim-swapping-case-9785acf4.md)
 * 2019-01-17 [Новая платформа показывает объявления только по требованию и обещает платить крипто для представлений](https://github.com/theyapapa/cryptonews/blob/ru/new-platform-shows-ads-only-on-demand-and-promises-to-pay-crypto-for-views-04dee748.md)
 * 2019-01-17 [Цепочки поставок Блокчейн сети платформы $16 000 000 в серии инвестиций](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-supply-chain-platform-nets-16-million-in-series-a-investment-86cb955a.md)
