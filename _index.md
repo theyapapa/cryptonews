@@ -1,3 +1,4 @@
+* 2019-01-17 [Los informes de BitPay del servicio Crypto Payments vieron más de $1 mil millones en transacciones en 2018](https://github.com/theyapapa/cryptonews/blob/es/crypto-payments-service-bitpay-reports-it-saw-over-1-billion-in-transactions-in-2018-3f834fd9.md)
 * 2019-01-17 [Cripto inversionista nombra sospechoso principal en $24 millones SIM swapping Case](https://github.com/theyapapa/cryptonews/blob/es/crypto-investor-names-primary-suspect-in-24-million-sim-swapping-case-9785acf4.md)
 * 2019-01-17 [Nueva plataforma muestra anuncios sólo bajo demanda y promete pagar Crypto para las vistas](https://github.com/theyapapa/cryptonews/blob/es/new-platform-shows-ads-only-on-demand-and-promises-to-pay-crypto-for-views-04dee748.md)
 * 2019-01-17 [Blockchain cadena de suministro plataforma redes $16 millones en serie una inversión](https://github.com/theyapapa/cryptonews/blob/es/blockchain-supply-chain-platform-nets-16-million-in-series-a-investment-86cb955a.md)
