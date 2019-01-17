@@ -1,3 +1,4 @@
+* 2019-01-17 [새로운 플랫폼은 수요에만 광고를 표시 하 고 보기에 대 한 암호를 지불 할 것을 약속](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-shows-ads-only-on-demand-and-promises-to-pay-crypto-for-views-04dee748.md)
 * 2019-01-17 [블록 체인 공급망 플랫폼 네츠 $1600만 시리즈 투자](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-supply-chain-platform-nets-16-million-in-series-a-investment-86cb955a.md)
 * 2019-01-17 [binance는 크립 토 피아에서 도난당 한 토큰을 동결 합니다. CEO CZ](https://github.com/theyapapa/cryptonews/blob/ko/binance-freezes-some-tokens-stolen-from-cryptopia-ceo-cz-525a04cf.md)
 * 2019-01-17 [wwf, 공급망을 따라 식품을 추적 하는 블록 체인 도구 출시](https://github.com/theyapapa/cryptonews/blob/ko/wwf-launches-blockchain-tool-to-track-food-along-supply-chain-a16c3584.md)
