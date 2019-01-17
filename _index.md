@@ -1,3 +1,4 @@
+* 2019-01-17 [Цепочки поставок Блокчейн сети платформы $16 000 000 в серии инвестиций](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-supply-chain-platform-nets-16-million-in-series-a-investment-86cb955a.md)
 * 2019-01-17 [Binance замораживает ' некоторые ' жетоны, украденные у Криптопиа: CEO CZ](https://github.com/theyapapa/cryptonews/blob/ru/binance-freezes-some-tokens-stolen-from-cryptopia-ceo-cz-525a04cf.md)
 * 2019-01-17 [WWF запускает Блокчейн-инструмент для отслеживания проДовольствия по цепочке поставок](https://github.com/theyapapa/cryptonews/blob/ru/wwf-launches-blockchain-tool-to-track-food-along-supply-chain-a16c3584.md)
 * 2019-01-16 [Блокчейн Tech фирма Blockstream запускает бета-версию спутникового API для передачи данных](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-tech-firm-blockstream-launches-beta-version-of-satellite-api-for-data-broadcast-d832d7ab.md)
