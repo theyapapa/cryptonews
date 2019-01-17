@@ -1,3 +1,4 @@
+* 2019-01-17 [binance는 크립 토 피아에서 도난당 한 토큰을 동결 합니다. CEO CZ](https://github.com/theyapapa/cryptonews/blob/ko/binance-freezes-some-tokens-stolen-from-cryptopia-ceo-cz-525a04cf.md)
 * 2019-01-17 [wwf, 공급망을 따라 식품을 추적 하는 블록 체인 도구 출시](https://github.com/theyapapa/cryptonews/blob/ko/wwf-launches-blockchain-tool-to-track-food-along-supply-chain-a16c3584.md)
 * 2019-01-16 [블록 체인 테크 기업 blockstream, 데이터 방송을 위한 위성 API의 베타 버전 출시](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-tech-firm-blockstream-launches-beta-version-of-satellite-api-for-data-broadcast-d832d7ab.md)
 * 2019-01-16 [광산 산업의 공급망 관리를 개선 하기 위한 IBM 기반 블록 체인 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/ibm-backed-blockchain-platform-to-improve-supply-chain-management-in-mining-industry-f35de056.md)
