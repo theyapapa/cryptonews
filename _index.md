@@ -1,3 +1,4 @@
+* 2019-01-17 [암호화 지불 서비스 bitpay 보고서 2018에서 거래 $10억 이상 보았다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-payments-service-bitpay-reports-it-saw-over-1-billion-in-transactions-in-2018-3f834fd9.md)
 * 2019-01-17 [암호화 투자자 이름 $2400만 SIM 스와핑 케이스의 주요 용의자](https://github.com/theyapapa/cryptonews/blob/ko/crypto-investor-names-primary-suspect-in-24-million-sim-swapping-case-9785acf4.md)
 * 2019-01-17 [새로운 플랫폼은 수요에만 광고를 표시 하 고 보기에 대 한 암호를 지불 할 것을 약속](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-shows-ads-only-on-demand-and-promises-to-pay-crypto-for-views-04dee748.md)
 * 2019-01-17 [블록 체인 공급망 플랫폼 네츠 $1600만 시리즈 투자](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-supply-chain-platform-nets-16-million-in-series-a-investment-86cb955a.md)
