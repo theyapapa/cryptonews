@@ -1,3 +1,4 @@
+* 2019-01-18 [칩 만들기 거 대 한 tsmc는 암호화 채굴 수익에 상당한 하락 보고](https://github.com/theyapapa/cryptonews/blob/ko/chip-making-giant-tsmc-reports-significant-drop-in-crypto-mining-revenue-ead54131.md)
 * 2019-01-18 [변신 법 집행 요청 2018의 후반에 175%](https://github.com/theyapapa/cryptonews/blob/ko/law-enforcement-requests-to-shapeshift-rose-175-in-second-half-of-2018-c93ae48d.md)
 * 2019-01-18 [우리: coinstar 동전 계산 기계에서 비트 코인을 판매 하는 비트 코인 ATM 회사 coinme](https://github.com/theyapapa/cryptonews/blob/ko/us-bitcoin-atm-firm-coinme-to-sell-bitcoin-at-coinstar-coin-counting-machines-10715745.md)
 * 2019-01-17 [블록 체인 제품 개발을 위한 스페인 자동차 제조업체 시트 조인 Alastria 컨소시엄](https://github.com/theyapapa/cryptonews/blob/ko/spanish-car-manufacturer-seat-joins-alastria-consortium-to-develop-blockchain-products-0d3daba3.md)
