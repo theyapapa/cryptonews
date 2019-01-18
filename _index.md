@@ -1,3 +1,4 @@
+* 2019-01-18 [El programa de investigación de blockchain Data Developer Spring Labs obtiene 16 miembros de startup](https://github.com/theyapapa/cryptonews/blob/es/blockchain-data-developer-spring-labs-research-program-gains-16-startup-members-eee2a8cd.md)
 * 2019-01-18 [La viruta que hace el gigante TSMC divulga la gota significativa en ingresos mineros Crypto](https://github.com/theyapapa/cryptonews/blob/es/chip-making-giant-tsmc-reports-significant-drop-in-crypto-mining-revenue-ead54131.md)
 * 2019-01-18 [Solicitudes de aplicación de la ley a Shapeshift Rose 175% en segunda mitad de 2018](https://github.com/theyapapa/cryptonews/blob/es/law-enforcement-requests-to-shapeshift-rose-175-in-second-half-of-2018-c93ae48d.md)
 * 2019-01-18 [Estados Unidos: Bitcoin ATM firma Coinme para vender Bitcoin en Coinstar Coin máquinas de conteo](https://github.com/theyapapa/cryptonews/blob/es/us-bitcoin-atm-firm-coinme-to-sell-bitcoin-at-coinstar-coin-counting-machines-10715745.md)
