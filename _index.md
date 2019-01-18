@@ -1,3 +1,4 @@
+* 2019-01-18 [Фондовая биржа Таиланда планирует создать лицензированный цифровой обмен активами: отчет](https://github.com/theyapapa/cryptonews/blob/ru/thailands-stock-exchange-plans-to-set-up-a-licensed-digital-asset-exchange-report-18449341.md)
 * 2019-01-18 [Программа научных исследований по Блокчейн-данным Spring Labs выИгрывает 16 участников стартапа](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-data-developer-spring-labs-research-program-gains-16-startup-members-eee2a8cd.md)
 * 2019-01-18 [Чип решений гигантский TSMC отчеты значительное падение в крипто добыча доходов](https://github.com/theyapapa/cryptonews/blob/ru/chip-making-giant-tsmc-reports-significant-drop-in-crypto-mining-revenue-ead54131.md)
 * 2019-01-18 [Требования правоохранительных органов к Shapeshift Роуз 175% во второй половине 2018](https://github.com/theyapapa/cryptonews/blob/ru/law-enforcement-requests-to-shapeshift-rose-175-in-second-half-of-2018-c93ae48d.md)
