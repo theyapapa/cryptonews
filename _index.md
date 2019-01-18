@@ -1,3 +1,4 @@
+* 2019-01-18 [블록 체인 데이터 개발자 스프링 연구소의 연구 프로그램은 16 명의 스타트업 회원을 얻습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-data-developer-spring-labs-research-program-gains-16-startup-members-eee2a8cd.md)
 * 2019-01-18 [칩 만들기 거 대 한 tsmc는 암호화 채굴 수익에 상당한 하락 보고](https://github.com/theyapapa/cryptonews/blob/ko/chip-making-giant-tsmc-reports-significant-drop-in-crypto-mining-revenue-ead54131.md)
 * 2019-01-18 [변신 법 집행 요청 2018의 후반에 175%](https://github.com/theyapapa/cryptonews/blob/ko/law-enforcement-requests-to-shapeshift-rose-175-in-second-half-of-2018-c93ae48d.md)
 * 2019-01-18 [우리: coinstar 동전 계산 기계에서 비트 코인을 판매 하는 비트 코인 ATM 회사 coinme](https://github.com/theyapapa/cryptonews/blob/ko/us-bitcoin-atm-firm-coinme-to-sell-bitcoin-at-coinstar-coin-counting-machines-10715745.md)
