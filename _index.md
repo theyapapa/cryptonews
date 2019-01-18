@@ -1,3 +1,4 @@
+* 2019-01-17 [에 테 리 움과 ConsenSys Joe lubin의 설립자는 암호화 시작 erisx의 이사회에 합류](https://github.com/theyapapa/cryptonews/blob/ko/founder-of-ethereum-and-consensys-joe-lubin-joins-board-of-directors-of-crypto-startup-erisx-5d2a51fc.md)
 * 2019-01-17 [남아프리카 고 브는 최근의 상담 논문에서 암호화를 금지 할 계획이 없다는 것을 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/south-african-govt-reveals-it-has-no-plans-to-ban-crypto-in-recent-consultation-paper-417d8209.md)
 * 2019-01-17 [윈 클 보스 캐피탈: 투자자는 ' 신중 하 게 자신의 발가락을 암호화에 침 지, ' 플 런 지를 복용 하지](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-capital-investors-are-thoughtfully-dipping-their-toes-into-crypto-not-taking-the-plunge-3db55049.md)
 * 2019-01-17 [크립 토 피아 혐의 해킹: 지역 사회는 도난당 한 자금을 추적 하는 동안 경찰은 경우에](https://github.com/theyapapa/cryptonews/blob/ko/cryptopia-alleged-hack-police-are-on-the-case-while-community-tracks-down-stolen-funds-fb9712eb.md)
