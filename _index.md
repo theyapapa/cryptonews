@@ -1,3 +1,4 @@
+* 2019-01-19 [대만은 일곱 혐의 사기 비트 코인 투자 관리자를 기소](https://github.com/theyapapa/cryptonews/blob/ko/taiwan-indicts-seven-allegedly-fraudulent-bitcoin-investment-managers-0ea199c5.md)
 * 2019-01-19 [다크 넷 시장으로 전송 된 비트 코인의 총 가치 2018에서 70% 증가: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/total-value-of-bitcoin-sent-to-darknet-markets-increased-by-70-in-2018-report-fcf80fb4.md)
 * 2019-01-18 [(前) 프랑스 중앙 은행의 전 총재, 블록 체인 회사 setl 이사회 참여](https://github.com/theyapapa/cryptonews/blob/ko/former-governor-of-french-central-bank-joins-board-of-directors-of-blockchain-firm-setl-4f940dfe.md)
 * 2019-01-18 [ico는 $1억6000만 년 상반기에 발표 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/icos-raised-160-million-in-first-half-of-january-report-says-70e512ad.md)
