@@ -1,3 +1,4 @@
+* 2019-01-19 [Taiwán acusa a siete supuestamente fraudulentos gerentes de inversión de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/taiwan-indicts-seven-allegedly-fraudulent-bitcoin-investment-managers-0ea199c5.md)
 * 2019-01-19 [El valor total de Bitcoin enviado a los mercados de Darknet aumentó en 70% en 2018: informe](https://github.com/theyapapa/cryptonews/blob/es/total-value-of-bitcoin-sent-to-darknet-markets-increased-by-70-in-2018-report-fcf80fb4.md)
 * 2019-01-18 [El ex gobernador del banco central francés se une a la Junta Directiva de la firma blockchain Setl](https://github.com/theyapapa/cryptonews/blob/es/former-governor-of-french-central-bank-joins-board-of-directors-of-blockchain-firm-setl-4f940dfe.md)
 * 2019-01-18 [ICOs recaudaron $160 millones en la primera quincena de enero, dice el informe](https://github.com/theyapapa/cryptonews/blob/es/icos-raised-160-million-in-first-half-of-january-report-says-70e512ad.md)
