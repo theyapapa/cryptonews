@@ -1,3 +1,4 @@
+* 2019-01-18 [ico는 $1억6000만 년 상반기에 발표 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/icos-raised-160-million-in-first-half-of-january-report-says-70e512ad.md)
 * 2019-01-18 [이 더 리 움 팀 리드: 콘스탄티노플 하드 포크는 2 월 하순에 활성화 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-team-lead-constantinople-hard-fork-to-activate-in-late-february-d60fad64.md)
 * 2019-01-18 [리눅스-대상 크립 킹 악성 코드는 클라우드 기반 보안 조치를 비활성화: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/linux-targeting-cryptojacking-malware-disables-cloud-based-security-measures-report-4ef95288.md)
 * 2019-01-18 [태국의 증권 거래소는 라이센스 디지털 자산 교환을 설정할 계획: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/thailands-stock-exchange-plans-to-set-up-a-licensed-digital-asset-exchange-report-18449341.md)
