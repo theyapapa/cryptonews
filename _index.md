@@ -1,3 +1,4 @@
+* 2019-01-19 [Общая стоимость биткоинов, отправленных на Даркнет рынки, увеличилась на 70% в 2018: отчет](https://github.com/theyapapa/cryptonews/blob/ru/total-value-of-bitcoin-sent-to-darknet-markets-increased-by-70-in-2018-report-fcf80fb4.md)
 * 2019-01-18 [Бывший губернатор французского Центрального банка приСоединяется к Совету директоров Блокчейн-фирмы Сэтл](https://github.com/theyapapa/cryptonews/blob/ru/former-governor-of-french-central-bank-joins-board-of-directors-of-blockchain-firm-setl-4f940dfe.md)
 * 2019-01-18 [ИКОС поднял $160 000 000 в первой половине января, доклад говорит](https://github.com/theyapapa/cryptonews/blob/ru/icos-raised-160-million-in-first-half-of-january-report-says-70e512ad.md)
 * 2019-01-18 [Эфириум команда ведущий: Константинополь жесткий вилка, чтобы активировать в конце февраля](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-team-lead-constantinople-hard-fork-to-activate-in-late-february-d60fad64.md)
