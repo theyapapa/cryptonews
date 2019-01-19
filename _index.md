@@ -1,3 +1,4 @@
+* 2019-01-18 [Бывший губернатор французского Центрального банка приСоединяется к Совету директоров Блокчейн-фирмы Сэтл](https://github.com/theyapapa/cryptonews/blob/ru/former-governor-of-french-central-bank-joins-board-of-directors-of-blockchain-firm-setl-4f940dfe.md)
 * 2019-01-18 [ИКОС поднял $160 000 000 в первой половине января, доклад говорит](https://github.com/theyapapa/cryptonews/blob/ru/icos-raised-160-million-in-first-half-of-january-report-says-70e512ad.md)
 * 2019-01-18 [Эфириум команда ведущий: Константинополь жесткий вилка, чтобы активировать в конце февраля](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-team-lead-constantinople-hard-fork-to-activate-in-late-february-d60fad64.md)
 * 2019-01-18 [Linux-таргетинг Криптожаккинг вредоносных программ отключает меры безопасности на основе облака: отчет](https://github.com/theyapapa/cryptonews/blob/ru/linux-targeting-cryptojacking-malware-disables-cloud-based-security-measures-report-4ef95288.md)
