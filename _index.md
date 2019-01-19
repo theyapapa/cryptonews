@@ -1,3 +1,4 @@
+* 2019-01-19 [Вайоминг вводит законопроект, направленных на определение виртуальных валют как деньги ](https://github.com/theyapapa/cryptonews/blob/ru/wyoming-introduces-a-bill-aiming-to-define-virtual-currencies-as-money-7ea46f6a.md)
 * 2019-01-19 [Тайвань обвиняет семь якобы мошеннических биткоин инвестиционных менеджеров](https://github.com/theyapapa/cryptonews/blob/ru/taiwan-indicts-seven-allegedly-fraudulent-bitcoin-investment-managers-0ea199c5.md)
 * 2019-01-19 [Общая стоимость биткоинов, отправленных на Даркнет рынки, увеличилась на 70% в 2018: отчет](https://github.com/theyapapa/cryptonews/blob/ru/total-value-of-bitcoin-sent-to-darknet-markets-increased-by-70-in-2018-report-fcf80fb4.md)
 * 2019-01-18 [Бывший губернатор французского Центрального банка приСоединяется к Совету директоров Блокчейн-фирмы Сэтл](https://github.com/theyapapa/cryptonews/blob/ru/former-governor-of-french-central-bank-joins-board-of-directors-of-blockchain-firm-setl-4f940dfe.md)
