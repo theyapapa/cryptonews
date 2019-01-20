@@ -1,3 +1,4 @@
+* 2019-01-20 [Emiratos Árabes Unidos y Arabia Saudita colaboran en Nueva criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/united-arab-emirates-and-saudi-arabia-collaborate-on-new-cryptocurrency-c8a7c613.md)
 * 2019-01-19 [Bitcoin Nears $3.750 como Top Cryptos ver ganancias moderadas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-nears-3-750-as-top-cryptos-see-moderate-gains-e88f5625.md)
 * 2019-01-19 [Wyoming presenta un proyecto de ley que apunta a definir monedas virtuales como dinero ](https://github.com/theyapapa/cryptonews/blob/es/wyoming-introduces-a-bill-aiming-to-define-virtual-currencies-as-money-7ea46f6a.md)
 * 2019-01-19 [Taiwán acusa a siete supuestamente fraudulentos gerentes de inversión de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/taiwan-indicts-seven-allegedly-fraudulent-bitcoin-investment-managers-0ea199c5.md)
