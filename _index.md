@@ -1,3 +1,4 @@
+* 2019-01-20 [Топ 5 крипто исполнители Обзор: Binance монета, ",", IOTA, нео, трон](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
 * 2019-01-20 [Чилийские налогоплательщики должны сообщить о прибыли криптовалюты чилийскому IRS: местные СМИ](https://github.com/theyapapa/cryptonews/blob/ru/chilean-taxpayers-must-report-cryptocurrency-profits-to-chilean-irs-local-media-bd1b274c.md)
 * 2019-01-20 [Huobi защищает свою лицензию FSA в Японии, другие крупные игроки находятся в ожидании](https://github.com/theyapapa/cryptonews/blob/ru/huobi-secures-its-fsa-license-in-japan-other-large-players-are-pending-dab134d2.md)
 * 2019-01-20 [Объединенные Арабские Эмираты и Саудовская Аравия сотрудничают в области новой криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/united-arab-emirates-and-saudi-arabia-collaborate-on-new-cryptocurrency-c8a7c613.md)
