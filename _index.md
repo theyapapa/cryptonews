@@ -1,3 +1,4 @@
+* 2019-01-20 [Top 5 cripto intérpretes Descripción: Binance Coin, Cardano, IOTA, neo, Tron](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
 * 2019-01-20 [Contribuyentes chilenos deben reportar ganancias de Criptomonedas al IRS chileno: medios locales](https://github.com/theyapapa/cryptonews/blob/es/chilean-taxpayers-must-report-cryptocurrency-profits-to-chilean-irs-local-media-bd1b274c.md)
 * 2019-01-20 [Huobi asegura su licencia FSA en Japón, otros grandes jugadores están pendientes](https://github.com/theyapapa/cryptonews/blob/es/huobi-secures-its-fsa-license-in-japan-other-large-players-are-pending-dab134d2.md)
 * 2019-01-20 [Emiratos Árabes Unidos y Arabia Saudita colaboran en Nueva criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/united-arab-emirates-and-saudi-arabia-collaborate-on-new-cryptocurrency-c8a7c613.md)
