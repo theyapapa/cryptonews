@@ -1,3 +1,4 @@
+* 2019-01-20 [Объединенные Арабские Эмираты и Саудовская Аравия сотрудничают в области новой криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/united-arab-emirates-and-saudi-arabia-collaborate-on-new-cryptocurrency-c8a7c613.md)
 * 2019-01-19 [Биткойн приближается к $3 750 как топ-крипты видят умеренные прибыли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-nears-3-750-as-top-cryptos-see-moderate-gains-e88f5625.md)
 * 2019-01-19 [Вайоминг вводит законопроект, направленных на определение виртуальных валют как деньги ](https://github.com/theyapapa/cryptonews/blob/ru/wyoming-introduces-a-bill-aiming-to-define-virtual-currencies-as-money-7ea46f6a.md)
 * 2019-01-19 [Тайвань обвиняет семь якобы мошеннических биткоин инвестиционных менеджеров](https://github.com/theyapapa/cryptonews/blob/ru/taiwan-indicts-seven-allegedly-fraudulent-bitcoin-investment-managers-0ea199c5.md)
