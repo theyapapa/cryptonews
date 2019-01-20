@@ -1,3 +1,4 @@
+* 2019-01-20 [아랍에미리트와 사우디아라비아 새로운 암호 화폐에 대 한 협업](https://github.com/theyapapa/cryptonews/blob/ko/united-arab-emirates-and-saudi-arabia-collaborate-on-new-cryptocurrency-c8a7c613.md)
 * 2019-01-19 [비트 코인은 $3750에 가까워 최고 크립 토는 적당 한 이득을 볼](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-nears-3-750-as-top-cryptos-see-moderate-gains-e88f5625.md)
 * 2019-01-19 [와이오밍는 가상 화폐를 화폐로 정의 하는 법안을 소개 합니다. ](https://github.com/theyapapa/cryptonews/blob/ko/wyoming-introduces-a-bill-aiming-to-define-virtual-currencies-as-money-7ea46f6a.md)
 * 2019-01-19 [대만은 일곱 혐의 사기 비트 코인 투자 관리자를 기소](https://github.com/theyapapa/cryptonews/blob/ko/taiwan-indicts-seven-allegedly-fraudulent-bitcoin-investment-managers-0ea199c5.md)
