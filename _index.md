@@ -1,3 +1,4 @@
+* 2019-01-19 [Bitcoin Nears $3.750 como Top Cryptos ver ganancias moderadas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-nears-3-750-as-top-cryptos-see-moderate-gains-e88f5625.md)
 * 2019-01-19 [Wyoming presenta un proyecto de ley que apunta a definir monedas virtuales como dinero ](https://github.com/theyapapa/cryptonews/blob/es/wyoming-introduces-a-bill-aiming-to-define-virtual-currencies-as-money-7ea46f6a.md)
 * 2019-01-19 [Taiwán acusa a siete supuestamente fraudulentos gerentes de inversión de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/taiwan-indicts-seven-allegedly-fraudulent-bitcoin-investment-managers-0ea199c5.md)
 * 2019-01-19 [El valor total de Bitcoin enviado a los mercados de Darknet aumentó en 70% en 2018: informe](https://github.com/theyapapa/cryptonews/blob/es/total-value-of-bitcoin-sent-to-darknet-markets-increased-by-70-in-2018-report-fcf80fb4.md)
