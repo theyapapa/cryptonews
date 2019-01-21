@@ -1,3 +1,4 @@
+* 2019-01-21 [Швейцарский банк Сокол запускает крипто бумажник с выводом на Fiat](https://github.com/theyapapa/cryptonews/blob/ru/swiss-bank-falcon-launches-crypto-wallet-with-withdrawals-to-fiat-50842c6d.md)
 * 2019-01-21 [Швейцарский ' смарт-карта ' крипто бумажник Танжем получает $15 000 000 от Японии ВОО группы](https://github.com/theyapapa/cryptonews/blob/ru/swiss-smart-card-crypto-wallet-tangem-gets-15-million-from-japans-sbi-group-f330e7ff.md)
 * 2019-01-21 [Централизованные биржи по-прежнему подавляющим большинством доминируют на рынке, новый отчет показывает](https://github.com/theyapapa/cryptonews/blob/ru/centralized-exchanges-still-overwhelmingly-dominate-market-new-report-shows-9ec2d452.md)
 * 2019-01-21 [Общий рынок Cap капли $5 000 000 000 как все основные монеты принять цена хит](https://github.com/theyapapa/cryptonews/blob/ru/total-market-cap-drops-5-billion-as-all-major-coins-take-price-hit-599792b6.md)
