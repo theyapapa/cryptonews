@@ -1,3 +1,4 @@
+* 2019-01-21 [Swiss ' Smart Card ' Crypto monedero Tangem obtiene $15 millones de Japón SBI grupo](https://github.com/theyapapa/cryptonews/blob/es/swiss-smart-card-crypto-wallet-tangem-gets-15-million-from-japans-sbi-group-f330e7ff.md)
 * 2019-01-21 [Los intercambios centralizados siguen dominando abrumadoramente el mercado, nuevo informe muestra](https://github.com/theyapapa/cryptonews/blob/es/centralized-exchanges-still-overwhelmingly-dominate-market-new-report-shows-9ec2d452.md)
 * 2019-01-21 [Capitalización de mercado total cae $5 mil millones como todas las principales monedas tomar precio golpeado](https://github.com/theyapapa/cryptonews/blob/es/total-market-cap-drops-5-billion-as-all-major-coins-take-price-hit-599792b6.md)
 * 2019-01-21 [Japón: los reguladores aprueban la prueba de Bitcoin Sidechain de startup para intercambios](https://github.com/theyapapa/cryptonews/blob/es/japan-regulators-approve-startups-bitcoin-sidechain-trial-for-exchanges-66452d8a.md)
