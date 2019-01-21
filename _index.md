@@ -1,3 +1,4 @@
+* 2019-01-21 [중앙 거래소는 여전히 압도적으로 시장을 지배, 새로운 보고서 쇼](https://github.com/theyapapa/cryptonews/blob/ko/centralized-exchanges-still-overwhelmingly-dominate-market-new-report-shows-9ec2d452.md)
 * 2019-01-21 [총 시가 총액 하락 $50억 모든 주요 동전은 가격 히트를가지고](https://github.com/theyapapa/cryptonews/blob/ko/total-market-cap-drops-5-billion-as-all-major-coins-take-price-hit-599792b6.md)
 * 2019-01-21 [일본: 규제 기관은 스타트업의 비트 코인 사이드 체인 교환을 승인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japan-regulators-approve-startups-bitcoin-sidechain-trial-for-exchanges-66452d8a.md)
 * 2019-01-20 [맨 위로 5 암호화 수행자 개요: binance 동전, 카르다노, 이오타, 네오, 트 론](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
