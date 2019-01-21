@@ -1,3 +1,4 @@
+* 2019-01-21 [Blockchain.com busca la Asociación Stablecoin no divulgada por fin de 2019: informe](https://github.com/theyapapa/cryptonews/blob/es/blockchaincom-seeks-undisclosed-stablecoin-partnership-by-end-of-2019-report-54b88896.md)
 * 2019-01-21 [Profesor del MIT: blockchain puede permitir una economía más inclusiva y sin fronteras](https://github.com/theyapapa/cryptonews/blob/es/mit-professor-blockchain-can-allow-for-more-inclusive-borderless-economy-e0b22714.md)
 * 2019-01-21 [Swiss Bank Falcon lanza cripto monedero con retiros a Fiat](https://github.com/theyapapa/cryptonews/blob/es/swiss-bank-falcon-launches-crypto-wallet-with-withdrawals-to-fiat-50842c6d.md)
 * 2019-01-21 [Swiss ' Smart Card ' Crypto monedero Tangem obtiene $15 millones de Japón SBI grupo](https://github.com/theyapapa/cryptonews/blob/es/swiss-smart-card-crypto-wallet-tangem-gets-15-million-from-japans-sbi-group-f330e7ff.md)
