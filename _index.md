@@ -1,3 +1,4 @@
+* 2019-01-21 [Blockchain.com는 2019의 끝으로 미공개 stablecoin 파트너십을 추구 합니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/blockchaincom-seeks-undisclosed-stablecoin-partnership-by-end-of-2019-report-54b88896.md)
 * 2019-01-21 [MIT 교수: 블록 체인은 보다 포괄적이 고 국경 없는 경제를 가능 하 게 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/mit-professor-blockchain-can-allow-for-more-inclusive-borderless-economy-e0b22714.md)
 * 2019-01-21 [스위스 은행 팔 콘은 피아트에 인출와 암호 지갑을 출시](https://github.com/theyapapa/cryptonews/blob/ko/swiss-bank-falcon-launches-crypto-wallet-with-withdrawals-to-fiat-50842c6d.md)
 * 2019-01-21 [스위스 ' 스마트 카드 ' 암호 지갑 tangem은 일본의 sbi 그룹에서 $1500만을 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/swiss-smart-card-crypto-wallet-tangem-gets-15-million-from-japans-sbi-group-f330e7ff.md)
