@@ -1,3 +1,4 @@
+* 2019-01-21 [Los intercambios centralizados siguen dominando abrumadoramente el mercado, nuevo informe muestra](https://github.com/theyapapa/cryptonews/blob/es/centralized-exchanges-still-overwhelmingly-dominate-market-new-report-shows-9ec2d452.md)
 * 2019-01-21 [Capitalización de mercado total cae $5 mil millones como todas las principales monedas tomar precio golpeado](https://github.com/theyapapa/cryptonews/blob/es/total-market-cap-drops-5-billion-as-all-major-coins-take-price-hit-599792b6.md)
 * 2019-01-21 [Japón: los reguladores aprueban la prueba de Bitcoin Sidechain de startup para intercambios](https://github.com/theyapapa/cryptonews/blob/es/japan-regulators-approve-startups-bitcoin-sidechain-trial-for-exchanges-66452d8a.md)
 * 2019-01-20 [Top 5 cripto intérpretes Descripción: Binance Coin, Cardano, IOTA, neo, Tron](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
