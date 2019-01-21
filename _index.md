@@ -1,3 +1,4 @@
+* 2019-01-21 [일본: 규제 기관은 스타트업의 비트 코인 사이드 체인 교환을 승인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japan-regulators-approve-startups-bitcoin-sidechain-trial-for-exchanges-66452d8a.md)
 * 2019-01-20 [맨 위로 5 암호화 수행자 개요: binance 동전, 카르다노, 이오타, 네오, 트 론](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
 * 2019-01-20 [칠레 납세자는 칠레 국세청에 암호 화폐 수익을 보고 해야 합니다: 지역 언론](https://github.com/theyapapa/cryptonews/blob/ko/chilean-taxpayers-must-report-cryptocurrency-profits-to-chilean-irs-local-media-bd1b274c.md)
 * 2019-01-20 [huobi는 일본에서 FSA 라이센스를 고정, 다른 큰 선수가 대기 중입니다](https://github.com/theyapapa/cryptonews/blob/ko/huobi-secures-its-fsa-license-in-japan-other-large-players-are-pending-dab134d2.md)
