@@ -1,3 +1,4 @@
+* 2019-01-21 [Советник Банка Англии: криптовалюты терпят неУдачу базовые финансовые тесты, отсутствие ценности](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-england-adviser-cryptocurrencies-fail-basic-financial-tests-lack-value-9913846e.md)
 * 2019-01-21 [Blockchain.com ищет неРаскрытое Stablecoin партнерство к концу 2019: отчет](https://github.com/theyapapa/cryptonews/blob/ru/blockchaincom-seeks-undisclosed-stablecoin-partnership-by-end-of-2019-report-54b88896.md)
 * 2019-01-21 [MIT профессор: Блокчейн может позволить более инклюзивной, без границ экономики](https://github.com/theyapapa/cryptonews/blob/ru/mit-professor-blockchain-can-allow-for-more-inclusive-borderless-economy-e0b22714.md)
 * 2019-01-21 [Швейцарский банк Сокол запускает крипто бумажник с выводом на Fiat](https://github.com/theyapapa/cryptonews/blob/ru/swiss-bank-falcon-launches-crypto-wallet-with-withdrawals-to-fiat-50842c6d.md)
