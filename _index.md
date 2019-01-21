@@ -1,3 +1,4 @@
+* 2019-01-21 [Japón: los reguladores aprueban la prueba de Bitcoin Sidechain de startup para intercambios](https://github.com/theyapapa/cryptonews/blob/es/japan-regulators-approve-startups-bitcoin-sidechain-trial-for-exchanges-66452d8a.md)
 * 2019-01-20 [Top 5 cripto intérpretes Descripción: Binance Coin, Cardano, IOTA, neo, Tron](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
 * 2019-01-20 [Contribuyentes chilenos deben reportar ganancias de Criptomonedas al IRS chileno: medios locales](https://github.com/theyapapa/cryptonews/blob/es/chilean-taxpayers-must-report-cryptocurrency-profits-to-chilean-irs-local-media-bd1b274c.md)
 * 2019-01-20 [Huobi asegura su licencia FSA en Japón, otros grandes jugadores están pendientes](https://github.com/theyapapa/cryptonews/blob/es/huobi-secures-its-fsa-license-in-japan-other-large-players-are-pending-dab134d2.md)
