@@ -1,3 +1,4 @@
+* 2019-01-21 [Япония: Регуляторы утверждают, что запуск Bitcoin боковой цепи Trial для бирж](https://github.com/theyapapa/cryptonews/blob/ru/japan-regulators-approve-startups-bitcoin-sidechain-trial-for-exchanges-66452d8a.md)
 * 2019-01-20 [Топ 5 крипто исполнители Обзор: Binance монета, ",", IOTA, нео, трон](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
 * 2019-01-20 [Чилийские налогоплательщики должны сообщить о прибыли криптовалюты чилийскому IRS: местные СМИ](https://github.com/theyapapa/cryptonews/blob/ru/chilean-taxpayers-must-report-cryptocurrency-profits-to-chilean-irs-local-media-bd1b274c.md)
 * 2019-01-20 [Huobi защищает свою лицензию FSA в Японии, другие крупные игроки находятся в ожидании](https://github.com/theyapapa/cryptonews/blob/ru/huobi-secures-its-fsa-license-in-japan-other-large-players-are-pending-dab134d2.md)
