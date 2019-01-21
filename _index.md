@@ -1,3 +1,4 @@
+* 2019-01-21 [Централизованные биржи по-прежнему подавляющим большинством доминируют на рынке, новый отчет показывает](https://github.com/theyapapa/cryptonews/blob/ru/centralized-exchanges-still-overwhelmingly-dominate-market-new-report-shows-9ec2d452.md)
 * 2019-01-21 [Общий рынок Cap капли $5 000 000 000 как все основные монеты принять цена хит](https://github.com/theyapapa/cryptonews/blob/ru/total-market-cap-drops-5-billion-as-all-major-coins-take-price-hit-599792b6.md)
 * 2019-01-21 [Япония: Регуляторы утверждают, что запуск Bitcoin боковой цепи Trial для бирж](https://github.com/theyapapa/cryptonews/blob/ru/japan-regulators-approve-startups-bitcoin-sidechain-trial-for-exchanges-66452d8a.md)
 * 2019-01-20 [Топ 5 крипто исполнители Обзор: Binance монета, ",", IOTA, нео, трон](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-binance-coin-cardano-iota-neo-tron-40848770.md)
