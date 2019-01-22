@@ -1,3 +1,4 @@
+* 2019-01-21 [El volumen de transacciones en cadena de Ethereum alcanzó récord en diciembre de 2018](https://github.com/theyapapa/cryptonews/blob/es/ethereum-on-chain-transaction-volume-reached-record-high-in-december-2018-557055ac.md)
 * 2019-01-21 [La autoridad portuaria española se une a la plataforma blockchain desarrollada por IBM y Maersk](https://github.com/theyapapa/cryptonews/blob/es/spanish-port-authority-joins-blockchain-platform-developed-by-ibm-and-maersk-b1b7019e.md)
 * 2019-01-21 [Banco de Inglaterra Consejero: Cryptocurrencies FAIL pruebas financieras básicas, falta de valor](https://github.com/theyapapa/cryptonews/blob/es/bank-of-england-adviser-cryptocurrencies-fail-basic-financial-tests-lack-value-9913846e.md)
 * 2019-01-21 [Blockchain.com busca la Asociación Stablecoin no divulgada por fin de 2019: informe](https://github.com/theyapapa/cryptonews/blob/es/blockchaincom-seeks-undisclosed-stablecoin-partnership-by-end-of-2019-report-54b88896.md)
