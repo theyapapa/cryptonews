@@ -1,3 +1,4 @@
+* 2019-01-21 [В декабре 2018 в эфире объем транзакций по сети Эфириум доСтиг рекордного уровня](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-on-chain-transaction-volume-reached-record-high-in-december-2018-557055ac.md)
 * 2019-01-21 [Испанская портовая администрация приСоединяется к Блокчейн-платформе, разработанной IBM и](https://github.com/theyapapa/cryptonews/blob/ru/spanish-port-authority-joins-blockchain-platform-developed-by-ibm-and-maersk-b1b7019e.md)
 * 2019-01-21 [Советник Банка Англии: криптовалюты терпят неУдачу базовые финансовые тесты, отсутствие ценности](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-england-adviser-cryptocurrencies-fail-basic-financial-tests-lack-value-9913846e.md)
 * 2019-01-21 [Blockchain.com ищет неРаскрытое Stablecoin партнерство к концу 2019: отчет](https://github.com/theyapapa/cryptonews/blob/ru/blockchaincom-seeks-undisclosed-stablecoin-partnership-by-end-of-2019-report-54b88896.md)
