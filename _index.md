@@ -1,3 +1,4 @@
+* 2019-01-22 [Индия: Институт банковских исследований издает план внедрения Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/india-banking-research-institute-issues-blueprint-on-blockchain-implementation-5725b24e.md)
 * 2019-01-22 [Опрос: 63% старших execs не понимают Блокчейн Tech](https://github.com/theyapapa/cryptonews/blob/ru/poll-63-percent-of-senior-execs-lack-understanding-of-blockchain-tech-26dad51c.md)
 * 2019-01-22 [JP Morgan-бэк-Партнеры фирмы с Блокчейн-стартапом, принадлежащим бывшей компании Deloitte Exec](https://github.com/theyapapa/cryptonews/blob/ru/jp-morgan-backed-firm-partners-with-blockchain-startup-owned-by-former-deloitte-exec-17e36f73.md)
 * 2019-01-22 [Южная Африка предпринимает шаги к крипто ясности с последним отчетом резервного банка](https://github.com/theyapapa/cryptonews/blob/ru/south-africa-is-making-strides-toward-crypto-clarity-with-the-reserve-banks-latest-report-77a926ed.md)
