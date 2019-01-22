@@ -1,3 +1,4 @@
+* 2019-01-22 [Socios de la firma respaldada por JP Morgan con blockchain startup propiedad de la ex Deloitte exec](https://github.com/theyapapa/cryptonews/blob/es/jp-morgan-backed-firm-partners-with-blockchain-startup-owned-by-former-deloitte-exec-17e36f73.md)
 * 2019-01-22 [Sudáfrica está haciendo progresos hacia la claridad cripto con el último informe del Banco de reserva](https://github.com/theyapapa/cryptonews/blob/es/south-africa-is-making-strides-toward-crypto-clarity-with-the-reserve-banks-latest-report-77a926ed.md)
 * 2019-01-22 [Crypto Exchange Huobi a ' probablemente lanzar su propio Stablecoin en 2019, ' dice CFO](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-huobi-to-likely-launch-its-own-stablecoin-in-2019-says-cfo-f6d4ac69.md)
 * 2019-01-22 [Bitcoin hovers over $3.550 como Cryptos superior ver pequeñas pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-over-3-550-as-top-cryptos-see-slight-losses-687b9f5f.md)
