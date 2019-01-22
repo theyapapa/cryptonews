@@ -1,3 +1,4 @@
+* 2019-01-22 [Bitcoin hovers over $3.550 como Cryptos superior ver pequeñas pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-over-3-550-as-top-cryptos-see-slight-losses-687b9f5f.md)
 * 2019-01-22 [Japón: el gigante de E-Commerce Rakuten moverá el CRYPTO Exchange a la filial de nuevos pagos](https://github.com/theyapapa/cryptonews/blob/es/japan-e-commerce-giant-rakuten-to-move-crypto-exchange-to-new-payments-subsidiary-71734038.md)
 * 2019-01-21 [El volumen de transacciones en cadena de Ethereum alcanzó récord en diciembre de 2018](https://github.com/theyapapa/cryptonews/blob/es/ethereum-on-chain-transaction-volume-reached-record-high-in-december-2018-557055ac.md)
 * 2019-01-21 [La autoridad portuaria española se une a la plataforma blockchain desarrollada por IBM y Maersk](https://github.com/theyapapa/cryptonews/blob/es/spanish-port-authority-joins-blockchain-platform-developed-by-ibm-and-maersk-b1b7019e.md)
