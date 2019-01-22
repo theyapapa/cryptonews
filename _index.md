@@ -1,3 +1,4 @@
+* 2019-01-22 [비트 코인은 상단 크립 토가 약간의 손실을 참조로 $3550 위에 올려](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-3-550-as-top-cryptos-see-slight-losses-687b9f5f.md)
 * 2019-01-22 [일본: 전자 상거래 자이언트 라쿠텐에서 새로운 결제 자회사로 암호화 교환 이동](https://github.com/theyapapa/cryptonews/blob/ko/japan-e-commerce-giant-rakuten-to-move-crypto-exchange-to-new-payments-subsidiary-71734038.md)
 * 2019-01-21 [에 테 리 움 온 체인 트랜잭션 볼륨은 12 월 2018에서 높은 기록에 도달](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-on-chain-transaction-volume-reached-record-high-in-december-2018-557055ac.md)
 * 2019-01-21 [스페인 항만 당국은 IBM과 maersk가 개발한 블록 체인 플랫폼에 합류 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/spanish-port-authority-joins-blockchain-platform-developed-by-ibm-and-maersk-b1b7019e.md)
