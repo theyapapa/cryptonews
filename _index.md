@@ -1,3 +1,4 @@
+* 2019-01-22 [Crypto Exchange Huobi к ' вероятный старт свой собственный Stablecoin в 2019, ' говорит финансовый директор](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-huobi-to-likely-launch-its-own-stablecoin-in-2019-says-cfo-f6d4ac69.md)
 * 2019-01-22 [Bitcoin наВисает над $3 550 как лучшие крипты увидеть неЗначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-over-3-550-as-top-cryptos-see-slight-losses-687b9f5f.md)
 * 2019-01-22 [Япония: E-коммерция гигантский Rakuten для того чтобы двинуть крипто-обмен к новым доЧерним платежам](https://github.com/theyapapa/cryptonews/blob/ru/japan-e-commerce-giant-rakuten-to-move-crypto-exchange-to-new-payments-subsidiary-71734038.md)
 * 2019-01-21 [В декабре 2018 в эфире объем транзакций по сети Эфириум доСтиг рекордного уровня](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-on-chain-transaction-volume-reached-record-high-in-december-2018-557055ac.md)
