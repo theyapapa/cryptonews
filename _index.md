@@ -1,3 +1,4 @@
+* 2019-01-21 [에 테 리 움 온 체인 트랜잭션 볼륨은 12 월 2018에서 높은 기록에 도달](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-on-chain-transaction-volume-reached-record-high-in-december-2018-557055ac.md)
 * 2019-01-21 [스페인 항만 당국은 IBM과 maersk가 개발한 블록 체인 플랫폼에 합류 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/spanish-port-authority-joins-blockchain-platform-developed-by-ibm-and-maersk-b1b7019e.md)
 * 2019-01-21 [잉글랜드 은행 고문: 암호 화폐가 기본 재정 시험을 실패, 부족 가치](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-england-adviser-cryptocurrencies-fail-basic-financial-tests-lack-value-9913846e.md)
 * 2019-01-21 [Blockchain.com는 2019의 끝으로 미공개 stablecoin 파트너십을 추구 합니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/blockchaincom-seeks-undisclosed-stablecoin-partnership-by-end-of-2019-report-54b88896.md)
