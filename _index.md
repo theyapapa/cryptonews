@@ -1,3 +1,4 @@
+* 2019-01-22 [전 딜로 이트가 소유한 블록 체인 스타트업을 보유 한 JP 모건 백업 기업 파트너](https://github.com/theyapapa/cryptonews/blob/ko/jp-morgan-backed-firm-partners-with-blockchain-startup-owned-by-former-deloitte-exec-17e36f73.md)
 * 2019-01-22 [남아프리카 공화국은 예비 은행의 최신 보고서를 통해 암호화 선명도를 향한 진보를 이루고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/south-africa-is-making-strides-toward-crypto-clarity-with-the-reserve-banks-latest-report-77a926ed.md)
 * 2019-01-22 [가상 화폐 거래소 huobi는 ' 아마 2019에서 자체 stablecoin을 시작 합니다 ' 라고 CFO는 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-huobi-to-likely-launch-its-own-stablecoin-in-2019-says-cfo-f6d4ac69.md)
 * 2019-01-22 [비트 코인은 상단 크립 토가 약간의 손실을 참조로 $3550 위에 올려](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-3-550-as-top-cryptos-see-slight-losses-687b9f5f.md)
