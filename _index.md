@@ -1,3 +1,4 @@
+* 2019-01-23 [Технические показатели Bitcoin показывают признаки дна, возможный краткосрочный митинг: аналитики](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-technicals-show-signs-of-a-bottom-possible-short-term-rally-analysts-603608c5.md)
 * 2019-01-23 [McAfee вести 2020 президентской кампании "в изгнании" после предполагаемого обвинения IRS](https://github.com/theyapapa/cryptonews/blob/ru/mcafee-to-lead-2020-presidential-campaign-in-exile-after-alleged-irs-indictment-e4809090.md)
 * 2019-01-22 [Отчет: обратный слияние может принять Бисумб Crypto Exchange общественности в США](https://github.com/theyapapa/cryptonews/blob/ru/report-reverse-merger-could-take-bithumb-crypto-exchange-public-in-the-us-8a9a3b4f.md)
 * 2019-01-22 [Индия: Институт банковских исследований издает план внедрения Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/india-banking-research-institute-issues-blueprint-on-blockchain-implementation-5725b24e.md)
