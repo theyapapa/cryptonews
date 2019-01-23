@@ -1,3 +1,4 @@
+* 2019-01-23 [안드레아의 운세와 페이팔 공동 설립자 출시에 의해 뒷받침 암호 보유자](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custodian-backed-by-andreessen-horowitz-and-paypal-co-founder-launches-85e76b2c.md)
 * 2019-01-23 [cboe, 비트 코인 거래소 상장 펀드 목록에 대 한 규칙 변경 요청 철회](https://github.com/theyapapa/cryptonews/blob/ko/cboe-withdraws-rule-change-request-to-list-bitcoin-exchange-traded-fund-c75530f6.md)
 * 2019-01-23 [Zb. Com 사용자는 경찰에 그를 보고의 암호화 교환을 accuses](https://github.com/theyapapa/cryptonews/blob/ko/zbcom-user-accuses-crypto-exchange-of-reporting-him-to-police-36b4736e.md)
 * 2019-01-23 [환자 안전을 강화 하 고과 처방을 방지 하기 위한 블록 체인 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-to-boost-patient-safety-and-prevent-overprescribing-e6cf4e1e.md)
