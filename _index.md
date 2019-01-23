@@ -1,3 +1,4 @@
+* 2019-01-23 [Запуск Блокчейна для повышения безопасности пациентов и предотвращения переписывания](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-startup-to-boost-patient-safety-and-prevent-overprescribing-e6cf4e1e.md)
 * 2019-01-23 [UK финансовый регулятор выпускает консультационную бумагу по крипто](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-regulator-releases-consultation-paper-on-crypto-3e43d138.md)
 * 2019-01-23 [Противоречивые создатели контента сдвиг в крипто после цензуры](https://github.com/theyapapa/cryptonews/blob/ru/controversial-content-creators-shift-to-crypto-after-censorship-9ba1ec3d.md)
 * 2019-01-23 [Технические показатели Bitcoin показывают признаки дна, возможный краткосрочный митинг: аналитики](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-technicals-show-signs-of-a-bottom-possible-short-term-rally-analysts-603608c5.md)
