@@ -1,3 +1,4 @@
+* 2019-01-23 [환자 안전을 강화 하 고과 처방을 방지 하기 위한 블록 체인 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-to-boost-patient-safety-and-prevent-overprescribing-e6cf4e1e.md)
 * 2019-01-23 [영국 금융 레 귤 레이 터는 암호화에 대 한 상담 논문을 발표](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-regulator-releases-consultation-paper-on-crypto-3e43d138.md)
 * 2019-01-23 [논란의 여지가 있는 콘텐츠 제작자는 검열 후 암호화로 전환 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/controversial-content-creators-shift-to-crypto-after-censorship-9ba1ec3d.md)
 * 2019-01-23 [비트 코인의 기술적으로 바닥의 흔적을 표시, 가능한 단기 랠리: 애 널 리스트](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-technicals-show-signs-of-a-bottom-possible-short-term-rally-analysts-603608c5.md)
