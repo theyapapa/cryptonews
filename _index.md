@@ -1,3 +1,4 @@
+* 2019-01-23 [Zb. El usuario de com acusa a Crypto Exchange de reportarlo a la policía](https://github.com/theyapapa/cryptonews/blob/es/zbcom-user-accuses-crypto-exchange-of-reporting-him-to-police-36b4736e.md)
 * 2019-01-23 [Inicio de blockchain para impulsar la seguridad del paciente y prevenir la prescripción excesiva](https://github.com/theyapapa/cryptonews/blob/es/blockchain-startup-to-boost-patient-safety-and-prevent-overprescribing-e6cf4e1e.md)
 * 2019-01-23 [Regulador financiero del Reino Unido publica documento de consulta sobre cripto](https://github.com/theyapapa/cryptonews/blob/es/uk-financial-regulator-releases-consultation-paper-on-crypto-3e43d138.md)
 * 2019-01-23 [Los creadores de contenido controvertidos cambian a Crypto después de la censura](https://github.com/theyapapa/cryptonews/blob/es/controversial-content-creators-shift-to-crypto-after-censorship-9ba1ec3d.md)
