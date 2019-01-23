@@ -1,3 +1,4 @@
+* 2019-01-23 [논란의 여지가 있는 콘텐츠 제작자는 검열 후 암호화로 전환 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/controversial-content-creators-shift-to-crypto-after-censorship-9ba1ec3d.md)
 * 2019-01-23 [비트 코인의 기술적으로 바닥의 흔적을 표시, 가능한 단기 랠리: 애 널 리스트](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-technicals-show-signs-of-a-bottom-possible-short-term-rally-analysts-603608c5.md)
 * 2019-01-23 [맥 아 피 리드 2020 대통령 캠페인 ' 추방에 ' 국세청 기소 혐의로 기소](https://github.com/theyapapa/cryptonews/blob/ko/mcafee-to-lead-2020-presidential-campaign-in-exile-after-alleged-irs-indictment-e4809090.md)
 * 2019-01-22 [보고서: 역 합병은 미국에서 bithumb 암호화 교환 공공 걸릴 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-reverse-merger-could-take-bithumb-crypto-exchange-public-in-the-us-8a9a3b4f.md)
