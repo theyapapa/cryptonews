@@ -1,3 +1,4 @@
+* 2019-01-22 [보고서: 역 합병은 미국에서 bithumb 암호화 교환 공공 걸릴 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-reverse-merger-could-take-bithumb-crypto-exchange-public-in-the-us-8a9a3b4f.md)
 * 2019-01-22 [인도: 금융 연구소, 블록 체인 구현에 대 한 청사진 문제](https://github.com/theyapapa/cryptonews/blob/ko/india-banking-research-institute-issues-blueprint-on-blockchain-implementation-5725b24e.md)
 * 2019-01-22 [투표: 고위 경영진의 63%가 블록 체인 기술에 대 한 이해 부족](https://github.com/theyapapa/cryptonews/blob/ko/poll-63-percent-of-senior-execs-lack-understanding-of-blockchain-tech-26dad51c.md)
 * 2019-01-22 [전 딜로 이트가 소유한 블록 체인 스타트업을 보유 한 JP 모건 백업 기업 파트너](https://github.com/theyapapa/cryptonews/blob/ko/jp-morgan-backed-firm-partners-with-blockchain-startup-owned-by-former-deloitte-exec-17e36f73.md)
