@@ -1,3 +1,4 @@
+* 2019-01-23 [UK финансовый регулятор выпускает консультационную бумагу по крипто](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-regulator-releases-consultation-paper-on-crypto-3e43d138.md)
 * 2019-01-23 [Противоречивые создатели контента сдвиг в крипто после цензуры](https://github.com/theyapapa/cryptonews/blob/ru/controversial-content-creators-shift-to-crypto-after-censorship-9ba1ec3d.md)
 * 2019-01-23 [Технические показатели Bitcoin показывают признаки дна, возможный краткосрочный митинг: аналитики](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-technicals-show-signs-of-a-bottom-possible-short-term-rally-analysts-603608c5.md)
 * 2019-01-23 [McAfee вести 2020 президентской кампании "в изгнании" после предполагаемого обвинения IRS](https://github.com/theyapapa/cryptonews/blob/ru/mcafee-to-lead-2020-presidential-campaign-in-exile-after-alleged-irs-indictment-e4809090.md)
