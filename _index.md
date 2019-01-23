@@ -1,3 +1,4 @@
+* 2019-01-23 [McAfee вести 2020 президентской кампании "в изгнании" после предполагаемого обвинения IRS](https://github.com/theyapapa/cryptonews/blob/ru/mcafee-to-lead-2020-presidential-campaign-in-exile-after-alleged-irs-indictment-e4809090.md)
 * 2019-01-22 [Отчет: обратный слияние может принять Бисумб Crypto Exchange общественности в США](https://github.com/theyapapa/cryptonews/blob/ru/report-reverse-merger-could-take-bithumb-crypto-exchange-public-in-the-us-8a9a3b4f.md)
 * 2019-01-22 [Индия: Институт банковских исследований издает план внедрения Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/india-banking-research-institute-issues-blueprint-on-blockchain-implementation-5725b24e.md)
 * 2019-01-22 [Опрос: 63% старших execs не понимают Блокчейн Tech](https://github.com/theyapapa/cryptonews/blob/ru/poll-63-percent-of-senior-execs-lack-understanding-of-blockchain-tech-26dad51c.md)
