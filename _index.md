@@ -1,3 +1,4 @@
+* 2019-01-23 [Los creadores de contenido controvertidos cambian a Crypto después de la censura](https://github.com/theyapapa/cryptonews/blob/es/controversial-content-creators-shift-to-crypto-after-censorship-9ba1ec3d.md)
 * 2019-01-23 [Los technicals de Bitcoin muestran signos de una parte inferior, posible Rally a corto plazo: analistas](https://github.com/theyapapa/cryptonews/blob/es/bitcoins-technicals-show-signs-of-a-bottom-possible-short-term-rally-analysts-603608c5.md)
 * 2019-01-23 [McAfee lideran 2020 campaña presidencial "en el exilio" tras presunta acusación del IRS](https://github.com/theyapapa/cryptonews/blob/es/mcafee-to-lead-2020-presidential-campaign-in-exile-after-alleged-irs-indictment-e4809090.md)
 * 2019-01-22 [Informe: fusión inversa podría tomar Bithumb Crypto intercambio público en los Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/report-reverse-merger-could-take-bithumb-crypto-exchange-public-in-the-us-8a9a3b4f.md)
