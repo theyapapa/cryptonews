@@ -1,3 +1,4 @@
+* 2019-01-23 [Крипто хранитель Андреессен и PayPal со-основатель запускает](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custodian-backed-by-andreessen-horowitz-and-paypal-co-founder-launches-85e76b2c.md)
 * 2019-01-23 [CBOE отзывает запрос на изменение правила, чтобы переЧислить биткоин Биржевой фонд](https://github.com/theyapapa/cryptonews/blob/ru/cboe-withdraws-rule-change-request-to-list-bitcoin-exchange-traded-fund-c75530f6.md)
 * 2019-01-23 [Zb. Com пользователь обвиняет крипто обмена отчетности его в полицию](https://github.com/theyapapa/cryptonews/blob/ru/zbcom-user-accuses-crypto-exchange-of-reporting-him-to-police-36b4736e.md)
 * 2019-01-23 [Запуск Блокчейна для повышения безопасности пациентов и предотвращения переписывания](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-startup-to-boost-patient-safety-and-prevent-overprescribing-e6cf4e1e.md)
