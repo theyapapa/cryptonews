@@ -1,3 +1,4 @@
+* 2019-01-23 [Zb. Com 사용자는 경찰에 그를 보고의 암호화 교환을 accuses](https://github.com/theyapapa/cryptonews/blob/ko/zbcom-user-accuses-crypto-exchange-of-reporting-him-to-police-36b4736e.md)
 * 2019-01-23 [환자 안전을 강화 하 고과 처방을 방지 하기 위한 블록 체인 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-to-boost-patient-safety-and-prevent-overprescribing-e6cf4e1e.md)
 * 2019-01-23 [영국 금융 레 귤 레이 터는 암호화에 대 한 상담 논문을 발표](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-regulator-releases-consultation-paper-on-crypto-3e43d138.md)
 * 2019-01-23 [논란의 여지가 있는 콘텐츠 제작자는 검열 후 암호화로 전환 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/controversial-content-creators-shift-to-crypto-after-censorship-9ba1ec3d.md)
