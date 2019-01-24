@@ -1,3 +1,4 @@
+* 2019-01-24 [OKCoin основатель поКупает контроль доли в Гонконге-перечисленных фирм в $60 + млн сделки](https://github.com/theyapapa/cryptonews/blob/ru/okcoin-founder-buys-controlling-share-in-hong-kong-listed-firm-in-60-mln-deal-26ba7699.md)
 * 2019-01-24 [Гонконгская фондовая биржа глава намеки на несовместимость Bitmain IPO](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-stock-exchange-head-hints-at-incompatibility-of-bitmain-ipo-ffc1e8cd.md)
 * 2019-01-23 [$20 000 000 финансирование раунда в Блокчейн фирма Симбионт включает в себя и NASDAQ](https://github.com/theyapapa/cryptonews/blob/ru/20-million-funding-round-in-blockchain-firm-symbiont-includes-citigroup-and-nasdaq-29e3a49f.md)
 * 2019-01-23 [Крипто хранитель Андреессен и PayPal со-основатель запускает](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custodian-backed-by-andreessen-horowitz-and-paypal-co-founder-launches-85e76b2c.md)
