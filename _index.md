@@ -1,3 +1,4 @@
+* 2019-01-23 [$20 millones ronda de financiación en la firma blockchain Symbiont incluye Citigroup y NASDAQ](https://github.com/theyapapa/cryptonews/blob/es/20-million-funding-round-in-blockchain-firm-symbiont-includes-citigroup-and-nasdaq-29e3a49f.md)
 * 2019-01-23 [Cripto custodio respaldado por Andreessen Horowitz y el cofundador de PayPal lanza](https://github.com/theyapapa/cryptonews/blob/es/crypto-custodian-backed-by-andreessen-horowitz-and-paypal-co-founder-launches-85e76b2c.md)
 * 2019-01-23 [CBOE retira solicitud de cambio de regla para enumerar el fondo negociado con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/cboe-withdraws-rule-change-request-to-list-bitcoin-exchange-traded-fund-c75530f6.md)
 * 2019-01-23 [Zb. El usuario de com acusa a Crypto Exchange de reportarlo a la policía](https://github.com/theyapapa/cryptonews/blob/es/zbcom-user-accuses-crypto-exchange-of-reporting-him-to-police-36b4736e.md)
