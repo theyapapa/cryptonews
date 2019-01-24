@@ -1,3 +1,4 @@
+* 2019-01-24 [La autoridad monetaria de Singapur detiene STO local debido a violaciones regulatorias](https://github.com/theyapapa/cryptonews/blob/es/singapores-monetary-authority-halts-local-sto-due-to-regulatory-violations-1d9c3273.md)
 * 2019-01-24 [El fundador de OKCoin compra el Controlling compartido en la firma de Hong Kong en $60 + MLN Deal](https://github.com/theyapapa/cryptonews/blob/es/okcoin-founder-buys-controlling-share-in-hong-kong-listed-firm-in-60-mln-deal-26ba7699.md)
 * 2019-01-24 [El jefe de bolsa de Hong Kong sugiere incompatibilidad de Bitmain IPO](https://github.com/theyapapa/cryptonews/blob/es/hong-kong-stock-exchange-head-hints-at-incompatibility-of-bitmain-ipo-ffc1e8cd.md)
 * 2019-01-23 [$20 millones ronda de financiación en la firma blockchain Symbiont incluye Citigroup y NASDAQ](https://github.com/theyapapa/cryptonews/blob/es/20-million-funding-round-in-blockchain-firm-symbiont-includes-citigroup-and-nasdaq-29e3a49f.md)
