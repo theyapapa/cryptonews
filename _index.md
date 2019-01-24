@@ -1,3 +1,4 @@
+* 2019-01-24 [국제 경찰 협력은 $1100만 IOTA 도난에 용의자의 체포로 이어집니다](https://github.com/theyapapa/cryptonews/blob/ko/international-police-collaboration-leads-to-arrest-of-suspect-in-11-million-iota-theft-2d9e35eb.md)
 * 2019-01-24 [국제 통화 기금, 몰타 블록 체인의 성장은 상당한 위험을 초래 한다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/international-monetary-fund-says-growth-of-blockchain-in-malta-poses-significant-risks-0eebe2e8.md)
 * 2019-01-24 [싱가포르의 통화 당국은 규제 위반으로 인해 현지 STO를 중지 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/singapores-monetary-authority-halts-local-sto-due-to-regulatory-violations-1d9c3273.md)
 * 2019-01-24 [okcoin 설립자는 $60 백만 거래에서 홍콩 상장 회사의 제어 점유율을 구입](https://github.com/theyapapa/cryptonews/blob/ko/okcoin-founder-buys-controlling-share-in-hong-kong-listed-firm-in-60-mln-deal-26ba7699.md)
