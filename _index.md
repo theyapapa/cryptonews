@@ -1,3 +1,4 @@
+* 2019-01-24 [싱가포르의 통화 당국은 규제 위반으로 인해 현지 STO를 중지 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/singapores-monetary-authority-halts-local-sto-due-to-regulatory-violations-1d9c3273.md)
 * 2019-01-24 [okcoin 설립자는 $60 백만 거래에서 홍콩 상장 회사의 제어 점유율을 구입](https://github.com/theyapapa/cryptonews/blob/ko/okcoin-founder-buys-controlling-share-in-hong-kong-listed-firm-in-60-mln-deal-26ba7699.md)
 * 2019-01-24 [홍콩 증권 거래소 헤드 비트 메인 IPO의 비 호환성에 대 한 힌트](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-stock-exchange-head-hints-at-incompatibility-of-bitmain-ipo-ffc1e8cd.md)
 * 2019-01-23 [$2000만 자금 조달 라운드 블록 체인 회사 공생는 씨티 그룹 및 나스닥 포함](https://github.com/theyapapa/cryptonews/blob/ko/20-million-funding-round-in-blockchain-firm-symbiont-includes-citigroup-and-nasdaq-29e3a49f.md)
