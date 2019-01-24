@@ -1,3 +1,4 @@
+* 2019-01-24 [홍콩 증권 거래소 헤드 비트 메인 IPO의 비 호환성에 대 한 힌트](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-stock-exchange-head-hints-at-incompatibility-of-bitmain-ipo-ffc1e8cd.md)
 * 2019-01-23 [$2000만 자금 조달 라운드 블록 체인 회사 공생는 씨티 그룹 및 나스닥 포함](https://github.com/theyapapa/cryptonews/blob/ko/20-million-funding-round-in-blockchain-firm-symbiont-includes-citigroup-and-nasdaq-29e3a49f.md)
 * 2019-01-23 [안드레아의 운세와 페이팔 공동 설립자 출시에 의해 뒷받침 암호 보유자](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custodian-backed-by-andreessen-horowitz-and-paypal-co-founder-launches-85e76b2c.md)
 * 2019-01-23 [cboe, 비트 코인 거래소 상장 펀드 목록에 대 한 규칙 변경 요청 철회](https://github.com/theyapapa/cryptonews/blob/ko/cboe-withdraws-rule-change-request-to-list-bitcoin-exchange-traded-fund-c75530f6.md)
