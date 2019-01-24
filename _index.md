@@ -1,3 +1,4 @@
+* 2019-01-24 [Международный валютный фонд говорит, что рост Блокчейн на Мальте создает значительные риски](https://github.com/theyapapa/cryptonews/blob/ru/international-monetary-fund-says-growth-of-blockchain-in-malta-poses-significant-risks-0eebe2e8.md)
 * 2019-01-24 [Денежное управление Сингапура приОстановило местное сто из-за нарушений законодательства](https://github.com/theyapapa/cryptonews/blob/ru/singapores-monetary-authority-halts-local-sto-due-to-regulatory-violations-1d9c3273.md)
 * 2019-01-24 [OKCoin основатель поКупает контроль доли в Гонконге-перечисленных фирм в $60 + млн сделки](https://github.com/theyapapa/cryptonews/blob/ru/okcoin-founder-buys-controlling-share-in-hong-kong-listed-firm-in-60-mln-deal-26ba7699.md)
 * 2019-01-24 [Гонконгская фондовая биржа глава намеки на несовместимость Bitmain IPO](https://github.com/theyapapa/cryptonews/blob/ru/hong-kong-stock-exchange-head-hints-at-incompatibility-of-bitmain-ipo-ffc1e8cd.md)
