@@ -1,3 +1,4 @@
+* 2019-01-24 [국제 통화 기금, 몰타 블록 체인의 성장은 상당한 위험을 초래 한다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/international-monetary-fund-says-growth-of-blockchain-in-malta-poses-significant-risks-0eebe2e8.md)
 * 2019-01-24 [싱가포르의 통화 당국은 규제 위반으로 인해 현지 STO를 중지 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/singapores-monetary-authority-halts-local-sto-due-to-regulatory-violations-1d9c3273.md)
 * 2019-01-24 [okcoin 설립자는 $60 백만 거래에서 홍콩 상장 회사의 제어 점유율을 구입](https://github.com/theyapapa/cryptonews/blob/ko/okcoin-founder-buys-controlling-share-in-hong-kong-listed-firm-in-60-mln-deal-26ba7699.md)
 * 2019-01-24 [홍콩 증권 거래소 헤드 비트 메인 IPO의 비 호환성에 대 한 힌트](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-stock-exchange-head-hints-at-incompatibility-of-bitmain-ipo-ffc1e8cd.md)
