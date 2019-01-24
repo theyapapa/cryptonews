@@ -1,3 +1,4 @@
+* 2019-01-24 [cryptos는 상단 동전 사이에 가벼운 이익과 손실로 옆으로 거래, 비트 코인 $3600 이상](https://github.com/theyapapa/cryptonews/blob/ko/cryptos-trade-sideways-with-mild-gains-and-losses-among-top-coins-bitcoin-above-3-600-11a04fac.md)
 * 2019-01-24 [하버드와 레비 스트라우스가 공동 작업 하 여 블록 체인 기반 공장 안전 시스템 개발](https://github.com/theyapapa/cryptonews/blob/ko/harvard-and-levi-strauss-collaborate-to-develop-blockchain-based-factory-safety-system-b59e25cd.md)
 * 2019-01-24 [국제 경찰 협력은 $1100만 IOTA 도난에 용의자의 체포로 이어집니다](https://github.com/theyapapa/cryptonews/blob/ko/international-police-collaboration-leads-to-arrest-of-suspect-in-11-million-iota-theft-2d9e35eb.md)
 * 2019-01-24 [국제 통화 기금, 몰타 블록 체인의 성장은 상당한 위험을 초래 한다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/international-monetary-fund-says-growth-of-blockchain-in-malta-poses-significant-risks-0eebe2e8.md)
