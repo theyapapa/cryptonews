@@ -1,3 +1,4 @@
+* 2019-01-25 [wef, bitpesa 창업자를 블록 체인에 대 한 글로벌 협의회의 공동 위원장으로 임명](https://github.com/theyapapa/cryptonews/blob/ko/wef-appoints-bitpesa-founder-as-co-chair-of-global-council-on-blockchain-bb17cad3.md)
 * 2019-01-25 [2018에서 두 배 이상에 테 리 움 기반 사기 수익: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-scam-revenue-more-than-doubled-in-2018-report-8e7a36dc.md)
 * 2019-01-25 [사이버 보안 회사 wisekey, 기술 지주 censof, 말레이시아 블록 체인 센터 발표](https://github.com/theyapapa/cryptonews/blob/ko/cybersecurity-firm-wisekey-tech-holding-censof-announce-malaysian-blockchain-center-ec4b67b3.md)
 * 2019-01-25 [헬스케어 기업을 위한 블록 체인 네트워크에 IBM과 협력 하는 보험 거 대 한 aetna](https://github.com/theyapapa/cryptonews/blob/ko/insurance-giant-aetna-partners-with-ibm-on-blockchain-network-for-healthcare-industry-6d63f450.md)
