@@ -1,3 +1,4 @@
+* 2019-01-25 [헬스케어 기업을 위한 블록 체인 네트워크에 IBM과 협력 하는 보험 거 대 한 aetna](https://github.com/theyapapa/cryptonews/blob/ko/insurance-giant-aetna-partners-with-ibm-on-blockchain-network-for-healthcare-industry-6d63f450.md)
 * 2019-01-24 [오버 스톡의 tzero 보안 토큰 플랫폼이 실시간 거래 시작](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-tzero-security-token-platform-begins-live-trading-d1158632.md)
 * 2019-01-24 [coinbase는 터보 택스 통합을 포함 하 여 미국 고객을 위한 세금 지원 리소스를 추가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-adds-tax-support-resources-for-us-customers-including-turbotax-integration-e95e2b0b.md)
 * 2019-01-24 [스위스에 있는 블록 체인 기업의 수는 ' 암호화 겨울 '에도 불구 하 고, 리히텐슈타인은](https://github.com/theyapapa/cryptonews/blob/ko/despite-crypto-winter-number-of-blockchain-firms-in-switzerland-liechtenstein-grows-a511523c.md)
