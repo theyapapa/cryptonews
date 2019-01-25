@@ -1,3 +1,4 @@
+* 2019-01-25 [El guardián financiero de Malta advierte a los inversionistas globales contra la estafa de ' Bitcoin Revolution '](https://github.com/theyapapa/cryptonews/blob/es/maltas-financial-watchdog-warns-global-investors-against-bitcoin-revolution-scam-b107d010.md)
 * 2019-01-25 [WEF nombra al fundador de BitPesa como Co-Presidente del Consejo global en blockchain](https://github.com/theyapapa/cryptonews/blob/es/wef-appoints-bitpesa-founder-as-co-chair-of-global-council-on-blockchain-bb17cad3.md)
 * 2019-01-25 [Ingresos de estafa basados en Ethereum más del duplicado en 2018: informe](https://github.com/theyapapa/cryptonews/blob/es/ethereum-based-scam-revenue-more-than-doubled-in-2018-report-8e7a36dc.md)
 * 2019-01-25 [La firma de ciberseguridad WISeKey, Tech Holding Censof anuncia el centro de blockchain de Malasia](https://github.com/theyapapa/cryptonews/blob/es/cybersecurity-firm-wisekey-tech-holding-censof-announce-malaysian-blockchain-center-ec4b67b3.md)
