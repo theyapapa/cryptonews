@@ -1,3 +1,4 @@
+* 2019-01-24 [Торговая платформа токенов безопасности Тзеро в реальном маштабе времени](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-tzero-security-token-platform-begins-live-trading-d1158632.md)
 * 2019-01-24 [Coinbase добавляет ресурсы налоговой поддержки для клиентов США, включая интеграцию TurboTax](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-adds-tax-support-resources-for-us-customers-including-turbotax-integration-e95e2b0b.md)
 * 2019-01-24 [Несмотря на "Crypto Winter", количество Блокчейн-фирм в Швейцарии, Лихтенштейн растет](https://github.com/theyapapa/cryptonews/blob/ru/despite-crypto-winter-number-of-blockchain-firms-in-switzerland-liechtenstein-grows-a511523c.md)
 * 2019-01-24 [Крипты торговли боком с легкой прибыли и убытки среди лучших монет, Bitcoin выше $3 600](https://github.com/theyapapa/cryptonews/blob/ru/cryptos-trade-sideways-with-mild-gains-and-losses-among-top-coins-bitcoin-above-3-600-11a04fac.md)
