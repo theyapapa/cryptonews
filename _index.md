@@ -1,3 +1,4 @@
+* 2019-01-25 [Мальта финансового Watchdog предупреждает глобальных инвесторов против "Bitcoin революции" афера](https://github.com/theyapapa/cryptonews/blob/ru/maltas-financial-watchdog-warns-global-investors-against-bitcoin-revolution-scam-b107d010.md)
 * 2019-01-25 [ВЭФ назначил Битпеса основатель в качестве соПредседателя глобального Совета по Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/wef-appoints-bitpesa-founder-as-co-chair-of-global-council-on-blockchain-bb17cad3.md)
 * 2019-01-25 [Эфириум на основе афера доход более чем удвоилось в 2018: доклад](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-scam-revenue-more-than-doubled-in-2018-report-8e7a36dc.md)
 * 2019-01-25 [Кибербезопасности фирмы «Уайзки», Tech Холдинг Ценсоф объявить Малазийский Блокчейн-центр](https://github.com/theyapapa/cryptonews/blob/ru/cybersecurity-firm-wisekey-tech-holding-censof-announce-malaysian-blockchain-center-ec4b67b3.md)
