@@ -1,3 +1,4 @@
+* 2019-01-25 [Страховые гигантские Этна партнеры с IBM по Блокчейн-сети для индустрии здравоохранения](https://github.com/theyapapa/cryptonews/blob/ru/insurance-giant-aetna-partners-with-ibm-on-blockchain-network-for-healthcare-industry-6d63f450.md)
 * 2019-01-24 [Торговая платформа токенов безопасности Тзеро в реальном маштабе времени](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-tzero-security-token-platform-begins-live-trading-d1158632.md)
 * 2019-01-24 [Coinbase добавляет ресурсы налоговой поддержки для клиентов США, включая интеграцию TurboTax](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-adds-tax-support-resources-for-us-customers-including-turbotax-integration-e95e2b0b.md)
 * 2019-01-24 [Несмотря на "Crypto Winter", количество Блокчейн-фирм в Швейцарии, Лихтенштейн растет](https://github.com/theyapapa/cryptonews/blob/ru/despite-crypto-winter-number-of-blockchain-firms-in-switzerland-liechtenstein-grows-a511523c.md)
