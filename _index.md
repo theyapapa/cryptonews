@@ -1,3 +1,4 @@
+* 2019-01-25 [암호화 교환 비트 스탬프 주요 스위스 온라인 은행과의 파트너십 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitstamp-announces-partnership-with-major-swiss-online-bank-d09ee7ac.md)
 * 2019-01-25 [비트 코인, 리플,이 더 리 움 비트 코인 캐시, EOS, 스텔라 라이트, 트 론 비트 코인 SV: 가격 분석 1 월 25 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-25-4f1d5043.md)
 * 2019-01-25 [몰타의 금융 감시는 ' 비트 코인 혁명 ' 사기에 대해 글로벌 투자자에 게 경고](https://github.com/theyapapa/cryptonews/blob/ko/maltas-financial-watchdog-warns-global-investors-against-bitcoin-revolution-scam-b107d010.md)
 * 2019-01-25 [wef, bitpesa 창업자를 블록 체인에 대 한 글로벌 협의회의 공동 위원장으로 임명](https://github.com/theyapapa/cryptonews/blob/ko/wef-appoints-bitpesa-founder-as-co-chair-of-global-council-on-blockchain-bb17cad3.md)
