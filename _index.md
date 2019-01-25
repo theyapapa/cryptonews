@@ -1,3 +1,4 @@
+* 2019-01-25 [ВЭФ назначил Битпеса основатель в качестве соПредседателя глобального Совета по Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/wef-appoints-bitpesa-founder-as-co-chair-of-global-council-on-blockchain-bb17cad3.md)
 * 2019-01-25 [Эфириум на основе афера доход более чем удвоилось в 2018: доклад](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-scam-revenue-more-than-doubled-in-2018-report-8e7a36dc.md)
 * 2019-01-25 [Кибербезопасности фирмы «Уайзки», Tech Холдинг Ценсоф объявить Малазийский Блокчейн-центр](https://github.com/theyapapa/cryptonews/blob/ru/cybersecurity-firm-wisekey-tech-holding-censof-announce-malaysian-blockchain-center-ec4b67b3.md)
 * 2019-01-25 [Страховые гигантские Этна партнеры с IBM по Блокчейн-сети для индустрии здравоохранения](https://github.com/theyapapa/cryptonews/blob/ru/insurance-giant-aetna-partners-with-ibm-on-blockchain-network-for-healthcare-industry-6d63f450.md)
