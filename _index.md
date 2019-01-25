@@ -1,3 +1,4 @@
+* 2019-01-25 [Ingresos de estafa basados en Ethereum más del duplicado en 2018: informe](https://github.com/theyapapa/cryptonews/blob/es/ethereum-based-scam-revenue-more-than-doubled-in-2018-report-8e7a36dc.md)
 * 2019-01-25 [La firma de ciberseguridad WISeKey, Tech Holding Censof anuncia el centro de blockchain de Malasia](https://github.com/theyapapa/cryptonews/blob/es/cybersecurity-firm-wisekey-tech-holding-censof-announce-malaysian-blockchain-center-ec4b67b3.md)
 * 2019-01-25 [El gigante de seguros Aetna se asocia con IBM en la red blockchain para la industria sanitaria](https://github.com/theyapapa/cryptonews/blob/es/insurance-giant-aetna-partners-with-ibm-on-blockchain-network-for-healthcare-industry-6d63f450.md)
 * 2019-01-24 [La plataforma de token de seguridad tZERO de exceso comienza a operar en vivo](https://github.com/theyapapa/cryptonews/blob/es/overstocks-tzero-security-token-platform-begins-live-trading-d1158632.md)
