@@ -1,3 +1,4 @@
+* 2019-01-26 [애플 공동 설립자 스티브 wozniak 선언 그는 그의 모든 BTC 홀딩스에서 판매 $2만 피크](https://github.com/theyapapa/cryptonews/blob/ko/apple-co-founder-steve-wozniak-declares-he-sold-all-his-btc-holdings-at-20-000-peak-f63738e6.md)
 * 2019-01-25 [카 길은 하이퍼 레저 그리드 개발을 위한 디지털 엔지니어링 투자](https://github.com/theyapapa/cryptonews/blob/ko/cargill-invests-digital-engineering-to-develop-hyperledger-grid-a91f6dbe.md)
 * 2019-01-25 [분석가 들은 ' 암호화 숙취 '가 AMD에 게 지속 될 수 있다고 경고 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/analysts-warn-that-crypto-hangover-could-persist-for-amd-11e489e4.md)
 * 2019-01-25 [암호화 교환 비트 스탬프 주요 스위스 온라인 은행과의 파트너십 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bitstamp-announces-partnership-with-major-swiss-online-bank-d09ee7ac.md)
