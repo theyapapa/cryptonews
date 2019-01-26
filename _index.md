@@ -1,3 +1,4 @@
+* 2019-01-25 [Cargill invierte la ingeniería digital para desarrollar la cuadrícula de Hyperledger](https://github.com/theyapapa/cryptonews/blob/es/cargill-invests-digital-engineering-to-develop-hyperledger-grid-a91f6dbe.md)
 * 2019-01-25 [Los analistas advierten que ' Crypto resaca ' podría persistir para AMD](https://github.com/theyapapa/cryptonews/blob/es/analysts-warn-that-crypto-hangover-could-persist-for-amd-11e489e4.md)
 * 2019-01-25 [Crypto Exchange Bitstamp anuncia asociación con el mayor banco suizo en línea](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-bitstamp-announces-partnership-with-major-swiss-online-bank-d09ee7ac.md)
 * 2019-01-25 [Bitcoin, Ripple, Ethereum, Bitcoin Cash, EOS, Stellar, Litecoin, Tron, Bitcoin SV, Cardano: Análisis de precios, 25 de enero](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ripple-ethereum-bitcoin-cash-eos-stellar-litecoin-tron-bitcoin-sv-cardano-price-analysis-jan-25-4f1d5043.md)
