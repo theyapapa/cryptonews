@@ -1,3 +1,4 @@
+* 2019-01-26 [Apple соУчредитель Стив Возняк заЯвляет, что он продал все свои BTC Holdings на $20 000 пик](https://github.com/theyapapa/cryptonews/blob/ru/apple-co-founder-steve-wozniak-declares-he-sold-all-his-btc-holdings-at-20-000-peak-f63738e6.md)
 * 2019-01-25 [«Финансы и технологии» разРабатывают сетку ГК](https://github.com/theyapapa/cryptonews/blob/ru/cargill-invests-digital-engineering-to-develop-hyperledger-grid-a91f6dbe.md)
 * 2019-01-25 [Аналитики предупреждают, что "крипто поХмелье" может сохраняться для AMD](https://github.com/theyapapa/cryptonews/blob/ru/analysts-warn-that-crypto-hangover-could-persist-for-amd-11e489e4.md)
 * 2019-01-25 [Crypto Exchange Bitstamp объявляет о партнерстве с крупнейшим швейцарским Интернет-банком](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bitstamp-announces-partnership-with-major-swiss-online-bank-d09ee7ac.md)
