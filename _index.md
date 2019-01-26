@@ -1,3 +1,4 @@
+* 2019-01-26 [영국에서 말레이시아로: 국가가 전 세계에서 암호화를 분류 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/from-the-uk-to-malaysia-how-countries-have-been-classifying-crypto-across-the-world-7b1af25b.md)
 * 2019-01-26 [비트 코인은 $3600 이상 유지 대부분의 최고 cryptos는 약간의 이득을 볼](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-stays-over-3-600-as-most-top-cryptos-see-slight-gains-f803db6f.md)
 * 2019-01-26 [중국 블록 체인 순위 출시: EOS 여전히 먼저,이 더 리 움 세컨드, 비트 코인 15](https://github.com/theyapapa/cryptonews/blob/ko/chinese-blockchain-rankings-released-eos-still-first-ethereum-second-bitcoin-15th-198f00e4.md)
 * 2019-01-26 [sbi 암호화 자회사 $1500만 기금 라운드에서 암호화 모바일 지갑 지원](https://github.com/theyapapa/cryptonews/blob/ko/sbi-crypto-subsidiary-supports-crypto-mobile-wallet-in-15-million-funding-round-c7ae11b3.md)
