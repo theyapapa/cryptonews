@@ -1,3 +1,4 @@
+* 2019-01-26 [Из Великобритании в Малайзию: как страны были классификации крипто по всему миру](https://github.com/theyapapa/cryptonews/blob/ru/from-the-uk-to-malaysia-how-countries-have-been-classifying-crypto-across-the-world-7b1af25b.md)
 * 2019-01-26 [Bitcoin остается более $3 600 как большинство топ крипты увидеть неЗначительные выгоды](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-stays-over-3-600-as-most-top-cryptos-see-slight-gains-f803db6f.md)
 * 2019-01-26 [Китайский Блокчейн рейтинги выпущен: EOS еще первый, Эфириум второй, Bitcoin 15](https://github.com/theyapapa/cryptonews/blob/ru/chinese-blockchain-rankings-released-eos-still-first-ethereum-second-bitcoin-15th-198f00e4.md)
 * 2019-01-26 [ВОО Crypto вспомогательные поддерживает крипто мобильный кошелек в $15 000 000 финансирование раунд](https://github.com/theyapapa/cryptonews/blob/ru/sbi-crypto-subsidiary-supports-crypto-mobile-wallet-in-15-million-funding-round-c7ae11b3.md)
