@@ -1,3 +1,4 @@
+* 2019-01-26 [중국 블록 체인 순위 출시: EOS 여전히 먼저,이 더 리 움 세컨드, 비트 코인 15](https://github.com/theyapapa/cryptonews/blob/ko/chinese-blockchain-rankings-released-eos-still-first-ethereum-second-bitcoin-15th-198f00e4.md)
 * 2019-01-26 [sbi 암호화 자회사 $1500만 기금 라운드에서 암호화 모바일 지갑 지원](https://github.com/theyapapa/cryptonews/blob/ko/sbi-crypto-subsidiary-supports-crypto-mobile-wallet-in-15-million-funding-round-c7ae11b3.md)
 * 2019-01-26 [애플 공동 설립자 스티브 wozniak 선언 그는 그의 모든 BTC 홀딩스에서 판매 $2만 피크](https://github.com/theyapapa/cryptonews/blob/ko/apple-co-founder-steve-wozniak-declares-he-sold-all-his-btc-holdings-at-20-000-peak-f63738e6.md)
 * 2019-01-25 [카 길은 하이퍼 레저 그리드 개발을 위한 디지털 엔지니어링 투자](https://github.com/theyapapa/cryptonews/blob/ko/cargill-invests-digital-engineering-to-develop-hyperledger-grid-a91f6dbe.md)
