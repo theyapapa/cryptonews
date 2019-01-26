@@ -1,3 +1,4 @@
+* 2019-01-26 [Filial de Crypto de SBI soporta cripto móvil billetera en $15 millones ronda de financiación](https://github.com/theyapapa/cryptonews/blob/es/sbi-crypto-subsidiary-supports-crypto-mobile-wallet-in-15-million-funding-round-c7ae11b3.md)
 * 2019-01-26 [El cofundador de Apple Steve Wozniak declara que vendió todas sus participaciones BTC en $20.000 Peak](https://github.com/theyapapa/cryptonews/blob/es/apple-co-founder-steve-wozniak-declares-he-sold-all-his-btc-holdings-at-20-000-peak-f63738e6.md)
 * 2019-01-25 [Cargill invierte la ingeniería digital para desarrollar la cuadrícula de Hyperledger](https://github.com/theyapapa/cryptonews/blob/es/cargill-invests-digital-engineering-to-develop-hyperledger-grid-a91f6dbe.md)
 * 2019-01-25 [Los analistas advierten que ' Crypto resaca ' podría persistir para AMD](https://github.com/theyapapa/cryptonews/blob/es/analysts-warn-that-crypto-hangover-could-persist-for-amd-11e489e4.md)
