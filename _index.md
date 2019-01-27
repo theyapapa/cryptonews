@@ -1,3 +1,4 @@
+* 2019-01-27 [보고서: 두 R3 경영진은 광범위 한 회사 개편으로 자리를 떠나 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-two-r3-executives-are-leaving-their-positions-amid-broad-company-reorganization-3fe6e0eb.md)
 * 2019-01-27 [15 대만에서 체포 된 $800만 암호화 사기의 운영자를 주장](https://github.com/theyapapa/cryptonews/blob/ko/fifteen-alleged-operators-of-8-million-crypto-scam-arrested-in-taiwan-128424cd.md)
 * 2019-01-26 [연구 회사 messari CEO: 중요 한 XRP 보고서를 통해 ' 펑크 키즈 '에 의해 만들어진 협박 전화](https://github.com/theyapapa/cryptonews/blob/ko/research-firm-messari-ceo-threatening-calls-after-critical-xrp-report-were-made-by-punk-kids-fffe8073.md)
 * 2019-01-26 [영국에서 말레이시아로: 국가가 전 세계에서 암호화를 분류 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/from-the-uk-to-malaysia-how-countries-have-been-classifying-crypto-across-the-world-7b1af25b.md)
