@@ -1,3 +1,4 @@
+* 2019-01-27 [Van Eck Associates CEO: Bitcoin inversionistas se están moviendo a oro](https://github.com/theyapapa/cryptonews/blob/es/van-eck-associates-ceo-bitcoin-investors-are-moving-to-gold-ec4a2550.md)
 * 2019-01-27 [Top 5 cripto intérpretes Resumen: Tron, Litecoin, Binance Coin, Dash, Monero](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-tron-litecoin-binance-coin-dash-monero-4d40275f.md)
 * 2019-01-27 [Hodler's Digest, 21 – 27 de enero: mejores historias, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-jan-2127-top-stories-price-movements-quotes-and-fud-of-the-week-93634179.md)
 * 2019-01-27 [Informe: dos ejecutivos de R3 están dejando sus posiciones en medio de una amplia reorganización de la compañía](https://github.com/theyapapa/cryptonews/blob/es/report-two-r3-executives-are-leaving-their-positions-amid-broad-company-reorganization-3fe6e0eb.md)
