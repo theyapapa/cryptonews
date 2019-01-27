@@ -1,3 +1,4 @@
+* 2019-01-27 [Топ 5 крипто исполнители Обзор: трон, Litecoin, Binance монета, тире, Monero](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-tron-litecoin-binance-coin-dash-monero-4d40275f.md)
 * 2019-01-27 [Дайджест Ходлер, 21 – 27 января: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-jan-2127-top-stories-price-movements-quotes-and-fud-of-the-week-93634179.md)
 * 2019-01-27 [Доклад: два R3 руководители поКидают свои позиции на фоне широкой реорганизации компании](https://github.com/theyapapa/cryptonews/blob/ru/report-two-r3-executives-are-leaving-their-positions-amid-broad-company-reorganization-3fe6e0eb.md)
 * 2019-01-27 [Пятнадцать предполагаемых операторов $8 000 000 крипто афера арестован в Тайване](https://github.com/theyapapa/cryptonews/blob/ru/fifteen-alleged-operators-of-8-million-crypto-scam-arrested-in-taiwan-128424cd.md)
