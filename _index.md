@@ -1,3 +1,4 @@
+* 2019-01-27 [밴에 크 직원 CEO: 비트 코인 투자자가 금으로 이동](https://github.com/theyapapa/cryptonews/blob/ko/van-eck-associates-ceo-bitcoin-investors-are-moving-to-gold-ec4a2550.md)
 * 2019-01-27 [맨 위로 5 암호화 수행자 개요: 트 론, 라이트 코인, binance 동전, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-litecoin-binance-coin-dash-monero-4d40275f.md)
 * 2019-01-27 [hodler의 다이제스트, 1 월 21 – 27: 상단 이야기, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-jan-2127-top-stories-price-movements-quotes-and-fud-of-the-week-93634179.md)
 * 2019-01-27 [보고서: 두 R3 경영진은 광범위 한 회사 개편으로 자리를 떠나 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-two-r3-executives-are-leaving-their-positions-amid-broad-company-reorganization-3fe6e0eb.md)
