@@ -1,3 +1,4 @@
+* 2019-01-28 [몬로의 리카 르도 ' fluffypony ' Spagni: 암호화에서 규제 차 익 거래는 심화 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/moneros-riccardo-fluffypony-spagni-regulatory-arbitrage-in-crypto-will-intensify-54858b11.md)
 * 2019-01-28 [새로운 침체가 암호 화폐 시장 안타로 비트 코인은 $3500 아래 폭포](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-below-3-500-as-fresh-downturn-hits-cryptocurrency-markets-32b40594.md)
 * 2019-01-27 [밴에 크 직원 CEO: 비트 코인 투자자가 금으로 이동](https://github.com/theyapapa/cryptonews/blob/ko/van-eck-associates-ceo-bitcoin-investors-are-moving-to-gold-ec4a2550.md)
 * 2019-01-27 [맨 위로 5 암호화 수행자 개요: 트 론, 라이트 코인, binance 동전, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-tron-litecoin-binance-coin-dash-monero-4d40275f.md)
