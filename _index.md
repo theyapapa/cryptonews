@@ -1,3 +1,4 @@
+* 2019-01-28 [Блокчейн, Длтс, и много крипто-трепка: основные вынос из Давос ВЭФ](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-dlts-and-a-lot-of-crypto-bashing-main-takeaways-from-davos-wef-54701f1c.md)
 * 2019-01-28 [Monero Риккардо ' Флуффипони ' Агни: регулятивный арбитраж в крипто будет активизировать](https://github.com/theyapapa/cryptonews/blob/ru/moneros-riccardo-fluffypony-spagni-regulatory-arbitrage-in-crypto-will-intensify-54858b11.md)
 * 2019-01-28 [Bitcoin падает ниже $3 500 как свежий спад хиты Криптовалют рынки](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-below-3-500-as-fresh-downturn-hits-cryptocurrency-markets-32b40594.md)
 * 2019-01-27 [Ван Эк Associates Генеральный директор: биткоин инвесторы переХодят на золото](https://github.com/theyapapa/cryptonews/blob/ru/van-eck-associates-ceo-bitcoin-investors-are-moving-to-gold-ec4a2550.md)
