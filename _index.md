@@ -1,3 +1,4 @@
+* 2019-01-28 [Blockchain, DLTs, y un montón de cripto-Bashing: principales takeaways de Davos WEF](https://github.com/theyapapa/cryptonews/blob/es/blockchain-dlts-and-a-lot-of-crypto-bashing-main-takeaways-from-davos-wef-54701f1c.md)
 * 2019-01-28 [Riccardo de Monero ' Fluffypony ' Spagni: arbitraje regulatorio en Crypto se intensificará](https://github.com/theyapapa/cryptonews/blob/es/moneros-riccardo-fluffypony-spagni-regulatory-arbitrage-in-crypto-will-intensify-54858b11.md)
 * 2019-01-28 [Bitcoin cae por debajo de $3.500 como fresco Downturn golpea mercados criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-below-3-500-as-fresh-downturn-hits-cryptocurrency-markets-32b40594.md)
 * 2019-01-27 [Van Eck Associates CEO: Bitcoin inversionistas se están moviendo a oro](https://github.com/theyapapa/cryptonews/blob/es/van-eck-associates-ceo-bitcoin-investors-are-moving-to-gold-ec4a2550.md)
