@@ -1,3 +1,4 @@
+* 2019-01-28 [비트 토 런 트 토큰은 15 분 이내에 매진, $7 백만 이상 그물](https://github.com/theyapapa/cryptonews/blob/ko/bittorrent-tokens-sold-out-in-under-15-minutes-netting-over-7-mln-4e1b3012.md)
 * 2019-01-28 [블록 체인 기술 및 에너지 산업: 더 많은 분권 화 및 효율성 향상](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-tech-and-the-energy-industry-more-decentralization-and-greater-efficiency-503a1dae.md)
 * 2019-01-28 [사토시 다시 쓰기: 회사와 Uni 비트 코인의 단점을 해결 하는 암호 모델을 구축](https://github.com/theyapapa/cryptonews/blob/ko/rewriting-satoshi-company-and-uni-to-build-crypto-model-addressing-bitcoins-shortcomings-4436991f.md)
 * 2019-01-28 [투자자를 위한 암호화 추적 도구를 시작 하는 blockstream을 갖춘 뉴욕 증권 거래소 운영자 파트너](https://github.com/theyapapa/cryptonews/blob/ko/nyse-operator-partners-with-blockstream-to-launch-crypto-tracking-tool-for-investors-f5a5c9be.md)
