@@ -1,3 +1,4 @@
+* 2019-01-28 [비트 코인 회의론 자, 전-스타벅스 대표이사 하 워드 슐츠 2020 대통령 출마 고려](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-skeptic-ex-starbucks-ceo-howard-schultz-considers-2020-presidential-run-74b2c864.md)
 * 2019-01-28 [블록 체인, dlts, 그리고 많은 암호 화폐: 다보스 wef의 주요 시사점](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-dlts-and-a-lot-of-crypto-bashing-main-takeaways-from-davos-wef-54701f1c.md)
 * 2019-01-28 [몬로의 리카 르도 ' fluffypony ' Spagni: 암호화에서 규제 차 익 거래는 심화 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/moneros-riccardo-fluffypony-spagni-regulatory-arbitrage-in-crypto-will-intensify-54858b11.md)
 * 2019-01-28 [새로운 침체가 암호 화폐 시장 안타로 비트 코인은 $3500 아래 폭포](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-below-3-500-as-fresh-downturn-hits-cryptocurrency-markets-32b40594.md)
