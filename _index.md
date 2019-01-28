@@ -1,3 +1,4 @@
+* 2019-01-28 [NYSE оператор партнеры с Blockstream для запуска Crypto отслеживания инструмент для инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/nyse-operator-partners-with-blockstream-to-launch-crypto-tracking-tool-for-investors-f5a5c9be.md)
 * 2019-01-28 [Bitcoin скептик, экс-Генеральный директор Starbucks Говард Шульц считает 2020 Президентский пробег](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-skeptic-ex-starbucks-ceo-howard-schultz-considers-2020-presidential-run-74b2c864.md)
 * 2019-01-28 [Блокчейн, Длтс, и много крипто-трепка: основные вынос из Давос ВЭФ](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-dlts-and-a-lot-of-crypto-bashing-main-takeaways-from-davos-wef-54701f1c.md)
 * 2019-01-28 [Monero Риккардо ' Флуффипони ' Агни: регулятивный арбитраж в крипто будет активизировать](https://github.com/theyapapa/cryptonews/blob/ru/moneros-riccardo-fluffypony-spagni-regulatory-arbitrage-in-crypto-will-intensify-54858b11.md)
