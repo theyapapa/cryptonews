@@ -1,3 +1,4 @@
+* 2019-01-28 [Bitcoin escéptico, ex CEO de Starbucks Howard Schultz considera 2020 carrera presidencial](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-skeptic-ex-starbucks-ceo-howard-schultz-considers-2020-presidential-run-74b2c864.md)
 * 2019-01-28 [Blockchain, DLTs, y un montón de cripto-Bashing: principales takeaways de Davos WEF](https://github.com/theyapapa/cryptonews/blob/es/blockchain-dlts-and-a-lot-of-crypto-bashing-main-takeaways-from-davos-wef-54701f1c.md)
 * 2019-01-28 [Riccardo de Monero ' Fluffypony ' Spagni: arbitraje regulatorio en Crypto se intensificará](https://github.com/theyapapa/cryptonews/blob/es/moneros-riccardo-fluffypony-spagni-regulatory-arbitrage-in-crypto-will-intensify-54858b11.md)
 * 2019-01-28 [Bitcoin cae por debajo de $3.500 como fresco Downturn golpea mercados criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-below-3-500-as-fresh-downturn-hits-cryptocurrency-markets-32b40594.md)
