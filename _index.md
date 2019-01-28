@@ -1,3 +1,4 @@
+* 2019-01-28 [BitTorrent токены проданы в менее 15 минут, плетение более $7 млн](https://github.com/theyapapa/cryptonews/blob/ru/bittorrent-tokens-sold-out-in-under-15-minutes-netting-over-7-mln-4e1b3012.md)
 * 2019-01-28 [Технология Блокчейн и энергетическая Индустрия: более децентрализация и повышение эффективности](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-tech-and-the-energy-industry-more-decentralization-and-greater-efficiency-503a1dae.md)
 * 2019-01-28 [Переписывание Сатоши: компания и UNI для создания крипто модель адресации биткоин недостатки](https://github.com/theyapapa/cryptonews/blob/ru/rewriting-satoshi-company-and-uni-to-build-crypto-model-addressing-bitcoins-shortcomings-4436991f.md)
 * 2019-01-28 [NYSE оператор партнеры с Blockstream для запуска Crypto отслеживания инструмент для инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/nyse-operator-partners-with-blockstream-to-launch-crypto-tracking-tool-for-investors-f5a5c9be.md)
