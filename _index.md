@@ -1,3 +1,4 @@
+* 2019-01-28 [Monero Риккардо ' Флуффипони ' Агни: регулятивный арбитраж в крипто будет активизировать](https://github.com/theyapapa/cryptonews/blob/ru/moneros-riccardo-fluffypony-spagni-regulatory-arbitrage-in-crypto-will-intensify-54858b11.md)
 * 2019-01-28 [Bitcoin падает ниже $3 500 как свежий спад хиты Криптовалют рынки](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-below-3-500-as-fresh-downturn-hits-cryptocurrency-markets-32b40594.md)
 * 2019-01-27 [Ван Эк Associates Генеральный директор: биткоин инвесторы переХодят на золото](https://github.com/theyapapa/cryptonews/blob/ru/van-eck-associates-ceo-bitcoin-investors-are-moving-to-gold-ec4a2550.md)
 * 2019-01-27 [Топ 5 крипто исполнители Обзор: трон, Litecoin, Binance монета, тире, Monero](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-tron-litecoin-binance-coin-dash-monero-4d40275f.md)
