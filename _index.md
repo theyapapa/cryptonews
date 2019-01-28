@@ -1,3 +1,4 @@
+* 2019-01-28 [사토시 다시 쓰기: 회사와 Uni 비트 코인의 단점을 해결 하는 암호 모델을 구축](https://github.com/theyapapa/cryptonews/blob/ko/rewriting-satoshi-company-and-uni-to-build-crypto-model-addressing-bitcoins-shortcomings-4436991f.md)
 * 2019-01-28 [투자자를 위한 암호화 추적 도구를 시작 하는 blockstream을 갖춘 뉴욕 증권 거래소 운영자 파트너](https://github.com/theyapapa/cryptonews/blob/ko/nyse-operator-partners-with-blockstream-to-launch-crypto-tracking-tool-for-investors-f5a5c9be.md)
 * 2019-01-28 [비트 코인 회의론 자, 전-스타벅스 대표이사 하 워드 슐츠 2020 대통령 출마 고려](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-skeptic-ex-starbucks-ceo-howard-schultz-considers-2020-presidential-run-74b2c864.md)
 * 2019-01-28 [블록 체인, dlts, 그리고 많은 암호 화폐: 다보스 wef의 주요 시사점](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-dlts-and-a-lot-of-crypto-bashing-main-takeaways-from-davos-wef-54701f1c.md)
