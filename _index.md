@@ -1,3 +1,4 @@
+* 2019-01-29 [Настольный Crypto Asset Manager книга Live запускает версию мобильного приложения](https://github.com/theyapapa/cryptonews/blob/ru/desktop-crypto-asset-manager-ledger-live-launches-mobile-app-version-f3899b55.md)
 * 2019-01-28 [Венесуэла в огне: как план Петро не удалось спасти страну](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-on-fire-how-maduros-petro-plan-failed-to-bail-out-the-country-80df7852.md)
 * 2019-01-28 [Швейцарский бумажник фирмы производить физические банкноты для Маршалловы острова цифровой валюты](https://github.com/theyapapa/cryptonews/blob/ru/swiss-wallet-firm-to-produce-physical-banknotes-for-marshall-islands-digital-currency-7056244c.md)
 * 2019-01-28 [BitTorrent токены проданы в менее 15 минут, плетение более $7 млн](https://github.com/theyapapa/cryptonews/blob/ru/bittorrent-tokens-sold-out-in-under-15-minutes-netting-over-7-mln-4e1b3012.md)
