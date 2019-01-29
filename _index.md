@@ -1,3 +1,4 @@
+* 2019-01-29 [이란: 중앙 은행은 암호화 규정을 제정 하기 전에 전문가의 의견을 고려할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/iran-central-bank-will-consider-expert-input-before-enacting-crypto-regulations-f2b7e376.md)
 * 2019-01-29 [도이치 보 세, hqlax는 블록 체인 증권 대출 플랫폼에 대 한 ' 중요 한 프로세스 ' 보고서](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-borse-hqlax-report-significant-process-on-blockchain-securities-lending-platform-77e56d34.md)
 * 2019-01-29 [s. 한국의 중앙 은행은 가까운 장래에 디지털 통화를 발행 하지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/s-koreas-central-bank-says-it-wont-issue-a-digital-currency-in-near-future-4c8a38ec.md)
 * 2019-01-29 [데스크톱 암호화 자산 관리자 원장 라이브 모바일 앱 버전 출시](https://github.com/theyapapa/cryptonews/blob/ko/desktop-crypto-asset-manager-ledger-live-launches-mobile-app-version-f3899b55.md)
