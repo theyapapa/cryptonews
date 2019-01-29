@@ -1,3 +1,4 @@
+* 2019-01-29 [Deutsche Börse, Хклакс отчет «значительный процесс» на платформе по кредитованию Блокчейн-ценных бумаг](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-borse-hqlax-report-significant-process-on-blockchain-securities-lending-platform-77e56d34.md)
 * 2019-01-29 [Центральный банк Южной Кореи заявил, что в ближайшем будущем он не будет выпускать цифровую валюту](https://github.com/theyapapa/cryptonews/blob/ru/s-koreas-central-bank-says-it-wont-issue-a-digital-currency-in-near-future-4c8a38ec.md)
 * 2019-01-29 [Настольный Crypto Asset Manager книга Live запускает версию мобильного приложения](https://github.com/theyapapa/cryptonews/blob/ru/desktop-crypto-asset-manager-ledger-live-launches-mobile-app-version-f3899b55.md)
 * 2019-01-28 [Венесуэла в огне: как план Петро не удалось спасти страну](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-on-fire-how-maduros-petro-plan-failed-to-bail-out-the-country-80df7852.md)
