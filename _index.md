@@ -1,3 +1,4 @@
+* 2019-01-29 [Desktop Crypto Asset Manager Ledger en vivo lanza la versión de la aplicación móvil](https://github.com/theyapapa/cryptonews/blob/es/desktop-crypto-asset-manager-ledger-live-launches-mobile-app-version-f3899b55.md)
 * 2019-01-28 [Venezuela on Fire: cómo el plan Petro de maduro no logró rescatar al país](https://github.com/theyapapa/cryptonews/blob/es/venezuela-on-fire-how-maduros-petro-plan-failed-to-bail-out-the-country-80df7852.md)
 * 2019-01-28 [Firma de cartera Suiza para producir billetes físicos para las Islas Marshall moneda digital](https://github.com/theyapapa/cryptonews/blob/es/swiss-wallet-firm-to-produce-physical-banknotes-for-marshall-islands-digital-currency-7056244c.md)
 * 2019-01-28 [Tokens de BitTorrent vendidos en menos de 15 minutos, compensación de más de $7 MLN](https://github.com/theyapapa/cryptonews/blob/es/bittorrent-tokens-sold-out-in-under-15-minutes-netting-over-7-mln-4e1b3012.md)
