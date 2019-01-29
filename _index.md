@@ -1,3 +1,4 @@
+* 2019-01-28 [불에 베네수엘라: 어떻게 maduro의 페트로 계획은 국가를 보석에 실패](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-on-fire-how-maduros-petro-plan-failed-to-bail-out-the-country-80df7852.md)
 * 2019-01-28 [마샬 군도의 물리적 지폐를 생산 하는 스위스 지갑 회사 디지털 통화](https://github.com/theyapapa/cryptonews/blob/ko/swiss-wallet-firm-to-produce-physical-banknotes-for-marshall-islands-digital-currency-7056244c.md)
 * 2019-01-28 [비트 토 런 트 토큰은 15 분 이내에 매진, $7 백만 이상 그물](https://github.com/theyapapa/cryptonews/blob/ko/bittorrent-tokens-sold-out-in-under-15-minutes-netting-over-7-mln-4e1b3012.md)
 * 2019-01-28 [블록 체인 기술 및 에너지 산업: 더 많은 분권 화 및 효율성 향상](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-tech-and-the-energy-industry-more-decentralization-and-greater-efficiency-503a1dae.md)
