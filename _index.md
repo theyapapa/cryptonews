@@ -1,3 +1,4 @@
+* 2019-01-28 [마샬 군도의 물리적 지폐를 생산 하는 스위스 지갑 회사 디지털 통화](https://github.com/theyapapa/cryptonews/blob/ko/swiss-wallet-firm-to-produce-physical-banknotes-for-marshall-islands-digital-currency-7056244c.md)
 * 2019-01-28 [비트 토 런 트 토큰은 15 분 이내에 매진, $7 백만 이상 그물](https://github.com/theyapapa/cryptonews/blob/ko/bittorrent-tokens-sold-out-in-under-15-minutes-netting-over-7-mln-4e1b3012.md)
 * 2019-01-28 [블록 체인 기술 및 에너지 산업: 더 많은 분권 화 및 효율성 향상](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-tech-and-the-energy-industry-more-decentralization-and-greater-efficiency-503a1dae.md)
 * 2019-01-28 [사토시 다시 쓰기: 회사와 Uni 비트 코인의 단점을 해결 하는 암호 모델을 구축](https://github.com/theyapapa/cryptonews/blob/ko/rewriting-satoshi-company-and-uni-to-build-crypto-model-addressing-bitcoins-shortcomings-4436991f.md)
