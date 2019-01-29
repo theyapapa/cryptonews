@@ -1,3 +1,4 @@
+* 2019-01-29 [s. 한국의 중앙 은행은 가까운 장래에 디지털 통화를 발행 하지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/s-koreas-central-bank-says-it-wont-issue-a-digital-currency-in-near-future-4c8a38ec.md)
 * 2019-01-29 [데스크톱 암호화 자산 관리자 원장 라이브 모바일 앱 버전 출시](https://github.com/theyapapa/cryptonews/blob/ko/desktop-crypto-asset-manager-ledger-live-launches-mobile-app-version-f3899b55.md)
 * 2019-01-28 [불에 베네수엘라: 어떻게 maduro의 페트로 계획은 국가를 보석에 실패](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-on-fire-how-maduros-petro-plan-failed-to-bail-out-the-country-80df7852.md)
 * 2019-01-28 [마샬 군도의 물리적 지폐를 생산 하는 스위스 지갑 회사 디지털 통화](https://github.com/theyapapa/cryptonews/blob/ko/swiss-wallet-firm-to-produce-physical-banknotes-for-marshall-islands-digital-currency-7056244c.md)
