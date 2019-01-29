@@ -1,3 +1,4 @@
+* 2019-01-29 [우크라이나어 암호화 교환 액체 종료, 인용 유동성 부족](https://github.com/theyapapa/cryptonews/blob/ko/ukrainian-crypto-exchange-liqui-shuts-down-cites-lack-of-liquidity-ae07f9b9.md)
 * 2019-01-29 [블록 체인 브라우저 용감한 뉴스 사이트 체 다에 프리미엄 콘텐츠에 대 한 무료 액세스를 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-browser-brave-offers-free-access-to-premium-content-of-news-site-cheddar-4f8f3208.md)
 * 2019-01-29 [이란: 중앙 은행은 암호화 규정을 제정 하기 전에 전문가의 의견을 고려할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/iran-central-bank-will-consider-expert-input-before-enacting-crypto-regulations-f2b7e376.md)
 * 2019-01-29 [도이치 보 세, hqlax는 블록 체인 증권 대출 플랫폼에 대 한 ' 중요 한 프로세스 ' 보고서](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-borse-hqlax-report-significant-process-on-blockchain-securities-lending-platform-77e56d34.md)
