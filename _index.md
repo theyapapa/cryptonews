@@ -1,3 +1,4 @@
+* 2019-01-29 [Блокчейн-фирма США вводит кошелек для цифровых активов и ценных бумаг](https://github.com/theyapapa/cryptonews/blob/ru/us-blockchain-firm-introduces-wallet-for-digital-assets-and-securities-2661ad74.md)
 * 2019-01-29 [Украинский крипто-обмен LIQUI выКлючается, цитирует отсутствие ликвидности](https://github.com/theyapapa/cryptonews/blob/ru/ukrainian-crypto-exchange-liqui-shuts-down-cites-lack-of-liquidity-ae07f9b9.md)
 * 2019-01-29 [Блокчейн браузер храбрый предлагает бесплатный доступ к премиум контент на новостях сайта Чеддер](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-browser-brave-offers-free-access-to-premium-content-of-news-site-cheddar-4f8f3208.md)
 * 2019-01-29 [Иран: Центральный банк расСмотрит экспертный вклад перед принятием крипто-правил](https://github.com/theyapapa/cryptonews/blob/ru/iran-central-bank-will-consider-expert-input-before-enacting-crypto-regulations-f2b7e376.md)
