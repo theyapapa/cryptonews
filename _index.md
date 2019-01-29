@@ -1,3 +1,4 @@
+* 2019-01-29 [Deutsche Börse, Informe HQLAx ' proceso significativo ' en la plataforma de préstamos de valores de blockchain](https://github.com/theyapapa/cryptonews/blob/es/deutsche-borse-hqlax-report-significant-process-on-blockchain-securities-lending-platform-77e56d34.md)
 * 2019-01-29 [S. el Banco Central de Corea dice que no emitirá una moneda digital en un futuro próximo](https://github.com/theyapapa/cryptonews/blob/es/s-koreas-central-bank-says-it-wont-issue-a-digital-currency-in-near-future-4c8a38ec.md)
 * 2019-01-29 [Desktop Crypto Asset Manager Ledger en vivo lanza la versión de la aplicación móvil](https://github.com/theyapapa/cryptonews/blob/es/desktop-crypto-asset-manager-ledger-live-launches-mobile-app-version-f3899b55.md)
 * 2019-01-28 [Venezuela on Fire: cómo el plan Petro de maduro no logró rescatar al país](https://github.com/theyapapa/cryptonews/blob/es/venezuela-on-fire-how-maduros-petro-plan-failed-to-bail-out-the-country-80df7852.md)
