@@ -1,3 +1,4 @@
+* 2019-01-30 [한국 핀 테크 회사, ' 최초 ' 원 기반 stablecoin 런칭](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-fintech-firm-launches-first-won-backed-stablecoin-cc8c2273.md)
 * 2019-01-30 [추적 불가능 한 지불 및 비 가교 거래: 스타트업은 "신세대" 코인을 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/untraceable-payments-and-unlinkable-transactions-startup-offers-new-generation-coin-8b28f037.md)
 * 2019-01-30 [비트 코인, 리플,이 더 리 움, EOS 비트 코인 현금, 라이트 코인, 트 론, 스텔라 비트 코인 SV: 가격 분석, 1 월 30](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-eos-bitcoin-cash-litecoin-tron-stellar-bitcoin-sv-cardano-price-analysis-jan-30-f0dbe1bb.md)
 * 2019-01-30 [싱가포르: 레 귤 레이 터의 gov't 채택 주장 온라인 사기 경고](https://github.com/theyapapa/cryptonews/blob/ko/singapore-regulator-warns-of-online-scam-claiming-govt-adoption-of-crypto-c2f220fe.md)
