@@ -1,3 +1,4 @@
+* 2019-01-30 [일본 금융 거 인 sbi 홀딩스, 블록 체인 펌 R3이 합작 투자를 공식적으로 발표](https://github.com/theyapapa/cryptonews/blob/ko/japanese-finance-giant-sbi-holdings-blockchain-firm-r3-officially-announce-joint-venture-6b1d797a.md)
 * 2019-01-30 [연구 결과는 2018에서 암호화 절도 및 사기를 통해 얻은 $17억을 밝혀 냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/research-reveals-17-billion-obtained-via-crypto-thefts-and-scams-in-2018-e21212e7.md)
 * 2019-01-30 [dapp 설문 조사는 개발자를 위한 주요 애로 점으로 가난한 사용자의 이해를 강조](https://github.com/theyapapa/cryptonews/blob/ko/dapp-survey-highlights-poor-user-uptake-as-major-pain-point-for-developers-abf4ef22.md)
 * 2019-01-30 [AMD 4 분기 재무 보고서는 소득 급락을 보고, 경영진은 공황의 흔적을 표시 하지](https://github.com/theyapapa/cryptonews/blob/ko/amd-q4-financial-report-sees-income-dip-executives-show-no-signs-of-panic-d607d63d.md)
