@@ -1,3 +1,4 @@
+* 2019-01-29 [Доклад: Новая Зеландия Криптопиа Exchange Hack продолжается](https://github.com/theyapapa/cryptonews/blob/ru/report-new-zealand-cryptopia-exchange-hack-continues-5fd2e7d4.md)
 * 2019-01-29 [Gemini Crypto Exchange подвергается проверке на соответствие требованиям безопасности и защите данных](https://github.com/theyapapa/cryptonews/blob/ru/gemini-crypto-exchange-undergoes-security-compliance-and-data-protection-audit-a0cef0bf.md)
 * 2019-01-29 [Блокчейн-фирма США вводит кошелек для цифровых активов и ценных бумаг](https://github.com/theyapapa/cryptonews/blob/ru/us-blockchain-firm-introduces-wallet-for-digital-assets-and-securities-2661ad74.md)
 * 2019-01-29 [Украинский крипто-обмен LIQUI выКлючается, цитирует отсутствие ликвидности](https://github.com/theyapapa/cryptonews/blob/ru/ukrainian-crypto-exchange-liqui-shuts-down-cites-lack-of-liquidity-ae07f9b9.md)
