@@ -1,3 +1,4 @@
+* 2019-01-30 [DApp обзор подчеркивает бедных пользователей воспринимать как основные болевые точки для разработчиков](https://github.com/theyapapa/cryptonews/blob/ru/dapp-survey-highlights-poor-user-uptake-as-major-pain-point-for-developers-abf4ef22.md)
 * 2019-01-30 [AMD Q4 финансовый отчет видит падение доходов, руководители не показывают никаких приЗнаков паники](https://github.com/theyapapa/cryptonews/blob/ru/amd-q4-financial-report-sees-income-dip-executives-show-no-signs-of-panic-d607d63d.md)
 * 2019-01-29 [Доклад: Новая Зеландия Криптопиа Exchange Hack продолжается](https://github.com/theyapapa/cryptonews/blob/ru/report-new-zealand-cryptopia-exchange-hack-continues-5fd2e7d4.md)
 * 2019-01-29 [Gemini Crypto Exchange подвергается проверке на соответствие требованиям безопасности и защите данных](https://github.com/theyapapa/cryptonews/blob/ru/gemini-crypto-exchange-undergoes-security-compliance-and-data-protection-audit-a0cef0bf.md)
