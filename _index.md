@@ -1,3 +1,4 @@
+* 2019-01-29 [Gemini Crypto Exchange sufre cumplimiento de seguridad y auditoría de protección de datos](https://github.com/theyapapa/cryptonews/blob/es/gemini-crypto-exchange-undergoes-security-compliance-and-data-protection-audit-a0cef0bf.md)
 * 2019-01-29 [US blockchain firm presenta cartera para activos y valores digitales](https://github.com/theyapapa/cryptonews/blob/es/us-blockchain-firm-introduces-wallet-for-digital-assets-and-securities-2661ad74.md)
 * 2019-01-29 [Ucrania Crypto intercambio Liqui se apaga, CITES falta de liquidez](https://github.com/theyapapa/cryptonews/blob/es/ukrainian-crypto-exchange-liqui-shuts-down-cites-lack-of-liquidity-ae07f9b9.md)
 * 2019-01-29 [El navegador blockchain Brave ofrece acceso gratuito a contenido premium en el sitio de noticias Cheddar](https://github.com/theyapapa/cryptonews/blob/es/blockchain-browser-brave-offers-free-access-to-premium-content-of-news-site-cheddar-4f8f3208.md)
