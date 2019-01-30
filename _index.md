@@ -1,3 +1,4 @@
+* 2019-01-29 [보고서: 뉴질랜드 크립 토 피아 교환 해킹 계속](https://github.com/theyapapa/cryptonews/blob/ko/report-new-zealand-cryptopia-exchange-hack-continues-5fd2e7d4.md)
 * 2019-01-29 [제미니 암호화 거래소는 보안 컴플라이언스 및 데이터 보호 감사를 거칩니다.](https://github.com/theyapapa/cryptonews/blob/ko/gemini-crypto-exchange-undergoes-security-compliance-and-data-protection-audit-a0cef0bf.md)
 * 2019-01-29 [미국 블록 체인 회사가 디지털 자산과 증권을 위한 지갑을 소개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-blockchain-firm-introduces-wallet-for-digital-assets-and-securities-2661ad74.md)
 * 2019-01-29 [우크라이나어 암호화 교환 액체 종료, 인용 유동성 부족](https://github.com/theyapapa/cryptonews/blob/ko/ukrainian-crypto-exchange-liqui-shuts-down-cites-lack-of-liquidity-ae07f9b9.md)
