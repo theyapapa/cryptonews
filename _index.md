@@ -1,3 +1,4 @@
+* 2019-01-30 [dapp 설문 조사는 개발자를 위한 주요 애로 점으로 가난한 사용자의 이해를 강조](https://github.com/theyapapa/cryptonews/blob/ko/dapp-survey-highlights-poor-user-uptake-as-major-pain-point-for-developers-abf4ef22.md)
 * 2019-01-30 [AMD 4 분기 재무 보고서는 소득 급락을 보고, 경영진은 공황의 흔적을 표시 하지](https://github.com/theyapapa/cryptonews/blob/ko/amd-q4-financial-report-sees-income-dip-executives-show-no-signs-of-panic-d607d63d.md)
 * 2019-01-29 [보고서: 뉴질랜드 크립 토 피아 교환 해킹 계속](https://github.com/theyapapa/cryptonews/blob/ko/report-new-zealand-cryptopia-exchange-hack-continues-5fd2e7d4.md)
 * 2019-01-29 [제미니 암호화 거래소는 보안 컴플라이언스 및 데이터 보호 감사를 거칩니다.](https://github.com/theyapapa/cryptonews/blob/ko/gemini-crypto-exchange-undergoes-security-compliance-and-data-protection-audit-a0cef0bf.md)
