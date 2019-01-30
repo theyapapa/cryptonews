@@ -1,3 +1,4 @@
+* 2019-01-30 [Investigación revela $1,7 mil millones obtenidos a través de cripto robos y estafas en 2018](https://github.com/theyapapa/cryptonews/blob/es/research-reveals-17-billion-obtained-via-crypto-thefts-and-scams-in-2018-e21212e7.md)
 * 2019-01-30 [Encuesta DApp resalta la captación de usuarios pobres como punto de dolor importante para los desarrolladores](https://github.com/theyapapa/cryptonews/blob/es/dapp-survey-highlights-poor-user-uptake-as-major-pain-point-for-developers-abf4ef22.md)
 * 2019-01-30 [Informe financiero de AMD Q4 ve inmersión en ingresos, los ejecutivos no muestran signos de pánico](https://github.com/theyapapa/cryptonews/blob/es/amd-q4-financial-report-sees-income-dip-executives-show-no-signs-of-panic-d607d63d.md)
 * 2019-01-29 [Informe: Nueva Zelanda Cryptopia intercambio hack continúa](https://github.com/theyapapa/cryptonews/blob/es/report-new-zealand-cryptopia-exchange-hack-continues-5fd2e7d4.md)
