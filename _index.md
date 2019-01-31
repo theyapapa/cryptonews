@@ -1,3 +1,4 @@
+* 2019-01-31 [Director General de la unidad blockchain de Swisscom gigante de telecomunicaciones pasos hacia abajo](https://github.com/theyapapa/cryptonews/blob/es/ceo-of-telecoms-giant-swisscoms-blockchain-unit-steps-down-e8e3d76f.md)
 * 2019-01-31 [La segunda bolsa de valores más grande de Alemania Boerse Stuttgart lanza Crypto Trading App](https://github.com/theyapapa/cryptonews/blob/es/germanys-2nd-largest-stock-exchange-boerse-stuttgart-launches-crypto-trading-app-392390e8.md)
 * 2019-01-31 [Pantera capital, Coinbase back Crypto startup Staked en $4,5 millones ronda](https://github.com/theyapapa/cryptonews/blob/es/pantera-capital-coinbase-back-crypto-startup-staked-in-45-million-round-4526187e.md)
 * 2019-01-31 [Informe de Finanzas de Coincheck Q3 muestra doble mejora desde que se reanudó el comercio](https://github.com/theyapapa/cryptonews/blob/es/coincheck-q3-finance-report-shows-twofold-improvement-since-trading-resumed-e1d576c9.md)
