@@ -1,3 +1,4 @@
+* 2019-01-31 [Эфириум Хакатон Есденвер сотрудничает с ЮНИСЕФ в системе «Блокчейн Баунти»](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-hackathon-ethdenver-partners-with-unicef-on-blockchain-bounty-system-0ea2e256.md)
 * 2019-01-31 [Пульсации наНимает экс-HSBC, CIT Exec в качестве Генерального юрисконсульта после пяти месяцев перерыва](https://github.com/theyapapa/cryptonews/blob/ru/ripple-hires-ex-hsbc-cit-exec-as-general-counsel-after-five-month-hiatus-086978f6.md)
 * 2019-01-30 [Эфириум на основе "обернутый" токен при резервном Bitcoin запускает](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-wrapped-token-backed-by-bitcoin-launches-098728e6.md)
 * 2019-01-30 [Итальянская почтовая служба приСоединяется к Блокчейн-сообществу](https://github.com/theyapapa/cryptonews/blob/ru/italian-postal-service-joins-hyperledger-blockchain-community-ef98c0ed.md)
