@@ -1,3 +1,4 @@
+* 2019-01-31 [NASDAQ revela que 7 intercambios criptográficos están utilizando su tecnología de monitoreo de mercado](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-reveals-7-crypto-exchanges-are-using-its-market-monitoring-tech-55c32a67.md)
 * 2019-01-31 [Etereum hackathon ETHDenver se asocia con UNICEF en el sistema de recompensas blockchain](https://github.com/theyapapa/cryptonews/blob/es/ethereum-hackathon-ethdenver-partners-with-unicef-on-blockchain-bounty-system-0ea2e256.md)
 * 2019-01-31 [Ripple contrata a ex-HSBC, CIT exec como consejero general después de cinco meses de hiato](https://github.com/theyapapa/cryptonews/blob/es/ripple-hires-ex-hsbc-cit-exec-as-general-counsel-after-five-month-hiatus-086978f6.md)
 * 2019-01-30 [Token "envuelto" basado en Ethereum respaldado por lanzamientos de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/ethereum-based-wrapped-token-backed-by-bitcoin-launches-098728e6.md)
