@@ -1,3 +1,4 @@
+* 2019-01-30 [Эфириум на основе "обернутый" токен при резервном Bitcoin запускает](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-wrapped-token-backed-by-bitcoin-launches-098728e6.md)
 * 2019-01-30 [Итальянская почтовая служба приСоединяется к Блокчейн-сообществу](https://github.com/theyapapa/cryptonews/blob/ru/italian-postal-service-joins-hyperledger-blockchain-community-ef98c0ed.md)
 * 2019-01-30 [Консенсис разработчик приСоединяется Эфириум классический кооператив в качестве Исполнительного директора](https://github.com/theyapapa/cryptonews/blob/ru/consensys-developer-joins-ethereum-classic-cooperative-as-executive-director-8e52ae00.md)
 * 2019-01-30 [Южно-Корейская фирма «Stablecoin» запускает «первую» победу](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-fintech-firm-launches-first-won-backed-stablecoin-cc8c2273.md)
