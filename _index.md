@@ -1,3 +1,4 @@
+* 2019-01-31 [Коинчекк Q3 финансовый отчет показывает двойное улучшение после торговли возобновил](https://github.com/theyapapa/cryptonews/blob/ru/coincheck-q3-finance-report-shows-twofold-improvement-since-trading-resumed-e1d576c9.md)
 * 2019-01-31 [NASDAQ показывает 7 крипто биржи используют свои технологии мониторинга рынка](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-reveals-7-crypto-exchanges-are-using-its-market-monitoring-tech-55c32a67.md)
 * 2019-01-31 [Эфириум Хакатон Есденвер сотрудничает с ЮНИСЕФ в системе «Блокчейн Баунти»](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-hackathon-ethdenver-partners-with-unicef-on-blockchain-bounty-system-0ea2e256.md)
 * 2019-01-31 [Пульсации наНимает экс-HSBC, CIT Exec в качестве Генерального юрисконсульта после пяти месяцев перерыва](https://github.com/theyapapa/cryptonews/blob/ru/ripple-hires-ex-hsbc-cit-exec-as-general-counsel-after-five-month-hiatus-086978f6.md)
