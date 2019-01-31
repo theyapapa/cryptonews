@@ -1,3 +1,4 @@
+* 2019-01-30 [에 테 리 움 기반 ' 래핑된 ' 토큰 비트 코인 출시에 의해 뒷받침](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-wrapped-token-backed-by-bitcoin-launches-098728e6.md)
 * 2019-01-30 [하이퍼 레저 블록 체인 커뮤니티에 가입 하는 이탈리아 우편 서비스](https://github.com/theyapapa/cryptonews/blob/ko/italian-postal-service-joins-hyperledger-blockchain-community-ef98c0ed.md)
 * 2019-01-30 [ConsenSys 개발자가이 더 리 움 클래식 협동조합을 전무 이사로 조인](https://github.com/theyapapa/cryptonews/blob/ko/consensys-developer-joins-ethereum-classic-cooperative-as-executive-director-8e52ae00.md)
 * 2019-01-30 [한국 핀 테크 회사, ' 최초 ' 원 기반 stablecoin 런칭](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-fintech-firm-launches-first-won-backed-stablecoin-cc8c2273.md)
