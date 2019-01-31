@@ -1,3 +1,4 @@
+* 2019-01-31 [Pantera capital, Coinbase back Crypto startup Staked en $4,5 millones ronda](https://github.com/theyapapa/cryptonews/blob/es/pantera-capital-coinbase-back-crypto-startup-staked-in-45-million-round-4526187e.md)
 * 2019-01-31 [Informe de Finanzas de Coincheck Q3 muestra doble mejora desde que se reanudó el comercio](https://github.com/theyapapa/cryptonews/blob/es/coincheck-q3-finance-report-shows-twofold-improvement-since-trading-resumed-e1d576c9.md)
 * 2019-01-31 [NASDAQ revela que 7 intercambios criptográficos están utilizando su tecnología de monitoreo de mercado](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-reveals-7-crypto-exchanges-are-using-its-market-monitoring-tech-55c32a67.md)
 * 2019-01-31 [Etereum hackathon ETHDenver se asocia con UNICEF en el sistema de recompensas blockchain](https://github.com/theyapapa/cryptonews/blob/es/ethereum-hackathon-ethdenver-partners-with-unicef-on-blockchain-bounty-system-0ea2e256.md)
