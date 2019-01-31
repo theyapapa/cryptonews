@@ -1,3 +1,4 @@
+* 2019-01-31 [독일의 두 번째로 큰 증권 거래소 boerse 슈투트가르트는 암호화 거래 응용 프로그램을 출시](https://github.com/theyapapa/cryptonews/blob/ko/germanys-2nd-largest-stock-exchange-boerse-stuttgart-launches-crypto-trading-app-392390e8.md)
 * 2019-01-31 [판 테라 캐피탈, coinbase 다시 암호화 시작 $450만 라운드에서 staked](https://github.com/theyapapa/cryptonews/blob/ko/pantera-capital-coinbase-back-crypto-startup-staked-in-45-million-round-4526187e.md)
 * 2019-01-31 [coincheck Q3 금융 보고서는 거래가 재개 된 이후 두 가지 개선을 보여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/coincheck-q3-finance-report-shows-twofold-improvement-since-trading-resumed-e1d576c9.md)
 * 2019-01-31 [나스닥 밝혀 7 암호화 거래소는 자사의 시장 모니터링 기술을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-reveals-7-crypto-exchanges-are-using-its-market-monitoring-tech-55c32a67.md)
