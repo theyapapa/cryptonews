@@ -1,3 +1,4 @@
+* 2019-01-31 [나스닥 밝혀 7 암호화 거래소는 자사의 시장 모니터링 기술을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-reveals-7-crypto-exchanges-are-using-its-market-monitoring-tech-55c32a67.md)
 * 2019-01-31 [에 테 리 움 해커 톤, 유니세프, 블록 체인 바운티 시스템에 대 한 파트너](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-hackathon-ethdenver-partners-with-unicef-on-blockchain-bounty-system-0ea2e256.md)
 * 2019-01-31 [리플, 전-HSBC, CIT Exec, 5 개월의 고 투 스 이후 법무 자문 위원 채용](https://github.com/theyapapa/cryptonews/blob/ko/ripple-hires-ex-hsbc-cit-exec-as-general-counsel-after-five-month-hiatus-086978f6.md)
 * 2019-01-30 [에 테 리 움 기반 ' 래핑된 ' 토큰 비트 코인 출시에 의해 뒷받침](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-wrapped-token-backed-by-bitcoin-launches-098728e6.md)
