@@ -1,3 +1,4 @@
+* 2019-01-30 [El servicio postal italiano se une a Hyperledger blockchain Community](https://github.com/theyapapa/cryptonews/blob/es/italian-postal-service-joins-hyperledger-blockchain-community-ef98c0ed.md)
 * 2019-01-30 [ConsenSys Developer se une a Ethereum Classic Cooperative como Director Ejecutivo](https://github.com/theyapapa/cryptonews/blob/es/consensys-developer-joins-ethereum-classic-cooperative-as-executive-director-8e52ae00.md)
 * 2019-01-30 [FinTech firma surcoreana lanza Stablecoin ' First ' respaldado por Won](https://github.com/theyapapa/cryptonews/blob/es/south-korean-fintech-firm-launches-first-won-backed-stablecoin-cc8c2273.md)
 * 2019-01-30 [Pagos no rastreables y transacciones no enlazables: startup ofrece moneda de "nueva generación"](https://github.com/theyapapa/cryptonews/blob/es/untraceable-payments-and-unlinkable-transactions-startup-offers-new-generation-coin-8b28f037.md)
