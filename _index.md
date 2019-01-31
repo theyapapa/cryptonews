@@ -1,3 +1,4 @@
+* 2019-01-30 [하이퍼 레저 블록 체인 커뮤니티에 가입 하는 이탈리아 우편 서비스](https://github.com/theyapapa/cryptonews/blob/ko/italian-postal-service-joins-hyperledger-blockchain-community-ef98c0ed.md)
 * 2019-01-30 [ConsenSys 개발자가이 더 리 움 클래식 협동조합을 전무 이사로 조인](https://github.com/theyapapa/cryptonews/blob/ko/consensys-developer-joins-ethereum-classic-cooperative-as-executive-director-8e52ae00.md)
 * 2019-01-30 [한국 핀 테크 회사, ' 최초 ' 원 기반 stablecoin 런칭](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-fintech-firm-launches-first-won-backed-stablecoin-cc8c2273.md)
 * 2019-01-30 [추적 불가능 한 지불 및 비 가교 거래: 스타트업은 "신세대" 코인을 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/untraceable-payments-and-unlinkable-transactions-startup-offers-new-generation-coin-8b28f037.md)
