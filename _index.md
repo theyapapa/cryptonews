@@ -1,3 +1,4 @@
+* 2019-01-31 [통신 회사의 거 대 한 swisscom의 블록 체인 장치 CEO](https://github.com/theyapapa/cryptonews/blob/ko/ceo-of-telecoms-giant-swisscoms-blockchain-unit-steps-down-e8e3d76f.md)
 * 2019-01-31 [독일의 두 번째로 큰 증권 거래소 boerse 슈투트가르트는 암호화 거래 응용 프로그램을 출시](https://github.com/theyapapa/cryptonews/blob/ko/germanys-2nd-largest-stock-exchange-boerse-stuttgart-launches-crypto-trading-app-392390e8.md)
 * 2019-01-31 [판 테라 캐피탈, coinbase 다시 암호화 시작 $450만 라운드에서 staked](https://github.com/theyapapa/cryptonews/blob/ko/pantera-capital-coinbase-back-crypto-startup-staked-in-45-million-round-4526187e.md)
 * 2019-01-31 [coincheck Q3 금융 보고서는 거래가 재개 된 이후 두 가지 개선을 보여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/coincheck-q3-finance-report-shows-twofold-improvement-since-trading-resumed-e1d576c9.md)
