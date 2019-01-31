@@ -1,3 +1,4 @@
+* 2019-01-31 [Генеральный директор Блокчейн-подразделения телеКоммуникационных гигантских Swisscom шагает вниз](https://github.com/theyapapa/cryptonews/blob/ru/ceo-of-telecoms-giant-swisscoms-blockchain-unit-steps-down-e8e3d76f.md)
 * 2019-01-31 [Вторая крупнейшая фондовая биржа Германии Бур Штутгарт запускает Crypto Trading App](https://github.com/theyapapa/cryptonews/blob/ru/germanys-2nd-largest-stock-exchange-boerse-stuttgart-launches-crypto-trading-app-392390e8.md)
 * 2019-01-31 [Пантера капитал, Coinbase назад крипто стартап, поставленный в $4 500 000 раунде](https://github.com/theyapapa/cryptonews/blob/ru/pantera-capital-coinbase-back-crypto-startup-staked-in-45-million-round-4526187e.md)
 * 2019-01-31 [Коинчекк Q3 финансовый отчет показывает двойное улучшение после торговли возобновил](https://github.com/theyapapa/cryptonews/blob/ru/coincheck-q3-finance-report-shows-twofold-improvement-since-trading-resumed-e1d576c9.md)
