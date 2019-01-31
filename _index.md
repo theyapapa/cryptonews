@@ -1,3 +1,4 @@
+* 2019-01-30 [Token "envuelto" basado en Ethereum respaldado por lanzamientos de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/ethereum-based-wrapped-token-backed-by-bitcoin-launches-098728e6.md)
 * 2019-01-30 [El servicio postal italiano se une a Hyperledger blockchain Community](https://github.com/theyapapa/cryptonews/blob/es/italian-postal-service-joins-hyperledger-blockchain-community-ef98c0ed.md)
 * 2019-01-30 [ConsenSys Developer se une a Ethereum Classic Cooperative como Director Ejecutivo](https://github.com/theyapapa/cryptonews/blob/es/consensys-developer-joins-ethereum-classic-cooperative-as-executive-director-8e52ae00.md)
 * 2019-01-30 [FinTech firma surcoreana lanza Stablecoin ' First ' respaldado por Won](https://github.com/theyapapa/cryptonews/blob/es/south-korean-fintech-firm-launches-first-won-backed-stablecoin-cc8c2273.md)
