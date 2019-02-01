@@ -1,3 +1,4 @@
+* 2019-02-01 [대부분의 주요 동전으로 조용한 시장은 작은 이득을 보고, 비트 코인은 $3500 아래에 중단](https://github.com/theyapapa/cryptonews/blob/ko/markets-quiet-as-most-major-coins-report-small-gains-bitcoin-hangs-below-3-500-947f4d48.md)
 * 2019-02-01 [20-년 오래 된 해커 pleads 유죄 판결을 $500만 암호 화폐 도난](https://github.com/theyapapa/cryptonews/blob/ko/20-year-old-hacker-pleads-guilty-to-5-million-cryptocurrency-theft-40b3fb9e.md)
 * 2019-02-01 [스마트 컨 트랙 트 감사 회사 hosho는 자동차 툴 링 부스트 및 ICO 불황으로 인 한 직원 수를 줄여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/smart-contract-audits-firm-hosho-reduces-staff-due-to-auto-tooling-boost-and-ico-downturn-ca5c7696.md)
 * 2019-02-01 [와이오밍가 지폐를 통과 하 여 크립 토 통화를 돈으로 인식](https://github.com/theyapapa/cryptonews/blob/ko/wyoming-passes-bill-to-recognize-cryptocurrencies-as-money-0b85fff9.md)
