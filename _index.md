@@ -1,3 +1,4 @@
+* 2019-01-31 [Fidelity criptomoneda Platform entra en las etapas de ' pruebas finales '](https://github.com/theyapapa/cryptonews/blob/es/fidelity-cryptocurrency-platform-enters-final-testing-stages-34e834a6.md)
 * 2019-01-31 [Canadian criptomoneda Exchange QuadrigaCX archivos para la protección de los acreedores en Nueva Escocia](https://github.com/theyapapa/cryptonews/blob/es/canadian-cryptocurrency-exchange-quadrigacx-files-for-creditor-protection-in-nova-scotia-c0d126f3.md)
 * 2019-01-31 [SBI reporta resultados financieros, reconoce Ripple para pagos transfronterizos](https://github.com/theyapapa/cryptonews/blob/es/sbi-reports-financial-results-recognizes-ripple-for-cross-border-payments-cd0aba12.md)
 * 2019-01-31 [Director General de la unidad blockchain de Swisscom gigante de telecomunicaciones pasos hacia abajo](https://github.com/theyapapa/cryptonews/blob/es/ceo-of-telecoms-giant-swisscoms-blockchain-unit-steps-down-e8e3d76f.md)
