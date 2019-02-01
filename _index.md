@@ -1,3 +1,4 @@
+* 2019-01-31 [피델 리 티 암호 화폐 플랫폼이 ' 최종 테스트 ' 단계에 진입](https://github.com/theyapapa/cryptonews/blob/ko/fidelity-cryptocurrency-platform-enters-final-testing-stages-34e834a6.md)
 * 2019-01-31 [노바스코샤에서 채권자 보호를 위한 캐나다 암호 화폐 거래소 쿼드 rigacx 파일](https://github.com/theyapapa/cryptonews/blob/ko/canadian-cryptocurrency-exchange-quadrigacx-files-for-creditor-protection-in-nova-scotia-c0d126f3.md)
 * 2019-01-31 [sbi, 재무 결과 보고, 국경 간 지불 리플 인식](https://github.com/theyapapa/cryptonews/blob/ko/sbi-reports-financial-results-recognizes-ripple-for-cross-border-payments-cd0aba12.md)
 * 2019-01-31 [통신 회사의 거 대 한 swisscom의 블록 체인 장치 CEO](https://github.com/theyapapa/cryptonews/blob/ko/ceo-of-telecoms-giant-swisscoms-blockchain-unit-steps-down-e8e3d76f.md)
