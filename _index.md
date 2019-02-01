@@ -1,3 +1,4 @@
+* 2019-02-01 [Вайоминг передает Билл признать криптовалюты как деньги](https://github.com/theyapapa/cryptonews/blob/ru/wyoming-passes-bill-to-recognize-cryptocurrencies-as-money-0b85fff9.md)
 * 2019-02-01 [Крупнейший европейский издатель Аксель прыгун партнеры с SatoshiPay](https://github.com/theyapapa/cryptonews/blob/ru/report-major-european-publisher-axel-springer-partners-with-satoshipay-11d48cb3.md)
 * 2019-02-01 [Обратный IPO медленно растет, как крипты смотреть идти общественности в Лонг-Медведь рынка](https://github.com/theyapapa/cryptonews/blob/ru/reverse-ipos-slowly-growing-as-cryptos-look-to-go-public-in-the-long-bear-market-ef6e6280.md)
 * 2019-02-01 [Bloomberg: доказательство-оф-кола токен инвесторы могут использовать ставку для выгоды во время медвежьего рынка](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-proof-of-stake-token-investors-could-use-staking-for-gains-during-bear-market-94d6cede.md)
