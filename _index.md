@@ -1,3 +1,4 @@
+* 2019-02-01 [20 años de edad, hacker se declara culpable de robo de criptomoneda $5 millones](https://github.com/theyapapa/cryptonews/blob/es/20-year-old-hacker-pleads-guilty-to-5-million-cryptocurrency-theft-40b3fb9e.md)
 * 2019-02-01 [Firma de auditorías de contrato inteligente Hosho reduce el personal debido al impulso de herramientas automáticas y la desaceleración de ICO](https://github.com/theyapapa/cryptonews/blob/es/smart-contract-audits-firm-hosho-reduces-staff-due-to-auto-tooling-boost-and-ico-downturn-ca5c7696.md)
 * 2019-02-01 [Wyoming aprueba proyecto de ley para reconocer Criptomonedas como dinero](https://github.com/theyapapa/cryptonews/blob/es/wyoming-passes-bill-to-recognize-cryptocurrencies-as-money-0b85fff9.md)
 * 2019-02-01 [El mayor editor europeo Axel Springer se asocia con SatoshiPay](https://github.com/theyapapa/cryptonews/blob/es/report-major-european-publisher-axel-springer-partners-with-satoshipay-11d48cb3.md)
