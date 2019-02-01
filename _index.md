@@ -1,3 +1,4 @@
+* 2019-02-01 [Wyoming aprueba proyecto de ley para reconocer Criptomonedas como dinero](https://github.com/theyapapa/cryptonews/blob/es/wyoming-passes-bill-to-recognize-cryptocurrencies-as-money-0b85fff9.md)
 * 2019-02-01 [El mayor editor europeo Axel Springer se asocia con SatoshiPay](https://github.com/theyapapa/cryptonews/blob/es/report-major-european-publisher-axel-springer-partners-with-satoshipay-11d48cb3.md)
 * 2019-02-01 [Invertir IPOs lentamente creciendo como Cryptos mirar a ir público en el mercado de osos largos](https://github.com/theyapapa/cryptonews/blob/es/reverse-ipos-slowly-growing-as-cryptos-look-to-go-public-in-the-long-bear-market-ef6e6280.md)
 * 2019-02-01 [Bloomberg: los inversores de tokens de prueba de estaca podrían utilizar la apuesta por las ganancias durante el mercado de osos](https://github.com/theyapapa/cryptonews/blob/es/bloomberg-proof-of-stake-token-investors-could-use-staking-for-gains-during-bear-market-94d6cede.md)
