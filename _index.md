@@ -1,3 +1,4 @@
+* 2019-02-01 [와이오밍가 지폐를 통과 하 여 크립 토 통화를 돈으로 인식](https://github.com/theyapapa/cryptonews/blob/ko/wyoming-passes-bill-to-recognize-cryptocurrencies-as-money-0b85fff9.md)
 * 2019-02-01 [주요 유럽 출판사 악 셀 스프링 파트너 satoshipay](https://github.com/theyapapa/cryptonews/blob/ko/report-major-european-publisher-axel-springer-partners-with-satoshipay-11d48cb3.md)
 * 2019-02-01 [cryptos가 긴 곰 시장에서 공개적으로 이동 하는 모습으로 천천히 성장 하는 ipos 역](https://github.com/theyapapa/cryptonews/blob/ko/reverse-ipos-slowly-growing-as-cryptos-look-to-go-public-in-the-long-bear-market-ef6e6280.md)
 * 2019-02-01 [블룸버그: 지분 증명 토큰 투자자는 곰 시장 동안 이익을 위해 말뚝을 사용할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-proof-of-stake-token-investors-could-use-staking-for-gains-during-bear-market-94d6cede.md)
