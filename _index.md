@@ -1,3 +1,4 @@
+* 2019-02-01 [20-летний Хакер признал себя виновным в краже криптовалюты $5 000 000](https://github.com/theyapapa/cryptonews/blob/ru/20-year-old-hacker-pleads-guilty-to-5-million-cryptocurrency-theft-40b3fb9e.md)
 * 2019-02-01 [Smart контракт аудиты фирма Хосё сокращает персонал из-за автоматического инструмента Boost и спад ICO](https://github.com/theyapapa/cryptonews/blob/ru/smart-contract-audits-firm-hosho-reduces-staff-due-to-auto-tooling-boost-and-ico-downturn-ca5c7696.md)
 * 2019-02-01 [Вайоминг передает Билл признать криптовалюты как деньги](https://github.com/theyapapa/cryptonews/blob/ru/wyoming-passes-bill-to-recognize-cryptocurrencies-as-money-0b85fff9.md)
 * 2019-02-01 [Крупнейший европейский издатель Аксель прыгун партнеры с SatoshiPay](https://github.com/theyapapa/cryptonews/blob/ru/report-major-european-publisher-axel-springer-partners-with-satoshipay-11d48cb3.md)
