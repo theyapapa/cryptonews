@@ -1,3 +1,4 @@
+* 2019-02-01 [cryptos가 긴 곰 시장에서 공개적으로 이동 하는 모습으로 천천히 성장 하는 ipos 역](https://github.com/theyapapa/cryptonews/blob/ko/reverse-ipos-slowly-growing-as-cryptos-look-to-go-public-in-the-long-bear-market-ef6e6280.md)
 * 2019-02-01 [블룸버그: 지분 증명 토큰 투자자는 곰 시장 동안 이익을 위해 말뚝을 사용할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-proof-of-stake-token-investors-could-use-staking-for-gains-during-bear-market-94d6cede.md)
 * 2019-02-01 [중국 지역 식품 의약품 안전 청, 품질 보증을 위한 블록 체인 사용](https://github.com/theyapapa/cryptonews/blob/ko/chinese-district-food-and-drug-administration-to-use-blockchain-for-quality-assurance-f0a3c2bf.md)
 * 2019-01-31 [피델 리 티 암호 화폐 플랫폼이 ' 최종 테스트 ' 단계에 진입](https://github.com/theyapapa/cryptonews/blob/ko/fidelity-cryptocurrency-platform-enters-final-testing-stages-34e834a6.md)
