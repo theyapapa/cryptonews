@@ -1,3 +1,4 @@
+* 2019-02-01 [스마트 컨 트랙 트 감사 회사 hosho는 자동차 툴 링 부스트 및 ICO 불황으로 인 한 직원 수를 줄여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/smart-contract-audits-firm-hosho-reduces-staff-due-to-auto-tooling-boost-and-ico-downturn-ca5c7696.md)
 * 2019-02-01 [와이오밍가 지폐를 통과 하 여 크립 토 통화를 돈으로 인식](https://github.com/theyapapa/cryptonews/blob/ko/wyoming-passes-bill-to-recognize-cryptocurrencies-as-money-0b85fff9.md)
 * 2019-02-01 [주요 유럽 출판사 악 셀 스프링 파트너 satoshipay](https://github.com/theyapapa/cryptonews/blob/ko/report-major-european-publisher-axel-springer-partners-with-satoshipay-11d48cb3.md)
 * 2019-02-01 [cryptos가 긴 곰 시장에서 공개적으로 이동 하는 모습으로 천천히 성장 하는 ipos 역](https://github.com/theyapapa/cryptonews/blob/ko/reverse-ipos-slowly-growing-as-cryptos-look-to-go-public-in-the-long-bear-market-ef6e6280.md)
