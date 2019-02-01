@@ -1,3 +1,4 @@
+* 2019-02-01 [Китайского района пищевых продуктов и медикаментов использовать Блокчейн для обеспечения качества](https://github.com/theyapapa/cryptonews/blob/ru/chinese-district-food-and-drug-administration-to-use-blockchain-for-quality-assurance-f0a3c2bf.md)
 * 2019-01-31 [Верность платформы Криптовалют входит в стадию финального тестирования](https://github.com/theyapapa/cryptonews/blob/ru/fidelity-cryptocurrency-platform-enters-final-testing-stages-34e834a6.md)
 * 2019-01-31 [Канадская биржа Криптовалют Куадригаккс файлы для защиты кредиторов в Новой Шотландии](https://github.com/theyapapa/cryptonews/blob/ru/canadian-cryptocurrency-exchange-quadrigacx-files-for-creditor-protection-in-nova-scotia-c0d126f3.md)
 * 2019-01-31 [ВОО отчеты финансовые результаты, приЗнает пульсации для трансГраничных платежей](https://github.com/theyapapa/cryptonews/blob/ru/sbi-reports-financial-results-recognizes-ripple-for-cross-border-payments-cd0aba12.md)
