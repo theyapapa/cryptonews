@@ -1,3 +1,4 @@
+* 2019-02-01 [Crypto Exchange QuadrigaCX Missing $145 MLN después de la muerte del fundador](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-quadrigacx-missing-145-mln-after-death-of-founder-934fbb09.md)
 * 2019-02-01 [Firma suiza de ciberseguridad inaugura centro blockchain en Ginebra](https://github.com/theyapapa/cryptonews/blob/es/swiss-cybersecurity-firm-opens-blockchain-center-in-geneva-973afe1c.md)
 * 2019-02-01 [Mercados tranquilo como la mayoría de las monedas principales Informe pequeñas ganancias, Bitcoin cuelga por debajo de $3.500](https://github.com/theyapapa/cryptonews/blob/es/markets-quiet-as-most-major-coins-report-small-gains-bitcoin-hangs-below-3-500-947f4d48.md)
 * 2019-02-01 [20 años de edad, hacker se declara culpable de robo de criptomoneda $5 millones](https://github.com/theyapapa/cryptonews/blob/es/20-year-old-hacker-pleads-guilty-to-5-million-cryptocurrency-theft-40b3fb9e.md)
