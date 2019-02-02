@@ -1,3 +1,4 @@
+* 2019-02-02 [Крипто вор предъявлено обвинение в Нью-Йорке первый SIM обмен обвинение](https://github.com/theyapapa/cryptonews/blob/ru/crypto-thief-indicted-in-new-yorks-first-sim-swapping-prosecution-0f77b078.md)
 * 2019-02-02 [Крипто-платежный процессор Коингате добавляет поддержку](https://github.com/theyapapa/cryptonews/blob/ru/crypto-payment-processor-coingate-adds-support-for-ripples-xrp-c1e6c45c.md)
 * 2019-02-01 [Crypto Exchange Куадригаккс проПавших без вести $145 млн после смерти основателя](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-quadrigacx-missing-145-mln-after-death-of-founder-934fbb09.md)
 * 2019-02-01 [Швейцарская фирма кибербезопасности открыла Блокчейн-центр в Женеве](https://github.com/theyapapa/cryptonews/blob/ru/swiss-cybersecurity-firm-opens-blockchain-center-in-geneva-973afe1c.md)
