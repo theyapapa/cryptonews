@@ -1,3 +1,4 @@
+* 2019-02-02 [충성도 프로그램에 대 한 암호화 시작과 주요 영국 대 중 교통 제공 업체 파트너](https://github.com/theyapapa/cryptonews/blob/ko/major-uk-public-transport-provider-partners-with-crypto-startup-for-loyalty-program-cd36d9a0.md)
 * 2019-02-02 [뉴욕의 첫 번째 SIM 스와핑 기소에 기소 된 암호 도둑](https://github.com/theyapapa/cryptonews/blob/ko/crypto-thief-indicted-in-new-yorks-first-sim-swapping-prosecution-0f77b078.md)
 * 2019-02-02 [암호 지불 프로세서 coingate는 리플의 XRP에 대 한 지원을 추가 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-payment-processor-coingate-adds-support-for-ripples-xrp-c1e6c45c.md)
 * 2019-02-01 [암호 화폐 거래소 쿼드 리가 누락 $145 백만 설립자의 죽음 후](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-quadrigacx-missing-145-mln-after-death-of-founder-934fbb09.md)
