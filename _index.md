@@ -1,3 +1,4 @@
+* 2019-02-01 [암호 화폐 거래소 쿼드 리가 누락 $145 백만 설립자의 죽음 후](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-quadrigacx-missing-145-mln-after-death-of-founder-934fbb09.md)
 * 2019-02-01 [스위스 사이버 보안 회사, 제네바에 블록 체인 센터 오픈](https://github.com/theyapapa/cryptonews/blob/ko/swiss-cybersecurity-firm-opens-blockchain-center-in-geneva-973afe1c.md)
 * 2019-02-01 [대부분의 주요 동전으로 조용한 시장은 작은 이득을 보고, 비트 코인은 $3500 아래에 중단](https://github.com/theyapapa/cryptonews/blob/ko/markets-quiet-as-most-major-coins-report-small-gains-bitcoin-hangs-below-3-500-947f4d48.md)
 * 2019-02-01 [20-년 오래 된 해커 pleads 유죄 판결을 $500만 암호 화폐 도난](https://github.com/theyapapa/cryptonews/blob/ko/20-year-old-hacker-pleads-guilty-to-5-million-cryptocurrency-theft-40b3fb9e.md)
