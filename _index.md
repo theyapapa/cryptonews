@@ -1,3 +1,4 @@
+* 2019-02-02 [Bitcoin подходы $3 500 как лучшие крипты см смешанные сигналы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-3-500-as-top-cryptos-see-mixed-signals-2da08d64.md)
 * 2019-02-02 [Основные партнеры поставщика общественного транспорта в Великобритании с крипто-стартапом для программы лояльности](https://github.com/theyapapa/cryptonews/blob/ru/major-uk-public-transport-provider-partners-with-crypto-startup-for-loyalty-program-cd36d9a0.md)
 * 2019-02-02 [Крипто вор предъявлено обвинение в Нью-Йорке первый SIM обмен обвинение](https://github.com/theyapapa/cryptonews/blob/ru/crypto-thief-indicted-in-new-yorks-first-sim-swapping-prosecution-0f77b078.md)
 * 2019-02-02 [Крипто-платежный процессор Коингате добавляет поддержку](https://github.com/theyapapa/cryptonews/blob/ru/crypto-payment-processor-coingate-adds-support-for-ripples-xrp-c1e6c45c.md)
