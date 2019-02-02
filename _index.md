@@ -1,3 +1,4 @@
+* 2019-02-02 [Cripto ladrón acusado en la primera acusación de intercambio de SIM de Nueva York](https://github.com/theyapapa/cryptonews/blob/es/crypto-thief-indicted-in-new-yorks-first-sim-swapping-prosecution-0f77b078.md)
 * 2019-02-02 [El CoinGate del procesador de pago Crypto agrega la ayuda para el XRP de la ondulación](https://github.com/theyapapa/cryptonews/blob/es/crypto-payment-processor-coingate-adds-support-for-ripples-xrp-c1e6c45c.md)
 * 2019-02-01 [Crypto Exchange QuadrigaCX Missing $145 MLN después de la muerte del fundador](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-quadrigacx-missing-145-mln-after-death-of-founder-934fbb09.md)
 * 2019-02-01 [Firma suiza de ciberseguridad inaugura centro blockchain en Ginebra](https://github.com/theyapapa/cryptonews/blob/es/swiss-cybersecurity-firm-opens-blockchain-center-in-geneva-973afe1c.md)
