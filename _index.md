@@ -1,3 +1,4 @@
+* 2019-02-02 [암호 지불 프로세서 coingate는 리플의 XRP에 대 한 지원을 추가 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-payment-processor-coingate-adds-support-for-ripples-xrp-c1e6c45c.md)
 * 2019-02-01 [암호 화폐 거래소 쿼드 리가 누락 $145 백만 설립자의 죽음 후](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-quadrigacx-missing-145-mln-after-death-of-founder-934fbb09.md)
 * 2019-02-01 [스위스 사이버 보안 회사, 제네바에 블록 체인 센터 오픈](https://github.com/theyapapa/cryptonews/blob/ko/swiss-cybersecurity-firm-opens-blockchain-center-in-geneva-973afe1c.md)
 * 2019-02-01 [대부분의 주요 동전으로 조용한 시장은 작은 이득을 보고, 비트 코인은 $3500 아래에 중단](https://github.com/theyapapa/cryptonews/blob/ko/markets-quiet-as-most-major-coins-report-small-gains-bitcoin-hangs-below-3-500-947f4d48.md)
