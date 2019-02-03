@@ -1,3 +1,4 @@
+* 2019-02-03 [비트 코인 선물은 지난 주에 만료, 그것은 암호 화폐 시장의 $100억 급락에 영향을 미칩니까?](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-futures-expired-last-week-did-it-affect-10-billion-plunge-of-crypto-markets-5ba3abaf.md)
 * 2019-02-02 [비트 코인은 $3500의 최고 크립 토와 혼합 신호를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-approaches-3-500-as-top-cryptos-see-mixed-signals-2da08d64.md)
 * 2019-02-02 [충성도 프로그램에 대 한 암호화 시작과 주요 영국 대 중 교통 제공 업체 파트너](https://github.com/theyapapa/cryptonews/blob/ko/major-uk-public-transport-provider-partners-with-crypto-startup-for-loyalty-program-cd36d9a0.md)
 * 2019-02-02 [뉴욕의 첫 번째 SIM 스와핑 기소에 기소 된 암호 도둑](https://github.com/theyapapa/cryptonews/blob/ko/crypto-thief-indicted-in-new-yorks-first-sim-swapping-prosecution-0f77b078.md)
