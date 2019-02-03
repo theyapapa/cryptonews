@@ -1,3 +1,4 @@
+* 2019-02-03 [비트 코인은 상단 크립 토가 약간의 손실을 참조로 $3450 마크 위에 올려](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-the-3-450-mark-as-top-cryptos-see-slight-losses-e02a4f79.md)
 * 2019-02-03 [맨 위로 5 암호화 수행자 개요: 라이트 코인, binance 동전, 리플, 비트 코인, 트 론](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-litecoin-binance-coin-ripple-bitcoin-tron-351a4f4c.md)
 * 2019-02-03 [확정: 코인 랩은 gox를 $7500만에서 $160억로 증가 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-coinlab-increases-mt-gox-claim-from-75-million-to-16-billion-d034829c.md)
 * 2019-02-03 [보고서: 분석가 발견 엔비디아는 $13억5000만 더 총 암호화 수익에서 더 많은 명시 된 것 보다](https://github.com/theyapapa/cryptonews/blob/ko/report-analyst-finds-nvidia-earned-135-billion-more-in-total-crypto-revenue-than-stated-791ed9c2.md)
