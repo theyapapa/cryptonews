@@ -1,3 +1,4 @@
+* 2019-02-03 [Неподтвержденные: Коинлаб увеличивает MT. GOX претензии с $75 000 000 по $16 000 000 000](https://github.com/theyapapa/cryptonews/blob/ru/unconfirmed-coinlab-increases-mt-gox-claim-from-75-million-to-16-billion-d034829c.md)
 * 2019-02-03 [Отчет: аналитик находит NVIDIA заРаботал $1 350 000 000 больше в общем объеме крипто доходов, чем указано](https://github.com/theyapapa/cryptonews/blob/ru/report-analyst-finds-nvidia-earned-135-billion-more-in-total-crypto-revenue-than-stated-791ed9c2.md)
 * 2019-02-03 [Bitcoin фьючерсы истек на прошлой неделе, это поВлияло на $10 000 000 000 окунуться крипто рынков?](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-futures-expired-last-week-did-it-affect-10-billion-plunge-of-crypto-markets-5ba3abaf.md)
 * 2019-02-02 [Bitcoin подходы $3 500 как лучшие крипты см смешанные сигналы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-3-500-as-top-cryptos-see-mixed-signals-2da08d64.md)
