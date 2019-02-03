@@ -1,3 +1,4 @@
+* 2019-02-03 [Sin confirmar: CoinLab aumenta el reclamo de Mt. GOX del $75 millones al $16 mil millones](https://github.com/theyapapa/cryptonews/blob/es/unconfirmed-coinlab-increases-mt-gox-claim-from-75-million-to-16-billion-d034829c.md)
 * 2019-02-03 [Informe: Analista encuentra NVIDIA ganó $1,35 mil millones más en total de ingresos criptográficos que se indica](https://github.com/theyapapa/cryptonews/blob/es/report-analyst-finds-nvidia-earned-135-billion-more-in-total-crypto-revenue-than-stated-791ed9c2.md)
 * 2019-02-03 [Futuros Bitcoin expiraron la semana pasada, ¿afectó $10 mil millones caída de los mercados de criptografía?](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-futures-expired-last-week-did-it-affect-10-billion-plunge-of-crypto-markets-5ba3abaf.md)
 * 2019-02-02 [Bitcoin enfoques $3.500 como Top Cryptos ver señales mixtas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-approaches-3-500-as-top-cryptos-see-mixed-signals-2da08d64.md)
