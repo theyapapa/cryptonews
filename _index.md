@@ -1,3 +1,4 @@
+* 2019-02-03 [확정: 코인 랩은 gox를 $7500만에서 $160억로 증가 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-coinlab-increases-mt-gox-claim-from-75-million-to-16-billion-d034829c.md)
 * 2019-02-03 [보고서: 분석가 발견 엔비디아는 $13억5000만 더 총 암호화 수익에서 더 많은 명시 된 것 보다](https://github.com/theyapapa/cryptonews/blob/ko/report-analyst-finds-nvidia-earned-135-billion-more-in-total-crypto-revenue-than-stated-791ed9c2.md)
 * 2019-02-03 [비트 코인 선물은 지난 주에 만료, 그것은 암호 화폐 시장의 $100억 급락에 영향을 미칩니까?](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-futures-expired-last-week-did-it-affect-10-billion-plunge-of-crypto-markets-5ba3abaf.md)
 * 2019-02-02 [비트 코인은 $3500의 최고 크립 토와 혼합 신호를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-approaches-3-500-as-top-cryptos-see-mixed-signals-2da08d64.md)
