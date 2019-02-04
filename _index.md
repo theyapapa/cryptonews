@@ -1,3 +1,4 @@
+* 2019-02-04 [보고서: 분석가는 가자가의 통치 그룹에 대 한 비트 코인 기부금의 흔적을 확인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-analysts-identify-trail-of-bitcoin-donations-to-gazas-ruling-group-hamas-d6a05c78.md)
 * 2019-02-04 [' 저명한 ' 호주 게임 회사와 블록 체인 회사 hashcash 파트너](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-firm-hashcash-partners-with-prominent-australian-gaming-company-61fb96ae.md)
 * 2019-02-04 [베네수엘라: 새로운 암호화 법적 프레임 워크가 힘으로 온다](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-new-crypto-legal-framework-comes-into-force-dd43e50f.md)
 * 2019-02-04 [아마존은 ' 미래에 자신의 암호를 생성 해야 합니다, binance CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/amazon-will-have-to-create-its-own-crypto-in-future-binance-ceo-says-d614014f.md)
