@@ -1,3 +1,4 @@
+* 2019-02-04 [Доклад: аналитики определить тропа Bitcoin пожертвований в Газе правящей группы Хамас](https://github.com/theyapapa/cryptonews/blob/ru/report-analysts-identify-trail-of-bitcoin-donations-to-gazas-ruling-group-hamas-d6a05c78.md)
 * 2019-02-04 [Блокчейн фирма HashCash партнеры с "видные" Австралийская игровая компания](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-hashcash-partners-with-prominent-australian-gaming-company-61fb96ae.md)
 * 2019-02-04 [Венесуэла: Новая крипто-правовая система вступает в силу](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-new-crypto-legal-framework-comes-into-force-dd43e50f.md)
 * 2019-02-04 [Amazon ' придется ' создать свой собственный Crypto в будущем, Binance Генеральный директор говорит](https://github.com/theyapapa/cryptonews/blob/ru/amazon-will-have-to-create-its-own-crypto-in-future-binance-ceo-says-d614014f.md)
