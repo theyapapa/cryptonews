@@ -1,3 +1,4 @@
+* 2019-02-04 [Informe: los analistas identifican el rastro de las donaciones de Bitcoin al grupo gobernante de Gaza, Hamas](https://github.com/theyapapa/cryptonews/blob/es/report-analysts-identify-trail-of-bitcoin-donations-to-gazas-ruling-group-hamas-d6a05c78.md)
 * 2019-02-04 [Blockchain firma HashCash socios con ' prominente ' australiano Gaming Company](https://github.com/theyapapa/cryptonews/blob/es/blockchain-firm-hashcash-partners-with-prominent-australian-gaming-company-61fb96ae.md)
 * 2019-02-04 [Venezuela: entra en vigor el nuevo marco legal criptográfico](https://github.com/theyapapa/cryptonews/blob/es/venezuela-new-crypto-legal-framework-comes-into-force-dd43e50f.md)
 * 2019-02-04 [Amazon ' tendrá que ' crear su propia cripto en el futuro, dice el CEO de Binance](https://github.com/theyapapa/cryptonews/blob/es/amazon-will-have-to-create-its-own-crypto-in-future-binance-ceo-says-d614014f.md)
