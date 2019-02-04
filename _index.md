@@ -1,3 +1,4 @@
+* 2019-02-04 [Блокчейн фирма HashCash партнеры с "видные" Австралийская игровая компания](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-hashcash-partners-with-prominent-australian-gaming-company-61fb96ae.md)
 * 2019-02-04 [Венесуэла: Новая крипто-правовая система вступает в силу](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-new-crypto-legal-framework-comes-into-force-dd43e50f.md)
 * 2019-02-04 [Amazon ' придется ' создать свой собственный Crypto в будущем, Binance Генеральный директор говорит](https://github.com/theyapapa/cryptonews/blob/ru/amazon-will-have-to-create-its-own-crypto-in-future-binance-ceo-says-d614014f.md)
 * 2019-02-04 [Tencent обзор показывает китайских экономистов, разделенных на будущее Blockchain, Crypto](https://github.com/theyapapa/cryptonews/blob/ru/tencent-survey-reveals-chinese-economists-divided-on-future-of-blockchain-crypto-a118396a.md)
