@@ -1,3 +1,4 @@
+* 2019-02-04 [비트 코인, 리플,이 더 리 움, EOS 비트 코인 현금, 라이트 코인, 트 론, 스텔라 비트 코인 SV: 가격 분석, 2 월 4 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-eos-bitcoin-cash-litecoin-tron-stellar-bitcoin-sv-cardano-price-analysis-feb-4-06f49917.md)
 * 2019-02-04 [스위스: 크립 토 은행 seba 파트너 모기지 은행 hypothekarbank와 함께](https://github.com/theyapapa/cryptonews/blob/ko/switzerland-crypto-bank-seba-partners-with-mortgage-bank-hypothekarbank-3ecac625.md)
 * 2019-02-04 [암호화 세금을 계산 하기 위한 새로운 섹션을 추가 하는 터보 택스](https://github.com/theyapapa/cryptonews/blob/ko/turbotax-to-add-new-section-for-calculating-crypto-taxes-226a0735.md)
 * 2019-02-04 [보고서: 분석가는 가자가의 통치 그룹에 대 한 비트 코인 기부금의 흔적을 확인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-analysts-identify-trail-of-bitcoin-donations-to-gazas-ruling-group-hamas-d6a05c78.md)
