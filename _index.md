@@ -1,3 +1,4 @@
+* 2019-02-04 [Венесуэла: Новая крипто-правовая система вступает в силу](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-new-crypto-legal-framework-comes-into-force-dd43e50f.md)
 * 2019-02-04 [Amazon ' придется ' создать свой собственный Crypto в будущем, Binance Генеральный директор говорит](https://github.com/theyapapa/cryptonews/blob/ru/amazon-will-have-to-create-its-own-crypto-in-future-binance-ceo-says-d614014f.md)
 * 2019-02-04 [Tencent обзор показывает китайских экономистов, разделенных на будущее Blockchain, Crypto](https://github.com/theyapapa/cryptonews/blob/ru/tencent-survey-reveals-chinese-economists-divided-on-future-of-blockchain-crypto-a118396a.md)
 * 2019-02-03 [Bitcoin наВисает над $3 450 Марк как топ крипты увидеть неЗначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-over-the-3-450-mark-as-top-cryptos-see-slight-losses-e02a4f79.md)
