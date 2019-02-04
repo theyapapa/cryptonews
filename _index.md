@@ -1,3 +1,4 @@
+* 2019-02-04 [TurboTax para agregar nueva sección para calcular los impuestos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/turbotax-to-add-new-section-for-calculating-crypto-taxes-226a0735.md)
 * 2019-02-04 [Informe: los analistas identifican el rastro de las donaciones de Bitcoin al grupo gobernante de Gaza, Hamas](https://github.com/theyapapa/cryptonews/blob/es/report-analysts-identify-trail-of-bitcoin-donations-to-gazas-ruling-group-hamas-d6a05c78.md)
 * 2019-02-04 [Blockchain firma HashCash socios con ' prominente ' australiano Gaming Company](https://github.com/theyapapa/cryptonews/blob/es/blockchain-firm-hashcash-partners-with-prominent-australian-gaming-company-61fb96ae.md)
 * 2019-02-04 [Venezuela: entra en vigor el nuevo marco legal criptográfico](https://github.com/theyapapa/cryptonews/blob/es/venezuela-new-crypto-legal-framework-comes-into-force-dd43e50f.md)
