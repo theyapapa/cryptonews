@@ -1,3 +1,4 @@
+* 2019-02-04 [La encuesta Tencent revela a los economistas chinos divididos en el futuro de blockchain, Crypto](https://github.com/theyapapa/cryptonews/blob/es/tencent-survey-reveals-chinese-economists-divided-on-future-of-blockchain-crypto-a118396a.md)
 * 2019-02-03 [Bitcoin se desplaza sobre la marca $3.450 como Top Cryptos ver ligeras pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-over-the-3-450-mark-as-top-cryptos-see-slight-losses-e02a4f79.md)
 * 2019-02-03 [Top 5 cripto intérpretes Resumen: Litecoin, Binance Coin, Ripple, bitcoin, Tron](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-litecoin-binance-coin-ripple-bitcoin-tron-351a4f4c.md)
 * 2019-02-03 [Sin confirmar: CoinLab aumenta el reclamo de Mt. GOX del $75 millones al $16 mil millones](https://github.com/theyapapa/cryptonews/blob/es/unconfirmed-coinlab-increases-mt-gox-claim-from-75-million-to-16-billion-d034829c.md)
