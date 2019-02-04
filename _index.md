@@ -1,3 +1,4 @@
+* 2019-02-04 [베네수엘라: 새로운 암호화 법적 프레임 워크가 힘으로 온다](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-new-crypto-legal-framework-comes-into-force-dd43e50f.md)
 * 2019-02-04 [아마존은 ' 미래에 자신의 암호를 생성 해야 합니다, binance CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/amazon-will-have-to-create-its-own-crypto-in-future-binance-ceo-says-d614014f.md)
 * 2019-02-04 [텐 센트 설문 조사에 따르면 중국 경제학자 들이 블록 체인, 암호 화폐의 미래를](https://github.com/theyapapa/cryptonews/blob/ko/tencent-survey-reveals-chinese-economists-divided-on-future-of-blockchain-crypto-a118396a.md)
 * 2019-02-03 [비트 코인은 상단 크립 토가 약간의 손실을 참조로 $3450 마크 위에 올려](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-the-3-450-mark-as-top-cryptos-see-slight-losses-e02a4f79.md)
