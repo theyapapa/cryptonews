@@ -1,3 +1,4 @@
+* 2019-02-04 [Tencent обзор показывает китайских экономистов, разделенных на будущее Blockchain, Crypto](https://github.com/theyapapa/cryptonews/blob/ru/tencent-survey-reveals-chinese-economists-divided-on-future-of-blockchain-crypto-a118396a.md)
 * 2019-02-03 [Bitcoin наВисает над $3 450 Марк как топ крипты увидеть неЗначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-over-the-3-450-mark-as-top-cryptos-see-slight-losses-e02a4f79.md)
 * 2019-02-03 [Топ 5 крипто исполнители Обзор: Litecoin, Binance монета, рябь, биткоин, трон](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-litecoin-binance-coin-ripple-bitcoin-tron-351a4f4c.md)
 * 2019-02-03 [Неподтвержденные: Коинлаб увеличивает MT. GOX претензии с $75 000 000 по $16 000 000 000](https://github.com/theyapapa/cryptonews/blob/ru/unconfirmed-coinlab-increases-mt-gox-claim-from-75-million-to-16-billion-d034829c.md)
