@@ -1,3 +1,4 @@
+* 2019-02-05 [Seis Emiratos Árabes Unidos y los bancos sauditas se unen al proyecto de transacciones transfronterizas de moneda digital](https://github.com/theyapapa/cryptonews/blob/es/six-uae-and-saudi-arabian-banks-join-digital-currency-cross-border-transaction-project-b5718c48.md)
 * 2019-02-05 [MT. GOX: información filtrada Purportedly muestra $318 mil millones criptomoneda venta en BitPoint](https://github.com/theyapapa/cryptonews/blob/es/mtgox-leaked-info-purportedly-shows-318-billion-cryptocurrency-sell-offs-on-bitpoint-e408b00d.md)
 * 2019-02-04 ["The Cutest Crypto Game" celebra el año nuevo chino y envía regalos digitales](https://github.com/theyapapa/cryptonews/blob/es/the-cutest-crypto-game-celebrates-chinese-new-year-and-sends-out-digital-gifts-5683c01a.md)
 * 2019-02-04 [Precio simbólico de BitTorrent picos 600 por ciento desde ICO](https://github.com/theyapapa/cryptonews/blob/es/bittorrents-token-price-spikes-600-percent-since-ico-5cfc2503.md)
