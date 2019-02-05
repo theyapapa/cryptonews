@@ -1,3 +1,4 @@
+* 2019-02-05 [Zcash 취약점으로 인 한 무한 zec 위조가 고정 및 공개 됨](https://github.com/theyapapa/cryptonews/blob/ko/zcash-vulnerability-permitting-infinite-zec-counterfeiting-fixed-and-disclosed-9a2c5287.md)
 * 2019-02-05 [콰 드 릭 스는 유동성 위기 속에서 채권자 보호를 신청 하 고 있으며, 공동체는 크게 회의적입니다.](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-is-filing-for-creditor-protection-amid-liquidity-crisis-community-remains-largely-skeptical-6b10f9c7.md)
 * 2019-02-05 [파괴: 변호사는 부채를 해결 하기 위해 쿼드 릭 카를 판매 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/breaking-lawyers-might-sell-quadrigacx-to-settle-debts-255ff445.md)
 * 2019-02-05 [러시아, 교육 품질 관리를 위한 대학 시험에서 블록 체인 기술 구현](https://github.com/theyapapa/cryptonews/blob/ko/russia-to-implement-blockchain-tech-in-university-exam-for-education-quality-control-6489a0f4.md)
