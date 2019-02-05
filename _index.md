@@ -1,3 +1,4 @@
+* 2019-02-04 [Цена токенов BitTorrent 600% с момента ICO](https://github.com/theyapapa/cryptonews/blob/ru/bittorrents-token-price-spikes-600-percent-since-ico-5cfc2503.md)
 * 2019-02-04 [Bitcoin, рябь, Эфириум, EOS, Bitcoin Cash, Litecoin, трон, Звёздный, Bitcoin SV, «переДвижение»: анализ цен, 4 февраля](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-eos-bitcoin-cash-litecoin-tron-stellar-bitcoin-sv-cardano-price-analysis-feb-4-06f49917.md)
 * 2019-02-04 [Швейцария: Crypto Bank Seba партнеры с ипотечным банком Хипосекарбанк](https://github.com/theyapapa/cryptonews/blob/ru/switzerland-crypto-bank-seba-partners-with-mortgage-bank-hypothekarbank-3ecac625.md)
 * 2019-02-04 [TurboTax добавить новый раздел для вычисления крипто налоги](https://github.com/theyapapa/cryptonews/blob/ru/turbotax-to-add-new-section-for-calculating-crypto-taxes-226a0735.md)
