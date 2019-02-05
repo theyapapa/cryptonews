@@ -1,3 +1,4 @@
+* 2019-02-04 ["귀여운 암호 게임은" 중국의 새 해를 기념 하 고 디지털 선물을 보낸다](https://github.com/theyapapa/cryptonews/blob/ko/the-cutest-crypto-game-celebrates-chinese-new-year-and-sends-out-digital-gifts-5683c01a.md)
 * 2019-02-04 [비트 토런트의 토큰 가격 스파이크 ICO 이후 600%](https://github.com/theyapapa/cryptonews/blob/ko/bittorrents-token-price-spikes-600-percent-since-ico-5cfc2503.md)
 * 2019-02-04 [비트 코인, 리플,이 더 리 움, EOS 비트 코인 현금, 라이트 코인, 트 론, 스텔라 비트 코인 SV: 가격 분석, 2 월 4 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-eos-bitcoin-cash-litecoin-tron-stellar-bitcoin-sv-cardano-price-analysis-feb-4-06f49917.md)
 * 2019-02-04 [스위스: 크립 토 은행 seba 파트너 모기지 은행 hypothekarbank와 함께](https://github.com/theyapapa/cryptonews/blob/ko/switzerland-crypto-bank-seba-partners-with-mortgage-bank-hypothekarbank-3ecac625.md)
