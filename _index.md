@@ -1,3 +1,4 @@
+* 2019-02-05 [러시아, 교육 품질 관리를 위한 대학 시험에서 블록 체인 기술 구현](https://github.com/theyapapa/cryptonews/blob/ko/russia-to-implement-blockchain-tech-in-university-exam-for-education-quality-control-6489a0f4.md)
 * 2019-02-05 [암호화 보유자, 의회 대표 툴 시가 바드 공식적으로 미국 대통령 캠페인 출시](https://github.com/theyapapa/cryptonews/blob/ko/crypto-holder-congressional-rep-tulsi-gabbard-formally-launches-us-presidential-campaign-56f2bff9.md)
 * 2019-02-05 [6 개의 UAE 및 사우디아라비아 은행, 디지털 통화 국경 간 거래 프로젝트 참여](https://github.com/theyapapa/cryptonews/blob/ko/six-uae-and-saudi-arabian-banks-join-digital-currency-cross-border-transaction-project-b5718c48.md)
 * 2019-02-05 [gox 산: 유출 정보 소문 쇼 $3180억 비트 포인트에 암호 화폐 판매-오프](https://github.com/theyapapa/cryptonews/blob/ko/mtgox-leaked-info-purportedly-shows-318-billion-cryptocurrency-sell-offs-on-bitpoint-e408b00d.md)
