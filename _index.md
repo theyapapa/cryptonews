@@ -1,3 +1,4 @@
+* 2019-02-05 [Шесть ОАЭ и Саудовской Аравии банки приСоединиться к цифровой валюте трансГраничной сделки проекта](https://github.com/theyapapa/cryptonews/blob/ru/six-uae-and-saudi-arabian-banks-join-digital-currency-cross-border-transaction-project-b5718c48.md)
 * 2019-02-05 [MT. GOX: утечка информации якобы показывает $318 000 000 000 криптовалюты продать-офф на Битпоинт](https://github.com/theyapapa/cryptonews/blob/ru/mtgox-leaked-info-purportedly-shows-318-billion-cryptocurrency-sell-offs-on-bitpoint-e408b00d.md)
 * 2019-02-04 ["Самый симпатичный крипто игра" празднует китайский Новый год и поСылает вне цифровые подарки](https://github.com/theyapapa/cryptonews/blob/ru/the-cutest-crypto-game-celebrates-chinese-new-year-and-sends-out-digital-gifts-5683c01a.md)
 * 2019-02-04 [Цена токенов BitTorrent 600% с момента ICO](https://github.com/theyapapa/cryptonews/blob/ru/bittorrents-token-price-spikes-600-percent-since-ico-5cfc2503.md)
