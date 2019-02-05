@@ -1,3 +1,4 @@
+* 2019-02-05 [MT. GOX: утечка информации якобы показывает $318 000 000 000 криптовалюты продать-офф на Битпоинт](https://github.com/theyapapa/cryptonews/blob/ru/mtgox-leaked-info-purportedly-shows-318-billion-cryptocurrency-sell-offs-on-bitpoint-e408b00d.md)
 * 2019-02-04 ["Самый симпатичный крипто игра" празднует китайский Новый год и поСылает вне цифровые подарки](https://github.com/theyapapa/cryptonews/blob/ru/the-cutest-crypto-game-celebrates-chinese-new-year-and-sends-out-digital-gifts-5683c01a.md)
 * 2019-02-04 [Цена токенов BitTorrent 600% с момента ICO](https://github.com/theyapapa/cryptonews/blob/ru/bittorrents-token-price-spikes-600-percent-since-ico-5cfc2503.md)
 * 2019-02-04 [Bitcoin, рябь, Эфириум, EOS, Bitcoin Cash, Litecoin, трон, Звёздный, Bitcoin SV, «переДвижение»: анализ цен, 4 февраля](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-eos-bitcoin-cash-litecoin-tron-stellar-bitcoin-sv-cardano-price-analysis-feb-4-06f49917.md)
