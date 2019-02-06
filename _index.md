@@ -1,3 +1,4 @@
+* 2019-02-06 [US Crypto Exchange Coinbase añade soporte de Bitcoin a Coinbase Wallet App](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-exchange-coinbase-adds-bitcoin-support-to-coinbase-wallet-app-6505b194.md)
 * 2019-02-06 [Datos: los comerciantes de EE. UU. más activos en los principales intercambios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/data-us-traders-most-active-across-major-crypto-exchanges-27c80b46.md)
 * 2019-02-06 [Comunidad Bitcoin celebra como CEO de Twitter se une a Lightning Network Relay](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-community-celebrates-as-twitter-ceo-joins-lightning-network-relay-23d15993.md)
 * 2019-02-05 [Crypto firma acusado de fraude, duping inversor en la compra de $2 millones en tokens](https://github.com/theyapapa/cryptonews/blob/es/crypto-firm-accused-of-fraud-duping-investor-into-buying-2-million-in-tokens-f0ad5af5.md)
