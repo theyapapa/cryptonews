@@ -1,3 +1,4 @@
+* 2019-02-05 [암호 회사는 사기 혐의로 기소, 토큰에 $200만을 구입에 투자자를 duping](https://github.com/theyapapa/cryptonews/blob/ko/crypto-firm-accused-of-fraud-duping-investor-into-buying-2-million-in-tokens-f0ad5af5.md)
 * 2019-02-05 [필리핀에 소개 된 디지털 자산 토큰 오퍼링을 위한 새로운 규제 프레임 워크](https://github.com/theyapapa/cryptonews/blob/ko/new-regulatory-framework-for-digital-asset-token-offering-introduced-in-philippines-2e3d3988.md)
 * 2019-02-05 [암호화 지갑의 사용자는 전기 및 미 멸 지갑 얼굴 피싱 공격](https://github.com/theyapapa/cryptonews/blob/ko/users-of-crypto-wallets-electrum-and-myetherwallet-face-phishing-attacks-93c30926.md)
 * 2019-02-05 [Zcash 취약점으로 인 한 무한 zec 위조가 고정 및 공개 됨](https://github.com/theyapapa/cryptonews/blob/ko/zcash-vulnerability-permitting-infinite-zec-counterfeiting-fixed-and-disclosed-9a2c5287.md)
