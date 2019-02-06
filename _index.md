@@ -1,3 +1,4 @@
+* 2019-02-06 [트위터 CEO 잭 dorsey는 비트 코인은 그가 보유 하 고 있는 유일한 암호화 말한다](https://github.com/theyapapa/cryptonews/blob/ko/twitter-ceo-jack-dorsey-says-bitcoin-is-the-only-crypto-he-holds-d5ed338a.md)
 * 2019-02-06 [비트 코인은 $3400에 빠진다 최고 cryptos는 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-3-400-as-top-cryptos-see-losses-b8d93e74.md)
 * 2019-02-06 [미국 암호 교환 coinbase는 coinbase 지갑 응용 프로그램에 비트 코인 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-exchange-coinbase-adds-bitcoin-support-to-coinbase-wallet-app-6505b194.md)
 * 2019-02-06 [데이터: 주요 암호 화폐 거래소에서 가장 활발 한 미국 거래자](https://github.com/theyapapa/cryptonews/blob/ko/data-us-traders-most-active-across-major-crypto-exchanges-27c80b46.md)
