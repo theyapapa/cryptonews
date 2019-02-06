@@ -1,3 +1,4 @@
+* 2019-02-06 [월스트리트 블록 체인 얼라이언스, 엔터프라이즈 블록 체인 컨소시엄 R3 가입](https://github.com/theyapapa/cryptonews/blob/ko/wall-street-blockchain-alliance-joins-enterprise-blockchain-consortium-r3-18ef9c1b.md)
 * 2019-02-06 [트위터 CEO 잭 dorsey는 비트 코인은 그가 보유 하 고 있는 유일한 암호화 말한다](https://github.com/theyapapa/cryptonews/blob/ko/twitter-ceo-jack-dorsey-says-bitcoin-is-the-only-crypto-he-holds-d5ed338a.md)
 * 2019-02-06 [비트 코인은 $3400에 빠진다 최고 cryptos는 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-3-400-as-top-cryptos-see-losses-b8d93e74.md)
 * 2019-02-06 [미국 암호 교환 coinbase는 coinbase 지갑 응용 프로그램에 비트 코인 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-exchange-coinbase-adds-bitcoin-support-to-coinbase-wallet-app-6505b194.md)
