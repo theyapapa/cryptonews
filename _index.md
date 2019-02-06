@@ -1,3 +1,4 @@
+* 2019-02-06 [미국 암호 교환 coinbase는 coinbase 지갑 응용 프로그램에 비트 코인 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-exchange-coinbase-adds-bitcoin-support-to-coinbase-wallet-app-6505b194.md)
 * 2019-02-06 [데이터: 주요 암호 화폐 거래소에서 가장 활발 한 미국 거래자](https://github.com/theyapapa/cryptonews/blob/ko/data-us-traders-most-active-across-major-crypto-exchanges-27c80b46.md)
 * 2019-02-06 [비트 코인 커뮤니티는 트위터 CEO가 번개 네트워크 릴레이 가입으로 기념](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-community-celebrates-as-twitter-ceo-joins-lightning-network-relay-23d15993.md)
 * 2019-02-05 [암호 회사는 사기 혐의로 기소, 토큰에 $200만을 구입에 투자자를 duping](https://github.com/theyapapa/cryptonews/blob/ko/crypto-firm-accused-of-fraud-duping-investor-into-buying-2-million-in-tokens-f0ad5af5.md)
