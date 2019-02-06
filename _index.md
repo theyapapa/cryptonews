@@ -1,3 +1,4 @@
+* 2019-02-06 [США Crypto Exchange Coinbase добавляет поддержку Bitcoin для Coinbase бумажник приложение](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-exchange-coinbase-adds-bitcoin-support-to-coinbase-wallet-app-6505b194.md)
 * 2019-02-06 [Данные: американские трейдеры наиболее активно через основные крипто биржи](https://github.com/theyapapa/cryptonews/blob/ru/data-us-traders-most-active-across-major-crypto-exchanges-27c80b46.md)
 * 2019-02-06 [Bitcoin сообщество празднует как щебетать Генеральный директор приСоединяется молнии сети реле](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-community-celebrates-as-twitter-ceo-joins-lightning-network-relay-23d15993.md)
 * 2019-02-05 [Crypto фирма обвиняется в мошенничестве, duping инвестора в покупке $2 000 000 в токены](https://github.com/theyapapa/cryptonews/blob/ru/crypto-firm-accused-of-fraud-duping-investor-into-buying-2-million-in-tokens-f0ad5af5.md)
