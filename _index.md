@@ -1,3 +1,4 @@
+* 2019-02-06 [데이터: 주요 암호 화폐 거래소에서 가장 활발 한 미국 거래자](https://github.com/theyapapa/cryptonews/blob/ko/data-us-traders-most-active-across-major-crypto-exchanges-27c80b46.md)
 * 2019-02-06 [비트 코인 커뮤니티는 트위터 CEO가 번개 네트워크 릴레이 가입으로 기념](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-community-celebrates-as-twitter-ceo-joins-lightning-network-relay-23d15993.md)
 * 2019-02-05 [암호 회사는 사기 혐의로 기소, 토큰에 $200만을 구입에 투자자를 duping](https://github.com/theyapapa/cryptonews/blob/ko/crypto-firm-accused-of-fraud-duping-investor-into-buying-2-million-in-tokens-f0ad5af5.md)
 * 2019-02-05 [필리핀에 소개 된 디지털 자산 토큰 오퍼링을 위한 새로운 규제 프레임 워크](https://github.com/theyapapa/cryptonews/blob/ko/new-regulatory-framework-for-digital-asset-token-offering-introduced-in-philippines-2e3d3988.md)
