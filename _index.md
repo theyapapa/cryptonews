@@ -1,3 +1,4 @@
+* 2019-02-06 [Bitcoin может испытать возрождение интереса на Уолл-стрит: JPMorgan стратег](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-could-experience-a-resurgence-of-interest-on-wall-street-jpmorgan-strategist-d9af7ee1.md)
 * 2019-02-06 [Блокчейн-Альянс на Уолл-стрит приСоединяется к корпоративному Блокчейн-консорциуму R3](https://github.com/theyapapa/cryptonews/blob/ru/wall-street-blockchain-alliance-joins-enterprise-blockchain-consortium-r3-18ef9c1b.md)
 * 2019-02-06 [Щебетать Генеральный директор Джек Дарси говорит Bitcoin является единственным крипто он держит](https://github.com/theyapapa/cryptonews/blob/ru/twitter-ceo-jack-dorsey-says-bitcoin-is-the-only-crypto-he-holds-d5ed338a.md)
 * 2019-02-06 [Bitcoin падает под $3 400 как лучшие крипты видят убытки](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-3-400-as-top-cryptos-see-losses-b8d93e74.md)
