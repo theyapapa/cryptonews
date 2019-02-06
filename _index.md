@@ -1,3 +1,4 @@
+* 2019-02-06 [Блокчейн-Альянс на Уолл-стрит приСоединяется к корпоративному Блокчейн-консорциуму R3](https://github.com/theyapapa/cryptonews/blob/ru/wall-street-blockchain-alliance-joins-enterprise-blockchain-consortium-r3-18ef9c1b.md)
 * 2019-02-06 [Щебетать Генеральный директор Джек Дарси говорит Bitcoin является единственным крипто он держит](https://github.com/theyapapa/cryptonews/blob/ru/twitter-ceo-jack-dorsey-says-bitcoin-is-the-only-crypto-he-holds-d5ed338a.md)
 * 2019-02-06 [Bitcoin падает под $3 400 как лучшие крипты видят убытки](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-3-400-as-top-cryptos-see-losses-b8d93e74.md)
 * 2019-02-06 [США Crypto Exchange Coinbase добавляет поддержку Bitcoin для Coinbase бумажник приложение](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-exchange-coinbase-adds-bitcoin-support-to-coinbase-wallet-app-6505b194.md)
