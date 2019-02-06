@@ -1,3 +1,4 @@
+* 2019-02-05 [Crypto firma acusado de fraude, duping inversor en la compra de $2 millones en tokens](https://github.com/theyapapa/cryptonews/blob/es/crypto-firm-accused-of-fraud-duping-investor-into-buying-2-million-in-tokens-f0ad5af5.md)
 * 2019-02-05 [Nuevo marco regulatorio para la oferta de tokens de activos digitales introducido en Filipinas](https://github.com/theyapapa/cryptonews/blob/es/new-regulatory-framework-for-digital-asset-token-offering-introduced-in-philippines-2e3d3988.md)
 * 2019-02-05 [Los usuarios de Crypto billeteras Electrum y MyEtherWallet enfrentan ataques de phishing](https://github.com/theyapapa/cryptonews/blob/es/users-of-crypto-wallets-electrum-and-myetherwallet-face-phishing-attacks-93c30926.md)
 * 2019-02-05 [Vulnerabilidad Zcash que permite la falsificación ZEC infinita fija y divulgada](https://github.com/theyapapa/cryptonews/blob/es/zcash-vulnerability-permitting-infinite-zec-counterfeiting-fixed-and-disclosed-9a2c5287.md)
