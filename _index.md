@@ -1,3 +1,4 @@
+* 2019-02-05 [필리핀에 소개 된 디지털 자산 토큰 오퍼링을 위한 새로운 규제 프레임 워크](https://github.com/theyapapa/cryptonews/blob/ko/new-regulatory-framework-for-digital-asset-token-offering-introduced-in-philippines-2e3d3988.md)
 * 2019-02-05 [암호화 지갑의 사용자는 전기 및 미 멸 지갑 얼굴 피싱 공격](https://github.com/theyapapa/cryptonews/blob/ko/users-of-crypto-wallets-electrum-and-myetherwallet-face-phishing-attacks-93c30926.md)
 * 2019-02-05 [Zcash 취약점으로 인 한 무한 zec 위조가 고정 및 공개 됨](https://github.com/theyapapa/cryptonews/blob/ko/zcash-vulnerability-permitting-infinite-zec-counterfeiting-fixed-and-disclosed-9a2c5287.md)
 * 2019-02-05 [콰 드 릭 스는 유동성 위기 속에서 채권자 보호를 신청 하 고 있으며, 공동체는 크게 회의적입니다.](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-is-filing-for-creditor-protection-amid-liquidity-crisis-community-remains-largely-skeptical-6b10f9c7.md)
