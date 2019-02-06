@@ -1,3 +1,4 @@
+* 2019-02-06 [Bitcoin podría experimentar un resurgimiento de interés en Wall Street: JPMorgan Strategist](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-could-experience-a-resurgence-of-interest-on-wall-street-jpmorgan-strategist-d9af7ee1.md)
 * 2019-02-06 [Wall Street blockchain Alliance se une a Enterprise blockchain Consortium R3](https://github.com/theyapapa/cryptonews/blob/es/wall-street-blockchain-alliance-joins-enterprise-blockchain-consortium-r3-18ef9c1b.md)
 * 2019-02-06 [El CEO de Twitter, Jack Dorsey, dice que Bitcoin es el único Crypto que sostiene](https://github.com/theyapapa/cryptonews/blob/es/twitter-ceo-jack-dorsey-says-bitcoin-is-the-only-crypto-he-holds-d5ed338a.md)
 * 2019-02-06 [Bitcoin cae por debajo de $3.400 como Top Cryptos ver las pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-3-400-as-top-cryptos-see-losses-b8d93e74.md)
