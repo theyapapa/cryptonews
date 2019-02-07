@@ -1,3 +1,4 @@
+* 2019-02-07 [Eau discutirá blockchain y activos digitales en la séptima cumbre del gobierno mundial](https://github.com/theyapapa/cryptonews/blob/es/uae-to-discuss-blockchain-and-digital-assets-at-7th-world-government-summit-7f15a275.md)
 * 2019-02-07 [Más de 5,5 mil millones USDC se ha transferido la cadena de оn](https://github.com/theyapapa/cryptonews/blob/es/over-55-billion-usdc-has-been-transferred-on-chain-c82db1ab.md)
 * 2019-02-07 [Los sistemas de identificación digital basados en blockchain están encontrando cada vez más uso del mundo real](https://github.com/theyapapa/cryptonews/blob/es/blockchain-based-digital-id-systems-are-increasingly-finding-real-world-use-cc8843ee.md)
 * 2019-02-07 [TD Bank: 90% de los profesionales de finanzas piensan que blockchain tendrá un impacto positivo](https://github.com/theyapapa/cryptonews/blob/es/td-bank-90-of-finance-professionals-think-blockchain-will-have-a-positive-impact-3c42de16.md)
