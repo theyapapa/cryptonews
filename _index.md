@@ -1,3 +1,4 @@
+* 2019-02-07 [제 7 회 세계 정부 정상회의에서 블록 체인과 디지털 자산을 논의 하기 위한 UAE](https://github.com/theyapapa/cryptonews/blob/ko/uae-to-discuss-blockchain-and-digital-assets-at-7th-world-government-summit-7f15a275.md)
 * 2019-02-07 [이상 55억 usdc는 n 체인 전송 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/over-55-billion-usdc-has-been-transferred-on-chain-c82db1ab.md)
 * 2019-02-07 [블록 체인 기반의 디지털 ID 시스템이 실제 사용을 점점 더 많이 찾고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-based-digital-id-systems-are-increasingly-finding-real-world-use-cc8843ee.md)
 * 2019-02-07 [TD 은행: 재무 전문가의 90%가 블록 체인이 긍정적인 영향을 미칠 것 이라고 생각 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/td-bank-90-of-finance-professionals-think-blockchain-will-have-a-positive-impact-3c42de16.md)
