@@ -1,3 +1,4 @@
+* 2019-02-07 [ТД Банк: 90% специалистов по финансам думаю, Блокчейн будет иметь положительный эффект](https://github.com/theyapapa/cryptonews/blob/ru/td-bank-90-of-finance-professionals-think-blockchain-will-have-a-positive-impact-3c42de16.md)
 * 2019-02-07 [BitTorrent-партнеры с Коинпайментс для запуска поддержки собственного токена BTT](https://github.com/theyapapa/cryptonews/blob/ru/bittorrent-partners-with-coinpayments-to-launch-support-for-native-btt-token-b9758d25.md)
 * 2019-02-07 [NZ полицейский доклад говорит "отличный прогресс" быть сделано в Криптопиа Hack расследование](https://github.com/theyapapa/cryptonews/blob/ru/nz-police-report-says-excellent-progress-being-made-in-cryptopia-hack-investigation-dd63f374.md)
 * 2019-02-07 [Государственные цифровые валюты могут сжать банки, говорит Южная Корея Центральный банк](https://github.com/theyapapa/cryptonews/blob/ru/state-issued-digital-currencies-can-squeeze-banks-says-south-korea-central-bank-bbe34d67.md)
