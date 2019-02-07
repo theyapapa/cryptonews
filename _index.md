@@ -1,3 +1,4 @@
+* 2019-02-07 [이상 55억 usdc는 n 체인 전송 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/over-55-billion-usdc-has-been-transferred-on-chain-c82db1ab.md)
 * 2019-02-07 [블록 체인 기반의 디지털 ID 시스템이 실제 사용을 점점 더 많이 찾고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-based-digital-id-systems-are-increasingly-finding-real-world-use-cc8843ee.md)
 * 2019-02-07 [TD 은행: 재무 전문가의 90%가 블록 체인이 긍정적인 영향을 미칠 것 이라고 생각 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/td-bank-90-of-finance-professionals-think-blockchain-will-have-a-positive-impact-3c42de16.md)
 * 2019-02-07 [네이티브 btt 토큰에 대 한 지원을 시작 하는 coin지급과 비트 토런트 파트너](https://github.com/theyapapa/cryptonews/blob/ko/bittorrent-partners-with-coinpayments-to-launch-support-for-native-btt-token-b9758d25.md)
