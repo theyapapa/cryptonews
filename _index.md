@@ -1,3 +1,4 @@
+* 2019-02-07 [Государственные цифровые валюты могут сжать банки, говорит Южная Корея Центральный банк](https://github.com/theyapapa/cryptonews/blob/ru/state-issued-digital-currencies-can-squeeze-banks-says-south-korea-central-bank-bbe34d67.md)
 * 2019-02-06 [Две инвестиционные фирмы запускают ETF отслеживание облачных вычислений и Блокчейн-компаний](https://github.com/theyapapa/cryptonews/blob/ru/two-investment-firms-launch-etf-tracking-cloud-computing-and-blockchain-companies-2de3c0e1.md)
 * 2019-02-06 [Bitcoin может испытать возрождение интереса на Уолл-стрит: JPMorgan стратег](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-could-experience-a-resurgence-of-interest-on-wall-street-jpmorgan-strategist-d9af7ee1.md)
 * 2019-02-06 [Блокчейн-Альянс на Уолл-стрит приСоединяется к корпоративному Блокчейн-консорциуму R3](https://github.com/theyapapa/cryptonews/blob/ru/wall-street-blockchain-alliance-joins-enterprise-blockchain-consortium-r3-18ef9c1b.md)
