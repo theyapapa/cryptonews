@@ -1,3 +1,4 @@
+* 2019-02-06 [Dos firmas de inversión lanzan ETF Tracking Cloud Computing y empresas blockchain](https://github.com/theyapapa/cryptonews/blob/es/two-investment-firms-launch-etf-tracking-cloud-computing-and-blockchain-companies-2de3c0e1.md)
 * 2019-02-06 [Bitcoin podría experimentar un resurgimiento de interés en Wall Street: JPMorgan Strategist](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-could-experience-a-resurgence-of-interest-on-wall-street-jpmorgan-strategist-d9af7ee1.md)
 * 2019-02-06 [Wall Street blockchain Alliance se une a Enterprise blockchain Consortium R3](https://github.com/theyapapa/cryptonews/blob/es/wall-street-blockchain-alliance-joins-enterprise-blockchain-consortium-r3-18ef9c1b.md)
 * 2019-02-06 [El CEO de Twitter, Jack Dorsey, dice que Bitcoin es el único Crypto que sostiene](https://github.com/theyapapa/cryptonews/blob/es/twitter-ceo-jack-dorsey-says-bitcoin-is-the-only-crypto-he-holds-d5ed338a.md)
