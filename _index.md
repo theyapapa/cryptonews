@@ -1,3 +1,4 @@
+* 2019-02-07 [Более 5 500 000 000 USDC была перенесена на цепь](https://github.com/theyapapa/cryptonews/blob/ru/over-55-billion-usdc-has-been-transferred-on-chain-c82db1ab.md)
 * 2019-02-07 [Системы цифрового удостоверения, основанные на Blockchain, все чаще наХодят использование в реальных условиях](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-based-digital-id-systems-are-increasingly-finding-real-world-use-cc8843ee.md)
 * 2019-02-07 [ТД Банк: 90% специалистов по финансам думаю, Блокчейн будет иметь положительный эффект](https://github.com/theyapapa/cryptonews/blob/ru/td-bank-90-of-finance-professionals-think-blockchain-will-have-a-positive-impact-3c42de16.md)
 * 2019-02-07 [BitTorrent-партнеры с Коинпайментс для запуска поддержки собственного токена BTT](https://github.com/theyapapa/cryptonews/blob/ru/bittorrent-partners-with-coinpayments-to-launch-support-for-native-btt-token-b9758d25.md)
