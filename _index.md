@@ -1,3 +1,4 @@
+* 2019-02-07 [뉴질랜드 경찰 보고서는 크립 토 피아 해킹 조사에서 ' 우수한 진행 상황 '을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/nz-police-report-says-excellent-progress-being-made-in-cryptopia-hack-investigation-dd63f374.md)
 * 2019-02-07 [국가에서 발행 한 디지털 통화는 은행을 압착 할 수 있습니다, 한국 중앙 은행 말한다](https://github.com/theyapapa/cryptonews/blob/ko/state-issued-digital-currencies-can-squeeze-banks-says-south-korea-central-bank-bbe34d67.md)
 * 2019-02-06 [2 개의 투자 회사가 ETF 추적 클라우드 컴퓨팅 및 블록 체인 회사를 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/two-investment-firms-launch-etf-tracking-cloud-computing-and-blockchain-companies-2de3c0e1.md)
 * 2019-02-06 [비트 코인이 월스트리트에 대 한 관심의 부활을 경험할 수 있습니다: jp 모건 전략가](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-could-experience-a-resurgence-of-interest-on-wall-street-jpmorgan-strategist-d9af7ee1.md)
