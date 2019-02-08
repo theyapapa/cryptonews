@@ -1,3 +1,4 @@
+* 2019-02-08 [Южно-Корейская крипто-биржа Бисумб Ланш внебиржевой торговая платформа](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-crypto-exchange-bithumb-lanches-over-the-counter-trading-platform-2a1b7114.md)
 * 2019-02-08 [SEC комиссар Джексон думает регулятор утвердит BTC ETF, утечка интервью показывает](https://github.com/theyapapa/cryptonews/blob/ru/sec-commissioner-jackson-thinks-regulator-will-approve-btc-etf-leaked-interview-shows-0ee7c264.md)
 * 2019-02-08 [Техас регулятор ценных бумаг показывает 16 заказов, выпущенных подозреваемых крипто инвестиций в 2018](https://github.com/theyapapa/cryptonews/blob/ru/texas-securities-regulator-reveals-16-orders-issued-to-suspect-crypto-investments-in-2018-d261b039.md)
 * 2019-02-07 [Эксперт претензии Куадригаккс фонды не застрял, но отсутствует в целом](https://github.com/theyapapa/cryptonews/blob/ru/wsj-expert-claims-quadrigacx-funds-not-stuck-but-missing-altogether-78676888.md)
