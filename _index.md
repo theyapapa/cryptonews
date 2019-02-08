@@ -1,3 +1,4 @@
+* 2019-02-08 [이 더 리 움은 검증 지연 기능을 개발 하기 위해 mulling $15 백만 투자를 거부](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-denies-it-is-mulling-15-mln-investment-to-develop-verifiable-delay-functions-baefafec.md)
 * 2019-02-08 [한국 암호 화폐 거래소 bithumb 창구 판매 거래 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-bithumb-lanches-over-the-counter-trading-platform-2a1b7114.md)
 * 2019-02-08 [SEC 위원 잭슨 생각 레 귤 레이 터는 BTC ETF를 승인 합니다, 유출 인터뷰 쇼](https://github.com/theyapapa/cryptonews/blob/ko/sec-commissioner-jackson-thinks-regulator-will-approve-btc-etf-leaked-interview-shows-0ee7c264.md)
 * 2019-02-08 [텍사스 증권 레 귤 레이 터는 2018에서 의심 되는 암호화 투자에 대해 발행 된 16 개 주문을 보여준다](https://github.com/theyapapa/cryptonews/blob/ko/texas-securities-regulator-reveals-16-orders-issued-to-suspect-crypto-investments-in-2018-d261b039.md)
