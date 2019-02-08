@@ -1,3 +1,4 @@
+* 2019-02-07 [wsj: 전문가는 쿼드 rigacx 자금이 붙어 있지 주장 하지만, 모두 누락](https://github.com/theyapapa/cryptonews/blob/ko/wsj-expert-claims-quadrigacx-funds-not-stuck-but-missing-altogether-78676888.md)
 * 2019-02-07 [huobi 보고서 100% 2018 2017에 거래 볼륨 증가](https://github.com/theyapapa/cryptonews/blob/ko/huobi-reports-100-percent-increase-in-trading-volumes-in-2018-over-2017-e7bbad78.md)
 * 2019-02-07 [제 7 회 세계 정부 정상회의에서 블록 체인과 디지털 자산을 논의 하기 위한 UAE](https://github.com/theyapapa/cryptonews/blob/ko/uae-to-discuss-blockchain-and-digital-assets-at-7th-world-government-summit-7f15a275.md)
 * 2019-02-07 [이상 55억 usdc는 n 체인 전송 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/over-55-billion-usdc-has-been-transferred-on-chain-c82db1ab.md)
