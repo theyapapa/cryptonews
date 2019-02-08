@@ -1,3 +1,4 @@
+* 2019-02-08 [Regulador de valores de Texas revela 16 órdenes emitidas para sospechar inversiones criptográficas en 2018](https://github.com/theyapapa/cryptonews/blob/es/texas-securities-regulator-reveals-16-orders-issued-to-suspect-crypto-investments-in-2018-d261b039.md)
 * 2019-02-07 [WSJ: reclamaciones de expertos los fondos QuadrigaCX no se atascan, pero faltan en conjunto](https://github.com/theyapapa/cryptonews/blob/es/wsj-expert-claims-quadrigacx-funds-not-stuck-but-missing-altogether-78676888.md)
 * 2019-02-07 [Huobi reporta 100 aumento porcentual en volúmenes de trading en 2018 sobre 2017](https://github.com/theyapapa/cryptonews/blob/es/huobi-reports-100-percent-increase-in-trading-volumes-in-2018-over-2017-e7bbad78.md)
 * 2019-02-07 [Eau discutirá blockchain y activos digitales en la séptima cumbre del gobierno mundial](https://github.com/theyapapa/cryptonews/blob/es/uae-to-discuss-blockchain-and-digital-assets-at-7th-world-government-summit-7f15a275.md)
