@@ -1,3 +1,4 @@
+* 2019-02-08 [Медицинский R&D Альянс расширяет Блокчейн-проект, чтобы включить обмен данными](https://github.com/theyapapa/cryptonews/blob/ru/medical-rd-alliance-expands-blockchain-project-to-include-data-sharing-779a24ab.md)
 * 2019-02-08 [Анализ: хакеры ликвидированы $3 200 000 в токены от Криптопиа Hack](https://github.com/theyapapa/cryptonews/blob/ru/analysis-hackers-liquidated-32-million-in-tokens-from-cryptopia-hack-bc7451cf.md)
 * 2019-02-08 [Биткойн, рябь, Эфириум, Litecoin, EOS, Bitcoin Cash, трон, Звездная, Binance монета, Bitcoin SV: анализ цен, 8 февраля](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ripple-ethereum-litecoin-eos-bitcoin-cash-tron-stellar-binance-coin-bitcoin-sv-price-analysis-feb-8-8e076cdc.md)
 * 2019-02-08 [Bitcoin ломает $3 450 Марк фоне малого фондового рынка видит спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-the-3-450-mark-amid-minor-stock-market-sees-downturn-7665a6c8.md)
