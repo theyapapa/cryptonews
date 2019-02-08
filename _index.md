@@ -1,3 +1,4 @@
+* 2019-02-08 [텍사스 증권 레 귤 레이 터는 2018에서 의심 되는 암호화 투자에 대해 발행 된 16 개 주문을 보여준다](https://github.com/theyapapa/cryptonews/blob/ko/texas-securities-regulator-reveals-16-orders-issued-to-suspect-crypto-investments-in-2018-d261b039.md)
 * 2019-02-07 [wsj: 전문가는 쿼드 rigacx 자금이 붙어 있지 주장 하지만, 모두 누락](https://github.com/theyapapa/cryptonews/blob/ko/wsj-expert-claims-quadrigacx-funds-not-stuck-but-missing-altogether-78676888.md)
 * 2019-02-07 [huobi 보고서 100% 2018 2017에 거래 볼륨 증가](https://github.com/theyapapa/cryptonews/blob/ko/huobi-reports-100-percent-increase-in-trading-volumes-in-2018-over-2017-e7bbad78.md)
 * 2019-02-07 [제 7 회 세계 정부 정상회의에서 블록 체인과 디지털 자산을 논의 하기 위한 UAE](https://github.com/theyapapa/cryptonews/blob/ko/uae-to-discuss-blockchain-and-digital-assets-at-7th-world-government-summit-7f15a275.md)
