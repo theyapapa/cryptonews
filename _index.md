@@ -1,3 +1,4 @@
+* 2019-02-08 [SEC комиссар Джексон думает регулятор утвердит BTC ETF, утечка интервью показывает](https://github.com/theyapapa/cryptonews/blob/ru/sec-commissioner-jackson-thinks-regulator-will-approve-btc-etf-leaked-interview-shows-0ee7c264.md)
 * 2019-02-08 [Техас регулятор ценных бумаг показывает 16 заказов, выпущенных подозреваемых крипто инвестиций в 2018](https://github.com/theyapapa/cryptonews/blob/ru/texas-securities-regulator-reveals-16-orders-issued-to-suspect-crypto-investments-in-2018-d261b039.md)
 * 2019-02-07 [Эксперт претензии Куадригаккс фонды не застрял, но отсутствует в целом](https://github.com/theyapapa/cryptonews/blob/ru/wsj-expert-claims-quadrigacx-funds-not-stuck-but-missing-altogether-78676888.md)
 * 2019-02-07 [Huobi отчеты 100% увеличение объемов торговли в 2018 более 2017](https://github.com/theyapapa/cryptonews/blob/ru/huobi-reports-100-percent-increase-in-trading-volumes-in-2018-over-2017-e7bbad78.md)
