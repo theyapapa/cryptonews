@@ -1,3 +1,4 @@
+* 2019-02-07 [Huobi отчеты 100% увеличение объемов торговли в 2018 более 2017](https://github.com/theyapapa/cryptonews/blob/ru/huobi-reports-100-percent-increase-in-trading-volumes-in-2018-over-2017-e7bbad78.md)
 * 2019-02-07 [ОАЭ обСудят Блокчейн и цифровые активы на седьмом Всемирном саммите правительства](https://github.com/theyapapa/cryptonews/blob/ru/uae-to-discuss-blockchain-and-digital-assets-at-7th-world-government-summit-7f15a275.md)
 * 2019-02-07 [Более 5 500 000 000 USDC была перенесена на цепь](https://github.com/theyapapa/cryptonews/blob/ru/over-55-billion-usdc-has-been-transferred-on-chain-c82db1ab.md)
 * 2019-02-07 [Системы цифрового удостоверения, основанные на Blockchain, все чаще наХодят использование в реальных условиях](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-based-digital-id-systems-are-increasingly-finding-real-world-use-cc8843ee.md)
