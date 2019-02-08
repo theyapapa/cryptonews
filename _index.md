@@ -1,3 +1,4 @@
+* 2019-02-08 [분석: 크립 토 피아 해킹에서 토큰에 해커 청산 $320만](https://github.com/theyapapa/cryptonews/blob/ko/analysis-hackers-liquidated-32-million-in-tokens-from-cryptopia-hack-bc7451cf.md)
 * 2019-02-08 [비트 코인, 리플,이 더 리 움, 라이트 코인, EOS 비트 코인 현금, 트 론, 스텔라](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-litecoin-eos-bitcoin-cash-tron-stellar-binance-coin-bitcoin-sv-price-analysis-feb-8-8e076cdc.md)
 * 2019-02-08 [비트 코인은 마이너 주식 시장 침체를 보고 가운데 $3450 마크를 나누기](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-the-3-450-mark-amid-minor-stock-market-sees-downturn-7665a6c8.md)
 * 2019-02-08 [이 더 리 움은 검증 지연 기능을 개발 하기 위해 mulling $15 백만 투자를 거부](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-denies-it-is-mulling-15-mln-investment-to-develop-verifiable-delay-functions-baefafec.md)
