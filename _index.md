@@ -1,3 +1,4 @@
+* 2019-02-08 [SEC 위원 잭슨 생각 레 귤 레이 터는 BTC ETF를 승인 합니다, 유출 인터뷰 쇼](https://github.com/theyapapa/cryptonews/blob/ko/sec-commissioner-jackson-thinks-regulator-will-approve-btc-etf-leaked-interview-shows-0ee7c264.md)
 * 2019-02-08 [텍사스 증권 레 귤 레이 터는 2018에서 의심 되는 암호화 투자에 대해 발행 된 16 개 주문을 보여준다](https://github.com/theyapapa/cryptonews/blob/ko/texas-securities-regulator-reveals-16-orders-issued-to-suspect-crypto-investments-in-2018-d261b039.md)
 * 2019-02-07 [wsj: 전문가는 쿼드 rigacx 자금이 붙어 있지 주장 하지만, 모두 누락](https://github.com/theyapapa/cryptonews/blob/ko/wsj-expert-claims-quadrigacx-funds-not-stuck-but-missing-altogether-78676888.md)
 * 2019-02-07 [huobi 보고서 100% 2018 2017에 거래 볼륨 증가](https://github.com/theyapapa/cryptonews/blob/ko/huobi-reports-100-percent-increase-in-trading-volumes-in-2018-over-2017-e7bbad78.md)
