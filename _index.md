@@ -1,3 +1,4 @@
+* 2019-02-08 [Bitcoin ломает $3 450 Марк фоне малого фондового рынка видит спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-the-3-450-mark-amid-minor-stock-market-sees-downturn-7665a6c8.md)
 * 2019-02-08 [Эфириум отрицает, что это обДумывает $15 млн инвестиций для разработки подДающихся проверке функций задержки](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-denies-it-is-mulling-15-mln-investment-to-develop-verifiable-delay-functions-baefafec.md)
 * 2019-02-08 [Южно-Корейская крипто-биржа Бисумб Ланш внебиржевой торговая платформа](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-crypto-exchange-bithumb-lanches-over-the-counter-trading-platform-2a1b7114.md)
 * 2019-02-08 [SEC комиссар Джексон думает регулятор утвердит BTC ETF, утечка интервью показывает](https://github.com/theyapapa/cryptonews/blob/ru/sec-commissioner-jackson-thinks-regulator-will-approve-btc-etf-leaked-interview-shows-0ee7c264.md)
