@@ -1,3 +1,4 @@
+* 2019-02-08 [비트 코인 나누기 $3600 가격 포인트, 일부 최고 cryptos는 두 자릿수 이득을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-3-600-price-point-some-top-cryptos-see-double-digit-gains-69c30f32.md)
 * 2019-02-08 [의료 R&D 얼라이언스, 데이터 공유를 포함 하는 블록 체인 프로젝트 확장](https://github.com/theyapapa/cryptonews/blob/ko/medical-rd-alliance-expands-blockchain-project-to-include-data-sharing-779a24ab.md)
 * 2019-02-08 [분석: 크립 토 피아 해킹에서 토큰에 해커 청산 $320만](https://github.com/theyapapa/cryptonews/blob/ko/analysis-hackers-liquidated-32-million-in-tokens-from-cryptopia-hack-bc7451cf.md)
 * 2019-02-08 [비트 코인, 리플,이 더 리 움, 라이트 코인, EOS 비트 코인 현금, 트 론, 스텔라](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ripple-ethereum-litecoin-eos-bitcoin-cash-tron-stellar-binance-coin-bitcoin-sv-price-analysis-feb-8-8e076cdc.md)
