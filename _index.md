@@ -1,3 +1,4 @@
+* 2019-02-09 [Intercontinental Exchange CEO: Bakkt lanzará a finales de este año](https://github.com/theyapapa/cryptonews/blob/es/intercontinental-exchange-ceo-bakkt-will-launch-later-this-year-f5690a6f.md)
 * 2019-02-09 [La plataforma criptográfica del operador de NYSE Bakkt finaliza su primera adquisición](https://github.com/theyapapa/cryptonews/blob/es/nyse-operators-crypto-platform-bakkt-finalizes-its-first-acquisition-fabded27.md)
 * 2019-02-09 [Lista de Forbes "FinTech 50", revisado: nuevos jugadores, veteranos y startups que no hicieron el corte ](https://github.com/theyapapa/cryptonews/blob/es/forbes-fintech-50-list-reviewed-new-players-veterans-and-startups-which-didnt-make-the-cut-835afe70.md)
 * 2019-02-09 [Tarjeta estatal Argentina de transporte público SUBE acepta Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/argentinas-state-public-transport-card-sube-accepts-bitcoin-fd2bcbec.md)
