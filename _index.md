@@ -1,3 +1,4 @@
+* 2019-02-09 [Bitfinex reanuda el Trading después de una interrupción inesperada de 2 horas como la oleada de Crypto Markets](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-resumes-trading-after-unexpected-2-hour-outage-as-crypto-markets-surge-905377ef.md)
 * 2019-02-08 [Bitcoin breaks $3.600 punto de precio, algunos Top Cryptos ver ganancias de doble dígito](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-3-600-price-point-some-top-cryptos-see-double-digit-gains-69c30f32.md)
 * 2019-02-08 [La Alianza médica R&D expande el proyecto blockchain para incluir el uso compartido de datos](https://github.com/theyapapa/cryptonews/blob/es/medical-rd-alliance-expands-blockchain-project-to-include-data-sharing-779a24ab.md)
 * 2019-02-08 [Análisis: hackers liquidados $3,2 millones en tokens de Cryptopia hack](https://github.com/theyapapa/cryptonews/blob/es/analysis-hackers-liquidated-32-million-in-tokens-from-cryptopia-hack-bc7451cf.md)
