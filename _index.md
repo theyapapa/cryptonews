@@ -1,3 +1,4 @@
+* 2019-02-09 [Государственная общественная трансПортная карточка Аргентины СУБЕ принимает биткоин](https://github.com/theyapapa/cryptonews/blob/ru/argentinas-state-public-transport-card-sube-accepts-bitcoin-fd2bcbec.md)
 * 2019-02-09 [Bitfinex возобновляет торговлю после неожиданного 2-часового отключения как переНапряжения крипто-рынков](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-resumes-trading-after-unexpected-2-hour-outage-as-crypto-markets-surge-905377ef.md)
 * 2019-02-08 [Bitcoin Breaks $3 600 Цена точка, некоторые топ крипты увидеть двойной-цифра выгоды](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-3-600-price-point-some-top-cryptos-see-double-digit-gains-69c30f32.md)
 * 2019-02-08 [Медицинский R&D Альянс расширяет Блокчейн-проект, чтобы включить обмен данными](https://github.com/theyapapa/cryptonews/blob/ru/medical-rd-alliance-expands-blockchain-project-to-include-data-sharing-779a24ab.md)
