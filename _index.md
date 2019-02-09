@@ -1,3 +1,4 @@
+* 2019-02-09 [bitfinex는 암호화 시장 급증으로 예기치 않은 2 시간 중단 후 거래를 재개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-resumes-trading-after-unexpected-2-hour-outage-as-crypto-markets-surge-905377ef.md)
 * 2019-02-08 [비트 코인 나누기 $3600 가격 포인트, 일부 최고 cryptos는 두 자릿수 이득을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-3-600-price-point-some-top-cryptos-see-double-digit-gains-69c30f32.md)
 * 2019-02-08 [의료 R&D 얼라이언스, 데이터 공유를 포함 하는 블록 체인 프로젝트 확장](https://github.com/theyapapa/cryptonews/blob/ko/medical-rd-alliance-expands-blockchain-project-to-include-data-sharing-779a24ab.md)
 * 2019-02-08 [분석: 크립 토 피아 해킹에서 토큰에 해커 청산 $320만](https://github.com/theyapapa/cryptonews/blob/ko/analysis-hackers-liquidated-32-million-in-tokens-from-cryptopia-hack-bc7451cf.md)
