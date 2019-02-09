@@ -1,3 +1,4 @@
+* 2019-02-09 [Крипто-платформа оператора NYSE Баккт завершает свое первое приобретение](https://github.com/theyapapa/cryptonews/blob/ru/nyse-operators-crypto-platform-bakkt-finalizes-its-first-acquisition-fabded27.md)
 * 2019-02-09 [Forbes "50" список, отзыв: новые игроки, ветераны и стартапы, которые не делают разрез ](https://github.com/theyapapa/cryptonews/blob/ru/forbes-fintech-50-list-reviewed-new-players-veterans-and-startups-which-didnt-make-the-cut-835afe70.md)
 * 2019-02-09 [Государственная общественная трансПортная карточка Аргентины СУБЕ принимает биткоин](https://github.com/theyapapa/cryptonews/blob/ru/argentinas-state-public-transport-card-sube-accepts-bitcoin-fd2bcbec.md)
 * 2019-02-09 [Bitfinex возобновляет торговлю после неожиданного 2-часового отключения как переНапряжения крипто-рынков](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-resumes-trading-after-unexpected-2-hour-outage-as-crypto-markets-surge-905377ef.md)
