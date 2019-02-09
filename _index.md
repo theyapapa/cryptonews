@@ -1,3 +1,4 @@
+* 2019-02-09 [아르헨티나의 주 대 중 교통 카드 sube는 비트 코인을 허용](https://github.com/theyapapa/cryptonews/blob/ko/argentinas-state-public-transport-card-sube-accepts-bitcoin-fd2bcbec.md)
 * 2019-02-09 [bitfinex는 암호화 시장 급증으로 예기치 않은 2 시간 중단 후 거래를 재개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-resumes-trading-after-unexpected-2-hour-outage-as-crypto-markets-surge-905377ef.md)
 * 2019-02-08 [비트 코인 나누기 $3600 가격 포인트, 일부 최고 cryptos는 두 자릿수 이득을 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-3-600-price-point-some-top-cryptos-see-double-digit-gains-69c30f32.md)
 * 2019-02-08 [의료 R&D 얼라이언스, 데이터 공유를 포함 하는 블록 체인 프로젝트 확장](https://github.com/theyapapa/cryptonews/blob/ko/medical-rd-alliance-expands-blockchain-project-to-include-data-sharing-779a24ab.md)
