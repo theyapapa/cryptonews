@@ -1,3 +1,4 @@
+* 2019-02-10 [hodler의 다이제스트, 2 월 4-10: 상단 이야기, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-february-410-top-stories-price-movements-quotes-and-fud-of-the-week-35bc7337.md)
 * 2019-02-10 [fundstrat 기대 2019 높은 암호 가격을 지 원하는 증분 향상을 가져올](https://github.com/theyapapa/cryptonews/blob/ko/fundstrat-expects-2019-to-bring-incremental-improvements-supporting-higher-crypto-prices-cf3f8a54.md)
 * 2019-02-10 [어떻게 우리는 개의 년을 기억할 것인가? ICO 시장 하락, 규정 준수 및 기타 시사점을 향한 동향](https://github.com/theyapapa/cryptonews/blob/ko/how-we-will-remember-the-year-of-the-dog-ico-market-decline-trend-toward-compliance-and-other-takeaways-b14158ee.md)
 * 2019-02-10 [맨 위로 5 암호화 수행자 개요: 라이트 코인, binance 동전, EOS, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-litecoin-binance-coin-eos-ethereum-monero-cb6770c5.md)
