@@ -1,3 +1,4 @@
+* 2019-02-10 [어떻게 우리는 개의 년을 기억할 것인가? ICO 시장 하락, 규정 준수 및 기타 시사점을 향한 동향](https://github.com/theyapapa/cryptonews/blob/ko/how-we-will-remember-the-year-of-the-dog-ico-market-decline-trend-toward-compliance-and-other-takeaways-b14158ee.md)
 * 2019-02-10 [맨 위로 5 암호화 수행자 개요: 라이트 코인, binance 동전, EOS, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-litecoin-binance-coin-eos-ethereum-monero-cb6770c5.md)
 * 2019-02-10 [SEC ' 암호화 엄마 ': 암호화 규제의 지연은 기술에 대 한 더 많은 자유를 허용 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/sec-crypto-mom-delay-in-crypto-regulation-may-allow-more-freedom-for-technology-31cde63e.md)
 * 2019-02-09 [인터컨티넨탈 거래소 대표이사: bakkt, 올해 하반기 출시 예정](https://github.com/theyapapa/cryptonews/blob/ko/intercontinental-exchange-ceo-bakkt-will-launch-later-this-year-f5690a6f.md)
