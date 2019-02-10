@@ -1,3 +1,4 @@
+* 2019-02-10 [SEC ' 암호화 엄마 ': 암호화 규제의 지연은 기술에 대 한 더 많은 자유를 허용 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/sec-crypto-mom-delay-in-crypto-regulation-may-allow-more-freedom-for-technology-31cde63e.md)
 * 2019-02-09 [인터컨티넨탈 거래소 대표이사: bakkt, 올해 하반기 출시 예정](https://github.com/theyapapa/cryptonews/blob/ko/intercontinental-exchange-ceo-bakkt-will-launch-later-this-year-f5690a6f.md)
 * 2019-02-09 [뉴욕 증권 거래소 운영자의 암호화 플랫폼 bakkt, 최초의 인수를 마무리](https://github.com/theyapapa/cryptonews/blob/ko/nyse-operators-crypto-platform-bakkt-finalizes-its-first-acquisition-fabded27.md)
 * 2019-02-09 [포브스 "핀 테크 50" 목록, 검토: 컷을 하지 않은 새로운 선수, 재향 군인과 신생 기업 ](https://github.com/theyapapa/cryptonews/blob/ko/forbes-fintech-50-list-reviewed-new-players-veterans-and-startups-which-didnt-make-the-cut-835afe70.md)
