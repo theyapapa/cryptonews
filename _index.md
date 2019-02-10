@@ -1,3 +1,4 @@
+* 2019-02-10 [Top 5 cripto intérpretes Resumen: Litecoin, Binance Coin, EOS, Dash, Monero](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-litecoin-binance-coin-eos-ethereum-monero-cb6770c5.md)
 * 2019-02-10 [SEC ' Crypto Mom ': retraso en la regulación Crypto puede permitir más libertad para la tecnología](https://github.com/theyapapa/cryptonews/blob/es/sec-crypto-mom-delay-in-crypto-regulation-may-allow-more-freedom-for-technology-31cde63e.md)
 * 2019-02-09 [Intercontinental Exchange CEO: Bakkt lanzará a finales de este año](https://github.com/theyapapa/cryptonews/blob/es/intercontinental-exchange-ceo-bakkt-will-launch-later-this-year-f5690a6f.md)
 * 2019-02-09 [La plataforma criptográfica del operador de NYSE Bakkt finaliza su primera adquisición](https://github.com/theyapapa/cryptonews/blob/es/nyse-operators-crypto-platform-bakkt-finalizes-its-first-acquisition-fabded27.md)
