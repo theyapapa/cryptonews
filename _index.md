@@ -1,3 +1,4 @@
+* 2019-02-11 [El nuevo ETF propuesto abarcaría futuros Bitcoin junto con instrumentos de deuda soberana](https://github.com/theyapapa/cryptonews/blob/es/new-proposed-etf-would-encompass-bitcoin-futures-alongside-sovereign-debt-instruments-bb8f70ba.md)
 * 2019-02-11 [Intercambio de Eau y plataforma de pago Unimoni Únete a la red de pagos de Ripple](https://github.com/theyapapa/cryptonews/blob/es/uae-exchange-and-payment-platform-unimoni-join-ripples-payments-network-5c7e6cdf.md)
 * 2019-02-11 [IBM Partnership usa blockchain, IoT para combatir la sequía en California](https://github.com/theyapapa/cryptonews/blob/es/ibm-partnership-uses-blockchain-iot-to-combat-drought-in-california-1e0ef90a.md)
 * 2019-02-11 [Banco de España advierte a los ciudadanos contra cripto dada la falta de regulaciones locales](https://github.com/theyapapa/cryptonews/blob/es/bank-of-spain-warns-citizens-against-crypto-given-lack-of-local-regulations-6ee1a3a4.md)
