@@ -1,3 +1,4 @@
+* 2019-02-11 [Банк Испании предупреждает граждан против крипто учитывая отсутствие местных правил](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-spain-warns-citizens-against-crypto-given-lack-of-local-regulations-6ee1a3a4.md)
 * 2019-02-11 [Новая платформа позволяет торгов через 200 инструменты и работает образовательные Crypto Show](https://github.com/theyapapa/cryptonews/blob/ru/new-platform-enables-trades-across-200-tools-and-runs-educational-crypto-show-f8de2caa.md)
 * 2019-02-11 [ПодДельные MetaMask Crypto вредоносных выТащил из Google Play после чаевые-офф](https://github.com/theyapapa/cryptonews/blob/ru/fake-metamask-crypto-malware-pulled-from-google-play-after-tip-off-50913328.md)
 * 2019-02-10 [Дайджест Ходлер, 4 – 10 февраля: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-february-410-top-stories-price-movements-quotes-and-fud-of-the-week-35bc7337.md)
