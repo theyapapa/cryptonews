@@ -1,3 +1,4 @@
+* 2019-02-11 [Рынок Crypto Bear влияющий на оценку венчурного капитала](https://github.com/theyapapa/cryptonews/blob/ru/crypto-bear-market-affecting-venture-capital-valuations-0a28817e.md)
 * 2019-02-11 [Венесуэла налагает сборы и ограничения на местные переводы Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-imposes-fees-and-limits-on-local-crypto-remittances-9b77374d.md)
 * 2019-02-11 [Новый предлагаемый ETF будет охватывать биткойн-фьючерсы наряду с суверенными долговыми инструментами](https://github.com/theyapapa/cryptonews/blob/ru/new-proposed-etf-would-encompass-bitcoin-futures-alongside-sovereign-debt-instruments-bb8f70ba.md)
 * 2019-02-11 [ОАЭ обмен и платежная платформа Унимони приСоединиться к сети платежей пульсации](https://github.com/theyapapa/cryptonews/blob/ru/uae-exchange-and-payment-platform-unimoni-join-ripples-payments-network-5c7e6cdf.md)
