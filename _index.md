@@ -1,3 +1,4 @@
+* 2019-02-11 [IBM 파트너십은 캘리포니아에서 가뭄에 대처 하기 위해 블록 체인, IoT를 사용 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ibm-partnership-uses-blockchain-iot-to-combat-drought-in-california-1e0ef90a.md)
 * 2019-02-11 [스페인 은행은 지역 규정의 부족으로 암호화에 대 한 시민 경고](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-spain-warns-citizens-against-crypto-given-lack-of-local-regulations-6ee1a3a4.md)
 * 2019-02-11 [새로운 플랫폼은 200 도구에 걸쳐 거래를 가능 하 게 하 고 교육 암호화 쇼를 실행](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-enables-trades-across-200-tools-and-runs-educational-crypto-show-f8de2caa.md)
 * 2019-02-11 [팁 오프 후 구글 플레이에서 뽑아 가짜 metamask 암호화 악성 코드](https://github.com/theyapapa/cryptonews/blob/ko/fake-metamask-crypto-malware-pulled-from-google-play-after-tip-off-50913328.md)
