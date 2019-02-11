@@ -1,3 +1,4 @@
+* 2019-02-11 [스페인 은행은 지역 규정의 부족으로 암호화에 대 한 시민 경고](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-spain-warns-citizens-against-crypto-given-lack-of-local-regulations-6ee1a3a4.md)
 * 2019-02-11 [새로운 플랫폼은 200 도구에 걸쳐 거래를 가능 하 게 하 고 교육 암호화 쇼를 실행](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-enables-trades-across-200-tools-and-runs-educational-crypto-show-f8de2caa.md)
 * 2019-02-11 [팁 오프 후 구글 플레이에서 뽑아 가짜 metamask 암호화 악성 코드](https://github.com/theyapapa/cryptonews/blob/ko/fake-metamask-crypto-malware-pulled-from-google-play-after-tip-off-50913328.md)
 * 2019-02-10 [hodler의 다이제스트, 2 월 4-10: 상단 이야기, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-february-410-top-stories-price-movements-quotes-and-fud-of-the-week-35bc7337.md)
