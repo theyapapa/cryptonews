@@ -1,3 +1,4 @@
+* 2019-02-11 [Новая платформа позволяет торгов через 200 инструменты и работает образовательные Crypto Show](https://github.com/theyapapa/cryptonews/blob/ru/new-platform-enables-trades-across-200-tools-and-runs-educational-crypto-show-f8de2caa.md)
 * 2019-02-11 [ПодДельные MetaMask Crypto вредоносных выТащил из Google Play после чаевые-офф](https://github.com/theyapapa/cryptonews/blob/ru/fake-metamask-crypto-malware-pulled-from-google-play-after-tip-off-50913328.md)
 * 2019-02-10 [Дайджест Ходлер, 4 – 10 февраля: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-february-410-top-stories-price-movements-quotes-and-fud-of-the-week-35bc7337.md)
 * 2019-02-10 [Фундстрат ожидает, что 2019 доВести добавочные улучшения поддержки более высоких цен крипто](https://github.com/theyapapa/cryptonews/blob/ru/fundstrat-expects-2019-to-bring-incremental-improvements-supporting-higher-crypto-prices-cf3f8a54.md)
