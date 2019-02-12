@@ -1,3 +1,4 @@
+* 2019-02-12 [블록 체인 VC와 bithumb 파트너가 UAE에서 환전을 시작 하는 회사: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/bithumb-partners-with-blockchain-vc-firm-nvelop-to-launch-exchange-in-uae-report-eb42ffec.md)
 * 2019-02-12 [블록 체인 데이터 보안 이니셔티브에 합류 한 제너럴 모터스의 재무 암](https://github.com/theyapapa/cryptonews/blob/ko/general-motors-finance-arm-joins-blockchain-data-security-initiative-db603d9a.md)
 * 2019-02-11 [IBM, 멜버른 클라우드 서비스에 블록 체인 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/ibm-launches-blockchain-platform-on-cloud-service-in-melbourne-f30650d4.md)
 * 2019-02-11 [보고서: 비트 코인 거래 수수료 2014 수준 하락](https://github.com/theyapapa/cryptonews/blob/ko/report-bitcoin-transaction-fees-fall-to-2014-levels-670175a3.md)
