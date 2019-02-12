@@ -1,3 +1,4 @@
+* 2019-02-12 [블록 체인 데이터 보안 이니셔티브에 합류 한 제너럴 모터스의 재무 암](https://github.com/theyapapa/cryptonews/blob/ko/general-motors-finance-arm-joins-blockchain-data-security-initiative-db603d9a.md)
 * 2019-02-11 [IBM, 멜버른 클라우드 서비스에 블록 체인 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/ibm-launches-blockchain-platform-on-cloud-service-in-melbourne-f30650d4.md)
 * 2019-02-11 [보고서: 비트 코인 거래 수수료 2014 수준 하락](https://github.com/theyapapa/cryptonews/blob/ko/report-bitcoin-transaction-fees-fall-to-2014-levels-670175a3.md)
 * 2019-02-11 [벤처 캐피탈 밸류에이 터에 영향을 미치는 암호화 베어 시장](https://github.com/theyapapa/cryptonews/blob/ko/crypto-bear-market-affecting-venture-capital-valuations-0a28817e.md)
