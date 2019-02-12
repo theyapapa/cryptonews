@@ -1,3 +1,4 @@
+* 2019-02-11 [IBM запускает Блокчейн-платформу на облачном сервисе в Мельбурне](https://github.com/theyapapa/cryptonews/blob/ru/ibm-launches-blockchain-platform-on-cloud-service-in-melbourne-f30650d4.md)
 * 2019-02-11 [Отчет: Bitcoin транзакции сборы падают до 2014 уровней](https://github.com/theyapapa/cryptonews/blob/ru/report-bitcoin-transaction-fees-fall-to-2014-levels-670175a3.md)
 * 2019-02-11 [Рынок Crypto Bear влияющий на оценку венчурного капитала](https://github.com/theyapapa/cryptonews/blob/ru/crypto-bear-market-affecting-venture-capital-valuations-0a28817e.md)
 * 2019-02-11 [Венесуэла налагает сборы и ограничения на местные переводы Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-imposes-fees-and-limits-on-local-crypto-remittances-9b77374d.md)
