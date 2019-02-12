@@ -1,3 +1,4 @@
+* 2019-02-12 [Два американских пенсии свинца $40 000 000 раунд в Morgan Creek новый Блокчейн-фонд](https://github.com/theyapapa/cryptonews/blob/ru/two-us-pensions-lead-40-million-round-in-morgan-creeks-new-blockchain-fund-40d4f3b7.md)
 * 2019-02-12 [Бисумб партнеры с Блокчейн VC фирма Нвелоп для запуска Exchange в ОАЭ: отчет](https://github.com/theyapapa/cryptonews/blob/ru/bithumb-partners-with-blockchain-vc-firm-nvelop-to-launch-exchange-in-uae-report-eb42ffec.md)
 * 2019-02-12 [Генеральный Motors "Финансы ARM приСоединяется к инициативе по обеспечению безопасности данных Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/general-motors-finance-arm-joins-blockchain-data-security-initiative-db603d9a.md)
 * 2019-02-11 [IBM запускает Блокчейн-платформу на облачном сервисе в Мельбурне](https://github.com/theyapapa/cryptonews/blob/ru/ibm-launches-blockchain-platform-on-cloud-service-in-melbourne-f30650d4.md)
