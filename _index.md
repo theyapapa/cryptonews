@@ -1,3 +1,4 @@
+* 2019-02-12 [Bithumb se asocia con la firma de blockchain VC Nvelop para lanzar Exchange en los EAU: informe](https://github.com/theyapapa/cryptonews/blob/es/bithumb-partners-with-blockchain-vc-firm-nvelop-to-launch-exchange-in-uae-report-eb42ffec.md)
 * 2019-02-12 [El brazo financiero de General Motors se une a la iniciativa de seguridad de datos blockchain](https://github.com/theyapapa/cryptonews/blob/es/general-motors-finance-arm-joins-blockchain-data-security-initiative-db603d9a.md)
 * 2019-02-11 [IBM lanza plataforma blockchain en servicio en la nube en Melbourne](https://github.com/theyapapa/cryptonews/blob/es/ibm-launches-blockchain-platform-on-cloud-service-in-melbourne-f30650d4.md)
 * 2019-02-11 [Informe: las comisiones de transacción de Bitcoin caen a 2014 niveles](https://github.com/theyapapa/cryptonews/blob/es/report-bitcoin-transaction-fees-fall-to-2014-levels-670175a3.md)
