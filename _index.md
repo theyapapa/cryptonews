@@ -1,3 +1,4 @@
+* 2019-02-11 [IBM lanza plataforma blockchain en servicio en la nube en Melbourne](https://github.com/theyapapa/cryptonews/blob/es/ibm-launches-blockchain-platform-on-cloud-service-in-melbourne-f30650d4.md)
 * 2019-02-11 [Informe: las comisiones de transacción de Bitcoin caen a 2014 niveles](https://github.com/theyapapa/cryptonews/blob/es/report-bitcoin-transaction-fees-fall-to-2014-levels-670175a3.md)
 * 2019-02-11 [Mercado del oso Crypto que afecta a valuaciones de capital riesgo](https://github.com/theyapapa/cryptonews/blob/es/crypto-bear-market-affecting-venture-capital-valuations-0a28817e.md)
 * 2019-02-11 [Venezuela impone cuotas y límites a las remesas criptográficas locales](https://github.com/theyapapa/cryptonews/blob/es/venezuela-imposes-fees-and-limits-on-local-crypto-remittances-9b77374d.md)
