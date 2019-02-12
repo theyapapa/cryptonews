@@ -1,3 +1,4 @@
+* 2019-02-12 [' 수집품 공간에서 가장 큰 이름 ' NYC 이벤트에서 대체 불가능 한 토큰에 참석 하기](https://github.com/theyapapa/cryptonews/blob/ko/biggest-names-in-the-collectibles-space-to-attend-nyc-event-on-non-fungible-tokens-080cd27a.md)
 * 2019-02-12 [리플, 마스터 및 클레이는 리플 기반 송금 회사 sendfriend에 투자](https://github.com/theyapapa/cryptonews/blob/ko/ripple-mastercard-and-barclays-invest-in-ripple-based-remittance-firm-sendfriend-dadbdb04.md)
 * 2019-02-12 [두 미국 연금 리드 $4000만 모건 크릭의 새로운 블록 체인 펀드 라운드](https://github.com/theyapapa/cryptonews/blob/ko/two-us-pensions-lead-40-million-round-in-morgan-creeks-new-blockchain-fund-40d4f3b7.md)
 * 2019-02-12 [블록 체인 VC와 bithumb 파트너가 UAE에서 환전을 시작 하는 회사: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/bithumb-partners-with-blockchain-vc-firm-nvelop-to-launch-exchange-in-uae-report-eb42ffec.md)
