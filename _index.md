@@ -1,3 +1,4 @@
+* 2019-02-11 [보고서: 비트 코인 거래 수수료 2014 수준 하락](https://github.com/theyapapa/cryptonews/blob/ko/report-bitcoin-transaction-fees-fall-to-2014-levels-670175a3.md)
 * 2019-02-11 [벤처 캐피탈 밸류에이 터에 영향을 미치는 암호화 베어 시장](https://github.com/theyapapa/cryptonews/blob/ko/crypto-bear-market-affecting-venture-capital-valuations-0a28817e.md)
 * 2019-02-11 [베네수엘라는 지역 암호 송금에 대 한 수수료와 한도를 부과 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-imposes-fees-and-limits-on-local-crypto-remittances-9b77374d.md)
 * 2019-02-11 [새로운 제안 된 ETF는 주권 채권 상품과 함께 비트 코인 선물을 포괄 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-proposed-etf-would-encompass-bitcoin-futures-alongside-sovereign-debt-instruments-bb8f70ba.md)
