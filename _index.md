@@ -1,3 +1,4 @@
+* 2019-02-13 [Actual mercado ICO es más grande Тhan al inicio de 2017, muestra de datos](https://github.com/theyapapa/cryptonews/blob/es/current-ico-market-is-bigger-than-at-the-start-of-2017-data-shows-4b8a47dd.md)
 * 2019-02-13 [Intel lanza un paquete comercial de blockchain basado en Hyperledger fabric](https://github.com/theyapapa/cryptonews/blob/es/intel-launches-commercial-blockchain-package-based-on-hyperledger-fabric-47e10aca.md)
 * 2019-02-13 [Buterin-propuesto Constantinopla Ethereum característica supuestamente introduce vector de ataque](https://github.com/theyapapa/cryptonews/blob/es/buterin-proposed-constantinople-ethereum-feature-allegedly-introduces-attack-vector-5c4fdbde.md)
 * 2019-02-13 [El ex JPMorgan exec se convierte en nuevo CEO de la plataforma de Trading de commodities basada en blockchain Vakt](https://github.com/theyapapa/cryptonews/blob/es/former-jpmorgan-exec-becomes-new-ceo-of-blockchain-based-commodity-trading-platform-vakt-fe1080f5.md)
