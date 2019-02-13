@@ -1,3 +1,4 @@
+* 2019-02-13 [Текущий рынок ICO больше Тхан в начале 2017, данные показывает](https://github.com/theyapapa/cryptonews/blob/ru/current-ico-market-is-bigger-than-at-the-start-of-2017-data-shows-4b8a47dd.md)
 * 2019-02-13 [Intel запускает коммерческий пакет Блокчейн на основе ткани ГК](https://github.com/theyapapa/cryptonews/blob/ru/intel-launches-commercial-blockchain-package-based-on-hyperledger-fabric-47e10aca.md)
 * 2019-02-13 [Бутерин-предлагаемые Константинополь Эфириум характеристика якобы вводит атаки вектор](https://github.com/theyapapa/cryptonews/blob/ru/buterin-proposed-constantinople-ethereum-feature-allegedly-introduces-attack-vector-5c4fdbde.md)
 * 2019-02-13 [Бывший JPMorgan Exec становится новым ГЕНЕРАЛЬНым ДИРЕКТОРом Блокчейн основе товарной торговой платформы Вакт](https://github.com/theyapapa/cryptonews/blob/ru/former-jpmorgan-exec-becomes-new-ceo-of-blockchain-based-commodity-trading-platform-vakt-fe1080f5.md)
