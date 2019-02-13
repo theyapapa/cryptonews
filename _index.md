@@ -1,3 +1,4 @@
+* 2019-02-13 [Intel запускает коммерческий пакет Блокчейн на основе ткани ГК](https://github.com/theyapapa/cryptonews/blob/ru/intel-launches-commercial-blockchain-package-based-on-hyperledger-fabric-47e10aca.md)
 * 2019-02-13 [Бутерин-предлагаемые Константинополь Эфириум характеристика якобы вводит атаки вектор](https://github.com/theyapapa/cryptonews/blob/ru/buterin-proposed-constantinople-ethereum-feature-allegedly-introduces-attack-vector-5c4fdbde.md)
 * 2019-02-13 [Бывший JPMorgan Exec становится новым ГЕНЕРАЛЬНым ДИРЕКТОРом Блокчейн основе товарной торговой платформы Вакт](https://github.com/theyapapa/cryptonews/blob/ru/former-jpmorgan-exec-becomes-new-ceo-of-blockchain-based-commodity-trading-platform-vakt-fe1080f5.md)
 * 2019-02-13 [UC Berkeley запускает Ускоритель на ранних стадиях Блокчейн-стартапов](https://github.com/theyapapa/cryptonews/blob/ru/uc-berkeley-launches-accelerator-for-early-stage-blockchain-startups-b8c061d8.md)
