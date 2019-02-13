@@ -1,3 +1,4 @@
+* 2019-02-13 [Предложение по ETF после Bitcoin фьючерсы, Суверенный долг отозван SEC запрос](https://github.com/theyapapa/cryptonews/blob/ru/proposal-for-etf-following-bitcoin-futures-sovereign-debt-withdrawn-by-sec-request-5dd3d001.md)
 * 2019-02-13 [Coinbase выДает $30 000 вознаграждение за обнаружение критической ошибки](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-gives-out-30-000-reward-for-detecting-critical-bug-098a5b6a.md)
 * 2019-02-13 [Текущий рынок ICO больше Тхан в начале 2017, данные показывает](https://github.com/theyapapa/cryptonews/blob/ru/current-ico-market-is-bigger-than-at-the-start-of-2017-data-shows-4b8a47dd.md)
 * 2019-02-13 [Intel запускает коммерческий пакет Блокчейн на основе ткани ГК](https://github.com/theyapapa/cryptonews/blob/ru/intel-launches-commercial-blockchain-package-based-on-hyperledger-fabric-47e10aca.md)
