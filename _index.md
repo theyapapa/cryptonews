@@ -1,3 +1,4 @@
+* 2019-02-12 [Coinbase бумажник пользователи могут резервное копирование зашифрованных ключей на Google Drive и iCloud](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-wallet-users-can-back-up-encrypted-keys-on-google-drive-and-icloud-6b6a1408.md)
 * 2019-02-12 [Доклад: Куадригаккс случайно переНесли $500K в BTC на холодные кошельки он не может получить доступ](https://github.com/theyapapa/cryptonews/blob/ru/report-quadrigacx-accidentally-transferred-500k-in-btc-to-cold-wallets-it-cannot-access-fcfc7f62.md)
 * 2019-02-12 [Использование Блокчейн-платформы Oracle для повышения платежных процессов](https://github.com/theyapapa/cryptonews/blob/ru/fintech-startup-to-use-oracle-blockchain-platform-to-boost-payment-processes-a8b52535.md)
 * 2019-02-12 [Эфириум ежедневные майнинг награды Аre на самом низком уровне когда-либо сообщалось](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-daily-mining-rewards-are-at-lowest-level-ever-reported-db2de8fa.md)
