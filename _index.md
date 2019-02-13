@@ -1,3 +1,4 @@
+* 2019-02-12 [Los usuarios de Coinbase Wallet pueden hacer copias de respaldo de claves cifradas en Google Drive y iCloud](https://github.com/theyapapa/cryptonews/blob/es/coinbase-wallet-users-can-back-up-encrypted-keys-on-google-drive-and-icloud-6b6a1408.md)
 * 2019-02-12 [Informe: QuadrigaCX accidentalmente transferido $500K en BTC a carteras frías no puede acceder](https://github.com/theyapapa/cryptonews/blob/es/report-quadrigacx-accidentally-transferred-500k-in-btc-to-cold-wallets-it-cannot-access-fcfc7f62.md)
 * 2019-02-12 [FinTech startup utilizará Oracle blockchain Platform para impulsar los procesos de pago](https://github.com/theyapapa/cryptonews/blob/es/fintech-startup-to-use-oracle-blockchain-platform-to-boost-payment-processes-a8b52535.md)
 * 2019-02-12 [Ethereum Daily Mining Rewards Аre en el nivel más bajo jamás reportado](https://github.com/theyapapa/cryptonews/blob/es/ethereum-daily-mining-rewards-are-at-lowest-level-ever-reported-db2de8fa.md)
