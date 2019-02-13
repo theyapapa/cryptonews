@@ -1,3 +1,4 @@
+* 2019-02-13 [전 jp 모건이 젝은 블록 체인 기반 상품 거래 플랫폼 vakt의 새로운 CEO가 된다.](https://github.com/theyapapa/cryptonews/blob/ko/former-jpmorgan-exec-becomes-new-ceo-of-blockchain-based-commodity-trading-platform-vakt-fe1080f5.md)
 * 2019-02-13 [UC 버클리, 초기 단계 블록 체인 신생 기업을 위한 가속기 출시](https://github.com/theyapapa/cryptonews/blob/ko/uc-berkeley-launches-accelerator-for-early-stage-blockchain-startups-b8c061d8.md)
 * 2019-02-13 [xbt 공급자는 암호 화폐 바구니의 발사를 연기로 지식 격차를 인정](https://github.com/theyapapa/cryptonews/blob/ko/xbt-provider-admits-knowledge-gaps-as-it-postpones-launch-of-cryptocurrency-basket-e993ed3d.md)
 * 2019-02-12 [coinbase 지갑 사용자는 구글 드라이브와 iCloud에 암호화 된 키를 백업할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-wallet-users-can-back-up-encrypted-keys-on-google-drive-and-icloud-6b6a1408.md)
