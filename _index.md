@@ -1,3 +1,4 @@
+* 2019-02-13 [버티의 제안 콘스탄티노플이 더 리 움 기능은 공격 벡터를 소개](https://github.com/theyapapa/cryptonews/blob/ko/buterin-proposed-constantinople-ethereum-feature-allegedly-introduces-attack-vector-5c4fdbde.md)
 * 2019-02-13 [전 jp 모건이 젝은 블록 체인 기반 상품 거래 플랫폼 vakt의 새로운 CEO가 된다.](https://github.com/theyapapa/cryptonews/blob/ko/former-jpmorgan-exec-becomes-new-ceo-of-blockchain-based-commodity-trading-platform-vakt-fe1080f5.md)
 * 2019-02-13 [UC 버클리, 초기 단계 블록 체인 신생 기업을 위한 가속기 출시](https://github.com/theyapapa/cryptonews/blob/ko/uc-berkeley-launches-accelerator-for-early-stage-blockchain-startups-b8c061d8.md)
 * 2019-02-13 [xbt 공급자는 암호 화폐 바구니의 발사를 연기로 지식 격차를 인정](https://github.com/theyapapa/cryptonews/blob/ko/xbt-provider-admits-knowledge-gaps-as-it-postpones-launch-of-cryptocurrency-basket-e993ed3d.md)
