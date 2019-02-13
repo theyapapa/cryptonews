@@ -1,3 +1,4 @@
+* 2019-02-13 [Coinbase entrega $30.000 recompensa por detectar errores críticos](https://github.com/theyapapa/cryptonews/blob/es/coinbase-gives-out-30-000-reward-for-detecting-critical-bug-098a5b6a.md)
 * 2019-02-13 [Actual mercado ICO es más grande Тhan al inicio de 2017, muestra de datos](https://github.com/theyapapa/cryptonews/blob/es/current-ico-market-is-bigger-than-at-the-start-of-2017-data-shows-4b8a47dd.md)
 * 2019-02-13 [Intel lanza un paquete comercial de blockchain basado en Hyperledger fabric](https://github.com/theyapapa/cryptonews/blob/es/intel-launches-commercial-blockchain-package-based-on-hyperledger-fabric-47e10aca.md)
 * 2019-02-13 [Buterin-propuesto Constantinopla Ethereum característica supuestamente introduce vector de ataque](https://github.com/theyapapa/cryptonews/blob/es/buterin-proposed-constantinople-ethereum-feature-allegedly-introduces-attack-vector-5c4fdbde.md)
