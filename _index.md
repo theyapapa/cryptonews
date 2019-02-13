@@ -1,3 +1,4 @@
+* 2019-02-13 [현재 ICO 시장은 2017의 시작에서 더 큰 т han, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/current-ico-market-is-bigger-than-at-the-start-of-2017-data-shows-4b8a47dd.md)
 * 2019-02-13 [인텔, 하이퍼 레저 패브릭을 기반으로 상업용 블록 체인 패키지 출시](https://github.com/theyapapa/cryptonews/blob/ko/intel-launches-commercial-blockchain-package-based-on-hyperledger-fabric-47e10aca.md)
 * 2019-02-13 [버티의 제안 콘스탄티노플이 더 리 움 기능은 공격 벡터를 소개](https://github.com/theyapapa/cryptonews/blob/ko/buterin-proposed-constantinople-ethereum-feature-allegedly-introduces-attack-vector-5c4fdbde.md)
 * 2019-02-13 [전 jp 모건이 젝은 블록 체인 기반 상품 거래 플랫폼 vakt의 새로운 CEO가 된다.](https://github.com/theyapapa/cryptonews/blob/ko/former-jpmorgan-exec-becomes-new-ceo-of-blockchain-based-commodity-trading-platform-vakt-fe1080f5.md)
