@@ -1,3 +1,4 @@
+* 2019-02-12 [보고서: 쿼드 리그 x 실수로 BTC에 $500k를 전송 하 여 냉장 지갑에 액세스할 수 없습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-quadrigacx-accidentally-transferred-500k-in-btc-to-cold-wallets-it-cannot-access-fcfc7f62.md)
 * 2019-02-12 [핀 테크 스타트업, 오라클 블록 체인 플랫폼을 사용 하 여 결제 프로세스 강화](https://github.com/theyapapa/cryptonews/blob/ko/fintech-startup-to-use-oracle-blockchain-platform-to-boost-payment-processes-a8b52535.md)
 * 2019-02-12 [에 테 리 움 매일 광업 보상 а re에서 가장 낮은 수준까지 보고](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-daily-mining-rewards-are-at-lowest-level-ever-reported-db2de8fa.md)
 * 2019-02-12 [gox의 수 탁자는 거래소에 덤프 하 여 2018에서 비트 코인을 추락 했을 수도 있지만 여전히 희망이 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-trustee-may-have-crashed-bitcoin-in-2018-by-dumping-it-on-an-exchange-but-there-is-still-hope-608e75b1.md)
