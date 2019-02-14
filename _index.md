@@ -1,3 +1,4 @@
+* 2019-02-13 [Большинство цифровых токенов ' будет идти к нулю ' говорит цифровой валютной группы Генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/most-digital-tokens-will-go-to-zero-says-digital-currency-group-ceo-f1776689.md)
 * 2019-02-13 [Институт децентрализованной экономики запускает в Великобритании для изучения Блокчейн экономических систем](https://github.com/theyapapa/cryptonews/blob/ru/institute-of-decentralized-economics-launches-in-uk-to-study-blockchain-economic-systems-0947aec3.md)
 * 2019-02-13 [Предложение по ETF после Bitcoin фьючерсы, Суверенный долг отозван SEC запрос](https://github.com/theyapapa/cryptonews/blob/ru/proposal-for-etf-following-bitcoin-futures-sovereign-debt-withdrawn-by-sec-request-5dd3d001.md)
 * 2019-02-13 [Coinbase выДает $30 000 вознаграждение за обнаружение критической ошибки](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-gives-out-30-000-reward-for-detecting-critical-bug-098a5b6a.md)
