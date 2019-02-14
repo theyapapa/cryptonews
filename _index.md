@@ -1,3 +1,4 @@
+* 2019-02-14 [JPMorgan Чейз запускает ' JPM монета ", используя Crypto для ускорения расчетов](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-chase-launches-jpm-coin-using-crypto-to-speed-settlements-b9d6496c.md)
 * 2019-02-14 [Независимые исследования претензий определить пять Куадригаккс холодные кошельки](https://github.com/theyapapa/cryptonews/blob/ru/independent-research-claims-to-identify-five-quadrigacx-cold-wallets-cb6cab3b.md)
 * 2019-02-14 [Первый опубликованный 2019 экзамен приоритеты выявить основные криптовалюты фокус](https://github.com/theyapapa/cryptonews/blob/ru/cftcs-first-published-2019-examination-priorities-reveal-major-cryptocurrency-focus-56e47d00.md)
 * 2019-02-13 [Большинство цифровых токенов ' будет идти к нулю ' говорит цифровой валютной группы Генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/most-digital-tokens-will-go-to-zero-says-digital-currency-group-ceo-f1776689.md)
