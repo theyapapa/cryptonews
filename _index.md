@@ -1,3 +1,4 @@
+* 2019-02-14 [Fondos de pensiones del Condado de Fairfax invirtieron $21 millones en tecnología blockchain](https://github.com/theyapapa/cryptonews/blob/es/fairfax-county-pension-funds-invested-21-million-in-blockchain-technology-a8158212.md)
 * 2019-02-14 [Ministro de Justicia de Rusia: criptomoneda aún no necesita ser definida legalmente](https://github.com/theyapapa/cryptonews/blob/es/russian-minister-of-justice-cryptocurrency-doesnt-yet-need-to-be-legally-defined-7e956dac.md)
 * 2019-02-14 [Empresa centrada en Ethereum Standards Consortium EEE para formar ' token Task Force '](https://github.com/theyapapa/cryptonews/blob/es/enterprise-focused-ethereum-standards-consortium-eea-to-form-token-task-force-f2834bd7.md)
 * 2019-02-14 [Top Crypto Exchange CFO de Binance: negocio aún rentable, a pesar de Bear Market](https://github.com/theyapapa/cryptonews/blob/es/top-crypto-exchange-binances-cfo-business-still-profitable-despite-bear-market-d1079b7f.md)
