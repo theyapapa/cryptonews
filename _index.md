@@ -1,3 +1,4 @@
+* 2019-02-14 [페어 팩스 카운티 펜 션 펀드는 $2100만 블록 체인 기술에 투자 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/fairfax-county-pension-funds-invested-21-million-in-blockchain-technology-a8158212.md)
 * 2019-02-14 [러시아 법무부: 암호 화폐는 아직 법적으로 정의 될 필요가 없습니다.](https://github.com/theyapapa/cryptonews/blob/ko/russian-minister-of-justice-cryptocurrency-doesnt-yet-need-to-be-legally-defined-7e956dac.md)
 * 2019-02-14 [' 토큰 태스크 포스 '를 형성 하기 위한 엔터프라이즈 중심의이 더 리 움 표준 컨소시엄](https://github.com/theyapapa/cryptonews/blob/ko/enterprise-focused-ethereum-standards-consortium-eea-to-form-token-task-force-f2834bd7.md)
 * 2019-02-14 [최고 암호 교환 binance의 CFO: 곰 시장에도 불구 하 고 비즈니스는 여전히 수익성](https://github.com/theyapapa/cryptonews/blob/ko/top-crypto-exchange-binances-cfo-business-still-profitable-despite-bear-market-d1079b7f.md)
