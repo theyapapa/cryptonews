@@ -1,3 +1,4 @@
+* 2019-02-14 [Фэрфакс Каунти пенсионные фонды инвестировали $21 000 000 в Блокчейн технологии](https://github.com/theyapapa/cryptonews/blob/ru/fairfax-county-pension-funds-invested-21-million-in-blockchain-technology-a8158212.md)
 * 2019-02-14 [Министр юстиции России: Криптовалюта еще не должна быть юридически определена](https://github.com/theyapapa/cryptonews/blob/ru/russian-minister-of-justice-cryptocurrency-doesnt-yet-need-to-be-legally-defined-7e956dac.md)
 * 2019-02-14 [Корпоративный-ориентированных Эфириум стандарты консорциум ЕАОС сформировать ' token Целевая группа '](https://github.com/theyapapa/cryptonews/blob/ru/enterprise-focused-ethereum-standards-consortium-eea-to-form-token-task-force-f2834bd7.md)
 * 2019-02-14 [Топ Crypto Exchange Binance финансовый директор: бизнес все еще выгодно, несмотря на медвежий рынок](https://github.com/theyapapa/cryptonews/blob/ru/top-crypto-exchange-binances-cfo-business-still-profitable-despite-bear-market-d1079b7f.md)
