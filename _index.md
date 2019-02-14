@@ -1,3 +1,4 @@
+* 2019-02-14 [jp 모건 체이스 ' jpm 동전 ' 출시, 타협 속도를 암호화를 사용 하 여](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-chase-launches-jpm-coin-using-crypto-to-speed-settlements-b9d6496c.md)
 * 2019-02-14 [독립적인 연구를 통해 5 개의 쿼드 리그 콜드 지갑 식별](https://github.com/theyapapa/cryptonews/blob/ko/independent-research-claims-to-identify-five-quadrigacx-cold-wallets-cb6cab3b.md)
 * 2019-02-14 [cftc의 첫 출판 2019 심사 우선 순위는 주요 암호 화폐 집중을 공개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/cftcs-first-published-2019-examination-priorities-reveal-major-cryptocurrency-focus-56e47d00.md)
 * 2019-02-13 [대부분의 디지털 토큰 ' 0으로 이동 합니다 ' 디지털 통화 그룹 CEO 말한다](https://github.com/theyapapa/cryptonews/blob/ko/most-digital-tokens-will-go-to-zero-says-digital-currency-group-ceo-f1776689.md)
