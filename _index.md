@@ -1,3 +1,4 @@
+* 2019-02-14 [Empresa centrada en Ethereum Standards Consortium EEE para formar ' token Task Force '](https://github.com/theyapapa/cryptonews/blob/es/enterprise-focused-ethereum-standards-consortium-eea-to-form-token-task-force-f2834bd7.md)
 * 2019-02-14 [Top Crypto Exchange CFO de Binance: negocio aún rentable, a pesar de Bear Market](https://github.com/theyapapa/cryptonews/blob/es/top-crypto-exchange-binances-cfo-business-still-profitable-despite-bear-market-d1079b7f.md)
 * 2019-02-14 [JPMorgan Chase lanza ' JPM Coin, ' usando Crypto para acelerar los asentamientos](https://github.com/theyapapa/cryptonews/blob/es/jpmorgan-chase-launches-jpm-coin-using-crypto-to-speed-settlements-b9d6496c.md)
 * 2019-02-14 [Investigaciones independientes afirman identificar cinco carteras frías QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/independent-research-claims-to-identify-five-quadrigacx-cold-wallets-cb6cab3b.md)
