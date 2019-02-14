@@ -1,3 +1,4 @@
+* 2019-02-14 [Investigaciones independientes afirman identificar cinco carteras frías QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/independent-research-claims-to-identify-five-quadrigacx-cold-wallets-cb6cab3b.md)
 * 2019-02-14 [Primera publicación de CFTC 2019 prioridades de examen revelan mayor enfoque criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/cftcs-first-published-2019-examination-priorities-reveal-major-cryptocurrency-focus-56e47d00.md)
 * 2019-02-13 [La mayoría de los tokens digitales "van a cero" dice CEO del grupo de moneda digital](https://github.com/theyapapa/cryptonews/blob/es/most-digital-tokens-will-go-to-zero-says-digital-currency-group-ceo-f1776689.md)
 * 2019-02-13 [Instituto de economía descentralizada se lanza en Reino Unido para estudiar sistemas económicos blockchain](https://github.com/theyapapa/cryptonews/blob/es/institute-of-decentralized-economics-launches-in-uk-to-study-blockchain-economic-systems-0947aec3.md)
