@@ -1,3 +1,4 @@
+* 2019-02-13 [대부분의 디지털 토큰 ' 0으로 이동 합니다 ' 디지털 통화 그룹 CEO 말한다](https://github.com/theyapapa/cryptonews/blob/ko/most-digital-tokens-will-go-to-zero-says-digital-currency-group-ceo-f1776689.md)
 * 2019-02-13 [블록 체인 경제 시스템을 연구 하기 위해 영국에서 분산화 경제학 연구소 출범](https://github.com/theyapapa/cryptonews/blob/ko/institute-of-decentralized-economics-launches-in-uk-to-study-blockchain-economic-systems-0947aec3.md)
 * 2019-02-13 [비트 코인 선물에 따라 ETF에 대 한 제안, SEC 요청에의 한 주권 채무 철회](https://github.com/theyapapa/cryptonews/blob/ko/proposal-for-etf-following-bitcoin-futures-sovereign-debt-withdrawn-by-sec-request-5dd3d001.md)
 * 2019-02-13 [coinbase는 중요 한 버그를 감지 하는 $3만 보상을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-gives-out-30-000-reward-for-detecting-critical-bug-098a5b6a.md)
