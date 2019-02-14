@@ -1,3 +1,4 @@
+* 2019-02-14 [' 토큰 태스크 포스 '를 형성 하기 위한 엔터프라이즈 중심의이 더 리 움 표준 컨소시엄](https://github.com/theyapapa/cryptonews/blob/ko/enterprise-focused-ethereum-standards-consortium-eea-to-form-token-task-force-f2834bd7.md)
 * 2019-02-14 [최고 암호 교환 binance의 CFO: 곰 시장에도 불구 하 고 비즈니스는 여전히 수익성](https://github.com/theyapapa/cryptonews/blob/ko/top-crypto-exchange-binances-cfo-business-still-profitable-despite-bear-market-d1079b7f.md)
 * 2019-02-14 [jp 모건 체이스 ' jpm 동전 ' 출시, 타협 속도를 암호화를 사용 하 여](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-chase-launches-jpm-coin-using-crypto-to-speed-settlements-b9d6496c.md)
 * 2019-02-14 [독립적인 연구를 통해 5 개의 쿼드 리그 콜드 지갑 식별](https://github.com/theyapapa/cryptonews/blob/ko/independent-research-claims-to-identify-five-quadrigacx-cold-wallets-cb6cab3b.md)
