@@ -1,3 +1,4 @@
+* 2019-02-14 [독립적인 연구를 통해 5 개의 쿼드 리그 콜드 지갑 식별](https://github.com/theyapapa/cryptonews/blob/ko/independent-research-claims-to-identify-five-quadrigacx-cold-wallets-cb6cab3b.md)
 * 2019-02-14 [cftc의 첫 출판 2019 심사 우선 순위는 주요 암호 화폐 집중을 공개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/cftcs-first-published-2019-examination-priorities-reveal-major-cryptocurrency-focus-56e47d00.md)
 * 2019-02-13 [대부분의 디지털 토큰 ' 0으로 이동 합니다 ' 디지털 통화 그룹 CEO 말한다](https://github.com/theyapapa/cryptonews/blob/ko/most-digital-tokens-will-go-to-zero-says-digital-currency-group-ceo-f1776689.md)
 * 2019-02-13 [블록 체인 경제 시스템을 연구 하기 위해 영국에서 분산화 경제학 연구소 출범](https://github.com/theyapapa/cryptonews/blob/ko/institute-of-decentralized-economics-launches-in-uk-to-study-blockchain-economic-systems-0947aec3.md)
