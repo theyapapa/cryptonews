@@ -1,3 +1,4 @@
+* 2019-02-15 [인도네시아: 새로운 법안은 거래 상품으로 암호화를 인식](https://github.com/theyapapa/cryptonews/blob/ko/indonesia-new-legislation-recognizes-crypto-as-trading-commodity-137fc13c.md)
 * 2019-02-15 [암호화 시장은 혼합 신호를 계속 보고, 다우 존스는 360 포인트 이상](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-continue-to-see-mixed-signals-dow-jones-up-over-360-points-f0cdb80c.md)
 * 2019-02-15 [아르헨티나는 비트 코인을 사용 하 여 파라과이와 수출 거래 정착](https://github.com/theyapapa/cryptonews/blob/ko/argentina-settles-export-deal-with-paraguay-using-bitcoin-85b46e06.md)
 * 2019-02-15 [현대 상업 파트너, IBM과 함께 블록 체인 개발 가속화](https://github.com/theyapapa/cryptonews/blob/ko/hyundai-commercial-partners-with-ibm-to-accelerate-blockchain-development-ed4f7ce7.md)
