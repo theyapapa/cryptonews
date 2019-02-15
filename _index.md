@@ -1,3 +1,4 @@
+* 2019-02-14 [캐나다 판사, 쿼드 리그 클라이언트에 대 한 법적 대리 결정 지연](https://github.com/theyapapa/cryptonews/blob/ko/canadian-judge-delays-decision-on-legal-representation-for-quadrigacx-clients-6d23dda1.md)
 * 2019-02-14 [룩셈부르크, 블록 체인 프레임 워크 법안을 법으로 전달](https://github.com/theyapapa/cryptonews/blob/ko/luxembourg-passes-blockchain-framework-bill-into-law-08536eb7.md)
 * 2019-02-14 [페어 팩스 카운티 펜 션 펀드는 $2100만 블록 체인 기술에 투자 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/fairfax-county-pension-funds-invested-21-million-in-blockchain-technology-a8158212.md)
 * 2019-02-14 [러시아 법무부: 암호 화폐는 아직 법적으로 정의 될 필요가 없습니다.](https://github.com/theyapapa/cryptonews/blob/ko/russian-minister-of-justice-cryptocurrency-doesnt-yet-need-to-be-legally-defined-7e956dac.md)
