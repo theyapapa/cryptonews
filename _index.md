@@ -1,3 +1,4 @@
+* 2019-02-15 [Argentina liquida acuerdo de exportación con Paraguay usando Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/argentina-settles-export-deal-with-paraguay-using-bitcoin-85b46e06.md)
 * 2019-02-15 [Socios comerciales de Hyundai con IBM acelerarán el desarrollo de blockchain](https://github.com/theyapapa/cryptonews/blob/es/hyundai-commercial-partners-with-ibm-to-accelerate-blockchain-development-ed4f7ce7.md)
 * 2019-02-15 [Bakkt: ¿qué debemos esperar de un intercambio hecho a medida para inversores de Wall Street?](https://github.com/theyapapa/cryptonews/blob/es/bakkt-what-should-we-expect-from-an-exchange-tailor-made-for-wall-street-investors-dc09274c.md)
 * 2019-02-15 [La mayoría de los votantes apoyan la implementación del algoritmo ETH resistente a ASIC, los programas de votación en línea](https://github.com/theyapapa/cryptonews/blob/es/majority-of-voters-support-asic-resistant-eth-algorithm-implementation-online-vote-shows-661ff981.md)
