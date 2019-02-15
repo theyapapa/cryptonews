@@ -1,3 +1,4 @@
+* 2019-02-15 [Коммерческие партнеры Hyundai с IBM ускоряют развитие Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/hyundai-commercial-partners-with-ibm-to-accelerate-blockchain-development-ed4f7ce7.md)
 * 2019-02-15 [Баккт: что мы должны ожидать от обмена специально для Уолл-стрит инвесторов?](https://github.com/theyapapa/cryptonews/blob/ru/bakkt-what-should-we-expect-from-an-exchange-tailor-made-for-wall-street-investors-dc09274c.md)
 * 2019-02-15 [Большинство избирателей поддержка ASIC-устойчивостью ETH алгоритм реализации, онлайн голосование показывает](https://github.com/theyapapa/cryptonews/blob/ru/majority-of-voters-support-asic-resistant-eth-algorithm-implementation-online-vote-shows-661ff981.md)
 * 2019-02-15 [Основные канадские биржи Коинскуаре приОбретает нулевой платы платежной сети Стелларкс](https://github.com/theyapapa/cryptonews/blob/ru/major-canadian-exchange-coinsquare-acquires-zero-fee-payment-network-stellarx-c0a663c8.md)
