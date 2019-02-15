@@ -1,3 +1,4 @@
+* 2019-02-15 [Los informes de NVIDIA aumentan los ingresos de año completo pero las pérdidas del cuarto trimestre después de la criptomoneda ' resaca '](https://github.com/theyapapa/cryptonews/blob/es/nvidia-reports-full-year-revenue-increases-but-q4-losses-after-cryptocurrency-hangover-3bf56ff4.md)
 * 2019-02-14 [Juez canadiense retrasa decisión sobre representación legal para clientes de QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/canadian-judge-delays-decision-on-legal-representation-for-quadrigacx-clients-6d23dda1.md)
 * 2019-02-14 [Luxemburgo aprueba proyecto de ley de blockchain Framework](https://github.com/theyapapa/cryptonews/blob/es/luxembourg-passes-blockchain-framework-bill-into-law-08536eb7.md)
 * 2019-02-14 [Fondos de pensiones del Condado de Fairfax invirtieron $21 millones en tecnología blockchain](https://github.com/theyapapa/cryptonews/blob/es/fairfax-county-pension-funds-invested-21-million-in-blockchain-technology-a8158212.md)
