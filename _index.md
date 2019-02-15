@@ -1,3 +1,4 @@
+* 2019-02-15 [Los mercados criptográficos continúan viendo señales mixtas, Dow Jones hasta más de 360 puntos](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-continue-to-see-mixed-signals-dow-jones-up-over-360-points-f0cdb80c.md)
 * 2019-02-15 [Argentina liquida acuerdo de exportación con Paraguay usando Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/argentina-settles-export-deal-with-paraguay-using-bitcoin-85b46e06.md)
 * 2019-02-15 [Socios comerciales de Hyundai con IBM acelerarán el desarrollo de blockchain](https://github.com/theyapapa/cryptonews/blob/es/hyundai-commercial-partners-with-ibm-to-accelerate-blockchain-development-ed4f7ce7.md)
 * 2019-02-15 [Bakkt: ¿qué debemos esperar de un intercambio hecho a medida para inversores de Wall Street?](https://github.com/theyapapa/cryptonews/blob/es/bakkt-what-should-we-expect-from-an-exchange-tailor-made-for-wall-street-investors-dc09274c.md)
