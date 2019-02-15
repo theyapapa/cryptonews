@@ -1,3 +1,4 @@
+* 2019-02-15 [La mayor bolsa canadiense de divisas Coinsquare adquiere la red de pago Zero-Fee StellarX](https://github.com/theyapapa/cryptonews/blob/es/major-canadian-exchange-coinsquare-acquires-zero-fee-payment-network-stellarx-c0a663c8.md)
 * 2019-02-15 [Los informes de NVIDIA aumentan los ingresos de año completo pero las pérdidas del cuarto trimestre después de la criptomoneda ' resaca '](https://github.com/theyapapa/cryptonews/blob/es/nvidia-reports-full-year-revenue-increases-but-q4-losses-after-cryptocurrency-hangover-3bf56ff4.md)
 * 2019-02-14 [Juez canadiense retrasa decisión sobre representación legal para clientes de QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/canadian-judge-delays-decision-on-legal-representation-for-quadrigacx-clients-6d23dda1.md)
 * 2019-02-14 [Luxemburgo aprueba proyecto de ley de blockchain Framework](https://github.com/theyapapa/cryptonews/blob/es/luxembourg-passes-blockchain-framework-bill-into-law-08536eb7.md)
