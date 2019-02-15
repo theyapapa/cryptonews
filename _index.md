@@ -1,3 +1,4 @@
+* 2019-02-15 [bakkt: 우리는 월 스트리트 투자자를 위한 교환 맞춤형으로 무엇을 기대 해야 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/bakkt-what-should-we-expect-from-an-exchange-tailor-made-for-wall-street-investors-dc09274c.md)
 * 2019-02-15 [대다수의 유권자 들은 ASIC에 저항 하는 ETH 알고리즘 구현을 지원 하며, 온라인 투표는](https://github.com/theyapapa/cryptonews/blob/ko/majority-of-voters-support-asic-resistant-eth-algorithm-implementation-online-vote-shows-661ff981.md)
 * 2019-02-15 [캐나다 주요 거래소 코인 스퀘어, 제로 수수료 지불 네트워크 스텔라 스 획득](https://github.com/theyapapa/cryptonews/blob/ko/major-canadian-exchange-coinsquare-acquires-zero-fee-payment-network-stellarx-c0a663c8.md)
 * 2019-02-15 [엔비디아는 전체 년 수익을 보고 하지만 암호 해독 ' 숙취 ' 후 4 분기 손실](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-reports-full-year-revenue-increases-but-q4-losses-after-cryptocurrency-hangover-3bf56ff4.md)
