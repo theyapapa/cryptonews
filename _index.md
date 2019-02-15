@@ -1,3 +1,4 @@
+* 2019-02-15 [아르헨티나는 비트 코인을 사용 하 여 파라과이와 수출 거래 정착](https://github.com/theyapapa/cryptonews/blob/ko/argentina-settles-export-deal-with-paraguay-using-bitcoin-85b46e06.md)
 * 2019-02-15 [현대 상업 파트너, IBM과 함께 블록 체인 개발 가속화](https://github.com/theyapapa/cryptonews/blob/ko/hyundai-commercial-partners-with-ibm-to-accelerate-blockchain-development-ed4f7ce7.md)
 * 2019-02-15 [bakkt: 우리는 월 스트리트 투자자를 위한 교환 맞춤형으로 무엇을 기대 해야 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/bakkt-what-should-we-expect-from-an-exchange-tailor-made-for-wall-street-investors-dc09274c.md)
 * 2019-02-15 [대다수의 유권자 들은 ASIC에 저항 하는 ETH 알고리즘 구현을 지원 하며, 온라인 투표는](https://github.com/theyapapa/cryptonews/blob/ko/majority-of-voters-support-asic-resistant-eth-algorithm-implementation-online-vote-shows-661ff981.md)
