@@ -1,3 +1,4 @@
+* 2019-02-15 [대다수의 유권자 들은 ASIC에 저항 하는 ETH 알고리즘 구현을 지원 하며, 온라인 투표는](https://github.com/theyapapa/cryptonews/blob/ko/majority-of-voters-support-asic-resistant-eth-algorithm-implementation-online-vote-shows-661ff981.md)
 * 2019-02-15 [캐나다 주요 거래소 코인 스퀘어, 제로 수수료 지불 네트워크 스텔라 스 획득](https://github.com/theyapapa/cryptonews/blob/ko/major-canadian-exchange-coinsquare-acquires-zero-fee-payment-network-stellarx-c0a663c8.md)
 * 2019-02-15 [엔비디아는 전체 년 수익을 보고 하지만 암호 해독 ' 숙취 ' 후 4 분기 손실](https://github.com/theyapapa/cryptonews/blob/ko/nvidia-reports-full-year-revenue-increases-but-q4-losses-after-cryptocurrency-hangover-3bf56ff4.md)
 * 2019-02-14 [캐나다 판사, 쿼드 리그 클라이언트에 대 한 법적 대리 결정 지연](https://github.com/theyapapa/cryptonews/blob/ko/canadian-judge-delays-decision-on-legal-representation-for-quadrigacx-clients-6d23dda1.md)
