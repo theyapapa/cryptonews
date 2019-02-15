@@ -1,3 +1,4 @@
+* 2019-02-15 [NVIDIA отчеты годовой доход увеличивается но Q4 потери после "поХмелье" криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/nvidia-reports-full-year-revenue-increases-but-q4-losses-after-cryptocurrency-hangover-3bf56ff4.md)
 * 2019-02-14 [Канадский судья заДерживает решение о правовом представительстве для клиентов Куадригаккс](https://github.com/theyapapa/cryptonews/blob/ru/canadian-judge-delays-decision-on-legal-representation-for-quadrigacx-clients-6d23dda1.md)
 * 2019-02-14 [Люксембург передает Блокчейн рамочный законопроект в Закон](https://github.com/theyapapa/cryptonews/blob/ru/luxembourg-passes-blockchain-framework-bill-into-law-08536eb7.md)
 * 2019-02-14 [Фэрфакс Каунти пенсионные фонды инвестировали $21 000 000 в Блокчейн технологии](https://github.com/theyapapa/cryptonews/blob/ru/fairfax-county-pension-funds-invested-21-million-in-blockchain-technology-a8158212.md)
