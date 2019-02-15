@@ -1,3 +1,4 @@
+* 2019-02-15 [Индонезия: новое законодательство приЗнает Crypto как торговый товар](https://github.com/theyapapa/cryptonews/blob/ru/indonesia-new-legislation-recognizes-crypto-as-trading-commodity-137fc13c.md)
 * 2019-02-15 [Crypto Markets продолжают видеть смешанные сигналы, Dow Jones вверх над 360 очками](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-continue-to-see-mixed-signals-dow-jones-up-over-360-points-f0cdb80c.md)
 * 2019-02-15 [Аргентина урегулирован экспорт сделки с Парагваем с помощью Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/argentina-settles-export-deal-with-paraguay-using-bitcoin-85b46e06.md)
 * 2019-02-15 [Коммерческие партнеры Hyundai с IBM ускоряют развитие Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/hyundai-commercial-partners-with-ibm-to-accelerate-blockchain-development-ed4f7ce7.md)
