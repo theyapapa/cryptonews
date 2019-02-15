@@ -1,3 +1,4 @@
+* 2019-02-14 [Канадский судья заДерживает решение о правовом представительстве для клиентов Куадригаккс](https://github.com/theyapapa/cryptonews/blob/ru/canadian-judge-delays-decision-on-legal-representation-for-quadrigacx-clients-6d23dda1.md)
 * 2019-02-14 [Люксембург передает Блокчейн рамочный законопроект в Закон](https://github.com/theyapapa/cryptonews/blob/ru/luxembourg-passes-blockchain-framework-bill-into-law-08536eb7.md)
 * 2019-02-14 [Фэрфакс Каунти пенсионные фонды инвестировали $21 000 000 в Блокчейн технологии](https://github.com/theyapapa/cryptonews/blob/ru/fairfax-county-pension-funds-invested-21-million-in-blockchain-technology-a8158212.md)
 * 2019-02-14 [Министр юстиции России: Криптовалюта еще не должна быть юридически определена](https://github.com/theyapapa/cryptonews/blob/ru/russian-minister-of-justice-cryptocurrency-doesnt-yet-need-to-be-legally-defined-7e956dac.md)
