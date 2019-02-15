@@ -1,3 +1,4 @@
+* 2019-02-15 [Основные канадские биржи Коинскуаре приОбретает нулевой платы платежной сети Стелларкс](https://github.com/theyapapa/cryptonews/blob/ru/major-canadian-exchange-coinsquare-acquires-zero-fee-payment-network-stellarx-c0a663c8.md)
 * 2019-02-15 [NVIDIA отчеты годовой доход увеличивается но Q4 потери после "поХмелье" криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/nvidia-reports-full-year-revenue-increases-but-q4-losses-after-cryptocurrency-hangover-3bf56ff4.md)
 * 2019-02-14 [Канадский судья заДерживает решение о правовом представительстве для клиентов Куадригаккс](https://github.com/theyapapa/cryptonews/blob/ru/canadian-judge-delays-decision-on-legal-representation-for-quadrigacx-clients-6d23dda1.md)
 * 2019-02-14 [Люксембург передает Блокчейн рамочный законопроект в Закон](https://github.com/theyapapa/cryptonews/blob/ru/luxembourg-passes-blockchain-framework-bill-into-law-08536eb7.md)
