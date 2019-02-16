@@ -1,3 +1,4 @@
+* 2019-02-15 [Clúster de blockchain de Moscú necesita mecanismo de propiedad intelectual, dice experto](https://github.com/theyapapa/cryptonews/blob/es/moscow-blockchain-cluster-needs-intellectual-property-mechanism-says-expert-681d25dd.md)
 * 2019-02-15 [Indonesia: nueva legislación reconoce a Crypto como mercancía comercial](https://github.com/theyapapa/cryptonews/blob/es/indonesia-new-legislation-recognizes-crypto-as-trading-commodity-137fc13c.md)
 * 2019-02-15 [Los mercados criptográficos continúan viendo señales mixtas, Dow Jones hasta más de 360 puntos](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-continue-to-see-mixed-signals-dow-jones-up-over-360-points-f0cdb80c.md)
 * 2019-02-15 [Argentina liquida acuerdo de exportación con Paraguay usando Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/argentina-settles-export-deal-with-paraguay-using-bitcoin-85b46e06.md)
