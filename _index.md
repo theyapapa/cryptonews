@@ -1,3 +1,4 @@
+* 2019-02-16 [Интервью с крипто ' оптимист ' Брайан Келли: Bitcoin все еще 50 процента недооценивается](https://github.com/theyapapa/cryptonews/blob/ru/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued-b6730b78.md)
 * 2019-02-16 [Большинство крипты видят нежный зеленый фоне чрезвычайно спокойной картину рынка](https://github.com/theyapapa/cryptonews/blob/ru/most-cryptos-see-gentle-green-amid-exceedingly-calm-market-picture-2c8d114a.md)
 * 2019-02-16 [Виталик Бутерин увольнения слухи новый Константинополь особенность позволяет атаковать вектор](https://github.com/theyapapa/cryptonews/blob/ru/vitalik-buterin-dismisses-rumors-new-constantinople-feature-allows-attack-vector-7c5f6af2.md)
 * 2019-02-16 [Основные крипто брокерских Коинмама отчеты 450 000 пользователей, пострадавших от нарушения данных](https://github.com/theyapapa/cryptonews/blob/ru/major-crypto-brokerage-coinmama-reports-450-000-users-affected-by-data-breach-697a6ed1.md)
