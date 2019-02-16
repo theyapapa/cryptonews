@@ -1,3 +1,4 @@
+* 2019-02-16 [Норвегия: анархо-капиталист умный город принимает крипто как единственная узнанная середина обмена](https://github.com/theyapapa/cryptonews/blob/ru/norway-anarcho-capitalist-smart-city-adopts-crypto-as-sole-recognized-medium-of-exchange-7d7b2f5d.md)
 * 2019-02-15 [Блокчейн-платформа NEO открывает офис в Сиэтле, возглавляемый ex-Microsoft Exec](https://github.com/theyapapa/cryptonews/blob/ru/neo-blockchain-platform-opens-seattle-office-headed-by-ex-microsoft-exec-abe55d67.md)
 * 2019-02-15 [Московский Блокчейн-кластер нуждается в механизме интеллектуальной собственности, говорит эксперт](https://github.com/theyapapa/cryptonews/blob/ru/moscow-blockchain-cluster-needs-intellectual-property-mechanism-says-expert-681d25dd.md)
 * 2019-02-15 [Индонезия: новое законодательство приЗнает Crypto как торговый товар](https://github.com/theyapapa/cryptonews/blob/ru/indonesia-new-legislation-recognizes-crypto-as-trading-commodity-137fc13c.md)
