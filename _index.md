@@ -1,3 +1,4 @@
+* 2019-02-16 [Noruega: la ciudad inteligente anarquista-capitalista adopta Crypto como único medio de intercambio reconocido](https://github.com/theyapapa/cryptonews/blob/es/norway-anarcho-capitalist-smart-city-adopts-crypto-as-sole-recognized-medium-of-exchange-7d7b2f5d.md)
 * 2019-02-15 [NEO blockchain Platform abre la oficina de Seattle encabezada por ex-Microsoft exec](https://github.com/theyapapa/cryptonews/blob/es/neo-blockchain-platform-opens-seattle-office-headed-by-ex-microsoft-exec-abe55d67.md)
 * 2019-02-15 [Clúster de blockchain de Moscú necesita mecanismo de propiedad intelectual, dice experto](https://github.com/theyapapa/cryptonews/blob/es/moscow-blockchain-cluster-needs-intellectual-property-mechanism-says-expert-681d25dd.md)
 * 2019-02-15 [Indonesia: nueva legislación reconoce a Crypto como mercancía comercial](https://github.com/theyapapa/cryptonews/blob/es/indonesia-new-legislation-recognizes-crypto-as-trading-commodity-137fc13c.md)
