@@ -1,3 +1,4 @@
+* 2019-02-16 [주요 암호화 중개 coinmama 보고서 45만 데이터 유출의 영향을 받는 사용자](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-brokerage-coinmama-reports-450-000-users-affected-by-data-breach-697a6ed1.md)
 * 2019-02-16 [노르웨이: anarcho-자본주의 스마트 시티는 거래소의 유일한 인정 매체로 암호화를 채택 한다](https://github.com/theyapapa/cryptonews/blob/ko/norway-anarcho-capitalist-smart-city-adopts-crypto-as-sole-recognized-medium-of-exchange-7d7b2f5d.md)
 * 2019-02-15 [네오 블록 체인 플랫폼이 Ex-마이크로 소프트 Exec에의 한 시애틀 사무소 오픈](https://github.com/theyapapa/cryptonews/blob/ko/neo-blockchain-platform-opens-seattle-office-headed-by-ex-microsoft-exec-abe55d67.md)
 * 2019-02-15 [모스크바 블록 체인 클러스터에는 지적 재산권 메커니즘이 필요 하며 전문가는](https://github.com/theyapapa/cryptonews/blob/ko/moscow-blockchain-cluster-needs-intellectual-property-mechanism-says-expert-681d25dd.md)
