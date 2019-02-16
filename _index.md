@@ -1,3 +1,4 @@
+* 2019-02-16 [대부분의 크립 토는 상당히 차분한 시장 사진 속에서 부드러운 녹색을 볼](https://github.com/theyapapa/cryptonews/blob/ko/most-cryptos-see-gentle-green-amid-exceedingly-calm-market-picture-2c8d114a.md)
 * 2019-02-16 [비트 버티 소문 새로운 콘스탄티노플 기능을 사용 하면 공격 벡터](https://github.com/theyapapa/cryptonews/blob/ko/vitalik-buterin-dismisses-rumors-new-constantinople-feature-allows-attack-vector-7c5f6af2.md)
 * 2019-02-16 [주요 암호화 중개 coinmama 보고서 45만 데이터 유출의 영향을 받는 사용자](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-brokerage-coinmama-reports-450-000-users-affected-by-data-breach-697a6ed1.md)
 * 2019-02-16 [노르웨이: anarcho-자본주의 스마트 시티는 거래소의 유일한 인정 매체로 암호화를 채택 한다](https://github.com/theyapapa/cryptonews/blob/ko/norway-anarcho-capitalist-smart-city-adopts-crypto-as-sole-recognized-medium-of-exchange-7d7b2f5d.md)
