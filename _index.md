@@ -1,3 +1,4 @@
+* 2019-02-17 [폐기물 관리 회사, UAE 도시에서 블록 체인 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/waste-management-firm-launches-blockchain-platform-in-uae-city-2c1594bd.md)
 * 2019-02-17 [인도: 경찰 체포 용의자 $1400만 암호화 사기 혐의](https://github.com/theyapapa/cryptonews/blob/ko/india-police-arrest-suspects-in-alleged-14-million-crypto-scam-f6c0bb5c.md)
 * 2019-02-17 [비트 코인은 $3630 근처를 가리키며, 최고 크립 토는 경미한 손실을 볼 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-3-630-as-top-cryptos-see-minor-losses-d6f3a65f.md)
 * 2019-02-17 [일본: 전자 상거래 거 대 한 낙천의 새로운 결제 응용 프로그램은 암호화를 지원 하기 위해 나타납니다](https://github.com/theyapapa/cryptonews/blob/ko/japan-e-commerce-giant-rakutens-new-payment-app-appears-to-support-crypto-94428826.md)
