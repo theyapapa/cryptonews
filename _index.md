@@ -1,3 +1,4 @@
+* 2019-02-17 [일본: 전자 상거래 거 대 한 낙천의 새로운 결제 응용 프로그램은 암호화를 지원 하기 위해 나타납니다](https://github.com/theyapapa/cryptonews/blob/ko/japan-e-commerce-giant-rakutens-new-payment-app-appears-to-support-crypto-94428826.md)
 * 2019-02-17 [coinbase 지갑 사용자는 이제 Google 드라이브 및 iCloud에 개인 키를 백업할 수 있습니다. 그것은 얼마나 안전?](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-wallet-users-can-now-back-up-their-private-keys-on-google-drive-and-icloud-how-safe-is-it-1bd18faa.md)
 * 2019-02-16 [암호화 ' 옵 티 미스 트 ' 브라이언 켈리 인터뷰: 비트 코인은 여전히 50 퍼센트 과소 평가](https://github.com/theyapapa/cryptonews/blob/ko/interview-with-crypto-optimist-brian-kelly-bitcoin-is-still-50-percent-undervalued-b6730b78.md)
 * 2019-02-16 [대부분의 크립 토는 상당히 차분한 시장 사진 속에서 부드러운 녹색을 볼](https://github.com/theyapapa/cryptonews/blob/ko/most-cryptos-see-gentle-green-amid-exceedingly-calm-market-picture-2c8d114a.md)
