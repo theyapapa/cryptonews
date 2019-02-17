@@ -1,3 +1,4 @@
+* 2019-02-17 [Empresa de gestión de residuos lanza plataforma blockchain en UAE City](https://github.com/theyapapa/cryptonews/blob/es/waste-management-firm-launches-blockchain-platform-in-uae-city-2c1594bd.md)
 * 2019-02-17 [India: detención policial sospechosos en presunto $14 millones Crypto estafa](https://github.com/theyapapa/cryptonews/blob/es/india-police-arrest-suspects-in-alleged-14-million-crypto-scam-f6c0bb5c.md)
 * 2019-02-17 [Bitcoin hovers cerca de $3.630 como Top Cryptos ver pérdidas menores](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-near-3-630-as-top-cryptos-see-minor-losses-d6f3a65f.md)
 * 2019-02-17 [Japón: la nueva aplicación de pago de E-Commerce Giant Rakuten parece admitir Crypto](https://github.com/theyapapa/cryptonews/blob/es/japan-e-commerce-giant-rakutens-new-payment-app-appears-to-support-crypto-94428826.md)
