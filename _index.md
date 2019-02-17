@@ -1,3 +1,4 @@
+* 2019-02-17 [Компания по управлению отходами запускает Блокчейн-платформу в городе ОАЭ](https://github.com/theyapapa/cryptonews/blob/ru/waste-management-firm-launches-blockchain-platform-in-uae-city-2c1594bd.md)
 * 2019-02-17 [Индия: полиция арест подозреваемых в предполагаемых $14 000 000 крипто афера](https://github.com/theyapapa/cryptonews/blob/ru/india-police-arrest-suspects-in-alleged-14-million-crypto-scam-f6c0bb5c.md)
 * 2019-02-17 [Bitcoin колеблется около $3 630 как топ крипты увидеть мелкие потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-near-3-630-as-top-cryptos-see-minor-losses-d6f3a65f.md)
 * 2019-02-17 [Япония: новое платежное приложение гигантского Rakuten электронной коммерции появляется для поддержки крипто](https://github.com/theyapapa/cryptonews/blob/ru/japan-e-commerce-giant-rakutens-new-payment-app-appears-to-support-crypto-94428826.md)
