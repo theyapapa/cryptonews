@@ -1,3 +1,4 @@
+* 2019-02-18 [암호화 시장, 강세 성장, 아시아 주식 시장 앞서 미국-중국 무역 토크를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-bullish-growth-asian-stock-markets-rally-ahead-of-us-china-trade-talk-13bc06a6.md)
 * 2019-02-17 [폐기물 관리 회사, UAE 도시에서 블록 체인 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/waste-management-firm-launches-blockchain-platform-in-uae-city-2c1594bd.md)
 * 2019-02-17 [인도: 경찰 체포 용의자 $1400만 암호화 사기 혐의](https://github.com/theyapapa/cryptonews/blob/ko/india-police-arrest-suspects-in-alleged-14-million-crypto-scam-f6c0bb5c.md)
 * 2019-02-17 [비트 코인은 $3630 근처를 가리키며, 최고 크립 토는 경미한 손실을 볼 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-3-630-as-top-cryptos-see-minor-losses-d6f3a65f.md)
