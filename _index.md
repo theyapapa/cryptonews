@@ -1,3 +1,4 @@
+* 2019-02-18 [Major Omani Bank se une a RippleNet red de pagos transfronterizos](https://github.com/theyapapa/cryptonews/blob/es/major-omani-bank-joins-ripplenet-cross-border-payment-network-eab46f2c.md)
 * 2019-02-18 [Tim Draper predice Crypto voluntad regla, sólo los criminales usarán efectivo en cinco años](https://github.com/theyapapa/cryptonews/blob/es/tim-draper-predicts-crypto-will-rule-only-criminals-will-use-cash-in-five-years-8662f59f.md)
 * 2019-02-18 [Fundación iota se asocia con la incubadora Nova para financiar startups usando blockchain](https://github.com/theyapapa/cryptonews/blob/es/iota-foundation-partners-with-incubator-nova-to-fund-startups-using-blockchain-6d012a30.md)
 * 2019-02-18 [El Comisario de CFTC, Brian Quintenz, sugiere la creación de una organización Criptoreguladora](https://github.com/theyapapa/cryptonews/blob/es/cftc-commissioner-brian-quintenz-suggests-creation-of-crypto-self-regulatory-organization-83abdab7.md)
