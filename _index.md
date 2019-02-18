@@ -1,3 +1,4 @@
+* 2019-02-18 [주요 중국 대학은 블록 체인 연구 센터 출시](https://github.com/theyapapa/cryptonews/blob/ko/major-chinese-university-launches-blockchain-research-center-5adcdf65.md)
 * 2019-02-18 [주요 오만 은행 조인 립 플 네트 국경 간 결제 네트워크](https://github.com/theyapapa/cryptonews/blob/ko/major-omani-bank-joins-ripplenet-cross-border-payment-network-eab46f2c.md)
 * 2019-02-18 [팀 드 라이 퍼는 암호화가 규칙을 예측,만 범죄자는 5 년에 현금을 사용 합니다](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-predicts-crypto-will-rule-only-criminals-will-use-cash-in-five-years-8662f59f.md)
 * 2019-02-18 [Iota 재단은 블록 체인을 사용 하 여 신생 기업을 위한 인큐베이터 노바와 파트너가 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/iota-foundation-partners-with-incubator-nova-to-fund-startups-using-blockchain-6d012a30.md)
