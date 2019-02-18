@@ -1,3 +1,4 @@
+* 2019-02-18 [Informe: Coinbase-apoyado Bitcoin tarjeta de débito para cerrar operaciones en abril](https://github.com/theyapapa/cryptonews/blob/es/report-coinbase-supported-bitcoin-debit-card-to-shut-operations-in-april-fca60d9f.md)
 * 2019-02-18 [Lista de caza del producto Academia educativa Binance como tercer servicio más popular](https://github.com/theyapapa/cryptonews/blob/es/product-hunt-lists-educational-binance-academy-as-third-most-popular-service-c450f4a5.md)
 * 2019-02-18 [Cripto mercados ver crecimiento alcista, mercados de valores asiáticos Rally por delante de nosotros-China comercio hablar](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-bullish-growth-asian-stock-markets-rally-ahead-of-us-china-trade-talk-13bc06a6.md)
 * 2019-02-17 [Empresa de gestión de residuos lanza plataforma blockchain en UAE City](https://github.com/theyapapa/cryptonews/blob/es/waste-management-firm-launches-blockchain-platform-in-uae-city-2c1594bd.md)
