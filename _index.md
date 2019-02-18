@@ -1,3 +1,4 @@
+* 2019-02-18 [Iota 재단은 블록 체인을 사용 하 여 신생 기업을 위한 인큐베이터 노바와 파트너가 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/iota-foundation-partners-with-incubator-nova-to-fund-startups-using-blockchain-6d012a30.md)
 * 2019-02-18 [cftc 위원 브라이언 퀀 텐 z는 암호 자체 규제 조직의 생성을 제안](https://github.com/theyapapa/cryptonews/blob/ko/cftc-commissioner-brian-quintenz-suggests-creation-of-crypto-self-regulatory-organization-83abdab7.md)
 * 2019-02-18 [보고서: coinbase 지원 비트 코인 직불 카드는 4 월에 운영을 종료 합니다](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-supported-bitcoin-debit-card-to-shut-operations-in-april-fca60d9f.md)
 * 2019-02-18 [제품 찾기 목록 교육 binance 아카데미 세 번째 가장 인기 있는 서비스](https://github.com/theyapapa/cryptonews/blob/ko/product-hunt-lists-educational-binance-academy-as-third-most-popular-service-c450f4a5.md)
