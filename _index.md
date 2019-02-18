@@ -1,3 +1,4 @@
+* 2019-02-18 [보고서: coinbase 지원 비트 코인 직불 카드는 4 월에 운영을 종료 합니다](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-supported-bitcoin-debit-card-to-shut-operations-in-april-fca60d9f.md)
 * 2019-02-18 [제품 찾기 목록 교육 binance 아카데미 세 번째 가장 인기 있는 서비스](https://github.com/theyapapa/cryptonews/blob/ko/product-hunt-lists-educational-binance-academy-as-third-most-popular-service-c450f4a5.md)
 * 2019-02-18 [암호화 시장, 강세 성장, 아시아 주식 시장 앞서 미국-중국 무역 토크를 참조 하십시오](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-bullish-growth-asian-stock-markets-rally-ahead-of-us-china-trade-talk-13bc06a6.md)
 * 2019-02-17 [폐기물 관리 회사, UAE 도시에서 블록 체인 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/waste-management-firm-launches-blockchain-platform-in-uae-city-2c1594bd.md)
