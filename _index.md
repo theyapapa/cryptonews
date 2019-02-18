@@ -1,3 +1,4 @@
+* 2019-02-18 [Fundación iota se asocia con la incubadora Nova para financiar startups usando blockchain](https://github.com/theyapapa/cryptonews/blob/es/iota-foundation-partners-with-incubator-nova-to-fund-startups-using-blockchain-6d012a30.md)
 * 2019-02-18 [El Comisario de CFTC, Brian Quintenz, sugiere la creación de una organización Criptoreguladora](https://github.com/theyapapa/cryptonews/blob/es/cftc-commissioner-brian-quintenz-suggests-creation-of-crypto-self-regulatory-organization-83abdab7.md)
 * 2019-02-18 [Informe: Coinbase-apoyado Bitcoin tarjeta de débito para cerrar operaciones en abril](https://github.com/theyapapa/cryptonews/blob/es/report-coinbase-supported-bitcoin-debit-card-to-shut-operations-in-april-fca60d9f.md)
 * 2019-02-18 [Lista de caza del producto Academia educativa Binance como tercer servicio más popular](https://github.com/theyapapa/cryptonews/blob/es/product-hunt-lists-educational-binance-academy-as-third-most-popular-service-c450f4a5.md)
