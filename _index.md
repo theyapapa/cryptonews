@@ -1,3 +1,4 @@
+* 2019-02-18 [Предполагаемые Bitcoin майнинг афера сообщил в Таиланде](https://github.com/theyapapa/cryptonews/blob/ru/alleged-bitcoin-mining-scam-reported-in-thailand-6751b8b5.md)
 * 2019-02-18 [Блокчейн-стартап использует основные сайты для сокращения числа неУдачных проектов](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-startup-takes-on-mainstream-crowdfunding-sites-to-cut-number-of-failed-projects-7c91fdb3.md)
 * 2019-02-18 [Крупный китайский университет запускает Блокчейн-исследовательский центр](https://github.com/theyapapa/cryptonews/blob/ru/major-chinese-university-launches-blockchain-research-center-5adcdf65.md)
 * 2019-02-18 [Крупный Оманский банк приСоединяется к Риппленет трансГраничной платежной сети](https://github.com/theyapapa/cryptonews/blob/ru/major-omani-bank-joins-ripplenet-cross-border-payment-network-eab46f2c.md)
