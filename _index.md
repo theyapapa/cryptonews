@@ -1,3 +1,4 @@
+* 2019-02-18 [Blockchain startup asume los principales sitios de crowdfunding para reducir el número de proyectos fallidos](https://github.com/theyapapa/cryptonews/blob/es/blockchain-startup-takes-on-mainstream-crowdfunding-sites-to-cut-number-of-failed-projects-7c91fdb3.md)
 * 2019-02-18 [La mayor Universidad China lanza el centro de investigación blockchain](https://github.com/theyapapa/cryptonews/blob/es/major-chinese-university-launches-blockchain-research-center-5adcdf65.md)
 * 2019-02-18 [Major Omani Bank se une a RippleNet red de pagos transfronterizos](https://github.com/theyapapa/cryptonews/blob/es/major-omani-bank-joins-ripplenet-cross-border-payment-network-eab46f2c.md)
 * 2019-02-18 [Tim Draper predice Crypto voluntad regla, sólo los criminales usarán efectivo en cinco años](https://github.com/theyapapa/cryptonews/blob/es/tim-draper-predicts-crypto-will-rule-only-criminals-will-use-cash-in-five-years-8662f59f.md)
