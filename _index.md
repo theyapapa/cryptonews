@@ -1,3 +1,4 @@
+* 2019-02-19 [키프로스 증권 레 귤 레이 터, EU 자금 세탁 방지 프레임 워크 채택 요구](https://github.com/theyapapa/cryptonews/blob/ko/cyprus-securities-regulator-calls-for-adoption-of-eu-anti-money-laundering-framework-b94a45d9.md)
 * 2019-02-19 [Ethereum의 버티는 비 ETH 암호화 홀딩스 및 기타 수익 소스를 공개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereums-vitalik-buterin-discloses-non-eth-crypto-holdings-and-other-revenue-sources-16f30c67.md)
 * 2019-02-19 [암호 화폐 배당금: 곰 시장에서 잠재적으로 좋은 전략을 얻는 데 동전을 걸고 있지만 위험 하지는 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-dividends-staking-coins-for-gains-potentially-a-good-strategy-in-a-bear-market-but-is-not-without-risk-2b0ced37.md)
 * 2019-02-19 [금융 회사는 담보로 암호화와 함께 최대 $3만의 ' 거의 즉각적인 ' 대출을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/financial-firm-offers-almost-instantaneous-loans-up-to-30-000-with-crypto-as-collateral-5e087b76.md)
