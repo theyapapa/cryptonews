@@ -1,3 +1,4 @@
+* 2019-02-19 [Características clave del esquema del FBI de los ICOs estafa, advierte a los inversionistas a estar atentos](https://github.com/theyapapa/cryptonews/blob/es/fbi-outline-key-features-of-scam-icos-warns-investors-to-be-vigilant-3acfb422.md)
 * 2019-02-18 [Supuesta estafa minera Bitcoin reportado en Tailandia](https://github.com/theyapapa/cryptonews/blob/es/alleged-bitcoin-mining-scam-reported-in-thailand-6751b8b5.md)
 * 2019-02-18 [Blockchain startup asume los principales sitios de crowdfunding para reducir el número de proyectos fallidos](https://github.com/theyapapa/cryptonews/blob/es/blockchain-startup-takes-on-mainstream-crowdfunding-sites-to-cut-number-of-failed-projects-7c91fdb3.md)
 * 2019-02-18 [La mayor Universidad China lanza el centro de investigación blockchain](https://github.com/theyapapa/cryptonews/blob/es/major-chinese-university-launches-blockchain-research-center-5adcdf65.md)
