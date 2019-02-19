@@ -1,3 +1,4 @@
+* 2019-02-19 [Финансовая фирма предлагает «почти мгновенный» кредиты до $30 000 с Crypto в качестве залога](https://github.com/theyapapa/cryptonews/blob/ru/financial-firm-offers-almost-instantaneous-loans-up-to-30-000-with-crypto-as-collateral-5e087b76.md)
 * 2019-02-19 [ФБР план ключевые особенности афера ИКОС, предупреждает инвесторов, чтобы быть бдительными](https://github.com/theyapapa/cryptonews/blob/ru/fbi-outline-key-features-of-scam-icos-warns-investors-to-be-vigilant-3acfb422.md)
 * 2019-02-18 [Предполагаемые Bitcoin майнинг афера сообщил в Таиланде](https://github.com/theyapapa/cryptonews/blob/ru/alleged-bitcoin-mining-scam-reported-in-thailand-6751b8b5.md)
 * 2019-02-18 [Блокчейн-стартап использует основные сайты для сокращения числа неУдачных проектов](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-startup-takes-on-mainstream-crowdfunding-sites-to-cut-number-of-failed-projects-7c91fdb3.md)
