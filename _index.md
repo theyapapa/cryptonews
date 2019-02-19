@@ -1,3 +1,4 @@
+* 2019-02-19 [암호 화폐 배당금: 곰 시장에서 잠재적으로 좋은 전략을 얻는 데 동전을 걸고 있지만 위험 하지는 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-dividends-staking-coins-for-gains-potentially-a-good-strategy-in-a-bear-market-but-is-not-without-risk-2b0ced37.md)
 * 2019-02-19 [금융 회사는 담보로 암호화와 함께 최대 $3만의 ' 거의 즉각적인 ' 대출을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/financial-firm-offers-almost-instantaneous-loans-up-to-30-000-with-crypto-as-collateral-5e087b76.md)
 * 2019-02-19 [사기 ico의 FBI 개요 주요 특징은, 투자자에 게 경계 할 경고](https://github.com/theyapapa/cryptonews/blob/ko/fbi-outline-key-features-of-scam-icos-warns-investors-to-be-vigilant-3acfb422.md)
 * 2019-02-18 [태국에서 보고 된 비트 코인 채굴 사기 혐의](https://github.com/theyapapa/cryptonews/blob/ko/alleged-bitcoin-mining-scam-reported-in-thailand-6751b8b5.md)
