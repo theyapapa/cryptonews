@@ -1,3 +1,4 @@
+* 2019-02-19 [설문 조사: 천년 투자자의 절반은 증권 거래소 보다 더 많은 암호 교환을 신뢰 합니다](https://github.com/theyapapa/cryptonews/blob/ko/survey-half-of-millennial-investors-trust-crypto-exchanges-more-than-stock-exchanges-d2a30a2a.md)
 * 2019-02-19 [키프로스 증권 레 귤 레이 터, EU 자금 세탁 방지 프레임 워크 채택 요구](https://github.com/theyapapa/cryptonews/blob/ko/cyprus-securities-regulator-calls-for-adoption-of-eu-anti-money-laundering-framework-b94a45d9.md)
 * 2019-02-19 [Ethereum의 버티는 비 ETH 암호화 홀딩스 및 기타 수익 소스를 공개 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereums-vitalik-buterin-discloses-non-eth-crypto-holdings-and-other-revenue-sources-16f30c67.md)
 * 2019-02-19 [암호 화폐 배당금: 곰 시장에서 잠재적으로 좋은 전략을 얻는 데 동전을 걸고 있지만 위험 하지는 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-dividends-staking-coins-for-gains-potentially-a-good-strategy-in-a-bear-market-but-is-not-without-risk-2b0ced37.md)
