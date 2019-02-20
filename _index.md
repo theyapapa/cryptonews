@@ -1,3 +1,4 @@
+* 2019-02-19 [엘 롱 머 스크: 비트 코인은 ' 아주 화려한 ' 구조, 종이 돈이 멀리가는](https://github.com/theyapapa/cryptonews/blob/ko/elon-musk-bitcoin-has-quite-brilliant-structure-paper-money-is-going-away-ccfa0ae2.md)
 * 2019-02-19 [새로운 설문 조사는 블록 체인 기술을 배포할 준비가 되지 않은 기업을 나타냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-survey-indicates-businesses-unprepared-to-deploy-blockchain-technology-9db74a4d.md)
 * 2019-02-19 [설문 조사: 천년 투자자의 절반은 증권 거래소 보다 더 많은 암호 교환을 신뢰 합니다](https://github.com/theyapapa/cryptonews/blob/ko/survey-half-of-millennial-investors-trust-crypto-exchanges-more-than-stock-exchanges-d2a30a2a.md)
 * 2019-02-19 [키프로스 증권 레 귤 레이 터, EU 자금 세탁 방지 프레임 워크 채택 요구](https://github.com/theyapapa/cryptonews/blob/ko/cyprus-securities-regulator-calls-for-adoption-of-eu-anti-money-laundering-framework-b94a45d9.md)
