@@ -1,3 +1,4 @@
+* 2019-02-20 [Estados Unidos: el grupo Crypto Advocacy alienta a los reguladores financieros a fomentar la innovación](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-advocacy-group-encourages-financial-regulators-to-foster-innovation-ed1c11cf.md)
 * 2019-02-20 [Coinbase añade Bitcoin Cash support a Wallet App](https://github.com/theyapapa/cryptonews/blob/es/coinbase-adds-bitcoin-cash-support-to-wallet-app-3c8401a3.md)
 * 2019-02-20 [El segundo mayor corretaje de valores de Japón DAIWA completa blockchain Pilot](https://github.com/theyapapa/cryptonews/blob/es/japans-second-largest-securities-brokerage-daiwa-completes-blockchain-pilot-1c6e8ced.md)
 * 2019-02-20 [La gran firma comercial japonesa Marubeni se asocia con US blockchain Company LO3 Energy](https://github.com/theyapapa/cryptonews/blob/es/major-japanese-trading-firm-marubeni-partners-with-us-blockchain-company-lo3-energy-af6e2bda.md)
