@@ -1,3 +1,4 @@
+* 2019-02-20 [Galaxy digital se une a la ronda de inversión $15 millones en la firma de seguridad Crypto CipherTrace](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digital-joins-15-million-investment-round-in-crypto-security-firm-ciphertrace-b3bc8f5b.md)
 * 2019-02-20 [Estados Unidos: el grupo Crypto Advocacy alienta a los reguladores financieros a fomentar la innovación](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-advocacy-group-encourages-financial-regulators-to-foster-innovation-ed1c11cf.md)
 * 2019-02-20 [Coinbase añade Bitcoin Cash support a Wallet App](https://github.com/theyapapa/cryptonews/blob/es/coinbase-adds-bitcoin-cash-support-to-wallet-app-3c8401a3.md)
 * 2019-02-20 [El segundo mayor corretaje de valores de Japón DAIWA completa blockchain Pilot](https://github.com/theyapapa/cryptonews/blob/es/japans-second-largest-securities-brokerage-daiwa-completes-blockchain-pilot-1c6e8ced.md)
