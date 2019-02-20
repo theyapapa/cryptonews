@@ -1,3 +1,4 @@
+* 2019-02-20 [리투아니아 중앙 은행 가상 자산과 ico에서 업데이트 된 위치를 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/central-bank-of-lithuania-issues-updated-position-on-virtual-assets-and-icos-d01630db.md)
 * 2019-02-20 [암호 투자 서비스 회사 bitgo 트 론에 대 한 지원을 추가 하려면](https://github.com/theyapapa/cryptonews/blob/ko/crypto-investment-services-firm-bitgo-to-add-support-for-tron-662be32c.md)
 * 2019-02-20 [블록 체인 물류 및 선적 플랫폼을 보유 한 인도 전자 상거래 거 대 파트너](https://github.com/theyapapa/cryptonews/blob/ko/indian-e-commerce-giant-partners-with-blockchain-logistics-and-shipping-platform-ca5d46e9.md)
 * 2019-02-20 [암호화 보안 회사 CipherTrace에 갤럭시 디지털 조인 $1500만 투자 라운드](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-joins-15-million-investment-round-in-crypto-security-firm-ciphertrace-b3bc8f5b.md)
