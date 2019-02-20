@@ -1,3 +1,4 @@
+* 2019-02-20 [Крупная японская торговая фирма Марубени Partners с американской Блокчейн-компанией LO3 Energy](https://github.com/theyapapa/cryptonews/blob/ru/major-japanese-trading-firm-marubeni-partners-with-us-blockchain-company-lo3-energy-af6e2bda.md)
 * 2019-02-19 [В Биткоине есть "довольно блестящая" структура, бумажные деньги уходит](https://github.com/theyapapa/cryptonews/blob/ru/elon-musk-bitcoin-has-quite-brilliant-structure-paper-money-is-going-away-ccfa0ae2.md)
 * 2019-02-19 [Новый опрос показывает, что предприятия не готовы к развертыванию технологии Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/new-survey-indicates-businesses-unprepared-to-deploy-blockchain-technology-9db74a4d.md)
 * 2019-02-19 [Опрос: половина инвесторов из числа тысячелетия доВеряют крипто-биржам больше, чем фондовые биржи](https://github.com/theyapapa/cryptonews/blob/ru/survey-half-of-millennial-investors-trust-crypto-exchanges-more-than-stock-exchanges-d2a30a2a.md)
