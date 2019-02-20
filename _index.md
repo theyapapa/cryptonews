@@ -1,3 +1,4 @@
+* 2019-02-20 [Crypto инвестиционные услуги фирма BitGo добавить поддержку для трон](https://github.com/theyapapa/cryptonews/blob/ru/crypto-investment-services-firm-bitgo-to-add-support-for-tron-662be32c.md)
 * 2019-02-20 [Индийская электронная коммерция гигантских партнеров с Блокчейн логистики и судоходства платформы](https://github.com/theyapapa/cryptonews/blob/ru/indian-e-commerce-giant-partners-with-blockchain-logistics-and-shipping-platform-ca5d46e9.md)
 * 2019-02-20 [Галактика цифровой приСоединяется $15 000 000 инвестиционный раунд в крипто безопасности фирмы Цифертраце](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-joins-15-million-investment-round-in-crypto-security-firm-ciphertrace-b3bc8f5b.md)
 * 2019-02-20 [США: крипто-пропагандистская группа поощряет финансовые регуляторы для стимулирования инноваций](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-advocacy-group-encourages-financial-regulators-to-foster-innovation-ed1c11cf.md)
