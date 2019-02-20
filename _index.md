@@ -1,3 +1,4 @@
+* 2019-02-20 [Галактика цифровой приСоединяется $15 000 000 инвестиционный раунд в крипто безопасности фирмы Цифертраце](https://github.com/theyapapa/cryptonews/blob/ru/galaxy-digital-joins-15-million-investment-round-in-crypto-security-firm-ciphertrace-b3bc8f5b.md)
 * 2019-02-20 [США: крипто-пропагандистская группа поощряет финансовые регуляторы для стимулирования инноваций](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-advocacy-group-encourages-financial-regulators-to-foster-innovation-ed1c11cf.md)
 * 2019-02-20 [Coinbase добавляет Bitcoin денежной поддержки в бумажник App](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-adds-bitcoin-cash-support-to-wallet-app-3c8401a3.md)
 * 2019-02-20 [Вторая крупнейшая в Японии брокерская контора по ценным бумагам завершает Блокчейн-пилот](https://github.com/theyapapa/cryptonews/blob/ru/japans-second-largest-securities-brokerage-daiwa-completes-blockchain-pilot-1c6e8ced.md)
