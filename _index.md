@@ -1,3 +1,4 @@
+* 2019-02-20 [La firma de servicios de inversión Crypto BitGo para agregar soporte para TRON](https://github.com/theyapapa/cryptonews/blob/es/crypto-investment-services-firm-bitgo-to-add-support-for-tron-662be32c.md)
 * 2019-02-20 [Indio E-Commerce gigante se asocia con blockchain logística y plataforma de envío](https://github.com/theyapapa/cryptonews/blob/es/indian-e-commerce-giant-partners-with-blockchain-logistics-and-shipping-platform-ca5d46e9.md)
 * 2019-02-20 [Galaxy digital se une a la ronda de inversión $15 millones en la firma de seguridad Crypto CipherTrace](https://github.com/theyapapa/cryptonews/blob/es/galaxy-digital-joins-15-million-investment-round-in-crypto-security-firm-ciphertrace-b3bc8f5b.md)
 * 2019-02-20 [Estados Unidos: el grupo Crypto Advocacy alienta a los reguladores financieros a fomentar la innovación](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-advocacy-group-encourages-financial-regulators-to-foster-innovation-ed1c11cf.md)
