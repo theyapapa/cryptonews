@@ -1,3 +1,4 @@
+* 2019-02-20 [Coinbase добавляет Bitcoin денежной поддержки в бумажник App](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-adds-bitcoin-cash-support-to-wallet-app-3c8401a3.md)
 * 2019-02-20 [Вторая крупнейшая в Японии брокерская контора по ценным бумагам завершает Блокчейн-пилот](https://github.com/theyapapa/cryptonews/blob/ru/japans-second-largest-securities-brokerage-daiwa-completes-blockchain-pilot-1c6e8ced.md)
 * 2019-02-20 [Крупная японская торговая фирма Марубени Partners с американской Блокчейн-компанией LO3 Energy](https://github.com/theyapapa/cryptonews/blob/ru/major-japanese-trading-firm-marubeni-partners-with-us-blockchain-company-lo3-energy-af6e2bda.md)
 * 2019-02-19 [В Биткоине есть "довольно блестящая" структура, бумажные деньги уходит](https://github.com/theyapapa/cryptonews/blob/ru/elon-musk-bitcoin-has-quite-brilliant-structure-paper-money-is-going-away-ccfa0ae2.md)
