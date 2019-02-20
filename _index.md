@@ -1,3 +1,4 @@
+* 2019-02-20 [암호화 보안 회사 CipherTrace에 갤럭시 디지털 조인 $1500만 투자 라운드](https://github.com/theyapapa/cryptonews/blob/ko/galaxy-digital-joins-15-million-investment-round-in-crypto-security-firm-ciphertrace-b3bc8f5b.md)
 * 2019-02-20 [우리: 암호화 옹호 그룹은 혁신을 촉진 하기 위해 금융 규제를 장려](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-advocacy-group-encourages-financial-regulators-to-foster-innovation-ed1c11cf.md)
 * 2019-02-20 [coinbase는 지갑 응용 프로그램에 비트 코인 현금 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-adds-bitcoin-cash-support-to-wallet-app-3c8401a3.md)
 * 2019-02-20 [일본에서 두 번째로 큰 증권 중개 다 이와는 블록 체인 파일럿을 완료 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japans-second-largest-securities-brokerage-daiwa-completes-blockchain-pilot-1c6e8ced.md)
