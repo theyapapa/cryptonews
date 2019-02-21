@@ -1,3 +1,4 @@
+* 2019-02-21 [Auditores del Condado de Ohio explorarán el sistema inmobiliario basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/ohio-county-auditors-to-explore-blockchain-based-real-estate-system-5f9cb975.md)
 * 2019-02-21 [Korean Telecom gigante KT lanzará la plataforma blockchain-as-a-Service en marzo: informe](https://github.com/theyapapa/cryptonews/blob/es/korean-telecom-giant-kt-to-launch-blockchain-as-a-service-platform-in-march-report-994c0b23.md)
 * 2019-02-21 [Blockchain en el seguro de salud: más precisión, más transparencia y más eficiencia](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-health-insurance-more-accuracy-more-transparency-and-more-efficiency-cc777313.md)
 * 2019-02-20 [Principales Cryptocurrencies ver verde mientras EE.UU. crudo futuros golpeó nuevo alto para 2019](https://github.com/theyapapa/cryptonews/blob/es/major-cryptocurrencies-see-green-while-us-crude-futures-hit-new-high-for-2019-9e749e12.md)
