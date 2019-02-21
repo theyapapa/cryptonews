@@ -1,3 +1,4 @@
+* 2019-02-20 [Основные криптовалюты видят зеленый в то время как США сырой фьючерсы хит новый высокий для 2019](https://github.com/theyapapa/cryptonews/blob/ru/major-cryptocurrencies-see-green-while-us-crude-futures-hit-new-high-for-2019-9e749e12.md)
 * 2019-02-20 [Марк поСчитает, что Блокчейн-авторизация данных в последнем интервью](https://github.com/theyapapa/cryptonews/blob/ru/mark-zuckerberg-considers-blockchain-authorization-of-data-in-recent-interview-4d5fe4a8.md)
 * 2019-02-20 [Центральный Банк Литвы выДает обновленную позицию по виртуальным активам и ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/central-bank-of-lithuania-issues-updated-position-on-virtual-assets-and-icos-d01630db.md)
 * 2019-02-20 [Crypto инвестиционные услуги фирма BitGo добавить поддержку для трон](https://github.com/theyapapa/cryptonews/blob/ru/crypto-investment-services-firm-bitgo-to-add-support-for-tron-662be32c.md)
