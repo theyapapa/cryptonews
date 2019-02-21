@@ -1,3 +1,4 @@
+* 2019-02-20 [주요 암호 화폐가 녹색으로 표시 되는 반면, 미국 원유 선물은 2019에 대 한 새로운 높은 타격을](https://github.com/theyapapa/cryptonews/blob/ko/major-cryptocurrencies-see-green-while-us-crude-futures-hit-new-high-for-2019-9e749e12.md)
 * 2019-02-20 [마크 주 커 버그는 최근 인터뷰에서 데이터의 블록 체인 승인을 고려](https://github.com/theyapapa/cryptonews/blob/ko/mark-zuckerberg-considers-blockchain-authorization-of-data-in-recent-interview-4d5fe4a8.md)
 * 2019-02-20 [리투아니아 중앙 은행 가상 자산과 ico에서 업데이트 된 위치를 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/central-bank-of-lithuania-issues-updated-position-on-virtual-assets-and-icos-d01630db.md)
 * 2019-02-20 [암호 투자 서비스 회사 bitgo 트 론에 대 한 지원을 추가 하려면](https://github.com/theyapapa/cryptonews/blob/ko/crypto-investment-services-firm-bitgo-to-add-support-for-tron-662be32c.md)
