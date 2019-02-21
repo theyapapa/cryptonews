@@ -1,3 +1,4 @@
+* 2019-02-21 [보고서: 유럽 주요 파생 상품 거래소, 암호 화폐 선물 런칭](https://github.com/theyapapa/cryptonews/blob/ko/report-major-european-derivatives-exchange-to-launch-cryptocurrency-futures-19b0347e.md)
 * 2019-02-21 [블록 체인 및 도시: 뉴욕 주 암호화 규제의 "힘든" 모델로](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-and-the-city-new-york-state-as-a-tough-model-of-crypto-regulation-44efae40.md)
 * 2019-02-21 [UAE에서 가장 큰 부동산 회사에 마우는 암호화를 허용 하는 보고서를 거부 합니다: 블룸버그](https://github.com/theyapapa/cryptonews/blob/ko/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg-490d333d.md)
 * 2019-02-21 [binance의 자선 팔이 블록 체인 기반 학교 런치 캠페인을 롤 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binances-charity-arm-rolls-out-blockchain-powered-school-lunch-campaign-0892b785.md)
