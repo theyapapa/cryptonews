@@ -1,3 +1,4 @@
+* 2019-02-21 [Blockchain y la ciudad: el estado de Nueva York como un modelo "difícil" de la regulación Crypto](https://github.com/theyapapa/cryptonews/blob/es/blockchain-and-the-city-new-york-state-as-a-tough-model-of-crypto-regulation-44efae40.md)
 * 2019-02-21 [La firma inmobiliaria más grande de los EAU Emaar niega los informes que acepta Crypto: Bloomberg](https://github.com/theyapapa/cryptonews/blob/es/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg-490d333d.md)
 * 2019-02-21 [El brazo solidario de Binance lanza una campaña de almuerzo escolar con tecnología blockchain](https://github.com/theyapapa/cryptonews/blob/es/binances-charity-arm-rolls-out-blockchain-powered-school-lunch-campaign-0892b785.md)
 * 2019-02-21 [SK Telecom, Deutsche Telekom construirá plataforma de identidad blockchain](https://github.com/theyapapa/cryptonews/blob/es/sk-telecom-deutsche-telekom-to-build-blockchain-identity-platform-d8586524.md)
