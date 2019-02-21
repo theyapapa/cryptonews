@@ -1,3 +1,4 @@
+* 2019-02-21 [블록 체인 아이덴티티 플랫폼을 구축 하기 위한 SK 텔레콤, 도이치 텔레콤](https://github.com/theyapapa/cryptonews/blob/ko/sk-telecom-deutsche-telekom-to-build-blockchain-identity-platform-d8586524.md)
 * 2019-02-21 [블록 체인 기반 부동산 시스템을 탐구 하는 오하이오 카운티 감사관](https://github.com/theyapapa/cryptonews/blob/ko/ohio-county-auditors-to-explore-blockchain-based-real-estate-system-5f9cb975.md)
 * 2019-02-21 [한국 텔레콤 자이언트 KT, 3 월의 블록 체인 서비스 플랫폼 런칭: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/korean-telecom-giant-kt-to-launch-blockchain-as-a-service-platform-in-march-report-994c0b23.md)
 * 2019-02-21 [건강 보험의 블록 체인: 정확성, 투명성 및 효율성 향상](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-health-insurance-more-accuracy-more-transparency-and-more-efficiency-cc777313.md)
