@@ -1,3 +1,4 @@
+* 2019-02-21 [UAE에서 가장 큰 부동산 회사에 마우는 암호화를 허용 하는 보고서를 거부 합니다: 블룸버그](https://github.com/theyapapa/cryptonews/blob/ko/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg-490d333d.md)
 * 2019-02-21 [binance의 자선 팔이 블록 체인 기반 학교 런치 캠페인을 롤 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binances-charity-arm-rolls-out-blockchain-powered-school-lunch-campaign-0892b785.md)
 * 2019-02-21 [블록 체인 아이덴티티 플랫폼을 구축 하기 위한 SK 텔레콤, 도이치 텔레콤](https://github.com/theyapapa/cryptonews/blob/ko/sk-telecom-deutsche-telekom-to-build-blockchain-identity-platform-d8586524.md)
 * 2019-02-21 [블록 체인 기반 부동산 시스템을 탐구 하는 오하이오 카운티 감사관](https://github.com/theyapapa/cryptonews/blob/ko/ohio-county-auditors-to-explore-blockchain-based-real-estate-system-5f9cb975.md)
