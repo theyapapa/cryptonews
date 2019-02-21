@@ -1,3 +1,4 @@
+* 2019-02-21 [Окружные ревизоры округа Огайо изучают систему недвижимости на основе Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/ohio-county-auditors-to-explore-blockchain-based-real-estate-system-5f9cb975.md)
 * 2019-02-21 [Корейский Телеком гигант KT для запуска Блокчейн-как-сервисной платформы в марте: отчет](https://github.com/theyapapa/cryptonews/blob/ru/korean-telecom-giant-kt-to-launch-blockchain-as-a-service-platform-in-march-report-994c0b23.md)
 * 2019-02-21 [Блокчейн в медицинском страховании: больше точности, большей прозрачности и большей эффективности](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-health-insurance-more-accuracy-more-transparency-and-more-efficiency-cc777313.md)
 * 2019-02-20 [Основные криптовалюты видят зеленый в то время как США сырой фьючерсы хит новый высокий для 2019](https://github.com/theyapapa/cryptonews/blob/ru/major-cryptocurrencies-see-green-while-us-crude-futures-hit-new-high-for-2019-9e749e12.md)
