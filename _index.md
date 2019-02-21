@@ -1,3 +1,4 @@
+* 2019-02-20 [Марк поСчитает, что Блокчейн-авторизация данных в последнем интервью](https://github.com/theyapapa/cryptonews/blob/ru/mark-zuckerberg-considers-blockchain-authorization-of-data-in-recent-interview-4d5fe4a8.md)
 * 2019-02-20 [Центральный Банк Литвы выДает обновленную позицию по виртуальным активам и ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/central-bank-of-lithuania-issues-updated-position-on-virtual-assets-and-icos-d01630db.md)
 * 2019-02-20 [Crypto инвестиционные услуги фирма BitGo добавить поддержку для трон](https://github.com/theyapapa/cryptonews/blob/ru/crypto-investment-services-firm-bitgo-to-add-support-for-tron-662be32c.md)
 * 2019-02-20 [Индийская электронная коммерция гигантских партнеров с Блокчейн логистики и судоходства платформы](https://github.com/theyapapa/cryptonews/blob/ru/indian-e-commerce-giant-partners-with-blockchain-logistics-and-shipping-platform-ca5d46e9.md)
