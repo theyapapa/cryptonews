@@ -1,3 +1,4 @@
+* 2019-02-21 [Blockchain en el seguro de salud: más precisión, más transparencia y más eficiencia](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-health-insurance-more-accuracy-more-transparency-and-more-efficiency-cc777313.md)
 * 2019-02-20 [Principales Cryptocurrencies ver verde mientras EE.UU. crudo futuros golpeó nuevo alto para 2019](https://github.com/theyapapa/cryptonews/blob/es/major-cryptocurrencies-see-green-while-us-crude-futures-hit-new-high-for-2019-9e749e12.md)
 * 2019-02-20 [Mark Zuckerberg considera la autorización de blockchain de datos en una entrevista reciente](https://github.com/theyapapa/cryptonews/blob/es/mark-zuckerberg-considers-blockchain-authorization-of-data-in-recent-interview-4d5fe4a8.md)
 * 2019-02-20 [Banco Central de Lituania publica posición actualizada sobre activos virtuales y ICOs](https://github.com/theyapapa/cryptonews/blob/es/central-bank-of-lithuania-issues-updated-position-on-virtual-assets-and-icos-d01630db.md)
