@@ -1,3 +1,4 @@
+* 2019-02-21 [SK Telecom, Deutsche Telekom construirá plataforma de identidad blockchain](https://github.com/theyapapa/cryptonews/blob/es/sk-telecom-deutsche-telekom-to-build-blockchain-identity-platform-d8586524.md)
 * 2019-02-21 [Auditores del Condado de Ohio explorarán el sistema inmobiliario basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/ohio-county-auditors-to-explore-blockchain-based-real-estate-system-5f9cb975.md)
 * 2019-02-21 [Korean Telecom gigante KT lanzará la plataforma blockchain-as-a-Service en marzo: informe](https://github.com/theyapapa/cryptonews/blob/es/korean-telecom-giant-kt-to-launch-blockchain-as-a-service-platform-in-march-report-994c0b23.md)
 * 2019-02-21 [Blockchain en el seguro de salud: más precisión, más transparencia y más eficiencia](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-health-insurance-more-accuracy-more-transparency-and-more-efficiency-cc777313.md)
