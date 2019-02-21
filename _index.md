@@ -1,3 +1,4 @@
+* 2019-02-21 [Крупнейшая недвижимость ОАЭ фирма Emaar отрицает отчеты, которые он принимает Crypto: Bloomberg](https://github.com/theyapapa/cryptonews/blob/ru/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg-490d333d.md)
 * 2019-02-21 [Благотворительная рука Binance Rolls из Блокчейн-Powered школьный обед кампании](https://github.com/theyapapa/cryptonews/blob/ru/binances-charity-arm-rolls-out-blockchain-powered-school-lunch-campaign-0892b785.md)
 * 2019-02-21 [СК Телеком, Deutsche Telekom построить Блокчейн идентичности платформы](https://github.com/theyapapa/cryptonews/blob/ru/sk-telecom-deutsche-telekom-to-build-blockchain-identity-platform-d8586524.md)
 * 2019-02-21 [Окружные ревизоры округа Огайо изучают систему недвижимости на основе Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/ohio-county-auditors-to-explore-blockchain-based-real-estate-system-5f9cb975.md)
