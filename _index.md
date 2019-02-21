@@ -1,3 +1,4 @@
+* 2019-02-21 [Блокчейн в медицинском страховании: больше точности, большей прозрачности и большей эффективности](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-health-insurance-more-accuracy-more-transparency-and-more-efficiency-cc777313.md)
 * 2019-02-20 [Основные криптовалюты видят зеленый в то время как США сырой фьючерсы хит новый высокий для 2019](https://github.com/theyapapa/cryptonews/blob/ru/major-cryptocurrencies-see-green-while-us-crude-futures-hit-new-high-for-2019-9e749e12.md)
 * 2019-02-20 [Марк поСчитает, что Блокчейн-авторизация данных в последнем интервью](https://github.com/theyapapa/cryptonews/blob/ru/mark-zuckerberg-considers-blockchain-authorization-of-data-in-recent-interview-4d5fe4a8.md)
 * 2019-02-20 [Центральный Банк Литвы выДает обновленную позицию по виртуальным активам и ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/central-bank-of-lithuania-issues-updated-position-on-virtual-assets-and-icos-d01630db.md)
