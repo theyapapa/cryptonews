@@ -1,3 +1,4 @@
+* 2019-02-22 [코인 베이스 대표이사: 존재 하지 않는 거래소 쿼드 릭 acx 가능성이 종료 사기를 계획 하지 않았다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-ceo-defunct-exchange-quadrigacx-likely-did-not-plan-exit-scam-740c73d9.md)
 * 2019-02-22 [한국 거래소 공식: 비트 코인 ETF에 대 한 미국 결정은 지역 암호 화폐 시장에 대 한 어조를 설정 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/korea-exchange-official-us-decision-on-bitcoin-etf-will-set-tone-for-local-crypto-market-713ac131.md)
 * 2019-02-21 [미확인: 전보 톤 네트워크 10 월에 의해 출시 2019 또는 토큰 계약은 무효](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-telegram-ton-network-to-launch-by-october-2019-or-token-contracts-are-void-943e74e1.md)
 * 2019-02-21 [새로운 플랫폼은 고객의 요구 사항을 알지 않고 피아트에 암호화를 변환](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-converts-crypto-to-fiat-without-know-your-customer-requirements-6b80f7ad.md)
