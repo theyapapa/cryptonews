@@ -1,3 +1,4 @@
+* 2019-02-22 [룩셈부르크 대학 postdoc: 중앙 은행 디지털 통화는 너무 매력적 무시](https://github.com/theyapapa/cryptonews/blob/ko/luxembourg-university-postdoc-central-bank-digital-currencies-too-attractive-to-ignore-9f6ca438.md)
 * 2019-02-22 [코인 베이스 대표이사: 존재 하지 않는 거래소 쿼드 릭 acx 가능성이 종료 사기를 계획 하지 않았다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-ceo-defunct-exchange-quadrigacx-likely-did-not-plan-exit-scam-740c73d9.md)
 * 2019-02-22 [한국 거래소 공식: 비트 코인 ETF에 대 한 미국 결정은 지역 암호 화폐 시장에 대 한 어조를 설정 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/korea-exchange-official-us-decision-on-bitcoin-etf-will-set-tone-for-local-crypto-market-713ac131.md)
 * 2019-02-21 [미확인: 전보 톤 네트워크 10 월에 의해 출시 2019 또는 토큰 계약은 무효](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-telegram-ton-network-to-launch-by-october-2019-or-token-contracts-are-void-943e74e1.md)
