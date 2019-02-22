@@ -1,3 +1,4 @@
+* 2019-02-21 [Nueva plataforma convierte Crypto a Fiat sin conocer sus requisitos de cliente](https://github.com/theyapapa/cryptonews/blob/es/new-platform-converts-crypto-to-fiat-without-know-your-customer-requirements-6b80f7ad.md)
 * 2019-02-21 [Informe: importante mercado europeo de derivados para lanzar futuros de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/report-major-european-derivatives-exchange-to-launch-cryptocurrency-futures-19b0347e.md)
 * 2019-02-21 [Blockchain y la ciudad: el estado de Nueva York como un modelo "difícil" de la regulación Crypto](https://github.com/theyapapa/cryptonews/blob/es/blockchain-and-the-city-new-york-state-as-a-tough-model-of-crypto-regulation-44efae40.md)
 * 2019-02-21 [La firma inmobiliaria más grande de los EAU Emaar niega los informes que acepta Crypto: Bloomberg](https://github.com/theyapapa/cryptonews/blob/es/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg-490d333d.md)
