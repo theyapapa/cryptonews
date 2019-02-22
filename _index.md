@@ -1,3 +1,4 @@
+* 2019-02-22 [Четность разработчик завершает Эфириум проекты на фоне возмущение вызвало последние чирикать](https://github.com/theyapapa/cryptonews/blob/ru/parity-developer-quits-ethereum-projects-amid-outrage-sparked-by-recent-tweet-9e0306ad.md)
 * 2019-02-22 [Стэнфорд исСледователи разработать механизм конфиденциальности для Эфириум умный контракт](https://github.com/theyapapa/cryptonews/blob/ru/stanford-researchers-develop-privacy-mechanism-for-ethereum-smart-contract-102065e5.md)
 * 2019-02-22 [Две компании использовали Crypto платить налоги в штате Огайо, говорит государственный казначей](https://github.com/theyapapa/cryptonews/blob/ru/two-companies-used-crypto-to-pay-taxes-in-ohio-says-state-treasurer-dae804b7.md)
 * 2019-02-22 [Bitcoin Hits $4K в четвертый раз в 2019, акции прыгать среди нас-Китай торговых переговоров](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hits-4k-for-the-fourth-time-in-2019-stocks-jump-amid-uschina-trade-talks-23cb39fa.md)
