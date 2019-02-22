@@ -1,3 +1,4 @@
+* 2019-02-22 [두 회사는 오하이오에서 세금을 지불 하는 암호를 사용, 국가 재무 말한다](https://github.com/theyapapa/cryptonews/blob/ko/two-companies-used-crypto-to-pay-taxes-in-ohio-says-state-treasurer-dae804b7.md)
 * 2019-02-22 [비트 코인은 2019에서 4 번째 시간 동안 $4k를 조회 합니다. 우리 가운데 주식 점프 – 중국 무역 회담](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hits-4k-for-the-fourth-time-in-2019-stocks-jump-amid-uschina-trade-talks-23cb39fa.md)
 * 2019-02-22 [룩셈부르크 대학 postdoc: 중앙 은행 디지털 통화는 너무 매력적 무시](https://github.com/theyapapa/cryptonews/blob/ko/luxembourg-university-postdoc-central-bank-digital-currencies-too-attractive-to-ignore-9f6ca438.md)
 * 2019-02-22 [코인 베이스 대표이사: 존재 하지 않는 거래소 쿼드 릭 acx 가능성이 종료 사기를 계획 하지 않았다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-ceo-defunct-exchange-quadrigacx-likely-did-not-plan-exit-scam-740c73d9.md)
