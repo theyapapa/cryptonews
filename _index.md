@@ -1,3 +1,4 @@
+* 2019-02-21 [미확인: 전보 톤 네트워크 10 월에 의해 출시 2019 또는 토큰 계약은 무효](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-telegram-ton-network-to-launch-by-october-2019-or-token-contracts-are-void-943e74e1.md)
 * 2019-02-21 [새로운 플랫폼은 고객의 요구 사항을 알지 않고 피아트에 암호화를 변환](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-converts-crypto-to-fiat-without-know-your-customer-requirements-6b80f7ad.md)
 * 2019-02-21 [보고서: 유럽 주요 파생 상품 거래소, 암호 화폐 선물 런칭](https://github.com/theyapapa/cryptonews/blob/ko/report-major-european-derivatives-exchange-to-launch-cryptocurrency-futures-19b0347e.md)
 * 2019-02-21 [블록 체인 및 도시: 뉴욕 주 암호화 규제의 "힘든" 모델로](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-and-the-city-new-york-state-as-a-tough-model-of-crypto-regulation-44efae40.md)
