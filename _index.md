@@ -1,3 +1,4 @@
+* 2019-02-21 [Новая платформа преобразует Crypto в Fiat без знать ваши требования клиента](https://github.com/theyapapa/cryptonews/blob/ru/new-platform-converts-crypto-to-fiat-without-know-your-customer-requirements-6b80f7ad.md)
 * 2019-02-21 [Отчет: крупнейший европейский Деривативный обмен для запуска фьючерсов на криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/report-major-european-derivatives-exchange-to-launch-cryptocurrency-futures-19b0347e.md)
 * 2019-02-21 [Блокчейн и город: штат Нью-Йорк как «жесткая» модель крипто-регулирования](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-and-the-city-new-york-state-as-a-tough-model-of-crypto-regulation-44efae40.md)
 * 2019-02-21 [Крупнейшая недвижимость ОАЭ фирма Emaar отрицает отчеты, которые он принимает Crypto: Bloomberg](https://github.com/theyapapa/cryptonews/blob/ru/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg-490d333d.md)
