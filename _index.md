@@ -1,3 +1,4 @@
+* 2019-02-22 [스탠포드 연구원은에 테 리 움 스마트 계약을 위한 개인 정보 보호 메커니즘을 개발](https://github.com/theyapapa/cryptonews/blob/ko/stanford-researchers-develop-privacy-mechanism-for-ethereum-smart-contract-102065e5.md)
 * 2019-02-22 [두 회사는 오하이오에서 세금을 지불 하는 암호를 사용, 국가 재무 말한다](https://github.com/theyapapa/cryptonews/blob/ko/two-companies-used-crypto-to-pay-taxes-in-ohio-says-state-treasurer-dae804b7.md)
 * 2019-02-22 [비트 코인은 2019에서 4 번째 시간 동안 $4k를 조회 합니다. 우리 가운데 주식 점프 – 중국 무역 회담](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hits-4k-for-the-fourth-time-in-2019-stocks-jump-amid-uschina-trade-talks-23cb39fa.md)
 * 2019-02-22 [룩셈부르크 대학 postdoc: 중앙 은행 디지털 통화는 너무 매력적 무시](https://github.com/theyapapa/cryptonews/blob/ko/luxembourg-university-postdoc-central-bank-digital-currencies-too-attractive-to-ignore-9f6ca438.md)
