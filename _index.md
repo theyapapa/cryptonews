@@ -1,3 +1,4 @@
+* 2019-02-21 [새로운 플랫폼은 고객의 요구 사항을 알지 않고 피아트에 암호화를 변환](https://github.com/theyapapa/cryptonews/blob/ko/new-platform-converts-crypto-to-fiat-without-know-your-customer-requirements-6b80f7ad.md)
 * 2019-02-21 [보고서: 유럽 주요 파생 상품 거래소, 암호 화폐 선물 런칭](https://github.com/theyapapa/cryptonews/blob/ko/report-major-european-derivatives-exchange-to-launch-cryptocurrency-futures-19b0347e.md)
 * 2019-02-21 [블록 체인 및 도시: 뉴욕 주 암호화 규제의 "힘든" 모델로](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-and-the-city-new-york-state-as-a-tough-model-of-crypto-regulation-44efae40.md)
 * 2019-02-21 [UAE에서 가장 큰 부동산 회사에 마우는 암호화를 허용 하는 보고서를 거부 합니다: 블룸버그](https://github.com/theyapapa/cryptonews/blob/ko/uaes-largest-real-estate-firm-emaar-denies-reports-that-it-accepts-crypto-bloomberg-490d333d.md)
