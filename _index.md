@@ -1,3 +1,4 @@
+* 2019-02-23 [비트 코인은 $4000 아래에 있습니다. 탑 크립 토는 혼합 된 움직임을 참조 하십시오.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-under-4-000-as-top-cryptos-see-mixed-movements-0c5bb58e.md)
 * 2019-02-23 [파생 상품 거 대 한 충실도 투자 수신 및 번개 토치에 전달](https://github.com/theyapapa/cryptonews/blob/ko/derivatives-giant-fidelity-investments-receives-and-passes-on-the-lightning-torch-62528abe.md)
 * 2019-02-23 [블록 체인 회사 casperlabs는 수석 건축가로이 더 리 움 연구원 블라드 zamfir를 임명 합니다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-company-casperlabs-appoints-ethereum-researcher-vlad-zamfir-as-lead-architect-bfb58e2e.md)
 * 2019-02-23 [쿼드 리그 자산의 기원을 경계 하는 캐나다 은행은 자금 세탁 우려를 인용 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-banks-wary-of-quadrigacx-assets-origins-cite-money-laundering-concerns-21174ef0.md)
