@@ -1,3 +1,4 @@
+* 2019-02-23 [파생 상품 거 대 한 충실도 투자 수신 및 번개 토치에 전달](https://github.com/theyapapa/cryptonews/blob/ko/derivatives-giant-fidelity-investments-receives-and-passes-on-the-lightning-torch-62528abe.md)
 * 2019-02-23 [블록 체인 회사 casperlabs는 수석 건축가로이 더 리 움 연구원 블라드 zamfir를 임명 합니다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-company-casperlabs-appoints-ethereum-researcher-vlad-zamfir-as-lead-architect-bfb58e2e.md)
 * 2019-02-23 [쿼드 리그 자산의 기원을 경계 하는 캐나다 은행은 자금 세탁 우려를 인용 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-banks-wary-of-quadrigacx-assets-origins-cite-money-laundering-concerns-21174ef0.md)
 * 2019-02-22 [패리티 개발자는 최근 트 윗에 의해 촉발 된 분노에 테 리 움 프로젝트를 종료](https://github.com/theyapapa/cryptonews/blob/ko/parity-developer-quits-ethereum-projects-amid-outrage-sparked-by-recent-tweet-9e0306ad.md)
