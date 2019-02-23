@@ -1,3 +1,4 @@
+* 2019-02-23 [쿼드 리그 자산의 기원을 경계 하는 캐나다 은행은 자금 세탁 우려를 인용 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-banks-wary-of-quadrigacx-assets-origins-cite-money-laundering-concerns-21174ef0.md)
 * 2019-02-22 [패리티 개발자는 최근 트 윗에 의해 촉발 된 분노에 테 리 움 프로젝트를 종료](https://github.com/theyapapa/cryptonews/blob/ko/parity-developer-quits-ethereum-projects-amid-outrage-sparked-by-recent-tweet-9e0306ad.md)
 * 2019-02-22 [스탠포드 연구원은에 테 리 움 스마트 계약을 위한 개인 정보 보호 메커니즘을 개발](https://github.com/theyapapa/cryptonews/blob/ko/stanford-researchers-develop-privacy-mechanism-for-ethereum-smart-contract-102065e5.md)
 * 2019-02-22 [두 회사는 오하이오에서 세금을 지불 하는 암호를 사용, 국가 재무 말한다](https://github.com/theyapapa/cryptonews/blob/ko/two-companies-used-crypto-to-pay-taxes-in-ohio-says-state-treasurer-dae804b7.md)
