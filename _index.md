@@ -1,3 +1,4 @@
+* 2019-02-23 [Канадские банки опасаются происхождения активов Куадригаккс, цитируют проблемы отМывания денег](https://github.com/theyapapa/cryptonews/blob/ru/canadian-banks-wary-of-quadrigacx-assets-origins-cite-money-laundering-concerns-21174ef0.md)
 * 2019-02-22 [Четность разработчик завершает Эфириум проекты на фоне возмущение вызвало последние чирикать](https://github.com/theyapapa/cryptonews/blob/ru/parity-developer-quits-ethereum-projects-amid-outrage-sparked-by-recent-tweet-9e0306ad.md)
 * 2019-02-22 [Стэнфорд исСледователи разработать механизм конфиденциальности для Эфириум умный контракт](https://github.com/theyapapa/cryptonews/blob/ru/stanford-researchers-develop-privacy-mechanism-for-ethereum-smart-contract-102065e5.md)
 * 2019-02-22 [Две компании использовали Crypto платить налоги в штате Огайо, говорит государственный казначей](https://github.com/theyapapa/cryptonews/blob/ru/two-companies-used-crypto-to-pay-taxes-in-ohio-says-state-treasurer-dae804b7.md)
