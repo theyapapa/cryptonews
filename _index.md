@@ -1,3 +1,4 @@
+* 2019-02-23 [Bitcoin колеблется под $4 000 как топ крипт см смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-under-4-000-as-top-cryptos-see-mixed-movements-0c5bb58e.md)
 * 2019-02-23 [ПроизВодные гигантской верности инвестиции получает и передает на факел молнии](https://github.com/theyapapa/cryptonews/blob/ru/derivatives-giant-fidelity-investments-receives-and-passes-on-the-lightning-torch-62528abe.md)
 * 2019-02-23 [Блокчейн компания Касперлабс назначает в качестве ведущего архитектора «Эфириум» исследователь Влад Замфир](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-company-casperlabs-appoints-ethereum-researcher-vlad-zamfir-as-lead-architect-bfb58e2e.md)
 * 2019-02-23 [Канадские банки опасаются происхождения активов Куадригаккс, цитируют проблемы отМывания денег](https://github.com/theyapapa/cryptonews/blob/ru/canadian-banks-wary-of-quadrigacx-assets-origins-cite-money-laundering-concerns-21174ef0.md)
