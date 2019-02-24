@@ -1,3 +1,4 @@
+* 2019-02-24 [Эфириум в Константинополе, Санкт-Петербург обновления установить произойти на этой неделе](https://github.com/theyapapa/cryptonews/blob/ru/ethereums-constantinople-st-petersburg-upgrades-set-to-occur-this-week-95e77689.md)
 * 2019-02-24 [Топ 5 крипто исполнители Обзор: EOS, Эфириум, Bitcoin Cash, Binance монета, Звездная](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-eos-ethereum-bitcoin-cash-binance-coin-stellar-beee7c63.md)
 * 2019-02-24 [Дайджест Ходлер 18-24: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-feb18-24-top-stories-price-movements-quotes-and-fud-of-the-week-f1745f66.md)
 * 2019-02-24 [Bitcoin толкает последние $4 100 как топ крипт см основные выгоды](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-pushes-past-4-100-as-top-cryptos-see-major-gains-d5f631a3.md)
