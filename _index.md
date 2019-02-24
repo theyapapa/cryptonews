@@ -1,3 +1,4 @@
+* 2019-02-24 [비트 코인은 지난 $4100을 최고 크립 토로 밀어 주요 이득을 봅니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-pushes-past-4-100-as-top-cryptos-see-major-gains-d5f631a3.md)
 * 2019-02-24 [리히텐슈타인의 은행 frick는 기관 암호 거래 플랫폼을 출시](https://github.com/theyapapa/cryptonews/blob/ko/liechtensteins-bank-frick-launches-institutional-crypto-trading-platform-f0b2aafc.md)
 * 2019-02-23 [비트 코인은 $4000 아래에 있습니다. 탑 크립 토는 혼합 된 움직임을 참조 하십시오.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-under-4-000-as-top-cryptos-see-mixed-movements-0c5bb58e.md)
 * 2019-02-23 [파생 상품 거 대 한 충실도 투자 수신 및 번개 토치에 전달](https://github.com/theyapapa/cryptonews/blob/ko/derivatives-giant-fidelity-investments-receives-and-passes-on-the-lightning-torch-62528abe.md)
