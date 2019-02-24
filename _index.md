@@ -1,3 +1,4 @@
+* 2019-02-24 [Bitcoin empuja más allá de $4.100 como Top Cryptos ver ganancias importantes](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-pushes-past-4-100-as-top-cryptos-see-major-gains-d5f631a3.md)
 * 2019-02-24 [El Banco de Liechtenstein Frick lanza una plataforma de Trading criptográfica institucional](https://github.com/theyapapa/cryptonews/blob/es/liechtensteins-bank-frick-launches-institutional-crypto-trading-platform-f0b2aafc.md)
 * 2019-02-23 [Bitcoin hovers under $4.000 como Top Cryptos ver movimientos mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-under-4-000-as-top-cryptos-see-mixed-movements-0c5bb58e.md)
 * 2019-02-23 [Derivados de la fidelidad gigante inversiones recibe y pasa en la antorcha relámpago](https://github.com/theyapapa/cryptonews/blob/es/derivatives-giant-fidelity-investments-receives-and-passes-on-the-lightning-torch-62528abe.md)
