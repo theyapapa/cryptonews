@@ -1,3 +1,4 @@
+* 2019-02-24 [Банк Лихтенштейна Фрик запускает институциональную крипто-торговую платформу](https://github.com/theyapapa/cryptonews/blob/ru/liechtensteins-bank-frick-launches-institutional-crypto-trading-platform-f0b2aafc.md)
 * 2019-02-23 [Bitcoin колеблется под $4 000 как топ крипт см смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-under-4-000-as-top-cryptos-see-mixed-movements-0c5bb58e.md)
 * 2019-02-23 [ПроизВодные гигантской верности инвестиции получает и передает на факел молнии](https://github.com/theyapapa/cryptonews/blob/ru/derivatives-giant-fidelity-investments-receives-and-passes-on-the-lightning-torch-62528abe.md)
 * 2019-02-23 [Блокчейн компания Касперлабс назначает в качестве ведущего архитектора «Эфириум» исследователь Влад Замфир](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-company-casperlabs-appoints-ethereum-researcher-vlad-zamfir-as-lead-architect-bfb58e2e.md)
