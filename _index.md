@@ -1,3 +1,4 @@
+* 2019-02-24 [Дайджест Ходлер 18-24: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-feb18-24-top-stories-price-movements-quotes-and-fud-of-the-week-f1745f66.md)
 * 2019-02-24 [Bitcoin толкает последние $4 100 как топ крипт см основные выгоды](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-pushes-past-4-100-as-top-cryptos-see-major-gains-d5f631a3.md)
 * 2019-02-24 [Банк Лихтенштейна Фрик запускает институциональную крипто-торговую платформу](https://github.com/theyapapa/cryptonews/blob/ru/liechtensteins-bank-frick-launches-institutional-crypto-trading-platform-f0b2aafc.md)
 * 2019-02-23 [Bitcoin колеблется под $4 000 как топ крипт см смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-under-4-000-as-top-cryptos-see-mixed-movements-0c5bb58e.md)
