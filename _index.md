@@ -1,3 +1,4 @@
+* 2019-02-24 [El Banco de Liechtenstein Frick lanza una plataforma de Trading criptográfica institucional](https://github.com/theyapapa/cryptonews/blob/es/liechtensteins-bank-frick-launches-institutional-crypto-trading-platform-f0b2aafc.md)
 * 2019-02-23 [Bitcoin hovers under $4.000 como Top Cryptos ver movimientos mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-under-4-000-as-top-cryptos-see-mixed-movements-0c5bb58e.md)
 * 2019-02-23 [Derivados de la fidelidad gigante inversiones recibe y pasa en la antorcha relámpago](https://github.com/theyapapa/cryptonews/blob/es/derivatives-giant-fidelity-investments-receives-and-passes-on-the-lightning-torch-62528abe.md)
 * 2019-02-23 [Blockchain Company CasperLabs nombra al investigador de Ethereum Vlad Zamfir como arquitecto principal](https://github.com/theyapapa/cryptonews/blob/es/blockchain-company-casperlabs-appoints-ethereum-researcher-vlad-zamfir-as-lead-architect-bfb58e2e.md)
