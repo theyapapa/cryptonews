@@ -1,3 +1,4 @@
+* 2019-02-25 [Hacker mueve 2,09 MLN EOS después de error de actualización de la lista negra](https://github.com/theyapapa/cryptonews/blob/es/hacker-moves-209-mln-eos-following-blacklist-update-failure-c38b3b6a.md)
 * 2019-02-25 [Coinbase Pro añade soporte para XRP](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-adds-support-for-xrp-abc12db5.md)
 * 2019-02-25 [Proveedor de energía solar Kyocera se asocia con la firma blockchain para mejorar la distribución de energía](https://github.com/theyapapa/cryptonews/blob/es/solar-power-supplier-kyocera-teams-up-with-blockchain-firm-to-improve-energy-distribution-2b3dcefa.md)
 * 2019-02-25 [Accenture trabaja con MasterCard, Amazon para impulsar la cadena de suministro circular mediante DLT](https://github.com/theyapapa/cryptonews/blob/es/accenture-works-with-mastercard-amazon-to-boost-circular-supply-chain-using-dlt-8bab3dc4.md)
