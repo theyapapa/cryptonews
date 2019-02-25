@@ -1,3 +1,4 @@
+* 2019-02-25 [Солнечная энергия поставщик Kyocera объединяется с Блокчейн-фирмой для улучшения распределения энергии](https://github.com/theyapapa/cryptonews/blob/ru/solar-power-supplier-kyocera-teams-up-with-blockchain-firm-to-improve-energy-distribution-2b3dcefa.md)
 * 2019-02-25 [Работа с MasterCard, Amazon для увеличения круговой цепочки поставок с использованием ДЗО](https://github.com/theyapapa/cryptonews/blob/ru/accenture-works-with-mastercard-amazon-to-boost-circular-supply-chain-using-dlt-8bab3dc4.md)
 * 2019-02-25 [Верховный суд Индии ставит 4-недельный срок на освобождение крипто регулирование правительством](https://github.com/theyapapa/cryptonews/blob/ru/supreme-court-of-india-puts-4-week-deadline-on-release-of-crypto-regulation-by-government-47e2bef7.md)
 * 2019-02-25 [Центральный банк Бахрейна выДает новое регулирование Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/bahrains-central-bank-issues-new-cryptocurrency-regulation-6205627a.md)
