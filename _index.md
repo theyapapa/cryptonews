@@ -1,3 +1,4 @@
+* 2019-02-25 [Хакер переМещает 2,09 млн EOS после сбоя обновления черного списка](https://github.com/theyapapa/cryptonews/blob/ru/hacker-moves-209-mln-eos-following-blacklist-update-failure-c38b3b6a.md)
 * 2019-02-25 [Coinbase Pro добавляет поддержку для](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-adds-support-for-xrp-abc12db5.md)
 * 2019-02-25 [Солнечная энергия поставщик Kyocera объединяется с Блокчейн-фирмой для улучшения распределения энергии](https://github.com/theyapapa/cryptonews/blob/ru/solar-power-supplier-kyocera-teams-up-with-blockchain-firm-to-improve-energy-distribution-2b3dcefa.md)
 * 2019-02-25 [Работа с MasterCard, Amazon для увеличения круговой цепочки поставок с использованием ДЗО](https://github.com/theyapapa/cryptonews/blob/ru/accenture-works-with-mastercard-amazon-to-boost-circular-supply-chain-using-dlt-8bab3dc4.md)
