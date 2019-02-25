@@ -1,3 +1,4 @@
+* 2019-02-25 [Coinbase Pro añade soporte para XRP](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-adds-support-for-xrp-abc12db5.md)
 * 2019-02-25 [Proveedor de energía solar Kyocera se asocia con la firma blockchain para mejorar la distribución de energía](https://github.com/theyapapa/cryptonews/blob/es/solar-power-supplier-kyocera-teams-up-with-blockchain-firm-to-improve-energy-distribution-2b3dcefa.md)
 * 2019-02-25 [Accenture trabaja con MasterCard, Amazon para impulsar la cadena de suministro circular mediante DLT](https://github.com/theyapapa/cryptonews/blob/es/accenture-works-with-mastercard-amazon-to-boost-circular-supply-chain-using-dlt-8bab3dc4.md)
 * 2019-02-25 [Tribunal Supremo de la India pone plazo de 4 semanas en la liberación de la regulación Crypto por el gobierno](https://github.com/theyapapa/cryptonews/blob/es/supreme-court-of-india-puts-4-week-deadline-on-release-of-crypto-regulation-by-government-47e2bef7.md)
