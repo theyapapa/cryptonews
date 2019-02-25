@@ -1,3 +1,4 @@
+* 2019-02-25 [블랙 리스트 업데이트 실패 후 2.09 백만 EOS 이동 해커](https://github.com/theyapapa/cryptonews/blob/ko/hacker-moves-209-mln-eos-following-blacklist-update-failure-c38b3b6a.md)
 * 2019-02-25 [coinbase 프로는 XRP에 대 한 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-adds-support-for-xrp-abc12db5.md)
 * 2019-02-25 [태양 광 발전 협력 업체 교 세라 에너지 분배를 개선 하기 위해 블록 체인 회사와 팀](https://github.com/theyapapa/cryptonews/blob/ko/solar-power-supplier-kyocera-teams-up-with-blockchain-firm-to-improve-energy-distribution-2b3dcefa.md)
 * 2019-02-25 [Accenture는 마스터 카드와 함께 작동, DLT를 사용 하 여 순환 공급망을 강화 하기 위해 아마존](https://github.com/theyapapa/cryptonews/blob/ko/accenture-works-with-mastercard-amazon-to-boost-circular-supply-chain-using-dlt-8bab3dc4.md)
