@@ -1,3 +1,4 @@
+* 2019-02-25 [바레인의 중앙 은행은 새로운 암호 화폐 규제를 발행](https://github.com/theyapapa/cryptonews/blob/ko/bahrains-central-bank-issues-new-cryptocurrency-regulation-6205627a.md)
 * 2019-02-25 [huobi Global은 호주 단위를 곰 시장 속에서 흡수 하 여 최근의 레이 오프를 밝혀 냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/huobi-global-absorbs-australian-unit-amid-bear-market-reveals-recent-layoffs-51a307b9.md)
 * 2019-02-24 [에 테 리 움의 콘스탄티노플, 상트 페테르부르크 업그레이드는 이번 주에 발생 하도록 설정](https://github.com/theyapapa/cryptonews/blob/ko/ethereums-constantinople-st-petersburg-upgrades-set-to-occur-this-week-95e77689.md)
 * 2019-02-24 [맨 위로 5 암호화 수행자 개요: EOS,이 더 리 움, 비트 코인 현금, binance 동전, 스텔라](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-eos-ethereum-bitcoin-cash-binance-coin-stellar-beee7c63.md)
