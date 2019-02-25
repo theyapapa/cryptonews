@@ -1,3 +1,4 @@
+* 2019-02-25 [Tribunal Supremo de la India pone plazo de 4 semanas en la liberación de la regulación Crypto por el gobierno](https://github.com/theyapapa/cryptonews/blob/es/supreme-court-of-india-puts-4-week-deadline-on-release-of-crypto-regulation-by-government-47e2bef7.md)
 * 2019-02-25 [El Banco Central de Bahrein emite un nuevo Reglamento de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/bahrains-central-bank-issues-new-cryptocurrency-regulation-6205627a.md)
 * 2019-02-25 [Huobi global absorbe la unidad australiana en medio del mercado de osos, revela despidos recientes](https://github.com/theyapapa/cryptonews/blob/es/huobi-global-absorbs-australian-unit-amid-bear-market-reveals-recent-layoffs-51a307b9.md)
 * 2019-02-24 [Constantinopla de Ethereum, las mejoras de San Petersburgo se establecen esta semana](https://github.com/theyapapa/cryptonews/blob/es/ethereums-constantinople-st-petersburg-upgrades-set-to-occur-this-week-95e77689.md)
