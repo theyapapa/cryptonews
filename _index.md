@@ -1,3 +1,4 @@
+* 2019-02-25 [Российский чиновник ищет выДачу предполагаемого биткоин-мошенника Александра Винник](https://github.com/theyapapa/cryptonews/blob/ru/russian-official-seeks-extradition-of-alleged-bitcoin-fraudster-alexander-vinnik-526a4c61.md)
 * 2019-02-25 [Хакер переМещает 2,09 млн EOS после сбоя обновления черного списка](https://github.com/theyapapa/cryptonews/blob/ru/hacker-moves-209-mln-eos-following-blacklist-update-failure-c38b3b6a.md)
 * 2019-02-25 [Coinbase Pro добавляет поддержку для](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-adds-support-for-xrp-abc12db5.md)
 * 2019-02-25 [Солнечная энергия поставщик Kyocera объединяется с Блокчейн-фирмой для улучшения распределения энергии](https://github.com/theyapapa/cryptonews/blob/ru/solar-power-supplier-kyocera-teams-up-with-blockchain-firm-to-improve-energy-distribution-2b3dcefa.md)
