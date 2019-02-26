@@ -1,3 +1,4 @@
+* 2019-02-26 [Samsung anuncia Galaxy S10 Crypto Partners, Bitcoin y soporte de Ethereum](https://github.com/theyapapa/cryptonews/blob/es/samsung-announces-galaxy-s10-crypto-partners-bitcoin-and-ethereum-support-0960dcfa.md)
 * 2019-02-26 [Digital Payments firma Electroneum lanza Crypto-Mining smartphone](https://github.com/theyapapa/cryptonews/blob/es/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [Privado, Enterprise Blockchains ' no tienen sentido ' y se establecen para fallar: Abra CEO](https://github.com/theyapapa/cryptonews/blob/es/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
 * 2019-02-26 [HTC blockchain teléfono socios éxodo con navegador Opera, añade múltiples DApps](https://github.com/theyapapa/cryptonews/blob/es/htcs-blockchain-phone-exodus-partners-with-opera-browser-adds-multiple-dapps-50180aa6.md)
