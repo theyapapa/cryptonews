@@ -1,3 +1,4 @@
+* 2019-02-26 [Digital Payments firma Electroneum lanza Crypto-Mining smartphone](https://github.com/theyapapa/cryptonews/blob/es/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [Privado, Enterprise Blockchains ' no tienen sentido ' y se establecen para fallar: Abra CEO](https://github.com/theyapapa/cryptonews/blob/es/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
 * 2019-02-26 [HTC blockchain teléfono socios éxodo con navegador Opera, añade múltiples DApps](https://github.com/theyapapa/cryptonews/blob/es/htcs-blockchain-phone-exodus-partners-with-opera-browser-adds-multiple-dapps-50180aa6.md)
 * 2019-02-26 [NASDAQ comienza a enumerar los índices de precios de Bitcoin y Ethereum de New Coin](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-begins-listing-brave-new-coins-bitcoin-and-ethereum-price-indices-83050981.md)
