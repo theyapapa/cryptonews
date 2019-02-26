@@ -1,3 +1,4 @@
+* 2019-02-26 [NASDAQ начинает листинг смелые новые монеты Bitcoin и Эфириум индексы цен](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-begins-listing-brave-new-coins-bitcoin-and-ethereum-price-indices-83050981.md)
 * 2019-02-26 [Японский многонациональный Холдинг SoftBank объявляет Блокчейн ID Рабочей группы](https://github.com/theyapapa/cryptonews/blob/ru/japanese-multinational-holding-softbank-announces-blockchain-id-working-group-65a7653c.md)
 * 2019-02-25 [Глобальная ИТ-компания Cisco Systems открывает центр технического развития в Сингапуре](https://github.com/theyapapa/cryptonews/blob/ru/global-it-firm-cisco-systems-opens-tech-development-center-in-singapore-da7c4336.md)
 * 2019-02-25 [Нидерланды: Bitcoin Trader атаковали в своем доме](https://github.com/theyapapa/cryptonews/blob/ru/netherlands-bitcoin-trader-attacked-in-his-home-1c546cde.md)
