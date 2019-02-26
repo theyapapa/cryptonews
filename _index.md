@@ -1,3 +1,4 @@
+* 2019-02-26 [삼성은 갤럭시 S10 암호화 파트너, 비트 코인 및이 더 리 움 지원 발표](https://github.com/theyapapa/cryptonews/blob/ko/samsung-announces-galaxy-s10-crypto-partners-bitcoin-and-ethereum-support-0960dcfa.md)
 * 2019-02-26 [디지털 결제 회사 전자 암호 화폐 채굴 스마트폰 출시](https://github.com/theyapapa/cryptonews/blob/ko/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [개인, 엔터프라이즈 블록 체인 ' 의미가 없다 ' 및 실패 하도록 설정: 아 브라 대표이사](https://github.com/theyapapa/cryptonews/blob/ko/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
 * 2019-02-26 [오페라 브라우저와 HTC의 블록 체인 전화 출애굽기 파트너, 여러 dapps를 추가](https://github.com/theyapapa/cryptonews/blob/ko/htcs-blockchain-phone-exodus-partners-with-opera-browser-adds-multiple-dapps-50180aa6.md)
