@@ -1,3 +1,4 @@
+* 2019-02-26 [개인, 엔터프라이즈 블록 체인 ' 의미가 없다 ' 및 실패 하도록 설정: 아 브라 대표이사](https://github.com/theyapapa/cryptonews/blob/ko/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
 * 2019-02-26 [오페라 브라우저와 HTC의 블록 체인 전화 출애굽기 파트너, 여러 dapps를 추가](https://github.com/theyapapa/cryptonews/blob/ko/htcs-blockchain-phone-exodus-partners-with-opera-browser-adds-multiple-dapps-50180aa6.md)
 * 2019-02-26 [나스닥은 새로운 동전의 비트 코인과에 테 리 움 가격 지 수를 나열 시작](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-begins-listing-brave-new-coins-bitcoin-and-ethereum-price-indices-83050981.md)
 * 2019-02-26 [일본의 다국적 지주 소프트 뱅크, 블록 체인 ID 실무 그룹 발표](https://github.com/theyapapa/cryptonews/blob/ko/japanese-multinational-holding-softbank-announces-blockchain-id-working-group-65a7653c.md)
