@@ -1,3 +1,4 @@
+* 2019-02-26 [설문 조사: 48%의 execs는 3 년 내에 블록 체인이 비즈니스를 변화 시키기를 기대 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/survey-48-of-execs-expect-blockchain-to-change-their-business-in-three-years-d6d8fca2.md)
 * 2019-02-26 [삼성은 갤럭시 S10 암호화 파트너, 비트 코인 및이 더 리 움 지원 발표](https://github.com/theyapapa/cryptonews/blob/ko/samsung-announces-galaxy-s10-crypto-partners-bitcoin-and-ethereum-support-0960dcfa.md)
 * 2019-02-26 [디지털 결제 회사 전자 암호 화폐 채굴 스마트폰 출시](https://github.com/theyapapa/cryptonews/blob/ko/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [개인, 엔터프라이즈 블록 체인 ' 의미가 없다 ' 및 실패 하도록 설정: 아 브라 대표이사](https://github.com/theyapapa/cryptonews/blob/ko/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
