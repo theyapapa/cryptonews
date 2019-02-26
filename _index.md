@@ -1,3 +1,4 @@
+* 2019-02-26 [Digital Payments фирма Електронеум запускает крипто-майнинг смартфон](https://github.com/theyapapa/cryptonews/blob/ru/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [Частные, корпоративные Блокчейнов ' не имеет смысла ' и настроены на провал: Генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
 * 2019-02-26 [HTC в Блокчейн телефон исход партнеры с Opera Browser, добавляет несколько DApps](https://github.com/theyapapa/cryptonews/blob/ru/htcs-blockchain-phone-exodus-partners-with-opera-browser-adds-multiple-dapps-50180aa6.md)
 * 2019-02-26 [NASDAQ начинает листинг смелые новые монеты Bitcoin и Эфириум индексы цен](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-begins-listing-brave-new-coins-bitcoin-and-ethereum-price-indices-83050981.md)
