@@ -1,3 +1,4 @@
+* 2019-02-26 [인도 연구소, 핀 테크 및 블록 체인에 대 한 고급 프로그램](https://github.com/theyapapa/cryptonews/blob/ko/indian-institute-rolls-out-advanced-program-on-fintech-and-blockchain-1fcb49fc.md)
 * 2019-02-26 [설문 조사: 48%의 execs는 3 년 내에 블록 체인이 비즈니스를 변화 시키기를 기대 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/survey-48-of-execs-expect-blockchain-to-change-their-business-in-three-years-d6d8fca2.md)
 * 2019-02-26 [삼성은 갤럭시 S10 암호화 파트너, 비트 코인 및이 더 리 움 지원 발표](https://github.com/theyapapa/cryptonews/blob/ko/samsung-announces-galaxy-s10-crypto-partners-bitcoin-and-ethereum-support-0960dcfa.md)
 * 2019-02-26 [디지털 결제 회사 전자 암호 화폐 채굴 스마트폰 출시](https://github.com/theyapapa/cryptonews/blob/ko/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
