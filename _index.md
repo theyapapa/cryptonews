@@ -1,3 +1,4 @@
+* 2019-02-26 [Encuesta: el 48% de los ejecutivos esperan que blockchain cambie su negocio en tres años](https://github.com/theyapapa/cryptonews/blob/es/survey-48-of-execs-expect-blockchain-to-change-their-business-in-three-years-d6d8fca2.md)
 * 2019-02-26 [Samsung anuncia Galaxy S10 Crypto Partners, Bitcoin y soporte de Ethereum](https://github.com/theyapapa/cryptonews/blob/es/samsung-announces-galaxy-s10-crypto-partners-bitcoin-and-ethereum-support-0960dcfa.md)
 * 2019-02-26 [Digital Payments firma Electroneum lanza Crypto-Mining smartphone](https://github.com/theyapapa/cryptonews/blob/es/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [Privado, Enterprise Blockchains ' no tienen sentido ' y se establecen para fallar: Abra CEO](https://github.com/theyapapa/cryptonews/blob/es/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
