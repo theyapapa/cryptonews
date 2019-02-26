@@ -1,3 +1,4 @@
+* 2019-02-26 [디지털 결제 회사 전자 암호 화폐 채굴 스마트폰 출시](https://github.com/theyapapa/cryptonews/blob/ko/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [개인, 엔터프라이즈 블록 체인 ' 의미가 없다 ' 및 실패 하도록 설정: 아 브라 대표이사](https://github.com/theyapapa/cryptonews/blob/ko/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
 * 2019-02-26 [오페라 브라우저와 HTC의 블록 체인 전화 출애굽기 파트너, 여러 dapps를 추가](https://github.com/theyapapa/cryptonews/blob/ko/htcs-blockchain-phone-exodus-partners-with-opera-browser-adds-multiple-dapps-50180aa6.md)
 * 2019-02-26 [나스닥은 새로운 동전의 비트 코인과에 테 리 움 가격 지 수를 나열 시작](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-begins-listing-brave-new-coins-bitcoin-and-ethereum-price-indices-83050981.md)
