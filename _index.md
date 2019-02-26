@@ -1,3 +1,4 @@
+* 2019-02-26 [Опрос: 48% execs ожидают, что Блокчейн изменит свой бизнес за три года](https://github.com/theyapapa/cryptonews/blob/ru/survey-48-of-execs-expect-blockchain-to-change-their-business-in-three-years-d6d8fca2.md)
 * 2019-02-26 [Samsung объявляет о галактике S10 Crypto партнеры, Bitcoin и Эфириум поддержка](https://github.com/theyapapa/cryptonews/blob/ru/samsung-announces-galaxy-s10-crypto-partners-bitcoin-and-ethereum-support-0960dcfa.md)
 * 2019-02-26 [Digital Payments фирма Електронеум запускает крипто-майнинг смартфон](https://github.com/theyapapa/cryptonews/blob/ru/digital-payments-firm-electroneum-launches-crypto-mining-smartphone-abab7186.md)
 * 2019-02-26 [Частные, корпоративные Блокчейнов ' не имеет смысла ' и настроены на провал: Генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/private-enterprise-blockchains-make-no-sense-and-are-set-to-fail-abra-ceo-952ad516.md)
