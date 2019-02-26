@@ -1,3 +1,4 @@
+* 2019-02-26 [HTC blockchain teléfono socios éxodo con navegador Opera, añade múltiples DApps](https://github.com/theyapapa/cryptonews/blob/es/htcs-blockchain-phone-exodus-partners-with-opera-browser-adds-multiple-dapps-50180aa6.md)
 * 2019-02-26 [NASDAQ comienza a enumerar los índices de precios de Bitcoin y Ethereum de New Coin](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-begins-listing-brave-new-coins-bitcoin-and-ethereum-price-indices-83050981.md)
 * 2019-02-26 [Multinacional japonesa Holding SoftBank anuncia grupo de trabajo de ID de blockchain](https://github.com/theyapapa/cryptonews/blob/es/japanese-multinational-holding-softbank-announces-blockchain-id-working-group-65a7653c.md)
 * 2019-02-25 [LA firma global de ti Cisco Systems inaugura el centro de desarrollo tecnológico en Singapur](https://github.com/theyapapa/cryptonews/blob/es/global-it-firm-cisco-systems-opens-tech-development-center-in-singapore-da7c4336.md)
