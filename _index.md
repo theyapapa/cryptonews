@@ -1,3 +1,4 @@
+* 2019-02-27 [Bolsa de valores de Londres lidera $20 millones inversión en finanzas inicio de tokenización](https://github.com/theyapapa/cryptonews/blob/es/london-stock-exchange-leads-20-million-investment-in-finance-tokenization-startup-f149db39.md)
 * 2019-02-26 [Sony y Fujitsu desarrollan la plataforma blockchain para luchar contra las calificaciones educativas falsas](https://github.com/theyapapa/cryptonews/blob/es/sony-and-fujitsu-develop-blockchain-platform-to-fight-fake-educational-qualifications-f8b519e5.md)
 * 2019-02-26 [IOTA lanza el concurso de hackathon Smart City patrocinado por Groupe Renault](https://github.com/theyapapa/cryptonews/blob/es/iota-launches-hackathon-smart-city-contest-sponsored-by-groupe-renault-04787eb6.md)
 * 2019-02-26 [Indian Institute lanza el programa avanzado en FinTech y blockchain](https://github.com/theyapapa/cryptonews/blob/es/indian-institute-rolls-out-advanced-program-on-fintech-and-blockchain-1fcb49fc.md)
