@@ -1,3 +1,4 @@
+* 2019-02-27 [Pangea Блокчейн фонд дебютов с $22 000 000 круглый поддерживается Роджер ver](https://github.com/theyapapa/cryptonews/blob/ru/pangea-blockchain-fund-debuts-with-22-million-round-supported-by-roger-ver-774353e0.md)
 * 2019-02-27 [Crypto-Fiat платежей фирма Wirex запускает основные обновления, добавляет 10 новых валют Fiat](https://github.com/theyapapa/cryptonews/blob/ru/crypto-fiat-payments-firm-wirex-launches-major-update-adds-10-new-fiat-currencies-3b725640.md)
 * 2019-02-27 [Национальный университет Сингапура и китайской технической фирмы для исследования Блокчейн: доклад](https://github.com/theyapapa/cryptonews/blob/ru/national-university-of-singapore-and-chinese-tech-firm-to-research-blockchain-report-8fff05bb.md)
 * 2019-02-27 [Лондонская фондовая биржа ведет $20 000 000 инвестиции в Финансы запуск токенов](https://github.com/theyapapa/cryptonews/blob/ru/london-stock-exchange-leads-20-million-investment-in-finance-tokenization-startup-f149db39.md)
