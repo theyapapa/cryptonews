@@ -1,3 +1,4 @@
+* 2019-02-27 [변신은 암호 매니아에 전념 여섯 에피소드 쇼를 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/shapeshift-presents-six-episode-show-dedicated-to-crypto-enthusiasts-75674da1.md)
 * 2019-02-27 [판게아 블록 체인 펀드는 로저 Ver에 의해 지원 $2200만 라운드와 함께 데뷔](https://github.com/theyapapa/cryptonews/blob/ko/pangea-blockchain-fund-debuts-with-22-million-round-supported-by-roger-ver-774353e0.md)
 * 2019-02-27 [암호화-피아트 지불 회사 wirex 주요 업데이트를 시작 합니다, 추가 10 새로운 피아트 통화](https://github.com/theyapapa/cryptonews/blob/ko/crypto-fiat-payments-firm-wirex-launches-major-update-adds-10-new-fiat-currencies-3b725640.md)
 * 2019-02-27 [싱가포르 국립 대학 및 중국 기술 회사 블록 체인 연구: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/national-university-of-singapore-and-chinese-tech-firm-to-research-blockchain-report-8fff05bb.md)
