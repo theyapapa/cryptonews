@@ -1,3 +1,4 @@
+* 2019-02-27 [Национальный университет Сингапура и китайской технической фирмы для исследования Блокчейн: доклад](https://github.com/theyapapa/cryptonews/blob/ru/national-university-of-singapore-and-chinese-tech-firm-to-research-blockchain-report-8fff05bb.md)
 * 2019-02-27 [Лондонская фондовая биржа ведет $20 000 000 инвестиции в Финансы запуск токенов](https://github.com/theyapapa/cryptonews/blob/ru/london-stock-exchange-leads-20-million-investment-in-finance-tokenization-startup-f149db39.md)
 * 2019-02-26 [Sony и Fujitsu разРабатывают Блокчейн-платформу для борьбы с фальшивыми образовательными квалификациями](https://github.com/theyapapa/cryptonews/blob/ru/sony-and-fujitsu-develop-blockchain-platform-to-fight-fake-educational-qualifications-f8b519e5.md)
 * 2019-02-26 [IOTA запускает Хакатон Smart City конкурса под эгидой группы Renault](https://github.com/theyapapa/cryptonews/blob/ru/iota-launches-hackathon-smart-city-contest-sponsored-by-groupe-renault-04787eb6.md)
