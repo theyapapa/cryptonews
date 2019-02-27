@@ -1,3 +1,4 @@
+* 2019-02-27 [ShapeShift presenta el show de seis episodios dedicado a los entusiastas de CRYPTO](https://github.com/theyapapa/cryptonews/blob/es/shapeshift-presents-six-episode-show-dedicated-to-crypto-enthusiasts-75674da1.md)
 * 2019-02-27 [Pangea blockchain Fund debuta con $22 millones ronda apoyado por Roger ver](https://github.com/theyapapa/cryptonews/blob/es/pangea-blockchain-fund-debuts-with-22-million-round-supported-by-roger-ver-774353e0.md)
 * 2019-02-27 [La firma de pagos Crypto-Fiat WIREX lanza una actualización importante, añade 10 nuevas monedas Fiat](https://github.com/theyapapa/cryptonews/blob/es/crypto-fiat-payments-firm-wirex-launches-major-update-adds-10-new-fiat-currencies-3b725640.md)
 * 2019-02-27 [Universidad Nacional de Singapur y empresa de tecnología China para la investigación blockchain: informe](https://github.com/theyapapa/cryptonews/blob/es/national-university-of-singapore-and-chinese-tech-firm-to-research-blockchain-report-8fff05bb.md)
