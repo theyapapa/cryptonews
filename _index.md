@@ -1,3 +1,4 @@
+* 2019-02-26 [Sony и Fujitsu разРабатывают Блокчейн-платформу для борьбы с фальшивыми образовательными квалификациями](https://github.com/theyapapa/cryptonews/blob/ru/sony-and-fujitsu-develop-blockchain-platform-to-fight-fake-educational-qualifications-f8b519e5.md)
 * 2019-02-26 [IOTA запускает Хакатон Smart City конкурса под эгидой группы Renault](https://github.com/theyapapa/cryptonews/blob/ru/iota-launches-hackathon-smart-city-contest-sponsored-by-groupe-renault-04787eb6.md)
 * 2019-02-26 [Индийский институт разВорачивает продвинутую программу по технологиям и Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/indian-institute-rolls-out-advanced-program-on-fintech-and-blockchain-1fcb49fc.md)
 * 2019-02-26 [Опрос: 48% execs ожидают, что Блокчейн изменит свой бизнес за три года](https://github.com/theyapapa/cryptonews/blob/ru/survey-48-of-execs-expect-blockchain-to-change-their-business-in-three-years-d6d8fca2.md)
