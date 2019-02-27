@@ -1,3 +1,4 @@
+* 2019-02-26 [가짜 교육 자격에 맞서 싸울 수 있는 블록 체인 플랫폼을 개발 하는 소니와 후지쯔](https://github.com/theyapapa/cryptonews/blob/ko/sony-and-fujitsu-develop-blockchain-platform-to-fight-fake-educational-qualifications-f8b519e5.md)
 * 2019-02-26 [IOTA 출시 해커 톤 스마트 시티 경연 대회 그룹의 르노에 의해 후원](https://github.com/theyapapa/cryptonews/blob/ko/iota-launches-hackathon-smart-city-contest-sponsored-by-groupe-renault-04787eb6.md)
 * 2019-02-26 [인도 연구소, 핀 테크 및 블록 체인에 대 한 고급 프로그램](https://github.com/theyapapa/cryptonews/blob/ko/indian-institute-rolls-out-advanced-program-on-fintech-and-blockchain-1fcb49fc.md)
 * 2019-02-26 [설문 조사: 48%의 execs는 3 년 내에 블록 체인이 비즈니스를 변화 시키기를 기대 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/survey-48-of-execs-expect-blockchain-to-change-their-business-in-three-years-d6d8fca2.md)
