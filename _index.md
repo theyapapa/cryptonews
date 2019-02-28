@@ -1,3 +1,4 @@
+* 2019-02-28 [Tailandia SEC agregó 3 Cryptos a la lista de activos Crypto adecuado para ICOs y Trading](https://github.com/theyapapa/cryptonews/blob/es/thai-sec-added-3-cryptos-to-list-of-crypto-assets-suitable-for-icos-and-trading-fbafca97.md)
 * 2019-02-28 [Informe: el fondo de riqueza de Singapur GIC entre aquellos para recaudar $300 MLN para Coinbase en 2018](https://github.com/theyapapa/cryptonews/blob/es/report-singapores-wealth-fund-gic-among-those-to-raise-300-mln-for-coinbase-in-2018-019bff76.md)
 * 2019-02-28 [Big Four Auditor PwC publica cripto insolvencia guía, directores de precauciones](https://github.com/theyapapa/cryptonews/blob/es/big-four-auditor-pwc-publishes-crypto-insolvency-guide-cautions-directors-81b953fc.md)
 * 2019-02-27 [Informe: plataforma de préstamos de equidad en casa de blockchain eleva $65 millones](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
