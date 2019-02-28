@@ -1,3 +1,4 @@
+* 2019-02-28 [플랫폼은 사용자가 하나의 거래 터미널을 통해 수많은 거래소에 액세스 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/platform-allows-users-to-access-numerous-exchanges-via-one-trading-termina-0d18290a.md)
 * 2019-02-28 [뉴욕 타임즈: 페이스 북은 암호 교환에 ' 페이스 북 동전 ' 쇼핑 소문](https://github.com/theyapapa/cryptonews/blob/ko/new-york-times-facebook-reportedly-shopping-facebook-coin-to-crypto-exchanges-bd172648.md)
 * 2019-02-28 [중국의 10 번째 암호화 순위: EOS는 여전히 처음에, 트 론 합류 하 고 초에이 더 리 움 비트](https://github.com/theyapapa/cryptonews/blob/ko/chinas-10th-crypto-rankings-eos-still-in-first-tron-joins-and-beats-ethereum-to-second-f262e714.md)
 * 2019-02-28 [태국어 SEC는 ico 및 거래에 적합 한 암호 자산 목록에 3 크립 토를 추가 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-added-3-cryptos-to-list-of-crypto-assets-suitable-for-icos-and-trading-fbafca97.md)
