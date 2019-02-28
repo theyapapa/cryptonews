@@ -1,3 +1,4 @@
+* 2019-02-28 [Доклад: Сингапур благосостояния фонд ГПК среди тех, чтобы поднять $300 млн для Coinbase в 2018](https://github.com/theyapapa/cryptonews/blob/ru/report-singapores-wealth-fund-gic-among-those-to-raise-300-mln-for-coinbase-in-2018-019bff76.md)
 * 2019-02-28 [Большой четверки аудитор PwC публикует руководство по несостоятельности крипто, предостережения директоров](https://github.com/theyapapa/cryptonews/blob/ru/big-four-auditor-pwc-publishes-crypto-insolvency-guide-cautions-directors-81b953fc.md)
 * 2019-02-27 [Доклад: Блокчейн Главная справедливости займа платформа подНимает $65 000 000](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
 * 2019-02-27 [Европейский регуляторный Председатель поддерживает новые правила цифрового актива](https://github.com/theyapapa/cryptonews/blob/ru/european-regulatory-chair-supports-new-digital-asset-regulations-56e9ee8f.md)
