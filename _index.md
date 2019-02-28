@@ -1,3 +1,4 @@
+* 2019-02-27 [Доклад: Блокчейн Главная справедливости займа платформа подНимает $65 000 000](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
 * 2019-02-27 [Европейский регуляторный Председатель поддерживает новые правила цифрового актива](https://github.com/theyapapa/cryptonews/blob/ru/european-regulatory-chair-supports-new-digital-asset-regulations-56e9ee8f.md)
 * 2019-02-27 [Coinomi кошелек адреса уязвимость проблемы](https://github.com/theyapapa/cryptonews/blob/ru/coinomi-wallet-addresses-vulnerability-concerns-bfde92f4.md)
 * 2019-02-27 [Bitcoin, Эфириум, эфир, рябь, EOS, Litecoin, Bitcoin Cash, Звездный, трон, Binance монета, Bitcoin SV: анализ цен, 27 февраля](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-eos-litecoin-bitcoin-cash-stellar-tron-binance-coin-bitcoin-sv-price-analysis-february-27-fd38cafc.md)
