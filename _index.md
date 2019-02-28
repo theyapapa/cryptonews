@@ -1,3 +1,4 @@
+* 2019-02-28 [태국어 SEC는 ico 및 거래에 적합 한 암호 자산 목록에 3 크립 토를 추가 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-added-3-cryptos-to-list-of-crypto-assets-suitable-for-icos-and-trading-fbafca97.md)
 * 2019-02-28 [보고서: 2018에서 coinbase에 대 한 $300 백만 인상 하는 사람들 가운데 싱가포르의 재산 기금](https://github.com/theyapapa/cryptonews/blob/ko/report-singapores-wealth-fund-gic-among-those-to-raise-300-mln-for-coinbase-in-2018-019bff76.md)
 * 2019-02-28 [빅 네 감사 PwC, 암호 화폐 지급 불능 가이드, 주의 이사 게시](https://github.com/theyapapa/cryptonews/blob/ko/big-four-auditor-pwc-publishes-crypto-insolvency-guide-cautions-directors-81b953fc.md)
 * 2019-02-27 [보고서: 블록 체인 홈 지분 대출 플랫폼 제기 $6500만](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
