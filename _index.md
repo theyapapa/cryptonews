@@ -1,3 +1,4 @@
+* 2019-02-28 [빅 네 감사 PwC, 암호 화폐 지급 불능 가이드, 주의 이사 게시](https://github.com/theyapapa/cryptonews/blob/ko/big-four-auditor-pwc-publishes-crypto-insolvency-guide-cautions-directors-81b953fc.md)
 * 2019-02-27 [보고서: 블록 체인 홈 지분 대출 플랫폼 제기 $6500만](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
 * 2019-02-27 [유럽 규제 위원장, 새로운 디지털 자산 규정 지원](https://github.com/theyapapa/cryptonews/blob/ko/european-regulatory-chair-supports-new-digital-asset-regulations-56e9ee8f.md)
 * 2019-02-27 [코인 오미 지갑의 취약성 문제 해결](https://github.com/theyapapa/cryptonews/blob/ko/coinomi-wallet-addresses-vulnerability-concerns-bfde92f4.md)
