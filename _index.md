@@ -1,3 +1,4 @@
+* 2019-02-28 [Большой четверки аудитор PwC публикует руководство по несостоятельности крипто, предостережения директоров](https://github.com/theyapapa/cryptonews/blob/ru/big-four-auditor-pwc-publishes-crypto-insolvency-guide-cautions-directors-81b953fc.md)
 * 2019-02-27 [Доклад: Блокчейн Главная справедливости займа платформа подНимает $65 000 000](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
 * 2019-02-27 [Европейский регуляторный Председатель поддерживает новые правила цифрового актива](https://github.com/theyapapa/cryptonews/blob/ru/european-regulatory-chair-supports-new-digital-asset-regulations-56e9ee8f.md)
 * 2019-02-27 [Coinomi кошелек адреса уязвимость проблемы](https://github.com/theyapapa/cryptonews/blob/ru/coinomi-wallet-addresses-vulnerability-concerns-bfde92f4.md)
