@@ -1,3 +1,4 @@
+* 2019-02-27 [보고서: 블록 체인 홈 지분 대출 플랫폼 제기 $6500만](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
 * 2019-02-27 [유럽 규제 위원장, 새로운 디지털 자산 규정 지원](https://github.com/theyapapa/cryptonews/blob/ko/european-regulatory-chair-supports-new-digital-asset-regulations-56e9ee8f.md)
 * 2019-02-27 [코인 오미 지갑의 취약성 문제 해결](https://github.com/theyapapa/cryptonews/blob/ko/coinomi-wallet-addresses-vulnerability-concerns-bfde92f4.md)
 * 2019-02-27 [비트 코인,이 더 리 움 리플, EOS, 라이트 코인 현금, 스텔라, 트 론, 비트 코인 SV: 가격 분석, 2 월 27 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-eos-litecoin-bitcoin-cash-stellar-tron-binance-coin-bitcoin-sv-price-analysis-february-27-fd38cafc.md)
