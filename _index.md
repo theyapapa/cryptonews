@@ -1,3 +1,4 @@
+* 2019-02-28 [에 테 리 움의 콘스탄티노플, 상트페테르부르크 업그레이드가 활성화 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereums-constantinople-st-petersburg-upgrades-have-been-activated-1c3a79b9.md)
 * 2019-02-28 [높은 상승에서 비를 만든 홍콩 기업가는 암호 마이닝 사기에 대 한 체포](https://github.com/theyapapa/cryptonews/blob/ko/hong-kong-entrepreneur-who-made-it-rain-from-high-rise-arrested-for-crypto-mining-fraud-1fd7c896.md)
 * 2019-02-28 [플랫폼은 사용자가 하나의 거래 터미널을 통해 수많은 거래소에 액세스 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/platform-allows-users-to-access-numerous-exchanges-via-one-trading-termina-0d18290a.md)
 * 2019-02-28 [뉴욕 타임즈: 페이스 북은 암호 교환에 ' 페이스 북 동전 ' 쇼핑 소문](https://github.com/theyapapa/cryptonews/blob/ko/new-york-times-facebook-reportedly-shopping-facebook-coin-to-crypto-exchanges-bd172648.md)
