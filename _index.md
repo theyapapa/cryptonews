@@ -1,3 +1,4 @@
+* 2019-02-28 [Big Four Auditor PwC publica cripto insolvencia guía, directores de precauciones](https://github.com/theyapapa/cryptonews/blob/es/big-four-auditor-pwc-publishes-crypto-insolvency-guide-cautions-directors-81b953fc.md)
 * 2019-02-27 [Informe: plataforma de préstamos de equidad en casa de blockchain eleva $65 millones](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-home-equity-loan-platform-raises-65-million-d61287eb.md)
 * 2019-02-27 [Silla Reguladora Europea apoya nuevas regulaciones de activos digitales](https://github.com/theyapapa/cryptonews/blob/es/european-regulatory-chair-supports-new-digital-asset-regulations-56e9ee8f.md)
 * 2019-02-27 [Coinomi Wallet aborda problemas de vulnerabilidad](https://github.com/theyapapa/cryptonews/blob/es/coinomi-wallet-addresses-vulnerability-concerns-bfde92f4.md)
