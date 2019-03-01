@@ -1,3 +1,4 @@
+* 2019-03-01 [fatf는 자금 세탁을 방지 하기 위해 디지털 자산에 대 한 예비 지침을 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/fatf-issues-preliminary-guidelines-on-digital-assets-to-combat-money-laundering-618c3a98.md)
 * 2019-03-01 [binance 연구: 지금까지 리플의 XRP와 직접 경쟁할 가능성이 있는 jpm 코인 ](https://github.com/theyapapa/cryptonews/blob/ko/binance-research-jpm-coin-unlikely-to-directly-compete-with-ripples-xrp-for-now-a9b19337.md)
 * 2019-03-01 [말레이시아 국가 농업 제품을 추적 하기 위해 블록 체인 솔루션을 시작 하는 것은 공식 말한다](https://github.com/theyapapa/cryptonews/blob/ko/malaysian-state-to-launch-blockchain-solution-to-track-agricultural-products-says-official-89cd2934.md)
 * 2019-03-01 [서클은 내부자 거래, ' 펌프 및 덤프 ' 계획을 싸울 수 있는 시장 감시를 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/circle-introduces-market-surveillance-to-fight-insider-trading-pump-and-dump-schemes-14011e9e.md)
