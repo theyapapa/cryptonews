@@ -1,24 +1,22 @@
-# Plataforma permite a los usuarios acceder a numerosos intercambios a través de una terminal de Trading ...
+# Crypto terminal permite a los traders crear estrategias automatizadas y acceder a múltiples intercambios ...
 
-###### 2019-02-28 12:02
+###### 2019-02-28 18:02
 
-Una startup con sede en Kiev, Ucrania, dice que su terminal de Trading superorder, que funciona con funciones de automatización, puede Agregar operaciones criptográficas a través de múltiples intercambios, lo que permite a los inversionistas centralizar sus actividades de trading.
+La startup que ha construido un "terminal de Trading criptográfico de próxima generación" dice que su producto está enfocado en la simplicidad y la automatización, lo que permite a los traders establecer sus estrategias y pasar las tardes lejos de sus pantallas.
 
-## Superorder: redefiniendo los terminales de Trading
+En el espíritu de compatibilidad, la startup basada en Kiev dice que sus terminales ofrecen a los comerciantes la oportunidad de comerciar en cualquier intercambio desde un solo lugar.
 
-según los desarrolladores, superorder es un "terminal de Trading de próxima generación", que proporciona a los usuarios un Trading centralizado en cualquier intercambio desde un solo lugar.
+Mientras que los comerciantes novatos se benefician de una interfaz fácil de usar que establece las cosas visualmente para evitar la confusión, junto con el apoyo de una comunidad de mentalidad similar, los comerciantes experimentados tienen la oportunidad de ajustar la configuración del terminal en línea con sus propios preferencias personales.
 
-Mientras que el inicio dice que el terminal proporciona acceso a una amplia gama de intercambios, la plataforma actualmente soporta sólo Bittrex, Coinbase y Malta-based Binance.
+El terminal ofrece un total de nueve bloques de construcción que los comerciantes pueden elegir al desarrollar sus estrategias.
 
-Según su comunicado de prensa, el terminal de Trading funciona conectando a una API de intercambio elegida, lo que permite a superorder interactuar con la plataforma en nombre del usuario.
+Además de los límites y las órdenes de mercado, donde las criptomonedas se pueden comprar y vender a un precio predeterminado o al instante a tasas de mercado, una función de parada-pérdida ayuda a aislar a los comerciantes contra las pérdidas pesadas.
 
-## Creador de estrategias y marcos temporales de gráficos
+De acuerdo con superorder, su terminal de Trading tiene la capacidad de manejar una multitud de estrategias simultáneamente, incluso si se encuentran a través de diferentes intercambios y pares de monedas.
 
-la plataforma tiene algunas características que cree que atraerán a los traders profesionales.
+## Un lado avanzado
 
-Superorder dice que el constructor de estrategias es la característica principal que demuestra el compromiso de la plataforma con la automatización y la simplicidad.
-
-Superorder dice que su terminal de Trading puede recopilar datos de varios intercambios para asegurar que los usuarios están siempre a la velocidad con respecto al valor de sus activos digitales.
+superorder dice que se ha estado esforzando por agregar herramientas avanzadas en una oferta para hacer sus terminales atractivos para los comerciantes profesionales.
 
 [Original source](https://cointelegraph.com/news/platform-allows-users-to-access-numerous-exchanges-via-one-trading-termina)
 
