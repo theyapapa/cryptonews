@@ -1,24 +1,22 @@
-# Platform Allows Users to Access Numerous Exchanges Via One Trading Terminal ...
+# Crypto Terminal Allows Traders to Build Automated Strategies and Access Multiple Exchanges ...
 
-###### 2019-02-28 12:02
+###### 2019-02-28 18:02
 
-A startup based in Kyiv, Ukraine says its trading terminal Superorder, which is powered by automation features, can aggregate crypto trades across multiple exchanges, allowing investors to centralise their trading activities.
+The startup that has built a “next-generation crypto trading terminal” says its product is focused on simplicity and automation — enabling traders to set up their strategies and spend evenings away from their screens.
 
-## Superorder: Redefining trading terminals
+In the spirit of compatibility, the Kyiv-based startup says its terminals give traders the opportunity to trade on any exchange from one place.
 
-According to the developers, Superorder is a “next generation trading terminal,” which provides users with centralized trading on any exchange from a single place.
+While novice traders benefit from a user-friendly interface that sets things out visually to avoid confusion — along with support from a like-minded community — experienced traders have the opportunity to adjust the terminal’s settings in line with their own personal preferences.
 
-While the startup says the terminal provides access to a wide array of exchanges, the platform currently supports only Bittrex, Coinbase and Malta-based Binance.
+The terminal offers a total of nine building blocks that traders can choose from when developing their strategies.
 
-According to its press release, the trading terminal works by connecting to a chosen exchange's API, which allows Superorder to interact with the platform on behalf of the user.
+As well as limit and market orders, where cryptocurrencies can be bought and sold at a predetermined price or instantly at market rates, a stop-loss function helps to insulate traders against heavy losses.
 
-## Strategy builder and chart timeframes
+According to Superorder, its trading terminal has the capacity to handle a multitude of strategies simultaneously, even if they lie across different exchanges and coin pairings.
 
-The platform has some features that it believes will attract professional traders.
+## An advanced side
 
-Superorder says the strategy builder is the primary feature that demonstrates the platform’s commitment to automation and simplicity.
-
-Superorder says its trading terminal can gather data from various exchanges to ensure that the users are always up to speed regarding the value of their digital assets.
+Superorder says that it has been striving to add advanced tools in a bid to make its terminals attractive to professional traders.
 
 [Original source](https://cointelegraph.com/news/platform-allows-users-to-access-numerous-exchanges-via-one-trading-termina)
 
