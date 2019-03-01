@@ -1,3 +1,4 @@
+* 2019-03-01 [Jefe de mercados de Ripple: el listado de tokens de XRP fue ' la decisión independiente de Coinbase '](https://github.com/theyapapa/cryptonews/blob/es/ripple-head-of-markets-xrp-token-listing-was-coinbases-independent-decision-568b01b5.md)
 * 2019-02-28 [Signature Bank con sede en Nueva York ofrecerá servicios a firmas FinTech en Bermuda](https://github.com/theyapapa/cryptonews/blob/es/new-york-based-signature-bank-to-offer-services-to-fintech-firms-in-bermuda-b25d8e6b.md)
 * 2019-02-28 [Crypto terminal permite a los traders crear estrategias automatizadas y acceder a múltiples intercambios](https://github.com/theyapapa/cryptonews/blob/es/platform-allows-users-to-access-numerous-exchanges-via-one-trading-termina-0d18290a.md)
 * 2019-02-28 [Constantinopla de Ethereum, se han activado las actualizaciones de San Petersburgo](https://github.com/theyapapa/cryptonews/blob/es/ethereums-constantinople-st-petersburg-upgrades-have-been-activated-1c3a79b9.md)
