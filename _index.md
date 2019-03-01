@@ -1,3 +1,4 @@
+* 2019-03-01 [가상 화폐 밸리 협회 ' 회원 플랫폼 블루 트레이딩에의 한 부적절 한 행동 조사 '](https://github.com/theyapapa/cryptonews/blob/ko/crypto-valley-association-looking-into-improper-conduct-by-member-platform-blue-trading-3b1fe091.md)
 * 2019-03-01 [시장의 리플 헤드: XRP 토큰 리스팅은 ' 코인 베이스의 독립적인 결정 ' 이었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripple-head-of-markets-xrp-token-listing-was-coinbases-independent-decision-568b01b5.md)
 * 2019-02-28 [버뮤다에 있는 핀 테크 회사에 서비스를 제공 하는 뉴욕 기반 서명 은행](https://github.com/theyapapa/cryptonews/blob/ko/new-york-based-signature-bank-to-offer-services-to-fintech-firms-in-bermuda-b25d8e6b.md)
 * 2019-02-28 [암호화 터미널은 상인이 자동화 된 전략을 구축 하 고 여러 거래소에 액세스 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/platform-allows-users-to-access-numerous-exchanges-via-one-trading-termina-0d18290a.md)
