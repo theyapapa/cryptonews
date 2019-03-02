@@ -1,3 +1,4 @@
+* 2019-03-01 [Binance предлагает токен награды для тестирования новой децентрализованной платформы](https://github.com/theyapapa/cryptonews/blob/ru/binance-offers-token-rewards-for-testing-new-decentralized-platform-4f3f9d94.md)
 * 2019-03-01 [Доклад: Блокчейн и крипто фирм на Мальте сталкиваются с трудностями в поиске банковских услуг](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-and-crypto-firms-in-malta-face-difficulty-in-finding-banking-services-931f1773.md)
 * 2019-03-01 [ФАТФ издает предварительные руководящие принципы по цифровым активам для борьбы с отМыванием денег](https://github.com/theyapapa/cryptonews/blob/ru/fatf-issues-preliminary-guidelines-on-digital-assets-to-combat-money-laundering-618c3a98.md)
 * 2019-03-01 [Binance исследования: JPM монета вряд ли напрямую конкурировать с ](https://github.com/theyapapa/cryptonews/blob/ru/binance-research-jpm-coin-unlikely-to-directly-compete-with-ripples-xrp-for-now-a9b19337.md)
