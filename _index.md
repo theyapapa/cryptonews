@@ -1,3 +1,4 @@
+* 2019-03-01 [Доклад: Куадригаккс кошельки были пустыми, не используется с апреля](https://github.com/theyapapa/cryptonews/blob/ru/report-quadrigacx-wallets-have-been-empty-unused-since-april-05af84c9.md)
 * 2019-03-01 [Основные Саудовская ATM провайдера партнеры с Блокчейн идентичности платформы](https://github.com/theyapapa/cryptonews/blob/ru/major-saudi-atm-provider-partners-with-blockchain-identity-platform-be6d0839.md)
 * 2019-03-01 [Binance предлагает токен награды для тестирования новой децентрализованной платформы](https://github.com/theyapapa/cryptonews/blob/ru/binance-offers-token-rewards-for-testing-new-decentralized-platform-4f3f9d94.md)
 * 2019-03-01 [Доклад: Блокчейн и крипто фирм на Мальте сталкиваются с трудностями в поиске банковских услуг](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-and-crypto-firms-in-malta-face-difficulty-in-finding-banking-services-931f1773.md)
