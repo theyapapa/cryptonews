@@ -1,3 +1,4 @@
+* 2019-03-01 [블록 체인 아이덴티티 플랫폼과 함께 하는 사우디아라비아의 주요 ATM 제공 업체 파트너](https://github.com/theyapapa/cryptonews/blob/ko/major-saudi-atm-provider-partners-with-blockchain-identity-platform-be6d0839.md)
 * 2019-03-01 [binance는 새로운 분산 플랫폼 테스트를 위한 토큰 보상을 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-offers-token-rewards-for-testing-new-decentralized-platform-4f3f9d94.md)
 * 2019-03-01 [보고서: 몰타의 블록 체인과 암호 화폐 회사 들이 은행 서비스를 찾는 데 어려움을 겪고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-and-crypto-firms-in-malta-face-difficulty-in-finding-banking-services-931f1773.md)
 * 2019-03-01 [fatf는 자금 세탁을 방지 하기 위해 디지털 자산에 대 한 예비 지침을 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/fatf-issues-preliminary-guidelines-on-digital-assets-to-combat-money-laundering-618c3a98.md)
