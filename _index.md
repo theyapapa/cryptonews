@@ -1,3 +1,4 @@
+* 2019-03-02 [블록 스트림 릴리스 비트 코인 번개 네트워크 구현의 업그레이드](https://github.com/theyapapa/cryptonews/blob/ko/blockstream-releases-upgrade-of-its-bitcoin-lightning-network-implementation-f34f222b.md)
 * 2019-03-01 [보고서: 콰 드 릭 acx 지갑은 4 월부터 사용 하지 않은 비어 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-quadrigacx-wallets-have-been-empty-unused-since-april-05af84c9.md)
 * 2019-03-01 [블록 체인 아이덴티티 플랫폼과 함께 하는 사우디아라비아의 주요 ATM 제공 업체 파트너](https://github.com/theyapapa/cryptonews/blob/ko/major-saudi-atm-provider-partners-with-blockchain-identity-platform-be6d0839.md)
 * 2019-03-01 [binance는 새로운 분산 플랫폼 테스트를 위한 토큰 보상을 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-offers-token-rewards-for-testing-new-decentralized-platform-4f3f9d94.md)
