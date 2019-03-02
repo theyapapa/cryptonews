@@ -1,3 +1,4 @@
+* 2019-03-02 [El equipo de desarrollo básico de Ethereum está buscando un nuevo Coordinador de Hard Fork](https://github.com/theyapapa/cryptonews/blob/es/ethereums-core-dev-team-is-searching-for-a-new-hard-fork-coordinator-6f686a38.md)
 * 2019-03-02 [Blockstream libera la actualización de su implementación de red de Lightning de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/blockstream-releases-upgrade-of-its-bitcoin-lightning-network-implementation-f34f222b.md)
 * 2019-03-01 [Informe: las carteras QuadrigaCX han estado vacías, sin uso desde abril](https://github.com/theyapapa/cryptonews/blob/es/report-quadrigacx-wallets-have-been-empty-unused-since-april-05af84c9.md)
 * 2019-03-01 [Principales proveedores de cajeros automáticos sauditas con plataforma de identidad blockchain](https://github.com/theyapapa/cryptonews/blob/es/major-saudi-atm-provider-partners-with-blockchain-identity-platform-be6d0839.md)
