@@ -1,3 +1,4 @@
+* 2019-03-01 [Informe: las carteras QuadrigaCX han estado vacías, sin uso desde abril](https://github.com/theyapapa/cryptonews/blob/es/report-quadrigacx-wallets-have-been-empty-unused-since-april-05af84c9.md)
 * 2019-03-01 [Principales proveedores de cajeros automáticos sauditas con plataforma de identidad blockchain](https://github.com/theyapapa/cryptonews/blob/es/major-saudi-atm-provider-partners-with-blockchain-identity-platform-be6d0839.md)
 * 2019-03-01 [Binance ofrece recompensas de tokens para probar nueva plataforma descentralizada](https://github.com/theyapapa/cryptonews/blob/es/binance-offers-token-rewards-for-testing-new-decentralized-platform-4f3f9d94.md)
 * 2019-03-01 [Informe: blockchain y empresas criptográficas en Malta enfrentan dificultades para encontrar servicios bancarios](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-and-crypto-firms-in-malta-face-difficulty-in-finding-banking-services-931f1773.md)
