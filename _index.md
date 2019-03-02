@@ -1,3 +1,4 @@
+* 2019-03-02 [Основная команда разработчиков Эфириум ищет новый жесткий координатор вилки](https://github.com/theyapapa/cryptonews/blob/ru/ethereums-core-dev-team-is-searching-for-a-new-hard-fork-coordinator-6f686a38.md)
 * 2019-03-02 [Blockstream выпускает модернизацию своей сети Bitcoin Lightning реализация](https://github.com/theyapapa/cryptonews/blob/ru/blockstream-releases-upgrade-of-its-bitcoin-lightning-network-implementation-f34f222b.md)
 * 2019-03-01 [Доклад: Куадригаккс кошельки были пустыми, не используется с апреля](https://github.com/theyapapa/cryptonews/blob/ru/report-quadrigacx-wallets-have-been-empty-unused-since-april-05af84c9.md)
 * 2019-03-01 [Основные Саудовская ATM провайдера партнеры с Блокчейн идентичности платформы](https://github.com/theyapapa/cryptonews/blob/ru/major-saudi-atm-provider-partners-with-blockchain-identity-platform-be6d0839.md)
