@@ -1,3 +1,4 @@
+* 2019-03-03 [블룸버그: 암호 회사는 여전히 은행 계좌를 개설 하는 문제에 실행](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-crypto-companies-still-run-into-trouble-opening-bank-accounts-9c0a965e.md)
 * 2019-03-03 [대부분의 최고 cryptos 비트 코인은 $3850 이상으로 사소한 손실을 볼](https://github.com/theyapapa/cryptonews/blob/ko/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3-850-6ca3440c.md)
 * 2019-03-03 [Ethereum 공동 설립자 버티: ETH는 비트 코인의 제한 된 기능에 대 한 해결책입니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-vitalik-buterin-eth-is-a-solution-to-bitcoins-limited-functionality-87115efc.md)
 * 2019-03-03 [#DeleteCoinbase: Exchange 사용자는 이전 스파이웨어 개발자가 실행 한 회사의 인수에 응답 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/deletecoinbase-exchange-users-respond-to-acquisition-of-a-firm-run-by-former-spyware-developers-fccad660.md)
