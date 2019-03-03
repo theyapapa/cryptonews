@@ -1,3 +1,4 @@
+* 2019-03-02 [Bitcoin se desplaza más de $3.850 como la mayoría de los Cryptos principales ver las pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-over-3-850-as-most-top-cryptos-see-losses-d6aed28d.md)
 * 2019-03-02 [Unión conservadora de Asia Pacífico lanza ecosistema blockchain para luchar contra el autoritarismo](https://github.com/theyapapa/cryptonews/blob/es/asia-pacific-conservative-union-launches-blockchain-ecosystem-to-fight-authoritarianism-2343a6fe.md)
 * 2019-03-02 [El equipo de desarrollo básico de Ethereum está buscando un nuevo Coordinador de Hard Fork](https://github.com/theyapapa/cryptonews/blob/es/ethereums-core-dev-team-is-searching-for-a-new-hard-fork-coordinator-6f686a38.md)
 * 2019-03-02 [Blockstream libera la actualización de su implementación de red de Lightning de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/blockstream-releases-upgrade-of-its-bitcoin-lightning-network-implementation-f34f222b.md)
