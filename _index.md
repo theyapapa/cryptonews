@@ -1,3 +1,4 @@
+* 2019-03-03 [대부분의 최고 cryptos 비트 코인은 $3850 이상으로 사소한 손실을 볼](https://github.com/theyapapa/cryptonews/blob/ko/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3-850-6ca3440c.md)
 * 2019-03-03 [Ethereum 공동 설립자 버티: ETH는 비트 코인의 제한 된 기능에 대 한 해결책입니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-vitalik-buterin-eth-is-a-solution-to-bitcoins-limited-functionality-87115efc.md)
 * 2019-03-03 [#DeleteCoinbase: Exchange 사용자는 이전 스파이웨어 개발자가 실행 한 회사의 인수에 응답 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/deletecoinbase-exchange-users-respond-to-acquisition-of-a-firm-run-by-former-spyware-developers-fccad660.md)
 * 2019-03-03 [테크 회사는 블록 체인을 통해 페이스 북, 유튜브 및 트위터에 광고를 변환 할 계획](https://github.com/theyapapa/cryptonews/blob/ko/tech-firm-plans-to-transform-advertising-on-facebook-youtube-and-twitter-via-blockchain-07a92c72.md)
