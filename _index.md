@@ -1,3 +1,4 @@
+* 2019-03-03 [테크 회사는 블록 체인을 통해 페이스 북, 유튜브 및 트위터에 광고를 변환 할 계획](https://github.com/theyapapa/cryptonews/blob/ko/tech-firm-plans-to-transform-advertising-on-facebook-youtube-and-twitter-via-blockchain-07a92c72.md)
 * 2019-03-02 [비트 코인은 $3850 위에 올려 대부분의 최고 크립 토는 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-3-850-as-most-top-cryptos-see-losses-d6aed28d.md)
 * 2019-03-02 [아시아 태평양 보수적인 동맹, 권위주의 싸움을 위한 블록 체인 생태계 출시](https://github.com/theyapapa/cryptonews/blob/ko/asia-pacific-conservative-union-launches-blockchain-ecosystem-to-fight-authoritarianism-2343a6fe.md)
 * 2019-03-02 [에 테 리 움의 핵심 개발 팀은 새로운 하드 포크 코디네이터를 찾고 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereums-core-dev-team-is-searching-for-a-new-hard-fork-coordinator-6f686a38.md)
