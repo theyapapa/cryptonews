@@ -1,3 +1,4 @@
+* 2019-03-03 [Топ 5 крипто исполнители Обзор: Binance монета, Bitcoin SV, пульсация, тире, Litecoin](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-binance-coin-bitcoin-sv-ripple-dash-litecoin-558b4ae5.md)
 * 2019-03-03 [Bloomberg: Crypto компании все еще бегут в неПриятности открытие банковских счетов](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-crypto-companies-still-run-into-trouble-opening-bank-accounts-9c0a965e.md)
 * 2019-03-03 [Самые лучшие крипты видят неЗначительные потери по мере того как Bitcoin наВисает над $3 850](https://github.com/theyapapa/cryptonews/blob/ru/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3-850-6ca3440c.md)
 * 2019-03-03 [Эфириум соУчредитель Виталик Бутерин: ETH является решением ограниченной функциональности Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-co-founder-vitalik-buterin-eth-is-a-solution-to-bitcoins-limited-functionality-87115efc.md)
