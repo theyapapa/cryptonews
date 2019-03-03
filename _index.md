@@ -1,3 +1,4 @@
+* 2019-03-02 [Bitcoin наВисает над $3 850 как большинство топ крипты см потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-over-3-850-as-most-top-cryptos-see-losses-d6aed28d.md)
 * 2019-03-02 [Азиатско-Тихоокеанский консервативный союз запускает Блокчейн-экосистему для борьбы с авторитаризмом](https://github.com/theyapapa/cryptonews/blob/ru/asia-pacific-conservative-union-launches-blockchain-ecosystem-to-fight-authoritarianism-2343a6fe.md)
 * 2019-03-02 [Основная команда разработчиков Эфириум ищет новый жесткий координатор вилки](https://github.com/theyapapa/cryptonews/blob/ru/ethereums-core-dev-team-is-searching-for-a-new-hard-fork-coordinator-6f686a38.md)
 * 2019-03-02 [Blockstream выпускает модернизацию своей сети Bitcoin Lightning реализация](https://github.com/theyapapa/cryptonews/blob/ru/blockstream-releases-upgrade-of-its-bitcoin-lightning-network-implementation-f34f222b.md)
