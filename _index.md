@@ -1,3 +1,4 @@
+* 2019-03-04 [설문 조사: 리플 샌프란시스코 베이 지역에서 최고 고용주 중 하나를 선정](https://github.com/theyapapa/cryptonews/blob/ko/survey-ripple-ranked-one-of-top-employers-in-san-francisco-bay-area-ffcb6798.md)
 * 2019-03-04 [리 데스 쉐어 링 앱 리프트는 블록 체인 스타트업과 협력 하 여 헬스케어 운송을 토큰화 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ridesharing-app-lyft-partners-with-blockchain-startup-to-tokenize-healthcare-transport-1011ebc7.md)
 * 2019-03-04 [암호화 지불 회사 서클 크 라우드 펀 딩 플랫폼 시 딘 조끼의 취득을 닫습니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-payments-firm-circle-closes-acquisition-of-crowdfunding-platform-seedinvest-6e4d5803.md)
 * 2019-03-04 [인스턴트 암호화 신용 라인 공급자는 7 개월에 $3억 처리 말한다](https://github.com/theyapapa/cryptonews/blob/ko/instant-crypto-credit-line-provider-says-it-processed-300-million-in-seven-months-17db198d.md)
