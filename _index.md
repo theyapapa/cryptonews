@@ -1,3 +1,4 @@
+* 2019-03-04 [블록 체인을 활용 해야 하는 걸프 지역의 급성장 하는 신 재생 에너지 부문은 전문가 들이](https://github.com/theyapapa/cryptonews/blob/ko/gulf-regions-burgeoning-renewable-energy-sector-should-leverage-blockchain-experts-argue-7635e5dc.md)
 * 2019-03-04 [coinbase: 이전 공급자는 제 3 자에 게 사용자 데이터를 판매, 중립을 획득 하 라는 메시지](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-former-provider-sold-user-data-to-third-parties-prompting-neutrino-acquisition-5eb58991.md)
 * 2019-03-03 [맨 위로 5 암호화 수행자 개요: binance 동전, 비트 코인 SV, 리플, 대시, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-binance-coin-bitcoin-sv-ripple-dash-litecoin-558b4ae5.md)
 * 2019-03-03 [블룸버그: 암호 회사는 여전히 은행 계좌를 개설 하는 문제에 실행](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-crypto-companies-still-run-into-trouble-opening-bank-accounts-9c0a965e.md)
