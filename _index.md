@@ -1,3 +1,4 @@
+* 2019-03-04 [암호화 지불 회사 서클 크 라우드 펀 딩 플랫폼 시 딘 조끼의 취득을 닫습니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-payments-firm-circle-closes-acquisition-of-crowdfunding-platform-seedinvest-6e4d5803.md)
 * 2019-03-04 [인스턴트 암호화 신용 라인 공급자는 7 개월에 $3억 처리 말한다](https://github.com/theyapapa/cryptonews/blob/ko/instant-crypto-credit-line-provider-says-it-processed-300-million-in-seven-months-17db198d.md)
 * 2019-03-04 [할인 된 운송 서비스 사용자를 위한 블록 체인 사용을 고려 하는 러시아 철도](https://github.com/theyapapa/cryptonews/blob/ko/russian-railways-to-consider-blockchain-use-for-users-of-discounted-transport-services-c811797d.md)
 * 2019-03-04 [블록 체인을 활용 해야 하는 걸프 지역의 급성장 하는 신 재생 에너지 부문은 전문가 들이](https://github.com/theyapapa/cryptonews/blob/ko/gulf-regions-burgeoning-renewable-energy-sector-should-leverage-blockchain-experts-argue-7635e5dc.md)
