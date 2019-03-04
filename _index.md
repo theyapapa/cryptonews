@@ -1,3 +1,4 @@
+* 2019-03-04 [coinbase: 이전 공급자는 제 3 자에 게 사용자 데이터를 판매, 중립을 획득 하 라는 메시지](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-former-provider-sold-user-data-to-third-parties-prompting-neutrino-acquisition-5eb58991.md)
 * 2019-03-03 [맨 위로 5 암호화 수행자 개요: binance 동전, 비트 코인 SV, 리플, 대시, 라이트 코인](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-binance-coin-bitcoin-sv-ripple-dash-litecoin-558b4ae5.md)
 * 2019-03-03 [블룸버그: 암호 회사는 여전히 은행 계좌를 개설 하는 문제에 실행](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-crypto-companies-still-run-into-trouble-opening-bank-accounts-9c0a965e.md)
 * 2019-03-03 [대부분의 최고 cryptos 비트 코인은 $3850 이상으로 사소한 손실을 볼](https://github.com/theyapapa/cryptonews/blob/ko/most-top-cryptos-see-minor-losses-as-bitcoin-hovers-over-3-850-6ca3440c.md)
