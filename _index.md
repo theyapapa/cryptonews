@@ -1,3 +1,4 @@
+* 2019-03-04 [러시아, ' 러시아 오프 쇼 어 '에 대 한 특별 암호화 규정 소개](https://github.com/theyapapa/cryptonews/blob/ko/russia-to-introduce-special-crypto-regulations-for-russian-offshores-894c36b2.md)
 * 2019-03-04 [대표이사, 과실 및 자금 세탁 위반의 주장을 반박](https://github.com/theyapapa/cryptonews/blob/ko/revolut-ceo-refutes-claims-of-negligence-and-money-laundering-breach-cf2b6cce.md)
 * 2019-03-04 [설문 조사: 리플 샌프란시스코 베이 지역에서 최고 고용주 중 하나를 선정](https://github.com/theyapapa/cryptonews/blob/ko/survey-ripple-ranked-one-of-top-employers-in-san-francisco-bay-area-ffcb6798.md)
 * 2019-03-04 [리 데스 쉐어 링 앱 리프트는 블록 체인 스타트업과 협력 하 여 헬스케어 운송을 토큰화 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ridesharing-app-lyft-partners-with-blockchain-startup-to-tokenize-healthcare-transport-1011ebc7.md)
