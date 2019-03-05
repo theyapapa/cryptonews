@@ -1,3 +1,4 @@
+* 2019-03-04 [Rusia introducirá regulaciones criptográficas especiales para ' Russian offshores '](https://github.com/theyapapa/cryptonews/blob/es/russia-to-introduce-special-crypto-regulations-for-russian-offshores-894c36b2.md)
 * 2019-03-04 [El CEO de revolut refuta reclamos de negligencia y violación de lavado de dinero](https://github.com/theyapapa/cryptonews/blob/es/revolut-ceo-refutes-claims-of-negligence-and-money-laundering-breach-cf2b6cce.md)
 * 2019-03-04 [Encuesta: Ripple clasificado como uno de los principales empleadores en el área de la bahía de San Francisco](https://github.com/theyapapa/cryptonews/blob/es/survey-ripple-ranked-one-of-top-employers-in-san-francisco-bay-area-ffcb6798.md)
 * 2019-03-04 [Ridesharing App Lyft Partners con blockchain startup para tokenizar el transporte sanitario](https://github.com/theyapapa/cryptonews/blob/es/ridesharing-app-lyft-partners-with-blockchain-startup-to-tokenize-healthcare-transport-1011ebc7.md)
