@@ -1,3 +1,4 @@
+* 2019-03-05 [러시아는 두 번째 독서에서 국내 암호화 법안을 제공 하는 것을 목표로 법안을 채택](https://github.com/theyapapa/cryptonews/blob/ko/russia-adopts-bill-aimed-to-provide-domestic-crypto-legislation-in-second-reading-5969e761.md)
 * 2019-03-05 [미국 암호 교환 erisx는 비즈니스 개발자로 전직 웰 스 파고 집행을 고용](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-exchange-erisx-hires-former-wells-fargo-executive-as-business-developer-2c08c428.md)
 * 2019-03-05 [cryptopia 웹 사이트는 약간의 지연 후 라이브 간다, 사전 해킹 상태에서 개최 사용자 잔액](https://github.com/theyapapa/cryptonews/blob/ko/cryptopia-website-goes-live-after-slight-delay-user-balances-held-from-pre-hack-state-bd6a7b5a.md)
 * 2019-03-05 [소매 거 대 한 까르푸는 우유 제품 공급 체인을 추적 하기 위해 블록 체인을 적용](https://github.com/theyapapa/cryptonews/blob/ko/retail-giant-carrefour-applies-blockchain-for-tracking-milk-product-supply-chain-61a23b9a.md)
