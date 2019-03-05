@@ -1,3 +1,4 @@
+* 2019-03-05 [coinbase 기술 파트너는 제 3 자에 게 사용자 데이터의 수집, 판매 혐의를 반박 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-technology-partner-refutes-alleged-collection-sale-of-user-data-to-third-parties-1c19939e.md)
 * 2019-03-05 [코인 베이스 대표이사: 전 해킹 팀 중립 회원은 회사 역할로 전환 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-ceo-ex-hacking-team-neutrino-members-will-transition-out-of-company-roles-eeb478d7.md)
 * 2019-03-04 [러시아, ' 러시아 오프 쇼 어 '에 대 한 특별 암호화 규정 소개](https://github.com/theyapapa/cryptonews/blob/ko/russia-to-introduce-special-crypto-regulations-for-russian-offshores-894c36b2.md)
 * 2019-03-04 [대표이사, 과실 및 자금 세탁 위반의 주장을 반박](https://github.com/theyapapa/cryptonews/blob/ko/revolut-ceo-refutes-claims-of-negligence-and-money-laundering-breach-cf2b6cce.md)
