@@ -1,3 +1,4 @@
+* 2019-03-05 [소매 거 대 한 까르푸는 우유 제품 공급 체인을 추적 하기 위해 블록 체인을 적용](https://github.com/theyapapa/cryptonews/blob/ko/retail-giant-carrefour-applies-blockchain-for-tracking-milk-product-supply-chain-61a23b9a.md)
 * 2019-03-05 [비트 코인 채굴 수익은 18 개월이 지난 후에 느린 회복을 시작 하 고, 새로운 보고서는](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-mining-revenue-begins-slow-recovery-after-18-month-lows-new-report-shows-555b376a.md)
 * 2019-03-05 [coinbase 기술 파트너는 제 3 자에 게 사용자 데이터의 수집, 판매 혐의를 반박 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-technology-partner-refutes-alleged-collection-sale-of-user-data-to-third-parties-1c19939e.md)
 * 2019-03-05 [코인 베이스 대표이사: 전 해킹 팀 중립 회원은 회사 역할로 전환 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-ceo-ex-hacking-team-neutrino-members-will-transition-out-of-company-roles-eeb478d7.md)
