@@ -1,3 +1,4 @@
+* 2019-03-05 [Coinbase технологический партнер опровергает предполагаемую коллекцию, продажу пользовательских данных третьим лицам](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-technology-partner-refutes-alleged-collection-sale-of-user-data-to-third-parties-1c19939e.md)
 * 2019-03-05 [Coinbase Генеральный директор: экс-взлом команды неЙтрино члены будут переходить из компании роли](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-ceo-ex-hacking-team-neutrino-members-will-transition-out-of-company-roles-eeb478d7.md)
 * 2019-03-04 [Россия введет специальные крипто-правила для «российских оффшоров»](https://github.com/theyapapa/cryptonews/blob/ru/russia-to-introduce-special-crypto-regulations-for-russian-offshores-894c36b2.md)
 * 2019-03-04 [Генеральный директор revolut опровергает претензии по халатности и отмыванию денег](https://github.com/theyapapa/cryptonews/blob/ru/revolut-ceo-refutes-claims-of-negligence-and-money-laundering-breach-cf2b6cce.md)
