@@ -1,3 +1,4 @@
+* 2019-03-05 [Coinbase CEO: ex-hacking Team neutrino miembros se transición fuera de las funciones de la empresa](https://github.com/theyapapa/cryptonews/blob/es/coinbase-ceo-ex-hacking-team-neutrino-members-will-transition-out-of-company-roles-eeb478d7.md)
 * 2019-03-04 [Rusia introducirá regulaciones criptográficas especiales para ' Russian offshores '](https://github.com/theyapapa/cryptonews/blob/es/russia-to-introduce-special-crypto-regulations-for-russian-offshores-894c36b2.md)
 * 2019-03-04 [El CEO de revolut refuta reclamos de negligencia y violación de lavado de dinero](https://github.com/theyapapa/cryptonews/blob/es/revolut-ceo-refutes-claims-of-negligence-and-money-laundering-breach-cf2b6cce.md)
 * 2019-03-04 [Encuesta: Ripple clasificado como uno de los principales empleadores en el área de la bahía de San Francisco](https://github.com/theyapapa/cryptonews/blob/es/survey-ripple-ranked-one-of-top-employers-in-san-francisco-bay-area-ffcb6798.md)
