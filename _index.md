@@ -1,3 +1,4 @@
+* 2019-03-06 [Cripto mercados suave después de una oleada de crecimiento, mercado de valores ligeramente hacia abajo](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-mellow-after-a-surge-of-growth-stock-market-slightly-down-563f571f.md)
 * 2019-03-06 [NASDAQ-Powered EU digital Exchange DX añade ETFs Tokenized](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-powered-eu-digital-exchange-dx-adds-tokenized-etfs-0246a608.md)
 * 2019-03-06 [IBM lanza la herramienta de pruebas de seguridad para empresas blockchain Takers](https://github.com/theyapapa/cryptonews/blob/es/ibm-releases-security-testing-tool-for-enterprise-blockchain-takers-b5362d9c.md)
 * 2019-03-06 [Blockchain Analytics firma Chainalysis describe la política de datos de usuario en medio de acusaciones Coinbase](https://github.com/theyapapa/cryptonews/blob/es/blockchain-analytics-firm-chainalysis-outlines-user-data-policy-amid-coinbase-allegations-6d42a1be.md)
