@@ -1,3 +1,4 @@
+* 2019-03-05 [Мальта цифровая биржа перемещает операции на Мальте фондовой бирже помещения](https://github.com/theyapapa/cryptonews/blob/ru/malta-digital-exchange-relocates-operations-to-malta-stock-exchange-premises-41994b38.md)
 * 2019-03-05 [Новое партнерство позволяет Труеусд трейдерам проводить аудит резервных активов монеты](https://github.com/theyapapa/cryptonews/blob/ru/new-partnership-allows-trueusd-traders-to-audit-the-coins-backing-assets-46724e2a.md)
 * 2019-03-05 [Доклад: Coinbase наНимает Amazon веб-служб ветерана разработать решения для ставок](https://github.com/theyapapa/cryptonews/blob/ru/report-coinbase-hires-amazon-web-services-veteran-to-develop-staking-solutions-c04dc977.md)
 * 2019-03-05 [Вдова основателя Куадригаккс исПрашивает компенсацию расходов Суда по защите кредиторов](https://github.com/theyapapa/cryptonews/blob/ru/widow-of-quadrigacx-founder-seeks-compensation-for-creditor-protection-court-costs-61f269be.md)
