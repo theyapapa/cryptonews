@@ -1,3 +1,4 @@
+* 2019-03-06 [미국 시작은 휴대 전화에 대 한 암호화 하드웨어 지갑 칩을 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/us-startup-introduces-crypto-hardware-wallet-chip-for-cell-phones-4d839189.md)
 * 2019-03-06 [성장, 주식 시장 약간 아래로 후 암호 화폐 시장 순 서](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-mellow-after-a-surge-of-growth-stock-market-slightly-down-563f571f.md)
 * 2019-03-06 [나스닥 기반 EU 디지털 교환 DX는 토큰화 된 etf를 추가](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-powered-eu-digital-exchange-dx-adds-tokenized-etfs-0246a608.md)
 * 2019-03-06 [IBM, 엔터프라이즈 블록 체인 응시자를 위한 보안 테스트 도구 출시](https://github.com/theyapapa/cryptonews/blob/ko/ibm-releases-security-testing-tool-for-enterprise-blockchain-takers-b5362d9c.md)
