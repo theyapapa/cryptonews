@@ -1,3 +1,4 @@
+* 2019-03-06 [Lanzamiento de la plataforma de periodismo basado en blockchain civil](https://github.com/theyapapa/cryptonews/blob/es/blockchain-based-journalism-platform-civil-launches-5b66fe35.md)
 * 2019-03-06 [Deutsche Boerse, Commerzbank completa blockchain PoC para la transacción de repo legalmente vinculante](https://github.com/theyapapa/cryptonews/blob/es/deutsche-boerse-commerzbank-complete-blockchain-poc-for-legally-binding-repo-transaction-6f218552.md)
 * 2019-03-06 [US startup presenta Crypto hardware monedero chip para teléfonos celulares](https://github.com/theyapapa/cryptonews/blob/es/us-startup-introduces-crypto-hardware-wallet-chip-for-cell-phones-4d839189.md)
 * 2019-03-06 [Cripto mercados suave después de una oleada de crecimiento, mercado de valores ligeramente hacia abajo](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-mellow-after-a-surge-of-growth-stock-market-slightly-down-563f571f.md)
