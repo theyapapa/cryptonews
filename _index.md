@@ -1,3 +1,4 @@
+* 2019-03-06 [NASDAQ-Powered ЕС цифровой обмен DX добавляет токены ETF](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-powered-eu-digital-exchange-dx-adds-tokenized-etfs-0246a608.md)
 * 2019-03-06 [IBM выпускает средство тестирования безопасности для корпоративных Блокчейн-берущих](https://github.com/theyapapa/cryptonews/blob/ru/ibm-releases-security-testing-tool-for-enterprise-blockchain-takers-b5362d9c.md)
 * 2019-03-06 [Блокчейн Analytics фирма Chainalysis изложила политику пользовательских данных на фоне Coinbase утверждений](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-analytics-firm-chainalysis-outlines-user-data-policy-amid-coinbase-allegations-6d42a1be.md)
 * 2019-03-05 [Мальта цифровая биржа перемещает операции на Мальте фондовой бирже помещения](https://github.com/theyapapa/cryptonews/blob/ru/malta-digital-exchange-relocates-operations-to-malta-stock-exchange-premises-41994b38.md)
