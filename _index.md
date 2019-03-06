@@ -1,3 +1,4 @@
+* 2019-03-06 [Старты гражданской журналистики на базе Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-based-journalism-platform-civil-launches-5b66fe35.md)
 * 2019-03-06 [«Дойче Бур»: полный Блокчейн-ПКК для юридически обязывающей сделки РЕПО](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-boerse-commerzbank-complete-blockchain-poc-for-legally-binding-repo-transaction-6f218552.md)
 * 2019-03-06 [США стартап вводит крипто аппаратный кошелек чип для сотовых телефонов](https://github.com/theyapapa/cryptonews/blob/ru/us-startup-introduces-crypto-hardware-wallet-chip-for-cell-phones-4d839189.md)
 * 2019-03-06 [Крипто рынки мягкий после всплеск роста, фондовый рынок слегка вниз](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-mellow-after-a-surge-of-growth-stock-market-slightly-down-563f571f.md)
