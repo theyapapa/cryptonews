@@ -1,3 +1,4 @@
+* 2019-03-05 [새로운 파트너십을 통해 trueusd 거래자는 코인의 백 업 자산을 감사할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-partnership-allows-trueusd-traders-to-audit-the-coins-backing-assets-46724e2a.md)
 * 2019-03-05 [보고서: coinbase는 Amazon 웹 서비스 베테랑을 채용 하 여 감시 솔루션을 개발 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-hires-amazon-web-services-veteran-to-develop-staking-solutions-c04dc977.md)
 * 2019-03-05 [쿼드 리그 설립자의 미망인 채권자 보호 법원 비용에 대 한 보상을 추구](https://github.com/theyapapa/cryptonews/blob/ko/widow-of-quadrigacx-founder-seeks-compensation-for-creditor-protection-court-costs-61f269be.md)
 * 2019-03-05 [러시아는 두 번째 독서에서 국내 암호화 법안을 제공 하는 것을 목표로 법안을 채택](https://github.com/theyapapa/cryptonews/blob/ko/russia-adopts-bill-aimed-to-provide-domestic-crypto-legislation-in-second-reading-5969e761.md)
