@@ -1,3 +1,4 @@
+* 2019-03-06 [블록 체인 기반 저널리즘 플랫폼 토목 출시](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-based-journalism-platform-civil-launches-5b66fe35.md)
 * 2019-03-06 [독일 은행, 법적 구속력이 있는 Repo 거래를 위한 완전 한 블록 체인 PoC](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-boerse-commerzbank-complete-blockchain-poc-for-legally-binding-repo-transaction-6f218552.md)
 * 2019-03-06 [미국 시작은 휴대 전화에 대 한 암호화 하드웨어 지갑 칩을 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/us-startup-introduces-crypto-hardware-wallet-chip-for-cell-phones-4d839189.md)
 * 2019-03-06 [성장, 주식 시장 약간 아래로 후 암호 화폐 시장 순 서](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-mellow-after-a-surge-of-growth-stock-market-slightly-down-563f571f.md)
