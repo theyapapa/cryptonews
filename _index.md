@@ -1,3 +1,4 @@
+* 2019-03-06 [Блокчейн Analytics фирма Chainalysis изложила политику пользовательских данных на фоне Coinbase утверждений](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-analytics-firm-chainalysis-outlines-user-data-policy-amid-coinbase-allegations-6d42a1be.md)
 * 2019-03-05 [Мальта цифровая биржа перемещает операции на Мальте фондовой бирже помещения](https://github.com/theyapapa/cryptonews/blob/ru/malta-digital-exchange-relocates-operations-to-malta-stock-exchange-premises-41994b38.md)
 * 2019-03-05 [Новое партнерство позволяет Труеусд трейдерам проводить аудит резервных активов монеты](https://github.com/theyapapa/cryptonews/blob/ru/new-partnership-allows-trueusd-traders-to-audit-the-coins-backing-assets-46724e2a.md)
 * 2019-03-05 [Доклад: Coinbase наНимает Amazon веб-служб ветерана разработать решения для ставок](https://github.com/theyapapa/cryptonews/blob/ru/report-coinbase-hires-amazon-web-services-veteran-to-develop-staking-solutions-c04dc977.md)
