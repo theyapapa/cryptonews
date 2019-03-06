@@ -1,3 +1,4 @@
+* 2019-03-06 [코인 베이스 의혹 속에서의 사용자 데이터 정책에 대 한 블록 체인 분석 기업 측](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-analytics-firm-chainalysis-outlines-user-data-policy-amid-coinbase-allegations-6d42a1be.md)
 * 2019-03-05 [몰타 증권 거래소 소재지에 운영을 재배치 하는 말 타 디지털 거래소](https://github.com/theyapapa/cryptonews/blob/ko/malta-digital-exchange-relocates-operations-to-malta-stock-exchange-premises-41994b38.md)
 * 2019-03-05 [새로운 파트너십을 통해 trueusd 거래자는 코인의 백 업 자산을 감사할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-partnership-allows-trueusd-traders-to-audit-the-coins-backing-assets-46724e2a.md)
 * 2019-03-05 [보고서: coinbase는 Amazon 웹 서비스 베테랑을 채용 하 여 감시 솔루션을 개발 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-hires-amazon-web-services-veteran-to-develop-staking-solutions-c04dc977.md)
