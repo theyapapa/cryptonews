@@ -1,3 +1,4 @@
+* 2019-03-06 [Крипто рынки мягкий после всплеск роста, фондовый рынок слегка вниз](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-mellow-after-a-surge-of-growth-stock-market-slightly-down-563f571f.md)
 * 2019-03-06 [NASDAQ-Powered ЕС цифровой обмен DX добавляет токены ETF](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-powered-eu-digital-exchange-dx-adds-tokenized-etfs-0246a608.md)
 * 2019-03-06 [IBM выпускает средство тестирования безопасности для корпоративных Блокчейн-берущих](https://github.com/theyapapa/cryptonews/blob/ru/ibm-releases-security-testing-tool-for-enterprise-blockchain-takers-b5362d9c.md)
 * 2019-03-06 [Блокчейн Analytics фирма Chainalysis изложила политику пользовательских данных на фоне Coinbase утверждений](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-analytics-firm-chainalysis-outlines-user-data-policy-amid-coinbase-allegations-6d42a1be.md)
