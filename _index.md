@@ -1,3 +1,4 @@
+* 2019-03-07 [«Чудище» расширяет свою команду с помощью пяти новых высокопоставленных сотрудников](https://github.com/theyapapa/cryptonews/blob/ru/kraken-expands-its-team-with-five-new-high-level-hires-355fa87d.md)
 * 2019-03-07 [Управление по ценным бумагам Израиля публикует окончательные рекомендации по крипто-регулированию](https://github.com/theyapapa/cryptonews/blob/ru/israel-securities-authority-publishes-final-recommendations-on-crypto-regulation-0e6cfdf4.md)
 * 2019-03-07 [Бывший ледяной чай превратился-Bitcoin горнодобывающей фирмы продает напитки бизнес](https://github.com/theyapapa/cryptonews/blob/ru/former-iced-tea-turned-bitcoin-mining-firm-sells-beverage-business-90f13ae0.md)
 * 2019-03-07 [США: Денвер использовать мобильное голосование Блокчейн платформы, направленные на зарубежных избирателей на выборах](https://github.com/theyapapa/cryptonews/blob/ru/us-denver-to-use-mobile-voting-blockchain-platform-aimed-at-overseas-voters-in-elections-4ca02556.md)
