@@ -1,3 +1,4 @@
+* 2019-03-07 [Ripple CEO dice JPM Coin carece de interoperabilidad: ' solo usa el dólar, no lo entiendo! '](https://github.com/theyapapa/cryptonews/blob/es/ripple-ceo-says-jpm-coin-lacks-interoperability-just-use-the-dollar-i-dont-get-it-a9b89f3f.md)
 * 2019-03-07 [Swiss Stock Exchange SIX para utilizar R3 Corda Enterprise para la plataforma de Trading basada en blockchain](https://github.com/theyapapa/cryptonews/blob/es/swiss-stock-exchange-six-to-use-r3-corda-enterprise-for-blockchain-based-trading-platform-ea16dcb0.md)
 * 2019-03-06 [Informe: Agencia de ingresos de Canadá auditoría de inversores cripto](https://github.com/theyapapa/cryptonews/blob/es/report-canada-revenue-agency-auditing-crypto-investors-e01d7f7a.md)
 * 2019-03-06 [Investigación: gasto global blockchain para llegar a $2,9 mil millones en 2019](https://github.com/theyapapa/cryptonews/blob/es/research-global-blockchain-spending-to-reach-29-billion-in-2019-56798ab1.md)
