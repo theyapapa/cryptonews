@@ -1,3 +1,4 @@
+* 2019-03-07 [리플 CEO jpm 동전 상호 운용성 부족 말한다: ' 그냥 달러를 사용, 나는 그것을 얻을 하지 않습니다! '](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-says-jpm-coin-lacks-interoperability-just-use-the-dollar-i-dont-get-it-a9b89f3f.md)
 * 2019-03-07 [Blockchain 기반 거래 플랫폼 R3 corda 기업을 사용 하는 스위스 증권 거래소 6](https://github.com/theyapapa/cryptonews/blob/ko/swiss-stock-exchange-six-to-use-r3-corda-enterprise-for-blockchain-based-trading-platform-ea16dcb0.md)
 * 2019-03-06 [보고서: 캐나다 수익 기관 암호화 투자자 감사](https://github.com/theyapapa/cryptonews/blob/ko/report-canada-revenue-agency-auditing-crypto-investors-e01d7f7a.md)
 * 2019-03-06 [연구: 2019에서 $29억에 도달 하기 위한 글로벌 블록 체인 지출](https://github.com/theyapapa/cryptonews/blob/ko/research-global-blockchain-spending-to-reach-29-billion-in-2019-56798ab1.md)
