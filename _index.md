@@ -1,3 +1,4 @@
+* 2019-03-07 [Blockchain 기반 거래 플랫폼 R3 corda 기업을 사용 하는 스위스 증권 거래소 6](https://github.com/theyapapa/cryptonews/blob/ko/swiss-stock-exchange-six-to-use-r3-corda-enterprise-for-blockchain-based-trading-platform-ea16dcb0.md)
 * 2019-03-06 [보고서: 캐나다 수익 기관 암호화 투자자 감사](https://github.com/theyapapa/cryptonews/blob/ko/report-canada-revenue-agency-auditing-crypto-investors-e01d7f7a.md)
 * 2019-03-06 [연구: 2019에서 $29억에 도달 하기 위한 글로벌 블록 체인 지출](https://github.com/theyapapa/cryptonews/blob/ko/research-global-blockchain-spending-to-reach-29-billion-in-2019-56798ab1.md)
 * 2019-03-06 [블록 체인 기반 저널리즘 플랫폼 토목 출시](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-based-journalism-platform-civil-launches-5b66fe35.md)
