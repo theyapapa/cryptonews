@@ -1,3 +1,4 @@
+* 2019-03-07 [이스라엘 증권 기관은 암호화 규정에 대 한 최종 권고 사항을 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/israel-securities-authority-publishes-final-recommendations-on-crypto-regulation-0e6cfdf4.md)
 * 2019-03-07 [전 아이스 티-비트 코인 채굴 회사가 음료 사업을 판매 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-iced-tea-turned-bitcoin-mining-firm-sells-beverage-business-90f13ae0.md)
 * 2019-03-07 [미국: 덴버 선거에서 해외 유권자를 대상으로 모바일 투표 블록 체인 플랫폼을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/us-denver-to-use-mobile-voting-blockchain-platform-aimed-at-overseas-voters-in-elections-4ca02556.md)
 * 2019-03-07 [영국 금융 감시는 FCA와 허가를 주장 하는 회사에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-watchdog-warns-against-firm-claiming-to-be-authorized-with-fca-87936295.md)
