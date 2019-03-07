@@ -1,3 +1,4 @@
+* 2019-03-06 [Отчет: Канадское агентство по доходам аудит крипто инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/report-canada-revenue-agency-auditing-crypto-investors-e01d7f7a.md)
 * 2019-03-06 [Исследования: глобальные расходы Блокчейн достичь $2 900 000 000 в 2019](https://github.com/theyapapa/cryptonews/blob/ru/research-global-blockchain-spending-to-reach-29-billion-in-2019-56798ab1.md)
 * 2019-03-06 [Старты гражданской журналистики на базе Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-based-journalism-platform-civil-launches-5b66fe35.md)
 * 2019-03-06 [«Дойче Бур»: полный Блокчейн-ПКК для юридически обязывающей сделки РЕПО](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-boerse-commerzbank-complete-blockchain-poc-for-legally-binding-repo-transaction-6f218552.md)
