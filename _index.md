@@ -1,3 +1,4 @@
+* 2019-03-07 [미국: 덴버 선거에서 해외 유권자를 대상으로 모바일 투표 블록 체인 플랫폼을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/us-denver-to-use-mobile-voting-blockchain-platform-aimed-at-overseas-voters-in-elections-4ca02556.md)
 * 2019-03-07 [영국 금융 감시는 FCA와 허가를 주장 하는 회사에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-watchdog-warns-against-firm-claiming-to-be-authorized-with-fca-87936295.md)
 * 2019-03-07 [말레이시아: 국내 금융 워치독이 ICO 규제 프레임 워크에 대 한 대중의 피드백을 구합니다.](https://github.com/theyapapa/cryptonews/blob/ko/malaysia-domestic-finance-watchdog-seeks-public-feedback-on-ico-regulatory-framework-a1990e03.md)
 * 2019-03-07 [리플 CEO jpm 동전 상호 운용성 부족 말한다: ' 그냥 달러를 사용, 나는 그것을 얻을 하지 않습니다! '](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-says-jpm-coin-lacks-interoperability-just-use-the-dollar-i-dont-get-it-a9b89f3f.md)
