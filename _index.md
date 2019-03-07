@@ -1,3 +1,4 @@
+* 2019-03-07 [Kraken expande su equipo con cinco nuevos empleados de alto nivel](https://github.com/theyapapa/cryptonews/blob/es/kraken-expands-its-team-with-five-new-high-level-hires-355fa87d.md)
 * 2019-03-07 [Autoridad de valores de Israel publica recomendaciones finales sobre la regulación criptográfica](https://github.com/theyapapa/cryptonews/blob/es/israel-securities-authority-publishes-final-recommendations-on-crypto-regulation-0e6cfdf4.md)
 * 2019-03-07 [La antigua firma minera de té helado-convertida en Bitcoin vende negocios de bebidas](https://github.com/theyapapa/cryptonews/blob/es/former-iced-tea-turned-bitcoin-mining-firm-sells-beverage-business-90f13ae0.md)
 * 2019-03-07 [Estados Unidos: Denver para utilizar la plataforma blockchain de votación móvil dirigida a los votantes extranjeros en las elecciones](https://github.com/theyapapa/cryptonews/blob/es/us-denver-to-use-mobile-voting-blockchain-platform-aimed-at-overseas-voters-in-elections-4ca02556.md)
