@@ -1,3 +1,4 @@
+* 2019-03-07 [Пульсации Генеральный директор говорит JPM монета не хватает взаимодействия: "просто использовать доллар, я не получаю его!](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-says-jpm-coin-lacks-interoperability-just-use-the-dollar-i-dont-get-it-a9b89f3f.md)
 * 2019-03-07 [Швейцарская фондовая биржа SIX использовать R3 корда предприятие для Блокчейн-основе торговой платформы](https://github.com/theyapapa/cryptonews/blob/ru/swiss-stock-exchange-six-to-use-r3-corda-enterprise-for-blockchain-based-trading-platform-ea16dcb0.md)
 * 2019-03-06 [Отчет: Канадское агентство по доходам аудит крипто инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/report-canada-revenue-agency-auditing-crypto-investors-e01d7f7a.md)
 * 2019-03-06 [Исследования: глобальные расходы Блокчейн достичь $2 900 000 000 в 2019](https://github.com/theyapapa/cryptonews/blob/ru/research-global-blockchain-spending-to-reach-29-billion-in-2019-56798ab1.md)
