@@ -1,3 +1,4 @@
+* 2019-03-08 [IBM revela otras dos patentes de blockchain para la gestión de bases de datos y seguridad](https://github.com/theyapapa/cryptonews/blob/es/ibm-reveals-two-further-blockchain-patents-for-security-and-database-management-16e50b30.md)
 * 2019-03-08 [Departamento de estado de Estados Unidos en blockchain: a veces Gov't debe ' mantenerse fuera del camino '](https://github.com/theyapapa/cryptonews/blob/es/us-state-dept-on-blockchain-sometimes-govt-should-stay-out-of-the-way-dbf3bcd1.md)
 * 2019-03-07 [El Secretario de Crypto escéptico de Massachusetts crea el grupo asesor de FinTech](https://github.com/theyapapa/cryptonews/blob/es/crypto-skeptic-massachusetts-secretary-creates-fintech-advisory-group-ae4f1e36.md)
 * 2019-03-07 [El regulador financiero francés propone la prohibición de Cryptocurrencies anónimos](https://github.com/theyapapa/cryptonews/blob/es/french-financial-regulator-proposes-ban-on-anonymous-cryptocurrencies-2f9a1cb9.md)
