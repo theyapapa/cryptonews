@@ -1,3 +1,4 @@
+* 2019-03-07 [암호 화폐 회의론 자 매사추세츠 사무총장, 핀 테크 자문 그룹 생성](https://github.com/theyapapa/cryptonews/blob/ko/crypto-skeptic-massachusetts-secretary-creates-fintech-advisory-group-ae4f1e36.md)
 * 2019-03-07 [프랑스 금융 레 귤 레이 터는 익명 암호 화폐에 대 한 금지 제안](https://github.com/theyapapa/cryptonews/blob/ko/french-financial-regulator-proposes-ban-on-anonymous-cryptocurrencies-2f9a1cb9.md)
 * 2019-03-07 [크 라 켄은 5 개의 새로운 높은 수준의 고용으로 팀을 확장](https://github.com/theyapapa/cryptonews/blob/ko/kraken-expands-its-team-with-five-new-high-level-hires-355fa87d.md)
 * 2019-03-07 [이스라엘 증권 기관은 암호화 규정에 대 한 최종 권고 사항을 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/israel-securities-authority-publishes-final-recommendations-on-crypto-regulation-0e6cfdf4.md)
