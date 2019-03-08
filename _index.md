@@ -1,3 +1,4 @@
+* 2019-03-07 [프랑스 금융 레 귤 레이 터는 익명 암호 화폐에 대 한 금지 제안](https://github.com/theyapapa/cryptonews/blob/ko/french-financial-regulator-proposes-ban-on-anonymous-cryptocurrencies-2f9a1cb9.md)
 * 2019-03-07 [크 라 켄은 5 개의 새로운 높은 수준의 고용으로 팀을 확장](https://github.com/theyapapa/cryptonews/blob/ko/kraken-expands-its-team-with-five-new-high-level-hires-355fa87d.md)
 * 2019-03-07 [이스라엘 증권 기관은 암호화 규정에 대 한 최종 권고 사항을 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/israel-securities-authority-publishes-final-recommendations-on-crypto-regulation-0e6cfdf4.md)
 * 2019-03-07 [전 아이스 티-비트 코인 채굴 회사가 음료 사업을 판매 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/former-iced-tea-turned-bitcoin-mining-firm-sells-beverage-business-90f13ae0.md)
