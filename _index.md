@@ -1,3 +1,4 @@
+* 2019-03-08 [Госдепартамент США по Blockchain: иногда Gov't должны "держаться в пути"](https://github.com/theyapapa/cryptonews/blob/ru/us-state-dept-on-blockchain-sometimes-govt-should-stay-out-of-the-way-dbf3bcd1.md)
 * 2019-03-07 [Crypto скептик секретарь Массачусетс создает консультативную группу](https://github.com/theyapapa/cryptonews/blob/ru/crypto-skeptic-massachusetts-secretary-creates-fintech-advisory-group-ae4f1e36.md)
 * 2019-03-07 [Французский финансовый регулятор предлагает запретить анонимные криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/french-financial-regulator-proposes-ban-on-anonymous-cryptocurrencies-2f9a1cb9.md)
 * 2019-03-07 [«Чудище» расширяет свою команду с помощью пяти новых высокопоставленных сотрудников](https://github.com/theyapapa/cryptonews/blob/ru/kraken-expands-its-team-with-five-new-high-level-hires-355fa87d.md)
