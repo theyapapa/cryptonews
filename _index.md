@@ -1,3 +1,4 @@
+* 2019-03-08 [Unity расКрывает патент на Блокчейн на основе уникальной идентификации в игре Token системы](https://github.com/theyapapa/cryptonews/blob/ru/unity-unveils-patent-for-blockchain-based-uniquely-identified-in-game-token-system-e219d97f.md)
 * 2019-03-08 [IBM расКрывает два дополнительных патента на Блокчейн для безопасности и управления базами данных](https://github.com/theyapapa/cryptonews/blob/ru/ibm-reveals-two-further-blockchain-patents-for-security-and-database-management-16e50b30.md)
 * 2019-03-08 [Госдепартамент США по Blockchain: иногда Gov't должны "держаться в пути"](https://github.com/theyapapa/cryptonews/blob/ru/us-state-dept-on-blockchain-sometimes-govt-should-stay-out-of-the-way-dbf3bcd1.md)
 * 2019-03-07 [Crypto скептик секретарь Массачусетс создает консультативную группу](https://github.com/theyapapa/cryptonews/blob/ru/crypto-skeptic-massachusetts-secretary-creates-fintech-advisory-group-ae4f1e36.md)
