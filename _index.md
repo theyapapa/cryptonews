@@ -1,3 +1,4 @@
+* 2019-03-08 [Vitalik Buterin propone que las carteras cobran tarifa de gas por transacciones](https://github.com/theyapapa/cryptonews/blob/es/vitalik-buterin-proposes-that-wallets-charge-gas-fee-for-transactions-871c8ee2.md)
 * 2019-03-08 [Cargos de fiscal de distrito de Estados Unidos OneCoin fundadores con ' miles de millones ' en presunto fraude](https://github.com/theyapapa/cryptonews/blob/es/us-district-attorney-charges-onecoin-founders-with-billions-in-alleged-fraud-a3cc5842.md)
 * 2019-03-08 [Empresa norteamericana de mariscos para usar blockchain Tech en la cadena de suministro](https://github.com/theyapapa/cryptonews/blob/es/north-american-seafood-firm-to-use-blockchain-tech-in-supply-chain-c462ca88.md)
 * 2019-03-08 [Grupo bancario Swissquote para lanzar la custodia Crypto a finales de marzo](https://github.com/theyapapa/cryptonews/blob/es/swissquote-banking-group-to-launch-crypto-custody-in-late-march-1c60da8c.md)
