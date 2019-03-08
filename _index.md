@@ -1,3 +1,4 @@
+* 2019-03-08 [Smart контракт фирма Куантстамп расКрывает инвестиции от финансового гиганта Номура](https://github.com/theyapapa/cryptonews/blob/ru/smart-contract-firm-quantstamp-reveals-investment-from-financial-giant-nomura-58958427.md)
 * 2019-03-08 [Unity расКрывает патент на Блокчейн на основе уникальной идентификации в игре Token системы](https://github.com/theyapapa/cryptonews/blob/ru/unity-unveils-patent-for-blockchain-based-uniquely-identified-in-game-token-system-e219d97f.md)
 * 2019-03-08 [IBM расКрывает два дополнительных патента на Блокчейн для безопасности и управления базами данных](https://github.com/theyapapa/cryptonews/blob/ru/ibm-reveals-two-further-blockchain-patents-for-security-and-database-management-16e50b30.md)
 * 2019-03-08 [Госдепартамент США по Blockchain: иногда Gov't должны "держаться в пути"](https://github.com/theyapapa/cryptonews/blob/ru/us-state-dept-on-blockchain-sometimes-govt-should-stay-out-of-the-way-dbf3bcd1.md)
