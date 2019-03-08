@@ -1,3 +1,4 @@
+* 2019-03-08 [공급망에서 블록 체인 기술을 사용 하는 북미 해산물 회사](https://github.com/theyapapa/cryptonews/blob/ko/north-american-seafood-firm-to-use-blockchain-tech-in-supply-chain-c462ca88.md)
 * 2019-03-08 [3 월 말에 암호화 양육 권을 시작 하는 swissquote 뱅킹 그룹](https://github.com/theyapapa/cryptonews/blob/ko/swissquote-banking-group-to-launch-crypto-custody-in-late-march-1c60da8c.md)
 * 2019-03-08 [독일, 블록 체인 부문에 대 한 국영 전자 레지스터 런칭 제안](https://github.com/theyapapa/cryptonews/blob/ko/germany-proposes-launching-state-run-electronic-register-for-blockchain-sector-c975b400.md)
 * 2019-03-08 [스마트 컨 트랙 트 기업 퀀 트 스탬프, 금융 거 대 노무라의 투자 공개](https://github.com/theyapapa/cryptonews/blob/ko/smart-contract-firm-quantstamp-reveals-investment-from-financial-giant-nomura-58958427.md)
