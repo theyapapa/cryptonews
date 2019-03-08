@@ -1,3 +1,4 @@
+* 2019-03-08 [3 월 말에 암호화 양육 권을 시작 하는 swissquote 뱅킹 그룹](https://github.com/theyapapa/cryptonews/blob/ko/swissquote-banking-group-to-launch-crypto-custody-in-late-march-1c60da8c.md)
 * 2019-03-08 [독일, 블록 체인 부문에 대 한 국영 전자 레지스터 런칭 제안](https://github.com/theyapapa/cryptonews/blob/ko/germany-proposes-launching-state-run-electronic-register-for-blockchain-sector-c975b400.md)
 * 2019-03-08 [스마트 컨 트랙 트 기업 퀀 트 스탬프, 금융 거 대 노무라의 투자 공개](https://github.com/theyapapa/cryptonews/blob/ko/smart-contract-firm-quantstamp-reveals-investment-from-financial-giant-nomura-58958427.md)
 * 2019-03-08 [유니티, 블록 체인 기반의 고유 게임 토큰 시스템에 대 한 특허 공개](https://github.com/theyapapa/cryptonews/blob/ko/unity-unveils-patent-for-blockchain-based-uniquely-identified-in-game-token-system-e219d97f.md)
