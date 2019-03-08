@@ -1,3 +1,4 @@
+* 2019-03-07 [El Secretario de Crypto escéptico de Massachusetts crea el grupo asesor de FinTech](https://github.com/theyapapa/cryptonews/blob/es/crypto-skeptic-massachusetts-secretary-creates-fintech-advisory-group-ae4f1e36.md)
 * 2019-03-07 [El regulador financiero francés propone la prohibición de Cryptocurrencies anónimos](https://github.com/theyapapa/cryptonews/blob/es/french-financial-regulator-proposes-ban-on-anonymous-cryptocurrencies-2f9a1cb9.md)
 * 2019-03-07 [Kraken expande su equipo con cinco nuevos empleados de alto nivel](https://github.com/theyapapa/cryptonews/blob/es/kraken-expands-its-team-with-five-new-high-level-hires-355fa87d.md)
 * 2019-03-07 [Autoridad de valores de Israel publica recomendaciones finales sobre la regulación criptográfica](https://github.com/theyapapa/cryptonews/blob/es/israel-securities-authority-publishes-final-recommendations-on-crypto-regulation-0e6cfdf4.md)
