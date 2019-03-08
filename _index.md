@@ -1,3 +1,4 @@
+* 2019-03-08 [Empresa norteamericana de mariscos para usar blockchain Tech en la cadena de suministro](https://github.com/theyapapa/cryptonews/blob/es/north-american-seafood-firm-to-use-blockchain-tech-in-supply-chain-c462ca88.md)
 * 2019-03-08 [Grupo bancario Swissquote para lanzar la custodia Crypto a finales de marzo](https://github.com/theyapapa/cryptonews/blob/es/swissquote-banking-group-to-launch-crypto-custody-in-late-march-1c60da8c.md)
 * 2019-03-08 [Alemania propone el lanzamiento del registro electrónico estatal para el sector blockchain](https://github.com/theyapapa/cryptonews/blob/es/germany-proposes-launching-state-run-electronic-register-for-blockchain-sector-c975b400.md)
 * 2019-03-08 [La firma de contrato inteligente Quantstamp revela la inversión del gigante financiero Nomura](https://github.com/theyapapa/cryptonews/blob/es/smart-contract-firm-quantstamp-reveals-investment-from-financial-giant-nomura-58958427.md)
