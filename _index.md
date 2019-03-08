@@ -1,3 +1,4 @@
+* 2019-03-08 [미국 지방 검찰은 사기 혐의에 ' 수십억 '의 설립자로 요금을 청구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-district-attorney-charges-onecoin-founders-with-billions-in-alleged-fraud-a3cc5842.md)
 * 2019-03-08 [공급망에서 블록 체인 기술을 사용 하는 북미 해산물 회사](https://github.com/theyapapa/cryptonews/blob/ko/north-american-seafood-firm-to-use-blockchain-tech-in-supply-chain-c462ca88.md)
 * 2019-03-08 [3 월 말에 암호화 양육 권을 시작 하는 swissquote 뱅킹 그룹](https://github.com/theyapapa/cryptonews/blob/ko/swissquote-banking-group-to-launch-crypto-custody-in-late-march-1c60da8c.md)
 * 2019-03-08 [독일, 블록 체인 부문에 대 한 국영 전자 레지스터 런칭 제안](https://github.com/theyapapa/cryptonews/blob/ko/germany-proposes-launching-state-run-electronic-register-for-blockchain-sector-c975b400.md)
