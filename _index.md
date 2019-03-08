@@ -1,3 +1,4 @@
+* 2019-03-08 [IBM, 보안 및 데이터베이스 관리를 위한 두 개의 추가 블록 체인 특허 공개](https://github.com/theyapapa/cryptonews/blob/ko/ibm-reveals-two-further-blockchain-patents-for-security-and-database-management-16e50b30.md)
 * 2019-03-08 [블록 체인에 대 한 미국 국무부: ' 계속 ' 하 고 싶을 때가 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-state-dept-on-blockchain-sometimes-govt-should-stay-out-of-the-way-dbf3bcd1.md)
 * 2019-03-07 [암호 화폐 회의론 자 매사추세츠 사무총장, 핀 테크 자문 그룹 생성](https://github.com/theyapapa/cryptonews/blob/ko/crypto-skeptic-massachusetts-secretary-creates-fintech-advisory-group-ae4f1e36.md)
 * 2019-03-07 [프랑스 금융 레 귤 레이 터는 익명 암호 화폐에 대 한 금지 제안](https://github.com/theyapapa/cryptonews/blob/ko/french-financial-regulator-proposes-ban-on-anonymous-cryptocurrencies-2f9a1cb9.md)
