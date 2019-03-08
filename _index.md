@@ -1,3 +1,4 @@
+* 2019-03-08 [Североамериканская фирма морепродуктов использует технологию Блокчейн в цепочке поставок](https://github.com/theyapapa/cryptonews/blob/ru/north-american-seafood-firm-to-use-blockchain-tech-in-supply-chain-c462ca88.md)
 * 2019-03-08 [Банковская группа MIG Bank выПустит крипто-хранение в конце марта](https://github.com/theyapapa/cryptonews/blob/ru/swissquote-banking-group-to-launch-crypto-custody-in-late-march-1c60da8c.md)
 * 2019-03-08 [Германия предлагает запустить государственный электронный регистр для Блокчейн-сектора](https://github.com/theyapapa/cryptonews/blob/ru/germany-proposes-launching-state-run-electronic-register-for-blockchain-sector-c975b400.md)
 * 2019-03-08 [Smart контракт фирма Куантстамп расКрывает инвестиции от финансового гиганта Номура](https://github.com/theyapapa/cryptonews/blob/ru/smart-contract-firm-quantstamp-reveals-investment-from-financial-giant-nomura-58958427.md)
