@@ -1,3 +1,4 @@
+* 2019-03-09 [Más de 80 por ciento del suministro total de ETH se lleva a cabo por 7.572 direcciones: investigación](https://github.com/theyapapa/cryptonews/blob/es/over-80-percent-of-total-eth-supply-is-held-by-7-572-addresses-research-15f95984.md)
 * 2019-03-09 [Ethereum tiene más del doble de Devs de núcleo por mes como Bitcoin: informe](https://github.com/theyapapa/cryptonews/blob/es/ethereum-has-more-than-twice-as-many-core-devs-per-month-as-bitcoin-report-4222118d.md)
 * 2019-03-08 [Fundación NEM libera plan de reestructuración en medio de dificultades financieras](https://github.com/theyapapa/cryptonews/blob/es/nem-foundation-releases-restructuring-plan-amid-financial-difficulties-6d11eb1b.md)
 * 2019-03-08 [Estados Unidos lidera en ofertas de empleo relacionadas con blockchain globalmente: informe](https://github.com/theyapapa/cryptonews/blob/es/us-leads-in-blockchain-related-job-offerings-globally-report-9c278249.md)
