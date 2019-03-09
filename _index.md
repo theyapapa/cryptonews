@@ -1,3 +1,4 @@
+* 2019-03-08 [NEM 재단, 재정적 어려움 속에서 구조 조정 계획 발표](https://github.com/theyapapa/cryptonews/blob/ko/nem-foundation-releases-restructuring-plan-amid-financial-difficulties-6d11eb1b.md)
 * 2019-03-08 [우리는 블록 체인 관련 직무를 전 세계적으로 이끌고 있습니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/us-leads-in-blockchain-related-job-offerings-globally-report-9c278249.md)
 * 2019-03-08 [비트 버티는 거래에 대 한 지갑 충전 가스 요금을 제안](https://github.com/theyapapa/cryptonews/blob/ko/vitalik-buterin-proposes-that-wallets-charge-gas-fee-for-transactions-871c8ee2.md)
 * 2019-03-08 [미국 지방 검찰은 사기 혐의에 ' 수십억 '의 설립자로 요금을 청구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-district-attorney-charges-onecoin-founders-with-billions-in-alleged-fraud-a3cc5842.md)
