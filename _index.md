@@ -1,3 +1,4 @@
+* 2019-03-09 [Лучшие крипты видят неЗначительный рост, как Bitcoin подходы $4 000](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000-2d5a1b25.md)
 * 2019-03-09 [Более 80% от общего объема поставок ETH проводится по 7 572 адресам: исследования](https://github.com/theyapapa/cryptonews/blob/ru/over-80-percent-of-total-eth-supply-is-held-by-7-572-addresses-research-15f95984.md)
 * 2019-03-09 [Эфириум имеет более чем в два раза больше основных разработчиков в месяц, как Bitcoin: отчет](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-has-more-than-twice-as-many-core-devs-per-month-as-bitcoin-report-4222118d.md)
 * 2019-03-08 [Фонд этого фонда опубликовал план реструктуризации на фоне финансовых трудностей](https://github.com/theyapapa/cryptonews/blob/ru/nem-foundation-releases-restructuring-plan-amid-financial-difficulties-6d11eb1b.md)
