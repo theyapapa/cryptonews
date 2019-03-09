@@ -1,3 +1,4 @@
+* 2019-03-08 [Estados Unidos lidera en ofertas de empleo relacionadas con blockchain globalmente: informe](https://github.com/theyapapa/cryptonews/blob/es/us-leads-in-blockchain-related-job-offerings-globally-report-9c278249.md)
 * 2019-03-08 [Vitalik Buterin propone que las carteras cobran tarifa de gas por transacciones](https://github.com/theyapapa/cryptonews/blob/es/vitalik-buterin-proposes-that-wallets-charge-gas-fee-for-transactions-871c8ee2.md)
 * 2019-03-08 [Cargos de fiscal de distrito de Estados Unidos OneCoin fundadores con ' miles de millones ' en presunto fraude](https://github.com/theyapapa/cryptonews/blob/es/us-district-attorney-charges-onecoin-founders-with-billions-in-alleged-fraud-a3cc5842.md)
 * 2019-03-08 [Empresa norteamericana de mariscos para usar blockchain Tech en la cadena de suministro](https://github.com/theyapapa/cryptonews/blob/es/north-american-seafood-firm-to-use-blockchain-tech-in-supply-chain-c462ca88.md)
