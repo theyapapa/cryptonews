@@ -1,3 +1,4 @@
+* 2019-03-09 [비트 코인 접근 $4000으로 약간의 성장을 확인 하는 최고 cryptos](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000-2d5a1b25.md)
 * 2019-03-09 [총 ETH 공급의 80% 이상이 7572 주소로 개최 됩니다: 연구](https://github.com/theyapapa/cryptonews/blob/ko/over-80-percent-of-total-eth-supply-is-held-by-7-572-addresses-research-15f95984.md)
 * 2019-03-09 [이 더 리 움은 매월 2 배 이상 많은 코어 개발자를 비트 코인으로가지고 있습니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-has-more-than-twice-as-many-core-devs-per-month-as-bitcoin-report-4222118d.md)
 * 2019-03-08 [NEM 재단, 재정적 어려움 속에서 구조 조정 계획 발표](https://github.com/theyapapa/cryptonews/blob/ko/nem-foundation-releases-restructuring-plan-amid-financial-difficulties-6d11eb1b.md)
