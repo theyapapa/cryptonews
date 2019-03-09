@@ -1,3 +1,4 @@
+* 2019-03-08 [Фонд этого фонда опубликовал план реструктуризации на фоне финансовых трудностей](https://github.com/theyapapa/cryptonews/blob/ru/nem-foundation-releases-restructuring-plan-amid-financial-difficulties-6d11eb1b.md)
 * 2019-03-08 [США лидирует в глобальных предложениях по работе с Блокчейн: отчет](https://github.com/theyapapa/cryptonews/blob/ru/us-leads-in-blockchain-related-job-offerings-globally-report-9c278249.md)
 * 2019-03-08 [Виталик Бутерин предлагает, что кошельки взимать плату за газ для операций](https://github.com/theyapapa/cryptonews/blob/ru/vitalik-buterin-proposes-that-wallets-charge-gas-fee-for-transactions-871c8ee2.md)
 * 2019-03-08 [Окружной прокурор США обвинения OneCoin основателей с "миллиарды" в предполагаемых мошенничества](https://github.com/theyapapa/cryptonews/blob/ru/us-district-attorney-charges-onecoin-founders-with-billions-in-alleged-fraud-a3cc5842.md)
