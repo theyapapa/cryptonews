@@ -1,3 +1,4 @@
+* 2019-03-09 [이 더 리 움은 매월 2 배 이상 많은 코어 개발자를 비트 코인으로가지고 있습니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-has-more-than-twice-as-many-core-devs-per-month-as-bitcoin-report-4222118d.md)
 * 2019-03-08 [NEM 재단, 재정적 어려움 속에서 구조 조정 계획 발표](https://github.com/theyapapa/cryptonews/blob/ko/nem-foundation-releases-restructuring-plan-amid-financial-difficulties-6d11eb1b.md)
 * 2019-03-08 [우리는 블록 체인 관련 직무를 전 세계적으로 이끌고 있습니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/us-leads-in-blockchain-related-job-offerings-globally-report-9c278249.md)
 * 2019-03-08 [비트 버티는 거래에 대 한 지갑 충전 가스 요금을 제안](https://github.com/theyapapa/cryptonews/blob/ko/vitalik-buterin-proposes-that-wallets-charge-gas-fee-for-transactions-871c8ee2.md)
