@@ -1,3 +1,4 @@
+* 2019-03-10 [El equipo privado de Bitcoin acusa a Crypto Exchange HitBTC de fraude después de Delisting](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-private-team-accuses-crypto-exchange-hitbtc-of-fraud-after-delisting-4ed83811.md)
 * 2019-03-10 [CEO de Neema: la moneda digital de las Islas Marshall necesita trabajo para satisfacer las preocupaciones regulatorias estadounidenses](https://github.com/theyapapa/cryptonews/blob/es/neema-ceo-marshall-islands-digital-currency-needs-work-to-satisfy-us-regulatory-concerns-046a2205.md)
 * 2019-03-10 [La plataforma de activos digitales de Fidelity se pone en directo con clientes selectos](https://github.com/theyapapa/cryptonews/blob/es/fidelitys-digital-asset-platform-goes-live-with-select-clients-86734a41.md)
 * 2019-03-09 [Top Cryptos ver leve crecimiento como Bitcoin enfoques $4.000](https://github.com/theyapapa/cryptonews/blob/es/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000-2d5a1b25.md)
