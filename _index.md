@@ -1,3 +1,4 @@
+* 2019-03-10 [neema 대표이사: 마샬 군도 미국 규제 관련 우려 사항을 충족 하기 위한 디지털 통화 요구 사항](https://github.com/theyapapa/cryptonews/blob/ko/neema-ceo-marshall-islands-digital-currency-needs-work-to-satisfy-us-regulatory-concerns-046a2205.md)
 * 2019-03-10 [피델 리 티의 디지털 자산 플랫폼이 선택 된 클라이언트와 함께 살아 갑니다.](https://github.com/theyapapa/cryptonews/blob/ko/fidelitys-digital-asset-platform-goes-live-with-select-clients-86734a41.md)
 * 2019-03-09 [비트 코인 접근 $4000으로 약간의 성장을 확인 하는 최고 cryptos](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000-2d5a1b25.md)
 * 2019-03-09 [총 ETH 공급의 80% 이상이 7572 주소로 개최 됩니다: 연구](https://github.com/theyapapa/cryptonews/blob/ko/over-80-percent-of-total-eth-supply-is-held-by-7-572-addresses-research-15f95984.md)
