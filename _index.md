@@ -1,3 +1,4 @@
+* 2019-03-10 [Bitcoin Частная команда обвиняет крипто обмен биржа hitbtc мошенничества после деКодирования](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-private-team-accuses-crypto-exchange-hitbtc-of-fraud-after-delisting-4ed83811.md)
 * 2019-03-10 [Неема Генеральный директор: Маршалловы острова цифровая валюта нуждается в работе, чтобы удовлетворить проблемы регулирования США](https://github.com/theyapapa/cryptonews/blob/ru/neema-ceo-marshall-islands-digital-currency-needs-work-to-satisfy-us-regulatory-concerns-046a2205.md)
 * 2019-03-10 [Цифровая платформа активов верности в прямом эфире с выбор клиентов](https://github.com/theyapapa/cryptonews/blob/ru/fidelitys-digital-asset-platform-goes-live-with-select-clients-86734a41.md)
 * 2019-03-09 [Лучшие крипты видят неЗначительный рост, как Bitcoin подходы $4 000](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000-2d5a1b25.md)
