@@ -1,3 +1,4 @@
+* 2019-03-10 [피델 리 티의 디지털 자산 플랫폼이 선택 된 클라이언트와 함께 살아 갑니다.](https://github.com/theyapapa/cryptonews/blob/ko/fidelitys-digital-asset-platform-goes-live-with-select-clients-86734a41.md)
 * 2019-03-09 [비트 코인 접근 $4000으로 약간의 성장을 확인 하는 최고 cryptos](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000-2d5a1b25.md)
 * 2019-03-09 [총 ETH 공급의 80% 이상이 7572 주소로 개최 됩니다: 연구](https://github.com/theyapapa/cryptonews/blob/ko/over-80-percent-of-total-eth-supply-is-held-by-7-572-addresses-research-15f95984.md)
 * 2019-03-09 [이 더 리 움은 매월 2 배 이상 많은 코어 개발자를 비트 코인으로가지고 있습니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-has-more-than-twice-as-many-core-devs-per-month-as-bitcoin-report-4222118d.md)
