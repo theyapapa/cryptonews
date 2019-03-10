@@ -1,3 +1,4 @@
+* 2019-03-10 [CEO de Neema: la moneda digital de las Islas Marshall necesita trabajo para satisfacer las preocupaciones regulatorias estadounidenses](https://github.com/theyapapa/cryptonews/blob/es/neema-ceo-marshall-islands-digital-currency-needs-work-to-satisfy-us-regulatory-concerns-046a2205.md)
 * 2019-03-10 [La plataforma de activos digitales de Fidelity se pone en directo con clientes selectos](https://github.com/theyapapa/cryptonews/blob/es/fidelitys-digital-asset-platform-goes-live-with-select-clients-86734a41.md)
 * 2019-03-09 [Top Cryptos ver leve crecimiento como Bitcoin enfoques $4.000](https://github.com/theyapapa/cryptonews/blob/es/top-cryptos-see-slight-growth-as-bitcoin-approaches-4-000-2d5a1b25.md)
 * 2019-03-09 [Más de 80 por ciento del suministro total de ETH se lleva a cabo por 7.572 direcciones: investigación](https://github.com/theyapapa/cryptonews/blob/es/over-80-percent-of-total-eth-supply-is-held-by-7-572-addresses-research-15f95984.md)
