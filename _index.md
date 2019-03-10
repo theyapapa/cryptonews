@@ -1,3 +1,4 @@
+* 2019-03-10 [브라질 법원 규칙은 $35만를 반환 하는 산탄데르 암호화 거래소 메 르 카 나 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-court-rules-santander-to-return-350-000-to-crypto-exchange-mercado-bitcoin-09ae3397.md)
 * 2019-03-10 [비트 코인 개인 팀은 상장 후 사기의 암호 교환 hitbtc를 비난](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-private-team-accuses-crypto-exchange-hitbtc-of-fraud-after-delisting-4ed83811.md)
 * 2019-03-10 [neema 대표이사: 마샬 군도 미국 규제 관련 우려 사항을 충족 하기 위한 디지털 통화 요구 사항](https://github.com/theyapapa/cryptonews/blob/ko/neema-ceo-marshall-islands-digital-currency-needs-work-to-satisfy-us-regulatory-concerns-046a2205.md)
 * 2019-03-10 [피델 리 티의 디지털 자산 플랫폼이 선택 된 클라이언트와 함께 살아 갑니다.](https://github.com/theyapapa/cryptonews/blob/ko/fidelitys-digital-asset-platform-goes-live-with-select-clients-86734a41.md)
