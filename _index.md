@@ -1,3 +1,4 @@
+* 2019-03-11 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS 비트 코인 캐시 binance 동전, 스텔라, 비트 코인 SV: 가격 분석, 3 월 11](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-tron-bitcoin-sv-price-analysis-march-11-6d187e24.md)
 * 2019-03-11 [몰타어 금융 레 귤 레이 터는 암호 회사의 규정 준수를 모니터링 하기 위해 CipherTrace 임명](https://github.com/theyapapa/cryptonews/blob/ko/maltese-financial-regulator-appoints-ciphertrace-to-monitor-compliance-in-crypto-firms-d34d125e.md)
 * 2019-03-11 [미국 마샬 서비스는 몰수 된 암호 자산 관리에 대 한 정보 요청을 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-marshals-service-issues-information-request-on-management-of-forfeited-crypto-assets-89c70792.md)
 * 2019-03-11 [스위스 증권 거래소 6 번 소문 목록 XRP 거래소 상장 상품](https://github.com/theyapapa/cryptonews/blob/ko/swiss-stock-exchange-six-to-reportedly-list-xrp-exchange-traded-product-783579ab.md)
