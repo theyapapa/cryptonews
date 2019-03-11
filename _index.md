@@ -1,3 +1,4 @@
+* 2019-03-11 [스위스 증권 거래소 6 번 소문 목록 XRP 거래소 상장 상품](https://github.com/theyapapa/cryptonews/blob/ko/swiss-stock-exchange-six-to-reportedly-list-xrp-exchange-traded-product-783579ab.md)
 * 2019-03-11 [분석가가 아시아 시장의 혼합 된 분위기를 예측 함에 따라 비트 코인의 안정성 6 일째](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-enters-sixth-day-of-stability-as-analysts-predict-mixed-mood-in-asian-markets-24b74ae4.md)
 * 2019-03-11 [SEC 위원 hester peirce: 암호화 시장은 가능 하면 자기 규제 해야](https://github.com/theyapapa/cryptonews/blob/ko/sec-commissioner-hester-peirce-crypto-markets-should-self-regulate-when-possible-c436af17.md)
 * 2019-03-10 [hodler의 다이제스트, 3 월 4-10: 최고 이야기, 가격 움직임, 시세 및 금주의 fud](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-march-410-top-stories-price-movements-quotes-and-fud-of-the-week-b6a242a1.md)
