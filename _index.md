@@ -1,3 +1,4 @@
+* 2019-03-11 [오버 스톡의 블록 체인 자회사, 블록 체인 뱅킹 플랫폼에서 지분 인수](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-blockchain-subsidiary-acquires-stake-in-blockchain-banking-platform-dfc3494c.md)
 * 2019-03-11 [cftc는 불법 비트 코인 관련 거래를 위해 $990k를 지불 하는 거래 플랫폼이 필요 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/cftc-requires-trading-platform-to-pay-990k-for-illegal-bitcoin-related-transactions-89c01194.md)
 * 2019-03-11 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS 비트 코인 캐시 binance 동전, 스텔라, 비트 코인 SV: 가격 분석, 3 월 11](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-tron-bitcoin-sv-price-analysis-march-11-6d187e24.md)
 * 2019-03-11 [몰타어 금융 레 귤 레이 터는 암호 회사의 규정 준수를 모니터링 하기 위해 CipherTrace 임명](https://github.com/theyapapa/cryptonews/blob/ko/maltese-financial-regulator-appoints-ciphertrace-to-monitor-compliance-in-crypto-firms-d34d125e.md)
