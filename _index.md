@@ -1,3 +1,4 @@
+* 2019-03-12 [MyEtherWallet lanza el nuevo explorador de blockchain Ethereum de código abierto](https://github.com/theyapapa/cryptonews/blob/es/myetherwallet-launches-new-open-source-ethereum-blockchain-explorer-3c7dca77.md)
 * 2019-03-11 [La criptomoneda respaldada por metales preciosos de Paxos para lanzar este año, dice el CEO](https://github.com/theyapapa/cryptonews/blob/es/paxos-precious-metal-backed-cryptocurrency-to-launch-this-year-ceo-says-fd7723c8.md)
 * 2019-03-11 [La filial blockchain de exceso adquiere participación en la plataforma de banca blockchain](https://github.com/theyapapa/cryptonews/blob/es/overstocks-blockchain-subsidiary-acquires-stake-in-blockchain-banking-platform-dfc3494c.md)
 * 2019-03-11 [CFTC requiere plataforma de Trading para pagar $990K por transacciones ilegales relacionadas con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/cftc-requires-trading-platform-to-pay-990k-for-illegal-bitcoin-related-transactions-89c01194.md)
