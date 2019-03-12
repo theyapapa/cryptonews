@@ -1,3 +1,4 @@
+* 2019-03-12 [MyEtherWallet запускает новый открытый источник Эфириум Блокчейн проводник](https://github.com/theyapapa/cryptonews/blob/ru/myetherwallet-launches-new-open-source-ethereum-blockchain-explorer-3c7dca77.md)
 * 2019-03-11 [В этом году, говорит Генеральный директор, Криптовалюта «драгоценные металлы»](https://github.com/theyapapa/cryptonews/blob/ru/paxos-precious-metal-backed-cryptocurrency-to-launch-this-year-ceo-says-fd7723c8.md)
 * 2019-03-11 [ДоЧерняя компания Блокчейн приОбретает долю в Блокчейн-банковской платформе](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-blockchain-subsidiary-acquires-stake-in-blockchain-banking-platform-dfc3494c.md)
 * 2019-03-11 [Необходимо, чтобы торговая платформа заплатила $990K за неЛегальные транзакции, связанные с Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/cftc-requires-trading-platform-to-pay-990k-for-illegal-bitcoin-related-transactions-89c01194.md)
