@@ -1,3 +1,4 @@
+* 2019-03-12 [주요 영국 에너지 회사는 블록 체인 회사 전자에 지분 인수](https://github.com/theyapapa/cryptonews/blob/ko/major-uk-energy-company-acquires-stake-in-blockchain-firm-electron-6327cd4d.md)
 * 2019-03-12 [' 자동화를 시도 하십시오 ': 회사는 거래 봇이 초보자와 전문가 모두에 게 혜택을 줄 수 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/give-automation-a-try-firm-says-its-trading-bots-can-benefit-beginners-and-pros-alike-30b1a3e7.md)
 * 2019-03-12 [하드웨어 지갑의 취약점에 대 한 원장 보고서에 응답 하는 trezor](https://github.com/theyapapa/cryptonews/blob/ko/trezor-responds-to-ledger-report-on-vulnerabilities-in-its-hardware-wallets-fa6cac63.md)
 * 2019-03-12 [ETH 및 EOS 토큰 간 온 체인 전환을 위한 지갑 출시](https://github.com/theyapapa/cryptonews/blob/ko/bancor-launches-wallet-for-on-chain-conversions-between-eth-and-eos-tokens-72cd7125.md)
