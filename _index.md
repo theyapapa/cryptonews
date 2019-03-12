@@ -1,3 +1,4 @@
+* 2019-03-12 [Клиентский спрос на крипто-платежи требует осторожного ответа от юристов, говорит эксперт](https://github.com/theyapapa/cryptonews/blob/ru/client-demand-for-crypto-payments-needs-cautious-response-from-lawyers-expert-says-98d7a50d.md)
 * 2019-03-12 [MyEtherWallet запускает новый открытый источник Эфириум Блокчейн проводник](https://github.com/theyapapa/cryptonews/blob/ru/myetherwallet-launches-new-open-source-ethereum-blockchain-explorer-3c7dca77.md)
 * 2019-03-11 [В этом году, говорит Генеральный директор, Криптовалюта «драгоценные металлы»](https://github.com/theyapapa/cryptonews/blob/ru/paxos-precious-metal-backed-cryptocurrency-to-launch-this-year-ceo-says-fd7723c8.md)
 * 2019-03-11 [ДоЧерняя компания Блокчейн приОбретает долю в Блокчейн-банковской платформе](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-blockchain-subsidiary-acquires-stake-in-blockchain-banking-platform-dfc3494c.md)
