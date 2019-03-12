@@ -1,3 +1,4 @@
+* 2019-03-12 [Bancor lanza cartera para conversiones en cadena entre tokens ETH y EOS](https://github.com/theyapapa/cryptonews/blob/es/bancor-launches-wallet-for-on-chain-conversions-between-eth-and-eos-tokens-72cd7125.md)
 * 2019-03-12 [Startup Finturi eleva $2,2 millones para su plataforma de Finanzas de facturas basada en blockchain](https://github.com/theyapapa/cryptonews/blob/es/startup-finturi-raises-22-million-for-its-blockchain-based-invoice-finance-platform-9f171c29.md)
 * 2019-03-12 [La demanda del cliente para los pagos Crypto necesita la respuesta cautelosa de abogados, experto dice](https://github.com/theyapapa/cryptonews/blob/es/client-demand-for-crypto-payments-needs-cautious-response-from-lawyers-expert-says-98d7a50d.md)
 * 2019-03-12 [MyEtherWallet lanza el nuevo explorador de blockchain Ethereum de código abierto](https://github.com/theyapapa/cryptonews/blob/es/myetherwallet-launches-new-open-source-ethereum-blockchain-explorer-3c7dca77.md)
