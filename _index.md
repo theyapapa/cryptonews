@@ -1,3 +1,4 @@
+* 2019-03-12 [하드웨어 지갑의 취약점에 대 한 원장 보고서에 응답 하는 trezor](https://github.com/theyapapa/cryptonews/blob/ko/trezor-responds-to-ledger-report-on-vulnerabilities-in-its-hardware-wallets-fa6cac63.md)
 * 2019-03-12 [ETH 및 EOS 토큰 간 온 체인 전환을 위한 지갑 출시](https://github.com/theyapapa/cryptonews/blob/ko/bancor-launches-wallet-for-on-chain-conversions-between-eth-and-eos-tokens-72cd7125.md)
 * 2019-03-12 [시작 finturi 리는 블록 체인 기반 송장 금융 플랫폼에 대 한 $220만을 제기](https://github.com/theyapapa/cryptonews/blob/ko/startup-finturi-raises-22-million-for-its-blockchain-based-invoice-finance-platform-9f171c29.md)
 * 2019-03-12 [암호화 지불에 대 한 고객의 요구는 변호사의 신중한 응답이 필요 합니다, 전문가는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/client-demand-for-crypto-payments-needs-cautious-response-from-lawyers-expert-says-98d7a50d.md)
