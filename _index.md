@@ -1,3 +1,4 @@
+* 2019-03-12 [시작 finturi 리는 블록 체인 기반 송장 금융 플랫폼에 대 한 $220만을 제기](https://github.com/theyapapa/cryptonews/blob/ko/startup-finturi-raises-22-million-for-its-blockchain-based-invoice-finance-platform-9f171c29.md)
 * 2019-03-12 [암호화 지불에 대 한 고객의 요구는 변호사의 신중한 응답이 필요 합니다, 전문가는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/client-demand-for-crypto-payments-needs-cautious-response-from-lawyers-expert-says-98d7a50d.md)
 * 2019-03-12 [새로운 오픈 소스에 테 리 움 블록 체인 익스플로러 출시](https://github.com/theyapapa/cryptonews/blob/ko/myetherwallet-launches-new-open-source-ethereum-blockchain-explorer-3c7dca77.md)
 * 2019-03-11 [paxos의 귀중 한 금속 백업 암호 화폐는 올해 출시, CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/paxos-precious-metal-backed-cryptocurrency-to-launch-this-year-ceo-says-fd7723c8.md)
