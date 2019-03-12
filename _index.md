@@ -1,3 +1,4 @@
+* 2019-03-12 [Trezor реагирует на отчет ГК об уязвимостях в его аппаратных кошельках](https://github.com/theyapapa/cryptonews/blob/ru/trezor-responds-to-ledger-report-on-vulnerabilities-in-its-hardware-wallets-fa6cac63.md)
 * 2019-03-12 [Банк запускает кошелек для преобразования на цепочке между ETH и EOS токены](https://github.com/theyapapa/cryptonews/blob/ru/bancor-launches-wallet-for-on-chain-conversions-between-eth-and-eos-tokens-72cd7125.md)
 * 2019-03-12 [Startup Финтури подНимает $2 200 000 для своей платформы по финансированию счетов на основе Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/startup-finturi-raises-22-million-for-its-blockchain-based-invoice-finance-platform-9f171c29.md)
 * 2019-03-12 [Клиентский спрос на крипто-платежи требует осторожного ответа от юристов, говорит эксперт](https://github.com/theyapapa/cryptonews/blob/ru/client-demand-for-crypto-payments-needs-cautious-response-from-lawyers-expert-says-98d7a50d.md)
