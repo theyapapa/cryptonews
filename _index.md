@@ -1,3 +1,4 @@
+* 2019-03-13 [디지털 통화 지갑 아 브라는 자산 유도체 대신 ETH에 대 한 직접 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/digital-currency-wallet-abra-adds-direct-support-for-eth-instead-of-as-asset-derivative-a2be5b45.md)
 * 2019-03-12 [블룸버그: 중요 한 지표는 비트 코인 가격은 증기를 잃을 수 표시](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-key-indicators-show-bitcoin-price-could-be-losing-steam-38aa2f13.md)
 * 2019-03-12 [binance 지원 OTC 회사는 자금 세탁 방지 규정 준수 서비스 제품을 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-backed-otc-firm-releases-anti-money-laundering-compliance-as-a-service-product-611bda41.md)
 * 2019-03-12 [주요 영국 에너지 회사는 블록 체인 회사 전자에 지분 인수](https://github.com/theyapapa/cryptonews/blob/ko/major-uk-energy-company-acquires-stake-in-blockchain-firm-electron-6327cd4d.md)
