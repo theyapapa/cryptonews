@@ -1,3 +1,4 @@
+* 2019-03-13 [암호화 해킹을 싸우고: 회사는이 더 리 움 스마트 계약의 보안 문제를 다룹니다](https://github.com/theyapapa/cryptonews/blob/ko/fighting-crypto-hacks-company-tackles-security-issues-in-ethereum-smart-contracts-f754cc79.md)
 * 2019-03-13 [암호화 산업의 성장은 은행, 재정 안정성을 위협 할 수 있다: 바젤 위원회](https://github.com/theyapapa/cryptonews/blob/ko/growth-of-crypto-industry-could-threaten-banks-financial-stability-basel-committee-a0b08586.md)
 * 2019-03-13 [새로운 블록 체인 ETF 공동 운영자 엘 우드 계획 신선한 암호화 투자 옵션](https://github.com/theyapapa/cryptonews/blob/ko/new-blockchain-etf-co-operator-elwood-plans-fresh-crypto-investment-options-9e3cabcb.md)
 * 2019-03-13 [디지털 통화 지갑 아 브라는 자산 유도체 대신 ETH에 대 한 직접 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/digital-currency-wallet-abra-adds-direct-support-for-eth-instead-of-as-asset-derivative-a2be5b45.md)
