@@ -1,3 +1,4 @@
+* 2019-03-13 [Рост крипто-индустрии может угрожать банкам, финансовая стабильность: Базельский комитет](https://github.com/theyapapa/cryptonews/blob/ru/growth-of-crypto-industry-could-threaten-banks-financial-stability-basel-committee-a0b08586.md)
 * 2019-03-13 [Новый Блокчейн ETF Co-оператор Элвуд планы свежих крипто инвестиционные опционы](https://github.com/theyapapa/cryptonews/blob/ru/new-blockchain-etf-co-operator-elwood-plans-fresh-crypto-investment-options-9e3cabcb.md)
 * 2019-03-13 [Цифровой валютный кошелек это добавляет прямую поддержку для ETH вместо как производный актива](https://github.com/theyapapa/cryptonews/blob/ru/digital-currency-wallet-abra-adds-direct-support-for-eth-instead-of-as-asset-derivative-a2be5b45.md)
 * 2019-03-12 [Bloomberg: ключевые индикаторы Показать Bitcoin цена может быть потеря пара](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-key-indicators-show-bitcoin-price-could-be-losing-steam-38aa2f13.md)
