@@ -1,3 +1,4 @@
+* 2019-03-13 [거래 후 시장 인프라 거 인 dtcc는 토큰화 된 증권에 대 한 가이드라인을 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/post-trade-market-infrastructure-giant-dtcc-publishes-guidelines-for-tokenized-securities-7115424b.md)
 * 2019-03-13 [암호 교환은 프리미어 리그 축구 팀의 후원자가 되 고 그 광고는 바이러스를 간다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-becomes-sponsor-of-premier-league-football-team-and-its-ad-goes-viral-2ed69cb6.md)
 * 2019-03-13 [bitmex 연구는 Ethereum 패리티 전체 노드의 동기화에서 ' 잠재적 인 버그 '를 찾습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-research-finds-potential-bug-in-syncing-of-ethereum-parity-full-node-504f4205.md)
 * 2019-03-13 [암호화 해킹을 싸우고: 회사는이 더 리 움 스마트 계약의 보안 문제를 다룹니다](https://github.com/theyapapa/cryptonews/blob/ko/fighting-crypto-hacks-company-tackles-security-issues-in-ethereum-smart-contracts-f754cc79.md)
