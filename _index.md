@@ -1,3 +1,4 @@
+* 2019-03-12 [블룸버그: 중요 한 지표는 비트 코인 가격은 증기를 잃을 수 표시](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-key-indicators-show-bitcoin-price-could-be-losing-steam-38aa2f13.md)
 * 2019-03-12 [binance 지원 OTC 회사는 자금 세탁 방지 규정 준수 서비스 제품을 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-backed-otc-firm-releases-anti-money-laundering-compliance-as-a-service-product-611bda41.md)
 * 2019-03-12 [주요 영국 에너지 회사는 블록 체인 회사 전자에 지분 인수](https://github.com/theyapapa/cryptonews/blob/ko/major-uk-energy-company-acquires-stake-in-blockchain-firm-electron-6327cd4d.md)
 * 2019-03-12 [' 자동화를 시도 하십시오 ': 회사는 거래 봇이 초보자와 전문가 모두에 게 혜택을 줄 수 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/give-automation-a-try-firm-says-its-trading-bots-can-benefit-beginners-and-pros-alike-30b1a3e7.md)
