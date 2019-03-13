@@ -1,3 +1,4 @@
+* 2019-03-13 [Цифровой валютный кошелек это добавляет прямую поддержку для ETH вместо как производный актива](https://github.com/theyapapa/cryptonews/blob/ru/digital-currency-wallet-abra-adds-direct-support-for-eth-instead-of-as-asset-derivative-a2be5b45.md)
 * 2019-03-12 [Bloomberg: ключевые индикаторы Показать Bitcoin цена может быть потеря пара](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-key-indicators-show-bitcoin-price-could-be-losing-steam-38aa2f13.md)
 * 2019-03-12 [Binance-подТвержены OTC фирма выпускает анти-отМывание денег соответствие-как-обслуживание продукт](https://github.com/theyapapa/cryptonews/blob/ru/binance-backed-otc-firm-releases-anti-money-laundering-compliance-as-a-service-product-611bda41.md)
 * 2019-03-12 [Крупная Британская энергетическая компания приОбретает долю в Блокчейн-фирме Electron](https://github.com/theyapapa/cryptonews/blob/ru/major-uk-energy-company-acquires-stake-in-blockchain-firm-electron-6327cd4d.md)
