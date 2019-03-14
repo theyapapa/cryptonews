@@ -1,3 +1,4 @@
+* 2019-03-14 [프랑스 법원 사무원 기업 레지스트리에 대 한 IBM 블록 체인 플랫폼을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/french-court-clerks-to-use-ibm-blockchain-platform-for-corporate-registry-61529b32.md)
 * 2019-03-14 [일부 알트 코인은 가벼운 이득을 주며, 원유 선물은 4 개월의 높은](https://github.com/theyapapa/cryptonews/blob/ko/some-altcoins-make-mild-gains-crude-oil-futures-see-four-month-high-59149508.md)
 * 2019-03-14 [SEC의 장은 비트 코인 ETF와 관련 하 여 투자자 보호를 강조 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-chairman-highlights-investor-protection-in-regard-to-bitcoin-etf-41e233b5.md)
 * 2019-03-14 [캐나다: 규제 기관 증권 법 검토에 참여 하는 암호 산업에 전화](https://github.com/theyapapa/cryptonews/blob/ko/canada-regulatory-bodies-call-on-crypto-industry-to-participate-in-securities-law-review-9eb787b3.md)
