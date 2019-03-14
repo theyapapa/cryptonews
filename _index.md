@@ -1,3 +1,4 @@
+* 2019-03-13 [에 테 리 움 공동 설립자 요셉 lubin: Blockchain 예술가, 기자 혜택을 누릴 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-joseph-lubin-blockchain-can-benefit-artists-journalists-2ec92349.md)
 * 2019-03-13 [캐나다 경찰은 비트 코인 부정을 식별 하기 위해 공공 지원을 요청 합니다](https://github.com/theyapapa/cryptonews/blob/ko/canadian-police-asks-for-public-assistance-to-identify-bitcoin-fraudsters-a4654fd5.md)
 * 2019-03-13 [쿼드 rigacx CEO는 2018에서 은행과 소송 기간 동안 교환을 기금으로 개인 돈을 사용](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-ceo-used-personal-money-to-fund-exchange-during-litigation-with-bank-in-2018-fccb8103.md)
 * 2019-03-13 [거래 후 시장 인프라 거 인 dtcc는 토큰화 된 증권에 대 한 가이드라인을 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/post-trade-market-infrastructure-giant-dtcc-publishes-guidelines-for-tokenized-securities-7115424b.md)
