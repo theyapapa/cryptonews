@@ -1,3 +1,4 @@
+* 2019-03-14 [Секретари французского суда используют Блокчейн-платформу IBM для корпоративного регистра](https://github.com/theyapapa/cryptonews/blob/ru/french-court-clerks-to-use-ibm-blockchain-platform-for-corporate-registry-61529b32.md)
 * 2019-03-14 [Некоторые Altcoins сделать мягкий выгоды, нефть фьючерсы увидеть четыре месяца высокий](https://github.com/theyapapa/cryptonews/blob/ru/some-altcoins-make-mild-gains-crude-oil-futures-see-four-month-high-59149508.md)
 * 2019-03-14 [SEC Председатель основные моменты защиты инвесторов в отношении Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/sec-chairman-highlights-investor-protection-in-regard-to-bitcoin-etf-41e233b5.md)
 * 2019-03-14 [Канада: регулирующие органы призывают крипто-индустрию участвовать в обзоре закона о ценных бумагах](https://github.com/theyapapa/cryptonews/blob/ru/canada-regulatory-bodies-call-on-crypto-industry-to-participate-in-securities-law-review-9eb787b3.md)
