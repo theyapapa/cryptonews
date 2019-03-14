@@ -1,3 +1,4 @@
+* 2019-03-14 [SEC의 장은 비트 코인 ETF와 관련 하 여 투자자 보호를 강조 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-chairman-highlights-investor-protection-in-regard-to-bitcoin-etf-41e233b5.md)
 * 2019-03-14 [캐나다: 규제 기관 증권 법 검토에 참여 하는 암호 산업에 전화](https://github.com/theyapapa/cryptonews/blob/ko/canada-regulatory-bodies-call-on-crypto-industry-to-participate-in-securities-law-review-9eb787b3.md)
 * 2019-03-14 [토큰 2049: 비트 버티는 비 금융 블록 체인 사용 사례가 ' 더 세게 피치 ' 라고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/token-2049-vitalik-buterin-says-non-financial-blockchain-use-cases-are-a-harder-pitch-b4948e01.md)
 * 2019-03-13 [에 테 리 움 공동 설립자 요셉 lubin: Blockchain 예술가, 기자 혜택을 누릴 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-joseph-lubin-blockchain-can-benefit-artists-journalists-2ec92349.md)
