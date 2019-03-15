@@ -1,3 +1,4 @@
+* 2019-03-15 [Las empresas ven cada vez más ataques cripto minería en infraestructuras Cloud](https://github.com/theyapapa/cryptonews/blob/es/businesses-increasingly-see-crypto-mining-attacks-in-cloud-infrastructures-ad5d90b5.md)
 * 2019-03-15 [Finhub de SEC para albergar foro público sobre blockchain, activos digitales en mayo](https://github.com/theyapapa/cryptonews/blob/es/secs-finhub-to-host-public-forum-on-blockchain-digital-assets-in-may-a2037601.md)
 * 2019-03-15 [Google elimina Crypto malware targeting Blockchain.com, usuarios de MyEtherWallet](https://github.com/theyapapa/cryptonews/blob/es/google-deletes-crypto-malware-targeting-blockchaincom-myetherwallet-users-9d0fbc39.md)
 * 2019-03-15 [La Fundación estelar nombra al ex COO de Mozilla como CEO y Director Ejecutivo](https://github.com/theyapapa/cryptonews/blob/es/stellar-foundation-appoints-former-mozilla-coo-as-ceo-and-executive-director-21cac74e.md)
