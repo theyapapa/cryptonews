@@ -1,3 +1,4 @@
+* 2019-03-14 [일본: 15 백만 엔에 관여 하는 해커 암호 도용 검찰 참조](https://github.com/theyapapa/cryptonews/blob/ko/japan-hacker-involved-in-15-mln-yen-crypto-theft-referred-to-prosecutors-7e03b6ac.md)
 * 2019-03-14 [합의 알고리즘 연 고 민트 레이즈 $9 백만 시리즈 투자 라운드](https://github.com/theyapapa/cryptonews/blob/ko/consensus-algorithm-tendermint-raises-9-mln-in-series-a-investment-round-b497c79d.md)
 * 2019-03-14 [프랑스 법원 사무원 기업 레지스트리에 대 한 IBM 블록 체인 플랫폼을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/french-court-clerks-to-use-ibm-blockchain-platform-for-corporate-registry-61529b32.md)
 * 2019-03-14 [일부 알트 코인은 가벼운 이득을 주며, 원유 선물은 4 개월의 높은](https://github.com/theyapapa/cryptonews/blob/ko/some-altcoins-make-mild-gains-crude-oil-futures-see-four-month-high-59149508.md)
