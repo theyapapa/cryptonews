@@ -1,3 +1,4 @@
+* 2019-03-15 [Японский суд находит экс-MT. GOX Исполнительный директор виновным в записи фальсификации](https://github.com/theyapapa/cryptonews/blob/ru/japanese-court-finds-ex-mt-gox-ceo-guilty-of-record-tampering-80a98132.md)
 * 2019-03-14 [Япония: хакер участвует в 15 млн иен крипто кражи соСлался на прокуроров](https://github.com/theyapapa/cryptonews/blob/ru/japan-hacker-involved-in-15-mln-yen-crypto-theft-referred-to-prosecutors-7e03b6ac.md)
 * 2019-03-14 [Консенсус алгоритм Тендерминт подНимает $9 млн в серии инвестиционный раунд](https://github.com/theyapapa/cryptonews/blob/ru/consensus-algorithm-tendermint-raises-9-mln-in-series-a-investment-round-b497c79d.md)
 * 2019-03-14 [Секретари французского суда используют Блокчейн-платформу IBM для корпоративного регистра](https://github.com/theyapapa/cryptonews/blob/ru/french-court-clerks-to-use-ibm-blockchain-platform-for-corporate-registry-61529b32.md)
