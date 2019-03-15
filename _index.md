@@ -1,3 +1,4 @@
+* 2019-03-15 [Bolsa Intercontinental aparentemente expande la alimentación de datos de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/intercontinental-stock-exchange-seemingly-to-expand-cryptocurrency-data-feed-9370b854.md)
 * 2019-03-15 [Las empresas ven cada vez más ataques cripto minería en infraestructuras Cloud](https://github.com/theyapapa/cryptonews/blob/es/businesses-increasingly-see-crypto-mining-attacks-in-cloud-infrastructures-ad5d90b5.md)
 * 2019-03-15 [Finhub de SEC para albergar foro público sobre blockchain, activos digitales en mayo](https://github.com/theyapapa/cryptonews/blob/es/secs-finhub-to-host-public-forum-on-blockchain-digital-assets-in-may-a2037601.md)
 * 2019-03-15 [Google elimina Crypto malware targeting Blockchain.com, usuarios de MyEtherWallet](https://github.com/theyapapa/cryptonews/blob/es/google-deletes-crypto-malware-targeting-blockchaincom-myetherwallet-users-9d0fbc39.md)
