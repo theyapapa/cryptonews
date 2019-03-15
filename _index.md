@@ -1,3 +1,4 @@
+* 2019-03-14 [Algoritmo de consenso de menta recauda $9 MLN en serie una ronda de inversión](https://github.com/theyapapa/cryptonews/blob/es/consensus-algorithm-tendermint-raises-9-mln-in-series-a-investment-round-b497c79d.md)
 * 2019-03-14 [Empleados de la corte francesa utilizarán la plataforma de blockchain de IBM para el registro corporativo](https://github.com/theyapapa/cryptonews/blob/es/french-court-clerks-to-use-ibm-blockchain-platform-for-corporate-registry-61529b32.md)
 * 2019-03-14 [Algunas Altcoins hacen ganancias leves, futuros de petróleo crudo ver cuatro meses de alto](https://github.com/theyapapa/cryptonews/blob/es/some-altcoins-make-mild-gains-crude-oil-futures-see-four-month-high-59149508.md)
 * 2019-03-14 [Presidente de la SEC destaca protección al inversor en relación con el ETF de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/sec-chairman-highlights-investor-protection-in-regard-to-bitcoin-etf-41e233b5.md)
