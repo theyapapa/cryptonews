@@ -1,3 +1,4 @@
+* 2019-03-15 [МежКонтинентальная фондовая биржа, казалось бы, расширить канал данных Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/intercontinental-stock-exchange-seemingly-to-expand-cryptocurrency-data-feed-9370b854.md)
 * 2019-03-15 [Предприятия все чаще видят атаки крипто-майнинга в облачных инфраструктурах](https://github.com/theyapapa/cryptonews/blob/ru/businesses-increasingly-see-crypto-mining-attacks-in-cloud-infrastructures-ad5d90b5.md)
 * 2019-03-15 [SEC Финхуб провести общественный форум по Blockchain, цифровые активы в мае](https://github.com/theyapapa/cryptonews/blob/ru/secs-finhub-to-host-public-forum-on-blockchain-digital-assets-in-may-a2037601.md)
 * 2019-03-15 [Google удаляет крипто вредоносных программ таргетинга Blockchain.com, MyEtherWallet пользователей](https://github.com/theyapapa/cryptonews/blob/ru/google-deletes-crypto-malware-targeting-blockchaincom-myetherwallet-users-9d0fbc39.md)
