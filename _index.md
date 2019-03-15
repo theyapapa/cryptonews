@@ -1,3 +1,4 @@
+* 2019-03-15 [블록 체인에 공개 포럼을 주최 하는 SEC의 finhub, 5 월의 디지털 자산](https://github.com/theyapapa/cryptonews/blob/ko/secs-finhub-to-host-public-forum-on-blockchain-digital-assets-in-may-a2037601.md)
 * 2019-03-15 [구글은 Blockchain.com, 미 지 지갑 사용자를 대상으로 암호화 악성 코드를 삭제](https://github.com/theyapapa/cryptonews/blob/ko/google-deletes-crypto-malware-targeting-blockchaincom-myetherwallet-users-9d0fbc39.md)
 * 2019-03-15 [스텔라 재단, 전 모질라 COO를 대표이사 겸 총괄 이사로 임명](https://github.com/theyapapa/cryptonews/blob/ko/stellar-foundation-appoints-former-mozilla-coo-as-ceo-and-executive-director-21cac74e.md)
 * 2019-03-15 [bitfury 우리에 게 번개 지불을 제공 합니다 지불 게이트웨이 hadepay](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-brings-lightning-payments-to-us-payment-gateway-hadepay-54e8b813.md)
