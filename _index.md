@@ -1,3 +1,4 @@
+* 2019-03-15 [Звездный фонд назначает бывшего управляющего директором и Исполнительного директора Mozilla](https://github.com/theyapapa/cryptonews/blob/ru/stellar-foundation-appoints-former-mozilla-coo-as-ceo-and-executive-director-21cac74e.md)
 * 2019-03-15 [Bitfury приносит молнии платежей в США платежный шлюз Хадепай](https://github.com/theyapapa/cryptonews/blob/ru/bitfury-brings-lightning-payments-to-us-payment-gateway-hadepay-54e8b813.md)
 * 2019-03-15 [Японский суд находит экс-MT. GOX Исполнительный директор виновным в записи фальсификации](https://github.com/theyapapa/cryptonews/blob/ru/japanese-court-finds-ex-mt-gox-ceo-guilty-of-record-tampering-80a98132.md)
 * 2019-03-14 [Япония: хакер участвует в 15 млн иен крипто кражи соСлался на прокуроров](https://github.com/theyapapa/cryptonews/blob/ru/japan-hacker-involved-in-15-mln-yen-crypto-theft-referred-to-prosecutors-7e03b6ac.md)
