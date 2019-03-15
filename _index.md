@@ -1,3 +1,4 @@
+* 2019-03-15 [보험 자이언트 악사 XL 보안 토큰 및 크 라우드 펀 딩 보험 서비스 출시](https://github.com/theyapapa/cryptonews/blob/ko/insurance-giant-axa-xl-launches-security-token-and-crowdfunding-insurance-service-239eec48.md)
 * 2019-03-15 [가상 화폐 데이터 피드를 확장 하는 것 처럼 보이는 인터컨티넨탈 증권 거래소](https://github.com/theyapapa/cryptonews/blob/ko/intercontinental-stock-exchange-seemingly-to-expand-cryptocurrency-data-feed-9370b854.md)
 * 2019-03-15 [클라우드 인프라에서 가상 화폐 채굴 공격이 점점 늘어나고 있는 기업](https://github.com/theyapapa/cryptonews/blob/ko/businesses-increasingly-see-crypto-mining-attacks-in-cloud-infrastructures-ad5d90b5.md)
 * 2019-03-15 [블록 체인에 공개 포럼을 주최 하는 SEC의 finhub, 5 월의 디지털 자산](https://github.com/theyapapa/cryptonews/blob/ko/secs-finhub-to-host-public-forum-on-blockchain-digital-assets-in-may-a2037601.md)
