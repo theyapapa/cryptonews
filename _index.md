@@ -1,3 +1,4 @@
+* 2019-03-15 [스텔라 재단, 전 모질라 COO를 대표이사 겸 총괄 이사로 임명](https://github.com/theyapapa/cryptonews/blob/ko/stellar-foundation-appoints-former-mozilla-coo-as-ceo-and-executive-director-21cac74e.md)
 * 2019-03-15 [bitfury 우리에 게 번개 지불을 제공 합니다 지불 게이트웨이 hadepay](https://github.com/theyapapa/cryptonews/blob/ko/bitfury-brings-lightning-payments-to-us-payment-gateway-hadepay-54e8b813.md)
 * 2019-03-15 [일본의 법정에서 발견 한 전직-gox 대표이사 기록 변조 유죄](https://github.com/theyapapa/cryptonews/blob/ko/japanese-court-finds-ex-mt-gox-ceo-guilty-of-record-tampering-80a98132.md)
 * 2019-03-14 [일본: 15 백만 엔에 관여 하는 해커 암호 도용 검찰 참조](https://github.com/theyapapa/cryptonews/blob/ko/japan-hacker-involved-in-15-mln-yen-crypto-theft-referred-to-prosecutors-7e03b6ac.md)
