@@ -1,3 +1,4 @@
+* 2019-03-15 [Bitfury trae pagos relámpago a la pasarela de pago de EE. UU. HadePay](https://github.com/theyapapa/cryptonews/blob/es/bitfury-brings-lightning-payments-to-us-payment-gateway-hadepay-54e8b813.md)
 * 2019-03-15 [La corte japonesa encuentra a ex-CEO de Mt. GOX culpable de manipulación récord](https://github.com/theyapapa/cryptonews/blob/es/japanese-court-finds-ex-mt-gox-ceo-guilty-of-record-tampering-80a98132.md)
 * 2019-03-14 [Japón: hacker involucrado en 15 MLN yen cripto robo referido a los fiscales](https://github.com/theyapapa/cryptonews/blob/es/japan-hacker-involved-in-15-mln-yen-crypto-theft-referred-to-prosecutors-7e03b6ac.md)
 * 2019-03-14 [Algoritmo de consenso de menta recauda $9 MLN en serie una ronda de inversión](https://github.com/theyapapa/cryptonews/blob/es/consensus-algorithm-tendermint-raises-9-mln-in-series-a-investment-round-b497c79d.md)
