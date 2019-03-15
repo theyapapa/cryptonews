@@ -1,3 +1,4 @@
+* 2019-03-14 [Консенсус алгоритм Тендерминт подНимает $9 млн в серии инвестиционный раунд](https://github.com/theyapapa/cryptonews/blob/ru/consensus-algorithm-tendermint-raises-9-mln-in-series-a-investment-round-b497c79d.md)
 * 2019-03-14 [Секретари французского суда используют Блокчейн-платформу IBM для корпоративного регистра](https://github.com/theyapapa/cryptonews/blob/ru/french-court-clerks-to-use-ibm-blockchain-platform-for-corporate-registry-61529b32.md)
 * 2019-03-14 [Некоторые Altcoins сделать мягкий выгоды, нефть фьючерсы увидеть четыре месяца высокий](https://github.com/theyapapa/cryptonews/blob/ru/some-altcoins-make-mild-gains-crude-oil-futures-see-four-month-high-59149508.md)
 * 2019-03-14 [SEC Председатель основные моменты защиты инвесторов в отношении Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/sec-chairman-highlights-investor-protection-in-regard-to-bitcoin-etf-41e233b5.md)
