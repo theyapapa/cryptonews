@@ -1,3 +1,4 @@
+* 2019-03-16 [Китайский страховой гигант пинг партнеры с децентрализованной AI Startup Сингуларитинет](https://github.com/theyapapa/cryptonews/blob/ru/chinese-insurance-giant-ping-an-partners-with-decentralized-ai-startup-singularitynet-99406072.md)
 * 2019-03-16 [Эфириум соУчредитель Джозеф Любин: Блокчейн будет большая часть экономики в 10-20 лет](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-co-founder-joseph-lubin-blockchain-will-be-most-of-the-economy-in-10-20-years-73b3b6dd.md)
 * 2019-03-16 [Bitcoin Breaks $4 000 как лучшие крипты видят рост](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-4-000-as-top-cryptos-see-growth-5dced64e.md)
 * 2019-03-16 [Старший советник SEC для цифровых активов Валери Щепаник: Стаблекоинс может быть ценными бумагами](https://github.com/theyapapa/cryptonews/blob/ru/secs-senior-advisor-for-digital-assets-valerie-szczepanik-stablecoins-may-be-securities-70d88c97.md)
