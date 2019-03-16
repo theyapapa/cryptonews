@@ -1,3 +1,4 @@
+* 2019-03-16 [Старший советник SEC для цифровых активов Валери Щепаник: Стаблекоинс может быть ценными бумагами](https://github.com/theyapapa/cryptonews/blob/ru/secs-senior-advisor-for-digital-assets-valerie-szczepanik-stablecoins-may-be-securities-70d88c97.md)
 * 2019-03-15 [Bitcoin Pioneer Джефф Гарзик в суд в $4 млрд иск против Крейг Райт](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-pioneer-jeff-garzik-subpoenaed-in-4-bln-lawsuit-against-craig-wright-070888b1.md)
 * 2019-03-15 [Страховой гигант AXA XL запускает службу безопасности и страхование](https://github.com/theyapapa/cryptonews/blob/ru/insurance-giant-axa-xl-launches-security-token-and-crowdfunding-insurance-service-239eec48.md)
 * 2019-03-15 [МежКонтинентальная фондовая биржа, казалось бы, расширить канал данных Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/intercontinental-stock-exchange-seemingly-to-expand-cryptocurrency-data-feed-9370b854.md)
