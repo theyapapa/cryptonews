@@ -1,3 +1,4 @@
+* 2019-03-16 [SEC의 디지털 자산에 대 한 선임 고문 발레리 Szczepanik: 스타 레 코 인은 유가 증권 일 수 있다.](https://github.com/theyapapa/cryptonews/blob/ko/secs-senior-advisor-for-digital-assets-valerie-szczepanik-stablecoins-may-be-securities-70d88c97.md)
 * 2019-03-15 [크레이그 라이트에 대 한 $4 bln 소송에서 비트 코인 개척자 제프가 르 시 소환](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-pioneer-jeff-garzik-subpoenaed-in-4-bln-lawsuit-against-craig-wright-070888b1.md)
 * 2019-03-15 [보험 자이언트 악사 XL 보안 토큰 및 크 라우드 펀 딩 보험 서비스 출시](https://github.com/theyapapa/cryptonews/blob/ko/insurance-giant-axa-xl-launches-security-token-and-crowdfunding-insurance-service-239eec48.md)
 * 2019-03-15 [가상 화폐 데이터 피드를 확장 하는 것 처럼 보이는 인터컨티넨탈 증권 거래소](https://github.com/theyapapa/cryptonews/blob/ko/intercontinental-stock-exchange-seemingly-to-expand-cryptocurrency-data-feed-9370b854.md)
