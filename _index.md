@@ -1,3 +1,4 @@
+* 2019-03-15 [Bitcoin Pioneer Jeff Garzik Subpoenaed en $4 BLN demanda contra Craig Wright](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-pioneer-jeff-garzik-subpoenaed-in-4-bln-lawsuit-against-craig-wright-070888b1.md)
 * 2019-03-15 [El gigante de seguros AXA XL lanza el servicio de seguridad de tokens y crowdfunding](https://github.com/theyapapa/cryptonews/blob/es/insurance-giant-axa-xl-launches-security-token-and-crowdfunding-insurance-service-239eec48.md)
 * 2019-03-15 [Bolsa Intercontinental aparentemente expande la alimentación de datos de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/intercontinental-stock-exchange-seemingly-to-expand-cryptocurrency-data-feed-9370b854.md)
 * 2019-03-15 [Las empresas ven cada vez más ataques cripto minería en infraestructuras Cloud](https://github.com/theyapapa/cryptonews/blob/es/businesses-increasingly-see-crypto-mining-attacks-in-cloud-infrastructures-ad5d90b5.md)
