@@ -1,3 +1,4 @@
+* 2019-03-16 [El cofundador de Ethereum, Joseph Lubin: blockchain será la mayor parte de la economía en 10-20 años](https://github.com/theyapapa/cryptonews/blob/es/ethereum-co-founder-joseph-lubin-blockchain-will-be-most-of-the-economy-in-10-20-years-73b3b6dd.md)
 * 2019-03-16 [Bitcoin rompe $4.000 como Top Cryptos ver crecimiento](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-4-000-as-top-cryptos-see-growth-5dced64e.md)
 * 2019-03-16 [Asesor Senior de SEC para activos digitales Valerie Szczepanik: Stablecoins puede ser valores](https://github.com/theyapapa/cryptonews/blob/es/secs-senior-advisor-for-digital-assets-valerie-szczepanik-stablecoins-may-be-securities-70d88c97.md)
 * 2019-03-15 [Bitcoin Pioneer Jeff Garzik Subpoenaed en $4 BLN demanda contra Craig Wright](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-pioneer-jeff-garzik-subpoenaed-in-4-bln-lawsuit-against-craig-wright-070888b1.md)
