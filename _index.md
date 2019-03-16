@@ -1,3 +1,4 @@
+* 2019-03-16 [에 테 리 움 공동 설립자 요셉 lubin: 블록 체인은 10-20 년에 경제의 대부분이 될 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-joseph-lubin-blockchain-will-be-most-of-the-economy-in-10-20-years-73b3b6dd.md)
 * 2019-03-16 [비트 코인 나누기 $4000 최고 크립 토 성장 참조로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-4-000-as-top-cryptos-see-growth-5dced64e.md)
 * 2019-03-16 [SEC의 디지털 자산에 대 한 선임 고문 발레리 Szczepanik: 스타 레 코 인은 유가 증권 일 수 있다.](https://github.com/theyapapa/cryptonews/blob/ko/secs-senior-advisor-for-digital-assets-valerie-szczepanik-stablecoins-may-be-securities-70d88c97.md)
 * 2019-03-15 [크레이그 라이트에 대 한 $4 bln 소송에서 비트 코인 개척자 제프가 르 시 소환](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-pioneer-jeff-garzik-subpoenaed-in-4-bln-lawsuit-against-craig-wright-070888b1.md)
