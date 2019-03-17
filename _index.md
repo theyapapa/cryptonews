@@ -1,3 +1,4 @@
+* 2019-03-17 [Coinbase Pro aumenta las cuotas, actualiza la estructura del mercado ' para aumentar la liquidez '](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-increases-fees-updates-market-structure-to-increase-liquidity-cb9c2c73.md)
 * 2019-03-16 [Gigante de seguros chinos ping a socios con el inicio de la IA descentralizada SingularityNET](https://github.com/theyapapa/cryptonews/blob/es/chinese-insurance-giant-ping-an-partners-with-decentralized-ai-startup-singularitynet-99406072.md)
 * 2019-03-16 [El cofundador de Ethereum, Joseph Lubin: blockchain será la mayor parte de la economía en 10-20 años](https://github.com/theyapapa/cryptonews/blob/es/ethereum-co-founder-joseph-lubin-blockchain-will-be-most-of-the-economy-in-10-20-years-73b3b6dd.md)
 * 2019-03-16 [Bitcoin rompe $4.000 como Top Cryptos ver crecimiento](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-4-000-as-top-cryptos-see-growth-5dced64e.md)
