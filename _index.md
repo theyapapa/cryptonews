@@ -1,3 +1,4 @@
+* 2019-03-17 [아랍에미리트 연합 금융 당국, 암호화 자산 및 핀 테크 포럼 개최](https://github.com/theyapapa/cryptonews/blob/ko/united-arab-emirates-financial-authorities-host-crypto-asset-and-fintech-forum-81214dad.md)
 * 2019-03-17 [coinbase Pro는 수수료를 증가 하 고 시장 구조를 업데이트 하 여 유동성을 높입니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-increases-fees-updates-market-structure-to-increase-liquidity-cb9c2c73.md)
 * 2019-03-16 [중국 보험 거 대 한 핑 분산 된 인공 지능 신생 네트워크와 파트너](https://github.com/theyapapa/cryptonews/blob/ko/chinese-insurance-giant-ping-an-partners-with-decentralized-ai-startup-singularitynet-99406072.md)
 * 2019-03-16 [에 테 리 움 공동 설립자 요셉 lubin: 블록 체인은 10-20 년에 경제의 대부분이 될 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-joseph-lubin-blockchain-will-be-most-of-the-economy-in-10-20-years-73b3b6dd.md)
