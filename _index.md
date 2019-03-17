@@ -1,3 +1,4 @@
+* 2019-03-17 [맨 위로 5 암호화 수행자 개요: 스텔라, 비트 코인 현금, 카르다노, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-stellar-bitcoin-cash-cardano-dash-monero-ca165d7b.md)
 * 2019-03-17 [Ethereum 개발자는 다시 한 번 ASIC 내성 알고리즘을 승인 합니다 ProgPoW ](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-devs-once-again-approve-asic-resistant-algorithm-progpow-0ef97219.md)
 * 2019-03-17 [최고 cryptos는 비트 코인이 $4000 이상으로 안정적으로 보입니다.](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-look-stable-as-bitcoin-hovers-over-4-000-6b5cdc0f.md)
 * 2019-03-17 [아랍에미리트 연합 금융 당국, 암호화 자산 및 핀 테크 포럼 개최](https://github.com/theyapapa/cryptonews/blob/ko/united-arab-emirates-financial-authorities-host-crypto-asset-and-fintech-forum-81214dad.md)
