@@ -1,3 +1,4 @@
+* 2019-03-17 [최고 cryptos는 비트 코인이 $4000 이상으로 안정적으로 보입니다.](https://github.com/theyapapa/cryptonews/blob/ko/top-cryptos-look-stable-as-bitcoin-hovers-over-4-000-6b5cdc0f.md)
 * 2019-03-17 [아랍에미리트 연합 금융 당국, 암호화 자산 및 핀 테크 포럼 개최](https://github.com/theyapapa/cryptonews/blob/ko/united-arab-emirates-financial-authorities-host-crypto-asset-and-fintech-forum-81214dad.md)
 * 2019-03-17 [coinbase Pro는 수수료를 증가 하 고 시장 구조를 업데이트 하 여 유동성을 높입니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-increases-fees-updates-market-structure-to-increase-liquidity-cb9c2c73.md)
 * 2019-03-16 [중국 보험 거 대 한 핑 분산 된 인공 지능 신생 네트워크와 파트너](https://github.com/theyapapa/cryptonews/blob/ko/chinese-insurance-giant-ping-an-partners-with-decentralized-ai-startup-singularitynet-99406072.md)
