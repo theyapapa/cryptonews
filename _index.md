@@ -1,3 +1,4 @@
+* 2019-03-17 [Etereum Devs una vez más aprobar algoritmo resistente a ASIC ProgPoW ](https://github.com/theyapapa/cryptonews/blob/es/ethereum-devs-once-again-approve-asic-resistant-algorithm-progpow-0ef97219.md)
 * 2019-03-17 [Top Cryptos mirada estable como Bitcoin hovers más de $4.000](https://github.com/theyapapa/cryptonews/blob/es/top-cryptos-look-stable-as-bitcoin-hovers-over-4-000-6b5cdc0f.md)
 * 2019-03-17 [Las autoridades financieras de los Emiratos Árabes Unidos albergan crypto asset y FinTech Forum](https://github.com/theyapapa/cryptonews/blob/es/united-arab-emirates-financial-authorities-host-crypto-asset-and-fintech-forum-81214dad.md)
 * 2019-03-17 [Coinbase Pro aumenta las cuotas, actualiza la estructura del mercado ' para aumentar la liquidez '](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-increases-fees-updates-market-structure-to-increase-liquidity-cb9c2c73.md)
