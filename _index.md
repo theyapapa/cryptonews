@@ -1,3 +1,4 @@
+* 2019-03-17 [Топ Cryptos выглядят стабильными, как Bitcoin наВисает над $4 000](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptos-look-stable-as-bitcoin-hovers-over-4-000-6b5cdc0f.md)
 * 2019-03-17 [Объединенные Арабские Эмираты финансовые органы принимающей крипто активов и финансовых форумов](https://github.com/theyapapa/cryptonews/blob/ru/united-arab-emirates-financial-authorities-host-crypto-asset-and-fintech-forum-81214dad.md)
 * 2019-03-17 [Coinbase Pro увеличивает тарифы, обновляет структуру рынка ' для увеличения ликвидности '](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-increases-fees-updates-market-structure-to-increase-liquidity-cb9c2c73.md)
 * 2019-03-16 [Китайский страховой гигант пинг партнеры с децентрализованной AI Startup Сингуларитинет](https://github.com/theyapapa/cryptonews/blob/ru/chinese-insurance-giant-ping-an-partners-with-decentralized-ai-startup-singularitynet-99406072.md)
