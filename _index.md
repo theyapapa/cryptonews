@@ -1,3 +1,4 @@
+* 2019-03-18 [6 개의 글로벌 은행이 IBM의 현재 라이브 블록 체인 네트워크에서 Stablecoins를 발행 하기 위해 가입](https://github.com/theyapapa/cryptonews/blob/ko/six-global-banks-sign-up-to-issue-stablecoins-on-ibms-now-live-blockchain-network-72d48c15.md)
 * 2019-03-18 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS, 비트 코인 캐쉬, 스텔라 스 트 론, 카르다노: 가격 분석, 3 월 18](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-tron-cardano-price-analysis-march-18-8082e7ab.md)
 * 2019-03-18 [오버 스톡 CEO, 4 분기 실적 보고서의 블록 체인 플랫폼을 칭찬 한다.](https://github.com/theyapapa/cryptonews/blob/ko/overstock-ceo-praises-tzero-blockchain-platform-in-q4-earnings-report-f2730005.md)
 * 2019-03-18 [winklevoss 쌍둥이: 암호화는 페이스 북 보다 더 큰 무언가를 알리는](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-twins-crypto-heralds-something-greater-than-facebook-235f58d5.md)
