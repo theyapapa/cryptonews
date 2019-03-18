@@ -1,3 +1,4 @@
+* 2019-03-18 [Австралия объявляет о национальной стратегии Блокчейн и дальнейшем повышении правительственного финансирования](https://github.com/theyapapa/cryptonews/blob/ru/australia-announces-national-blockchain-roadmap-and-further-boost-to-government-funding-ceb3d250.md)
 * 2019-03-17 [Топ 5 крипто исполнители Обзор: Звездный, Bitcoin наличными, Monero, тире,](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-stellar-bitcoin-cash-cardano-dash-monero-ca165d7b.md)
 * 2019-03-17 [Эфириум разработчики еще раз утвердить ASIC-устойчивостью алгоритм Прогпов ](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-devs-once-again-approve-asic-resistant-algorithm-progpow-0ef97219.md)
 * 2019-03-17 [Топ Cryptos выглядят стабильными, как Bitcoin наВисает над $4 000](https://github.com/theyapapa/cryptonews/blob/ru/top-cryptos-look-stable-as-bitcoin-hovers-over-4-000-6b5cdc0f.md)
