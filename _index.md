@@ -1,3 +1,4 @@
+* 2019-03-18 [США Национальный свиной Совет для пилота Blockchain Tech после нового партнерства](https://github.com/theyapapa/cryptonews/blob/ru/us-national-pork-board-to-pilot-blockchain-tech-following-new-partnership-beb7045b.md)
 * 2019-03-18 [Блокчейн бум в Ирландии, но ЕС ткацких станков](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-boom-in-ireland-but-brexit-looms-04a59669.md)
 * 2019-03-18 [Шесть глобальных банков подПишитесь на выпуск Стаблекоинс на IBM Now-Live Блокчейн сети](https://github.com/theyapapa/cryptonews/blob/ru/six-global-banks-sign-up-to-issue-stablecoins-on-ibms-now-live-blockchain-network-72d48c15.md)
 * 2019-03-18 [Bitcoin, Эфириум, эфир, пульсация, Litecoin, EOS, Bitcoin Cash, Binance монета, Звёздный, трон,: анализ цен, 18 марта](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-tron-cardano-price-analysis-march-18-8082e7ab.md)
