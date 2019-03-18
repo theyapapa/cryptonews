@@ -1,3 +1,4 @@
+* 2019-03-18 [보고서: 2018에서 3 배로 증가 한 블록 체인과 암호 화폐 대기실](https://github.com/theyapapa/cryptonews/blob/ko/report-number-of-blockchain-and-cryptocurrency-lobbies-tripled-in-2018-1b222ad3.md)
 * 2019-03-18 [미국 국립 돼지 위원회는 새로운 파트너십에 따라 블록 체인 기술에 파일럿](https://github.com/theyapapa/cryptonews/blob/ko/us-national-pork-board-to-pilot-blockchain-tech-following-new-partnership-beb7045b.md)
 * 2019-03-18 [블록 체인 붐 아일랜드에서, 하지만 브 렉 시트](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-boom-in-ireland-but-brexit-looms-04a59669.md)
 * 2019-03-18 [6 개의 글로벌 은행이 IBM의 현재 라이브 블록 체인 네트워크에서 Stablecoins를 발행 하기 위해 가입](https://github.com/theyapapa/cryptonews/blob/ko/six-global-banks-sign-up-to-issue-stablecoins-on-ibms-now-live-blockchain-network-72d48c15.md)
