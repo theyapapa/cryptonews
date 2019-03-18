@@ -1,3 +1,4 @@
+* 2019-03-18 [Informe: el número de lobbies de blockchain y criptomoneda se triplicó en 2018](https://github.com/theyapapa/cryptonews/blob/es/report-number-of-blockchain-and-cryptocurrency-lobbies-tripled-in-2018-1b222ad3.md)
 * 2019-03-18 [Junta Nacional de cerdo de EE.UU. a piloto blockchain Tech después de nueva asociación](https://github.com/theyapapa/cryptonews/blob/es/us-national-pork-board-to-pilot-blockchain-tech-following-new-partnership-beb7045b.md)
 * 2019-03-18 [Blockchain boom en Irlanda, pero Brexit telares](https://github.com/theyapapa/cryptonews/blob/es/blockchain-boom-in-ireland-but-brexit-looms-04a59669.md)
 * 2019-03-18 [Seis bancos globales se inscribe para emitir Stablecoins en la red de cadena de bloques Now-Live blockchain de IBM](https://github.com/theyapapa/cryptonews/blob/es/six-global-banks-sign-up-to-issue-stablecoins-on-ibms-now-live-blockchain-network-72d48c15.md)
