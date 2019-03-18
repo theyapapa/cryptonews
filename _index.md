@@ -1,3 +1,4 @@
+* 2019-03-18 [Australia anuncia la hoja de ruta nacional de blockchain y fomenta el financiamiento gubernamental](https://github.com/theyapapa/cryptonews/blob/es/australia-announces-national-blockchain-roadmap-and-further-boost-to-government-funding-ceb3d250.md)
 * 2019-03-17 [Top 5 cripto intérpretes Resumen: estelar, Bitcoin Cash, Cardano, Dash, Monero](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-stellar-bitcoin-cash-cardano-dash-monero-ca165d7b.md)
 * 2019-03-17 [Etereum Devs una vez más aprobar algoritmo resistente a ASIC ProgPoW ](https://github.com/theyapapa/cryptonews/blob/es/ethereum-devs-once-again-approve-asic-resistant-algorithm-progpow-0ef97219.md)
 * 2019-03-17 [Top Cryptos mirada estable como Bitcoin hovers más de $4.000](https://github.com/theyapapa/cryptonews/blob/es/top-cryptos-look-stable-as-bitcoin-hovers-over-4-000-6b5cdc0f.md)
