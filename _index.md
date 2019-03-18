@@ -1,3 +1,4 @@
+* 2019-03-18 [오버 스톡 CEO, 4 분기 실적 보고서의 블록 체인 플랫폼을 칭찬 한다.](https://github.com/theyapapa/cryptonews/blob/ko/overstock-ceo-praises-tzero-blockchain-platform-in-q4-earnings-report-f2730005.md)
 * 2019-03-18 [winklevoss 쌍둥이: 암호화는 페이스 북 보다 더 큰 무언가를 알리는](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-twins-crypto-heralds-something-greater-than-facebook-235f58d5.md)
 * 2019-03-18 [호주, 국가 블록 체인 로드맵 발표 및 정부 지원금 추가 강화](https://github.com/theyapapa/cryptonews/blob/ko/australia-announces-national-blockchain-roadmap-and-further-boost-to-government-funding-ceb3d250.md)
 * 2019-03-17 [맨 위로 5 암호화 수행자 개요: 스텔라, 비트 코인 현금, 카르다노, 대시, monero](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-stellar-bitcoin-cash-cardano-dash-monero-ca165d7b.md)
