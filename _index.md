@@ -1,3 +1,4 @@
+* 2019-03-18 [CEO de exceso praises tZERO blockchain Platform en el informe de resultados Q4](https://github.com/theyapapa/cryptonews/blob/es/overstock-ceo-praises-tzero-blockchain-platform-in-q4-earnings-report-f2730005.md)
 * 2019-03-18 [Gemelos Winklevoss: cripto heraldos algo mayor que Facebook](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-twins-crypto-heralds-something-greater-than-facebook-235f58d5.md)
 * 2019-03-18 [Australia anuncia la hoja de ruta nacional de blockchain y fomenta el financiamiento gubernamental](https://github.com/theyapapa/cryptonews/blob/es/australia-announces-national-blockchain-roadmap-and-further-boost-to-government-funding-ceb3d250.md)
 * 2019-03-17 [Top 5 cripto intérpretes Resumen: estelar, Bitcoin Cash, Cardano, Dash, Monero](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-stellar-bitcoin-cash-cardano-dash-monero-ca165d7b.md)
