@@ -1,3 +1,4 @@
+* 2019-03-18 [Генеральный директор хвалит Тзеро Блокчейн-платформу в Q4 отчет о прибылях](https://github.com/theyapapa/cryptonews/blob/ru/overstock-ceo-praises-tzero-blockchain-platform-in-q4-earnings-report-f2730005.md)
 * 2019-03-18 [Винклвосс Близнецы: Crypto Heralds нечто большее, чем Facebook](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-twins-crypto-heralds-something-greater-than-facebook-235f58d5.md)
 * 2019-03-18 [Австралия объявляет о национальной стратегии Блокчейн и дальнейшем повышении правительственного финансирования](https://github.com/theyapapa/cryptonews/blob/ru/australia-announces-national-blockchain-roadmap-and-further-boost-to-government-funding-ceb3d250.md)
 * 2019-03-17 [Топ 5 крипто исполнители Обзор: Звездный, Bitcoin наличными, Monero, тире,](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-stellar-bitcoin-cash-cardano-dash-monero-ca165d7b.md)
