@@ -1,3 +1,4 @@
+* 2019-03-19 [Японская компания запускает новый Stablecoin привязаны к доллару США](https://github.com/theyapapa/cryptonews/blob/ru/japanese-company-launches-new-stablecoin-pegged-to-the-us-dollar-fd97db8f.md)
 * 2019-03-19 [BitGo запускает депозитарий для токена безопасности Blockchain Capital БКАП](https://github.com/theyapapa/cryptonews/blob/ru/bitgo-launches-custody-for-blockchain-capitals-security-token-bcap-0c20a36f.md)
 * 2019-03-19 [Блокчейн и AI: Ведущий путь к четвертой промышленной революции против шансов](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-and-ai-leading-the-way-to-the-fourth-industrial-revolution-against-the-odds-73b2ee43.md)
 * 2019-03-19 [Крупнейший швейцарский Интернет-магазин DigiTec Галаксус теперь принимает криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/largest-swiss-online-retailer-digitec-galaxus-now-accepts-cryptocurrencies-1980f599.md)
