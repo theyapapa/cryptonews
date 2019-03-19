@@ -1,3 +1,4 @@
+* 2019-03-19 [Binance Launchpad хостов свой третий ICO с Celer сети повышение $4 000 000](https://github.com/theyapapa/cryptonews/blob/ru/binance-launchpad-hosts-its-third-ico-with-celer-network-raising-4-million-45364eca.md)
 * 2019-03-19 [Японская компания запускает новый Stablecoin привязаны к доллару США](https://github.com/theyapapa/cryptonews/blob/ru/japanese-company-launches-new-stablecoin-pegged-to-the-us-dollar-fd97db8f.md)
 * 2019-03-19 [BitGo запускает депозитарий для токена безопасности Blockchain Capital БКАП](https://github.com/theyapapa/cryptonews/blob/ru/bitgo-launches-custody-for-blockchain-capitals-security-token-bcap-0c20a36f.md)
 * 2019-03-19 [Блокчейн и AI: Ведущий путь к четвертой промышленной революции против шансов](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-and-ai-leading-the-way-to-the-fourth-industrial-revolution-against-the-odds-73b2ee43.md)
