@@ -1,3 +1,4 @@
+* 2019-03-19 [이전 CFTC 의장, 고급 암호화 규정을 요구 하는 보고서](https://github.com/theyapapa/cryptonews/blob/ko/report-from-former-cftc-chairman-calls-for-advanced-crypto-regulations-75b15980.md)
 * 2019-03-19 [Binance 런치패드는 Celer 네트워크 모금 $400만를 가진 세 번째 ICO를 호스팅합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-launchpad-hosts-its-third-ico-with-celer-network-raising-4-million-45364eca.md)
 * 2019-03-19 [일본 회사 출시 새로운 Stablecoin 미국 달러에 불 렀](https://github.com/theyapapa/cryptonews/blob/ko/japanese-company-launches-new-stablecoin-pegged-to-the-us-dollar-fd97db8f.md)
 * 2019-03-19 [BitGo, 블록 체인 자본의 보안 토큰 BCAP에 대 한 양육 권을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitgo-launches-custody-for-blockchain-capitals-security-token-bcap-0c20a36f.md)
