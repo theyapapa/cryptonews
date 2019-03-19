@@ -1,3 +1,4 @@
+* 2019-03-18 [TNW: 크레이그 라이트 2017 이후 블록 체인 관련 특허 출원 114](https://github.com/theyapapa/cryptonews/blob/ko/tnw-craig-wright-filed-114-blockchain-related-patents-since-2017-a276f206.md)
 * 2019-03-18 [일본, 암호 화폐 마진 거래에 대 한 새로운 규정을 소개 합니다](https://github.com/theyapapa/cryptonews/blob/ko/japan-introduces-new-regulations-for-cryptocurrency-margin-trading-6fc6a3b7.md)
 * 2019-03-18 [보고서: 2018에서 3 배로 증가 한 블록 체인과 암호 화폐 대기실](https://github.com/theyapapa/cryptonews/blob/ko/report-number-of-blockchain-and-cryptocurrency-lobbies-tripled-in-2018-1b222ad3.md)
 * 2019-03-18 [미국 국립 돼지 위원회는 새로운 파트너십에 따라 블록 체인 기술에 파일럿](https://github.com/theyapapa/cryptonews/blob/ko/us-national-pork-board-to-pilot-blockchain-tech-following-new-partnership-beb7045b.md)
