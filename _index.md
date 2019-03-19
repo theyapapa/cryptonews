@@ -1,3 +1,4 @@
+* 2019-03-19 [KAKAO Партнерская Дунаму запускает Блокчейн сервисную платформу](https://github.com/theyapapa/cryptonews/blob/ru/kakao-affiliate-dunamu-launches-blockchain-service-platform-43f0118c.md)
 * 2019-03-19 [Отчет бывшего Председателя Комиссии призвал к расширению правил шифрования](https://github.com/theyapapa/cryptonews/blob/ru/report-from-former-cftc-chairman-calls-for-advanced-crypto-regulations-75b15980.md)
 * 2019-03-19 [Binance Launchpad хостов свой третий ICO с Celer сети повышение $4 000 000](https://github.com/theyapapa/cryptonews/blob/ru/binance-launchpad-hosts-its-third-ico-with-celer-network-raising-4-million-45364eca.md)
 * 2019-03-19 [Японская компания запускает новый Stablecoin привязаны к доллару США](https://github.com/theyapapa/cryptonews/blob/ru/japanese-company-launches-new-stablecoin-pegged-to-the-us-dollar-fd97db8f.md)
