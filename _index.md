@@ -1,3 +1,4 @@
+* 2019-03-19 [Крупнейший швейцарский Интернет-магазин DigiTec Галаксус теперь принимает криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/largest-swiss-online-retailer-digitec-galaxus-now-accepts-cryptocurrencies-1980f599.md)
 * 2019-03-19 [Макердао опросы пользователей на свежий сбор увеличение до 7,4 процента, как Stablecoin колебания](https://github.com/theyapapa/cryptonews/blob/ru/makerdao-polls-users-on-fresh-fee-increase-to-74-percent-as-stablecoin-wobbles-6466cb01.md)
 * 2019-03-18 [TNW: Крейг Райт подал 114 Блокчейн-связанных патентов с 2017](https://github.com/theyapapa/cryptonews/blob/ru/tnw-craig-wright-filed-114-blockchain-related-patents-since-2017-a276f206.md)
 * 2019-03-18 [Япония вводит новые правила для маржинальной торговли криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/japan-introduces-new-regulations-for-cryptocurrency-margin-trading-6fc6a3b7.md)
