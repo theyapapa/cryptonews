@@ -1,3 +1,4 @@
+* 2019-03-19 [블록 체인 및 AI: 배당률에 대 한 4 차 산업혁명의 길을 선도 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-and-ai-leading-the-way-to-the-fourth-industrial-revolution-against-the-odds-73b2ee43.md)
 * 2019-03-19 [가장 큰 스위스 온라인 소매 업체 Digitec 갤럭시는 지금 암호 화폐를 수락](https://github.com/theyapapa/cryptonews/blob/ko/largest-swiss-online-retailer-digitec-galaxus-now-accepts-cryptocurrencies-1980f599.md)
 * 2019-03-19 [MakerDAO 투표 사용자가 신선한 요금에 7.4% 증가 하는 Stablecoin 흔들](https://github.com/theyapapa/cryptonews/blob/ko/makerdao-polls-users-on-fresh-fee-increase-to-74-percent-as-stablecoin-wobbles-6466cb01.md)
 * 2019-03-18 [TNW: 크레이그 라이트 2017 이후 블록 체인 관련 특허 출원 114](https://github.com/theyapapa/cryptonews/blob/ko/tnw-craig-wright-filed-114-blockchain-related-patents-since-2017-a276f206.md)
