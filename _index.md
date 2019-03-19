@@ -1,3 +1,4 @@
+* 2019-03-19 [카 카오 제휴 Dunamu, 블록 체인 서비스 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/kakao-affiliate-dunamu-launches-blockchain-service-platform-43f0118c.md)
 * 2019-03-19 [이전 CFTC 의장, 고급 암호화 규정을 요구 하는 보고서](https://github.com/theyapapa/cryptonews/blob/ko/report-from-former-cftc-chairman-calls-for-advanced-crypto-regulations-75b15980.md)
 * 2019-03-19 [Binance 런치패드는 Celer 네트워크 모금 $400만를 가진 세 번째 ICO를 호스팅합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-launchpad-hosts-its-third-ico-with-celer-network-raising-4-million-45364eca.md)
 * 2019-03-19 [일본 회사 출시 새로운 Stablecoin 미국 달러에 불 렀](https://github.com/theyapapa/cryptonews/blob/ko/japanese-company-launches-new-stablecoin-pegged-to-the-us-dollar-fd97db8f.md)
