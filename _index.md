@@ -1,3 +1,4 @@
+* 2019-03-19 [El mayor minorista suizo en línea Digitec Galaxus ahora acepta Cryptocurrencies](https://github.com/theyapapa/cryptonews/blob/es/largest-swiss-online-retailer-digitec-galaxus-now-accepts-cryptocurrencies-1980f599.md)
 * 2019-03-19 [MakerDAO encuestas a los usuarios sobre el aumento de la tarifa fresca a 7,4 por ciento como Stablecoin se tambalea](https://github.com/theyapapa/cryptonews/blob/es/makerdao-polls-users-on-fresh-fee-increase-to-74-percent-as-stablecoin-wobbles-6466cb01.md)
 * 2019-03-18 [TNW: Craig Wright presentó 114 patentes relacionadas con blockchain desde 2017](https://github.com/theyapapa/cryptonews/blob/es/tnw-craig-wright-filed-114-blockchain-related-patents-since-2017-a276f206.md)
 * 2019-03-18 [Japón presenta nuevas regulaciones para el comercio de margen criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/japan-introduces-new-regulations-for-cryptocurrency-margin-trading-6fc6a3b7.md)
