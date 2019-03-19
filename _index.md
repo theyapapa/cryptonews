@@ -1,3 +1,4 @@
+* 2019-03-19 [Informe de ex Presidente de CFTC pide regulaciones criptográficas avanzadas](https://github.com/theyapapa/cryptonews/blob/es/report-from-former-cftc-chairman-calls-for-advanced-crypto-regulations-75b15980.md)
 * 2019-03-19 [Binance Launchpad aloja su tercera ICO con Celer red Raising $4 millones](https://github.com/theyapapa/cryptonews/blob/es/binance-launchpad-hosts-its-third-ico-with-celer-network-raising-4-million-45364eca.md)
 * 2019-03-19 [La compañía japonesa lanza nueva Stablecoin vinculado al dólar estadounidense](https://github.com/theyapapa/cryptonews/blob/es/japanese-company-launches-new-stablecoin-pegged-to-the-us-dollar-fd97db8f.md)
 * 2019-03-19 [BitGo lanza la custodia del token de seguridad BCAP de blockchain capital](https://github.com/theyapapa/cryptonews/blob/es/bitgo-launches-custody-for-blockchain-capitals-security-token-bcap-0c20a36f.md)
