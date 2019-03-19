@@ -1,3 +1,4 @@
+* 2019-03-18 [TNW: Крейг Райт подал 114 Блокчейн-связанных патентов с 2017](https://github.com/theyapapa/cryptonews/blob/ru/tnw-craig-wright-filed-114-blockchain-related-patents-since-2017-a276f206.md)
 * 2019-03-18 [Япония вводит новые правила для маржинальной торговли криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/japan-introduces-new-regulations-for-cryptocurrency-margin-trading-6fc6a3b7.md)
 * 2019-03-18 [Отчет: количество Блокчейн и лобби Криптовалют в 2018 в три раза](https://github.com/theyapapa/cryptonews/blob/ru/report-number-of-blockchain-and-cryptocurrency-lobbies-tripled-in-2018-1b222ad3.md)
 * 2019-03-18 [США Национальный свиной Совет для пилота Blockchain Tech после нового партнерства](https://github.com/theyapapa/cryptonews/blob/ru/us-national-pork-board-to-pilot-blockchain-tech-following-new-partnership-beb7045b.md)
