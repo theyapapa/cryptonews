@@ -1,3 +1,4 @@
+* 2019-03-19 [BitGo запускает депозитарий для токена безопасности Blockchain Capital БКАП](https://github.com/theyapapa/cryptonews/blob/ru/bitgo-launches-custody-for-blockchain-capitals-security-token-bcap-0c20a36f.md)
 * 2019-03-19 [Блокчейн и AI: Ведущий путь к четвертой промышленной революции против шансов](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-and-ai-leading-the-way-to-the-fourth-industrial-revolution-against-the-odds-73b2ee43.md)
 * 2019-03-19 [Крупнейший швейцарский Интернет-магазин DigiTec Галаксус теперь принимает криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/largest-swiss-online-retailer-digitec-galaxus-now-accepts-cryptocurrencies-1980f599.md)
 * 2019-03-19 [Макердао опросы пользователей на свежий сбор увеличение до 7,4 процента, как Stablecoin колебания](https://github.com/theyapapa/cryptonews/blob/ru/makerdao-polls-users-on-fresh-fee-increase-to-74-percent-as-stablecoin-wobbles-6466cb01.md)
