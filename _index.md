@@ -1,3 +1,4 @@
+* 2019-03-18 [Japón presenta nuevas regulaciones para el comercio de margen criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/japan-introduces-new-regulations-for-cryptocurrency-margin-trading-6fc6a3b7.md)
 * 2019-03-18 [Informe: el número de lobbies de blockchain y criptomoneda se triplicó en 2018](https://github.com/theyapapa/cryptonews/blob/es/report-number-of-blockchain-and-cryptocurrency-lobbies-tripled-in-2018-1b222ad3.md)
 * 2019-03-18 [Junta Nacional de cerdo de EE.UU. a piloto blockchain Tech después de nueva asociación](https://github.com/theyapapa/cryptonews/blob/es/us-national-pork-board-to-pilot-blockchain-tech-following-new-partnership-beb7045b.md)
 * 2019-03-18 [Blockchain boom en Irlanda, pero Brexit telares](https://github.com/theyapapa/cryptonews/blob/es/blockchain-boom-in-ireland-but-brexit-looms-04a59669.md)
