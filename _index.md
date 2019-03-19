@@ -1,3 +1,4 @@
+* 2019-03-19 [La compañía japonesa lanza nueva Stablecoin vinculado al dólar estadounidense](https://github.com/theyapapa/cryptonews/blob/es/japanese-company-launches-new-stablecoin-pegged-to-the-us-dollar-fd97db8f.md)
 * 2019-03-19 [BitGo lanza la custodia del token de seguridad BCAP de blockchain capital](https://github.com/theyapapa/cryptonews/blob/es/bitgo-launches-custody-for-blockchain-capitals-security-token-bcap-0c20a36f.md)
 * 2019-03-19 [Blockchain y AI: liderando el camino hacia la cuarta revolución industrial contra las probabilidades](https://github.com/theyapapa/cryptonews/blob/es/blockchain-and-ai-leading-the-way-to-the-fourth-industrial-revolution-against-the-odds-73b2ee43.md)
 * 2019-03-19 [El mayor minorista suizo en línea Digitec Galaxus ahora acepta Cryptocurrencies](https://github.com/theyapapa/cryptonews/blob/es/largest-swiss-online-retailer-digitec-galaxus-now-accepts-cryptocurrencies-1980f599.md)
