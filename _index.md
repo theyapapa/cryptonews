@@ -1,3 +1,4 @@
+* 2019-03-20 [블록 체인 보안 솔루션에 대 한 스마트 계약 감사를 제공 하는 쿠 델 스키 파트너](https://github.com/theyapapa/cryptonews/blob/ko/kudelski-partners-with-smart-contracts-auditor-hosho-on-blockchain-security-solutions-6cf90348.md)
 * 2019-03-20 [디지털 자산 홀딩스, 영구 CEO를 가져옵니다. 브라이스 마스터스 잎 3 개월 후](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-holdings-gets-permanent-ceo-3-months-after-blythe-masters-leaves-2dac747f.md)
 * 2019-03-19 [ 윈 클 보스 캐피탈 파트너 스털링 Witzke: 달러는 인터넷을 위해 설계 되지 않았지만 Stablecoins는](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-capital-partner-sterling-witzke-dollar-is-not-designed-for-the-internet-but-stablecoins-are-bf379619.md)
 * 2019-03-19 [실버 게이트 뱅크 온보드 59 Q4 2018의 새로운 암호 화폐 고객](https://github.com/theyapapa/cryptonews/blob/ko/silvergate-bank-onboarded-59-new-crypto-customers-in-q4-2018-543e0e63.md)
