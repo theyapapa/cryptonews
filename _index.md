@@ -1,3 +1,4 @@
+* 2019-03-19 [ Winklevoss capital socio Sterling Witzke: Dollar no está diseñado para Internet, pero Stablecoins son](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-capital-partner-sterling-witzke-dollar-is-not-designed-for-the-internet-but-stablecoins-are-bf379619.md)
 * 2019-03-19 [Silvergate Bank incorporado 59 nuevos clientes de criptografía en Q4 2018](https://github.com/theyapapa/cryptonews/blob/es/silvergate-bank-onboarded-59-new-crypto-customers-in-q4-2018-543e0e63.md)
 * 2019-03-19 [El afiliado de Kakao Dunamu lanza la plataforma de servicio blockchain](https://github.com/theyapapa/cryptonews/blob/es/kakao-affiliate-dunamu-launches-blockchain-service-platform-43f0118c.md)
 * 2019-03-19 [Informe de ex Presidente de CFTC pide regulaciones criptográficas avanzadas](https://github.com/theyapapa/cryptonews/blob/es/report-from-former-cftc-chairman-calls-for-advanced-crypto-regulations-75b15980.md)
