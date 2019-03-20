@@ -1,3 +1,4 @@
+* 2019-03-20 [La plataforma de financiación SeriesOne se asocia con Polymath para usar su Protocolo de token de seguridad](https://github.com/theyapapa/cryptonews/blob/es/funding-platform-seriesone-partners-with-polymath-to-use-its-security-token-protocol-273e2027.md)
 * 2019-03-20 [CoinMarketCap lanza índices criptográficos en NASDAQ, Bloomberg, otros](https://github.com/theyapapa/cryptonews/blob/es/coinmarketcap-launches-crypto-indices-on-nasdaq-bloomberg-others-e196211b.md)
 * 2019-03-20 [Kudelski Partners con Smart Contracts Auditor Hosho en soluciones de seguridad blockchain](https://github.com/theyapapa/cryptonews/blob/es/kudelski-partners-with-smart-contracts-auditor-hosho-on-blockchain-security-solutions-6cf90348.md)
 * 2019-03-20 [Digital Asset Holdings obtiene CEO permanente 3 meses después de que Blythe Masters sale](https://github.com/theyapapa/cryptonews/blob/es/digital-asset-holdings-gets-permanent-ceo-3-months-after-blythe-masters-leaves-2dac747f.md)
