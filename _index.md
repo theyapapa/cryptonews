@@ -1,3 +1,4 @@
+* 2019-03-20 [Digital Asset Holdings obtiene CEO permanente 3 meses después de que Blythe Masters sale](https://github.com/theyapapa/cryptonews/blob/es/digital-asset-holdings-gets-permanent-ceo-3-months-after-blythe-masters-leaves-2dac747f.md)
 * 2019-03-19 [ Winklevoss capital socio Sterling Witzke: Dollar no está diseñado para Internet, pero Stablecoins son](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-capital-partner-sterling-witzke-dollar-is-not-designed-for-the-internet-but-stablecoins-are-bf379619.md)
 * 2019-03-19 [Silvergate Bank incorporado 59 nuevos clientes de criptografía en Q4 2018](https://github.com/theyapapa/cryptonews/blob/es/silvergate-bank-onboarded-59-new-crypto-customers-in-q4-2018-543e0e63.md)
 * 2019-03-19 [El afiliado de Kakao Dunamu lanza la plataforma de servicio blockchain](https://github.com/theyapapa/cryptonews/blob/es/kakao-affiliate-dunamu-launches-blockchain-service-platform-43f0118c.md)
