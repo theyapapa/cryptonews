@@ -1,3 +1,4 @@
+* 2019-03-20 [Агрегатор крипто-биржи Caspian предлагает крипто-опционы и торговлю фьючерсами](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-aggregator-caspian-to-offer-crypto-options-and-futures-trading-678c017d.md)
 * 2019-03-20 [Финансирование платформы Сериесоне партнеров с помощью многоматематических использовать протокол безопасности токена](https://github.com/theyapapa/cryptonews/blob/ru/funding-platform-seriesone-partners-with-polymath-to-use-its-security-token-protocol-273e2027.md)
 * 2019-03-20 [CoinMarketCap запускает крипто индексы на NASDAQ, Bloomberg, другие](https://github.com/theyapapa/cryptonews/blob/ru/coinmarketcap-launches-crypto-indices-on-nasdaq-bloomberg-others-e196211b.md)
 * 2019-03-20 [Kudelski партнеры с умными контрактами аудитор Хосё на решения Блокчейн безопасности](https://github.com/theyapapa/cryptonews/blob/ru/kudelski-partners-with-smart-contracts-auditor-hosho-on-blockchain-security-solutions-6cf90348.md)
