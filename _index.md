@@ -1,3 +1,4 @@
+* 2019-03-19 [ Винклвосс капитал партнер Стерлинг Вицке: доллар не предназначен для Интернета, но Стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-capital-partner-sterling-witzke-dollar-is-not-designed-for-the-internet-but-stablecoins-are-bf379619.md)
 * 2019-03-19 [Силвергате Bank на борту 59 новых клиентов Crypto в Q4 2018](https://github.com/theyapapa/cryptonews/blob/ru/silvergate-bank-onboarded-59-new-crypto-customers-in-q4-2018-543e0e63.md)
 * 2019-03-19 [KAKAO Партнерская Дунаму запускает Блокчейн сервисную платформу](https://github.com/theyapapa/cryptonews/blob/ru/kakao-affiliate-dunamu-launches-blockchain-service-platform-43f0118c.md)
 * 2019-03-19 [Отчет бывшего Председателя Комиссии призвал к расширению правил шифрования](https://github.com/theyapapa/cryptonews/blob/ru/report-from-former-cftc-chairman-calls-for-advanced-crypto-regulations-75b15980.md)
