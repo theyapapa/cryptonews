@@ -1,3 +1,4 @@
+* 2019-03-20 [암호화 옵션 및 선물 거래를 제공 하는 암호 화폐 거래소 통합자 카스피](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-aggregator-caspian-to-offer-crypto-options-and-futures-trading-678c017d.md)
 * 2019-03-20 [자금 조달 플랫폼 시리즈 하나의 파트너 Polymath의 보안 토큰 프로토콜을 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/funding-platform-seriesone-partners-with-polymath-to-use-its-security-token-protocol-273e2027.md)
 * 2019-03-20 [코인 마켓 캡은 나스닥, 블룸버그, 기타에서 암호화 지 수를 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinmarketcap-launches-crypto-indices-on-nasdaq-bloomberg-others-e196211b.md)
 * 2019-03-20 [블록 체인 보안 솔루션에 대 한 스마트 계약 감사를 제공 하는 쿠 델 스키 파트너](https://github.com/theyapapa/cryptonews/blob/ko/kudelski-partners-with-smart-contracts-auditor-hosho-on-blockchain-security-solutions-6cf90348.md)
