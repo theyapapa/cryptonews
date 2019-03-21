@@ -1,3 +1,4 @@
+* 2019-03-21 [Экс-Генеральный секретарь НАТО бычий на Блокчейн, как он сотрудничает со швейцарским стартапом](https://github.com/theyapapa/cryptonews/blob/ru/ex-nato-secretary-general-bullish-on-blockchain-as-he-partners-with-swiss-startup-5da4aef8.md)
 * 2019-03-21 [MT. GOX попечитель: кредиторы скоро будут принимать решения по реабилитации претензий](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-trustee-creditors-will-soon-receive-decisions-over-rehabilitation-claims-78d5f72e.md)
 * 2019-03-21 [Лаборатория молнии выпускает альфа-версию молнии Offramp решение молнии петли](https://github.com/theyapapa/cryptonews/blob/ru/lightning-labs-releases-alpha-version-of-lightning-offramp-solution-lightning-loop-c8c12e57.md)
 * 2019-03-20 [Оплата услуг площадь найма крипто инженеров, предложения зарплаты в Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/payment-service-square-is-hiring-crypto-engineers-offers-salaries-in-bitcoin-d2710ad7.md)
