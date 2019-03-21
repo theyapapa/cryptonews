@@ -1,3 +1,4 @@
+* 2019-03-21 [미국 미줄라 카운티는 암호화 채굴 자가 신 재생 에너지를 사용 하도록 요구 하는 것을 고려](https://github.com/theyapapa/cryptonews/blob/ko/us-missoula-county-considers-requiring-crypto-miners-to-use-renewable-energy-911ebe76.md)
 * 2019-03-21 [비트 코인의 암호 화폐 가격 상관관계, 달러는 2018에서 반전, Binance 발견](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-price-correlations-in-bitcoin-dollar-flipped-in-2018-binance-finds-26981226.md)
 * 2019-03-21 [그는 스위스 시작과 함께 파트너와 같은 블록 체인에 대 한 전 NATO 비서 일반 강세](https://github.com/theyapapa/cryptonews/blob/ko/ex-nato-secretary-general-bullish-on-blockchain-as-he-partners-with-swiss-startup-5da4aef8.md)
 * 2019-03-21 [고 엑스 수 탁자: 채권자 들은 곧 재활 치료에 대 한 결정을 받게 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-trustee-creditors-will-soon-receive-decisions-over-rehabilitation-claims-78d5f72e.md)
