@@ -1,3 +1,4 @@
+* 2019-03-21 [Крипто рынки спуститься в то время как тек запасы всплеск](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-descend-while-tech-stocks-surge-49908f1e.md)
 * 2019-03-21 [ИБП интегрирует Блокчейн-платформу для улучшения цепочек поставок](https://github.com/theyapapa/cryptonews/blob/ru/ups-integrates-blockchain-platform-to-improve-merchant-supply-chains-23824a03.md)
 * 2019-03-21 [Китай Alibaba партнеров с китайского программного гиганта для содействия развитию Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/chinas-alibaba-partners-with-chinese-software-giant-to-promote-blockchain-development-06f93e83.md)
 * 2019-03-21 [США, округ округа считает, требуя крипто шахтеров использовать возОбновляемые источники энергии](https://github.com/theyapapa/cryptonews/blob/ru/us-missoula-county-considers-requiring-crypto-miners-to-use-renewable-energy-911ebe76.md)
