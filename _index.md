@@ -1,3 +1,4 @@
+* 2019-03-20 [Payment Service Square está contratando a ingenieros de criptografía, ofrece salarios en Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/payment-service-square-is-hiring-crypto-engineers-offers-salaries-in-bitcoin-d2710ad7.md)
 * 2019-03-20 [Los disidentes norcoreanos venden visas post-liberación basadas en Ethereum](https://github.com/theyapapa/cryptonews/blob/es/north-korean-dissidents-sell-ethereum-based-post-liberation-visas-0042508a.md)
 * 2019-03-20 [¿Confirma el Presidente SEC que Ethereum no es una seguridad? No del todo, pero es optimista](https://github.com/theyapapa/cryptonews/blob/es/did-the-sec-chairman-confirm-ethereum-isnt-a-security-not-quite-but-its-optimistic-bd3758aa.md)
 * 2019-03-20 [El agregador de intercambio de cripto Caspian para ofrecer opciones criptográficas y futuros Trading](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-aggregator-caspian-to-offer-crypto-options-and-futures-trading-678c017d.md)
