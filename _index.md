@@ -1,3 +1,4 @@
+* 2019-03-21 [Лаборатория молнии выпускает альфа-версию молнии Offramp решение молнии петли](https://github.com/theyapapa/cryptonews/blob/ru/lightning-labs-releases-alpha-version-of-lightning-offramp-solution-lightning-loop-c8c12e57.md)
 * 2019-03-20 [Оплата услуг площадь найма крипто инженеров, предложения зарплаты в Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/payment-service-square-is-hiring-crypto-engineers-offers-salaries-in-bitcoin-d2710ad7.md)
 * 2019-03-20 [Северокорейские диссиденты продают визы после освобождения на основе Эфириума](https://github.com/theyapapa/cryptonews/blob/ru/north-korean-dissidents-sell-ethereum-based-post-liberation-visas-0042508a.md)
 * 2019-03-20 [Ли Председатель SEC подтвердить Эфириум не безопасность? Не совсем, но это оптимистично](https://github.com/theyapapa/cryptonews/blob/ru/did-the-sec-chairman-confirm-ethereum-isnt-a-security-not-quite-but-its-optimistic-bd3758aa.md)
