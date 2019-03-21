@@ -1,3 +1,4 @@
+* 2019-03-21 [그는 스위스 시작과 함께 파트너와 같은 블록 체인에 대 한 전 NATO 비서 일반 강세](https://github.com/theyapapa/cryptonews/blob/ko/ex-nato-secretary-general-bullish-on-blockchain-as-he-partners-with-swiss-startup-5da4aef8.md)
 * 2019-03-21 [고 엑스 수 탁자: 채권자 들은 곧 재활 치료에 대 한 결정을 받게 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-trustee-creditors-will-soon-receive-decisions-over-rehabilitation-claims-78d5f72e.md)
 * 2019-03-21 [번개 랩은 번개 오프 램프 솔루션 번개 루프의 알파 버전을 출시](https://github.com/theyapapa/cryptonews/blob/ko/lightning-labs-releases-alpha-version-of-lightning-offramp-solution-lightning-loop-c8c12e57.md)
 * 2019-03-20 [지불 서비스 광장은 암호 엔지니어를 고용 하 고, 비트 코인에서 급여를 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/payment-service-square-is-hiring-crypto-engineers-offers-salaries-in-bitcoin-d2710ad7.md)
