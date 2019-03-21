@@ -1,3 +1,4 @@
+* 2019-03-21 [비트 코인의 암호 화폐 가격 상관관계, 달러는 2018에서 반전, Binance 발견](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-price-correlations-in-bitcoin-dollar-flipped-in-2018-binance-finds-26981226.md)
 * 2019-03-21 [그는 스위스 시작과 함께 파트너와 같은 블록 체인에 대 한 전 NATO 비서 일반 강세](https://github.com/theyapapa/cryptonews/blob/ko/ex-nato-secretary-general-bullish-on-blockchain-as-he-partners-with-swiss-startup-5da4aef8.md)
 * 2019-03-21 [고 엑스 수 탁자: 채권자 들은 곧 재활 치료에 대 한 결정을 받게 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-trustee-creditors-will-soon-receive-decisions-over-rehabilitation-claims-78d5f72e.md)
 * 2019-03-21 [번개 랩은 번개 오프 램프 솔루션 번개 루프의 알파 버전을 출시](https://github.com/theyapapa/cryptonews/blob/ko/lightning-labs-releases-alpha-version-of-lightning-offramp-solution-lightning-loop-c8c12e57.md)
