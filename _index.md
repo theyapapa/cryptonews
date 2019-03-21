@@ -1,3 +1,4 @@
+* 2019-03-21 [Crypto Markets descienda mientras la oleada de acciones tecnológicas](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-descend-while-tech-stocks-surge-49908f1e.md)
 * 2019-03-21 [UPS integra la plataforma blockchain para mejorar las cadenas de suministro de comerciantes](https://github.com/theyapapa/cryptonews/blob/es/ups-integrates-blockchain-platform-to-improve-merchant-supply-chains-23824a03.md)
 * 2019-03-21 [Los socios alibaba de China con el gigante de software chino para promover el desarrollo blockchain](https://github.com/theyapapa/cryptonews/blob/es/chinas-alibaba-partners-with-chinese-software-giant-to-promote-blockchain-development-06f93e83.md)
 * 2019-03-21 [El Condado de Missoula considera que es necesario que los mineros criptográficos utilicen energías renovables](https://github.com/theyapapa/cryptonews/blob/es/us-missoula-county-considers-requiring-crypto-miners-to-use-renewable-energy-911ebe76.md)
