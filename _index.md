@@ -1,3 +1,4 @@
+* 2019-03-20 [지불 서비스 광장은 암호 엔지니어를 고용 하 고, 비트 코인에서 급여를 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/payment-service-square-is-hiring-crypto-engineers-offers-salaries-in-bitcoin-d2710ad7.md)
 * 2019-03-20 [북한 Dissidents이 더 리 움 기반 사후 해방 비자를 판매](https://github.com/theyapapa/cryptonews/blob/ko/north-korean-dissidents-sell-ethereum-based-post-liberation-visas-0042508a.md)
 * 2019-03-20 [SEC 회장이에 테 리 움이 보안을 확인 했습니까? 정답이 아닙니다.](https://github.com/theyapapa/cryptonews/blob/ko/did-the-sec-chairman-confirm-ethereum-isnt-a-security-not-quite-but-its-optimistic-bd3758aa.md)
 * 2019-03-20 [암호화 옵션 및 선물 거래를 제공 하는 암호 화폐 거래소 통합자 카스피](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-aggregator-caspian-to-offer-crypto-options-and-futures-trading-678c017d.md)
