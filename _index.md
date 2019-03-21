@@ -1,3 +1,4 @@
+* 2019-03-21 [Корреляции цен Криптовалют в Биткоине, доллар отраженный в 2018, Binance находки](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-price-correlations-in-bitcoin-dollar-flipped-in-2018-binance-finds-26981226.md)
 * 2019-03-21 [Экс-Генеральный секретарь НАТО бычий на Блокчейн, как он сотрудничает со швейцарским стартапом](https://github.com/theyapapa/cryptonews/blob/ru/ex-nato-secretary-general-bullish-on-blockchain-as-he-partners-with-swiss-startup-5da4aef8.md)
 * 2019-03-21 [MT. GOX попечитель: кредиторы скоро будут принимать решения по реабилитации претензий](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-trustee-creditors-will-soon-receive-decisions-over-rehabilitation-claims-78d5f72e.md)
 * 2019-03-21 [Лаборатория молнии выпускает альфа-версию молнии Offramp решение молнии петли](https://github.com/theyapapa/cryptonews/blob/ru/lightning-labs-releases-alpha-version-of-lightning-offramp-solution-lightning-loop-c8c12e57.md)
