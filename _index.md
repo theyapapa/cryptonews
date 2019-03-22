@@ -1,3 +1,4 @@
+* 2019-03-22 [BitWise nos dice SEC que 95% del volumen en los intercambios criptográficos no regulados es sospechoso](https://github.com/theyapapa/cryptonews/blob/es/bitwise-tells-us-sec-that-95-of-volume-on-unregulated-crypto-exchanges-is-suspect-be7a1ff9.md)
 * 2019-03-22 [El Consejo Federal suizo inicia el período de consulta de ley blockchain](https://github.com/theyapapa/cryptonews/blob/es/swiss-federal-council-initiates-blockchain-law-consultation-period-baf2a71d.md)
 * 2019-03-22 [Japón: el grupo SBI establece spin-off para fabricar chips de minería Crypto](https://github.com/theyapapa/cryptonews/blob/es/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips-ab92f547.md)
 * 2019-03-22 [Major Crypto intercambia Huobi global y OKEx Launch support para USDT basado en Tron](https://github.com/theyapapa/cryptonews/blob/es/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt-8070cbb3.md)
