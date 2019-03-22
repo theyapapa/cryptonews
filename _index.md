@@ -1,3 +1,4 @@
+* 2019-03-22 [Japón: el grupo SBI establece spin-off para fabricar chips de minería Crypto](https://github.com/theyapapa/cryptonews/blob/es/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips-ab92f547.md)
 * 2019-03-22 [Major Crypto intercambia Huobi global y OKEx Launch support para USDT basado en Tron](https://github.com/theyapapa/cryptonews/blob/es/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt-8070cbb3.md)
 * 2019-03-22 [Blockchain en biométrica podría ser utilizado en seguridad de viajes, el representante de aduanas de Estados Unidos dice](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says-74f31a46.md)
 * 2019-03-21 [Predicción startup Numerai eleva $11 millones en ICO](https://github.com/theyapapa/cryptonews/blob/es/prediction-startup-numerai-raises-11-million-in-ico-cadb28a1.md)
