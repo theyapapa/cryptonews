@@ -1,3 +1,4 @@
+* 2019-03-22 [트 론 기반 USDT에 대 한 주요 암호 화폐 거래소 Huobi 글로벌 및 OKEx 출시 지원](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt-8070cbb3.md)
 * 2019-03-22 [생체 인식의 블록 체인은 여행 보안에 사용 될 수, 미국 세관 담당자는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says-74f31a46.md)
 * 2019-03-21 [예측 시작 수치는 ICO에서 $1100만을 제기 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/prediction-startup-numerai-raises-11-million-in-ico-cadb28a1.md)
 * 2019-03-21 [기술 주식 급증 동안 암호화 시장 하강](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-descend-while-tech-stocks-surge-49908f1e.md)
