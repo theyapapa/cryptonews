@@ -1,3 +1,4 @@
+* 2019-03-21 [예측 시작 수치는 ICO에서 $1100만을 제기 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/prediction-startup-numerai-raises-11-million-in-ico-cadb28a1.md)
 * 2019-03-21 [기술 주식 급증 동안 암호화 시장 하강](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-descend-while-tech-stocks-surge-49908f1e.md)
 * 2019-03-21 [UPS는 블록 체인 플랫폼을 통합 하 여 가맹점 공급 체인을 개선 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ups-integrates-blockchain-platform-to-improve-merchant-supply-chains-23824a03.md)
 * 2019-03-21 [중국의 Alibaba는 중국 소프트웨어 자이언트와 협력 하 여 블록 체인 개발을 촉진 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/chinas-alibaba-partners-with-chinese-software-giant-to-promote-blockchain-development-06f93e83.md)
