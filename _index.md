@@ -1,3 +1,4 @@
+* 2019-03-22 [El Consejo Federal suizo inicia el período de consulta de ley blockchain](https://github.com/theyapapa/cryptonews/blob/es/swiss-federal-council-initiates-blockchain-law-consultation-period-baf2a71d.md)
 * 2019-03-22 [Japón: el grupo SBI establece spin-off para fabricar chips de minería Crypto](https://github.com/theyapapa/cryptonews/blob/es/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips-ab92f547.md)
 * 2019-03-22 [Major Crypto intercambia Huobi global y OKEx Launch support para USDT basado en Tron](https://github.com/theyapapa/cryptonews/blob/es/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt-8070cbb3.md)
 * 2019-03-22 [Blockchain en biométrica podría ser utilizado en seguridad de viajes, el representante de aduanas de Estados Unidos dice](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says-74f31a46.md)
