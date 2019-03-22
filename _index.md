@@ -1,3 +1,4 @@
+* 2019-03-22 [비트는 관계가 없는 암호화 교환에 볼륨의 95%가 의심 되는 것을 SEC에 알려 줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-tells-us-sec-that-95-of-volume-on-unregulated-crypto-exchanges-is-suspect-be7a1ff9.md)
 * 2019-03-22 [스위스 연방 의회가 블록 체인 법률 상담 기간을 시작 한다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-federal-council-initiates-blockchain-law-consultation-period-baf2a71d.md)
 * 2019-03-22 [일본: SBI 그룹은 암호화 채굴 칩을 제조 하기 위해 스핀 오프를 설정 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips-ab92f547.md)
 * 2019-03-22 [트 론 기반 USDT에 대 한 주요 암호 화폐 거래소 Huobi 글로벌 및 OKEx 출시 지원](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt-8070cbb3.md)
