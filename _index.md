@@ -1,3 +1,4 @@
+* 2019-03-22 [Блокчейн в биоМетрии может быть использован в безопасности путешествия, США таможенный респ говорит](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says-74f31a46.md)
 * 2019-03-21 [Прогнозирование запуска Нумераи подНимает $11 000 000 в ICO](https://github.com/theyapapa/cryptonews/blob/ru/prediction-startup-numerai-raises-11-million-in-ico-cadb28a1.md)
 * 2019-03-21 [Крипто рынки спуститься в то время как тек запасы всплеск](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-descend-while-tech-stocks-surge-49908f1e.md)
 * 2019-03-21 [ИБП интегрирует Блокчейн-платформу для улучшения цепочек поставок](https://github.com/theyapapa/cryptonews/blob/ru/ups-integrates-blockchain-platform-to-improve-merchant-supply-chains-23824a03.md)
