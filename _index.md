@@ -1,3 +1,4 @@
+* 2019-03-22 [일본: SBI 그룹은 암호화 채굴 칩을 제조 하기 위해 스핀 오프를 설정 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips-ab92f547.md)
 * 2019-03-22 [트 론 기반 USDT에 대 한 주요 암호 화폐 거래소 Huobi 글로벌 및 OKEx 출시 지원](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt-8070cbb3.md)
 * 2019-03-22 [생체 인식의 블록 체인은 여행 보안에 사용 될 수, 미국 세관 담당자는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says-74f31a46.md)
 * 2019-03-21 [예측 시작 수치는 ICO에서 $1100만을 제기 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/prediction-startup-numerai-raises-11-million-in-ico-cadb28a1.md)
