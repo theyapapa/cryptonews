@@ -1,3 +1,4 @@
+* 2019-03-22 [BlockFi 최고 계층 암호화 예금 계정에 대 한 금리를 낮춘 다](https://github.com/theyapapa/cryptonews/blob/ko/blockfi-lowers-interest-rates-for-top-tier-crypto-deposit-accounts-e23a4d55.md)
 * 2019-03-22 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS, 비트 코인 현금, 스텔라, 트 론, 카르다노: 가격 분석 3 월 22 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-tron-cardano-price-analysis-march-22-4b7a5d76.md)
 * 2019-03-22 [비트는 관계가 없는 암호화 교환에 볼륨의 95%가 의심 되는 것을 SEC에 알려 줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-tells-us-sec-that-95-of-volume-on-unregulated-crypto-exchanges-is-suspect-be7a1ff9.md)
 * 2019-03-22 [스위스 연방 의회가 블록 체인 법률 상담 기간을 시작 한다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-federal-council-initiates-blockchain-law-consultation-period-baf2a71d.md)
