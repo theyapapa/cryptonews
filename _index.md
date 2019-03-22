@@ -1,3 +1,4 @@
+* 2019-03-22 [Швейцарский Федеральный совет инициирует период консультаций по Блокчейн-закону](https://github.com/theyapapa/cryptonews/blob/ru/swiss-federal-council-initiates-blockchain-law-consultation-period-baf2a71d.md)
 * 2019-03-22 [Япония: ВОО группа наСтраивает спин-офф для производства крипто майнинг чипов](https://github.com/theyapapa/cryptonews/blob/ru/japan-sbi-group-sets-up-spin-off-to-manufacture-crypto-mining-chips-ab92f547.md)
 * 2019-03-22 [Основные крипто биржи Huobi глобальный и Окекс запуск поддержка для трона на основе USDT](https://github.com/theyapapa/cryptonews/blob/ru/major-crypto-exchanges-huobi-global-and-okex-launch-support-for-tron-based-usdt-8070cbb3.md)
 * 2019-03-22 [Блокчейн в биоМетрии может быть использован в безопасности путешествия, США таможенный респ говорит](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-biometrics-could-be-used-in-travel-security-us-customs-rep-says-74f31a46.md)
