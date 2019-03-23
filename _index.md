@@ -1,3 +1,4 @@
+* 2019-03-23 [허용: 1 년에 7.5%의 다이 스타 레 장 안정성 비용 인상에 찬성 하는 마 케르 다](https://github.com/theyapapa/cryptonews/blob/ko/accepted-makerdao-vote-to-raise-dai-stablecoin-stability-fee-by-4-to-75-per-year-7e0f8922.md)
 * 2019-03-23 [비트 코인은 $4000 이상 유지, 최고 크립 토는 약간의 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-stays-over-4-000-as-top-cryptos-see-slight-losses-ea62e8c4.md)
 * 2019-03-23 [인도: 경찰 체포 4 더 많은 용의자 $1400만 암호화 사기 혐의](https://github.com/theyapapa/cryptonews/blob/ko/india-police-arrest-four-more-suspects-in-alleged-14-million-crypto-scam-74b626be.md)
 * 2019-03-23 [중국의 11 번째 암호화 순위: EOS 먼저, 트 론 두 번째,이 더 리 움 써드, 비트 코인 15](https://github.com/theyapapa/cryptonews/blob/ko/chinas-11th-crypto-rankings-eos-first-tron-second-ethereum-third-bitcoin-fifteenth-eaee5db1.md)
