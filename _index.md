@@ -1,3 +1,4 @@
+* 2019-03-23 [India: detención de la policía cuatro sospechosos más en supuesta estafa Crypto $14 millones](https://github.com/theyapapa/cryptonews/blob/es/india-police-arrest-four-more-suspects-in-alleged-14-million-crypto-scam-74b626be.md)
 * 2019-03-23 [El 11º ranking Crypto de China: EOS primero, TRON Second, Ethereum tercero, Bitcoin decimoquinto](https://github.com/theyapapa/cryptonews/blob/es/chinas-11th-crypto-rankings-eos-first-tron-second-ethereum-third-bitcoin-fifteenth-eaee5db1.md)
 * 2019-03-22 [La Duma estatal rusa defer la consideración del proyecto de ley sobre activos financieros digitales](https://github.com/theyapapa/cryptonews/blob/es/russian-state-duma-defers-consideration-of-bill-on-digital-financial-assets-82ee5aa8.md)
 * 2019-03-22 [El CEO de BitMEX Arthur Hayes dice que el Bitcoin probará $10.000 en 2019](https://github.com/theyapapa/cryptonews/blob/es/bitmex-ceo-arthur-hayes-says-bitcoin-will-test-10-000-in-2019-62d8799a.md)
