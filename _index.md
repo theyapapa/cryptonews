@@ -1,3 +1,4 @@
+* 2019-03-23 [El 11º ranking Crypto de China: EOS primero, TRON Second, Ethereum tercero, Bitcoin decimoquinto](https://github.com/theyapapa/cryptonews/blob/es/chinas-11th-crypto-rankings-eos-first-tron-second-ethereum-third-bitcoin-fifteenth-eaee5db1.md)
 * 2019-03-22 [La Duma estatal rusa defer la consideración del proyecto de ley sobre activos financieros digitales](https://github.com/theyapapa/cryptonews/blob/es/russian-state-duma-defers-consideration-of-bill-on-digital-financial-assets-82ee5aa8.md)
 * 2019-03-22 [El CEO de BitMEX Arthur Hayes dice que el Bitcoin probará $10.000 en 2019](https://github.com/theyapapa/cryptonews/blob/es/bitmex-ceo-arthur-hayes-says-bitcoin-will-test-10-000-in-2019-62d8799a.md)
 * 2019-03-22 [BlockFi disminuye las tasas de interés para cuentas de depósito Crypto de nivel superior](https://github.com/theyapapa/cryptonews/blob/es/blockfi-lowers-interest-rates-for-top-tier-crypto-deposit-accounts-e23a4d55.md)
