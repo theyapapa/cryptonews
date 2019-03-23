@@ -1,3 +1,4 @@
+* 2019-03-23 [중국의 11 번째 암호화 순위: EOS 먼저, 트 론 두 번째,이 더 리 움 써드, 비트 코인 15](https://github.com/theyapapa/cryptonews/blob/ko/chinas-11th-crypto-rankings-eos-first-tron-second-ethereum-third-bitcoin-fifteenth-eaee5db1.md)
 * 2019-03-22 [러시아 주 Duma, 디지털 금융 자산에 대 한 법안의 고려](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-duma-defers-consideration-of-bill-on-digital-financial-assets-82ee5aa8.md)
 * 2019-03-22 [BitMEX CEO 아서 헤이즈는 비트 코인이 2019에서 $1만을 테스트 한다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-ceo-arthur-hayes-says-bitcoin-will-test-10-000-in-2019-62d8799a.md)
 * 2019-03-22 [BlockFi 최고 계층 암호화 예금 계정에 대 한 금리를 낮춘 다](https://github.com/theyapapa/cryptonews/blob/ko/blockfi-lowers-interest-rates-for-top-tier-crypto-deposit-accounts-e23a4d55.md)
