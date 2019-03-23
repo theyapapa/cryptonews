@@ -1,3 +1,4 @@
+* 2019-03-23 [Bitcoin se queda más de $4.000 como los mejores Cryptos ver ligeras pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-stays-over-4-000-as-top-cryptos-see-slight-losses-ea62e8c4.md)
 * 2019-03-23 [India: detención de la policía cuatro sospechosos más en supuesta estafa Crypto $14 millones](https://github.com/theyapapa/cryptonews/blob/es/india-police-arrest-four-more-suspects-in-alleged-14-million-crypto-scam-74b626be.md)
 * 2019-03-23 [El 11º ranking Crypto de China: EOS primero, TRON Second, Ethereum tercero, Bitcoin decimoquinto](https://github.com/theyapapa/cryptonews/blob/es/chinas-11th-crypto-rankings-eos-first-tron-second-ethereum-third-bitcoin-fifteenth-eaee5db1.md)
 * 2019-03-22 [La Duma estatal rusa defer la consideración del proyecto de ley sobre activos financieros digitales](https://github.com/theyapapa/cryptonews/blob/es/russian-state-duma-defers-consideration-of-bill-on-digital-financial-assets-82ee5aa8.md)
