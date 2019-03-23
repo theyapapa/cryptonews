@@ -1,3 +1,4 @@
+* 2019-03-23 [Индия: полиция арестовала еще четыре подозреваемых в предполагаемом $14 000 000 крипто афера](https://github.com/theyapapa/cryptonews/blob/ru/india-police-arrest-four-more-suspects-in-alleged-14-million-crypto-scam-74b626be.md)
 * 2019-03-23 [11-й крипто-рейтинг Китая: EOS First, трон второй, Эфириум третий, Bitcoin пятнадцатый](https://github.com/theyapapa/cryptonews/blob/ru/chinas-11th-crypto-rankings-eos-first-tron-second-ethereum-third-bitcoin-fifteenth-eaee5db1.md)
 * 2019-03-22 [Государственная Дума Российской Федерации отКладывает рассмотрение законопроекта о цифровых финансовых активах](https://github.com/theyapapa/cryptonews/blob/ru/russian-state-duma-defers-consideration-of-bill-on-digital-financial-assets-82ee5aa8.md)
 * 2019-03-22 [BitMEX Генеральный директор Артур Хейс говорит Bitcoin будет тестировать $10 000 в 2019](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-ceo-arthur-hayes-says-bitcoin-will-test-10-000-in-2019-62d8799a.md)
