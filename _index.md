@@ -1,3 +1,4 @@
+* 2019-03-24 [Binance изменения Launchpad токен продажа формат лотереи](https://github.com/theyapapa/cryptonews/blob/ru/binance-changes-launchpad-token-sale-format-to-lottery-12fd7cc4.md)
 * 2019-03-24 [Tor Digital конфиденциальность проект принимает пожертвования в криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/tor-digital-privacy-project-accepts-donations-in-cryptocurrency-f919fe3f.md)
 * 2019-03-24 [Потоковая служба twitch удаляет опции крипто-платежей, отчеты пользователей Reddit](https://github.com/theyapapa/cryptonews/blob/ru/streaming-service-twitch-removes-crypto-payment-options-reddit-user-reports-1ae553b7.md)
 * 2019-03-23 [Принято: Макердао голосовать поднять дай Stablecoin стабильности плата на 4% до 7,5% в год](https://github.com/theyapapa/cryptonews/blob/ru/accepted-makerdao-vote-to-raise-dai-stablecoin-stability-fee-by-4-to-75-per-year-7e0f8922.md)
