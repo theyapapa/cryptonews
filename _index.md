@@ -1,3 +1,4 @@
+* 2019-03-24 [스트리밍 서비스 트 위치는 암호화 지불 옵션을 제거, 레 딧 사용자 보고서](https://github.com/theyapapa/cryptonews/blob/ko/streaming-service-twitch-removes-crypto-payment-options-reddit-user-reports-1ae553b7.md)
 * 2019-03-23 [허용: 1 년에 7.5%의 다이 스타 레 장 안정성 비용 인상에 찬성 하는 마 케르 다](https://github.com/theyapapa/cryptonews/blob/ko/accepted-makerdao-vote-to-raise-dai-stablecoin-stability-fee-by-4-to-75-per-year-7e0f8922.md)
 * 2019-03-23 [비트 코인은 $4000 이상 유지, 최고 크립 토는 약간의 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-stays-over-4-000-as-top-cryptos-see-slight-losses-ea62e8c4.md)
 * 2019-03-23 [인도: 경찰 체포 4 더 많은 용의자 $1400만 암호화 사기 혐의](https://github.com/theyapapa/cryptonews/blob/ko/india-police-arrest-four-more-suspects-in-alleged-14-million-crypto-scam-74b626be.md)
