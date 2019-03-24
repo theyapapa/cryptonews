@@ -1,3 +1,4 @@
+* 2019-03-24 [Binance는 복권에 런치 패드 토큰 판매 형식을 변경](https://github.com/theyapapa/cryptonews/blob/ko/binance-changes-launchpad-token-sale-format-to-lottery-12fd7cc4.md)
 * 2019-03-24 [토르 디지털 개인 정보 보호 프로젝트는 암호 화폐의 기부금을 허용](https://github.com/theyapapa/cryptonews/blob/ko/tor-digital-privacy-project-accepts-donations-in-cryptocurrency-f919fe3f.md)
 * 2019-03-24 [스트리밍 서비스 트 위치는 암호화 지불 옵션을 제거, 레 딧 사용자 보고서](https://github.com/theyapapa/cryptonews/blob/ko/streaming-service-twitch-removes-crypto-payment-options-reddit-user-reports-1ae553b7.md)
 * 2019-03-23 [허용: 1 년에 7.5%의 다이 스타 레 장 안정성 비용 인상에 찬성 하는 마 케르 다](https://github.com/theyapapa/cryptonews/blob/ko/accepted-makerdao-vote-to-raise-dai-stablecoin-stability-fee-by-4-to-75-per-year-7e0f8922.md)
