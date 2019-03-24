@@ -1,3 +1,4 @@
+* 2019-03-24 [Servicio de streaming Twitch elimina las opciones de pago Crypto, informes de usuario de Reddit](https://github.com/theyapapa/cryptonews/blob/es/streaming-service-twitch-removes-crypto-payment-options-reddit-user-reports-1ae553b7.md)
 * 2019-03-23 [Aceptado: MakerDAO vote para elevar la tasa de estabilidad de la DAI Stablecoin en un 4% a 7,5% por año](https://github.com/theyapapa/cryptonews/blob/es/accepted-makerdao-vote-to-raise-dai-stablecoin-stability-fee-by-4-to-75-per-year-7e0f8922.md)
 * 2019-03-23 [Bitcoin se queda más de $4.000 como los mejores Cryptos ver ligeras pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-stays-over-4-000-as-top-cryptos-see-slight-losses-ea62e8c4.md)
 * 2019-03-23 [India: detención de la policía cuatro sospechosos más en supuesta estafa Crypto $14 millones](https://github.com/theyapapa/cryptonews/blob/es/india-police-arrest-four-more-suspects-in-alleged-14-million-crypto-scam-74b626be.md)
