@@ -1,3 +1,4 @@
+* 2019-03-25 [El vino, las montañas y las plataformas mineras: Georgia como una potencia cripto](https://github.com/theyapapa/cryptonews/blob/es/wine-mountains-and-mining-rigs-georgia-as-a-crypto-powerhouse-b829478b.md)
 * 2019-03-25 [Bitmain IPO presentación de la solicitud para expirar inminentemente en ausencia de la audiencia del Comité de HKEx](https://github.com/theyapapa/cryptonews/blob/es/bitmain-ipo-filing-set-to-imminently-expire-in-absence-of-hkex-committee-hearing-b294643e.md)
 * 2019-03-24 [Los cambios en los términos de las reservas de Tether plantean nuevas inquietudes](https://github.com/theyapapa/cryptonews/blob/es/changes-to-tethers-terms-of-reserves-raises-fresh-concerns-7e403857.md)
 * 2019-03-24 [Binance Changes Launchpad token de venta formato a lotería](https://github.com/theyapapa/cryptonews/blob/es/binance-changes-launchpad-token-sale-format-to-lottery-12fd7cc4.md)
