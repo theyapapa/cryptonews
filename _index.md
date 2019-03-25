@@ -1,3 +1,4 @@
+* 2019-03-25 [CME 그룹 CEO 테리 더 피: 규제 기관에 대 한 비트 코인 적자 문제 없음](https://github.com/theyapapa/cryptonews/blob/ko/cme-group-ceo-terry-duffy-no-bitcoin-deficit-a-problem-for-regulators-72e0ad45.md)
 * 2019-03-25 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS, 비트 코인 캐시, 스텔라 코인 스, 카르다노, 트 론: 가격 분석, 3 월 25](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-cardano-tron-price-analysis-march-25-cdfa02d5.md)
 * 2019-03-25 [브로커는 ' 트레이딩 아이디어 ' 도구를 출시 하 여 전문가에 게 암호 화폐에 대 한 인 사이트를 공유 하도록 장려 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/broker-launches-trading-ideas-tool-incentivizing-experts-to-share-insights-on-crypto-df1ba57d.md)
 * 2019-03-25 [전자 상거래 회사 낙천 4 월 암호 화폐 거래소 이름 변경 후 출시](https://github.com/theyapapa/cryptonews/blob/ko/e-commerce-firm-rakuten-readies-cryptocurrency-exchange-for-april-launch-after-name-change-4b01ed45.md)
