@@ -1,3 +1,4 @@
+* 2019-03-25 [Брокер запускает "торговые идеи" инструмент-стимулирование эксперты поделиться Insights на крипто](https://github.com/theyapapa/cryptonews/blob/ru/broker-launches-trading-ideas-tool-incentivizing-experts-to-share-insights-on-crypto-df1ba57d.md)
 * 2019-03-25 [Электронная коммерция фирма Rakuten читает биржу Криптовалют на апрель запуск после изменения имени](https://github.com/theyapapa/cryptonews/blob/ru/e-commerce-firm-rakuten-readies-cryptocurrency-exchange-for-april-launch-after-name-change-4b01ed45.md)
 * 2019-03-25 [Вино, горы и горные вышки: Грузия как крипто-электростанция](https://github.com/theyapapa/cryptonews/blob/ru/wine-mountains-and-mining-rigs-georgia-as-a-crypto-powerhouse-b829478b.md)
 * 2019-03-25 [Bitmain IPO поДача установлен в ближайшее срок исТекает в отсутствие HKEx Комитета слушания](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-ipo-filing-set-to-imminently-expire-in-absence-of-hkex-committee-hearing-b294643e.md)
