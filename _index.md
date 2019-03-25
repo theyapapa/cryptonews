@@ -1,3 +1,4 @@
+* 2019-03-25 [HKEx 위원회 심리의 부재 하에 만기 되는 Bitmain IPO 신고 세트](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-ipo-filing-set-to-imminently-expire-in-absence-of-hkex-committee-hearing-b294643e.md)
 * 2019-03-24 [밧줄의 보유 조건 변경 새로운 우려를 제기](https://github.com/theyapapa/cryptonews/blob/ko/changes-to-tethers-terms-of-reserves-raises-fresh-concerns-7e403857.md)
 * 2019-03-24 [Binance는 복권에 런치 패드 토큰 판매 형식을 변경](https://github.com/theyapapa/cryptonews/blob/ko/binance-changes-launchpad-token-sale-format-to-lottery-12fd7cc4.md)
 * 2019-03-24 [토르 디지털 개인 정보 보호 프로젝트는 암호 화폐의 기부금을 허용](https://github.com/theyapapa/cryptonews/blob/ko/tor-digital-privacy-project-accepts-donations-in-cryptocurrency-f919fe3f.md)
