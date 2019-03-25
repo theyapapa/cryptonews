@@ -1,3 +1,4 @@
+* 2019-03-25 [Bitmain IPO presentación de la solicitud para expirar inminentemente en ausencia de la audiencia del Comité de HKEx](https://github.com/theyapapa/cryptonews/blob/es/bitmain-ipo-filing-set-to-imminently-expire-in-absence-of-hkex-committee-hearing-b294643e.md)
 * 2019-03-24 [Los cambios en los términos de las reservas de Tether plantean nuevas inquietudes](https://github.com/theyapapa/cryptonews/blob/es/changes-to-tethers-terms-of-reserves-raises-fresh-concerns-7e403857.md)
 * 2019-03-24 [Binance Changes Launchpad token de venta formato a lotería](https://github.com/theyapapa/cryptonews/blob/es/binance-changes-launchpad-token-sale-format-to-lottery-12fd7cc4.md)
 * 2019-03-24 [El proyecto de privacidad digital de Tor acepta donaciones en Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/tor-digital-privacy-project-accepts-donations-in-cryptocurrency-f919fe3f.md)
