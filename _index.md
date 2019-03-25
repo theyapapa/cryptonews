@@ -1,3 +1,4 @@
+* 2019-03-25 [전자 상거래 회사 낙천 4 월 암호 화폐 거래소 이름 변경 후 출시](https://github.com/theyapapa/cryptonews/blob/ko/e-commerce-firm-rakuten-readies-cryptocurrency-exchange-for-april-launch-after-name-change-4b01ed45.md)
 * 2019-03-25 [와인, 산, 채광 굴 착 장치: 조지아 암호화 강국으로](https://github.com/theyapapa/cryptonews/blob/ko/wine-mountains-and-mining-rigs-georgia-as-a-crypto-powerhouse-b829478b.md)
 * 2019-03-25 [HKEx 위원회 심리의 부재 하에 만기 되는 Bitmain IPO 신고 세트](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-ipo-filing-set-to-imminently-expire-in-absence-of-hkex-committee-hearing-b294643e.md)
 * 2019-03-24 [밧줄의 보유 조건 변경 새로운 우려를 제기](https://github.com/theyapapa/cryptonews/blob/ko/changes-to-tethers-terms-of-reserves-raises-fresh-concerns-7e403857.md)
