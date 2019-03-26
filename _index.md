@@ -1,3 +1,4 @@
+* 2019-03-26 [허쉬 초콜릿 회사 조인 블록 체인 광고 컨소시엄](https://github.com/theyapapa/cryptonews/blob/ko/hershey-chocolate-company-joins-blockchain-advertising-consortium-a0fdb3bb.md)
 * 2019-03-26 [유튜브는 사고에 의해 비트 코인 지갑에 대 한 악의적 인 광고를 실행 보도](https://github.com/theyapapa/cryptonews/blob/ko/youtube-reportedly-runs-malicious-ad-for-bitcoin-wallet-electrum-by-accident-a5592237.md)
 * 2019-03-26 [미국 오일이 상승 함에 따라 비트 코인이 $4000에 빠진다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-4-000-as-united-states-oil-rises-897d857a.md)
 * 2019-03-26 [고객이 해킹을 의심 하는 동안 암호화 교환 Coinbene 지속적인 유지 보수를 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-coinbene-announces-ongoing-maintenance-while-customers-suspect-hack-b525cf4e.md)
