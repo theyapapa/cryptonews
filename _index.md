@@ -1,3 +1,4 @@
+* 2019-03-26 [미국 오일이 상승 함에 따라 비트 코인이 $4000에 빠진다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-4-000-as-united-states-oil-rises-897d857a.md)
 * 2019-03-26 [고객이 해킹을 의심 하는 동안 암호화 교환 Coinbene 지속적인 유지 보수를 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-coinbene-announces-ongoing-maintenance-while-customers-suspect-hack-b525cf4e.md)
 * 2019-03-26 [플랫폼은 저작권을 보호 하 고 예술가가 생활을 할 수 있도록 유튜브와 스포티 파이에 걸립니다](https://github.com/theyapapa/cryptonews/blob/ko/platform-takes-on-youtube-and-spotify-to-protect-copyright-and-help-artists-make-a-living-de95d8e7.md)
 * 2019-03-26 [3 개월만에 블록 체인 얼라이언스를 형성 하는 대만 개발 협의회](https://github.com/theyapapa/cryptonews/blob/ko/taiwanese-development-council-to-form-blockchain-alliance-in-three-months-d9437422.md)
