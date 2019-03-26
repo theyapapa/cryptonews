@@ -1,3 +1,4 @@
+* 2019-03-26 [Hershey Chocolate Company se une a blockchain Advertising Consortium](https://github.com/theyapapa/cryptonews/blob/es/hershey-chocolate-company-joins-blockchain-advertising-consortium-a0fdb3bb.md)
 * 2019-03-26 [Según informes de YouTube ejecuta anuncio malicioso para Bitcoin monedero Electrum por accidente](https://github.com/theyapapa/cryptonews/blob/es/youtube-reportedly-runs-malicious-ad-for-bitcoin-wallet-electrum-by-accident-a5592237.md)
 * 2019-03-26 [Bitcoin cae bajo $4.000 como Estados Unidos el petróleo aumenta](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-4-000-as-united-states-oil-rises-897d857a.md)
 * 2019-03-26 [Cripto de intercambio Crypto anuncia el mantenimiento continuo mientras que los clientes sospechan hack](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-coinbene-announces-ongoing-maintenance-while-customers-suspect-hack-b525cf4e.md)
