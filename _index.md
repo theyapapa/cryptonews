@@ -1,3 +1,4 @@
+* 2019-03-26 [YouTube сообщается работает вредоносных объявлений для Bitcoin кошелек Электрум случайно](https://github.com/theyapapa/cryptonews/blob/ru/youtube-reportedly-runs-malicious-ad-for-bitcoin-wallet-electrum-by-accident-a5592237.md)
 * 2019-03-26 [Bitcoin падает под $4 000 как нефть США подНимается](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-4-000-as-united-states-oil-rises-897d857a.md)
 * 2019-03-26 [Crypto Exchange Коинбене объявляет о текущем обслуживании в то время как клиенты подозревают Hack](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-coinbene-announces-ongoing-maintenance-while-customers-suspect-hack-b525cf4e.md)
 * 2019-03-26 [Платформа принимает на YouTube и Spotify для защиты авторских прав и помочь художникам зарабатывать на жизнь](https://github.com/theyapapa/cryptonews/blob/ru/platform-takes-on-youtube-and-spotify-to-protect-copyright-and-help-artists-make-a-living-de95d8e7.md)
