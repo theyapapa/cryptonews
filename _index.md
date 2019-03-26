@@ -1,3 +1,4 @@
+* 2019-03-26 [3 개월만에 블록 체인 얼라이언스를 형성 하는 대만 개발 협의회](https://github.com/theyapapa/cryptonews/blob/ko/taiwanese-development-council-to-form-blockchain-alliance-in-three-months-d9437422.md)
 * 2019-03-26 [커뮤니티 주도의 팬-아프리카 블록 체인 표준 조직에서 초안 ICO 가이드라인을 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/community-led-pan-african-blockchain-standards-org-publishes-draft-ico-guidelines-0a82f702.md)
 * 2019-03-26 [Bitmain은 지금-실효 IPO가 확고 하 게 더 투명 하 게 말하고, 새로운 CEO의 임명을 밝혀 냅니다](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-says-now-lapsed-ipo-made-firm-more-transparent-reveals-appointment-of-new-ceo-a00c6b44.md)
 * 2019-03-25 [쿼드 리그는 결코 암호 키를 잃어버린 적이 있다 버뮤다에 있었다, 프리미어 말한다](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-would-never-have-lost-crypto-keys-had-it-been-in-bermuda-says-premier-d4523a5e.md)
