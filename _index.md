@@ -1,3 +1,4 @@
+* 2019-03-25 [쿼드 리그는 결코 암호 키를 잃어버린 적이 있다 버뮤다에 있었다, 프리미어 말한다](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-would-never-have-lost-crypto-keys-had-it-been-in-bermuda-says-premier-d4523a5e.md)
 * 2019-03-25 [암호화 교환 OKEx는 자체 블록 체인을 개발 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-okex-is-developing-its-own-blockchain-platform-e2f9fa60.md)
 * 2019-03-25 [CME 그룹 CEO 테리 더 피: 규제 기관에 대 한 비트 코인 적자 문제 없음](https://github.com/theyapapa/cryptonews/blob/ko/cme-group-ceo-terry-duffy-no-bitcoin-deficit-a-problem-for-regulators-72e0ad45.md)
 * 2019-03-25 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS, 비트 코인 캐시, 스텔라 코인 스, 카르다노, 트 론: 가격 분석, 3 월 25](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-cardano-tron-price-analysis-march-25-cdfa02d5.md)
