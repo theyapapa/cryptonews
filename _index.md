@@ -1,3 +1,4 @@
+* 2019-03-26 [Bitcoin cae bajo $4.000 como Estados Unidos el petróleo aumenta](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-4-000-as-united-states-oil-rises-897d857a.md)
 * 2019-03-26 [Cripto de intercambio Crypto anuncia el mantenimiento continuo mientras que los clientes sospechan hack](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-coinbene-announces-ongoing-maintenance-while-customers-suspect-hack-b525cf4e.md)
 * 2019-03-26 [Plataforma toma en YouTube y Spotify para proteger el derecho de autor y ayudar a los artistas a ganarse la vida](https://github.com/theyapapa/cryptonews/blob/es/platform-takes-on-youtube-and-spotify-to-protect-copyright-and-help-artists-make-a-living-de95d8e7.md)
 * 2019-03-26 [Consejo de desarrollo taiwanés para formar Alianza blockchain en tres meses](https://github.com/theyapapa/cryptonews/blob/es/taiwanese-development-council-to-form-blockchain-alliance-in-three-months-d9437422.md)
