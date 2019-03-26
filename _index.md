@@ -1,3 +1,4 @@
+* 2019-03-26 [Bitmain dice ahora-IPO Lapsed hecho firme más transparente, revela nombramiento de nuevo CEO](https://github.com/theyapapa/cryptonews/blob/es/bitmain-says-now-lapsed-ipo-made-firm-more-transparent-reveals-appointment-of-new-ceo-a00c6b44.md)
 * 2019-03-25 [QuadrigaCX nunca habría perdido Crypto Keys si hubiera estado en Bermuda, dice Premier](https://github.com/theyapapa/cryptonews/blob/es/quadrigacx-would-never-have-lost-crypto-keys-had-it-been-in-bermuda-says-premier-d4523a5e.md)
 * 2019-03-25 [Crypto Exchange OKEx está desarrollando su propia blockchain](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-okex-is-developing-its-own-blockchain-platform-e2f9fa60.md)
 * 2019-03-25 [Terry Duffy, CEO de CME Group: sin déficit de Bitcoin un problema para los reguladores](https://github.com/theyapapa/cryptonews/blob/es/cme-group-ceo-terry-duffy-no-bitcoin-deficit-a-problem-for-regulators-72e0ad45.md)
