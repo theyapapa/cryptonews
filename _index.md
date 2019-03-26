@@ -1,3 +1,4 @@
+* 2019-03-26 [La organización de normas de blockchain panafricana dirigida por la comunidad publica pautas de ICO de borrador](https://github.com/theyapapa/cryptonews/blob/es/community-led-pan-african-blockchain-standards-org-publishes-draft-ico-guidelines-0a82f702.md)
 * 2019-03-26 [Bitmain dice ahora-IPO Lapsed hecho firme más transparente, revela nombramiento de nuevo CEO](https://github.com/theyapapa/cryptonews/blob/es/bitmain-says-now-lapsed-ipo-made-firm-more-transparent-reveals-appointment-of-new-ceo-a00c6b44.md)
 * 2019-03-25 [QuadrigaCX nunca habría perdido Crypto Keys si hubiera estado en Bermuda, dice Premier](https://github.com/theyapapa/cryptonews/blob/es/quadrigacx-would-never-have-lost-crypto-keys-had-it-been-in-bermuda-says-premier-d4523a5e.md)
 * 2019-03-25 [Crypto Exchange OKEx está desarrollando su propia blockchain](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-okex-is-developing-its-own-blockchain-platform-e2f9fa60.md)
