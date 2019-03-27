@@ -1,3 +1,4 @@
+* 2019-03-27 [TechCrunch основатель цифровой актив фирма приОбретает крипто-ориентированных частного фонда](https://github.com/theyapapa/cryptonews/blob/ru/techcrunch-founders-digital-asset-firm-acquires-crypto-focused-private-fund-5b09647e.md)
 * 2019-03-27 [Crypto Markets ралли, в то время как палладий и нефти увидеть снижение](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-rally-while-palladium-and-oil-see-decline-1050ace5.md)
 * 2019-03-27 [ДоЧерняя компания Тагоми Holdings получает BitLicense из Нью-Йорка DFS](https://github.com/theyapapa/cryptonews/blob/ru/tagomi-holdings-subsidiary-gets-bitlicense-from-new-york-dfs-863c163c.md)
 * 2019-03-27 [Huobi США партнер Hbus формирует новую группу для запуска институциональных продуктов](https://github.com/theyapapa/cryptonews/blob/ru/huobis-us-partner-hbus-forms-new-group-to-launch-institutional-products-71bc420e.md)
