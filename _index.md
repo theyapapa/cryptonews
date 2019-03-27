@@ -1,3 +1,4 @@
+* 2019-03-27 [London Metals Exchange respalda la iniciativa de blockchain internacional: FT](https://github.com/theyapapa/cryptonews/blob/es/london-metals-exchange-endorses-international-blockchain-initiative-ft-b4d7f6c0.md)
 * 2019-03-27 [Coinbase para regalar más de $100 millones en XLM a los usuarios que estudian el protocolo estelar](https://github.com/theyapapa/cryptonews/blob/es/coinbase-to-give-away-over-100-million-in-xlm-to-users-who-study-stellar-protocol-2615059b.md)
 * 2019-03-27 [Pantera capital Nears $175 millones objetivo para el tercer fondo de inversión](https://github.com/theyapapa/cryptonews/blob/es/pantera-capital-nears-175-million-target-for-third-venture-fund-6a33d3e8.md)
 * 2019-03-27 [La realidad blockchain no coincide con el anuncio, dice el funcionario del Banco Mundial](https://github.com/theyapapa/cryptonews/blob/es/blockchain-reality-does-not-match-advertisement-says-world-bank-official-719697df.md)
