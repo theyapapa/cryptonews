@@ -1,3 +1,4 @@
+* 2019-03-27 [블록 체인 현실은 광고와 일치 하지 않습니다, 세계 은행 공식 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-reality-does-not-match-advertisement-says-world-bank-official-719697df.md)
 * 2019-03-26 [9 카운트에 기소 된 CabbageTech 암호화 Fraudster 혐의](https://github.com/theyapapa/cryptonews/blob/ko/alleged-cabbagetech-crypto-fraudster-indicted-on-nine-counts-7f5da1f7.md)
 * 2019-03-26 [보고서: 라자루스 해커 그룹은 새로운 방법을 채택 하 고, 암호화를 목표로 계속 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-lazarus-hacker-group-adopts-new-methods-continues-targeting-crypto-b8bea906.md)
 * 2019-03-26 [허쉬 초콜릿 회사 조인 블록 체인 광고 컨소시엄](https://github.com/theyapapa/cryptonews/blob/ko/hershey-chocolate-company-joins-blockchain-advertising-consortium-a0fdb3bb.md)
