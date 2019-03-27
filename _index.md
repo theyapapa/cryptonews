@@ -1,3 +1,4 @@
+* 2019-03-27 [판 테라 캐피탈에 가까워 $1억7500만 제 3 벤처 펀드 대상](https://github.com/theyapapa/cryptonews/blob/ko/pantera-capital-nears-175-million-target-for-third-venture-fund-6a33d3e8.md)
 * 2019-03-27 [블록 체인 현실은 광고와 일치 하지 않습니다, 세계 은행 공식 말한다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-reality-does-not-match-advertisement-says-world-bank-official-719697df.md)
 * 2019-03-26 [9 카운트에 기소 된 CabbageTech 암호화 Fraudster 혐의](https://github.com/theyapapa/cryptonews/blob/ko/alleged-cabbagetech-crypto-fraudster-indicted-on-nine-counts-7f5da1f7.md)
 * 2019-03-26 [보고서: 라자루스 해커 그룹은 새로운 방법을 채택 하 고, 암호화를 목표로 계속 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-lazarus-hacker-group-adopts-new-methods-continues-targeting-crypto-b8bea906.md)
