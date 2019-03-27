@@ -1,3 +1,4 @@
+* 2019-03-26 [9 카운트에 기소 된 CabbageTech 암호화 Fraudster 혐의](https://github.com/theyapapa/cryptonews/blob/ko/alleged-cabbagetech-crypto-fraudster-indicted-on-nine-counts-7f5da1f7.md)
 * 2019-03-26 [보고서: 라자루스 해커 그룹은 새로운 방법을 채택 하 고, 암호화를 목표로 계속 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-lazarus-hacker-group-adopts-new-methods-continues-targeting-crypto-b8bea906.md)
 * 2019-03-26 [허쉬 초콜릿 회사 조인 블록 체인 광고 컨소시엄](https://github.com/theyapapa/cryptonews/blob/ko/hershey-chocolate-company-joins-blockchain-advertising-consortium-a0fdb3bb.md)
 * 2019-03-26 [유튜브는 사고에 의해 비트 코인 지갑에 대 한 악의적 인 광고를 실행 보도](https://github.com/theyapapa/cryptonews/blob/ko/youtube-reportedly-runs-malicious-ad-for-bitcoin-wallet-electrum-by-accident-a5592237.md)
