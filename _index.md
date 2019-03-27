@@ -1,3 +1,4 @@
+* 2019-03-27 [La subsidiaria de Tagomi Holdings obtiene BitLicense de New York DFS](https://github.com/theyapapa/cryptonews/blob/es/tagomi-holdings-subsidiary-gets-bitlicense-from-new-york-dfs-863c163c.md)
 * 2019-03-27 [El socio estadounidense de Huobi, Hbus, forma un nuevo grupo para lanzar productos institucionales](https://github.com/theyapapa/cryptonews/blob/es/huobis-us-partner-hbus-forms-new-group-to-launch-institutional-products-71bc420e.md)
 * 2019-03-27 [London Metals Exchange respalda la iniciativa de blockchain internacional: FT](https://github.com/theyapapa/cryptonews/blob/es/london-metals-exchange-endorses-international-blockchain-initiative-ft-b4d7f6c0.md)
 * 2019-03-27 [Coinbase para regalar más de $100 millones en XLM a los usuarios que estudian el protocolo estelar](https://github.com/theyapapa/cryptonews/blob/es/coinbase-to-give-away-over-100-million-in-xlm-to-users-who-study-stellar-protocol-2615059b.md)
