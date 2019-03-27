@@ -1,3 +1,4 @@
+* 2019-03-26 [Presunto estafador cripto CabbageTech acusado en nueve cargos](https://github.com/theyapapa/cryptonews/blob/es/alleged-cabbagetech-crypto-fraudster-indicted-on-nine-counts-7f5da1f7.md)
 * 2019-03-26 [Informe: Lazarus grupo de hackers adopta nuevos métodos, continúa la segmentación Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-lazarus-hacker-group-adopts-new-methods-continues-targeting-crypto-b8bea906.md)
 * 2019-03-26 [Hershey Chocolate Company se une a blockchain Advertising Consortium](https://github.com/theyapapa/cryptonews/blob/es/hershey-chocolate-company-joins-blockchain-advertising-consortium-a0fdb3bb.md)
 * 2019-03-26 [Según informes de YouTube ejecuta anuncio malicioso para Bitcoin monedero Electrum por accidente](https://github.com/theyapapa/cryptonews/blob/es/youtube-reportedly-runs-malicious-ad-for-bitcoin-wallet-electrum-by-accident-a5592237.md)
