@@ -1,3 +1,4 @@
+* 2019-03-27 [테크 크런치 설립자의 디지털 자산 회사는 암호화 중심의 개인 펀드를 취득](https://github.com/theyapapa/cryptonews/blob/ko/techcrunch-founders-digital-asset-firm-acquires-crypto-focused-private-fund-5b09647e.md)
 * 2019-03-27 [암호화 시장 랠리, 팔라듐 및 오일 감소 참조 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-rally-while-palladium-and-oil-see-decline-1050ace5.md)
 * 2019-03-27 [Tagomi 홀딩스의 자회사는 뉴욕 DFS에서 BitLicense를 얻습니다.](https://github.com/theyapapa/cryptonews/blob/ko/tagomi-holdings-subsidiary-gets-bitlicense-from-new-york-dfs-863c163c.md)
 * 2019-03-27 [Huobi의 미국 파트너 Hbus는 기관 제품을 시작 하는 새로운 그룹을 형성 합니다](https://github.com/theyapapa/cryptonews/blob/ko/huobis-us-partner-hbus-forms-new-group-to-launch-institutional-products-71bc420e.md)
