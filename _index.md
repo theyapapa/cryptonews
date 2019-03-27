@@ -1,3 +1,4 @@
+* 2019-03-26 [Доклад: Лазарь хакер группа принимает новые методы, продолжает таргетинг Crypto](https://github.com/theyapapa/cryptonews/blob/ru/report-lazarus-hacker-group-adopts-new-methods-continues-targeting-crypto-b8bea906.md)
 * 2019-03-26 [Херши шоколад компания приСоединяется Блокчейн рекламный консорциум](https://github.com/theyapapa/cryptonews/blob/ru/hershey-chocolate-company-joins-blockchain-advertising-consortium-a0fdb3bb.md)
 * 2019-03-26 [YouTube сообщается работает вредоносных объявлений для Bitcoin кошелек Электрум случайно](https://github.com/theyapapa/cryptonews/blob/ru/youtube-reportedly-runs-malicious-ad-for-bitcoin-wallet-electrum-by-accident-a5592237.md)
 * 2019-03-26 [Bitcoin падает под $4 000 как нефть США подНимается](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-4-000-as-united-states-oil-rises-897d857a.md)
