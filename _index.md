@@ -1,3 +1,4 @@
+* 2019-03-27 [Tagomi 홀딩스의 자회사는 뉴욕 DFS에서 BitLicense를 얻습니다.](https://github.com/theyapapa/cryptonews/blob/ko/tagomi-holdings-subsidiary-gets-bitlicense-from-new-york-dfs-863c163c.md)
 * 2019-03-27 [Huobi의 미국 파트너 Hbus는 기관 제품을 시작 하는 새로운 그룹을 형성 합니다](https://github.com/theyapapa/cryptonews/blob/ko/huobis-us-partner-hbus-forms-new-group-to-launch-institutional-products-71bc420e.md)
 * 2019-03-27 [런던 금속 거래소 국제 블록 체인 이니셔티브: FT](https://github.com/theyapapa/cryptonews/blob/ko/london-metals-exchange-endorses-international-blockchain-initiative-ft-b4d7f6c0.md)
 * 2019-03-27 [Coinbase는 스텔라 프로토콜을 공부 하는 사용자에 게 XLM에서 $1억 이상 포기](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-to-give-away-over-100-million-in-xlm-to-users-who-study-stellar-protocol-2615059b.md)
