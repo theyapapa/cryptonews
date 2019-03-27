@@ -1,3 +1,4 @@
+* 2019-03-26 [Informe: Lazarus grupo de hackers adopta nuevos métodos, continúa la segmentación Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-lazarus-hacker-group-adopts-new-methods-continues-targeting-crypto-b8bea906.md)
 * 2019-03-26 [Hershey Chocolate Company se une a blockchain Advertising Consortium](https://github.com/theyapapa/cryptonews/blob/es/hershey-chocolate-company-joins-blockchain-advertising-consortium-a0fdb3bb.md)
 * 2019-03-26 [Según informes de YouTube ejecuta anuncio malicioso para Bitcoin monedero Electrum por accidente](https://github.com/theyapapa/cryptonews/blob/es/youtube-reportedly-runs-malicious-ad-for-bitcoin-wallet-electrum-by-accident-a5592237.md)
 * 2019-03-26 [Bitcoin cae bajo $4.000 como Estados Unidos el petróleo aumenta](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-4-000-as-united-states-oil-rises-897d857a.md)
