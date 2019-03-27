@@ -1,3 +1,4 @@
+* 2019-03-27 [Huobi США партнер Hbus формирует новую группу для запуска институциональных продуктов](https://github.com/theyapapa/cryptonews/blob/ru/huobis-us-partner-hbus-forms-new-group-to-launch-institutional-products-71bc420e.md)
 * 2019-03-27 [Лондонская биржа металлов одобрила Международную Блокчейн-инициативу: FT](https://github.com/theyapapa/cryptonews/blob/ru/london-metals-exchange-endorses-international-blockchain-initiative-ft-b4d7f6c0.md)
 * 2019-03-27 [Coinbase для того чтобы дать прочь над $100 000 000 в XLM к потребителям которые изучают звездный протокол](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-to-give-away-over-100-million-in-xlm-to-users-who-study-stellar-protocol-2615059b.md)
 * 2019-03-27 [Пантера капитал приближается к $175 000 000 целевой фонд для третьего венчурного фонда](https://github.com/theyapapa/cryptonews/blob/ru/pantera-capital-nears-175-million-target-for-third-venture-fund-6a33d3e8.md)
