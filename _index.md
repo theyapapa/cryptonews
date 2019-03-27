@@ -1,3 +1,4 @@
+* 2019-03-27 [Coinbase для того чтобы дать прочь над $100 000 000 в XLM к потребителям которые изучают звездный протокол](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-to-give-away-over-100-million-in-xlm-to-users-who-study-stellar-protocol-2615059b.md)
 * 2019-03-27 [Пантера капитал приближается к $175 000 000 целевой фонд для третьего венчурного фонда](https://github.com/theyapapa/cryptonews/blob/ru/pantera-capital-nears-175-million-target-for-third-venture-fund-6a33d3e8.md)
 * 2019-03-27 [Блокчейн-реальность не совпадает с рекламой, говорит официальный Всемирный банк](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-reality-does-not-match-advertisement-says-world-bank-official-719697df.md)
 * 2019-03-26 [Предполагаемый Каббажетеч Crypto мошенник предъявлено обвинение по девяти графов](https://github.com/theyapapa/cryptonews/blob/ru/alleged-cabbagetech-crypto-fraudster-indicted-on-nine-counts-7f5da1f7.md)
