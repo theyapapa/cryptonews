@@ -1,3 +1,4 @@
+* 2019-03-27 [Pantera capital Nears $175 millones objetivo para el tercer fondo de inversión](https://github.com/theyapapa/cryptonews/blob/es/pantera-capital-nears-175-million-target-for-third-venture-fund-6a33d3e8.md)
 * 2019-03-27 [La realidad blockchain no coincide con el anuncio, dice el funcionario del Banco Mundial](https://github.com/theyapapa/cryptonews/blob/es/blockchain-reality-does-not-match-advertisement-says-world-bank-official-719697df.md)
 * 2019-03-26 [Presunto estafador cripto CabbageTech acusado en nueve cargos](https://github.com/theyapapa/cryptonews/blob/es/alleged-cabbagetech-crypto-fraudster-indicted-on-nine-counts-7f5da1f7.md)
 * 2019-03-26 [Informe: Lazarus grupo de hackers adopta nuevos métodos, continúa la segmentación Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-lazarus-hacker-group-adopts-new-methods-continues-targeting-crypto-b8bea906.md)
