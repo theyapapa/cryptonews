@@ -1,3 +1,4 @@
+* 2019-03-28 [Las tarjetas de regalo Crypto ahora se pueden usar para reservaciones en Airbnb](https://github.com/theyapapa/cryptonews/blob/es/crypto-gift-cards-can-now-be-used-for-reservations-on-airbnb-858dd452.md)
 * 2019-03-28 [India usar blockchain para mejorar la cadena de suministro de café](https://github.com/theyapapa/cryptonews/blob/es/india-to-use-blockchain-to-improve-coffee-supply-chain-152a0590.md)
 * 2019-03-28 [Problema de fusión de Crypto y lo que se puede hacer cuando M&As van mal](https://github.com/theyapapa/cryptonews/blob/es/cryptos-merger-problem-and-what-can-be-done-when-mas-go-wrong-ab993fe9.md)
 * 2019-03-28 [CEOs de MasterCard y Wells Fargo CONCUR sobre el potencial a largo plazo de blockchain](https://github.com/theyapapa/cryptonews/blob/es/ceos-of-mastercard-and-wells-fargo-concur-on-blockchains-long-term-potential-54e49c6c.md)
