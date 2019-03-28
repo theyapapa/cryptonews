@@ -1,3 +1,4 @@
+* 2019-03-28 [인도, 블록 체인을 사용 하 여 커피 공급망 개선](https://github.com/theyapapa/cryptonews/blob/ko/india-to-use-blockchain-to-improve-coffee-supply-chain-152a0590.md)
 * 2019-03-28 [암호화의 합병 문제 및 M&As 잘못 될 때 수행 할 수 있는 작업](https://github.com/theyapapa/cryptonews/blob/ko/cryptos-merger-problem-and-what-can-be-done-when-mas-go-wrong-ab993fe9.md)
 * 2019-03-28 [마스터 카드와 웰 스 파고의 Ceo는 블록 체인의 장기적인 잠재력을](https://github.com/theyapapa/cryptonews/blob/ko/ceos-of-mastercard-and-wells-fargo-concur-on-blockchains-long-term-potential-54e49c6c.md)
 * 2019-03-28 [OKEx 설립자는 우리를 신뢰 회사와 확인 그룹의 파트너십을 계시, Stablecoin을 시작 하는 계획](https://github.com/theyapapa/cryptonews/blob/ko/okex-founder-reveals-ok-groups-partnership-with-us-trust-firm-plan-to-launch-stablecoin-22cffa34.md)
