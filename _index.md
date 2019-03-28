@@ -1,3 +1,4 @@
+* 2019-03-27 [Японский суд оправдывает человека, обвиняемого в Криптожаккинг](https://github.com/theyapapa/cryptonews/blob/ru/japanese-court-acquits-man-accused-of-cryptojacking-3fcf76f2.md)
 * 2019-03-27 [TechCrunch основатель цифровой актив фирма приОбретает крипто-ориентированных частного фонда](https://github.com/theyapapa/cryptonews/blob/ru/techcrunch-founders-digital-asset-firm-acquires-crypto-focused-private-fund-5b09647e.md)
 * 2019-03-27 [Crypto Markets ралли, в то время как палладий и нефти увидеть снижение](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-rally-while-palladium-and-oil-see-decline-1050ace5.md)
 * 2019-03-27 [ДоЧерняя компания Тагоми Holdings получает BitLicense из Нью-Йорка DFS](https://github.com/theyapapa/cryptonews/blob/ru/tagomi-holdings-subsidiary-gets-bitlicense-from-new-york-dfs-863c163c.md)
