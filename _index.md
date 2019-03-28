@@ -1,3 +1,4 @@
+* 2019-03-28 [Крипто подарочные карты теперь могут быть использованы для бронирования на Airbnb](https://github.com/theyapapa/cryptonews/blob/ru/crypto-gift-cards-can-now-be-used-for-reservations-on-airbnb-858dd452.md)
 * 2019-03-28 [Индия использует Блокчейн для улучшения цепочки поставок кофе](https://github.com/theyapapa/cryptonews/blob/ru/india-to-use-blockchain-to-improve-coffee-supply-chain-152a0590.md)
 * 2019-03-28 [Crypto слияние проблема и что можно сделать, когда М&АС пойти не так](https://github.com/theyapapa/cryptonews/blob/ru/cryptos-merger-problem-and-what-can-be-done-when-mas-go-wrong-ab993fe9.md)
 * 2019-03-28 [Руководители компаний MasterCard и Уэллс Фарго согласны с долгосрочным потенциалом Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/ceos-of-mastercard-and-wells-fargo-concur-on-blockchains-long-term-potential-54e49c6c.md)
