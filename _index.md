@@ -1,3 +1,4 @@
+* 2019-03-28 [La plataforma de finanzas comerciales de Corda blockchain Marco Polo ve las primeras transacciones](https://github.com/theyapapa/cryptonews/blob/es/corda-blockchain-trade-finance-platform-marco-polo-sees-first-transactions-a69dd4f2.md)
 * 2019-03-28 [El regulador de valores de España dice que no ha autorizado ninguna entidad para operar ICOs](https://github.com/theyapapa/cryptonews/blob/es/spains-securities-regulator-says-it-has-not-authorized-any-entities-to-operate-icos-7f05b43d.md)
 * 2019-03-27 [La corte japonesa Acquits hombre acusado de Cryptojacking](https://github.com/theyapapa/cryptonews/blob/es/japanese-court-acquits-man-accused-of-cryptojacking-3fcf76f2.md)
 * 2019-03-27 [La firma de activos digitales del fundador de TechCrunch adquiere el fondo privado de criptografía centrada](https://github.com/theyapapa/cryptonews/blob/es/techcrunch-founders-digital-asset-firm-acquires-crypto-focused-private-fund-5b09647e.md)
