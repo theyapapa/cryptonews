@@ -1,3 +1,4 @@
+* 2019-03-28 [스페인의 증권 레 귤 레이 터는 Ico 운영을 위한 모든 엔티티를 승인 하지 않았습니다.](https://github.com/theyapapa/cryptonews/blob/ko/spains-securities-regulator-says-it-has-not-authorized-any-entities-to-operate-icos-7f05b43d.md)
 * 2019-03-27 [일본의 법원은 사람을 비난 하는 크립 토](https://github.com/theyapapa/cryptonews/blob/ko/japanese-court-acquits-man-accused-of-cryptojacking-3fcf76f2.md)
 * 2019-03-27 [테크 크런치 설립자의 디지털 자산 회사는 암호화 중심의 개인 펀드를 취득](https://github.com/theyapapa/cryptonews/blob/ko/techcrunch-founders-digital-asset-firm-acquires-crypto-focused-private-fund-5b09647e.md)
 * 2019-03-27 [암호화 시장 랠리, 팔라듐 및 오일 감소 참조 하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-rally-while-palladium-and-oil-see-decline-1050ace5.md)
