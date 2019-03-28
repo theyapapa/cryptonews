@@ -1,3 +1,4 @@
+* 2019-03-28 [Индия использует Блокчейн для улучшения цепочки поставок кофе](https://github.com/theyapapa/cryptonews/blob/ru/india-to-use-blockchain-to-improve-coffee-supply-chain-152a0590.md)
 * 2019-03-28 [Crypto слияние проблема и что можно сделать, когда М&АС пойти не так](https://github.com/theyapapa/cryptonews/blob/ru/cryptos-merger-problem-and-what-can-be-done-when-mas-go-wrong-ab993fe9.md)
 * 2019-03-28 [Руководители компаний MasterCard и Уэллс Фарго согласны с долгосрочным потенциалом Блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/ceos-of-mastercard-and-wells-fargo-concur-on-blockchains-long-term-potential-54e49c6c.md)
 * 2019-03-28 [Окекс основатель показывает ОК группы партнерство с США Трастовая фирма, план по запуску Stablecoin](https://github.com/theyapapa/cryptonews/blob/ru/okex-founder-reveals-ok-groups-partnership-with-us-trust-firm-plan-to-launch-stablecoin-22cffa34.md)
