@@ -1,3 +1,4 @@
+* 2019-03-28 [코 다 블록 체인 거래 금융 플랫폼 마르코 폴로는 첫 번째 거래를 보고](https://github.com/theyapapa/cryptonews/blob/ko/corda-blockchain-trade-finance-platform-marco-polo-sees-first-transactions-a69dd4f2.md)
 * 2019-03-28 [스페인의 증권 레 귤 레이 터는 Ico 운영을 위한 모든 엔티티를 승인 하지 않았습니다.](https://github.com/theyapapa/cryptonews/blob/ko/spains-securities-regulator-says-it-has-not-authorized-any-entities-to-operate-icos-7f05b43d.md)
 * 2019-03-27 [일본의 법원은 사람을 비난 하는 크립 토](https://github.com/theyapapa/cryptonews/blob/ko/japanese-court-acquits-man-accused-of-cryptojacking-3fcf76f2.md)
 * 2019-03-27 [테크 크런치 설립자의 디지털 자산 회사는 암호화 중심의 개인 펀드를 취득](https://github.com/theyapapa/cryptonews/blob/ko/techcrunch-founders-digital-asset-firm-acquires-crypto-focused-private-fund-5b09647e.md)
