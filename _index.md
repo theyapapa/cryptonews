@@ -1,3 +1,4 @@
+* 2019-03-28 [Окекс основатель показывает ОК группы партнерство с США Трастовая фирма, план по запуску Stablecoin](https://github.com/theyapapa/cryptonews/blob/ru/okex-founder-reveals-ok-groups-partnership-with-us-trust-firm-plan-to-launch-stablecoin-22cffa34.md)
 * 2019-03-28 [Корда Блокчейн Торгово-финансовая платформа Марко Поло видит первые транзакции](https://github.com/theyapapa/cryptonews/blob/ru/corda-blockchain-trade-finance-platform-marco-polo-sees-first-transactions-a69dd4f2.md)
 * 2019-03-28 [Регулятор ценных бумаг Испании говорит, что он не санкционировал каких-либо субъектов для работы ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/spains-securities-regulator-says-it-has-not-authorized-any-entities-to-operate-icos-7f05b43d.md)
 * 2019-03-27 [Японский суд оправдывает человека, обвиняемого в Криптожаккинг](https://github.com/theyapapa/cryptonews/blob/ru/japanese-court-acquits-man-accused-of-cryptojacking-3fcf76f2.md)
