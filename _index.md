@@ -1,3 +1,4 @@
+* 2019-03-29 [Bitmain объявляет дату запуска для Antminer S17 серии ](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-announces-launch-date-for-antminer-s17-series-1b357d9f.md)
 * 2019-03-29 [Гонконгский регулятор ценных бумаг выДает подробные инструкции по обеспечению токенов безопасности](https://github.com/theyapapa/cryptonews/blob/ru/hong-kongs-securities-regulator-issues-detailed-guidance-for-security-token-offerings-658c787e.md)
 * 2019-03-29 [Coinbase опека начинает ставку услуги с Тезос, создатель следовать](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-custody-begins-staking-services-with-tezos-maker-to-follow-0f751d46.md)
 * 2019-03-29 [Топ США энергии провайдера Ameren глаза Блокчейн обещание в чистой энергии Boost](https://github.com/theyapapa/cryptonews/blob/ru/top-us-energy-provider-ameren-eyes-blockchain-promise-in-clean-energy-boost-7c59c8b2.md)
