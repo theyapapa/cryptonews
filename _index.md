@@ -1,3 +1,4 @@
+* 2019-03-28 [Canadá: Ontario Town aprueba el programa piloto para pagar impuestos sobre la propiedad con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/canada-ontario-town-approves-pilot-program-for-paying-property-taxes-with-bitcoin-be329c87.md)
 * 2019-03-28 [Las tarjetas de regalo Crypto ahora se pueden usar para reservaciones en Airbnb](https://github.com/theyapapa/cryptonews/blob/es/crypto-gift-cards-can-now-be-used-for-reservations-on-airbnb-858dd452.md)
 * 2019-03-28 [India usar blockchain para mejorar la cadena de suministro de café](https://github.com/theyapapa/cryptonews/blob/es/india-to-use-blockchain-to-improve-coffee-supply-chain-152a0590.md)
 * 2019-03-28 [Problema de fusión de Crypto y lo que se puede hacer cuando M&As van mal](https://github.com/theyapapa/cryptonews/blob/es/cryptos-merger-problem-and-what-can-be-done-when-mas-go-wrong-ab993fe9.md)
