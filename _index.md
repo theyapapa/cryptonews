@@ -1,3 +1,4 @@
+* 2019-03-29 [Universal Protocol Alliance para poner en marcha Stablecoin euro-pegged en abril](https://github.com/theyapapa/cryptonews/blob/es/universal-protocol-alliance-to-launch-euro-pegged-stablecoin-in-april-fe4c4271.md)
 * 2019-03-29 [Ministro de Hacienda de la Argentina: la adopción Crypto podría reducir la demanda de dólares estadounidenses](https://github.com/theyapapa/cryptonews/blob/es/argentinas-dep-finance-minister-crypto-adoption-could-reduce-demand-for-us-dollar-336d36d5.md)
 * 2019-03-29 [Bitmain anuncia la fecha de lanzamiento para la serie de Antminer S17 ](https://github.com/theyapapa/cryptonews/blob/es/bitmain-announces-launch-date-for-antminer-s17-series-1b357d9f.md)
 * 2019-03-29 [El regulador de valores de Hong Kong emite una guía detallada para las ofertas de tokens de seguridad](https://github.com/theyapapa/cryptonews/blob/es/hong-kongs-securities-regulator-issues-detailed-guidance-for-security-token-offerings-658c787e.md)
