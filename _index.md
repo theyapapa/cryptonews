@@ -1,3 +1,4 @@
+* 2019-03-29 [4 월에 유로화를 시작 하는 범용 프로토콜 얼라이언스](https://github.com/theyapapa/cryptonews/blob/ko/universal-protocol-alliance-to-launch-euro-pegged-stablecoin-in-april-fe4c4271.md)
 * 2019-03-29 [아르헨티나의 재정 부장관: 암호화 채택으로 미국 달러 수요 감소](https://github.com/theyapapa/cryptonews/blob/ko/argentinas-dep-finance-minister-crypto-adoption-could-reduce-demand-for-us-dollar-336d36d5.md)
 * 2019-03-29 [Bitmain은 Antminer S17 시리즈에 대 한 출시 날짜를 발표 ](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-announces-launch-date-for-antminer-s17-series-1b357d9f.md)
 * 2019-03-29 [홍콩 증권 레 귤 레이 터는 보안 토큰 오퍼링에 대 한 자세한 지침을 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hong-kongs-securities-regulator-issues-detailed-guidance-for-security-token-offerings-658c787e.md)
