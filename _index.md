@@ -1,3 +1,4 @@
+* 2019-03-28 [Informe: los fiscales caen apelación contra la absolución de embezzlement del CEO de Mt. GOX](https://github.com/theyapapa/cryptonews/blob/es/report-prosecutors-drop-appeal-against-mt-gox-ceos-embezzlement-acquittal-fb2a2037.md)
 * 2019-03-28 [Canadá: Ontario Town aprueba el programa piloto para pagar impuestos sobre la propiedad con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/canada-ontario-town-approves-pilot-program-for-paying-property-taxes-with-bitcoin-be329c87.md)
 * 2019-03-28 [Las tarjetas de regalo Crypto ahora se pueden usar para reservaciones en Airbnb](https://github.com/theyapapa/cryptonews/blob/es/crypto-gift-cards-can-now-be-used-for-reservations-on-airbnb-858dd452.md)
 * 2019-03-28 [India usar blockchain para mejorar la cadena de suministro de café](https://github.com/theyapapa/cryptonews/blob/es/india-to-use-blockchain-to-improve-coffee-supply-chain-152a0590.md)
