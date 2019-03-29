@@ -1,3 +1,4 @@
+* 2019-03-29 [Coinbase 양육 권이 다음을 수행 하기 위해 Tezos, 제조사와 함께 서비스를 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-custody-begins-staking-services-with-tezos-maker-to-follow-0f751d46.md)
 * 2019-03-29 [청정 에너지 부스트의 최고 미국 에너지 공급 업체인 아 메 렌 눈 블록 체인 약속](https://github.com/theyapapa/cryptonews/blob/ko/top-us-energy-provider-ameren-eyes-blockchain-promise-in-clean-energy-boost-7c59c8b2.md)
 * 2019-03-29 [새로운 USStocks 토큰은 투자자 들이 Stablecoin 다이와 함께 미국 주식 시장을 이용할 수 있도록 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-usstocks-token-lets-investors-access-us-stock-market-with-stablecoin-dai-cd0e0124.md)
 * 2019-03-28 [보고서: Gox 산에 대 한 검찰 낙하 호소 대표이사 횡령 용 Acquittal](https://github.com/theyapapa/cryptonews/blob/ko/report-prosecutors-drop-appeal-against-mt-gox-ceos-embezzlement-acquittal-fb2a2037.md)
