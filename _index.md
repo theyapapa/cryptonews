@@ -1,3 +1,4 @@
+* 2019-03-29 [Топ США энергии провайдера Ameren глаза Блокчейн обещание в чистой энергии Boost](https://github.com/theyapapa/cryptonews/blob/ru/top-us-energy-provider-ameren-eyes-blockchain-promise-in-clean-energy-boost-7c59c8b2.md)
 * 2019-03-29 [Новый токен Усстоккс позволяет инвесторам получить доступ к фондовый рынок США с Stablecoin дай](https://github.com/theyapapa/cryptonews/blob/ru/new-usstocks-token-lets-investors-access-us-stock-market-with-stablecoin-dai-cd0e0124.md)
 * 2019-03-28 [Доклад: прокуроры падение апелляцию против GOX ГЕНЕРАЛЬНого директора хищение оправдания](https://github.com/theyapapa/cryptonews/blob/ru/report-prosecutors-drop-appeal-against-mt-gox-ceos-embezzlement-acquittal-fb2a2037.md)
 * 2019-03-28 [Канада: город Онтарио одобрил пилотную программу уплаты налогов на недвижимость с Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/canada-ontario-town-approves-pilot-program-for-paying-property-taxes-with-bitcoin-be329c87.md)
