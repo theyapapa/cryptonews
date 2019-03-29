@@ -1,3 +1,4 @@
+* 2019-03-28 [캐나다: 온타리오 시는 비트 코인과 재산세를 지불 하기 위한 파일럿 프로그램을 승인](https://github.com/theyapapa/cryptonews/blob/ko/canada-ontario-town-approves-pilot-program-for-paying-property-taxes-with-bitcoin-be329c87.md)
 * 2019-03-28 [암호화 기프트 카드는 이제에 어 비 앤 비가 예약에 사용할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-gift-cards-can-now-be-used-for-reservations-on-airbnb-858dd452.md)
 * 2019-03-28 [인도, 블록 체인을 사용 하 여 커피 공급망 개선](https://github.com/theyapapa/cryptonews/blob/ko/india-to-use-blockchain-to-improve-coffee-supply-chain-152a0590.md)
 * 2019-03-28 [암호화의 합병 문제 및 M&As 잘못 될 때 수행 할 수 있는 작업](https://github.com/theyapapa/cryptonews/blob/ko/cryptos-merger-problem-and-what-can-be-done-when-mas-go-wrong-ab993fe9.md)
