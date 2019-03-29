@@ -1,3 +1,4 @@
+* 2019-03-29 [Bitmain은 Antminer S17 시리즈에 대 한 출시 날짜를 발표 ](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-announces-launch-date-for-antminer-s17-series-1b357d9f.md)
 * 2019-03-29 [홍콩 증권 레 귤 레이 터는 보안 토큰 오퍼링에 대 한 자세한 지침을 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hong-kongs-securities-regulator-issues-detailed-guidance-for-security-token-offerings-658c787e.md)
 * 2019-03-29 [Coinbase 양육 권이 다음을 수행 하기 위해 Tezos, 제조사와 함께 서비스를 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-custody-begins-staking-services-with-tezos-maker-to-follow-0f751d46.md)
 * 2019-03-29 [청정 에너지 부스트의 최고 미국 에너지 공급 업체인 아 메 렌 눈 블록 체인 약속](https://github.com/theyapapa/cryptonews/blob/ko/top-us-energy-provider-ameren-eyes-blockchain-promise-in-clean-energy-boost-7c59c8b2.md)
