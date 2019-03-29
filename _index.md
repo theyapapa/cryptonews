@@ -1,3 +1,4 @@
+* 2019-03-29 [최대 규모의 오스트리아 에너지 공급 업체 데뷔 DLT 기반 전자 차량용 충전기](https://github.com/theyapapa/cryptonews/blob/ko/largest-austrian-energy-provider-debuts-dlt-based-e-car-charger-d3b164e1.md)
 * 2019-03-29 [4 월에 유로화를 시작 하는 범용 프로토콜 얼라이언스](https://github.com/theyapapa/cryptonews/blob/ko/universal-protocol-alliance-to-launch-euro-pegged-stablecoin-in-april-fe4c4271.md)
 * 2019-03-29 [아르헨티나의 재정 부장관: 암호화 채택으로 미국 달러 수요 감소](https://github.com/theyapapa/cryptonews/blob/ko/argentinas-dep-finance-minister-crypto-adoption-could-reduce-demand-for-us-dollar-336d36d5.md)
 * 2019-03-29 [Bitmain은 Antminer S17 시리즈에 대 한 출시 날짜를 발표 ](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-announces-launch-date-for-antminer-s17-series-1b357d9f.md)
