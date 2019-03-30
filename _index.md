@@ -1,3 +1,4 @@
+* 2019-03-30 [Говорите: Обсуждая ведущие имена в крипто](https://github.com/theyapapa/cryptonews/blob/ru/speak-out-discussing-the-leading-names-in-crypto-77f10e0f.md)
 * 2019-03-30 [OmiseGo отрицает приобретение крупнейшей частной компании Таиланда](https://github.com/theyapapa/cryptonews/blob/ru/omisego-denies-acquisition-by-thailands-biggest-private-company-79b255c9.md)
 * 2019-03-30 [Crypto Exchange Бисумб сообщается взломали](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bithumb-reportedly-hacked-90ccea1d.md)
 * 2019-03-29 [Китайский судоходный гигант, чтобы исследовать Блокчейн для восходящего финансирования цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/chinese-shipping-giant-to-explore-blockchain-for-upstream-supply-chain-financing-f9a673a6.md)
