@@ -1,3 +1,4 @@
+* 2019-03-29 [Китайский судоходный гигант, чтобы исследовать Блокчейн для восходящего финансирования цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/chinese-shipping-giant-to-explore-blockchain-for-upstream-supply-chain-financing-f9a673a6.md)
 * 2019-03-29 [Эксперты: Эфириум теряет почву для новых сетей](https://github.com/theyapapa/cryptonews/blob/ru/experts-ethereum-losing-ground-to-new-networks-8dd9f1ba.md)
 * 2019-03-29 [Sharp Bitcoin ралли в 2019 маловероятно: аналитик](https://github.com/theyapapa/cryptonews/blob/ru/sharp-bitcoin-rally-in-2019-unlikely-analyst-5b3d030d.md)
 * 2019-03-29 [Крупнейший австрийский поставщик энергии дебюты ДЗО на основе E-автомобильное зарядное устройство](https://github.com/theyapapa/cryptonews/blob/ru/largest-austrian-energy-provider-debuts-dlt-based-e-car-charger-d3b164e1.md)
