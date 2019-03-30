@@ -1,3 +1,4 @@
+* 2019-03-30 [Crypto Exchange Bithumb presuntamente hackeado](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-bithumb-reportedly-hacked-90ccea1d.md)
 * 2019-03-29 [Gigante de envío chino para explorar blockchain para el financiamiento de cadena de suministro upstream](https://github.com/theyapapa/cryptonews/blob/es/chinese-shipping-giant-to-explore-blockchain-for-upstream-supply-chain-financing-f9a673a6.md)
 * 2019-03-29 [Expertos: Ethereum perdiendo terreno a nuevas redes](https://github.com/theyapapa/cryptonews/blob/es/experts-ethereum-losing-ground-to-new-networks-8dd9f1ba.md)
 * 2019-03-29 [Sharp Bitcoin Rally en 2019 improbable: Analista](https://github.com/theyapapa/cryptonews/blob/es/sharp-bitcoin-rally-in-2019-unlikely-analyst-5b3d030d.md)
