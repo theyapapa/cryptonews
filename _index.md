@@ -1,3 +1,4 @@
+* 2019-03-30 [일본 최대의 철도 회사에서 운송 카드에 대 한 새로운 암호 화폐 결제 시스템을 고려 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japans-largest-railway-company-considers-new-crypto-payment-system-for-transport-cards-fc0e90f6.md)
 * 2019-03-30 [PwC는 블록 체인 관련 작업에 대 한 최고 모집입니다. 실제로 빅 4 감사 기업은](https://github.com/theyapapa/cryptonews/blob/ko/pwc-is-top-recruiter-for-blockchain-related-jobs-on-indeed-big-4-auditing-firms-follow-30804359.md)
 * 2019-03-30 [말하기: 암호의 선두 이름 논의](https://github.com/theyapapa/cryptonews/blob/ko/speak-out-discussing-the-leading-names-in-crypto-77f10e0f.md)
 * 2019-03-30 [오미 세 고는 태국의 가장 큰 민간 기업에의 한 인수 거부](https://github.com/theyapapa/cryptonews/blob/ko/omisego-denies-acquisition-by-thailands-biggest-private-company-79b255c9.md)
