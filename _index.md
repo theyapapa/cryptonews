@@ -1,3 +1,4 @@
+* 2019-03-30 [Hablar: discutiendo los nombres principales en Crypto](https://github.com/theyapapa/cryptonews/blob/es/speak-out-discussing-the-leading-names-in-crypto-77f10e0f.md)
 * 2019-03-30 [OmiseGo niega la adquisición de la mayor empresa privada de Tailandia](https://github.com/theyapapa/cryptonews/blob/es/omisego-denies-acquisition-by-thailands-biggest-private-company-79b255c9.md)
 * 2019-03-30 [Crypto Exchange Bithumb presuntamente hackeado](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-bithumb-reportedly-hacked-90ccea1d.md)
 * 2019-03-29 [Gigante de envío chino para explorar blockchain para el financiamiento de cadena de suministro upstream](https://github.com/theyapapa/cryptonews/blob/es/chinese-shipping-giant-to-explore-blockchain-for-upstream-supply-chain-financing-f9a673a6.md)
