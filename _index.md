@@ -1,3 +1,4 @@
+* 2019-03-29 [Sharp Bitcoin Rally en 2019 improbable: Analista](https://github.com/theyapapa/cryptonews/blob/es/sharp-bitcoin-rally-in-2019-unlikely-analyst-5b3d030d.md)
 * 2019-03-29 [El mayor proveedor de energía austriaco debuta con el cargador de E-Car basado en DLT](https://github.com/theyapapa/cryptonews/blob/es/largest-austrian-energy-provider-debuts-dlt-based-e-car-charger-d3b164e1.md)
 * 2019-03-29 [Universal Protocol Alliance para poner en marcha Stablecoin euro-pegged en abril](https://github.com/theyapapa/cryptonews/blob/es/universal-protocol-alliance-to-launch-euro-pegged-stablecoin-in-april-fe4c4271.md)
 * 2019-03-29 [Ministro de Hacienda de la Argentina: la adopción Crypto podría reducir la demanda de dólares estadounidenses](https://github.com/theyapapa/cryptonews/blob/es/argentinas-dep-finance-minister-crypto-adoption-could-reduce-demand-for-us-dollar-336d36d5.md)
