@@ -1,3 +1,4 @@
+* 2019-03-29 [Sharp Bitcoin ралли в 2019 маловероятно: аналитик](https://github.com/theyapapa/cryptonews/blob/ru/sharp-bitcoin-rally-in-2019-unlikely-analyst-5b3d030d.md)
 * 2019-03-29 [Крупнейший австрийский поставщик энергии дебюты ДЗО на основе E-автомобильное зарядное устройство](https://github.com/theyapapa/cryptonews/blob/ru/largest-austrian-energy-provider-debuts-dlt-based-e-car-charger-d3b164e1.md)
 * 2019-03-29 [Всемирный протокол Альянса для запуска евро-привязанных Stablecoin в апреле](https://github.com/theyapapa/cryptonews/blob/ru/universal-protocol-alliance-to-launch-euro-pegged-stablecoin-in-april-fe4c4271.md)
 * 2019-03-29 [Министр финансов Аргентины: принятие крипто может снизить спрос на доллар США](https://github.com/theyapapa/cryptonews/blob/ru/argentinas-dep-finance-minister-crypto-adoption-could-reduce-demand-for-us-dollar-336d36d5.md)
