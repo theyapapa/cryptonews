@@ -1,3 +1,4 @@
+* 2019-03-29 [업스트림 공급망 금융을 위한 블록 체인을 탐구 하는 중국 배송 자이언트](https://github.com/theyapapa/cryptonews/blob/ko/chinese-shipping-giant-to-explore-blockchain-for-upstream-supply-chain-financing-f9a673a6.md)
 * 2019-03-29 [전문가:에 테 리 움 새로운 네트워크에 땅을 잃고](https://github.com/theyapapa/cryptonews/blob/ko/experts-ethereum-losing-ground-to-new-networks-8dd9f1ba.md)
 * 2019-03-29 [2019에서 샤 프 비트 코인 랠리 가능성: 애 널 리스트](https://github.com/theyapapa/cryptonews/blob/ko/sharp-bitcoin-rally-in-2019-unlikely-analyst-5b3d030d.md)
 * 2019-03-29 [최대 규모의 오스트리아 에너지 공급 업체 데뷔 DLT 기반 전자 차량용 충전기](https://github.com/theyapapa/cryptonews/blob/ko/largest-austrian-energy-provider-debuts-dlt-based-e-car-charger-d3b164e1.md)
