@@ -1,3 +1,4 @@
+* 2019-03-30 [Крупнейшая в Японии железнодорожная компания рассматривает новую крипто-платежную систему для транспортных карт](https://github.com/theyapapa/cryptonews/blob/ru/japans-largest-railway-company-considers-new-crypto-payment-system-for-transport-cards-fc0e90f6.md)
 * 2019-03-30 [PwC является Топ-рекрутером для работы с Блокчейн-технологиями на самом деле, большие 4 аудиторские фирмы следуют](https://github.com/theyapapa/cryptonews/blob/ru/pwc-is-top-recruiter-for-blockchain-related-jobs-on-indeed-big-4-auditing-firms-follow-30804359.md)
 * 2019-03-30 [Говорите: Обсуждая ведущие имена в крипто](https://github.com/theyapapa/cryptonews/blob/ru/speak-out-discussing-the-leading-names-in-crypto-77f10e0f.md)
 * 2019-03-30 [OmiseGo отрицает приобретение крупнейшей частной компании Таиланда](https://github.com/theyapapa/cryptonews/blob/ru/omisego-denies-acquisition-by-thailands-biggest-private-company-79b255c9.md)
