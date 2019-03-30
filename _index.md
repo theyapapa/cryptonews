@@ -1,3 +1,4 @@
+* 2019-03-30 [말하기: 암호의 선두 이름 논의](https://github.com/theyapapa/cryptonews/blob/ko/speak-out-discussing-the-leading-names-in-crypto-77f10e0f.md)
 * 2019-03-30 [오미 세 고는 태국의 가장 큰 민간 기업에의 한 인수 거부](https://github.com/theyapapa/cryptonews/blob/ko/omisego-denies-acquisition-by-thailands-biggest-private-company-79b255c9.md)
 * 2019-03-30 [암호 교환 Bithumb 소문에 하면 해킹](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bithumb-reportedly-hacked-90ccea1d.md)
 * 2019-03-29 [업스트림 공급망 금융을 위한 블록 체인을 탐구 하는 중국 배송 자이언트](https://github.com/theyapapa/cryptonews/blob/ko/chinese-shipping-giant-to-explore-blockchain-for-upstream-supply-chain-financing-f9a673a6.md)
