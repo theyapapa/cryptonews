@@ -1,3 +1,4 @@
+* 2019-03-30 [OmiseGo отрицает приобретение крупнейшей частной компании Таиланда](https://github.com/theyapapa/cryptonews/blob/ru/omisego-denies-acquisition-by-thailands-biggest-private-company-79b255c9.md)
 * 2019-03-30 [Crypto Exchange Бисумб сообщается взломали](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-bithumb-reportedly-hacked-90ccea1d.md)
 * 2019-03-29 [Китайский судоходный гигант, чтобы исследовать Блокчейн для восходящего финансирования цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/chinese-shipping-giant-to-explore-blockchain-for-upstream-supply-chain-financing-f9a673a6.md)
 * 2019-03-29 [Эксперты: Эфириум теряет почву для новых сетей](https://github.com/theyapapa/cryptonews/blob/ru/experts-ethereum-losing-ground-to-new-networks-8dd9f1ba.md)
