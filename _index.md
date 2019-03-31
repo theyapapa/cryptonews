@@ -1,3 +1,4 @@
+* 2019-03-31 [Bitcoin толкает последние $4 100 как топ крипт см смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-pushes-past-4-100-as-top-cryptos-see-mixed-movements-ccd1bdba.md)
 * 2019-03-31 [Российские социальные медиа гигант VK глаза запуск собственной крипто: отчет](https://github.com/theyapapa/cryptonews/blob/ru/russian-social-media-giant-vk-eyes-launching-its-own-crypto-report-84123217.md)
 * 2019-03-31 [Встречайте 21-летнего предпринимателя, пытающегося продать свой неудачный ICO на eBay](https://github.com/theyapapa/cryptonews/blob/ru/meet-the-21-year-old-entrepreneur-trying-to-sell-his-failed-ico-on-ebay-3a56fed8.md)
 * 2019-03-30 [Последствия слияния 5G и Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/the-implications-of-fusing-5g-and-blockchain-5f19d769.md)
