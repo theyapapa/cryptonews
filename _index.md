@@ -1,3 +1,4 @@
+* 2019-03-31 [Hodler's Digest, 25 – 31 de marzo: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-march-2531-top-stories-price-movements-quotes-and-fud-of-the-week-9b535b01.md)
 * 2019-03-31 [Bitcoin empuja pasado $4.100 como los mejores Cryptos ver movimientos mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-pushes-past-4-100-as-top-cryptos-see-mixed-movements-ccd1bdba.md)
 * 2019-03-31 [El gigante ruso de las redes sociales VK Eyes lanzando su propio cripto: reporte](https://github.com/theyapapa/cryptonews/blob/es/russian-social-media-giant-vk-eyes-launching-its-own-crypto-report-84123217.md)
 * 2019-03-31 [Conoce al empresario de 21 años que intenta vender su ICO fallido en eBay](https://github.com/theyapapa/cryptonews/blob/es/meet-the-21-year-old-entrepreneur-trying-to-sell-his-failed-ico-on-ebay-3a56fed8.md)
