@@ -1,3 +1,4 @@
+* 2019-03-31 [Conoce al empresario de 21 años que intenta vender su ICO fallido en eBay](https://github.com/theyapapa/cryptonews/blob/es/meet-the-21-year-old-entrepreneur-trying-to-sell-his-failed-ico-on-ebay-3a56fed8.md)
 * 2019-03-30 [Las implicaciones de fusing 5G y blockchain](https://github.com/theyapapa/cryptonews/blob/es/the-implications-of-fusing-5g-and-blockchain-5f19d769.md)
 * 2019-03-30 [La compañía ferroviaria más grande de Japón considera el nuevo sistema de pago Crypto para tarjetas de transporte](https://github.com/theyapapa/cryptonews/blob/es/japans-largest-railway-company-considers-new-crypto-payment-system-for-transport-cards-fc0e90f6.md)
 * 2019-03-30 [PwC es el mejor reclutador para trabajos relacionados con blockchain en Indeed, las empresas de auditoría Big 4 siguen](https://github.com/theyapapa/cryptonews/blob/es/pwc-is-top-recruiter-for-blockchain-related-jobs-on-indeed-big-4-auditing-firms-follow-30804359.md)
