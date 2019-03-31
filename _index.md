@@ -1,3 +1,4 @@
+* 2019-03-31 [Российские социальные медиа гигант VK глаза запуск собственной крипто: отчет](https://github.com/theyapapa/cryptonews/blob/ru/russian-social-media-giant-vk-eyes-launching-its-own-crypto-report-84123217.md)
 * 2019-03-31 [Встречайте 21-летнего предпринимателя, пытающегося продать свой неудачный ICO на eBay](https://github.com/theyapapa/cryptonews/blob/ru/meet-the-21-year-old-entrepreneur-trying-to-sell-his-failed-ico-on-ebay-3a56fed8.md)
 * 2019-03-30 [Последствия слияния 5G и Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/the-implications-of-fusing-5g-and-blockchain-5f19d769.md)
 * 2019-03-30 [Крупнейшая в Японии железнодорожная компания рассматривает новую крипто-платежную систему для транспортных карт](https://github.com/theyapapa/cryptonews/blob/ru/japans-largest-railway-company-considers-new-crypto-payment-system-for-transport-cards-fc0e90f6.md)
