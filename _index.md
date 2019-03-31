@@ -1,3 +1,4 @@
+* 2019-03-31 [비트 코인은 지난 $4100을 넘어, 탑 크립 토는 혼합 된 움직임을 볼](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-pushes-past-4-100-as-top-cryptos-see-mixed-movements-ccd1bdba.md)
 * 2019-03-31 [러시아 소셜 미디어 자이언트 VK 눈 자체 암호화를 시작: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/russian-social-media-giant-vk-eyes-launching-its-own-crypto-report-84123217.md)
 * 2019-03-31 [이 베이에서 실패 한 ICO를 판매 하려고 하는 21 세의 기업가를 만나보세요.](https://github.com/theyapapa/cryptonews/blob/ko/meet-the-21-year-old-entrepreneur-trying-to-sell-his-failed-ico-on-ebay-3a56fed8.md)
 * 2019-03-30 [5G 및 블록 체인 융합의 시사점](https://github.com/theyapapa/cryptonews/blob/ko/the-implications-of-fusing-5g-and-blockchain-5f19d769.md)
