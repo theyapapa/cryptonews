@@ -1,3 +1,4 @@
+* 2019-03-31 [이 베이에서 실패 한 ICO를 판매 하려고 하는 21 세의 기업가를 만나보세요.](https://github.com/theyapapa/cryptonews/blob/ko/meet-the-21-year-old-entrepreneur-trying-to-sell-his-failed-ico-on-ebay-3a56fed8.md)
 * 2019-03-30 [5G 및 블록 체인 융합의 시사점](https://github.com/theyapapa/cryptonews/blob/ko/the-implications-of-fusing-5g-and-blockchain-5f19d769.md)
 * 2019-03-30 [일본 최대의 철도 회사에서 운송 카드에 대 한 새로운 암호 화폐 결제 시스템을 고려 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/japans-largest-railway-company-considers-new-crypto-payment-system-for-transport-cards-fc0e90f6.md)
 * 2019-03-30 [PwC는 블록 체인 관련 작업에 대 한 최고 모집입니다. 실제로 빅 4 감사 기업은](https://github.com/theyapapa/cryptonews/blob/ko/pwc-is-top-recruiter-for-blockchain-related-jobs-on-indeed-big-4-auditing-firms-follow-30804359.md)
