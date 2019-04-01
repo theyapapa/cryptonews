@@ -1,3 +1,4 @@
+* 2019-03-31 [Доклад: ИКОС поднял $118 000 000 в Q1 2019, более 58 раз меньше, чем в Q1 2018](https://github.com/theyapapa/cryptonews/blob/ru/report-icos-raised-118-million-in-q1-2019-over-58-times-less-than-in-q1-2018-58275cba.md)
 * 2019-03-31 [Ходлер, 25 – 31 марта: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-march-2531-top-stories-price-movements-quotes-and-fud-of-the-week-9b535b01.md)
 * 2019-03-31 [Bitcoin толкает последние $4 100 как топ крипт см смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-pushes-past-4-100-as-top-cryptos-see-mixed-movements-ccd1bdba.md)
 * 2019-03-31 [Российские социальные медиа гигант VK глаза запуск собственной крипто: отчет](https://github.com/theyapapa/cryptonews/blob/ru/russian-social-media-giant-vk-eyes-launching-its-own-crypto-report-84123217.md)
