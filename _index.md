@@ -1,3 +1,4 @@
+* 2019-04-01 [암호화 전문 변호사 고 문은 암호 증권에 대 한 계획을 개발 하기 위해 US SEC를 찾고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-seeks-crypto-specialist-attorney-advisor-to-develop-plan-for-crypto-securities-5412a290.md)
 * 2019-04-01 [XMR 지원 비트 코인 전송에 대 한 개인 정보 보호 서비스는 미국 거주자를 위한 지원을 제거 합니다](https://github.com/theyapapa/cryptonews/blob/ko/privacy-service-for-xmr-enabled-bitcoin-transfers-removes-support-for-us-residents-c4a2e08c.md)
 * 2019-03-31 [보고서: Ico는 q1 2019에서 $1억1800만 년 1 분기 보다 58 배 이상 감소 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-icos-raised-118-million-in-q1-2019-over-58-times-less-than-in-q1-2018-58275cba.md)
 * 2019-03-31 [Hodler의 다이제스트, 3 월 25 일-31 일: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-march-2531-top-stories-price-movements-quotes-and-fud-of-the-week-9b535b01.md)
