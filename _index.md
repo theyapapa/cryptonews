@@ -1,3 +1,4 @@
+* 2019-04-01 [Cómo se gravan las Criptomonedas en los Estados Unidos: el dilema de un contribuyente](https://github.com/theyapapa/cryptonews/blob/es/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma-de4a4709.md)
 * 2019-04-01 [Miner cripto israelí para ser delisted de la bolsa de Tel Aviv debido al mercado de osos](https://github.com/theyapapa/cryptonews/blob/es/israeli-crypto-miner-to-be-delisted-from-tel-aviv-stock-exchange-due-to-bear-market-fce5c15b.md)
 * 2019-04-01 [Criptomonedas no viables actualmente para financiar el terrorismo: Think Tank](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrencies-not-currently-viable-for-terrorism-financing-think-tank-c585e365.md)
 * 2019-04-01 [La policía canadiense congela los activos de emisores de tokens de combustible debido al presunto fraude de $22 millones](https://github.com/theyapapa/cryptonews/blob/es/canadian-police-freezes-assets-of-fuel-token-issuers-due-to-alleged-22-million-fraud-23b58129.md)
