@@ -1,3 +1,4 @@
+* 2019-04-01 [현재 테러 자금 조달이 불가능 한 암호 화폐: 생각 탱크](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrencies-not-currently-viable-for-terrorism-financing-think-tank-c585e365.md)
 * 2019-04-01 [캐나다 경찰은 $2200만 사기 혐의로 인해 연료 토큰 발급자의 자산을 고정 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-police-freezes-assets-of-fuel-token-issuers-due-to-alleged-22-million-fraud-23b58129.md)
 * 2019-04-01 [비트 코인의 지배력이 계속 하락 하는 동안 암호화 시장은 계속 상승 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-continue-rising-while-bitcoins-dominance-continues-to-drop-6f66c0d1.md)
 * 2019-04-01 [아랍 에미리트 아부다비에서 블록 체인 항공 회의 개최](https://github.com/theyapapa/cryptonews/blob/ko/united-arab-emirates-to-host-blockchain-aviation-conference-in-abu-dhabi-44a731d6.md)
