@@ -1,3 +1,4 @@
+* 2019-04-01 [Крипто-рынки продолжают расти, а господство биткоина продолжает падать](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-continue-rising-while-bitcoins-dominance-continues-to-drop-6f66c0d1.md)
 * 2019-04-01 [Объединенные Арабские Эмираты пройдет конференция Блокчейн-авиации в Абу-Даби](https://github.com/theyapapa/cryptonews/blob/ru/united-arab-emirates-to-host-blockchain-aviation-conference-in-abu-dhabi-44a731d6.md)
 * 2019-04-01 [США SEC ищет крипто специалист адвокат советник разработать план для криптографических ценных бумаг](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-seeks-crypto-specialist-attorney-advisor-to-develop-plan-for-crypto-securities-5412a290.md)
 * 2019-04-01 [Служба конфиденциальности для XMR-включен Bitcoin переводы удаляет поддержку для жителей США](https://github.com/theyapapa/cryptonews/blob/ru/privacy-service-for-xmr-enabled-bitcoin-transfers-removes-support-for-us-residents-c4a2e08c.md)
