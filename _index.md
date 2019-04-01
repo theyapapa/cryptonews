@@ -1,3 +1,4 @@
+* 2019-04-01 [Как Crypto облагается налогом в США: дилемма налогоплательщика](https://github.com/theyapapa/cryptonews/blob/ru/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma-de4a4709.md)
 * 2019-04-01 [Израильский крипто Шахтер будет декодирован из Тель-авивской фондовой бирже из-за медвежьего рынка](https://github.com/theyapapa/cryptonews/blob/ru/israeli-crypto-miner-to-be-delisted-from-tel-aviv-stock-exchange-due-to-bear-market-fce5c15b.md)
 * 2019-04-01 [Криптовалюты в настоящее время не жизнеспособны для финансирования терроризма: Think Tank](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrencies-not-currently-viable-for-terrorism-financing-think-tank-c585e365.md)
 * 2019-04-01 [Канадская полиция замораживает активы эмитентов ТОПЛИВных токенов из-за предполагаемого $22 000 000 мошенничества](https://github.com/theyapapa/cryptonews/blob/ru/canadian-police-freezes-assets-of-fuel-token-issuers-due-to-alleged-22-million-fraud-23b58129.md)
