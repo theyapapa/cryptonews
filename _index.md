@@ -1,3 +1,4 @@
+* 2019-04-01 [비트 코인의 지배력이 계속 하락 하는 동안 암호화 시장은 계속 상승 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-continue-rising-while-bitcoins-dominance-continues-to-drop-6f66c0d1.md)
 * 2019-04-01 [아랍 에미리트 아부다비에서 블록 체인 항공 회의 개최](https://github.com/theyapapa/cryptonews/blob/ko/united-arab-emirates-to-host-blockchain-aviation-conference-in-abu-dhabi-44a731d6.md)
 * 2019-04-01 [암호화 전문 변호사 고 문은 암호 증권에 대 한 계획을 개발 하기 위해 US SEC를 찾고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-seeks-crypto-specialist-attorney-advisor-to-develop-plan-for-crypto-securities-5412a290.md)
 * 2019-04-01 [XMR 지원 비트 코인 전송에 대 한 개인 정보 보호 서비스는 미국 거주자를 위한 지원을 제거 합니다](https://github.com/theyapapa/cryptonews/blob/ko/privacy-service-for-xmr-enabled-bitcoin-transfers-removes-support-for-us-residents-c4a2e08c.md)
