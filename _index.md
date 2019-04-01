@@ -1,3 +1,4 @@
+* 2019-03-31 [Informe: ICOs recaudó $118 millones en Q1 2019, más de 58 veces menos que en Q1 2018](https://github.com/theyapapa/cryptonews/blob/es/report-icos-raised-118-million-in-q1-2019-over-58-times-less-than-in-q1-2018-58275cba.md)
 * 2019-03-31 [Hodler's Digest, 25 – 31 de marzo: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-march-2531-top-stories-price-movements-quotes-and-fud-of-the-week-9b535b01.md)
 * 2019-03-31 [Bitcoin empuja pasado $4.100 como los mejores Cryptos ver movimientos mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-pushes-past-4-100-as-top-cryptos-see-mixed-movements-ccd1bdba.md)
 * 2019-03-31 [El gigante ruso de las redes sociales VK Eyes lanzando su propio cripto: reporte](https://github.com/theyapapa/cryptonews/blob/es/russian-social-media-giant-vk-eyes-launching-its-own-crypto-report-84123217.md)
