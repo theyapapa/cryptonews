@@ -1,3 +1,4 @@
+* 2019-04-01 [이스라엘 암호화 광부는 곰 시장으로 인해 텔 아비 브 증권 거래소에서 게양 할](https://github.com/theyapapa/cryptonews/blob/ko/israeli-crypto-miner-to-be-delisted-from-tel-aviv-stock-exchange-due-to-bear-market-fce5c15b.md)
 * 2019-04-01 [현재 테러 자금 조달이 불가능 한 암호 화폐: 생각 탱크](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrencies-not-currently-viable-for-terrorism-financing-think-tank-c585e365.md)
 * 2019-04-01 [캐나다 경찰은 $2200만 사기 혐의로 인해 연료 토큰 발급자의 자산을 고정 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-police-freezes-assets-of-fuel-token-issuers-due-to-alleged-22-million-fraud-23b58129.md)
 * 2019-04-01 [비트 코인의 지배력이 계속 하락 하는 동안 암호화 시장은 계속 상승 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-continue-rising-while-bitcoins-dominance-continues-to-drop-6f66c0d1.md)
