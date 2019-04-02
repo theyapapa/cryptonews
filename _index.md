@@ -1,3 +1,4 @@
+* 2019-04-02 [Пуэрто-Рико видит новый крипто банк принять первый депозит клиента](https://github.com/theyapapa/cryptonews/blob/ru/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit-8d2e5ea0.md)
 * 2019-04-02 [Почему Binance, крупнейшая в мире крипто-биржа, увлечена Стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins-e61b34a0.md)
 * 2019-04-02 [Основные Швейцарской фондовой бирже шесть списков, биржевой торгуемый продукт](https://github.com/theyapapa/cryptonews/blob/ru/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product-864013a4.md)
 * 2019-04-02 [BTC Hits $4 800 в первый раз в 2019, Top Crypto Markets см рост двойной цифры](https://github.com/theyapapa/cryptonews/blob/ru/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth-353d480d.md)
