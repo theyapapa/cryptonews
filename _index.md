@@ -1,3 +1,4 @@
+* 2019-04-02 [Aplicaciones blockchain globales en Telecoms para generar $1,37 mil millones por 2024: informe](https://github.com/theyapapa/cryptonews/blob/es/global-blockchain-applications-in-telecoms-to-generate-137-billion-by-2024-report-cd390f96.md)
 * 2019-04-02 [Ernst & Young argumenta que el intercambio Crypto Cuadrigacx debe ser colocado en bancarrota](https://github.com/theyapapa/cryptonews/blob/es/ernst-young-argues-that-crypto-exchange-quadrigacx-should-be-placed-in-bankruptcy-7feb19d7.md)
 * 2019-04-02 [' Augur estafa ' chispas centralizado vs. debate descentralizado en Reddit](https://github.com/theyapapa/cryptonews/blob/es/augur-scam-sparks-centralized-vs-decentralized-debate-on-reddit-2445227e.md)
 * 2019-04-02 [Puerto Rico ve nuevo banco Crypto aceptar primer depósito de cliente](https://github.com/theyapapa/cryptonews/blob/es/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit-8d2e5ea0.md)
