@@ -1,3 +1,4 @@
+* 2019-04-02 [' Augur 사기 ' 스파크는 레 딧에 대 한 분산 토론 대 중앙](https://github.com/theyapapa/cryptonews/blob/ko/augur-scam-sparks-centralized-vs-decentralized-debate-on-reddit-2445227e.md)
 * 2019-04-02 [푸에르토리코, 첫 번째 고객 예치금을 받아들이는 새로운 암호 은행을 본다](https://github.com/theyapapa/cryptonews/blob/ko/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit-8d2e5ea0.md)
 * 2019-04-02 [세계 최대의 크립 토 거래소 인 Binance가 그에 게 열정을가지고 있는 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins-e61b34a0.md)
 * 2019-04-02 [주요 스위스 증권 거래소 6 개 목록 XRP 거래소 상장 상품](https://github.com/theyapapa/cryptonews/blob/ko/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product-864013a4.md)
