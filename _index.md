@@ -1,3 +1,4 @@
+* 2019-04-02 [Puerto Rico ve nuevo banco Crypto aceptar primer depósito de cliente](https://github.com/theyapapa/cryptonews/blob/es/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit-8d2e5ea0.md)
 * 2019-04-02 [¿Por qué Binance, el intercambio criptográfico más grande del mundo, está entusiasmado con Stablecoins](https://github.com/theyapapa/cryptonews/blob/es/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins-e61b34a0.md)
 * 2019-04-02 [Principales acciones de la bolsa Suiza SIX listas XRP cambio de producto](https://github.com/theyapapa/cryptonews/blob/es/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product-864013a4.md)
 * 2019-04-02 [BTC golpea $4.800 por primera vez en 2019, Top cripto mercados ver crecimiento de doble dígito](https://github.com/theyapapa/cryptonews/blob/es/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth-353d480d.md)
