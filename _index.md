@@ -1,3 +1,4 @@
+* 2019-04-02 [세계 최대의 크립 토 거래소 인 Binance가 그에 게 열정을가지고 있는 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins-e61b34a0.md)
 * 2019-04-02 [주요 스위스 증권 거래소 6 개 목록 XRP 거래소 상장 상품](https://github.com/theyapapa/cryptonews/blob/ko/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product-864013a4.md)
 * 2019-04-02 [BTC 조회 $4800 2019에서 처음으로, 최고 암호화 시장 참조 두 자릿수 증가](https://github.com/theyapapa/cryptonews/blob/ko/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth-353d480d.md)
 * 2019-04-01 [보고서: 블록 체인 프로젝트에서 중국을 선도 하는 세계](https://github.com/theyapapa/cryptonews/blob/ko/report-china-leading-world-in-blockchain-projects-79189b67.md)
