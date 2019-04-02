@@ -1,3 +1,4 @@
+* 2019-04-02 [Эрнст энд Янг утверждает, что крипто-обмен Куадригаккс должны быть помещены в банкротстве](https://github.com/theyapapa/cryptonews/blob/ru/ernst-young-argues-that-crypto-exchange-quadrigacx-should-be-placed-in-bankruptcy-7feb19d7.md)
 * 2019-04-02 ["Предвещает афера" искры Централизованные vs. децентрализованные дебаты на Reddit](https://github.com/theyapapa/cryptonews/blob/ru/augur-scam-sparks-centralized-vs-decentralized-debate-on-reddit-2445227e.md)
 * 2019-04-02 [Пуэрто-Рико видит новый крипто банк принять первый депозит клиента](https://github.com/theyapapa/cryptonews/blob/ru/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit-8d2e5ea0.md)
 * 2019-04-02 [Почему Binance, крупнейшая в мире крипто-биржа, увлечена Стаблекоинс](https://github.com/theyapapa/cryptonews/blob/ru/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins-e61b34a0.md)
