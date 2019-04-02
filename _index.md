@@ -1,3 +1,4 @@
+* 2019-04-01 [Coinbase расширяется в трансграничные платежи](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-expands-into-cross-border-payments-05581e8d.md)
 * 2019-04-01 [Как Crypto облагается налогом в США: дилемма налогоплательщика](https://github.com/theyapapa/cryptonews/blob/ru/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma-de4a4709.md)
 * 2019-04-01 [Израильский крипто Шахтер будет декодирован из Тель-авивской фондовой бирже из-за медвежьего рынка](https://github.com/theyapapa/cryptonews/blob/ru/israeli-crypto-miner-to-be-delisted-from-tel-aviv-stock-exchange-due-to-bear-market-fce5c15b.md)
 * 2019-04-01 [Криптовалюты в настоящее время не жизнеспособны для финансирования терроризма: Think Tank](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrencies-not-currently-viable-for-terrorism-financing-think-tank-c585e365.md)
