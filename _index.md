@@ -1,3 +1,4 @@
+* 2019-04-02 [BTC 조회 $4800 2019에서 처음으로, 최고 암호화 시장 참조 두 자릿수 증가](https://github.com/theyapapa/cryptonews/blob/ko/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth-353d480d.md)
 * 2019-04-01 [보고서: 블록 체인 프로젝트에서 중국을 선도 하는 세계](https://github.com/theyapapa/cryptonews/blob/ko/report-china-leading-world-in-blockchain-projects-79189b67.md)
 * 2019-04-01 [Coinbase가 국경 간 결제로 확장 됨](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-expands-into-cross-border-payments-05581e8d.md)
 * 2019-04-01 [암호화가 미국에서 과세 되는 방법: 납세자의 딜레마](https://github.com/theyapapa/cryptonews/blob/ko/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma-de4a4709.md)
