@@ -1,3 +1,4 @@
+* 2019-04-02 [Brian Kelly dice que el siguiente objetivo para Bitcoin es $6.000, con los mercados cripto fondo](https://github.com/theyapapa/cryptonews/blob/es/brian-kelly-says-next-target-for-bitcoin-is-6-000-with-crypto-markets-bottoming-fc214211.md)
 * 2019-04-02 [Aplicaciones blockchain globales en Telecoms para generar $1,37 mil millones por 2024: informe](https://github.com/theyapapa/cryptonews/blob/es/global-blockchain-applications-in-telecoms-to-generate-137-billion-by-2024-report-cd390f96.md)
 * 2019-04-02 [Ernst & Young argumenta que el intercambio Crypto Cuadrigacx debe ser colocado en bancarrota](https://github.com/theyapapa/cryptonews/blob/es/ernst-young-argues-that-crypto-exchange-quadrigacx-should-be-placed-in-bankruptcy-7feb19d7.md)
 * 2019-04-02 [' Augur estafa ' chispas centralizado vs. debate descentralizado en Reddit](https://github.com/theyapapa/cryptonews/blob/es/augur-scam-sparks-centralized-vs-decentralized-debate-on-reddit-2445227e.md)
