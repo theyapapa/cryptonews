@@ -1,3 +1,4 @@
+* 2019-04-02 [BTC Hits $4 800 в первый раз в 2019, Top Crypto Markets см рост двойной цифры](https://github.com/theyapapa/cryptonews/blob/ru/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth-353d480d.md)
 * 2019-04-01 [Доклад: Китай ведущий мир в Блокчейн-проектах](https://github.com/theyapapa/cryptonews/blob/ru/report-china-leading-world-in-blockchain-projects-79189b67.md)
 * 2019-04-01 [Coinbase расширяется в трансграничные платежи](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-expands-into-cross-border-payments-05581e8d.md)
 * 2019-04-01 [Как Crypto облагается налогом в США: дилемма налогоплательщика](https://github.com/theyapapa/cryptonews/blob/ru/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma-de4a4709.md)
