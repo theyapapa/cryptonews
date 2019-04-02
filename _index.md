@@ -1,3 +1,4 @@
+* 2019-04-02 [에른스트는 가상 화폐 거래소 쿼드 리 크 록스가 파산에 배치 되어야 한다고 주장 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ernst-young-argues-that-crypto-exchange-quadrigacx-should-be-placed-in-bankruptcy-7feb19d7.md)
 * 2019-04-02 [' Augur 사기 ' 스파크는 레 딧에 대 한 분산 토론 대 중앙](https://github.com/theyapapa/cryptonews/blob/ko/augur-scam-sparks-centralized-vs-decentralized-debate-on-reddit-2445227e.md)
 * 2019-04-02 [푸에르토리코, 첫 번째 고객 예치금을 받아들이는 새로운 암호 은행을 본다](https://github.com/theyapapa/cryptonews/blob/ko/puerto-rico-sees-new-crypto-bank-accept-first-client-deposit-8d2e5ea0.md)
 * 2019-04-02 [세계 최대의 크립 토 거래소 인 Binance가 그에 게 열정을가지고 있는 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins-e61b34a0.md)
