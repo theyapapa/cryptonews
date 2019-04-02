@@ -1,3 +1,4 @@
+* 2019-04-02 [¿Por qué Binance, el intercambio criptográfico más grande del mundo, está entusiasmado con Stablecoins](https://github.com/theyapapa/cryptonews/blob/es/why-binance-the-worlds-biggest-crypto-exchange-is-enthusiastic-about-stablecoins-e61b34a0.md)
 * 2019-04-02 [Principales acciones de la bolsa Suiza SIX listas XRP cambio de producto](https://github.com/theyapapa/cryptonews/blob/es/major-swiss-stock-exchange-six-lists-xrp-exchange-traded-product-864013a4.md)
 * 2019-04-02 [BTC golpea $4.800 por primera vez en 2019, Top cripto mercados ver crecimiento de doble dígito](https://github.com/theyapapa/cryptonews/blob/es/btc-hits-4-800-for-the-first-time-in-2019-top-crypto-markets-see-double-digit-growth-353d480d.md)
 * 2019-04-01 [Informe: China Leading World en proyectos blockchain](https://github.com/theyapapa/cryptonews/blob/es/report-china-leading-world-in-blockchain-projects-79189b67.md)
