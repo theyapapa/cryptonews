@@ -1,3 +1,4 @@
+* 2019-04-02 [브라이언 켈리는 비트 코인에 대 한 다음 대상 말한다 $6000, 암호화 시장 바닥](https://github.com/theyapapa/cryptonews/blob/ko/brian-kelly-says-next-target-for-bitcoin-is-6-000-with-crypto-markets-bottoming-fc214211.md)
 * 2019-04-02 [$13억7000만를 생성 하는 Telecoms의 글로벌 블록 체인 애플리케이션 2024: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/global-blockchain-applications-in-telecoms-to-generate-137-billion-by-2024-report-cd390f96.md)
 * 2019-04-02 [에른스트는 가상 화폐 거래소 쿼드 리 크 록스가 파산에 배치 되어야 한다고 주장 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ernst-young-argues-that-crypto-exchange-quadrigacx-should-be-placed-in-bankruptcy-7feb19d7.md)
 * 2019-04-02 [' Augur 사기 ' 스파크는 레 딧에 대 한 분산 토론 대 중앙](https://github.com/theyapapa/cryptonews/blob/ko/augur-scam-sparks-centralized-vs-decentralized-debate-on-reddit-2445227e.md)
