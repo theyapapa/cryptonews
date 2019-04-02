@@ -1,3 +1,4 @@
+* 2019-04-01 [Informe: China Leading World en proyectos blockchain](https://github.com/theyapapa/cryptonews/blob/es/report-china-leading-world-in-blockchain-projects-79189b67.md)
 * 2019-04-01 [Coinbase se expande a los pagos transfronterizos](https://github.com/theyapapa/cryptonews/blob/es/coinbase-expands-into-cross-border-payments-05581e8d.md)
 * 2019-04-01 [Cómo se gravan las Criptomonedas en los Estados Unidos: el dilema de un contribuyente](https://github.com/theyapapa/cryptonews/blob/es/how-crypto-is-taxed-in-the-us-a-taxpayers-dilemma-de4a4709.md)
 * 2019-04-01 [Miner cripto israelí para ser delisted de la bolsa de Tel Aviv debido al mercado de osos](https://github.com/theyapapa/cryptonews/blob/es/israeli-crypto-miner-to-be-delisted-from-tel-aviv-stock-exchange-due-to-bear-market-fce5c15b.md)
