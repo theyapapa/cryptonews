@@ -1,3 +1,4 @@
+* 2019-04-03 [SEC 직원은 디지털 자산이 투자 계약 인지 판단 하기 위한 프레임 워크를 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-staff-publish-framework-for-determining-if-digital-assets-are-investment-contracts-260509db.md)
 * 2019-04-03 [프린스턴 전문 기술 지원 스타트업, $3.7 백만의 스마트 계약 확장성 개발](https://github.com/theyapapa/cryptonews/blob/ko/princeton-expertise-backed-startup-raises-37-mln-to-develop-smart-contract-scalability-a112fe8e.md)
 * 2019-04-03 [BTC 테스트 $5000 가운데 2019 최초의 주요 암호화 시장 복구](https://github.com/theyapapa/cryptonews/blob/ko/btc-tests-5-000-amid-2019s-first-major-crypto-market-recovery-5140b2fd.md)
 * 2019-04-03 [중국 레 귤 레이 터 승인 첫 번째 197 블록 체인 회사, 텐 센트를 포함 하 여, 알리바바, 바이두](https://github.com/theyapapa/cryptonews/blob/ko/chinese-regulator-approves-first-197-blockchain-firms-including-tencent-alibaba-baidu-2c60bd7c.md)
