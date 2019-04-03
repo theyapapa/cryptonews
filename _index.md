@@ -1,3 +1,4 @@
+* 2019-04-03 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS, 비트 코인 캐시, 항성 동전, 스텔라, 카르다노](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-cardano-tron-price-analysis-april-3-32f7f582.md)
 * 2019-04-03 [블룸버그: 비트 코인의 최근 르네상스 알고리즘 거래에 연결 될 수 있다](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-bitcoins-recent-renaissance-could-be-linked-to-algorithmic-trading-83d2a4cc.md)
 * 2019-04-03 [SEC 직원은 디지털 자산이 투자 계약 인지 판단 하기 위한 프레임 워크를 게시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-staff-publish-framework-for-determining-if-digital-assets-are-investment-contracts-260509db.md)
 * 2019-04-03 [프린스턴 전문 기술 지원 스타트업, $3.7 백만의 스마트 계약 확장성 개발](https://github.com/theyapapa/cryptonews/blob/ko/princeton-expertise-backed-startup-raises-37-mln-to-develop-smart-contract-scalability-a112fe8e.md)
