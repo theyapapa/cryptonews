@@ -1,3 +1,4 @@
+* 2019-04-03 [Nimiq는 독일의 WEG에 9.9%의 지분을 취득 하 여 은행의 세 번째 암호화 회사 소유자가 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/nimiq-acquires-99-stake-in-germanys-weg-ag-to-become-banks-third-crypto-firm-owner-2f8cff4e.md)
 * 2019-04-03 [61%의 주요 글로벌 디지털 기업 들이 블록 체인에 투자 하 고 보고](https://github.com/theyapapa/cryptonews/blob/ko/61-of-major-global-digital-firms-invest-in-blockchain-report-finds-29f8b871.md)
 * 2019-04-03 [블록 체인을 통해 스마트폰과 전기 자동차의 코발트가 윤리적으로 공급 되는 방법](https://github.com/theyapapa/cryptonews/blob/ko/how-blockchain-may-help-the-cobalt-in-smartphones-and-electric-cars-be-ethically-sourced-a0b9f92b.md)
 * 2019-04-02 [데이터 센터 설계를 위한 지속 가능한 건설 회사의 미국 블록 체인 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/us-blockchain-firm-partners-with-sustainable-construction-firm-to-design-data-centers-943e8919.md)
