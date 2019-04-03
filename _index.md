@@ -1,3 +1,4 @@
+* 2019-04-03 [BTC тесты $5 000 на фоне 2019 первый крупный крипто рынка восстановления](https://github.com/theyapapa/cryptonews/blob/ru/btc-tests-5-000-amid-2019s-first-major-crypto-market-recovery-5140b2fd.md)
 * 2019-04-03 [Китайский регулятор одобряет первые 197 Блокчейн-фирмы, в том числе Tencent, Alibaba, Baidu](https://github.com/theyapapa/cryptonews/blob/ru/chinese-regulator-approves-first-197-blockchain-firms-including-tencent-alibaba-baidu-2c60bd7c.md)
 * 2019-04-03 [Nimiq приобретает 9,9% акций в Германии, чтобы стать третьим владельцем крипто-фирмы банка](https://github.com/theyapapa/cryptonews/blob/ru/nimiq-acquires-99-stake-in-germanys-weg-ag-to-become-banks-third-crypto-firm-owner-2f8cff4e.md)
 * 2019-04-03 [61% крупных глобальных цифровых компаний инвестируют в Блокчейн, отчет находит](https://github.com/theyapapa/cryptonews/blob/ru/61-of-major-global-digital-firms-invest-in-blockchain-report-finds-29f8b871.md)
