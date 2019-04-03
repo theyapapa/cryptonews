@@ -1,3 +1,4 @@
+* 2019-04-03 [암호화 시장 급증 이전에 증가 한 활성 비트 코인 지갑 수](https://github.com/theyapapa/cryptonews/blob/ko/number-of-active-bitcoin-wallets-increased-prior-to-crypto-market-surge-85a9ba57.md)
 * 2019-04-03 [WEF 보고서: 40 중앙 은행은 디지털 통화, 블록 체인 테크를 고려 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/wef-report-40-central-banks-are-considering-digital-currencies-blockchain-tech-b36c454b.md)
 * 2019-04-03 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS, 비트 코인 캐시, 항성 동전, 스텔라, 카르다노](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-cardano-tron-price-analysis-april-3-32f7f582.md)
 * 2019-04-03 [블룸버그: 비트 코인의 최근 르네상스 알고리즘 거래에 연결 될 수 있다](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-bitcoins-recent-renaissance-could-be-linked-to-algorithmic-trading-83d2a4cc.md)
