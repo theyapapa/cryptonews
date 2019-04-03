@@ -1,3 +1,4 @@
+* 2019-04-02 [데이터 센터 설계를 위한 지속 가능한 건설 회사의 미국 블록 체인 회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/us-blockchain-firm-partners-with-sustainable-construction-firm-to-design-data-centers-943e8919.md)
 * 2019-04-02 [전체 직원을 금융 자문가로 등록 하는 안드레아의 운세 재 구조 ](https://github.com/theyapapa/cryptonews/blob/ko/andreessen-horowitz-restructures-registering-entire-staff-as-financial-advisors-44864e64.md)
 * 2019-04-02 [브라이언 켈리는 비트 코인에 대 한 다음 대상 말한다 $6000, 암호화 시장 바닥](https://github.com/theyapapa/cryptonews/blob/ko/brian-kelly-says-next-target-for-bitcoin-is-6-000-with-crypto-markets-bottoming-fc214211.md)
 * 2019-04-02 [$13억7000만를 생성 하는 Telecoms의 글로벌 블록 체인 애플리케이션 2024: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/global-blockchain-applications-in-telecoms-to-generate-137-billion-by-2024-report-cd390f96.md)
