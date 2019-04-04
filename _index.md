@@ -1,3 +1,4 @@
+* 2019-04-04 [Las solicitudes de búsqueda de Google para "Bitcoin" se triplicaron durante la subida de precio reciente](https://github.com/theyapapa/cryptonews/blob/es/google-search-requests-for-bitcoin-tripled-during-recent-price-surge-96e81530.md)
 * 2019-04-04 [Funcionarios de Corea del sur consideran la revisión de las regulaciones criptográficas existentes](https://github.com/theyapapa/cryptonews/blob/es/south-korean-officials-consider-revision-of-existing-crypto-regulations-a7af50fe.md)
 * 2019-04-04 [India: fianza provisional concedida a dos hermanos acusados en $300 MLN Crypto Ponzi Scheme](https://github.com/theyapapa/cryptonews/blob/es/india-interim-bail-granted-to-two-brothers-accused-in-300-mln-crypto-ponzi-scheme-94450af8.md)
 * 2019-04-04 [Gigante de gas ruso Gazprom para usar blockchain en los acuerdos de suministro de gas](https://github.com/theyapapa/cryptonews/blob/es/russian-gas-giant-gazprom-to-use-blockchain-in-gas-supply-agreements-ef9c3136.md)
