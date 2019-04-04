@@ -1,3 +1,4 @@
+* 2019-04-04 [인도: 두 형제에 게 부여 된 중간 보석 $300 백만 암호화 폰 지 방식으로 고소](https://github.com/theyapapa/cryptonews/blob/ko/india-interim-bail-granted-to-two-brothers-accused-in-300-mln-crypto-ponzi-scheme-94450af8.md)
 * 2019-04-04 [가스 공급 계약에서 블록 체인을 사용 하는 러시아 가스 자이언트 Gazprom](https://github.com/theyapapa/cryptonews/blob/ko/russian-gas-giant-gazprom-to-use-blockchain-in-gas-supply-agreements-ef9c3136.md)
 * 2019-04-04 [명쾌한 광경 $600만를 제기 하는 기존의 플랫폼에 DLT 전원 게임을가지고](https://github.com/theyapapa/cryptonews/blob/ko/lucid-sight-raises-6-million-to-bring-its-dlt-powered-games-to-traditional-platforms-fb0ae794.md)
 * 2019-04-04 [4 월에 시작 하는 암호 교환 Binance, CZ은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-binance-to-launch-singapore-branch-in-april-cz-says-e149cbe6.md)
