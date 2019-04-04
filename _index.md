@@ -1,3 +1,4 @@
+* 2019-04-04 [CZ: Binance DEX Mainnet para lanzar más tarde en abril](https://github.com/theyapapa/cryptonews/blob/es/cz-binance-dex-mainnet-to-launch-later-in-april-c5e6d43b.md)
 * 2019-04-04 [Crítico cripto Nutriel Roubini: Banco Central monedas digitales no estará en blockchain](https://github.com/theyapapa/cryptonews/blob/es/crypto-critic-nouriel-roubini-central-bank-digital-currencies-wont-be-on-blockchain-85269fd4.md)
 * 2019-04-03 [Bitcoin Analyst Tone vays dice que la oleada del mercado Crypto puede no tener ningún Catalyst específico](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-analyst-tone-vays-says-crypto-market-surge-may-have-no-specific-catalyst-7966ca7e.md)
 * 2019-04-03 [Número de billeteras Bitcoin activas aumentadas antes de la oleada de Crypto Market](https://github.com/theyapapa/cryptonews/blob/es/number-of-active-bitcoin-wallets-increased-prior-to-crypto-market-surge-85a9ba57.md)
