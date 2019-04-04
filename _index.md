@@ -1,3 +1,4 @@
+* 2019-04-04 [Crypto Exchange Binance para lanzar la sucursal de Singapur en abril, CZ dice](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-binance-to-launch-singapore-branch-in-april-cz-says-e149cbe6.md)
 * 2019-04-04 [CZ: Binance DEX Mainnet para lanzar más tarde en abril](https://github.com/theyapapa/cryptonews/blob/es/cz-binance-dex-mainnet-to-launch-later-in-april-c5e6d43b.md)
 * 2019-04-04 [Crítico cripto Nutriel Roubini: Banco Central monedas digitales no estará en blockchain](https://github.com/theyapapa/cryptonews/blob/es/crypto-critic-nouriel-roubini-central-bank-digital-currencies-wont-be-on-blockchain-85269fd4.md)
 * 2019-04-03 [Bitcoin Analyst Tone vays dice que la oleada del mercado Crypto puede no tener ningún Catalyst específico](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-analyst-tone-vays-says-crypto-market-surge-may-have-no-specific-catalyst-7966ca7e.md)
