@@ -1,3 +1,4 @@
+* 2019-04-04 [암호화 비평가 Nouriel 루비 니: 중앙 은행 디지털 통화는 블록 체인에 없을 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-critic-nouriel-roubini-central-bank-digital-currencies-wont-be-on-blockchain-85269fd4.md)
 * 2019-04-03 [비트 코인 분석가 톤 Vays는 암호화 시장 서 지에 특정 촉매가 없을 수 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-analyst-tone-vays-says-crypto-market-surge-may-have-no-specific-catalyst-7966ca7e.md)
 * 2019-04-03 [암호화 시장 급증 이전에 증가 한 활성 비트 코인 지갑 수](https://github.com/theyapapa/cryptonews/blob/ko/number-of-active-bitcoin-wallets-increased-prior-to-crypto-market-surge-85a9ba57.md)
 * 2019-04-03 [WEF 보고서: 40 중앙 은행은 디지털 통화, 블록 체인 테크를 고려 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/wef-report-40-central-banks-are-considering-digital-currencies-blockchain-tech-b36c454b.md)
