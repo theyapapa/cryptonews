@@ -1,3 +1,4 @@
+* 2019-04-04 [India: fianza provisional concedida a dos hermanos acusados en $300 MLN Crypto Ponzi Scheme](https://github.com/theyapapa/cryptonews/blob/es/india-interim-bail-granted-to-two-brothers-accused-in-300-mln-crypto-ponzi-scheme-94450af8.md)
 * 2019-04-04 [Gigante de gas ruso Gazprom para usar blockchain en los acuerdos de suministro de gas](https://github.com/theyapapa/cryptonews/blob/es/russian-gas-giant-gazprom-to-use-blockchain-in-gas-supply-agreements-ef9c3136.md)
 * 2019-04-04 [Lucid Sight eleva $6 millones para llevar sus juegos con tecnología DLT a las plataformas tradicionales](https://github.com/theyapapa/cryptonews/blob/es/lucid-sight-raises-6-million-to-bring-its-dlt-powered-games-to-traditional-platforms-fb0ae794.md)
 * 2019-04-04 [Crypto Exchange Binance para lanzar la sucursal de Singapur en abril, CZ dice](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-binance-to-launch-singapore-branch-in-april-cz-says-e149cbe6.md)
