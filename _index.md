@@ -1,3 +1,4 @@
+* 2019-04-03 [비트 코인 분석가 톤 Vays는 암호화 시장 서 지에 특정 촉매가 없을 수 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-analyst-tone-vays-says-crypto-market-surge-may-have-no-specific-catalyst-7966ca7e.md)
 * 2019-04-03 [암호화 시장 급증 이전에 증가 한 활성 비트 코인 지갑 수](https://github.com/theyapapa/cryptonews/blob/ko/number-of-active-bitcoin-wallets-increased-prior-to-crypto-market-surge-85a9ba57.md)
 * 2019-04-03 [WEF 보고서: 40 중앙 은행은 디지털 통화, 블록 체인 테크를 고려 하 고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/wef-report-40-central-banks-are-considering-digital-currencies-blockchain-tech-b36c454b.md)
 * 2019-04-03 [비트 코인,이 더 리 움 리플, 라이트 코인, EOS, 비트 코인 캐시, 항성 동전, 스텔라, 카르다노](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-litecoin-eos-bitcoin-cash-binance-coin-stellar-cardano-tron-price-analysis-april-3-32f7f582.md)
