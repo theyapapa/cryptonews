@@ -1,3 +1,4 @@
+* 2019-04-04 [CZ: Binance DEX Мейннет, чтобы начать позже в апреле](https://github.com/theyapapa/cryptonews/blob/ru/cz-binance-dex-mainnet-to-launch-later-in-april-c5e6d43b.md)
 * 2019-04-04 [Крипто-критик Рубини: цифровые валюты центрального банка не будут на Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/crypto-critic-nouriel-roubini-central-bank-digital-currencies-wont-be-on-blockchain-85269fd4.md)
 * 2019-04-03 [Bitcoin аналитик тон Вайс говорит крипто рынок всплеск может не иметь конкретного катализатора](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-analyst-tone-vays-says-crypto-market-surge-may-have-no-specific-catalyst-7966ca7e.md)
 * 2019-04-03 [Количество активных биткоин-кошельков увеличилось до перенапряжения крипто-рынка](https://github.com/theyapapa/cryptonews/blob/ru/number-of-active-bitcoin-wallets-increased-prior-to-crypto-market-surge-85a9ba57.md)
