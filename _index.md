@@ -1,3 +1,4 @@
+* 2019-04-04 [Ясный взгляд поднимает $6 000 000 для того чтобы принести свои ДЗО-приведенные в действие игры к традиционным платформам](https://github.com/theyapapa/cryptonews/blob/ru/lucid-sight-raises-6-million-to-bring-its-dlt-powered-games-to-traditional-platforms-fb0ae794.md)
 * 2019-04-04 [Crypto Exchange Binance для запуска Сингапур филиал в апреле, CZ говорит](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-binance-to-launch-singapore-branch-in-april-cz-says-e149cbe6.md)
 * 2019-04-04 [CZ: Binance DEX Мейннет, чтобы начать позже в апреле](https://github.com/theyapapa/cryptonews/blob/ru/cz-binance-dex-mainnet-to-launch-later-in-april-c5e6d43b.md)
 * 2019-04-04 [Крипто-критик Рубини: цифровые валюты центрального банка не будут на Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/crypto-critic-nouriel-roubini-central-bank-digital-currencies-wont-be-on-blockchain-85269fd4.md)
