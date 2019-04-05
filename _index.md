@@ -1,3 +1,4 @@
+* 2019-04-05 [Bitcoin мыть торговля: просеивание факты из опасений](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-wash-trading-sifting-facts-from-fears-34c14041.md)
 * 2019-04-05 [Тайский, управляющие центрального банка Мьянмы одобряют Услуги по переводу Блокчейна ](https://github.com/theyapapa/cryptonews/blob/ru/thai-myanmar-central-bank-governors-endorse-blockchain-remittance-service-00e14d41.md)
 * 2019-04-05 [Crypto фирма Bitpanda обеспечивает получение лицензии поставщика услуг в соответствии с правилами ЕС](https://github.com/theyapapa/cryptonews/blob/ru/crypto-firm-bitpanda-secures-payments-service-provider-license-under-eu-rules-ad8f2511.md)
 * 2019-04-05 [Монтана Каунти принимает правила, требующие крипто шахтеров использовать возобновляемые источники энергии](https://github.com/theyapapa/cryptonews/blob/ru/montana-county-adopts-regulation-requiring-crypto-miners-to-use-renewable-energy-06e58dc2.md)
