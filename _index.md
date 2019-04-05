@@ -1,3 +1,4 @@
+* 2019-04-04 [Новый Bitfury совместный проект по управлению медицинскими данными разрешения с Blockchain Tech](https://github.com/theyapapa/cryptonews/blob/ru/new-bitfury-joint-project-to-manage-medical-data-permissions-with-blockchain-tech-1a435b6f.md)
 * 2019-04-04 [Поиск запросов Google для ' Bitcoin ' втрое в течение последних скачков цен](https://github.com/theyapapa/cryptonews/blob/ru/google-search-requests-for-bitcoin-tripled-during-recent-price-surge-96e81530.md)
 * 2019-04-04 [Южнокорейские чиновники рассматривают возможность пересмотра существующих правил шифрования](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-officials-consider-revision-of-existing-crypto-regulations-a7af50fe.md)
 * 2019-04-04 [Индия: Временный залог, предоставленный двум братьям, обвиняемым в $300 млн крипто-финансовой схеме](https://github.com/theyapapa/cryptonews/blob/ru/india-interim-bail-granted-to-two-brothers-accused-in-300-mln-crypto-ponzi-scheme-94450af8.md)
