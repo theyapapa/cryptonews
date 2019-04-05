@@ -1,3 +1,4 @@
+* 2019-04-05 [Монтана Каунти принимает правила, требующие крипто шахтеров использовать возобновляемые источники энергии](https://github.com/theyapapa/cryptonews/blob/ru/montana-county-adopts-regulation-requiring-crypto-miners-to-use-renewable-energy-06e58dc2.md)
 * 2019-04-05 [В течение одного часа в крупных торговых операциях в БИТКОИНах настольные отчеты](https://github.com/theyapapa/cryptonews/blob/ru/cumberland-crypto-otc-desk-reports-spike-in-large-scale-btc-trades-within-one-hour-e98611eb.md)
 * 2019-04-04 [Крипто-налоговое программное обеспечение Криптотрейдер. Tax интегрируется с TurboTax](https://github.com/theyapapa/cryptonews/blob/ru/crypto-tax-software-cryptotradertax-integrates-with-turbotax-880be615.md)
 * 2019-04-04 [Новый Bitfury совместный проект по управлению медицинскими данными разрешения с Blockchain Tech](https://github.com/theyapapa/cryptonews/blob/ru/new-bitfury-joint-project-to-manage-medical-data-permissions-with-blockchain-tech-1a435b6f.md)
