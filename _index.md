@@ -1,3 +1,4 @@
+* 2019-04-05 [태국, 미얀마 중앙 은행 총재는 블록 체인 송금 서비스를 지지 합니다. ](https://github.com/theyapapa/cryptonews/blob/ko/thai-myanmar-central-bank-governors-endorse-blockchain-remittance-service-00e14d41.md)
 * 2019-04-05 [암호화 회사 Bitpanda는 EU 규칙에 따라 결제 서비스 제공 업체 라이센스를 보호 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-firm-bitpanda-secures-payments-service-provider-license-under-eu-rules-ad8f2511.md)
 * 2019-04-05 [몬태나 카운티는 재생 에너지를 사용 하는 암호화 광부를 요구 하는 규정을 채택](https://github.com/theyapapa/cryptonews/blob/ko/montana-county-adopts-regulation-requiring-crypto-miners-to-use-renewable-energy-06e58dc2.md)
 * 2019-04-05 [컴벌랜드 암호화 OTC 데스크 보고 1 시간 이내에 대규모 BTC 거래에서 스파이크](https://github.com/theyapapa/cryptonews/blob/ko/cumberland-crypto-otc-desk-reports-spike-in-large-scale-btc-trades-within-one-hour-e98611eb.md)
