@@ -1,3 +1,4 @@
+* 2019-04-05 [러시아 소셜 미디어 자이언트 VK ' 채굴 가능한 ' VK 코인 런칭](https://github.com/theyapapa/cryptonews/blob/ko/russian-social-media-giant-vk-launches-mineable-vk-coin-86d5dd90.md)
 * 2019-04-05 [비트 코인 워시 거래: 두려움에서 사실을 선별](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-wash-trading-sifting-facts-from-fears-34c14041.md)
 * 2019-04-05 [태국, 미얀마 중앙 은행 총재는 블록 체인 송금 서비스를 지지 합니다. ](https://github.com/theyapapa/cryptonews/blob/ko/thai-myanmar-central-bank-governors-endorse-blockchain-remittance-service-00e14d41.md)
 * 2019-04-05 [암호화 회사 Bitpanda는 EU 규칙에 따라 결제 서비스 제공 업체 라이센스를 보호 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-firm-bitpanda-secures-payments-service-provider-license-under-eu-rules-ad8f2511.md)
