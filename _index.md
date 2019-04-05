@@ -1,3 +1,4 @@
+* 2019-04-05 [Crypto фирма Bitpanda обеспечивает получение лицензии поставщика услуг в соответствии с правилами ЕС](https://github.com/theyapapa/cryptonews/blob/ru/crypto-firm-bitpanda-secures-payments-service-provider-license-under-eu-rules-ad8f2511.md)
 * 2019-04-05 [Монтана Каунти принимает правила, требующие крипто шахтеров использовать возобновляемые источники энергии](https://github.com/theyapapa/cryptonews/blob/ru/montana-county-adopts-regulation-requiring-crypto-miners-to-use-renewable-energy-06e58dc2.md)
 * 2019-04-05 [В течение одного часа в крупных торговых операциях в БИТКОИНах настольные отчеты](https://github.com/theyapapa/cryptonews/blob/ru/cumberland-crypto-otc-desk-reports-spike-in-large-scale-btc-trades-within-one-hour-e98611eb.md)
 * 2019-04-04 [Крипто-налоговое программное обеспечение Криптотрейдер. Tax интегрируется с TurboTax](https://github.com/theyapapa/cryptonews/blob/ru/crypto-tax-software-cryptotradertax-integrates-with-turbotax-880be615.md)
