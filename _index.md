@@ -1,3 +1,4 @@
+* 2019-04-05 [Bitcoin lavado de comercio: Tamiting hechos de miedos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-wash-trading-sifting-facts-from-fears-34c14041.md)
 * 2019-04-05 [Thai, los gobernadores del Banco Central de Myanmar respaldan el servicio de remesas blockchain ](https://github.com/theyapapa/cryptonews/blob/es/thai-myanmar-central-bank-governors-endorse-blockchain-remittance-service-00e14d41.md)
 * 2019-04-05 [LA firma Crypto Bitpanda asegura la licencia de proveedor de servicios de pagos bajo las reglas de la UE](https://github.com/theyapapa/cryptonews/blob/es/crypto-firm-bitpanda-secures-payments-service-provider-license-under-eu-rules-ad8f2511.md)
 * 2019-04-05 [El Condado de Montana adopta la regulación que requiere cripto mineros para usar energías renovables](https://github.com/theyapapa/cryptonews/blob/es/montana-county-adopts-regulation-requiring-crypto-miners-to-use-renewable-energy-06e58dc2.md)
