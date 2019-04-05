@@ -1,3 +1,4 @@
+* 2019-04-05 [컴벌랜드 암호화 OTC 데스크 보고 1 시간 이내에 대규모 BTC 거래에서 스파이크](https://github.com/theyapapa/cryptonews/blob/ko/cumberland-crypto-otc-desk-reports-spike-in-large-scale-btc-trades-within-one-hour-e98611eb.md)
 * 2019-04-04 [암호화 세금 소프트웨어 크립 토 상인. 세금은 터보 택스와 통합](https://github.com/theyapapa/cryptonews/blob/ko/crypto-tax-software-cryptotradertax-integrates-with-turbotax-880be615.md)
 * 2019-04-04 [블록 체인 기술을 사용 하 여 의료 데이터 권한을 관리 하는 새로운 Bitfury 합동 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/new-bitfury-joint-project-to-manage-medical-data-permissions-with-blockchain-tech-1a435b6f.md)
 * 2019-04-04 [최근 가격 급증 시 ' 비트 코인 ' 세 배로 Google 검색 요청](https://github.com/theyapapa/cryptonews/blob/ko/google-search-requests-for-bitcoin-tripled-during-recent-price-surge-96e81530.md)
