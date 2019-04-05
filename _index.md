@@ -1,3 +1,4 @@
+* 2019-04-05 [블록 체인 보험 이니셔티브 B3i 투자자 그룹 확대](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-insurance-initiative-b3i-expands-its-group-of-investors-ac6597a0.md)
 * 2019-04-05 [러시아 소셜 미디어 자이언트 VK ' 채굴 가능한 ' VK 코인 런칭](https://github.com/theyapapa/cryptonews/blob/ko/russian-social-media-giant-vk-launches-mineable-vk-coin-86d5dd90.md)
 * 2019-04-05 [비트 코인 워시 거래: 두려움에서 사실을 선별](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-wash-trading-sifting-facts-from-fears-34c14041.md)
 * 2019-04-05 [태국, 미얀마 중앙 은행 총재는 블록 체인 송금 서비스를 지지 합니다. ](https://github.com/theyapapa/cryptonews/blob/ko/thai-myanmar-central-bank-governors-endorse-blockchain-remittance-service-00e14d41.md)
