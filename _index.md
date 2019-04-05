@@ -1,3 +1,4 @@
+* 2019-04-05 [비트 코인 워시 거래: 두려움에서 사실을 선별](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-wash-trading-sifting-facts-from-fears-34c14041.md)
 * 2019-04-05 [태국, 미얀마 중앙 은행 총재는 블록 체인 송금 서비스를 지지 합니다. ](https://github.com/theyapapa/cryptonews/blob/ko/thai-myanmar-central-bank-governors-endorse-blockchain-remittance-service-00e14d41.md)
 * 2019-04-05 [암호화 회사 Bitpanda는 EU 규칙에 따라 결제 서비스 제공 업체 라이센스를 보호 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-firm-bitpanda-secures-payments-service-provider-license-under-eu-rules-ad8f2511.md)
 * 2019-04-05 [몬태나 카운티는 재생 에너지를 사용 하는 암호화 광부를 요구 하는 규정을 채택](https://github.com/theyapapa/cryptonews/blob/ko/montana-county-adopts-regulation-requiring-crypto-miners-to-use-renewable-energy-06e58dc2.md)
