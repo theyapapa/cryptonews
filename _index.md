@@ -1,3 +1,4 @@
+* 2019-04-05 [В течение одного часа в крупных торговых операциях в БИТКОИНах настольные отчеты](https://github.com/theyapapa/cryptonews/blob/ru/cumberland-crypto-otc-desk-reports-spike-in-large-scale-btc-trades-within-one-hour-e98611eb.md)
 * 2019-04-04 [Крипто-налоговое программное обеспечение Криптотрейдер. Tax интегрируется с TurboTax](https://github.com/theyapapa/cryptonews/blob/ru/crypto-tax-software-cryptotradertax-integrates-with-turbotax-880be615.md)
 * 2019-04-04 [Новый Bitfury совместный проект по управлению медицинскими данными разрешения с Blockchain Tech](https://github.com/theyapapa/cryptonews/blob/ru/new-bitfury-joint-project-to-manage-medical-data-permissions-with-blockchain-tech-1a435b6f.md)
 * 2019-04-04 [Поиск запросов Google для ' Bitcoin ' втрое в течение последних скачков цен](https://github.com/theyapapa/cryptonews/blob/ru/google-search-requests-for-bitcoin-tripled-during-recent-price-surge-96e81530.md)
