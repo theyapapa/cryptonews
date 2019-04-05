@@ -1,3 +1,4 @@
+* 2019-04-04 [Software de impuestos Crypto CryptoTrader. Tax se integra con TurboTax](https://github.com/theyapapa/cryptonews/blob/es/crypto-tax-software-cryptotradertax-integrates-with-turbotax-880be615.md)
 * 2019-04-04 [Nuevo proyecto conjunto Bitfury para administrar los permisos de datos médicos con blockchain Tech](https://github.com/theyapapa/cryptonews/blob/es/new-bitfury-joint-project-to-manage-medical-data-permissions-with-blockchain-tech-1a435b6f.md)
 * 2019-04-04 [Las solicitudes de búsqueda de Google para "Bitcoin" se triplicaron durante la subida de precio reciente](https://github.com/theyapapa/cryptonews/blob/es/google-search-requests-for-bitcoin-tripled-during-recent-price-surge-96e81530.md)
 * 2019-04-04 [Funcionarios de Corea del sur consideran la revisión de las regulaciones criptográficas existentes](https://github.com/theyapapa/cryptonews/blob/es/south-korean-officials-consider-revision-of-existing-crypto-regulations-a7af50fe.md)
