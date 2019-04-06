@@ -1,3 +1,4 @@
+* 2019-04-05 [Дочерние партнеры Гибралтарской фондовой биржи с платформой токенов](https://github.com/theyapapa/cryptonews/blob/ru/gibraltar-stock-exchange-subsidiary-partners-with-tokenization-platform-edba3a94.md)
 * 2019-04-05 [Блокчейн страховая инициатива B3i расширяет свою группу инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-insurance-initiative-b3i-expands-its-group-of-investors-ac6597a0.md)
 * 2019-04-05 [Русский социальный медиа гигант ВК запускает ' Mine ' VK монета](https://github.com/theyapapa/cryptonews/blob/ru/russian-social-media-giant-vk-launches-mineable-vk-coin-86d5dd90.md)
 * 2019-04-05 [Bitcoin мыть торговля: просеивание факты из опасений](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-wash-trading-sifting-facts-from-fears-34c14041.md)
