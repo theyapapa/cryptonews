@@ -1,3 +1,4 @@
+* 2019-04-06 [Blockchain hipoteca tecnología startup acre software eleva $6,5 mln de UK Financial Advisor](https://github.com/theyapapa/cryptonews/blob/es/blockchain-mortgage-tech-startup-acre-software-raises-65-mln-from-uk-financial-advisor-15a5086e.md)
 * 2019-04-06 [Futuros CME grupo Bitcoin reportado volumen de operaciones de registro en abril 4](https://github.com/theyapapa/cryptonews/blob/es/cme-group-bitcoin-futures-reported-record-trading-volume-on-april-4-d95db67c.md)
 * 2019-04-06 [Fundstrat Global Advisors Co-fundador Thomas lee: Bitcoin está de vuelta en una tendencia alcista](https://github.com/theyapapa/cryptonews/blob/es/fundstrat-global-advisors-co-founder-thomas-lee-bitcoin-is-back-in-a-bullish-trend-50e8f273.md)
 * 2019-04-05 [Ripple cofundador da $25 millones donación en XRP a la Universidad de San Francisco](https://github.com/theyapapa/cryptonews/blob/es/ripple-co-founder-gives-25-million-donation-in-xrp-to-san-francisco-university-d70ee5c9.md)
