@@ -1,3 +1,4 @@
+* 2019-04-06 [Блокчейн ипотечный технология Startup Акр программное обеспечение поднимает $6,5 млн из Великобритании финансовый советник](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-mortgage-tech-startup-acre-software-raises-65-mln-from-uk-financial-advisor-15a5086e.md)
 * 2019-04-06 [CME Group Bitcoin фьючерсы сообщили рекордный объем торгов 4 апреля](https://github.com/theyapapa/cryptonews/blob/ru/cme-group-bitcoin-futures-reported-record-trading-volume-on-april-4-d95db67c.md)
 * 2019-04-06 [Фундстрат глобальные советники соучредитель Томас ли: Bitcoin вернулся в бычий тренд](https://github.com/theyapapa/cryptonews/blob/ru/fundstrat-global-advisors-co-founder-thomas-lee-bitcoin-is-back-in-a-bullish-trend-50e8f273.md)
 * 2019-04-05 [Со-основатель рябь дает $25 000 000 пожертвование в университете Сан-Франциско](https://github.com/theyapapa/cryptonews/blob/ru/ripple-co-founder-gives-25-million-donation-in-xrp-to-san-francisco-university-d70ee5c9.md)
