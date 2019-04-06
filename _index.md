@@ -1,3 +1,4 @@
+* 2019-04-05 [Gibraltar Stock Exchange subsidiaria Partners con plataforma de tokenización](https://github.com/theyapapa/cryptonews/blob/es/gibraltar-stock-exchange-subsidiary-partners-with-tokenization-platform-edba3a94.md)
 * 2019-04-05 [La iniciativa de seguros blockchain B3i expande su grupo de inversionistas](https://github.com/theyapapa/cryptonews/blob/es/blockchain-insurance-initiative-b3i-expands-its-group-of-investors-ac6597a0.md)
 * 2019-04-05 [El gigante ruso de las redes sociales VK lanza ' Mineable ' VK Coin](https://github.com/theyapapa/cryptonews/blob/es/russian-social-media-giant-vk-launches-mineable-vk-coin-86d5dd90.md)
 * 2019-04-05 [Bitcoin lavado de comercio: Tamiting hechos de miedos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-wash-trading-sifting-facts-from-fears-34c14041.md)
