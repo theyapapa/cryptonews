@@ -1,3 +1,4 @@
+* 2019-04-06 [Fundstrat Global Advisors Co-fundador Thomas lee: Bitcoin está de vuelta en una tendencia alcista](https://github.com/theyapapa/cryptonews/blob/es/fundstrat-global-advisors-co-founder-thomas-lee-bitcoin-is-back-in-a-bullish-trend-50e8f273.md)
 * 2019-04-05 [Ripple cofundador da $25 millones donación en XRP a la Universidad de San Francisco](https://github.com/theyapapa/cryptonews/blob/es/ripple-co-founder-gives-25-million-donation-in-xrp-to-san-francisco-university-d70ee5c9.md)
 * 2019-04-05 [Gibraltar Stock Exchange subsidiaria Partners con plataforma de tokenización](https://github.com/theyapapa/cryptonews/blob/es/gibraltar-stock-exchange-subsidiary-partners-with-tokenization-platform-edba3a94.md)
 * 2019-04-05 [La iniciativa de seguros blockchain B3i expande su grupo de inversionistas](https://github.com/theyapapa/cryptonews/blob/es/blockchain-insurance-initiative-b3i-expands-its-group-of-investors-ac6597a0.md)
