@@ -1,3 +1,4 @@
+* 2019-04-05 [리플 공동 설립자는 샌프란시스코 대학에 XRP에 $2500만 기부금을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/ripple-co-founder-gives-25-million-donation-in-xrp-to-san-francisco-university-d70ee5c9.md)
 * 2019-04-05 [토큰화 플랫폼을 보유 한 지브롤터 증권 거래소 자회사 파트너](https://github.com/theyapapa/cryptonews/blob/ko/gibraltar-stock-exchange-subsidiary-partners-with-tokenization-platform-edba3a94.md)
 * 2019-04-05 [블록 체인 보험 이니셔티브 B3i 투자자 그룹 확대](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-insurance-initiative-b3i-expands-its-group-of-investors-ac6597a0.md)
 * 2019-04-05 [러시아 소셜 미디어 자이언트 VK ' 채굴 가능한 ' VK 코인 런칭](https://github.com/theyapapa/cryptonews/blob/ko/russian-social-media-giant-vk-launches-mineable-vk-coin-86d5dd90.md)
