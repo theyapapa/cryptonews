@@ -1,3 +1,4 @@
+* 2019-04-07 [Bitcoin en la mayoría del nivel de sobrecompra desde registro Bull Run: Bloomberg Analyst](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-at-most-overbought-level-since-record-bull-run-bloomberg-analyst-fa920a25.md)
 * 2019-04-07 [G20 para establecer el Reglamento de financiación de la AML y la lucha contra el terrorismo en junio: informe](https://github.com/theyapapa/cryptonews/blob/es/g20-to-establish-crypto-aml-and-counter-terrorism-financing-regulations-in-june-report-d49897c3.md)
 * 2019-04-06 [Dinero ' gratis ': cómo los estudiantes mina criptomoneda en sus habitaciones compartidas](https://github.com/theyapapa/cryptonews/blob/es/free-money-how-students-mine-cryptocurrency-in-their-dorm-rooms-567b868b.md)
 * 2019-04-06 [Top 5 general de los intérpretes de criptografía: BCH, LTC, DASH, NEO, XEM](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-bch-ltc-dash-neo-xem-89b0d788.md)
