@@ -1,3 +1,4 @@
+* 2019-04-07 [Hodler의 다이제스트, 4 월 1 일-7: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-april-17-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-96298e48.md)
 * 2019-04-07 [말하기: 암호화의 최근 이벤트 토론](https://github.com/theyapapa/cryptonews/blob/ko/speak-out-discussing-recent-events-in-crypto-d2cb3b63.md)
 * 2019-04-07 [레코드 황소 실행 이후 가장과 매 수준에서 비트 코인: 블룸버그 애 널 리스트](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-at-most-overbought-level-since-record-bull-run-bloomberg-analyst-fa920a25.md)
 * 2019-04-07 [G20, 6 월의 암호 AML 및 테러 대응 금융 규제 확립: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/g20-to-establish-crypto-aml-and-counter-terrorism-financing-regulations-in-june-report-d49897c3.md)
