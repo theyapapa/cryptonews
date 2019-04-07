@@ -1,3 +1,4 @@
+* 2019-04-07 [레코드 황소 실행 이후 가장과 매 수준에서 비트 코인: 블룸버그 애 널 리스트](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-at-most-overbought-level-since-record-bull-run-bloomberg-analyst-fa920a25.md)
 * 2019-04-07 [G20, 6 월의 암호 AML 및 테러 대응 금융 규제 확립: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/g20-to-establish-crypto-aml-and-counter-terrorism-financing-regulations-in-june-report-d49897c3.md)
 * 2019-04-06 [' 무료 ' 돈: 학생 들이 기숙사 방에서 암호 화폐를 채굴 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/free-money-how-students-mine-cryptocurrency-in-their-dorm-rooms-567b868b.md)
 * 2019-04-06 [맨 위로 5 암호화 수행자 개요: BCH, LTC, 대시, 네오](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bch-ltc-dash-neo-xem-89b0d788.md)
