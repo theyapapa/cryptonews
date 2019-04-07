@@ -1,3 +1,4 @@
+* 2019-04-07 [Bitcoin на большинстве перекупленности уровень с рекордной Bull Run: Bloomberg аналитик](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-at-most-overbought-level-since-record-bull-run-bloomberg-analyst-fa920a25.md)
 * 2019-04-07 [G20 создаст в июне правила по борьбе с AML и финансированием терроризма: отчет](https://github.com/theyapapa/cryptonews/blob/ru/g20-to-establish-crypto-aml-and-counter-terrorism-financing-regulations-in-june-report-d49897c3.md)
 * 2019-04-06 ["Свободные" деньги: как студенты шахты криптовалюты в общежитии номера](https://github.com/theyapapa/cryptonews/blob/ru/free-money-how-students-mine-cryptocurrency-in-their-dorm-rooms-567b868b.md)
 * 2019-04-06 [Топ 5 крипто исполнители Обзор:, LTC, DASH, нео, XEM](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-bch-ltc-dash-neo-xem-89b0d788.md)
