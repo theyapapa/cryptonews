@@ -1,3 +1,4 @@
+* 2019-04-07 [Hablar: discutiendo los eventos recientes en Crypto](https://github.com/theyapapa/cryptonews/blob/es/speak-out-discussing-recent-events-in-crypto-d2cb3b63.md)
 * 2019-04-07 [Bitcoin en la mayoría del nivel de sobrecompra desde registro Bull Run: Bloomberg Analyst](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-at-most-overbought-level-since-record-bull-run-bloomberg-analyst-fa920a25.md)
 * 2019-04-07 [G20 para establecer el Reglamento de financiación de la AML y la lucha contra el terrorismo en junio: informe](https://github.com/theyapapa/cryptonews/blob/es/g20-to-establish-crypto-aml-and-counter-terrorism-financing-regulations-in-june-report-d49897c3.md)
 * 2019-04-06 [Dinero ' gratis ': cómo los estudiantes mina criptomoneda en sus habitaciones compartidas](https://github.com/theyapapa/cryptonews/blob/es/free-money-how-students-mine-cryptocurrency-in-their-dorm-rooms-567b868b.md)
