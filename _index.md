@@ -1,3 +1,4 @@
+* 2019-04-06 [' 무료 ' 돈: 학생 들이 기숙사 방에서 암호 화폐를 채굴 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/free-money-how-students-mine-cryptocurrency-in-their-dorm-rooms-567b868b.md)
 * 2019-04-06 [맨 위로 5 암호화 수행자 개요: BCH, LTC, 대시, 네오](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-bch-ltc-dash-neo-xem-89b0d788.md)
 * 2019-04-06 [블록 체인 모기지 테크 스타트업 에이커 소프트웨어는 영국 금융 자문에서 $6.5 백만을 제기](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-mortgage-tech-startup-acre-software-raises-65-mln-from-uk-financial-advisor-15a5086e.md)
 * 2019-04-06 [CME 그룹 비트 코인 선물 2017 년 4 월 3 일에 기록 거래량](https://github.com/theyapapa/cryptonews/blob/ko/cme-group-bitcoin-futures-reported-record-trading-volume-on-april-4-d95db67c.md)
