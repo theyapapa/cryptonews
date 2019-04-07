@@ -1,3 +1,4 @@
+* 2019-04-07 [Дайджест Ходлер, 1 – 7 апреля: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-17-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-96298e48.md)
 * 2019-04-07 [Говорить: обсуждение последних событий в крипто](https://github.com/theyapapa/cryptonews/blob/ru/speak-out-discussing-recent-events-in-crypto-d2cb3b63.md)
 * 2019-04-07 [Bitcoin на большинстве перекупленности уровень с рекордной Bull Run: Bloomberg аналитик](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-at-most-overbought-level-since-record-bull-run-bloomberg-analyst-fa920a25.md)
 * 2019-04-07 [G20 создаст в июне правила по борьбе с AML и финансированием терроризма: отчет](https://github.com/theyapapa/cryptonews/blob/ru/g20-to-establish-crypto-aml-and-counter-terrorism-financing-regulations-in-june-report-d49897c3.md)
