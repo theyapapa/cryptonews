@@ -1,3 +1,4 @@
+* 2019-04-07 [말하기: 암호화의 최근 이벤트 토론](https://github.com/theyapapa/cryptonews/blob/ko/speak-out-discussing-recent-events-in-crypto-d2cb3b63.md)
 * 2019-04-07 [레코드 황소 실행 이후 가장과 매 수준에서 비트 코인: 블룸버그 애 널 리스트](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-at-most-overbought-level-since-record-bull-run-bloomberg-analyst-fa920a25.md)
 * 2019-04-07 [G20, 6 월의 암호 AML 및 테러 대응 금융 규제 확립: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/g20-to-establish-crypto-aml-and-counter-terrorism-financing-regulations-in-june-report-d49897c3.md)
 * 2019-04-06 [' 무료 ' 돈: 학생 들이 기숙사 방에서 암호 화폐를 채굴 하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/free-money-how-students-mine-cryptocurrency-in-their-dorm-rooms-567b868b.md)
