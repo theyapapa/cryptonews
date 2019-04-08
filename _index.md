@@ -1,3 +1,4 @@
+* 2019-04-08 [자율 주행 차량에 대 한 데이터 관리를 위한 IBM 특허 블록 체인 구현](https://github.com/theyapapa/cryptonews/blob/ko/ibm-patents-blockchain-implementation-to-manage-data-for-autonomous-vehicles-489765b4.md)
 * 2019-04-08 [나이지리아: 금융 감시는 계정 폐쇄를 통해 암호화 교환에 대 한 청 원을 받습니다](https://github.com/theyapapa/cryptonews/blob/ko/nigeria-financial-watchdog-receives-petition-against-crypto-exchange-over-account-closures-17b07c97.md)
 * 2019-04-08 [인공 지능 도움이 한국 경찰 엔드 $1800만 암호화 폰 지 방식](https://github.com/theyapapa/cryptonews/blob/ko/artificial-intelligence-helps-south-korea-police-end-18-million-crypto-ponzi-scheme-2e485814.md)
 * 2019-04-07 [비트 코인 작성자와 슈퍼 에이전트: 크레이그 라이트에 대해 알아야 할 것 들](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-creator-and-superagent-what-you-should-know-about-craig-wright-7094b11f.md)
