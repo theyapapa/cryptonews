@@ -1,3 +1,4 @@
+* 2019-04-08 [전기는 다른 가짜 지갑 공격에 직면, 사용자는 달러의 수백만을 잃고 보고](https://github.com/theyapapa/cryptonews/blob/ko/electrum-faces-another-fake-wallet-attack-users-reported-to-lose-millions-of-dollars-dc81b79d.md)
 * 2019-04-08 [미국 스타트업은 판 테라에서 $3.5를 발생 시키고, 다른 사람들은 LN에 분산 된 교환을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-startup-raises-35-from-pantera-others-to-launch-decentralized-exchange-on-ln-d60a8923.md)
 * 2019-04-08 [트 론은 태양 네트워크 출시 날짜를 발표, DApp 체인에 대 한 주요 단계를 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/tron-announces-sun-network-may-launch-date-reveals-key-phases-for-dapp-chain-d35882eb.md)
 * 2019-04-08 [자율 주행 차량에 대 한 데이터 관리를 위한 IBM 특허 블록 체인 구현](https://github.com/theyapapa/cryptonews/blob/ko/ibm-patents-blockchain-implementation-to-manage-data-for-autonomous-vehicles-489765b4.md)
