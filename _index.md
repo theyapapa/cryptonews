@@ -1,3 +1,4 @@
+* 2019-04-08 [Inteligencia artificial ayuda a Corea del sur final de la policía $18 millones esquema de cripto Ponzi](https://github.com/theyapapa/cryptonews/blob/es/artificial-intelligence-helps-south-korea-police-end-18-million-crypto-ponzi-scheme-2e485814.md)
 * 2019-04-07 [Bitcoin Creator y SuperAgent: lo que debe saber sobre Craig Wright](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-creator-and-superagent-what-you-should-know-about-craig-wright-7094b11f.md)
 * 2019-04-07 [Hodler's Digest, 1 – 7 de abril: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-17-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-96298e48.md)
 * 2019-04-07 [Hablar: discutiendo los eventos recientes en Crypto](https://github.com/theyapapa/cryptonews/blob/es/speak-out-discussing-recent-events-in-crypto-d2cb3b63.md)
