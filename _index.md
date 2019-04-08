@@ -1,3 +1,4 @@
+* 2019-04-08 [인공 지능 도움이 한국 경찰 엔드 $1800만 암호화 폰 지 방식](https://github.com/theyapapa/cryptonews/blob/ko/artificial-intelligence-helps-south-korea-police-end-18-million-crypto-ponzi-scheme-2e485814.md)
 * 2019-04-07 [비트 코인 작성자와 슈퍼 에이전트: 크레이그 라이트에 대해 알아야 할 것 들](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-creator-and-superagent-what-you-should-know-about-craig-wright-7094b11f.md)
 * 2019-04-07 [Hodler의 다이제스트, 4 월 1 일-7: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-april-17-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-96298e48.md)
 * 2019-04-07 [말하기: 암호화의 최근 이벤트 토론](https://github.com/theyapapa/cryptonews/blob/ko/speak-out-discussing-recent-events-in-crypto-d2cb3b63.md)
