@@ -1,3 +1,4 @@
+* 2019-04-08 [Coinbase Pro añade soporte para tres nuevos tokens: EOS, Augur y Maker](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-adds-support-for-three-new-tokens-eos-augur-and-maker-b8365bb7.md)
 * 2019-04-08 [Hombre danés enfrenta más de 4 años de prisión por blanqueo $450K con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/danish-man-faces-over-4-years-in-prison-for-laundering-450k-with-bitcoin-30717c72.md)
 * 2019-04-08 [Electrum enfrenta otro ataque de billetera falsa, usuarios reportados a perder millones de dólares](https://github.com/theyapapa/cryptonews/blob/es/electrum-faces-another-fake-wallet-attack-users-reported-to-lose-millions-of-dollars-dc81b79d.md)
 * 2019-04-08 [La startup de EE.UU. eleva $3,5 de Pantera, otros para lanzar intercambio descentralizado en LN](https://github.com/theyapapa/cryptonews/blob/es/us-startup-raises-35-from-pantera-others-to-launch-decentralized-exchange-on-ln-d60a8923.md)
