@@ -1,3 +1,4 @@
+* 2019-04-08 [IBM патенты Блокчейн реализация для управления данными для автономных транспортных средств](https://github.com/theyapapa/cryptonews/blob/ru/ibm-patents-blockchain-implementation-to-manage-data-for-autonomous-vehicles-489765b4.md)
 * 2019-04-08 [Нигерия: финансовый сторожевой получает петицию против крипто обмен над закрытием счета](https://github.com/theyapapa/cryptonews/blob/ru/nigeria-financial-watchdog-receives-petition-against-crypto-exchange-over-account-closures-17b07c97.md)
 * 2019-04-08 [Искусственный интеллект помогает Южной Корее полиции конец $18 000 000 крипто-финансовая схема](https://github.com/theyapapa/cryptonews/blob/ru/artificial-intelligence-helps-south-korea-police-end-18-million-crypto-ponzi-scheme-2e485814.md)
 * 2019-04-07 [Bitcoin создатель и Superagent: что вы должны знать о Крейг Райт](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-creator-and-superagent-what-you-should-know-about-craig-wright-7094b11f.md)
