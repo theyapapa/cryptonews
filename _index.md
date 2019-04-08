@@ -1,3 +1,4 @@
+* 2019-04-08 [Искусственный интеллект помогает Южной Корее полиции конец $18 000 000 крипто-финансовая схема](https://github.com/theyapapa/cryptonews/blob/ru/artificial-intelligence-helps-south-korea-police-end-18-million-crypto-ponzi-scheme-2e485814.md)
 * 2019-04-07 [Bitcoin создатель и Superagent: что вы должны знать о Крейг Райт](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-creator-and-superagent-what-you-should-know-about-craig-wright-7094b11f.md)
 * 2019-04-07 [Дайджест Ходлер, 1 – 7 апреля: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-17-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-96298e48.md)
 * 2019-04-07 [Говорить: обсуждение последних событий в крипто](https://github.com/theyapapa/cryptonews/blob/ru/speak-out-discussing-recent-events-in-crypto-d2cb3b63.md)
