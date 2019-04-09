@@ -1,3 +1,4 @@
+* 2019-04-09 [말하기: Ico를 통한 경험 논의](https://github.com/theyapapa/cryptonews/blob/ko/speak-out-discussing-your-experience-with-icos-dba13faa.md)
 * 2019-04-09 [$5000 위의 BTC, 전통적인 시장은 혼합 신호 참조](https://github.com/theyapapa/cryptonews/blob/ko/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
 * 2019-04-09 [암호 화폐 거래소 ' IEO '는 출시 전에 토큰을 판매 할 계획에 대 한 의혹을 그립니다.](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-exchange-ieo-draws-suspicion-for-plans-to-sell-tokens-ahead-of-launch-895513c6.md)
 * 2019-04-09 [기관 비트 코인 거래량 4 개월 성장, 디 아 르 보고서 보기](https://github.com/theyapapa/cryptonews/blob/ko/institutional-bitcoin-trading-volumes-see-fourth-month-of-growth-diar-reports-e2a76334.md)
