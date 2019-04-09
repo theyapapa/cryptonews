@@ -1,3 +1,4 @@
+* 2019-04-09 [«Интеллектуальная торговля»: крипто-платформа предлагает интуитивно понятные инструменты команды с Binance](https://github.com/theyapapa/cryptonews/blob/ru/intelligent-trading-crypto-platform-offering-intuitive-tools-teams-up-with-binance-3514a458.md)
 * 2019-04-09 [Говорить вне: обсуждать ваш опыт с ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/speak-out-discussing-your-experience-with-icos-dba13faa.md)
 * 2019-04-09 [BTC держит выше $5 000, традиционные рынки видят смешанные сигналы](https://github.com/theyapapa/cryptonews/blob/ru/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
 * 2019-04-09 [Биржа Криптовалют ' НОО ' рисует подозрения в планах продать жетоны впереди старта](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-exchange-ieo-draws-suspicion-for-plans-to-sell-tokens-ahead-of-launch-895513c6.md)
