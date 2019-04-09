@@ -1,3 +1,4 @@
+* 2019-04-08 [Канадский крипто-обмен Куадригаккс официально объявлен банкротом](https://github.com/theyapapa/cryptonews/blob/ru/canadian-crypto-exchange-quadrigacx-officially-declared-bankrupt-71b5abfa.md)
 * 2019-04-08 [Coinbase Pro добавляет поддержку трех новых токенов: EOS, предвещает и создатель](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-adds-support-for-three-new-tokens-eos-augur-and-maker-b8365bb7.md)
 * 2019-04-08 [Датский человек сталкивается более 4 лет в тюрьме за отмывание $450K с Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/danish-man-faces-over-4-years-in-prison-for-laundering-450k-with-bitcoin-30717c72.md)
 * 2019-04-08 [Электрум сталкивается с другой фальшивый кошелек атаки, пользователи сообщили потерять миллионы долларов](https://github.com/theyapapa/cryptonews/blob/ru/electrum-faces-another-fake-wallet-attack-users-reported-to-lose-millions-of-dollars-dc81b79d.md)
