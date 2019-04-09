@@ -1,3 +1,4 @@
+* 2019-04-09 [' Trading inteligente ': plataforma Crypto que ofrece herramientas intuitivas se une a Binance](https://github.com/theyapapa/cryptonews/blob/es/intelligent-trading-crypto-platform-offering-intuitive-tools-teams-up-with-binance-3514a458.md)
 * 2019-04-09 [Hablar: analizar su experiencia con ICOs](https://github.com/theyapapa/cryptonews/blob/es/speak-out-discussing-your-experience-with-icos-dba13faa.md)
 * 2019-04-09 [BTC tiene por encima de $5.000, mercados tradicionales ver señales mixtas](https://github.com/theyapapa/cryptonews/blob/es/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
 * 2019-04-09 [El intercambio de Criptomonedas ' IEO ' atrae sospechas de planes para vender tokens antes del lanzamiento](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-exchange-ieo-draws-suspicion-for-plans-to-sell-tokens-ahead-of-launch-895513c6.md)
