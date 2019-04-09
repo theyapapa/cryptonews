@@ -1,3 +1,4 @@
+* 2019-04-09 [Китайское Государственное агентство макроэкономического планирования обдумывает запрет на крипто-майнинг](https://github.com/theyapapa/cryptonews/blob/ru/chinas-state-macroeconomic-planning-agency-mulls-ban-on-crypto-mining-f60b1e64.md)
 * 2019-04-08 [Британский Королевский, посол США Say Tech, Блокчейн может помочь в борьбе с торговлей людьми](https://github.com/theyapapa/cryptonews/blob/ru/british-royal-us-ambassador-say-tech-blockchain-can-help-fight-human-trafficking-eb58084e.md)
 * 2019-04-08 [Канадский крипто-обмен Куадригаккс официально объявлен банкротом](https://github.com/theyapapa/cryptonews/blob/ru/canadian-crypto-exchange-quadrigacx-officially-declared-bankrupt-71b5abfa.md)
 * 2019-04-08 [Coinbase Pro добавляет поддержку трех новых токенов: EOS, предвещает и создатель](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-adds-support-for-three-new-tokens-eos-augur-and-maker-b8365bb7.md)
