@@ -1,3 +1,4 @@
+* 2019-04-09 [BTC держит выше $5 000, традиционные рынки видят смешанные сигналы](https://github.com/theyapapa/cryptonews/blob/ru/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
 * 2019-04-09 [Биржа Криптовалют ' НОО ' рисует подозрения в планах продать жетоны впереди старта](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-exchange-ieo-draws-suspicion-for-plans-to-sell-tokens-ahead-of-launch-895513c6.md)
 * 2019-04-09 [Институциональные объемы торговли биткоинами смотрите четвертый месяц роста, отчеты](https://github.com/theyapapa/cryptonews/blob/ru/institutional-bitcoin-trading-volumes-see-fourth-month-of-growth-diar-reports-e2a76334.md)
 * 2019-04-09 [Китайское Государственное агентство макроэкономического планирования обдумывает запрет на крипто-майнинг](https://github.com/theyapapa/cryptonews/blob/ru/chinas-state-macroeconomic-planning-agency-mulls-ban-on-crypto-mining-f60b1e64.md)
