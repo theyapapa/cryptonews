@@ -1,3 +1,4 @@
+* 2019-04-09 [암호 화폐 거래소 ' IEO '는 출시 전에 토큰을 판매 할 계획에 대 한 의혹을 그립니다.](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-exchange-ieo-draws-suspicion-for-plans-to-sell-tokens-ahead-of-launch-895513c6.md)
 * 2019-04-09 [기관 비트 코인 거래량 4 개월 성장, 디 아 르 보고서 보기](https://github.com/theyapapa/cryptonews/blob/ko/institutional-bitcoin-trading-volumes-see-fourth-month-of-growth-diar-reports-e2a76334.md)
 * 2019-04-09 [암호화 광업에 중국의 국가 거 시 경제 계획 기관 Mulls 금지](https://github.com/theyapapa/cryptonews/blob/ko/chinas-state-macroeconomic-planning-agency-mulls-ban-on-crypto-mining-f60b1e64.md)
 * 2019-04-08 [영국 왕실, 미국 대사가 말하는 기술, 블록 체인은 인신매매 퇴치에 도움이 될 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/british-royal-us-ambassador-say-tech-blockchain-can-help-fight-human-trafficking-eb58084e.md)
