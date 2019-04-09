@@ -1,3 +1,4 @@
+* 2019-04-09 [프랑스 주식 시장 레 귤 레이 터 암호 관련 회사에 대 한 경고 문제](https://github.com/theyapapa/cryptonews/blob/ko/french-stock-market-regulator-issues-warning-about-crypto-related-firm-fc5613e6.md)
 * 2019-04-09 [미시간 주 하 원 의원은 형법에 암호 화폐를 포함 하는 투표](https://github.com/theyapapa/cryptonews/blob/ko/michigan-house-of-representatives-votes-to-include-cryptocurrencies-in-criminal-laws-c6c2bc57.md)
 * 2019-04-09 [모질라에 의해 주요 웹 브라우저 파이어 폭스는 지금 블록 웹 기반 암호화](https://github.com/theyapapa/cryptonews/blob/ko/beta-of-major-web-browser-firefox-by-mozilla-now-blocks-web-based-cryptojacking-5d79e424.md)
 * 2019-04-09 [' 지능형 거래 ': 직관적 인 도구를 제공 하는 암호화 플랫폼은 Binance와 함께 팀](https://github.com/theyapapa/cryptonews/blob/ko/intelligent-trading-crypto-platform-offering-intuitive-tools-teams-up-with-binance-3514a458.md)
