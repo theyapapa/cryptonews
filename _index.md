@@ -1,3 +1,4 @@
+* 2019-04-09 [암호화 광업에 중국의 국가 거 시 경제 계획 기관 Mulls 금지](https://github.com/theyapapa/cryptonews/blob/ko/chinas-state-macroeconomic-planning-agency-mulls-ban-on-crypto-mining-f60b1e64.md)
 * 2019-04-08 [영국 왕실, 미국 대사가 말하는 기술, 블록 체인은 인신매매 퇴치에 도움이 될 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/british-royal-us-ambassador-say-tech-blockchain-can-help-fight-human-trafficking-eb58084e.md)
 * 2019-04-08 [캐나다 암호화 거래소 쿼드 리그 x 공식적으로 파산 선언](https://github.com/theyapapa/cryptonews/blob/ko/canadian-crypto-exchange-quadrigacx-officially-declared-bankrupt-71b5abfa.md)
 * 2019-04-08 [Coinbase Pro는 세 가지 새로운 토큰에 대 한 지원을 추가: EOS, Augur 및 메이커](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-adds-support-for-three-new-tokens-eos-augur-and-maker-b8365bb7.md)
