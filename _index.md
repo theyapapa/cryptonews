@@ -1,3 +1,4 @@
+* 2019-04-09 [' 지능형 거래 ': 직관적 인 도구를 제공 하는 암호화 플랫폼은 Binance와 함께 팀](https://github.com/theyapapa/cryptonews/blob/ko/intelligent-trading-crypto-platform-offering-intuitive-tools-teams-up-with-binance-3514a458.md)
 * 2019-04-09 [말하기: Ico를 통한 경험 논의](https://github.com/theyapapa/cryptonews/blob/ko/speak-out-discussing-your-experience-with-icos-dba13faa.md)
 * 2019-04-09 [$5000 위의 BTC, 전통적인 시장은 혼합 신호 참조](https://github.com/theyapapa/cryptonews/blob/ko/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
 * 2019-04-09 [암호 화폐 거래소 ' IEO '는 출시 전에 토큰을 판매 할 계획에 대 한 의혹을 그립니다.](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-exchange-ieo-draws-suspicion-for-plans-to-sell-tokens-ahead-of-launch-895513c6.md)
