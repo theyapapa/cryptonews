@@ -1,3 +1,4 @@
+* 2019-04-09 [Volúmenes institucionales de Bitcoin Trading ver cuarto mes de crecimiento, Diar informes](https://github.com/theyapapa/cryptonews/blob/es/institutional-bitcoin-trading-volumes-see-fourth-month-of-growth-diar-reports-e2a76334.md)
 * 2019-04-09 [El organismo estatal de planificación macroeconómica de China mulls Ban on Crypto Mining](https://github.com/theyapapa/cryptonews/blob/es/chinas-state-macroeconomic-planning-agency-mulls-ban-on-crypto-mining-f60b1e64.md)
 * 2019-04-08 [British Royal, Embajador de Estados Unidos Say Tech, blockchain puede ayudar a combatir la trata de seres humanos](https://github.com/theyapapa/cryptonews/blob/es/british-royal-us-ambassador-say-tech-blockchain-can-help-fight-human-trafficking-eb58084e.md)
 * 2019-04-08 [Canadian Crypto Exchange QuadrigaCX declarado oficialmente en quiebra](https://github.com/theyapapa/cryptonews/blob/es/canadian-crypto-exchange-quadrigacx-officially-declared-bankrupt-71b5abfa.md)
