@@ -1,3 +1,4 @@
+* 2019-04-09 [Navegador web principal Firefox por Mozilla Now bloquea Cryptojacking basado en la web](https://github.com/theyapapa/cryptonews/blob/es/beta-of-major-web-browser-firefox-by-mozilla-now-blocks-web-based-cryptojacking-5d79e424.md)
 * 2019-04-09 [' Trading inteligente ': plataforma Crypto que ofrece herramientas intuitivas se une a Binance](https://github.com/theyapapa/cryptonews/blob/es/intelligent-trading-crypto-platform-offering-intuitive-tools-teams-up-with-binance-3514a458.md)
 * 2019-04-09 [Hablar: analizar su experiencia con ICOs](https://github.com/theyapapa/cryptonews/blob/es/speak-out-discussing-your-experience-with-icos-dba13faa.md)
 * 2019-04-09 [BTC tiene por encima de $5.000, mercados tradicionales ver señales mixtas](https://github.com/theyapapa/cryptonews/blob/es/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
