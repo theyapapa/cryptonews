@@ -1,3 +1,4 @@
+* 2019-04-09 [Основные веб-браузер Firefox на Mozilla теперь блокирует веб-Криптожаккинг](https://github.com/theyapapa/cryptonews/blob/ru/beta-of-major-web-browser-firefox-by-mozilla-now-blocks-web-based-cryptojacking-5d79e424.md)
 * 2019-04-09 [«Интеллектуальная торговля»: крипто-платформа предлагает интуитивно понятные инструменты команды с Binance](https://github.com/theyapapa/cryptonews/blob/ru/intelligent-trading-crypto-platform-offering-intuitive-tools-teams-up-with-binance-3514a458.md)
 * 2019-04-09 [Говорить вне: обсуждать ваш опыт с ИКОС](https://github.com/theyapapa/cryptonews/blob/ru/speak-out-discussing-your-experience-with-icos-dba13faa.md)
 * 2019-04-09 [BTC держит выше $5 000, традиционные рынки видят смешанные сигналы](https://github.com/theyapapa/cryptonews/blob/ru/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
