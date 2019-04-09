@@ -1,3 +1,4 @@
+* 2019-04-09 [El organismo estatal de planificación macroeconómica de China mulls Ban on Crypto Mining](https://github.com/theyapapa/cryptonews/blob/es/chinas-state-macroeconomic-planning-agency-mulls-ban-on-crypto-mining-f60b1e64.md)
 * 2019-04-08 [British Royal, Embajador de Estados Unidos Say Tech, blockchain puede ayudar a combatir la trata de seres humanos](https://github.com/theyapapa/cryptonews/blob/es/british-royal-us-ambassador-say-tech-blockchain-can-help-fight-human-trafficking-eb58084e.md)
 * 2019-04-08 [Canadian Crypto Exchange QuadrigaCX declarado oficialmente en quiebra](https://github.com/theyapapa/cryptonews/blob/es/canadian-crypto-exchange-quadrigacx-officially-declared-bankrupt-71b5abfa.md)
 * 2019-04-08 [Coinbase Pro añade soporte para tres nuevos tokens: EOS, Augur y Maker](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-adds-support-for-three-new-tokens-eos-augur-and-maker-b8365bb7.md)
