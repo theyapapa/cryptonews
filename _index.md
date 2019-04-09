@@ -1,3 +1,4 @@
+* 2019-04-09 [BTC tiene por encima de $5.000, mercados tradicionales ver señales mixtas](https://github.com/theyapapa/cryptonews/blob/es/btc-holds-above-5-000-traditional-markets-see-mixed-signals-101a127c.md)
 * 2019-04-09 [El intercambio de Criptomonedas ' IEO ' atrae sospechas de planes para vender tokens antes del lanzamiento](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-exchange-ieo-draws-suspicion-for-plans-to-sell-tokens-ahead-of-launch-895513c6.md)
 * 2019-04-09 [Volúmenes institucionales de Bitcoin Trading ver cuarto mes de crecimiento, Diar informes](https://github.com/theyapapa/cryptonews/blob/es/institutional-bitcoin-trading-volumes-see-fourth-month-of-growth-diar-reports-e2a76334.md)
 * 2019-04-09 [El organismo estatal de planificación macroeconómica de China mulls Ban on Crypto Mining](https://github.com/theyapapa/cryptonews/blob/es/chinas-state-macroeconomic-planning-agency-mulls-ban-on-crypto-mining-f60b1e64.md)
