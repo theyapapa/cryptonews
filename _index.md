@@ -1,3 +1,4 @@
+* 2019-04-10 [일본어 레 귤 레이 터 FSA는 비트 코인 가상 통화를 호출 하지에 대 한 인수를 듣고](https://github.com/theyapapa/cryptonews/blob/ko/japanese-regulator-fsa-hears-arguments-for-not-calling-bitcoin-a-virtual-currency-cb3842eb.md)
 * 2019-04-10 [블록 체인 예측 플랫폼 Augur, 통화로 표시 된 시장 출시](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-prediction-platform-augur-to-launch-stablecoin-dai-denominated-markets-f1f159c8.md)
 * 2019-04-10 [크립 토 밸리 협회의 새로운 대통령: "우리는 다시 계곡에 자본을가지고 해야 합니다"](https://github.com/theyapapa/cryptonews/blob/ko/new-president-of-crypto-valley-association-we-need-to-bring-the-capital-back-into-the-valley-ade01490.md)
 * 2019-04-09 [Securitize 토큰 컴플라이언스 프로그램 출시](https://github.com/theyapapa/cryptonews/blob/ko/securitize-launches-token-compliance-program-7aa4e6b4.md)
