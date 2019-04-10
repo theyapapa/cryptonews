@@ -1,3 +1,4 @@
+* 2019-04-10 [크립 토 밸리 협회의 새로운 대통령: "우리는 다시 계곡에 자본을가지고 해야 합니다"](https://github.com/theyapapa/cryptonews/blob/ko/new-president-of-crypto-valley-association-we-need-to-bring-the-capital-back-into-the-valley-ade01490.md)
 * 2019-04-09 [Securitize 토큰 컴플라이언스 프로그램 출시](https://github.com/theyapapa/cryptonews/blob/ko/securitize-launches-token-compliance-program-7aa4e6b4.md)
 * 2019-04-09 [프랑스 주식 시장 레 귤 레이 터 암호 관련 회사에 대 한 경고 문제](https://github.com/theyapapa/cryptonews/blob/ko/french-stock-market-regulator-issues-warning-about-crypto-related-firm-fc5613e6.md)
 * 2019-04-09 [미시간 주 하 원 의원은 형법에 암호 화폐를 포함 하는 투표](https://github.com/theyapapa/cryptonews/blob/ko/michigan-house-of-representatives-votes-to-include-cryptocurrencies-in-criminal-laws-c6c2bc57.md)
