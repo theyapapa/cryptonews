@@ -1,3 +1,4 @@
+* 2019-04-10 [Новый президент Ассоциации крипто-долины: «мы должны принести столицу назад в долину»](https://github.com/theyapapa/cryptonews/blob/ru/new-president-of-crypto-valley-association-we-need-to-bring-the-capital-back-into-the-valley-ade01490.md)
 * 2019-04-09 [Секьюритизировать запускает программу соответствия токенов](https://github.com/theyapapa/cryptonews/blob/ru/securitize-launches-token-compliance-program-7aa4e6b4.md)
 * 2019-04-09 [Французского регулятора фондового рынка выдает предупреждение о Crypto-родственной фирме](https://github.com/theyapapa/cryptonews/blob/ru/french-stock-market-regulator-issues-warning-about-crypto-related-firm-fc5613e6.md)
 * 2019-04-09 [Мичиганский дом представителей голосует за включение Криптовалют в уголовное законодательство](https://github.com/theyapapa/cryptonews/blob/ru/michigan-house-of-representatives-votes-to-include-cryptocurrencies-in-criminal-laws-c6c2bc57.md)
