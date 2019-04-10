@@ -1,3 +1,4 @@
+* 2019-04-10 [El regulador japonés FSA oye argumentos por no llamar a Bitcoin una moneda virtual](https://github.com/theyapapa/cryptonews/blob/es/japanese-regulator-fsa-hears-arguments-for-not-calling-bitcoin-a-virtual-currency-cb3842eb.md)
 * 2019-04-10 [Plataforma de predicción blockchain Augur para lanzar mercados denominados en Stablecoin DAI](https://github.com/theyapapa/cryptonews/blob/es/blockchain-prediction-platform-augur-to-launch-stablecoin-dai-denominated-markets-f1f159c8.md)
 * 2019-04-10 [Nuevo Presidente de la Asociación Crypto Valley: "tenemos que traer la capital de vuelta al valle"](https://github.com/theyapapa/cryptonews/blob/es/new-president-of-crypto-valley-association-we-need-to-bring-the-capital-back-into-the-valley-ade01490.md)
 * 2019-04-09 [Securitize lanza el programa de cumplimiento de tokens](https://github.com/theyapapa/cryptonews/blob/es/securitize-launches-token-compliance-program-7aa4e6b4.md)
