@@ -1,3 +1,4 @@
+* 2019-04-10 [Plataforma de predicción blockchain Augur para lanzar mercados denominados en Stablecoin DAI](https://github.com/theyapapa/cryptonews/blob/es/blockchain-prediction-platform-augur-to-launch-stablecoin-dai-denominated-markets-f1f159c8.md)
 * 2019-04-10 [Nuevo Presidente de la Asociación Crypto Valley: "tenemos que traer la capital de vuelta al valle"](https://github.com/theyapapa/cryptonews/blob/es/new-president-of-crypto-valley-association-we-need-to-bring-the-capital-back-into-the-valley-ade01490.md)
 * 2019-04-09 [Securitize lanza el programa de cumplimiento de tokens](https://github.com/theyapapa/cryptonews/blob/es/securitize-launches-token-compliance-program-7aa4e6b4.md)
 * 2019-04-09 [El regulador del mercado de valores francés emite una advertencia sobre la firma relacionada con Crypto](https://github.com/theyapapa/cryptonews/blob/es/french-stock-market-regulator-issues-warning-about-crypto-related-firm-fc5613e6.md)
