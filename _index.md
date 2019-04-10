@@ -1,3 +1,4 @@
+* 2019-04-09 [Securitize lanza el programa de cumplimiento de tokens](https://github.com/theyapapa/cryptonews/blob/es/securitize-launches-token-compliance-program-7aa4e6b4.md)
 * 2019-04-09 [El regulador del mercado de valores francés emite una advertencia sobre la firma relacionada con Crypto](https://github.com/theyapapa/cryptonews/blob/es/french-stock-market-regulator-issues-warning-about-crypto-related-firm-fc5613e6.md)
 * 2019-04-09 [La cámara de representantes de Michigan vota para incluir Criptomonedas en leyes penales](https://github.com/theyapapa/cryptonews/blob/es/michigan-house-of-representatives-votes-to-include-cryptocurrencies-in-criminal-laws-c6c2bc57.md)
 * 2019-04-09 [Navegador web principal Firefox por Mozilla Now bloquea Cryptojacking basado en la web](https://github.com/theyapapa/cryptonews/blob/es/beta-of-major-web-browser-firefox-by-mozilla-now-blocks-web-based-cryptojacking-5d79e424.md)
