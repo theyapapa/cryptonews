@@ -1,3 +1,4 @@
+* 2019-04-10 [Доклад: трон имеет самый быстрорастущий DApp пользовательской базы, Эфириум все еще разработчики ' первый выбор](https://github.com/theyapapa/cryptonews/blob/ru/report-tron-has-fastest-growing-dapp-user-base-ethereum-still-developers-first-choice-592a823e.md)
 * 2019-04-10 [Отчет: меньше ИКОС привлеченных средств в Q1 2019, чем в Q4 2018](https://github.com/theyapapa/cryptonews/blob/ru/report-fewer-icos-raised-funds-in-q1-2019-than-in-q4-201-ebee2015.md)
 * 2019-04-10 [Нью-Йорк отрицает Bittrex BitLicense применение ссылаясь на неадекватное соответствие](https://github.com/theyapapa/cryptonews/blob/ru/new-york-denies-bittrex-bitlicense-application-citing-inadequate-compliance-89701559.md)
 * 2019-04-10 [Блокчейн-обсерватория ЕС выпускает отчет о разметки, AI и IoT](https://github.com/theyapapa/cryptonews/blob/ru/eu-blockchain-observatory-releases-report-on-tokenization-ai-and-iot-94518b64.md)
