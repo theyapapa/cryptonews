@@ -1,3 +1,4 @@
+* 2019-04-10 [보고서: Q4 2018 보다 적은 수의 Ico가 1 분기 2019에 모금 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-fewer-icos-raised-funds-in-q1-2019-than-in-q4-201-ebee2015.md)
 * 2019-04-10 [뉴욕은 부적절 한 규정 준수를 인용 하는 비트 렉스 비트 라이센스 응용 프로그램을 거부](https://github.com/theyapapa/cryptonews/blob/ko/new-york-denies-bittrex-bitlicense-application-citing-inadequate-compliance-89701559.md)
 * 2019-04-10 [EU 블록 체인 천문대, 토큰화, AI 및 IoT에 대 한 보고서 발표](https://github.com/theyapapa/cryptonews/blob/ko/eu-blockchain-observatory-releases-report-on-tokenization-ai-and-iot-94518b64.md)
 * 2019-04-10 [일본어 레 귤 레이 터 FSA는 비트 코인 가상 통화를 호출 하지에 대 한 인수를 듣고](https://github.com/theyapapa/cryptonews/blob/ko/japanese-regulator-fsa-hears-arguments-for-not-calling-bitcoin-a-virtual-currency-cb3842eb.md)
