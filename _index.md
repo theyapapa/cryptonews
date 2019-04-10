@@ -1,3 +1,4 @@
+* 2019-04-10 [Nueva York niega Bittrex aplicación BitLicense citando cumplimiento inadecuado](https://github.com/theyapapa/cryptonews/blob/es/new-york-denies-bittrex-bitlicense-application-citing-inadequate-compliance-89701559.md)
 * 2019-04-10 [EU blockchain Observatorio lanzamientos Informe sobre tokenización, AI y IoT](https://github.com/theyapapa/cryptonews/blob/es/eu-blockchain-observatory-releases-report-on-tokenization-ai-and-iot-94518b64.md)
 * 2019-04-10 [El regulador japonés FSA oye argumentos por no llamar a Bitcoin una moneda virtual](https://github.com/theyapapa/cryptonews/blob/es/japanese-regulator-fsa-hears-arguments-for-not-calling-bitcoin-a-virtual-currency-cb3842eb.md)
 * 2019-04-10 [Plataforma de predicción blockchain Augur para lanzar mercados denominados en Stablecoin DAI](https://github.com/theyapapa/cryptonews/blob/es/blockchain-prediction-platform-augur-to-launch-stablecoin-dai-denominated-markets-f1f159c8.md)
