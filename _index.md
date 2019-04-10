@@ -1,3 +1,4 @@
+* 2019-04-10 [Отчет: меньше ИКОС привлеченных средств в Q1 2019, чем в Q4 2018](https://github.com/theyapapa/cryptonews/blob/ru/report-fewer-icos-raised-funds-in-q1-2019-than-in-q4-201-ebee2015.md)
 * 2019-04-10 [Нью-Йорк отрицает Bittrex BitLicense применение ссылаясь на неадекватное соответствие](https://github.com/theyapapa/cryptonews/blob/ru/new-york-denies-bittrex-bitlicense-application-citing-inadequate-compliance-89701559.md)
 * 2019-04-10 [Блокчейн-обсерватория ЕС выпускает отчет о разметки, AI и IoT](https://github.com/theyapapa/cryptonews/blob/ru/eu-blockchain-observatory-releases-report-on-tokenization-ai-and-iot-94518b64.md)
 * 2019-04-10 [Японский регулятор FSA слышит аргументы для не вызывать Bitcoin виртуальную валюту](https://github.com/theyapapa/cryptonews/blob/ru/japanese-regulator-fsa-hears-arguments-for-not-calling-bitcoin-a-virtual-currency-cb3842eb.md)
