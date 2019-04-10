@@ -1,3 +1,4 @@
+* 2019-04-10 [Японский регулятор FSA слышит аргументы для не вызывать Bitcoin виртуальную валюту](https://github.com/theyapapa/cryptonews/blob/ru/japanese-regulator-fsa-hears-arguments-for-not-calling-bitcoin-a-virtual-currency-cb3842eb.md)
 * 2019-04-10 [Платформа прогнозирования Блокчейн предвещает запустить Stablecoin DAI-деноминированные рынки](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-prediction-platform-augur-to-launch-stablecoin-dai-denominated-markets-f1f159c8.md)
 * 2019-04-10 [Новый президент Ассоциации крипто-долины: «мы должны принести столицу назад в долину»](https://github.com/theyapapa/cryptonews/blob/ru/new-president-of-crypto-valley-association-we-need-to-bring-the-capital-back-into-the-valley-ade01490.md)
 * 2019-04-09 [Секьюритизировать запускает программу соответствия токенов](https://github.com/theyapapa/cryptonews/blob/ru/securitize-launches-token-compliance-program-7aa4e6b4.md)
