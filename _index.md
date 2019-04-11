@@ -1,3 +1,4 @@
+* 2019-04-10 [영국 고객을 위한 Coinbase 암호화 교환 데뷔 비자 카드](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-crypto-exchange-debuts-visa-card-for-uk-customers-18f70895.md)
 * 2019-04-10 [보고서: 트 론은 가장 빠르게 성장 하는 DApp 사용자 기반,이 더 리 움 여전히 개발자의 첫 번째 선택](https://github.com/theyapapa/cryptonews/blob/ko/report-tron-has-fastest-growing-dapp-user-base-ethereum-still-developers-first-choice-592a823e.md)
 * 2019-04-10 [보고서: Q4 2018 보다 적은 수의 Ico가 1 분기 2019에 모금 되었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-fewer-icos-raised-funds-in-q1-2019-than-in-q4-201-ebee2015.md)
 * 2019-04-10 [뉴욕은 부적절 한 규정 준수를 인용 하는 비트 렉스 비트 라이센스 응용 프로그램을 거부](https://github.com/theyapapa/cryptonews/blob/ko/new-york-denies-bittrex-bitlicense-application-citing-inadequate-compliance-89701559.md)
