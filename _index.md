@@ -1,3 +1,4 @@
+* 2019-04-11 [Главный Лагард МВФ: распределенная книга технологий встряхивания системы](https://github.com/theyapapa/cryptonews/blob/ru/imf-chief-lagarde-distributed-ledger-technologies-are-shaking-the-system-a3eb6fd7.md)
 * 2019-04-10 [Coinbase Crypto Exchange дебюты Visa карты для клиентов Великобритании](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-crypto-exchange-debuts-visa-card-for-uk-customers-18f70895.md)
 * 2019-04-10 [Доклад: трон имеет самый быстрорастущий DApp пользовательской базы, Эфириум все еще разработчики ' первый выбор](https://github.com/theyapapa/cryptonews/blob/ru/report-tron-has-fastest-growing-dapp-user-base-ethereum-still-developers-first-choice-592a823e.md)
 * 2019-04-10 [Отчет: меньше ИКОС привлеченных средств в Q1 2019, чем в Q4 2018](https://github.com/theyapapa/cryptonews/blob/ru/report-fewer-icos-raised-funds-in-q1-2019-than-in-q4-201-ebee2015.md)
