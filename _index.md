@@ -1,3 +1,4 @@
+* 2019-04-11 [업계 선수는 Ico의 대 안으로 초기 교환 제품을 비판 합니다: 블룸버그](https://github.com/theyapapa/cryptonews/blob/ko/industry-players-criticize-initial-exchange-offerings-as-alternative-to-icos-bloomberg-ec449d5f.md)
 * 2019-04-11 [IMF 장 라 가드: 분산 원장 기술은 시스템을 흔들어](https://github.com/theyapapa/cryptonews/blob/ko/imf-chief-lagarde-distributed-ledger-technologies-are-shaking-the-system-a3eb6fd7.md)
 * 2019-04-10 [영국 고객을 위한 Coinbase 암호화 교환 데뷔 비자 카드](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-crypto-exchange-debuts-visa-card-for-uk-customers-18f70895.md)
 * 2019-04-10 [보고서: 트 론은 가장 빠르게 성장 하는 DApp 사용자 기반,이 더 리 움 여전히 개발자의 첫 번째 선택](https://github.com/theyapapa/cryptonews/blob/ko/report-tron-has-fastest-growing-dapp-user-base-ethereum-still-developers-first-choice-592a823e.md)
