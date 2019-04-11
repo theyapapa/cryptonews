@@ -1,3 +1,4 @@
+* 2019-04-10 [Coinbase Crypto Exchange debuta tarjeta Visa para los clientes del Reino Unido](https://github.com/theyapapa/cryptonews/blob/es/coinbase-crypto-exchange-debuts-visa-card-for-uk-customers-18f70895.md)
 * 2019-04-10 [Informe: Tron tiene la base de usuarios de DApp más rápido crecimiento, Etereum sigue siendo la primera opción de desarrolladores](https://github.com/theyapapa/cryptonews/blob/es/report-tron-has-fastest-growing-dapp-user-base-ethereum-still-developers-first-choice-592a823e.md)
 * 2019-04-10 [Informe: menos ICOs recaudó fondos en Q1 2019 que en Q4 2018](https://github.com/theyapapa/cryptonews/blob/es/report-fewer-icos-raised-funds-in-q1-2019-than-in-q4-201-ebee2015.md)
 * 2019-04-10 [Nueva York niega Bittrex aplicación BitLicense citando cumplimiento inadecuado](https://github.com/theyapapa/cryptonews/blob/es/new-york-denies-bittrex-bitlicense-application-citing-inadequate-compliance-89701559.md)
