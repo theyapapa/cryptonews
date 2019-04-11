@@ -1,3 +1,4 @@
+* 2019-04-11 [블록 체인 기반의 국경 간 증권 정산을 위한 타 타 컨설팅 서비스](https://github.com/theyapapa/cryptonews/blob/ko/tata-consultancy-services-powers-blockchain-based-cross-border-securities-settlement-767e31c3.md)
 * 2019-04-11 [스택 오버플로 개발자 설문 조사: 조직의 80%가 블록 체인을 사용 하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/stackoverflow-developer-survey-80-of-organizations-do-not-use-blockchain-faa4357f.md)
 * 2019-04-11 [업계 선수는 Ico의 대 안으로 초기 교환 제품을 비판 합니다: 블룸버그](https://github.com/theyapapa/cryptonews/blob/ko/industry-players-criticize-initial-exchange-offerings-as-alternative-to-icos-bloomberg-ec449d5f.md)
 * 2019-04-11 [IMF 장 라 가드: 분산 원장 기술은 시스템을 흔들어](https://github.com/theyapapa/cryptonews/blob/ko/imf-chief-lagarde-distributed-ledger-technologies-are-shaking-the-system-a3eb6fd7.md)
