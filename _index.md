@@ -1,3 +1,4 @@
+* 2019-04-11 [블록 스택 눈 SEC-규제 $50 백만 토큰 판매 하버드 엔 다 우먼 트 참여](https://github.com/theyapapa/cryptonews/blob/ko/blockstack-eyes-sec-regulated-50-mln-token-sale-with-participation-from-harvard-endowment-ace9b140.md)
 * 2019-04-11 [미국 식품 소매 업체 알베로는 IBM 식품 신탁 블록 체인을 사용 하 여 양상추 추적](https://github.com/theyapapa/cryptonews/blob/ko/us-food-retailer-albertsons-uses-ibm-food-trust-blockchain-to-track-lettuce-14926bef.md)
 * 2019-04-11 [블록 체인 기반의 국경 간 증권 정산을 위한 타 타 컨설팅 서비스](https://github.com/theyapapa/cryptonews/blob/ko/tata-consultancy-services-powers-blockchain-based-cross-border-securities-settlement-767e31c3.md)
 * 2019-04-11 [스택 오버플로 개발자 설문 조사: 조직의 80%가 블록 체인을 사용 하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/stackoverflow-developer-survey-80-of-organizations-do-not-use-blockchain-faa4357f.md)
