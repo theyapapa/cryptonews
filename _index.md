@@ -1,3 +1,4 @@
+* 2019-04-11 [Опрос разработчика StackOverflow: 80% организаций не используют Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/stackoverflow-developer-survey-80-of-organizations-do-not-use-blockchain-faa4357f.md)
 * 2019-04-11 [Игроки отрасли критикуют первоначальные предложения по обмену в качестве альтернативы ИКОС: Bloomberg](https://github.com/theyapapa/cryptonews/blob/ru/industry-players-criticize-initial-exchange-offerings-as-alternative-to-icos-bloomberg-ec449d5f.md)
 * 2019-04-11 [Главный Лагард МВФ: распределенная книга технологий встряхивания системы](https://github.com/theyapapa/cryptonews/blob/ru/imf-chief-lagarde-distributed-ledger-technologies-are-shaking-the-system-a3eb6fd7.md)
 * 2019-04-10 [Coinbase Crypto Exchange дебюты Visa карты для клиентов Великобритании](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-crypto-exchange-debuts-visa-card-for-uk-customers-18f70895.md)
