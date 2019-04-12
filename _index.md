@@ -1,3 +1,4 @@
+* 2019-04-12 [이전 Coinbase Exec는 충실도에 판매 및 마케팅의 머리를 임명](https://github.com/theyapapa/cryptonews/blob/ko/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
 * 2019-04-12 [금융 분야의 블록 체인 사용은 여전히 중요 한 과제입니다. 중국 연구원](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-use-in-finance-still-faces-major-challenges-chinese-researcher-92e23b5e.md)
 * 2019-04-12 [ 소문이 FB 동전에 투자를 논의 하기 위해 페이스 북과 만날 팀 드 래이 퍼](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-to-meet-with-facebook-to-discuss-investing-in-rumored-fb-coin-12fb9635.md)
 * 2019-04-12 [톰 리의 비트 코인 불행 지 수는 2016 가능한 황소 신호에 이후 가장 높은 가치를 안타](https://github.com/theyapapa/cryptonews/blob/ko/tom-lees-bitcoin-misery-index-hits-highest-value-since-2016-in-possible-bull-signal-6cf82177.md)
