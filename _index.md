@@ -1,3 +1,4 @@
+* 2019-04-12 [Ex director de ventas y marketing de Coinbase exec nombrado en Fidelity](https://github.com/theyapapa/cryptonews/blob/es/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
 * 2019-04-12 [Uso de blockchain en finanzas todavía enfrenta desafíos importantes: investigador chino](https://github.com/theyapapa/cryptonews/blob/es/blockchain-use-in-finance-still-faces-major-challenges-chinese-researcher-92e23b5e.md)
 * 2019-04-12 [ Tim Draper para reunirse con Facebook para discutir invertir en Rumored FB Coin](https://github.com/theyapapa/cryptonews/blob/es/tim-draper-to-meet-with-facebook-to-discuss-investing-in-rumored-fb-coin-12fb9635.md)
 * 2019-04-12 [El índice de miseria Bitcoin de Tom Lee alcanza el valor más alto desde 2016 en posible Bull Signal](https://github.com/theyapapa/cryptonews/blob/es/tom-lees-bitcoin-misery-index-hits-highest-value-since-2016-in-possible-bull-signal-6cf82177.md)
