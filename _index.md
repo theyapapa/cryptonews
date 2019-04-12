@@ -1,3 +1,4 @@
+* 2019-04-12 [ Тим драпировка встретиться с Facebook, чтобы обсудить инвестирование в слухам FB монета](https://github.com/theyapapa/cryptonews/blob/ru/tim-draper-to-meet-with-facebook-to-discuss-investing-in-rumored-fb-coin-12fb9635.md)
 * 2019-04-12 [Индекс нищеты тома ли в биткоинах достигает наивысшего значения с 2016 в возможный сигнал быка](https://github.com/theyapapa/cryptonews/blob/ru/tom-lees-bitcoin-misery-index-hits-highest-value-since-2016-in-possible-bull-signal-6cf82177.md)
 * 2019-04-12 [Facebook, Twitter и Телеграмма: Новая криптографическая парадигма или прославленный ваучер программы?](https://github.com/theyapapa/cryptonews/blob/ru/facebook-twitter-and-telegram-a-new-crypto-paradigm-or-a-glorified-voucher-program-ad58a3ad.md)
 * 2019-04-12 [Chainalysis призывает ФАТФ переосмыслить требования к данным на крипто-биржах](https://github.com/theyapapa/cryptonews/blob/ru/chainalysis-urges-fatf-to-rethink-data-demands-on-crypto-exchanges-d5a681d5.md)
