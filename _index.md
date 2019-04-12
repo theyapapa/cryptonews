@@ -1,3 +1,4 @@
+* 2019-04-12 [중국은 암호화 마이닝을 금지 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/will-china-ban-crypto-mining-c15e990b.md)
 * 2019-04-11 [클라우드 소프트웨어를 보유 한 디지털 자산 파트너, 자이언트 VMware](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-partners-with-cloud-software-giant-vmware-c791f3bd.md)
 * 2019-04-11 [샌프란시스코 기반 토르 토큰 프로젝트 종료](https://github.com/theyapapa/cryptonews/blob/ko/san-francisco-based-thor-token-project-shuts-down-458e4d42.md)
 * 2019-04-11 [미국 담당자는 4 월에 앞서 암호화 세금의 보고를 명확히 하기 위해 IRS를 촉구 15 마감일](https://github.com/theyapapa/cryptonews/blob/ko/us-reps-urge-irs-to-clarify-reporting-of-crypto-taxes-ahead-of-april-15-deadline-57d17e42.md)
