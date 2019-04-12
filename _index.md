@@ -1,3 +1,4 @@
+* 2019-04-12 [톰 리의 비트 코인 불행 지 수는 2016 가능한 황소 신호에 이후 가장 높은 가치를 안타](https://github.com/theyapapa/cryptonews/blob/ko/tom-lees-bitcoin-misery-index-hits-highest-value-since-2016-in-possible-bull-signal-6cf82177.md)
 * 2019-04-12 [페이스 북, 트위터와 전보: 새로운 암호화 패러다임 또는 영화 롭게 된 바우처 프로그램?](https://github.com/theyapapa/cryptonews/blob/ko/facebook-twitter-and-telegram-a-new-crypto-paradigm-or-a-glorified-voucher-program-ad58a3ad.md)
 * 2019-04-12 [체인 검사는 FATF가 암호 교환에 대 한 데이터 요구를 재고 하도록 촉구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/chainalysis-urges-fatf-to-rethink-data-demands-on-crypto-exchanges-d5a681d5.md)
 * 2019-04-12 [골드만 삭스 CEO는 지금까지 은행 암호 거래 데스크를 열 계획 했다](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-ceo-refutes-bank-ever-had-plans-to-open-crypto-trading-desk-69882ebd.md)
