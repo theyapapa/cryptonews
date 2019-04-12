@@ -1,3 +1,4 @@
+* 2019-04-12 [골드만 삭스 CEO는 지금까지 은행 암호 거래 데스크를 열 계획 했다](https://github.com/theyapapa/cryptonews/blob/ko/goldman-sachs-ceo-refutes-bank-ever-had-plans-to-open-crypto-trading-desk-69882ebd.md)
 * 2019-04-12 [중국은 암호화 마이닝을 금지 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/will-china-ban-crypto-mining-c15e990b.md)
 * 2019-04-11 [클라우드 소프트웨어를 보유 한 디지털 자산 파트너, 자이언트 VMware](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-partners-with-cloud-software-giant-vmware-c791f3bd.md)
 * 2019-04-11 [샌프란시스코 기반 토르 토큰 프로젝트 종료](https://github.com/theyapapa/cryptonews/blob/ko/san-francisco-based-thor-token-project-shuts-down-458e4d42.md)
