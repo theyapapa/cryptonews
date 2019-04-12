@@ -1,3 +1,4 @@
+* 2019-04-12 [Goldman Sachs Генеральный директор опровергает банк когда-либо планировал открыть крипто торговый стол](https://github.com/theyapapa/cryptonews/blob/ru/goldman-sachs-ceo-refutes-bank-ever-had-plans-to-open-crypto-trading-desk-69882ebd.md)
 * 2019-04-12 [Будет Китай Пан крипто майнинг?](https://github.com/theyapapa/cryptonews/blob/ru/will-china-ban-crypto-mining-c15e990b.md)
 * 2019-04-11 [Цифровые активы партнеры с облако программное обеспечение гигант VMware](https://github.com/theyapapa/cryptonews/blob/ru/digital-asset-partners-with-cloud-software-giant-vmware-c791f3bd.md)
 * 2019-04-11 [Сан-Франциско на основе Тора токен проекта завершает работу](https://github.com/theyapapa/cryptonews/blob/ru/san-francisco-based-thor-token-project-shuts-down-458e4d42.md)
