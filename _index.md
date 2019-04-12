@@ -1,3 +1,4 @@
+* 2019-04-12 [Будет Китай Пан крипто майнинг?](https://github.com/theyapapa/cryptonews/blob/ru/will-china-ban-crypto-mining-c15e990b.md)
 * 2019-04-11 [Цифровые активы партнеры с облако программное обеспечение гигант VMware](https://github.com/theyapapa/cryptonews/blob/ru/digital-asset-partners-with-cloud-software-giant-vmware-c791f3bd.md)
 * 2019-04-11 [Сан-Франциско на основе Тора токен проекта завершает работу](https://github.com/theyapapa/cryptonews/blob/ru/san-francisco-based-thor-token-project-shuts-down-458e4d42.md)
 * 2019-04-11 [Представители США призывают IRS уточнить отчетность по крипто-налогам в преддверии срока 15 апреля](https://github.com/theyapapa/cryptonews/blob/ru/us-reps-urge-irs-to-clarify-reporting-of-crypto-taxes-ahead-of-april-15-deadline-57d17e42.md)
