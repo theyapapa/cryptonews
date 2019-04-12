@@ -1,3 +1,4 @@
+* 2019-04-11 [Socios de activos digitales con el gigante de software Cloud VMware](https://github.com/theyapapa/cryptonews/blob/es/digital-asset-partners-with-cloud-software-giant-vmware-c791f3bd.md)
 * 2019-04-11 [Thor token Project basado en San Francisco se apaga](https://github.com/theyapapa/cryptonews/blob/es/san-francisco-based-thor-token-project-shuts-down-458e4d42.md)
 * 2019-04-11 [Los representantes estadounidenses instan al IRS a aclarar los informes de los impuestos criptográficos antes del 15 de abril](https://github.com/theyapapa/cryptonews/blob/es/us-reps-urge-irs-to-clarify-reporting-of-crypto-taxes-ahead-of-april-15-deadline-57d17e42.md)
 * 2019-04-11 [US startup recauda $14,1 MLN para la red de pagos basada en blockchain para minoristas](https://github.com/theyapapa/cryptonews/blob/es/us-startup-raises-141-mln-for-blockchain-based-payments-network-for-retailers-32a23404.md)
