@@ -1,3 +1,4 @@
+* 2019-04-12 [Facebook, Twitter y Telegram: ¿un nuevo paradigma Crypto o un programa de cupones glorificado?](https://github.com/theyapapa/cryptonews/blob/es/facebook-twitter-and-telegram-a-new-crypto-paradigm-or-a-glorified-voucher-program-ad58a3ad.md)
 * 2019-04-12 [La cadena de análisis insta a FATF a reconsiderar las demandas de datos en intercambios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/chainalysis-urges-fatf-to-rethink-data-demands-on-crypto-exchanges-d5a681d5.md)
 * 2019-04-12 [El CEO de Goldman Sachs refutes Bank alguna vez tuvo planes de abrir Crypto trading desk](https://github.com/theyapapa/cryptonews/blob/es/goldman-sachs-ceo-refutes-bank-ever-had-plans-to-open-crypto-trading-desk-69882ebd.md)
 * 2019-04-12 [¿Será China Ban Crypto Mining?](https://github.com/theyapapa/cryptonews/blob/es/will-china-ban-crypto-mining-c15e990b.md)
