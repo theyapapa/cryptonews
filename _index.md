@@ -1,3 +1,4 @@
+* 2019-04-11 [샌프란시스코 기반 토르 토큰 프로젝트 종료](https://github.com/theyapapa/cryptonews/blob/ko/san-francisco-based-thor-token-project-shuts-down-458e4d42.md)
 * 2019-04-11 [미국 담당자는 4 월에 앞서 암호화 세금의 보고를 명확히 하기 위해 IRS를 촉구 15 마감일](https://github.com/theyapapa/cryptonews/blob/ko/us-reps-urge-irs-to-clarify-reporting-of-crypto-taxes-ahead-of-april-15-deadline-57d17e42.md)
 * 2019-04-11 [미국 스타트업은 소매 업체를 위한 블록 체인 기반 결제 네트워크에 대해 $14.1 백만을 발생 시킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-startup-raises-141-mln-for-blockchain-based-payments-network-for-retailers-32a23404.md)
 * 2019-04-11 [블록 스택 눈 SEC-규제 $50 백만 토큰 판매 하버드 엔 다 우먼 트 참여](https://github.com/theyapapa/cryptonews/blob/ko/blockstack-eyes-sec-regulated-50-mln-token-sale-with-participation-from-harvard-endowment-ace9b140.md)
