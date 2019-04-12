@@ -1,3 +1,4 @@
+* 2019-04-12 [El CEO de Goldman Sachs refutes Bank alguna vez tuvo planes de abrir Crypto trading desk](https://github.com/theyapapa/cryptonews/blob/es/goldman-sachs-ceo-refutes-bank-ever-had-plans-to-open-crypto-trading-desk-69882ebd.md)
 * 2019-04-12 [¿Será China Ban Crypto Mining?](https://github.com/theyapapa/cryptonews/blob/es/will-china-ban-crypto-mining-c15e990b.md)
 * 2019-04-11 [Socios de activos digitales con el gigante de software Cloud VMware](https://github.com/theyapapa/cryptonews/blob/es/digital-asset-partners-with-cloud-software-giant-vmware-c791f3bd.md)
 * 2019-04-11 [Thor token Project basado en San Francisco se apaga](https://github.com/theyapapa/cryptonews/blob/es/san-francisco-based-thor-token-project-shuts-down-458e4d42.md)
