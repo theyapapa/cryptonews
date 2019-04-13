@@ -1,3 +1,4 @@
+* 2019-04-13 [미국 법무부 부 암호 화폐를 포함 한 사이버 범죄의 두 명의 루마니아 유죄 판결](https://github.com/theyapapa/cryptonews/blob/ko/us-justice-dept-convicts-two-romanians-of-cybercrimes-including-cryptojacking-08a9da07.md)
 * 2019-04-12 [VR 기업 마술 도약 사용자 데이터에 대 한 블록 체인 엔지니어를 추구](https://github.com/theyapapa/cryptonews/blob/ko/vr-firm-magic-leap-seeks-blockchain-engineers-for-user-data-06517376.md)
 * 2019-04-12 [이전 Coinbase Exec는 충실도에 판매 및 마케팅의 머리를 임명](https://github.com/theyapapa/cryptonews/blob/ko/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
 * 2019-04-12 [금융 분야의 블록 체인 사용은 여전히 중요 한 과제입니다. 중국 연구원](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-use-in-finance-still-faces-major-challenges-chinese-researcher-92e23b5e.md)
