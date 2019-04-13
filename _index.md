@@ -1,3 +1,4 @@
+* 2019-04-13 [Bitcoin колеблется около $5 100 как лучшие крипты увидеть незначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-near-5-100-as-top-cryptos-see-slight-losses-f65dd98c.md)
 * 2019-04-13 [США юстиции Отдел осужденных двух румын киберпреступности, включая Криптожаккинг](https://github.com/theyapapa/cryptonews/blob/ru/us-justice-dept-convicts-two-romanians-of-cybercrimes-including-cryptojacking-08a9da07.md)
 * 2019-04-12 [VR фирма магия скачок ищет Блокчейн инженеров для пользовательских данных](https://github.com/theyapapa/cryptonews/blob/ru/vr-firm-magic-leap-seeks-blockchain-engineers-for-user-data-06517376.md)
 * 2019-04-12 [Бывший Coinbase Exec назначен начальником отдела продаж и маркетинга в верности](https://github.com/theyapapa/cryptonews/blob/ru/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
