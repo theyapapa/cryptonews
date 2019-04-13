@@ -1,3 +1,4 @@
+* 2019-04-12 [VR фирма магия скачок ищет Блокчейн инженеров для пользовательских данных](https://github.com/theyapapa/cryptonews/blob/ru/vr-firm-magic-leap-seeks-blockchain-engineers-for-user-data-06517376.md)
 * 2019-04-12 [Бывший Coinbase Exec назначен начальником отдела продаж и маркетинга в верности](https://github.com/theyapapa/cryptonews/blob/ru/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
 * 2019-04-12 [Использование Блокчейна в финансах по-прежнему сталкивается с серьезными проблемами: Китайский научный сотрудник](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-use-in-finance-still-faces-major-challenges-chinese-researcher-92e23b5e.md)
 * 2019-04-12 [ Тим драпировка встретиться с Facebook, чтобы обсудить инвестирование в слухам FB монета](https://github.com/theyapapa/cryptonews/blob/ru/tim-draper-to-meet-with-facebook-to-discuss-investing-in-rumored-fb-coin-12fb9635.md)
