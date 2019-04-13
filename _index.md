@@ -1,3 +1,4 @@
+* 2019-04-12 [VR firm Magic Leap busca ingenieros de blockchain para datos de usuario](https://github.com/theyapapa/cryptonews/blob/es/vr-firm-magic-leap-seeks-blockchain-engineers-for-user-data-06517376.md)
 * 2019-04-12 [Ex director de ventas y marketing de Coinbase exec nombrado en Fidelity](https://github.com/theyapapa/cryptonews/blob/es/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
 * 2019-04-12 [Uso de blockchain en finanzas todavía enfrenta desafíos importantes: investigador chino](https://github.com/theyapapa/cryptonews/blob/es/blockchain-use-in-finance-still-faces-major-challenges-chinese-researcher-92e23b5e.md)
 * 2019-04-12 [ Tim Draper para reunirse con Facebook para discutir invertir en Rumored FB Coin](https://github.com/theyapapa/cryptonews/blob/es/tim-draper-to-meet-with-facebook-to-discuss-investing-in-rumored-fb-coin-12fb9635.md)
