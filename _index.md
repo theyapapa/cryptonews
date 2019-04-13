@@ -1,3 +1,4 @@
+* 2019-04-13 [Bitcoin se desplaza cerca de $5.100 como Top Cryptos ver ligeras pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-near-5-100-as-top-cryptos-see-slight-losses-f65dd98c.md)
 * 2019-04-13 [El Departamento de Justicia de los Estados Unidos convictos dos rumanos de ciberdelitos incluyendo Cryptojacking](https://github.com/theyapapa/cryptonews/blob/es/us-justice-dept-convicts-two-romanians-of-cybercrimes-including-cryptojacking-08a9da07.md)
 * 2019-04-12 [VR firm Magic Leap busca ingenieros de blockchain para datos de usuario](https://github.com/theyapapa/cryptonews/blob/es/vr-firm-magic-leap-seeks-blockchain-engineers-for-user-data-06517376.md)
 * 2019-04-12 [Ex director de ventas y marketing de Coinbase exec nombrado en Fidelity](https://github.com/theyapapa/cryptonews/blob/es/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
