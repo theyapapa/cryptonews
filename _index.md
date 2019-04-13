@@ -1,3 +1,4 @@
+* 2019-04-13 [비트 코인은 최고 Cryptos가 약간의 손실을 참조로 $5100 근처에 호버](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-5-100-as-top-cryptos-see-slight-losses-f65dd98c.md)
 * 2019-04-13 [미국 법무부 부 암호 화폐를 포함 한 사이버 범죄의 두 명의 루마니아 유죄 판결](https://github.com/theyapapa/cryptonews/blob/ko/us-justice-dept-convicts-two-romanians-of-cybercrimes-including-cryptojacking-08a9da07.md)
 * 2019-04-12 [VR 기업 마술 도약 사용자 데이터에 대 한 블록 체인 엔지니어를 추구](https://github.com/theyapapa/cryptonews/blob/ko/vr-firm-magic-leap-seeks-blockchain-engineers-for-user-data-06517376.md)
 * 2019-04-12 [이전 Coinbase Exec는 충실도에 판매 및 마케팅의 머리를 임명](https://github.com/theyapapa/cryptonews/blob/ko/former-coinbase-exec-appointed-head-of-sales-and-marketing-at-fidelity-6381f10f.md)
