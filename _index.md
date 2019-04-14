@@ -1,3 +1,4 @@
+* 2019-04-14 [Тенденции цен на криптовалюты могут сигнализировать о конце медвежьего рынка, говорит Binance Research](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-price-trends-could-signal-end-of-bear-market-says-binance-research-976a25bc.md)
 * 2019-04-14 [Bloomberg: SEC требуется два ETF фонды взять Blockchain с их тикеры](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-sec-required-two-etf-funds-to-take-blockchain-off-their-tickers-3d80c75b.md)
 * 2019-04-14 [МВФ и Всемирный банк запускают квази-криптовалюты в исследовании технологии Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/imf-and-world-bank-launch-quasi-cryptocurrency-in-exploration-of-blockchain-tech-726dbed0.md)
 * 2019-04-13 [Молодая Африка смотрит на крипто для оплаты](https://github.com/theyapapa/cryptonews/blob/ru/young-africa-looks-to-crypto-for-payment-f61356e5.md)
