@@ -1,3 +1,4 @@
+* 2019-04-13 [젊은 아프리카 지불 암호를 찾습니다](https://github.com/theyapapa/cryptonews/blob/ko/young-africa-looks-to-crypto-for-payment-f61356e5.md)
 * 2019-04-13 [비트 코인 선물에 대 한 제도적 투자 가격이 정착 함에 따라 하락: CFTC](https://github.com/theyapapa/cryptonews/blob/ko/institutional-investment-in-bitcoin-futures-drops-as-price-settles-cftc-492517cc.md)
 * 2019-04-13 [비트 코인은 최고 Cryptos가 약간의 손실을 참조로 $5100 근처에 호버](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-5-100-as-top-cryptos-see-slight-losses-f65dd98c.md)
 * 2019-04-13 [미국 법무부 부 암호 화폐를 포함 한 사이버 범죄의 두 명의 루마니아 유죄 판결](https://github.com/theyapapa/cryptonews/blob/ko/us-justice-dept-convicts-two-romanians-of-cybercrimes-including-cryptojacking-08a9da07.md)
