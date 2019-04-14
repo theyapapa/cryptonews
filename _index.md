@@ -1,3 +1,4 @@
+* 2019-04-14 [Hodler's Digest, del 8 al 14 de abril: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-814-top-stories-price-movements-quotes-and-fud-of-the-week-9d949b73.md)
 * 2019-04-14 [Bitcoin se desplaza cerca de $5.100 como los mejores Cryptos ver movimientos mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-near-5-100-as-top-cryptos-see-mixed-movements-f046d78c.md)
 * 2019-04-14 [Criptomoneda precio tendencias podría señal final del mercado del oso, dice Binance Research](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-price-trends-could-signal-end-of-bear-market-says-binance-research-976a25bc.md)
 * 2019-04-14 [Bloomberg: SEC requirió dos fondos de ETF para sacar blockchain de sus tickers](https://github.com/theyapapa/cryptonews/blob/es/bloomberg-sec-required-two-etf-funds-to-take-blockchain-off-their-tickers-3d80c75b.md)
