@@ -1,3 +1,4 @@
+* 2019-04-14 [Criptomoneda precio tendencias podría señal final del mercado del oso, dice Binance Research](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-price-trends-could-signal-end-of-bear-market-says-binance-research-976a25bc.md)
 * 2019-04-14 [Bloomberg: SEC requirió dos fondos de ETF para sacar blockchain de sus tickers](https://github.com/theyapapa/cryptonews/blob/es/bloomberg-sec-required-two-etf-funds-to-take-blockchain-off-their-tickers-3d80c75b.md)
 * 2019-04-14 [El FMI y el Banco Mundial lanzan cuasi-criptomoneda en exploración de blockchain Tech](https://github.com/theyapapa/cryptonews/blob/es/imf-and-world-bank-launch-quasi-cryptocurrency-in-exploration-of-blockchain-tech-726dbed0.md)
 * 2019-04-13 [África joven busca Crypto para el pago](https://github.com/theyapapa/cryptonews/blob/es/young-africa-looks-to-crypto-for-payment-f61356e5.md)
