@@ -1,3 +1,4 @@
+* 2019-04-14 [El FMI y el Banco Mundial lanzan cuasi-criptomoneda en exploración de blockchain Tech](https://github.com/theyapapa/cryptonews/blob/es/imf-and-world-bank-launch-quasi-cryptocurrency-in-exploration-of-blockchain-tech-726dbed0.md)
 * 2019-04-13 [África joven busca Crypto para el pago](https://github.com/theyapapa/cryptonews/blob/es/young-africa-looks-to-crypto-for-payment-f61356e5.md)
 * 2019-04-13 [La inversión institucional en futuros Bitcoin cae a medida que el precio se liquida: CFTC](https://github.com/theyapapa/cryptonews/blob/es/institutional-investment-in-bitcoin-futures-drops-as-price-settles-cftc-492517cc.md)
 * 2019-04-13 [Bitcoin se desplaza cerca de $5.100 como Top Cryptos ver ligeras pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-near-5-100-as-top-cryptos-see-slight-losses-f65dd98c.md)
