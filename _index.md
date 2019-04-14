@@ -1,3 +1,4 @@
+* 2019-04-14 [블룸버그: SEC는 두 개의 ETF 자금이 그들의 Tickers 블록 체인을 취할 필요](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-sec-required-two-etf-funds-to-take-blockchain-off-their-tickers-3d80c75b.md)
 * 2019-04-14 [블록 체인 기술 탐사에서 IMF와 세계 은행 출범 준 암호 화폐](https://github.com/theyapapa/cryptonews/blob/ko/imf-and-world-bank-launch-quasi-cryptocurrency-in-exploration-of-blockchain-tech-726dbed0.md)
 * 2019-04-13 [젊은 아프리카 지불 암호를 찾습니다](https://github.com/theyapapa/cryptonews/blob/ko/young-africa-looks-to-crypto-for-payment-f61356e5.md)
 * 2019-04-13 [비트 코인 선물에 대 한 제도적 투자 가격이 정착 함에 따라 하락: CFTC](https://github.com/theyapapa/cryptonews/blob/ko/institutional-investment-in-bitcoin-futures-drops-as-price-settles-cftc-492517cc.md)
