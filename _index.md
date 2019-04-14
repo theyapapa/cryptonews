@@ -1,3 +1,4 @@
+* 2019-04-14 [비트 코인은 최고의 Cryptos가 혼합 된 움직임을 볼 $5100 근처에 호버](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-5-100-as-top-cryptos-see-mixed-movements-f046d78c.md)
 * 2019-04-14 [암호 화폐 가격 동향은 곰 시장의 끝을 신호 할 수, Binance 연구는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-price-trends-could-signal-end-of-bear-market-says-binance-research-976a25bc.md)
 * 2019-04-14 [블룸버그: SEC는 두 개의 ETF 자금이 그들의 Tickers 블록 체인을 취할 필요](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-sec-required-two-etf-funds-to-take-blockchain-off-their-tickers-3d80c75b.md)
 * 2019-04-14 [블록 체인 기술 탐사에서 IMF와 세계 은행 출범 준 암호 화폐](https://github.com/theyapapa/cryptonews/blob/ko/imf-and-world-bank-launch-quasi-cryptocurrency-in-exploration-of-blockchain-tech-726dbed0.md)
