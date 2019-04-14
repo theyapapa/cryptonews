@@ -1,3 +1,4 @@
+* 2019-04-14 [블록 체인 기술 탐사에서 IMF와 세계 은행 출범 준 암호 화폐](https://github.com/theyapapa/cryptonews/blob/ko/imf-and-world-bank-launch-quasi-cryptocurrency-in-exploration-of-blockchain-tech-726dbed0.md)
 * 2019-04-13 [젊은 아프리카 지불 암호를 찾습니다](https://github.com/theyapapa/cryptonews/blob/ko/young-africa-looks-to-crypto-for-payment-f61356e5.md)
 * 2019-04-13 [비트 코인 선물에 대 한 제도적 투자 가격이 정착 함에 따라 하락: CFTC](https://github.com/theyapapa/cryptonews/blob/ko/institutional-investment-in-bitcoin-futures-drops-as-price-settles-cftc-492517cc.md)
 * 2019-04-13 [비트 코인은 최고 Cryptos가 약간의 손실을 참조로 $5100 근처에 호버](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-5-100-as-top-cryptos-see-slight-losses-f65dd98c.md)
