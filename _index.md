@@ -1,3 +1,4 @@
+* 2019-04-15 [Nestlé, Carrefour trabajar con IBM para rastrear la marca de puré de papas con blockchain](https://github.com/theyapapa/cryptonews/blob/es/nestle-carrefour-work-with-ibm-to-track-mashed-potato-brand-with-blockchain-0be2c1e7.md)
 * 2019-04-15 [SBI Holdings de Japón invierte en FXCoin, solicitante de intercambio criptográfico local](https://github.com/theyapapa/cryptonews/blob/es/japans-sbi-holdings-invests-in-local-crypto-exchange-applicant-fxcoin-6ded731c.md)
 * 2019-04-14 [Hodler's Digest, del 8 al 14 de abril: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-814-top-stories-price-movements-quotes-and-fud-of-the-week-9d949b73.md)
 * 2019-04-14 [Bitcoin se desplaza cerca de $5.100 como los mejores Cryptos ver movimientos mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-near-5-100-as-top-cryptos-see-mixed-movements-f046d78c.md)
