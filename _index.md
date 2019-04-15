@@ -1,3 +1,4 @@
+* 2019-04-15 [일본의 SBI 홀딩스, 지역 암호 교환 신청자 FXCoin에 투자](https://github.com/theyapapa/cryptonews/blob/ko/japans-sbi-holdings-invests-in-local-crypto-exchange-applicant-fxcoin-6ded731c.md)
 * 2019-04-14 [Hodler의 다이제스트, 4 월 8 일 ~ 14 일: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-april-814-top-stories-price-movements-quotes-and-fud-of-the-week-9d949b73.md)
 * 2019-04-14 [비트 코인은 최고의 Cryptos가 혼합 된 움직임을 볼 $5100 근처에 호버](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-near-5-100-as-top-cryptos-see-mixed-movements-f046d78c.md)
 * 2019-04-14 [암호 화폐 가격 동향은 곰 시장의 끝을 신호 할 수, Binance 연구는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-price-trends-could-signal-end-of-bear-market-says-binance-research-976a25bc.md)
