@@ -1,3 +1,4 @@
+* 2019-04-15 [Nestle, Carrefour работать с IBM, чтобы отслеживать картофельное пюре бренда с Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/nestle-carrefour-work-with-ibm-to-track-mashed-potato-brand-with-blockchain-0be2c1e7.md)
 * 2019-04-15 [Япония ВОО Holdings инвестирует в местных крипто-обмена заявителя Фкскоин](https://github.com/theyapapa/cryptonews/blob/ru/japans-sbi-holdings-invests-in-local-crypto-exchange-applicant-fxcoin-6ded731c.md)
 * 2019-04-14 [Дайджест Ходлер, 8 – 14 апреля: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-814-top-stories-price-movements-quotes-and-fud-of-the-week-9d949b73.md)
 * 2019-04-14 [Bitcoin колеблется около $5 100 как топ крипт см смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-near-5-100-as-top-cryptos-see-mixed-movements-f046d78c.md)
