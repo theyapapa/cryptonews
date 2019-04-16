@@ -1,3 +1,4 @@
+* 2019-04-16 [Леджеркс делает ставку для запуска физически урегулированных BTC фьючерсы продукт для розничных инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/ledgerx-makes-bid-to-launch-physically-settled-btc-futures-product-for-retail-investors-ce2c9fc1.md)
 * 2019-04-15 [Крупнейшая компания по управлению путешествиями в Великобритании принимает биткоин](https://github.com/theyapapa/cryptonews/blob/ru/largest-travel-management-firm-in-uk-accepts-bitcoin-88f7f0f4.md)
 * 2019-04-15 [Отчет: Блокчейн Startup Консенсис ищет $200 000 000 от внешних инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-startup-consensys-seeks-200-million-from-outside-investors-30180567.md)
 * 2019-04-15 [Американские ученые разрабатывают Блокчейн-протокол для борьбы с контрафактной фармацевтической продукцией](https://github.com/theyapapa/cryptonews/blob/ru/us-researchers-develop-blockchain-protocol-to-fight-counterfeit-pharmaceuticals-c396f46c.md)
