@@ -1,3 +1,4 @@
+* 2019-04-16 [LedgerX hace que BID lance el producto de futuros BTC liquidado físicamente para inversores minoristas](https://github.com/theyapapa/cryptonews/blob/es/ledgerx-makes-bid-to-launch-physically-settled-btc-futures-product-for-retail-investors-ce2c9fc1.md)
 * 2019-04-15 [La empresa de gestión de viajes más grande de UK acepta Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/largest-travel-management-firm-in-uk-accepts-bitcoin-88f7f0f4.md)
 * 2019-04-15 [Informe: blockchain startup ConsenSys busca $200 millones desde fuera de inversores](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-startup-consensys-seeks-200-million-from-outside-investors-30180567.md)
 * 2019-04-15 [Los investigadores estadounidenses desarrollan el protocolo blockchain para combatir productos farmacéuticos falsificados](https://github.com/theyapapa/cryptonews/blob/es/us-researchers-develop-blockchain-protocol-to-fight-counterfeit-pharmaceuticals-c396f46c.md)
