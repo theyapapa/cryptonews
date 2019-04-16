@@ -1,3 +1,4 @@
+* 2019-04-16 [EToro blockchain división lanza Crypto Exchange para los comerciantes Pro, emite 8 Stablecoins](https://github.com/theyapapa/cryptonews/blob/es/etoro-blockchain-division-launches-crypto-exchange-for-pro-traders-issues-8-stablecoins-fff581a4.md)
 * 2019-04-16 [CoinMarketCap libera nueva versión de la aplicación móvil con cuentas de usuario, alertas de precios](https://github.com/theyapapa/cryptonews/blob/es/coinmarketcap-releases-new-mobile-app-version-with-user-accounts-price-alerts-fca3d165.md)
 * 2019-04-16 [LedgerX hace que BID lance el producto de futuros BTC liquidado físicamente para inversores minoristas](https://github.com/theyapapa/cryptonews/blob/es/ledgerx-makes-bid-to-launch-physically-settled-btc-futures-product-for-retail-investors-ce2c9fc1.md)
 * 2019-04-15 [La empresa de gestión de viajes más grande de UK acepta Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/largest-travel-management-firm-in-uk-accepts-bitcoin-88f7f0f4.md)
