@@ -1,3 +1,4 @@
+* 2019-04-16 [블록 쇼, 노 틀 담 재건을 위한 암호화 기금 모금 캠페인 시작](https://github.com/theyapapa/cryptonews/blob/ko/blockshow-launches-crypto-fundraising-campaign-for-notre-dame-reconstruction-1ff6fba7.md)
 * 2019-04-16 [에 르 카는 증권을 발급 하는 SEC와 펀드 파일-ETH의 Blockchain에 디지털화 주식 같은](https://github.com/theyapapa/cryptonews/blob/ko/arca-funds-files-with-sec-to-issue-stablecoin-like-digitized-shares-on-eth-blockchain-54fe6020.md)
 * 2019-04-16 [EToro 블록 체인 사업부, 프로 거래자를 위한 암호화 거래소 출시, 이슈 8 Stablecoins](https://github.com/theyapapa/cryptonews/blob/ko/etoro-blockchain-division-launches-crypto-exchange-for-pro-traders-issues-8-stablecoins-fff581a4.md)
 * 2019-04-16 [Coin시장성 캡은 사용자 계정, 가격 경고와 새로운 모바일 앱 버전을 출시](https://github.com/theyapapa/cryptonews/blob/ko/coinmarketcap-releases-new-mobile-app-version-with-user-accounts-price-alerts-fca3d165.md)
