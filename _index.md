@@ -1,3 +1,4 @@
+* 2019-04-16 [LedgerX가 소매 투자자를 위한 물리적으로 정착 된 BTC 선물 제품을 출시 하기 위해 입찰 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ledgerx-makes-bid-to-launch-physically-settled-btc-futures-product-for-retail-investors-ce2c9fc1.md)
 * 2019-04-15 [영국에서 가장 큰 여행 관리 회사는 비트 코인을 허용](https://github.com/theyapapa/cryptonews/blob/ko/largest-travel-management-firm-in-uk-accepts-bitcoin-88f7f0f4.md)
 * 2019-04-15 [보고서: 블록 체인 스타트업 ConsenSys는 외부 투자자 로부터 $2억을 추구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-startup-consensys-seeks-200-million-from-outside-investors-30180567.md)
 * 2019-04-15 [미국 연구원 들이 위조 의약품을 퇴치 하기 위한 블록 체인 프로토콜 개발](https://github.com/theyapapa/cryptonews/blob/ko/us-researchers-develop-blockchain-protocol-to-fight-counterfeit-pharmaceuticals-c396f46c.md)
