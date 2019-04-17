@@ -1,3 +1,4 @@
+* 2019-04-16 [포브스가 블록 체인을 사용 하 여 10억 달러 규모의 기업 목록 출시](https://github.com/theyapapa/cryptonews/blob/ko/forbes-releases-list-of-billion-dollar-companies-using-blockchain-b25781bd.md)
 * 2019-04-16 [루마니아어 중앙 은행 공식 암호화 통화의 기본 역할을 충족 하지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/romanian-central-bank-official-says-crypto-will-not-fulfil-basic-roles-of-currency-95275326.md)
 * 2019-04-16 [주요 감사 기업 언스 트 (주), 두 개의 블록 체인 관련 제품에 대 한 업데이트 발표](https://github.com/theyapapa/cryptonews/blob/ko/major-auditing-firm-ernst-young-releases-updates-to-two-blockchain-related-products-7a138947.md)
 * 2019-04-16 [블록 쇼, 노 틀 담 재건을 위한 암호화 기금 모금 캠페인 시작](https://github.com/theyapapa/cryptonews/blob/ko/blockshow-launches-crypto-fundraising-campaign-for-notre-dame-reconstruction-1ff6fba7.md)
