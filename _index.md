@@ -1,3 +1,4 @@
+* 2019-04-17 [Coinbase expande los servicios Crypto-to-Crypto a 11 países más](https://github.com/theyapapa/cryptonews/blob/es/coinbase-expands-crypto-to-crypto-services-to-11-more-countries-a598e79c.md)
 * 2019-04-17 [Bitcoin se aproxima a $5.250, US stocks ligeramente hacia abajo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-approaches-5-250-us-stocks-slightly-down-9e0249bc.md)
 * 2019-04-17 [Exchange Gate.io ve casi $3 mil millones en pedidos en la primera semana de IEO para el token nativo](https://github.com/theyapapa/cryptonews/blob/es/exchange-gateio-sees-almost-3-billion-in-orders-in-first-week-of-ieo-for-native-token-b87bba2d.md)
 * 2019-04-16 [Forbes libera lista de compañías de miles de millones de dólares usando blockchain](https://github.com/theyapapa/cryptonews/blob/es/forbes-releases-list-of-billion-dollar-companies-using-blockchain-b25781bd.md)
