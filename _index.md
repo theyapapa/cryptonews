@@ -1,3 +1,4 @@
+* 2019-04-17 [Bitcoin подходы $5 250, американские запасы немного вниз](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-5-250-us-stocks-slightly-down-9e0249bc.md)
 * 2019-04-17 [Exchange Gate.io видит почти $3 000 000 000 в заказах в первую неделю НОО для собственного токена](https://github.com/theyapapa/cryptonews/blob/ru/exchange-gateio-sees-almost-3-billion-in-orders-in-first-week-of-ieo-for-native-token-b87bba2d.md)
 * 2019-04-16 [Forbes релизы Список миллиардов долларов компаний, использующих Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/forbes-releases-list-of-billion-dollar-companies-using-blockchain-b25781bd.md)
 * 2019-04-16 [Румынский центральный банк чиновник говорит Crypto не будет выполнять основные роли валюты](https://github.com/theyapapa/cryptonews/blob/ru/romanian-central-bank-official-says-crypto-will-not-fulfil-basic-roles-of-currency-95275326.md)
