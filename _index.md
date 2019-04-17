@@ -1,3 +1,4 @@
+* 2019-04-17 [Exchange Gate.io는 IEO의 첫 주에 네이티브 토큰을 위한 주문에서 거의 $30억을 보고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/exchange-gateio-sees-almost-3-billion-in-orders-in-first-week-of-ieo-for-native-token-b87bba2d.md)
 * 2019-04-16 [포브스가 블록 체인을 사용 하 여 10억 달러 규모의 기업 목록 출시](https://github.com/theyapapa/cryptonews/blob/ko/forbes-releases-list-of-billion-dollar-companies-using-blockchain-b25781bd.md)
 * 2019-04-16 [루마니아어 중앙 은행 공식 암호화 통화의 기본 역할을 충족 하지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/romanian-central-bank-official-says-crypto-will-not-fulfil-basic-roles-of-currency-95275326.md)
 * 2019-04-16 [주요 감사 기업 언스 트 (주), 두 개의 블록 체인 관련 제품에 대 한 업데이트 발표](https://github.com/theyapapa/cryptonews/blob/ko/major-auditing-firm-ernst-young-releases-updates-to-two-blockchain-related-products-7a138947.md)
