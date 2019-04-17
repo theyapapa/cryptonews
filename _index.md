@@ -1,3 +1,4 @@
+* 2019-04-17 [Coinbase는 11 개 이상의 국가에 암호화-암호화 서비스를 확장](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-expands-crypto-to-crypto-services-to-11-more-countries-a598e79c.md)
 * 2019-04-17 [비트 코인 $5250, 미국 주식 약간 아래로 접근](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-approaches-5-250-us-stocks-slightly-down-9e0249bc.md)
 * 2019-04-17 [Exchange Gate.io는 IEO의 첫 주에 네이티브 토큰을 위한 주문에서 거의 $30억을 보고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/exchange-gateio-sees-almost-3-billion-in-orders-in-first-week-of-ieo-for-native-token-b87bba2d.md)
 * 2019-04-16 [포브스가 블록 체인을 사용 하 여 10억 달러 규모의 기업 목록 출시](https://github.com/theyapapa/cryptonews/blob/ko/forbes-releases-list-of-billion-dollar-companies-using-blockchain-b25781bd.md)
