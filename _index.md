@@ -1,3 +1,4 @@
+* 2019-04-16 [Forbes релизы Список миллиардов долларов компаний, использующих Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/forbes-releases-list-of-billion-dollar-companies-using-blockchain-b25781bd.md)
 * 2019-04-16 [Румынский центральный банк чиновник говорит Crypto не будет выполнять основные роли валюты](https://github.com/theyapapa/cryptonews/blob/ru/romanian-central-bank-official-says-crypto-will-not-fulfil-basic-roles-of-currency-95275326.md)
 * 2019-04-16 [Главная Аудиторская фирма "Эрнст и Янг" выпускает обновления для двух связанных с Блокчейном продуктов](https://github.com/theyapapa/cryptonews/blob/ru/major-auditing-firm-ernst-young-releases-updates-to-two-blockchain-related-products-7a138947.md)
 * 2019-04-16 [Блокшоу запускает Криптофандрайзинг кампании для Нотр-Дам реконструкции](https://github.com/theyapapa/cryptonews/blob/ru/blockshow-launches-crypto-fundraising-campaign-for-notre-dame-reconstruction-1ff6fba7.md)
