@@ -1,3 +1,4 @@
+* 2019-04-18 [США Gov't Блокчейн расходов ожидается увеличение 1 000% между 2017-2022: исследование](https://github.com/theyapapa/cryptonews/blob/ru/us-govt-blockchain-spending-expected-to-increase-1-000-between-2017-2022-study-a755e7b3.md)
 * 2019-04-17 [Reuters: Японские регуляторы вводят новые правила в отношении «холодных кошельков» бирж](https://github.com/theyapapa/cryptonews/blob/ru/reuters-japanese-regulators-to-introduce-new-rules-regarding-exchanges-cold-wallets-6aa1ec86.md)
 * 2019-04-17 [Спрос на экспертов по правовым вопросам с Blockchain Tech знания высок, доклад](https://github.com/theyapapa/cryptonews/blob/ru/demand-for-legal-experts-with-blockchain-tech-knowledge-is-high-report-f0493268.md)
 * 2019-04-17 [Coinbase расширяет криптографические услуги до 11 стран мира](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-expands-crypto-to-crypto-services-to-11-more-countries-a598e79c.md)
