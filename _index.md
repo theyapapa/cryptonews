@@ -1,3 +1,4 @@
+* 2019-04-18 [노 틀 담에 대 한 암호화 기부금을 활성화 하기 위해 열린 프랑스 고 브 장관](https://github.com/theyapapa/cryptonews/blob/ko/french-govt-minister-open-to-enabling-crypto-donations-for-notre-dame-1a4c270d.md)
 * 2019-04-18 [US Gov't 블록 체인 지출이 2017-2022 사이에 1000% 증가할 것으로 예상 됨: 연구](https://github.com/theyapapa/cryptonews/blob/ko/us-govt-blockchain-spending-expected-to-increase-1-000-between-2017-2022-study-a755e7b3.md)
 * 2019-04-17 [로이터: 거래소의 콜드 지갑에 대 한 새로운 규칙을 소개 하는 일본 규제 기관](https://github.com/theyapapa/cryptonews/blob/ko/reuters-japanese-regulators-to-introduce-new-rules-regarding-exchanges-cold-wallets-6aa1ec86.md)
 * 2019-04-17 [블록 체인 기술 지식을 가진 법률 전문가에 대 한 수요가 높고, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/demand-for-legal-experts-with-blockchain-tech-knowledge-is-high-report-f0493268.md)
