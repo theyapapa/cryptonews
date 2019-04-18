@@ -1,3 +1,4 @@
+* 2019-04-18 [페이팔은 새로운 특허와 암호화 랜 섬 공격을 방지 하는 것을 목표로](https://github.com/theyapapa/cryptonews/blob/ko/paypal-aims-to-prevent-crypto-ransomware-attacks-with-new-patent-79e1e0a4.md)
 * 2019-04-18 [Binance 체인 출시, 회사는 4 월 23 일 Mainnet 스왑 실행을 기대](https://github.com/theyapapa/cryptonews/blob/ko/binance-chain-launches-firm-expects-to-execute-mainnet-swap-on-april-23-e3c53bbe.md)
 * 2019-04-18 [노 틀 담에 대 한 암호화 기부금을 활성화 하기 위해 열린 프랑스 고 브 장관](https://github.com/theyapapa/cryptonews/blob/ko/french-govt-minister-open-to-enabling-crypto-donations-for-notre-dame-1a4c270d.md)
 * 2019-04-18 [US Gov't 블록 체인 지출이 2017-2022 사이에 1000% 증가할 것으로 예상 됨: 연구](https://github.com/theyapapa/cryptonews/blob/ko/us-govt-blockchain-spending-expected-to-increase-1-000-between-2017-2022-study-a755e7b3.md)
