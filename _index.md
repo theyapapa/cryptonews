@@ -1,3 +1,4 @@
+* 2019-04-17 [Reuters: los reguladores japoneses introducen nuevas reglas con respecto a los monederos fríos de los intercambios](https://github.com/theyapapa/cryptonews/blob/es/reuters-japanese-regulators-to-introduce-new-rules-regarding-exchanges-cold-wallets-6aa1ec86.md)
 * 2019-04-17 [La demanda de expertos legales con conocimiento de blockchain Tech es alta, informe](https://github.com/theyapapa/cryptonews/blob/es/demand-for-legal-experts-with-blockchain-tech-knowledge-is-high-report-f0493268.md)
 * 2019-04-17 [Coinbase expande los servicios Crypto-to-Crypto a 11 países más](https://github.com/theyapapa/cryptonews/blob/es/coinbase-expands-crypto-to-crypto-services-to-11-more-countries-a598e79c.md)
 * 2019-04-17 [Bitcoin se aproxima a $5.250, US stocks ligeramente hacia abajo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-approaches-5-250-us-stocks-slightly-down-9e0249bc.md)
