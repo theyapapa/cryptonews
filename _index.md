@@ -1,3 +1,4 @@
+* 2019-04-18 [Lanzamientos de la cadena de Binance, firma espera ejecutar Mainnet swap en abril 23](https://github.com/theyapapa/cryptonews/blob/es/binance-chain-launches-firm-expects-to-execute-mainnet-swap-on-april-23-e3c53bbe.md)
 * 2019-04-18 [Ministro francés abierto a habilitar las donaciones criptográficas para Notre Dame](https://github.com/theyapapa/cryptonews/blob/es/french-govt-minister-open-to-enabling-crypto-donations-for-notre-dame-1a4c270d.md)
 * 2019-04-18 [Gasto de US Gov't blockchain esperado a aumentar 1.000% entre 2017-2022: estudio](https://github.com/theyapapa/cryptonews/blob/es/us-govt-blockchain-spending-expected-to-increase-1-000-between-2017-2022-study-a755e7b3.md)
 * 2019-04-17 [Reuters: los reguladores japoneses introducen nuevas reglas con respecto a los monederos fríos de los intercambios](https://github.com/theyapapa/cryptonews/blob/es/reuters-japanese-regulators-to-introduce-new-rules-regarding-exchanges-cold-wallets-6aa1ec86.md)
