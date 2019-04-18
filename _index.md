@@ -1,3 +1,4 @@
+* 2019-04-17 [Reuters: Японские регуляторы вводят новые правила в отношении «холодных кошельков» бирж](https://github.com/theyapapa/cryptonews/blob/ru/reuters-japanese-regulators-to-introduce-new-rules-regarding-exchanges-cold-wallets-6aa1ec86.md)
 * 2019-04-17 [Спрос на экспертов по правовым вопросам с Blockchain Tech знания высок, доклад](https://github.com/theyapapa/cryptonews/blob/ru/demand-for-legal-experts-with-blockchain-tech-knowledge-is-high-report-f0493268.md)
 * 2019-04-17 [Coinbase расширяет криптографические услуги до 11 стран мира](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-expands-crypto-to-crypto-services-to-11-more-countries-a598e79c.md)
 * 2019-04-17 [Bitcoin подходы $5 250, американские запасы немного вниз](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-5-250-us-stocks-slightly-down-9e0249bc.md)
