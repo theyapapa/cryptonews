@@ -1,3 +1,4 @@
+* 2019-04-18 [Bloomberg: la plataforma de operaciones criptográficas institucionales Bakkt puede buscar Nueva York BitLicense](https://github.com/theyapapa/cryptonews/blob/es/bloomberg-institutional-crypto-trading-platform-bakkt-may-seek-new-york-bitlicense-75c7b429.md)
 * 2019-04-18 [PayPal tiene como objetivo prevenir los ataques ransomware Crypto con nueva patente](https://github.com/theyapapa/cryptonews/blob/es/paypal-aims-to-prevent-crypto-ransomware-attacks-with-new-patent-79e1e0a4.md)
 * 2019-04-18 [Lanzamientos de la cadena de Binance, firma espera ejecutar Mainnet swap en abril 23](https://github.com/theyapapa/cryptonews/blob/es/binance-chain-launches-firm-expects-to-execute-mainnet-swap-on-april-23-e3c53bbe.md)
 * 2019-04-18 [Ministro francés abierto a habilitar las donaciones criptográficas para Notre Dame](https://github.com/theyapapa/cryptonews/blob/es/french-govt-minister-open-to-enabling-crypto-donations-for-notre-dame-1a4c270d.md)
