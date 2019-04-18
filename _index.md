@@ -1,3 +1,4 @@
+* 2019-04-18 [Запуск сети binance, фирма планирует выполнить обмен Майнета 23 апреля](https://github.com/theyapapa/cryptonews/blob/ru/binance-chain-launches-firm-expects-to-execute-mainnet-swap-on-april-23-e3c53bbe.md)
 * 2019-04-18 [Французский Gov't министр открыт для включения крипто пожертвований для Нотр-Дам](https://github.com/theyapapa/cryptonews/blob/ru/french-govt-minister-open-to-enabling-crypto-donations-for-notre-dame-1a4c270d.md)
 * 2019-04-18 [США Gov't Блокчейн расходов ожидается увеличение 1 000% между 2017-2022: исследование](https://github.com/theyapapa/cryptonews/blob/ru/us-govt-blockchain-spending-expected-to-increase-1-000-between-2017-2022-study-a755e7b3.md)
 * 2019-04-17 [Reuters: Японские регуляторы вводят новые правила в отношении «холодных кошельков» бирж](https://github.com/theyapapa/cryptonews/blob/ru/reuters-japanese-regulators-to-introduce-new-rules-regarding-exchanges-cold-wallets-6aa1ec86.md)
