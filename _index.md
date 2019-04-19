@@ -1,3 +1,4 @@
+* 2019-04-19 [Крипторазработчик поднимает $4 млн от Samsung, другие для запуска кошелек без частных ключей](https://github.com/theyapapa/cryptonews/blob/ru/crypto-developer-raises-4-mln-from-samsung-others-to-launch-wallet-without-private-keys-13306922.md)
 * 2019-04-19 [Blockchain платформа считает, что это "Золотой билет" для сохранения индустрии живых событий](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-platform-believes-it-is-the-golden-ticket-for-saving-the-live-events-industry-9051cfb4.md)
 * 2019-04-19 [Южная Корея: Бипец Exchange оператор раскрывает планы для США, японские рынки](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-bithumb-exchange-operator-reveals-plans-for-us-japanese-markets-7aa3a8c9.md)
 * 2019-04-19 [Coinbase в 2018 выручка на 60% меньше, чем прогнозировалось фирмой: отчет](https://github.com/theyapapa/cryptonews/blob/ru/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
