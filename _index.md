@@ -1,3 +1,4 @@
+* 2019-04-18 [Официальный китайский валютный Юань, чтобы стать Криптовалюта, эксперт говорит](https://github.com/theyapapa/cryptonews/blob/ru/official-chinese-currency-renminbi-to-become-cryptocurrency-expert-says-b66739c9.md)
 * 2019-04-18 [Bloomberg: институциональная Криптоторговая платформа Bakkt может запросить Нью-йоркскую BitLicense](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-institutional-crypto-trading-platform-bakkt-may-seek-new-york-bitlicense-75c7b429.md)
 * 2019-04-18 [PayPal стремится предотвратить крипто вымогателей атак с новым патентом](https://github.com/theyapapa/cryptonews/blob/ru/paypal-aims-to-prevent-crypto-ransomware-attacks-with-new-patent-79e1e0a4.md)
 * 2019-04-18 [Запуск сети binance, фирма планирует выполнить обмен Майнета 23 апреля](https://github.com/theyapapa/cryptonews/blob/ru/binance-chain-launches-firm-expects-to-execute-mainnet-swap-on-april-23-e3c53bbe.md)
