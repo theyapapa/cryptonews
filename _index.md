@@ -1,3 +1,4 @@
+* 2019-04-19 [Южная Корея: Бипец Exchange оператор раскрывает планы для США, японские рынки](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-bithumb-exchange-operator-reveals-plans-for-us-japanese-markets-7aa3a8c9.md)
 * 2019-04-19 [Coinbase в 2018 выручка на 60% меньше, чем прогнозировалось фирмой: отчет](https://github.com/theyapapa/cryptonews/blob/ru/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
 * 2019-04-18 [Официальный китайский валютный Юань, чтобы стать Криптовалюта, эксперт говорит](https://github.com/theyapapa/cryptonews/blob/ru/official-chinese-currency-renminbi-to-become-cryptocurrency-expert-says-b66739c9.md)
 * 2019-04-18 [Bloomberg: институциональная Криптоторговая платформа Bakkt может запросить Нью-йоркскую BitLicense](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-institutional-crypto-trading-platform-bakkt-may-seek-new-york-bitlicense-75c7b429.md)
