@@ -1,3 +1,4 @@
+* 2019-04-19 [비트 코인 SV는 블록 크기를 다루기 때문에 블록 체인 재구성을 경험 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sv-experiences-blockchain-reorganizations-possibly-due-to-unwieldy-block-size-75b32bfb.md)
 * 2019-04-19 [비트 코인,이 더 리 움 리플 비트 코인 현금, 라이트 코인, EOS, 비 탄 코인 스텔라, 카르다노, 트 론: 가격 분석 4 월 19 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-april-19-c6fa09ec.md)
 * 2019-04-19 [현지 미디어: Afghanistani, 튀니지 중앙 은행 비트 코인 채권 발행 고려](https://github.com/theyapapa/cryptonews/blob/ko/local-media-afghanistani-tunisian-central-banks-consider-issuing-bitcoin-bonds-eb784776.md)
 * 2019-04-19 [암호 개발자는 삼성에서 $4 백만을 제기, 개인 키 없이 지갑을 실행 하는 다른 사람](https://github.com/theyapapa/cryptonews/blob/ko/crypto-developer-raises-4-mln-from-samsung-others-to-launch-wallet-without-private-keys-13306922.md)
