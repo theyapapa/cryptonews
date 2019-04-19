@@ -1,3 +1,4 @@
+* 2019-04-19 [암호 개발자는 삼성에서 $4 백만을 제기, 개인 키 없이 지갑을 실행 하는 다른 사람](https://github.com/theyapapa/cryptonews/blob/ko/crypto-developer-raises-4-mln-from-samsung-others-to-launch-wallet-without-private-keys-13306922.md)
 * 2019-04-19 [블록 체인 플랫폼은 라이브 이벤트 산업을 저장 하기 위한 ' 골든 티켓 ' 이라고 믿고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-platform-believes-it-is-the-golden-ticket-for-saving-the-live-events-industry-9051cfb4.md)
 * 2019-04-19 [한국: Bithumb 교환 사업자는 우리에 대 한 계획을 밝혀, 일본 시장](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-bithumb-exchange-operator-reveals-plans-for-us-japanese-markets-7aa3a8c9.md)
 * 2019-04-19 [Coinbase의 2018 수익은 회사에 의해 예상 보다 60% 적습니다. 보고서](https://github.com/theyapapa/cryptonews/blob/ko/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
