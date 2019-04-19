@@ -1,3 +1,4 @@
+* 2019-04-19 [블록 체인 플랫폼은 라이브 이벤트 산업을 저장 하기 위한 ' 골든 티켓 ' 이라고 믿고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-platform-believes-it-is-the-golden-ticket-for-saving-the-live-events-industry-9051cfb4.md)
 * 2019-04-19 [한국: Bithumb 교환 사업자는 우리에 대 한 계획을 밝혀, 일본 시장](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-bithumb-exchange-operator-reveals-plans-for-us-japanese-markets-7aa3a8c9.md)
 * 2019-04-19 [Coinbase의 2018 수익은 회사에 의해 예상 보다 60% 적습니다. 보고서](https://github.com/theyapapa/cryptonews/blob/ko/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
 * 2019-04-18 [공식 중국어 통화 Renminbi는 암호 화폐가 될, 전문가는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/official-chinese-currency-renminbi-to-become-cryptocurrency-expert-says-b66739c9.md)
