@@ -1,3 +1,4 @@
+* 2019-04-19 [Plataforma blockchain cree que es el ' Golden Ticket ' para salvar la industria de eventos en vivo](https://github.com/theyapapa/cryptonews/blob/es/blockchain-platform-believes-it-is-the-golden-ticket-for-saving-the-live-events-industry-9051cfb4.md)
 * 2019-04-19 [Corea del sur: el operador de intercambio de Bithumb revela planes para Estados Unidos, mercados japoneses](https://github.com/theyapapa/cryptonews/blob/es/south-korea-bithumb-exchange-operator-reveals-plans-for-us-japanese-markets-7aa3a8c9.md)
 * 2019-04-19 [2018 ingresos de coinbase es 60% menos que proyectado por la empresa: informe](https://github.com/theyapapa/cryptonews/blob/es/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
 * 2019-04-18 [Moneda oficial del renminbi chino para convertirse en criptomoneda, experto dice](https://github.com/theyapapa/cryptonews/blob/es/official-chinese-currency-renminbi-to-become-cryptocurrency-expert-says-b66739c9.md)
