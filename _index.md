@@ -1,3 +1,4 @@
+* 2019-04-19 [한국: Bithumb 교환 사업자는 우리에 대 한 계획을 밝혀, 일본 시장](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-bithumb-exchange-operator-reveals-plans-for-us-japanese-markets-7aa3a8c9.md)
 * 2019-04-19 [Coinbase의 2018 수익은 회사에 의해 예상 보다 60% 적습니다. 보고서](https://github.com/theyapapa/cryptonews/blob/ko/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
 * 2019-04-18 [공식 중국어 통화 Renminbi는 암호 화폐가 될, 전문가는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/official-chinese-currency-renminbi-to-become-cryptocurrency-expert-says-b66739c9.md)
 * 2019-04-18 [블룸버그: 기관 암호 화폐 거래 플랫폼 Bakkt는 뉴욕 BitLicense를 구할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-institutional-crypto-trading-platform-bakkt-may-seek-new-york-bitlicense-75c7b429.md)
