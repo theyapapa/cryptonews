@@ -1,3 +1,4 @@
+* 2019-04-19 [Coinbase의 2018 수익은 회사에 의해 예상 보다 60% 적습니다. 보고서](https://github.com/theyapapa/cryptonews/blob/ko/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
 * 2019-04-18 [공식 중국어 통화 Renminbi는 암호 화폐가 될, 전문가는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/official-chinese-currency-renminbi-to-become-cryptocurrency-expert-says-b66739c9.md)
 * 2019-04-18 [블룸버그: 기관 암호 화폐 거래 플랫폼 Bakkt는 뉴욕 BitLicense를 구할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-institutional-crypto-trading-platform-bakkt-may-seek-new-york-bitlicense-75c7b429.md)
 * 2019-04-18 [페이팔은 새로운 특허와 암호화 랜 섬 공격을 방지 하는 것을 목표로](https://github.com/theyapapa/cryptonews/blob/ko/paypal-aims-to-prevent-crypto-ransomware-attacks-with-new-patent-79e1e0a4.md)
