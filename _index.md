@@ -1,3 +1,4 @@
+* 2019-04-19 [2018 ingresos de coinbase es 60% menos que proyectado por la empresa: informe](https://github.com/theyapapa/cryptonews/blob/es/coinbases-2018-revenue-is-60-less-than-projected-by-the-firm-report-6ca0ca32.md)
 * 2019-04-18 [Moneda oficial del renminbi chino para convertirse en criptomoneda, experto dice](https://github.com/theyapapa/cryptonews/blob/es/official-chinese-currency-renminbi-to-become-cryptocurrency-expert-says-b66739c9.md)
 * 2019-04-18 [Bloomberg: la plataforma de operaciones criptográficas institucionales Bakkt puede buscar Nueva York BitLicense](https://github.com/theyapapa/cryptonews/blob/es/bloomberg-institutional-crypto-trading-platform-bakkt-may-seek-new-york-bitlicense-75c7b429.md)
 * 2019-04-18 [PayPal tiene como objetivo prevenir los ataques ransomware Crypto con nueva patente](https://github.com/theyapapa/cryptonews/blob/es/paypal-aims-to-prevent-crypto-ransomware-attacks-with-new-patent-79e1e0a4.md)
