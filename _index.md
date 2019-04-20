@@ -1,3 +1,4 @@
+* 2019-04-20 [태국은 암호화로 개방 되 고 있으며, ICO와 STO에 한 걸음 더 가까워집니다.](https://github.com/theyapapa/cryptonews/blob/ko/thailand-is-opening-up-to-crypto-one-step-closer-to-ico-and-sto-8c3f390e.md)
 * 2019-04-19 [소셜 미디어 플랫폼 미 스릴은 Binance 체인으로 이주 하기 위해 먼저 사칭 된다](https://github.com/theyapapa/cryptonews/blob/ko/social-media-platform-mithril-becomes-purported-first-to-migrate-to-binance-chain-9603e3e5.md)
 * 2019-04-19 [암호 화폐 베어 시장은, 축적 단계를 통해가는, 보고 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-bear-market-waning-going-through-accumulation-phase-says-report-403afeb7.md)
 * 2019-04-19 [비트 코인 SV는 블록 크기를 다루기 때문에 블록 체인 재구성을 경험 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sv-experiences-blockchain-reorganizations-possibly-due-to-unwieldy-block-size-75b32bfb.md)
