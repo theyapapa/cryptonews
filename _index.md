@@ -1,3 +1,4 @@
+* 2019-04-20 [Крейг Райт продолжает преследовать его критики, как основные крипто-платформы бойкотировать его Криптовалюта, BSV](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-continues-to-chase-his-critics-as-major-crypto-platforms-boycott-his-cryptocurrency-bsv-66a0c3c8.md)
 * 2019-04-20 [Bitcoin держит более $5 300 как Top Altcoins см смешанные сигналы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-over-5-300-as-top-altcoins-see-mixed-signals-86c7b199.md)
 * 2019-04-20 [Держатели токенов Макердао Проголосуйте о том, чтобы поднять плату за стабильность DAI на 3%](https://github.com/theyapapa/cryptonews/blob/ru/makerdao-token-holders-vote-about-whether-to-raise-dai-stability-fee-by-3-cffc29c2.md)
 * 2019-04-20 [Таиланд открыт до крипто, на один шаг ближе к ICO и сто](https://github.com/theyapapa/cryptonews/blob/ru/thailand-is-opening-up-to-crypto-one-step-closer-to-ico-and-sto-8c3f390e.md)
