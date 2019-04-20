@@ -1,3 +1,4 @@
+* 2019-04-20 [Держатели токенов Макердао Проголосуйте о том, чтобы поднять плату за стабильность DAI на 3%](https://github.com/theyapapa/cryptonews/blob/ru/makerdao-token-holders-vote-about-whether-to-raise-dai-stability-fee-by-3-cffc29c2.md)
 * 2019-04-20 [Таиланд открыт до крипто, на один шаг ближе к ICO и сто](https://github.com/theyapapa/cryptonews/blob/ru/thailand-is-opening-up-to-crypto-one-step-closer-to-ico-and-sto-8c3f390e.md)
 * 2019-04-19 [Социальная Медиа платформа Митрил становится предполагаемого первого мигрировать в цепь Binance](https://github.com/theyapapa/cryptonews/blob/ru/social-media-platform-mithril-becomes-purported-first-to-migrate-to-binance-chain-9603e3e5.md)
 * 2019-04-19 [Рынок Криптовалют на убыль, переживает этап накопления, говорит отчет](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-bear-market-waning-going-through-accumulation-phase-says-report-403afeb7.md)
