@@ -1,3 +1,4 @@
+* 2019-04-20 [Bitcoin retiene más de $5.300 como Altcoins superior ver señales mixtas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-holds-over-5-300-as-top-altcoins-see-mixed-signals-86c7b199.md)
 * 2019-04-20 [Titulares de tokens de MakerDAO vote acerca de si elevar la tasa de estabilidad de DAI en un 3%](https://github.com/theyapapa/cryptonews/blob/es/makerdao-token-holders-vote-about-whether-to-raise-dai-stability-fee-by-3-cffc29c2.md)
 * 2019-04-20 [Tailandia se está abriendo a Crypto, un paso más cerca de ICO y STO](https://github.com/theyapapa/cryptonews/blob/es/thailand-is-opening-up-to-crypto-one-step-closer-to-ico-and-sto-8c3f390e.md)
 * 2019-04-19 [Plataforma de medios sociales Mithril se convierte en pretendida primero migrar a la cadena Binance](https://github.com/theyapapa/cryptonews/blob/es/social-media-platform-mithril-becomes-purported-first-to-migrate-to-binance-chain-9603e3e5.md)
