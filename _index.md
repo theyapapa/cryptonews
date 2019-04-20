@@ -1,3 +1,4 @@
+* 2019-04-20 [MakerDAO 토큰 소지자는 DAI 안정성 수수료 3% 인상 여부에 대해 투표 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/makerdao-token-holders-vote-about-whether-to-raise-dai-stability-fee-by-3-cffc29c2.md)
 * 2019-04-20 [태국은 암호화로 개방 되 고 있으며, ICO와 STO에 한 걸음 더 가까워집니다.](https://github.com/theyapapa/cryptonews/blob/ko/thailand-is-opening-up-to-crypto-one-step-closer-to-ico-and-sto-8c3f390e.md)
 * 2019-04-19 [소셜 미디어 플랫폼 미 스릴은 Binance 체인으로 이주 하기 위해 먼저 사칭 된다](https://github.com/theyapapa/cryptonews/blob/ko/social-media-platform-mithril-becomes-purported-first-to-migrate-to-binance-chain-9603e3e5.md)
 * 2019-04-19 [암호 화폐 베어 시장은, 축적 단계를 통해가는, 보고 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-bear-market-waning-going-through-accumulation-phase-says-report-403afeb7.md)
