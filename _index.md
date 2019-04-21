@@ -1,3 +1,4 @@
+* 2019-04-21 [비트 코인은 최고 Altcoins이 손실을 참조로 다시 $5300에 빠진다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-5-300-again-as-top-altcoins-see-losses-e1fc2b9c.md)
 * 2019-04-21 [미국 국방 계약자가 소유한 사이버 보안 회사에 게 부여 된 블록 체인 특허](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-patent-granted-to-cybersecurity-company-owned-by-us-defense-contractor-5cde87a9.md)
 * 2019-04-21 [칠레 정부, 새로운 암호 화폐 및 핀 테크 규제 법안을 의회에 소개](https://github.com/theyapapa/cryptonews/blob/ko/chilean-government-introduces-new-cryptocurrency-and-fintech-regulation-bill-to-congress-abbf27bf.md)
 * 2019-04-21 [맨 위로 5 암호화 수행자 개요: XTZ, BNB, BCH, ETH, XTZ](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-xtz-bnb-bch-eth-xmr-ebdc8b5a.md)
