@@ -1,3 +1,4 @@
+* 2019-04-21 [El gobierno chileno introduce la nueva ley de regulación de Criptomonedas y FinTech al Congreso](https://github.com/theyapapa/cryptonews/blob/es/chilean-government-introduces-new-cryptocurrency-and-fintech-regulation-bill-to-congress-abbf27bf.md)
 * 2019-04-21 [Resumen de los 5 mejores intérpretes de criptografía: XTZ, BNB, BCH, ETH, XMR](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-xtz-bnb-bch-eth-xmr-ebdc8b5a.md)
 * 2019-04-20 [Craig Wright continúa a perseguir a sus críticos como las principales plataformas criptográficas Boycott su criptomoneda, BSV](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-continues-to-chase-his-critics-as-major-crypto-platforms-boycott-his-cryptocurrency-bsv-66a0c3c8.md)
 * 2019-04-20 [Bitcoin retiene más de $5.300 como Altcoins superior ver señales mixtas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-holds-over-5-300-as-top-altcoins-see-mixed-signals-86c7b199.md)
