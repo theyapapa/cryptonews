@@ -1,3 +1,4 @@
+* 2019-04-21 [Todo menos Crypto, o cómo la película ' Crypto ' no vive hasta su nombre](https://github.com/theyapapa/cryptonews/blob/es/everything-but-crypto-or-how-the-crypto-movie-does-not-live-up-to-its-name-d27a98b6.md)
 * 2019-04-21 [Bitcoin cae bajo $5.300 otra vez como Altcoins superior ver pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-5-300-again-as-top-altcoins-see-losses-e1fc2b9c.md)
 * 2019-04-21 [Patente de blockchain otorgada a la compañía de ciberseguridad propiedad del contratista de defensa estadounidense](https://github.com/theyapapa/cryptonews/blob/es/blockchain-patent-granted-to-cybersecurity-company-owned-by-us-defense-contractor-5cde87a9.md)
 * 2019-04-21 [El gobierno chileno introduce la nueva ley de regulación de Criptomonedas y FinTech al Congreso](https://github.com/theyapapa/cryptonews/blob/es/chilean-government-introduces-new-cryptocurrency-and-fintech-regulation-bill-to-congress-abbf27bf.md)
