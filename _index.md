@@ -1,3 +1,4 @@
+* 2019-04-21 [Дайджест Ходлер, 15 – 21 апреля: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-1521-top-stories-price-movements-quotes-and-fud-of-the-week-b0b37948.md)
 * 2019-04-21 [Все, но Crypto, или как ' Crypto ' фильм не живет до его имя](https://github.com/theyapapa/cryptonews/blob/ru/everything-but-crypto-or-how-the-crypto-movie-does-not-live-up-to-its-name-d27a98b6.md)
 * 2019-04-21 [Bitcoin падает под $5 300 снова как Top Altcoins см потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-5-300-again-as-top-altcoins-see-losses-e1fc2b9c.md)
 * 2019-04-21 [Блокчейн патент, предоставленный компании кибербезопасности, принадлежащий американскому подрядчику по обороне](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-patent-granted-to-cybersecurity-company-owned-by-us-defense-contractor-5cde87a9.md)
