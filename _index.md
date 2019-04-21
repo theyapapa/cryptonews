@@ -1,3 +1,4 @@
+* 2019-04-21 [칠레 정부, 새로운 암호 화폐 및 핀 테크 규제 법안을 의회에 소개](https://github.com/theyapapa/cryptonews/blob/ko/chilean-government-introduces-new-cryptocurrency-and-fintech-regulation-bill-to-congress-abbf27bf.md)
 * 2019-04-21 [맨 위로 5 암호화 수행자 개요: XTZ, BNB, BCH, ETH, XTZ](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-xtz-bnb-bch-eth-xmr-ebdc8b5a.md)
 * 2019-04-20 [크레이그 라이트는 주요 암호화 플랫폼이 자신의 암호를 보이콧, BSV로 그의 비평가를 쫓아 계속](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-continues-to-chase-his-critics-as-major-crypto-platforms-boycott-his-cryptocurrency-bsv-66a0c3c8.md)
 * 2019-04-20 [비트 코인은 $5300 이상을 보유 하 고 있습니다. 톱 알트 코인은 혼합 신호 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-holds-over-5-300-as-top-altcoins-see-mixed-signals-86c7b199.md)
