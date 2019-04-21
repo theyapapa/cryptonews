@@ -1,3 +1,4 @@
+* 2019-04-21 [미국 국방 계약자가 소유한 사이버 보안 회사에 게 부여 된 블록 체인 특허](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-patent-granted-to-cybersecurity-company-owned-by-us-defense-contractor-5cde87a9.md)
 * 2019-04-21 [칠레 정부, 새로운 암호 화폐 및 핀 테크 규제 법안을 의회에 소개](https://github.com/theyapapa/cryptonews/blob/ko/chilean-government-introduces-new-cryptocurrency-and-fintech-regulation-bill-to-congress-abbf27bf.md)
 * 2019-04-21 [맨 위로 5 암호화 수행자 개요: XTZ, BNB, BCH, ETH, XTZ](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-xtz-bnb-bch-eth-xmr-ebdc8b5a.md)
 * 2019-04-20 [크레이그 라이트는 주요 암호화 플랫폼이 자신의 암호를 보이콧, BSV로 그의 비평가를 쫓아 계속](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-continues-to-chase-his-critics-as-major-crypto-platforms-boycott-his-cryptocurrency-bsv-66a0c3c8.md)
