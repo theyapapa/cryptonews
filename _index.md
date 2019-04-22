@@ -1,3 +1,4 @@
+* 2019-04-22 [프로토콜 랩 및이 더 리 움 재단 팀이 검증 가능한 지연 기능 연구](https://github.com/theyapapa/cryptonews/blob/ko/protocol-labs-and-ethereum-foundation-team-up-to-research-verifiable-delay-functions-52867bc1.md)
 * 2019-04-22 [암호화 시장 석유 스파이크와 혼합 된 온화한 녹색, 글로벌 주식 및 선물 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mild-green-global-stocks-and-futures-mixed-as-oil-spikes-63f280f6.md)
 * 2019-04-22 [Jp 모건 체이스, 글로벌 은행을 위한 블록 체인 기반 네트워크에 새로운 기능 추가](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-chase-to-add-new-features-to-blockchain-powered-network-for-global-banks-ee9b0214.md)
 * 2019-04-22 [ATB Coin의 법적 만남이 미래의 증권 위반에 대 한 뉴욕에서 전례 없는 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-atb-coins-legal-encounter-sets-precedent-in-new-york-for-future-securities-violations-81078f9b.md)
