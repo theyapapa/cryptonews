@@ -1,3 +1,4 @@
+* 2019-04-22 [비트 코인,에 테 리 움 리플, 비트 코인 현금, EOS, 라이트 코인의 코인, 스텔라, 카르다노, 트 론: 가격 분석 4 월 22 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-binance-coin-stellar-cardano-tron-price-analysis-april-22-0aef72d1.md)
 * 2019-04-22 [프로토콜 랩 및이 더 리 움 재단 팀이 검증 가능한 지연 기능 연구](https://github.com/theyapapa/cryptonews/blob/ko/protocol-labs-and-ethereum-foundation-team-up-to-research-verifiable-delay-functions-52867bc1.md)
 * 2019-04-22 [암호화 시장 석유 스파이크와 혼합 된 온화한 녹색, 글로벌 주식 및 선물 참조](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mild-green-global-stocks-and-futures-mixed-as-oil-spikes-63f280f6.md)
 * 2019-04-22 [Jp 모건 체이스, 글로벌 은행을 위한 블록 체인 기반 네트워크에 새로운 기능 추가](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-chase-to-add-new-features-to-blockchain-powered-network-for-global-banks-ee9b0214.md)
