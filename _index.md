@@ -1,3 +1,4 @@
+* 2019-04-22 [암호 교환 비트 렉스는 자사의 플랫폼에서 북한 사용자의 주장을 거부](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bittrex-denies-claim-of-north-korean-users-on-its-platform-9ff75ae5.md)
 * 2019-04-22 [확정: Gox 산 상환에 대 한 채권자 자동 제출](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-mt-gox-automatically-filing-creditors-for-repayment-7de71548.md)
 * 2019-04-22 [비트 코인,에 테 리 움 리플, 비트 코인 현금, EOS, 라이트 코인의 코인, 스텔라, 카르다노, 트 론: 가격 분석 4 월 22 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-binance-coin-stellar-cardano-tron-price-analysis-april-22-0aef72d1.md)
 * 2019-04-22 [프로토콜 랩 및이 더 리 움 재단 팀이 검증 가능한 지연 기능 연구](https://github.com/theyapapa/cryptonews/blob/ko/protocol-labs-and-ethereum-foundation-team-up-to-research-verifiable-delay-functions-52867bc1.md)
