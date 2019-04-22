@@ -1,3 +1,4 @@
+* 2019-04-22 [ATB Coin의 법적 만남이 미래의 증권 위반에 대 한 뉴욕에서 전례 없는 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-atb-coins-legal-encounter-sets-precedent-in-new-york-for-future-securities-violations-81078f9b.md)
 * 2019-04-21 [Hodler의 다이제스트, 4 월 15 일-21: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-april-1521-top-stories-price-movements-quotes-and-fud-of-the-week-b0b37948.md)
 * 2019-04-21 [모든 암호화, 또는 어떻게 ' 암호 ' 영화가 그 이름에 살고 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/everything-but-crypto-or-how-the-crypto-movie-does-not-live-up-to-its-name-d27a98b6.md)
 * 2019-04-21 [비트 코인은 최고 Altcoins이 손실을 참조로 다시 $5300에 빠진다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-5-300-again-as-top-altcoins-see-losses-e1fc2b9c.md)
