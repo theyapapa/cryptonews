@@ -1,3 +1,4 @@
+* 2019-04-22 [¿Por qué el encuentro legal de ATB Coin establece un precedente en Nueva York para futuras violaciones de valores](https://github.com/theyapapa/cryptonews/blob/es/why-atb-coins-legal-encounter-sets-precedent-in-new-york-for-future-securities-violations-81078f9b.md)
 * 2019-04-21 [Hodler's Digest, 15 – 21 de abril: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-1521-top-stories-price-movements-quotes-and-fud-of-the-week-b0b37948.md)
 * 2019-04-21 [Todo menos Crypto, o cómo la película ' Crypto ' no vive hasta su nombre](https://github.com/theyapapa/cryptonews/blob/es/everything-but-crypto-or-how-the-crypto-movie-does-not-live-up-to-its-name-d27a98b6.md)
 * 2019-04-21 [Bitcoin cae bajo $5.300 otra vez como Altcoins superior ver pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-5-300-again-as-top-altcoins-see-losses-e1fc2b9c.md)
