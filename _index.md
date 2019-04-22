@@ -1,3 +1,4 @@
+* 2019-04-22 [JPMorgan Чейз, чтобы добавить новые возможности для Блокчейн-Powered сети для глобальных банков](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-chase-to-add-new-features-to-blockchain-powered-network-for-global-banks-ee9b0214.md)
 * 2019-04-22 [Почему юридическая встреча в Нью-Йорке для будущих нарушений ценных бумаг](https://github.com/theyapapa/cryptonews/blob/ru/why-atb-coins-legal-encounter-sets-precedent-in-new-york-for-future-securities-violations-81078f9b.md)
 * 2019-04-21 [Дайджест Ходлер, 15 – 21 апреля: главные истории, ценовые движения, котировки и фуд недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-1521-top-stories-price-movements-quotes-and-fud-of-the-week-b0b37948.md)
 * 2019-04-21 [Все, но Crypto, или как ' Crypto ' фильм не живет до его имя](https://github.com/theyapapa/cryptonews/blob/ru/everything-but-crypto-or-how-the-crypto-movie-does-not-live-up-to-its-name-d27a98b6.md)
