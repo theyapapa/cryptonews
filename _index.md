@@ -1,3 +1,4 @@
+* 2019-04-23 [Crypto startup lanza funciones de pagos de BTC con tecnología Lightning para sitios de comercio electrónico](https://github.com/theyapapa/cryptonews/blob/es/crypto-startup-launches-lightning-powered-btc-payments-functionality-for-e-commerce-sites-64686be1.md)
 * 2019-04-23 [BitGo completa otro año de certificación de cumplimiento SOC 2 después del Premio Deloitte](https://github.com/theyapapa/cryptonews/blob/es/bitgo-completes-further-soc-2-compliance-certification-year-after-deloitte-award-eb052d2b.md)
 * 2019-04-22 [Coinbase files para cerrar su Comité de acción política](https://github.com/theyapapa/cryptonews/blob/es/coinbase-files-to-close-its-political-action-committee-d8e183eb.md)
 * 2019-04-22 [Crypto Exchange Bittrex niega la reclamación de los usuarios de Corea del norte en su plataforma](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-bittrex-denies-claim-of-north-korean-users-on-its-platform-9ff75ae5.md)
