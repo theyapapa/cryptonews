@@ -1,3 +1,4 @@
+* 2019-04-23 [딜로 이트 어워드 이후 SOC 2 컴플라이언스 인증 연도 완료](https://github.com/theyapapa/cryptonews/blob/ko/bitgo-completes-further-soc-2-compliance-certification-year-after-deloitte-award-eb052d2b.md)
 * 2019-04-22 [Coinbase 파일은 정치적 행동 위원회를 닫습니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-files-to-close-its-political-action-committee-d8e183eb.md)
 * 2019-04-22 [암호 교환 비트 렉스는 자사의 플랫폼에서 북한 사용자의 주장을 거부](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-bittrex-denies-claim-of-north-korean-users-on-its-platform-9ff75ae5.md)
 * 2019-04-22 [확정: Gox 산 상환에 대 한 채권자 자동 제출](https://github.com/theyapapa/cryptonews/blob/ko/unconfirmed-mt-gox-automatically-filing-creditors-for-repayment-7de71548.md)
