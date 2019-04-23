@@ -1,3 +1,4 @@
+* 2019-04-23 [Societe Generale cuestiones subsidiarias 100 millones Euro Bond en Ethereum blockchain](https://github.com/theyapapa/cryptonews/blob/es/societe-generale-subsidiary-issues-100-million-euro-bond-on-ethereum-blockchain-2d8accd0.md)
 * 2019-04-23 [BlockFi ahora tiene más de $53 millones en Crypto cliente bajo administración](https://github.com/theyapapa/cryptonews/blob/es/blockfi-now-has-over-53-million-in-client-crypto-under-management-050cd94c.md)
 * 2019-04-23 [Coinbase cierra la oficina de Chicago y reduce la escala de trabajo en el motor coincidente](https://github.com/theyapapa/cryptonews/blob/es/coinbase-closes-chicago-office-and-scales-down-work-on-matching-engine-f067d5ea.md)
 * 2019-04-23 [WSJ: fundador de SoftBank multimillonario japonés Lost $130 millones en Bitcoin Investment](https://github.com/theyapapa/cryptonews/blob/es/wsj-japanese-billionaire-softbank-founder-lost-130-million-on-bitcoin-investment-358f4b28.md)
