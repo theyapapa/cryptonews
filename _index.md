@@ -1,3 +1,4 @@
+* 2019-04-23 [Блоффи теперь имеет более чем $53 000 000 в клиентском крипто под управлением](https://github.com/theyapapa/cryptonews/blob/ru/blockfi-now-has-over-53-million-in-client-crypto-under-management-050cd94c.md)
 * 2019-04-23 [Coinbase закрывает офис Chicago и весы вниз работа на сопрягая двигателе](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-closes-chicago-office-and-scales-down-work-on-matching-engine-f067d5ea.md)
 * 2019-04-23 [WSJ: Японский миллиардер основатель Фукуока потерял $130 000 000 на Bitcoin инвестиции](https://github.com/theyapapa/cryptonews/blob/ru/wsj-japanese-billionaire-softbank-founder-lost-130-million-on-bitcoin-investment-358f4b28.md)
 * 2019-04-23 [NASDAQ спокойно тестирует продукт на основе Bitcoin под CXERX Indice, аналитик предлагает](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-is-quietly-testing-bitcoin-based-product-under-cxerx-indice-analyst-suggests-4d3f2701.md)
