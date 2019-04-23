@@ -1,3 +1,4 @@
+* 2019-04-23 [NASDAQ спокойно тестирует продукт на основе Bitcoin под CXERX Indice, аналитик предлагает](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-is-quietly-testing-bitcoin-based-product-under-cxerx-indice-analyst-suggests-4d3f2701.md)
 * 2019-04-23 [Криптозапуск запускает молнии мощности BTC платежи функциональность для сайтов электронной коммерции](https://github.com/theyapapa/cryptonews/blob/ru/crypto-startup-launches-lightning-powered-btc-payments-functionality-for-e-commerce-sites-64686be1.md)
 * 2019-04-23 [BitGo завершает далее соц 2 соответствие сертификации год после того, как Делойт премии](https://github.com/theyapapa/cryptonews/blob/ru/bitgo-completes-further-soc-2-compliance-certification-year-after-deloitte-award-eb052d2b.md)
 * 2019-04-22 [Coinbase файлы, чтобы закрыть свой политический комитет действий](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-files-to-close-its-political-action-committee-d8e183eb.md)
