@@ -1,3 +1,4 @@
+* 2019-04-23 [Coinbase 시카고 사무실을 폐쇄 하 고 일치 하는 엔진에 대 한 작업을 축소](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-closes-chicago-office-and-scales-down-work-on-matching-engine-f067d5ea.md)
 * 2019-04-23 [WSJ: 일본 억만 장자 소프트 뱅크 설립자 잃어버린 $1억3000만 비트 코인 투자에](https://github.com/theyapapa/cryptonews/blob/ko/wsj-japanese-billionaire-softbank-founder-lost-130-million-on-bitcoin-investment-358f4b28.md)
 * 2019-04-23 [나스닥에서 비트 코인 기반 제품을 조용히 테스트 하 고 있으며, 분석가는](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-is-quietly-testing-bitcoin-based-product-under-cxerx-indice-analyst-suggests-4d3f2701.md)
 * 2019-04-23 [암호화 시작은 전자 상거래 사이트에 대 한 번개 전원 BTC 지불 기능을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-startup-launches-lightning-powered-btc-payments-functionality-for-e-commerce-sites-64686be1.md)
