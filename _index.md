@@ -1,3 +1,4 @@
+* 2019-04-23 [나스닥에서 비트 코인 기반 제품을 조용히 테스트 하 고 있으며, 분석가는](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-is-quietly-testing-bitcoin-based-product-under-cxerx-indice-analyst-suggests-4d3f2701.md)
 * 2019-04-23 [암호화 시작은 전자 상거래 사이트에 대 한 번개 전원 BTC 지불 기능을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-startup-launches-lightning-powered-btc-payments-functionality-for-e-commerce-sites-64686be1.md)
 * 2019-04-23 [딜로 이트 어워드 이후 SOC 2 컴플라이언스 인증 연도 완료](https://github.com/theyapapa/cryptonews/blob/ko/bitgo-completes-further-soc-2-compliance-certification-year-after-deloitte-award-eb052d2b.md)
 * 2019-04-22 [Coinbase 파일은 정치적 행동 위원회를 닫습니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-files-to-close-its-political-action-committee-d8e183eb.md)
