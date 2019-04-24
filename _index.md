@@ -1,3 +1,4 @@
+* 2019-04-24 [Telecoms 자이언트 NTT의 태국 단위는 블록 체인, AI, IOT 혁신 연구소를 출시 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/telecoms-giant-ntts-thai-unit-plans-to-launch-blockchain-ai-iot-innovation-lab-284c4afa.md)
 * 2019-04-24 [번개 연구소는 주요 비트 코인 네트워크에 대 한 번개 네트워크 클라이언트를 출시](https://github.com/theyapapa/cryptonews/blob/ko/lightning-labs-launches-lightning-network-client-for-main-bitcoin-network-8579fe1b.md)
 * 2019-04-23 [블록 체인 의료 데이터 관리 플랫폼을 만드는 한국 병원](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-hospital-to-create-blockchain-medical-data-management-platform-f7759c36.md)
 * 2019-04-23 [소시에 테 제네럴 자회사 이슈에 테 리 움 블록 체인에 1억 유로 본드](https://github.com/theyapapa/cryptonews/blob/ko/societe-generale-subsidiary-issues-100-million-euro-bond-on-ethereum-blockchain-2d8accd0.md)
