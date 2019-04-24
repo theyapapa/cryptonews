@@ -1,3 +1,4 @@
+* 2019-04-24 [블록 체인 브라우저 광고를 보고 박쥐 토큰으로 사용자를 보상 하는 용감한](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-browser-brave-to-reward-users-with-bat-tokens-for-watching-ads-be440359.md)
 * 2019-04-24 [비트 코인,에 테 리 움 리플, 비트 코인 현금, EOS, 라이트 코인의 코인, 스텔라, 카르다노, 트 론: 가격 분석 4 월 24 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-binance-coin-stellar-cardano-tron-price-analysis-april-24-e38cd7e4.md)
 * 2019-04-24 [Telecoms 자이언트 NTT의 태국 단위는 블록 체인, AI, IOT 혁신 연구소를 출시 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/telecoms-giant-ntts-thai-unit-plans-to-launch-blockchain-ai-iot-innovation-lab-284c4afa.md)
 * 2019-04-24 [번개 연구소는 주요 비트 코인 네트워크에 대 한 번개 네트워크 클라이언트를 출시](https://github.com/theyapapa/cryptonews/blob/ko/lightning-labs-launches-lightning-network-client-for-main-bitcoin-network-8579fe1b.md)
