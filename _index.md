@@ -1,3 +1,4 @@
+* 2019-04-24 [Lightning Labs lanza el cliente de red Lightning para la red principal de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/lightning-labs-launches-lightning-network-client-for-main-bitcoin-network-8579fe1b.md)
 * 2019-04-23 [South Korean hospital para crear la plataforma de gestión de datos médicos de blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-korean-hospital-to-create-blockchain-medical-data-management-platform-f7759c36.md)
 * 2019-04-23 [Societe Generale cuestiones subsidiarias 100 millones Euro Bond en Ethereum blockchain](https://github.com/theyapapa/cryptonews/blob/es/societe-generale-subsidiary-issues-100-million-euro-bond-on-ethereum-blockchain-2d8accd0.md)
 * 2019-04-23 [BlockFi ahora tiene más de $53 millones en Crypto cliente bajo administración](https://github.com/theyapapa/cryptonews/blob/es/blockfi-now-has-over-53-million-in-client-crypto-under-management-050cd94c.md)
