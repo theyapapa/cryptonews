@@ -1,3 +1,4 @@
+* 2019-04-24 [Телекоммуникационный гигант NTT в тайской группы планирует запустить Blockchain, AI, инновации в лаборатории IOT](https://github.com/theyapapa/cryptonews/blob/ru/telecoms-giant-ntts-thai-unit-plans-to-launch-blockchain-ai-iot-innovation-lab-284c4afa.md)
 * 2019-04-24 [Молния Labs запускает молнии сетевой клиент для основной сети Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/lightning-labs-launches-lightning-network-client-for-main-bitcoin-network-8579fe1b.md)
 * 2019-04-23 [Южнокорейская больница для создания платформы управления медицинскими данными Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-hospital-to-create-blockchain-medical-data-management-platform-f7759c36.md)
 * 2019-04-23 [Сосьете женераль вспомогательных вопросов 100 000 000 евро Бонд на Эфириум Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/societe-generale-subsidiary-issues-100-million-euro-bond-on-ethereum-blockchain-2d8accd0.md)
