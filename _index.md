@@ -1,3 +1,4 @@
+* 2019-04-24 [Ledger nombra a su Presidente Pascal Gauthier como nuevo CEO](https://github.com/theyapapa/cryptonews/blob/es/ledger-appoints-its-president-pascal-gauthier-as-new-ceo-3f5f5b2e.md)
 * 2019-04-24 [TrustToken para lanzar cuatro nuevas Stablecoins este año](https://github.com/theyapapa/cryptonews/blob/es/trusttoken-to-release-four-new-stablecoins-this-year-17699371.md)
 * 2019-04-24 [Blockchain navegador valiente para premiar a los usuarios con tokens BAT para ver anuncios](https://github.com/theyapapa/cryptonews/blob/es/blockchain-browser-brave-to-reward-users-with-bat-tokens-for-watching-ads-be440359.md)
 * 2019-04-24 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Binance Coin, Stellar, Cardano, TRON: Análisis de precios Abril 24](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-binance-coin-stellar-cardano-tron-price-analysis-april-24-e38cd7e4.md)
