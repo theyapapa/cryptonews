@@ -1,3 +1,4 @@
+* 2019-04-25 [El Tribunal chino de Internet emplea AI y blockchain para emitir juicios](https://github.com/theyapapa/cryptonews/blob/es/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
 * 2019-04-25 [MT. GOX Trustee amplía la fecha límite para la presentación del plan de rehabilitación](https://github.com/theyapapa/cryptonews/blob/es/mt-gox-trustee-extends-deadline-for-rehabilitation-plan-submission-afa33272.md)
 * 2019-04-25 [Algorítmica cripto Trading de la firma GSR lanza cripto cobertura producto](https://github.com/theyapapa/cryptonews/blob/es/algorithmic-crypto-trading-firm-gsr-launches-crypto-hedging-product-53f7f535.md)
 * 2019-04-25 [Top Traders sostuvo charlas sobre cómo hacer Crypto parte de la arquitectura financiera global: Bloomberg](https://github.com/theyapapa/cryptonews/blob/es/top-traders-held-talks-on-making-crypto-part-of-global-financial-architecture-bloomberg-5ae2c800.md)
