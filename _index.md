@@ -1,3 +1,4 @@
+* 2019-04-25 [고 x 산 트러스티 재활 계획 제출 마감일 연장](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-trustee-extends-deadline-for-rehabilitation-plan-submission-afa33272.md)
 * 2019-04-25 [알고리즘 암호화 거래 회사 GSR은 암호화 헤 지 제품을 출시](https://github.com/theyapapa/cryptonews/blob/ko/algorithmic-crypto-trading-firm-gsr-launches-crypto-hedging-product-53f7f535.md)
 * 2019-04-25 [최고 상인은 글로벌 금융 아키텍처의 암호화 부분을 만들기에 회담을 개최: 블룸버그](https://github.com/theyapapa/cryptonews/blob/ko/top-traders-held-talks-on-making-crypto-part-of-global-financial-architecture-bloomberg-5ae2c800.md)
 * 2019-04-25 [Jp 모건은 국경을 넘는 결제를 위해 블록 체인을 계속 탐구 하 고 있으며, 전 세계적으로 220 은행에 서명 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-continues-to-explore-blockchain-for-cross-border-payments-having-signed-220-banks-worldwide-along-the-way-e6ac19f6.md)
