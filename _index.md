@@ -1,3 +1,4 @@
+* 2019-04-24 [Binance 싱가포르 출시 하지만 하나의 거래 쌍을 제공, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/binance-singapore-launches-but-offers-just-one-trading-pair-report-6c8b153d.md)
 * 2019-04-24 [원장 파스칼 Gauthier 대표이사 취임](https://github.com/theyapapa/cryptonews/blob/ko/ledger-appoints-its-president-pascal-gauthier-as-new-ceo-3f5f5b2e.md)
 * 2019-04-24 [올해 네 개의 새로운 Stablecoins를 해제 하는 TrustToken](https://github.com/theyapapa/cryptonews/blob/ko/trusttoken-to-release-four-new-stablecoins-this-year-17699371.md)
 * 2019-04-24 [블록 체인 브라우저 광고를 보고 박쥐 토큰으로 사용자를 보상 하는 용감한](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-browser-brave-to-reward-users-with-bat-tokens-for-watching-ads-be440359.md)
