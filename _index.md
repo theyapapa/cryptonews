@@ -1,3 +1,4 @@
+* 2019-04-25 [Informe: la India considera la prohibición completa de las monedas digitales](https://github.com/theyapapa/cryptonews/blob/es/report-india-considers-complete-ban-on-digital-currencies-96003d65.md)
 * 2019-04-25 [El Tribunal chino de Internet emplea AI y blockchain para emitir juicios](https://github.com/theyapapa/cryptonews/blob/es/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
 * 2019-04-25 [MT. GOX Trustee amplía la fecha límite para la presentación del plan de rehabilitación](https://github.com/theyapapa/cryptonews/blob/es/mt-gox-trustee-extends-deadline-for-rehabilitation-plan-submission-afa33272.md)
 * 2019-04-25 [Algorítmica cripto Trading de la firma GSR lanza cripto cobertura producto](https://github.com/theyapapa/cryptonews/blob/es/algorithmic-crypto-trading-firm-gsr-launches-crypto-hedging-product-53f7f535.md)
