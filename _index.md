@@ -1,3 +1,4 @@
+* 2019-04-25 [보고서: 인도는 디지털 통화에 대 한 완전 한 금지를 고려 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-india-considers-complete-ban-on-digital-currencies-96003d65.md)
 * 2019-04-25 [중국어 인터넷 법원은 판단을 렌더링 하기 위해 AI와 블록 체인을 고용](https://github.com/theyapapa/cryptonews/blob/ko/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
 * 2019-04-25 [고 x 산 트러스티 재활 계획 제출 마감일 연장](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-trustee-extends-deadline-for-rehabilitation-plan-submission-afa33272.md)
 * 2019-04-25 [알고리즘 암호화 거래 회사 GSR은 암호화 헤 지 제품을 출시](https://github.com/theyapapa/cryptonews/blob/ko/algorithmic-crypto-trading-firm-gsr-launches-crypto-hedging-product-53f7f535.md)
