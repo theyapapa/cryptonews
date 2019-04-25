@@ -1,3 +1,4 @@
+* 2019-04-25 [Китайский Интернет-суд использует AI и Blockchain для вынесения решения](https://github.com/theyapapa/cryptonews/blob/ru/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
 * 2019-04-25 [Попечитель MT. GOX удлиняет крайний срок для представления плана реабилитации](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-trustee-extends-deadline-for-rehabilitation-plan-submission-afa33272.md)
 * 2019-04-25 [Алгоритмическая Криптоторговая фирма GSR запускает Криптохеджирование продукта](https://github.com/theyapapa/cryptonews/blob/ru/algorithmic-crypto-trading-firm-gsr-launches-crypto-hedging-product-53f7f535.md)
 * 2019-04-25 [Лучшие трейдеры провели переговоры о внесении криптографической части глобальной финансовой архитектуры: Bloomberg](https://github.com/theyapapa/cryptonews/blob/ru/top-traders-held-talks-on-making-crypto-part-of-global-financial-architecture-bloomberg-5ae2c800.md)
