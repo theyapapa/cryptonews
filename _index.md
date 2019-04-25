@@ -1,3 +1,4 @@
+* 2019-04-25 [США SEC вопросы свежий инвестор оповещения против мошеннических цифровых активов торговых сайтов](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-issues-fresh-investor-alert-against-fraudulent-digital-asset-trading-sites-423079ce.md)
 * 2019-04-24 [Binance Сингапур запускает но предложения только одна торговая пара, отчет](https://github.com/theyapapa/cryptonews/blob/ru/binance-singapore-launches-but-offers-just-one-trading-pair-report-6c8b153d.md)
 * 2019-04-24 [Леджер назначает своего президента Паскаля Готье новым Генеральным директором](https://github.com/theyapapa/cryptonews/blob/ru/ledger-appoints-its-president-pascal-gauthier-as-new-ceo-3f5f5b2e.md)
 * 2019-04-24 [Довертокен для выпуска четырёх новых Стаблеоинов в этом году](https://github.com/theyapapa/cryptonews/blob/ru/trusttoken-to-release-four-new-stablecoins-this-year-17699371.md)
