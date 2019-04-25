@@ -1,3 +1,4 @@
+* 2019-04-25 [EE.UU. SEC emite alerta de inversor fresco contra sitios de comercio de activos digitales fraudulentos](https://github.com/theyapapa/cryptonews/blob/es/us-sec-issues-fresh-investor-alert-against-fraudulent-digital-asset-trading-sites-423079ce.md)
 * 2019-04-24 [Binance Singapore lanzamientos pero ofrece sólo un par de comercio, informe](https://github.com/theyapapa/cryptonews/blob/es/binance-singapore-launches-but-offers-just-one-trading-pair-report-6c8b153d.md)
 * 2019-04-24 [Ledger nombra a su Presidente Pascal Gauthier como nuevo CEO](https://github.com/theyapapa/cryptonews/blob/es/ledger-appoints-its-president-pascal-gauthier-as-new-ceo-3f5f5b2e.md)
 * 2019-04-24 [TrustToken para lanzar cuatro nuevas Stablecoins este año](https://github.com/theyapapa/cryptonews/blob/es/trusttoken-to-release-four-new-stablecoins-this-year-17699371.md)
