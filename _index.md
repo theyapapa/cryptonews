@@ -1,3 +1,4 @@
+* 2019-04-25 [Доклад: Индия рассматривает полный запрет на цифровые валюты](https://github.com/theyapapa/cryptonews/blob/ru/report-india-considers-complete-ban-on-digital-currencies-96003d65.md)
 * 2019-04-25 [Китайский Интернет-суд использует AI и Blockchain для вынесения решения](https://github.com/theyapapa/cryptonews/blob/ru/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
 * 2019-04-25 [Попечитель MT. GOX удлиняет крайний срок для представления плана реабилитации](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-trustee-extends-deadline-for-rehabilitation-plan-submission-afa33272.md)
 * 2019-04-25 [Алгоритмическая Криптоторговая фирма GSR запускает Криптохеджирование продукта](https://github.com/theyapapa/cryptonews/blob/ru/algorithmic-crypto-trading-firm-gsr-launches-crypto-hedging-product-53f7f535.md)
