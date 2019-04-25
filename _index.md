@@ -1,3 +1,4 @@
+* 2019-04-25 [미국 SEC, 사기성 디지털 자산 거래 사이트에 대 한 신선한 투자자 경보 발행](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-issues-fresh-investor-alert-against-fraudulent-digital-asset-trading-sites-423079ce.md)
 * 2019-04-24 [Binance 싱가포르 출시 하지만 하나의 거래 쌍을 제공, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/binance-singapore-launches-but-offers-just-one-trading-pair-report-6c8b153d.md)
 * 2019-04-24 [원장 파스칼 Gauthier 대표이사 취임](https://github.com/theyapapa/cryptonews/blob/ko/ledger-appoints-its-president-pascal-gauthier-as-new-ceo-3f5f5b2e.md)
 * 2019-04-24 [올해 네 개의 새로운 Stablecoins를 해제 하는 TrustToken](https://github.com/theyapapa/cryptonews/blob/ko/trusttoken-to-release-four-new-stablecoins-this-year-17699371.md)
