@@ -1,3 +1,4 @@
+* 2019-04-26 [Австрия считает создание Финтеха регуляторной песочнице](https://github.com/theyapapa/cryptonews/blob/ru/austria-considers-establishment-of-fintech-regulatory-sandbox-f0a3963b.md)
 * 2019-04-26 [Крипто кошелек запуск Леджер обнаруживает фишинг вредоносных программ ориентация настольное приложение](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-startup-ledger-detects-phishing-malware-targeting-desktop-app-0d2dd6a4.md)
 * 2019-04-26 [SBI в крипто Exchange SBIVC достигает прибыли в первый финансовый год, считает сто](https://github.com/theyapapa/cryptonews/blob/ru/sbis-crypto-exchange-sbivc-achieves-profits-in-first-fiscal-year-considers-sto-6f8bac1c.md)
 * 2019-04-26 [Табак гигант Филипп Моррис оценки он может сэкономить до $20 000 000 с помощью Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/tobacco-giant-philip-morris-estimates-it-could-save-up-to-20-million-by-using-blockchain-4d7843c5.md)
