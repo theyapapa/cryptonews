@@ -1,3 +1,4 @@
+* 2019-04-25 [Дочерняя компания Samsung выпускает новую версию корпоративной Блокчейн-платформы](https://github.com/theyapapa/cryptonews/blob/ru/samsung-it-subsidiary-releases-new-version-of-enterprise-blockchain-platform-983b96f6.md)
 * 2019-04-25 [Доклад: Индия рассматривает полный запрет на цифровые валюты](https://github.com/theyapapa/cryptonews/blob/ru/report-india-considers-complete-ban-on-digital-currencies-96003d65.md)
 * 2019-04-25 [Китайский Интернет-суд использует AI и Blockchain для вынесения решения](https://github.com/theyapapa/cryptonews/blob/ru/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
 * 2019-04-25 [Попечитель MT. GOX удлиняет крайний срок для представления плана реабилитации](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-trustee-extends-deadline-for-rehabilitation-plan-submission-afa33272.md)
