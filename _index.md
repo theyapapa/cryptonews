@@ -1,3 +1,4 @@
+* 2019-04-26 [담배 거 인 필립 모리스는 블록 체인을 사용 하 여 최대 $2000만까지 절약 할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/tobacco-giant-philip-morris-estimates-it-could-save-up-to-20-million-by-using-blockchain-4d7843c5.md)
 * 2019-04-26 [사모아는 투자자 들에 게 제품을 판매 하기 위해 OneCoin 법적 금지 후에 교회를 조사](https://github.com/theyapapa/cryptonews/blob/ko/samoa-investigates-church-after-onecoin-defied-legal-ban-to-sell-products-to-investors-39b20c34.md)
 * 2019-04-26 [사우디 영국 은행, 리플 전원 인스턴트 국경 간 이동 서비스 출시](https://github.com/theyapapa/cryptonews/blob/ko/saudi-british-bank-launches-ripple-powered-instant-cross-border-transfer-service-77af06c4.md)
 * 2019-04-25 [삼성 IT 자회사, 엔터프라이즈 블록 체인 플랫폼의 새로운 버전 출시](https://github.com/theyapapa/cryptonews/blob/ko/samsung-it-subsidiary-releases-new-version-of-enterprise-blockchain-platform-983b96f6.md)
