@@ -1,3 +1,4 @@
+* 2019-04-26 [Самоа расследует церковь после OneCoin бросил вызов правовой запрет на продажу продукции для инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/samoa-investigates-church-after-onecoin-defied-legal-ban-to-sell-products-to-investors-39b20c34.md)
 * 2019-04-26 [Саудовская британский банк запускает пульсации мощности мгновенное трансграничное Трансфер](https://github.com/theyapapa/cryptonews/blob/ru/saudi-british-bank-launches-ripple-powered-instant-cross-border-transfer-service-77af06c4.md)
 * 2019-04-25 [Дочерняя компания Samsung выпускает новую версию корпоративной Блокчейн-платформы](https://github.com/theyapapa/cryptonews/blob/ru/samsung-it-subsidiary-releases-new-version-of-enterprise-blockchain-platform-983b96f6.md)
 * 2019-04-25 [Доклад: Индия рассматривает полный запрет на цифровые валюты](https://github.com/theyapapa/cryptonews/blob/ru/report-india-considers-complete-ban-on-digital-currencies-96003d65.md)
