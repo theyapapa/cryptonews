@@ -1,3 +1,4 @@
+* 2019-04-26 [El banco británico Saudí lanza un servicio de transferencia transfronteriza instantáneo impulsado por Ripple](https://github.com/theyapapa/cryptonews/blob/es/saudi-british-bank-launches-ripple-powered-instant-cross-border-transfer-service-77af06c4.md)
 * 2019-04-25 [La filial de TI de Samsung lanza la nueva versión de Enterprise blockchain Platform](https://github.com/theyapapa/cryptonews/blob/es/samsung-it-subsidiary-releases-new-version-of-enterprise-blockchain-platform-983b96f6.md)
 * 2019-04-25 [Informe: la India considera la prohibición completa de las monedas digitales](https://github.com/theyapapa/cryptonews/blob/es/report-india-considers-complete-ban-on-digital-currencies-96003d65.md)
 * 2019-04-25 [El Tribunal chino de Internet emplea AI y blockchain para emitir juicios](https://github.com/theyapapa/cryptonews/blob/es/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
