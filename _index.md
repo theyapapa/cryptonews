@@ -1,3 +1,4 @@
+* 2019-04-26 [사우디 영국 은행, 리플 전원 인스턴트 국경 간 이동 서비스 출시](https://github.com/theyapapa/cryptonews/blob/ko/saudi-british-bank-launches-ripple-powered-instant-cross-border-transfer-service-77af06c4.md)
 * 2019-04-25 [삼성 IT 자회사, 엔터프라이즈 블록 체인 플랫폼의 새로운 버전 출시](https://github.com/theyapapa/cryptonews/blob/ko/samsung-it-subsidiary-releases-new-version-of-enterprise-blockchain-platform-983b96f6.md)
 * 2019-04-25 [보고서: 인도는 디지털 통화에 대 한 완전 한 금지를 고려 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-india-considers-complete-ban-on-digital-currencies-96003d65.md)
 * 2019-04-25 [중국어 인터넷 법원은 판단을 렌더링 하기 위해 AI와 블록 체인을 고용](https://github.com/theyapapa/cryptonews/blob/ko/chinese-internet-court-employs-ai-and-blockchain-to-render-judgement-a8324d02.md)
