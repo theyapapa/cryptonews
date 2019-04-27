@@ -1,3 +1,4 @@
+* 2019-04-27 [삼성 전자는 기업 자이언츠에 가입 소문에 따르면 맞춤 암호화](https://github.com/theyapapa/cryptonews/blob/ko/samsung-joins-corporate-giants-reportedly-eyeing-bespoke-crypto-d04eec96.md)
 * 2019-04-27 [두 개의 Bitfinex 주주 들이 파산 혐의에 의해 우려 하 고 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/two-bitfinex-shareholders-say-theyre-unconcerned-by-insolvency-allegations-4f066911.md)
 * 2019-04-27 [소비자 대상 크립 토 도둑은 ' 본질적으로 멸종 ': 연구](https://github.com/theyapapa/cryptonews/blob/ko/consumer-targeted-cryptojacking-is-essentially-extinct-research-6cd11106.md)
 * 2019-04-26 [보고서: E * 무역은 암호 거래를 제공 할 준비](https://github.com/theyapapa/cryptonews/blob/ko/report-etrade-prepares-to-offer-crypto-trading-d210cda7.md)
