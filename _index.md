@@ -1,3 +1,4 @@
+* 2019-04-27 [Samsung присоединяется корпоративные гиганты сообщениям глядя на заказ крипто](https://github.com/theyapapa/cryptonews/blob/ru/samsung-joins-corporate-giants-reportedly-eyeing-bespoke-crypto-d04eec96.md)
 * 2019-04-27 [Два Bitfinex акционеры говорят, что они равнодушно к несостоятельности утверждений](https://github.com/theyapapa/cryptonews/blob/ru/two-bitfinex-shareholders-say-theyre-unconcerned-by-insolvency-allegations-4f066911.md)
 * 2019-04-27 [Ориентированные на потребителя Криптоподъемное "по существу вымерших": исследования](https://github.com/theyapapa/cryptonews/blob/ru/consumer-targeted-cryptojacking-is-essentially-extinct-research-6cd11106.md)
 * 2019-04-26 [Доклад: E * Trade готовится предложить Криптотрейдинг](https://github.com/theyapapa/cryptonews/blob/ru/report-etrade-prepares-to-offer-crypto-trading-d210cda7.md)
