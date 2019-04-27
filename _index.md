@@ -1,3 +1,4 @@
+* 2019-04-26 [중국 정부, 말레이시아에서 ' 블록 체인 시티 ' 개발 지원](https://github.com/theyapapa/cryptonews/blob/ko/chinese-government-supports-development-of-blockchain-city-in-malaysia-5d4bfcf0.md)
 * 2019-04-26 [오스트리아, 핀 테크 규제 샌드박스 구축 고려](https://github.com/theyapapa/cryptonews/blob/ko/austria-considers-establishment-of-fintech-regulatory-sandbox-f0a3963b.md)
 * 2019-04-26 [암호화 지갑 시작 원장, 데스크톱 앱을 대상으로 하는 피싱 멀웨어 감지](https://github.com/theyapapa/cryptonews/blob/ko/crypto-wallet-startup-ledger-detects-phishing-malware-targeting-desktop-app-0d2dd6a4.md)
 * 2019-04-26 [SBI의 암호화 교환 SBIVC는 첫 번째 회계 연도에 이익을 달성, STO를 고려](https://github.com/theyapapa/cryptonews/blob/ko/sbis-crypto-exchange-sbivc-achieves-profits-in-first-fiscal-year-considers-sto-6f8bac1c.md)
