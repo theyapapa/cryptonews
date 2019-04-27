@@ -1,3 +1,4 @@
+* 2019-04-27 [Dos accionistas de Bitfinex dicen que no están preocupados por las denuncias de insolvencia](https://github.com/theyapapa/cryptonews/blob/es/two-bitfinex-shareholders-say-theyre-unconcerned-by-insolvency-allegations-4f066911.md)
 * 2019-04-27 [Cryptojacking dirigido al consumidor es ' esencialmente extinta ': investigación](https://github.com/theyapapa/cryptonews/blob/es/consumer-targeted-cryptojacking-is-essentially-extinct-research-6cd11106.md)
 * 2019-04-26 [Informe: E * Trade se prepara para ofrecer Crypto Trading](https://github.com/theyapapa/cryptonews/blob/es/report-etrade-prepares-to-offer-crypto-trading-d210cda7.md)
 * 2019-04-26 [El gobierno chino apoya el desarrollo de ' blockchain City ' en Malasia](https://github.com/theyapapa/cryptonews/blob/es/chinese-government-supports-development-of-blockchain-city-in-malaysia-5d4bfcf0.md)
