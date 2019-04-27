@@ -1,3 +1,4 @@
+* 2019-04-26 [Доклад: E * Trade готовится предложить Криптотрейдинг](https://github.com/theyapapa/cryptonews/blob/ru/report-etrade-prepares-to-offer-crypto-trading-d210cda7.md)
 * 2019-04-26 [Китайское правительство поддерживает развитие "Blockchain City" в Малайзии](https://github.com/theyapapa/cryptonews/blob/ru/chinese-government-supports-development-of-blockchain-city-in-malaysia-5d4bfcf0.md)
 * 2019-04-26 [Австрия считает создание Финтеха регуляторной песочнице](https://github.com/theyapapa/cryptonews/blob/ru/austria-considers-establishment-of-fintech-regulatory-sandbox-f0a3963b.md)
 * 2019-04-26 [Крипто кошелек запуск Леджер обнаруживает фишинг вредоносных программ ориентация настольное приложение](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-startup-ledger-detects-phishing-malware-targeting-desktop-app-0d2dd6a4.md)
