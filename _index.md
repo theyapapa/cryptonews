@@ -1,3 +1,4 @@
+* 2019-04-26 [Informe: E * Trade se prepara para ofrecer Crypto Trading](https://github.com/theyapapa/cryptonews/blob/es/report-etrade-prepares-to-offer-crypto-trading-d210cda7.md)
 * 2019-04-26 [El gobierno chino apoya el desarrollo de ' blockchain City ' en Malasia](https://github.com/theyapapa/cryptonews/blob/es/chinese-government-supports-development-of-blockchain-city-in-malaysia-5d4bfcf0.md)
 * 2019-04-26 [Austria considera el establecimiento de Sandbox regulatorio FinTech](https://github.com/theyapapa/cryptonews/blob/es/austria-considers-establishment-of-fintech-regulatory-sandbox-f0a3963b.md)
 * 2019-04-26 [Crypto Wallet startup Ledger detecta phishing malware targeting aplicación de escritorio](https://github.com/theyapapa/cryptonews/blob/es/crypto-wallet-startup-ledger-detects-phishing-malware-targeting-desktop-app-0d2dd6a4.md)
