@@ -1,3 +1,4 @@
+* 2019-04-28 [MakerDAO CTO sale, apunta a conflictos internos](https://github.com/theyapapa/cryptonews/blob/es/makerdao-cto-departs-points-to-internal-conflicts-590aca89.md)
 * 2019-04-28 [Hodler's Digest, 22 – 28 de abril: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-2228-top-stories-price-movements-quotes-and-fud-of-the-week-d57ed28c.md)
 * 2019-04-28 [Ontología para poner en marcha regulado con respaldo de USD Stablecoin PAX en su blockchain](https://github.com/theyapapa/cryptonews/blob/es/ontology-to-launch-regulated-usd-backed-stablecoin-pax-on-its-blockchain-5472b861.md)
 * 2019-04-28 [' Blockchain Bandit ': cómo un hacker ha estado robando millones de ETH por adivinar las claves privadas débiles](https://github.com/theyapapa/cryptonews/blob/es/blockchain-bandit-how-a-hacker-has-been-stealing-millions-worth-of-eth-by-guessing-weak-private-keys-16dcb4a0.md)
