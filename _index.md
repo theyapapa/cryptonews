@@ -1,3 +1,4 @@
+* 2019-04-28 [Ontología para poner en marcha regulado con respaldo de USD Stablecoin PAX en su blockchain](https://github.com/theyapapa/cryptonews/blob/es/ontology-to-launch-regulated-usd-backed-stablecoin-pax-on-its-blockchain-5472b861.md)
 * 2019-04-28 [' Blockchain Bandit ': cómo un hacker ha estado robando millones de ETH por adivinar las claves privadas débiles](https://github.com/theyapapa/cryptonews/blob/es/blockchain-bandit-how-a-hacker-has-been-stealing-millions-worth-of-eth-by-guessing-weak-private-keys-16dcb4a0.md)
 * 2019-04-27 [Bitcoin empuja sobre $5.300 como la mayoría de los mejores Cryptos ver ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-pushes-over-5-300-as-most-top-cryptos-see-gains-97f16326.md)
 * 2019-04-27 [Samsung se une a los gigantes corporativos Eyeing a Bespoke Crypto](https://github.com/theyapapa/cryptonews/blob/es/samsung-joins-corporate-giants-reportedly-eyeing-bespoke-crypto-d04eec96.md)
