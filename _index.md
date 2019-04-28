@@ -1,3 +1,4 @@
+* 2019-04-28 [Дайджест ходлера, 22 апреля – 28: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-2228-top-stories-price-movements-quotes-and-fud-of-the-week-d57ed28c.md)
 * 2019-04-28 [Онтология для запуска регулируется USD поддержке Стаблекин чел на своем Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/ontology-to-launch-regulated-usd-backed-stablecoin-pax-on-its-blockchain-5472b861.md)
 * 2019-04-28 [' Blockchain бандит ': как хакер был краже миллионы стоит ETH, угадывая слабые частные ключи](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-bandit-how-a-hacker-has-been-stealing-millions-worth-of-eth-by-guessing-weak-private-keys-16dcb4a0.md)
 * 2019-04-27 [Bitcoin толкает более $5 300 как большинство топ криптографирования увидеть прибыль](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-pushes-over-5-300-as-most-top-cryptos-see-gains-97f16326.md)
