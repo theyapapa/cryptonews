@@ -1,3 +1,4 @@
+* 2019-04-28 [' Blockchain бандит ': как хакер был краже миллионы стоит ETH, угадывая слабые частные ключи](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-bandit-how-a-hacker-has-been-stealing-millions-worth-of-eth-by-guessing-weak-private-keys-16dcb4a0.md)
 * 2019-04-27 [Bitcoin толкает более $5 300 как большинство топ криптографирования увидеть прибыль](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-pushes-over-5-300-as-most-top-cryptos-see-gains-97f16326.md)
 * 2019-04-27 [Samsung присоединяется корпоративные гиганты сообщениям глядя на заказ крипто](https://github.com/theyapapa/cryptonews/blob/ru/samsung-joins-corporate-giants-reportedly-eyeing-bespoke-crypto-d04eec96.md)
 * 2019-04-27 [Два Bitfinex акционеры говорят, что они равнодушно к несостоятельности утверждений](https://github.com/theyapapa/cryptonews/blob/ru/two-bitfinex-shareholders-say-theyre-unconcerned-by-insolvency-allegations-4f066911.md)
