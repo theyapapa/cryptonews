@@ -1,3 +1,4 @@
+* 2019-04-27 [비트 코인을 통해 푸시 $5300 대부분의 최고 크립 토는 이익을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-pushes-over-5-300-as-most-top-cryptos-see-gains-97f16326.md)
 * 2019-04-27 [삼성 전자는 기업 자이언츠에 가입 소문에 따르면 맞춤 암호화](https://github.com/theyapapa/cryptonews/blob/ko/samsung-joins-corporate-giants-reportedly-eyeing-bespoke-crypto-d04eec96.md)
 * 2019-04-27 [두 개의 Bitfinex 주주 들이 파산 혐의에 의해 우려 하 고 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/two-bitfinex-shareholders-say-theyre-unconcerned-by-insolvency-allegations-4f066911.md)
 * 2019-04-27 [소비자 대상 크립 토 도둑은 ' 본질적으로 멸종 ': 연구](https://github.com/theyapapa/cryptonews/blob/ko/consumer-targeted-cryptojacking-is-essentially-extinct-research-6cd11106.md)
