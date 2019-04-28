@@ -1,3 +1,4 @@
+* 2019-04-28 [온톨로지가 블록 체인 상에 서 USD 기반 Stablecoin 규제를 시작](https://github.com/theyapapa/cryptonews/blob/ko/ontology-to-launch-regulated-usd-backed-stablecoin-pax-on-its-blockchain-5472b861.md)
 * 2019-04-28 [' 블록 체인 산적 ': 해커는 약한 개인 키를 추측 하 여 ETH의 수백만 가치를 훔치는 방법](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-bandit-how-a-hacker-has-been-stealing-millions-worth-of-eth-by-guessing-weak-private-keys-16dcb4a0.md)
 * 2019-04-27 [비트 코인을 통해 푸시 $5300 대부분의 최고 크립 토는 이익을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-pushes-over-5-300-as-most-top-cryptos-see-gains-97f16326.md)
 * 2019-04-27 [삼성 전자는 기업 자이언츠에 가입 소문에 따르면 맞춤 암호화](https://github.com/theyapapa/cryptonews/blob/ko/samsung-joins-corporate-giants-reportedly-eyeing-bespoke-crypto-d04eec96.md)
