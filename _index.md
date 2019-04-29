@@ -1,3 +1,4 @@
+* 2019-04-29 [Finlandia: guardián financiero adopta el papel de autoridad supervisora para el sector criptográfico](https://github.com/theyapapa/cryptonews/blob/es/finland-financial-watchdog-adopts-role-as-supervisory-authority-for-crypto-sector-a115ab80.md)
 * 2019-04-29 [Celebridades cripto-inversiones: un impulso para la industria, pero también una distracción](https://github.com/theyapapa/cryptonews/blob/es/celebrity-crypto-investments-a-boost-for-the-industry-but-also-a-distraction-12dfb6e9.md)
 * 2019-04-28 [Ethereum Core Devs: financiación para la auditoría de 3 ª parte de ProgPoW aprobada](https://github.com/theyapapa/cryptonews/blob/es/ethereum-core-devs-funding-for-progpow-3rd-party-audit-approved-461d32df.md)
 * 2019-04-28 [MakerDAO CTO sale, apunta a conflictos internos](https://github.com/theyapapa/cryptonews/blob/es/makerdao-cto-departs-points-to-internal-conflicts-590aca89.md)
