@@ -1,3 +1,4 @@
+* 2019-04-29 ["Cryptokicks": 우리가 알고 있는 나이키의 잠재적 인 게이트웨이에 대 한 암호화](https://github.com/theyapapa/cryptonews/blob/ko/cryptokicks-what-we-know-about-nikes-potential-gateway-into-crypto-102edfb3.md)
 * 2019-04-29 [ICE Bakkt, 디지털 자산 보관 회사 인수 발표](https://github.com/theyapapa/cryptonews/blob/ko/ices-bakkt-announces-acquisition-of-digital-asset-custody-company-b7bb5f9a.md)
 * 2019-04-29 [UAE는 세계에서 가장 큰 토큰 판매에 기여, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/uae-becomes-worlds-biggest-contributor-to-token-sales-data-shows-b1d74490.md)
 * 2019-04-29 [로컬 미디어: HTC는 2019에 2 세대 블록 체인 스마트 폰을 출시 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/local-media-htc-plans-to-launch-2nd-gen-blockchain-smartphone-in-2019-a9aea52c.md)
