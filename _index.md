@@ -1,3 +1,4 @@
+* 2019-04-29 [ОАЭ становится крупнейшим вкладчиком мира в продажи токенов, показывает данные](https://github.com/theyapapa/cryptonews/blob/ru/uae-becomes-worlds-biggest-contributor-to-token-sales-data-shows-b1d74490.md)
 * 2019-04-29 [Местные СМИ: HTC планирует запустить 2nd Gen Blockchain смартфон в 2019](https://github.com/theyapapa/cryptonews/blob/ru/local-media-htc-plans-to-launch-2nd-gen-blockchain-smartphone-in-2019-a9aea52c.md)
 * 2019-04-29 [Финляндия: финансовые сторожевой принимает роль в качестве наблюдательного органа для Криптосектора](https://github.com/theyapapa/cryptonews/blob/ru/finland-financial-watchdog-adopts-role-as-supervisory-authority-for-crypto-sector-a115ab80.md)
 * 2019-04-29 [Знаменитости крипто-инвестиции: импульс для промышленности, но и отвлечение](https://github.com/theyapapa/cryptonews/blob/ru/celebrity-crypto-investments-a-boost-for-the-industry-but-also-a-distraction-12dfb6e9.md)
