@@ -1,3 +1,4 @@
+* 2019-04-29 [ICE Bakkt, 디지털 자산 보관 회사 인수 발표](https://github.com/theyapapa/cryptonews/blob/ko/ices-bakkt-announces-acquisition-of-digital-asset-custody-company-b7bb5f9a.md)
 * 2019-04-29 [UAE는 세계에서 가장 큰 토큰 판매에 기여, 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/uae-becomes-worlds-biggest-contributor-to-token-sales-data-shows-b1d74490.md)
 * 2019-04-29 [로컬 미디어: HTC는 2019에 2 세대 블록 체인 스마트 폰을 출시 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/local-media-htc-plans-to-launch-2nd-gen-blockchain-smartphone-in-2019-a9aea52c.md)
 * 2019-04-29 [핀란드: 금융 감시는 암호화 부문의 감독 당국 역할을 채택 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/finland-financial-watchdog-adopts-role-as-supervisory-authority-for-crypto-sector-a115ab80.md)
