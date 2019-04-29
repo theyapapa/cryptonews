@@ -1,3 +1,4 @@
+* 2019-04-29 [감염 된 전기의 수 비트 코인 지갑 152000에 도달](https://github.com/theyapapa/cryptonews/blob/ko/number-of-infected-electrum-bitcoin-wallets-reaches-152-000-852eac8a.md)
 * 2019-04-29 [비트 코인 $5300 지원을 보유 하는 데 실패 하는 암호화 시장 하락, 주식은 모든 시간 최고치를 맞았다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-drops-as-bitcoin-fails-to-hold-5-300-support-stocks-hit-all-time-highs-60a57496.md)
 * 2019-04-29 ["Cryptokicks": 우리가 알고 있는 나이키의 잠재적 인 게이트웨이에 대 한 암호화](https://github.com/theyapapa/cryptonews/blob/ko/cryptokicks-what-we-know-about-nikes-potential-gateway-into-crypto-102edfb3.md)
 * 2019-04-29 [ICE Bakkt, 디지털 자산 보관 회사 인수 발표](https://github.com/theyapapa/cryptonews/blob/ko/ices-bakkt-announces-acquisition-of-digital-asset-custody-company-b7bb5f9a.md)
