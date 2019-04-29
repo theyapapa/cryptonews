@@ -1,3 +1,4 @@
+* 2019-04-29 [로컬 미디어: HTC는 2019에 2 세대 블록 체인 스마트 폰을 출시 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/local-media-htc-plans-to-launch-2nd-gen-blockchain-smartphone-in-2019-a9aea52c.md)
 * 2019-04-29 [핀란드: 금융 감시는 암호화 부문의 감독 당국 역할을 채택 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/finland-financial-watchdog-adopts-role-as-supervisory-authority-for-crypto-sector-a115ab80.md)
 * 2019-04-29 [연예인 암호화 투자: 업계에 대 한 부스트, 또한 산만](https://github.com/theyapapa/cryptonews/blob/ko/celebrity-crypto-investments-a-boost-for-the-industry-but-also-a-distraction-12dfb6e9.md)
 * 2019-04-28 [Ethereum 핵심 개발자: ProgPoW 타사 감사에 대 한 자금 조달 승인](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-core-devs-funding-for-progpow-3rd-party-audit-approved-461d32df.md)
