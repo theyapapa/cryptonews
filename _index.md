@@ -1,3 +1,4 @@
+* 2019-04-29 [Количество зараженных Элекэлектром биткоин кошельки достигает 152 000](https://github.com/theyapapa/cryptonews/blob/ru/number-of-infected-electrum-bitcoin-wallets-reaches-152-000-852eac8a.md)
 * 2019-04-29 [Крипто рынки падает, как Bitcoin не может удерживать $5 300 поддержка, акции хит все время максимумы](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-drops-as-bitcoin-fails-to-hold-5-300-support-stocks-hit-all-time-highs-60a57496.md)
 * 2019-04-29 ["Криптоудары": что мы знаем о потенциальных шлюз Nike в крипто](https://github.com/theyapapa/cryptonews/blob/ru/cryptokicks-what-we-know-about-nikes-potential-gateway-into-crypto-102edfb3.md)
 * 2019-04-29 [ICE Баккт объявляет о приобретении цифровых активов опеки компании](https://github.com/theyapapa/cryptonews/blob/ru/ices-bakkt-announces-acquisition-of-digital-asset-custody-company-b7bb5f9a.md)
