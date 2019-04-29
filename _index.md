@@ -1,3 +1,4 @@
+* 2019-04-29 [Número de carteras infectadas Electrum Bitcoin alcanza 152.000](https://github.com/theyapapa/cryptonews/blob/es/number-of-infected-electrum-bitcoin-wallets-reaches-152-000-852eac8a.md)
 * 2019-04-29 [Crypto Markets cae como Bitcoin no puede sostener $5.300 apoyo, acciones hit máximos de todos los tiempos](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-drops-as-bitcoin-fails-to-hold-5-300-support-stocks-hit-all-time-highs-60a57496.md)
 * 2019-04-29 ["Cryptokicks": lo que sabemos sobre la posible puerta de enlace de Nike en Crypto](https://github.com/theyapapa/cryptonews/blob/es/cryptokicks-what-we-know-about-nikes-potential-gateway-into-crypto-102edfb3.md)
 * 2019-04-29 [Bakkt de ICE anuncia la adquisición de la compañía de custodia de activos digitales](https://github.com/theyapapa/cryptonews/blob/es/ices-bakkt-announces-acquisition-of-digital-asset-custody-company-b7bb5f9a.md)
