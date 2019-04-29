@@ -1,3 +1,4 @@
+* 2019-04-28 [Ethereum Core Devs: financiación para la auditoría de 3 ª parte de ProgPoW aprobada](https://github.com/theyapapa/cryptonews/blob/es/ethereum-core-devs-funding-for-progpow-3rd-party-audit-approved-461d32df.md)
 * 2019-04-28 [MakerDAO CTO sale, apunta a conflictos internos](https://github.com/theyapapa/cryptonews/blob/es/makerdao-cto-departs-points-to-internal-conflicts-590aca89.md)
 * 2019-04-28 [Hodler's Digest, 22 – 28 de abril: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-2228-top-stories-price-movements-quotes-and-fud-of-the-week-d57ed28c.md)
 * 2019-04-28 [Ontología para poner en marcha regulado con respaldo de USD Stablecoin PAX en su blockchain](https://github.com/theyapapa/cryptonews/blob/es/ontology-to-launch-regulated-usd-backed-stablecoin-pax-on-its-blockchain-5472b861.md)
