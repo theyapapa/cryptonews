@@ -1,3 +1,4 @@
+* 2019-04-29 [Знаменитости крипто-инвестиции: импульс для промышленности, но и отвлечение](https://github.com/theyapapa/cryptonews/blob/ru/celebrity-crypto-investments-a-boost-for-the-industry-but-also-a-distraction-12dfb6e9.md)
 * 2019-04-28 [Эфириум Core разработчики: финансирование для прогнозов 3rd-участник аудит утвержден](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-core-devs-funding-for-progpow-3rd-party-audit-approved-461d32df.md)
 * 2019-04-28 [Технический директор Макердао отходит, указывает на внутренние конфликты](https://github.com/theyapapa/cryptonews/blob/ru/makerdao-cto-departs-points-to-internal-conflicts-590aca89.md)
 * 2019-04-28 [Дайджест ходлера, 22 апреля – 28: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-2228-top-stories-price-movements-quotes-and-fud-of-the-week-d57ed28c.md)
