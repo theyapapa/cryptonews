@@ -1,3 +1,4 @@
+* 2019-04-29 [Финляндия: финансовые сторожевой принимает роль в качестве наблюдательного органа для Криптосектора](https://github.com/theyapapa/cryptonews/blob/ru/finland-financial-watchdog-adopts-role-as-supervisory-authority-for-crypto-sector-a115ab80.md)
 * 2019-04-29 [Знаменитости крипто-инвестиции: импульс для промышленности, но и отвлечение](https://github.com/theyapapa/cryptonews/blob/ru/celebrity-crypto-investments-a-boost-for-the-industry-but-also-a-distraction-12dfb6e9.md)
 * 2019-04-28 [Эфириум Core разработчики: финансирование для прогнозов 3rd-участник аудит утвержден](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-core-devs-funding-for-progpow-3rd-party-audit-approved-461d32df.md)
 * 2019-04-28 [Технический директор Макердао отходит, указывает на внутренние конфликты](https://github.com/theyapapa/cryptonews/blob/ru/makerdao-cto-departs-points-to-internal-conflicts-590aca89.md)
