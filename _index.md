@@ -1,3 +1,4 @@
+* 2019-04-28 [Ethereum 핵심 개발자: ProgPoW 타사 감사에 대 한 자금 조달 승인](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-core-devs-funding-for-progpow-3rd-party-audit-approved-461d32df.md)
 * 2019-04-28 [MakerDAO CTO가 출발 하 여 내부 갈등을 가리킵니다.](https://github.com/theyapapa/cryptonews/blob/ko/makerdao-cto-departs-points-to-internal-conflicts-590aca89.md)
 * 2019-04-28 [Hodler의 다이제스트, 4 월 22 – 28: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-april-2228-top-stories-price-movements-quotes-and-fud-of-the-week-d57ed28c.md)
 * 2019-04-28 [온톨로지가 블록 체인 상에 서 USD 기반 Stablecoin 규제를 시작](https://github.com/theyapapa/cryptonews/blob/ko/ontology-to-launch-regulated-usd-backed-stablecoin-pax-on-its-blockchain-5472b861.md)
