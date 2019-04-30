@@ -1,3 +1,4 @@
+* 2019-04-30 [El fiscal del distrito de Nueva York cobra dos por las compañías criptográficas de Shadow Banking](https://github.com/theyapapa/cryptonews/blob/es/new-york-district-attorney-charges-two-for-shadow-banking-crypto-companies-68c22060.md)
 * 2019-04-30 [Investigación: mercado de hardware minero Crypto para ver 10% crecimiento anual compuesto por 2023](https://github.com/theyapapa/cryptonews/blob/es/research-crypto-mining-hardware-market-to-see-10-compound-annual-growth-by-2023-eef82408.md)
 * 2019-04-30 [11% de los estadounidenses Own bitcoin, mayor conciencia aumentó desde 2017](https://github.com/theyapapa/cryptonews/blob/es/11-of-americans-own-bitcoin-major-awareness-increased-since-2017-0e674dca.md)
 * 2019-04-30 [JPMorgan Chase Senior Executive se convierte en CEO de blockchain Precious metales firm](https://github.com/theyapapa/cryptonews/blob/es/jpmorgan-chase-senior-executive-becomes-ceo-of-blockchain-precious-metals-firm-a200f850.md)
