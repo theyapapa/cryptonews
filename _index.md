@@ -1,3 +1,4 @@
+* 2019-04-29 [Хакеры использовали учетные записи электронной почты Майкрософт, чтобы украсть Криптовалюту пользователей, отчет](https://github.com/theyapapa/cryptonews/blob/ru/hackers-used-microsoft-email-accounts-to-steal-users-cryptocurrency-report-3ad559fa.md)
 * 2019-04-29 [Исполнительные защитники FedEx по отраслевым стандартам Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/fedex-executive-advocates-for-industry-blockchain-standards-d4774849.md)
 * 2019-04-29 [Количество зараженных Элекэлектром биткоин кошельки достигает 152 000](https://github.com/theyapapa/cryptonews/blob/ru/number-of-infected-electrum-bitcoin-wallets-reaches-152-000-852eac8a.md)
 * 2019-04-29 [Крипто рынки падает, как Bitcoin не может удерживать $5 300 поддержка, акции хит все время максимумы](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-drops-as-bitcoin-fails-to-hold-5-300-support-stocks-hit-all-time-highs-60a57496.md)
