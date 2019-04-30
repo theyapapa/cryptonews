@@ -1,3 +1,4 @@
+* 2019-04-30 [미국 기반 거래소 ErisX 공식적으로 현물 시장의 공개 출시 발표](https://github.com/theyapapa/cryptonews/blob/ko/us-based-exchange-erisx-officially-announces-public-launch-of-spot-market-68115672.md)
 * 2019-04-30 [브 레이 커 매거진 실행 가능한 사업 계획의 부족으로 인해 운영을 중단 하려면: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/breaker-magazine-to-cease-operation-due-to-lack-of-feasible-business-plan-report-b7d662d0.md)
 * 2019-04-30 [투자 후 물방울로 블록 체인 의료 도구를 개발 하는 중국의 텐 센트](https://github.com/theyapapa/cryptonews/blob/ko/chinas-tencent-to-develop-blockchain-medical-tools-with-waterdrop-after-investment-f765a94f.md)
 * 2019-04-30 [영국 프리미어리그 축구 클럽 웨스트 햄 친목과 협력 하 여 팬 토큰 출시](https://github.com/theyapapa/cryptonews/blob/ko/uk-premier-league-soccer-club-west-ham-to-launch-fan-token-in-partnership-with-socios-c6113926.md)
