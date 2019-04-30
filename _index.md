@@ -1,3 +1,4 @@
+* 2019-04-30 [투자 후 물방울로 블록 체인 의료 도구를 개발 하는 중국의 텐 센트](https://github.com/theyapapa/cryptonews/blob/ko/chinas-tencent-to-develop-blockchain-medical-tools-with-waterdrop-after-investment-f765a94f.md)
 * 2019-04-30 [영국 프리미어리그 축구 클럽 웨스트 햄 친목과 협력 하 여 팬 토큰 출시](https://github.com/theyapapa/cryptonews/blob/ko/uk-premier-league-soccer-club-west-ham-to-launch-fan-token-in-partnership-with-socios-c6113926.md)
 * 2019-04-29 [해커는 사용자의 암호 화폐를 도용 하기 위해 마이크로 소프트 이메일 계정을 사용, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/hackers-used-microsoft-email-accounts-to-steal-users-cryptocurrency-report-3ad559fa.md)
 * 2019-04-29 [산업 블록 체인 표준에 대 한 FedEx 경영진 지지자](https://github.com/theyapapa/cryptonews/blob/ko/fedex-executive-advocates-for-industry-blockchain-standards-d4774849.md)
