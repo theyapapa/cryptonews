@@ -1,3 +1,4 @@
+* 2019-04-29 [Los hackers utilizan cuentas de correo electrónico de Microsoft para robar criptomoneda de los usuarios, informe](https://github.com/theyapapa/cryptonews/blob/es/hackers-used-microsoft-email-accounts-to-steal-users-cryptocurrency-report-3ad559fa.md)
 * 2019-04-29 [FedEx Executive aboga por la industria blockchain Standards](https://github.com/theyapapa/cryptonews/blob/es/fedex-executive-advocates-for-industry-blockchain-standards-d4774849.md)
 * 2019-04-29 [Número de carteras infectadas Electrum Bitcoin alcanza 152.000](https://github.com/theyapapa/cryptonews/blob/es/number-of-infected-electrum-bitcoin-wallets-reaches-152-000-852eac8a.md)
 * 2019-04-29 [Crypto Markets cae como Bitcoin no puede sostener $5.300 apoyo, acciones hit máximos de todos los tiempos](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-drops-as-bitcoin-fails-to-hold-5-300-support-stocks-hit-all-time-highs-60a57496.md)
