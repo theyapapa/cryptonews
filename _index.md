@@ -1,3 +1,4 @@
+* 2019-04-30 [Tencent de China para desarrollar herramientas médicas de blockchain con gota de agua después de la inversión](https://github.com/theyapapa/cryptonews/blob/es/chinas-tencent-to-develop-blockchain-medical-tools-with-waterdrop-after-investment-f765a94f.md)
 * 2019-04-30 [UK Premier League Soccer Club West Ham para lanzar fan token en asociación con socios](https://github.com/theyapapa/cryptonews/blob/es/uk-premier-league-soccer-club-west-ham-to-launch-fan-token-in-partnership-with-socios-c6113926.md)
 * 2019-04-29 [Los hackers utilizan cuentas de correo electrónico de Microsoft para robar criptomoneda de los usuarios, informe](https://github.com/theyapapa/cryptonews/blob/es/hackers-used-microsoft-email-accounts-to-steal-users-cryptocurrency-report-3ad559fa.md)
 * 2019-04-29 [FedEx Executive aboga por la industria blockchain Standards](https://github.com/theyapapa/cryptonews/blob/es/fedex-executive-advocates-for-industry-blockchain-standards-d4774849.md)
