@@ -1,3 +1,4 @@
+* 2019-04-30 [연구: 2023에 의해 10% 복합 연간 성장을 볼 수 있는 암호화 마이닝 하드웨어 시장](https://github.com/theyapapa/cryptonews/blob/ko/research-crypto-mining-hardware-market-to-see-10-compound-annual-growth-by-2023-eef82408.md)
 * 2019-04-30 [11% 미국인의 자신의 비트 코인, 주요 인식 증가 2017 이후](https://github.com/theyapapa/cryptonews/blob/ko/11-of-americans-own-bitcoin-major-awareness-increased-since-2017-0e674dca.md)
 * 2019-04-30 [Jp 모건 체이스 수석 경영자가 블록 체인 귀금속 회사의 CEO가 된다](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-chase-senior-executive-becomes-ceo-of-blockchain-precious-metals-firm-a200f850.md)
 * 2019-04-30 [미국 기반 거래소 ErisX 공식적으로 현물 시장의 공개 출시 발표](https://github.com/theyapapa/cryptonews/blob/ko/us-based-exchange-erisx-officially-announces-public-launch-of-spot-market-68115672.md)
