@@ -1,3 +1,4 @@
+* 2019-04-30 [11% de los estadounidenses Own bitcoin, mayor conciencia aumentó desde 2017](https://github.com/theyapapa/cryptonews/blob/es/11-of-americans-own-bitcoin-major-awareness-increased-since-2017-0e674dca.md)
 * 2019-04-30 [JPMorgan Chase Senior Executive se convierte en CEO de blockchain Precious metales firm](https://github.com/theyapapa/cryptonews/blob/es/jpmorgan-chase-senior-executive-becomes-ceo-of-blockchain-precious-metals-firm-a200f850.md)
 * 2019-04-30 [Exchange ErisX, con sede en Estados Unidos, anuncia oficialmente el lanzamiento público del mercado spot](https://github.com/theyapapa/cryptonews/blob/es/us-based-exchange-erisx-officially-announces-public-launch-of-spot-market-68115672.md)
 * 2019-04-30 [Revista Breaker para cesar la operación debido a la falta de plan de negocios factible: informe](https://github.com/theyapapa/cryptonews/blob/es/breaker-magazine-to-cease-operation-due-to-lack-of-feasible-business-plan-report-b7d662d0.md)
