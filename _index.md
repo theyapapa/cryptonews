@@ -1,3 +1,4 @@
+* 2019-04-29 [해커는 사용자의 암호 화폐를 도용 하기 위해 마이크로 소프트 이메일 계정을 사용, 보고서](https://github.com/theyapapa/cryptonews/blob/ko/hackers-used-microsoft-email-accounts-to-steal-users-cryptocurrency-report-3ad559fa.md)
 * 2019-04-29 [산업 블록 체인 표준에 대 한 FedEx 경영진 지지자](https://github.com/theyapapa/cryptonews/blob/ko/fedex-executive-advocates-for-industry-blockchain-standards-d4774849.md)
 * 2019-04-29 [감염 된 전기의 수 비트 코인 지갑 152000에 도달](https://github.com/theyapapa/cryptonews/blob/ko/number-of-infected-electrum-bitcoin-wallets-reaches-152-000-852eac8a.md)
 * 2019-04-29 [비트 코인 $5300 지원을 보유 하는 데 실패 하는 암호화 시장 하락, 주식은 모든 시간 최고치를 맞았다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-drops-as-bitcoin-fails-to-hold-5-300-support-stocks-hit-all-time-highs-60a57496.md)
