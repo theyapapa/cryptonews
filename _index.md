@@ -1,3 +1,4 @@
+* 2019-04-30 [Нью-Йорк окружной прокурор обвинения два для теневой банковской Криптокомпаний](https://github.com/theyapapa/cryptonews/blob/ru/new-york-district-attorney-charges-two-for-shadow-banking-crypto-companies-68c22060.md)
 * 2019-04-30 [Исследование: рынок Криптогорного оборудования, чтобы увидеть 10% совокупный ежегодный рост на 2023](https://github.com/theyapapa/cryptonews/blob/ru/research-crypto-mining-hardware-market-to-see-10-compound-annual-growth-by-2023-eef82408.md)
 * 2019-04-30 [11% американцев владеют Биткоином, главное повышение осведомленности с 2017](https://github.com/theyapapa/cryptonews/blob/ru/11-of-americans-own-bitcoin-major-awareness-increased-since-2017-0e674dca.md)
 * 2019-04-30 [JPMorgan Чейз старший исполнительный становится Генеральным директором компании Blockchain драгоценные металлы](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-chase-senior-executive-becomes-ceo-of-blockchain-precious-metals-firm-a200f850.md)
