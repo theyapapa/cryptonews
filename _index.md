@@ -1,3 +1,4 @@
+* 2019-04-30 [Investigación: mercado de hardware minero Crypto para ver 10% crecimiento anual compuesto por 2023](https://github.com/theyapapa/cryptonews/blob/es/research-crypto-mining-hardware-market-to-see-10-compound-annual-growth-by-2023-eef82408.md)
 * 2019-04-30 [11% de los estadounidenses Own bitcoin, mayor conciencia aumentó desde 2017](https://github.com/theyapapa/cryptonews/blob/es/11-of-americans-own-bitcoin-major-awareness-increased-since-2017-0e674dca.md)
 * 2019-04-30 [JPMorgan Chase Senior Executive se convierte en CEO de blockchain Precious metales firm](https://github.com/theyapapa/cryptonews/blob/es/jpmorgan-chase-senior-executive-becomes-ceo-of-blockchain-precious-metals-firm-a200f850.md)
 * 2019-04-30 [Exchange ErisX, con sede en Estados Unidos, anuncia oficialmente el lanzamiento público del mercado spot](https://github.com/theyapapa/cryptonews/blob/es/us-based-exchange-erisx-officially-announces-public-launch-of-spot-market-68115672.md)
