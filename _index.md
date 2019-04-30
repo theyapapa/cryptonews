@@ -1,3 +1,4 @@
+* 2019-04-30 [11% американцев владеют Биткоином, главное повышение осведомленности с 2017](https://github.com/theyapapa/cryptonews/blob/ru/11-of-americans-own-bitcoin-major-awareness-increased-since-2017-0e674dca.md)
 * 2019-04-30 [JPMorgan Чейз старший исполнительный становится Генеральным директором компании Blockchain драгоценные металлы](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-chase-senior-executive-becomes-ceo-of-blockchain-precious-metals-firm-a200f850.md)
 * 2019-04-30 [Базирующаяся в США биржа ErisX официально объявляет о публичном запуске спот-рынка](https://github.com/theyapapa/cryptonews/blob/ru/us-based-exchange-erisx-officially-announces-public-launch-of-spot-market-68115672.md)
 * 2019-04-30 [Выключатель журнал прекратить операции из-за отсутствия осуществимых бизнес-план: доклад](https://github.com/theyapapa/cryptonews/blob/ru/breaker-magazine-to-cease-operation-due-to-lack-of-feasible-business-plan-report-b7d662d0.md)
