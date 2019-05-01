@@ -1,3 +1,4 @@
+* 2019-05-01 [Кукоймаркеткап удалить биржи из расчетов если они не предоставляют обязательные данные](https://github.com/theyapapa/cryptonews/blob/ru/coinmarketcap-to-remove-exchanges-from-calculations-if-they-dont-provide-mandatory-data-dafb3006.md)
 * 2019-05-01 [Голландский центральный банк будет продолжать охватывающей DLT, но на сегодняшний день выводы не все положительные](https://github.com/theyapapa/cryptonews/blob/ru/dutch-central-bank-will-keep-embracing-dlt-but-to-date-findings-are-not-all-positive-e3610f55.md)
 * 2019-05-01 [AMD доходы превосходят целевые на фоне Talk Криптовалюта бык возвращение рынка](https://github.com/theyapapa/cryptonews/blob/ru/amd-earnings-surpass-target-amid-talk-of-cryptocurrency-bull-market-return-da36028e.md)
 * 2019-05-01 [Барт Чилтон: бывший регулятор CFTC, Криптодержатель и ICO Индоссер](https://github.com/theyapapa/cryptonews/blob/ru/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
