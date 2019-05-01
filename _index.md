@@ -1,3 +1,4 @@
+* 2019-05-01 [보고서: Blockchain 스포츠 플랫폼은 암호와 영어 축구 클럽을 구입 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-sports-platform-will-not-buy-english-football-club-with-crypto-de33758c.md)
 * 2019-05-01 [오스틴 교통 상호 운용성 생태계 개발을 위한 Iota 재단과의 협력](https://github.com/theyapapa/cryptonews/blob/ko/austin-transportation-partners-with-iota-foundation-to-develop-interoperability-ecosystem-54b4ef83.md)
 * 2019-05-01 [코인 마켓 캡은 필수 데이터를 제공 하지 않는 경우 계산에서 교환을 제거 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinmarketcap-to-remove-exchanges-from-calculations-if-they-dont-provide-mandatory-data-dafb3006.md)
 * 2019-05-01 [네덜란드 중앙 은행은 DLT를 포용 하는 것 이지만, 최신 조사 결과는 모두 긍정적이 지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/dutch-central-bank-will-keep-embracing-dlt-but-to-date-findings-are-not-all-positive-e3610f55.md)
