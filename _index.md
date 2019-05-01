@@ -1,3 +1,4 @@
+* 2019-05-01 [AMD доходы превосходят целевые на фоне Talk Криптовалюта бык возвращение рынка](https://github.com/theyapapa/cryptonews/blob/ru/amd-earnings-surpass-target-amid-talk-of-cryptocurrency-bull-market-return-da36028e.md)
 * 2019-05-01 [Барт Чилтон: бывший регулятор CFTC, Криптодержатель и ICO Индоссер](https://github.com/theyapapa/cryptonews/blob/ru/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
 * 2019-04-30 [ИИФ выпускает руководство по регулированию Блокчейна для директивных органов ](https://github.com/theyapapa/cryptonews/blob/ru/itif-releases-guide-to-regulating-blockchain-for-policymakers-08d6904f.md)
 * 2019-04-30 [Консенсис параллельное трюфель интегрируется с Голдманс Сакс поддержке Blockchain: доклад](https://github.com/theyapapa/cryptonews/blob/ru/consensys-spinoff-truffle-integrates-with-goldmans-sachs-supported-blockchain-report-b6cc995f.md)
