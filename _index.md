@@ -1,3 +1,4 @@
+* 2019-05-01 [США CFTC Председатель говорит интерес к крипто может привести к более клиринговые ](https://github.com/theyapapa/cryptonews/blob/ru/us-cftc-chair-says-interest-in-crypto-could-bring-about-more-clearinghouses-9005b774.md)
 * 2019-05-01 [Токен доверия запускает Стаблекаин опираясь на канадский доллар](https://github.com/theyapapa/cryptonews/blob/ru/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
 * 2019-05-01 [Доклад: Blockchain спортивная платформа не будет покупать английский футбольный клуб с крипто](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-sports-platform-will-not-buy-english-football-club-with-crypto-de33758c.md)
 * 2019-05-01 [Остине транспорт партнеры с йота Фонд развития совместимости экосистемы](https://github.com/theyapapa/cryptonews/blob/ru/austin-transportation-partners-with-iota-foundation-to-develop-interoperability-ecosystem-54b4ef83.md)
