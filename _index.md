@@ -1,3 +1,4 @@
+* 2019-05-01 [Токен доверия запускает Стаблекаин опираясь на канадский доллар](https://github.com/theyapapa/cryptonews/blob/ru/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
 * 2019-05-01 [Доклад: Blockchain спортивная платформа не будет покупать английский футбольный клуб с крипто](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-sports-platform-will-not-buy-english-football-club-with-crypto-de33758c.md)
 * 2019-05-01 [Остине транспорт партнеры с йота Фонд развития совместимости экосистемы](https://github.com/theyapapa/cryptonews/blob/ru/austin-transportation-partners-with-iota-foundation-to-develop-interoperability-ecosystem-54b4ef83.md)
 * 2019-05-01 [Кукоймаркеткап удалить биржи из расчетов если они не предоставляют обязательные данные](https://github.com/theyapapa/cryptonews/blob/ru/coinmarketcap-to-remove-exchanges-from-calculations-if-they-dont-provide-mandatory-data-dafb3006.md)
