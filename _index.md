@@ -1,3 +1,4 @@
+* 2019-05-01 [Bart Chilton: ex regulador de CFTC, poseedor de cripto y Endoser de ICO](https://github.com/theyapapa/cryptonews/blob/es/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
 * 2019-04-30 [ITIF libera guía para regular blockchain para legisladores ](https://github.com/theyapapa/cryptonews/blob/es/itif-releases-guide-to-regulating-blockchain-for-policymakers-08d6904f.md)
 * 2019-04-30 [ConsenSys spinoff trufa se integra con la blockchain soportada por Goldmans Sachs: informe](https://github.com/theyapapa/cryptonews/blob/es/consensys-spinoff-truffle-integrates-with-goldmans-sachs-supported-blockchain-report-b6cc995f.md)
 * 2019-04-30 [El fiscal del distrito de Nueva York cobra dos por las compañías criptográficas de Shadow Banking](https://github.com/theyapapa/cryptonews/blob/es/new-york-district-attorney-charges-two-for-shadow-banking-crypto-companies-68c22060.md)
