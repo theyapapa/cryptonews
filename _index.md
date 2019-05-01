@@ -1,3 +1,4 @@
+* 2019-05-01 [코인 마켓 캡은 필수 데이터를 제공 하지 않는 경우 계산에서 교환을 제거 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinmarketcap-to-remove-exchanges-from-calculations-if-they-dont-provide-mandatory-data-dafb3006.md)
 * 2019-05-01 [네덜란드 중앙 은행은 DLT를 포용 하는 것 이지만, 최신 조사 결과는 모두 긍정적이 지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/dutch-central-bank-will-keep-embracing-dlt-but-to-date-findings-are-not-all-positive-e3610f55.md)
 * 2019-05-01 [AMD 수익은 암호 화폐 황소 시장 수익률의 이야기 가운데 목표를 능가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/amd-earnings-surpass-target-amid-talk-of-cryptocurrency-bull-market-return-da36028e.md)
 * 2019-05-01 [바트 칠 튼: 전 CFTC 레 귤 레이 터, 암호화 보유자 및 ICO 보증](https://github.com/theyapapa/cryptonews/blob/ko/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
