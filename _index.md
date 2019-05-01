@@ -1,3 +1,4 @@
+* 2019-05-01 [Барт Чилтон: бывший регулятор CFTC, Криптодержатель и ICO Индоссер](https://github.com/theyapapa/cryptonews/blob/ru/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
 * 2019-04-30 [ИИФ выпускает руководство по регулированию Блокчейна для директивных органов ](https://github.com/theyapapa/cryptonews/blob/ru/itif-releases-guide-to-regulating-blockchain-for-policymakers-08d6904f.md)
 * 2019-04-30 [Консенсис параллельное трюфель интегрируется с Голдманс Сакс поддержке Blockchain: доклад](https://github.com/theyapapa/cryptonews/blob/ru/consensys-spinoff-truffle-integrates-with-goldmans-sachs-supported-blockchain-report-b6cc995f.md)
 * 2019-04-30 [Нью-Йорк окружной прокурор обвинения два для теневой банковской Криптокомпаний](https://github.com/theyapapa/cryptonews/blob/ru/new-york-district-attorney-charges-two-for-shadow-banking-crypto-companies-68c22060.md)
