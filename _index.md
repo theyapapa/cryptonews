@@ -1,3 +1,4 @@
+* 2019-05-01 [네덜란드 중앙 은행은 DLT를 포용 하는 것 이지만, 최신 조사 결과는 모두 긍정적이 지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/dutch-central-bank-will-keep-embracing-dlt-but-to-date-findings-are-not-all-positive-e3610f55.md)
 * 2019-05-01 [AMD 수익은 암호 화폐 황소 시장 수익률의 이야기 가운데 목표를 능가 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/amd-earnings-surpass-target-amid-talk-of-cryptocurrency-bull-market-return-da36028e.md)
 * 2019-05-01 [바트 칠 튼: 전 CFTC 레 귤 레이 터, 암호화 보유자 및 ICO 보증](https://github.com/theyapapa/cryptonews/blob/ko/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
 * 2019-04-30 [ITIF는 정책 입안자를 위한 블록 체인 규제에 대 한 가이드를 발표 합니다 ](https://github.com/theyapapa/cryptonews/blob/ko/itif-releases-guide-to-regulating-blockchain-for-policymakers-08d6904f.md)
