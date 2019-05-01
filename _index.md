@@ -1,3 +1,4 @@
+* 2019-05-01 [미국 CFTC의 자는 암호화에 대 한 관심이 더 의료보험을 가져올 수 있다고 말합니다. ](https://github.com/theyapapa/cryptonews/blob/ko/us-cftc-chair-says-interest-in-crypto-could-bring-about-more-clearinghouses-9005b774.md)
 * 2019-05-01 [TrustToken이 캐나다 달러화로 뒷받침 되는 Stablecoin 출시](https://github.com/theyapapa/cryptonews/blob/ko/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
 * 2019-05-01 [보고서: Blockchain 스포츠 플랫폼은 암호와 영어 축구 클럽을 구입 하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-sports-platform-will-not-buy-english-football-club-with-crypto-de33758c.md)
 * 2019-05-01 [오스틴 교통 상호 운용성 생태계 개발을 위한 Iota 재단과의 협력](https://github.com/theyapapa/cryptonews/blob/ko/austin-transportation-partners-with-iota-foundation-to-develop-interoperability-ecosystem-54b4ef83.md)
