@@ -1,3 +1,4 @@
+* 2019-05-01 [El banco central holandés seguirá abrazando DLT, pero los hallazgos hasta la fecha no son todos positivos](https://github.com/theyapapa/cryptonews/blob/es/dutch-central-bank-will-keep-embracing-dlt-but-to-date-findings-are-not-all-positive-e3610f55.md)
 * 2019-05-01 [Ganancias de AMD superan el objetivo en medio de la charla de criptomoneda mercado alcista retorno](https://github.com/theyapapa/cryptonews/blob/es/amd-earnings-surpass-target-amid-talk-of-cryptocurrency-bull-market-return-da36028e.md)
 * 2019-05-01 [Bart Chilton: ex regulador de CFTC, poseedor de cripto y Endoser de ICO](https://github.com/theyapapa/cryptonews/blob/es/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
 * 2019-04-30 [ITIF libera guía para regular blockchain para legisladores ](https://github.com/theyapapa/cryptonews/blob/es/itif-releases-guide-to-regulating-blockchain-for-policymakers-08d6904f.md)
