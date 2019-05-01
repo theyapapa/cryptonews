@@ -1,3 +1,4 @@
+* 2019-04-30 [ITIF는 정책 입안자를 위한 블록 체인 규제에 대 한 가이드를 발표 합니다 ](https://github.com/theyapapa/cryptonews/blob/ko/itif-releases-guide-to-regulating-blockchain-for-policymakers-08d6904f.md)
 * 2019-04-30 [ConsenSys Spinoff 트 러 플은 Goldmans 삭스 지원 블록 체인과 통합: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/consensys-spinoff-truffle-integrates-with-goldmans-sachs-supported-blockchain-report-b6cc995f.md)
 * 2019-04-30 [뉴욕 지방 검찰은 섀도우 뱅킹 암호 화폐 회사를 위해 두 개를 부과 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-york-district-attorney-charges-two-for-shadow-banking-crypto-companies-68c22060.md)
 * 2019-04-30 [연구: 2023에 의해 10% 복합 연간 성장을 볼 수 있는 암호화 마이닝 하드웨어 시장](https://github.com/theyapapa/cryptonews/blob/ko/research-crypto-mining-hardware-market-to-see-10-compound-annual-growth-by-2023-eef82408.md)
