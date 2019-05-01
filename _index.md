@@ -1,3 +1,4 @@
+* 2019-05-01 [바트 칠 튼: 전 CFTC 레 귤 레이 터, 암호화 보유자 및 ICO 보증](https://github.com/theyapapa/cryptonews/blob/ko/bart-chilton-former-cftc-regulator-crypto-holder-and-ico-endorser-c357d695.md)
 * 2019-04-30 [ITIF는 정책 입안자를 위한 블록 체인 규제에 대 한 가이드를 발표 합니다 ](https://github.com/theyapapa/cryptonews/blob/ko/itif-releases-guide-to-regulating-blockchain-for-policymakers-08d6904f.md)
 * 2019-04-30 [ConsenSys Spinoff 트 러 플은 Goldmans 삭스 지원 블록 체인과 통합: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/consensys-spinoff-truffle-integrates-with-goldmans-sachs-supported-blockchain-report-b6cc995f.md)
 * 2019-04-30 [뉴욕 지방 검찰은 섀도우 뱅킹 암호 화폐 회사를 위해 두 개를 부과 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-york-district-attorney-charges-two-for-shadow-banking-crypto-companies-68c22060.md)
