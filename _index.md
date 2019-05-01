@@ -1,3 +1,4 @@
+* 2019-05-01 [El Presidente de la CFTC de Estados Unidos dice que el interés en Crypto podría traer más clearinghouses ](https://github.com/theyapapa/cryptonews/blob/es/us-cftc-chair-says-interest-in-crypto-could-bring-about-more-clearinghouses-9005b774.md)
 * 2019-05-01 [TrustToken lanza Stablecoin respaldado por dólar canadiense](https://github.com/theyapapa/cryptonews/blob/es/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
 * 2019-05-01 [Informe: blockchain Sports Platform no comprará el Club de fútbol inglés con Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-sports-platform-will-not-buy-english-football-club-with-crypto-de33758c.md)
 * 2019-05-01 [Austin Transportation Partners con Iota Foundation para desarrollar el ecosistema de interoperabilidad](https://github.com/theyapapa/cryptonews/blob/es/austin-transportation-partners-with-iota-foundation-to-develop-interoperability-ecosystem-54b4ef83.md)
