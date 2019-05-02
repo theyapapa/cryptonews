@@ -1,3 +1,4 @@
+* 2019-05-02 [London Stock Exchange CEO es seguro que blockchain puede ser utilizado en la emisión, liquidación](https://github.com/theyapapa/cryptonews/blob/es/london-stock-exchange-ceo-is-certain-that-blockchain-can-be-used-in-issuing-settlement-21238279.md)
 * 2019-05-01 [La ley del estado de Washington reconoce los registros de blockchain como legalmente válidos y exigibles](https://github.com/theyapapa/cryptonews/blob/es/washington-state-law-recognizes-blockchain-records-as-legally-valid-and-enforceable-2e110b7d.md)
 * 2019-05-01 [El Presidente de la CFTC de Estados Unidos dice que el interés en Crypto podría traer más clearinghouses ](https://github.com/theyapapa/cryptonews/blob/es/us-cftc-chair-says-interest-in-crypto-could-bring-about-more-clearinghouses-9005b774.md)
 * 2019-05-01 [TrustToken lanza Stablecoin respaldado por dólar canadiense](https://github.com/theyapapa/cryptonews/blob/es/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
