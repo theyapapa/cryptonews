@@ -1,3 +1,4 @@
+* 2019-05-02 [Генеральный директор Лондонской фондовой биржи уверен, что Blockchain может быть использован в выдаче, урегулирование](https://github.com/theyapapa/cryptonews/blob/ru/london-stock-exchange-ceo-is-certain-that-blockchain-can-be-used-in-issuing-settlement-21238279.md)
 * 2019-05-01 [Закон штата Вашингтон признает Blockchain Records как юридически действительными и осуществимые](https://github.com/theyapapa/cryptonews/blob/ru/washington-state-law-recognizes-blockchain-records-as-legally-valid-and-enforceable-2e110b7d.md)
 * 2019-05-01 [США CFTC Председатель говорит интерес к крипто может привести к более клиринговые ](https://github.com/theyapapa/cryptonews/blob/ru/us-cftc-chair-says-interest-in-crypto-could-bring-about-more-clearinghouses-9005b774.md)
 * 2019-05-01 [Токен доверия запускает Стаблекаин опираясь на канадский доллар](https://github.com/theyapapa/cryptonews/blob/ru/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
