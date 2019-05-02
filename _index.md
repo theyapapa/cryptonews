@@ -1,3 +1,4 @@
+* 2019-05-01 [Закон штата Вашингтон признает Blockchain Records как юридически действительными и осуществимые](https://github.com/theyapapa/cryptonews/blob/ru/washington-state-law-recognizes-blockchain-records-as-legally-valid-and-enforceable-2e110b7d.md)
 * 2019-05-01 [США CFTC Председатель говорит интерес к крипто может привести к более клиринговые ](https://github.com/theyapapa/cryptonews/blob/ru/us-cftc-chair-says-interest-in-crypto-could-bring-about-more-clearinghouses-9005b774.md)
 * 2019-05-01 [Токен доверия запускает Стаблекаин опираясь на канадский доллар](https://github.com/theyapapa/cryptonews/blob/ru/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
 * 2019-05-01 [Доклад: Blockchain спортивная платформа не будет покупать английский футбольный клуб с крипто](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-sports-platform-will-not-buy-english-football-club-with-crypto-de33758c.md)
