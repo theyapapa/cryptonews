@@ -1,3 +1,4 @@
+* 2019-05-02 [현재 멕시코에서 사용 중인 메디치 기반 블록 체인 농업 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/medici-backed-blockchain-agricultural-project-now-in-use-in-mexico-23e3a934.md)
 * 2019-05-02 [Vanbex 설립자는 회사 사기 이었다 거짓 진술을 위해 이전 계약자를 고소](https://github.com/theyapapa/cryptonews/blob/ko/vanbex-founders-sue-former-contractor-for-false-statements-that-firm-was-a-scam-70aa14dd.md)
 * 2019-05-02 [태국어 SEC 비서: 새로운 규제가 디지털 공유, 토큰화 된 증권을 허용 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/thai-sec-deputy-secretary-new-regulation-allows-for-digital-shares-tokenized-securities-c4aa156d.md)
 * 2019-05-02 [Binance, 자금 세탁 방지를 목표로 하는 최신 컴플라이언스 파트너십 발표](https://github.com/theyapapa/cryptonews/blob/ko/binance-unveils-latest-compliance-partnership-targeting-anti-money-laundering-d4f57a7c.md)
