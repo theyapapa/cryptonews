@@ -1,3 +1,4 @@
+* 2019-05-02 [런던 증권 거래소 CEO는 블록 체인이 발행, 정산에 사용 될 수 있다고 확신 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/london-stock-exchange-ceo-is-certain-that-blockchain-can-be-used-in-issuing-settlement-21238279.md)
 * 2019-05-01 [워싱턴 주법은 블록 체인 기록을 합법적으로 유효 하 고 집행 가능한 것으로 인식 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/washington-state-law-recognizes-blockchain-records-as-legally-valid-and-enforceable-2e110b7d.md)
 * 2019-05-01 [미국 CFTC의 자는 암호화에 대 한 관심이 더 의료보험을 가져올 수 있다고 말합니다. ](https://github.com/theyapapa/cryptonews/blob/ko/us-cftc-chair-says-interest-in-crypto-could-bring-about-more-clearinghouses-9005b774.md)
 * 2019-05-01 [TrustToken이 캐나다 달러화로 뒷받침 되는 Stablecoin 출시](https://github.com/theyapapa/cryptonews/blob/ko/trusttoken-launches-stablecoin-backed-by-canadian-dollar-4bcb2c2c.md)
