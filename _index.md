@@ -1,3 +1,4 @@
+* 2019-05-03 [Bitcoin перерывы несколько опор для торговли выше $5 800 как все Top 20 монет ралли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-multiple-supports-to-trade-above-5-800-as-all-top-20-coins-rally-ed85c8d4.md)
 * 2019-05-02 [Корпорация Майкрософт выпускает приложение Blockchain Manager](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-releases-blockchain-manager-app-4a1e9810.md)
 * 2019-05-02 [Окружной прокурор США стремится сохранить ответчика в криптографической теневой банковской дело](https://github.com/theyapapa/cryptonews/blob/ru/us-district-attorney-seeks-to-retain-defendant-in-crypto-shadow-banking-crypto-case-d1ff1f4d.md)
 * 2019-05-02 [Поддерживаемая Медичи Blockchain сельскохозяйственный проект в настоящее время используется в Мексике](https://github.com/theyapapa/cryptonews/blob/ru/medici-backed-blockchain-agricultural-project-now-in-use-in-mexico-23e3a934.md)
