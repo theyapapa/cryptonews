@@ -1,3 +1,4 @@
+* 2019-05-03 [에 테 리 움 재단 커뮤니티 웹사이트 재 출시](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-re-releases-community-website-c8d366f1.md)
 * 2019-05-03 [Binance API는 겉보기에 마진 거래가 9 개의 거래 쌍에 대해 활성화 되었다는 것을 보여 줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-api-seemingly-reveals-that-margin-trading-has-been-enabled-for-nine-trading-pairs-66650c9b.md)
 * 2019-05-03 [68% 이미 투자 했거나 2022에의 한 암호화 투자 계획: 설문 조사](https://github.com/theyapapa/cryptonews/blob/ko/68-of-global-millionaires-already-invested-or-plan-to-invest-in-crypto-by-2022-survey-a150b285.md)
 * 2019-05-03 [CME 그룹의 순이익은 4 월에 BTC 선물 거래량의 1 분기에서 17%에 빠진다.](https://github.com/theyapapa/cryptonews/blob/ko/cme-groups-net-income-falls-17-in-q1-amid-record-btc-futures-trading-volume-in-april-aae6afba.md)
