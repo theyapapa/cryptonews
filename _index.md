@@ -1,3 +1,4 @@
+* 2019-05-02 [마이크로소프트 릴리스 블록 체인 관리자 애플 리 케이 션](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-releases-blockchain-manager-app-4a1e9810.md)
 * 2019-05-02 [미국 지방 검찰은 암호 섀도우 뱅킹 암호화 케이스에 피 고를 유지 하고자 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-district-attorney-seeks-to-retain-defendant-in-crypto-shadow-banking-crypto-case-d1ff1f4d.md)
 * 2019-05-02 [현재 멕시코에서 사용 중인 메디치 기반 블록 체인 농업 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/medici-backed-blockchain-agricultural-project-now-in-use-in-mexico-23e3a934.md)
 * 2019-05-02 [Vanbex 설립자는 회사 사기 이었다 거짓 진술을 위해 이전 계약자를 고소](https://github.com/theyapapa/cryptonews/blob/ko/vanbex-founders-sue-former-contractor-for-false-statements-that-firm-was-a-scam-70aa14dd.md)
