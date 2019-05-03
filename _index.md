@@ -1,3 +1,4 @@
+* 2019-05-03 [Tasa ha estabilizado con éxito DAI, MakerDAO Presidente dice](https://github.com/theyapapa/cryptonews/blob/es/fee-has-successfully-stabilized-dai-makerdao-president-says-f712919c.md)
 * 2019-05-03 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, Litecoin, EOS, Binance Coin, Stellar, Cardano, TRON: Análisis de precios mayo 3](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-3-6c8a37be.md)
 * 2019-05-03 [Sitio web de la comunidad Ethereum Foundation re-releases](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-re-releases-community-website-c8d366f1.md)
 * 2019-05-03 [Binance API aparentemente revela que el margen de comercio se ha habilitado para nueve pares de comercio](https://github.com/theyapapa/cryptonews/blob/es/binance-api-seemingly-reveals-that-margin-trading-has-been-enabled-for-nine-trading-pairs-66650c9b.md)
