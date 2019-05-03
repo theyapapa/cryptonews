@@ -1,3 +1,4 @@
+* 2019-05-03 [비용이 성공적으로 다이를 안정, MakerDAO 대통령은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/fee-has-successfully-stabilized-dai-makerdao-president-says-f712919c.md)
 * 2019-05-03 [비트 코인,이 더 리 움 리플 비트 코인 현금, 라이트 코인, EOS, 비 탄 코인 스 스텔라, 카르다노, 트 론: 가격 분석 5 월 3 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-3-6c8a37be.md)
 * 2019-05-03 [에 테 리 움 재단 커뮤니티 웹사이트 재 출시](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-re-releases-community-website-c8d366f1.md)
 * 2019-05-03 [Binance API는 겉보기에 마진 거래가 9 개의 거래 쌍에 대해 활성화 되었다는 것을 보여 줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-api-seemingly-reveals-that-margin-trading-has-been-enabled-for-nine-trading-pairs-66650c9b.md)
