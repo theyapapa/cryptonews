@@ -1,3 +1,4 @@
+* 2019-05-02 [Корпорация Майкрософт выпускает приложение Blockchain Manager](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-releases-blockchain-manager-app-4a1e9810.md)
 * 2019-05-02 [Окружной прокурор США стремится сохранить ответчика в криптографической теневой банковской дело](https://github.com/theyapapa/cryptonews/blob/ru/us-district-attorney-seeks-to-retain-defendant-in-crypto-shadow-banking-crypto-case-d1ff1f4d.md)
 * 2019-05-02 [Поддерживаемая Медичи Blockchain сельскохозяйственный проект в настоящее время используется в Мексике](https://github.com/theyapapa/cryptonews/blob/ru/medici-backed-blockchain-agricultural-project-now-in-use-in-mexico-23e3a934.md)
 * 2019-05-02 [Основатели ванбекс Сью бывший подрядчик за ложные заявления, что фирма была афера](https://github.com/theyapapa/cryptonews/blob/ru/vanbex-founders-sue-former-contractor-for-false-statements-that-firm-was-a-scam-70aa14dd.md)
