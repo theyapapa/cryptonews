@@ -1,3 +1,4 @@
+* 2019-05-02 [Microsoft libera blockchain Manager App](https://github.com/theyapapa/cryptonews/blob/es/microsoft-releases-blockchain-manager-app-4a1e9810.md)
 * 2019-05-02 [El fiscal de distrito de Estados Unidos busca retener al acusado en Crypto Shadow Banking Crypto Case](https://github.com/theyapapa/cryptonews/blob/es/us-district-attorney-seeks-to-retain-defendant-in-crypto-shadow-banking-crypto-case-d1ff1f4d.md)
 * 2019-05-02 [Proyecto agrícola blockchain respaldado por los Medici ahora en uso en México](https://github.com/theyapapa/cryptonews/blob/es/medici-backed-blockchain-agricultural-project-now-in-use-in-mexico-23e3a934.md)
 * 2019-05-02 [Los fundadores de vanbex Sue ex contratista de declaraciones falsas que firma era una estafa](https://github.com/theyapapa/cryptonews/blob/es/vanbex-founders-sue-former-contractor-for-false-statements-that-firm-was-a-scam-70aa14dd.md)
