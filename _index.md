@@ -1,3 +1,4 @@
+* 2019-05-03 [68% 이미 투자 했거나 2022에의 한 암호화 투자 계획: 설문 조사](https://github.com/theyapapa/cryptonews/blob/ko/68-of-global-millionaires-already-invested-or-plan-to-invest-in-crypto-by-2022-survey-a150b285.md)
 * 2019-05-03 [CME 그룹의 순이익은 4 월에 BTC 선물 거래량의 1 분기에서 17%에 빠진다.](https://github.com/theyapapa/cryptonews/blob/ko/cme-groups-net-income-falls-17-in-q1-amid-record-btc-futures-trading-volume-in-april-aae6afba.md)
 * 2019-05-03 [비트 코인은 모든 상위 20 동전 랠리로 $5800 위의 거래를 여러 지원 나누기](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-multiple-supports-to-trade-above-5-800-as-all-top-20-coins-rally-ed85c8d4.md)
 * 2019-05-02 [마이크로소프트 릴리스 블록 체인 관리자 애플 리 케이 션](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-releases-blockchain-manager-app-4a1e9810.md)
