@@ -1,3 +1,4 @@
+* 2019-05-03 [Sitio web de la comunidad Ethereum Foundation re-releases](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-re-releases-community-website-c8d366f1.md)
 * 2019-05-03 [Binance API aparentemente revela que el margen de comercio se ha habilitado para nueve pares de comercio](https://github.com/theyapapa/cryptonews/blob/es/binance-api-seemingly-reveals-that-margin-trading-has-been-enabled-for-nine-trading-pairs-66650c9b.md)
 * 2019-05-03 [68% de los millonarios globales ya invertidos o planea invertir en Crypto por 2022: encuesta](https://github.com/theyapapa/cryptonews/blob/es/68-of-global-millionaires-already-invested-or-plan-to-invest-in-crypto-by-2022-survey-a150b285.md)
 * 2019-05-03 [El ingreso neto de CME Group cae 17% en Q1 en medio de record BTC volumen de operaciones de futuros en abril](https://github.com/theyapapa/cryptonews/blob/es/cme-groups-net-income-falls-17-in-q1-amid-record-btc-futures-trading-volume-in-april-aae6afba.md)
