@@ -1,3 +1,4 @@
+* 2019-05-03 [비트 코인은 모든 상위 20 동전 랠리로 $5800 위의 거래를 여러 지원 나누기](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-multiple-supports-to-trade-above-5-800-as-all-top-20-coins-rally-ed85c8d4.md)
 * 2019-05-02 [마이크로소프트 릴리스 블록 체인 관리자 애플 리 케이 션](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-releases-blockchain-manager-app-4a1e9810.md)
 * 2019-05-02 [미국 지방 검찰은 암호 섀도우 뱅킹 암호화 케이스에 피 고를 유지 하고자 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-district-attorney-seeks-to-retain-defendant-in-crypto-shadow-banking-crypto-case-d1ff1f4d.md)
 * 2019-05-02 [현재 멕시코에서 사용 중인 메디치 기반 블록 체인 농업 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/medici-backed-blockchain-agricultural-project-now-in-use-in-mexico-23e3a934.md)
