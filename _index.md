@@ -1,3 +1,4 @@
+* 2019-05-03 [Плата успешно стабилизировалась дай, MakerDAO президент говорит](https://github.com/theyapapa/cryptonews/blob/ru/fee-has-successfully-stabilized-dai-makerdao-president-says-f712919c.md)
 * 2019-05-03 [Bitcoin, Эфириум, пульсация, Bitcoin Cash, Лайткоины, EOS, Binance монета, Звездная, Кардано, трон: анализ цен 3 мая](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-3-6c8a37be.md)
 * 2019-05-03 [Эфир фонд Re-релизы сообщества веб-сайт](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-re-releases-community-website-c8d366f1.md)
 * 2019-05-03 [Binance API казалось бы, показывает, что маржа торговля была включена в течение девяти торговых пар](https://github.com/theyapapa/cryptonews/blob/ru/binance-api-seemingly-reveals-that-margin-trading-has-been-enabled-for-nine-trading-pairs-66650c9b.md)
