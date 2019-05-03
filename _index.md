@@ -1,3 +1,4 @@
+* 2019-05-03 [Чистая прибыль сме группы падает 17% в 1 квартале на фоне рекордного объема торгов BTC фьючерсы в апреле](https://github.com/theyapapa/cryptonews/blob/ru/cme-groups-net-income-falls-17-in-q1-amid-record-btc-futures-trading-volume-in-april-aae6afba.md)
 * 2019-05-03 [Bitcoin перерывы несколько опор для торговли выше $5 800 как все Top 20 монет ралли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-multiple-supports-to-trade-above-5-800-as-all-top-20-coins-rally-ed85c8d4.md)
 * 2019-05-02 [Корпорация Майкрософт выпускает приложение Blockchain Manager](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-releases-blockchain-manager-app-4a1e9810.md)
 * 2019-05-02 [Окружной прокурор США стремится сохранить ответчика в криптографической теневой банковской дело](https://github.com/theyapapa/cryptonews/blob/ru/us-district-attorney-seeks-to-retain-defendant-in-crypto-shadow-banking-crypto-case-d1ff1f4d.md)
