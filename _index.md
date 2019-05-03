@@ -1,3 +1,4 @@
+* 2019-05-03 [El ingreso neto de CME Group cae 17% en Q1 en medio de record BTC volumen de operaciones de futuros en abril](https://github.com/theyapapa/cryptonews/blob/es/cme-groups-net-income-falls-17-in-q1-amid-record-btc-futures-trading-volume-in-april-aae6afba.md)
 * 2019-05-03 [Bitcoin rompe múltiples apoyos para operar por encima de $5.800 como todas las mejores 20 monedas Rally](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-multiple-supports-to-trade-above-5-800-as-all-top-20-coins-rally-ed85c8d4.md)
 * 2019-05-02 [Microsoft libera blockchain Manager App](https://github.com/theyapapa/cryptonews/blob/es/microsoft-releases-blockchain-manager-app-4a1e9810.md)
 * 2019-05-02 [El fiscal de distrito de Estados Unidos busca retener al acusado en Crypto Shadow Banking Crypto Case](https://github.com/theyapapa/cryptonews/blob/es/us-district-attorney-seeks-to-retain-defendant-in-crypto-shadow-banking-crypto-case-d1ff1f4d.md)
