@@ -1,3 +1,4 @@
+* 2019-05-03 [Эфир фонд Re-релизы сообщества веб-сайт](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-re-releases-community-website-c8d366f1.md)
 * 2019-05-03 [Binance API казалось бы, показывает, что маржа торговля была включена в течение девяти торговых пар](https://github.com/theyapapa/cryptonews/blob/ru/binance-api-seemingly-reveals-that-margin-trading-has-been-enabled-for-nine-trading-pairs-66650c9b.md)
 * 2019-05-03 [68% глобальных миллионеров уже инвестировали или планируют инвестировать в крипто на 2022: опрос](https://github.com/theyapapa/cryptonews/blob/ru/68-of-global-millionaires-already-invested-or-plan-to-invest-in-crypto-by-2022-survey-a150b285.md)
 * 2019-05-03 [Чистая прибыль сме группы падает 17% в 1 квартале на фоне рекордного объема торгов BTC фьючерсы в апреле](https://github.com/theyapapa/cryptonews/blob/ru/cme-groups-net-income-falls-17-in-q1-amid-record-btc-futures-trading-volume-in-april-aae6afba.md)
