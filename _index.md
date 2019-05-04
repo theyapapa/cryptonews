@@ -1,3 +1,4 @@
+* 2019-05-03 [암호화 규제 전문가 들이 블록 체인 시대의 국가와 연방 규제에 대 한 논쟁](https://github.com/theyapapa/cryptonews/blob/ko/crypto-regulation-experts-debate-state-vs-federal-regulation-in-the-blockchain-era-e47e07e5.md)
 * 2019-05-03 [비용이 성공적으로 다이를 안정, MakerDAO 대통령은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/fee-has-successfully-stabilized-dai-makerdao-president-says-f712919c.md)
 * 2019-05-03 [비트 코인,이 더 리 움 리플 비트 코인 현금, 라이트 코인, EOS, 비 탄 코인 스 스텔라, 카르다노, 트 론: 가격 분석 5 월 3 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-3-6c8a37be.md)
 * 2019-05-03 [에 테 리 움 재단 커뮤니티 웹사이트 재 출시](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-re-releases-community-website-c8d366f1.md)
