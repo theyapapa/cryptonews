@@ -1,3 +1,4 @@
+* 2019-05-03 [Expertos en regulación criptográfica debate sobre el estado contra la regulación federal en la era blockchain](https://github.com/theyapapa/cryptonews/blob/es/crypto-regulation-experts-debate-state-vs-federal-regulation-in-the-blockchain-era-e47e07e5.md)
 * 2019-05-03 [Tasa ha estabilizado con éxito DAI, MakerDAO Presidente dice](https://github.com/theyapapa/cryptonews/blob/es/fee-has-successfully-stabilized-dai-makerdao-president-says-f712919c.md)
 * 2019-05-03 [Bitcoin, Ethereum, Ripple, Bitcoin Cash, Litecoin, EOS, Binance Coin, Stellar, Cardano, TRON: Análisis de precios mayo 3](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-3-6c8a37be.md)
 * 2019-05-03 [Sitio web de la comunidad Ethereum Foundation re-releases](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-re-releases-community-website-c8d366f1.md)
