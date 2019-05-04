@@ -1,3 +1,4 @@
+* 2019-05-04 [Как токены безопасности могут предотвратить надвигающийся финансовый кризис](https://github.com/theyapapa/cryptonews/blob/ru/how-security-tokens-can-prevent-an-impending-financial-crisis-b53a9f86.md)
 * 2019-05-04 [Bitcoin нагоны прошлом $5 700 в часах: эксперты объясняют факторы ночь ралли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-surges-past-5-700-in-hours-experts-explain-factors-of-overnight-rally-020788c4.md)
 * 2019-05-03 [Сингапур регулятор признает потенциал Blockchain для трансграничных платежей](https://github.com/theyapapa/cryptonews/blob/ru/singapore-regulator-recognizes-potential-of-blockchain-for-cross-border-payments-86242158.md)
 * 2019-05-03 [Крипторегулирование эксперты дебаты государство против федерального регулирования в эпоху Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/crypto-regulation-experts-debate-state-vs-federal-regulation-in-the-blockchain-era-e47e07e5.md)
