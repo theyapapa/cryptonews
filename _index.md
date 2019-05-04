@@ -1,3 +1,4 @@
+* 2019-05-04 [Los picos de Bitcoin más allá de $5.700 en horas: los expertos explican los factores de Rally durante la noche](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-surges-past-5-700-in-hours-experts-explain-factors-of-overnight-rally-020788c4.md)
 * 2019-05-03 [El regulador de Singapur reconoce el potencial de blockchain para pagos transfronterizos](https://github.com/theyapapa/cryptonews/blob/es/singapore-regulator-recognizes-potential-of-blockchain-for-cross-border-payments-86242158.md)
 * 2019-05-03 [Expertos en regulación criptográfica debate sobre el estado contra la regulación federal en la era blockchain](https://github.com/theyapapa/cryptonews/blob/es/crypto-regulation-experts-debate-state-vs-federal-regulation-in-the-blockchain-era-e47e07e5.md)
 * 2019-05-03 [Tasa ha estabilizado con éxito DAI, MakerDAO Presidente dice](https://github.com/theyapapa/cryptonews/blob/es/fee-has-successfully-stabilized-dai-makerdao-president-says-f712919c.md)
