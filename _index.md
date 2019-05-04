@@ -1,3 +1,4 @@
+* 2019-05-04 [Bitcoin нагоны прошлом $5 700 в часах: эксперты объясняют факторы ночь ралли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-surges-past-5-700-in-hours-experts-explain-factors-of-overnight-rally-020788c4.md)
 * 2019-05-03 [Сингапур регулятор признает потенциал Blockchain для трансграничных платежей](https://github.com/theyapapa/cryptonews/blob/ru/singapore-regulator-recognizes-potential-of-blockchain-for-cross-border-payments-86242158.md)
 * 2019-05-03 [Крипторегулирование эксперты дебаты государство против федерального регулирования в эпоху Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/crypto-regulation-experts-debate-state-vs-federal-regulation-in-the-blockchain-era-e47e07e5.md)
 * 2019-05-03 [Плата успешно стабилизировалась дай, MakerDAO президент говорит](https://github.com/theyapapa/cryptonews/blob/ru/fee-has-successfully-stabilized-dai-makerdao-president-says-f712919c.md)
