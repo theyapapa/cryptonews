@@ -1,3 +1,4 @@
+* 2019-05-05 [NYAG 요청 Bitfinex 밧줄 거래 문서를 해제 하도록 강요](https://github.com/theyapapa/cryptonews/blob/ko/nyag-requests-that-bitfinex-be-forced-to-release-tether-deal-documents-9306bc46.md)
 * 2019-05-04 [Bitfinex ' 공식 문서 '는 토큰 레오를 위해 IEO에서 $10억까지 올릴 계획을 확인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-official-doc-confirms-plans-to-raise-up-to-1-billion-in-ieo-for-its-token-leo-7dc3764b.md)
 * 2019-05-04 [보안 토큰이 임박한 금융 위기를 예방할 수 있는 방법](https://github.com/theyapapa/cryptonews/blob/ko/how-security-tokens-can-prevent-an-impending-financial-crisis-b53a9f86.md)
 * 2019-05-04 [비트 코인은 $5700 시간 지난 후에 급증 합니다. 전문가 들은 하룻밤 집회의 요인을 설명](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-surges-past-5-700-in-hours-experts-explain-factors-of-overnight-rally-020788c4.md)
