@@ -1,3 +1,4 @@
+* 2019-05-05 [NYAG solicita que Bitfinex sea forzado a liberar documentos de acuerdo de Tether](https://github.com/theyapapa/cryptonews/blob/es/nyag-requests-that-bitfinex-be-forced-to-release-tether-deal-documents-9306bc46.md)
 * 2019-05-04 [Bitfinex ' oficial doc ' confirma planes para recaudar hasta $1 mil millones en IEO para su token LEO](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-official-doc-confirms-plans-to-raise-up-to-1-billion-in-ieo-for-its-token-leo-7dc3764b.md)
 * 2019-05-04 [Cómo los tokens de seguridad pueden prevenir una inminente crisis financiera](https://github.com/theyapapa/cryptonews/blob/es/how-security-tokens-can-prevent-an-impending-financial-crisis-b53a9f86.md)
 * 2019-05-04 [Los picos de Bitcoin más allá de $5.700 en horas: los expertos explican los factores de Rally durante la noche](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-surges-past-5-700-in-hours-experts-explain-factors-of-overnight-rally-020788c4.md)
