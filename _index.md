@@ -1,3 +1,4 @@
+* 2019-05-05 [Дайджест ходлера, 29 апреля – 5 мая: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-29-may-5-top-stories-price-movements-quotes-and-fud-of-the-week-c1c6138f.md)
 * 2019-05-05 [NYAG просит, что Bitfinex быть вынуждены выпустить привязь сделки документы](https://github.com/theyapapa/cryptonews/blob/ru/nyag-requests-that-bitfinex-be-forced-to-release-tether-deal-documents-9306bc46.md)
 * 2019-05-04 [Bitfinex ' официальный doc ' подтверждает планирует поднять до $1 000 000 000 в IEO для его токен LEO](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-official-doc-confirms-plans-to-raise-up-to-1-billion-in-ieo-for-its-token-leo-7dc3764b.md)
 * 2019-05-04 [Как токены безопасности могут предотвратить надвигающийся финансовый кризис](https://github.com/theyapapa/cryptonews/blob/ru/how-security-tokens-can-prevent-an-impending-financial-crisis-b53a9f86.md)
