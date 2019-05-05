@@ -1,3 +1,4 @@
+* 2019-05-05 [Hodler의 다이제스트, 4 월 29-5 월: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-april-29-may-5-top-stories-price-movements-quotes-and-fud-of-the-week-c1c6138f.md)
 * 2019-05-05 [NYAG 요청 Bitfinex 밧줄 거래 문서를 해제 하도록 강요](https://github.com/theyapapa/cryptonews/blob/ko/nyag-requests-that-bitfinex-be-forced-to-release-tether-deal-documents-9306bc46.md)
 * 2019-05-04 [Bitfinex ' 공식 문서 '는 토큰 레오를 위해 IEO에서 $10억까지 올릴 계획을 확인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-official-doc-confirms-plans-to-raise-up-to-1-billion-in-ieo-for-its-token-leo-7dc3764b.md)
 * 2019-05-04 [보안 토큰이 임박한 금융 위기를 예방할 수 있는 방법](https://github.com/theyapapa/cryptonews/blob/ko/how-security-tokens-can-prevent-an-impending-financial-crisis-b53a9f86.md)
