@@ -1,3 +1,4 @@
+* 2019-05-06 [El CEO de Berkshire Hathaway, Warren Buffett, ofrece nueva metáfora para Bitcoin como un ' Seashell '](https://github.com/theyapapa/cryptonews/blob/es/berkshire-hathaway-ceo-warren-buffett-offers-fresh-metaphor-for-bitcoin-as-a-seashell-96574533.md)
 * 2019-05-05 [MIT Profesor Christian Catalini está trabajando en Facebook Coin: informe](https://github.com/theyapapa/cryptonews/blob/es/mit-professor-christian-catalini-is-working-on-facebook-coin-report-51a7dffc.md)
 * 2019-05-05 [Top 5 de los intérpretes Crypto: ATOM, DASH, MIOTA, BTC, BCH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-atom-dash-miota-btc-bch-158d0bba.md)
 * 2019-05-05 [Hodler's Digest, 29 de abril – 5 de mayo: mejores historias, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-29-may-5-top-stories-price-movements-quotes-and-fud-of-the-week-c1c6138f.md)
