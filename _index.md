@@ -1,3 +1,4 @@
+* 2019-05-05 [MIT 교수 크리스티안 카 탈 리 니는 페이스 북 동전에서 일하고 있다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/mit-professor-christian-catalini-is-working-on-facebook-coin-report-51a7dffc.md)
 * 2019-05-05 [맨 위로 5 암호화 수행자: 원자, 대시, MIOTA, BTC, BCH](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-atom-dash-miota-btc-bch-158d0bba.md)
 * 2019-05-05 [Hodler의 다이제스트, 4 월 29-5 월: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-april-29-may-5-top-stories-price-movements-quotes-and-fud-of-the-week-c1c6138f.md)
 * 2019-05-05 [NYAG 요청 Bitfinex 밧줄 거래 문서를 해제 하도록 강요](https://github.com/theyapapa/cryptonews/blob/ko/nyag-requests-that-bitfinex-be-forced-to-release-tether-deal-documents-9306bc46.md)
