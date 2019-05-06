@@ -1,3 +1,4 @@
+* 2019-05-06 [실행 경고 $9 Trln 무역 금융 산업은 사기에 대처 하기 위해 디지털로 이동 해야 합니다, 블록 체인을 인용](https://github.com/theyapapa/cryptonews/blob/ko/exec-warns-9-trln-trade-finance-industry-must-go-digital-to-combat-fraud-cites-blockchain-0e3127df.md)
 * 2019-05-06 [버크셔 해서웨이 CEO 워렌 버핏은 ' 조개 '로 비트 코인에 대 한 신선한 비유를 제공](https://github.com/theyapapa/cryptonews/blob/ko/berkshire-hathaway-ceo-warren-buffett-offers-fresh-metaphor-for-bitcoin-as-a-seashell-96574533.md)
 * 2019-05-05 [MIT 교수 크리스티안 카 탈 리 니는 페이스 북 동전에서 일하고 있다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/mit-professor-christian-catalini-is-working-on-facebook-coin-report-51a7dffc.md)
 * 2019-05-05 [맨 위로 5 암호화 수행자: 원자, 대시, MIOTA, BTC, BCH](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-atom-dash-miota-btc-bch-158d0bba.md)
