@@ -1,3 +1,4 @@
+* 2019-05-06 [Доклад: эфир объем транзакций на DApps регистрация новых все время-высокий](https://github.com/theyapapa/cryptonews/blob/ru/report-ether-transaction-volume-on-dapps-register-new-all-time-high-131446f8.md)
 * 2019-05-06 [Coinbase запреты Личный счет британского правого толка муж мило Яннопулос](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-bans-personal-account-of-british-right-wing-pundit-milo-yiannopoulos-ccba35c8.md)
 * 2019-05-06 [Исследование: 60% всех биткоин-узлов все еще уязвимы к инфляции ошибка](https://github.com/theyapapa/cryptonews/blob/ru/research-60-of-all-bitcoin-full-nodes-are-still-vulnerable-to-inflation-bug-6b384a24.md)
 * 2019-05-06 [Единый адрес за более чем 50% Bitcoin кассовых операций: отчет](https://github.com/theyapapa/cryptonews/blob/ru/single-address-behind-more-than-50-of-bitcoin-cash-transactions-report-812d1429.md)
