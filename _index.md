@@ -1,3 +1,4 @@
+* 2019-05-06 [Беркшир Хэтэуэй Генеральный директор Уоррен Баффет предлагает свежие метафора для Bitcoin как "Морская ракушка"](https://github.com/theyapapa/cryptonews/blob/ru/berkshire-hathaway-ceo-warren-buffett-offers-fresh-metaphor-for-bitcoin-as-a-seashell-96574533.md)
 * 2019-05-05 [Профессор MIT Кристиан Каталини работает над Facebook Coin: отчет](https://github.com/theyapapa/cryptonews/blob/ru/mit-professor-christian-catalini-is-working-on-facebook-coin-report-51a7dffc.md)
 * 2019-05-05 [Топ-5 криптографических исполнителей: атом, DASH, MIOTA, BTC, BCH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-atom-dash-miota-btc-bch-158d0bba.md)
 * 2019-05-05 [Дайджест ходлера, 29 апреля – 5 мая: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-29-may-5-top-stories-price-movements-quotes-and-fud-of-the-week-c1c6138f.md)
