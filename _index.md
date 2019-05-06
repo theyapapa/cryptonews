@@ -1,3 +1,4 @@
+* 2019-05-05 [Профессор MIT Кристиан Каталини работает над Facebook Coin: отчет](https://github.com/theyapapa/cryptonews/blob/ru/mit-professor-christian-catalini-is-working-on-facebook-coin-report-51a7dffc.md)
 * 2019-05-05 [Топ-5 криптографических исполнителей: атом, DASH, MIOTA, BTC, BCH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-atom-dash-miota-btc-bch-158d0bba.md)
 * 2019-05-05 [Дайджест ходлера, 29 апреля – 5 мая: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-april-29-may-5-top-stories-price-movements-quotes-and-fud-of-the-week-c1c6138f.md)
 * 2019-05-05 [NYAG просит, что Bitfinex быть вынуждены выпустить привязь сделки документы](https://github.com/theyapapa/cryptonews/blob/ru/nyag-requests-that-bitfinex-be-forced-to-release-tether-deal-documents-9306bc46.md)
