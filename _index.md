@@ -1,3 +1,4 @@
+* 2019-05-05 [Top 5 de los intérpretes Crypto: ATOM, DASH, MIOTA, BTC, BCH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-atom-dash-miota-btc-bch-158d0bba.md)
 * 2019-05-05 [Hodler's Digest, 29 de abril – 5 de mayo: mejores historias, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-april-29-may-5-top-stories-price-movements-quotes-and-fud-of-the-week-c1c6138f.md)
 * 2019-05-05 [NYAG solicita que Bitfinex sea forzado a liberar documentos de acuerdo de Tether](https://github.com/theyapapa/cryptonews/blob/es/nyag-requests-that-bitfinex-be-forced-to-release-tether-deal-documents-9306bc46.md)
 * 2019-05-04 [Bitfinex ' oficial doc ' confirma planes para recaudar hasta $1 mil millones en IEO para su token LEO](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-official-doc-confirms-plans-to-raise-up-to-1-billion-in-ieo-for-its-token-leo-7dc3764b.md)
