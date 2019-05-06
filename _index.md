@@ -1,3 +1,4 @@
+* 2019-05-06 [Informe: volumen de transacciones ether en DApps registrar nuevo todo-tiempo-alto](https://github.com/theyapapa/cryptonews/blob/es/report-ether-transaction-volume-on-dapps-register-new-all-time-high-131446f8.md)
 * 2019-05-06 [La cuenta personal de coinbase bans del Pundit de derecha británica Milo Yiannopoulos](https://github.com/theyapapa/cryptonews/blob/es/coinbase-bans-personal-account-of-british-right-wing-pundit-milo-yiannopoulos-ccba35c8.md)
 * 2019-05-06 [Investigación: 60% de todos los nodos completos de Bitcoin son todavía vulnerables a la inflación bug](https://github.com/theyapapa/cryptonews/blob/es/research-60-of-all-bitcoin-full-nodes-are-still-vulnerable-to-inflation-bug-6b384a24.md)
 * 2019-05-06 [Dirección única detrás de más del 50% de las transacciones en efectivo de Bitcoin: informe](https://github.com/theyapapa/cryptonews/blob/es/single-address-behind-more-than-50-of-bitcoin-cash-transactions-report-812d1429.md)
