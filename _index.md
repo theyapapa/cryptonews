@@ -1,3 +1,4 @@
+* 2019-05-06 [보고서: DApps에 에테르 트랜잭션 볼륨은 새로운 모든 시간-높은 등록](https://github.com/theyapapa/cryptonews/blob/ko/report-ether-transaction-volume-on-dapps-register-new-all-time-high-131446f8.md)
 * 2019-05-06 [Coinbase는 영국 오른쪽 윙의 개인 계정을 금지 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-bans-personal-account-of-british-right-wing-pundit-milo-yiannopoulos-ccba35c8.md)
 * 2019-05-06 [연구: 모든 비트 코인 풀 노드의 60%가 여전히 인플레이션 버그에 취약 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/research-60-of-all-bitcoin-full-nodes-are-still-vulnerable-to-inflation-bug-6b384a24.md)
 * 2019-05-06 [비트 코인 현금 거래의 50% 이상 뒤에 단일 주소: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/single-address-behind-more-than-50-of-bitcoin-cash-transactions-report-812d1429.md)
