@@ -1,3 +1,4 @@
+* 2019-05-06 [ИСГ предупреждает $9 Труно торговли Финансы промышленность должна перейти цифровые для борьбы с мошенничеством, цитирует Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/exec-warns-9-trln-trade-finance-industry-must-go-digital-to-combat-fraud-cites-blockchain-0e3127df.md)
 * 2019-05-06 [Беркшир Хэтэуэй Генеральный директор Уоррен Баффет предлагает свежие метафора для Bitcoin как "Морская ракушка"](https://github.com/theyapapa/cryptonews/blob/ru/berkshire-hathaway-ceo-warren-buffett-offers-fresh-metaphor-for-bitcoin-as-a-seashell-96574533.md)
 * 2019-05-05 [Профессор MIT Кристиан Каталини работает над Facebook Coin: отчет](https://github.com/theyapapa/cryptonews/blob/ru/mit-professor-christian-catalini-is-working-on-facebook-coin-report-51a7dffc.md)
 * 2019-05-05 [Топ-5 криптографических исполнителей: атом, DASH, MIOTA, BTC, BCH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-atom-dash-miota-btc-bch-158d0bba.md)
