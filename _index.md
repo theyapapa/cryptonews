@@ -1,3 +1,4 @@
+* 2019-05-06 [Coinbase는 영국 오른쪽 윙의 개인 계정을 금지 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-bans-personal-account-of-british-right-wing-pundit-milo-yiannopoulos-ccba35c8.md)
 * 2019-05-06 [연구: 모든 비트 코인 풀 노드의 60%가 여전히 인플레이션 버그에 취약 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/research-60-of-all-bitcoin-full-nodes-are-still-vulnerable-to-inflation-bug-6b384a24.md)
 * 2019-05-06 [비트 코인 현금 거래의 50% 이상 뒤에 단일 주소: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/single-address-behind-more-than-50-of-bitcoin-cash-transactions-report-812d1429.md)
 * 2019-05-06 [실행 경고 $9 Trln 무역 금융 산업은 사기에 대처 하기 위해 디지털로 이동 해야 합니다, 블록 체인을 인용](https://github.com/theyapapa/cryptonews/blob/ko/exec-warns-9-trln-trade-finance-industry-must-go-digital-to-combat-fraud-cites-blockchain-0e3127df.md)
