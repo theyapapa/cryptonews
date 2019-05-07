@@ -1,3 +1,4 @@
+* 2019-05-07 [비트 코인 인치에 $6000 우리 주식 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-inches-to-6-000-while-us-stocks-drop-043a49f7.md)
 * 2019-05-07 [Ant 금융 조인 $10 백만 시리즈 A, 파트너 ZKP 블록 체인 개인 정보 보호 솔루션 회사](https://github.com/theyapapa/cryptonews/blob/ko/ant-financial-joins-10-mln-series-a-partners-with-zkp-blockchain-privacy-solutions-firm-245b314b.md)
 * 2019-05-06 [비트 코인 개발자는 Taproot 소프트 포크에 대 한 두 개의 제안을 게시](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-developer-publishes-two-proposals-for-a-taproot-soft-fork-aeaa1858.md)
 * 2019-05-06 [모스크바 학생 평의회는 6 월에 블록 체인 E-투표를 파일럿 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/moscow-student-councils-plan-to-pilot-blockchain-e-voting-in-june-07a9894e.md)
