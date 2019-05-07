@@ -1,3 +1,4 @@
+* 2019-05-07 [Sprott CEO predice el futuro alcista para el oro digital basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/sprott-ceo-predicts-bullish-future-for-blockchain-based-digital-gold-e588fadd.md)
 * 2019-05-07 [Los ciberdelincuentes se Colan en Cripto minería malware a través de confluencia software exploit](https://github.com/theyapapa/cryptonews/blob/es/cybercriminals-sneak-in-crypto-mining-malware-via-confluence-software-exploit-45407e4f.md)
 * 2019-05-07 [Un hito para la isla blockchain](https://github.com/theyapapa/cryptonews/blob/es/a-landmark-for-the-blockchain-island-4105a8e7.md)
 * 2019-05-07 [El prototipo del proyecto CBDC de Bank of Thailand está siendo finalizado por R3 y Wipro](https://github.com/theyapapa/cryptonews/blob/es/bank-of-thailands-cbdc-project-prototype-is-being-finalized-by-r3-and-wipro-c24ed586.md)
