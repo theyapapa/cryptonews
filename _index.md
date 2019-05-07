@@ -1,3 +1,4 @@
+* 2019-05-06 [Биткойн-разработчик публикует два предложения о мягкой Форке Taproot](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-developer-publishes-two-proposals-for-a-taproot-soft-fork-aeaa1858.md)
 * 2019-05-06 [Московские студенческие советы планируют пилотное электронное голосование на Блокчейне в июне](https://github.com/theyapapa/cryptonews/blob/ru/moscow-student-councils-plan-to-pilot-blockchain-e-voting-in-june-07a9894e.md)
 * 2019-05-06 [Доклад: эфир объем транзакций на DApps регистрация новых все время-высокий](https://github.com/theyapapa/cryptonews/blob/ru/report-ether-transaction-volume-on-dapps-register-new-all-time-high-131446f8.md)
 * 2019-05-06 [Coinbase запреты Личный счет британского правого толка муж мило Яннопулос](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-bans-personal-account-of-british-right-wing-pundit-milo-yiannopoulos-ccba35c8.md)
