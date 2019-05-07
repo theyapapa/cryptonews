@@ -1,3 +1,4 @@
+* 2019-05-07 [Ориентир для острова Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/a-landmark-for-the-blockchain-island-4105a8e7.md)
 * 2019-05-07 [Банк Таиланда CBDC проекта прототип завершается R3 и Wipro](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-thailands-cbdc-project-prototype-is-being-finalized-by-r3-and-wipro-c24ed586.md)
 * 2019-05-07 [Bitcoin дюймов до $6 000 в то время как американские запасы Drop](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-inches-to-6-000-while-us-stocks-drop-043a49f7.md)
 * 2019-05-07 [Ant Financial присоединяется $10 млн серии а, партнеры с ZKP Blockchain решения для конфиденциальности фирма](https://github.com/theyapapa/cryptonews/blob/ru/ant-financial-joins-10-mln-series-a-partners-with-zkp-blockchain-privacy-solutions-firm-245b314b.md)
