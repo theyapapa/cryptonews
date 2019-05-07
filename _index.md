@@ -1,3 +1,4 @@
+* 2019-05-07 [Спротт Генеральный директор предсказывает бычий будущее на основе Blockchain цифрового золота](https://github.com/theyapapa/cryptonews/blob/ru/sprott-ceo-predicts-bullish-future-for-blockchain-based-digital-gold-e588fadd.md)
 * 2019-05-07 [Киберпреступники проникнуть в крипто добыча вредоносных программ с помощью слияния программное обеспечение эксплойт](https://github.com/theyapapa/cryptonews/blob/ru/cybercriminals-sneak-in-crypto-mining-malware-via-confluence-software-exploit-45407e4f.md)
 * 2019-05-07 [Ориентир для острова Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/a-landmark-for-the-blockchain-island-4105a8e7.md)
 * 2019-05-07 [Банк Таиланда CBDC проекта прототип завершается R3 и Wipro](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-thailands-cbdc-project-prototype-is-being-finalized-by-r3-and-wipro-c24ed586.md)
