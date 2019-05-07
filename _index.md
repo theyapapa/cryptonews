@@ -1,3 +1,4 @@
+* 2019-05-06 [Los consejos estudiantiles de Moscú planean pilotar la votación electrónica de blockchain en junio](https://github.com/theyapapa/cryptonews/blob/es/moscow-student-councils-plan-to-pilot-blockchain-e-voting-in-june-07a9894e.md)
 * 2019-05-06 [Informe: volumen de transacciones ether en DApps registrar nuevo todo-tiempo-alto](https://github.com/theyapapa/cryptonews/blob/es/report-ether-transaction-volume-on-dapps-register-new-all-time-high-131446f8.md)
 * 2019-05-06 [La cuenta personal de coinbase bans del Pundit de derecha británica Milo Yiannopoulos](https://github.com/theyapapa/cryptonews/blob/es/coinbase-bans-personal-account-of-british-right-wing-pundit-milo-yiannopoulos-ccba35c8.md)
 * 2019-05-06 [Investigación: 60% de todos los nodos completos de Bitcoin son todavía vulnerables a la inflación bug](https://github.com/theyapapa/cryptonews/blob/es/research-60-of-all-bitcoin-full-nodes-are-still-vulnerable-to-inflation-bug-6b384a24.md)
