@@ -1,3 +1,4 @@
+* 2019-05-07 [합류 소프트웨어 악용을 통한 암호화 채굴 악성 코드에 사이버 범죄자 몰래](https://github.com/theyapapa/cryptonews/blob/ko/cybercriminals-sneak-in-crypto-mining-malware-via-confluence-software-exploit-45407e4f.md)
 * 2019-05-07 [블록 체인 섬의 랜드마크](https://github.com/theyapapa/cryptonews/blob/ko/a-landmark-for-the-blockchain-island-4105a8e7.md)
 * 2019-05-07 [태국의 CBDC 프로젝트 프로토 타입의 은행은 R3 및 Wipro에 의해 마무리 되고있다](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-thailands-cbdc-project-prototype-is-being-finalized-by-r3-and-wipro-c24ed586.md)
 * 2019-05-07 [비트 코인 인치에 $6000 우리 주식 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-inches-to-6-000-while-us-stocks-drop-043a49f7.md)
