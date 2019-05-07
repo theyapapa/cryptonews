@@ -1,3 +1,4 @@
+* 2019-05-07 [블록 체인 섬의 랜드마크](https://github.com/theyapapa/cryptonews/blob/ko/a-landmark-for-the-blockchain-island-4105a8e7.md)
 * 2019-05-07 [태국의 CBDC 프로젝트 프로토 타입의 은행은 R3 및 Wipro에 의해 마무리 되고있다](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-thailands-cbdc-project-prototype-is-being-finalized-by-r3-and-wipro-c24ed586.md)
 * 2019-05-07 [비트 코인 인치에 $6000 우리 주식 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-inches-to-6-000-while-us-stocks-drop-043a49f7.md)
 * 2019-05-07 [Ant 금융 조인 $10 백만 시리즈 A, 파트너 ZKP 블록 체인 개인 정보 보호 솔루션 회사](https://github.com/theyapapa/cryptonews/blob/ko/ant-financial-joins-10-mln-series-a-partners-with-zkp-blockchain-privacy-solutions-firm-245b314b.md)
