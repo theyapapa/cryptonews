@@ -1,3 +1,4 @@
+* 2019-05-07 [Bitcoin дюймов до $6 000 в то время как американские запасы Drop](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-inches-to-6-000-while-us-stocks-drop-043a49f7.md)
 * 2019-05-07 [Ant Financial присоединяется $10 млн серии а, партнеры с ZKP Blockchain решения для конфиденциальности фирма](https://github.com/theyapapa/cryptonews/blob/ru/ant-financial-joins-10-mln-series-a-partners-with-zkp-blockchain-privacy-solutions-firm-245b314b.md)
 * 2019-05-06 [Биткойн-разработчик публикует два предложения о мягкой Форке Taproot](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-developer-publishes-two-proposals-for-a-taproot-soft-fork-aeaa1858.md)
 * 2019-05-06 [Московские студенческие советы планируют пилотное электронное голосование на Блокчейне в июне](https://github.com/theyapapa/cryptonews/blob/ru/moscow-student-councils-plan-to-pilot-blockchain-e-voting-in-june-07a9894e.md)
