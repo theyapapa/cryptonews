@@ -1,3 +1,4 @@
+* 2019-05-06 [비트 코인 개발자는 Taproot 소프트 포크에 대 한 두 개의 제안을 게시](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-developer-publishes-two-proposals-for-a-taproot-soft-fork-aeaa1858.md)
 * 2019-05-06 [모스크바 학생 평의회는 6 월에 블록 체인 E-투표를 파일럿 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/moscow-student-councils-plan-to-pilot-blockchain-e-voting-in-june-07a9894e.md)
 * 2019-05-06 [보고서: DApps에 에테르 트랜잭션 볼륨은 새로운 모든 시간-높은 등록](https://github.com/theyapapa/cryptonews/blob/ko/report-ether-transaction-volume-on-dapps-register-new-all-time-high-131446f8.md)
 * 2019-05-06 [Coinbase는 영국 오른쪽 윙의 개인 계정을 금지 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-bans-personal-account-of-british-right-wing-pundit-milo-yiannopoulos-ccba35c8.md)
