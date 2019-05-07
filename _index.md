@@ -1,3 +1,4 @@
+* 2019-05-07 [Un hito para la isla blockchain](https://github.com/theyapapa/cryptonews/blob/es/a-landmark-for-the-blockchain-island-4105a8e7.md)
 * 2019-05-07 [El prototipo del proyecto CBDC de Bank of Thailand está siendo finalizado por R3 y Wipro](https://github.com/theyapapa/cryptonews/blob/es/bank-of-thailands-cbdc-project-prototype-is-being-finalized-by-r3-and-wipro-c24ed586.md)
 * 2019-05-07 [Bitcoin pulgadas a $6.000 mientras que las acciones de Estados Unidos caen](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-inches-to-6-000-while-us-stocks-drop-043a49f7.md)
 * 2019-05-07 [Ant Financial se une A $10 MLN serie A, socios con ZKP blockchain soluciones de privacidad firma](https://github.com/theyapapa/cryptonews/blob/es/ant-financial-joins-10-mln-series-a-partners-with-zkp-blockchain-privacy-solutions-firm-245b314b.md)
