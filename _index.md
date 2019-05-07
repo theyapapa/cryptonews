@@ -1,3 +1,4 @@
+* 2019-05-07 [Bitcoin pulgadas a $6.000 mientras que las acciones de Estados Unidos caen](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-inches-to-6-000-while-us-stocks-drop-043a49f7.md)
 * 2019-05-07 [Ant Financial se une A $10 MLN serie A, socios con ZKP blockchain soluciones de privacidad firma](https://github.com/theyapapa/cryptonews/blob/es/ant-financial-joins-10-mln-series-a-partners-with-zkp-blockchain-privacy-solutions-firm-245b314b.md)
 * 2019-05-06 [Bitcoin Developer publica dos propuestas para una horquilla taproot Soft Fork](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-developer-publishes-two-proposals-for-a-taproot-soft-fork-aeaa1858.md)
 * 2019-05-06 [Los consejos estudiantiles de Moscú planean pilotar la votación electrónica de blockchain en junio](https://github.com/theyapapa/cryptonews/blob/es/moscow-student-councils-plan-to-pilot-blockchain-e-voting-in-june-07a9894e.md)
