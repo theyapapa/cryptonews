@@ -1,3 +1,4 @@
+* 2019-05-07 [Ant Financial se une A $10 MLN serie A, socios con ZKP blockchain soluciones de privacidad firma](https://github.com/theyapapa/cryptonews/blob/es/ant-financial-joins-10-mln-series-a-partners-with-zkp-blockchain-privacy-solutions-firm-245b314b.md)
 * 2019-05-06 [Bitcoin Developer publica dos propuestas para una horquilla taproot Soft Fork](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-developer-publishes-two-proposals-for-a-taproot-soft-fork-aeaa1858.md)
 * 2019-05-06 [Los consejos estudiantiles de Moscú planean pilotar la votación electrónica de blockchain en junio](https://github.com/theyapapa/cryptonews/blob/es/moscow-student-councils-plan-to-pilot-blockchain-e-voting-in-june-07a9894e.md)
 * 2019-05-06 [Informe: volumen de transacciones ether en DApps registrar nuevo todo-tiempo-alto](https://github.com/theyapapa/cryptonews/blob/es/report-ether-transaction-volume-on-dapps-register-new-all-time-high-131446f8.md)
