@@ -1,3 +1,4 @@
+* 2019-05-08 [Эфириум 2,0 доказательство-оф-Кол Тестнет Blockchain теперь Live](https://github.com/theyapapa/cryptonews/blob/ru/an-ethereum-20-proof-of-stake-testnet-blockchain-is-now-live-d2bf1491.md)
 * 2019-05-08 [Мальтийский реестр компаний, установленных для запуска на основе системы Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/maltas-registry-of-companies-set-to-run-on-blockchain-based-system-7dd9c66c.md)
 * 2019-05-08 [Более 50 банки имитируют письмо кредитных операций на Блокчейне R3's в 27 странах](https://github.com/theyapapa/cryptonews/blob/ru/over-50-banks-simulate-letter-of-credit-transactions-on-r3s-blockchain-in-27-countries-cf58d9aa.md)
 * 2019-05-08 [Белфаст запускает собственную Криптовалюту для увеличения успеха Рокфеллер Социальный проект](https://github.com/theyapapa/cryptonews/blob/ru/belfast-launches-own-cryptocurrency-to-boost-rockefeller-social-project-success-f28bfc33.md)
