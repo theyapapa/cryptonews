@@ -1,3 +1,4 @@
+* 2019-05-08 [Bitfinex는 밧줄에 최대 $10억을 인상 하는 초기 교환 제공을 확인](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-confirms-initial-exchange-offering-to-raise-up-to-1-billion-in-tether-6de75b9d.md)
 * 2019-05-07 [해커는 Binance 암호화 교환 보안 위반에 7000 Bitcoins 철회](https://github.com/theyapapa/cryptonews/blob/ko/hackers-withdraw-7-000-bitcoins-in-binance-crypto-exchange-security-breach-b0c10411.md)
 * 2019-05-07 [Sprott CEO, 블록 체인 기반 디지털 골드에 대 한 강세 미래 예측](https://github.com/theyapapa/cryptonews/blob/ko/sprott-ceo-predicts-bullish-future-for-blockchain-based-digital-gold-e588fadd.md)
 * 2019-05-07 [합류 소프트웨어 악용을 통한 암호화 채굴 악성 코드에 사이버 범죄자 몰래](https://github.com/theyapapa/cryptonews/blob/ko/cybercriminals-sneak-in-crypto-mining-malware-via-confluence-software-exploit-45407e4f.md)
