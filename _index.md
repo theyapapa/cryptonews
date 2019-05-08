@@ -1,3 +1,4 @@
+* 2019-05-08 [이전 Coinbase이 그 젝 헌터 머 그 아트를 채용 하 여 미국 운영을 확장 하는 bitstamp](https://github.com/theyapapa/cryptonews/blob/ko/bitstamp-to-expand-us-operations-by-hiring-former-coinbase-exec-hunter-merghart-50050510.md)
 * 2019-05-08 [Bitfinex는 밧줄에 최대 $10억을 인상 하는 초기 교환 제공을 확인](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-confirms-initial-exchange-offering-to-raise-up-to-1-billion-in-tether-6de75b9d.md)
 * 2019-05-07 [해커는 Binance 암호화 교환 보안 위반에 7000 Bitcoins 철회](https://github.com/theyapapa/cryptonews/blob/ko/hackers-withdraw-7-000-bitcoins-in-binance-crypto-exchange-security-breach-b0c10411.md)
 * 2019-05-07 [Sprott CEO, 블록 체인 기반 디지털 골드에 대 한 강세 미래 예측](https://github.com/theyapapa/cryptonews/blob/ko/sprott-ceo-predicts-bullish-future-for-blockchain-based-digital-gold-e588fadd.md)
