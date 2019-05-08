@@ -1,3 +1,4 @@
+* 2019-05-08 [La firma blockchain recauda $6 mln de las principales compañías energéticas, subsidiaria de Saudi Aramco](https://github.com/theyapapa/cryptonews/blob/es/blockchain-firm-raises-6-mln-from-major-energy-companies-saudi-aramco-subsidiary-99b99bc6.md)
 * 2019-05-08 [Un Ethereum 2,0 prueba de participación blockchain TestNet es ahora en vivo](https://github.com/theyapapa/cryptonews/blob/es/an-ethereum-20-proof-of-stake-testnet-blockchain-is-now-live-d2bf1491.md)
 * 2019-05-08 [El registro de empresas de Malta establecido para ejecutarse en el sistema basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/maltas-registry-of-companies-set-to-run-on-blockchain-based-system-7dd9c66c.md)
 * 2019-05-08 [Más de 50 bancos simulan transacciones de carta de crédito en R3 blockchain en 27 países](https://github.com/theyapapa/cryptonews/blob/es/over-50-banks-simulate-letter-of-credit-transactions-on-r3s-blockchain-in-27-countries-cf58d9aa.md)
