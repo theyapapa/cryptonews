@@ -1,3 +1,4 @@
+* 2019-05-07 [Хакеры вывести 7 000 биткоинов в Binance Криптобиржи безопасности Exchange нарушение](https://github.com/theyapapa/cryptonews/blob/ru/hackers-withdraw-7-000-bitcoins-in-binance-crypto-exchange-security-breach-b0c10411.md)
 * 2019-05-07 [Спротт Генеральный директор предсказывает бычий будущее на основе Blockchain цифрового золота](https://github.com/theyapapa/cryptonews/blob/ru/sprott-ceo-predicts-bullish-future-for-blockchain-based-digital-gold-e588fadd.md)
 * 2019-05-07 [Киберпреступники проникнуть в крипто добыча вредоносных программ с помощью слияния программное обеспечение эксплойт](https://github.com/theyapapa/cryptonews/blob/ru/cybercriminals-sneak-in-crypto-mining-malware-via-confluence-software-exploit-45407e4f.md)
 * 2019-05-07 [Ориентир для острова Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/a-landmark-for-the-blockchain-island-4105a8e7.md)
