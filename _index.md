@@ -1,3 +1,4 @@
+* 2019-05-08 [블록 체인 회사, 사우디 아람 코 자회사, 주요 에너지 기업에서 $6 백만 모금](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-firm-raises-6-mln-from-major-energy-companies-saudi-aramco-subsidiary-99b99bc6.md)
 * 2019-05-08 [이 더 리 움 2.0 증명 지분 테스트 넷 블록 체인은 현재 라이브](https://github.com/theyapapa/cryptonews/blob/ko/an-ethereum-20-proof-of-stake-testnet-blockchain-is-now-live-d2bf1491.md)
 * 2019-05-08 [블록 체인 기반 시스템에서 실행 하도록 설정 된 회사의 몰타의 레지스트리](https://github.com/theyapapa/cryptonews/blob/ko/maltas-registry-of-companies-set-to-run-on-blockchain-based-system-7dd9c66c.md)
 * 2019-05-08 [이상 50 은행은 27 개국에서 R3's 블록 체인에 신용 거래의 편지를 시뮬레이션](https://github.com/theyapapa/cryptonews/blob/ko/over-50-banks-simulate-letter-of-credit-transactions-on-r3s-blockchain-in-27-countries-cf58d9aa.md)
