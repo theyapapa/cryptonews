@@ -1,3 +1,4 @@
+* 2019-05-08 [Un Ethereum 2,0 prueba de participación blockchain TestNet es ahora en vivo](https://github.com/theyapapa/cryptonews/blob/es/an-ethereum-20-proof-of-stake-testnet-blockchain-is-now-live-d2bf1491.md)
 * 2019-05-08 [El registro de empresas de Malta establecido para ejecutarse en el sistema basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/maltas-registry-of-companies-set-to-run-on-blockchain-based-system-7dd9c66c.md)
 * 2019-05-08 [Más de 50 bancos simulan transacciones de carta de crédito en R3 blockchain en 27 países](https://github.com/theyapapa/cryptonews/blob/es/over-50-banks-simulate-letter-of-credit-transactions-on-r3s-blockchain-in-27-countries-cf58d9aa.md)
 * 2019-05-08 [Belfast lanza su propia criptomoneda para impulsar el éxito del proyecto social Rockefeller](https://github.com/theyapapa/cryptonews/blob/es/belfast-launches-own-cryptocurrency-to-boost-rockefeller-social-project-success-f28bfc33.md)
