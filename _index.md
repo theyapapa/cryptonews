@@ -1,3 +1,4 @@
+* 2019-05-08 [Bitштемпель для того чтобы расширить деятельности США путем нанимать бывшего Coinbase ИСПА охотник Merghart](https://github.com/theyapapa/cryptonews/blob/ru/bitstamp-to-expand-us-operations-by-hiring-former-coinbase-exec-hunter-merghart-50050510.md)
 * 2019-05-08 [Bitfinex подтверждает начальный обмен предлагая поднять до $1 000 000 000 в привязи](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-confirms-initial-exchange-offering-to-raise-up-to-1-billion-in-tether-6de75b9d.md)
 * 2019-05-07 [Хакеры вывести 7 000 биткоинов в Binance Криптобиржи безопасности Exchange нарушение](https://github.com/theyapapa/cryptonews/blob/ru/hackers-withdraw-7-000-bitcoins-in-binance-crypto-exchange-security-breach-b0c10411.md)
 * 2019-05-07 [Спротт Генеральный директор предсказывает бычий будущее на основе Blockchain цифрового золота](https://github.com/theyapapa/cryptonews/blob/ru/sprott-ceo-predicts-bullish-future-for-blockchain-based-digital-gold-e588fadd.md)
