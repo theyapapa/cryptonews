@@ -1,3 +1,4 @@
+* 2019-05-09 [Bitcoin robado en Binance hack se trasladó a siete direcciones](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-stolen-in-binance-hack-moved-to-seven-addresses-31f97cbd.md)
 * 2019-05-09 [Proyecto libra: Facebook Stablecoin tiene como objetivo conquistar el mercado de pagos en línea, informes sugieren](https://github.com/theyapapa/cryptonews/blob/es/libra-project-facebook-stablecoin-aims-to-conquer-online-payments-market-reports-suggest-a6ba446a.md)
 * 2019-05-08 [La firma blockchain recauda $6 mln de las principales compañías energéticas, subsidiaria de Saudi Aramco](https://github.com/theyapapa/cryptonews/blob/es/blockchain-firm-raises-6-mln-from-major-energy-companies-saudi-aramco-subsidiary-99b99bc6.md)
 * 2019-05-08 [Un Ethereum 2,0 prueba de participación blockchain TestNet es ahora en vivo](https://github.com/theyapapa/cryptonews/blob/es/an-ethereum-20-proof-of-stake-testnet-blockchain-is-now-live-d2bf1491.md)
