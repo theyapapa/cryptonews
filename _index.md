@@ -1,3 +1,4 @@
+* 2019-05-09 [Президент ЕЦБ Марио Драги: криптографирования не являются валютами, они очень рискованные активы](https://github.com/theyapapa/cryptonews/blob/ru/ecb-president-mario-draghi-cryptos-are-not-currencies-they-are-very-risky-assets-6511058a.md)
 * 2019-05-09 [Выручка overstock снижается на 17% в 1 квартале 2019 с 1 квартала 2018 из-за снижения продаж](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-revenue-decreases-17-in-q1-2019-from-q1-2018-due-to-decline-in-sales-9ae15dd1.md)
 * 2019-05-09 [Нуриэль Рубини на Солт конференции в Нью-Йорке: крипто является мать и отец всех пузырей](https://github.com/theyapapa/cryptonews/blob/ru/nouriel-roubini-at-salt-conference-in-ny-crypto-is-the-mother-and-father-of-all-bubbles-1ebc106d.md)
 * 2019-05-09 [Bitcoin похищенных в Binance Hack переехал в семь адресов](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-stolen-in-binance-hack-moved-to-seven-addresses-31f97cbd.md)
