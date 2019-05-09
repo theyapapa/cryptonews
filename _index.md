@@ -1,3 +1,4 @@
+* 2019-05-09 [Весы проекта: Facebook Стаблев цели завоевать онлайн рынок платежей, доклады предлагаю](https://github.com/theyapapa/cryptonews/blob/ru/libra-project-facebook-stablecoin-aims-to-conquer-online-payments-market-reports-suggest-a6ba446a.md)
 * 2019-05-08 [Блокчейн-компания поднимает $6 млн от крупных энергетических компаний, дочерняя компания «Сауди Арамко»](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-raises-6-mln-from-major-energy-companies-saudi-aramco-subsidiary-99b99bc6.md)
 * 2019-05-08 [Эфириум 2,0 доказательство-оф-Кол Тестнет Blockchain теперь Live](https://github.com/theyapapa/cryptonews/blob/ru/an-ethereum-20-proof-of-stake-testnet-blockchain-is-now-live-d2bf1491.md)
 * 2019-05-08 [Мальтийский реестр компаний, установленных для запуска на основе системы Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/maltas-registry-of-companies-set-to-run-on-blockchain-based-system-7dd9c66c.md)
