@@ -1,3 +1,4 @@
+* 2019-05-09 [Bitfinex에 조셉 Lubin: 그것은 아마 더 나은 얻을 하지 않습니다 정말 큰 엉망 처럼 보인다](https://github.com/theyapapa/cryptonews/blob/ko/joseph-lubin-on-bitfinex-it-seems-like-a-really-big-mess-that-probably-wont-get-better-c3733717.md)
 * 2019-05-09 [오버 스톡의 블록 체인 암은 지연에 따라 중국 기업 으로부터 $5 백만을 받습니다.](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-blockchain-arm-receives-5-mln-from-chinese-firm-following-delays-dc9bde65.md)
 * 2019-05-09 [마리오 Draghi: Cryptos는 통화가 아니다, 그들은 매우 위험한 자산입니다](https://github.com/theyapapa/cryptonews/blob/ko/ecb-president-mario-draghi-cryptos-are-not-currencies-they-are-very-risky-assets-6511058a.md)
 * 2019-05-09 [1 분기 2018 2019 분기 매출 감소로 인 한 매출 감소](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-revenue-decreases-17-in-q1-2019-from-q1-2018-due-to-decline-in-sales-9ae15dd1.md)
