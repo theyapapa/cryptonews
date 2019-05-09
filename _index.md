@@ -1,3 +1,4 @@
+* 2019-05-09 [США законодатели формируют Финтех Целевая группа для изучения промышленности](https://github.com/theyapapa/cryptonews/blob/ru/us-lawmakers-form-fintech-task-force-to-examine-industry-52bcf7d1.md)
 * 2019-05-09 [Джозеф Любин на Bitfinex: похоже, действительно большой беспорядок, что, вероятно, не будет лучше](https://github.com/theyapapa/cryptonews/blob/ru/joseph-lubin-on-bitfinex-it-seems-like-a-really-big-mess-that-probably-wont-get-better-c3733717.md)
 * 2019-05-09 [Блокчейн-ARM от overstock получает $5 млн от китайской фирмы после задержек](https://github.com/theyapapa/cryptonews/blob/ru/overstocks-blockchain-arm-receives-5-mln-from-chinese-firm-following-delays-dc9bde65.md)
 * 2019-05-09 [Президент ЕЦБ Марио Драги: криптографирования не являются валютами, они очень рискованные активы](https://github.com/theyapapa/cryptonews/blob/ru/ecb-president-mario-draghi-cryptos-are-not-currencies-they-are-very-risky-assets-6511058a.md)
