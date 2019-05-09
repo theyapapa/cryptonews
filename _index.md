@@ -1,3 +1,4 @@
+* 2019-05-09 [마리오 Draghi: Cryptos는 통화가 아니다, 그들은 매우 위험한 자산입니다](https://github.com/theyapapa/cryptonews/blob/ko/ecb-president-mario-draghi-cryptos-are-not-currencies-they-are-very-risky-assets-6511058a.md)
 * 2019-05-09 [1 분기 2018 2019 분기 매출 감소로 인 한 매출 감소](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-revenue-decreases-17-in-q1-2019-from-q1-2018-due-to-decline-in-sales-9ae15dd1.md)
 * 2019-05-09 [NY에 있는 소금 회의에서 Nouriel 루비 니: 암호 화폐는 모든 버블의 어머니와 아버지입니다](https://github.com/theyapapa/cryptonews/blob/ko/nouriel-roubini-at-salt-conference-in-ny-crypto-is-the-mother-and-father-of-all-bubbles-1ebc106d.md)
 * 2019-05-09 [비트 코인 도난에 Binance 해킹 일곱 주소로 이동](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-stolen-in-binance-hack-moved-to-seven-addresses-31f97cbd.md)
