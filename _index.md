@@ -1,3 +1,4 @@
+* 2019-05-09 [Los legisladores estadounidenses forman el grupo de trabajo FinTech para examinar la industria](https://github.com/theyapapa/cryptonews/blob/es/us-lawmakers-form-fintech-task-force-to-examine-industry-52bcf7d1.md)
 * 2019-05-09 [Joseph Lubin en Bitfinex: parece un lío muy grande que probablemente no va a mejorar](https://github.com/theyapapa/cryptonews/blob/es/joseph-lubin-on-bitfinex-it-seems-like-a-really-big-mess-that-probably-wont-get-better-c3733717.md)
 * 2019-05-09 [El brazo blockchain de exceso recibe $5 mln de la firma China tras retrasos](https://github.com/theyapapa/cryptonews/blob/es/overstocks-blockchain-arm-receives-5-mln-from-chinese-firm-following-delays-dc9bde65.md)
 * 2019-05-09 [Presidente del BCE, Mario Draghi: los Cryptos no son monedas, son activos muy riesgosos](https://github.com/theyapapa/cryptonews/blob/es/ecb-president-mario-draghi-cryptos-are-not-currencies-they-are-very-risky-assets-6511058a.md)
