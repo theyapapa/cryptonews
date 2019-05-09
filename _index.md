@@ -1,3 +1,4 @@
+* 2019-05-09 [NY에 있는 소금 회의에서 Nouriel 루비 니: 암호 화폐는 모든 버블의 어머니와 아버지입니다](https://github.com/theyapapa/cryptonews/blob/ko/nouriel-roubini-at-salt-conference-in-ny-crypto-is-the-mother-and-father-of-all-bubbles-1ebc106d.md)
 * 2019-05-09 [비트 코인 도난에 Binance 해킹 일곱 주소로 이동](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-stolen-in-binance-hack-moved-to-seven-addresses-31f97cbd.md)
 * 2019-05-09 [천칭 자리 프로젝트: 페이스 북 Stablecoin은 온라인 지불 시장을 정복 하는 것을 목표로, 보고서는 제안](https://github.com/theyapapa/cryptonews/blob/ko/libra-project-facebook-stablecoin-aims-to-conquer-online-payments-market-reports-suggest-a6ba446a.md)
 * 2019-05-08 [블록 체인 회사, 사우디 아람 코 자회사, 주요 에너지 기업에서 $6 백만 모금](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-firm-raises-6-mln-from-major-energy-companies-saudi-aramco-subsidiary-99b99bc6.md)
