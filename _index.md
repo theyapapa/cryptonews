@@ -1,3 +1,4 @@
+* 2019-05-09 [Нуриэль Рубини на Солт конференции в Нью-Йорке: крипто является мать и отец всех пузырей](https://github.com/theyapapa/cryptonews/blob/ru/nouriel-roubini-at-salt-conference-in-ny-crypto-is-the-mother-and-father-of-all-bubbles-1ebc106d.md)
 * 2019-05-09 [Bitcoin похищенных в Binance Hack переехал в семь адресов](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-stolen-in-binance-hack-moved-to-seven-addresses-31f97cbd.md)
 * 2019-05-09 [Весы проекта: Facebook Стаблев цели завоевать онлайн рынок платежей, доклады предлагаю](https://github.com/theyapapa/cryptonews/blob/ru/libra-project-facebook-stablecoin-aims-to-conquer-online-payments-market-reports-suggest-a6ba446a.md)
 * 2019-05-08 [Блокчейн-компания поднимает $6 млн от крупных энергетических компаний, дочерняя компания «Сауди Арамко»](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-raises-6-mln-from-major-energy-companies-saudi-aramco-subsidiary-99b99bc6.md)
