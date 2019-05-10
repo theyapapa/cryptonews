@@ -1,3 +1,4 @@
+* 2019-05-10 [에 테 리 움 재단은 연례 자금 조달, 다음 Devcon 위치를 발표](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
 * 2019-05-10 [새로운 에른스트와 영 보고서가 현재 존재 하는 자산 및 채무를 밝혀 냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-ernst-young-report-reveals-assets-and-debts-of-now-defunct-quadrigacx-27a15555.md)
 * 2019-05-10 [미국 상원 은행 위원회는 암호 프로젝트에 대 한 정보에 대 한 페이스 북을 눌러](https://github.com/theyapapa/cryptonews/blob/ko/us-senate-banking-committee-presses-facebook-for-info-on-crypto-project-f96b22c7.md)
 * 2019-05-10 [SIM 스와핑을 통해 암호화에 $2.5 백만 훔친 개인의 미국 DoJ 요금 그룹](https://github.com/theyapapa/cryptonews/blob/ko/us-doj-charges-group-of-individuals-who-stole-25-mln-in-crypto-via-sim-swapping-d58b816a.md)
