@@ -1,3 +1,4 @@
+* 2019-05-10 [Fundación Etereum anuncia la financiación anual, próxima DevCon ubicación](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
 * 2019-05-10 [Nuevo informe Ernst & Young revela activos y deudas de ahora-desaparecido QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/new-ernst-young-report-reveals-assets-and-debts-of-now-defunct-quadrigacx-27a15555.md)
 * 2019-05-10 [El Comité bancario del Senado de Estados Unidos presiona Facebook para obtener información sobre el proyecto Crypto](https://github.com/theyapapa/cryptonews/blob/es/us-senate-banking-committee-presses-facebook-for-info-on-crypto-project-f96b22c7.md)
 * 2019-05-10 [US DoJ cargos grupo de individuos que robaron $2,5 MLN en Crypto a través de intercambio de SIM](https://github.com/theyapapa/cryptonews/blob/es/us-doj-charges-group-of-individuals-who-stole-25-mln-in-crypto-via-sim-swapping-d58b816a.md)
