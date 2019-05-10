@@ -1,3 +1,4 @@
+* 2019-05-10 [독일은 2019에서 주요 디지털 토큰 규제 노력을 계획 하 고 있으며, 소스](https://github.com/theyapapa/cryptonews/blob/ko/germany-plans-major-digital-token-regulation-effort-in-2019-says-source-3e280729.md)
 * 2019-05-10 [인도 암호화 교환 Coinome 규제 압력을 인용 하는 서비스를 중지](https://github.com/theyapapa/cryptonews/blob/ko/indian-crypto-exchange-coinome-halts-services-citing-regulatory-pressure-2de9fd92.md)
 * 2019-05-09 [북유럽 뱅킹 자이언트 Nordea가 더 많은 고객에 게 블록 체인 거래 플랫폼을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/nordic-banking-giant-nordea-opens-blockchain-trading-platform-to-more-clients-b11397ca.md)
 * 2019-05-09 [미국 의원 들이 산업을 조사 하기 위해 핀 테크 태스크 포스 형성](https://github.com/theyapapa/cryptonews/blob/ko/us-lawmakers-form-fintech-task-force-to-examine-industry-52bcf7d1.md)
