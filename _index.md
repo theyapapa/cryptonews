@@ -1,3 +1,4 @@
+* 2019-05-10 [Alemania planea mayor esfuerzo de regulación de tokens digitales en 2019, dice Source](https://github.com/theyapapa/cryptonews/blob/es/germany-plans-major-digital-token-regulation-effort-in-2019-says-source-3e280729.md)
 * 2019-05-10 [Indian Crypto Exchange Coinome detiene los servicios citando la presión reguladora](https://github.com/theyapapa/cryptonews/blob/es/indian-crypto-exchange-coinome-halts-services-citing-regulatory-pressure-2de9fd92.md)
 * 2019-05-09 [El gigante bancario nórdico Nordea abre la plataforma de Trading blockchain a más clientes](https://github.com/theyapapa/cryptonews/blob/es/nordic-banking-giant-nordea-opens-blockchain-trading-platform-to-more-clients-b11397ca.md)
 * 2019-05-09 [Los legisladores estadounidenses forman el grupo de trabajo FinTech para examinar la industria](https://github.com/theyapapa/cryptonews/blob/es/us-lawmakers-form-fintech-task-force-to-examine-industry-52bcf7d1.md)
