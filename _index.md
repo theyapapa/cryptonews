@@ -1,3 +1,4 @@
+* 2019-05-10 [Министерство юстиции США сборы группа лиц, которые украли $2,5 млн в крипто Via SIM замена](https://github.com/theyapapa/cryptonews/blob/ru/us-doj-charges-group-of-individuals-who-stole-25-mln-in-crypto-via-sim-swapping-d58b816a.md)
 * 2019-05-10 [Германия планирует основные цифровые токен регулирование усилий в 2019, говорит источник](https://github.com/theyapapa/cryptonews/blob/ru/germany-plans-major-digital-token-regulation-effort-in-2019-says-source-3e280729.md)
 * 2019-05-10 [Индийская Криптобиржи Кукойме прекращает услуги ссылаясь на регуляторные давления](https://github.com/theyapapa/cryptonews/blob/ru/indian-crypto-exchange-coinome-halts-services-citing-regulatory-pressure-2de9fd92.md)
 * 2019-05-09 [Скандинавский банковский гигант Нордеа открывает платформу торговли Blockchain для большего клиентов](https://github.com/theyapapa/cryptonews/blob/ru/nordic-banking-giant-nordea-opens-blockchain-trading-platform-to-more-clients-b11397ca.md)
