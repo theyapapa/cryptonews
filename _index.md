@@ -1,3 +1,4 @@
+* 2019-05-09 [북유럽 뱅킹 자이언트 Nordea가 더 많은 고객에 게 블록 체인 거래 플랫폼을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/nordic-banking-giant-nordea-opens-blockchain-trading-platform-to-more-clients-b11397ca.md)
 * 2019-05-09 [미국 의원 들이 산업을 조사 하기 위해 핀 테크 태스크 포스 형성](https://github.com/theyapapa/cryptonews/blob/ko/us-lawmakers-form-fintech-task-force-to-examine-industry-52bcf7d1.md)
 * 2019-05-09 [Bitfinex에 조셉 Lubin: 그것은 아마 더 나은 얻을 하지 않습니다 정말 큰 엉망 처럼 보인다](https://github.com/theyapapa/cryptonews/blob/ko/joseph-lubin-on-bitfinex-it-seems-like-a-really-big-mess-that-probably-wont-get-better-c3733717.md)
 * 2019-05-09 [오버 스톡의 블록 체인 암은 지연에 따라 중국 기업 으로부터 $5 백만을 받습니다.](https://github.com/theyapapa/cryptonews/blob/ko/overstocks-blockchain-arm-receives-5-mln-from-chinese-firm-following-delays-dc9bde65.md)
