@@ -1,3 +1,4 @@
+* 2019-05-10 [Эфириум Фонд объявляет ежегодное финансирование, следующая DevCon местоположение](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
 * 2019-05-10 [Новый Эрнст & Янг доклад раскрывает активы и долги ныне несуществующей Квадрагакс](https://github.com/theyapapa/cryptonews/blob/ru/new-ernst-young-report-reveals-assets-and-debts-of-now-defunct-quadrigacx-27a15555.md)
 * 2019-05-10 [Банковский Комитет Сената США нажимает на Facebook для информации о Криптопроекте](https://github.com/theyapapa/cryptonews/blob/ru/us-senate-banking-committee-presses-facebook-for-info-on-crypto-project-f96b22c7.md)
 * 2019-05-10 [Министерство юстиции США сборы группа лиц, которые украли $2,5 млн в крипто Via SIM замена](https://github.com/theyapapa/cryptonews/blob/ru/us-doj-charges-group-of-individuals-who-stole-25-mln-in-crypto-via-sim-swapping-d58b816a.md)
