@@ -1,3 +1,4 @@
+* 2019-05-11 [Resumen de los 5 principales intérpretes de criptografía: BTC, ETH, BCH, LTC y XMR](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-btc-eth-bch-ltc-and-xmr-2fec1462.md)
 * 2019-05-11 [Barclays y RBS han reducido el proceso de transacción de bienes raíces cuatro veces: ¿Quiénes son los beneficios?](https://github.com/theyapapa/cryptonews/blob/es/barclays-and-rbs-have-reduced-the-real-estate-transaction-process-four-times-who-benefits-60d1c35d.md)
 * 2019-05-10 [Crypto Wallet protege el seguro $50 millones para los activos criptográficos del cliente](https://github.com/theyapapa/cryptonews/blob/es/crypto-wallet-secures-50-million-insurance-for-customer-crypto-assets-b3b570c8.md)
 * 2019-05-10 [Fundación Etereum anuncia la financiación anual, próxima DevCon ubicación](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
