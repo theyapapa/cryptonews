@@ -1,3 +1,4 @@
+* 2019-05-11 [맨 위로 5 암호화 수행자 개요: BTC, ETH, BCH, LTC 및 XMR](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-btc-eth-bch-ltc-and-xmr-2fec1462.md)
 * 2019-05-11 [바 클레이와 RBS는 부동산 거래 프로세스를 네 번 감소 시켰습니다: 누가 혜택을?](https://github.com/theyapapa/cryptonews/blob/ko/barclays-and-rbs-have-reduced-the-real-estate-transaction-process-four-times-who-benefits-60d1c35d.md)
 * 2019-05-10 [암호화 지갑은 고객 암호화 자산에 대 한 $5000만 보험을 확보](https://github.com/theyapapa/cryptonews/blob/ko/crypto-wallet-secures-50-million-insurance-for-customer-crypto-assets-b3b570c8.md)
 * 2019-05-10 [에 테 리 움 재단은 연례 자금 조달, 다음 Devcon 위치를 발표](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
