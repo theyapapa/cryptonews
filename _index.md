@@ -1,3 +1,4 @@
+* 2019-05-10 [Криптокошелек обеспечивает $50 000 000 страхование для клиентских Криптоактивов](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-secures-50-million-insurance-for-customer-crypto-assets-b3b570c8.md)
 * 2019-05-10 [Эфириум Фонд объявляет ежегодное финансирование, следующая DevCon местоположение](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
 * 2019-05-10 [Новый Эрнст & Янг доклад раскрывает активы и долги ныне несуществующей Квадрагакс](https://github.com/theyapapa/cryptonews/blob/ru/new-ernst-young-report-reveals-assets-and-debts-of-now-defunct-quadrigacx-27a15555.md)
 * 2019-05-10 [Банковский Комитет Сената США нажимает на Facebook для информации о Криптопроекте](https://github.com/theyapapa/cryptonews/blob/ru/us-senate-banking-committee-presses-facebook-for-info-on-crypto-project-f96b22c7.md)
