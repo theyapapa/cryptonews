@@ -1,3 +1,4 @@
+* 2019-05-10 [암호화 지갑은 고객 암호화 자산에 대 한 $5000만 보험을 확보](https://github.com/theyapapa/cryptonews/blob/ko/crypto-wallet-secures-50-million-insurance-for-customer-crypto-assets-b3b570c8.md)
 * 2019-05-10 [에 테 리 움 재단은 연례 자금 조달, 다음 Devcon 위치를 발표](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
 * 2019-05-10 [새로운 에른스트와 영 보고서가 현재 존재 하는 자산 및 채무를 밝혀 냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-ernst-young-report-reveals-assets-and-debts-of-now-defunct-quadrigacx-27a15555.md)
 * 2019-05-10 [미국 상원 은행 위원회는 암호 프로젝트에 대 한 정보에 대 한 페이스 북을 눌러](https://github.com/theyapapa/cryptonews/blob/ko/us-senate-banking-committee-presses-facebook-for-info-on-crypto-project-f96b22c7.md)
