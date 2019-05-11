@@ -1,3 +1,4 @@
+* 2019-05-11 [바 클레이와 RBS는 부동산 거래 프로세스를 네 번 감소 시켰습니다: 누가 혜택을?](https://github.com/theyapapa/cryptonews/blob/ko/barclays-and-rbs-have-reduced-the-real-estate-transaction-process-four-times-who-benefits-60d1c35d.md)
 * 2019-05-10 [암호화 지갑은 고객 암호화 자산에 대 한 $5000만 보험을 확보](https://github.com/theyapapa/cryptonews/blob/ko/crypto-wallet-secures-50-million-insurance-for-customer-crypto-assets-b3b570c8.md)
 * 2019-05-10 [에 테 리 움 재단은 연례 자금 조달, 다음 Devcon 위치를 발표](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
 * 2019-05-10 [새로운 에른스트와 영 보고서가 현재 존재 하는 자산 및 채무를 밝혀 냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-ernst-young-report-reveals-assets-and-debts-of-now-defunct-quadrigacx-27a15555.md)
