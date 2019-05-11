@@ -1,3 +1,4 @@
+* 2019-05-10 [Crypto Wallet protege el seguro $50 millones para los activos criptográficos del cliente](https://github.com/theyapapa/cryptonews/blob/es/crypto-wallet-secures-50-million-insurance-for-customer-crypto-assets-b3b570c8.md)
 * 2019-05-10 [Fundación Etereum anuncia la financiación anual, próxima DevCon ubicación](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
 * 2019-05-10 [Nuevo informe Ernst & Young revela activos y deudas de ahora-desaparecido QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/new-ernst-young-report-reveals-assets-and-debts-of-now-defunct-quadrigacx-27a15555.md)
 * 2019-05-10 [El Comité bancario del Senado de Estados Unidos presiona Facebook para obtener información sobre el proyecto Crypto](https://github.com/theyapapa/cryptonews/blob/es/us-senate-banking-committee-presses-facebook-for-info-on-crypto-project-f96b22c7.md)
