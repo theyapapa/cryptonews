@@ -1,3 +1,4 @@
+* 2019-05-11 [Топ 5 крипто исполнители Обзор: BTC, ETH, BCH, LTC и XMR](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-btc-eth-bch-ltc-and-xmr-2fec1462.md)
 * 2019-05-11 [Barclays и РБС сократили процесс сделки с недвижимостью четыре раза: кто льготы?](https://github.com/theyapapa/cryptonews/blob/ru/barclays-and-rbs-have-reduced-the-real-estate-transaction-process-four-times-who-benefits-60d1c35d.md)
 * 2019-05-10 [Криптокошелек обеспечивает $50 000 000 страхование для клиентских Криптоактивов](https://github.com/theyapapa/cryptonews/blob/ru/crypto-wallet-secures-50-million-insurance-for-customer-crypto-assets-b3b570c8.md)
 * 2019-05-10 [Эфириум Фонд объявляет ежегодное финансирование, следующая DevCon местоположение](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-announces-annual-funding-next-devcon-location-267c8075.md)
