@@ -1,3 +1,4 @@
+* 2019-05-12 [Дайджест ходлера, 6-12 мая: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-may-612-top-stories-price-movements-quotes-and-fud-of-the-week-403d01c4.md)
 * 2019-05-12 [ErisX спот-рынка: более институционального участия и нормативного надзора приходя к крипто?](https://github.com/theyapapa/cryptonews/blob/ru/erisxs-spot-market-more-institutional-participation-and-regulatory-oversight-coming-to-crypto-4a2afe20.md)
 * 2019-05-11 [Майк Новограц: веб-3,0 изменит мир, а не биткоин](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-web-30-will-change-the-world-not-bitcoin-839c3bd6.md)
 * 2019-05-11 [США Blockchain инвестор Terpin награжден более $75 000 000 в SIM обмен случае](https://github.com/theyapapa/cryptonews/blob/ru/us-blockchain-investor-terpin-awarded-over-75-million-in-sim-swapping-case-dc5c8368.md)
