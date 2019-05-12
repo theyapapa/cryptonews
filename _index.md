@@ -1,3 +1,4 @@
+* 2019-05-12 [프라를 위한 비트 코인: 스타벅스의 암호화 노력은 주류 채택을 위한 길을 개척 할 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-for-frappuccino-will-starbucks-crypto-endeavours-pave-the-way-for-mainstream-adoption-b66ecf08.md)
 * 2019-05-12 [Coinbase 지원 Stablecoin 시작 예약은 베네수엘라에서 ' Venmo 스타일의 응용 프로그램 '을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-backed-stablecoin-startup-reserve-to-launch-venmo-style-app-in-venezuela-6a7d05a9.md)
 * 2019-05-12 [Hodler의 다이제스트, 5 월 6 ~ 12 일: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-may-612-top-stories-price-movements-quotes-and-fud-of-the-week-403d01c4.md)
 * 2019-05-12 [ErisX의 현물 시장: 더 많은 기관 참여 및 규제 감독 암호화에 온다?](https://github.com/theyapapa/cryptonews/blob/ko/erisxs-spot-market-more-institutional-participation-and-regulatory-oversight-coming-to-crypto-4a2afe20.md)
