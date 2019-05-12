@@ -1,3 +1,4 @@
+* 2019-05-11 [마이크 노 보 그 라 츠: 웹 3.0는 비트 코인이 아닌 세상을 바꿀 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-web-30-will-change-the-world-not-bitcoin-839c3bd6.md)
 * 2019-05-11 [SIM 스와핑 케이스에서 $7500만 이상 수상 한 미국 블록 체인 투자자 Terpin](https://github.com/theyapapa/cryptonews/blob/ko/us-blockchain-investor-terpin-awarded-over-75-million-in-sim-swapping-case-dc5c8368.md)
 * 2019-05-11 [맨 위로 5 암호화 수행자 개요: BTC, ETH, BCH, LTC 및 XMR](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-overview-btc-eth-bch-ltc-and-xmr-2fec1462.md)
 * 2019-05-11 [바 클레이와 RBS는 부동산 거래 프로세스를 네 번 감소 시켰습니다: 누가 혜택을?](https://github.com/theyapapa/cryptonews/blob/ko/barclays-and-rbs-have-reduced-the-real-estate-transaction-process-four-times-who-benefits-60d1c35d.md)
