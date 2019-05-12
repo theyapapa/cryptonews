@@ -1,3 +1,4 @@
+* 2019-05-12 [Reserva de inicio Stablecoin respaldada por coinbase para lanzar ' Venmo Style App ' en Venezuela](https://github.com/theyapapa/cryptonews/blob/es/coinbase-backed-stablecoin-startup-reserve-to-launch-venmo-style-app-in-venezuela-6a7d05a9.md)
 * 2019-05-12 [Hodler's Digest, 6 – 12 de mayo: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-may-612-top-stories-price-movements-quotes-and-fud-of-the-week-403d01c4.md)
 * 2019-05-12 [Mercado spot de ErisX: ¿más participación institucional y supervisión regulatoria llegando a Crypto?](https://github.com/theyapapa/cryptonews/blob/es/erisxs-spot-market-more-institutional-participation-and-regulatory-oversight-coming-to-crypto-4a2afe20.md)
 * 2019-05-11 [Mike Novogratz: Web 3,0 cambiará el mundo, no Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratz-web-30-will-change-the-world-not-bitcoin-839c3bd6.md)
