@@ -1,3 +1,4 @@
+* 2019-05-12 [Hodler의 다이제스트, 5 월 6 ~ 12 일: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-may-612-top-stories-price-movements-quotes-and-fud-of-the-week-403d01c4.md)
 * 2019-05-12 [ErisX의 현물 시장: 더 많은 기관 참여 및 규제 감독 암호화에 온다?](https://github.com/theyapapa/cryptonews/blob/ko/erisxs-spot-market-more-institutional-participation-and-regulatory-oversight-coming-to-crypto-4a2afe20.md)
 * 2019-05-11 [마이크 노 보 그 라 츠: 웹 3.0는 비트 코인이 아닌 세상을 바꿀 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-web-30-will-change-the-world-not-bitcoin-839c3bd6.md)
 * 2019-05-11 [SIM 스와핑 케이스에서 $7500만 이상 수상 한 미국 블록 체인 투자자 Terpin](https://github.com/theyapapa/cryptonews/blob/ko/us-blockchain-investor-terpin-awarded-over-75-million-in-sim-swapping-case-dc5c8368.md)
