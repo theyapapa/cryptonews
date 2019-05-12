@@ -1,3 +1,4 @@
+* 2019-05-12 [Coinbase поддерживаемая стабильный стартовый резерв для запуска ' Venmo Style App ' в Венесуэле](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-backed-stablecoin-startup-reserve-to-launch-venmo-style-app-in-venezuela-6a7d05a9.md)
 * 2019-05-12 [Дайджест ходлера, 6-12 мая: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-may-612-top-stories-price-movements-quotes-and-fud-of-the-week-403d01c4.md)
 * 2019-05-12 [ErisX спот-рынка: более институционального участия и нормативного надзора приходя к крипто?](https://github.com/theyapapa/cryptonews/blob/ru/erisxs-spot-market-more-institutional-participation-and-regulatory-oversight-coming-to-crypto-4a2afe20.md)
 * 2019-05-11 [Майк Новограц: веб-3,0 изменит мир, а не биткоин](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-web-30-will-change-the-world-not-bitcoin-839c3bd6.md)
