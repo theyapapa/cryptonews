@@ -1,3 +1,4 @@
+* 2019-05-11 [Майк Новограц: веб-3,0 изменит мир, а не биткоин](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-web-30-will-change-the-world-not-bitcoin-839c3bd6.md)
 * 2019-05-11 [США Blockchain инвестор Terpin награжден более $75 000 000 в SIM обмен случае](https://github.com/theyapapa/cryptonews/blob/ru/us-blockchain-investor-terpin-awarded-over-75-million-in-sim-swapping-case-dc5c8368.md)
 * 2019-05-11 [Топ 5 крипто исполнители Обзор: BTC, ETH, BCH, LTC и XMR](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-overview-btc-eth-bch-ltc-and-xmr-2fec1462.md)
 * 2019-05-11 [Barclays и РБС сократили процесс сделки с недвижимостью четыре раза: кто льготы?](https://github.com/theyapapa/cryptonews/blob/ru/barclays-and-rbs-have-reduced-the-real-estate-transaction-process-four-times-who-benefits-60d1c35d.md)
