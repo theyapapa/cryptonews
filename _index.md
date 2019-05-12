@@ -1,3 +1,4 @@
+* 2019-05-12 [Mercado spot de ErisX: ¿más participación institucional y supervisión regulatoria llegando a Crypto?](https://github.com/theyapapa/cryptonews/blob/es/erisxs-spot-market-more-institutional-participation-and-regulatory-oversight-coming-to-crypto-4a2afe20.md)
 * 2019-05-11 [Mike Novogratz: Web 3,0 cambiará el mundo, no Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratz-web-30-will-change-the-world-not-bitcoin-839c3bd6.md)
 * 2019-05-11 [US blockchain inversionista terpin ha otorgado más de $75 millones en caso de intercambio de SIM](https://github.com/theyapapa/cryptonews/blob/es/us-blockchain-investor-terpin-awarded-over-75-million-in-sim-swapping-case-dc5c8368.md)
 * 2019-05-11 [Resumen de los 5 principales intérpretes de criptografía: BTC, ETH, BCH, LTC y XMR](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-overview-btc-eth-bch-ltc-and-xmr-2fec1462.md)
