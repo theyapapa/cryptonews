@@ -1,3 +1,4 @@
+* 2019-05-13 [Flexa lanza aplicación donde los compradores pueden gastar Crypto en 15 principales minoristas de Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/flexa-launches-app-where-shoppers-can-spend-crypto-at-15-major-us-retailers-e81d37f4.md)
 * 2019-05-13 [Ethereum Consortium lanza nuevas herramientas empresariales con la entrada de Microsoft, Intel](https://github.com/theyapapa/cryptonews/blob/es/ethereum-consortium-launches-new-enterprise-tools-with-input-from-microsoft-intel-996af433.md)
 * 2019-05-13 [El co-fundador y CTO de Tron Leaves Project, alegando centralización excesiva](https://github.com/theyapapa/cryptonews/blob/es/tron-co-founder-and-cto-leaves-project-alleging-excessive-centralization-ffbe3f3d.md)
 * 2019-05-13 [ICE empuja para la licencia de custodia de Bakkt Bitcoin-aprobación CFTC inminente?](https://github.com/theyapapa/cryptonews/blob/es/ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent-8afbc50f.md)
