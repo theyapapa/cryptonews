@@ -1,3 +1,4 @@
+* 2019-05-13 [에 테 리 움 컨소시엄은 마이크로 소프트의 입력으로 새로운 엔터프라이즈 도구를 출시, 인텔](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-consortium-launches-new-enterprise-tools-with-input-from-microsoft-intel-996af433.md)
 * 2019-05-13 [트 론 공동 설립자 겸 CTO는 과도 한 집중화를 주장 하는 프로젝트를 떠난다.](https://github.com/theyapapa/cryptonews/blob/ko/tron-co-founder-and-cto-leaves-project-alleging-excessive-centralization-ffbe3f3d.md)
 * 2019-05-13 [바 크 Kt 비트 코인 양육 권 라이센스에 대 한 ICE 푸시 — CFTC 승인이 임박 했습니까?](https://github.com/theyapapa/cryptonews/blob/ko/ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent-8afbc50f.md)
 * 2019-05-12 [비트 코인은 $7000 위에 올려 상단 크립 토는 온화한 수정을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-7-000-as-top-cryptos-see-mild-correction-4a76be6d.md)
