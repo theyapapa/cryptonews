@@ -1,3 +1,4 @@
+* 2019-05-13 [Эфириум консорциум запускает новые инструменты предприятия с вкладом от Microsoft, Intel](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-consortium-launches-new-enterprise-tools-with-input-from-microsoft-intel-996af433.md)
 * 2019-05-13 [TRON соучредитель и технический директор покидает проект, утверждая, чрезмерная централизация](https://github.com/theyapapa/cryptonews/blob/ru/tron-co-founder-and-cto-leaves-project-alleging-excessive-centralization-ffbe3f3d.md)
 * 2019-05-13 [ICE толкает на Баккт Bitcoin опеки лицензия-CFTC утверждение неминуемой?](https://github.com/theyapapa/cryptonews/blob/ru/ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent-8afbc50f.md)
 * 2019-05-12 [Bitcoin парит над $7 000 как Top криптографирования см Мягкая коррекция](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-over-7-000-as-top-cryptos-see-mild-correction-4a76be6d.md)
