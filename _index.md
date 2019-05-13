@@ -1,3 +1,4 @@
+* 2019-05-13 [바 크 Kt 비트 코인 양육 권 라이센스에 대 한 ICE 푸시 — CFTC 승인이 임박 했습니까?](https://github.com/theyapapa/cryptonews/blob/ko/ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent-8afbc50f.md)
 * 2019-05-12 [비트 코인은 $7000 위에 올려 상단 크립 토는 온화한 수정을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-over-7-000-as-top-cryptos-see-mild-correction-4a76be6d.md)
 * 2019-05-12 [프라를 위한 비트 코인: 스타벅스의 암호화 노력은 주류 채택을 위한 길을 개척 할 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/bitcoins-for-frappuccino-will-starbucks-crypto-endeavours-pave-the-way-for-mainstream-adoption-b66ecf08.md)
 * 2019-05-12 [Coinbase 지원 Stablecoin 시작 예약은 베네수엘라에서 ' Venmo 스타일의 응용 프로그램 '을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-backed-stablecoin-startup-reserve-to-launch-venmo-style-app-in-venezuela-6a7d05a9.md)
