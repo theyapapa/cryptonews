@@ -1,3 +1,4 @@
+* 2019-05-13 [BitOasis, UAE 금융 규제 기관으로 사전 승인 확보](https://github.com/theyapapa/cryptonews/blob/ko/bitoasis-secures-preliminary-approval-with-uae-financial-regulator-fd60afb0.md)
 * 2019-05-13 [마이크로소프트는 비트 코인 블록 체인 위에 분산 Id 네트워크를 구축](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-builds-decentralized-identity-network-atop-bitcoin-blockchain-ad8533f4.md)
 * 2019-05-13 [구매자가 15 주요 미국 소매 업체에서 암호화를 보낼 수 있는 flexa 앱 출시](https://github.com/theyapapa/cryptonews/blob/ko/flexa-launches-app-where-shoppers-can-spend-crypto-at-15-major-us-retailers-e81d37f4.md)
 * 2019-05-13 [에 테 리 움 컨소시엄은 마이크로 소프트의 입력으로 새로운 엔터프라이즈 도구를 출시, 인텔](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-consortium-launches-new-enterprise-tools-with-input-from-microsoft-intel-996af433.md)
