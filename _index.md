@@ -1,3 +1,4 @@
+* 2019-05-13 [BitOasis обеспечивает предварительное одобрение с финансовым регулятором ОАЭ](https://github.com/theyapapa/cryptonews/blob/ru/bitoasis-secures-preliminary-approval-with-uae-financial-regulator-fd60afb0.md)
 * 2019-05-13 [Корпорация Майкрософт строит децентрализованную идентичность сети поверх Bitcoin Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-builds-decentralized-identity-network-atop-bitcoin-blockchain-ad8533f4.md)
 * 2019-05-13 [Флекса запускает приложение, где покупатели могут тратить крипто на 15 крупных розничных торговцев США](https://github.com/theyapapa/cryptonews/blob/ru/flexa-launches-app-where-shoppers-can-spend-crypto-at-15-major-us-retailers-e81d37f4.md)
 * 2019-05-13 [Эфириум консорциум запускает новые инструменты предприятия с вкладом от Microsoft, Intel](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-consortium-launches-new-enterprise-tools-with-input-from-microsoft-intel-996af433.md)
