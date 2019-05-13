@@ -1,3 +1,4 @@
+* 2019-05-13 [블록 체인 프로젝트 CEO, 벌금 150K를 지불 하 고, 정착 다음 비즈니스 윤리를 가르쳐](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-project-ceo-to-pay-150k-fine-teach-business-ethics-following-settlement-0a57f2a2.md)
 * 2019-05-13 [BitOasis, UAE 금융 규제 기관으로 사전 승인 확보](https://github.com/theyapapa/cryptonews/blob/ko/bitoasis-secures-preliminary-approval-with-uae-financial-regulator-fd60afb0.md)
 * 2019-05-13 [마이크로소프트는 비트 코인 블록 체인 위에 분산 Id 네트워크를 구축](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-builds-decentralized-identity-network-atop-bitcoin-blockchain-ad8533f4.md)
 * 2019-05-13 [구매자가 15 주요 미국 소매 업체에서 암호화를 보낼 수 있는 flexa 앱 출시](https://github.com/theyapapa/cryptonews/blob/ko/flexa-launches-app-where-shoppers-can-spend-crypto-at-15-major-us-retailers-e81d37f4.md)
