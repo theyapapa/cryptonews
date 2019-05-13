@@ -1,3 +1,4 @@
+* 2019-05-13 [ICE толкает на Баккт Bitcoin опеки лицензия-CFTC утверждение неминуемой?](https://github.com/theyapapa/cryptonews/blob/ru/ice-pushes-for-bakkt-bitcoin-custody-license-cftc-approval-imminent-8afbc50f.md)
 * 2019-05-12 [Bitcoin парит над $7 000 как Top криптографирования см Мягкая коррекция](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-over-7-000-as-top-cryptos-see-mild-correction-4a76be6d.md)
 * 2019-05-12 [Биткойны для Фрапучино: крипто усилия Starbucks ' проложить путь для массового усыновления?](https://github.com/theyapapa/cryptonews/blob/ru/bitcoins-for-frappuccino-will-starbucks-crypto-endeavours-pave-the-way-for-mainstream-adoption-b66ecf08.md)
 * 2019-05-12 [Coinbase поддерживаемая стабильный стартовый резерв для запуска ' Venmo Style App ' в Венесуэле](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-backed-stablecoin-startup-reserve-to-launch-venmo-style-app-in-venezuela-6a7d05a9.md)
