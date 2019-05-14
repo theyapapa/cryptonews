@@ -1,3 +1,4 @@
+* 2019-05-14 [Пульсация ИСГ: Blockchain, крипто будет иметь роль в США техническая независимость](https://github.com/theyapapa/cryptonews/blob/ru/ripple-exec-blockchain-crypto-will-have-a-role-in-us-tech-independence-b1ba2f60.md)
 * 2019-05-14 [Три французских банков присоединиться R3 Corda Blockchain основе кредиты платформы](https://github.com/theyapapa/cryptonews/blob/ru/three-french-banks-join-r3-corda-blockchain-based-loans-platform-96670bad.md)
 * 2019-05-14 [Pfizer Исполнительный: технология "в основном достаточно хорошо", чтобы нарастить производственные Блокчейнов](https://github.com/theyapapa/cryptonews/blob/ru/pfizer-executive-technology-is-basically-good-enough-to-ramp-up-production-blockchains-9bcc2306.md)
 * 2019-05-14 [Samsung в бюджет смартфоны, как сообщается, Криптовалюта и Blockchain особенности](https://github.com/theyapapa/cryptonews/blob/ru/samsungs-budget-smartphones-will-reportedly-have-cryptocurrency-and-blockchain-features-4111f364.md)
