@@ -1,3 +1,4 @@
+* 2019-05-13 [SEC крипто царь: платформы листинг IEOs может столкнуться с регуляторной неприятности](https://github.com/theyapapa/cryptonews/blob/ru/sec-crypto-czar-platforms-listing-ieos-may-face-regulatory-trouble-18994b27.md)
 * 2019-05-13 [Генеральный директор Blockchain проекта платить $150 k штраф, научить бизнес этика после урегулирования](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-project-ceo-to-pay-150k-fine-teach-business-ethics-following-settlement-0a57f2a2.md)
 * 2019-05-13 [BitOasis обеспечивает предварительное одобрение с финансовым регулятором ОАЭ](https://github.com/theyapapa/cryptonews/blob/ru/bitoasis-secures-preliminary-approval-with-uae-financial-regulator-fd60afb0.md)
 * 2019-05-13 [Корпорация Майкрософт строит децентрализованную идентичность сети поверх Bitcoin Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-builds-decentralized-identity-network-atop-bitcoin-blockchain-ad8533f4.md)
