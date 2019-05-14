@@ -1,3 +1,4 @@
+* 2019-05-14 [HTC 데뷔 스마트폰 지갑 ERC 토큰 스왑](https://github.com/theyapapa/cryptonews/blob/ko/htc-debuts-smartphone-in-wallet-erc-20-token-swaps-ed9dd025.md)
 * 2019-05-14 [알고리즘 암호 화폐 거래 회사 GSR 출시 새로운 비트 코인 헤일로 옵션 파생 상품](https://github.com/theyapapa/cryptonews/blob/ko/algorithmic-cryptocurrency-trading-firm-gsr-launches-new-bitcoin-halo-option-derivative-99cc60a0.md)
 * 2019-05-13 [결제 시작은 원장 볼트를 사용 하 여 유지](https://github.com/theyapapa/cryptonews/blob/ko/payments-startup-uphold-to-use-ledger-vault-401d378d.md)
 * 2019-05-13 [SEC 암호화 Czar: IEOs를 나열 하는 플랫폼은 규제 문제에 직면할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-crypto-czar-platforms-listing-ieos-may-face-regulatory-trouble-18994b27.md)
