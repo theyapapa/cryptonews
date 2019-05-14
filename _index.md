@@ -1,3 +1,4 @@
+* 2019-05-14 [HTC дебюты смартфон в-кошелек Коэна-20 токен свопы](https://github.com/theyapapa/cryptonews/blob/ru/htc-debuts-smartphone-in-wallet-erc-20-token-swaps-ed9dd025.md)
 * 2019-05-14 [Алгоритмическая Криптовалюта торговая фирма GSR запускает новый Bitcoin Halo Option производные](https://github.com/theyapapa/cryptonews/blob/ru/algorithmic-cryptocurrency-trading-firm-gsr-launches-new-bitcoin-halo-option-derivative-99cc60a0.md)
 * 2019-05-13 [Запуск платежей отстаивать использовать Леджер Vault](https://github.com/theyapapa/cryptonews/blob/ru/payments-startup-uphold-to-use-ledger-vault-401d378d.md)
 * 2019-05-13 [SEC крипто царь: платформы листинг IEOs может столкнуться с регуляторной неприятности](https://github.com/theyapapa/cryptonews/blob/ru/sec-crypto-czar-platforms-listing-ieos-may-face-regulatory-trouble-18994b27.md)
