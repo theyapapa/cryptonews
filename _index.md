@@ -1,3 +1,4 @@
+* 2019-05-14 [하이퍼 레저는 상호 운용성을 위한 블록 체인 도구 모음을 롤백합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-rolls-out-suite-of-blockchain-tools-for-interoperability-18fc2cf1.md)
 * 2019-05-14 [리플 Exec: 블록 체인, 암호화는 미국 기술 독립성에서 역할을 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripple-exec-blockchain-crypto-will-have-a-role-in-us-tech-independence-b1ba2f60.md)
 * 2019-05-14 [3 개의 프랑스 은행 들이 R3 Corda 블록 체인 기반 대출 플랫폼에 가입](https://github.com/theyapapa/cryptonews/blob/ko/three-french-banks-join-r3-corda-blockchain-based-loans-platform-96670bad.md)
 * 2019-05-14 [화 이자 임원: 기술은 ' 기본적으로 충분히 좋은 ' 생산 블록 체인을 증가](https://github.com/theyapapa/cryptonews/blob/ko/pfizer-executive-technology-is-basically-good-enough-to-ramp-up-production-blockchains-9bcc2306.md)
