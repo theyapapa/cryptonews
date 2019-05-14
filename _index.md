@@ -1,3 +1,4 @@
+* 2019-05-14 [알고리즘 암호 화폐 거래 회사 GSR 출시 새로운 비트 코인 헤일로 옵션 파생 상품](https://github.com/theyapapa/cryptonews/blob/ko/algorithmic-cryptocurrency-trading-firm-gsr-launches-new-bitcoin-halo-option-derivative-99cc60a0.md)
 * 2019-05-13 [결제 시작은 원장 볼트를 사용 하 여 유지](https://github.com/theyapapa/cryptonews/blob/ko/payments-startup-uphold-to-use-ledger-vault-401d378d.md)
 * 2019-05-13 [SEC 암호화 Czar: IEOs를 나열 하는 플랫폼은 규제 문제에 직면할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-crypto-czar-platforms-listing-ieos-may-face-regulatory-trouble-18994b27.md)
 * 2019-05-13 [블록 체인 프로젝트 CEO, 벌금 150K를 지불 하 고, 정착 다음 비즈니스 윤리를 가르쳐](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-project-ceo-to-pay-150k-fine-teach-business-ethics-following-settlement-0a57f2a2.md)
