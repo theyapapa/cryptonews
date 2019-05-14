@@ -1,3 +1,4 @@
+* 2019-05-14 [Гиперледжер выкатывает набор Blockchain Tools для совместимости](https://github.com/theyapapa/cryptonews/blob/ru/hyperledger-rolls-out-suite-of-blockchain-tools-for-interoperability-18fc2cf1.md)
 * 2019-05-14 [Пульсация ИСГ: Blockchain, крипто будет иметь роль в США техническая независимость](https://github.com/theyapapa/cryptonews/blob/ru/ripple-exec-blockchain-crypto-will-have-a-role-in-us-tech-independence-b1ba2f60.md)
 * 2019-05-14 [Три французских банков присоединиться R3 Corda Blockchain основе кредиты платформы](https://github.com/theyapapa/cryptonews/blob/ru/three-french-banks-join-r3-corda-blockchain-based-loans-platform-96670bad.md)
 * 2019-05-14 [Pfizer Исполнительный: технология "в основном достаточно хорошо", чтобы нарастить производственные Блокчейнов](https://github.com/theyapapa/cryptonews/blob/ru/pfizer-executive-technology-is-basically-good-enough-to-ramp-up-production-blockchains-9bcc2306.md)
