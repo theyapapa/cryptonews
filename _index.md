@@ -1,3 +1,4 @@
+* 2019-05-14 [Pfizer Исполнительный: технология "в основном достаточно хорошо", чтобы нарастить производственные Блокчейнов](https://github.com/theyapapa/cryptonews/blob/ru/pfizer-executive-technology-is-basically-good-enough-to-ramp-up-production-blockchains-9bcc2306.md)
 * 2019-05-14 [Samsung в бюджет смартфоны, как сообщается, Криптовалюта и Blockchain особенности](https://github.com/theyapapa/cryptonews/blob/ru/samsungs-budget-smartphones-will-reportedly-have-cryptocurrency-and-blockchain-features-4111f364.md)
 * 2019-05-14 [HTC дебюты смартфон в-кошелек Коэна-20 токен свопы](https://github.com/theyapapa/cryptonews/blob/ru/htc-debuts-smartphone-in-wallet-erc-20-token-swaps-ed9dd025.md)
 * 2019-05-14 [Алгоритмическая Криптовалюта торговая фирма GSR запускает новый Bitcoin Halo Option производные](https://github.com/theyapapa/cryptonews/blob/ru/algorithmic-cryptocurrency-trading-firm-gsr-launches-new-bitcoin-halo-option-derivative-99cc60a0.md)
