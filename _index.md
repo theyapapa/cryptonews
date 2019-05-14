@@ -1,3 +1,4 @@
+* 2019-05-13 [SEC Crypto czar: las plataformas que enumeran IEOs pueden enfrentar problemas regulatorios](https://github.com/theyapapa/cryptonews/blob/es/sec-crypto-czar-platforms-listing-ieos-may-face-regulatory-trouble-18994b27.md)
 * 2019-05-13 [Blockchain Project CEO para pagar $150K multa, enseñar ética de negocios después de la liquidación](https://github.com/theyapapa/cryptonews/blob/es/blockchain-project-ceo-to-pay-150k-fine-teach-business-ethics-following-settlement-0a57f2a2.md)
 * 2019-05-13 [BitOasis asegura la aprobación preliminar con el regulador financiero de los EAU](https://github.com/theyapapa/cryptonews/blob/es/bitoasis-secures-preliminary-approval-with-uae-financial-regulator-fd60afb0.md)
 * 2019-05-13 [Microsoft construye la red de identidades descentralizada encima de Bitcoin blockchain](https://github.com/theyapapa/cryptonews/blob/es/microsoft-builds-decentralized-identity-network-atop-bitcoin-blockchain-ad8533f4.md)
