@@ -1,3 +1,4 @@
+* 2019-05-14 [화 이자 임원: 기술은 ' 기본적으로 충분히 좋은 ' 생산 블록 체인을 증가](https://github.com/theyapapa/cryptonews/blob/ko/pfizer-executive-technology-is-basically-good-enough-to-ramp-up-production-blockchains-9bcc2306.md)
 * 2019-05-14 [삼성 전자의 예산 스마트 폰은 소문에 하면 암호 화폐 및 블록 체인 기능을가지고](https://github.com/theyapapa/cryptonews/blob/ko/samsungs-budget-smartphones-will-reportedly-have-cryptocurrency-and-blockchain-features-4111f364.md)
 * 2019-05-14 [HTC 데뷔 스마트폰 지갑 ERC 토큰 스왑](https://github.com/theyapapa/cryptonews/blob/ko/htc-debuts-smartphone-in-wallet-erc-20-token-swaps-ed9dd025.md)
 * 2019-05-14 [알고리즘 암호 화폐 거래 회사 GSR 출시 새로운 비트 코인 헤일로 옵션 파생 상품](https://github.com/theyapapa/cryptonews/blob/ko/algorithmic-cryptocurrency-trading-firm-gsr-launches-new-bitcoin-halo-option-derivative-99cc60a0.md)
