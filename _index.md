@@ -1,3 +1,4 @@
+* 2019-05-14 [La empresa de comercio de Criptomonedas algorítmica GSR lanza la nueva opción derivada de Bitcoin Halo](https://github.com/theyapapa/cryptonews/blob/es/algorithmic-cryptocurrency-trading-firm-gsr-launches-new-bitcoin-halo-option-derivative-99cc60a0.md)
 * 2019-05-13 [El inicio de pagos Uphold para usar Ledger Vault](https://github.com/theyapapa/cryptonews/blob/es/payments-startup-uphold-to-use-ledger-vault-401d378d.md)
 * 2019-05-13 [SEC Crypto czar: las plataformas que enumeran IEOs pueden enfrentar problemas regulatorios](https://github.com/theyapapa/cryptonews/blob/es/sec-crypto-czar-platforms-listing-ieos-may-face-regulatory-trouble-18994b27.md)
 * 2019-05-13 [Blockchain Project CEO para pagar $150K multa, enseñar ética de negocios después de la liquidación](https://github.com/theyapapa/cryptonews/blob/es/blockchain-project-ceo-to-pay-150k-fine-teach-business-ethics-following-settlement-0a57f2a2.md)
