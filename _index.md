@@ -1,3 +1,4 @@
+* 2019-05-15 [고급 패션 브랜드 Alyx 공급 체인 추적에 대 한 Iota의 DLT를 사용 하는](https://github.com/theyapapa/cryptonews/blob/ko/luxury-fashion-brand-alyx-to-use-iotas-dlt-for-supply-chain-tracking-1e082691.md)
 * 2019-05-15 [업그레이드가 완료 되 면 binance가 5 월 15 일 거래 재실행을 확인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-confirms-trading-relaunch-for-may-15-as-upgrade-completes-ba6058c6.md)
 * 2019-05-15 [이 베이는 암호화 이벤트에서 광고에도 불구 하 고, 암호화를 수락 시작 소문 거부](https://github.com/theyapapa/cryptonews/blob/ko/ebay-denies-rumors-it-will-start-accepting-crypto-despite-advertising-at-crypto-event-918e3c23.md)
 * 2019-05-15 [해킹 된 뉴질랜드 거래소 크립 토 피아, Liquidators, 거래 정지 임명](https://github.com/theyapapa/cryptonews/blob/ko/hacked-new-zealand-exchange-cryptopia-appoints-liquidators-trading-suspended-08c88c63.md)
