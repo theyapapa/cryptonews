@@ -1,3 +1,4 @@
+* 2019-05-15 [해킹 된 뉴질랜드 거래소 크립 토 피아, Liquidators, 거래 정지 임명](https://github.com/theyapapa/cryptonews/blob/ko/hacked-new-zealand-exchange-cryptopia-appoints-liquidators-trading-suspended-08c88c63.md)
 * 2019-05-14 [독일 국가, 유럽 블록 체인 연구소 설립 계획 발표](https://github.com/theyapapa/cryptonews/blob/ko/german-state-announces-plan-to-establish-european-blockchain-institute-69d9ace2.md)
 * 2019-05-14 [하이퍼 레저는 상호 운용성을 위한 블록 체인 도구 모음을 롤백합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-rolls-out-suite-of-blockchain-tools-for-interoperability-18fc2cf1.md)
 * 2019-05-14 [리플 Exec: 블록 체인, 암호화는 미국 기술 독립성에서 역할을 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ripple-exec-blockchain-crypto-will-have-a-role-in-us-tech-independence-b1ba2f60.md)
