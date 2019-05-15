@@ -1,3 +1,4 @@
+* 2019-05-15 [이 베이는 암호화 이벤트에서 광고에도 불구 하 고, 암호화를 수락 시작 소문 거부](https://github.com/theyapapa/cryptonews/blob/ko/ebay-denies-rumors-it-will-start-accepting-crypto-despite-advertising-at-crypto-event-918e3c23.md)
 * 2019-05-15 [해킹 된 뉴질랜드 거래소 크립 토 피아, Liquidators, 거래 정지 임명](https://github.com/theyapapa/cryptonews/blob/ko/hacked-new-zealand-exchange-cryptopia-appoints-liquidators-trading-suspended-08c88c63.md)
 * 2019-05-14 [독일 국가, 유럽 블록 체인 연구소 설립 계획 발표](https://github.com/theyapapa/cryptonews/blob/ko/german-state-announces-plan-to-establish-european-blockchain-institute-69d9ace2.md)
 * 2019-05-14 [하이퍼 레저는 상호 운용성을 위한 블록 체인 도구 모음을 롤백합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-rolls-out-suite-of-blockchain-tools-for-interoperability-18fc2cf1.md)
