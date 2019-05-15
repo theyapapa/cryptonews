@@ -1,3 +1,4 @@
+* 2019-05-15 [Binance confirma el relanzamiento del comercio para el 15 de mayo como actualización completa](https://github.com/theyapapa/cryptonews/blob/es/binance-confirms-trading-relaunch-for-may-15-as-upgrade-completes-ba6058c6.md)
 * 2019-05-15 [EBay niega rumores comenzará a aceptar Crypto, a pesar de la publicidad en el evento Crypto](https://github.com/theyapapa/cryptonews/blob/es/ebay-denies-rumors-it-will-start-accepting-crypto-despite-advertising-at-crypto-event-918e3c23.md)
 * 2019-05-15 [Hackeado Nueva Zelanda Exchange Cryptopia Appoints liquidadores, comercio suspendido](https://github.com/theyapapa/cryptonews/blob/es/hacked-new-zealand-exchange-cryptopia-appoints-liquidators-trading-suspended-08c88c63.md)
 * 2019-05-14 [El estado alemán anuncia el plan para establecer el European blockchain Institute](https://github.com/theyapapa/cryptonews/blob/es/german-state-announces-plan-to-establish-european-blockchain-institute-69d9ace2.md)
