@@ -1,3 +1,4 @@
+* 2019-05-15 [EBay niega rumores comenzará a aceptar Crypto, a pesar de la publicidad en el evento Crypto](https://github.com/theyapapa/cryptonews/blob/es/ebay-denies-rumors-it-will-start-accepting-crypto-despite-advertising-at-crypto-event-918e3c23.md)
 * 2019-05-15 [Hackeado Nueva Zelanda Exchange Cryptopia Appoints liquidadores, comercio suspendido](https://github.com/theyapapa/cryptonews/blob/es/hacked-new-zealand-exchange-cryptopia-appoints-liquidators-trading-suspended-08c88c63.md)
 * 2019-05-14 [El estado alemán anuncia el plan para establecer el European blockchain Institute](https://github.com/theyapapa/cryptonews/blob/es/german-state-announces-plan-to-establish-european-blockchain-institute-69d9ace2.md)
 * 2019-05-14 [Hyperledger roll out Suite de herramientas blockchain para la interoperabilidad](https://github.com/theyapapa/cryptonews/blob/es/hyperledger-rolls-out-suite-of-blockchain-tools-for-interoperability-18fc2cf1.md)
