@@ -1,3 +1,4 @@
+* 2019-05-15 [EBay отрицает слухи он начнет принимать крипто, несмотря на рекламу на крипто событие](https://github.com/theyapapa/cryptonews/blob/ru/ebay-denies-rumors-it-will-start-accepting-crypto-despite-advertising-at-crypto-event-918e3c23.md)
 * 2019-05-15 [Взломали Новой Зеландии Exchange Криптопия назначил ликвидаторов, торговля приостановлено](https://github.com/theyapapa/cryptonews/blob/ru/hacked-new-zealand-exchange-cryptopia-appoints-liquidators-trading-suspended-08c88c63.md)
 * 2019-05-14 [Немецкое государство объявляет план создания Европейского института Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/german-state-announces-plan-to-establish-european-blockchain-institute-69d9ace2.md)
 * 2019-05-14 [Гиперледжер выкатывает набор Blockchain Tools для совместимости](https://github.com/theyapapa/cryptonews/blob/ru/hyperledger-rolls-out-suite-of-blockchain-tools-for-interoperability-18fc2cf1.md)
