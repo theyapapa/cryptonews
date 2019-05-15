@@ -1,3 +1,4 @@
+* 2019-05-15 [Fidelity Investments busca talento para su división de activos digitales](https://github.com/theyapapa/cryptonews/blob/es/fidelity-investments-seeks-talent-for-its-digital-assets-division-25b17b3a.md)
 * 2019-05-15 [Brian Armstrong: Coinbase custodia tiene $1 mil millones de Crypto bajo administración](https://github.com/theyapapa/cryptonews/blob/es/brian-armstrong-coinbase-custody-has-1-billion-of-crypto-under-management-57d259db.md)
 * 2019-05-15 [Bitcoin cae bajo $8.000 de nuevo como mercado de valores de Estados Unidos ve ganancias discretas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-8-000-again-as-us-stock-market-sees-discrete-gains-1fdebf9c.md)
 * 2019-05-15 [Marca de moda de lujo Alyx para utilizar DLT de Iota para el seguimiento de la cadena de suministro](https://github.com/theyapapa/cryptonews/blob/es/luxury-fashion-brand-alyx-to-use-iotas-dlt-for-supply-chain-tracking-1e082691.md)
