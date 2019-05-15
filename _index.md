@@ -1,3 +1,4 @@
+* 2019-05-15 [Huobi 기관 투자자를 위한 OTC 데스크 출시](https://github.com/theyapapa/cryptonews/blob/ko/huobi-launches-otc-desk-for-institutional-investors-fe48e2e0.md)
 * 2019-05-15 [피델 리 티 투자는 디지털 자산 사업부를 위한 인재를 찾고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/fidelity-investments-seeks-talent-for-its-digital-assets-division-25b17b3a.md)
 * 2019-05-15 [브라이언 암스트롱: Coinbase 양육은 관리 하에 암호화의 $10억이 있다](https://github.com/theyapapa/cryptonews/blob/ko/brian-armstrong-coinbase-custody-has-1-billion-of-crypto-under-management-57d259db.md)
 * 2019-05-15 [비트 코인은 미국 주식 시장이 이산 이득을 보는 것과 같이 다시 $8000에 빠진다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-8-000-again-as-us-stock-market-sees-discrete-gains-1fdebf9c.md)
