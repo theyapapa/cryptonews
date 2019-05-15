@@ -1,3 +1,4 @@
+* 2019-05-15 [Bitcoin падает под $8 000 снова, как американский фондовый рынок видит дискретные доходы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-8-000-again-as-us-stock-market-sees-discrete-gains-1fdebf9c.md)
 * 2019-05-15 [Роскошный модный бренд Аликс использовать йота DLT для отслеживания цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/luxury-fashion-brand-alyx-to-use-iotas-dlt-for-supply-chain-tracking-1e082691.md)
 * 2019-05-15 [Binance подтверждает торговая возобновить на 15 мая, как обновление завершается](https://github.com/theyapapa/cryptonews/blob/ru/binance-confirms-trading-relaunch-for-may-15-as-upgrade-completes-ba6058c6.md)
 * 2019-05-15 [EBay отрицает слухи он начнет принимать крипто, несмотря на рекламу на крипто событие](https://github.com/theyapapa/cryptonews/blob/ru/ebay-denies-rumors-it-will-start-accepting-crypto-despite-advertising-at-crypto-event-918e3c23.md)
