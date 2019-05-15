@@ -1,3 +1,4 @@
+* 2019-05-14 [El estado alemán anuncia el plan para establecer el European blockchain Institute](https://github.com/theyapapa/cryptonews/blob/es/german-state-announces-plan-to-establish-european-blockchain-institute-69d9ace2.md)
 * 2019-05-14 [Hyperledger roll out Suite de herramientas blockchain para la interoperabilidad](https://github.com/theyapapa/cryptonews/blob/es/hyperledger-rolls-out-suite-of-blockchain-tools-for-interoperability-18fc2cf1.md)
 * 2019-05-14 [Ripple Exec: blockchain, Crypto tendrá un papel en la independencia tecnológica de Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/ripple-exec-blockchain-crypto-will-have-a-role-in-us-tech-independence-b1ba2f60.md)
 * 2019-05-14 [Tres bancos franceses se unen a la plataforma de préstamos basados en blockchain de R3 Corda](https://github.com/theyapapa/cryptonews/blob/es/three-french-banks-join-r3-corda-blockchain-based-loans-platform-96670bad.md)
