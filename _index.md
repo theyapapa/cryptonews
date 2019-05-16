@@ -1,3 +1,4 @@
+* 2019-05-16 [Interrupción de nodo estelar causa congelación de transacción completa de dos horas](https://github.com/theyapapa/cryptonews/blob/es/stellar-node-outage-causes-two-hour-complete-transaction-freeze-20f82347.md)
 * 2019-05-15 [El CEO de polychain dice que la blockchain de Facebook Rumored Stablecoin debe ser pública](https://github.com/theyapapa/cryptonews/blob/es/polychain-ceo-says-facebooks-rumored-stablecoin-blockchain-should-be-public-8a9ab7e7.md)
 * 2019-05-15 [Crypto Exchange SEED CX añade soporte para tres Stablecoins](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-seed-cx-adds-support-for-three-stablecoins-38331587.md)
 * 2019-05-15 [Huobi lanza OTC desk para inversores institucionales](https://github.com/theyapapa/cryptonews/blob/es/huobi-launches-otc-desk-for-institutional-investors-fe48e2e0.md)
