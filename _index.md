@@ -1,3 +1,4 @@
+* 2019-05-16 [2020 президентские надежды Ян говорит Blockchain, крипто должно быть большая часть США будущее](https://github.com/theyapapa/cryptonews/blob/ru/2020-presidential-hopeful-yang-says-blockchain-crypto-must-be-big-part-of-us-future-b16a8541.md)
 * 2019-05-16 [Звёздный сбой узла вызывает два часа полного замораживания транзакций](https://github.com/theyapapa/cryptonews/blob/ru/stellar-node-outage-causes-two-hour-complete-transaction-freeze-20f82347.md)
 * 2019-05-15 [Polychain Генеральный директор говорит Facebook по слухам Стаблекин Blockchain должна быть публичной](https://github.com/theyapapa/cryptonews/blob/ru/polychain-ceo-says-facebooks-rumored-stablecoin-blockchain-should-be-public-8a9ab7e7.md)
 * 2019-05-15 [Криптовалютный обмен семенной ЦС добавляет поддержку для трех Стаблеинов](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-seed-cx-adds-support-for-three-stablecoins-38331587.md)
