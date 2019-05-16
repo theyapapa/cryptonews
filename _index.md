@@ -1,3 +1,4 @@
+* 2019-05-16 [La firma de los cuatro grandes KPMG identifica las cuatro mejores habilidades requeridas para la carrera blockchain](https://github.com/theyapapa/cryptonews/blob/es/big-four-firm-kpmg-identifies-top-four-skills-required-for-blockchain-career-0c05cce3.md)
 * 2019-05-16 [Informe: Coinbase negocia la adquisición del negocio de custodia de Bitcoin de Xapo](https://github.com/theyapapa/cryptonews/blob/es/report-coinbase-negotiates-acquisition-of-xapos-bitcoin-custody-business-2a331d9b.md)
 * 2019-05-16 [Bots comerciales: ¿son una fuerza para el bien?](https://github.com/theyapapa/cryptonews/blob/es/trading-bots-are-they-a-force-for-good-efab9937.md)
 * 2019-05-16 [Pagando el precio: los comerciantes de WeChat prohibidos de los pagos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/paying-the-price-wechat-merchants-banned-from-crypto-payments-9b1453a2.md)
