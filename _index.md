@@ -1,3 +1,4 @@
+* 2019-05-16 [Доклад: Coinbase ведет переговоры о приобретении бизнеса Bitcoin под стражей Xапо](https://github.com/theyapapa/cryptonews/blob/ru/report-coinbase-negotiates-acquisition-of-xapos-bitcoin-custody-business-2a331d9b.md)
 * 2019-05-16 [Торговые Боты: являются ли они силой добра?](https://github.com/theyapapa/cryptonews/blob/ru/trading-bots-are-they-a-force-for-good-efab9937.md)
 * 2019-05-16 [Оплата Цена: WeChat торговцы запретили Криптоплатежи](https://github.com/theyapapa/cryptonews/blob/ru/paying-the-price-wechat-merchants-banned-from-crypto-payments-9b1453a2.md)
 * 2019-05-16 [Крипто шахтеры доминируют Топ 10 список самых плодовитых вредоносных угроз](https://github.com/theyapapa/cryptonews/blob/ru/crypto-miners-dominate-top-10-list-of-most-prolific-malware-threats-a0ed0fa3.md)
