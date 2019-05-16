@@ -1,3 +1,4 @@
+* 2019-05-15 [Crypto Exchange SEED CX añade soporte para tres Stablecoins](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-seed-cx-adds-support-for-three-stablecoins-38331587.md)
 * 2019-05-15 [Huobi lanza OTC desk para inversores institucionales](https://github.com/theyapapa/cryptonews/blob/es/huobi-launches-otc-desk-for-institutional-investors-fe48e2e0.md)
 * 2019-05-15 [Fidelity Investments busca talento para su división de activos digitales](https://github.com/theyapapa/cryptonews/blob/es/fidelity-investments-seeks-talent-for-its-digital-assets-division-25b17b3a.md)
 * 2019-05-15 [Brian Armstrong: Coinbase custodia tiene $1 mil millones de Crypto bajo administración](https://github.com/theyapapa/cryptonews/blob/es/brian-armstrong-coinbase-custody-has-1-billion-of-crypto-under-management-57d259db.md)
