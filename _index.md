@@ -1,3 +1,4 @@
+* 2019-05-16 [큰 네 회사 KPMG 블록 체인 경력에 필요한 상위 4 개 기술을 식별](https://github.com/theyapapa/cryptonews/blob/ko/big-four-firm-kpmg-identifies-top-four-skills-required-for-blockchain-career-0c05cce3.md)
 * 2019-05-16 [보고서: Coinbase는 Xapo의 비트 코인 양육 권 사업 인수 협상](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-negotiates-acquisition-of-xapos-bitcoin-custody-business-2a331d9b.md)
 * 2019-05-16 [트레이딩 봇: 그들은 좋은 힘 입니까?](https://github.com/theyapapa/cryptonews/blob/ko/trading-bots-are-they-a-force-for-good-efab9937.md)
 * 2019-05-16 [가격을 지불: 암호화 지불에서 금지 위 챗 상인](https://github.com/theyapapa/cryptonews/blob/ko/paying-the-price-wechat-merchants-banned-from-crypto-payments-9b1453a2.md)
