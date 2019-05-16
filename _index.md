@@ -1,3 +1,4 @@
+* 2019-05-16 [2020 대통령 희망 양 블록 체인, 암호화는 미국 미래의 큰 부분 이어야 합니다](https://github.com/theyapapa/cryptonews/blob/ko/2020-presidential-hopeful-yang-says-blockchain-crypto-must-be-big-part-of-us-future-b16a8541.md)
 * 2019-05-16 [스텔라 노드 중단으로 인해 2 시간 전체 트랜잭션 동결이 발생 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/stellar-node-outage-causes-two-hour-complete-transaction-freeze-20f82347.md)
 * 2019-05-15 [폴 리 체인 CEO는 페이스 북의 소문이 Stablecoin 블록 체인은 공개 해야 말한다](https://github.com/theyapapa/cryptonews/blob/ko/polychain-ceo-says-facebooks-rumored-stablecoin-blockchain-should-be-public-8a9ab7e7.md)
 * 2019-05-15 [암호화 교환 종자 CX는 세 가지 Stablecin에 대 한 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-seed-cx-adds-support-for-three-stablecoins-38331587.md)
