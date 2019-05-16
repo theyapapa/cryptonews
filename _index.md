@@ -1,3 +1,4 @@
+* 2019-05-15 [암호화 교환 종자 CX는 세 가지 Stablecin에 대 한 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-seed-cx-adds-support-for-three-stablecoins-38331587.md)
 * 2019-05-15 [Huobi 기관 투자자를 위한 OTC 데스크 출시](https://github.com/theyapapa/cryptonews/blob/ko/huobi-launches-otc-desk-for-institutional-investors-fe48e2e0.md)
 * 2019-05-15 [피델 리 티 투자는 디지털 자산 사업부를 위한 인재를 찾고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/fidelity-investments-seeks-talent-for-its-digital-assets-division-25b17b3a.md)
 * 2019-05-15 [브라이언 암스트롱: Coinbase 양육은 관리 하에 암호화의 $10억이 있다](https://github.com/theyapapa/cryptonews/blob/ko/brian-armstrong-coinbase-custody-has-1-billion-of-crypto-under-management-57d259db.md)
