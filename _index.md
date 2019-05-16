@@ -1,3 +1,4 @@
+* 2019-05-15 [Криптовалютный обмен семенной ЦС добавляет поддержку для трех Стаблеинов](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-seed-cx-adds-support-for-three-stablecoins-38331587.md)
 * 2019-05-15 [Хуоби запускает внебиржевой стол для институциональных инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/huobi-launches-otc-desk-for-institutional-investors-fe48e2e0.md)
 * 2019-05-15 [Верность инвестиции ищет талант для своих цифровых активов отдела](https://github.com/theyapapa/cryptonews/blob/ru/fidelity-investments-seeks-talent-for-its-digital-assets-division-25b17b3a.md)
 * 2019-05-15 [Брайан Армстронг: Coinbase под стражей имеет $1 000 000 000 криптографической под управлением](https://github.com/theyapapa/cryptonews/blob/ru/brian-armstrong-coinbase-custody-has-1-billion-of-crypto-under-management-57d259db.md)
