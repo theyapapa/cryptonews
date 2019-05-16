@@ -1,3 +1,4 @@
+* 2019-05-16 [Bots comerciales: ¿son una fuerza para el bien?](https://github.com/theyapapa/cryptonews/blob/es/trading-bots-are-they-a-force-for-good-efab9937.md)
 * 2019-05-16 [Pagando el precio: los comerciantes de WeChat prohibidos de los pagos criptográficos](https://github.com/theyapapa/cryptonews/blob/es/paying-the-price-wechat-merchants-banned-from-crypto-payments-9b1453a2.md)
 * 2019-05-16 [Mineros cripto dominan Top 10 lista de amenazas de malware más prolíficos](https://github.com/theyapapa/cryptonews/blob/es/crypto-miners-dominate-top-10-list-of-most-prolific-malware-threats-a0ed0fa3.md)
 * 2019-05-16 [2020 la esperanza presidencial Yang dice blockchain, Crypto debe ser gran parte del futuro de Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/2020-presidential-hopeful-yang-says-blockchain-crypto-must-be-big-part-of-us-future-b16a8541.md)
