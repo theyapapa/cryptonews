@@ -1,3 +1,4 @@
+* 2019-05-17 [Корнелл уни в Эмин Gun Сирер дебютов Ава Blockchain после $6 000 000 инвестиции](https://github.com/theyapapa/cryptonews/blob/ru/cornell-unis-emin-gun-sirer-debuts-ava-blockchain-following-6-million-investment-0915b5ac.md)
 * 2019-05-17 [Спорт Blockchain венчурный Chiliz объявляет о стратегическом партнерстве с сетью Binance](https://github.com/theyapapa/cryptonews/blob/ru/sports-blockchain-venture-chiliz-announces-strategic-partnership-with-binance-chain-89418430.md)
 * 2019-05-17 [Bosch на Блокчейне и IoT: "мы не можем принять" страх как реакция на инновации](https://github.com/theyapapa/cryptonews/blob/ru/bosch-on-blockchain-and-iot-we-cannot-accept-fear-as-reaction-to-innovation-282c174e.md)
 * 2019-05-16 [Верховный суд Нью-Йорка гранты Bitfinex ходатайство изменить судебный запрет](https://github.com/theyapapa/cryptonews/blob/ru/new-york-supreme-court-grants-bitfinexs-motion-to-modify-injunction-ed392129.md)
