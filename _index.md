@@ -1,3 +1,4 @@
+* 2019-05-17 [Спорт Blockchain венчурный Chiliz объявляет о стратегическом партнерстве с сетью Binance](https://github.com/theyapapa/cryptonews/blob/ru/sports-blockchain-venture-chiliz-announces-strategic-partnership-with-binance-chain-89418430.md)
 * 2019-05-17 [Bosch на Блокчейне и IoT: "мы не можем принять" страх как реакция на инновации](https://github.com/theyapapa/cryptonews/blob/ru/bosch-on-blockchain-and-iot-we-cannot-accept-fear-as-reaction-to-innovation-282c174e.md)
 * 2019-05-16 [Верховный суд Нью-Йорка гранты Bitfinex ходатайство изменить судебный запрет](https://github.com/theyapapa/cryptonews/blob/ru/new-york-supreme-court-grants-bitfinexs-motion-to-modify-injunction-ed392129.md)
 * 2019-05-16 [Большая четверка фирма KPMG определяет лучшие четыре навыки, необходимые для Blockchain карьера](https://github.com/theyapapa/cryptonews/blob/ru/big-four-firm-kpmg-identifies-top-four-skills-required-for-blockchain-career-0c05cce3.md)
