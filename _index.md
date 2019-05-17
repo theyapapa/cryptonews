@@ -1,3 +1,4 @@
+* 2019-05-17 [페이스 북은 스위스에 새로운 핀 테크 회사를 등록](https://github.com/theyapapa/cryptonews/blob/ko/facebook-registers-new-fintech-firm-in-switzerland-f5981098.md)
 * 2019-05-17 [Bitstamp에 대 한 $250 백만 청산에 큰 BTC 판매 리드 후 비트 스탬프 조사를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitstamp-starts-investigation-after-large-btc-sell-leads-to-250-mln-liquidated-on-bitmex-c3f86c77.md)
 * 2019-05-17 [코넬 니의 민 총 Sirer 데뷔 $600만 투자 후에 Ava 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/cornell-unis-emin-gun-sirer-debuts-ava-blockchain-following-6-million-investment-0915b5ac.md)
 * 2019-05-17 [스포츠 블록 체인 벤처 칠 리즈, Binance 체인과의 전략적 파트너십 발표](https://github.com/theyapapa/cryptonews/blob/ko/sports-blockchain-venture-chiliz-announces-strategic-partnership-with-binance-chain-89418430.md)
