@@ -1,3 +1,4 @@
+* 2019-05-17 [Facebook registra nueva empresa FinTech en Suiza](https://github.com/theyapapa/cryptonews/blob/es/facebook-registers-new-fintech-firm-in-switzerland-f5981098.md)
 * 2019-05-17 [Bitstamp comienza la investigación después de grandes BTC venta conduce a $250 mln liquidado en BitMEX](https://github.com/theyapapa/cryptonews/blob/es/bitstamp-starts-investigation-after-large-btc-sell-leads-to-250-mln-liquidated-on-bitmex-c3f86c77.md)
 * 2019-05-17 [El Emin Gun Sirer de Cornell UNI debuta Ava blockchain tras $6 millones inversión](https://github.com/theyapapa/cryptonews/blob/es/cornell-unis-emin-gun-sirer-debuts-ava-blockchain-following-6-million-investment-0915b5ac.md)
 * 2019-05-17 [Sports blockchain Venture Chiliz anuncia la asociación estratégica con la cadena Binance](https://github.com/theyapapa/cryptonews/blob/es/sports-blockchain-venture-chiliz-announces-strategic-partnership-with-binance-chain-89418430.md)
