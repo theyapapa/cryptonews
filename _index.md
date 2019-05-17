@@ -1,3 +1,4 @@
+* 2019-05-17 [블록 체인 및 IoT에 대 한 보쉬: ' 우리는 ' 혁신에 대 한 반응으로 두려움을 받아들일 수 없다.](https://github.com/theyapapa/cryptonews/blob/ko/bosch-on-blockchain-and-iot-we-cannot-accept-fear-as-reaction-to-innovation-282c174e.md)
 * 2019-05-16 [뉴욕 대법원,이 행 금지를 수정 하는 Bitfinex의 움직임을 보조금](https://github.com/theyapapa/cryptonews/blob/ko/new-york-supreme-court-grants-bitfinexs-motion-to-modify-injunction-ed392129.md)
 * 2019-05-16 [큰 네 회사 KPMG 블록 체인 경력에 필요한 상위 4 개 기술을 식별](https://github.com/theyapapa/cryptonews/blob/ko/big-four-firm-kpmg-identifies-top-four-skills-required-for-blockchain-career-0c05cce3.md)
 * 2019-05-16 [보고서: Coinbase는 Xapo의 비트 코인 양육 권 사업 인수 협상](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-negotiates-acquisition-of-xapos-bitcoin-custody-business-2a331d9b.md)
