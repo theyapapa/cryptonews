@@ -1,3 +1,4 @@
+* 2019-05-17 [Bosch en blockchain y IoT: ' no podemos aceptar ' el miedo como reacción a la innovación](https://github.com/theyapapa/cryptonews/blob/es/bosch-on-blockchain-and-iot-we-cannot-accept-fear-as-reaction-to-innovation-282c174e.md)
 * 2019-05-16 [La Corte Suprema de Nueva York otorga la moción para modificar el requerimiento de Bitfinex](https://github.com/theyapapa/cryptonews/blob/es/new-york-supreme-court-grants-bitfinexs-motion-to-modify-injunction-ed392129.md)
 * 2019-05-16 [La firma de los cuatro grandes KPMG identifica las cuatro mejores habilidades requeridas para la carrera blockchain](https://github.com/theyapapa/cryptonews/blob/es/big-four-firm-kpmg-identifies-top-four-skills-required-for-blockchain-career-0c05cce3.md)
 * 2019-05-16 [Informe: Coinbase negocia la adquisición del negocio de custodia de Bitcoin de Xapo](https://github.com/theyapapa/cryptonews/blob/es/report-coinbase-negotiates-acquisition-of-xapos-bitcoin-custody-business-2a331d9b.md)
