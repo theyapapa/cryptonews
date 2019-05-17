@@ -1,3 +1,4 @@
+* 2019-05-17 [코넬 니의 민 총 Sirer 데뷔 $600만 투자 후에 Ava 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/cornell-unis-emin-gun-sirer-debuts-ava-blockchain-following-6-million-investment-0915b5ac.md)
 * 2019-05-17 [스포츠 블록 체인 벤처 칠 리즈, Binance 체인과의 전략적 파트너십 발표](https://github.com/theyapapa/cryptonews/blob/ko/sports-blockchain-venture-chiliz-announces-strategic-partnership-with-binance-chain-89418430.md)
 * 2019-05-17 [블록 체인 및 IoT에 대 한 보쉬: ' 우리는 ' 혁신에 대 한 반응으로 두려움을 받아들일 수 없다.](https://github.com/theyapapa/cryptonews/blob/ko/bosch-on-blockchain-and-iot-we-cannot-accept-fear-as-reaction-to-innovation-282c174e.md)
 * 2019-05-16 [뉴욕 대법원,이 행 금지를 수정 하는 Bitfinex의 움직임을 보조금](https://github.com/theyapapa/cryptonews/blob/ko/new-york-supreme-court-grants-bitfinexs-motion-to-modify-injunction-ed392129.md)
