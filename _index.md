@@ -1,3 +1,4 @@
+* 2019-05-18 [Blockchain как ключ к цифровому будущему Вены — интервью с Ульрике Хумер, ИТ-директором в Вене, Австрия](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-as-key-to-viennas-digital-future-interview-with-ulrike-huemer-cio-of-vienna-austria-d64305bd.md)
 * 2019-05-18 [В долгосрочном плане-как новая долгосрочная фондовая биржа может помочь Криптоиндустрии](https://github.com/theyapapa/cryptonews/blob/ru/in-for-the-long-haul-how-the-new-long-term-stock-exchange-can-help-the-crypto-industry-b93b1187.md)
 * 2019-05-17 [Goxtrade рекламирует независимый персонал и вводящую в заблуждение контактную информацию](https://github.com/theyapapa/cryptonews/blob/ru/goxtrade-advertises-unaffiliated-staff-and-misleading-contact-information-86289568.md)
 * 2019-05-17 [Coinbase Заработайте теперь имеющееся к публике внутри над 100 странами](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-earn-now-available-to-the-public-in-over-100-countries-c44e646d.md)
