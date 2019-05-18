@@ -1,3 +1,4 @@
+* 2019-05-17 [Coinbase Заработайте теперь имеющееся к публике внутри над 100 странами](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-earn-now-available-to-the-public-in-over-100-countries-c44e646d.md)
 * 2019-05-17 [Bitcoin, Эфириум, пульсация, Bitcoin Cash, Лайткоины, EOS, Binance монета, Звездная, Кардано, трон: анализ цен 17 мая](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-17-743c3cbc.md)
 * 2019-05-17 [Facebook регистрирует новую Финтехфирму в Швейцарии](https://github.com/theyapapa/cryptonews/blob/ru/facebook-registers-new-fintech-firm-in-switzerland-f5981098.md)
 * 2019-05-17 [Битштемпель начинает расследование после крупного BTC продаем приводит к $250 млн ликвидировано на Bitмекс](https://github.com/theyapapa/cryptonews/blob/ru/bitstamp-starts-investigation-after-large-btc-sell-leads-to-250-mln-liquidated-on-bitmex-c3f86c77.md)
