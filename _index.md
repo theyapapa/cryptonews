@@ -1,3 +1,4 @@
+* 2019-05-17 [Goxtrade는 계열사가 아닌 직원을 광고 하 고 잘못 된 연락처 정보를 알립니다.](https://github.com/theyapapa/cryptonews/blob/ko/goxtrade-advertises-unaffiliated-staff-and-misleading-contact-information-86289568.md)
 * 2019-05-17 [Coinbase는 100 개 이상의 국가에서 대 중에 게 사용할 수 지금 적립](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-earn-now-available-to-the-public-in-over-100-countries-c44e646d.md)
 * 2019-05-17 [비트 코인,이 더 리 움 리플 비트 코인 현금, 라이트 코인, EOS, 비 탄 코인 스 스텔라, 카르다노, 트 론: 가격 분석 5 월 17 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-17-743c3cbc.md)
 * 2019-05-17 [페이스 북은 스위스에 새로운 핀 테크 회사를 등록](https://github.com/theyapapa/cryptonews/blob/ko/facebook-registers-new-fintech-firm-in-switzerland-f5981098.md)
