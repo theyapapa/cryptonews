@@ -1,3 +1,4 @@
+* 2019-05-17 [Coinbase는 100 개 이상의 국가에서 대 중에 게 사용할 수 지금 적립](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-earn-now-available-to-the-public-in-over-100-countries-c44e646d.md)
 * 2019-05-17 [비트 코인,이 더 리 움 리플 비트 코인 현금, 라이트 코인, EOS, 비 탄 코인 스 스텔라, 카르다노, 트 론: 가격 분석 5 월 17 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-17-743c3cbc.md)
 * 2019-05-17 [페이스 북은 스위스에 새로운 핀 테크 회사를 등록](https://github.com/theyapapa/cryptonews/blob/ko/facebook-registers-new-fintech-firm-in-switzerland-f5981098.md)
 * 2019-05-17 [Bitstamp에 대 한 $250 백만 청산에 큰 BTC 판매 리드 후 비트 스탬프 조사를 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitstamp-starts-investigation-after-large-btc-sell-leads-to-250-mln-liquidated-on-bitmex-c3f86c77.md)
