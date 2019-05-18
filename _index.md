@@ -1,3 +1,4 @@
+* 2019-05-18 [장기적으로 — 새로운 장기 증권 거래소가 암호화 산업을 어떻게 도울 수 있는지](https://github.com/theyapapa/cryptonews/blob/ko/in-for-the-long-haul-how-the-new-long-term-stock-exchange-can-help-the-crypto-industry-b93b1187.md)
 * 2019-05-17 [Goxtrade는 계열사가 아닌 직원을 광고 하 고 잘못 된 연락처 정보를 알립니다.](https://github.com/theyapapa/cryptonews/blob/ko/goxtrade-advertises-unaffiliated-staff-and-misleading-contact-information-86289568.md)
 * 2019-05-17 [Coinbase는 100 개 이상의 국가에서 대 중에 게 사용할 수 지금 적립](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-earn-now-available-to-the-public-in-over-100-countries-c44e646d.md)
 * 2019-05-17 [비트 코인,이 더 리 움 리플 비트 코인 현금, 라이트 코인, EOS, 비 탄 코인 스 스텔라, 카르다노, 트 론: 가격 분석 5 월 17 일](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-17-743c3cbc.md)
