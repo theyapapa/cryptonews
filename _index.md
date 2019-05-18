@@ -1,3 +1,4 @@
+* 2019-05-18 [빈의 디지털 미래를 위한 핵심으로 서의 블록 체인 — 오스트리아 비엔나 CIO 울 리 케 Huemer 인터뷰](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-as-key-to-viennas-digital-future-interview-with-ulrike-huemer-cio-of-vienna-austria-d64305bd.md)
 * 2019-05-18 [장기적으로 — 새로운 장기 증권 거래소가 암호화 산업을 어떻게 도울 수 있는지](https://github.com/theyapapa/cryptonews/blob/ko/in-for-the-long-haul-how-the-new-long-term-stock-exchange-can-help-the-crypto-industry-b93b1187.md)
 * 2019-05-17 [Goxtrade는 계열사가 아닌 직원을 광고 하 고 잘못 된 연락처 정보를 알립니다.](https://github.com/theyapapa/cryptonews/blob/ko/goxtrade-advertises-unaffiliated-staff-and-misleading-contact-information-86289568.md)
 * 2019-05-17 [Coinbase는 100 개 이상의 국가에서 대 중에 게 사용할 수 지금 적립](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-earn-now-available-to-the-public-in-over-100-countries-c44e646d.md)
