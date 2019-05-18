@@ -1,3 +1,4 @@
+* 2019-05-17 [Goxtrade рекламирует независимый персонал и вводящую в заблуждение контактную информацию](https://github.com/theyapapa/cryptonews/blob/ru/goxtrade-advertises-unaffiliated-staff-and-misleading-contact-information-86289568.md)
 * 2019-05-17 [Coinbase Заработайте теперь имеющееся к публике внутри над 100 странами](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-earn-now-available-to-the-public-in-over-100-countries-c44e646d.md)
 * 2019-05-17 [Bitcoin, Эфириум, пульсация, Bitcoin Cash, Лайткоины, EOS, Binance монета, Звездная, Кардано, трон: анализ цен 17 мая](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-ethereum-ripple-bitcoin-cash-litecoin-eos-binance-coin-stellar-cardano-tron-price-analysis-may-17-743c3cbc.md)
 * 2019-05-17 [Facebook регистрирует новую Финтехфирму в Швейцарии](https://github.com/theyapapa/cryptonews/blob/ru/facebook-registers-new-fintech-firm-in-switzerland-f5981098.md)
