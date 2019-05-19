@@ -1,3 +1,4 @@
+* 2019-05-19 [Top 5 de los intérpretes de criptografía: XEM, XLM, XTZ, BNB, IOTA](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-xem-xlm-xtz-bnb-iota-14593a96.md)
 * 2019-05-18 [Blockchain como clave para el futuro digital de Viena: entrevista con Ulrike Huemer, CIO de Viena, Austria](https://github.com/theyapapa/cryptonews/blob/es/blockchain-as-key-to-viennas-digital-future-interview-with-ulrike-huemer-cio-of-vienna-austria-d64305bd.md)
 * 2019-05-18 [Para el largo plazo — cómo la nueva bolsa de valores a largo término puede ayudar a la industria cripto](https://github.com/theyapapa/cryptonews/blob/es/in-for-the-long-haul-how-the-new-long-term-stock-exchange-can-help-the-crypto-industry-b93b1187.md)
 * 2019-05-17 [Goxtrade anuncia personal no afiliado y información de contacto engañosa](https://github.com/theyapapa/cryptonews/blob/es/goxtrade-advertises-unaffiliated-staff-and-misleading-contact-information-86289568.md)
