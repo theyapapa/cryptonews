@@ -1,3 +1,4 @@
+* 2019-05-19 [인플레이션 버그는 여전히 모든 비트 코인 전체 노드의 절반 이상에 위험](https://github.com/theyapapa/cryptonews/blob/ko/inflation-bug-still-a-danger-to-more-than-half-of-all-bitcoin-full-nodes-67cf78cd.md)
 * 2019-05-19 [맨 위로 5 암호 공연: XEM, XEM, XEM, 비 앤 비, 이오타](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-xem-xlm-xtz-bnb-iota-14593a96.md)
 * 2019-05-18 [빈의 디지털 미래를 위한 핵심으로 서의 블록 체인 — 오스트리아 비엔나 CIO 울 리 케 Huemer 인터뷰](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-as-key-to-viennas-digital-future-interview-with-ulrike-huemer-cio-of-vienna-austria-d64305bd.md)
 * 2019-05-18 [장기적으로 — 새로운 장기 증권 거래소가 암호화 산업을 어떻게 도울 수 있는지](https://github.com/theyapapa/cryptonews/blob/ko/in-for-the-long-haul-how-the-new-long-term-stock-exchange-can-help-the-crypto-industry-b93b1187.md)
