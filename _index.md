@@ -1,3 +1,4 @@
+* 2019-05-19 [El CEO de Kik dice que la empresa gastó $5 + millones en negociaciones con la SEC de Estados Unidos: informe](https://github.com/theyapapa/cryptonews/blob/es/kik-ceo-says-firm-spent-5-million-on-negotiations-with-us-sec-report-4b49ab65.md)
 * 2019-05-19 [Bitcoin enfoques $8.000 otra vez como los mejores Cryptos ver fuertes ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-approaches-8-000-again-as-top-cryptos-see-strong-gains-6789c26e.md)
 * 2019-05-19 [Inflación bug sigue siendo un peligro para más de la mitad de todos los nodos completos de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/inflation-bug-still-a-danger-to-more-than-half-of-all-bitcoin-full-nodes-67cf78cd.md)
 * 2019-05-19 [Top 5 de los intérpretes de criptografía: XEM, XLM, XTZ, BNB, IOTA](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-xem-xlm-xtz-bnb-iota-14593a96.md)
