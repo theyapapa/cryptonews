@@ -1,3 +1,4 @@
+* 2019-05-19 [맨 위로 5 암호 공연: XEM, XEM, XEM, 비 앤 비, 이오타](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-xem-xlm-xtz-bnb-iota-14593a96.md)
 * 2019-05-18 [빈의 디지털 미래를 위한 핵심으로 서의 블록 체인 — 오스트리아 비엔나 CIO 울 리 케 Huemer 인터뷰](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-as-key-to-viennas-digital-future-interview-with-ulrike-huemer-cio-of-vienna-austria-d64305bd.md)
 * 2019-05-18 [장기적으로 — 새로운 장기 증권 거래소가 암호화 산업을 어떻게 도울 수 있는지](https://github.com/theyapapa/cryptonews/blob/ko/in-for-the-long-haul-how-the-new-long-term-stock-exchange-can-help-the-crypto-industry-b93b1187.md)
 * 2019-05-17 [Goxtrade는 계열사가 아닌 직원을 광고 하 고 잘못 된 연락처 정보를 알립니다.](https://github.com/theyapapa/cryptonews/blob/ko/goxtrade-advertises-unaffiliated-staff-and-misleading-contact-information-86289568.md)
