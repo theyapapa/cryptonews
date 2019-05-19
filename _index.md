@@ -1,3 +1,4 @@
+* 2019-05-19 [Bitcoin подходы $8 000 снова, как Top криптографирования увидеть сильные доходы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-8-000-again-as-top-cryptos-see-strong-gains-6789c26e.md)
 * 2019-05-19 [Инфляция ошибка еще опасность для более чем половины всех Bitcoin полные узлы](https://github.com/theyapapa/cryptonews/blob/ru/inflation-bug-still-a-danger-to-more-than-half-of-all-bitcoin-full-nodes-67cf78cd.md)
 * 2019-05-19 [Топ 5 крипто исполнители: XEM, XЛ.М., XEM, НББ, йота](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-xem-xlm-xtz-bnb-iota-14593a96.md)
 * 2019-05-18 [Blockchain как ключ к цифровому будущему Вены — интервью с Ульрике Хумер, ИТ-директором в Вене, Австрия](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-as-key-to-viennas-digital-future-interview-with-ulrike-huemer-cio-of-vienna-austria-d64305bd.md)
