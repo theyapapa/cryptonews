@@ -1,3 +1,4 @@
+* 2019-05-20 [현금, 동전 및 카지노: 일본은 온라인 도박을 규제 하는 투쟁](https://github.com/theyapapa/cryptonews/blob/ko/cash-coins-and-casinos-japan-struggles-to-regulate-online-gambling-a677332e.md)
 * 2019-05-20 [네덜란드 은행 ABN AMRO는 위험 우려를 인용 Wallie 양육 비트 코인 지갑을 포기](https://github.com/theyapapa/cryptonews/blob/ko/dutch-bank-abn-amro-abandons-wallie-custodial-bitcoin-wallet-citing-risk-concerns-39dca314.md)
 * 2019-05-20 [비트 코인이 최신 랠리 기간 동안 내재 가치 이상으로 급증 한 경우, JPM 전략 학자](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-has-soared-above-intrinsic-value-during-latest-rally-jpm-strategists-claim-2bbfb211.md)
 * 2019-05-19 [Hodler의 다이제스트, 5 월 13 ~ 19 일: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-may-1319-top-stories-price-movements-quotes-and-fud-of-the-week-467aedf7.md)
