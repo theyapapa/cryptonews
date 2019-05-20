@@ -1,3 +1,4 @@
+* 2019-05-20 [Bitcoin взлетела выше внутренней стоимости во время последнего ралли, JPM стратеги претензии](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-has-soared-above-intrinsic-value-during-latest-rally-jpm-strategists-claim-2bbfb211.md)
 * 2019-05-19 [Дайджест ходлера, 13 мая – 19: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-may-1319-top-stories-price-movements-quotes-and-fud-of-the-week-467aedf7.md)
 * 2019-05-19 [Кик Генеральный директор говорит фирма потратила $5 + миллион на переговорах с США SEC: доклад](https://github.com/theyapapa/cryptonews/blob/ru/kik-ceo-says-firm-spent-5-million-on-negotiations-with-us-sec-report-4b49ab65.md)
 * 2019-05-19 [Bitcoin подходы $8 000 снова, как Top криптографирования увидеть сильные доходы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-8-000-again-as-top-cryptos-see-strong-gains-6789c26e.md)
