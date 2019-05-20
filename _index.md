@@ -1,3 +1,4 @@
+* 2019-05-20 [비트 코인이 최신 랠리 기간 동안 내재 가치 이상으로 급증 한 경우, JPM 전략 학자](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-has-soared-above-intrinsic-value-during-latest-rally-jpm-strategists-claim-2bbfb211.md)
 * 2019-05-19 [Hodler의 다이제스트, 5 월 13 ~ 19 일: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-may-1319-top-stories-price-movements-quotes-and-fud-of-the-week-467aedf7.md)
 * 2019-05-19 [Kik CEO는 회사는 미국 SEC와 협상에 $5 + 백만 지출 말한다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/kik-ceo-says-firm-spent-5-million-on-negotiations-with-us-sec-report-4b49ab65.md)
 * 2019-05-19 [비트 코인은 최고 Cryptos가 강한 이득을 참조로 다시 $8000에 접근](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-approaches-8-000-again-as-top-cryptos-see-strong-gains-6789c26e.md)
