@@ -1,3 +1,4 @@
+* 2019-05-20 [네덜란드 은행 ABN AMRO, 블록 체인 재고 추적 플랫폼 ' 포스 필드 ' 출시](https://github.com/theyapapa/cryptonews/blob/ko/dutch-bank-abn-amro-launches-blockchain-inventory-tracking-platform-forcefield-9a3d2980.md)
 * 2019-05-20 [2020에서 블록 체인 지원 추적을 시작 하는 오스트리아 섬유 생산업체 렌 징](https://github.com/theyapapa/cryptonews/blob/ko/austrian-fiber-producer-lenzing-to-launch-blockchain-enabled-tracking-in-2020-631606c3.md)
 * 2019-05-20 [스텔라의 블록 체인이 오프 라인으로 전환 되어 프로젝트가 분권 화 부족을 확인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/stellars-blockchain-briefly-goes-offline-confirming-the-project-lacks-decentralization-932e455c.md)
 * 2019-05-20 [영국 기반의 글로벌 펀드 네트워크 칼라 스톤 전체 시스템을 블록 체인으로 전환](https://github.com/theyapapa/cryptonews/blob/ko/uk-based-global-funds-network-calastone-switches-entire-system-to-blockchain-75df9b90.md)
