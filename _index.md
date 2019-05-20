@@ -1,3 +1,4 @@
+* 2019-05-20 [Денежные средства, монеты и казино: Япония борется за регулирование онлайн азартные игры](https://github.com/theyapapa/cryptonews/blob/ru/cash-coins-and-casinos-japan-struggles-to-regulate-online-gambling-a677332e.md)
 * 2019-05-20 [Голландский банк АБНО АМРО оставляет Wallie содержания Bitcoin кошелек ссылаясь на риск проблемы](https://github.com/theyapapa/cryptonews/blob/ru/dutch-bank-abn-amro-abandons-wallie-custodial-bitcoin-wallet-citing-risk-concerns-39dca314.md)
 * 2019-05-20 [Bitcoin взлетела выше внутренней стоимости во время последнего ралли, JPM стратеги претензии](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-has-soared-above-intrinsic-value-during-latest-rally-jpm-strategists-claim-2bbfb211.md)
 * 2019-05-19 [Дайджест ходлера, 13 мая – 19: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-may-1319-top-stories-price-movements-quotes-and-fud-of-the-week-467aedf7.md)
