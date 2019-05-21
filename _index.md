@@ -1,3 +1,4 @@
+* 2019-05-20 [영국 감시 보고서 $3400만 암호화 및 외환 사기 작년에 손실](https://github.com/theyapapa/cryptonews/blob/ko/uk-watchdog-reports-34-million-lost-in-crypto-and-forex-scams-last-year-4816d774.md)
 * 2019-05-20 [낮은 턴 아웃으로 MakerDAO의 안정 된 안정성 수수료 2% 감소](https://github.com/theyapapa/cryptonews/blob/ko/low-turnout-hinders-makerdao-vote-to-decrease-stablecoin-stability-fee-by-2-00561449.md)
 * 2019-05-20 [네덜란드 은행 ABN AMRO, 블록 체인 재고 추적 플랫폼 ' 포스 필드 ' 출시](https://github.com/theyapapa/cryptonews/blob/ko/dutch-bank-abn-amro-launches-blockchain-inventory-tracking-platform-forcefield-9a3d2980.md)
 * 2019-05-20 [2020에서 블록 체인 지원 추적을 시작 하는 오스트리아 섬유 생산업체 렌 징](https://github.com/theyapapa/cryptonews/blob/ko/austrian-fiber-producer-lenzing-to-launch-blockchain-enabled-tracking-in-2020-631606c3.md)
