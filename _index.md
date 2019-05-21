@@ -1,3 +1,4 @@
+* 2019-05-21 [보고서: 미국 법원 클레임 래퍼 T.I.는 FLiK ICO에서 미등록 증권을 판매 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-us-court-claims-rapper-ti-sold-unregistered-securities-in-flik-ico-dc788c3d.md)
 * 2019-05-20 [영국 감시 보고서 $3400만 암호화 및 외환 사기 작년에 손실](https://github.com/theyapapa/cryptonews/blob/ko/uk-watchdog-reports-34-million-lost-in-crypto-and-forex-scams-last-year-4816d774.md)
 * 2019-05-20 [낮은 턴 아웃으로 MakerDAO의 안정 된 안정성 수수료 2% 감소](https://github.com/theyapapa/cryptonews/blob/ko/low-turnout-hinders-makerdao-vote-to-decrease-stablecoin-stability-fee-by-2-00561449.md)
 * 2019-05-20 [네덜란드 은행 ABN AMRO, 블록 체인 재고 추적 플랫폼 ' 포스 필드 ' 출시](https://github.com/theyapapa/cryptonews/blob/ko/dutch-bank-abn-amro-launches-blockchain-inventory-tracking-platform-forcefield-9a3d2980.md)
