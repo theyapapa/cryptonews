@@ -1,3 +1,4 @@
+* 2019-05-21 [파이어 폭스 양자는 안티-암호 킹 기능을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/firefox-quantum-offers-anti-cryptojacking-feature-e6badf4a.md)
 * 2019-05-21 [관할의 부족에 대 한 케이스 해 고에 대 한 bitfinex 및 밧줄 이동](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-and-tether-move-for-case-dismissal-over-lack-of-jurisdiction-46fe9a43.md)
 * 2019-05-21 [암호화 브로커 보이저 디지털에 서비스를 제공 하는 암호 관리 회사 원장 볼트](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custody-firm-ledger-vault-to-provide-services-to-crypto-broker-voyager-digital-dfbe012b.md)
 * 2019-05-21 [일본 의회는 새로운 암호 규정을 어퍼 하우스로 옮깁니다.](https://github.com/theyapapa/cryptonews/blob/ko/japanese-parliament-moves-new-crypto-regulations-to-the-upper-house-a43c5aa6.md)
