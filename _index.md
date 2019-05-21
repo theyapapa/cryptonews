@@ -1,3 +1,4 @@
+* 2019-05-21 [Firefox Quantum ofrece la función anti-Cryptojacking](https://github.com/theyapapa/cryptonews/blob/es/firefox-quantum-offers-anti-cryptojacking-feature-e6badf4a.md)
 * 2019-05-21 [Bitfinex y Tether Move para caso de despido por falta de jurisdicción](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-and-tether-move-for-case-dismissal-over-lack-of-jurisdiction-46fe9a43.md)
 * 2019-05-21 [Crypto custodia de la empresa Ledger Vault para proporcionar servicios a Crypto Broker Voyager digital](https://github.com/theyapapa/cryptonews/blob/es/crypto-custody-firm-ledger-vault-to-provide-services-to-crypto-broker-voyager-digital-dfbe012b.md)
 * 2019-05-21 [El Parlamento japonés traslada nuevas regulaciones criptográficas a la cámara alta](https://github.com/theyapapa/cryptonews/blob/es/japanese-parliament-moves-new-crypto-regulations-to-the-upper-house-a43c5aa6.md)
