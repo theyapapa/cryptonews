@@ -1,3 +1,4 @@
+* 2019-05-21 [Informe: Estados Unidos reclamaciones rapero T.I. vendió valores no registrados en FLiK ICO](https://github.com/theyapapa/cryptonews/blob/es/report-us-court-claims-rapper-ti-sold-unregistered-securities-in-flik-ico-dc788c3d.md)
 * 2019-05-20 [UK Watchdog Reports $34 millones perdido en las estafas Crypto y Forex el año pasado](https://github.com/theyapapa/cryptonews/blob/es/uk-watchdog-reports-34-million-lost-in-crypto-and-forex-scams-last-year-4816d774.md)
 * 2019-05-20 [Baja participación HINDERS MakerDAO votar para disminuir la tasa de estabilidad Stablecoin por 2%](https://github.com/theyapapa/cryptonews/blob/es/low-turnout-hinders-makerdao-vote-to-decrease-stablecoin-stability-fee-by-2-00561449.md)
 * 2019-05-20 [Dutch Bank ABN AMRO lanza la plataforma de rastreo de inventario blockchain ' ForceField '](https://github.com/theyapapa/cryptonews/blob/es/dutch-bank-abn-amro-launches-blockchain-inventory-tracking-platform-forcefield-9a3d2980.md)
