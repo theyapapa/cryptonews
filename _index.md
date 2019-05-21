@@ -1,3 +1,4 @@
+* 2019-05-21 [Firefox Квантовая предложения анти-Криптоподъемная функция](https://github.com/theyapapa/cryptonews/blob/ru/firefox-quantum-offers-anti-cryptojacking-feature-e6badf4a.md)
 * 2019-05-21 [Bitfinex и привязи переместить в случае увольнения из-за отсутствия юрисдикции](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-and-tether-move-for-case-dismissal-over-lack-of-jurisdiction-46fe9a43.md)
 * 2019-05-21 [Крипто хранение фирма Леджер Vault предоставлять услуги крипто брокер Вояджер цифровые](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custody-firm-ledger-vault-to-provide-services-to-crypto-broker-voyager-digital-dfbe012b.md)
 * 2019-05-21 [Японский парламент перемещает новые правила криптографии в верхнюю палату](https://github.com/theyapapa/cryptonews/blob/ru/japanese-parliament-moves-new-crypto-regulations-to-the-upper-house-a43c5aa6.md)
