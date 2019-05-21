@@ -1,3 +1,4 @@
+* 2019-05-21 [일본 의회는 새로운 암호 규정을 어퍼 하우스로 옮깁니다.](https://github.com/theyapapa/cryptonews/blob/ko/japanese-parliament-moves-new-crypto-regulations-to-the-upper-house-a43c5aa6.md)
 * 2019-05-21 [우리를 악화-중국 무역 전쟁은 BTC 가격 상승 뒤에 있다, 디지털 통화 그룹 CEO 주장](https://github.com/theyapapa/cryptonews/blob/ko/worsening-us-china-trade-war-is-behind-btc-price-rise-digital-currency-group-ceo-claims-cb8ca99b.md)
 * 2019-05-21 [보고서: 미국 법원 클레임 래퍼 T.I.는 FLiK ICO에서 미등록 증권을 판매 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-us-court-claims-rapper-ti-sold-unregistered-securities-in-flik-ico-dc788c3d.md)
 * 2019-05-20 [영국 감시 보고서 $3400만 암호화 및 외환 사기 작년에 손실](https://github.com/theyapapa/cryptonews/blob/ko/uk-watchdog-reports-34-million-lost-in-crypto-and-forex-scams-last-year-4816d774.md)
