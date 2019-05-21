@@ -1,3 +1,4 @@
+* 2019-05-20 [UK Watchdog Reports $34 millones perdido en las estafas Crypto y Forex el año pasado](https://github.com/theyapapa/cryptonews/blob/es/uk-watchdog-reports-34-million-lost-in-crypto-and-forex-scams-last-year-4816d774.md)
 * 2019-05-20 [Baja participación HINDERS MakerDAO votar para disminuir la tasa de estabilidad Stablecoin por 2%](https://github.com/theyapapa/cryptonews/blob/es/low-turnout-hinders-makerdao-vote-to-decrease-stablecoin-stability-fee-by-2-00561449.md)
 * 2019-05-20 [Dutch Bank ABN AMRO lanza la plataforma de rastreo de inventario blockchain ' ForceField '](https://github.com/theyapapa/cryptonews/blob/es/dutch-bank-abn-amro-launches-blockchain-inventory-tracking-platform-forcefield-9a3d2980.md)
 * 2019-05-20 [Productor de fibra austriaca Lenzing para lanzar el rastreo habilitado para blockchain en 2020](https://github.com/theyapapa/cryptonews/blob/es/austrian-fiber-producer-lenzing-to-launch-blockchain-enabled-tracking-in-2020-631606c3.md)
