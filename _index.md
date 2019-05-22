@@ -1,3 +1,4 @@
+* 2019-05-22 [CME의 비트 코인 선물 거래에 대 한 가장 강한 달이 될 수 있습니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/may-to-become-strongest-month-for-cmes-bitcoin-futures-trading-report-87bf48ce.md)
 * 2019-05-22 [개발자 블록. 한 번의 시도 10% 민간 매입 주식의](https://github.com/theyapapa/cryptonews/blob/ko/eos-developer-blockone-attempts-10-private-buyback-of-its-stock-1e769003.md)
 * 2019-05-21 [에 테 리 움 재단 $30 네트워크 개발에 대 한 세부 사항을 발표](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-announces-details-on-30-network-development-3174d200.md)
 * 2019-05-21 [파이어 폭스 양자는 안티-암호 킹 기능을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/firefox-quantum-offers-anti-cryptojacking-feature-e6badf4a.md)
