@@ -1,3 +1,4 @@
+* 2019-05-22 [저작권 등록은 크레이그 라이트를 사토시 나카 모토로 인식 하지 못합니다.](https://github.com/theyapapa/cryptonews/blob/ko/copyright-registrations-do-not-recognize-craig-wright-as-satoshi-nakamoto-d599d75f.md)
 * 2019-05-22 [뉴욕 대법원에서 요구의 숙박을 얻는 bitfinex 및 밧줄](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-and-tether-obtain-stay-of-demands-from-new-york-supreme-court-53caff36.md)
 * 2019-05-22 [크립 토 피아 금이: 중앙 집중식 거래소가는 방법?](https://github.com/theyapapa/cryptonews/blob/ko/cryptopia-cracked-are-centralized-exchanges-the-way-to-go-7dac2d37.md)
 * 2019-05-22 [리플 에스크로 보고: 아무것도에 대 한 창조적 인 회계 또는 많은 Ado?](https://github.com/theyapapa/cryptonews/blob/ko/ripple-escrow-reporting-creative-accounting-or-much-ado-about-nothing-51955713.md)
