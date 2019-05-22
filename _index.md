@@ -1,3 +1,4 @@
+* 2019-05-22 [뉴욕 대법원에서 요구의 숙박을 얻는 bitfinex 및 밧줄](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-and-tether-obtain-stay-of-demands-from-new-york-supreme-court-53caff36.md)
 * 2019-05-22 [크립 토 피아 금이: 중앙 집중식 거래소가는 방법?](https://github.com/theyapapa/cryptonews/blob/ko/cryptopia-cracked-are-centralized-exchanges-the-way-to-go-7dac2d37.md)
 * 2019-05-22 [리플 에스크로 보고: 아무것도에 대 한 창조적 인 회계 또는 많은 Ado?](https://github.com/theyapapa/cryptonews/blob/ko/ripple-escrow-reporting-creative-accounting-or-much-ado-about-nothing-51955713.md)
 * 2019-05-22 [CME의 비트 코인 선물 거래에 대 한 가장 강한 달이 될 수 있습니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/may-to-become-strongest-month-for-cmes-bitcoin-futures-trading-report-87bf48ce.md)
