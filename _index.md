@@ -1,3 +1,4 @@
+* 2019-05-21 [에 테 리 움 재단 $30 네트워크 개발에 대 한 세부 사항을 발표](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-foundation-announces-details-on-30-network-development-3174d200.md)
 * 2019-05-21 [파이어 폭스 양자는 안티-암호 킹 기능을 제공 합니다](https://github.com/theyapapa/cryptonews/blob/ko/firefox-quantum-offers-anti-cryptojacking-feature-e6badf4a.md)
 * 2019-05-21 [관할의 부족에 대 한 케이스 해 고에 대 한 bitfinex 및 밧줄 이동](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-and-tether-move-for-case-dismissal-over-lack-of-jurisdiction-46fe9a43.md)
 * 2019-05-21 [암호화 브로커 보이저 디지털에 서비스를 제공 하는 암호 관리 회사 원장 볼트](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custody-firm-ledger-vault-to-provide-services-to-crypto-broker-voyager-digital-dfbe012b.md)
