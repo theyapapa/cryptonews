@@ -1,3 +1,4 @@
+* 2019-05-22 [Puede ser mes más fuerte para el comercio de futuros Bitcoin de CME: informe](https://github.com/theyapapa/cryptonews/blob/es/may-to-become-strongest-month-for-cmes-bitcoin-futures-trading-report-87bf48ce.md)
 * 2019-05-22 [EOS Developer Block. One intentos 10% Private Buyback de sus acciones](https://github.com/theyapapa/cryptonews/blob/es/eos-developer-blockone-attempts-10-private-buyback-of-its-stock-1e769003.md)
 * 2019-05-21 [Ethereum Foundation anuncia detalles sobre el desarrollo de redes $30](https://github.com/theyapapa/cryptonews/blob/es/ethereum-foundation-announces-details-on-30-network-development-3174d200.md)
 * 2019-05-21 [Firefox Quantum ofrece la función anti-Cryptojacking](https://github.com/theyapapa/cryptonews/blob/es/firefox-quantum-offers-anti-cryptojacking-feature-e6badf4a.md)
