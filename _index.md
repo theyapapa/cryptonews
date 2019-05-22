@@ -1,3 +1,4 @@
+* 2019-05-22 [Bitfinex и троса получить пребывание требования из Нью-Йорка Верховный суд](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-and-tether-obtain-stay-of-demands-from-new-york-supreme-court-53caff36.md)
 * 2019-05-22 [Криптотопия трещины: являются централизованные обмены путь пойти?](https://github.com/theyapapa/cryptonews/blob/ru/cryptopia-cracked-are-centralized-exchanges-the-way-to-go-7dac2d37.md)
 * 2019-05-22 [Пульсация депозитный отчетность: творческий учет или много шума из ничего?](https://github.com/theyapapa/cryptonews/blob/ru/ripple-escrow-reporting-creative-accounting-or-much-ado-about-nothing-51955713.md)
 * 2019-05-22 [Мая стать сильнейшим месяцем для сме Bitcoin фьючерсных торгов: доклад](https://github.com/theyapapa/cryptonews/blob/ru/may-to-become-strongest-month-for-cmes-bitcoin-futures-trading-report-87bf48ce.md)
