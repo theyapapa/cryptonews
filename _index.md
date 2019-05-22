@@ -1,3 +1,4 @@
+* 2019-05-22 [El gobierno de Corea del sur anuncia el segundo grupo de estudio de regulaciones blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-korean-govt-announces-second-study-group-for-blockchain-regulations-226b0ebe.md)
 * 2019-05-22 [Los registros de copyright no reconocen a Craig Wright como Satoshi Nakamoto](https://github.com/theyapapa/cryptonews/blob/es/copyright-registrations-do-not-recognize-craig-wright-as-satoshi-nakamoto-d599d75f.md)
 * 2019-05-22 [Bitfinex y Tether obtienen la estancia de demandas de la Corte Suprema de Nueva York](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-and-tether-obtain-stay-of-demands-from-new-york-supreme-court-53caff36.md)
 * 2019-05-22 [Cryptopia agrietados: ¿los intercambios centralizados son el camino a seguir?](https://github.com/theyapapa/cryptonews/blob/es/cryptopia-cracked-are-centralized-exchanges-the-way-to-go-7dac2d37.md)
