@@ -1,3 +1,4 @@
+* 2019-05-22 [Cryptopia agrietados: ¿los intercambios centralizados son el camino a seguir?](https://github.com/theyapapa/cryptonews/blob/es/cryptopia-cracked-are-centralized-exchanges-the-way-to-go-7dac2d37.md)
 * 2019-05-22 [Informes de escrow de ondulación: ¿contabilidad creativa o mucho ADO sobre nada?](https://github.com/theyapapa/cryptonews/blob/es/ripple-escrow-reporting-creative-accounting-or-much-ado-about-nothing-51955713.md)
 * 2019-05-22 [Puede ser mes más fuerte para el comercio de futuros Bitcoin de CME: informe](https://github.com/theyapapa/cryptonews/blob/es/may-to-become-strongest-month-for-cmes-bitcoin-futures-trading-report-87bf48ce.md)
 * 2019-05-22 [EOS Developer Block. One intentos 10% Private Buyback de sus acciones](https://github.com/theyapapa/cryptonews/blob/es/eos-developer-blockone-attempts-10-private-buyback-of-its-stock-1e769003.md)
