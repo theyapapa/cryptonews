@@ -1,3 +1,4 @@
+* 2019-05-22 [Блок разработчика EOS. один попытки 10% частный выкуп своих акций](https://github.com/theyapapa/cryptonews/blob/ru/eos-developer-blockone-attempts-10-private-buyback-of-its-stock-1e769003.md)
 * 2019-05-21 [Эфириум Фонд объявляет подробности о $30 развитие сети](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-announces-details-on-30-network-development-3174d200.md)
 * 2019-05-21 [Firefox Квантовая предложения анти-Криптоподъемная функция](https://github.com/theyapapa/cryptonews/blob/ru/firefox-quantum-offers-anti-cryptojacking-feature-e6badf4a.md)
 * 2019-05-21 [Bitfinex и привязи переместить в случае увольнения из-за отсутствия юрисдикции](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-and-tether-move-for-case-dismissal-over-lack-of-jurisdiction-46fe9a43.md)
