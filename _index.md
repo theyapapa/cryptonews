@@ -1,3 +1,4 @@
+* 2019-05-22 [Пульсация депозитный отчетность: творческий учет или много шума из ничего?](https://github.com/theyapapa/cryptonews/blob/ru/ripple-escrow-reporting-creative-accounting-or-much-ado-about-nothing-51955713.md)
 * 2019-05-22 [Мая стать сильнейшим месяцем для сме Bitcoin фьючерсных торгов: доклад](https://github.com/theyapapa/cryptonews/blob/ru/may-to-become-strongest-month-for-cmes-bitcoin-futures-trading-report-87bf48ce.md)
 * 2019-05-22 [Блок разработчика EOS. один попытки 10% частный выкуп своих акций](https://github.com/theyapapa/cryptonews/blob/ru/eos-developer-blockone-attempts-10-private-buyback-of-its-stock-1e769003.md)
 * 2019-05-21 [Эфириум Фонд объявляет подробности о $30 развитие сети](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-foundation-announces-details-on-30-network-development-3174d200.md)
