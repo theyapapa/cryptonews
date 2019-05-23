@@ -1,3 +1,4 @@
+* 2019-05-22 [일본, FATF 검사에 앞서 암호화 거래소 자금 세탁 정책 확인](https://github.com/theyapapa/cryptonews/blob/ko/japan-to-check-money-laundering-policies-of-crypto-exchanges-ahead-of-fatf-inspection-8cda4a93.md)
 * 2019-05-22 [대한민국 Gov't, 블록 체인 규제를 위한 두 번째 스터디 그룹 발표](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-govt-announces-second-study-group-for-blockchain-regulations-226b0ebe.md)
 * 2019-05-22 [저작권 등록은 크레이그 라이트를 사토시 나카 모토로 인식 하지 못합니다.](https://github.com/theyapapa/cryptonews/blob/ko/copyright-registrations-do-not-recognize-craig-wright-as-satoshi-nakamoto-d599d75f.md)
 * 2019-05-22 [뉴욕 대법원에서 요구의 숙박을 얻는 bitfinex 및 밧줄](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-and-tether-obtain-stay-of-demands-from-new-york-supreme-court-53caff36.md)
