@@ -1,3 +1,4 @@
+* 2019-05-22 [Япония, чтобы проверить отмывание денег политики Криптобирж впереди ФАТФ инспекции](https://github.com/theyapapa/cryptonews/blob/ru/japan-to-check-money-laundering-policies-of-crypto-exchanges-ahead-of-fatf-inspection-8cda4a93.md)
 * 2019-05-22 [Южнокорейский Gov't объявляет второй исследовательской группы для Blockchain правила](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-govt-announces-second-study-group-for-blockchain-regulations-226b0ebe.md)
 * 2019-05-22 [Регистрация авторских прав не признают Крейг Райт как Сатоши Накамото](https://github.com/theyapapa/cryptonews/blob/ru/copyright-registrations-do-not-recognize-craig-wright-as-satoshi-nakamoto-d599d75f.md)
 * 2019-05-22 [Bitfinex и троса получить пребывание требования из Нью-Йорка Верховный суд](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-and-tether-obtain-stay-of-demands-from-new-york-supreme-court-53caff36.md)
