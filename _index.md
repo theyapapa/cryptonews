@@ -1,3 +1,4 @@
+* 2019-05-23 [Мальтийское правительство награды 19 Blockchain стипендии использование DLT фонд](https://github.com/theyapapa/cryptonews/blob/ru/maltese-government-awards-19-blockchain-scholarships-using-dlt-fund-9ccd490e.md)
 * 2019-05-23 [Райан Кавано в СМИ фирма обеспечивает $100 000 000 инвестиции для Криптопроекта](https://github.com/theyapapa/cryptonews/blob/ru/ryan-kavanaughs-media-firm-secures-100-million-investment-for-crypto-project-04b742f7.md)
 * 2019-05-23 [Робин Гуд нулевой пошлины торговая App официально запускает в Нью-Йорке](https://github.com/theyapapa/cryptonews/blob/ru/robinhood-zero-fee-trading-app-officially-launches-in-new-york-49e16875.md)
 * 2019-05-23 [Центральный банк России рассмотрит Криптовалюту, поддерживаемой золотом, для взаимных расчетов](https://github.com/theyapapa/cryptonews/blob/ru/russias-central-bank-to-consider-gold-backed-cryptocurrencies-for-mutual-settlements-1761abfc.md)
