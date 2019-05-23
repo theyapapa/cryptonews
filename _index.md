@@ -1,3 +1,4 @@
+* 2019-05-23 [로빈 후드 제로 수수료 거래 응용 프로그램은 공식적으로 뉴욕에 출시](https://github.com/theyapapa/cryptonews/blob/ko/robinhood-zero-fee-trading-app-officially-launches-in-new-york-49e16875.md)
 * 2019-05-23 [상호 타협을 위해 금으로 뒷받침 되는 암호 화폐를 고려 하는 러시아 중앙 은행](https://github.com/theyapapa/cryptonews/blob/ko/russias-central-bank-to-consider-gold-backed-cryptocurrencies-for-mutual-settlements-1761abfc.md)
 * 2019-05-23 [2020 대통령 희망의 제비 잘 시작 암호화 기부금 캠페인](https://github.com/theyapapa/cryptonews/blob/ko/2020-presidential-hopeful-swalwell-launches-crypto-donations-campaign-f3ec9b2b.md)
 * 2019-05-23 [파트너십 확장으로 비트 코인 구매 2200 미국 Coinstar 키오스크 출시](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-purchases-roll-out-to-2-200-us-coinstar-kiosks-as-partnership-expands-b107cf10.md)
