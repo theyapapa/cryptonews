@@ -1,3 +1,4 @@
+* 2019-05-23 [Robinhood Zero-Fee Trading APP se lanza oficialmente en Nueva York](https://github.com/theyapapa/cryptonews/blob/es/robinhood-zero-fee-trading-app-officially-launches-in-new-york-49e16875.md)
 * 2019-05-23 [Banco Central de Rusia para considerar las Criptomonedas respaldadas por oro para los asentamientos mutuos](https://github.com/theyapapa/cryptonews/blob/es/russias-central-bank-to-consider-gold-backed-cryptocurrencies-for-mutual-settlements-1761abfc.md)
 * 2019-05-23 [2020 la esperanzadora presidencial lanza la campaña de donaciones criptográficas](https://github.com/theyapapa/cryptonews/blob/es/2020-presidential-hopeful-swalwell-launches-crypto-donations-campaign-f3ec9b2b.md)
 * 2019-05-23 [Bitcoin compras roll out a 2.200 quioscos de Coinstar Estados Unidos como asociación se expande](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-purchases-roll-out-to-2-200-us-coinstar-kiosks-as-partnership-expands-b107cf10.md)
