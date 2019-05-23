@@ -1,3 +1,4 @@
+* 2019-05-23 [Робин Гуд нулевой пошлины торговая App официально запускает в Нью-Йорке](https://github.com/theyapapa/cryptonews/blob/ru/robinhood-zero-fee-trading-app-officially-launches-in-new-york-49e16875.md)
 * 2019-05-23 [Центральный банк России рассмотрит Криптовалюту, поддерживаемой золотом, для взаимных расчетов](https://github.com/theyapapa/cryptonews/blob/ru/russias-central-bank-to-consider-gold-backed-cryptocurrencies-for-mutual-settlements-1761abfc.md)
 * 2019-05-23 [2020 президентские надежды Swalwell запускает крипто пожертвования кампании](https://github.com/theyapapa/cryptonews/blob/ru/2020-presidential-hopeful-swalwell-launches-crypto-donations-campaign-f3ec9b2b.md)
 * 2019-05-23 [Bitcoin покупки ролл до 2 200 США Coinstar киоски, как партнерство расширяется](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-purchases-roll-out-to-2-200-us-coinstar-kiosks-as-partnership-expands-b107cf10.md)
