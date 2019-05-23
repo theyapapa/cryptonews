@@ -1,3 +1,4 @@
+* 2019-05-23 [몰타 정부 상 19 개 블록 체인 장학금 DLT 기금 사용](https://github.com/theyapapa/cryptonews/blob/ko/maltese-government-awards-19-blockchain-scholarships-using-dlt-fund-9ccd490e.md)
 * 2019-05-23 [라이언 Kavanaugh의 미디어 회사는 암호화 프로젝트에 대 한 $1억 투자를 확보](https://github.com/theyapapa/cryptonews/blob/ko/ryan-kavanaughs-media-firm-secures-100-million-investment-for-crypto-project-04b742f7.md)
 * 2019-05-23 [로빈 후드 제로 수수료 거래 응용 프로그램은 공식적으로 뉴욕에 출시](https://github.com/theyapapa/cryptonews/blob/ko/robinhood-zero-fee-trading-app-officially-launches-in-new-york-49e16875.md)
 * 2019-05-23 [상호 타협을 위해 금으로 뒷받침 되는 암호 화폐를 고려 하는 러시아 중앙 은행](https://github.com/theyapapa/cryptonews/blob/ko/russias-central-bank-to-consider-gold-backed-cryptocurrencies-for-mutual-settlements-1761abfc.md)
