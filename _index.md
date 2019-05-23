@@ -1,3 +1,4 @@
+* 2019-05-23 [2020 대통령 희망의 제비 잘 시작 암호화 기부금 캠페인](https://github.com/theyapapa/cryptonews/blob/ko/2020-presidential-hopeful-swalwell-launches-crypto-donations-campaign-f3ec9b2b.md)
 * 2019-05-23 [파트너십 확장으로 비트 코인 구매 2200 미국 Coinstar 키오스크 출시](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-purchases-roll-out-to-2-200-us-coinstar-kiosks-as-partnership-expands-b107cf10.md)
 * 2019-05-22 [일본, FATF 검사에 앞서 암호화 거래소 자금 세탁 정책 확인](https://github.com/theyapapa/cryptonews/blob/ko/japan-to-check-money-laundering-policies-of-crypto-exchanges-ahead-of-fatf-inspection-8cda4a93.md)
 * 2019-05-22 [대한민국 Gov't, 블록 체인 규제를 위한 두 번째 스터디 그룹 발표](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-govt-announces-second-study-group-for-blockchain-regulations-226b0ebe.md)
