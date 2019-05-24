@@ -1,3 +1,4 @@
+* 2019-05-24 [ISTOX Сингапура для запуска регулируется оцифрованных ценных бумаг платформы в 2020](https://github.com/theyapapa/cryptonews/blob/ru/singapores-istox-to-launch-a-regulated-digitized-securities-platform-in-2020-e2b6461a.md)
 * 2019-05-24 [Monero разработчики рассмотреть вопрос о принятии новых доказательство правильности работы алгоритма в октябре](https://github.com/theyapapa/cryptonews/blob/ru/monero-developers-consider-adopting-new-proof-of-work-algorithm-in-october-5551fd0f.md)
 * 2019-05-23 [Доклад: Телеграмма для запуска TON сети в 3 квартале 2019](https://github.com/theyapapa/cryptonews/blob/ru/report-telegram-to-launch-ton-network-in-q3-2019-1be1ec0b.md)
 * 2019-05-23 [Морган Крик Генеральный директор говорит каждый инвестор должен провести некоторые Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/morgan-creek-ceo-says-every-investor-should-hold-some-bitcoin-27d15cc4.md)
