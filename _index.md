@@ -1,3 +1,4 @@
+* 2019-05-24 [Coinbase와 회담에 페이스 북, Winklevoss의 쌍둥이 자리는 그것의 글로벌 동전을 시작 합니다: FT 보고서](https://github.com/theyapapa/cryptonews/blob/ko/facebook-in-talks-with-coinbase-winklevoss-gemini-to-launch-its-globalcoin-ft-report-5465c2b1.md)
 * 2019-05-24 [에 테 리 움 공동 설립자의 비트 버티는 체인 에테르 믹서를 생성 제안](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-vitalik-buterin-proposes-creating-on-chain-ether-mixer-a6588d70.md)
 * 2019-05-24 [싱가포르의 iSTOX는 2020에서 규제 디지털화 된 증권 플랫폼을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/singapores-istox-to-launch-a-regulated-digitized-securities-platform-in-2020-e2b6461a.md)
 * 2019-05-24 [Monero 개발자는 10 월에 새로운 작업 증명 알고리즘을 채택 하는 것이 좋습니다](https://github.com/theyapapa/cryptonews/blob/ko/monero-developers-consider-adopting-new-proof-of-work-algorithm-in-october-5551fd0f.md)
