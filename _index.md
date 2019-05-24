@@ -1,3 +1,4 @@
+* 2019-05-24 [Monero разработчики рассмотреть вопрос о принятии новых доказательство правильности работы алгоритма в октябре](https://github.com/theyapapa/cryptonews/blob/ru/monero-developers-consider-adopting-new-proof-of-work-algorithm-in-october-5551fd0f.md)
 * 2019-05-23 [Доклад: Телеграмма для запуска TON сети в 3 квартале 2019](https://github.com/theyapapa/cryptonews/blob/ru/report-telegram-to-launch-ton-network-in-q3-2019-1be1ec0b.md)
 * 2019-05-23 [Морган Крик Генеральный директор говорит каждый инвестор должен провести некоторые Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/morgan-creek-ceo-says-every-investor-should-hold-some-bitcoin-27d15cc4.md)
 * 2019-05-23 [Мальтийское правительство награды 19 Blockchain стипендии использование DLT фонд](https://github.com/theyapapa/cryptonews/blob/ru/maltese-government-awards-19-blockchain-scholarships-using-dlt-fund-9ccd490e.md)
