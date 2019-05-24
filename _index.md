@@ -1,3 +1,4 @@
+* 2019-05-24 [에 테 리 움 공동 설립자의 비트 버티는 체인 에테르 믹서를 생성 제안](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-vitalik-buterin-proposes-creating-on-chain-ether-mixer-a6588d70.md)
 * 2019-05-24 [싱가포르의 iSTOX는 2020에서 규제 디지털화 된 증권 플랫폼을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/singapores-istox-to-launch-a-regulated-digitized-securities-platform-in-2020-e2b6461a.md)
 * 2019-05-24 [Monero 개발자는 10 월에 새로운 작업 증명 알고리즘을 채택 하는 것이 좋습니다](https://github.com/theyapapa/cryptonews/blob/ko/monero-developers-consider-adopting-new-proof-of-work-algorithm-in-october-5551fd0f.md)
 * 2019-05-23 [보고서: 3 분기 2019에서 톤 네트워크를 실행 하는 전보](https://github.com/theyapapa/cryptonews/blob/ko/report-telegram-to-launch-ton-network-in-q3-2019-1be1ec0b.md)
