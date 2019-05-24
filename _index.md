@@ -1,3 +1,4 @@
+* 2019-05-24 [Monero desarrolladores considerar la adopción de nuevo algoritmo de prueba de trabajo en octubre](https://github.com/theyapapa/cryptonews/blob/es/monero-developers-consider-adopting-new-proof-of-work-algorithm-in-october-5551fd0f.md)
 * 2019-05-23 [Reporte: telegrama para lanzar TON Network en Q3 2019](https://github.com/theyapapa/cryptonews/blob/es/report-telegram-to-launch-ton-network-in-q3-2019-1be1ec0b.md)
 * 2019-05-23 [Morgan Creek CEO dice que cada inversor debe mantener algunos Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/morgan-creek-ceo-says-every-investor-should-hold-some-bitcoin-27d15cc4.md)
 * 2019-05-23 [Premios del Gobierno maltés 19 becas blockchain utilizando el fondo DLT](https://github.com/theyapapa/cryptonews/blob/es/maltese-government-awards-19-blockchain-scholarships-using-dlt-fund-9ccd490e.md)
