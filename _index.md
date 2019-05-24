@@ -1,3 +1,4 @@
+* 2019-05-24 [야당의 정치인 들이 룩셈부르크 전자 정부의 블록 체인, AI 계획에 대 한 세부 사항을 요구](https://github.com/theyapapa/cryptonews/blob/ko/opposition-politicians-demand-details-on-luxembourg-e-government-plan-for-blockchain-ai-ad3efd65.md)
 * 2019-05-24 [비트 코인에 대 한 주장 — 크레이그 라이트의 저작권 신고는 법적 공로를 유지 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/staking-claim-on-bitcoin-does-craig-wrights-copyright-filing-hold-legal-merit-a9a0fd38.md)
 * 2019-05-24 [Coinbase와 회담에 페이스 북, Winklevoss의 쌍둥이 자리는 그것의 글로벌 동전을 시작 합니다: FT 보고서](https://github.com/theyapapa/cryptonews/blob/ko/facebook-in-talks-with-coinbase-winklevoss-gemini-to-launch-its-globalcoin-ft-report-5465c2b1.md)
 * 2019-05-24 [에 테 리 움 공동 설립자의 비트 버티는 체인 에테르 믹서를 생성 제안](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-vitalik-buterin-proposes-creating-on-chain-ether-mixer-a6588d70.md)
