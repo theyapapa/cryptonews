@@ -1,3 +1,4 @@
+* 2019-05-24 [비트 코인에 대 한 주장 — 크레이그 라이트의 저작권 신고는 법적 공로를 유지 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/staking-claim-on-bitcoin-does-craig-wrights-copyright-filing-hold-legal-merit-a9a0fd38.md)
 * 2019-05-24 [Coinbase와 회담에 페이스 북, Winklevoss의 쌍둥이 자리는 그것의 글로벌 동전을 시작 합니다: FT 보고서](https://github.com/theyapapa/cryptonews/blob/ko/facebook-in-talks-with-coinbase-winklevoss-gemini-to-launch-its-globalcoin-ft-report-5465c2b1.md)
 * 2019-05-24 [에 테 리 움 공동 설립자의 비트 버티는 체인 에테르 믹서를 생성 제안](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-vitalik-buterin-proposes-creating-on-chain-ether-mixer-a6588d70.md)
 * 2019-05-24 [싱가포르의 iSTOX는 2020에서 규제 디지털화 된 증권 플랫폼을 시작 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/singapores-istox-to-launch-a-regulated-digitized-securities-platform-in-2020-e2b6461a.md)
