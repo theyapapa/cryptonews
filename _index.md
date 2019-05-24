@@ -1,3 +1,4 @@
+* 2019-05-24 [Monero 개발자는 10 월에 새로운 작업 증명 알고리즘을 채택 하는 것이 좋습니다](https://github.com/theyapapa/cryptonews/blob/ko/monero-developers-consider-adopting-new-proof-of-work-algorithm-in-october-5551fd0f.md)
 * 2019-05-23 [보고서: 3 분기 2019에서 톤 네트워크를 실행 하는 전보](https://github.com/theyapapa/cryptonews/blob/ko/report-telegram-to-launch-ton-network-in-q3-2019-1be1ec0b.md)
 * 2019-05-23 [모건 크릭 CEO는 모든 투자자가 비트 코인을 보유 해야한다 고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/morgan-creek-ceo-says-every-investor-should-hold-some-bitcoin-27d15cc4.md)
 * 2019-05-23 [몰타 정부 상 19 개 블록 체인 장학금 DLT 기금 사용](https://github.com/theyapapa/cryptonews/blob/ko/maltese-government-awards-19-blockchain-scholarships-using-dlt-fund-9ccd490e.md)
