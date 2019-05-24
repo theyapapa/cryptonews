@@ -1,3 +1,4 @@
+* 2019-05-23 [Доклад: Телеграмма для запуска TON сети в 3 квартале 2019](https://github.com/theyapapa/cryptonews/blob/ru/report-telegram-to-launch-ton-network-in-q3-2019-1be1ec0b.md)
 * 2019-05-23 [Морган Крик Генеральный директор говорит каждый инвестор должен провести некоторые Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/morgan-creek-ceo-says-every-investor-should-hold-some-bitcoin-27d15cc4.md)
 * 2019-05-23 [Мальтийское правительство награды 19 Blockchain стипендии использование DLT фонд](https://github.com/theyapapa/cryptonews/blob/ru/maltese-government-awards-19-blockchain-scholarships-using-dlt-fund-9ccd490e.md)
 * 2019-05-23 [Райан Кавано в СМИ фирма обеспечивает $100 000 000 инвестиции для Криптопроекта](https://github.com/theyapapa/cryptonews/blob/ru/ryan-kavanaughs-media-firm-secures-100-million-investment-for-crypto-project-04b742f7.md)
