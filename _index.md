@@ -1,3 +1,4 @@
+* 2019-05-25 [Investigación: ICO sector señales Uptick después Crypto Winter](https://github.com/theyapapa/cryptonews/blob/es/research-ico-sector-signals-uptick-after-crypto-winter-187f658a.md)
 * 2019-05-24 [El guardián financiero del Reino Unido advierte al público de Crypto Clone firm](https://github.com/theyapapa/cryptonews/blob/es/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
 * 2019-05-24 [Dos mineros supuestamente ejecutan 51% ataque a Bitcoin Cash blockchain](https://github.com/theyapapa/cryptonews/blob/es/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
 * 2019-05-24 [El fabricante de relojes más antiguo del mundo para usar blockchain para el seguimiento de Timepieces](https://github.com/theyapapa/cryptonews/blob/es/worlds-oldest-watch-manufacturer-to-use-blockchain-for-tracking-timepieces-9ce45eda.md)
