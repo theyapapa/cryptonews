@@ -1,3 +1,4 @@
+* 2019-05-24 [2 개의 광부 소문 비트 코인 현금 블록 체인에 51% 공격을 실행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
 * 2019-05-24 [세계에서 가장 오래 된 시계 제조업체 블록 체인을 사용 하 여 타임 피스 추적](https://github.com/theyapapa/cryptonews/blob/ko/worlds-oldest-watch-manufacturer-to-use-blockchain-for-tracking-timepieces-9ce45eda.md)
 * 2019-05-24 [야당의 정치인 들이 룩셈부르크 전자 정부의 블록 체인, AI 계획에 대 한 세부 사항을 요구](https://github.com/theyapapa/cryptonews/blob/ko/opposition-politicians-demand-details-on-luxembourg-e-government-plan-for-blockchain-ai-ad3efd65.md)
 * 2019-05-24 [비트 코인에 대 한 주장 — 크레이그 라이트의 저작권 신고는 법적 공로를 유지 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/staking-claim-on-bitcoin-does-craig-wrights-copyright-filing-hold-legal-merit-a9a0fd38.md)
