@@ -1,3 +1,4 @@
+* 2019-05-25 [Уверенно в будущем: разработчики EOS попытка 10% выкуп впереди крупного объявления](https://github.com/theyapapa/cryptonews/blob/ru/confident-in-the-future-eos-developers-attempt-10-buyback-ahead-of-major-announcement-49fe2390.md)
 * 2019-05-25 [Bitcoin держит более $8 000 как топ Альткоинов увидеть незначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-over-8-000-as-top-altcoins-see-minor-losses-44db822d.md)
 * 2019-05-25 [Исследования: ICO сектор сигналы всплеск после криптографической зимы](https://github.com/theyapapa/cryptonews/blob/ru/research-ico-sector-signals-uptick-after-crypto-winter-187f658a.md)
 * 2019-05-24 [Великобритания финансовые сторожевой предупреждает общественность крипто клон фирмы](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
