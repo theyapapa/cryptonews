@@ -1,3 +1,4 @@
+* 2019-05-25 [Исследования: ICO сектор сигналы всплеск после криптографической зимы](https://github.com/theyapapa/cryptonews/blob/ru/research-ico-sector-signals-uptick-after-crypto-winter-187f658a.md)
 * 2019-05-24 [Великобритания финансовые сторожевой предупреждает общественность крипто клон фирмы](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
 * 2019-05-24 [Два Шахтера якобы выполнить 51% атака на Bitcoin Cash Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
 * 2019-05-24 [Старейший в мире производитель часов использовать Blockchain для отслеживания часы](https://github.com/theyapapa/cryptonews/blob/ru/worlds-oldest-watch-manufacturer-to-use-blockchain-for-tracking-timepieces-9ce45eda.md)
