@@ -1,3 +1,4 @@
+* 2019-05-24 [영국 금융 감시는 암호화 복제 회사의 공개 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
 * 2019-05-24 [2 개의 광부 소문 비트 코인 현금 블록 체인에 51% 공격을 실행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
 * 2019-05-24 [세계에서 가장 오래 된 시계 제조업체 블록 체인을 사용 하 여 타임 피스 추적](https://github.com/theyapapa/cryptonews/blob/ko/worlds-oldest-watch-manufacturer-to-use-blockchain-for-tracking-timepieces-9ce45eda.md)
 * 2019-05-24 [야당의 정치인 들이 룩셈부르크 전자 정부의 블록 체인, AI 계획에 대 한 세부 사항을 요구](https://github.com/theyapapa/cryptonews/blob/ko/opposition-politicians-demand-details-on-luxembourg-e-government-plan-for-blockchain-ai-ad3efd65.md)
