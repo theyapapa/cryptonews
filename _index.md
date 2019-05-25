@@ -1,3 +1,4 @@
+* 2019-05-24 [Два Шахтера якобы выполнить 51% атака на Bitcoin Cash Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
 * 2019-05-24 [Старейший в мире производитель часов использовать Blockchain для отслеживания часы](https://github.com/theyapapa/cryptonews/blob/ru/worlds-oldest-watch-manufacturer-to-use-blockchain-for-tracking-timepieces-9ce45eda.md)
 * 2019-05-24 [Оппозиционные политики требуют подробную информацию о люксембургском плане электронного правительства для Блокчейна, AI](https://github.com/theyapapa/cryptonews/blob/ru/opposition-politicians-demand-details-on-luxembourg-e-government-plan-for-blockchain-ai-ad3efd65.md)
 * 2019-05-24 [Ставка претензии на Bitcoin-есть авторские права подачи Крейг Райт держать юридические заслуги?](https://github.com/theyapapa/cryptonews/blob/ru/staking-claim-on-bitcoin-does-craig-wrights-copyright-filing-hold-legal-merit-a9a0fd38.md)
