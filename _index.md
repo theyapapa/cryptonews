@@ -1,3 +1,4 @@
+* 2019-05-25 [미래에 자신감: EOS 개발자는 주요 발표에 앞서 10%의 환매를 시도](https://github.com/theyapapa/cryptonews/blob/ko/confident-in-the-future-eos-developers-attempt-10-buyback-ahead-of-major-announcement-49fe2390.md)
 * 2019-05-25 [비트 코인은 $8000 위를 차지 하 고 있습니다. 작은 손실 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-holds-over-8-000-as-top-altcoins-see-minor-losses-44db822d.md)
 * 2019-05-25 [연구: ICO 분야는 암호화 된 겨울 후에 상향 신호를 보냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/research-ico-sector-signals-uptick-after-crypto-winter-187f658a.md)
 * 2019-05-24 [영국 금융 감시는 암호화 복제 회사의 공개 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
