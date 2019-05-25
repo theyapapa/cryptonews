@@ -1,3 +1,4 @@
+* 2019-05-25 [Confiado en el futuro: los desarrolladores de EOS intentan un 10% de recompra antes del anuncio principal](https://github.com/theyapapa/cryptonews/blob/es/confident-in-the-future-eos-developers-attempt-10-buyback-ahead-of-major-announcement-49fe2390.md)
 * 2019-05-25 [Bitcoin retiene más de $8.000 como Altcoins principales ver pérdidas menores](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-holds-over-8-000-as-top-altcoins-see-minor-losses-44db822d.md)
 * 2019-05-25 [Investigación: ICO sector señales Uptick después Crypto Winter](https://github.com/theyapapa/cryptonews/blob/es/research-ico-sector-signals-uptick-after-crypto-winter-187f658a.md)
 * 2019-05-24 [El guardián financiero del Reino Unido advierte al público de Crypto Clone firm](https://github.com/theyapapa/cryptonews/blob/es/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
