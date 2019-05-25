@@ -1,3 +1,4 @@
+* 2019-05-25 [비트 코인은 $8000 위를 차지 하 고 있습니다. 작은 손실 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-holds-over-8-000-as-top-altcoins-see-minor-losses-44db822d.md)
 * 2019-05-25 [연구: ICO 분야는 암호화 된 겨울 후에 상향 신호를 보냅니다.](https://github.com/theyapapa/cryptonews/blob/ko/research-ico-sector-signals-uptick-after-crypto-winter-187f658a.md)
 * 2019-05-24 [영국 금융 감시는 암호화 복제 회사의 공개 경고](https://github.com/theyapapa/cryptonews/blob/ko/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
 * 2019-05-24 [2 개의 광부 소문 비트 코인 현금 블록 체인에 51% 공격을 실행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
