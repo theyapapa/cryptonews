@@ -1,3 +1,4 @@
+* 2019-05-24 [Великобритания финансовые сторожевой предупреждает общественность крипто клон фирмы](https://github.com/theyapapa/cryptonews/blob/ru/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
 * 2019-05-24 [Два Шахтера якобы выполнить 51% атака на Bitcoin Cash Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
 * 2019-05-24 [Старейший в мире производитель часов использовать Blockchain для отслеживания часы](https://github.com/theyapapa/cryptonews/blob/ru/worlds-oldest-watch-manufacturer-to-use-blockchain-for-tracking-timepieces-9ce45eda.md)
 * 2019-05-24 [Оппозиционные политики требуют подробную информацию о люксембургском плане электронного правительства для Блокчейна, AI](https://github.com/theyapapa/cryptonews/blob/ru/opposition-politicians-demand-details-on-luxembourg-e-government-plan-for-blockchain-ai-ad3efd65.md)
