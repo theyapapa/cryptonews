@@ -1,3 +1,4 @@
+* 2019-05-24 [El guardián financiero del Reino Unido advierte al público de Crypto Clone firm](https://github.com/theyapapa/cryptonews/blob/es/uk-financial-watchdog-warns-public-of-crypto-clone-firm-4904e80c.md)
 * 2019-05-24 [Dos mineros supuestamente ejecutan 51% ataque a Bitcoin Cash blockchain](https://github.com/theyapapa/cryptonews/blob/es/two-miners-purportedly-execute-51-attack-on-bitcoin-cash-blockchain-cd5271cc.md)
 * 2019-05-24 [El fabricante de relojes más antiguo del mundo para usar blockchain para el seguimiento de Timepieces](https://github.com/theyapapa/cryptonews/blob/es/worlds-oldest-watch-manufacturer-to-use-blockchain-for-tracking-timepieces-9ce45eda.md)
 * 2019-05-24 [Los políticos de la oposición exigen detalles sobre el plan de gobierno electrónico de Luxemburgo para blockchain, AI](https://github.com/theyapapa/cryptonews/blob/es/opposition-politicians-demand-details-on-luxembourg-e-government-plan-for-blockchain-ai-ad3efd65.md)
