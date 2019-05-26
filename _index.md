@@ -1,3 +1,4 @@
+* 2019-05-26 [Hodler's Digest, 20 – 26 de mayo: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-may-2026-top-stories-price-movements-quotes-and-fud-of-the-week-b75b6060.md)
 * 2019-05-26 [Top 5 de los intérpretes Crypto: BSV, BNB, LTC, BCH, DASH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-bsv-bnb-ltc-bch-dash-c8664a84.md)
 * 2019-05-26 [Crypto-Italia: instituciones, política, negocios y sociedad](https://github.com/theyapapa/cryptonews/blob/es/crypto-italy-institutions-politics-business-and-society-00fc6f89.md)
 * 2019-05-26 [BCH puede haber sostenido $1,3 millones + doble gasto: BitMex Research](https://github.com/theyapapa/cryptonews/blob/es/bch-may-have-sustained-13-million-double-spend-bitmex-research-0295dbcd.md)
