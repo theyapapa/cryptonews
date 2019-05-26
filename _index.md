@@ -1,3 +1,4 @@
+* 2019-05-26 [¿Será la volatilidad de Bitcoin este mes obstaculizar el futuro de un ETF?](https://github.com/theyapapa/cryptonews/blob/es/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
 * 2019-05-25 [DeFi y crédito en el blockchain: ¿por qué los préstamos son mejores cuando están descentralizados](https://github.com/theyapapa/cryptonews/blob/es/defi-and-credit-on-the-blockchain-why-loans-are-better-when-theyre-decentralized-ca4d81fe.md)
 * 2019-05-25 [Confiado en el futuro: los desarrolladores de EOS intentan un 10% de recompra antes del anuncio principal](https://github.com/theyapapa/cryptonews/blob/es/confident-in-the-future-eos-developers-attempt-10-buyback-ahead-of-major-announcement-49fe2390.md)
 * 2019-05-25 [Bitcoin retiene más de $8.000 como Altcoins principales ver pérdidas menores](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-holds-over-8-000-as-top-altcoins-see-minor-losses-44db822d.md)
