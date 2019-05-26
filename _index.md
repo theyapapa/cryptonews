@@ -1,3 +1,4 @@
+* 2019-05-26 [Hodler의 다이제스트, 5 월 20 – 26: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-may-2026-top-stories-price-movements-quotes-and-fud-of-the-week-b75b6060.md)
 * 2019-05-26 [맨 위로 5 암호화 공연: BSV, BNB, LTC, BCH, 대시](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-bsv-bnb-ltc-bch-dash-c8664a84.md)
 * 2019-05-26 [암호화-이탈리아: 기관, 정치, 비즈니스 및 사회](https://github.com/theyapapa/cryptonews/blob/ko/crypto-italy-institutions-politics-business-and-society-00fc6f89.md)
 * 2019-05-26 [BCH는 $1.3 백만 + 이중 지출을 지속 할 수 있다: BitMex 연구](https://github.com/theyapapa/cryptonews/blob/ko/bch-may-have-sustained-13-million-double-spend-bitmex-research-0295dbcd.md)
