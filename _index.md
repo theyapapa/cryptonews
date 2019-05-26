@@ -1,3 +1,4 @@
+* 2019-05-26 [Top 5 de los intérpretes Crypto: BSV, BNB, LTC, BCH, DASH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-bsv-bnb-ltc-bch-dash-c8664a84.md)
 * 2019-05-26 [Crypto-Italia: instituciones, política, negocios y sociedad](https://github.com/theyapapa/cryptonews/blob/es/crypto-italy-institutions-politics-business-and-society-00fc6f89.md)
 * 2019-05-26 [BCH puede haber sostenido $1,3 millones + doble gasto: BitMex Research](https://github.com/theyapapa/cryptonews/blob/es/bch-may-have-sustained-13-million-double-spend-bitmex-research-0295dbcd.md)
 * 2019-05-26 [¿Será la volatilidad de Bitcoin este mes obstaculizar el futuro de un ETF?](https://github.com/theyapapa/cryptonews/blob/es/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
