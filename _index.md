@@ -1,3 +1,4 @@
+* 2019-05-26 [Crypto-Italia: instituciones, política, negocios y sociedad](https://github.com/theyapapa/cryptonews/blob/es/crypto-italy-institutions-politics-business-and-society-00fc6f89.md)
 * 2019-05-26 [BCH puede haber sostenido $1,3 millones + doble gasto: BitMex Research](https://github.com/theyapapa/cryptonews/blob/es/bch-may-have-sustained-13-million-double-spend-bitmex-research-0295dbcd.md)
 * 2019-05-26 [¿Será la volatilidad de Bitcoin este mes obstaculizar el futuro de un ETF?](https://github.com/theyapapa/cryptonews/blob/es/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
 * 2019-05-25 [DeFi y crédito en el blockchain: ¿por qué los préstamos son mejores cuando están descentralizados](https://github.com/theyapapa/cryptonews/blob/es/defi-and-credit-on-the-blockchain-why-loans-are-better-when-theyre-decentralized-ca4d81fe.md)
