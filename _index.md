@@ -1,3 +1,4 @@
+* 2019-05-26 [암호화-이탈리아: 기관, 정치, 비즈니스 및 사회](https://github.com/theyapapa/cryptonews/blob/ko/crypto-italy-institutions-politics-business-and-society-00fc6f89.md)
 * 2019-05-26 [BCH는 $1.3 백만 + 이중 지출을 지속 할 수 있다: BitMex 연구](https://github.com/theyapapa/cryptonews/blob/ko/bch-may-have-sustained-13-million-double-spend-bitmex-research-0295dbcd.md)
 * 2019-05-26 [이번 달에 비트 코인의 변동성은 ETF의 미래를 방해 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
 * 2019-05-25 [블록 체인의 DeFi 및 크레딧: 왜 융자가 분산화 되었을 때 더 나은 이유](https://github.com/theyapapa/cryptonews/blob/ko/defi-and-credit-on-the-blockchain-why-loans-are-better-when-theyre-decentralized-ca4d81fe.md)
