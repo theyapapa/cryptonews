@@ -1,3 +1,4 @@
+* 2019-05-26 [Top 5 крипто исполнители: БСВ, НББ, LTC, BSV, DASH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-bsv-bnb-ltc-bch-dash-c8664a84.md)
 * 2019-05-26 [Крипто-Италия: институты, политика, Бизнес и общество](https://github.com/theyapapa/cryptonews/blob/ru/crypto-italy-institutions-politics-business-and-society-00fc6f89.md)
 * 2019-05-26 [BCH может иметь устойчивый $1,3 миллион + двойной тратить: Bitмекс исследований](https://github.com/theyapapa/cryptonews/blob/ru/bch-may-have-sustained-13-million-double-spend-bitmex-research-0295dbcd.md)
 * 2019-05-26 [Будет ли волатильность биткоина в этом месяце препятствовать будущему ETF?](https://github.com/theyapapa/cryptonews/blob/ru/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
