@@ -1,3 +1,4 @@
+* 2019-05-26 [이번 달에 비트 코인의 변동성은 ETF의 미래를 방해 합니까?](https://github.com/theyapapa/cryptonews/blob/ko/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
 * 2019-05-25 [블록 체인의 DeFi 및 크레딧: 왜 융자가 분산화 되었을 때 더 나은 이유](https://github.com/theyapapa/cryptonews/blob/ko/defi-and-credit-on-the-blockchain-why-loans-are-better-when-theyre-decentralized-ca4d81fe.md)
 * 2019-05-25 [미래에 자신감: EOS 개발자는 주요 발표에 앞서 10%의 환매를 시도](https://github.com/theyapapa/cryptonews/blob/ko/confident-in-the-future-eos-developers-attempt-10-buyback-ahead-of-major-announcement-49fe2390.md)
 * 2019-05-25 [비트 코인은 $8000 위를 차지 하 고 있습니다. 작은 손실 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-holds-over-8-000-as-top-altcoins-see-minor-losses-44db822d.md)
