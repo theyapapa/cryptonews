@@ -1,3 +1,4 @@
+* 2019-05-26 [BCH может иметь устойчивый $1,3 миллион + двойной тратить: Bitмекс исследований](https://github.com/theyapapa/cryptonews/blob/ru/bch-may-have-sustained-13-million-double-spend-bitmex-research-0295dbcd.md)
 * 2019-05-26 [Будет ли волатильность биткоина в этом месяце препятствовать будущему ETF?](https://github.com/theyapapa/cryptonews/blob/ru/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
 * 2019-05-25 [Дефи и кредит на Блокчейне: почему кредиты лучше, когда они децентрализованы](https://github.com/theyapapa/cryptonews/blob/ru/defi-and-credit-on-the-blockchain-why-loans-are-better-when-theyre-decentralized-ca4d81fe.md)
 * 2019-05-25 [Уверенно в будущем: разработчики EOS попытка 10% выкуп впереди крупного объявления](https://github.com/theyapapa/cryptonews/blob/ru/confident-in-the-future-eos-developers-attempt-10-buyback-ahead-of-major-announcement-49fe2390.md)
