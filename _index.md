@@ -1,3 +1,4 @@
+* 2019-05-26 [Будет ли волатильность биткоина в этом месяце препятствовать будущему ETF?](https://github.com/theyapapa/cryptonews/blob/ru/will-bitcoins-volatility-this-month-hinder-the-future-of-an-etf-5806788a.md)
 * 2019-05-25 [Дефи и кредит на Блокчейне: почему кредиты лучше, когда они децентрализованы](https://github.com/theyapapa/cryptonews/blob/ru/defi-and-credit-on-the-blockchain-why-loans-are-better-when-theyre-decentralized-ca4d81fe.md)
 * 2019-05-25 [Уверенно в будущем: разработчики EOS попытка 10% выкуп впереди крупного объявления](https://github.com/theyapapa/cryptonews/blob/ru/confident-in-the-future-eos-developers-attempt-10-buyback-ahead-of-major-announcement-49fe2390.md)
 * 2019-05-25 [Bitcoin держит более $8 000 как топ Альткоинов увидеть незначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-over-8-000-as-top-altcoins-see-minor-losses-44db822d.md)
