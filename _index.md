@@ -1,3 +1,4 @@
+* 2019-05-27 [Archivos Cryptopia Liquidator para protección de datos de usuario en la corte de Estados Unidos como proceso continúa](https://github.com/theyapapa/cryptonews/blob/es/cryptopia-liquidator-files-for-user-data-protection-at-us-court-as-process-continues-42a0d7e7.md)
 * 2019-05-26 [Hodler's Digest, 20 – 26 de mayo: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-may-2026-top-stories-price-movements-quotes-and-fud-of-the-week-b75b6060.md)
 * 2019-05-26 [Top 5 de los intérpretes Crypto: BSV, BNB, LTC, BCH, DASH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-bsv-bnb-ltc-bch-dash-c8664a84.md)
 * 2019-05-26 [Crypto-Italia: instituciones, política, negocios y sociedad](https://github.com/theyapapa/cryptonews/blob/es/crypto-italy-institutions-politics-business-and-society-00fc6f89.md)
