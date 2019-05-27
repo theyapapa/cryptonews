@@ -1,3 +1,4 @@
+* 2019-05-27 [자율 IoT 네트워크에 대 한 Binance 상장 프로젝트와 협력 하는 도이치 텔레콤 유닛](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-telekom-unit-to-cooperate-with-binance-listed-project-on-autonomous-iot-network-106b6d47.md)
 * 2019-05-27 [Cryptopia Liquidator 프로세스가 계속 되 면 미국 법원에서 사용자 데이터 보호를 위한 파일](https://github.com/theyapapa/cryptonews/blob/ko/cryptopia-liquidator-files-for-user-data-protection-at-us-court-as-process-continues-42a0d7e7.md)
 * 2019-05-26 [Hodler의 다이제스트, 5 월 20 – 26: 상단 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-may-2026-top-stories-price-movements-quotes-and-fud-of-the-week-b75b6060.md)
 * 2019-05-26 [맨 위로 5 암호화 공연: BSV, BNB, LTC, BCH, 대시](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-bsv-bnb-ltc-bch-dash-c8664a84.md)
