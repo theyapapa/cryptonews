@@ -1,3 +1,4 @@
+* 2019-05-27 [대통령 선거 위험 속에서 아르헨티나 페소와 비교 하 여 모든 시간에 비트 코인을 조회](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hits-all-time-high-versus-argentine-peso-amid-presidential-election-risks-41b97786.md)
 * 2019-05-27 [아프리카: 말라위의 중앙 은행은 암호화가 법적 입찰 하지 않습니다 말한다, 거래 위험 경고](https://github.com/theyapapa/cryptonews/blob/ko/africa-central-bank-of-malawi-says-crypto-is-not-legal-tender-warns-of-trading-risks-dc3ed397.md)
 * 2019-05-27 [중국의 최신 암호화 순위: EOS 최고의 자리를 유지, 12 위 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/chinas-latest-crypto-rankings-eos-retains-top-spot-bitcoin-in-12th-place-7f86402e.md)
 * 2019-05-27 [자율 IoT 네트워크에 대 한 Binance 상장 프로젝트와 협력 하는 도이치 텔레콤 유닛](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-telekom-unit-to-cooperate-with-binance-listed-project-on-autonomous-iot-network-106b6d47.md)
