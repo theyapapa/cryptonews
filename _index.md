@@ -1,3 +1,4 @@
+* 2019-05-27 [Подразделение Deutsche Телеком сотрудничает с проектом, перечисленным в Binance на автономную сеть IoT](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-telekom-unit-to-cooperate-with-binance-listed-project-on-autonomous-iot-network-106b6d47.md)
 * 2019-05-27 [Криптопия ликвидатор файлы для защиты пользовательских данных в суде США, как процесс продолжается](https://github.com/theyapapa/cryptonews/blob/ru/cryptopia-liquidator-files-for-user-data-protection-at-us-court-as-process-continues-42a0d7e7.md)
 * 2019-05-26 [Дайджест ходлера, 20 мая – 26: лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-may-2026-top-stories-price-movements-quotes-and-fud-of-the-week-b75b6060.md)
 * 2019-05-26 [Top 5 крипто исполнители: БСВ, НББ, LTC, BSV, DASH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-bsv-bnb-ltc-bch-dash-c8664a84.md)
