@@ -1,3 +1,4 @@
+* 2019-05-28 [이란 IBM 하이퍼 레저 패브릭에서 국가 블록 체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/iran-developing-national-blockchain-platform-on-ibm-hyperledger-fabric-f18262f3.md)
 * 2019-05-27 [여러 사용자에 게 동일한 키를 준 지갑 취약점을 발견 한 컴퓨터 연구원](https://github.com/theyapapa/cryptonews/blob/ko/computer-researcher-finds-wallet-vulnerability-that-gave-same-key-to-multiple-users-a6edddc3.md)
 * 2019-05-27 [대통령 선거 위험 속에서 아르헨티나 페소와 비교 하 여 모든 시간에 비트 코인을 조회](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hits-all-time-high-versus-argentine-peso-amid-presidential-election-risks-41b97786.md)
 * 2019-05-27 [아프리카: 말라위의 중앙 은행은 암호화가 법적 입찰 하지 않습니다 말한다, 거래 위험 경고](https://github.com/theyapapa/cryptonews/blob/ko/africa-central-bank-of-malawi-says-crypto-is-not-legal-tender-warns-of-trading-risks-dc3ed397.md)
