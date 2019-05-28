@@ -1,3 +1,4 @@
+* 2019-05-28 [블랙스톤 다이-무역 금융 프로젝트에 Bitfury와 함께 인도 기술 회사 파트너를 소유](https://github.com/theyapapa/cryptonews/blob/ko/blackstone-majority-owned-indian-tech-firm-partners-with-bitfury-on-trade-finance-project-f718530d.md)
 * 2019-05-28 [호주 증권 및 투자 위원회는 공식적으로 OneCoin에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/australian-securities-and-investments-commission-officially-warns-against-onecoin-0517c97e.md)
 * 2019-05-28 [이란 IBM 하이퍼 레저 패브릭에서 국가 블록 체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/iran-developing-national-blockchain-platform-on-ibm-hyperledger-fabric-f18262f3.md)
 * 2019-05-27 [여러 사용자에 게 동일한 키를 준 지갑 취약점을 발견 한 컴퓨터 연구원](https://github.com/theyapapa/cryptonews/blob/ko/computer-researcher-finds-wallet-vulnerability-that-gave-same-key-to-multiple-users-a6edddc3.md)
