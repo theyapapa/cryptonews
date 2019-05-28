@@ -1,3 +1,4 @@
+* 2019-05-28 [Объемы Bitcoin Trading в Южной Корее на местно-биткоинах достигают новых рекордных уровней](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-bitcoin-trading-volumes-on-localbitcoins-reach-new-record-levels-d4b83c9c.md)
 * 2019-05-28 [Российское государство проверяет приложение на основе Блокчейна для государственного управления](https://github.com/theyapapa/cryptonews/blob/ru/russian-state-tests-blockchain-based-application-for-public-administration-99f77957.md)
 * 2019-05-28 [Второй и четвертый крупнейшие Судоходные компании в мире объединяют Блокчейн-платформу Маерск](https://github.com/theyapapa/cryptonews/blob/ru/worlds-second-and-fourth-biggest-shipping-firms-join-maersks-blockchain-platform-01a0067a.md)
 * 2019-05-28 [Белая бумага Bitwise: поддельные объемы торгов на биржах не влияют на цены BTC](https://github.com/theyapapa/cryptonews/blob/ru/bitwise-white-paper-fake-trading-volumes-by-exchanges-do-not-impact-btc-prices-108cb762.md)
