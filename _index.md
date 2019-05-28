@@ -1,3 +1,4 @@
+* 2019-05-28 [백서 비트: 거래소에의 한 가짜 거래량은 BTC 가격에 영향을 미치지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-white-paper-fake-trading-volumes-by-exchanges-do-not-impact-btc-prices-108cb762.md)
 * 2019-05-28 [블랙스톤 다이-무역 금융 프로젝트에 Bitfury와 함께 인도 기술 회사 파트너를 소유](https://github.com/theyapapa/cryptonews/blob/ko/blackstone-majority-owned-indian-tech-firm-partners-with-bitfury-on-trade-finance-project-f718530d.md)
 * 2019-05-28 [호주 증권 및 투자 위원회는 공식적으로 OneCoin에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/australian-securities-and-investments-commission-officially-warns-against-onecoin-0517c97e.md)
 * 2019-05-28 [이란 IBM 하이퍼 레저 패브릭에서 국가 블록 체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/iran-developing-national-blockchain-platform-on-ibm-hyperledger-fabric-f18262f3.md)
