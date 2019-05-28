@@ -1,3 +1,4 @@
+* 2019-05-28 [러시아 국가는 공공 행정을 위한 블록 체인 기반 응용 프로그램을 테스트](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-tests-blockchain-based-application-for-public-administration-99f77957.md)
 * 2019-05-28 [세계에서 두 번째로 큰 선적 기업이 Maersk의 블록 체인 플랫폼에 가입 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/worlds-second-and-fourth-biggest-shipping-firms-join-maersks-blockchain-platform-01a0067a.md)
 * 2019-05-28 [백서 비트: 거래소에의 한 가짜 거래량은 BTC 가격에 영향을 미치지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-white-paper-fake-trading-volumes-by-exchanges-do-not-impact-btc-prices-108cb762.md)
 * 2019-05-28 [블랙스톤 다이-무역 금융 프로젝트에 Bitfury와 함께 인도 기술 회사 파트너를 소유](https://github.com/theyapapa/cryptonews/blob/ko/blackstone-majority-owned-indian-tech-firm-partners-with-bitfury-on-trade-finance-project-f718530d.md)
