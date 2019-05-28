@@ -1,3 +1,4 @@
+* 2019-05-28 [로컬 Bitcoins의 한국 비트 코인 거래량은 새로운 레코드 수준에 도달](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-bitcoin-trading-volumes-on-localbitcoins-reach-new-record-levels-d4b83c9c.md)
 * 2019-05-28 [러시아 국가는 공공 행정을 위한 블록 체인 기반 응용 프로그램을 테스트](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-tests-blockchain-based-application-for-public-administration-99f77957.md)
 * 2019-05-28 [세계에서 두 번째로 큰 선적 기업이 Maersk의 블록 체인 플랫폼에 가입 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/worlds-second-and-fourth-biggest-shipping-firms-join-maersks-blockchain-platform-01a0067a.md)
 * 2019-05-28 [백서 비트: 거래소에의 한 가짜 거래량은 BTC 가격에 영향을 미치지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-white-paper-fake-trading-volumes-by-exchanges-do-not-impact-btc-prices-108cb762.md)
