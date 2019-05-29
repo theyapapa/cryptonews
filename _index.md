@@ -1,3 +1,4 @@
+* 2019-05-28 [클레이 리드 $550만 자금 조달 라운드 블록 체인 기반 송장 교환](https://github.com/theyapapa/cryptonews/blob/ko/barclays-leads-55-million-funding-round-for-blockchain-based-invoice-exchange-724b09ad.md)
 * 2019-05-28 [블록 체인 게임의 가상 레이싱 카는 $11만 이상 판매 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/virtual-racing-car-in-blockchain-game-sells-for-over-110-000-289d41bb.md)
 * 2019-05-28 [로컬 Bitcoins의 한국 비트 코인 거래량은 새로운 레코드 수준에 도달](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-bitcoin-trading-volumes-on-localbitcoins-reach-new-record-levels-d4b83c9c.md)
 * 2019-05-28 [러시아 국가는 공공 행정을 위한 블록 체인 기반 응용 프로그램을 테스트](https://github.com/theyapapa/cryptonews/blob/ko/russian-state-tests-blockchain-based-application-for-public-administration-99f77957.md)
