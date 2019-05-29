@@ -1,3 +1,4 @@
+* 2019-05-29 [Rakuten Wallet Partners con CipherTrace para asegurar la seguridad de su próximo Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/rakuten-wallet-partners-with-ciphertrace-to-assure-safety-of-its-upcoming-crypto-exchange-453444b3.md)
 * 2019-05-29 [MakerDAO: propuesta para reducir la tasa de estabilidad de DAI en un 2% ejecutado](https://github.com/theyapapa/cryptonews/blob/es/makerdao-proposal-to-lower-dai-stability-fee-by-2-executed-3eca410b.md)
 * 2019-05-28 [Barclays lidera $5,5 millones ronda de financiación para el intercambio de facturas basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/barclays-leads-55-million-funding-round-for-blockchain-based-invoice-exchange-724b09ad.md)
 * 2019-05-28 [Virtual Racing Car en blockchain juego vende por más de $110.000](https://github.com/theyapapa/cryptonews/blob/es/virtual-racing-car-in-blockchain-game-sells-for-over-110-000-289d41bb.md)
