@@ -1,3 +1,4 @@
+* 2019-05-28 [Barclays ведет $5 500 000 финансирование раунда на основе Blockchain обмен счета](https://github.com/theyapapa/cryptonews/blob/ru/barclays-leads-55-million-funding-round-for-blockchain-based-invoice-exchange-724b09ad.md)
 * 2019-05-28 [Виртуальный гоночный автомобиль в Blockchain игры продается за более чем $110 000](https://github.com/theyapapa/cryptonews/blob/ru/virtual-racing-car-in-blockchain-game-sells-for-over-110-000-289d41bb.md)
 * 2019-05-28 [Объемы Bitcoin Trading в Южной Корее на местно-биткоинах достигают новых рекордных уровней](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-bitcoin-trading-volumes-on-localbitcoins-reach-new-record-levels-d4b83c9c.md)
 * 2019-05-28 [Российское государство проверяет приложение на основе Блокчейна для государственного управления](https://github.com/theyapapa/cryptonews/blob/ru/russian-state-tests-blockchain-based-application-for-public-administration-99f77957.md)
