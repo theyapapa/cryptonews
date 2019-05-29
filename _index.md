@@ -1,3 +1,4 @@
+* 2019-05-29 [곧 암호 교환의 안전을 보장 하기 위해 CipherTrace와 라쿠텐 지갑 파트너](https://github.com/theyapapa/cryptonews/blob/ko/rakuten-wallet-partners-with-ciphertrace-to-assure-safety-of-its-upcoming-crypto-exchange-453444b3.md)
 * 2019-05-29 [MakerDAO: 더 낮은 다이 안정성 수수료 2% 절감 제안](https://github.com/theyapapa/cryptonews/blob/ko/makerdao-proposal-to-lower-dai-stability-fee-by-2-executed-3eca410b.md)
 * 2019-05-28 [클레이 리드 $550만 자금 조달 라운드 블록 체인 기반 송장 교환](https://github.com/theyapapa/cryptonews/blob/ko/barclays-leads-55-million-funding-round-for-blockchain-based-invoice-exchange-724b09ad.md)
 * 2019-05-28 [블록 체인 게임의 가상 레이싱 카는 $11만 이상 판매 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/virtual-racing-car-in-blockchain-game-sells-for-over-110-000-289d41bb.md)
