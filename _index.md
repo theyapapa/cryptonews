@@ -1,3 +1,4 @@
+* 2019-05-29 [Crypto Lending startup BlockFi lanza cuentas de Gemini Dollar](https://github.com/theyapapa/cryptonews/blob/es/crypto-lending-startup-blockfi-launches-gemini-dollar-accounts-d572c4f9.md)
 * 2019-05-29 [Proyecto blockchain para archivos nacionales informes de prueba exitosa para contenido audiovisual](https://github.com/theyapapa/cryptonews/blob/es/blockchain-project-for-national-archives-reports-successful-trial-for-audio-visual-content-2284f6c8.md)
 * 2019-05-29 [Escala de grises: BTC Holdings make up $1.97 B de $2.1 B activos bajo administración](https://github.com/theyapapa/cryptonews/blob/es/grayscale-btc-holdings-make-up-197b-of-21b-assets-under-management-1dee573c.md)
 * 2019-05-29 [El Presidente del Banco Central de Alemania advierte sobre los resultados serios de las monedas digitales](https://github.com/theyapapa/cryptonews/blob/es/president-of-germanys-central-bank-warns-of-serious-outcomes-of-digital-currencies-5fa451b4.md)
