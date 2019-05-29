@@ -1,3 +1,4 @@
+* 2019-05-29 [암호화 대출 시작 BlockFi는 쌍둥이 달러 계정을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-lending-startup-blockfi-launches-gemini-dollar-accounts-d572c4f9.md)
 * 2019-05-29 [국립 아카이브에 대 한 블록 체인 프로젝트는 시청각 콘텐츠에 대 한 성공적인 재판을 보고](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-project-for-national-archives-reports-successful-trial-for-audio-visual-content-2284f6c8.md)
 * 2019-05-29 [그레이스케일: BTC 홀딩스가 $1.97 B의 $2.1 B 자산 관리 하에](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-btc-holdings-make-up-197b-of-21b-assets-under-management-1dee573c.md)
 * 2019-05-29 [독일 중앙 은행의 대통령은 디지털 통화의 심각한 결과에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/president-of-germanys-central-bank-warns-of-serious-outcomes-of-digital-currencies-5fa451b4.md)
