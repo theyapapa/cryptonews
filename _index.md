@@ -1,3 +1,4 @@
+* 2019-05-29 [그레이스케일: BTC 홀딩스가 $1.97 B의 $2.1 B 자산 관리 하에](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-btc-holdings-make-up-197b-of-21b-assets-under-management-1dee573c.md)
 * 2019-05-29 [독일 중앙 은행의 대통령은 디지털 통화의 심각한 결과에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/president-of-germanys-central-bank-warns-of-serious-outcomes-of-digital-currencies-5fa451b4.md)
 * 2019-05-29 [이란의 암호화 기압계-일반 사용자가 더위를 느끼고](https://github.com/theyapapa/cryptonews/blob/ko/irans-crypto-barometer-regular-users-feeling-the-heat-0b8d5211.md)
 * 2019-05-29 [곧 암호 교환의 안전을 보장 하기 위해 CipherTrace와 라쿠텐 지갑 파트너](https://github.com/theyapapa/cryptonews/blob/ko/rakuten-wallet-partners-with-ciphertrace-to-assure-safety-of-its-upcoming-crypto-exchange-453444b3.md)
