@@ -1,3 +1,4 @@
+* 2019-05-29 [독일 중앙 은행의 대통령은 디지털 통화의 심각한 결과에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/president-of-germanys-central-bank-warns-of-serious-outcomes-of-digital-currencies-5fa451b4.md)
 * 2019-05-29 [이란의 암호화 기압계-일반 사용자가 더위를 느끼고](https://github.com/theyapapa/cryptonews/blob/ko/irans-crypto-barometer-regular-users-feeling-the-heat-0b8d5211.md)
 * 2019-05-29 [곧 암호 교환의 안전을 보장 하기 위해 CipherTrace와 라쿠텐 지갑 파트너](https://github.com/theyapapa/cryptonews/blob/ko/rakuten-wallet-partners-with-ciphertrace-to-assure-safety-of-its-upcoming-crypto-exchange-453444b3.md)
 * 2019-05-29 [MakerDAO: 더 낮은 다이 안정성 수수료 2% 절감 제안](https://github.com/theyapapa/cryptonews/blob/ko/makerdao-proposal-to-lower-dai-stability-fee-by-2-executed-3eca410b.md)
