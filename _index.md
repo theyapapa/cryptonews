@@ -1,3 +1,4 @@
+* 2019-05-29 [Блокчейн-проект для национальных архивов сообщает об успешном испытании для аудиовизуальном контенте](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-project-for-national-archives-reports-successful-trial-for-audio-visual-content-2284f6c8.md)
 * 2019-05-29 [Шкала серого: BTC Holdings составляют $1.97 B из $2.1 B активы под управлением](https://github.com/theyapapa/cryptonews/blob/ru/grayscale-btc-holdings-make-up-197b-of-21b-assets-under-management-1dee573c.md)
 * 2019-05-29 [Президент Центрального банка Германии предупреждает о серьезных результатах цифровых валют](https://github.com/theyapapa/cryptonews/blob/ru/president-of-germanys-central-bank-warns-of-serious-outcomes-of-digital-currencies-5fa451b4.md)
 * 2019-05-29 [Иран крипто барометр-регулярные пользователи чувствуя тепло](https://github.com/theyapapa/cryptonews/blob/ru/irans-crypto-barometer-regular-users-feeling-the-heat-0b8d5211.md)
