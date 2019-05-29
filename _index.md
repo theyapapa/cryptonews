@@ -1,3 +1,4 @@
+* 2019-05-29 [Бывший Голдман Сакс исш листьев Blockchain.Com для пульсации](https://github.com/theyapapa/cryptonews/blob/ru/former-goldman-sachs-exec-leaves-blockchaincom-for-ripple-6de73af4.md)
 * 2019-05-29 [Крипто кредитование запуск Блокфи запускает Близнецы долларовые счета](https://github.com/theyapapa/cryptonews/blob/ru/crypto-lending-startup-blockfi-launches-gemini-dollar-accounts-d572c4f9.md)
 * 2019-05-29 [Блокчейн-проект для национальных архивов сообщает об успешном испытании для аудиовизуальном контенте](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-project-for-national-archives-reports-successful-trial-for-audio-visual-content-2284f6c8.md)
 * 2019-05-29 [Шкала серого: BTC Holdings составляют $1.97 B из $2.1 B активы под управлением](https://github.com/theyapapa/cryptonews/blob/ru/grayscale-btc-holdings-make-up-197b-of-21b-assets-under-management-1dee573c.md)
