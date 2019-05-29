@@ -1,3 +1,4 @@
+* 2019-05-29 [El barómetro Crypto de Irán — usuarios habituales sintiendo el calor](https://github.com/theyapapa/cryptonews/blob/es/irans-crypto-barometer-regular-users-feeling-the-heat-0b8d5211.md)
 * 2019-05-29 [Rakuten Wallet Partners con CipherTrace para asegurar la seguridad de su próximo Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/rakuten-wallet-partners-with-ciphertrace-to-assure-safety-of-its-upcoming-crypto-exchange-453444b3.md)
 * 2019-05-29 [MakerDAO: propuesta para reducir la tasa de estabilidad de DAI en un 2% ejecutado](https://github.com/theyapapa/cryptonews/blob/es/makerdao-proposal-to-lower-dai-stability-fee-by-2-executed-3eca410b.md)
 * 2019-05-28 [Barclays lidera $5,5 millones ronda de financiación para el intercambio de facturas basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/barclays-leads-55-million-funding-round-for-blockchain-based-invoice-exchange-724b09ad.md)
