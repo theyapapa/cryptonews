@@ -1,3 +1,4 @@
+* 2019-05-29 [전 골드만 삭스 Exec 잎 Blockchain.Com에 대 한 리플](https://github.com/theyapapa/cryptonews/blob/ko/former-goldman-sachs-exec-leaves-blockchaincom-for-ripple-6de73af4.md)
 * 2019-05-29 [암호화 대출 시작 BlockFi는 쌍둥이 달러 계정을 시작 합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-lending-startup-blockfi-launches-gemini-dollar-accounts-d572c4f9.md)
 * 2019-05-29 [국립 아카이브에 대 한 블록 체인 프로젝트는 시청각 콘텐츠에 대 한 성공적인 재판을 보고](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-project-for-national-archives-reports-successful-trial-for-audio-visual-content-2284f6c8.md)
 * 2019-05-29 [그레이스케일: BTC 홀딩스가 $1.97 B의 $2.1 B 자산 관리 하에](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-btc-holdings-make-up-197b-of-21b-assets-under-management-1dee573c.md)
