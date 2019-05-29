@@ -1,3 +1,4 @@
+* 2019-05-29 [Escala de grises: BTC Holdings make up $1.97 B de $2.1 B activos bajo administración](https://github.com/theyapapa/cryptonews/blob/es/grayscale-btc-holdings-make-up-197b-of-21b-assets-under-management-1dee573c.md)
 * 2019-05-29 [El Presidente del Banco Central de Alemania advierte sobre los resultados serios de las monedas digitales](https://github.com/theyapapa/cryptonews/blob/es/president-of-germanys-central-bank-warns-of-serious-outcomes-of-digital-currencies-5fa451b4.md)
 * 2019-05-29 [El barómetro Crypto de Irán — usuarios habituales sintiendo el calor](https://github.com/theyapapa/cryptonews/blob/es/irans-crypto-barometer-regular-users-feeling-the-heat-0b8d5211.md)
 * 2019-05-29 [Rakuten Wallet Partners con CipherTrace para asegurar la seguridad de su próximo Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/rakuten-wallet-partners-with-ciphertrace-to-assure-safety-of-its-upcoming-crypto-exchange-453444b3.md)
