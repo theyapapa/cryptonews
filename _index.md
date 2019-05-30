@@ -1,3 +1,4 @@
+* 2019-05-29 [Telegram libera oficialmente el cliente TON TestNet blockchain Lite](https://github.com/theyapapa/cryptonews/blob/es/telegram-officially-releases-ton-testnet-blockchain-lite-client-6e413a6a.md)
 * 2019-05-29 [El anterior Goldman Sachs exec Leaves Blockchain.Com for Ripple](https://github.com/theyapapa/cryptonews/blob/es/former-goldman-sachs-exec-leaves-blockchaincom-for-ripple-6de73af4.md)
 * 2019-05-29 [Crypto Lending startup BlockFi lanza cuentas de Gemini Dollar](https://github.com/theyapapa/cryptonews/blob/es/crypto-lending-startup-blockfi-launches-gemini-dollar-accounts-d572c4f9.md)
 * 2019-05-29 [Proyecto blockchain para archivos nacionales informes de prueba exitosa para contenido audiovisual](https://github.com/theyapapa/cryptonews/blob/es/blockchain-project-for-national-archives-reports-successful-trial-for-audio-visual-content-2284f6c8.md)
