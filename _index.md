@@ -1,3 +1,4 @@
+* 2019-05-30 [홍콩 증권 레 귤 레이 터는 사기 행위에 대 한 암호화 규제를 요구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hong-kongs-securities-regulator-calls-for-crypto-regulation-to-confront-fraud-aee285ff.md)
 * 2019-05-30 [북한은 제재에 대응 하 여 암호 화폐 공격을 시작 하였으며, FBI](https://github.com/theyapapa/cryptonews/blob/ko/north-korea-launched-cryptocurrency-attacks-in-response-to-sanctions-says-fbi-501109bc.md)
 * 2019-05-29 [전보 공식적으로 출시 톤 Testnet 블록 체인 라이트 클라이언트](https://github.com/theyapapa/cryptonews/blob/ko/telegram-officially-releases-ton-testnet-blockchain-lite-client-6e413a6a.md)
 * 2019-05-29 [전 골드만 삭스 Exec 잎 Blockchain.Com에 대 한 리플](https://github.com/theyapapa/cryptonews/blob/ko/former-goldman-sachs-exec-leaves-blockchaincom-for-ripple-6de73af4.md)
