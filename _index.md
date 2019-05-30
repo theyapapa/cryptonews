@@ -1,3 +1,4 @@
+* 2019-05-30 [El regulador de valores de Hong Kong pide la regulación criptográfica para enfrentar el fraude](https://github.com/theyapapa/cryptonews/blob/es/hong-kongs-securities-regulator-calls-for-crypto-regulation-to-confront-fraud-aee285ff.md)
 * 2019-05-30 [Corea del norte lanzó ataques criptomoneda en respuesta a las sanciones, dice el FBI](https://github.com/theyapapa/cryptonews/blob/es/north-korea-launched-cryptocurrency-attacks-in-response-to-sanctions-says-fbi-501109bc.md)
 * 2019-05-29 [Telegram libera oficialmente el cliente TON TestNet blockchain Lite](https://github.com/theyapapa/cryptonews/blob/es/telegram-officially-releases-ton-testnet-blockchain-lite-client-6e413a6a.md)
 * 2019-05-29 [El anterior Goldman Sachs exec Leaves Blockchain.Com for Ripple](https://github.com/theyapapa/cryptonews/blob/es/former-goldman-sachs-exec-leaves-blockchaincom-for-ripple-6de73af4.md)
