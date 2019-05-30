@@ -1,3 +1,4 @@
+* 2019-05-30 [트 론은 비트 토런트 기반 IPFS 변형 분산 파일 시스템 프로토콜을 발표](https://github.com/theyapapa/cryptonews/blob/ko/tron-announces-bittorrent-based-ipfs-variant-decentralized-file-system-protocol-8374a711.md)
 * 2019-05-30 [가짜 뉴스 중국에서 순환 비트 코인 SV 가격 서 지에 대 한 책임을 제안](https://github.com/theyapapa/cryptonews/blob/ko/fake-news-circulating-in-china-suggested-to-be-responsible-for-bitcoin-sv-price-surge-f363bace.md)
 * 2019-05-30 [홍콩 증권 레 귤 레이 터는 사기 행위에 대 한 암호화 규제를 요구 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/hong-kongs-securities-regulator-calls-for-crypto-regulation-to-confront-fraud-aee285ff.md)
 * 2019-05-30 [북한은 제재에 대응 하 여 암호 화폐 공격을 시작 하였으며, FBI](https://github.com/theyapapa/cryptonews/blob/ko/north-korea-launched-cryptocurrency-attacks-in-response-to-sanctions-says-fbi-501109bc.md)
