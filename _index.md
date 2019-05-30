@@ -1,3 +1,4 @@
+* 2019-05-29 [Телеграмма официально выпускает TON Тестнет Blockchain Lite клиент](https://github.com/theyapapa/cryptonews/blob/ru/telegram-officially-releases-ton-testnet-blockchain-lite-client-6e413a6a.md)
 * 2019-05-29 [Бывший Голдман Сакс исш листьев Blockchain.Com для пульсации](https://github.com/theyapapa/cryptonews/blob/ru/former-goldman-sachs-exec-leaves-blockchaincom-for-ripple-6de73af4.md)
 * 2019-05-29 [Крипто кредитование запуск Блокфи запускает Близнецы долларовые счета](https://github.com/theyapapa/cryptonews/blob/ru/crypto-lending-startup-blockfi-launches-gemini-dollar-accounts-d572c4f9.md)
 * 2019-05-29 [Блокчейн-проект для национальных архивов сообщает об успешном испытании для аудиовизуальном контенте](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-project-for-national-archives-reports-successful-trial-for-audio-visual-content-2284f6c8.md)
