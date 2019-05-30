@@ -1,3 +1,4 @@
+* 2019-05-30 [Bitcoin перерывы $9 000 в последний ориентир цена точка](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-9-000-in-latest-landmark-price-point-7654970a.md)
 * 2019-05-30 [TRON объявляет БитТоррент основе IPFS вариант децентрализованной файловой системы протокол](https://github.com/theyapapa/cryptonews/blob/ru/tron-announces-bittorrent-based-ipfs-variant-decentralized-file-system-protocol-8374a711.md)
 * 2019-05-30 [Поддельные новости циркулирующих в Китае предложено быть ответственным за Bitcoin скачок цен](https://github.com/theyapapa/cryptonews/blob/ru/fake-news-circulating-in-china-suggested-to-be-responsible-for-bitcoin-sv-price-surge-f363bace.md)
 * 2019-05-30 [Гонконгский регулятор по ценным бумагам призывает к Крипторегулированию, чтобы противостоять мошенничеству](https://github.com/theyapapa/cryptonews/blob/ru/hong-kongs-securities-regulator-calls-for-crypto-regulation-to-confront-fraud-aee285ff.md)
