@@ -1,3 +1,4 @@
+* 2019-05-30 [Поддельные новости циркулирующих в Китае предложено быть ответственным за Bitcoin скачок цен](https://github.com/theyapapa/cryptonews/blob/ru/fake-news-circulating-in-china-suggested-to-be-responsible-for-bitcoin-sv-price-surge-f363bace.md)
 * 2019-05-30 [Гонконгский регулятор по ценным бумагам призывает к Крипторегулированию, чтобы противостоять мошенничеству](https://github.com/theyapapa/cryptonews/blob/ru/hong-kongs-securities-regulator-calls-for-crypto-regulation-to-confront-fraud-aee285ff.md)
 * 2019-05-30 [Северная Корея запустила Криптовалютные атаки в ответ на санкции, говорит ФБР](https://github.com/theyapapa/cryptonews/blob/ru/north-korea-launched-cryptocurrency-attacks-in-response-to-sanctions-says-fbi-501109bc.md)
 * 2019-05-29 [Телеграмма официально выпускает TON Тестнет Blockchain Lite клиент](https://github.com/theyapapa/cryptonews/blob/ru/telegram-officially-releases-ton-testnet-blockchain-lite-client-6e413a6a.md)
