@@ -1,3 +1,4 @@
+* 2019-05-30 [El Banco Central de Ruanda emite PSA sobre supuestas estafas de obtener-ricos-Rich criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/rwandas-central-bank-issues-psa-on-alleged-cryptocurrency-get-rich-quick-scams-a9006a1e.md)
 * 2019-05-30 [Bitcoin rompe $9.000 en la última Landmark precio punto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-9-000-in-latest-landmark-price-point-7654970a.md)
 * 2019-05-30 [Tron anuncia el protocolo de sistema de archivos descentralizado basado en BitTorrent variante IPFS](https://github.com/theyapapa/cryptonews/blob/es/tron-announces-bittorrent-based-ipfs-variant-decentralized-file-system-protocol-8374a711.md)
 * 2019-05-30 [Noticias falsas circulando en China sugerido ser responsable de la subida de los precios de Bitcoin SV](https://github.com/theyapapa/cryptonews/blob/es/fake-news-circulating-in-china-suggested-to-be-responsible-for-bitcoin-sv-price-surge-f363bace.md)
