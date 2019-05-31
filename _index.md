@@ -1,3 +1,4 @@
+* 2019-05-31 [비트 코인 및 최고 알트 코인은 미국 주식 시장이 약간의 상승 추세를 볼 때 손실을 봅니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-and-top-altcoins-see-losses-as-us-stock-market-sees-slight-uptrend-ae62a523.md)
 * 2019-05-31 [해킹 된 크립 토 피아 거래소 발표 보고서 Liquidators $4.2 M 채권자에 게 빚 진](https://github.com/theyapapa/cryptonews/blob/ko/liquidators-of-hacked-cryptopia-exchange-release-report-note-42m-owed-to-creditors-5407c4f7.md)
 * 2019-05-31 [일본은 공식적으로 국가 규정을 개정 하는 법안을 승인 암호화 규제](https://github.com/theyapapa/cryptonews/blob/ko/japan-officially-approves-bill-to-amend-national-legislation-governing-crypto-regulation-e99d6780.md)
 * 2019-05-30 [대부분의 주요 동전은 시장이 아래로 보정 하는 빨간색, 녹색에서 금 참조](https://github.com/theyapapa/cryptonews/blob/ko/most-major-coins-see-red-as-market-corrects-downward-gold-in-the-green-8319f5a5.md)
