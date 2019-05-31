@@ -1,3 +1,4 @@
+* 2019-05-31 [브라질, 암호 화폐 규제 위원회 설립](https://github.com/theyapapa/cryptonews/blob/ko/brazil-establishes-committee-for-cryptocurrency-regulation-df405d20.md)
 * 2019-05-31 [코인 베이스 회장과 COO는 회사에서 출발 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-president-and-coo-departs-from-the-company-af1f7ea0.md)
 * 2019-05-31 [큰 네 감사 회사 EY 오픈 소스 그것의에 테 리 움 개인 트랜잭션 솔루션](https://github.com/theyapapa/cryptonews/blob/ko/big-four-auditing-firm-ey-open-sources-its-ethereum-private-transaction-solution-aaedba27.md)
 * 2019-05-31 [비트 코인 및 최고 알트 코인은 미국 주식 시장이 약간의 상승 추세를 볼 때 손실을 봅니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-and-top-altcoins-see-losses-as-us-stock-market-sees-slight-uptrend-ae62a523.md)
