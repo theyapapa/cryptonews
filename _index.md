@@ -1,3 +1,4 @@
+* 2019-05-31 [Brasil establece el Comité de regulación de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/brazil-establishes-committee-for-cryptocurrency-regulation-df405d20.md)
 * 2019-05-31 [El Presidente de coinbase y COO sale de la compañía](https://github.com/theyapapa/cryptonews/blob/es/coinbase-president-and-coo-departs-from-the-company-af1f7ea0.md)
 * 2019-05-31 [La firma de auditoría Big cuatro EY Open sources su solución de transacciones privadas de Ethereum](https://github.com/theyapapa/cryptonews/blob/es/big-four-auditing-firm-ey-open-sources-its-ethereum-private-transaction-solution-aaedba27.md)
 * 2019-05-31 [Bitcoin y Altcoins principales ver pérdidas como mercado de valores de Estados Unidos ve leve tendencia alcista](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-and-top-altcoins-see-losses-as-us-stock-market-sees-slight-uptrend-ae62a523.md)
