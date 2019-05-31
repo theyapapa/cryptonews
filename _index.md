@@ -1,3 +1,4 @@
+* 2019-05-30 [대부분의 주요 동전은 시장이 아래로 보정 하는 빨간색, 녹색에서 금 참조](https://github.com/theyapapa/cryptonews/blob/ko/most-major-coins-see-red-as-market-corrects-downward-gold-in-the-green-8319f5a5.md)
 * 2019-05-30 [아일랜드 대학은 새로운 파트너십에 따라 블록 체인 석사 학위를 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/irish-university-to-offer-blockchain-masters-degree-following-new-partnership-b0a50742.md)
 * 2019-05-30 [르완다의 중앙 은행은 가상 화폐가 풍부 하 고 빠른 사기 혐의에 PSA를 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/rwandas-central-bank-issues-psa-on-alleged-cryptocurrency-get-rich-quick-scams-a9006a1e.md)
 * 2019-05-30 [비트 코인 휴식 $9000 최신 랜드 마크 가격 포인트에서](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-9-000-in-latest-landmark-price-point-7654970a.md)
