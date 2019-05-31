@@ -1,3 +1,4 @@
+* 2019-05-30 [아일랜드 대학은 새로운 파트너십에 따라 블록 체인 석사 학위를 제공 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/irish-university-to-offer-blockchain-masters-degree-following-new-partnership-b0a50742.md)
 * 2019-05-30 [르완다의 중앙 은행은 가상 화폐가 풍부 하 고 빠른 사기 혐의에 PSA를 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/rwandas-central-bank-issues-psa-on-alleged-cryptocurrency-get-rich-quick-scams-a9006a1e.md)
 * 2019-05-30 [비트 코인 휴식 $9000 최신 랜드 마크 가격 포인트에서](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-9-000-in-latest-landmark-price-point-7654970a.md)
 * 2019-05-30 [트 론은 비트 토런트 기반 IPFS 변형 분산 파일 시스템 프로토콜을 발표](https://github.com/theyapapa/cryptonews/blob/ko/tron-announces-bittorrent-based-ipfs-variant-decentralized-file-system-protocol-8374a711.md)
