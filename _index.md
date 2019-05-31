@@ -1,3 +1,4 @@
+* 2019-05-31 [Coinbase президент и главный операционный директор отходит от компании](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-president-and-coo-departs-from-the-company-af1f7ea0.md)
 * 2019-05-31 [Большая четверка Аудиторская фирма EY Open источники его Эфириум частная сделка решение](https://github.com/theyapapa/cryptonews/blob/ru/big-four-auditing-firm-ey-open-sources-its-ethereum-private-transaction-solution-aaedba27.md)
 * 2019-05-31 [Bitcoin и топ Альткоинов увидеть убытки, как фондовый рынок США видит незначительный восходящий тренд](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-and-top-altcoins-see-losses-as-us-stock-market-sees-slight-uptrend-ae62a523.md)
 * 2019-05-31 [Ликвидаторы взломали Криптопии Exchange отчет о выпуске, Примечание $4.2 M задолженность перед кредиторами](https://github.com/theyapapa/cryptonews/blob/ru/liquidators-of-hacked-cryptopia-exchange-release-report-note-42m-owed-to-creditors-5407c4f7.md)
