@@ -1,3 +1,4 @@
+* 2019-05-30 [La mayoría de las monedas principales ver rojo como mercado corrige hacia abajo, oro en el verde](https://github.com/theyapapa/cryptonews/blob/es/most-major-coins-see-red-as-market-corrects-downward-gold-in-the-green-8319f5a5.md)
 * 2019-05-30 [Universidad irlandesa para ofrecer el Máster de blockchain después de la nueva asociación](https://github.com/theyapapa/cryptonews/blob/es/irish-university-to-offer-blockchain-masters-degree-following-new-partnership-b0a50742.md)
 * 2019-05-30 [El Banco Central de Ruanda emite PSA sobre supuestas estafas de obtener-ricos-Rich criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/rwandas-central-bank-issues-psa-on-alleged-cryptocurrency-get-rich-quick-scams-a9006a1e.md)
 * 2019-05-30 [Bitcoin rompe $9.000 en la última Landmark precio punto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-9-000-in-latest-landmark-price-point-7654970a.md)
