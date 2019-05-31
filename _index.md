@@ -1,3 +1,4 @@
+* 2019-05-31 [El Presidente de coinbase y COO sale de la compañía](https://github.com/theyapapa/cryptonews/blob/es/coinbase-president-and-coo-departs-from-the-company-af1f7ea0.md)
 * 2019-05-31 [La firma de auditoría Big cuatro EY Open sources su solución de transacciones privadas de Ethereum](https://github.com/theyapapa/cryptonews/blob/es/big-four-auditing-firm-ey-open-sources-its-ethereum-private-transaction-solution-aaedba27.md)
 * 2019-05-31 [Bitcoin y Altcoins principales ver pérdidas como mercado de valores de Estados Unidos ve leve tendencia alcista](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-and-top-altcoins-see-losses-as-us-stock-market-sees-slight-uptrend-ae62a523.md)
 * 2019-05-31 [Liquidadores del informe de lanzamiento de Exchange Cryptopia de hackeo, nota $4.2 M adeudado a los acreedores](https://github.com/theyapapa/cryptonews/blob/es/liquidators-of-hacked-cryptopia-exchange-release-report-note-42m-owed-to-creditors-5407c4f7.md)
