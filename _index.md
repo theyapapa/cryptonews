@@ -1,3 +1,4 @@
+* 2019-06-01 [Ли кик стенд шанс против Голиафа в SEC в суде США?](https://github.com/theyapapa/cryptonews/blob/ru/does-kik-stand-a-chance-against-the-goliath-of-the-sec-in-a-us-court-69e24d98.md)
 * 2019-06-01 [Chainalysis: 64% вымогателей злоумышленники отмывают доходы через Криптовалютные биржи](https://github.com/theyapapa/cryptonews/blob/ru/chainalysis-64-of-ransomware-attackers-launder-proceeds-via-crypto-exchanges-caee64c7.md)
 * 2019-05-31 [Багамские Острова Национальный разработчик криптовалюты говорит стартапов важное значение для принятия](https://github.com/theyapapa/cryptonews/blob/ru/bahamas-national-cryptocurrency-developer-says-startups-essential-for-adoption-9b4c30d1.md)
 * 2019-05-31 [Международная сторожевой "G20" говорит регуляторов нужны лучшие криптографические оценки рисков](https://github.com/theyapapa/cryptonews/blob/ru/g20-international-watchdog-says-regulators-need-better-crypto-risk-assessments-4914e688.md)
