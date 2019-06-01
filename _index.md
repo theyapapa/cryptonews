@@ -1,3 +1,4 @@
+* 2019-05-31 [Watchdog Internacional del G20 dice que los reguladores necesitan mejores evaluaciones de riesgo criptográfico](https://github.com/theyapapa/cryptonews/blob/es/g20-international-watchdog-says-regulators-need-better-crypto-risk-assessments-4914e688.md)
 * 2019-05-31 [Brasil establece el Comité de regulación de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/brazil-establishes-committee-for-cryptocurrency-regulation-df405d20.md)
 * 2019-05-31 [El Presidente de coinbase y COO sale de la compañía](https://github.com/theyapapa/cryptonews/blob/es/coinbase-president-and-coo-departs-from-the-company-af1f7ea0.md)
 * 2019-05-31 [La firma de auditoría Big cuatro EY Open sources su solución de transacciones privadas de Ethereum](https://github.com/theyapapa/cryptonews/blob/es/big-four-auditing-firm-ey-open-sources-its-ethereum-private-transaction-solution-aaedba27.md)
