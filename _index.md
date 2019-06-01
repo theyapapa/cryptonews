@@ -1,3 +1,4 @@
+* 2019-05-31 [Международная сторожевой "G20" говорит регуляторов нужны лучшие криптографические оценки рисков](https://github.com/theyapapa/cryptonews/blob/ru/g20-international-watchdog-says-regulators-need-better-crypto-risk-assessments-4914e688.md)
 * 2019-05-31 [Бразилия устанавливает Комитет по регулированию Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/brazil-establishes-committee-for-cryptocurrency-regulation-df405d20.md)
 * 2019-05-31 [Coinbase президент и главный операционный директор отходит от компании](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-president-and-coo-departs-from-the-company-af1f7ea0.md)
 * 2019-05-31 [Большая четверка Аудиторская фирма EY Open источники его Эфириум частная сделка решение](https://github.com/theyapapa/cryptonews/blob/ru/big-four-auditing-firm-ey-open-sources-its-ethereum-private-transaction-solution-aaedba27.md)
