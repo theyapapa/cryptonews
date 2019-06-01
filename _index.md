@@ -1,3 +1,4 @@
+* 2019-06-01 [WEF jefe de blockchain Sheila Warren: ' esta tecnología puede resolver la crisis de confianza '](https://github.com/theyapapa/cryptonews/blob/es/wef-head-of-blockchain-sheila-warren-this-tech-can-solve-the-trust-crisis-499ea46c.md)
 * 2019-06-01 [Bitcoin precio enfoques $8.600 como Top Cryptos ver ligeras ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-approaches-8-600-as-top-cryptos-see-slight-gains-737a9053.md)
 * 2019-06-01 [¿Tiene Kik una oportunidad contra el Goliat de la SEC en un tribunal de Estados Unidos?](https://github.com/theyapapa/cryptonews/blob/es/does-kik-stand-a-chance-against-the-goliath-of-the-sec-in-a-us-court-69e24d98.md)
 * 2019-06-01 [Análisis de cadena: 64% de ransomware atacantes Launder procede a través de intercambios Crypto](https://github.com/theyapapa/cryptonews/blob/es/chainalysis-64-of-ransomware-attackers-launder-proceeds-via-crypto-exchanges-caee64c7.md)
