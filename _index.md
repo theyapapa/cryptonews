@@ -1,3 +1,4 @@
+* 2019-06-01 [Chainalysis: 64% вымогателей злоумышленники отмывают доходы через Криптовалютные биржи](https://github.com/theyapapa/cryptonews/blob/ru/chainalysis-64-of-ransomware-attackers-launder-proceeds-via-crypto-exchanges-caee64c7.md)
 * 2019-05-31 [Багамские Острова Национальный разработчик криптовалюты говорит стартапов важное значение для принятия](https://github.com/theyapapa/cryptonews/blob/ru/bahamas-national-cryptocurrency-developer-says-startups-essential-for-adoption-9b4c30d1.md)
 * 2019-05-31 [Международная сторожевой "G20" говорит регуляторов нужны лучшие криптографические оценки рисков](https://github.com/theyapapa/cryptonews/blob/ru/g20-international-watchdog-says-regulators-need-better-crypto-risk-assessments-4914e688.md)
 * 2019-05-31 [Бразилия устанавливает Комитет по регулированию Криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/brazil-establishes-committee-for-cryptocurrency-regulation-df405d20.md)
