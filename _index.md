@@ -1,3 +1,4 @@
+* 2019-06-01 [Análisis de cadena: 64% de ransomware atacantes Launder procede a través de intercambios Crypto](https://github.com/theyapapa/cryptonews/blob/es/chainalysis-64-of-ransomware-attackers-launder-proceeds-via-crypto-exchanges-caee64c7.md)
 * 2019-05-31 [Bahamas desarrollador nacional criptomoneda dice startups esenciales para la adopción](https://github.com/theyapapa/cryptonews/blob/es/bahamas-national-cryptocurrency-developer-says-startups-essential-for-adoption-9b4c30d1.md)
 * 2019-05-31 [Watchdog Internacional del G20 dice que los reguladores necesitan mejores evaluaciones de riesgo criptográfico](https://github.com/theyapapa/cryptonews/blob/es/g20-international-watchdog-says-regulators-need-better-crypto-risk-assessments-4914e688.md)
 * 2019-05-31 [Brasil establece el Comité de regulación de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/brazil-establishes-committee-for-cryptocurrency-regulation-df405d20.md)
