@@ -1,3 +1,4 @@
+* 2019-05-31 [바하마 국가 암호 화폐 개발자는 채택을 위한 필수 신생 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bahamas-national-cryptocurrency-developer-says-startups-essential-for-adoption-9b4c30d1.md)
 * 2019-05-31 [G20 국제 워치독은 규제 기관이 더 나은 암호화 위험 평가를 필요로 한다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/g20-international-watchdog-says-regulators-need-better-crypto-risk-assessments-4914e688.md)
 * 2019-05-31 [브라질, 암호 화폐 규제 위원회 설립](https://github.com/theyapapa/cryptonews/blob/ko/brazil-establishes-committee-for-cryptocurrency-regulation-df405d20.md)
 * 2019-05-31 [코인 베이스 회장과 COO는 회사에서 출발 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-president-and-coo-departs-from-the-company-af1f7ea0.md)
