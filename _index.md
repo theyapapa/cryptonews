@@ -1,3 +1,4 @@
+* 2019-06-02 [상위 5 개 암호화 수행자: BSV, TRX, 아톰, 미 오타 등 넥 소](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-bsv-trx-atom-miota-etc-nexo-97125154.md)
 * 2019-06-01 [Eos 개발자 블록. 하나는 블록 체인 기반의 소셜 미디어 플랫폼 음성을 발표](https://github.com/theyapapa/cryptonews/blob/ko/eos-developer-blockone-announces-blockchain-based-social-media-platform-voice-f6cf9f31.md)
 * 2019-06-01 [블록 체인의 WEF 머리 쉴라 워렌: '이 기술은 신뢰 위기를 해결할 수 있습니다 '](https://github.com/theyapapa/cryptonews/blob/ko/wef-head-of-blockchain-sheila-warren-this-tech-can-solve-the-trust-crisis-499ea46c.md)
 * 2019-06-01 [비트 코인 가격 접근 $8600 최고 Cryptos 약간의 이득을 참조로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-approaches-8-600-as-top-cryptos-see-slight-gains-737a9053.md)
