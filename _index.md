@@ -1,3 +1,4 @@
+* 2019-06-01 [Блок разработчика EOS. один объявляет Blockchain на основе социальных медиа платформы голос](https://github.com/theyapapa/cryptonews/blob/ru/eos-developer-blockone-announces-blockchain-based-social-media-platform-voice-f6cf9f31.md)
 * 2019-06-01 [ВЭФ глава Blockchain Шейла Уоррен: "это технология может решить кризис доверия"](https://github.com/theyapapa/cryptonews/blob/ru/wef-head-of-blockchain-sheila-warren-this-tech-can-solve-the-trust-crisis-499ea46c.md)
 * 2019-06-01 [Bitcoin Цена подходы $8 600 как Top криптографирования увидеть незначительные доходы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-approaches-8-600-as-top-cryptos-see-slight-gains-737a9053.md)
 * 2019-06-01 [Ли кик стенд шанс против Голиафа в SEC в суде США?](https://github.com/theyapapa/cryptonews/blob/ru/does-kik-stand-a-chance-against-the-goliath-of-the-sec-in-a-us-court-69e24d98.md)
