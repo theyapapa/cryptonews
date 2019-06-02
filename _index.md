@@ -1,3 +1,4 @@
+* 2019-06-02 [Top 5 de los intérpretes Crypto: BSV, TRX, ATOM, MIOTA, ETC, NEXO *](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-bsv-trx-atom-miota-etc-nexo-97125154.md)
 * 2019-06-01 [EOS Developer Block. One anuncia la plataforma de redes sociales basada en blockchain](https://github.com/theyapapa/cryptonews/blob/es/eos-developer-blockone-announces-blockchain-based-social-media-platform-voice-f6cf9f31.md)
 * 2019-06-01 [WEF jefe de blockchain Sheila Warren: ' esta tecnología puede resolver la crisis de confianza '](https://github.com/theyapapa/cryptonews/blob/es/wef-head-of-blockchain-sheila-warren-this-tech-can-solve-the-trust-crisis-499ea46c.md)
 * 2019-06-01 [Bitcoin precio enfoques $8.600 como Top Cryptos ver ligeras ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-approaches-8-600-as-top-cryptos-see-slight-gains-737a9053.md)
