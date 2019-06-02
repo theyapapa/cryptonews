@@ -1,3 +1,4 @@
+* 2019-06-01 [Eos 개발자 블록. 하나는 블록 체인 기반의 소셜 미디어 플랫폼 음성을 발표](https://github.com/theyapapa/cryptonews/blob/ko/eos-developer-blockone-announces-blockchain-based-social-media-platform-voice-f6cf9f31.md)
 * 2019-06-01 [블록 체인의 WEF 머리 쉴라 워렌: '이 기술은 신뢰 위기를 해결할 수 있습니다 '](https://github.com/theyapapa/cryptonews/blob/ko/wef-head-of-blockchain-sheila-warren-this-tech-can-solve-the-trust-crisis-499ea46c.md)
 * 2019-06-01 [비트 코인 가격 접근 $8600 최고 Cryptos 약간의 이득을 참조로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-approaches-8-600-as-top-cryptos-see-slight-gains-737a9053.md)
 * 2019-06-01 [Kik는 미국 법원에서 SEC의 골리앗에 대 한 기회를 서 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/does-kik-stand-a-chance-against-the-goliath-of-the-sec-in-a-us-court-69e24d98.md)
