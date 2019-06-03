@@ -1,3 +1,4 @@
+* 2019-06-03 [FT: 미국 규제 CFTC는 소문이 암호화 계획을 통해 페이스 북과 회담에서](https://github.com/theyapapa/cryptonews/blob/ko/ft-us-regulator-cftc-in-talks-with-facebook-over-rumored-crypto-plans-eda3f003.md)
 * 2019-06-03 [OKEx 자매의 회사 Okex는 USDK USD-특질 Stablecoin 출시](https://github.com/theyapapa/cryptonews/blob/ko/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
 * 2019-06-03 [Bitfinex에 대 한 번개 네트워크 지원을 시작 하는 계획 밧줄: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-plans-to-launch-lightning-network-support-for-stablecoin-tether-report-15dbd2b9.md)
 * 2019-06-02 [연방 선점 또는 국가의 권리? 암호화 지지자 들이 규제 접근법을 통해 충돌](https://github.com/theyapapa/cryptonews/blob/ko/federal-preemption-or-states-rights-crypto-advocates-clash-over-regulatory-approaches-b8e4a052.md)
