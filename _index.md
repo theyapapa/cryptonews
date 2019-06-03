@@ -1,3 +1,4 @@
+* 2019-06-03 [OKEx сестра фирма Okex для запуска USD-привязана Стаблекаин USDK](https://github.com/theyapapa/cryptonews/blob/ru/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
 * 2019-06-03 [Bitfinex планирует запустить молния сети поддержка для Стаблеин троса: доклад](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-plans-to-launch-lightning-network-support-for-stablecoin-tether-report-15dbd2b9.md)
 * 2019-06-02 [Федеральный превенция или права государств? Криптозащитники столкновение за регуляторные подходы](https://github.com/theyapapa/cryptonews/blob/ru/federal-preemption-or-states-rights-crypto-advocates-clash-over-regulatory-approaches-b8e4a052.md)
 * 2019-06-02 [Binance ДЕКС будет GeoBlock пользователей из 29 стран, в том числе США](https://github.com/theyapapa/cryptonews/blob/ru/binance-dex-will-geoblock-users-from-29-countries-including-the-us-0d7e85d9.md)
