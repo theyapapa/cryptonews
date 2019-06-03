@@ -1,3 +1,4 @@
+* 2019-06-03 [Bitcoin sigue viendo correcciones negativas después de romper $9.000, las existencias de Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-continues-to-see-negative-corrections-after-breaking-9-000-us-stocks-tumble-da29c271.md)
 * 2019-06-03 [FT: regulador de los EEUU CFTC en charlas con Facebook over Rumored planes Crypto](https://github.com/theyapapa/cryptonews/blob/es/ft-us-regulator-cftc-in-talks-with-facebook-over-rumored-crypto-plans-eda3f003.md)
 * 2019-06-03 [OKEx hermana firma OKLink para lanzar USD-pegged Stablecoin USDK](https://github.com/theyapapa/cryptonews/blob/es/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
 * 2019-06-03 [Bitfinex planea lanzar el soporte de red Lightning para Stablecoin Tether: informe](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-plans-to-launch-lightning-network-support-for-stablecoin-tether-report-15dbd2b9.md)
