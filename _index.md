@@ -1,3 +1,4 @@
+* 2019-06-03 [Documental de fondos bancarios de propiedad estatal brasileña a través de su propio token basado en Ethereum](https://github.com/theyapapa/cryptonews/blob/es/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token-64afebd1.md)
 * 2019-06-03 [Bitcoin sigue viendo correcciones negativas después de romper $9.000, las existencias de Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-continues-to-see-negative-corrections-after-breaking-9-000-us-stocks-tumble-da29c271.md)
 * 2019-06-03 [FT: regulador de los EEUU CFTC en charlas con Facebook over Rumored planes Crypto](https://github.com/theyapapa/cryptonews/blob/es/ft-us-regulator-cftc-in-talks-with-facebook-over-rumored-crypto-plans-eda3f003.md)
 * 2019-06-03 [OKEx hermana firma OKLink para lanzar USD-pegged Stablecoin USDK](https://github.com/theyapapa/cryptonews/blob/es/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
