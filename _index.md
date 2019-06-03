@@ -1,3 +1,4 @@
+* 2019-06-02 [Федеральный превенция или права государств? Криптозащитники столкновение за регуляторные подходы](https://github.com/theyapapa/cryptonews/blob/ru/federal-preemption-or-states-rights-crypto-advocates-clash-over-regulatory-approaches-b8e4a052.md)
 * 2019-06-02 [Binance ДЕКС будет GeoBlock пользователей из 29 стран, в том числе США](https://github.com/theyapapa/cryptonews/blob/ru/binance-dex-will-geoblock-users-from-29-countries-including-the-us-0d7e85d9.md)
 * 2019-06-02 [Топ-5 криптографических исполнителей: БСВ, TRX, атом, MIOTA, ETC, NEXO *](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-bsv-trx-atom-miota-etc-nexo-97125154.md)
 * 2019-06-01 [Блок разработчика EOS. один объявляет Blockchain на основе социальных медиа платформы голос](https://github.com/theyapapa/cryptonews/blob/ru/eos-developer-blockone-announces-blockchain-based-social-media-platform-voice-f6cf9f31.md)
