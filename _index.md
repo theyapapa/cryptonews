@@ -1,3 +1,4 @@
+* 2019-06-03 [비트 코인은 $9000, 미국 주식 텀블을 깨는 후 부정적인 교정을 계속 보고](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-continues-to-see-negative-corrections-after-breaking-9-000-us-stocks-tumble-da29c271.md)
 * 2019-06-03 [FT: 미국 규제 CFTC는 소문이 암호화 계획을 통해 페이스 북과 회담에서](https://github.com/theyapapa/cryptonews/blob/ko/ft-us-regulator-cftc-in-talks-with-facebook-over-rumored-crypto-plans-eda3f003.md)
 * 2019-06-03 [OKEx 자매의 회사 Okex는 USDK USD-특질 Stablecoin 출시](https://github.com/theyapapa/cryptonews/blob/ko/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
 * 2019-06-03 [Bitfinex에 대 한 번개 네트워크 지원을 시작 하는 계획 밧줄: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-plans-to-launch-lightning-network-support-for-stablecoin-tether-report-15dbd2b9.md)
