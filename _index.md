@@ -1,3 +1,4 @@
+* 2019-06-03 [트 론의 저스틴 태양이 $4.57 M에서이 베이 자선 경매 우승 워렌 버핏과 점심에 입찰](https://github.com/theyapapa/cryptonews/blob/ko/trons-justin-sun-wins-ebay-charity-auction-in-457m-bid-to-lunch-with-warren-buffett-99befc90.md)
 * 2019-06-03 [자체 Ethereum 기반 토큰을 통한 브라질 국영 은행 펀드 다큐멘터리](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token-64afebd1.md)
 * 2019-06-03 [비트 코인은 $9000, 미국 주식 텀블을 깨는 후 부정적인 교정을 계속 보고](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-continues-to-see-negative-corrections-after-breaking-9-000-us-stocks-tumble-da29c271.md)
 * 2019-06-03 [FT: 미국 규제 CFTC는 소문이 암호화 계획을 통해 페이스 북과 회담에서](https://github.com/theyapapa/cryptonews/blob/ko/ft-us-regulator-cftc-in-talks-with-facebook-over-rumored-crypto-plans-eda3f003.md)
