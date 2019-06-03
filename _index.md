@@ -1,3 +1,4 @@
+* 2019-06-03 [OKEx hermana firma OKLink para lanzar USD-pegged Stablecoin USDK](https://github.com/theyapapa/cryptonews/blob/es/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
 * 2019-06-03 [Bitfinex planea lanzar el soporte de red Lightning para Stablecoin Tether: informe](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-plans-to-launch-lightning-network-support-for-stablecoin-tether-report-15dbd2b9.md)
 * 2019-06-02 [¿Derechos federales de preferencia o de los Estados? Los defensores Crypto se enfrentan a enfoques regulatorios](https://github.com/theyapapa/cryptonews/blob/es/federal-preemption-or-states-rights-crypto-advocates-clash-over-regulatory-approaches-b8e4a052.md)
 * 2019-06-02 [Binance DEX Will Geoblock usuarios de 29 países, incluyendo los Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/binance-dex-will-geoblock-users-from-29-countries-including-the-us-0d7e85d9.md)
