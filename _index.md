@@ -1,3 +1,4 @@
+* 2019-06-03 [Bitcoin продолжает видеть негативные исправления после Опрокидывающиеся $9 000, США акции падение](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-continues-to-see-negative-corrections-after-breaking-9-000-us-stocks-tumble-da29c271.md)
 * 2019-06-03 [FT: США регулятор CFTC в переговорах с Facebook по слухам крипто планы](https://github.com/theyapapa/cryptonews/blob/ru/ft-us-regulator-cftc-in-talks-with-facebook-over-rumored-crypto-plans-eda3f003.md)
 * 2019-06-03 [OKEx сестра фирма Okex для запуска USD-привязана Стаблекаин USDK](https://github.com/theyapapa/cryptonews/blob/ru/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
 * 2019-06-03 [Bitfinex планирует запустить молния сети поддержка для Стаблеин троса: доклад](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-plans-to-launch-lightning-network-support-for-stablecoin-tether-report-15dbd2b9.md)
