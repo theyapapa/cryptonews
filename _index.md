@@ -1,3 +1,4 @@
+* 2019-06-03 [Джон McAfee раскатать ' Свобода монета ' Криптовалюта этой осенью](https://github.com/theyapapa/cryptonews/blob/ru/john-mcafee-to-roll-out-freedom-coin-cryptocurrency-this-fall-fd5f506b.md)
 * 2019-06-03 [TRON в Джастин Sun Винс eBay Благотворительный аукцион в $4.57 M предложение на обед с Уорреном Баффетом](https://github.com/theyapapa/cryptonews/blob/ru/trons-justin-sun-wins-ebay-charity-auction-in-457m-bid-to-lunch-with-warren-buffett-99befc90.md)
 * 2019-06-03 [Бразильский государственный банк фонды документальный через свой собственный Эфириум основе токена](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-state-owned-bank-funds-documentary-via-its-own-ethereum-based-token-64afebd1.md)
 * 2019-06-03 [Bitcoin продолжает видеть негативные исправления после Опрокидывающиеся $9 000, США акции падение](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-continues-to-see-negative-corrections-after-breaking-9-000-us-stocks-tumble-da29c271.md)
