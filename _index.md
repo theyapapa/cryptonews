@@ -1,3 +1,4 @@
+* 2019-06-03 [FT: США регулятор CFTC в переговорах с Facebook по слухам крипто планы](https://github.com/theyapapa/cryptonews/blob/ru/ft-us-regulator-cftc-in-talks-with-facebook-over-rumored-crypto-plans-eda3f003.md)
 * 2019-06-03 [OKEx сестра фирма Okex для запуска USD-привязана Стаблекаин USDK](https://github.com/theyapapa/cryptonews/blob/ru/okex-subsidiary-oklink-to-launch-usd-pegged-stablecoin-usdk-b5546bac.md)
 * 2019-06-03 [Bitfinex планирует запустить молния сети поддержка для Стаблеин троса: доклад](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-plans-to-launch-lightning-network-support-for-stablecoin-tether-report-15dbd2b9.md)
 * 2019-06-02 [Федеральный превенция или права государств? Криптозащитники столкновение за регуляторные подходы](https://github.com/theyapapa/cryptonews/blob/ru/federal-preemption-or-states-rights-crypto-advocates-clash-over-regulatory-approaches-b8e4a052.md)
