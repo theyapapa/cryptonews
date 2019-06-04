@@ -1,3 +1,4 @@
+* 2019-06-04 [Binance запускает родной целевой кошелек на Binance децентрализованной бирже (ДЕКС)](https://github.com/theyapapa/cryptonews/blob/ru/binance-launches-native-trust-wallet-on-binance-decentralized-exchange-dex-60194cf9.md)
 * 2019-06-04 [Андреас Антонопулос: технология Blockchain не может быть Неизобретена или остановлена](https://github.com/theyapapa/cryptonews/blob/ru/andreas-antonopoulos-blockchain-tech-cannot-be-uninvented-or-stopped-26ac9a56.md)
 * 2019-06-04 [США CFTC Председатель: Blockchain бы улучшили регулятор ответ на 2008 финансовый крах](https://github.com/theyapapa/cryptonews/blob/ru/us-cftc-chair-blockchain-would-have-improved-regulator-response-to-2008-financial-crash-a2947aa4.md)
 * 2019-06-03 [Binance Криптовалюта обмен тестирование британский фунт Стаблекин](https://github.com/theyapapa/cryptonews/blob/ru/binance-cryptocurrency-exchange-testing-british-pound-stablecoin-bb2fc908.md)
