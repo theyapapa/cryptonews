@@ -1,3 +1,4 @@
+* 2019-06-04 [Binance는 Binance 분산 거래소 (DEX)에서 네이티브 트러스트 지갑을 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-native-trust-wallet-on-binance-decentralized-exchange-dex-60194cf9.md)
 * 2019-06-04 [안드레아스 안토니 풀 로스: 블록 체인 기술은 발명 되지 않거나 멈출 수 없습니다.](https://github.com/theyapapa/cryptonews/blob/ko/andreas-antonopoulos-blockchain-tech-cannot-be-uninvented-or-stopped-26ac9a56.md)
 * 2019-06-04 [미국 CFTC의 자: 블록 체인은 2008 금융 충돌에 대 한 조정기 응답을 개선 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-cftc-chair-blockchain-would-have-improved-regulator-response-to-2008-financial-crash-a2947aa4.md)
 * 2019-06-03 [Binance 암호 화폐 거래소 테스트 영국 파운드 Stablecoin](https://github.com/theyapapa/cryptonews/blob/ko/binance-cryptocurrency-exchange-testing-british-pound-stablecoin-bb2fc908.md)
