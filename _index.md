@@ -1,3 +1,4 @@
+* 2019-06-04 [Informe: el intercambio polaco se apaga y desaparece con los fondos de los clientes](https://github.com/theyapapa/cryptonews/blob/es/report-polish-exchange-shuts-down-and-disappears-with-customers-funds-8f54ea93.md)
 * 2019-06-04 [Investigación: China lidera el mundo en los volúmenes de comercio Tether en 2019](https://github.com/theyapapa/cryptonews/blob/es/research-china-leads-world-in-tether-trading-volumes-in-2019-d1771b4d.md)
 * 2019-06-04 [La plataforma de Trading Crypto OKCoin expande sus servicios y abre su oficina en Malta](https://github.com/theyapapa/cryptonews/blob/es/crypto-trading-platform-okcoin-expands-its-services-and-opens-office-in-malta-883c3914.md)
 * 2019-06-04 [Binance lanza la cartera de confianza nativa en el intercambio descentralizado Binance (DEX)](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-native-trust-wallet-on-binance-decentralized-exchange-dex-60194cf9.md)
