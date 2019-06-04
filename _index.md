@@ -1,3 +1,4 @@
+* 2019-06-04 [Binance lanza la cartera de confianza nativa en el intercambio descentralizado Binance (DEX)](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-native-trust-wallet-on-binance-decentralized-exchange-dex-60194cf9.md)
 * 2019-06-04 [Andreas Antonopoulos: blockchain Tech no puede ser Ininventado o detenido](https://github.com/theyapapa/cryptonews/blob/es/andreas-antonopoulos-blockchain-tech-cannot-be-uninvented-or-stopped-26ac9a56.md)
 * 2019-06-04 [Presidente de la CFTC de Estados Unidos: blockchain habría mejorado la respuesta del regulador a 2008 crisis financiera](https://github.com/theyapapa/cryptonews/blob/es/us-cftc-chair-blockchain-would-have-improved-regulator-response-to-2008-financial-crash-a2947aa4.md)
 * 2019-06-03 [Binance criptomoneda intercambio prueba de libra británica Stablecoin](https://github.com/theyapapa/cryptonews/blob/es/binance-cryptocurrency-exchange-testing-british-pound-stablecoin-bb2fc908.md)
