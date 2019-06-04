@@ -1,3 +1,4 @@
+* 2019-06-04 [미국 CFTC의 자: 블록 체인은 2008 금융 충돌에 대 한 조정기 응답을 개선 했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-cftc-chair-blockchain-would-have-improved-regulator-response-to-2008-financial-crash-a2947aa4.md)
 * 2019-06-03 [Binance 암호 화폐 거래소 테스트 영국 파운드 Stablecoin](https://github.com/theyapapa/cryptonews/blob/ko/binance-cryptocurrency-exchange-testing-british-pound-stablecoin-bb2fc908.md)
 * 2019-06-03 [시카고 상업 거래소에 오픈 포지션 교환 비트 코인 선물 히트 기록 높음](https://github.com/theyapapa/cryptonews/blob/ko/open-positions-on-chicago-mercantile-exchange-bitcoin-futures-hit-record-high-7ba45d79.md)
 * 2019-06-03 [기술 시작 Fluree는 블록 체인 데이터베이스에 대 한 종자 라운드에서 거의 $500만을 제기](https://github.com/theyapapa/cryptonews/blob/ko/tech-startup-fluree-raises-nearly-5-million-in-seed-round-for-blockchain-database-24358d0f.md)
