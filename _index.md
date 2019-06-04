@@ -1,3 +1,4 @@
+* 2019-06-03 [Binance criptomoneda intercambio prueba de libra británica Stablecoin](https://github.com/theyapapa/cryptonews/blob/es/binance-cryptocurrency-exchange-testing-british-pound-stablecoin-bb2fc908.md)
 * 2019-06-03 [Posiciones abiertas en Chicago Mercantile Exchange Bitcoin Futures hit record High](https://github.com/theyapapa/cryptonews/blob/es/open-positions-on-chicago-mercantile-exchange-bitcoin-futures-hit-record-high-7ba45d79.md)
 * 2019-06-03 [Tech startup Fluree eleva casi $5 millones en la ronda de semillas para la base de datos blockchain](https://github.com/theyapapa/cryptonews/blob/es/tech-startup-fluree-raises-nearly-5-million-in-seed-round-for-blockchain-database-24358d0f.md)
 * 2019-06-03 [John McAfee para desplegar ' la moneda de la libertad ' criptomoneda este otoño](https://github.com/theyapapa/cryptonews/blob/es/john-mcafee-to-roll-out-freedom-coin-cryptocurrency-this-fall-fd5f506b.md)
