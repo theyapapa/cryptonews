@@ -1,3 +1,4 @@
+* 2019-06-04 [Криптоторговая платформа OKCoin расширяет свои услуги и открывает офис на Мальте](https://github.com/theyapapa/cryptonews/blob/ru/crypto-trading-platform-okcoin-expands-its-services-and-opens-office-in-malta-883c3914.md)
 * 2019-06-04 [Binance запускает родной целевой кошелек на Binance децентрализованной бирже (ДЕКС)](https://github.com/theyapapa/cryptonews/blob/ru/binance-launches-native-trust-wallet-on-binance-decentralized-exchange-dex-60194cf9.md)
 * 2019-06-04 [Андреас Антонопулос: технология Blockchain не может быть Неизобретена или остановлена](https://github.com/theyapapa/cryptonews/blob/ru/andreas-antonopoulos-blockchain-tech-cannot-be-uninvented-or-stopped-26ac9a56.md)
 * 2019-06-04 [США CFTC Председатель: Blockchain бы улучшили регулятор ответ на 2008 финансовый крах](https://github.com/theyapapa/cryptonews/blob/ru/us-cftc-chair-blockchain-would-have-improved-regulator-response-to-2008-financial-crash-a2947aa4.md)
