@@ -1,3 +1,4 @@
+* 2019-06-04 [Andreas Antonopoulos: blockchain Tech no puede ser Ininventado o detenido](https://github.com/theyapapa/cryptonews/blob/es/andreas-antonopoulos-blockchain-tech-cannot-be-uninvented-or-stopped-26ac9a56.md)
 * 2019-06-04 [Presidente de la CFTC de Estados Unidos: blockchain habría mejorado la respuesta del regulador a 2008 crisis financiera](https://github.com/theyapapa/cryptonews/blob/es/us-cftc-chair-blockchain-would-have-improved-regulator-response-to-2008-financial-crash-a2947aa4.md)
 * 2019-06-03 [Binance criptomoneda intercambio prueba de libra británica Stablecoin](https://github.com/theyapapa/cryptonews/blob/es/binance-cryptocurrency-exchange-testing-british-pound-stablecoin-bb2fc908.md)
 * 2019-06-03 [Posiciones abiertas en Chicago Mercantile Exchange Bitcoin Futures hit record High](https://github.com/theyapapa/cryptonews/blob/es/open-positions-on-chicago-mercantile-exchange-bitcoin-futures-hit-record-high-7ba45d79.md)
