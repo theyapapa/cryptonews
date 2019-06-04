@@ -1,3 +1,4 @@
+* 2019-06-04 [연구: 중국은 2019의 밧줄 거래량으로 세계를 이끌고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/research-china-leads-world-in-tether-trading-volumes-in-2019-d1771b4d.md)
 * 2019-06-04 [암호 화폐 거래 플랫폼 OKCoin은 서비스를 확장 하 고 몰타에서 사무실을 엽니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-trading-platform-okcoin-expands-its-services-and-opens-office-in-malta-883c3914.md)
 * 2019-06-04 [Binance는 Binance 분산 거래소 (DEX)에서 네이티브 트러스트 지갑을 출시 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-native-trust-wallet-on-binance-decentralized-exchange-dex-60194cf9.md)
 * 2019-06-04 [안드레아스 안토니 풀 로스: 블록 체인 기술은 발명 되지 않거나 멈출 수 없습니다.](https://github.com/theyapapa/cryptonews/blob/ko/andreas-antonopoulos-blockchain-tech-cannot-be-uninvented-or-stopped-26ac9a56.md)
