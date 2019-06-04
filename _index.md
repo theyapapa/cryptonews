@@ -1,3 +1,4 @@
+* 2019-06-03 [Открытые позиции на Чикагской товарной бирже Bitcoin фьючерсы Hit рекорд высокий](https://github.com/theyapapa/cryptonews/blob/ru/open-positions-on-chicago-mercantile-exchange-bitcoin-futures-hit-record-high-7ba45d79.md)
 * 2019-06-03 [Технология запуска Fluree поднимает почти $5 000 000 в семенной раунд для базы данных Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/tech-startup-fluree-raises-nearly-5-million-in-seed-round-for-blockchain-database-24358d0f.md)
 * 2019-06-03 [Джон McAfee раскатать ' Свобода монета ' Криптовалюта этой осенью](https://github.com/theyapapa/cryptonews/blob/ru/john-mcafee-to-roll-out-freedom-coin-cryptocurrency-this-fall-fd5f506b.md)
 * 2019-06-03 [TRON в Джастин Sun Винс eBay Благотворительный аукцион в $4.57 M предложение на обед с Уорреном Баффетом](https://github.com/theyapapa/cryptonews/blob/ru/trons-justin-sun-wins-ebay-charity-auction-in-457m-bid-to-lunch-with-warren-buffett-99befc90.md)
