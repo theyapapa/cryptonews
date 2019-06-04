@@ -1,3 +1,4 @@
+* 2019-06-03 [Binance 암호 화폐 거래소 테스트 영국 파운드 Stablecoin](https://github.com/theyapapa/cryptonews/blob/ko/binance-cryptocurrency-exchange-testing-british-pound-stablecoin-bb2fc908.md)
 * 2019-06-03 [시카고 상업 거래소에 오픈 포지션 교환 비트 코인 선물 히트 기록 높음](https://github.com/theyapapa/cryptonews/blob/ko/open-positions-on-chicago-mercantile-exchange-bitcoin-futures-hit-record-high-7ba45d79.md)
 * 2019-06-03 [기술 시작 Fluree는 블록 체인 데이터베이스에 대 한 종자 라운드에서 거의 $500만을 제기](https://github.com/theyapapa/cryptonews/blob/ko/tech-startup-fluree-raises-nearly-5-million-in-seed-round-for-blockchain-database-24358d0f.md)
 * 2019-06-03 [존 맥 아 피 ' 자유 동전 '을 밖으로 굴러가을 암호 화폐](https://github.com/theyapapa/cryptonews/blob/ko/john-mcafee-to-roll-out-freedom-coin-cryptocurrency-this-fall-fd5f506b.md)
