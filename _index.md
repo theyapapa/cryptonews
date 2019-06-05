@@ -1,3 +1,4 @@
+* 2019-06-05 [캘리포니아 공공 계정은 암호 화폐 홀딩스에 대 한 명확성을 추구](https://github.com/theyapapa/cryptonews/blob/ko/california-public-accounts-seek-clarity-on-cryptocurrency-holdings-cc654cb2.md)
 * 2019-06-05 [네덜란드 억만 장자 존 데 몰 사기성 암호화 광고를 통해 페이스 북에 대 한 소송 파일](https://github.com/theyapapa/cryptonews/blob/ko/dutch-billionaire-john-de-mol-files-lawsuit-against-facebook-over-fraudulent-crypto-ads-12961c4d.md)
 * 2019-06-05 [Ex-Bitmain 대표이사 지 한 우 세트 다음 달 암호화 OTC 플랫폼 출시: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/ex-bitmain-ceo-jihan-wu-set-to-launch-crypto-otc-platform-next-month-report-fc05ee90.md)
 * 2019-06-05 [벨라루스 일반 검찰은 세금 회피에 암호 화폐의 사용에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/belarus-general-prosecutor-warns-about-cryptocurrencys-use-in-tax-evasion-65d74826.md)
