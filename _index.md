@@ -1,3 +1,4 @@
+* 2019-06-05 [Генпрокурор Беларуси предупредил об использовании криптовалюты в уклонении от уплаты налогов](https://github.com/theyapapa/cryptonews/blob/ru/belarus-general-prosecutor-warns-about-cryptocurrencys-use-in-tax-evasion-65d74826.md)
 * 2019-06-05 [Земля свободных лет и почему децентрализация имеет значение в КриптоРеспублике](https://github.com/theyapapa/cryptonews/blob/ru/the-land-of-the-free-why-decentralization-matters-in-the-crypto-republic-9d937f64.md)
 * 2019-06-05 [Блокчейн для розничной торговли и потенциальные приложения](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-for-retail-use-cases-and-potential-applications-0bc78c11.md)
 * 2019-06-04 [Доклад: польская биржа выключается и исчезает с клиентами фонды](https://github.com/theyapapa/cryptonews/blob/ru/report-polish-exchange-shuts-down-and-disappears-with-customers-funds-8f54ea93.md)
