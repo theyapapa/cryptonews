@@ -1,3 +1,4 @@
+* 2019-06-05 [Ex-Bitmain 대표이사 지 한 우 세트 다음 달 암호화 OTC 플랫폼 출시: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/ex-bitmain-ceo-jihan-wu-set-to-launch-crypto-otc-platform-next-month-report-fc05ee90.md)
 * 2019-06-05 [벨라루스 일반 검찰은 세금 회피에 암호 화폐의 사용에 대 한 경고](https://github.com/theyapapa/cryptonews/blob/ko/belarus-general-prosecutor-warns-about-cryptocurrencys-use-in-tax-evasion-65d74826.md)
 * 2019-06-05 [자유의 땅: 분산화는 암호화 공화국에서 중요 한 이유](https://github.com/theyapapa/cryptonews/blob/ko/the-land-of-the-free-why-decentralization-matters-in-the-crypto-republic-9d937f64.md)
 * 2019-06-05 [소매업을 위한 블록 체인: 사용 사례 및 잠재적인 응용 프로그램](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-for-retail-use-cases-and-potential-applications-0bc78c11.md)
