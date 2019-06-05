@@ -1,3 +1,4 @@
+* 2019-06-05 [Экс-генеральный директор Bitmain Jihan Wu Уу установить для запуска Crypto OTC платформы в следующем месяце, доклад](https://github.com/theyapapa/cryptonews/blob/ru/ex-bitmain-ceo-jihan-wu-set-to-launch-crypto-otc-platform-next-month-report-fc05ee90.md)
 * 2019-06-05 [Генпрокурор Беларуси предупредил об использовании криптовалюты в уклонении от уплаты налогов](https://github.com/theyapapa/cryptonews/blob/ru/belarus-general-prosecutor-warns-about-cryptocurrencys-use-in-tax-evasion-65d74826.md)
 * 2019-06-05 [Земля свободных лет и почему децентрализация имеет значение в КриптоРеспублике](https://github.com/theyapapa/cryptonews/blob/ru/the-land-of-the-free-why-decentralization-matters-in-the-crypto-republic-9d937f64.md)
 * 2019-06-05 [Блокчейн для розничной торговли и потенциальные приложения](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-for-retail-use-cases-and-potential-applications-0bc78c11.md)
