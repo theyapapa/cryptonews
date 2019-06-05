@@ -1,3 +1,4 @@
+* 2019-06-05 [브라질 제이에 어 볼 소나로의 대통령: ' 나는 비트 코인이 무엇 인지 모르겠어요 '](https://github.com/theyapapa/cryptonews/blob/ko/president-of-brazil-jair-bolsonaro-i-do-not-know-what-bitcoin-is-82ed40d8.md)
 * 2019-06-05 [한국 포스트 블록 체인을 적용 하는 암호 교환과 팀](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-post-teams-up-with-crypto-exchange-to-apply-blockchain-04ef11bf.md)
 * 2019-06-05 [캘리포니아 공공 계정은 암호 화폐 홀딩스에 대 한 명확성을 추구](https://github.com/theyapapa/cryptonews/blob/ko/california-public-accounts-seek-clarity-on-cryptocurrency-holdings-cc654cb2.md)
 * 2019-06-05 [네덜란드 억만 장자 존 데 몰 사기성 암호화 광고를 통해 페이스 북에 대 한 소송 파일](https://github.com/theyapapa/cryptonews/blob/ko/dutch-billionaire-john-de-mol-files-lawsuit-against-facebook-over-fraudulent-crypto-ads-12961c4d.md)
