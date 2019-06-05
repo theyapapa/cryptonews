@@ -1,3 +1,4 @@
+* 2019-06-05 [Блокчейн для розничной торговли и потенциальные приложения](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-for-retail-use-cases-and-potential-applications-0bc78c11.md)
 * 2019-06-04 [Доклад: польская биржа выключается и исчезает с клиентами фонды](https://github.com/theyapapa/cryptonews/blob/ru/report-polish-exchange-shuts-down-and-disappears-with-customers-funds-8f54ea93.md)
 * 2019-06-04 [Исследование: Китай лидирует в мире по объемам торговли тросом в 2019](https://github.com/theyapapa/cryptonews/blob/ru/research-china-leads-world-in-tether-trading-volumes-in-2019-d1771b4d.md)
 * 2019-06-04 [Криптоторговая платформа OKCoin расширяет свои услуги и открывает офис на Мальте](https://github.com/theyapapa/cryptonews/blob/ru/crypto-trading-platform-okcoin-expands-its-services-and-opens-office-in-malta-883c3914.md)
