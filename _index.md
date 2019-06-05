@@ -1,3 +1,4 @@
+* 2019-06-05 [La tierra de los libres: ¿por qué la descentralización importa en la República criptográfica](https://github.com/theyapapa/cryptonews/blob/es/the-land-of-the-free-why-decentralization-matters-in-the-crypto-republic-9d937f64.md)
 * 2019-06-05 [Blockchain para Retail: casos de uso y aplicaciones potenciales](https://github.com/theyapapa/cryptonews/blob/es/blockchain-for-retail-use-cases-and-potential-applications-0bc78c11.md)
 * 2019-06-04 [Informe: el intercambio polaco se apaga y desaparece con los fondos de los clientes](https://github.com/theyapapa/cryptonews/blob/es/report-polish-exchange-shuts-down-and-disappears-with-customers-funds-8f54ea93.md)
 * 2019-06-04 [Investigación: China lidera el mundo en los volúmenes de comercio Tether en 2019](https://github.com/theyapapa/cryptonews/blob/es/research-china-leads-world-in-tether-trading-volumes-in-2019-d1771b4d.md)
