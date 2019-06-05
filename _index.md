@@ -1,3 +1,4 @@
+* 2019-06-05 [Почта Кореи объединяется с криптообменом, чтобы применить блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-post-teams-up-with-crypto-exchange-to-apply-blockchain-04ef11bf.md)
 * 2019-06-05 [Калифорнийские государственные счета ищут ясности по криптовалютным холдингам](https://github.com/theyapapa/cryptonews/blob/ru/california-public-accounts-seek-clarity-on-cryptocurrency-holdings-cc654cb2.md)
 * 2019-06-05 [Голландский миллиардер Джон Де Мол файлы иск против Facebook за мошеннические криптообъявления](https://github.com/theyapapa/cryptonews/blob/ru/dutch-billionaire-john-de-mol-files-lawsuit-against-facebook-over-fraudulent-crypto-ads-12961c4d.md)
 * 2019-06-05 [Экс-генеральный директор Bitmain Jihan Wu Уу установить для запуска Crypto OTC платформы в следующем месяце, доклад](https://github.com/theyapapa/cryptonews/blob/ru/ex-bitmain-ceo-jihan-wu-set-to-launch-crypto-otc-platform-next-month-report-fc05ee90.md)
