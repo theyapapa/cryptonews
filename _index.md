@@ -1,3 +1,4 @@
+* 2019-06-05 [Ex-Bitmain CEO Jihan Wu set para lanzar Crypto plataforma OTC el próximo mes: informe](https://github.com/theyapapa/cryptonews/blob/es/ex-bitmain-ceo-jihan-wu-set-to-launch-crypto-otc-platform-next-month-report-fc05ee90.md)
 * 2019-06-05 [El fiscal general de Belarús advierte sobre el uso de Criptomonedas en la evasión fiscal](https://github.com/theyapapa/cryptonews/blob/es/belarus-general-prosecutor-warns-about-cryptocurrencys-use-in-tax-evasion-65d74826.md)
 * 2019-06-05 [La tierra de los libres: ¿por qué la descentralización importa en la República criptográfica](https://github.com/theyapapa/cryptonews/blob/es/the-land-of-the-free-why-decentralization-matters-in-the-crypto-republic-9d937f64.md)
 * 2019-06-05 [Blockchain para Retail: casos de uso y aplicaciones potenciales](https://github.com/theyapapa/cryptonews/blob/es/blockchain-for-retail-use-cases-and-potential-applications-0bc78c11.md)
