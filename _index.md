@@ -1,3 +1,4 @@
+* 2019-06-05 [Presidente de Brasil Jair Bolsonaro: ' no sé lo que es Bitcoin '](https://github.com/theyapapa/cryptonews/blob/es/president-of-brazil-jair-bolsonaro-i-do-not-know-what-bitcoin-is-82ed40d8.md)
 * 2019-06-05 [South Korean post se une a Crypto Exchange para aplicar blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-korean-post-teams-up-with-crypto-exchange-to-apply-blockchain-04ef11bf.md)
 * 2019-06-05 [Las cuentas públicas de California buscan claridad en las existencias de Criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/california-public-accounts-seek-clarity-on-cryptocurrency-holdings-cc654cb2.md)
 * 2019-06-05 [Holandés multimillonario John de mol archivos demanda contra Facebook sobre anuncios criptográficos fraudulentos](https://github.com/theyapapa/cryptonews/blob/es/dutch-billionaire-john-de-mol-files-lawsuit-against-facebook-over-fraudulent-crypto-ads-12961c4d.md)
