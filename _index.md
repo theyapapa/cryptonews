@@ -1,3 +1,4 @@
+* 2019-06-05 [자유의 땅: 분산화는 암호화 공화국에서 중요 한 이유](https://github.com/theyapapa/cryptonews/blob/ko/the-land-of-the-free-why-decentralization-matters-in-the-crypto-republic-9d937f64.md)
 * 2019-06-05 [소매업을 위한 블록 체인: 사용 사례 및 잠재적인 응용 프로그램](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-for-retail-use-cases-and-potential-applications-0bc78c11.md)
 * 2019-06-04 [보고서: 폴란드 거래소가 종료 되 고 고객 기금으로 사라집니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-polish-exchange-shuts-down-and-disappears-with-customers-funds-8f54ea93.md)
 * 2019-06-04 [연구: 중국은 2019의 밧줄 거래량으로 세계를 이끌고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/research-china-leads-world-in-tether-trading-volumes-in-2019-d1771b4d.md)
