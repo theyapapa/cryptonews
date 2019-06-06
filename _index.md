@@ -1,3 +1,4 @@
+* 2019-06-06 [Medici Ventures lidera la ronda de financiamiento para la plataforma de E-voting basada en blockchain](https://github.com/theyapapa/cryptonews/blob/es/medici-ventures-leads-funding-round-for-blockchain-based-e-voting-platform-01647a2f.md)
 * 2019-06-06 [MIT profesor Claims blockchain tecnología no es tan seguro como reclamado](https://github.com/theyapapa/cryptonews/blob/es/mit-professor-claims-blockchain-technology-is-not-as-secure-as-claimed-adc03c2d.md)
 * 2019-06-06 [Egipto establece camino para un futuro criptográfico con el proyecto de ley](https://github.com/theyapapa/cryptonews/blob/es/egypt-lays-out-path-for-a-crypto-future-with-draft-law-ae92bc80.md)
 * 2019-06-06 [3 mejores ejecutivos salida online Lending FinTech startup SoFi](https://github.com/theyapapa/cryptonews/blob/es/3-top-executives-depart-online-lending-fintech-startup-sofi-1286c446.md)
