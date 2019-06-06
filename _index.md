@@ -1,3 +1,4 @@
+* 2019-06-06 [Профессор MIT утверждает, что технология блокчейн не так безопасна, как утверждается](https://github.com/theyapapa/cryptonews/blob/ru/mit-professor-claims-blockchain-technology-is-not-as-secure-as-claimed-adc03c2d.md)
 * 2019-06-06 [Египет выкладывает путь к crypto будущее с проектом закона](https://github.com/theyapapa/cryptonews/blob/ru/egypt-lays-out-path-for-a-crypto-future-with-draft-law-ae92bc80.md)
 * 2019-06-06 [3 Топ-менеджеров Отъезд онлайн кредитования Fintech стартап SoFi](https://github.com/theyapapa/cryptonews/blob/ru/3-top-executives-depart-online-lending-fintech-startup-sofi-1286c446.md)
 * 2019-06-06 [Binance нанимает бывшего НБА, Dell Exec возглавить глобальные стратегические инициативы](https://github.com/theyapapa/cryptonews/blob/ru/binance-hires-former-nba-dell-exec-to-head-global-strategy-initiatives-933b9f6d.md)
