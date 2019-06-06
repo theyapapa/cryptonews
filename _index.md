@@ -1,3 +1,4 @@
+* 2019-06-06 [3 mejores ejecutivos salida online Lending FinTech startup SoFi](https://github.com/theyapapa/cryptonews/blob/es/3-top-executives-depart-online-lending-fintech-startup-sofi-1286c446.md)
 * 2019-06-06 [Binance contrata ex NBA, ejecutivo de Dell para Head iniciativas de estrategia global](https://github.com/theyapapa/cryptonews/blob/es/binance-hires-former-nba-dell-exec-to-head-global-strategy-initiatives-933b9f6d.md)
 * 2019-06-06 [Trend Micro detecta el aumento principal en la nueva cepa de XMR malware dirigido a sistemas basados en China](https://github.com/theyapapa/cryptonews/blob/es/trend-micro-detects-major-uptick-in-new-strain-of-xmr-malware-targeting-china-based-systems-3bbb4658.md)
 * 2019-06-06 [El socio de pago y Visa de LINE de Japón en New blockchain, soluciones de pagos digitales](https://github.com/theyapapa/cryptonews/blob/es/japans-line-pay-and-visa-partner-on-new-blockchain-digital-payments-solutions-59ca4242.md)
