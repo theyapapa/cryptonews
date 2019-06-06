@@ -1,3 +1,4 @@
+* 2019-06-06 [이집트 초안 법으로 암호화 미래를 위한 경로를 낳는다.](https://github.com/theyapapa/cryptonews/blob/ko/egypt-lays-out-path-for-a-crypto-future-with-draft-law-ae92bc80.md)
 * 2019-06-06 [3 최고 경영진 출발 온라인 대출 핀 테크 스타트업 소피](https://github.com/theyapapa/cryptonews/blob/ko/3-top-executives-depart-online-lending-fintech-startup-sofi-1286c446.md)
 * 2019-06-06 [Binance, 전 NBA를 고용 하 고 있는 Dell Exec, 글로벌 전략 이니셔티브 추진](https://github.com/theyapapa/cryptonews/blob/ko/binance-hires-former-nba-dell-exec-to-head-global-strategy-initiatives-933b9f6d.md)
 * 2019-06-06 [트렌드 마이크로는 중국 기반 시스템을 대상으로 XMR 악성 코드의 새로운 변형의 주요 상향을 감지](https://github.com/theyapapa/cryptonews/blob/ko/trend-micro-detects-major-uptick-in-new-strain-of-xmr-malware-targeting-china-based-systems-3bbb4658.md)
