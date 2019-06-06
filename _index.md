@@ -1,3 +1,4 @@
+* 2019-06-06 [Binance, 전 NBA를 고용 하 고 있는 Dell Exec, 글로벌 전략 이니셔티브 추진](https://github.com/theyapapa/cryptonews/blob/ko/binance-hires-former-nba-dell-exec-to-head-global-strategy-initiatives-933b9f6d.md)
 * 2019-06-06 [트렌드 마이크로는 중국 기반 시스템을 대상으로 XMR 악성 코드의 새로운 변형의 주요 상향을 감지](https://github.com/theyapapa/cryptonews/blob/ko/trend-micro-detects-major-uptick-in-new-strain-of-xmr-malware-targeting-china-based-systems-3bbb4658.md)
 * 2019-06-06 [새로운 블록 체인, 디지털 결제 솔루션에 대 한 일본의 라인 페이 및 비자 파트너](https://github.com/theyapapa/cryptonews/blob/ko/japans-line-pay-and-visa-partner-on-new-blockchain-digital-payments-solutions-59ca4242.md)
 * 2019-06-05 [새로운 악성 코드 캠페인 복제 암호화 거래 웹 사이트를 통해 트로이 목마 스프레드](https://github.com/theyapapa/cryptonews/blob/ko/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website-cd145734.md)
