@@ -1,3 +1,4 @@
+* 2019-06-06 [Binance нанимает бывшего НБА, Dell Exec возглавить глобальные стратегические инициативы](https://github.com/theyapapa/cryptonews/blob/ru/binance-hires-former-nba-dell-exec-to-head-global-strategy-initiatives-933b9f6d.md)
 * 2019-06-06 [Trend Micro обнаруживает основные Uptick в новом штамме XMR вредоносных таргетинга На основе Китая систем](https://github.com/theyapapa/cryptonews/blob/ru/trend-micro-detects-major-uptick-in-new-strain-of-xmr-malware-targeting-china-based-systems-3bbb4658.md)
 * 2019-06-06 [Японский партнер LINE Pay и Visa по новым блокчейн-решениям по цифровым платежам](https://github.com/theyapapa/cryptonews/blob/ru/japans-line-pay-and-visa-partner-on-new-blockchain-digital-payments-solutions-59ca4242.md)
 * 2019-06-05 [Новая вредоносная кампания распространяет трояны через клон крипто-трейдинг веб-сайт](https://github.com/theyapapa/cryptonews/blob/ru/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website-cd145734.md)
