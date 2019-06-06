@@ -1,3 +1,4 @@
+* 2019-06-05 [새로운 악성 코드 캠페인 복제 암호화 거래 웹 사이트를 통해 트로이 목마 스프레드](https://github.com/theyapapa/cryptonews/blob/ko/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website-cd145734.md)
 * 2019-06-05 [브라질 제이에 어 볼 소나로의 대통령: ' 나는 비트 코인이 무엇 인지 모르겠어요 '](https://github.com/theyapapa/cryptonews/blob/ko/president-of-brazil-jair-bolsonaro-i-do-not-know-what-bitcoin-is-82ed40d8.md)
 * 2019-06-05 [한국 포스트 블록 체인을 적용 하는 암호 교환과 팀](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-post-teams-up-with-crypto-exchange-to-apply-blockchain-04ef11bf.md)
 * 2019-06-05 [캘리포니아 공공 계정은 암호 화폐 홀딩스에 대 한 명확성을 추구](https://github.com/theyapapa/cryptonews/blob/ko/california-public-accounts-seek-clarity-on-cryptocurrency-holdings-cc654cb2.md)
