@@ -1,3 +1,4 @@
+* 2019-06-06 [메디치 벤처는 블록 체인 기반 E-투표 플랫폼을 위한 자금 조달을 이끌고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/medici-ventures-leads-funding-round-for-blockchain-based-e-voting-platform-01647a2f.md)
 * 2019-06-06 [MIT 교수는 블록 체인 기술은 주장 만큼 안전 하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mit-professor-claims-blockchain-technology-is-not-as-secure-as-claimed-adc03c2d.md)
 * 2019-06-06 [이집트 초안 법으로 암호화 미래를 위한 경로를 낳는다.](https://github.com/theyapapa/cryptonews/blob/ko/egypt-lays-out-path-for-a-crypto-future-with-draft-law-ae92bc80.md)
 * 2019-06-06 [3 최고 경영진 출발 온라인 대출 핀 테크 스타트업 소피](https://github.com/theyapapa/cryptonews/blob/ko/3-top-executives-depart-online-lending-fintech-startup-sofi-1286c446.md)
