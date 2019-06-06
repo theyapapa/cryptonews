@@ -1,3 +1,4 @@
+* 2019-06-05 [Новая вредоносная кампания распространяет трояны через клон крипто-трейдинг веб-сайт](https://github.com/theyapapa/cryptonews/blob/ru/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website-cd145734.md)
 * 2019-06-05 [Президент Бразилии Джаир Болсонаро заявил, что такое биткоин](https://github.com/theyapapa/cryptonews/blob/ru/president-of-brazil-jair-bolsonaro-i-do-not-know-what-bitcoin-is-82ed40d8.md)
 * 2019-06-05 [Почта Кореи объединяется с криптообменом, чтобы применить блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-post-teams-up-with-crypto-exchange-to-apply-blockchain-04ef11bf.md)
 * 2019-06-05 [Калифорнийские государственные счета ищут ясности по криптовалютным холдингам](https://github.com/theyapapa/cryptonews/blob/ru/california-public-accounts-seek-clarity-on-cryptocurrency-holdings-cc654cb2.md)
