@@ -1,3 +1,4 @@
+* 2019-06-06 [Egipto establece camino para un futuro criptográfico con el proyecto de ley](https://github.com/theyapapa/cryptonews/blob/es/egypt-lays-out-path-for-a-crypto-future-with-draft-law-ae92bc80.md)
 * 2019-06-06 [3 mejores ejecutivos salida online Lending FinTech startup SoFi](https://github.com/theyapapa/cryptonews/blob/es/3-top-executives-depart-online-lending-fintech-startup-sofi-1286c446.md)
 * 2019-06-06 [Binance contrata ex NBA, ejecutivo de Dell para Head iniciativas de estrategia global](https://github.com/theyapapa/cryptonews/blob/es/binance-hires-former-nba-dell-exec-to-head-global-strategy-initiatives-933b9f6d.md)
 * 2019-06-06 [Trend Micro detecta el aumento principal en la nueva cepa de XMR malware dirigido a sistemas basados en China](https://github.com/theyapapa/cryptonews/blob/es/trend-micro-detects-major-uptick-in-new-strain-of-xmr-malware-targeting-china-based-systems-3bbb4658.md)
