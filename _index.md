@@ -1,3 +1,4 @@
+* 2019-06-06 [트렌드 마이크로는 중국 기반 시스템을 대상으로 XMR 악성 코드의 새로운 변형의 주요 상향을 감지](https://github.com/theyapapa/cryptonews/blob/ko/trend-micro-detects-major-uptick-in-new-strain-of-xmr-malware-targeting-china-based-systems-3bbb4658.md)
 * 2019-06-06 [새로운 블록 체인, 디지털 결제 솔루션에 대 한 일본의 라인 페이 및 비자 파트너](https://github.com/theyapapa/cryptonews/blob/ko/japans-line-pay-and-visa-partner-on-new-blockchain-digital-payments-solutions-59ca4242.md)
 * 2019-06-05 [새로운 악성 코드 캠페인 복제 암호화 거래 웹 사이트를 통해 트로이 목마 스프레드](https://github.com/theyapapa/cryptonews/blob/ko/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website-cd145734.md)
 * 2019-06-05 [브라질 제이에 어 볼 소나로의 대통령: ' 나는 비트 코인이 무엇 인지 모르겠어요 '](https://github.com/theyapapa/cryptonews/blob/ko/president-of-brazil-jair-bolsonaro-i-do-not-know-what-bitcoin-is-82ed40d8.md)
