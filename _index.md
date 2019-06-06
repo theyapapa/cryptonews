@@ -1,3 +1,4 @@
+* 2019-06-06 [Японский партнер LINE Pay и Visa по новым блокчейн-решениям по цифровым платежам](https://github.com/theyapapa/cryptonews/blob/ru/japans-line-pay-and-visa-partner-on-new-blockchain-digital-payments-solutions-59ca4242.md)
 * 2019-06-05 [Новая вредоносная кампания распространяет трояны через клон крипто-трейдинг веб-сайт](https://github.com/theyapapa/cryptonews/blob/ru/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website-cd145734.md)
 * 2019-06-05 [Президент Бразилии Джаир Болсонаро заявил, что такое биткоин](https://github.com/theyapapa/cryptonews/blob/ru/president-of-brazil-jair-bolsonaro-i-do-not-know-what-bitcoin-is-82ed40d8.md)
 * 2019-06-05 [Почта Кореи объединяется с криптообменом, чтобы применить блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-post-teams-up-with-crypto-exchange-to-apply-blockchain-04ef11bf.md)
