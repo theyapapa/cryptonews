@@ -1,3 +1,4 @@
+* 2019-06-06 [Trend Micro detecta el aumento principal en la nueva cepa de XMR malware dirigido a sistemas basados en China](https://github.com/theyapapa/cryptonews/blob/es/trend-micro-detects-major-uptick-in-new-strain-of-xmr-malware-targeting-china-based-systems-3bbb4658.md)
 * 2019-06-06 [El socio de pago y Visa de LINE de Japón en New blockchain, soluciones de pagos digitales](https://github.com/theyapapa/cryptonews/blob/es/japans-line-pay-and-visa-partner-on-new-blockchain-digital-payments-solutions-59ca4242.md)
 * 2019-06-05 [Nueva campaña de malware propaga troyanos a través del sitio web Clone Crypto Trading](https://github.com/theyapapa/cryptonews/blob/es/new-malware-campaign-spreads-trojans-through-clone-crypto-trading-website-cd145734.md)
 * 2019-06-05 [Presidente de Brasil Jair Bolsonaro: ' no sé lo que es Bitcoin '](https://github.com/theyapapa/cryptonews/blob/es/president-of-brazil-jair-bolsonaro-i-do-not-know-what-bitcoin-is-82ed40d8.md)
