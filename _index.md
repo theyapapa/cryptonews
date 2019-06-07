@@ -1,3 +1,4 @@
+* 2019-06-07 [Источники Facebook говорят, что «Белая книга» конюшни выйдет 18 июня](https://github.com/theyapapa/cryptonews/blob/ru/facebook-sources-say-that-stablecoin-white-paper-will-come-on-june-18-2dc6bcfa.md)
 * 2019-06-06 [Более 100 сотрудников в настоящее время, как сообщается, работает на Facebook Crypto проекта](https://github.com/theyapapa/cryptonews/blob/ru/over-100-staff-now-reportedly-working-on-facebooks-crypto-project-9c632e00.md)
 * 2019-06-06 [Medici Ventures лидирует в раунде финансирования платформы электронного голосования на основе блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/medici-ventures-leads-funding-round-for-blockchain-based-e-voting-platform-01647a2f.md)
 * 2019-06-06 [Профессор MIT утверждает, что технология блокчейн не так безопасна, как утверждается](https://github.com/theyapapa/cryptonews/blob/ru/mit-professor-claims-blockchain-technology-is-not-as-secure-as-claimed-adc03c2d.md)
