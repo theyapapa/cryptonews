@@ -1,3 +1,4 @@
+* 2019-06-07 [Исследование меценатства свыше 74% биткойнов работает на возобновляемых источниках энергии](https://github.com/theyapapa/cryptonews/blob/ru/study-over-74-of-bitcoin-mining-is-powered-by-renewable-energy-beafbaf2.md)
 * 2019-06-07 [Индийские законодатели предлагают принятие 10-летнего тюремного срока для Crypto Dealings](https://github.com/theyapapa/cryptonews/blob/ru/indian-lawmakers-propose-adoption-of-10-year-jail-term-for-crypto-dealings-db625920.md)
 * 2019-06-07 [Корона, Budweiser Владелец Инвестиции Рука спиной Blockchain ID запуск](https://github.com/theyapapa/cryptonews/blob/ru/corona-budweiser-owners-investment-arm-backs-blockchain-id-startup-8ef6a937.md)
 * 2019-06-07 [Источники Facebook говорят, что «Белая книга» конюшни выйдет 18 июня](https://github.com/theyapapa/cryptonews/blob/ru/facebook-sources-say-that-stablecoin-white-paper-will-come-on-june-18-2dc6bcfa.md)
