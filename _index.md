@@ -1,3 +1,4 @@
+* 2019-06-07 [Los legisladores indios proponen la adopción de un plazo de 10 años en la cárcel para las transacciones criptográficas](https://github.com/theyapapa/cryptonews/blob/es/indian-lawmakers-propose-adoption-of-10-year-jail-term-for-crypto-dealings-db625920.md)
 * 2019-06-07 [Corona, Budweiser propietario del brazo de inversión de la blockchain ID startup](https://github.com/theyapapa/cryptonews/blob/es/corona-budweiser-owners-investment-arm-backs-blockchain-id-startup-8ef6a937.md)
 * 2019-06-07 [Fuentes de Facebook dicen que Stablecoin White Paper llegará el 18 de junio](https://github.com/theyapapa/cryptonews/blob/es/facebook-sources-say-that-stablecoin-white-paper-will-come-on-june-18-2dc6bcfa.md)
 * 2019-06-06 [Encima 100 el personal ahora al parecer trabajando en el proyecto Crypto de Facebook](https://github.com/theyapapa/cryptonews/blob/es/over-100-staff-now-reportedly-working-on-facebooks-crypto-project-9c632e00.md)
