@@ -1,3 +1,4 @@
+* 2019-06-07 [캐나다: 밴쿠버 시장은 비트 코인 Atm에 대 한 금지를 제안 합니다](https://github.com/theyapapa/cryptonews/blob/ko/canada-vancouver-mayor-suggests-ban-on-bitcoin-atms-6863dc11.md)
 * 2019-06-07 [산 마 리노 공화국 토큰, 토큰 오퍼링에 대 한 규정 정책을 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/republic-of-san-marino-issues-regulatory-policies-on-tokens-token-offerings-e55c80ae.md)
 * 2019-06-07 [연구: 비트 코인 채굴의 74% 이상이 신 재생 에너지로 구동 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/study-over-74-of-bitcoin-mining-is-powered-by-renewable-energy-beafbaf2.md)
 * 2019-06-07 [인도 의원은 암호화 거래에 대 한 10 년 감옥 기간의 채택을 제안](https://github.com/theyapapa/cryptonews/blob/ko/indian-lawmakers-propose-adoption-of-10-year-jail-term-for-crypto-dealings-db625920.md)
