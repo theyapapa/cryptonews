@@ -1,3 +1,4 @@
+* 2019-06-07 [페이스 북 소스는 Stablecoin 백서 6 월에 올 것 이라고 말한다 18](https://github.com/theyapapa/cryptonews/blob/ko/facebook-sources-say-that-stablecoin-white-paper-will-come-on-june-18-2dc6bcfa.md)
 * 2019-06-06 [위에 100 직원은 지금 보도 페이스 북의 암호화 프로젝트에 작업](https://github.com/theyapapa/cryptonews/blob/ko/over-100-staff-now-reportedly-working-on-facebooks-crypto-project-9c632e00.md)
 * 2019-06-06 [메디치 벤처는 블록 체인 기반 E-투표 플랫폼을 위한 자금 조달을 이끌고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/medici-ventures-leads-funding-round-for-blockchain-based-e-voting-platform-01647a2f.md)
 * 2019-06-06 [MIT 교수는 블록 체인 기술은 주장 만큼 안전 하지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mit-professor-claims-blockchain-technology-is-not-as-secure-as-claimed-adc03c2d.md)
