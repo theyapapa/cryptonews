@@ -1,3 +1,4 @@
+* 2019-06-07 [연구: 비트 코인 채굴의 74% 이상이 신 재생 에너지로 구동 됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/study-over-74-of-bitcoin-mining-is-powered-by-renewable-energy-beafbaf2.md)
 * 2019-06-07 [인도 의원은 암호화 거래에 대 한 10 년 감옥 기간의 채택을 제안](https://github.com/theyapapa/cryptonews/blob/ko/indian-lawmakers-propose-adoption-of-10-year-jail-term-for-crypto-dealings-db625920.md)
 * 2019-06-07 [코로나, 버드와이저 소유자의 투자 팔 백 블록 체인 ID 시작](https://github.com/theyapapa/cryptonews/blob/ko/corona-budweiser-owners-investment-arm-backs-blockchain-id-startup-8ef6a937.md)
 * 2019-06-07 [페이스 북 소스는 Stablecoin 백서 6 월에 올 것 이라고 말한다 18](https://github.com/theyapapa/cryptonews/blob/ko/facebook-sources-say-that-stablecoin-white-paper-will-come-on-june-18-2dc6bcfa.md)
