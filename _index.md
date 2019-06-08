@@ -1,3 +1,4 @@
+* 2019-06-07 [Огромное большинство DApps для финансов, построенных на блокчейне Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/vast-majority-of-dapps-for-finance-built-on-ethereum-blockchain-a2f86949.md)
 * 2019-06-07 [Канада, мэр Ванкувера предлагает запретить банкоматы Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/canada-vancouver-mayor-suggests-ban-on-bitcoin-atms-6863dc11.md)
 * 2019-06-07 [Республика Сан-Марино выпускает регуляторную политику в отношении токенов, предложений токенов](https://github.com/theyapapa/cryptonews/blob/ru/republic-of-san-marino-issues-regulatory-policies-on-tokens-token-offerings-e55c80ae.md)
 * 2019-06-07 [Исследование меценатства свыше 74% биткойнов работает на возобновляемых источниках энергии](https://github.com/theyapapa/cryptonews/blob/ru/study-over-74-of-bitcoin-mining-is-powered-by-renewable-energy-beafbaf2.md)
