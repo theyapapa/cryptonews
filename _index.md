@@ -1,3 +1,4 @@
+* 2019-06-08 [Bitcoin Цена падает обратно под $ 8K, как Топ Крипто см Умеренные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-dips-back-under-8k-as-top-cryptos-see-moderate-losses-2191809c.md)
 * 2019-06-08 [Роскошь жизни и жизни превращается в блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/life-of-luxury-fashion-turns-to-blockchain-53ab9cbb.md)
 * 2019-06-08 [Голландский миллиардер еще одна жертва обманчивых крипторекламы, судится facebook](https://github.com/theyapapa/cryptonews/blob/ru/dutch-billionaire-yet-another-victim-of-deceptive-crypto-ads-sues-facebook-c2f08881.md)
 * 2019-06-07 [Огромное большинство DApps для финансов, построенных на блокчейне Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/vast-majority-of-dapps-for-finance-built-on-ethereum-blockchain-a2f86949.md)
