@@ -1,3 +1,4 @@
+* 2019-06-08 [Голландский миллиардер еще одна жертва обманчивых крипторекламы, судится facebook](https://github.com/theyapapa/cryptonews/blob/ru/dutch-billionaire-yet-another-victim-of-deceptive-crypto-ads-sues-facebook-c2f08881.md)
 * 2019-06-07 [Огромное большинство DApps для финансов, построенных на блокчейне Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/vast-majority-of-dapps-for-finance-built-on-ethereum-blockchain-a2f86949.md)
 * 2019-06-07 [Канада, мэр Ванкувера предлагает запретить банкоматы Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/canada-vancouver-mayor-suggests-ban-on-bitcoin-atms-6863dc11.md)
 * 2019-06-07 [Республика Сан-Марино выпускает регуляторную политику в отношении токенов, предложений токенов](https://github.com/theyapapa/cryptonews/blob/ru/republic-of-san-marino-issues-regulatory-policies-on-tokens-token-offerings-e55c80ae.md)
