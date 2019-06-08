@@ -1,3 +1,4 @@
+* 2019-06-08 [Vida de lujo: la moda se convierte en blockchain](https://github.com/theyapapa/cryptonews/blob/es/life-of-luxury-fashion-turns-to-blockchain-53ab9cbb.md)
 * 2019-06-08 [Holandés multimillonario pero otra víctima de anuncios criptográficos engañosos, demanda Facebook](https://github.com/theyapapa/cryptonews/blob/es/dutch-billionaire-yet-another-victim-of-deceptive-crypto-ads-sues-facebook-c2f08881.md)
 * 2019-06-07 [Gran mayoría de DApps para finanzas construidas en Ethereum blockchain](https://github.com/theyapapa/cryptonews/blob/es/vast-majority-of-dapps-for-finance-built-on-ethereum-blockchain-a2f86949.md)
 * 2019-06-07 [Canadá: Vancouver mayor sugiere Ban en cajeros automáticos Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/canada-vancouver-mayor-suggests-ban-on-bitcoin-atms-6863dc11.md)
