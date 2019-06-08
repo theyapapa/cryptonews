@@ -1,3 +1,4 @@
+* 2019-06-07 [Gran mayoría de DApps para finanzas construidas en Ethereum blockchain](https://github.com/theyapapa/cryptonews/blob/es/vast-majority-of-dapps-for-finance-built-on-ethereum-blockchain-a2f86949.md)
 * 2019-06-07 [Canadá: Vancouver mayor sugiere Ban en cajeros automáticos Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/canada-vancouver-mayor-suggests-ban-on-bitcoin-atms-6863dc11.md)
 * 2019-06-07 [República de San Marino emite políticas regulatorias sobre tokens, ofertas de token](https://github.com/theyapapa/cryptonews/blob/es/republic-of-san-marino-issues-regulatory-policies-on-tokens-token-offerings-e55c80ae.md)
 * 2019-06-07 [Estudio: más del 74% de Bitcoin Mining es impulsado por energías renovables](https://github.com/theyapapa/cryptonews/blob/es/study-over-74-of-bitcoin-mining-is-powered-by-renewable-energy-beafbaf2.md)
