@@ -1,3 +1,4 @@
+* 2019-06-08 [네덜란드 억만 장자 사기 암호 광고의 또 다른 피해자, Sues 페이스 북](https://github.com/theyapapa/cryptonews/blob/ko/dutch-billionaire-yet-another-victim-of-deceptive-crypto-ads-sues-facebook-c2f08881.md)
 * 2019-06-07 [금융에 대 한 DApps의 대부분은에 테 리 움 블록 체인에 구축](https://github.com/theyapapa/cryptonews/blob/ko/vast-majority-of-dapps-for-finance-built-on-ethereum-blockchain-a2f86949.md)
 * 2019-06-07 [캐나다: 밴쿠버 시장은 비트 코인 Atm에 대 한 금지를 제안 합니다](https://github.com/theyapapa/cryptonews/blob/ko/canada-vancouver-mayor-suggests-ban-on-bitcoin-atms-6863dc11.md)
 * 2019-06-07 [산 마 리노 공화국 토큰, 토큰 오퍼링에 대 한 규정 정책을 발행 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/republic-of-san-marino-issues-regulatory-policies-on-tokens-token-offerings-e55c80ae.md)
