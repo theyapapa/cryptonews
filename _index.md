@@ -1,3 +1,4 @@
+* 2019-06-08 [G-20에서 기대 하는 것: 자금 세탁 및 암호화 토론](https://github.com/theyapapa/cryptonews/blob/ko/what-to-expect-at-g-20-money-laundering-and-crypto-discussion-222c5567.md)
 * 2019-06-08 [비트 코인 가격은 최고 크립 토가 적당 한 손실을 참조로 $8K 아래로 급락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-dips-back-under-8k-as-top-cryptos-see-moderate-losses-2191809c.md)
 * 2019-06-08 [럭셔리의 삶: 패션은 블록 체인으로 변합니다.](https://github.com/theyapapa/cryptonews/blob/ko/life-of-luxury-fashion-turns-to-blockchain-53ab9cbb.md)
 * 2019-06-08 [네덜란드 억만 장자 사기 암호 광고의 또 다른 피해자, Sues 페이스 북](https://github.com/theyapapa/cryptonews/blob/ko/dutch-billionaire-yet-another-victim-of-deceptive-crypto-ads-sues-facebook-c2f08881.md)
