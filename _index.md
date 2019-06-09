@@ -1,3 +1,4 @@
+* 2019-06-09 [Top 5 de los intérpretes Crypto: ATOM, LTC, BSV, BNB, XRP](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-atom-ltc-bsv-bnb-xrp-e89e1def.md)
 * 2019-06-09 [Hodler's Digest, del 3 al 9 de junio: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-june-39-top-stories-price-movements-quotes-and-fud-of-the-week-76e38105.md)
 * 2019-06-09 [¿Qué es un Satoshi, la unidad más pequeña en las cadenas de bloques de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/what-is-a-satoshi-the-smallest-unit-on-the-bitcoin-blockchains-acf70fcd.md)
 * 2019-06-08 [Qué esperar del G-20: lavado de dinero y análisis criptográfico](https://github.com/theyapapa/cryptonews/blob/es/what-to-expect-at-g-20-money-laundering-and-crypto-discussion-222c5567.md)
