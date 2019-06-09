@@ -1,3 +1,4 @@
+* 2019-06-09 [Российская область югры запустит платформу для туризма с поддержкой блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/russian-region-yugra-to-launch-blockchain-enabled-tourism-platform-ba2a4524.md)
 * 2019-06-09 [Топ 5 Крипто Исполнителей из аптечки, ATOM, LTC, BSV, BNB, XRP](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-atom-ltc-bsv-bnb-xrp-e89e1def.md)
 * 2019-06-09 [Hodler's Digest, 3-9 июня, лучшие истории, движения цен, котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-june-39-top-stories-price-movements-quotes-and-fud-of-the-week-76e38105.md)
 * 2019-06-09 [Что такое Сатоши, самая маленькая группа на Bitcoin Blockchains](https://github.com/theyapapa/cryptonews/blob/ru/what-is-a-satoshi-the-smallest-unit-on-the-bitcoin-blockchains-acf70fcd.md)
