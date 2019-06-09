@@ -1,3 +1,4 @@
+* 2019-06-09 [¿Qué es un Satoshi, la unidad más pequeña en las cadenas de bloques de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/what-is-a-satoshi-the-smallest-unit-on-the-bitcoin-blockchains-acf70fcd.md)
 * 2019-06-08 [Qué esperar del G-20: lavado de dinero y análisis criptográfico](https://github.com/theyapapa/cryptonews/blob/es/what-to-expect-at-g-20-money-laundering-and-crypto-discussion-222c5567.md)
 * 2019-06-08 [Bitcoin precio dips de nuevo bajo $8K como Top Cryptos ver pérdidas moderadas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-dips-back-under-8k-as-top-cryptos-see-moderate-losses-2191809c.md)
 * 2019-06-08 [Vida de lujo: la moda se convierte en blockchain](https://github.com/theyapapa/cryptonews/blob/es/life-of-luxury-fashion-turns-to-blockchain-53ab9cbb.md)
