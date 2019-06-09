@@ -1,3 +1,4 @@
+* 2019-06-09 [사토시, 비트 코인 블록 체인의 가장 작은 단위는 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/what-is-a-satoshi-the-smallest-unit-on-the-bitcoin-blockchains-acf70fcd.md)
 * 2019-06-08 [G-20에서 기대 하는 것: 자금 세탁 및 암호화 토론](https://github.com/theyapapa/cryptonews/blob/ko/what-to-expect-at-g-20-money-laundering-and-crypto-discussion-222c5567.md)
 * 2019-06-08 [비트 코인 가격은 최고 크립 토가 적당 한 손실을 참조로 $8K 아래로 급락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-dips-back-under-8k-as-top-cryptos-see-moderate-losses-2191809c.md)
 * 2019-06-08 [럭셔리의 삶: 패션은 블록 체인으로 변합니다.](https://github.com/theyapapa/cryptonews/blob/ko/life-of-luxury-fashion-turns-to-blockchain-53ab9cbb.md)
