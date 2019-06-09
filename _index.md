@@ -1,3 +1,4 @@
+* 2019-06-09 [Binance DEX: navegando las restricciones de comercio de Criptomonedas específicas del país](https://github.com/theyapapa/cryptonews/blob/es/binance-dex-navigating-country-specific-cryptocurrency-trading-restrictions-a29920f8.md)
 * 2019-06-09 [Región rusa Yugra para lanzar la plataforma de turismo habilitada para blockchain](https://github.com/theyapapa/cryptonews/blob/es/russian-region-yugra-to-launch-blockchain-enabled-tourism-platform-ba2a4524.md)
 * 2019-06-09 [Top 5 de los intérpretes Crypto: ATOM, LTC, BSV, BNB, XRP](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-atom-ltc-bsv-bnb-xrp-e89e1def.md)
 * 2019-06-09 [Hodler's Digest, del 3 al 9 de junio: Historias destacadas, movimientos de precios, cotizaciones y FUD de la semana](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-june-39-top-stories-price-movements-quotes-and-fud-of-the-week-76e38105.md)
