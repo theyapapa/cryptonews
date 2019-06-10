@@ -1,3 +1,4 @@
+* 2019-06-10 [이란의 에너지 장관은 암호화 광부 실제 전기 가격을 부과 원하는](https://github.com/theyapapa/cryptonews/blob/ko/irans-energy-minister-wants-crypto-miners-charged-real-electricity-prices-49cd4065.md)
 * 2019-06-10 [Lobbying 성장이 암호화가 성숙 되는 징후 인 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-lobbying-growth-is-a-sign-that-crypto-is-maturing-4f8eeecf.md)
 * 2019-06-09 [Binance DEX: 국가별 암호 화폐 거래 제한 사항 탐색](https://github.com/theyapapa/cryptonews/blob/ko/binance-dex-navigating-country-specific-cryptocurrency-trading-restrictions-a29920f8.md)
 * 2019-06-09 [블록 체인 지원 관광 플랫폼을 출시 하는 러시아 지역 Yugra](https://github.com/theyapapa/cryptonews/blob/ko/russian-region-yugra-to-launch-blockchain-enabled-tourism-platform-ba2a4524.md)
