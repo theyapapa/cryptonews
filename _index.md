@@ -1,3 +1,4 @@
+* 2019-06-10 [러시아는 암호 화폐, 거래소 및 외환에 대 한 역외 목적지를 건설할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/russia-may-build-offshore-destination-for-cryptocurrencies-exchanges-and-forex-106acdb5.md)
 * 2019-06-10 [이란의 에너지 장관은 암호화 광부 실제 전기 가격을 부과 원하는](https://github.com/theyapapa/cryptonews/blob/ko/irans-energy-minister-wants-crypto-miners-charged-real-electricity-prices-49cd4065.md)
 * 2019-06-10 [Lobbying 성장이 암호화가 성숙 되는 징후 인 이유](https://github.com/theyapapa/cryptonews/blob/ko/why-lobbying-growth-is-a-sign-that-crypto-is-maturing-4f8eeecf.md)
 * 2019-06-09 [Binance DEX: 국가별 암호 화폐 거래 제한 사항 탐색](https://github.com/theyapapa/cryptonews/blob/ko/binance-dex-navigating-country-specific-cryptocurrency-trading-restrictions-a29920f8.md)
