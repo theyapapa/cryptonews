@@ -1,3 +1,4 @@
+* 2019-06-10 [Rusia puede construir destino offshore para Cryptocurrencies, intercambios y Forex](https://github.com/theyapapa/cryptonews/blob/es/russia-may-build-offshore-destination-for-cryptocurrencies-exchanges-and-forex-106acdb5.md)
 * 2019-06-10 [El Ministro de energía de Irán quiere mineros cripto cargados precios reales de electricidad](https://github.com/theyapapa/cryptonews/blob/es/irans-energy-minister-wants-crypto-miners-charged-real-electricity-prices-49cd4065.md)
 * 2019-06-10 [Por qué el crecimiento de cabildeo es una señal de que Crypto está madurando](https://github.com/theyapapa/cryptonews/blob/es/why-lobbying-growth-is-a-sign-that-crypto-is-maturing-4f8eeecf.md)
 * 2019-06-09 [Binance DEX: navegando las restricciones de comercio de Criptomonedas específicas del país](https://github.com/theyapapa/cryptonews/blob/es/binance-dex-navigating-country-specific-cryptocurrency-trading-restrictions-a29920f8.md)
