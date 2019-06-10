@@ -1,3 +1,4 @@
+* 2019-06-10 [Россия может построить офшорные направления для криптовалют, бирж и Форекс](https://github.com/theyapapa/cryptonews/blob/ru/russia-may-build-offshore-destination-for-cryptocurrencies-exchanges-and-forex-106acdb5.md)
 * 2019-06-10 [Министр энергетики Ирана хочет, чтобы криптомайнеры обвинили реальные цены на электроэнергию](https://github.com/theyapapa/cryptonews/blob/ru/irans-energy-minister-wants-crypto-miners-charged-real-electricity-prices-49cd4065.md)
 * 2019-06-10 [Почему лоббирование роста является признаком того, что Crypto является созревание](https://github.com/theyapapa/cryptonews/blob/ru/why-lobbying-growth-is-a-sign-that-crypto-is-maturing-4f8eeecf.md)
 * 2019-06-09 [Binance DEX- Навигация по странам- специфическим ограничениям на торговлю криптовалютами](https://github.com/theyapapa/cryptonews/blob/ru/binance-dex-navigating-country-specific-cryptocurrency-trading-restrictions-a29920f8.md)
