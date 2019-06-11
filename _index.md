@@ -1,3 +1,4 @@
+* 2019-06-11 [BitMEX observa aumento en los ataques a las cuentas, las medidas de seguridad](https://github.com/theyapapa/cryptonews/blob/es/bitmex-observes-increase-in-attacks-on-accounts-stresses-security-measures-13c03f66.md)
 * 2019-06-11 [Austrian Postal Service releases cripto sellos coleccionables](https://github.com/theyapapa/cryptonews/blob/es/austrian-postal-service-releases-crypto-collectible-stamps-d6c10fa8.md)
 * 2019-06-11 [Beaxy lanza Crypto plataforma de negociación a pesar de hack el mes pasado](https://github.com/theyapapa/cryptonews/blob/es/beaxy-launches-crypto-trading-platform-despite-hack-last-month-b2c8112c.md)
 * 2019-06-11 [Ex Wall Street exec Tone vays: no hay evidencia de que el invierno Crypto está ahora sobre](https://github.com/theyapapa/cryptonews/blob/es/former-wall-street-exec-tone-vays-there-is-no-evidence-that-the-crypto-winter-is-now-over-c55314e9.md)
