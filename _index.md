@@ -1,3 +1,4 @@
+* 2019-06-11 [Цифровые активы безопасности запуска Fireblocks покидает режим стелс с $ 16 миллионов в финансировании](https://github.com/theyapapa/cryptonews/blob/ru/digital-asset-security-startup-fireblocks-leaves-stealth-mode-with-16-million-in-funding-f866cbd5.md)
 * 2019-06-10 [Новый доклад Рассматривает блокчейн-приложения федерального правительства США](https://github.com/theyapapa/cryptonews/blob/ru/new-report-reviews-blockchain-applications-by-us-federal-government-14260ae2.md)
 * 2019-06-10 [Отчет о том, что Microsoft добавит блокчейн-инструменты в свою энергетическую платформу](https://github.com/theyapapa/cryptonews/blob/ru/report-microsoft-to-add-blockchain-tools-to-its-power-platform-1b3d7da8.md)
 * 2019-06-10 [Россия может построить офшорные направления для криптовалют, бирж и Форекс](https://github.com/theyapapa/cryptonews/blob/ru/russia-may-build-offshore-destination-for-cryptocurrencies-exchanges-and-forex-106acdb5.md)
