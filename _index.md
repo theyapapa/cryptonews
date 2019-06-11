@@ -1,3 +1,4 @@
+* 2019-06-11 [Beaxy는 지난 달 해킹에도 불구 하 고 암호화 거래 플랫폼을 출시](https://github.com/theyapapa/cryptonews/blob/ko/beaxy-launches-crypto-trading-platform-despite-hack-last-month-b2c8112c.md)
 * 2019-06-11 [전 월스트리트이 그 젝 톤 Vays: 암호화 겨울이 이제 끝났습니다 증거가 없다](https://github.com/theyapapa/cryptonews/blob/ko/former-wall-street-exec-tone-vays-there-is-no-evidence-that-the-crypto-winter-is-now-over-c55314e9.md)
 * 2019-06-11 [블록 체인 유전체학 회사, 글로벌 제약 거 대 한 머 크 로그인 익명화 된 데이터 공유 계약](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-genomics-firm-global-pharma-giant-merck-sign-anonymized-data-sharing-agreement-f6b8229b.md)
 * 2019-06-11 [디지털 자산 보안 시작 방화 블록은 $1600만으로 스텔스 모드를 떠난다.](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-security-startup-fireblocks-leaves-stealth-mode-with-16-million-in-funding-f866cbd5.md)
