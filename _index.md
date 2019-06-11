@@ -1,3 +1,4 @@
+* 2019-06-11 [블록 체인 유전체학 회사, 글로벌 제약 거 대 한 머 크 로그인 익명화 된 데이터 공유 계약](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-genomics-firm-global-pharma-giant-merck-sign-anonymized-data-sharing-agreement-f6b8229b.md)
 * 2019-06-11 [디지털 자산 보안 시작 방화 블록은 $1600만으로 스텔스 모드를 떠난다.](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-security-startup-fireblocks-leaves-stealth-mode-with-16-million-in-funding-f866cbd5.md)
 * 2019-06-10 [새 보고서 미국 연방 정부의 블록 체인 응용 프로그램 리뷰](https://github.com/theyapapa/cryptonews/blob/ko/new-report-reviews-blockchain-applications-by-us-federal-government-14260ae2.md)
 * 2019-06-10 [보고서: 파워 플랫폼에 블록 체인 도구를 추가 하는 마이크로소프트](https://github.com/theyapapa/cryptonews/blob/ko/report-microsoft-to-add-blockchain-tools-to-its-power-platform-1b3d7da8.md)
