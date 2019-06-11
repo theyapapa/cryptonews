@@ -1,3 +1,4 @@
+* 2019-06-10 [새 보고서 미국 연방 정부의 블록 체인 응용 프로그램 리뷰](https://github.com/theyapapa/cryptonews/blob/ko/new-report-reviews-blockchain-applications-by-us-federal-government-14260ae2.md)
 * 2019-06-10 [보고서: 파워 플랫폼에 블록 체인 도구를 추가 하는 마이크로소프트](https://github.com/theyapapa/cryptonews/blob/ko/report-microsoft-to-add-blockchain-tools-to-its-power-platform-1b3d7da8.md)
 * 2019-06-10 [러시아는 암호 화폐, 거래소 및 외환에 대 한 역외 목적지를 건설할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/russia-may-build-offshore-destination-for-cryptocurrencies-exchanges-and-forex-106acdb5.md)
 * 2019-06-10 [이란의 에너지 장관은 암호화 광부 실제 전기 가격을 부과 원하는](https://github.com/theyapapa/cryptonews/blob/ko/irans-energy-minister-wants-crypto-miners-charged-real-electricity-prices-49cd4065.md)
