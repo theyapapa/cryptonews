@@ -1,3 +1,4 @@
+* 2019-06-11 [디지털 자산 보안 시작 방화 블록은 $1600만으로 스텔스 모드를 떠난다.](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-security-startup-fireblocks-leaves-stealth-mode-with-16-million-in-funding-f866cbd5.md)
 * 2019-06-10 [새 보고서 미국 연방 정부의 블록 체인 응용 프로그램 리뷰](https://github.com/theyapapa/cryptonews/blob/ko/new-report-reviews-blockchain-applications-by-us-federal-government-14260ae2.md)
 * 2019-06-10 [보고서: 파워 플랫폼에 블록 체인 도구를 추가 하는 마이크로소프트](https://github.com/theyapapa/cryptonews/blob/ko/report-microsoft-to-add-blockchain-tools-to-its-power-platform-1b3d7da8.md)
 * 2019-06-10 [러시아는 암호 화폐, 거래소 및 외환에 대 한 역외 목적지를 건설할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/russia-may-build-offshore-destination-for-cryptocurrencies-exchanges-and-forex-106acdb5.md)
