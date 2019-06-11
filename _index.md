@@ -1,3 +1,4 @@
+* 2019-06-11 [표준 토큰화 프로토콜은 8 초 토큰 판매에 $750K를 올립니다.](https://github.com/theyapapa/cryptonews/blob/ko/standard-tokenization-protocol-raises-750k-in-eight-second-token-sale-edc049ea.md)
 * 2019-06-11 [BitMEX는 계정에 대 한 공격의 증가를 관찰 하 고, 보안 대책을 강조 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-observes-increase-in-attacks-on-accounts-stresses-security-measures-13c03f66.md)
 * 2019-06-11 [오스트리아 우편 서비스는 암호화 수집 우표를 출시](https://github.com/theyapapa/cryptonews/blob/ko/austrian-postal-service-releases-crypto-collectible-stamps-d6c10fa8.md)
 * 2019-06-11 [Beaxy는 지난 달 해킹에도 불구 하 고 암호화 거래 플랫폼을 출시](https://github.com/theyapapa/cryptonews/blob/ko/beaxy-launches-crypto-trading-platform-despite-hack-last-month-b2c8112c.md)
