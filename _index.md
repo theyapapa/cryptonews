@@ -1,3 +1,4 @@
+* 2019-06-10 [Nuevo informe revisa aplicaciones blockchain por el gobierno federal de Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/new-report-reviews-blockchain-applications-by-us-federal-government-14260ae2.md)
 * 2019-06-10 [Informe: Microsoft para agregar herramientas de blockchain a su plataforma de energía](https://github.com/theyapapa/cryptonews/blob/es/report-microsoft-to-add-blockchain-tools-to-its-power-platform-1b3d7da8.md)
 * 2019-06-10 [Rusia puede construir destino offshore para Cryptocurrencies, intercambios y Forex](https://github.com/theyapapa/cryptonews/blob/es/russia-may-build-offshore-destination-for-cryptocurrencies-exchanges-and-forex-106acdb5.md)
 * 2019-06-10 [El Ministro de energía de Irán quiere mineros cripto cargados precios reales de electricidad](https://github.com/theyapapa/cryptonews/blob/es/irans-energy-minister-wants-crypto-miners-charged-real-electricity-prices-49cd4065.md)
