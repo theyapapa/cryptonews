@@ -1,3 +1,4 @@
+* 2019-06-11 [El protocolo estándar de tokenización eleva $750K en la venta de tokens de ocho segundos](https://github.com/theyapapa/cryptonews/blob/es/standard-tokenization-protocol-raises-750k-in-eight-second-token-sale-edc049ea.md)
 * 2019-06-11 [BitMEX observa aumento en los ataques a las cuentas, las medidas de seguridad](https://github.com/theyapapa/cryptonews/blob/es/bitmex-observes-increase-in-attacks-on-accounts-stresses-security-measures-13c03f66.md)
 * 2019-06-11 [Austrian Postal Service releases cripto sellos coleccionables](https://github.com/theyapapa/cryptonews/blob/es/austrian-postal-service-releases-crypto-collectible-stamps-d6c10fa8.md)
 * 2019-06-11 [Beaxy lanza Crypto plataforma de negociación a pesar de hack el mes pasado](https://github.com/theyapapa/cryptonews/blob/es/beaxy-launches-crypto-trading-platform-despite-hack-last-month-b2c8112c.md)
