@@ -1,3 +1,4 @@
+* 2019-06-12 [Правительство Азербайджана сотрудничает с IBM по блокчейн-таможенным сделкам](https://github.com/theyapapa/cryptonews/blob/ru/azerbaijan-government-partners-with-ibm-on-blockchain-customs-deal-08e9d5f7.md)
 * 2019-06-11 [Правовые и генеральные партнеры с Amazon использовать blockchain для пенсионных сделок](https://github.com/theyapapa/cryptonews/blob/ru/legal-general-partners-with-amazon-to-use-blockchain-for-pension-deals-73cc1adf.md)
 * 2019-06-11 [DOrg LLC претендует на первое юридически допустимое DAO в соответствии с законодательством США](https://github.com/theyapapa/cryptonews/blob/ru/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law-d0a5760a.md)
 * 2019-06-11 [Стандартный протокол токенизации поднимает $750K в восьмисекундной продаже токенов](https://github.com/theyapapa/cryptonews/blob/ru/standard-tokenization-protocol-raises-750k-in-eight-second-token-sale-edc049ea.md)
