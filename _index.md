@@ -1,3 +1,4 @@
+* 2019-06-12 [Уитон драгоценных металлов для развертывания Blockchain в процессах учета металла](https://github.com/theyapapa/cryptonews/blob/ru/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
 * 2019-06-12 [Eos Разработчик Block.one Работает с лоббистской фирмы по вопросам blockchain](https://github.com/theyapapa/cryptonews/blob/ru/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
 * 2019-06-12 [Крейг Райт Приказал лично появиться на Bitcoin Кража посредничество](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-ordered-to-personally-appear-at-bitcoin-theft-mediation-a6dc8701.md)
 * 2019-06-12 [Биткоин генерирует больше выбросов углерода, чем некоторые страны, исследование предупреждает](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-generates-more-carbon-emissions-than-some-countries-study-warns-3d69d274.md)
