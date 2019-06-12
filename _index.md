@@ -1,3 +1,4 @@
+* 2019-06-12 [금속 회계 프로세스에서 블록 체인을 배포 하는 귀금속](https://github.com/theyapapa/cryptonews/blob/ko/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
 * 2019-06-12 [Eos 개발자 블록 블록 체인 문제에 대 한 회사 로비](https://github.com/theyapapa/cryptonews/blob/ko/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
 * 2019-06-12 [크레이그 라이트는 비트 코인 도난 조정에 개인적으로 표시 하도록 명령](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-ordered-to-personally-appear-at-bitcoin-theft-mediation-a6dc8701.md)
 * 2019-06-12 [비트 코인은 일부 국가 보다 더 많은 탄소 배출량을 발생, 연구 경고](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-generates-more-carbon-emissions-than-some-countries-study-warns-3d69d274.md)
