@@ -1,3 +1,4 @@
+* 2019-06-12 [Крейг Райт Приказал лично появиться на Bitcoin Кража посредничество](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-ordered-to-personally-appear-at-bitcoin-theft-mediation-a6dc8701.md)
 * 2019-06-12 [Биткоин генерирует больше выбросов углерода, чем некоторые страны, исследование предупреждает](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-generates-more-carbon-emissions-than-some-countries-study-warns-3d69d274.md)
 * 2019-06-12 [Губернатор Бразилии рассмотрит законопроект, требующий государственного управления для содействия Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/govt-of-brazil-to-consider-bill-requiring-public-administration-to-promote-blockchain-0ef3c84c.md)
 * 2019-06-12 [Германия получает Blockchain Real Estate Fund от инвестиционного менеджера Peakside](https://github.com/theyapapa/cryptonews/blob/ru/germany-gains-blockchain-real-estate-fund-from-investment-manager-peakside-720400b7.md)
