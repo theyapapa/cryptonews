@@ -1,3 +1,4 @@
+* 2019-06-12 [EOS Developer Block. One trabajar con la empresa de cabildeo en temas blockchain](https://github.com/theyapapa/cryptonews/blob/es/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
 * 2019-06-12 [Craig Wright ordenó aparecer personalmente en la mediación de Bitcoin Theft](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-ordered-to-personally-appear-at-bitcoin-theft-mediation-a6dc8701.md)
 * 2019-06-12 [Bitcoin genera más emisiones de carbono que algunos países, el estudio advierte](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-generates-more-carbon-emissions-than-some-countries-study-warns-3d69d274.md)
 * 2019-06-12 [Gov't de Brasil a considerar Bill requiriendo la administración pública para promover blockchain](https://github.com/theyapapa/cryptonews/blob/es/govt-of-brazil-to-consider-bill-requiring-public-administration-to-promote-blockchain-0ef3c84c.md)
