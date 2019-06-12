@@ -1,3 +1,4 @@
+* 2019-06-12 [Wheaton metales preciosos para desplegar blockchain en procesos de contabilidad metálica](https://github.com/theyapapa/cryptonews/blob/es/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
 * 2019-06-12 [EOS Developer Block. One trabajar con la empresa de cabildeo en temas blockchain](https://github.com/theyapapa/cryptonews/blob/es/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
 * 2019-06-12 [Craig Wright ordenó aparecer personalmente en la mediación de Bitcoin Theft](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-ordered-to-personally-appear-at-bitcoin-theft-mediation-a6dc8701.md)
 * 2019-06-12 [Bitcoin genera más emisiones de carbono que algunos países, el estudio advierte](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-generates-more-carbon-emissions-than-some-countries-study-warns-3d69d274.md)
