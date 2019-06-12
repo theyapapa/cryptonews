@@ -1,3 +1,4 @@
+* 2019-06-12 [Los socios gubernamentales de Azerbaiyán con IBM on blockchain aduana Deal](https://github.com/theyapapa/cryptonews/blob/es/azerbaijan-government-partners-with-ibm-on-blockchain-customs-deal-08e9d5f7.md)
 * 2019-06-11 [Legal & general Partners with Amazon para usar blockchain para ofertas de pensiones](https://github.com/theyapapa/cryptonews/blob/es/legal-general-partners-with-amazon-to-use-blockchain-for-pension-deals-73cc1adf.md)
 * 2019-06-11 [DOrg LLC pretende ser el primero legalmente válido DAO bajo la ley de Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law-d0a5760a.md)
 * 2019-06-11 [El protocolo estándar de tokenización eleva $750K en la venta de tokens de ocho segundos](https://github.com/theyapapa/cryptonews/blob/es/standard-tokenization-protocol-raises-750k-in-eight-second-token-sale-edc049ea.md)
