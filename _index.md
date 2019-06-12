@@ -1,3 +1,4 @@
+* 2019-06-11 [미국 법률에 따라 합법적으로 유효한 DAO가 되는 DOrg LLC](https://github.com/theyapapa/cryptonews/blob/ko/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law-d0a5760a.md)
 * 2019-06-11 [표준 토큰화 프로토콜은 8 초 토큰 판매에 $750K를 올립니다.](https://github.com/theyapapa/cryptonews/blob/ko/standard-tokenization-protocol-raises-750k-in-eight-second-token-sale-edc049ea.md)
 * 2019-06-11 [BitMEX는 계정에 대 한 공격의 증가를 관찰 하 고, 보안 대책을 강조 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitmex-observes-increase-in-attacks-on-accounts-stresses-security-measures-13c03f66.md)
 * 2019-06-11 [오스트리아 우편 서비스는 암호화 수집 우표를 출시](https://github.com/theyapapa/cryptonews/blob/ko/austrian-postal-service-releases-crypto-collectible-stamps-d6c10fa8.md)
