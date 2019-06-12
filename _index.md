@@ -1,3 +1,4 @@
+* 2019-06-12 [아제르바이잔 블록 체인 관세 거래에 대 한 IBM과 정부 파트너](https://github.com/theyapapa/cryptonews/blob/ko/azerbaijan-government-partners-with-ibm-on-blockchain-customs-deal-08e9d5f7.md)
 * 2019-06-11 [연금 거래에 대 한 블록 체인을 사용 하 여 아마존과 법률 &gt; 일반 파트너](https://github.com/theyapapa/cryptonews/blob/ko/legal-general-partners-with-amazon-to-use-blockchain-for-pension-deals-73cc1adf.md)
 * 2019-06-11 [미국 법률에 따라 합법적으로 유효한 DAO가 되는 DOrg LLC](https://github.com/theyapapa/cryptonews/blob/ko/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law-d0a5760a.md)
 * 2019-06-11 [표준 토큰화 프로토콜은 8 초 토큰 판매에 $750K를 올립니다.](https://github.com/theyapapa/cryptonews/blob/ko/standard-tokenization-protocol-raises-750k-in-eight-second-token-sale-edc049ea.md)
