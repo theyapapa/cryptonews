@@ -1,3 +1,4 @@
+* 2019-06-12 [블록 체인을 홍보 하는 공공 행정을 필요로 하는 법안을 고려 브라질의 gov't](https://github.com/theyapapa/cryptonews/blob/ko/govt-of-brazil-to-consider-bill-requiring-public-administration-to-promote-blockchain-0ef3c84c.md)
 * 2019-06-12 [독일, 투자 관리자에서 블록 체인 부동산 펀드 획득](https://github.com/theyapapa/cryptonews/blob/ko/germany-gains-blockchain-real-estate-fund-from-investment-manager-peakside-720400b7.md)
 * 2019-06-12 [글로벌 암호화 부문에 대 한 새로운 규칙을 발표 하는 FATF, 거래소, 펀드, 관리자에 영향을 미치는](https://github.com/theyapapa/cryptonews/blob/ko/fatf-to-release-new-rules-for-global-crypto-sector-impacting-exchanges-funds-custodians-6962cf1d.md)
 * 2019-06-12 [아제르바이잔 블록 체인 관세 거래에 대 한 IBM과 정부 파트너](https://github.com/theyapapa/cryptonews/blob/ko/azerbaijan-government-partners-with-ibm-on-blockchain-customs-deal-08e9d5f7.md)
