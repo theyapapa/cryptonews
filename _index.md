@@ -1,3 +1,4 @@
+* 2019-06-12 [Alemania gana blockchain Real Estate Fund de Investment Manager Peakside](https://github.com/theyapapa/cryptonews/blob/es/germany-gains-blockchain-real-estate-fund-from-investment-manager-peakside-720400b7.md)
 * 2019-06-12 [FATF para lanzar nuevas reglas para el sector criptográfico global, afectando a los intercambios, fondos, custodios](https://github.com/theyapapa/cryptonews/blob/es/fatf-to-release-new-rules-for-global-crypto-sector-impacting-exchanges-funds-custodians-6962cf1d.md)
 * 2019-06-12 [Los socios gubernamentales de Azerbaiyán con IBM on blockchain aduana Deal](https://github.com/theyapapa/cryptonews/blob/es/azerbaijan-government-partners-with-ibm-on-blockchain-customs-deal-08e9d5f7.md)
 * 2019-06-11 [Legal & general Partners with Amazon para usar blockchain para ofertas de pensiones](https://github.com/theyapapa/cryptonews/blob/es/legal-general-partners-with-amazon-to-use-blockchain-for-pension-deals-73cc1adf.md)
