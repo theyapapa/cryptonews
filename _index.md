@@ -1,3 +1,4 @@
+* 2019-06-11 [DOrg LLC претендует на первое юридически допустимое DAO в соответствии с законодательством США](https://github.com/theyapapa/cryptonews/blob/ru/dorg-llc-purports-to-be-first-legally-valid-dao-under-us-law-d0a5760a.md)
 * 2019-06-11 [Стандартный протокол токенизации поднимает $750K в восьмисекундной продаже токенов](https://github.com/theyapapa/cryptonews/blob/ru/standard-tokenization-protocol-raises-750k-in-eight-second-token-sale-edc049ea.md)
 * 2019-06-11 [BitMEX наблюдает увеличение атак на счета, подчеркивает меры безопасности](https://github.com/theyapapa/cryptonews/blob/ru/bitmex-observes-increase-in-attacks-on-accounts-stresses-security-measures-13c03f66.md)
 * 2019-06-11 [Австрийская почтовая служба выпускает криптоколлекционные марки](https://github.com/theyapapa/cryptonews/blob/ru/austrian-postal-service-releases-crypto-collectible-stamps-d6c10fa8.md)
