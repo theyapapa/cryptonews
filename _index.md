@@ -1,3 +1,4 @@
+* 2019-06-12 [Eos 개발자 블록 블록 체인 문제에 대 한 회사 로비](https://github.com/theyapapa/cryptonews/blob/ko/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
 * 2019-06-12 [크레이그 라이트는 비트 코인 도난 조정에 개인적으로 표시 하도록 명령](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-ordered-to-personally-appear-at-bitcoin-theft-mediation-a6dc8701.md)
 * 2019-06-12 [비트 코인은 일부 국가 보다 더 많은 탄소 배출량을 발생, 연구 경고](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-generates-more-carbon-emissions-than-some-countries-study-warns-3d69d274.md)
 * 2019-06-12 [블록 체인을 홍보 하는 공공 행정을 필요로 하는 법안을 고려 브라질의 gov't](https://github.com/theyapapa/cryptonews/blob/ko/govt-of-brazil-to-consider-bill-requiring-public-administration-to-promote-blockchain-0ef3c84c.md)
