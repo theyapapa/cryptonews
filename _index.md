@@ -1,3 +1,4 @@
+* 2019-06-13 [EE.UU. FDA socios con IBM y Walmart para mejorar la cadena de suministro de drogas usando blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-fda-partners-with-ibm-and-walmart-to-improve-drug-supply-chain-using-blockchain-4e1731d1.md)
 * 2019-06-13 [Brasil: R3 desarrolla la plataforma blockchain con los principales bancos y bolsa de valores](https://github.com/theyapapa/cryptonews/blob/es/brazil-r3-develops-blockchain-platform-with-major-banks-and-stock-exchange-bd54ba96.md)
 * 2019-06-12 [Las principales Criptomonedas en el Green como el Bitcoin rallies sobre $8.100](https://github.com/theyapapa/cryptonews/blob/es/major-cryptocurrencies-in-the-green-as-bitcoin-rallies-over-8-100-d9920583.md)
 * 2019-06-12 [Wheaton metales preciosos para desplegar blockchain en procesos de contabilidad metálica](https://github.com/theyapapa/cryptonews/blob/es/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
