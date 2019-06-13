@@ -1,3 +1,4 @@
+* 2019-06-13 [Huawei рассматривает возможность запуска блокчейн-сервисов в Латинской Америке](https://github.com/theyapapa/cryptonews/blob/ru/huawei-considering-launch-of-blockchain-services-in-latin-america-429dd129.md)
 * 2019-06-13 [Национальный институт рыболовства и продовольственная работа IBM по отслеживанию блокчейна морепродуктов](https://github.com/theyapapa/cryptonews/blob/ru/national-fisheries-institute-and-ibms-food-trust-work-on-seafood-blockchain-traceability-dbba23bb.md)
 * 2019-06-13 [США FDA Партнеры с IBM и Walmart для улучшения цепи поставок лекарств с помощью blockchain](https://github.com/theyapapa/cryptonews/blob/ru/us-fda-partners-with-ibm-and-walmart-to-improve-drug-supply-chain-using-blockchain-4e1731d1.md)
 * 2019-06-13 [Бразилия, R3 разрабатывает блокчейн-платформу с крупными банками и фондовой биржей](https://github.com/theyapapa/cryptonews/blob/ru/brazil-r3-develops-blockchain-platform-with-major-banks-and-stock-exchange-bd54ba96.md)
