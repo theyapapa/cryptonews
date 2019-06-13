@@ -1,3 +1,4 @@
+* 2019-06-13 [브라질: R3 주요 은행 및 증권 거래소와 블록 체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/brazil-r3-develops-blockchain-platform-with-major-banks-and-stock-exchange-bd54ba96.md)
 * 2019-06-12 [$8100 넘는 비트 코인 랠리로 그린의 주요 암호 화폐](https://github.com/theyapapa/cryptonews/blob/ko/major-cryptocurrencies-in-the-green-as-bitcoin-rallies-over-8-100-d9920583.md)
 * 2019-06-12 [금속 회계 프로세스에서 블록 체인을 배포 하는 귀금속](https://github.com/theyapapa/cryptonews/blob/ko/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
 * 2019-06-12 [Eos 개발자 블록 블록 체인 문제에 대 한 회사 로비](https://github.com/theyapapa/cryptonews/blob/ko/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
