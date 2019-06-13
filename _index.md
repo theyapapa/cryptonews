@@ -1,3 +1,4 @@
+* 2019-06-13 [Ampleforth поднимает $5M в 11 секунд в предложении обмена Tokinex](https://github.com/theyapapa/cryptonews/blob/ru/ampleforth-raises-5m-in-11-seconds-in-tokinex-exchange-offering-cbd43370.md)
 * 2019-06-13 [Торговая платформа McAfee страдает от DOS-атаки при запуске](https://github.com/theyapapa/cryptonews/blob/ru/mcafee-trading-platform-suffers-dos-attack-upon-launch-2c431ef8.md)
 * 2019-06-13 [Huawei рассматривает возможность запуска блокчейн-сервисов в Латинской Америке](https://github.com/theyapapa/cryptonews/blob/ru/huawei-considering-launch-of-blockchain-services-in-latin-america-429dd129.md)
 * 2019-06-13 [Национальный институт рыболовства и продовольственная работа IBM по отслеживанию блокчейна морепродуктов](https://github.com/theyapapa/cryptonews/blob/ru/national-fisheries-institute-and-ibms-food-trust-work-on-seafood-blockchain-traceability-dbba23bb.md)
