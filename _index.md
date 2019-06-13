@@ -1,3 +1,4 @@
+* 2019-06-12 [Las principales Criptomonedas en el Green como el Bitcoin rallies sobre $8.100](https://github.com/theyapapa/cryptonews/blob/es/major-cryptocurrencies-in-the-green-as-bitcoin-rallies-over-8-100-d9920583.md)
 * 2019-06-12 [Wheaton metales preciosos para desplegar blockchain en procesos de contabilidad metálica](https://github.com/theyapapa/cryptonews/blob/es/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
 * 2019-06-12 [EOS Developer Block. One trabajar con la empresa de cabildeo en temas blockchain](https://github.com/theyapapa/cryptonews/blob/es/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
 * 2019-06-12 [Craig Wright ordenó aparecer personalmente en la mediación de Bitcoin Theft](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-ordered-to-personally-appear-at-bitcoin-theft-mediation-a6dc8701.md)
