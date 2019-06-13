@@ -1,3 +1,4 @@
+* 2019-06-13 [국립 어업 연구소 및 IBM의 식품 신탁에서 해산물 블록 체인 추적성에 대 한 작업](https://github.com/theyapapa/cryptonews/blob/ko/national-fisheries-institute-and-ibms-food-trust-work-on-seafood-blockchain-traceability-dbba23bb.md)
 * 2019-06-13 [Blockchain을 사용 하 여 약물 공급망을 개선 하기 위해 IBM과 월마트와 미국 FDA 파트너](https://github.com/theyapapa/cryptonews/blob/ko/us-fda-partners-with-ibm-and-walmart-to-improve-drug-supply-chain-using-blockchain-4e1731d1.md)
 * 2019-06-13 [브라질: R3 주요 은행 및 증권 거래소와 블록 체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/brazil-r3-develops-blockchain-platform-with-major-banks-and-stock-exchange-bd54ba96.md)
 * 2019-06-12 [$8100 넘는 비트 코인 랠리로 그린의 주요 암호 화폐](https://github.com/theyapapa/cryptonews/blob/ko/major-cryptocurrencies-in-the-green-as-bitcoin-rallies-over-8-100-d9920583.md)
