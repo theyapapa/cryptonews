@@ -1,3 +1,4 @@
+* 2019-06-13 [США FDA Партнеры с IBM и Walmart для улучшения цепи поставок лекарств с помощью blockchain](https://github.com/theyapapa/cryptonews/blob/ru/us-fda-partners-with-ibm-and-walmart-to-improve-drug-supply-chain-using-blockchain-4e1731d1.md)
 * 2019-06-13 [Бразилия, R3 разрабатывает блокчейн-платформу с крупными банками и фондовой биржей](https://github.com/theyapapa/cryptonews/blob/ru/brazil-r3-develops-blockchain-platform-with-major-banks-and-stock-exchange-bd54ba96.md)
 * 2019-06-12 [Основные криптовалюты в зеленом, как Bitcoin митинги более $ 8100](https://github.com/theyapapa/cryptonews/blob/ru/major-cryptocurrencies-in-the-green-as-bitcoin-rallies-over-8-100-d9920583.md)
 * 2019-06-12 [Уитон драгоценных металлов для развертывания Blockchain в процессах учета металла](https://github.com/theyapapa/cryptonews/blob/ru/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
