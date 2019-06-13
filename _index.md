@@ -1,3 +1,4 @@
+* 2019-06-13 [앰 플은 Tokinex 거래소에서 11 초 내에 5백만 달러를 모금 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ampleforth-raises-5m-in-11-seconds-in-tokinex-exchange-offering-cbd43370.md)
 * 2019-06-13 [McAfee 트레이딩 플랫폼은 출시 시 DOS 공격을 앓고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mcafee-trading-platform-suffers-dos-attack-upon-launch-2c431ef8.md)
 * 2019-06-13 [화 웨이는 라틴 아메리카에서 블록 체인 서비스의 출시를 고려](https://github.com/theyapapa/cryptonews/blob/ko/huawei-considering-launch-of-blockchain-services-in-latin-america-429dd129.md)
 * 2019-06-13 [국립 어업 연구소 및 IBM의 식품 신탁에서 해산물 블록 체인 추적성에 대 한 작업](https://github.com/theyapapa/cryptonews/blob/ko/national-fisheries-institute-and-ibms-food-trust-work-on-seafood-blockchain-traceability-dbba23bb.md)
