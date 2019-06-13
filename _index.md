@@ -1,3 +1,4 @@
+* 2019-06-13 [Бразилия, R3 разрабатывает блокчейн-платформу с крупными банками и фондовой биржей](https://github.com/theyapapa/cryptonews/blob/ru/brazil-r3-develops-blockchain-platform-with-major-banks-and-stock-exchange-bd54ba96.md)
 * 2019-06-12 [Основные криптовалюты в зеленом, как Bitcoin митинги более $ 8100](https://github.com/theyapapa/cryptonews/blob/ru/major-cryptocurrencies-in-the-green-as-bitcoin-rallies-over-8-100-d9920583.md)
 * 2019-06-12 [Уитон драгоценных металлов для развертывания Blockchain в процессах учета металла](https://github.com/theyapapa/cryptonews/blob/ru/wheaton-precious-metals-to-deploy-blockchain-in-metal-accounting-processes-c8e58aae.md)
 * 2019-06-12 [Eos Разработчик Block.one Работает с лоббистской фирмы по вопросам blockchain](https://github.com/theyapapa/cryptonews/blob/ru/eos-developer-blockone-working-with-lobbying-firm-on-blockchain-issues-95e41c38.md)
