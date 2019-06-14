@@ -1,3 +1,4 @@
+* 2019-06-14 [Биткоин стоит более $ 8400, как большинство лучших Altcoins увидеть потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-worth-over-8-400-as-most-top-altcoins-see-losses-2c4e987c.md)
 * 2019-06-14 [Криптопроект Facebook станет вехой, сообщает РБК](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-crypto-project-will-be-a-milestone-according-to-rbc-f1638e5a.md)
 * 2019-06-14 [Сообщество во-первых, один протокол план, чтобы дать пользователям место за столом управления](https://github.com/theyapapa/cryptonews/blob/ru/community-first-one-protocols-plan-to-give-users-a-seat-at-the-governance-table-874e2a60.md)
 * 2019-06-14 [FT, Facebook нанимает Standard Chartered Bank глава по связям с общественностью для Crypto проекта](https://github.com/theyapapa/cryptonews/blob/ru/ft-facebook-hires-standard-chartered-banks-head-of-public-affairs-for-crypto-project-83210a1e.md)
