@@ -1,3 +1,4 @@
+* 2019-06-14 [New CryptoCompare Research evalúa a los mejores intérpretes entre los intercambios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/new-cryptocompare-research-assesses-top-performers-among-crypto-exchanges-e652840f.md)
 * 2019-06-14 [El regulador financiero de Islandia aprueba la firma de dinero electrónico impulsada por blockchain](https://github.com/theyapapa/cryptonews/blob/es/icelands-financial-regulator-approves-blockchain-powered-e-money-firm-d6fc1420.md)
 * 2019-06-14 [Bitcoin Worth over $8.400 como la mayoría de Altcoins más Top ver las pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-worth-over-8-400-as-most-top-altcoins-see-losses-2c4e987c.md)
 * 2019-06-14 [El proyecto Crypto de Facebook será un hito de acuerdo con el RBC](https://github.com/theyapapa/cryptonews/blob/es/facebooks-crypto-project-will-be-a-milestone-according-to-rbc-f1638e5a.md)
