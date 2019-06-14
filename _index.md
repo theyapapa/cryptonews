@@ -1,3 +1,4 @@
+* 2019-06-14 [WSJ: 페이스 북 암호화 프로젝트 물개 $10M 투자 비자, 마스터 카드, 페이팔, Uber](https://github.com/theyapapa/cryptonews/blob/ko/wsj-facebook-crypto-project-seals-10m-investment-each-from-visa-mastercard-paypal-uber-557f5baa.md)
 * 2019-06-13 [로드 아일랜드, 정부의 블록 체인 솔루션 제안 요청](https://github.com/theyapapa/cryptonews/blob/ko/rhode-island-solicits-proposals-for-blockchain-solutions-in-government-7aa66e37.md)
 * 2019-06-13 [앰 플은 Tokinex 거래소에서 11 초 내에 5백만 달러를 모금 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ampleforth-raises-5m-in-11-seconds-in-tokinex-exchange-offering-cbd43370.md)
 * 2019-06-13 [McAfee 트레이딩 플랫폼은 출시 시 DOS 공격을 앓고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mcafee-trading-platform-suffers-dos-attack-upon-launch-2c431ef8.md)
