@@ -1,3 +1,4 @@
+* 2019-06-13 [Rhode Island solicits propuestas para soluciones blockchain en el gobierno](https://github.com/theyapapa/cryptonews/blob/es/rhode-island-solicits-proposals-for-blockchain-solutions-in-government-7aa66e37.md)
 * 2019-06-13 [Ampleforth eleva $5M en 11 segundos en Tokinex Exchange oferta](https://github.com/theyapapa/cryptonews/blob/es/ampleforth-raises-5m-in-11-seconds-in-tokinex-exchange-offering-cbd43370.md)
 * 2019-06-13 [La plataforma de operaciones de McAfee sufre un ataque DOS tras el lanzamiento](https://github.com/theyapapa/cryptonews/blob/es/mcafee-trading-platform-suffers-dos-attack-upon-launch-2c431ef8.md)
 * 2019-06-13 [Huawei considerando el lanzamiento de los servicios blockchain en Latinoamérica](https://github.com/theyapapa/cryptonews/blob/es/huawei-considering-launch-of-blockchain-services-in-latin-america-429dd129.md)
