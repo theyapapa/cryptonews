@@ -1,3 +1,4 @@
+* 2019-06-14 [Google Cloud integra oráculos Chainlink en el almacén de datos de Analytics con el soporte DApp de ETH](https://github.com/theyapapa/cryptonews/blob/es/google-cloud-integrates-chainlink-oracles-in-analytics-data-warehouse-with-eth-dapp-support-902f5db9.md)
 * 2019-06-14 [WSJ: los sellos de proyecto de Facebook Crypto $10M de inversión cada uno de Visa, MasterCard, Paypal, Uber](https://github.com/theyapapa/cryptonews/blob/es/wsj-facebook-crypto-project-seals-10m-investment-each-from-visa-mastercard-paypal-uber-557f5baa.md)
 * 2019-06-13 [Rhode Island solicits propuestas para soluciones blockchain en el gobierno](https://github.com/theyapapa/cryptonews/blob/es/rhode-island-solicits-proposals-for-blockchain-solutions-in-government-7aa66e37.md)
 * 2019-06-13 [Ampleforth eleva $5M en 11 segundos en Tokinex Exchange oferta](https://github.com/theyapapa/cryptonews/blob/es/ampleforth-raises-5m-in-11-seconds-in-tokinex-exchange-offering-cbd43370.md)
