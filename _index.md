@@ -1,3 +1,4 @@
+* 2019-06-14 [El regulador financiero de Islandia aprueba la firma de dinero electrónico impulsada por blockchain](https://github.com/theyapapa/cryptonews/blob/es/icelands-financial-regulator-approves-blockchain-powered-e-money-firm-d6fc1420.md)
 * 2019-06-14 [Bitcoin Worth over $8.400 como la mayoría de Altcoins más Top ver las pérdidas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-worth-over-8-400-as-most-top-altcoins-see-losses-2c4e987c.md)
 * 2019-06-14 [El proyecto Crypto de Facebook será un hito de acuerdo con el RBC](https://github.com/theyapapa/cryptonews/blob/es/facebooks-crypto-project-will-be-a-milestone-according-to-rbc-f1638e5a.md)
 * 2019-06-14 [Comunidad primero: Plan de un protocolo para dar a los usuarios un asiento en la tabla de gobernanza](https://github.com/theyapapa/cryptonews/blob/es/community-first-one-protocols-plan-to-give-users-a-seat-at-the-governance-table-874e2a60.md)
