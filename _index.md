@@ -1,3 +1,4 @@
+* 2019-06-14 [아이슬란드의 금융 레 귤 레이 터는 블록 체인 기반 전자 머니 회사를 승인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/icelands-financial-regulator-approves-blockchain-powered-e-money-firm-d6fc1420.md)
 * 2019-06-14 [$8400 이상 가치 비트 코인 대부분의 최고 알트 코인으로 손실 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-worth-over-8-400-as-most-top-altcoins-see-losses-2c4e987c.md)
 * 2019-06-14 [페이스북의 암호화 프로젝트는 RBC에 따른 이정표가 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/facebooks-crypto-project-will-be-a-milestone-according-to-rbc-f1638e5a.md)
 * 2019-06-14 [커뮤니티 우선: 사용자에 게 거 버 넌 스 테이블의 좌석을 제공 하는 하나의 프로토콜 계획](https://github.com/theyapapa/cryptonews/blob/ko/community-first-one-protocols-plan-to-give-users-a-seat-at-the-governance-table-874e2a60.md)
