@@ -1,3 +1,4 @@
+* 2019-06-14 [커뮤니티 우선: 사용자에 게 거 버 넌 스 테이블의 좌석을 제공 하는 하나의 프로토콜 계획](https://github.com/theyapapa/cryptonews/blob/ko/community-first-one-protocols-plan-to-give-users-a-seat-at-the-governance-table-874e2a60.md)
 * 2019-06-14 [FT: 페이스북은 암호화 프로젝트를 위한 스탠다드 차 타 드 은행의 공공 업무 책임자를 고용 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ft-facebook-hires-standard-chartered-banks-head-of-public-affairs-for-crypto-project-83210a1e.md)
 * 2019-06-14 [구글 클라우드는 ETH DApp 지원으로 분석 데이터 웨어하우스에 체인 링크 신탁을 통합](https://github.com/theyapapa/cryptonews/blob/ko/google-cloud-integrates-chainlink-oracles-in-analytics-data-warehouse-with-eth-dapp-support-902f5db9.md)
 * 2019-06-14 [WSJ: 페이스 북 암호화 프로젝트 물개 $10M 투자 비자, 마스터 카드, 페이팔, Uber](https://github.com/theyapapa/cryptonews/blob/ko/wsj-facebook-crypto-project-seals-10m-investment-each-from-visa-mastercard-paypal-uber-557f5baa.md)
