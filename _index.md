@@ -1,3 +1,4 @@
+* 2019-06-14 [WSJ, Facebook Crypto Project уплотняет $10 млн инвестиций каждый из Visa, Mastercard, Paypal, Uber](https://github.com/theyapapa/cryptonews/blob/ru/wsj-facebook-crypto-project-seals-10m-investment-each-from-visa-mastercard-paypal-uber-557f5baa.md)
 * 2019-06-13 [Род-Айленд запрашивает предложения для блокчейн-решений в правительстве](https://github.com/theyapapa/cryptonews/blob/ru/rhode-island-solicits-proposals-for-blockchain-solutions-in-government-7aa66e37.md)
 * 2019-06-13 [Ampleforth поднимает $5M в 11 секунд в предложении обмена Tokinex](https://github.com/theyapapa/cryptonews/blob/ru/ampleforth-raises-5m-in-11-seconds-in-tokinex-exchange-offering-cbd43370.md)
 * 2019-06-13 [Торговая платформа McAfee страдает от DOS-атаки при запуске](https://github.com/theyapapa/cryptonews/blob/ru/mcafee-trading-platform-suffers-dos-attack-upon-launch-2c431ef8.md)
