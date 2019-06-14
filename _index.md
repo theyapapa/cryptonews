@@ -1,3 +1,4 @@
+* 2019-06-13 [Род-Айленд запрашивает предложения для блокчейн-решений в правительстве](https://github.com/theyapapa/cryptonews/blob/ru/rhode-island-solicits-proposals-for-blockchain-solutions-in-government-7aa66e37.md)
 * 2019-06-13 [Ampleforth поднимает $5M в 11 секунд в предложении обмена Tokinex](https://github.com/theyapapa/cryptonews/blob/ru/ampleforth-raises-5m-in-11-seconds-in-tokinex-exchange-offering-cbd43370.md)
 * 2019-06-13 [Торговая платформа McAfee страдает от DOS-атаки при запуске](https://github.com/theyapapa/cryptonews/blob/ru/mcafee-trading-platform-suffers-dos-attack-upon-launch-2c431ef8.md)
 * 2019-06-13 [Huawei рассматривает возможность запуска блокчейн-сервисов в Латинской Америке](https://github.com/theyapapa/cryptonews/blob/ru/huawei-considering-launch-of-blockchain-services-in-latin-america-429dd129.md)
