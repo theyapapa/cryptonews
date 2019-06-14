@@ -1,3 +1,4 @@
+* 2019-06-14 [Доклад, Facebook обеспечивает поддержку от десятков новых фирм для своего Crypto проекта](https://github.com/theyapapa/cryptonews/blob/ru/report-facebook-secures-support-from-dozens-of-new-firms-for-its-crypto-project-23c337c6.md)
 * 2019-06-14 [Новое исследование CryptoCompare оценивает лучших исполнителей среди криптобиргов](https://github.com/theyapapa/cryptonews/blob/ru/new-cryptocompare-research-assesses-top-performers-among-crypto-exchanges-e652840f.md)
 * 2019-06-14 [Финансовый регулятор Исландии утверждает Блокчейн-Powered E-Money firm](https://github.com/theyapapa/cryptonews/blob/ru/icelands-financial-regulator-approves-blockchain-powered-e-money-firm-d6fc1420.md)
 * 2019-06-14 [Биткоин стоит более $ 8400, как большинство лучших Altcoins увидеть потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-worth-over-8-400-as-most-top-altcoins-see-losses-2c4e987c.md)
