@@ -1,3 +1,4 @@
+* 2019-06-14 [블록체인 개발자 파견 연구소는 시장 회복에도 불구하고 손실을 겪고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-developer-dispatch-labs-suffers-losses-despite-market-recovery-2b90ba26.md)
 * 2019-06-14 [보고서: 페이스 북은 암호화 프로젝트에 대 한 수십 개의 새로운 회사 로부터 지원을 확보](https://github.com/theyapapa/cryptonews/blob/ko/report-facebook-secures-support-from-dozens-of-new-firms-for-its-crypto-project-23c337c6.md)
 * 2019-06-14 [새로운 CryptoCompare 연구는 암호화 거래소 중 최고 실적을 평가합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-cryptocompare-research-assesses-top-performers-among-crypto-exchanges-e652840f.md)
 * 2019-06-14 [아이슬란드의 금융 레 귤 레이 터는 블록 체인 기반 전자 머니 회사를 승인 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/icelands-financial-regulator-approves-blockchain-powered-e-money-firm-d6fc1420.md)
