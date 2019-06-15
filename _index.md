@@ -1,3 +1,4 @@
+* 2019-06-15 [Apetito para blockchain Tech construye entre los bancos coreanos, pero sin cripto](https://github.com/theyapapa/cryptonews/blob/es/appetite-for-blockchain-tech-builds-among-korean-banks-but-without-crypto-4c0f4a57.md)
 * 2019-06-14 [Blockchain Developer Dispatch Labs sufre pérdidas a pesar de la recuperación del mercado](https://github.com/theyapapa/cryptonews/blob/es/blockchain-developer-dispatch-labs-suffers-losses-despite-market-recovery-2b90ba26.md)
 * 2019-06-14 [Informe: Facebook asegura el apoyo de docenas de nuevas empresas para su proyecto Crypto](https://github.com/theyapapa/cryptonews/blob/es/report-facebook-secures-support-from-dozens-of-new-firms-for-its-crypto-project-23c337c6.md)
 * 2019-06-14 [New CryptoCompare Research evalúa a los mejores intérpretes entre los intercambios criptográficos](https://github.com/theyapapa/cryptonews/blob/es/new-cryptocompare-research-assesses-top-performers-among-crypto-exchanges-e652840f.md)
