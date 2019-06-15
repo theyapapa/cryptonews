@@ -1,3 +1,4 @@
+* 2019-06-14 [Блокчейн Разработчик Диспетчерские лаборатории терпит убытки, несмотря на восстановление рынка](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-developer-dispatch-labs-suffers-losses-despite-market-recovery-2b90ba26.md)
 * 2019-06-14 [Доклад, Facebook обеспечивает поддержку от десятков новых фирм для своего Crypto проекта](https://github.com/theyapapa/cryptonews/blob/ru/report-facebook-secures-support-from-dozens-of-new-firms-for-its-crypto-project-23c337c6.md)
 * 2019-06-14 [Новое исследование CryptoCompare оценивает лучших исполнителей среди криптобиргов](https://github.com/theyapapa/cryptonews/blob/ru/new-cryptocompare-research-assesses-top-performers-among-crypto-exchanges-e652840f.md)
 * 2019-06-14 [Финансовый регулятор Исландии утверждает Блокчейн-Powered E-Money firm](https://github.com/theyapapa/cryptonews/blob/ru/icelands-financial-regulator-approves-blockchain-powered-e-money-firm-d6fc1420.md)
