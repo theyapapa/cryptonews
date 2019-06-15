@@ -1,3 +1,4 @@
+* 2019-06-15 [CCN의 이상한 경우와 구글 6 월 2019 핵심 업데이트](https://github.com/theyapapa/cryptonews/blob/ko/the-strange-case-of-ccn-and-the-google-june-2019-core-update-b7ac4b08.md)
 * 2019-06-15 [페이스 북 ' 천칭 자리 협회' 그리고 다음 주 테스트 넷을 시작: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/facebook-to-unveil-libra-association-and-launch-testnet-next-week-report-db2773a3.md)
 * 2019-06-15 [블록체인 기술에 대한 욕구는 한국 은행들 사이에서 형성되지만 암호화폐는 없다.](https://github.com/theyapapa/cryptonews/blob/ko/appetite-for-blockchain-tech-builds-among-korean-banks-but-without-crypto-4c0f4a57.md)
 * 2019-06-14 [블록체인 개발자 파견 연구소는 시장 회복에도 불구하고 손실을 겪고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-developer-dispatch-labs-suffers-losses-despite-market-recovery-2b90ba26.md)
