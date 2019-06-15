@@ -1,3 +1,4 @@
+* 2019-06-15 [Странный случай CCN и Google Июнь 2019 Основное обновление](https://github.com/theyapapa/cryptonews/blob/ru/the-strange-case-of-ccn-and-the-google-june-2019-core-update-b7ac4b08.md)
 * 2019-06-15 [Facebook обнародовать "Ассоциации Весов" и запуск Testnet на следующей неделе: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/facebook-to-unveil-libra-association-and-launch-testnet-next-week-report-db2773a3.md)
 * 2019-06-15 [Аппетит для Blockchain Технология строит среди корейских банков, но без Крипто](https://github.com/theyapapa/cryptonews/blob/ru/appetite-for-blockchain-tech-builds-among-korean-banks-but-without-crypto-4c0f4a57.md)
 * 2019-06-14 [Блокчейн Разработчик Диспетчерские лаборатории терпит убытки, несмотря на восстановление рынка](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-developer-dispatch-labs-suffers-losses-despite-market-recovery-2b90ba26.md)
