@@ -1,3 +1,4 @@
+* 2019-06-16 [Fuente: Mercado en línea sudamericano que trabaja con Facebook en Crypto Project](https://github.com/theyapapa/cryptonews/blob/es/source-south-american-online-marketplace-working-with-facebook-on-crypto-project-8759677e.md)
 * 2019-06-16 [Hodler's Digest, 10–16 de junio: Top Stories, Price Movements, Quotes and FUD of the Week](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-june-1016-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-d56782bf.md)
 * 2019-06-16 [Bitcoin vale más de $9,200 como top Cryptos Ver Crecimiento](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-worth-over-9-200-as-top-cryptos-see-growth-36fb3711.md)
 * 2019-06-16 [Los 5 mejores artistas criptográficos: NEO, LTC, BTC, ETH, XMR](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-neo-ltc-btc-eth-xmr-cb6cbc04.md)
