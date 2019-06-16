@@ -1,3 +1,4 @@
+* 2019-06-16 [러시아는 블록 체인에 대해 심각해지고 있지만 암호 화폐에 대한 울타리에 남아 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/russia-is-getting-serious-about-blockchain-but-remains-on-the-fence-about-cryptocurrencies-10f4d7ee.md)
 * 2019-06-15 [CCN의 이상한 경우와 구글 6 월 2019 핵심 업데이트](https://github.com/theyapapa/cryptonews/blob/ko/the-strange-case-of-ccn-and-the-google-june-2019-core-update-b7ac4b08.md)
 * 2019-06-15 [페이스 북 ' 천칭 자리 협회' 그리고 다음 주 테스트 넷을 시작: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/facebook-to-unveil-libra-association-and-launch-testnet-next-week-report-db2773a3.md)
 * 2019-06-15 [블록체인 기술에 대한 욕구는 한국 은행들 사이에서 형성되지만 암호화폐는 없다.](https://github.com/theyapapa/cryptonews/blob/ko/appetite-for-blockchain-tech-builds-among-korean-banks-but-without-crypto-4c0f4a57.md)
