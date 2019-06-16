@@ -1,3 +1,4 @@
+* 2019-06-16 [Биткоин стоит более $ 9200, как Топ Крипто см. Рост](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-worth-over-9-200-as-top-cryptos-see-growth-36fb3711.md)
 * 2019-06-16 [Топ 5 Крипто Исполнителей: NEO, LTC, BTC, ETH, XMR](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-neo-ltc-btc-eth-xmr-cb6cbc04.md)
 * 2019-06-16 [Россия серьезно относится к блокчейну, но остается на заборе о криптовалютах](https://github.com/theyapapa/cryptonews/blob/ru/russia-is-getting-serious-about-blockchain-but-remains-on-the-fence-about-cryptocurrencies-10f4d7ee.md)
 * 2019-06-15 [Странный случай CCN и Google Июнь 2019 Основное обновление](https://github.com/theyapapa/cryptonews/blob/ru/the-strange-case-of-ccn-and-the-google-june-2019-core-update-b7ac4b08.md)
