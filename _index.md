@@ -1,3 +1,4 @@
+* 2019-06-16 [Источник: южноамериканский интернет-рынок работает с Facebook на Crypto проекта](https://github.com/theyapapa/cryptonews/blob/ru/source-south-american-online-marketplace-working-with-facebook-on-crypto-project-8759677e.md)
 * 2019-06-16 [Hodler's Digest, 10-16 июня: Лучшие истории, Движения цен, Котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-june-1016-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-d56782bf.md)
 * 2019-06-16 [Биткоин стоит более $ 9200, как Топ Крипто см. Рост](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-worth-over-9-200-as-top-cryptos-see-growth-36fb3711.md)
 * 2019-06-16 [Топ 5 Крипто Исполнителей: NEO, LTC, BTC, ETH, XMR](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-neo-ltc-btc-eth-xmr-cb6cbc04.md)
