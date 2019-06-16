@@ -1,3 +1,4 @@
+* 2019-06-16 [Bitcoin vale más de $9,200 como top Cryptos Ver Crecimiento](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-worth-over-9-200-as-top-cryptos-see-growth-36fb3711.md)
 * 2019-06-16 [Los 5 mejores artistas criptográficos: NEO, LTC, BTC, ETH, XMR](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-neo-ltc-btc-eth-xmr-cb6cbc04.md)
 * 2019-06-16 [Rusia se está tomando en serio la cadena de bloques, pero sigue en la valla sobre las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/russia-is-getting-serious-about-blockchain-but-remains-on-the-fence-about-cryptocurrencies-10f4d7ee.md)
 * 2019-06-15 [El extraño caso de CCN y la actualización básica de Google junio de 2019](https://github.com/theyapapa/cryptonews/blob/es/the-strange-case-of-ccn-and-the-google-june-2019-core-update-b7ac4b08.md)
