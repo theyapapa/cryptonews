@@ -1,3 +1,4 @@
+* 2019-06-16 [호들러의 다이제스트, 6월 10-16일: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-june-1016-top-stories-price-movements-quotes-and-fud-of-the-week-top-stories-this-week-d56782bf.md)
 * 2019-06-16 [비트 코인 이상 가치 $9,200 최고 암호로 성장을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-worth-over-9-200-as-top-cryptos-see-growth-36fb3711.md)
 * 2019-06-16 [상위 5 암호화 수행자 : 네오, LTC, BTC, ETH, XMR](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-neo-ltc-btc-eth-xmr-cb6cbc04.md)
 * 2019-06-16 [러시아는 블록 체인에 대해 심각해지고 있지만 암호 화폐에 대한 울타리에 남아 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/russia-is-getting-serious-about-blockchain-but-remains-on-the-fence-about-cryptocurrencies-10f4d7ee.md)
