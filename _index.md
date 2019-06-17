@@ -1,3 +1,4 @@
+* 2019-06-17 [Биткоин ломает $9,300, так как фондовый рынок США видит незначительный спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-downturn-5e228aed.md)
 * 2019-06-17 [Биткойн превосходит миллион ежедневных активных адресов](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
 * 2019-06-17 [Японская инициатива по обработке данных обеспечивает безопасность блокчейна для 100 крупных компаний](https://github.com/theyapapa/cryptonews/blob/ru/japan-data-initiative-brings-blockchain-security-to-100-major-businesses-8a58426e.md)
 * 2019-06-17 [5 южнокорейских криптобиржи берут на себя новую ответственность за потери пользователей](https://github.com/theyapapa/cryptonews/blob/ru/5-south-korean-crypto-exchanges-take-on-new-responsibility-for-user-losses-b011e02a.md)
