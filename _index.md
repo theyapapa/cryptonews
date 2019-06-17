@@ -1,3 +1,4 @@
+* 2019-06-17 [인터넷 기관: 암호화에 대한 적대적인 중앙 집중식 기업의 역사](https://github.com/theyapapa/cryptonews/blob/ko/internet-authority-history-of-centralized-companies-being-hostile-toward-crypto-4d8fcd7f.md)
 * 2019-06-17 [OKCoin, Int'l 사용자를위한 카드 지원 USD 예금에 지불 처리기 Simplex 파트너](https://github.com/theyapapa/cryptonews/blob/ko/okcoin-payments-processer-simplex-partner-on-card-enabled-usd-deposits-for-intl-users-60acdafb.md)
 * 2019-06-17 [비트 코인 휴식 $9,300 미국 주식 시장은 사소한 침체를 보고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-downturn-5e228aed.md)
 * 2019-06-17 [비트코인, 일일 활성 주소 100만 개 돌파](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
