@@ -1,3 +1,4 @@
+* 2019-06-17 [비트코인, 일일 활성 주소 100만 개 돌파](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
 * 2019-06-17 [일본 데이터 이니셔티브, 100개 주요 기업에 블록체인 보안 제공](https://github.com/theyapapa/cryptonews/blob/ko/japan-data-initiative-brings-blockchain-security-to-100-major-businesses-8a58426e.md)
 * 2019-06-17 [5 한국 의 암호화 거래소는 사용자 손실에 대한 새로운 책임에 걸릴](https://github.com/theyapapa/cryptonews/blob/ko/5-south-korean-crypto-exchanges-take-on-new-responsibility-for-user-losses-b011e02a.md)
 * 2019-06-16 [출처: 암호화 프로젝트에 페이스 북과 함께 작업 남미 온라인 마켓 플레이스](https://github.com/theyapapa/cryptonews/blob/ko/source-south-american-online-marketplace-working-with-facebook-on-crypto-project-8759677e.md)
