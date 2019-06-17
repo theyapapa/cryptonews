@@ -1,3 +1,4 @@
+* 2019-06-17 [Биткойн превосходит миллион ежедневных активных адресов](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
 * 2019-06-17 [Японская инициатива по обработке данных обеспечивает безопасность блокчейна для 100 крупных компаний](https://github.com/theyapapa/cryptonews/blob/ru/japan-data-initiative-brings-blockchain-security-to-100-major-businesses-8a58426e.md)
 * 2019-06-17 [5 южнокорейских криптобиржи берут на себя новую ответственность за потери пользователей](https://github.com/theyapapa/cryptonews/blob/ru/5-south-korean-crypto-exchanges-take-on-new-responsibility-for-user-losses-b011e02a.md)
 * 2019-06-16 [Источник: южноамериканский интернет-рынок работает с Facebook на Crypto проекта](https://github.com/theyapapa/cryptonews/blob/ru/source-south-american-online-marketplace-working-with-facebook-on-crypto-project-8759677e.md)
