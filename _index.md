@@ -1,3 +1,4 @@
+* 2019-06-17 [비트 코인 휴식 $9,300 미국 주식 시장은 사소한 침체를 보고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-downturn-5e228aed.md)
 * 2019-06-17 [비트코인, 일일 활성 주소 100만 개 돌파](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
 * 2019-06-17 [일본 데이터 이니셔티브, 100개 주요 기업에 블록체인 보안 제공](https://github.com/theyapapa/cryptonews/blob/ko/japan-data-initiative-brings-blockchain-security-to-100-major-businesses-8a58426e.md)
 * 2019-06-17 [5 한국 의 암호화 거래소는 사용자 손실에 대한 새로운 책임에 걸릴](https://github.com/theyapapa/cryptonews/blob/ko/5-south-korean-crypto-exchanges-take-on-new-responsibility-for-user-losses-b011e02a.md)
