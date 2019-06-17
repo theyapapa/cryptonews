@@ -1,3 +1,4 @@
+* 2019-06-17 [Autoridad de Internet: Historia de las empresas centralizadas que son hostiles hacia cripto](https://github.com/theyapapa/cryptonews/blob/es/internet-authority-history-of-centralized-companies-being-hostile-toward-crypto-4d8fcd7f.md)
 * 2019-06-17 [OKCoin, Proceso de pagos Simplex Socio en Depósitos USD habilitados para Tarjeta para Usuarios Int'l](https://github.com/theyapapa/cryptonews/blob/es/okcoin-payments-processer-simplex-partner-on-card-enabled-usd-deposits-for-intl-users-60acdafb.md)
 * 2019-06-17 [Bitcoin rompe $9,300 cuando el mercado de valores de EE.UU. ve una caída menor](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-downturn-5e228aed.md)
 * 2019-06-17 [Bitcoin supera el millón de direcciones activas diarias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
