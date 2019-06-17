@@ -1,3 +1,4 @@
+* 2019-06-17 [폴란드 은행, 이더리움 블록체인으로 문서 확인](https://github.com/theyapapa/cryptonews/blob/ko/polish-bank-verifies-documents-with-ethereum-blockchain-6f499518.md)
 * 2019-06-17 [새로운 파트너십에 따라 머니그램에 최대 $50M까지 투자하는 리플](https://github.com/theyapapa/cryptonews/blob/ko/ripple-to-invest-up-to-50m-in-moneygram-following-new-partnership-98280637.md)
 * 2019-06-17 [Zcash는 네트워크 상태를 강화하기 위해 새로운 소프트웨어 클라이언트를 출시합니다.](https://github.com/theyapapa/cryptonews/blob/ko/zcash-rolls-out-new-software-client-to-bolster-network-health-64ffc8c4.md)
 * 2019-06-17 [인터넷 기관: 암호화에 대한 적대적인 중앙 집중식 기업의 역사](https://github.com/theyapapa/cryptonews/blob/ko/internet-authority-history-of-centralized-companies-being-hostile-toward-crypto-4d8fcd7f.md)
