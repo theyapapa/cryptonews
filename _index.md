@@ -1,3 +1,4 @@
+* 2019-06-17 [Интернет-авторитет: История централизованных компаний, враждебных к Крипто](https://github.com/theyapapa/cryptonews/blob/ru/internet-authority-history-of-centralized-companies-being-hostile-toward-crypto-4d8fcd7f.md)
 * 2019-06-17 [OKCoin, Платежный процесс простаков Партнер по картам с поддержкой USD Депозиты для int'l пользователей](https://github.com/theyapapa/cryptonews/blob/ru/okcoin-payments-processer-simplex-partner-on-card-enabled-usd-deposits-for-intl-users-60acdafb.md)
 * 2019-06-17 [Биткоин ломает $9,300, так как фондовый рынок США видит незначительный спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-downturn-5e228aed.md)
 * 2019-06-17 [Биткойн превосходит миллион ежедневных активных адресов](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
