@@ -1,3 +1,4 @@
+* 2019-06-17 [Bitcoin supera el millón de direcciones activas diarias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
 * 2019-06-17 [Iniciativa de datos de Japón lleva la seguridad de Blockchain a 100 empresas principales](https://github.com/theyapapa/cryptonews/blob/es/japan-data-initiative-brings-blockchain-security-to-100-major-businesses-8a58426e.md)
 * 2019-06-17 [5 Los intercambios criptográficos de Corea del Sur asumirn una nueva responsabilidad por las pérdidas de usuarios](https://github.com/theyapapa/cryptonews/blob/es/5-south-korean-crypto-exchanges-take-on-new-responsibility-for-user-losses-b011e02a.md)
 * 2019-06-16 [Fuente: Mercado en línea sudamericano que trabaja con Facebook en Crypto Project](https://github.com/theyapapa/cryptonews/blob/es/source-south-american-online-marketplace-working-with-facebook-on-crypto-project-8759677e.md)
