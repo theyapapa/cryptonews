@@ -1,3 +1,4 @@
+* 2019-06-17 [OKCoin, Proceso de pagos Simplex Socio en Depósitos USD habilitados para Tarjeta para Usuarios Int'l](https://github.com/theyapapa/cryptonews/blob/es/okcoin-payments-processer-simplex-partner-on-card-enabled-usd-deposits-for-intl-users-60acdafb.md)
 * 2019-06-17 [Bitcoin rompe $9,300 cuando el mercado de valores de EE.UU. ve una caída menor](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-downturn-5e228aed.md)
 * 2019-06-17 [Bitcoin supera el millón de direcciones activas diarias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-surpasses-one-million-daily-active-addresses-0e0cd68e.md)
 * 2019-06-17 [Iniciativa de datos de Japón lleva la seguridad de Blockchain a 100 empresas principales](https://github.com/theyapapa/cryptonews/blob/es/japan-data-initiative-brings-blockchain-security-to-100-major-businesses-8a58426e.md)
