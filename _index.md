@@ -1,3 +1,4 @@
+* 2019-06-17 [Польский банк проверяет документы с помощью блокчейна Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/polish-bank-verifies-documents-with-ethereum-blockchain-6f499518.md)
 * 2019-06-17 [Ripple инвестировать до $ 50 млн в MoneyGram После нового партнерства](https://github.com/theyapapa/cryptonews/blob/ru/ripple-to-invest-up-to-50m-in-moneygram-following-new-partnership-98280637.md)
 * 2019-06-17 [«Cash» выкатывает нового программного обеспечения для укрепления здоровья сети](https://github.com/theyapapa/cryptonews/blob/ru/zcash-rolls-out-new-software-client-to-bolster-network-health-64ffc8c4.md)
 * 2019-06-17 [Интернет-авторитет: История централизованных компаний, враждебных к Крипто](https://github.com/theyapapa/cryptonews/blob/ru/internet-authority-history-of-centralized-companies-being-hostile-toward-crypto-4d8fcd7f.md)
