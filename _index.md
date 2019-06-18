@@ -1,3 +1,4 @@
+* 2019-06-18 [페이스 북은 선명 한 통화에 대 한 암호 화폐 백서 출시](https://github.com/theyapapa/cryptonews/blob/ko/facebook-releases-cryptocurrency-white-paper-for-libra-currency-72237d7e.md)
 * 2019-06-17 [새로운 자금으로 자동 청구에 블록 체인을 적용하는 Insurtech 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/insurtech-platform-to-apply-blockchain-to-auto-claims-with-new-funding-0a4ee3ed.md)
 * 2019-06-17 [폴란드 은행, 이더리움 블록체인으로 문서 확인](https://github.com/theyapapa/cryptonews/blob/ko/polish-bank-verifies-documents-with-ethereum-blockchain-6f499518.md)
 * 2019-06-17 [새로운 파트너십에 따라 머니그램에 최대 $50M까지 투자하는 리플](https://github.com/theyapapa/cryptonews/blob/ko/ripple-to-invest-up-to-50m-in-moneygram-following-new-partnership-98280637.md)
