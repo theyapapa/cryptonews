@@ -1,3 +1,4 @@
+* 2019-06-18 [Hyperledger прибыль Microsoft и Ethereum Фонд среди raft новых членов](https://github.com/theyapapa/cryptonews/blob/ru/hyperledger-gains-microsoft-and-ethereum-foundation-among-raft-of-new-members-ae11308f.md)
 * 2019-06-18 [Цифровые активы Партнеры с Amazon AWS Аврора на смарт-контракт язык совместимость](https://github.com/theyapapa/cryptonews/blob/ru/digital-asset-partners-with-amazon-aws-aurora-on-smart-contract-language-interoperability-bcc665dc.md)
 * 2019-06-18 [Facebook выпускает криптовалютную белую книгу для валюты Весов](https://github.com/theyapapa/cryptonews/blob/ru/facebook-releases-cryptocurrency-white-paper-for-libra-currency-72237d7e.md)
 * 2019-06-17 [Платформа «Инсуртех» применит блокчейн к автопретензиям с новым финансированием](https://github.com/theyapapa/cryptonews/blob/ru/insurtech-platform-to-apply-blockchain-to-auto-claims-with-new-funding-0a4ee3ed.md)
