@@ -1,3 +1,4 @@
+* 2019-06-17 [Plataforma Insurtech para Aplicar Blockchain a Reclamaciones Automáticas con Nueva Financiación](https://github.com/theyapapa/cryptonews/blob/es/insurtech-platform-to-apply-blockchain-to-auto-claims-with-new-funding-0a4ee3ed.md)
 * 2019-06-17 [Banco Polaco verifica documentos con Ethereum Blockchain](https://github.com/theyapapa/cryptonews/blob/es/polish-bank-verifies-documents-with-ethereum-blockchain-6f499518.md)
 * 2019-06-17 [Ripple invertirá hasta $50 millones en MoneyGram después de una nueva asociación](https://github.com/theyapapa/cryptonews/blob/es/ripple-to-invest-up-to-50m-in-moneygram-following-new-partnership-98280637.md)
 * 2019-06-17 [Zcash lanza un nuevo cliente de software para reforzar el estado de la red](https://github.com/theyapapa/cryptonews/blob/es/zcash-rolls-out-new-software-client-to-bolster-network-health-64ffc8c4.md)
