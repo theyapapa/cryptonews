@@ -1,3 +1,4 @@
+* 2019-06-18 [스마트 계약 언어 상호 운용성에 대한 Amazon AWS 오로라와의 디지털 자산 파트너](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-partners-with-amazon-aws-aurora-on-smart-contract-language-interoperability-bcc665dc.md)
 * 2019-06-18 [페이스 북은 선명 한 통화에 대 한 암호 화폐 백서 출시](https://github.com/theyapapa/cryptonews/blob/ko/facebook-releases-cryptocurrency-white-paper-for-libra-currency-72237d7e.md)
 * 2019-06-17 [새로운 자금으로 자동 청구에 블록 체인을 적용하는 Insurtech 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/insurtech-platform-to-apply-blockchain-to-auto-claims-with-new-funding-0a4ee3ed.md)
 * 2019-06-17 [폴란드 은행, 이더리움 블록체인으로 문서 확인](https://github.com/theyapapa/cryptonews/blob/ko/polish-bank-verifies-documents-with-ethereum-blockchain-6f499518.md)
