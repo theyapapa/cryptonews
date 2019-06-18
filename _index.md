@@ -1,3 +1,4 @@
+* 2019-06-18 [Activos digitales con Amazon AWS Aurora sobre interoperabilidad de lenguaje de contratos inteligentes](https://github.com/theyapapa/cryptonews/blob/es/digital-asset-partners-with-amazon-aws-aurora-on-smart-contract-language-interoperability-bcc665dc.md)
 * 2019-06-18 [Facebook publica el Libro Blanco de criptomonedas para Libra Currency](https://github.com/theyapapa/cryptonews/blob/es/facebook-releases-cryptocurrency-white-paper-for-libra-currency-72237d7e.md)
 * 2019-06-17 [Plataforma Insurtech para Aplicar Blockchain a Reclamaciones Automáticas con Nueva Financiación](https://github.com/theyapapa/cryptonews/blob/es/insurtech-platform-to-apply-blockchain-to-auto-claims-with-new-funding-0a4ee3ed.md)
 * 2019-06-17 [Banco Polaco verifica documentos con Ethereum Blockchain](https://github.com/theyapapa/cryptonews/blob/es/polish-bank-verifies-documents-with-ethereum-blockchain-6f499518.md)
