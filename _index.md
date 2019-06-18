@@ -1,3 +1,4 @@
+* 2019-06-18 [프랑스 경제 장관은 곧 동전과 관련하여 페이스 북에서 보증을 요청합니다.](https://github.com/theyapapa/cryptonews/blob/ko/french-minister-of-economy-to-ask-for-guarantees-from-facebook-in-regards-to-its-forthcoming-coin-0b120631.md)
 * 2019-06-18 [트위터 기반 암호화 폐 정서 피드를 통합하는 피델리티 지원 암호화 분석 회사](https://github.com/theyapapa/cryptonews/blob/ko/fidelity-backed-crypto-analytics-firm-to-integrate-twitter-based-crypto-sentiment-feed-524073fa.md)
 * 2019-06-18 [하이퍼레저, 마이크로소프트와 이더리움 재단 을 신입 회원의 뗏목 중 으로 얻다](https://github.com/theyapapa/cryptonews/blob/ko/hyperledger-gains-microsoft-and-ethereum-foundation-among-raft-of-new-members-ae11308f.md)
 * 2019-06-18 [스마트 계약 언어 상호 운용성에 대한 Amazon AWS 오로라와의 디지털 자산 파트너](https://github.com/theyapapa/cryptonews/blob/ko/digital-asset-partners-with-amazon-aws-aurora-on-smart-contract-language-interoperability-bcc665dc.md)
