@@ -1,3 +1,4 @@
+* 2019-06-19 [러시아, 2주 이내에 암호화폐 법안 채택: 재무부 차관](https://github.com/theyapapa/cryptonews/blob/ko/russia-to-adopt-crypto-legislation-within-two-weeks-deputy-finance-minister-960926ba.md)
 * 2019-06-19 [페이스 북 의 천칭 자리 암호 화폐는 그것의 용도를 가지고, 영국 주지사의 은행을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/facebook-libra-cryptocurrency-has-its-uses-says-bank-of-england-governor-634f6b6c.md)
 * 2019-06-19 [Block.One은 새로운 블록 체인 기반 소셜 미디어 플랫폼의 도메인 이름에 대해 $ 30M을 지불합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockone-pays-30m-for-new-blockchain-powered-social-media-platforms-domain-name-621bb77c.md)
 * 2019-06-19 [Bancor는 규제 불확실성에 대한 거래에서 미국 사용자를 제외하고자합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bancor-seeks-to-exclude-us-users-from-trading-over-regulatory-uncertainty-1f74e095.md)
