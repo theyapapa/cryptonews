@@ -1,3 +1,4 @@
+* 2019-06-19 [Bancor busca excluir a los usuarios estadounidenses del comercio por encima de la incertidumbre regulatoria](https://github.com/theyapapa/cryptonews/blob/es/bancor-seeks-to-exclude-us-users-from-trading-over-regulatory-uncertainty-1f74e095.md)
 * 2019-06-18 [TRON anuncia una actualización de MainNet diseñada para mejorar la seguridad y la comodidad](https://github.com/theyapapa/cryptonews/blob/es/tron-announces-mainnet-upgrade-designed-to-enhance-security-and-convenience-fe6a8c12.md)
 * 2019-06-18 [IBM anuncia una nueva actualización multinube a Blockchain](https://github.com/theyapapa/cryptonews/blob/es/ibm-announces-new-multicloud-update-to-blockchain-8f033d85.md)
 * 2019-06-18 [Global Banking Giant HSBC lanza sistema de cuentas por cobrar basado en la tokenización para la India](https://github.com/theyapapa/cryptonews/blob/es/global-banking-giant-hsbc-launches-tokenization-based-receivables-system-for-india-92b9aaa6.md)
