@@ -1,3 +1,4 @@
+* 2019-06-19 [Block.One paga $30M por el nombre de dominio de la nueva plataforma de medios sociales con tecnología Blockchain](https://github.com/theyapapa/cryptonews/blob/es/blockone-pays-30m-for-new-blockchain-powered-social-media-platforms-domain-name-621bb77c.md)
 * 2019-06-19 [Bancor busca excluir a los usuarios estadounidenses del comercio por encima de la incertidumbre regulatoria](https://github.com/theyapapa/cryptonews/blob/es/bancor-seeks-to-exclude-us-users-from-trading-over-regulatory-uncertainty-1f74e095.md)
 * 2019-06-18 [TRON anuncia una actualización de MainNet diseñada para mejorar la seguridad y la comodidad](https://github.com/theyapapa/cryptonews/blob/es/tron-announces-mainnet-upgrade-designed-to-enhance-security-and-convenience-fe6a8c12.md)
 * 2019-06-18 [IBM anuncia una nueva actualización multinube a Blockchain](https://github.com/theyapapa/cryptonews/blob/es/ibm-announces-new-multicloud-update-to-blockchain-8f033d85.md)
