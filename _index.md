@@ -1,3 +1,4 @@
+* 2019-06-19 [BNP Paribas Venture Arm Entre los inversores inyectará $16.5M en Fintech Firm Token](https://github.com/theyapapa/cryptonews/blob/es/bnp-paribas-venture-arm-among-investors-to-inject-165m-in-fintech-firm-token-d92fceaa.md)
 * 2019-06-19 [Bitcoin tiene soporte de $9,100 mientras que las 20 monedas más leales](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-holds-9-100-support-while-top-20-coins-trade-sideways-6a6679ba.md)
 * 2019-06-19 [Etereum-Basado en Etereum Decentralized Video Streaming Startup Livepeer Recauda $8M](https://github.com/theyapapa/cryptonews/blob/es/ethereum-based-decentralized-video-streaming-startup-livepeer-raises-8m-5a7b8a8a.md)
 * 2019-06-19 [Rusia adoptará la legislación criptográfica en un plazo de dos semanas: Viceministro de Finanzas](https://github.com/theyapapa/cryptonews/blob/es/russia-to-adopt-crypto-legislation-within-two-weeks-deputy-finance-minister-960926ba.md)
