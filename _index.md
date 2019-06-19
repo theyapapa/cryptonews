@@ -1,3 +1,4 @@
+* 2019-06-19 [CME: 비트코인 선물 계약에 대한 미결제약정이 사상 최고치를 기록했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/cme-open-interest-in-bitcoin-futures-contracts-hit-all-time-high-a73a7bbd.md)
 * 2019-06-19 [상원 은행위원회는 7 월 페이스 북의 암호화에 청문회를 설정 16](https://github.com/theyapapa/cryptonews/blob/ko/senate-banking-committee-sets-hearing-on-facebooks-crypto-for-july-16-3e548501.md)
 * 2019-06-19 [BNP Paribas 벤처 팔 핀테크 회사 토큰에 $ 16.5M을 주입하는 투자자 들](https://github.com/theyapapa/cryptonews/blob/ko/bnp-paribas-venture-arm-among-investors-to-inject-165m-in-fintech-firm-token-d92fceaa.md)
 * 2019-06-19 [비트 코인보유 $9,100 상위 동안 지원 20 동전 무역 측면](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-holds-9-100-support-while-top-20-coins-trade-sideways-6a6679ba.md)
