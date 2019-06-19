@@ -1,3 +1,4 @@
+* 2019-06-19 [Банковский комитет Сената устанавливает слушания по Крипто Facebook на 16 июля](https://github.com/theyapapa/cryptonews/blob/ru/senate-banking-committee-sets-hearing-on-facebooks-crypto-for-july-16-3e548501.md)
 * 2019-06-19 [BNP Paribas Венчурный Arm Среди инвесторов, чтобы вложить $ 16,5 Миллионы в Fintech фирма токен](https://github.com/theyapapa/cryptonews/blob/ru/bnp-paribas-venture-arm-among-investors-to-inject-165m-in-fintech-firm-token-d92fceaa.md)
 * 2019-06-19 [Биткоин держит $ 9100 Поддержка в то время как Топ 20 Монеты торговли боком](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-9-100-support-while-top-20-coins-trade-sideways-6a6679ba.md)
 * 2019-06-19 [Ethereum основе децентрализованного видео потокового запуска Livepeer поднимает $ 8M](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-decentralized-video-streaming-startup-livepeer-raises-8m-5a7b8a8a.md)
