@@ -1,3 +1,4 @@
+* 2019-06-19 [Россия примет криптозаконодательство в течение двух недель: заместитель министра финансов](https://github.com/theyapapa/cryptonews/blob/ru/russia-to-adopt-crypto-legislation-within-two-weeks-deputy-finance-minister-960926ba.md)
 * 2019-06-19 [Facebook Весы Криптовалюта имеет свои использует, говорит банк Англии губернатор](https://github.com/theyapapa/cryptonews/blob/ru/facebook-libra-cryptocurrency-has-its-uses-says-bank-of-england-governor-634f6b6c.md)
 * 2019-06-19 [Block.One платит $30 млн за доменное имя новой блокчейн-платформы социальных медиа](https://github.com/theyapapa/cryptonews/blob/ru/blockone-pays-30m-for-new-blockchain-powered-social-media-platforms-domain-name-621bb77c.md)
 * 2019-06-19 [Bancor стремится исключить пользователей США из торговли над регуляторной неопределенности](https://github.com/theyapapa/cryptonews/blob/ru/bancor-seeks-to-exclude-us-users-from-trading-over-regulatory-uncertainty-1f74e095.md)
