@@ -1,3 +1,4 @@
+* 2019-06-19 [Block.One은 새로운 블록 체인 기반 소셜 미디어 플랫폼의 도메인 이름에 대해 $ 30M을 지불합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockone-pays-30m-for-new-blockchain-powered-social-media-platforms-domain-name-621bb77c.md)
 * 2019-06-19 [Bancor는 규제 불확실성에 대한 거래에서 미국 사용자를 제외하고자합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bancor-seeks-to-exclude-us-users-from-trading-over-regulatory-uncertainty-1f74e095.md)
 * 2019-06-18 [TRON, 보안 및 편의성을 강화하기 위해 설계된 메인넷 업그레이드 발표](https://github.com/theyapapa/cryptonews/blob/ko/tron-announces-mainnet-upgrade-designed-to-enhance-security-and-convenience-fe6a8c12.md)
 * 2019-06-18 [IBM, 블록체인에 대한 새로운 멀티클라우드 업데이트 발표](https://github.com/theyapapa/cryptonews/blob/ko/ibm-announces-new-multicloud-update-to-blockchain-8f033d85.md)
