@@ -1,3 +1,4 @@
+* 2019-06-19 [이더리움 기반 분산 형 비디오 스트리밍 스타트업 라이브 피어는 $ 8M을 모금합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-decentralized-video-streaming-startup-livepeer-raises-8m-5a7b8a8a.md)
 * 2019-06-19 [러시아, 2주 이내에 암호화폐 법안 채택: 재무부 차관](https://github.com/theyapapa/cryptonews/blob/ko/russia-to-adopt-crypto-legislation-within-two-weeks-deputy-finance-minister-960926ba.md)
 * 2019-06-19 [페이스 북 의 천칭 자리 암호 화폐는 그것의 용도를 가지고, 영국 주지사의 은행을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/facebook-libra-cryptocurrency-has-its-uses-says-bank-of-england-governor-634f6b6c.md)
 * 2019-06-19 [Block.One은 새로운 블록 체인 기반 소셜 미디어 플랫폼의 도메인 이름에 대해 $ 30M을 지불합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockone-pays-30m-for-new-blockchain-powered-social-media-platforms-domain-name-621bb77c.md)
