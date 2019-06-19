@@ -1,3 +1,4 @@
+* 2019-06-19 [Биткоин держит $ 9100 Поддержка в то время как Топ 20 Монеты торговли боком](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-holds-9-100-support-while-top-20-coins-trade-sideways-6a6679ba.md)
 * 2019-06-19 [Ethereum основе децентрализованного видео потокового запуска Livepeer поднимает $ 8M](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-decentralized-video-streaming-startup-livepeer-raises-8m-5a7b8a8a.md)
 * 2019-06-19 [Россия примет криптозаконодательство в течение двух недель: заместитель министра финансов](https://github.com/theyapapa/cryptonews/blob/ru/russia-to-adopt-crypto-legislation-within-two-weeks-deputy-finance-minister-960926ba.md)
 * 2019-06-19 [Facebook Весы Криптовалюта имеет свои использует, говорит банк Англии губернатор](https://github.com/theyapapa/cryptonews/blob/ru/facebook-libra-cryptocurrency-has-its-uses-says-bank-of-england-governor-634f6b6c.md)
