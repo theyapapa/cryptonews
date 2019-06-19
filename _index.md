@@ -1,3 +1,4 @@
+* 2019-06-18 [TRON, 보안 및 편의성을 강화하기 위해 설계된 메인넷 업그레이드 발표](https://github.com/theyapapa/cryptonews/blob/ko/tron-announces-mainnet-upgrade-designed-to-enhance-security-and-convenience-fe6a8c12.md)
 * 2019-06-18 [IBM, 블록체인에 대한 새로운 멀티클라우드 업데이트 발표](https://github.com/theyapapa/cryptonews/blob/ko/ibm-announces-new-multicloud-update-to-blockchain-8f033d85.md)
 * 2019-06-18 [글로벌 뱅킹 거대 HSBC, 인도 토큰화 기반 채권 시스템 출시](https://github.com/theyapapa/cryptonews/blob/ko/global-banking-giant-hsbc-launches-tokenization-based-receivables-system-for-india-92b9aaa6.md)
 * 2019-06-18 [프랑스 경제 장관은 곧 동전과 관련하여 페이스 북에서 보증을 요청합니다.](https://github.com/theyapapa/cryptonews/blob/ko/french-minister-of-economy-to-ask-for-guarantees-from-facebook-in-regards-to-its-forthcoming-coin-0b120631.md)
