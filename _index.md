@@ -1,3 +1,4 @@
+* 2019-06-19 [상원 은행위원회는 7 월 페이스 북의 암호화에 청문회를 설정 16](https://github.com/theyapapa/cryptonews/blob/ko/senate-banking-committee-sets-hearing-on-facebooks-crypto-for-july-16-3e548501.md)
 * 2019-06-19 [BNP Paribas 벤처 팔 핀테크 회사 토큰에 $ 16.5M을 주입하는 투자자 들](https://github.com/theyapapa/cryptonews/blob/ko/bnp-paribas-venture-arm-among-investors-to-inject-165m-in-fintech-firm-token-d92fceaa.md)
 * 2019-06-19 [비트 코인보유 $9,100 상위 동안 지원 20 동전 무역 측면](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-holds-9-100-support-while-top-20-coins-trade-sideways-6a6679ba.md)
 * 2019-06-19 [이더리움 기반 분산 형 비디오 스트리밍 스타트업 라이브 피어는 $ 8M을 모금합니다.](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-decentralized-video-streaming-startup-livepeer-raises-8m-5a7b8a8a.md)
