@@ -1,3 +1,4 @@
+* 2019-06-20 [Соучредитель компании «КвадригАКХ» использовал депозиты пользователей для собственной торговли, создавал поддельные счета](https://github.com/theyapapa/cryptonews/blob/ru/quadrigacx-co-founder-used-user-deposits-for-his-own-trading-created-fake-accounts-e5e2a3e2.md)
 * 2019-06-19 [Royal Bank of Scotland onboards Former Circle Exec возглавит проект Fintech](https://github.com/theyapapa/cryptonews/blob/ru/royal-bank-of-scotland-onboards-former-circle-exec-to-head-fintech-project-9296fadd.md)
 * 2019-06-19 [CME: Открытый интерес к фьючерсным контрактам Bitcoin достиг рекордно высокого уровня](https://github.com/theyapapa/cryptonews/blob/ru/cme-open-interest-in-bitcoin-futures-contracts-hit-all-time-high-a73a7bbd.md)
 * 2019-06-19 [Банковский комитет Сената устанавливает слушания по Крипто Facebook на 16 июля](https://github.com/theyapapa/cryptonews/blob/ru/senate-banking-committee-sets-hearing-on-facebooks-crypto-for-july-16-3e548501.md)
