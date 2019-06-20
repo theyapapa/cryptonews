@@ -1,3 +1,4 @@
+* 2019-06-20 [암호화 전략을 찾을 때 길을 잃은 느낌? 하나의 거래 플랫폼은 이를 바꾸고 싶어합니다.](https://github.com/theyapapa/cryptonews/blob/ko/feel-lost-when-finding-crypto-strategies-one-trading-platform-wants-to-change-that-e2afdc72.md)
 * 2019-06-20 [아마존 지불 부사장 은 암호화를 만들 수있는 현재의 계획이 없다고 말한다: '우리는 투기에서 거래하지 않습니다'](https://github.com/theyapapa/cryptonews/blob/ko/amazon-pay-vp-says-no-current-plans-to-create-crypto-we-dont-deal-in-the-speculative-e54f1a66.md)
 * 2019-06-20 [QuadrigaCX 공동 설립자는 자신의 거래에 대한 사용자 예금을 사용, 가짜 계정을 만들었습니다](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-co-founder-used-user-deposits-for-his-own-trading-created-fake-accounts-e5e2a3e2.md)
 * 2019-06-19 [스코틀랜드 왕립 은행 온보드 전 서클 임원 에 머리 핀테크 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/royal-bank-of-scotland-onboards-former-circle-exec-to-head-fintech-project-9296fadd.md)
