@@ -1,3 +1,4 @@
+* 2019-06-20 [Биткоин ломает $9,300, так как фондовый рынок США видит незначительный восходящий тренд](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-uptrend-dd59917f.md)
 * 2019-06-20 [Сатоши Накамото Явный Автор двух предстоящих книг на Amazon](https://github.com/theyapapa/cryptonews/blob/ru/satoshi-nakamoto-apparent-author-of-two-upcoming-books-on-amazon-988e8871.md)
 * 2019-06-20 [Центральный банк Австралии: Криптовалюты не получат широкого признания в ближайшем будущем](https://github.com/theyapapa/cryptonews/blob/ru/australias-central-bank-cryptos-will-not-receive-wide-acceptance-in-the-near-future-e1670a71.md)
 * 2019-06-20 [Facebook не подал заявку на одобрение RBI для работы Весов в Индии: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/facebook-has-not-applied-for-rbi-approval-to-operate-libra-in-india-report-07f7647f.md)
