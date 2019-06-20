@@ -1,3 +1,4 @@
+* 2019-06-20 [Satoshi Nakamoto Aparente Autor de dos próximos libros en Amazon](https://github.com/theyapapa/cryptonews/blob/es/satoshi-nakamoto-apparent-author-of-two-upcoming-books-on-amazon-988e8871.md)
 * 2019-06-20 [Banco Central de Australia: Las criptodivisas no recibirán una amplia aceptación en un futuro próximo](https://github.com/theyapapa/cryptonews/blob/es/australias-central-bank-cryptos-will-not-receive-wide-acceptance-in-the-near-future-e1670a71.md)
 * 2019-06-20 [Facebook no ha solicitado la aprobación de RBI para operar Libra en la India: Informe](https://github.com/theyapapa/cryptonews/blob/es/facebook-has-not-applied-for-rbi-approval-to-operate-libra-in-india-report-07f7647f.md)
 * 2019-06-20 [¿Se siente perdido al encontrar estrategias criptográficas? Una plataforma de trading quiere cambiar eso](https://github.com/theyapapa/cryptonews/blob/es/feel-lost-when-finding-crypto-strategies-one-trading-platform-wants-to-change-that-e2afdc72.md)
