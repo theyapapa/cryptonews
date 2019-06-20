@@ -1,3 +1,4 @@
+* 2019-06-20 [Wanxiang и PlatON объединяют усилия для блокчейн-инфраструктуры нового smart City в Китае](https://github.com/theyapapa/cryptonews/blob/ru/wanxiang-and-platon-join-forces-for-blockchain-infrastructure-of-new-smart-city-in-china-ae929f86.md)
 * 2019-06-20 [Биткоин ломает $9,300, так как фондовый рынок США видит незначительный восходящий тренд](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-uptrend-dd59917f.md)
 * 2019-06-20 [Сатоши Накамото Явный Автор двух предстоящих книг на Amazon](https://github.com/theyapapa/cryptonews/blob/ru/satoshi-nakamoto-apparent-author-of-two-upcoming-books-on-amazon-988e8871.md)
 * 2019-06-20 [Центральный банк Австралии: Криптовалюты не получат широкого признания в ближайшем будущем](https://github.com/theyapapa/cryptonews/blob/ru/australias-central-bank-cryptos-will-not-receive-wide-acceptance-in-the-near-future-e1670a71.md)
