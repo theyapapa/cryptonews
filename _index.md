@@ -1,3 +1,4 @@
+* 2019-06-20 [사토시 나카모토 아마존에 두 곧 책의 명백한 저자](https://github.com/theyapapa/cryptonews/blob/ko/satoshi-nakamoto-apparent-author-of-two-upcoming-books-on-amazon-988e8871.md)
 * 2019-06-20 [호주 의 중앙 은행 : 암호는 가까운 장래에 넓은 승인을받지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/australias-central-bank-cryptos-will-not-receive-wide-acceptance-in-the-near-future-e1670a71.md)
 * 2019-06-20 [페이스 북은 인도에서 선칭 을 작동 하는 RBI 승인에 대 한 적용 되지 않은: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/facebook-has-not-applied-for-rbi-approval-to-operate-libra-in-india-report-07f7647f.md)
 * 2019-06-20 [암호화 전략을 찾을 때 길을 잃은 느낌? 하나의 거래 플랫폼은 이를 바꾸고 싶어합니다.](https://github.com/theyapapa/cryptonews/blob/ko/feel-lost-when-finding-crypto-strategies-one-trading-platform-wants-to-change-that-e2afdc72.md)
