@@ -1,3 +1,4 @@
+* 2019-06-20 [Amazon Pay VP dice que no hay planes actuales para crear criptografía: 'No tratamos en lo especulativo'](https://github.com/theyapapa/cryptonews/blob/es/amazon-pay-vp-says-no-current-plans-to-create-crypto-we-dont-deal-in-the-speculative-e54f1a66.md)
 * 2019-06-20 [El cofundador de QuadrigaCX usó depósitos de usuario para su propio comercio, creó cuentas falsas](https://github.com/theyapapa/cryptonews/blob/es/quadrigacx-co-founder-used-user-deposits-for-his-own-trading-created-fake-accounts-e5e2a3e2.md)
 * 2019-06-19 [Royal Bank of Scotland onboard ex Circle Exec to Head Fintech Project](https://github.com/theyapapa/cryptonews/blob/es/royal-bank-of-scotland-onboards-former-circle-exec-to-head-fintech-project-9296fadd.md)
 * 2019-06-19 [CME: El interés abierto en los contratos de futuros de Bitcoin alcanza el máximo histórico](https://github.com/theyapapa/cryptonews/blob/es/cme-open-interest-in-bitcoin-futures-contracts-hit-all-time-high-a73a7bbd.md)
