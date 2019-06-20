@@ -1,3 +1,4 @@
+* 2019-06-20 [아마존 지불 부사장 은 암호화를 만들 수있는 현재의 계획이 없다고 말한다: '우리는 투기에서 거래하지 않습니다'](https://github.com/theyapapa/cryptonews/blob/ko/amazon-pay-vp-says-no-current-plans-to-create-crypto-we-dont-deal-in-the-speculative-e54f1a66.md)
 * 2019-06-20 [QuadrigaCX 공동 설립자는 자신의 거래에 대한 사용자 예금을 사용, 가짜 계정을 만들었습니다](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-co-founder-used-user-deposits-for-his-own-trading-created-fake-accounts-e5e2a3e2.md)
 * 2019-06-19 [스코틀랜드 왕립 은행 온보드 전 서클 임원 에 머리 핀테크 프로젝트](https://github.com/theyapapa/cryptonews/blob/ko/royal-bank-of-scotland-onboards-former-circle-exec-to-head-fintech-project-9296fadd.md)
 * 2019-06-19 [CME: 비트코인 선물 계약에 대한 미결제약정이 사상 최고치를 기록했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/cme-open-interest-in-bitcoin-futures-contracts-hit-all-time-high-a73a7bbd.md)
