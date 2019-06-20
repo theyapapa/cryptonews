@@ -1,3 +1,4 @@
+* 2019-06-20 [비트 코인 휴식 $9,300 미국 주식 시장은 사소한 상승 추세를 보고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-uptrend-dd59917f.md)
 * 2019-06-20 [사토시 나카모토 아마존에 두 곧 책의 명백한 저자](https://github.com/theyapapa/cryptonews/blob/ko/satoshi-nakamoto-apparent-author-of-two-upcoming-books-on-amazon-988e8871.md)
 * 2019-06-20 [호주 의 중앙 은행 : 암호는 가까운 장래에 넓은 승인을받지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/australias-central-bank-cryptos-will-not-receive-wide-acceptance-in-the-near-future-e1670a71.md)
 * 2019-06-20 [페이스 북은 인도에서 선칭 을 작동 하는 RBI 승인에 대 한 적용 되지 않은: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/facebook-has-not-applied-for-rbi-approval-to-operate-libra-in-india-report-07f7647f.md)
