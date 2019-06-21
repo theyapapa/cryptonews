@@ -1,3 +1,4 @@
+* 2019-06-21 [EToro confirma la prueba de activos tokenizados en Facebook Libra](https://github.com/theyapapa/cryptonews/blob/es/etoro-confirms-tokenized-asset-trial-on-facebook-libra-3ec47f99.md)
 * 2019-06-21 [Bitcoin Hash Rate sube a un nuevo récord de alta seguridad de la red](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hash-rate-climbs-to-new-record-high-boosting-network-security-1b97863e.md)
 * 2019-06-20 [Atlantis Hard Fork para Ethereum Classic programada para el lanzamiento del 17 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/atlantis-hard-fork-for-ethereum-scheduled-for-september-17-launch-14809328.md)
 * 2019-06-20 [Wanxiang y PlatON unen fuerzas para la infraestructura Blockchain de nueva ciudad inteligente en China](https://github.com/theyapapa/cryptonews/blob/es/wanxiang-and-platon-join-forces-for-blockchain-infrastructure-of-new-smart-city-in-china-ae929f86.md)
