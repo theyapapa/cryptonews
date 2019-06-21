@@ -1,3 +1,4 @@
+* 2019-06-21 [실리콘 밸리의 파리아: 벤 메즈리치가 윙클보스 쌍둥이에 대해 쓰는 방법](https://github.com/theyapapa/cryptonews/blob/ko/pariahs-of-silicon-valley-how-ben-mezrich-writes-about-the-winklevoss-twins-e4d42071.md)
 * 2019-06-21 [그레이 스케일의 이더리움 보안 지금 OTC 시장에 상장](https://github.com/theyapapa/cryptonews/blob/ko/grayscales-ethereum-security-now-listed-on-otc-markets-b3780181.md)
 * 2019-06-21 [옥스팜, 기술 기업과 협력하여 다이의 재해 지원 사용 테스트](https://github.com/theyapapa/cryptonews/blob/ko/oxfam-partners-with-tech-firms-to-test-dais-use-in-disaster-aid-04247314.md)
 * 2019-06-21 [19% 세계 인구의 전에 암호화를 구입 2019: 카스퍼 스키 보고서](https://github.com/theyapapa/cryptonews/blob/ko/19-of-world-population-bought-crypto-before-2019-kaspersky-report-903e0c61.md)
