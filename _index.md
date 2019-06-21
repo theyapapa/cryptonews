@@ -1,3 +1,4 @@
+* 2019-06-21 [Биткоин Хэш Ставка поднимается на новый рекорд высокой повышения сетевой безопасности](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hash-rate-climbs-to-new-record-high-boosting-network-security-1b97863e.md)
 * 2019-06-20 [Атлантида Хард Форк для Ethereum Классический запланирован на 17 сентября Запуск](https://github.com/theyapapa/cryptonews/blob/ru/atlantis-hard-fork-for-ethereum-scheduled-for-september-17-launch-14809328.md)
 * 2019-06-20 [Wanxiang и PlatON объединяют усилия для блокчейн-инфраструктуры нового smart City в Китае](https://github.com/theyapapa/cryptonews/blob/ru/wanxiang-and-platon-join-forces-for-blockchain-infrastructure-of-new-smart-city-in-china-ae929f86.md)
 * 2019-06-20 [Биткоин ломает $9,300, так как фондовый рынок США видит незначительный восходящий тренд](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-9-300-as-us-stock-market-sees-minor-uptrend-dd59917f.md)
