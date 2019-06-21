@@ -1,3 +1,4 @@
+* 2019-06-21 [옥스팜, 기술 기업과 협력하여 다이의 재해 지원 사용 테스트](https://github.com/theyapapa/cryptonews/blob/ko/oxfam-partners-with-tech-firms-to-test-dais-use-in-disaster-aid-04247314.md)
 * 2019-06-21 [19% 세계 인구의 전에 암호화를 구입 2019: 카스퍼 스키 보고서](https://github.com/theyapapa/cryptonews/blob/ko/19-of-world-population-bought-crypto-before-2019-kaspersky-report-903e0c61.md)
 * 2019-06-21 [리플 CEO: 비트 코인과 XRP는 경쟁자가 아니다 - 나는 긴 BTC해요](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-bitcoin-and-xrp-arent-competitors-im-long-btc-4f466399.md)
 * 2019-06-21 [EToro, 페이스북 포라이브라에 토큰화된 자산 재판 확인](https://github.com/theyapapa/cryptonews/blob/ko/etoro-confirms-tokenized-asset-trial-on-facebook-libra-3ec47f99.md)
