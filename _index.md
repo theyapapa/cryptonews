@@ -1,3 +1,4 @@
+* 2019-06-21 [그레이 스케일의 이더리움 보안 지금 OTC 시장에 상장](https://github.com/theyapapa/cryptonews/blob/ko/grayscales-ethereum-security-now-listed-on-otc-markets-b3780181.md)
 * 2019-06-21 [옥스팜, 기술 기업과 협력하여 다이의 재해 지원 사용 테스트](https://github.com/theyapapa/cryptonews/blob/ko/oxfam-partners-with-tech-firms-to-test-dais-use-in-disaster-aid-04247314.md)
 * 2019-06-21 [19% 세계 인구의 전에 암호화를 구입 2019: 카스퍼 스키 보고서](https://github.com/theyapapa/cryptonews/blob/ko/19-of-world-population-bought-crypto-before-2019-kaspersky-report-903e0c61.md)
 * 2019-06-21 [리플 CEO: 비트 코인과 XRP는 경쟁자가 아니다 - 나는 긴 BTC해요](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-bitcoin-and-xrp-arent-competitors-im-long-btc-4f466399.md)
