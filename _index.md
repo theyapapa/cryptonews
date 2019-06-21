@@ -1,3 +1,4 @@
+* 2019-06-21 [EToro, 페이스북 포라이브라에 토큰화된 자산 재판 확인](https://github.com/theyapapa/cryptonews/blob/ko/etoro-confirms-tokenized-asset-trial-on-facebook-libra-3ec47f99.md)
 * 2019-06-21 [비트 코인 해시 속도는 새로운 기록 높은 증폭 네트워크 보안에 상승](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hash-rate-climbs-to-new-record-high-boosting-network-security-1b97863e.md)
 * 2019-06-20 [아틀란티스 하드 포크 9 월 예정 에테 리움 클래식 17 출시](https://github.com/theyapapa/cryptonews/blob/ko/atlantis-hard-fork-for-ethereum-scheduled-for-september-17-launch-14809328.md)
 * 2019-06-20 [완샹과 플래튼, 중국 신스마트시티의 블록체인 인프라 구축에 힘을 합친다](https://github.com/theyapapa/cryptonews/blob/ko/wanxiang-and-platon-join-forces-for-blockchain-infrastructure-of-new-smart-city-in-china-ae929f86.md)
