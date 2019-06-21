@@ -1,3 +1,4 @@
+* 2019-06-21 [Seguridad Ethereum de Grayscale ahora listada en los mercados OTC](https://github.com/theyapapa/cryptonews/blob/es/grayscales-ethereum-security-now-listed-on-otc-markets-b3780181.md)
 * 2019-06-21 [Oxfam se asocia con empresas tecnológicas para probar el uso de Dai en la ayuda ante desastres](https://github.com/theyapapa/cryptonews/blob/es/oxfam-partners-with-tech-firms-to-test-dais-use-in-disaster-aid-04247314.md)
 * 2019-06-21 [19% de la población mundial compró Crypto antes de 2019: Kaspersky Report](https://github.com/theyapapa/cryptonews/blob/es/19-of-world-population-bought-crypto-before-2019-kaspersky-report-903e0c61.md)
 * 2019-06-21 [CEO de Ripple: Bitcoin y XRP no son competidores — Soy Long BTC](https://github.com/theyapapa/cryptonews/blob/es/ripple-ceo-bitcoin-and-xrp-arent-competitors-im-long-btc-4f466399.md)
