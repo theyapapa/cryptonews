@@ -1,3 +1,4 @@
+* 2019-06-21 [Oxfam Партнеры с технологическими фирмами для проверки использования Дай в стихийных бедствий помощи](https://github.com/theyapapa/cryptonews/blob/ru/oxfam-partners-with-tech-firms-to-test-dais-use-in-disaster-aid-04247314.md)
 * 2019-06-21 [19% населения мира купили Крипто до 2019 года: отчет Касперского](https://github.com/theyapapa/cryptonews/blob/ru/19-of-world-population-bought-crypto-before-2019-kaspersky-report-903e0c61.md)
 * 2019-06-21 [Генеральный директор Ripple: Bitcoin и XRP не конкуренты - Я Долго BTC](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-bitcoin-and-xrp-arent-competitors-im-long-btc-4f466399.md)
 * 2019-06-21 [EToro подтверждает токенизированный процесс активов на Весах Facebook](https://github.com/theyapapa/cryptonews/blob/ru/etoro-confirms-tokenized-asset-trial-on-facebook-libra-3ec47f99.md)
