@@ -1,3 +1,4 @@
+* 2019-06-21 [Грейскаль в Ethereum безопасности теперь перечислены на внебиржевых рынках](https://github.com/theyapapa/cryptonews/blob/ru/grayscales-ethereum-security-now-listed-on-otc-markets-b3780181.md)
 * 2019-06-21 [Oxfam Партнеры с технологическими фирмами для проверки использования Дай в стихийных бедствий помощи](https://github.com/theyapapa/cryptonews/blob/ru/oxfam-partners-with-tech-firms-to-test-dais-use-in-disaster-aid-04247314.md)
 * 2019-06-21 [19% населения мира купили Крипто до 2019 года: отчет Касперского](https://github.com/theyapapa/cryptonews/blob/ru/19-of-world-population-bought-crypto-before-2019-kaspersky-report-903e0c61.md)
 * 2019-06-21 [Генеральный директор Ripple: Bitcoin и XRP не конкуренты - Я Долго BTC](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-bitcoin-and-xrp-arent-competitors-im-long-btc-4f466399.md)
