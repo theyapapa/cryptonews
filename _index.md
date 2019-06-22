@@ -1,3 +1,4 @@
+* 2019-06-22 [¿El nuevo software de PwC resolverá el problema de auditoría de criptomonedas?](https://github.com/theyapapa/cryptonews/blob/es/will-pwcs-new-software-solve-the-cryptocurrency-auditing-problem-6ad34935.md)
 * 2019-06-22 [Del suministro de agua limpia a la reconstrucción de Notre Dame: Crypto y Blockchain in Charity](https://github.com/theyapapa/cryptonews/blob/es/from-clean-water-supply-to-rebuilding-notre-dame-crypto-and-blockchain-in-charity-44e2d0c4.md)
 * 2019-06-22 [El precio de Bitcoin alcanza $11K menos de 24 horas después de romper $10K Mark](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-hits-11k-less-than-24-hours-after-breaking-10k-mark-e1a21b02.md)
 * 2019-06-22 [Seguimiento de medicamentos en Blockchain: ¿Qué tan significativa es Walmart y la nueva colaboración de IBM?](https://github.com/theyapapa/cryptonews/blob/es/tracking-drugs-on-blockchain-how-significant-is-walmart-and-ibms-new-collaboration-30493da5.md)
