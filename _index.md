@@ -1,3 +1,4 @@
+* 2019-06-22 [Отслеживание наркотиков на блокчейне: насколько важно ежейшвый walmart и IBM в новом сотрудничестве?](https://github.com/theyapapa/cryptonews/blob/ru/tracking-drugs-on-blockchain-how-significant-is-walmart-and-ibms-new-collaboration-30493da5.md)
 * 2019-06-21 [Австралийский Резервный банк Официальный советует осторожность в ожидании Весов](https://github.com/theyapapa/cryptonews/blob/ru/australian-reserve-bank-official-advises-caution-in-anticipation-of-libra-a785899b.md)
 * 2019-06-21 [Биткоин впервые с марта 2018 года превысил $10 000](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-10-000-for-first-time-since-march-2018-8b77937c.md)
 * 2019-06-21 [Парии Силиконовой долины: как Бен Мезрич пишет о Близнецах Винклвосс](https://github.com/theyapapa/cryptonews/blob/ru/pariahs-of-silicon-valley-how-ben-mezrich-writes-about-the-winklevoss-twins-e4d42071.md)
