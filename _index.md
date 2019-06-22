@@ -1,3 +1,4 @@
+* 2019-06-21 [Funcionario del Banco de la Reserva Australiana aconseja precaución en anticipación de Libra](https://github.com/theyapapa/cryptonews/blob/es/australian-reserve-bank-official-advises-caution-in-anticipation-of-libra-a785899b.md)
 * 2019-06-21 [Bitcoin rompe $10,000 por primera vez desde marzo de 2018](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-10-000-for-first-time-since-march-2018-8b77937c.md)
 * 2019-06-21 [Pariahs of Silicon Valley: How Ben Mezrich Escribe sobre los gemelos Winklevoss](https://github.com/theyapapa/cryptonews/blob/es/pariahs-of-silicon-valley-how-ben-mezrich-writes-about-the-winklevoss-twins-e4d42071.md)
 * 2019-06-21 [Seguridad Ethereum de Grayscale ahora listada en los mercados OTC](https://github.com/theyapapa/cryptonews/blob/es/grayscales-ethereum-security-now-listed-on-otc-markets-b3780181.md)
