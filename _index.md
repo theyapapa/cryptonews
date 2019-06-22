@@ -1,3 +1,4 @@
+* 2019-06-22 [Seguimiento de medicamentos en Blockchain: ¿Qué tan significativa es Walmart y la nueva colaboración de IBM?](https://github.com/theyapapa/cryptonews/blob/es/tracking-drugs-on-blockchain-how-significant-is-walmart-and-ibms-new-collaboration-30493da5.md)
 * 2019-06-21 [Funcionario del Banco de la Reserva Australiana aconseja precaución en anticipación de Libra](https://github.com/theyapapa/cryptonews/blob/es/australian-reserve-bank-official-advises-caution-in-anticipation-of-libra-a785899b.md)
 * 2019-06-21 [Bitcoin rompe $10,000 por primera vez desde marzo de 2018](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-10-000-for-first-time-since-march-2018-8b77937c.md)
 * 2019-06-21 [Pariahs of Silicon Valley: How Ben Mezrich Escribe sobre los gemelos Winklevoss](https://github.com/theyapapa/cryptonews/blob/es/pariahs-of-silicon-valley-how-ben-mezrich-writes-about-the-winklevoss-twins-e4d42071.md)
