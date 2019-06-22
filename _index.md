@@ -1,3 +1,4 @@
+* 2019-06-22 [Цена Bitcoin хитов $ 11K менее чем за 24 часа после взлома $ 10K Знак](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-hits-11k-less-than-24-hours-after-breaking-10k-mark-e1a21b02.md)
 * 2019-06-22 [Отслеживание наркотиков на блокчейне: насколько важно ежейшвый walmart и IBM в новом сотрудничестве?](https://github.com/theyapapa/cryptonews/blob/ru/tracking-drugs-on-blockchain-how-significant-is-walmart-and-ibms-new-collaboration-30493da5.md)
 * 2019-06-21 [Австралийский Резервный банк Официальный советует осторожность в ожидании Весов](https://github.com/theyapapa/cryptonews/blob/ru/australian-reserve-bank-official-advises-caution-in-anticipation-of-libra-a785899b.md)
 * 2019-06-21 [Биткоин впервые с марта 2018 года превысил $10 000](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-10-000-for-first-time-since-march-2018-8b77937c.md)
