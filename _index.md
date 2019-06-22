@@ -1,3 +1,4 @@
+* 2019-06-22 [PwC의 새로운 소프트웨어는 암호 화폐 감사 문제를 해결할 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/will-pwcs-new-software-solve-the-cryptocurrency-auditing-problem-6ad34935.md)
 * 2019-06-22 [깨끗한 물 공급에서 노틀담 재건까지: 자선 단체의 암호화 및 블록체인](https://github.com/theyapapa/cryptonews/blob/ko/from-clean-water-supply-to-rebuilding-notre-dame-crypto-and-blockchain-in-charity-44e2d0c4.md)
 * 2019-06-22 [비트 코인 가격 조회수 $11K 미만 24 깨진 후 시간 $10K 마크](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-hits-11k-less-than-24-hours-after-breaking-10k-mark-e1a21b02.md)
 * 2019-06-22 [블록 체인에서 약물 추적: 월마트와 IBM의 새로운 협력은 얼마나 중요합니까?](https://github.com/theyapapa/cryptonews/blob/ko/tracking-drugs-on-blockchain-how-significant-is-walmart-and-ibms-new-collaboration-30493da5.md)
