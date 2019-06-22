@@ -1,3 +1,4 @@
+* 2019-06-21 [호주 준비 은행 공식 은 libra의 기대에주의를 조언](https://github.com/theyapapa/cryptonews/blob/ko/australian-reserve-bank-official-advises-caution-in-anticipation-of-libra-a785899b.md)
 * 2019-06-21 [비트 코인 휴식 $10,000 3 월 이후 처음으로 2018](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-10-000-for-first-time-since-march-2018-8b77937c.md)
 * 2019-06-21 [실리콘 밸리의 파리아: 벤 메즈리치가 윙클보스 쌍둥이에 대해 쓰는 방법](https://github.com/theyapapa/cryptonews/blob/ko/pariahs-of-silicon-valley-how-ben-mezrich-writes-about-the-winklevoss-twins-e4d42071.md)
 * 2019-06-21 [그레이 스케일의 이더리움 보안 지금 OTC 시장에 상장](https://github.com/theyapapa/cryptonews/blob/ko/grayscales-ethereum-security-now-listed-on-otc-markets-b3780181.md)
