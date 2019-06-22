@@ -1,3 +1,4 @@
+* 2019-06-22 [비트 코인 가격 조회수 $11K 미만 24 깨진 후 시간 $10K 마크](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-hits-11k-less-than-24-hours-after-breaking-10k-mark-e1a21b02.md)
 * 2019-06-22 [블록 체인에서 약물 추적: 월마트와 IBM의 새로운 협력은 얼마나 중요합니까?](https://github.com/theyapapa/cryptonews/blob/ko/tracking-drugs-on-blockchain-how-significant-is-walmart-and-ibms-new-collaboration-30493da5.md)
 * 2019-06-21 [호주 준비 은행 공식 은 libra의 기대에주의를 조언](https://github.com/theyapapa/cryptonews/blob/ko/australian-reserve-bank-official-advises-caution-in-anticipation-of-libra-a785899b.md)
 * 2019-06-21 [비트 코인 휴식 $10,000 3 월 이후 처음으로 2018](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-10-000-for-first-time-since-march-2018-8b77937c.md)
