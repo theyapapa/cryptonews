@@ -1,3 +1,4 @@
+* 2019-06-22 [Решит ли новое программное обеспечение PwC проблему аудита криптовалют?](https://github.com/theyapapa/cryptonews/blob/ru/will-pwcs-new-software-solve-the-cryptocurrency-auditing-problem-6ad34935.md)
 * 2019-06-22 [От снабжения чистой водой до восстановления Нотр-Дам: Крипто и Блокчейн в благотворительности](https://github.com/theyapapa/cryptonews/blob/ru/from-clean-water-supply-to-rebuilding-notre-dame-crypto-and-blockchain-in-charity-44e2d0c4.md)
 * 2019-06-22 [Цена Bitcoin хитов $ 11K менее чем за 24 часа после взлома $ 10K Знак](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-hits-11k-less-than-24-hours-after-breaking-10k-mark-e1a21b02.md)
 * 2019-06-22 [Отслеживание наркотиков на блокчейне: насколько важно ежейшвый walmart и IBM в новом сотрудничестве?](https://github.com/theyapapa/cryptonews/blob/ru/tracking-drugs-on-blockchain-how-significant-is-walmart-and-ibms-new-collaboration-30493da5.md)
