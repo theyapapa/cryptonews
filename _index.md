@@ -1,3 +1,4 @@
+* 2019-06-23 [4 큰 이유 비트 코인의 가격은 아마에서 멈추지 않을 것이다 $20K이 시간](https://github.com/theyapapa/cryptonews/blob/ko/4-big-reasons-bitcoins-price-will-probably-not-stop-at-20k-this-time-7e7347eb.md)
 * 2019-06-23 [비트 코인 가격은 비트 코인의 세금을 더 매력적으로 지불 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-prices-could-make-paying-taxes-in-bitcoin-even-more-attractive-5af471de.md)
 * 2019-06-23 [그랜드 도난 암호화: 암호 화폐 훔치는 악성 코드 및 기타 불쾌한 기술의 상태](https://github.com/theyapapa/cryptonews/blob/ko/grand-theft-crypto-the-state-of-cryptocurrency-stealing-malware-and-other-nasty-techniques-22091298.md)
 * 2019-06-22 [PwC의 새로운 소프트웨어는 암호 화폐 감사 문제를 해결할 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/will-pwcs-new-software-solve-the-cryptocurrency-auditing-problem-6ad34935.md)
