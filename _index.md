@@ -1,3 +1,4 @@
+* 2019-06-23 [Основные криптобиржи Bitfinex кратко перейти в автономном режиме для обновления на следующей неделе](https://github.com/theyapapa/cryptonews/blob/ru/major-crypto-exchange-bitfinex-to-briefly-go-offline-for-upgrade-next-week-e5504b82.md)
 * 2019-06-23 [4 большие причины Цена Bitcoin, вероятно, не остановится на $ 20K на этот раз](https://github.com/theyapapa/cryptonews/blob/ru/4-big-reasons-bitcoins-price-will-probably-not-stop-at-20k-this-time-7e7347eb.md)
 * 2019-06-23 [Цены на биткоин могут сделать уплату налогов в биткоинах еще более привлекательной](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-prices-could-make-paying-taxes-in-bitcoin-even-more-attractive-5af471de.md)
 * 2019-06-23 [Grand Theft Crypto: Состояние криптовалюты-Кража вредоносных программ и других Nasty методы](https://github.com/theyapapa/cryptonews/blob/ru/grand-theft-crypto-the-state-of-cryptocurrency-stealing-malware-and-other-nasty-techniques-22091298.md)
