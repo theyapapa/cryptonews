@@ -1,3 +1,4 @@
+* 2019-06-23 [4 grandes razones el precio de Bitcoin probablemente no se detendrá en $20K esta vez](https://github.com/theyapapa/cryptonews/blob/es/4-big-reasons-bitcoins-price-will-probably-not-stop-at-20k-this-time-7e7347eb.md)
 * 2019-06-23 [Los precios de Bitcoin podrían hacer que pagar impuestos en Bitcoin sea aún más atractivo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-prices-could-make-paying-taxes-in-bitcoin-even-more-attractive-5af471de.md)
 * 2019-06-23 [Grand Theft Crypto: El estado del malware que roba criptomonedas y otras técnicas desagradables](https://github.com/theyapapa/cryptonews/blob/es/grand-theft-crypto-the-state-of-cryptocurrency-stealing-malware-and-other-nasty-techniques-22091298.md)
 * 2019-06-22 [¿El nuevo software de PwC resolverá el problema de auditoría de criptomonedas?](https://github.com/theyapapa/cryptonews/blob/es/will-pwcs-new-software-solve-the-cryptocurrency-auditing-problem-6ad34935.md)
