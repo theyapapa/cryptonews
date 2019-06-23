@@ -1,3 +1,4 @@
+* 2019-06-23 [Цены на биткоин могут сделать уплату налогов в биткоинах еще более привлекательной](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-prices-could-make-paying-taxes-in-bitcoin-even-more-attractive-5af471de.md)
 * 2019-06-23 [Grand Theft Crypto: Состояние криптовалюты-Кража вредоносных программ и других Nasty методы](https://github.com/theyapapa/cryptonews/blob/ru/grand-theft-crypto-the-state-of-cryptocurrency-stealing-malware-and-other-nasty-techniques-22091298.md)
 * 2019-06-22 [Решит ли новое программное обеспечение PwC проблему аудита криптовалют?](https://github.com/theyapapa/cryptonews/blob/ru/will-pwcs-new-software-solve-the-cryptocurrency-auditing-problem-6ad34935.md)
 * 2019-06-22 [От снабжения чистой водой до восстановления Нотр-Дам: Крипто и Блокчейн в благотворительности](https://github.com/theyapapa/cryptonews/blob/ru/from-clean-water-supply-to-rebuilding-notre-dame-crypto-and-blockchain-in-charity-44e2d0c4.md)
