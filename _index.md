@@ -1,3 +1,4 @@
+* 2019-06-23 [마이크로소프트와 이더리움 재단, 성장하는 업계 간 블록체인 협업 속에서 하이퍼레저 순위 를 부각](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-and-ethereum-foundation-swell-the-hyperledger-ranks-amid-growing-cross-industry-blockchain-collaboration-e6fd01bc.md)
 * 2019-06-23 [주요 암호화 교환 Bitfinex 는 다음 주 업그레이드를 위해 간단히 오프라인으로 이동](https://github.com/theyapapa/cryptonews/blob/ko/major-crypto-exchange-bitfinex-to-briefly-go-offline-for-upgrade-next-week-e5504b82.md)
 * 2019-06-23 [4 큰 이유 비트 코인의 가격은 아마에서 멈추지 않을 것이다 $20K이 시간](https://github.com/theyapapa/cryptonews/blob/ko/4-big-reasons-bitcoins-price-will-probably-not-stop-at-20k-this-time-7e7347eb.md)
 * 2019-06-23 [비트 코인 가격은 비트 코인의 세금을 더 매력적으로 지불 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-prices-could-make-paying-taxes-in-bitcoin-even-more-attractive-5af471de.md)
