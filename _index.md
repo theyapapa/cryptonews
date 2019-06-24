@@ -1,3 +1,4 @@
+* 2019-06-24 [Мальта зарегистрирует все договоры аренды недвижимости на блокчейне](https://github.com/theyapapa/cryptonews/blob/ru/malta-to-register-all-property-rental-contracts-on-blockchain-4fcd2765.md)
 * 2019-06-24 [Первые пары Стабильный коинприт, перечисленные на Binance DEX](https://github.com/theyapapa/cryptonews/blob/ru/first-stablecoin-trading-pairs-listed-on-binance-dex-b22b994e.md)
 * 2019-06-24 [Google Ищет 'Bitcoin' Начиная догнать с $ 10K эйфории](https://github.com/theyapapa/cryptonews/blob/ru/google-searches-for-bitcoin-starting-to-catch-up-with-10k-euphoria-d8483186.md)
 * 2019-06-24 [Ключевой индикатор цены Bitcoin предлагает $21,000 'Справедливая стоимость' к концу 2019](https://github.com/theyapapa/cryptonews/blob/ru/key-bitcoin-price-indicator-suggests-21-000-fair-value-by-end-of-2019-733dae5a.md)
