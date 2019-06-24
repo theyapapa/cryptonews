@@ -1,3 +1,4 @@
+* 2019-06-24 [Bitcoin llega a 15 meses de altura como Naysayers Doble abajo en 'Dead Cat Bounce'](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hits-15-month-high-as-naysayers-double-down-on-dead-cat-bounce-60ff1441.md)
 * 2019-06-23 [Un sistema blockchain para la economía digital de Azerbaiyán](https://github.com/theyapapa/cryptonews/blob/es/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
 * 2019-06-23 [Craig Wright no reveló las tenencias de Bitcoin en el caso de la corte, dice abogado](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-failed-to-disclose-bitcoin-holdings-in-court-case-says-lawyer-340fa76a.md)
 * 2019-06-23 [Microsoft y Ethereum Foundation Swell the Hyperledger Ranks Amid Growing Cross-Industry Blockchain Collaboration](https://github.com/theyapapa/cryptonews/blob/es/microsoft-and-ethereum-foundation-swell-the-hyperledger-ranks-amid-growing-cross-industry-blockchain-collaboration-e6fd01bc.md)
