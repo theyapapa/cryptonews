@@ -1,3 +1,4 @@
+* 2019-06-24 [Investigadores descubren la amenaza de la minería criptográfica de máquinas virtuales 'inusuales'](https://github.com/theyapapa/cryptonews/blob/es/researchers-uncover-threat-of-unusual-virtual-machine-crypto-mining-070d7a3b.md)
 * 2019-06-24 [Bitcoin llega a 15 meses de altura como Naysayers Doble abajo en 'Dead Cat Bounce'](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hits-15-month-high-as-naysayers-double-down-on-dead-cat-bounce-60ff1441.md)
 * 2019-06-23 [Un sistema blockchain para la economía digital de Azerbaiyán](https://github.com/theyapapa/cryptonews/blob/es/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
 * 2019-06-23 [Craig Wright no reveló las tenencias de Bitcoin en el caso de la corte, dice abogado](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-failed-to-disclose-bitcoin-holdings-in-court-case-says-lawyer-340fa76a.md)
