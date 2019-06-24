@@ -1,3 +1,4 @@
+* 2019-06-24 [Исследователи обнаружили угрозу "необычных" Виртуальная машина Crypto Mining](https://github.com/theyapapa/cryptonews/blob/ru/researchers-uncover-threat-of-unusual-virtual-machine-crypto-mining-070d7a3b.md)
 * 2019-06-24 [Биткойн Хиты 15-месячный высокий, как Naysayers Удвоить вниз на "Мертвый кот отказов"](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hits-15-month-high-as-naysayers-double-down-on-dead-cat-bounce-60ff1441.md)
 * 2019-06-23 [Блокчейн-система для цифровой экономики Азербайджана](https://github.com/theyapapa/cryptonews/blob/ru/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
 * 2019-06-23 [Крейг Райт не удалось раскрыть Bitcoin Holdings в суде дело, говорит адвокат](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-failed-to-disclose-bitcoin-holdings-in-court-case-says-lawyer-340fa76a.md)
