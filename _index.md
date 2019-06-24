@@ -1,3 +1,4 @@
+* 2019-06-24 [Indicador clave de precios Bitcoin sugiere $21,000 'Valor justo' a finales de 2019](https://github.com/theyapapa/cryptonews/blob/es/key-bitcoin-price-indicator-suggests-21-000-fair-value-by-end-of-2019-733dae5a.md)
 * 2019-06-24 [Investigadores descubren la amenaza de la minería criptográfica de máquinas virtuales 'inusuales'](https://github.com/theyapapa/cryptonews/blob/es/researchers-uncover-threat-of-unusual-virtual-machine-crypto-mining-070d7a3b.md)
 * 2019-06-24 [Bitcoin llega a 15 meses de altura como Naysayers Doble abajo en 'Dead Cat Bounce'](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hits-15-month-high-as-naysayers-double-down-on-dead-cat-bounce-60ff1441.md)
 * 2019-06-23 [Un sistema blockchain para la economía digital de Azerbaiyán](https://github.com/theyapapa/cryptonews/blob/es/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
