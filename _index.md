@@ -1,3 +1,4 @@
+* 2019-06-24 [Primeros pares de trading Stablecoin listados en Binance DEX](https://github.com/theyapapa/cryptonews/blob/es/first-stablecoin-trading-pairs-listed-on-binance-dex-b22b994e.md)
 * 2019-06-24 [Google busca 'Bitcoin' empezando a ponerse al día con $10K Euphoria](https://github.com/theyapapa/cryptonews/blob/es/google-searches-for-bitcoin-starting-to-catch-up-with-10k-euphoria-d8483186.md)
 * 2019-06-24 [Indicador clave de precios Bitcoin sugiere $21,000 'Valor justo' a finales de 2019](https://github.com/theyapapa/cryptonews/blob/es/key-bitcoin-price-indicator-suggests-21-000-fair-value-by-end-of-2019-733dae5a.md)
 * 2019-06-24 [Investigadores descubren la amenaza de la minería criptográfica de máquinas virtuales 'inusuales'](https://github.com/theyapapa/cryptonews/blob/es/researchers-uncover-threat-of-unusual-virtual-machine-crypto-mining-070d7a3b.md)
