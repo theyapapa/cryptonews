@@ -1,3 +1,4 @@
+* 2019-06-24 [비트 코인 조회수 15 개월 높은 으로 Naysayers 더블 다운 ' 죽은 고양이 바운스'](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hits-15-month-high-as-naysayers-double-down-on-dead-cat-bounce-60ff1441.md)
 * 2019-06-23 [아제르바이잔의 디지털 경제를 위한 블록체인 시스템](https://github.com/theyapapa/cryptonews/blob/ko/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
 * 2019-06-23 [크레이그 라이트는 법원 사건에서 비트 코인 홀딩스를 공개하지 못했습니다, 변호사는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-failed-to-disclose-bitcoin-holdings-in-court-case-says-lawyer-340fa76a.md)
 * 2019-06-23 [마이크로소프트와 이더리움 재단, 성장하는 업계 간 블록체인 협업 속에서 하이퍼레저 순위 를 부각](https://github.com/theyapapa/cryptonews/blob/ko/microsoft-and-ethereum-foundation-swell-the-hyperledger-ranks-amid-growing-cross-industry-blockchain-collaboration-e6fd01bc.md)
