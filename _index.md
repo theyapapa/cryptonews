@@ -1,3 +1,4 @@
+* 2019-06-24 [Биткойн Хиты 15-месячный высокий, как Naysayers Удвоить вниз на "Мертвый кот отказов"](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hits-15-month-high-as-naysayers-double-down-on-dead-cat-bounce-60ff1441.md)
 * 2019-06-23 [Блокчейн-система для цифровой экономики Азербайджана](https://github.com/theyapapa/cryptonews/blob/ru/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
 * 2019-06-23 [Крейг Райт не удалось раскрыть Bitcoin Holdings в суде дело, говорит адвокат](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-failed-to-disclose-bitcoin-holdings-in-court-case-says-lawyer-340fa76a.md)
 * 2019-06-23 [Microsoft и Ethereum Фонд набухают Hyperledger рангов на фоне растущего кросс-индустрии Blockchain Сотрудничество](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-and-ethereum-foundation-swell-the-hyperledger-ranks-amid-growing-cross-industry-blockchain-collaboration-e6fd01bc.md)
