@@ -1,3 +1,4 @@
+* 2019-06-24 [몰타, 블록체인에 모든 부동산 임대 계약 등록](https://github.com/theyapapa/cryptonews/blob/ko/malta-to-register-all-property-rental-contracts-on-blockchain-4fcd2765.md)
 * 2019-06-24 [Binance DEX에 상장된 최초의 스테이블코인 거래 쌍](https://github.com/theyapapa/cryptonews/blob/ko/first-stablecoin-trading-pairs-listed-on-binance-dex-b22b994e.md)
 * 2019-06-24 [구글검색 ' 비트 코인' 따라잡기 시작 $10K 행복감](https://github.com/theyapapa/cryptonews/blob/ko/google-searches-for-bitcoin-starting-to-catch-up-with-10k-euphoria-d8483186.md)
 * 2019-06-24 [주요 비트 코인 가격 지표제안 $21,000 '공정 가치' 말까지 2019](https://github.com/theyapapa/cryptonews/blob/ko/key-bitcoin-price-indicator-suggests-21-000-fair-value-by-end-of-2019-733dae5a.md)
