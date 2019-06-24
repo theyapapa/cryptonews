@@ -1,3 +1,4 @@
+* 2019-06-24 [연구원은 '특이한'가상 머신 암호 마이닝의 위협을 발견](https://github.com/theyapapa/cryptonews/blob/ko/researchers-uncover-threat-of-unusual-virtual-machine-crypto-mining-070d7a3b.md)
 * 2019-06-24 [비트 코인 조회수 15 개월 높은 으로 Naysayers 더블 다운 ' 죽은 고양이 바운스'](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hits-15-month-high-as-naysayers-double-down-on-dead-cat-bounce-60ff1441.md)
 * 2019-06-23 [아제르바이잔의 디지털 경제를 위한 블록체인 시스템](https://github.com/theyapapa/cryptonews/blob/ko/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
 * 2019-06-23 [크레이그 라이트는 법원 사건에서 비트 코인 홀딩스를 공개하지 못했습니다, 변호사는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-failed-to-disclose-bitcoin-holdings-in-court-case-says-lawyer-340fa76a.md)
