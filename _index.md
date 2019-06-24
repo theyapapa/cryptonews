@@ -1,3 +1,4 @@
+* 2019-06-24 [Палата представителей США проведет слушания по Весам Facebook в июле](https://github.com/theyapapa/cryptonews/blob/ru/us-house-of-representatives-to-hold-hearing-on-facebooks-libra-in-july-4a762560.md)
 * 2019-06-24 [Канадская блокчейн-компания подписала контракт с министерством транспорта Сеула](https://github.com/theyapapa/cryptonews/blob/ru/canadian-blockchain-company-signs-contract-with-seoul-ministry-of-transportation-2bad5e71.md)
 * 2019-06-24 [Мальта зарегистрирует все договоры аренды недвижимости на блокчейне](https://github.com/theyapapa/cryptonews/blob/ru/malta-to-register-all-property-rental-contracts-on-blockchain-4fcd2765.md)
 * 2019-06-24 [Первые пары Стабильный коинприт, перечисленные на Binance DEX](https://github.com/theyapapa/cryptonews/blob/ru/first-stablecoin-trading-pairs-listed-on-binance-dex-b22b994e.md)
