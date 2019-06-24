@@ -1,3 +1,4 @@
+* 2019-06-24 [Empresa canadiense de Blockchain firma contrato con el Ministerio de Transporte de Seúl](https://github.com/theyapapa/cryptonews/blob/es/canadian-blockchain-company-signs-contract-with-seoul-ministry-of-transportation-2bad5e71.md)
 * 2019-06-24 [Malta registrará todos los contratos de alquiler de propiedades en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/malta-to-register-all-property-rental-contracts-on-blockchain-4fcd2765.md)
 * 2019-06-24 [Primeros pares de trading Stablecoin listados en Binance DEX](https://github.com/theyapapa/cryptonews/blob/es/first-stablecoin-trading-pairs-listed-on-binance-dex-b22b994e.md)
 * 2019-06-24 [Google busca 'Bitcoin' empezando a ponerse al día con $10K Euphoria](https://github.com/theyapapa/cryptonews/blob/es/google-searches-for-bitcoin-starting-to-catch-up-with-10k-euphoria-d8483186.md)
