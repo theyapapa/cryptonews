@@ -1,3 +1,4 @@
+* 2019-06-23 [Блокчейн-система для цифровой экономики Азербайджана](https://github.com/theyapapa/cryptonews/blob/ru/a-blockchain-system-for-azerbaijans-digital-economy-946aeb45.md)
 * 2019-06-23 [Крейг Райт не удалось раскрыть Bitcoin Holdings в суде дело, говорит адвокат](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-failed-to-disclose-bitcoin-holdings-in-court-case-says-lawyer-340fa76a.md)
 * 2019-06-23 [Microsoft и Ethereum Фонд набухают Hyperledger рангов на фоне растущего кросс-индустрии Blockchain Сотрудничество](https://github.com/theyapapa/cryptonews/blob/ru/microsoft-and-ethereum-foundation-swell-the-hyperledger-ranks-amid-growing-cross-industry-blockchain-collaboration-e6fd01bc.md)
 * 2019-06-23 [Основные криптобиржи Bitfinex кратко перейти в автономном режиме для обновления на следующей неделе](https://github.com/theyapapa/cryptonews/blob/ru/major-crypto-exchange-bitfinex-to-briefly-go-offline-for-upgrade-next-week-e5504b82.md)
