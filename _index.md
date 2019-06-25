@@ -1,3 +1,4 @@
+* 2019-06-25 [El gobierno iraní cortará el poder a la minería criptográfica hasta la aprobación de los nuevos precios de la energía](https://github.com/theyapapa/cryptonews/blob/es/iranian-government-to-cut-off-power-to-crypto-mining-until-approval-of-new-energy-prices-e697142e.md)
 * 2019-06-25 [Walmart China rastreará los alimentos en la cadena de suministro con Thor Blockchain de Vechain](https://github.com/theyapapa/cryptonews/blob/es/walmart-china-will-track-food-in-supply-chain-with-vechains-thor-blockchain-3b14c8f8.md)
 * 2019-06-25 [Banco Central Francés: Libra de Facebook puede necesitar licencia bancaria](https://github.com/theyapapa/cryptonews/blob/es/french-central-bank-facebooks-libra-may-need-banking-license-05fbb109.md)
 * 2019-06-25 [BTC, ETH, DAI Intercambios Atómicos De Cadena Cruzada lanzados por Liquality en Mainnet](https://github.com/theyapapa/cryptonews/blob/es/btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet-53f4c95a.md)
