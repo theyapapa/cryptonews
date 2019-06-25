@@ -1,3 +1,4 @@
+* 2019-06-24 [AICPA, 블록체인 기반 감사 데이터에 적용되는 새로운 표준 제안](https://github.com/theyapapa/cryptonews/blob/ko/aicpa-proposes-new-standards-that-would-apply-to-blockchain-based-audit-data-c92cb38d.md)
 * 2019-06-24 [미국 하원, 7 월 페이스 북의 선관위에 청문회 개최](https://github.com/theyapapa/cryptonews/blob/ko/us-house-of-representatives-to-hold-hearing-on-facebooks-libra-in-july-4a762560.md)
 * 2019-06-24 [캐나다 블록체인 회사, 서울교통부와 계약 체결](https://github.com/theyapapa/cryptonews/blob/ko/canadian-blockchain-company-signs-contract-with-seoul-ministry-of-transportation-2bad5e71.md)
 * 2019-06-24 [몰타, 블록체인에 모든 부동산 임대 계약 등록](https://github.com/theyapapa/cryptonews/blob/ko/malta-to-register-all-property-rental-contracts-on-blockchain-4fcd2765.md)
