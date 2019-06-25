@@ -1,3 +1,4 @@
+* 2019-06-25 [비트 코인은 17 개월 만에 처음으로 2,000 억 달러의 시가 총액을 돌파했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-breaks-200-billion-market-cap-for-the-first-time-in-17-months-31c6312c.md)
 * 2019-06-24 [이더리움 기반 합성 자산 플랫폼, 오라클 공격에서 37M 토큰 이상 손실](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-synthetic-asset-platform-loses-over-37m-tokens-in-oracle-attack-eedd3ead.md)
 * 2019-06-24 [AICPA, 블록체인 기반 감사 데이터에 적용되는 새로운 표준 제안](https://github.com/theyapapa/cryptonews/blob/ko/aicpa-proposes-new-standards-that-would-apply-to-blockchain-based-audit-data-c92cb38d.md)
 * 2019-06-24 [미국 하원, 7 월 페이스 북의 선관위에 청문회 개최](https://github.com/theyapapa/cryptonews/blob/ko/us-house-of-representatives-to-hold-hearing-on-facebooks-libra-in-july-4a762560.md)
