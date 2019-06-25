@@ -1,3 +1,4 @@
+* 2019-06-24 [AICPA propone nuevos estándares que se aplicarían a los datos de auditoría basados en blockchain](https://github.com/theyapapa/cryptonews/blob/es/aicpa-proposes-new-standards-that-would-apply-to-blockchain-based-audit-data-c92cb38d.md)
 * 2019-06-24 [Cámara de Representantes de EE. UU. celebrará una audiencia en la Libra de Facebook en julio](https://github.com/theyapapa/cryptonews/blob/es/us-house-of-representatives-to-hold-hearing-on-facebooks-libra-in-july-4a762560.md)
 * 2019-06-24 [Empresa canadiense de Blockchain firma contrato con el Ministerio de Transporte de Seúl](https://github.com/theyapapa/cryptonews/blob/es/canadian-blockchain-company-signs-contract-with-seoul-ministry-of-transportation-2bad5e71.md)
 * 2019-06-24 [Malta registrará todos los contratos de alquiler de propiedades en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/malta-to-register-all-property-rental-contracts-on-blockchain-4fcd2765.md)
