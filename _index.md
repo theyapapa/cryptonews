@@ -1,3 +1,4 @@
+* 2019-06-25 [Banco Central Francés: Libra de Facebook puede necesitar licencia bancaria](https://github.com/theyapapa/cryptonews/blob/es/french-central-bank-facebooks-libra-may-need-banking-license-05fbb109.md)
 * 2019-06-25 [BTC, ETH, DAI Intercambios Atómicos De Cadena Cruzada lanzados por Liquality en Mainnet](https://github.com/theyapapa/cryptonews/blob/es/btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet-53f4c95a.md)
 * 2019-06-25 [Ahora hay más de 5.000 cajeros tipo bitcoin en todo el mundo](https://github.com/theyapapa/cryptonews/blob/es/there-are-now-more-than-5000-bitcoin-atms-around-the-world-0c403a6c.md)
 * 2019-06-25 [Bitcoin rompe $200 mil millones de capitalización de mercado por primera vez en 17 meses](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-breaks-200-billion-market-cap-for-the-first-time-in-17-months-31c6312c.md)
