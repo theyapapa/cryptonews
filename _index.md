@@ -1,3 +1,4 @@
+* 2019-06-25 [Kraken recauda más de $13 millones en su última ronda de recaudación de fondos](https://github.com/theyapapa/cryptonews/blob/es/kraken-raises-over-13-million-in-its-latest-fundraising-round-62201079.md)
 * 2019-06-25 [El gobierno iraní cortará el poder a la minería criptográfica hasta la aprobación de los nuevos precios de la energía](https://github.com/theyapapa/cryptonews/blob/es/iranian-government-to-cut-off-power-to-crypto-mining-until-approval-of-new-energy-prices-e697142e.md)
 * 2019-06-25 [Walmart China rastreará los alimentos en la cadena de suministro con Thor Blockchain de Vechain](https://github.com/theyapapa/cryptonews/blob/es/walmart-china-will-track-food-in-supply-chain-with-vechains-thor-blockchain-3b14c8f8.md)
 * 2019-06-25 [Banco Central Francés: Libra de Facebook puede necesitar licencia bancaria](https://github.com/theyapapa/cryptonews/blob/es/french-central-bank-facebooks-libra-may-need-banking-license-05fbb109.md)
