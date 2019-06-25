@@ -1,3 +1,4 @@
+* 2019-06-25 [Walmart Китай будет отслеживать продукты питания в цепочке поставок с Vechain в Тор Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/walmart-china-will-track-food-in-supply-chain-with-vechains-thor-blockchain-3b14c8f8.md)
 * 2019-06-25 [Центральный банк Франции: Весы Facebook может нужна банковская лицензия](https://github.com/theyapapa/cryptonews/blob/ru/french-central-bank-facebooks-libra-may-need-banking-license-05fbb109.md)
 * 2019-06-25 [BTC, ETH, DAI Cross-Chain Atomic Swaps запущен Liquality на Mainnet](https://github.com/theyapapa/cryptonews/blob/ru/btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet-53f4c95a.md)
 * 2019-06-25 [Есть в настоящее время более 5000 Bitcoin банкоматов по всему миру](https://github.com/theyapapa/cryptonews/blob/ru/there-are-now-more-than-5000-bitcoin-atms-around-the-world-0c403a6c.md)
