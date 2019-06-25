@@ -1,3 +1,4 @@
+* 2019-06-25 [월마트 중국은 Vechain의 토르 블록 체인으로 공급망에서 식품을 추적 할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/walmart-china-will-track-food-in-supply-chain-with-vechains-thor-blockchain-3b14c8f8.md)
 * 2019-06-25 [프랑스 중앙 은행: 페이스 북의 선칭 자리 은행 라이센스가 필요할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/french-central-bank-facebooks-libra-may-need-banking-license-05fbb109.md)
 * 2019-06-25 [BTC, ETH, DAI 크로스 체인 원자 스왑 메인넷에 Liquality에 의해 시작](https://github.com/theyapapa/cryptonews/blob/ko/btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet-53f4c95a.md)
 * 2019-06-25 [현재 전 세계 5,000개 이상의 비트코인 ATM이 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/there-are-now-more-than-5000-bitcoin-atms-around-the-world-0c403a6c.md)
