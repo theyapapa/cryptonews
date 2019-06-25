@@ -1,3 +1,4 @@
+* 2019-06-25 [Kraken поднимает более $ 13 млн в своем последнем раунде сбора средств](https://github.com/theyapapa/cryptonews/blob/ru/kraken-raises-over-13-million-in-its-latest-fundraising-round-62201079.md)
 * 2019-06-25 [Правительство Ирана отключит электроэнергию для криптодобычи до утверждения новых цен на энергоносители](https://github.com/theyapapa/cryptonews/blob/ru/iranian-government-to-cut-off-power-to-crypto-mining-until-approval-of-new-energy-prices-e697142e.md)
 * 2019-06-25 [Walmart Китай будет отслеживать продукты питания в цепочке поставок с Vechain в Тор Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/walmart-china-will-track-food-in-supply-chain-with-vechains-thor-blockchain-3b14c8f8.md)
 * 2019-06-25 [Центральный банк Франции: Весы Facebook может нужна банковская лицензия](https://github.com/theyapapa/cryptonews/blob/ru/french-central-bank-facebooks-libra-may-need-banking-license-05fbb109.md)
