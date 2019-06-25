@@ -1,3 +1,4 @@
+* 2019-06-24 [이더리움 기반 합성 자산 플랫폼, 오라클 공격에서 37M 토큰 이상 손실](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-synthetic-asset-platform-loses-over-37m-tokens-in-oracle-attack-eedd3ead.md)
 * 2019-06-24 [AICPA, 블록체인 기반 감사 데이터에 적용되는 새로운 표준 제안](https://github.com/theyapapa/cryptonews/blob/ko/aicpa-proposes-new-standards-that-would-apply-to-blockchain-based-audit-data-c92cb38d.md)
 * 2019-06-24 [미국 하원, 7 월 페이스 북의 선관위에 청문회 개최](https://github.com/theyapapa/cryptonews/blob/ko/us-house-of-representatives-to-hold-hearing-on-facebooks-libra-in-july-4a762560.md)
 * 2019-06-24 [캐나다 블록체인 회사, 서울교통부와 계약 체결](https://github.com/theyapapa/cryptonews/blob/ko/canadian-blockchain-company-signs-contract-with-seoul-ministry-of-transportation-2bad5e71.md)
