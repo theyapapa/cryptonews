@@ -1,3 +1,4 @@
+* 2019-06-24 [Платформа синтетических активов на основе Ethereum теряет более 37 млн токенов в Oracle Attack](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-synthetic-asset-platform-loses-over-37m-tokens-in-oracle-attack-eedd3ead.md)
 * 2019-06-24 [AICPA предлагает новые стандарты, которые будут применяться к данным аудита на основе блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/aicpa-proposes-new-standards-that-would-apply-to-blockchain-based-audit-data-c92cb38d.md)
 * 2019-06-24 [Палата представителей США проведет слушания по Весам Facebook в июле](https://github.com/theyapapa/cryptonews/blob/ru/us-house-of-representatives-to-hold-hearing-on-facebooks-libra-in-july-4a762560.md)
 * 2019-06-24 [Канадская блокчейн-компания подписала контракт с министерством транспорта Сеула](https://github.com/theyapapa/cryptonews/blob/ru/canadian-blockchain-company-signs-contract-with-seoul-ministry-of-transportation-2bad5e71.md)
