@@ -1,3 +1,4 @@
+* 2019-06-25 [Walmart China rastreará los alimentos en la cadena de suministro con Thor Blockchain de Vechain](https://github.com/theyapapa/cryptonews/blob/es/walmart-china-will-track-food-in-supply-chain-with-vechains-thor-blockchain-3b14c8f8.md)
 * 2019-06-25 [Banco Central Francés: Libra de Facebook puede necesitar licencia bancaria](https://github.com/theyapapa/cryptonews/blob/es/french-central-bank-facebooks-libra-may-need-banking-license-05fbb109.md)
 * 2019-06-25 [BTC, ETH, DAI Intercambios Atómicos De Cadena Cruzada lanzados por Liquality en Mainnet](https://github.com/theyapapa/cryptonews/blob/es/btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet-53f4c95a.md)
 * 2019-06-25 [Ahora hay más de 5.000 cajeros tipo bitcoin en todo el mundo](https://github.com/theyapapa/cryptonews/blob/es/there-are-now-more-than-5000-bitcoin-atms-around-the-world-0c403a6c.md)
