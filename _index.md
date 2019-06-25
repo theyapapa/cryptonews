@@ -1,3 +1,4 @@
+* 2019-06-25 [BTC, ETH, DAI Cross-Chain Atomic Swaps запущен Liquality на Mainnet](https://github.com/theyapapa/cryptonews/blob/ru/btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet-53f4c95a.md)
 * 2019-06-25 [Есть в настоящее время более 5000 Bitcoin банкоматов по всему миру](https://github.com/theyapapa/cryptonews/blob/ru/there-are-now-more-than-5000-bitcoin-atms-around-the-world-0c403a6c.md)
 * 2019-06-25 [Биткоин ломает $200 млрд рынка Cap впервые за 17 месяцев](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-breaks-200-billion-market-cap-for-the-first-time-in-17-months-31c6312c.md)
 * 2019-06-24 [Платформа синтетических активов на основе Ethereum теряет более 37 млн токенов в Oracle Attack](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-synthetic-asset-platform-loses-over-37m-tokens-in-oracle-attack-eedd3ead.md)
