@@ -1,3 +1,4 @@
+* 2019-06-26 [Square lanza depósitos Bitcoin para la aplicación en efectivo al público en general](https://github.com/theyapapa/cryptonews/blob/es/square-rolls-out-bitcoin-deposits-for-cash-app-to-general-public-4f9feb48.md)
 * 2019-06-26 [Bolsa suiza pide al Banco Central que emita Stablecoin](https://github.com/theyapapa/cryptonews/blob/es/swiss-stock-exchange-asks-central-bank-to-issue-stablecoin-e1f555c2.md)
 * 2019-06-26 [Deutsche Bank: Bancos centrales 'agresivos' haciendo Bitcoin más atractivo](https://github.com/theyapapa/cryptonews/blob/es/deutsche-bank-aggressive-central-banks-making-bitcoin-more-attractive-14619fb0.md)
 * 2019-06-26 [Fundador de Mt. Gox sabía de riesgos de seguridad años antes del colapso, reclamos de demandas](https://github.com/theyapapa/cryptonews/blob/es/mt-gox-founder-knew-of-security-risks-years-before-collapse-lawsuit-claims-bb1b6511.md)
