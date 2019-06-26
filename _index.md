@@ -1,3 +1,4 @@
+* 2019-06-26 [Genesis Capital: Actividad Institucional en Cripto hasta 300% en 12 Meses](https://github.com/theyapapa/cryptonews/blob/es/genesis-capital-institutional-activity-in-crypto-up-300-in-12-months-2fc4b6cd.md)
 * 2019-06-26 [Bitcoin Precio Parabólico Avance continúa más allá de $12,000](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-parabolic-advance-continues-past-12-000-6be80f76.md)
 * 2019-06-25 [Alemania: CDU y CSU Union integrarán Blockchain into Public Services](https://github.com/theyapapa/cryptonews/blob/es/germany-cdu-and-csu-union-to-integrate-blockchain-into-public-services-6948291d.md)
 * 2019-06-25 [Kraken recauda más de $13 millones en su última ronda de recaudación de fondos](https://github.com/theyapapa/cryptonews/blob/es/kraken-raises-over-13-million-in-its-latest-fundraising-round-62201079.md)
