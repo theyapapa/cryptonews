@@ -1,3 +1,4 @@
+* 2019-06-26 [스퀘어는 일반 대중에게 현금 응용 프로그램에 대한 비트 코인 예금을 롤아웃](https://github.com/theyapapa/cryptonews/blob/ko/square-rolls-out-bitcoin-deposits-for-cash-app-to-general-public-4f9feb48.md)
 * 2019-06-26 [스위스 증권 거래소, 중앙은행에 안정적 코인 발행 요청](https://github.com/theyapapa/cryptonews/blob/ko/swiss-stock-exchange-asks-central-bank-to-issue-stablecoin-e1f555c2.md)
 * 2019-06-26 [도이치 뱅크: '공격적인' 중앙 은행, 비트코인을 더 매력적으로 만듭니다](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-bank-aggressive-central-banks-making-bitcoin-more-attractive-14619fb0.md)
 * 2019-06-26 [Mt. Gox 설립자 는 붕괴 하기 전에 보안 위험 년 알고, 소송 클레임](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-founder-knew-of-security-risks-years-before-collapse-lawsuit-claims-bb1b6511.md)
