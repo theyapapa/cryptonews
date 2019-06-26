@@ -1,3 +1,4 @@
+* 2019-06-26 [6 비트 코인의 놀라운 테이크 아웃 2019 황소 실행](https://github.com/theyapapa/cryptonews/blob/ko/6-surprising-takeaways-from-bitcoins-2019-bull-run-0844eec7.md)
 * 2019-06-26 [제네시스 캐피탈: 12개월 만에 300% 증가한 암호화폐의 기관 활동](https://github.com/theyapapa/cryptonews/blob/ko/genesis-capital-institutional-activity-in-crypto-up-300-in-12-months-2fc4b6cd.md)
 * 2019-06-26 [비트 코인 가격 포물선 사전 과거 계속 $12,000](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-parabolic-advance-continues-past-12-000-6be80f76.md)
 * 2019-06-25 [독일: CDU와 CSU 연합, 블록 체인을 공공 서비스에 통합](https://github.com/theyapapa/cryptonews/blob/ko/germany-cdu-and-csu-union-to-integrate-blockchain-into-public-services-6948291d.md)
