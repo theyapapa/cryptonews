@@ -1,3 +1,4 @@
+* 2019-06-26 [Chainalysis назначает бывшего сотрудника FinCen техническим адвокатом](https://github.com/theyapapa/cryptonews/blob/ru/chainalysis-appoints-former-fincen-officer-as-technical-counsel-b1854b85.md)
 * 2019-06-26 [Imgur получает $20 млн от стартапа платежей экс-Ripple cTO](https://github.com/theyapapa/cryptonews/blob/ru/imgur-receives-20m-from-ex-ripple-ctos-payments-startup-feb33e2b.md)
 * 2019-06-26 [Square Rolls Out Bitcoin Депозиты для наличных App для широкой общественности](https://github.com/theyapapa/cryptonews/blob/ru/square-rolls-out-bitcoin-deposits-for-cash-app-to-general-public-4f9feb48.md)
 * 2019-06-26 [Швейцарская фондовая биржа просит Центральный банк выпустить Стабильный монетный дом](https://github.com/theyapapa/cryptonews/blob/ru/swiss-stock-exchange-asks-central-bank-to-issue-stablecoin-e1f555c2.md)
