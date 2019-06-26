@@ -1,3 +1,4 @@
+* 2019-06-26 [도이치 뱅크: '공격적인' 중앙 은행, 비트코인을 더 매력적으로 만듭니다](https://github.com/theyapapa/cryptonews/blob/ko/deutsche-bank-aggressive-central-banks-making-bitcoin-more-attractive-14619fb0.md)
 * 2019-06-26 [Mt. Gox 설립자 는 붕괴 하기 전에 보안 위험 년 알고, 소송 클레임](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-founder-knew-of-security-risks-years-before-collapse-lawsuit-claims-bb1b6511.md)
 * 2019-06-26 [6 비트 코인의 놀라운 테이크 아웃 2019 황소 실행](https://github.com/theyapapa/cryptonews/blob/ko/6-surprising-takeaways-from-bitcoins-2019-bull-run-0844eec7.md)
 * 2019-06-26 [제네시스 캐피탈: 12개월 만에 300% 증가한 암호화폐의 기관 활동](https://github.com/theyapapa/cryptonews/blob/ko/genesis-capital-institutional-activity-in-crypto-up-300-in-12-months-2fc4b6cd.md)
