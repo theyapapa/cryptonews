@@ -1,3 +1,4 @@
+* 2019-06-26 [Deutsche Bank: «Агрессивные» центральные банки делают биткоин более привлекательным](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-bank-aggressive-central-banks-making-bitcoin-more-attractive-14619fb0.md)
 * 2019-06-26 [Mt. Gox Основатель знал о рисках безопасности лет до краха, иск претензий](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-founder-knew-of-security-risks-years-before-collapse-lawsuit-claims-bb1b6511.md)
 * 2019-06-26 [6 Удивительные выносы из Bitcoin 2019 Bull Run](https://github.com/theyapapa/cryptonews/blob/ru/6-surprising-takeaways-from-bitcoins-2019-bull-run-0844eec7.md)
 * 2019-06-26 [Бытие Капитал: Институциональная активность в Crypto До 300% в 12 месяцев](https://github.com/theyapapa/cryptonews/blob/ru/genesis-capital-institutional-activity-in-crypto-up-300-in-12-months-2fc4b6cd.md)
