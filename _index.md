@@ -1,3 +1,4 @@
+* 2019-06-26 [6 Surprising Takeaways from Bitcoin's 2019 Bull Run](https://github.com/theyapapa/cryptonews/blob/es/6-surprising-takeaways-from-bitcoins-2019-bull-run-0844eec7.md)
 * 2019-06-26 [Genesis Capital: Actividad Institucional en Cripto hasta 300% en 12 Meses](https://github.com/theyapapa/cryptonews/blob/es/genesis-capital-institutional-activity-in-crypto-up-300-in-12-months-2fc4b6cd.md)
 * 2019-06-26 [Bitcoin Precio Parabólico Avance continúa más allá de $12,000](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-parabolic-advance-continues-past-12-000-6be80f76.md)
 * 2019-06-25 [Alemania: CDU y CSU Union integrarán Blockchain into Public Services](https://github.com/theyapapa/cryptonews/blob/es/germany-cdu-and-csu-union-to-integrate-blockchain-into-public-services-6948291d.md)
