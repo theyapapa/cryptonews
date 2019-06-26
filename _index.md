@@ -1,3 +1,4 @@
+* 2019-06-26 [Швейцарская фондовая биржа просит Центральный банк выпустить Стабильный монетный дом](https://github.com/theyapapa/cryptonews/blob/ru/swiss-stock-exchange-asks-central-bank-to-issue-stablecoin-e1f555c2.md)
 * 2019-06-26 [Deutsche Bank: «Агрессивные» центральные банки делают биткоин более привлекательным](https://github.com/theyapapa/cryptonews/blob/ru/deutsche-bank-aggressive-central-banks-making-bitcoin-more-attractive-14619fb0.md)
 * 2019-06-26 [Mt. Gox Основатель знал о рисках безопасности лет до краха, иск претензий](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-founder-knew-of-security-risks-years-before-collapse-lawsuit-claims-bb1b6511.md)
 * 2019-06-26 [6 Удивительные выносы из Bitcoin 2019 Bull Run](https://github.com/theyapapa/cryptonews/blob/ru/6-surprising-takeaways-from-bitcoins-2019-bull-run-0844eec7.md)
