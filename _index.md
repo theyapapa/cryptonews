@@ -1,3 +1,4 @@
+* 2019-06-26 [Chainalysis, 전 FinCen 임원을 기술 고문으로 임명](https://github.com/theyapapa/cryptonews/blob/ko/chainalysis-appoints-former-fincen-officer-as-technical-counsel-b1854b85.md)
 * 2019-06-26 [Imgur는 전 리플 CTO의 지불 시작에서 $ 20M을 받습니다.](https://github.com/theyapapa/cryptonews/blob/ko/imgur-receives-20m-from-ex-ripple-ctos-payments-startup-feb33e2b.md)
 * 2019-06-26 [스퀘어는 일반 대중에게 현금 응용 프로그램에 대한 비트 코인 예금을 롤아웃](https://github.com/theyapapa/cryptonews/blob/ko/square-rolls-out-bitcoin-deposits-for-cash-app-to-general-public-4f9feb48.md)
 * 2019-06-26 [스위스 증권 거래소, 중앙은행에 안정적 코인 발행 요청](https://github.com/theyapapa/cryptonews/blob/ko/swiss-stock-exchange-asks-central-bank-to-issue-stablecoin-e1f555c2.md)
