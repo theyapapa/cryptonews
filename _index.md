@@ -1,3 +1,4 @@
+* 2019-06-26 [노던 트러스트, 핀테크 기업에게 블록체인 솔루션 제공](https://github.com/theyapapa/cryptonews/blob/ko/northern-trust-hands-off-blockchain-solution-to-fintech-firm-f51b894c.md)
 * 2019-06-26 [Chainalysis, 전 FinCen 임원을 기술 고문으로 임명](https://github.com/theyapapa/cryptonews/blob/ko/chainalysis-appoints-former-fincen-officer-as-technical-counsel-b1854b85.md)
 * 2019-06-26 [Imgur는 전 리플 CTO의 지불 시작에서 $ 20M을 받습니다.](https://github.com/theyapapa/cryptonews/blob/ko/imgur-receives-20m-from-ex-ripple-ctos-payments-startup-feb33e2b.md)
 * 2019-06-26 [스퀘어는 일반 대중에게 현금 응용 프로그램에 대한 비트 코인 예금을 롤아웃](https://github.com/theyapapa/cryptonews/blob/ko/square-rolls-out-bitcoin-deposits-for-cash-app-to-general-public-4f9feb48.md)
