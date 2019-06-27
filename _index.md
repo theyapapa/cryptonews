@@ -1,3 +1,4 @@
+* 2019-06-27 [LG, 국내 인터넷 거대 카카오의 새로운 블록체인 DApp 플랫폼 사용](https://github.com/theyapapa/cryptonews/blob/ko/lg-using-new-blockchain-dapp-platform-from-korean-internet-giant-kakao-7c538e8a.md)
 * 2019-06-27 [비트 코인 가격 보정으로 계속 $13,800 추가 이익의 열쇠가된다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-correction-continues-as-13-800-becomes-key-to-further-gains-9218b67e.md)
 * 2019-06-27 [Coinbase 사용자는 이제 비트 코인 번개 네트워크와 '충전'기능을 가지고](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-users-now-have-recharge-capabilities-with-bitcoin-lightning-network-d970784c.md)
 * 2019-06-26 [Coinbase 프로 체인 링크 토큰에 대 한 지원을 발표](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-announces-support-for-chainlink-token-0283ee51.md)
