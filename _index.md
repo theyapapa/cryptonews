@@ -1,3 +1,4 @@
+* 2019-06-27 [마이크 Novogratz: 비트 코인 사이 안정화됩니다 $10,000 과 $14,000](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-bitcoin-will-stabilize-between-10-000-and-14-000-3f079f09.md)
 * 2019-06-27 [블록 체인 프로토콜 Polkadot는 500,000 개의 토큰을 판매하며 가격은 여전히 지정되지 않았습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-protocol-polkadot-sells-500-000-of-its-tokens-price-still-unspecified-31ef95bb.md)
 * 2019-06-27 [Regtech 스타트업 코인펌, XRP의 AML 규정 준수 조사](https://github.com/theyapapa/cryptonews/blob/ko/regtech-startup-coinfirm-to-investigate-xrps-compliance-with-aml-provisions-10bd9717.md)
 * 2019-06-27 [전 비자 임원 주도 스타트업 은 일주일에 거의 4,000 암호화 카드를 발송](https://github.com/theyapapa/cryptonews/blob/ko/former-visa-exec-led-startup-ships-nearly-4-000-crypto-cards-in-a-week-b80402c6.md)
