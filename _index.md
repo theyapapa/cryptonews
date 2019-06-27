@@ -1,3 +1,4 @@
+* 2019-06-27 [La corrección del precio de Bitcoin continúa como $13,800 se convierte en clave para más ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-correction-continues-as-13-800-becomes-key-to-further-gains-9218b67e.md)
 * 2019-06-27 [Los usuarios de Coinbase ahora tienen capacidades de "recarga" con Bitcoin Lightning Network](https://github.com/theyapapa/cryptonews/blob/es/coinbase-users-now-have-recharge-capabilities-with-bitcoin-lightning-network-d970784c.md)
 * 2019-06-26 [Coinbase Pro anuncia soporte para el token Chainlink](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-announces-support-for-chainlink-token-0283ee51.md)
 * 2019-06-26 [Northern Trust Hands Off Blockchain Solution to Fintech Firm](https://github.com/theyapapa/cryptonews/blob/es/northern-trust-hands-off-blockchain-solution-to-fintech-firm-f51b894c.md)
