@@ -1,3 +1,4 @@
+* 2019-06-27 [Биткоин Коррекция цен продолжается, как $ 13800 становится ключом к дальнейшей прибыли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-correction-continues-as-13-800-becomes-key-to-further-gains-9218b67e.md)
 * 2019-06-27 [Пользователи Coinbase теперь имеют возможности 'пополнения' с Bitcoin Lightning Network](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-users-now-have-recharge-capabilities-with-bitcoin-lightning-network-d970784c.md)
 * 2019-06-26 [Coinbase Pro объявляет о поддержке токена Chainlink](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-announces-support-for-chainlink-token-0283ee51.md)
 * 2019-06-26 [Северное доверие руки от Blockchain решение для Fintech фирмы](https://github.com/theyapapa/cryptonews/blob/ru/northern-trust-hands-off-blockchain-solution-to-fintech-firm-f51b894c.md)
