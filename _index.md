@@ -1,3 +1,4 @@
+* 2019-06-27 [Майк Новограц: Биткоин стабилизируется между $10,000 и $14,000](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-bitcoin-will-stabilize-between-10-000-and-14-000-3f079f09.md)
 * 2019-06-27 [Блокчейн Протокол Polkadot продает 500000 своих токенов, Цена еще не определена](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-protocol-polkadot-sells-500-000-of-its-tokens-price-still-unspecified-31ef95bb.md)
 * 2019-06-27 [Стартап Regtech Coinfirm расследует соответствие XRP положениям AML](https://github.com/theyapapa/cryptonews/blob/ru/regtech-startup-coinfirm-to-investigate-xrps-compliance-with-aml-provisions-10bd9717.md)
 * 2019-06-27 [Бывший Visa Exec-Led Запуска Судов Почти 4000 крипто-карты в неделю](https://github.com/theyapapa/cryptonews/blob/ru/former-visa-exec-led-startup-ships-nearly-4-000-crypto-cards-in-a-week-b80402c6.md)
