@@ -1,3 +1,4 @@
+* 2019-06-27 [Mike Novogratz: Bitcoin se estabilizará entre $10,000 y $14,000](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratz-bitcoin-will-stabilize-between-10-000-and-14-000-3f079f09.md)
 * 2019-06-27 [Blockchain Protocol Polkadot vende 500.000 de sus fichas, precio aún no especificado](https://github.com/theyapapa/cryptonews/blob/es/blockchain-protocol-polkadot-sells-500-000-of-its-tokens-price-still-unspecified-31ef95bb.md)
 * 2019-06-27 [Regtech Startup Coinfirm investigará el cumplimiento de XRP con las disposiciones de AML](https://github.com/theyapapa/cryptonews/blob/es/regtech-startup-coinfirm-to-investigate-xrps-compliance-with-aml-provisions-10bd9717.md)
 * 2019-06-27 [La antigua startup Visa Exec-Led envía casi 4.000 tarjetas Crypto en una semana](https://github.com/theyapapa/cryptonews/blob/es/former-visa-exec-led-startup-ships-nearly-4-000-crypto-cards-in-a-week-b80402c6.md)
