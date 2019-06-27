@@ -1,3 +1,4 @@
+* 2019-06-27 [Regtech 스타트업 코인펌, XRP의 AML 규정 준수 조사](https://github.com/theyapapa/cryptonews/blob/ko/regtech-startup-coinfirm-to-investigate-xrps-compliance-with-aml-provisions-10bd9717.md)
 * 2019-06-27 [전 비자 임원 주도 스타트업 은 일주일에 거의 4,000 암호화 카드를 발송](https://github.com/theyapapa/cryptonews/blob/ko/former-visa-exec-led-startup-ships-nearly-4-000-crypto-cards-in-a-week-b80402c6.md)
 * 2019-06-27 [LG, 국내 인터넷 거대 카카오의 새로운 블록체인 DApp 플랫폼 사용](https://github.com/theyapapa/cryptonews/blob/ko/lg-using-new-blockchain-dapp-platform-from-korean-internet-giant-kakao-7c538e8a.md)
 * 2019-06-27 [비트 코인 가격 보정으로 계속 $13,800 추가 이익의 열쇠가된다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-correction-continues-as-13-800-becomes-key-to-further-gains-9218b67e.md)
