@@ -1,3 +1,4 @@
+* 2019-06-27 [Стартап Regtech Coinfirm расследует соответствие XRP положениям AML](https://github.com/theyapapa/cryptonews/blob/ru/regtech-startup-coinfirm-to-investigate-xrps-compliance-with-aml-provisions-10bd9717.md)
 * 2019-06-27 [Бывший Visa Exec-Led Запуска Судов Почти 4000 крипто-карты в неделю](https://github.com/theyapapa/cryptonews/blob/ru/former-visa-exec-led-startup-ships-nearly-4-000-crypto-cards-in-a-week-b80402c6.md)
 * 2019-06-27 [LG С помощью новой платформы Blockchain DApp от корейского интернет-гиганта Какао](https://github.com/theyapapa/cryptonews/blob/ru/lg-using-new-blockchain-dapp-platform-from-korean-internet-giant-kakao-7c538e8a.md)
 * 2019-06-27 [Биткоин Коррекция цен продолжается, как $ 13800 становится ключом к дальнейшей прибыли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-correction-continues-as-13-800-becomes-key-to-further-gains-9218b67e.md)
