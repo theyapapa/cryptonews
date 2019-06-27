@@ -1,3 +1,4 @@
+* 2019-06-27 [Coinbase 사용자는 이제 비트 코인 번개 네트워크와 '충전'기능을 가지고](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-users-now-have-recharge-capabilities-with-bitcoin-lightning-network-d970784c.md)
 * 2019-06-26 [Coinbase 프로 체인 링크 토큰에 대 한 지원을 발표](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-announces-support-for-chainlink-token-0283ee51.md)
 * 2019-06-26 [노던 트러스트, 핀테크 기업에게 블록체인 솔루션 제공](https://github.com/theyapapa/cryptonews/blob/ko/northern-trust-hands-off-blockchain-solution-to-fintech-firm-f51b894c.md)
 * 2019-06-26 [Chainalysis, 전 FinCen 임원을 기술 고문으로 임명](https://github.com/theyapapa/cryptonews/blob/ko/chainalysis-appoints-former-fincen-officer-as-technical-counsel-b1854b85.md)
