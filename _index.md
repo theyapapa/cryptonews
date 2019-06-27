@@ -1,3 +1,4 @@
+* 2019-06-26 [Coinbase Pro anuncia soporte para el token Chainlink](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-announces-support-for-chainlink-token-0283ee51.md)
 * 2019-06-26 [Northern Trust Hands Off Blockchain Solution to Fintech Firm](https://github.com/theyapapa/cryptonews/blob/es/northern-trust-hands-off-blockchain-solution-to-fintech-firm-f51b894c.md)
 * 2019-06-26 [Chainalysis nombra a ex oficial de FinCen como asesor técnico](https://github.com/theyapapa/cryptonews/blob/es/chainalysis-appoints-former-fincen-officer-as-technical-counsel-b1854b85.md)
 * 2019-06-26 [Imgur recibe $20 Millones de la Startup de Pagos de Ex-Ripple CTO](https://github.com/theyapapa/cryptonews/blob/es/imgur-receives-20m-from-ex-ripple-ctos-payments-startup-feb33e2b.md)
