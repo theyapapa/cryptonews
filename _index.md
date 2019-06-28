@@ -1,3 +1,4 @@
+* 2019-06-28 [Эдвард Сноуден использовал Биткоин для оплаты серверов, используемых в утечке АНБ](https://github.com/theyapapa/cryptonews/blob/ru/edward-snowden-used-bitcoin-to-pay-for-servers-used-in-nsa-leak-765a72e4.md)
 * 2019-06-28 [Биткоин-майнинг сейчас более конкурентоспособным, чем когда-либо, новые данные](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-mining-is-now-more-competitive-than-ever-new-data-shows-962aafe5.md)
 * 2019-06-27 [Чарльз Хоскинсон считает, что Cardano будет преобладать над Весами на развивающихся рынках](https://github.com/theyapapa/cryptonews/blob/ru/charles-hoskinson-thinks-cardano-will-prevail-over-libra-in-emerging-markets-d1b3c148.md)
 * 2019-06-27 [Дом Reps Вопрос FinCEN директор о Весы потенциал для незаконного использования](https://github.com/theyapapa/cryptonews/blob/ru/house-reps-question-fincen-director-on-libras-potential-for-illegal-usage-a901c81d.md)
