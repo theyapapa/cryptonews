@@ -1,3 +1,4 @@
+* 2019-06-28 [에드워드 스노든은 NSA 누출에 사용되는 서버에 대한 비용을 지불하기 위해 비트 코인을 사용](https://github.com/theyapapa/cryptonews/blob/ko/edward-snowden-used-bitcoin-to-pay-for-servers-used-in-nsa-leak-765a72e4.md)
 * 2019-06-28 [비트 코인 마이닝은 이제 그 어느 때보 다 경쟁력, 새로운 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-mining-is-now-more-competitive-than-ever-new-data-shows-962aafe5.md)
 * 2019-06-27 [찰스 호스킨슨, 신흥 시장에서 카르다노가 포진을 이길 것이라고 생각한다](https://github.com/theyapapa/cryptonews/blob/ko/charles-hoskinson-thinks-cardano-will-prevail-over-libra-in-emerging-markets-d1b3c148.md)
 * 2019-06-27 [하원 의원 질문 FinCEN 이사 불법 사용에 대 한 천칭 자리의 잠재력에](https://github.com/theyapapa/cryptonews/blob/ko/house-reps-question-fincen-director-on-libras-potential-for-illegal-usage-a901c81d.md)
