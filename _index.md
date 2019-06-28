@@ -1,3 +1,4 @@
+* 2019-06-27 [찰스 호스킨슨, 신흥 시장에서 카르다노가 포진을 이길 것이라고 생각한다](https://github.com/theyapapa/cryptonews/blob/ko/charles-hoskinson-thinks-cardano-will-prevail-over-libra-in-emerging-markets-d1b3c148.md)
 * 2019-06-27 [하원 의원 질문 FinCEN 이사 불법 사용에 대 한 천칭 자리의 잠재력에](https://github.com/theyapapa/cryptonews/blob/ko/house-reps-question-fincen-director-on-libras-potential-for-illegal-usage-a901c81d.md)
 * 2019-06-27 [마이크 Novogratz: 비트 코인 사이 안정화됩니다 $10,000 과 $14,000](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-bitcoin-will-stabilize-between-10-000-and-14-000-3f079f09.md)
 * 2019-06-27 [블록 체인 프로토콜 Polkadot는 500,000 개의 토큰을 판매하며 가격은 여전히 지정되지 않았습니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-protocol-polkadot-sells-500-000-of-its-tokens-price-still-unspecified-31ef95bb.md)
