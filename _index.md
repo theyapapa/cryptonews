@@ -1,3 +1,4 @@
+* 2019-06-28 [Kik manos fuera defender Crypto Frund a la asociación Blockchain](https://github.com/theyapapa/cryptonews/blob/es/kik-hands-off-defend-crypto-frund-to-the-blockchain-association-91a4d1bd.md)
 * 2019-06-28 [Reserve Bank of India Desarrollo de la plataforma bancaria Blockchain](https://github.com/theyapapa/cryptonews/blob/es/reserve-bank-of-india-developing-blockchain-banking-platform-1419d0c7.md)
 * 2019-06-28 [Coinbase publica los principales hallazgos sobre la concienciación y adopción de criptoen en EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/coinbase-releases-key-findings-on-crypto-awareness-and-adoption-in-us-9c9e554b.md)
 * 2019-06-28 [Steve Forbes le dice a Zuckerberg: Use oro para respaldar a Libra, llámelo el 'Mark'](https://github.com/theyapapa/cryptonews/blob/es/steve-forbes-tells-zuckerberg-use-gold-to-back-libra-call-it-the-mark-ad3130f3.md)
