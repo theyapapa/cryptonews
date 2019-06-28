@@ -1,3 +1,4 @@
+* 2019-06-27 [Charles Hoskinson cree que Cardano prevalecerá sobre Libra en los mercados emergentes](https://github.com/theyapapa/cryptonews/blob/es/charles-hoskinson-thinks-cardano-will-prevail-over-libra-in-emerging-markets-d1b3c148.md)
 * 2019-06-27 [Representantes de la Cámara Pregunta FinCEN Director sobre el Potencial de Libra para uso ilegal](https://github.com/theyapapa/cryptonews/blob/es/house-reps-question-fincen-director-on-libras-potential-for-illegal-usage-a901c81d.md)
 * 2019-06-27 [Mike Novogratz: Bitcoin se estabilizará entre $10,000 y $14,000](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratz-bitcoin-will-stabilize-between-10-000-and-14-000-3f079f09.md)
 * 2019-06-27 [Blockchain Protocol Polkadot vende 500.000 de sus fichas, precio aún no especificado](https://github.com/theyapapa/cryptonews/blob/es/blockchain-protocol-polkadot-sells-500-000-of-its-tokens-price-still-unspecified-31ef95bb.md)
