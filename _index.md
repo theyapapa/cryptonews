@@ -1,3 +1,4 @@
+* 2019-06-28 [Los mercados de criptoson son verdes en todos los ámbitos, ya que Bitcoin cruza $12,000](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-are-green-across-the-board-as-bitcoin-crosses-12-000-9e86f1a2.md)
 * 2019-06-28 [Kik manos fuera defender Crypto Frund a la asociación Blockchain](https://github.com/theyapapa/cryptonews/blob/es/kik-hands-off-defend-crypto-frund-to-the-blockchain-association-91a4d1bd.md)
 * 2019-06-28 [Reserve Bank of India Desarrollo de la plataforma bancaria Blockchain](https://github.com/theyapapa/cryptonews/blob/es/reserve-bank-of-india-developing-blockchain-banking-platform-1419d0c7.md)
 * 2019-06-28 [Coinbase publica los principales hallazgos sobre la concienciación y adopción de criptoen en EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/coinbase-releases-key-findings-on-crypto-awareness-and-adoption-in-us-9c9e554b.md)
