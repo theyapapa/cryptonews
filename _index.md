@@ -1,3 +1,4 @@
+* 2019-06-28 [비트 코인이 교차로 암호 시장은 보드를 통해 녹색입니다 $12,000](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-are-green-across-the-board-as-bitcoin-crosses-12-000-9e86f1a2.md)
 * 2019-06-28 [Kik 손 떨어져 Blockchain 협회에 암호화 Frund방어](https://github.com/theyapapa/cryptonews/blob/ko/kik-hands-off-defend-crypto-frund-to-the-blockchain-association-91a4d1bd.md)
 * 2019-06-28 [인도 중앙은행, 블록체인 뱅킹 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/reserve-bank-of-india-developing-blockchain-banking-platform-1419d0c7.md)
 * 2019-06-28 [Coinbase는 미국에서 암호화 인식 및 채택에 대한 주요 연구 결과를 발표](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-releases-key-findings-on-crypto-awareness-and-adoption-in-us-9c9e554b.md)
