@@ -1,3 +1,4 @@
+* 2019-06-28 [Edward Snowden usó Bitcoin para pagar por servidores utilizados en la fuga de la NSA](https://github.com/theyapapa/cryptonews/blob/es/edward-snowden-used-bitcoin-to-pay-for-servers-used-in-nsa-leak-765a72e4.md)
 * 2019-06-28 [La minería Bitcoin es ahora más competitiva que nunca, nuevos datos muestran](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-mining-is-now-more-competitive-than-ever-new-data-shows-962aafe5.md)
 * 2019-06-27 [Charles Hoskinson cree que Cardano prevalecerá sobre Libra en los mercados emergentes](https://github.com/theyapapa/cryptonews/blob/es/charles-hoskinson-thinks-cardano-will-prevail-over-libra-in-emerging-markets-d1b3c148.md)
 * 2019-06-27 [Representantes de la Cámara Pregunta FinCEN Director sobre el Potencial de Libra para uso ilegal](https://github.com/theyapapa/cryptonews/blob/es/house-reps-question-fincen-director-on-libras-potential-for-illegal-usage-a901c81d.md)
