@@ -1,3 +1,4 @@
+* 2019-06-28 [인도 중앙은행, 블록체인 뱅킹 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/reserve-bank-of-india-developing-blockchain-banking-platform-1419d0c7.md)
 * 2019-06-28 [Coinbase는 미국에서 암호화 인식 및 채택에 대한 주요 연구 결과를 발표](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-releases-key-findings-on-crypto-awareness-and-adoption-in-us-9c9e554b.md)
 * 2019-06-28 [스티브 포브스는 주커 버그를 말한다: 다시 천칭 자리에 금을 사용 하 여, 그것을 호출 ' 마크'](https://github.com/theyapapa/cryptonews/blob/ko/steve-forbes-tells-zuckerberg-use-gold-to-back-libra-call-it-the-mark-ad3130f3.md)
 * 2019-06-28 [에드워드 스노든은 NSA 누출에 사용되는 서버에 대한 비용을 지불하기 위해 비트 코인을 사용](https://github.com/theyapapa/cryptonews/blob/ko/edward-snowden-used-bitcoin-to-pay-for-servers-used-in-nsa-leak-765a72e4.md)
