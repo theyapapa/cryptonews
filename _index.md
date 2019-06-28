@@ -1,3 +1,4 @@
+* 2019-06-28 [Coinbase выпускает ключевые выводы по криптоосведомленности и принятия в США](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-releases-key-findings-on-crypto-awareness-and-adoption-in-us-9c9e554b.md)
 * 2019-06-28 [Стив Форбс говорит Цукерберг: Использовать золото для спины Весы, назовите его "Марк"](https://github.com/theyapapa/cryptonews/blob/ru/steve-forbes-tells-zuckerberg-use-gold-to-back-libra-call-it-the-mark-ad3130f3.md)
 * 2019-06-28 [Эдвард Сноуден использовал Биткоин для оплаты серверов, используемых в утечке АНБ](https://github.com/theyapapa/cryptonews/blob/ru/edward-snowden-used-bitcoin-to-pay-for-servers-used-in-nsa-leak-765a72e4.md)
 * 2019-06-28 [Биткоин-майнинг сейчас более конкурентоспособным, чем когда-либо, новые данные](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-mining-is-now-more-competitive-than-ever-new-data-shows-962aafe5.md)
