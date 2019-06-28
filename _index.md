@@ -1,3 +1,4 @@
+* 2019-06-28 [Coinbase publica los principales hallazgos sobre la concienciación y adopción de criptoen en EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/coinbase-releases-key-findings-on-crypto-awareness-and-adoption-in-us-9c9e554b.md)
 * 2019-06-28 [Steve Forbes le dice a Zuckerberg: Use oro para respaldar a Libra, llámelo el 'Mark'](https://github.com/theyapapa/cryptonews/blob/es/steve-forbes-tells-zuckerberg-use-gold-to-back-libra-call-it-the-mark-ad3130f3.md)
 * 2019-06-28 [Edward Snowden usó Bitcoin para pagar por servidores utilizados en la fuga de la NSA](https://github.com/theyapapa/cryptonews/blob/es/edward-snowden-used-bitcoin-to-pay-for-servers-used-in-nsa-leak-765a72e4.md)
 * 2019-06-28 [La minería Bitcoin es ahora más competitiva que nunca, nuevos datos muestran](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-mining-is-now-more-competitive-than-ever-new-data-shows-962aafe5.md)
