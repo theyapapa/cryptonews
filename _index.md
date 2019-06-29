@@ -1,3 +1,4 @@
+* 2019-06-29 [Bitcoin hover sobre $11,800 como top Cryptos Ver ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hover-over-11-800-as-top-cryptos-see-gains-04b71c2b.md)
 * 2019-06-29 [Grupo de Asociaciones Comerciales de Activos Digitales establecerá la Asociación Global de Criptodivisas](https://github.com/theyapapa/cryptonews/blob/es/group-of-digital-asset-trade-associations-to-establish-global-cryptocurrency-association-9ad18b59.md)
 * 2019-06-28 [ El FMI predice que los bancos centrales emitirán monedas digitales](https://github.com/theyapapa/cryptonews/blob/es/imf-predicts-central-banks-to-issue-digital-currencies-3f8fd18c.md)
 * 2019-06-28 [Los mercados de criptoson son verdes en todos los ámbitos, ya que Bitcoin cruza $12,000](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-are-green-across-the-board-as-bitcoin-crosses-12-000-9e86f1a2.md)
