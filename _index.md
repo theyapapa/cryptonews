@@ -1,3 +1,4 @@
+* 2019-06-29 [글로벌 암호 화폐 협회를 설립하는 디지털 자산 거래 협회의 그룹](https://github.com/theyapapa/cryptonews/blob/ko/group-of-digital-asset-trade-associations-to-establish-global-cryptocurrency-association-9ad18b59.md)
 * 2019-06-28 [ IMF, 중앙은행이 디지털 통화 발행 을 예측](https://github.com/theyapapa/cryptonews/blob/ko/imf-predicts-central-banks-to-issue-digital-currencies-3f8fd18c.md)
 * 2019-06-28 [비트 코인이 교차로 암호 시장은 보드를 통해 녹색입니다 $12,000](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-are-green-across-the-board-as-bitcoin-crosses-12-000-9e86f1a2.md)
 * 2019-06-28 [Kik 손 떨어져 Blockchain 협회에 암호화 Frund방어](https://github.com/theyapapa/cryptonews/blob/ko/kik-hands-off-defend-crypto-frund-to-the-blockchain-association-91a4d1bd.md)
