@@ -1,3 +1,4 @@
+* 2019-06-28 [ МВФ прогнозирует, что центральные банки выпустят цифровые валюты](https://github.com/theyapapa/cryptonews/blob/ru/imf-predicts-central-banks-to-issue-digital-currencies-3f8fd18c.md)
 * 2019-06-28 [Крипто Рынки зеленый через доску, как Bitcoin кресты $ 12000](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-are-green-across-the-board-as-bitcoin-crosses-12-000-9e86f1a2.md)
 * 2019-06-28 [Кик руки Off Защита Крипто Фрунд в Blockchain ассоциации](https://github.com/theyapapa/cryptonews/blob/ru/kik-hands-off-defend-crypto-frund-to-the-blockchain-association-91a4d1bd.md)
 * 2019-06-28 [Резервный банк Индии развивает блокчейн-банковскую платформу](https://github.com/theyapapa/cryptonews/blob/ru/reserve-bank-of-india-developing-blockchain-banking-platform-1419d0c7.md)
