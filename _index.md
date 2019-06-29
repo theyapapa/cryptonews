@@ -1,3 +1,4 @@
+* 2019-06-29 [Las transacciones diarias de Ethereum superan el millón, una primera desde mayo de 2018](https://github.com/theyapapa/cryptonews/blob/es/daily-ethereum-transactions-exceed-one-million-a-first-since-may-2018-597dc58d.md)
 * 2019-06-29 [Bitcoin hover sobre $11,800 como top Cryptos Ver ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hover-over-11-800-as-top-cryptos-see-gains-04b71c2b.md)
 * 2019-06-29 [Grupo de Asociaciones Comerciales de Activos Digitales establecerá la Asociación Global de Criptodivisas](https://github.com/theyapapa/cryptonews/blob/es/group-of-digital-asset-trade-associations-to-establish-global-cryptocurrency-association-9ad18b59.md)
 * 2019-06-28 [ El FMI predice que los bancos centrales emitirán monedas digitales](https://github.com/theyapapa/cryptonews/blob/es/imf-predicts-central-banks-to-issue-digital-currencies-3f8fd18c.md)
