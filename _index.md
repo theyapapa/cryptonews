@@ -1,3 +1,4 @@
+* 2019-06-29 [Bitcoin Hover Over $11,800 как Top Cryptos See Gains](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hover-over-11-800-as-top-cryptos-see-gains-04b71c2b.md)
 * 2019-06-29 [Группа ассоциаций по торговле цифровыми активами создаст Глобальную ассоциацию криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/group-of-digital-asset-trade-associations-to-establish-global-cryptocurrency-association-9ad18b59.md)
 * 2019-06-28 [ МВФ прогнозирует, что центральные банки выпустят цифровые валюты](https://github.com/theyapapa/cryptonews/blob/ru/imf-predicts-central-banks-to-issue-digital-currencies-3f8fd18c.md)
 * 2019-06-28 [Крипто Рынки зеленый через доску, как Bitcoin кресты $ 12000](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-are-green-across-the-board-as-bitcoin-crosses-12-000-9e86f1a2.md)
