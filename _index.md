@@ -1,3 +1,4 @@
+* 2019-06-29 [비트 코인 호버 위에 $11,800 최고 암호로 이익을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hover-over-11-800-as-top-cryptos-see-gains-04b71c2b.md)
 * 2019-06-29 [글로벌 암호 화폐 협회를 설립하는 디지털 자산 거래 협회의 그룹](https://github.com/theyapapa/cryptonews/blob/ko/group-of-digital-asset-trade-associations-to-establish-global-cryptocurrency-association-9ad18b59.md)
 * 2019-06-28 [ IMF, 중앙은행이 디지털 통화 발행 을 예측](https://github.com/theyapapa/cryptonews/blob/ko/imf-predicts-central-banks-to-issue-digital-currencies-3f8fd18c.md)
 * 2019-06-28 [비트 코인이 교차로 암호 시장은 보드를 통해 녹색입니다 $12,000](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-are-green-across-the-board-as-bitcoin-crosses-12-000-9e86f1a2.md)
