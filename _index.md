@@ -1,3 +1,4 @@
+* 2019-06-30 [가격 급등 가운데 암호 화폐 모바일 앱 다운로드 실속: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-mobile-app-downloads-stall-amid-price-surge-report-605dc46b.md)
 * 2019-06-30 [블록체인으로 변화되고 있는 상위 10대 산업](https://github.com/theyapapa/cryptonews/blob/ko/top-10-industries-being-transformed-by-blockchain-6fb7a629.md)
 * 2019-06-29 [Binance Labs의 파트너는 페이스 북의 항현수로 암호화에 대한 진입에 대해 낙관론을 표명합니다.](https://github.com/theyapapa/cryptonews/blob/ko/a-partner-at-binance-labs-expresses-optimism-over-facebooks-entry-into-crypto-with-libra-c86b47b6.md)
 * 2019-06-29 [일일 이더리움 거래 100만 건 돌파, 2018년 5월 이후 첫 거래](https://github.com/theyapapa/cryptonews/blob/ko/daily-ethereum-transactions-exceed-one-million-a-first-since-may-2018-597dc58d.md)
