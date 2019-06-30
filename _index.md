@@ -1,3 +1,4 @@
+* 2019-06-30 [Top-10 Industrias transformadas por Blockchain](https://github.com/theyapapa/cryptonews/blob/es/top-10-industries-being-transformed-by-blockchain-6fb7a629.md)
 * 2019-06-29 [Un socio de Binance Labs expresa optimismo sobre la entrada de Facebook en Crypto con Libra](https://github.com/theyapapa/cryptonews/blob/es/a-partner-at-binance-labs-expresses-optimism-over-facebooks-entry-into-crypto-with-libra-c86b47b6.md)
 * 2019-06-29 [Las transacciones diarias de Ethereum superan el millón, una primera desde mayo de 2018](https://github.com/theyapapa/cryptonews/blob/es/daily-ethereum-transactions-exceed-one-million-a-first-since-may-2018-597dc58d.md)
 * 2019-06-29 [Bitcoin hover sobre $11,800 como top Cryptos Ver ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hover-over-11-800-as-top-cryptos-see-gains-04b71c2b.md)
