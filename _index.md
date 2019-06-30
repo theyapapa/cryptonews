@@ -1,3 +1,4 @@
+* 2019-06-29 [Binance Labs의 파트너는 페이스 북의 항현수로 암호화에 대한 진입에 대해 낙관론을 표명합니다.](https://github.com/theyapapa/cryptonews/blob/ko/a-partner-at-binance-labs-expresses-optimism-over-facebooks-entry-into-crypto-with-libra-c86b47b6.md)
 * 2019-06-29 [일일 이더리움 거래 100만 건 돌파, 2018년 5월 이후 첫 거래](https://github.com/theyapapa/cryptonews/blob/ko/daily-ethereum-transactions-exceed-one-million-a-first-since-may-2018-597dc58d.md)
 * 2019-06-29 [비트 코인 호버 위에 $11,800 최고 암호로 이익을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hover-over-11-800-as-top-cryptos-see-gains-04b71c2b.md)
 * 2019-06-29 [글로벌 암호 화폐 협회를 설립하는 디지털 자산 거래 협회의 그룹](https://github.com/theyapapa/cryptonews/blob/ko/group-of-digital-asset-trade-associations-to-establish-global-cryptocurrency-association-9ad18b59.md)
