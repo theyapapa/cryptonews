@@ -1,3 +1,4 @@
+* 2019-07-01 [Comprar Bitcoin ha sido rentable el 98,2% de los días desde su creación](https://github.com/theyapapa/cryptonews/blob/es/buying-bitcoin-has-been-profitable-982-of-the-days-since-creation-8c742b45.md)
 * 2019-07-01 [Bitcoin Precio Clings a $11,000 Mientras los analistas se preparan para 40% Corrección de precios](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-under-11-000-as-analysts-prepare-for-40-price-correction-5c1dd9a0.md)
 * 2019-07-01 [Bitfinex Hack Nuevo Twist: Dos arrestados en Israel después de $1.5M movido](https://github.com/theyapapa/cryptonews/blob/es/bitfinex-hack-new-twist-two-arrested-in-israel-after-15m-moved-7f7d80f0.md)
 * 2019-06-30 [Criptomoneda Mobile App Descargas Stall En medio de aumento de precios: Informe](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-mobile-app-downloads-stall-amid-price-surge-report-605dc46b.md)
