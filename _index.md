@@ -1,3 +1,4 @@
+* 2019-07-01 [Криптобиржа возобновляет спонсорство команды Премьер-лиги и готовится к расширению США](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-renews-sponsorship-of-premier-league-team-and-prepares-for-us-expansion-8b7104fe.md)
 * 2019-07-01 [Покупка Биткоина была прибыльной 98,2% дней с момента создания](https://github.com/theyapapa/cryptonews/blob/ru/buying-bitcoin-has-been-profitable-982-of-the-days-since-creation-8c742b45.md)
 * 2019-07-01 [Цена Bitcoin цепляется за $11,000, так как аналитики готовятся к 40% коррекции цен](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-under-11-000-as-analysts-prepare-for-40-price-correction-5c1dd9a0.md)
 * 2019-07-01 [Bitfinex Hack Новый Твист: Два арестованных в Израиле после $ 1,5 m переехал](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-hack-new-twist-two-arrested-in-israel-after-15m-moved-7f7d80f0.md)
