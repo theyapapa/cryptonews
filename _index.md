@@ -1,3 +1,4 @@
+* 2019-07-01 [Цена Bitcoin цепляется за $11,000, так как аналитики готовятся к 40% коррекции цен](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-under-11-000-as-analysts-prepare-for-40-price-correction-5c1dd9a0.md)
 * 2019-07-01 [Bitfinex Hack Новый Твист: Два арестованных в Израиле после $ 1,5 m переехал](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-hack-new-twist-two-arrested-in-israel-after-15m-moved-7f7d80f0.md)
 * 2019-06-30 [Криптовалюта Мобильное приложение Загрузки Stall на фоне роста цен: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-mobile-app-downloads-stall-amid-price-surge-report-605dc46b.md)
 * 2019-06-30 [Топ-10 отраслей, трансформированных с помощью блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/top-10-industries-being-transformed-by-blockchain-6fb7a629.md)
