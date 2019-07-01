@@ -1,3 +1,4 @@
+* 2019-07-01 [와이즈 등급: 라이트코인 '우수' 채택 및 투자 수익률](https://github.com/theyapapa/cryptonews/blob/ko/weiss-ratings-litecoin-excellent-in-adoption-and-investment-returns-daf07cf2.md)
 * 2019-07-01 [Huobi, 기업 블록체인 구축을 위한 '금융 체인' 공개](https://github.com/theyapapa/cryptonews/blob/ko/huobi-unveils-finance-chain-for-building-enterprise-blockchains-0aaf1e68.md)
 * 2019-07-01 [한국의 두 번째로 큰 도시는 로컬 암호 화폐를 만들고 싶어](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-second-biggest-city-wants-to-create-a-local-cryptocurrency-7a6360ff.md)
 * 2019-07-01 [크립토 익스체인지, 프리미어 리그 팀 후원 갱신 및 미국 확장 준비](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-renews-sponsorship-of-premier-league-team-and-prepares-for-us-expansion-8b7104fe.md)
