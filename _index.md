@@ -1,3 +1,4 @@
+* 2019-07-01 [Макс Кейзер: Феномен Альткоина закончен, значение будет стекать в Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/max-keiser-altcoin-phenomenon-finished-value-will-flow-into-bitcoin-48a1d8bc.md)
 * 2019-07-01 [Чиновник: Россия не будет вводить отдельный регламент для Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/official-russia-will-not-introduce-separate-regulation-for-facebooks-libra-706c13d7.md)
 * 2019-07-01 [Вайс Рейтинги: Litecoin 'Отлично' в принятии и инвестиционной отдачи](https://github.com/theyapapa/cryptonews/blob/ru/weiss-ratings-litecoin-excellent-in-adoption-and-investment-returns-daf07cf2.md)
 * 2019-07-01 [Huobi представляет «финансовую цепь» для создания корпоративных блокчейнов](https://github.com/theyapapa/cryptonews/blob/ru/huobi-unveils-finance-chain-for-building-enterprise-blockchains-0aaf1e68.md)
