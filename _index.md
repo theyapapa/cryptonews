@@ -1,3 +1,4 @@
+* 2019-07-01 [Funcionario: Rusia no introducirá una regulación separada para la Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/official-russia-will-not-introduce-separate-regulation-for-facebooks-libra-706c13d7.md)
 * 2019-07-01 [Calificaciones de Weiss: Litecoin 'Excelente' en Adopción y Retorno de Inversión](https://github.com/theyapapa/cryptonews/blob/es/weiss-ratings-litecoin-excellent-in-adoption-and-investment-returns-daf07cf2.md)
 * 2019-07-01 [Huobi presenta 'Finance Chain' para construir cadenas de bloques empresariales](https://github.com/theyapapa/cryptonews/blob/es/huobi-unveils-finance-chain-for-building-enterprise-blockchains-0aaf1e68.md)
 * 2019-07-01 [La segunda ciudad más grande de Corea del Sur quiere crear una criptomoneda local](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-second-biggest-city-wants-to-create-a-local-cryptocurrency-7a6360ff.md)
