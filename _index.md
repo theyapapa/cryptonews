@@ -1,3 +1,4 @@
+* 2019-07-01 [FATF의 새로운 지침에 대한 몇 가지 도전은 '모두가 행복하지만 우리는 이동해야'.](https://github.com/theyapapa/cryptonews/blob/ko/not-everyone-is-happy-but-we-have-to-move-on-some-challenges-to-the-fatfs-new-guidance-b90f5664.md)
 * 2019-07-01 [맥스 카이저: 알트코인 현상완료, 가치는 비트코인으로 흘러갑니다](https://github.com/theyapapa/cryptonews/blob/ko/max-keiser-altcoin-phenomenon-finished-value-will-flow-into-bitcoin-48a1d8bc.md)
 * 2019-07-01 [공식 : 러시아는 페이스 북의 선관에 대한 별도의 규정을 도입하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/official-russia-will-not-introduce-separate-regulation-for-facebooks-libra-706c13d7.md)
 * 2019-07-01 [와이즈 등급: 라이트코인 '우수' 채택 및 투자 수익률](https://github.com/theyapapa/cryptonews/blob/ko/weiss-ratings-litecoin-excellent-in-adoption-and-investment-returns-daf07cf2.md)
