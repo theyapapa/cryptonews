@@ -1,3 +1,4 @@
+* 2019-07-01 [Bitfinex Hack Новый Твист: Два арестованных в Израиле после $ 1,5 m переехал](https://github.com/theyapapa/cryptonews/blob/ru/bitfinex-hack-new-twist-two-arrested-in-israel-after-15m-moved-7f7d80f0.md)
 * 2019-06-30 [Криптовалюта Мобильное приложение Загрузки Stall на фоне роста цен: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-mobile-app-downloads-stall-amid-price-surge-report-605dc46b.md)
 * 2019-06-30 [Топ-10 отраслей, трансформированных с помощью блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/top-10-industries-being-transformed-by-blockchain-6fb7a629.md)
 * 2019-06-29 [Партнер В Binance Labs выражает оптимизм по поводу вступления Facebook в Крипто с Весами](https://github.com/theyapapa/cryptonews/blob/ru/a-partner-at-binance-labs-expresses-optimism-over-facebooks-entry-into-crypto-with-libra-c86b47b6.md)
