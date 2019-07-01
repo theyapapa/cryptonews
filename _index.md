@@ -1,3 +1,4 @@
+* 2019-07-01 [비트 코인 가격에 집착 $11,000 분석가준비로 40% 가격 수정](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-under-11-000-as-analysts-prepare-for-40-price-correction-5c1dd9a0.md)
 * 2019-07-01 [Bitfinex 해킹 새로운 트위스트: 두 후 이스라엘에서 체포 $1.5M 이동](https://github.com/theyapapa/cryptonews/blob/ko/bitfinex-hack-new-twist-two-arrested-in-israel-after-15m-moved-7f7d80f0.md)
 * 2019-06-30 [가격 급등 가운데 암호 화폐 모바일 앱 다운로드 실속: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-mobile-app-downloads-stall-amid-price-surge-report-605dc46b.md)
 * 2019-06-30 [블록체인으로 변화되고 있는 상위 10대 산업](https://github.com/theyapapa/cryptonews/blob/ko/top-10-industries-being-transformed-by-blockchain-6fb7a629.md)
