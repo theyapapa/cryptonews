@@ -1,3 +1,4 @@
+* 2019-07-01 [Calificaciones de Weiss: Litecoin 'Excelente' en Adopción y Retorno de Inversión](https://github.com/theyapapa/cryptonews/blob/es/weiss-ratings-litecoin-excellent-in-adoption-and-investment-returns-daf07cf2.md)
 * 2019-07-01 [Huobi presenta 'Finance Chain' para construir cadenas de bloques empresariales](https://github.com/theyapapa/cryptonews/blob/es/huobi-unveils-finance-chain-for-building-enterprise-blockchains-0aaf1e68.md)
 * 2019-07-01 [La segunda ciudad más grande de Corea del Sur quiere crear una criptomoneda local](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-second-biggest-city-wants-to-create-a-local-cryptocurrency-7a6360ff.md)
 * 2019-07-01 [Crypto Exchange renueva el patrocinio del equipo de la Premier League y se prepara para la expansión de EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-renews-sponsorship-of-premier-league-team-and-prepares-for-us-expansion-8b7104fe.md)
