@@ -1,3 +1,4 @@
+* 2019-07-01 [Вайс Рейтинги: Litecoin 'Отлично' в принятии и инвестиционной отдачи](https://github.com/theyapapa/cryptonews/blob/ru/weiss-ratings-litecoin-excellent-in-adoption-and-investment-returns-daf07cf2.md)
 * 2019-07-01 [Huobi представляет «финансовую цепь» для создания корпоративных блокчейнов](https://github.com/theyapapa/cryptonews/blob/ru/huobi-unveils-finance-chain-for-building-enterprise-blockchains-0aaf1e68.md)
 * 2019-07-01 [Второй по величине город Кореи хочет создать местную криптовалюту](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-second-biggest-city-wants-to-create-a-local-cryptocurrency-7a6360ff.md)
 * 2019-07-01 [Криптобиржа возобновляет спонсорство команды Премьер-лиги и готовится к расширению США](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-renews-sponsorship-of-premier-league-team-and-prepares-for-us-expansion-8b7104fe.md)
