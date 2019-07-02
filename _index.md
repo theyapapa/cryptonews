@@ -1,3 +1,4 @@
+* 2019-07-02 [Encuesta: Es poco probable que Stablecoin Libra de Facebook se convierta en mainstream](https://github.com/theyapapa/cryptonews/blob/es/survey-facebooks-stablecoin-libra-unlikely-to-become-mainstream-5754e578.md)
 * 2019-07-02 [El regulador británico FCA prepara una posible prohibición de CFDs criptográficos para inversores minoristas](https://github.com/theyapapa/cryptonews/blob/es/british-regulator-fca-prepares-a-potential-ban-of-crypto-cfds-for-retail-investors-81a375cb.md)
 * 2019-07-02 [La Fundación IOTA lanza Trinity, una nueva cartera de software para tokens IOTA](https://github.com/theyapapa/cryptonews/blob/es/iota-foundation-launches-trinity-a-new-software-wallet-for-iota-tokens-328d1cf0.md)
 * 2019-07-02 [El grupo SK de telecomunicaciones más grande de Corea del Sur invierte 10 millones de dólares en ConsenSys](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-largest-telecom-sk-group-invests-10m-in-consensys-b086ae6a.md)
