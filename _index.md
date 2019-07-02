@@ -1,3 +1,4 @@
+* 2019-07-02 [Más Tether 'reflectante' de dólares reales que vienen en Bitcoin, dice Kraken CEO](https://github.com/theyapapa/cryptonews/blob/es/more-tether-reflective-of-real-dollars-coming-into-bitcoin-says-kraken-ceo-94bc2771.md)
 * 2019-07-02 [Vulnerabilidad de Mt. Gox encubierta por el fundador McCaleb, la demanda alega](https://github.com/theyapapa/cryptonews/blob/es/mt-gox-vulnerability-covered-up-by-founder-mccaleb-lawsuit-alleges-008ba95e.md)
 * 2019-07-01 [Blockchain conserva el papel nominal en Cleveland Tech Hub](https://github.com/theyapapa/cryptonews/blob/es/blockchain-retains-nominal-role-in-cleveland-tech-hub-f0626db2.md)
 * 2019-07-01 [CME Bitcoin Futures Record $1.7 billion High in Notional Value](https://github.com/theyapapa/cryptonews/blob/es/cme-bitcoin-futures-record-17-billion-high-in-notional-value-6a2246e0.md)
