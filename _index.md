@@ -1,3 +1,4 @@
+* 2019-07-02 [영국 규제 기관 FCA는 소매 투자자를위한 암호화 CFD의 잠재적 인 금지를 준비합니다.](https://github.com/theyapapa/cryptonews/blob/ko/british-regulator-fca-prepares-a-potential-ban-of-crypto-cfds-for-retail-investors-81a375cb.md)
 * 2019-07-02 [IOTA 재단, IOTA 토큰을 위한 새로운 소프트웨어 지갑인 트리니티 출시](https://github.com/theyapapa/cryptonews/blob/ko/iota-foundation-launches-trinity-a-new-software-wallet-for-iota-tokens-328d1cf0.md)
 * 2019-07-02 [한국 최대 통신SK그룹, 컨젠시에 10M 투자](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-largest-telecom-sk-group-invests-10m-in-consensys-b086ae6a.md)
 * 2019-07-02 [네슬레, 블록체인 공급망 추적 파일럿 프로그램 공개](https://github.com/theyapapa/cryptonews/blob/ko/nestle-reveals-blockchain-supply-chain-tracking-pilot-program-0df38759.md)
