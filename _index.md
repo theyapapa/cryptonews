@@ -1,3 +1,4 @@
+* 2019-07-02 [Nestlé revela el programa piloto de seguimiento de la cadena de suministro de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/nestle-reveals-blockchain-supply-chain-tracking-pilot-program-0df38759.md)
 * 2019-07-02 [Más Tether 'reflectante' de dólares reales que vienen en Bitcoin, dice Kraken CEO](https://github.com/theyapapa/cryptonews/blob/es/more-tether-reflective-of-real-dollars-coming-into-bitcoin-says-kraken-ceo-94bc2771.md)
 * 2019-07-02 [Vulnerabilidad de Mt. Gox encubierta por el fundador McCaleb, la demanda alega](https://github.com/theyapapa/cryptonews/blob/es/mt-gox-vulnerability-covered-up-by-founder-mccaleb-lawsuit-alleges-008ba95e.md)
 * 2019-07-01 [Blockchain conserva el papel nominal en Cleveland Tech Hub](https://github.com/theyapapa/cryptonews/blob/es/blockchain-retains-nominal-role-in-cleveland-tech-hub-f0626db2.md)
