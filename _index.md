@@ -1,3 +1,4 @@
+* 2019-07-02 [Фонд IOTA запускает Trinity, новый программный кошелек для токенов IOTA](https://github.com/theyapapa/cryptonews/blob/ru/iota-foundation-launches-trinity-a-new-software-wallet-for-iota-tokens-328d1cf0.md)
 * 2019-07-02 [Крупнейшая телекоммуникационная SK Group в Корее инвестирует $10 млн в ConsenSys](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-largest-telecom-sk-group-invests-10m-in-consensys-b086ae6a.md)
 * 2019-07-02 [Нестле показывает Blockchain цепи цепи отслеживания экспериментальной программы](https://github.com/theyapapa/cryptonews/blob/ru/nestle-reveals-blockchain-supply-chain-tracking-pilot-program-0df38759.md)
 * 2019-07-02 [Подробнее Tether 'Отражение' реальных долларов В ближайшие Bitcoin, говорит Кракен генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/more-tether-reflective-of-real-dollars-coming-into-bitcoin-says-kraken-ceo-94bc2771.md)
