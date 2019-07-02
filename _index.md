@@ -1,3 +1,4 @@
+* 2019-07-02 [Mt. Gox Уязвимость скрыты основатель Маккалеб, иск утверждает,](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-vulnerability-covered-up-by-founder-mccaleb-lawsuit-alleges-008ba95e.md)
 * 2019-07-01 [Блокчейн сохраняет номинальную роль в Кливлендском техническом центре](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-retains-nominal-role-in-cleveland-tech-hub-f0626db2.md)
 * 2019-07-01 [CME Bitcoin Фьючерсы Запись $ 1,7 млрд высокой в номинальной стоимости](https://github.com/theyapapa/cryptonews/blob/ru/cme-bitcoin-futures-record-17-billion-high-in-notional-value-6a2246e0.md)
 * 2019-07-01 [«Не все счастливы, но мы должны двигаться дальше», некоторые вызовы новому руководству FATF](https://github.com/theyapapa/cryptonews/blob/ru/not-everyone-is-happy-but-we-have-to-move-on-some-challenges-to-the-fatfs-new-guidance-b90f5664.md)
