@@ -1,3 +1,4 @@
+* 2019-07-01 [블록체인은 클리블랜드 테크 허브에서 명목상 역할을 유지합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-retains-nominal-role-in-cleveland-tech-hub-f0626db2.md)
 * 2019-07-01 [CME 비트코인 선물, 명목 가치 17억 달러 기록](https://github.com/theyapapa/cryptonews/blob/ko/cme-bitcoin-futures-record-17-billion-high-in-notional-value-6a2246e0.md)
 * 2019-07-01 [FATF의 새로운 지침에 대한 몇 가지 도전은 '모두가 행복하지만 우리는 이동해야'.](https://github.com/theyapapa/cryptonews/blob/ko/not-everyone-is-happy-but-we-have-to-move-on-some-challenges-to-the-fatfs-new-guidance-b90f5664.md)
 * 2019-07-01 [맥스 카이저: 알트코인 현상완료, 가치는 비트코인으로 흘러갑니다](https://github.com/theyapapa/cryptonews/blob/ko/max-keiser-altcoin-phenomenon-finished-value-will-flow-into-bitcoin-48a1d8bc.md)
