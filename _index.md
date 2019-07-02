@@ -1,3 +1,4 @@
+* 2019-07-02 [IOTA 재단, IOTA 토큰을 위한 새로운 소프트웨어 지갑인 트리니티 출시](https://github.com/theyapapa/cryptonews/blob/ko/iota-foundation-launches-trinity-a-new-software-wallet-for-iota-tokens-328d1cf0.md)
 * 2019-07-02 [한국 최대 통신SK그룹, 컨젠시에 10M 투자](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-largest-telecom-sk-group-invests-10m-in-consensys-b086ae6a.md)
 * 2019-07-02 [네슬레, 블록체인 공급망 추적 파일럿 프로그램 공개](https://github.com/theyapapa/cryptonews/blob/ko/nestle-reveals-blockchain-supply-chain-tracking-pilot-program-0df38759.md)
 * 2019-07-02 [비트 코인에 오는 실제 달러의 더 테더 '반사', 크라켄 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/more-tether-reflective-of-real-dollars-coming-into-bitcoin-says-kraken-ceo-94bc2771.md)
