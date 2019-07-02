@@ -1,3 +1,4 @@
+* 2019-07-02 [네슬레, 블록체인 공급망 추적 파일럿 프로그램 공개](https://github.com/theyapapa/cryptonews/blob/ko/nestle-reveals-blockchain-supply-chain-tracking-pilot-program-0df38759.md)
 * 2019-07-02 [비트 코인에 오는 실제 달러의 더 테더 '반사', 크라켄 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/more-tether-reflective-of-real-dollars-coming-into-bitcoin-says-kraken-ceo-94bc2771.md)
 * 2019-07-02 [설립자 맥칼렙에 의해 은폐 산 Gox 취약점, 소송 의혹](https://github.com/theyapapa/cryptonews/blob/ko/mt-gox-vulnerability-covered-up-by-founder-mccaleb-lawsuit-alleges-008ba95e.md)
 * 2019-07-01 [블록체인은 클리블랜드 테크 허브에서 명목상 역할을 유지합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-retains-nominal-role-in-cleveland-tech-hub-f0626db2.md)
