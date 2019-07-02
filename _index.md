@@ -1,3 +1,4 @@
+* 2019-07-02 [Нестле показывает Blockchain цепи цепи отслеживания экспериментальной программы](https://github.com/theyapapa/cryptonews/blob/ru/nestle-reveals-blockchain-supply-chain-tracking-pilot-program-0df38759.md)
 * 2019-07-02 [Подробнее Tether 'Отражение' реальных долларов В ближайшие Bitcoin, говорит Кракен генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/more-tether-reflective-of-real-dollars-coming-into-bitcoin-says-kraken-ceo-94bc2771.md)
 * 2019-07-02 [Mt. Gox Уязвимость скрыты основатель Маккалеб, иск утверждает,](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-vulnerability-covered-up-by-founder-mccaleb-lawsuit-alleges-008ba95e.md)
 * 2019-07-01 [Блокчейн сохраняет номинальную роль в Кливлендском техническом центре](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-retains-nominal-role-in-cleveland-tech-hub-f0626db2.md)
