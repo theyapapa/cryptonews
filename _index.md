@@ -1,3 +1,4 @@
+* 2019-07-01 [CME Bitcoin Futures Record $1.7 billion High in Notional Value](https://github.com/theyapapa/cryptonews/blob/es/cme-bitcoin-futures-record-17-billion-high-in-notional-value-6a2246e0.md)
 * 2019-07-01 ['No todo el mundo es feliz, pero tenemos que seguir adelante', algunos desafíos a la nueva orientación del GAFI](https://github.com/theyapapa/cryptonews/blob/es/not-everyone-is-happy-but-we-have-to-move-on-some-challenges-to-the-fatfs-new-guidance-b90f5664.md)
 * 2019-07-01 [Max Keiser: Altcoin Fenómeno Terminado, el valor fluirá en Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/max-keiser-altcoin-phenomenon-finished-value-will-flow-into-bitcoin-48a1d8bc.md)
 * 2019-07-01 [Funcionario: Rusia no introducirá una regulación separada para la Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/official-russia-will-not-introduce-separate-regulation-for-facebooks-libra-706c13d7.md)
