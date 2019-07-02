@@ -1,3 +1,4 @@
+* 2019-07-02 [Подробнее Tether 'Отражение' реальных долларов В ближайшие Bitcoin, говорит Кракен генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/more-tether-reflective-of-real-dollars-coming-into-bitcoin-says-kraken-ceo-94bc2771.md)
 * 2019-07-02 [Mt. Gox Уязвимость скрыты основатель Маккалеб, иск утверждает,](https://github.com/theyapapa/cryptonews/blob/ru/mt-gox-vulnerability-covered-up-by-founder-mccaleb-lawsuit-alleges-008ba95e.md)
 * 2019-07-01 [Блокчейн сохраняет номинальную роль в Кливлендском техническом центре](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-retains-nominal-role-in-cleveland-tech-hub-f0626db2.md)
 * 2019-07-01 [CME Bitcoin Фьючерсы Запись $ 1,7 млрд высокой в номинальной стоимости](https://github.com/theyapapa/cryptonews/blob/ru/cme-bitcoin-futures-record-17-billion-high-in-notional-value-6a2246e0.md)
