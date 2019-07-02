@@ -1,3 +1,4 @@
+* 2019-07-01 [CME Bitcoin Фьючерсы Запись $ 1,7 млрд высокой в номинальной стоимости](https://github.com/theyapapa/cryptonews/blob/ru/cme-bitcoin-futures-record-17-billion-high-in-notional-value-6a2246e0.md)
 * 2019-07-01 [«Не все счастливы, но мы должны двигаться дальше», некоторые вызовы новому руководству FATF](https://github.com/theyapapa/cryptonews/blob/ru/not-everyone-is-happy-but-we-have-to-move-on-some-challenges-to-the-fatfs-new-guidance-b90f5664.md)
 * 2019-07-01 [Макс Кейзер: Феномен Альткоина закончен, значение будет стекать в Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/max-keiser-altcoin-phenomenon-finished-value-will-flow-into-bitcoin-48a1d8bc.md)
 * 2019-07-01 [Чиновник: Россия не будет вводить отдельный регламент для Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/official-russia-will-not-introduce-separate-regulation-for-facebooks-libra-706c13d7.md)
