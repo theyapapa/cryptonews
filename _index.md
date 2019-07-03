@@ -1,3 +1,4 @@
+* 2019-07-02 [UN, 아프가니스탄의 지속 가능한 도시 개발을 지원하기 위해 블록체인 을 모색](https://github.com/theyapapa/cryptonews/blob/ko/un-looks-to-blockchain-to-aid-sustainable-urban-development-in-afghanistan-966cdd40.md)
 * 2019-07-02 [올해 불법 활동에 지출된 비트코인 5억 1,500만 달러는 총 BTC 활동의 1%를 차지합니다.](https://github.com/theyapapa/cryptonews/blob/ko/515-million-in-bitcoin-spent-on-illicit-activity-this-year-representing-1-of-total-btc-activity-4419ea0f.md)
 * 2019-07-02 [설문 조사: 페이스 북의 안정 동전 선명 하게 된 주류가 될 것 같지 않다](https://github.com/theyapapa/cryptonews/blob/ko/survey-facebooks-stablecoin-libra-unlikely-to-become-mainstream-5754e578.md)
 * 2019-07-02 [영국 규제 기관 FCA는 소매 투자자를위한 암호화 CFD의 잠재적 인 금지를 준비합니다.](https://github.com/theyapapa/cryptonews/blob/ko/british-regulator-fca-prepares-a-potential-ban-of-crypto-cfds-for-retail-investors-81a375cb.md)
