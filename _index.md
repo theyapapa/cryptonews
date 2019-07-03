@@ -1,3 +1,4 @@
+* 2019-07-03 [미국 의회, 페이스북의 천칭자리 안정코인에 모라토리엄 요청](https://github.com/theyapapa/cryptonews/blob/ko/us-congress-requests-moratorium-on-facebooks-libra-stablecoin-5c8d5d24.md)
 * 2019-07-03 [캐나다 스타트업은 비트 코인을 판매하는 ATM의 수백만을 업그레이드하고 싶어](https://github.com/theyapapa/cryptonews/blob/ko/canadian-startup-wants-to-upgrade-millions-of-atms-to-sell-bitcoin-91bca3a6.md)
 * 2019-07-03 [Gab 추구 $10M 분권화 하 고 사용 하 여 ' 자유 로운 음성 돈' 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/gab-seeks-10m-to-decentralize-and-use-free-speech-money-bitcoin-c28b8e81.md)
 * 2019-07-03 [마이크 Novogratz: 나는 비트 코인을 판매하지 않을거야 $14K 다시 - 그것은 더 높은 거야](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-im-not-selling-bitcoin-at-14k-again-its-going-higher-4b270ba0.md)
