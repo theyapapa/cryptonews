@@ -1,3 +1,4 @@
+* 2019-07-03 [Крипто кажется готовым решить дилемму микротранзакций игровой индустрии](https://github.com/theyapapa/cryptonews/blob/ru/crypto-seems-ready-to-solve-gaming-industrys-microtransaction-dilemma-5430e0a6.md)
 * 2019-07-03 [Куба "изучение криптовалюты", чтобы увернуться от санкций США, говорит Gov't](https://github.com/theyapapa/cryptonews/blob/ru/cuba-studying-cryptocurrency-to-dodge-us-sanctions-says-govt-e2f26545.md)
 * 2019-07-02 [ООН надеется на блокчейн для оказания помощи устойчивому развитию городов в Афганистане](https://github.com/theyapapa/cryptonews/blob/ru/un-looks-to-blockchain-to-aid-sustainable-urban-development-in-afghanistan-966cdd40.md)
 * 2019-07-02 [$515 миллионов в Bitcoin, потраченных на незаконную деятельность в этом году, представляющих 1% от общей активности BTC](https://github.com/theyapapa/cryptonews/blob/ru/515-million-in-bitcoin-spent-on-illicit-activity-this-year-representing-1-of-total-btc-activity-4419ea0f.md)
