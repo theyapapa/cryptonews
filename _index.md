@@ -1,3 +1,4 @@
+* 2019-07-03 [Mike Novogratz: No estoy vendiendo Bitcoin a $14K otra vez — It's Going Higher](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratz-im-not-selling-bitcoin-at-14k-again-its-going-higher-4b270ba0.md)
 * 2019-07-03 [Crypto parece listo para resolver el dilema de microtransacciones de la industria de los juegos](https://github.com/theyapapa/cryptonews/blob/es/crypto-seems-ready-to-solve-gaming-industrys-microtransaction-dilemma-5430e0a6.md)
 * 2019-07-03 [Cuba 'Estudio de criptomonedas' para esquivar las sanciones de EE.UU., dice Gov't](https://github.com/theyapapa/cryptonews/blob/es/cuba-studying-cryptocurrency-to-dodge-us-sanctions-says-govt-e2f26545.md)
 * 2019-07-02 [LA ONU busca blockchain para ayudar al desarrollo urbano sostenible en Afganistán](https://github.com/theyapapa/cryptonews/blob/es/un-looks-to-blockchain-to-aid-sustainable-urban-development-in-afghanistan-966cdd40.md)
