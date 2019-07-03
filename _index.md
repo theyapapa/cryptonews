@@ -1,3 +1,4 @@
+* 2019-07-03 [암호화는 게임 산업의 소액 거래 딜레마를 해결하기 위해 준비가 보인다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-seems-ready-to-solve-gaming-industrys-microtransaction-dilemma-5430e0a6.md)
 * 2019-07-03 [쿠바 ' 암호화폐 공부' 미국 제재를 피하기 위해, Gov't 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cuba-studying-cryptocurrency-to-dodge-us-sanctions-says-govt-e2f26545.md)
 * 2019-07-02 [UN, 아프가니스탄의 지속 가능한 도시 개발을 지원하기 위해 블록체인 을 모색](https://github.com/theyapapa/cryptonews/blob/ko/un-looks-to-blockchain-to-aid-sustainable-urban-development-in-afghanistan-966cdd40.md)
 * 2019-07-02 [올해 불법 활동에 지출된 비트코인 5억 1,500만 달러는 총 BTC 활동의 1%를 차지합니다.](https://github.com/theyapapa/cryptonews/blob/ko/515-million-in-bitcoin-spent-on-illicit-activity-this-year-representing-1-of-total-btc-activity-4419ea0f.md)
