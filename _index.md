@@ -1,3 +1,4 @@
+* 2019-07-03 [Gab ищет $10M для децентрализации и использования 'Free Speech Money' Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/gab-seeks-10m-to-decentralize-and-use-free-speech-money-bitcoin-c28b8e81.md)
 * 2019-07-03 [Майк Новограц: Я не продаю биткоин на $14K снова - Это идет выше](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratz-im-not-selling-bitcoin-at-14k-again-its-going-higher-4b270ba0.md)
 * 2019-07-03 [Крипто кажется готовым решить дилемму микротранзакций игровой индустрии](https://github.com/theyapapa/cryptonews/blob/ru/crypto-seems-ready-to-solve-gaming-industrys-microtransaction-dilemma-5430e0a6.md)
 * 2019-07-03 [Куба "изучение криптовалюты", чтобы увернуться от санкций США, говорит Gov't](https://github.com/theyapapa/cryptonews/blob/ru/cuba-studying-cryptocurrency-to-dodge-us-sanctions-says-govt-e2f26545.md)
