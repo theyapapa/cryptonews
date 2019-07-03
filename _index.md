@@ -1,3 +1,4 @@
+* 2019-07-03 [마이크 Novogratz: 나는 비트 코인을 판매하지 않을거야 $14K 다시 - 그것은 더 높은 거야](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-im-not-selling-bitcoin-at-14k-again-its-going-higher-4b270ba0.md)
 * 2019-07-03 [암호화는 게임 산업의 소액 거래 딜레마를 해결하기 위해 준비가 보인다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-seems-ready-to-solve-gaming-industrys-microtransaction-dilemma-5430e0a6.md)
 * 2019-07-03 [쿠바 ' 암호화폐 공부' 미국 제재를 피하기 위해, Gov't 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cuba-studying-cryptocurrency-to-dodge-us-sanctions-says-govt-e2f26545.md)
 * 2019-07-02 [UN, 아프가니스탄의 지속 가능한 도시 개발을 지원하기 위해 블록체인 을 모색](https://github.com/theyapapa/cryptonews/blob/ko/un-looks-to-blockchain-to-aid-sustainable-urban-development-in-afghanistan-966cdd40.md)
