@@ -1,3 +1,4 @@
+* 2019-07-03 [Gab 추구 $10M 분권화 하 고 사용 하 여 ' 자유 로운 음성 돈' 비트 코인](https://github.com/theyapapa/cryptonews/blob/ko/gab-seeks-10m-to-decentralize-and-use-free-speech-money-bitcoin-c28b8e81.md)
 * 2019-07-03 [마이크 Novogratz: 나는 비트 코인을 판매하지 않을거야 $14K 다시 - 그것은 더 높은 거야](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratz-im-not-selling-bitcoin-at-14k-again-its-going-higher-4b270ba0.md)
 * 2019-07-03 [암호화는 게임 산업의 소액 거래 딜레마를 해결하기 위해 준비가 보인다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-seems-ready-to-solve-gaming-industrys-microtransaction-dilemma-5430e0a6.md)
 * 2019-07-03 [쿠바 ' 암호화폐 공부' 미국 제재를 피하기 위해, Gov't 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cuba-studying-cryptocurrency-to-dodge-us-sanctions-says-govt-e2f26545.md)
