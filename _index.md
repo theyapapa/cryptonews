@@ -1,3 +1,4 @@
+* 2019-07-03 [Gram Asia продаст граммовые токены по цене ICO в три раза](https://github.com/theyapapa/cryptonews/blob/ru/gram-asia-to-sell-gram-tokens-at-three-times-ico-price-6f7c981c.md)
 * 2019-07-03 [Конгресс США просит ввести мораторий на Констейкоин Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/us-congress-requests-moratorium-on-facebooks-libra-stablecoin-5c8d5d24.md)
 * 2019-07-03 [Канадский стартап хочет обновить миллионы банкоматов, чтобы продать Биткоин](https://github.com/theyapapa/cryptonews/blob/ru/canadian-startup-wants-to-upgrade-millions-of-atms-to-sell-bitcoin-91bca3a6.md)
 * 2019-07-03 [Gab ищет $10M для децентрализации и использования 'Free Speech Money' Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/gab-seeks-10m-to-decentralize-and-use-free-speech-money-bitcoin-c28b8e81.md)
