@@ -1,3 +1,4 @@
+* 2019-07-04 [Binance Фонды Blockchain основе сети управления отношениями с клиентами](https://github.com/theyapapa/cryptonews/blob/ru/binance-funds-blockchain-based-customer-relationship-management-network-2605c034.md)
 * 2019-07-03 [Facebook Дэвид Маркус Адреса Весы Целевые вопросы](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-david-marcus-addresses-libra-trust-issues-3fce3aa8.md)
 * 2019-07-03 [Binance для переключения Tether Адреса от Omni к ERC-20](https://github.com/theyapapa/cryptonews/blob/ru/binance-to-switch-tether-addresses-from-omni-to-erc-20-6e7a9169.md)
 * 2019-07-03 [Blockchain Dev Фирма запускает первые смарт-контракты на Microsoft .NET](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-dev-firm-launches-first-smart-contracts-on-microsofts-net-195e15af.md)
