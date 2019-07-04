@@ -1,3 +1,4 @@
+* 2019-07-04 [Binance Funds Red de Gestión de Relaciones con el Cliente basada en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/binance-funds-blockchain-based-customer-relationship-management-network-2605c034.md)
 * 2019-07-03 [David Marcus de Facebook aborda los problemas de confianza de Libra](https://github.com/theyapapa/cryptonews/blob/es/facebooks-david-marcus-addresses-libra-trust-issues-3fce3aa8.md)
 * 2019-07-03 [Binance para cambiar las direcciones de ate de Omni a ERC-20](https://github.com/theyapapa/cryptonews/blob/es/binance-to-switch-tether-addresses-from-omni-to-erc-20-6e7a9169.md)
 * 2019-07-03 [Blockchain Dev Firm lanza los primeros contratos inteligentes en .NET de Microsoft](https://github.com/theyapapa/cryptonews/blob/es/blockchain-dev-firm-launches-first-smart-contracts-on-microsofts-net-195e15af.md)
