@@ -1,3 +1,4 @@
+* 2019-07-03 [Binance para cambiar las direcciones de ate de Omni a ERC-20](https://github.com/theyapapa/cryptonews/blob/es/binance-to-switch-tether-addresses-from-omni-to-erc-20-6e7a9169.md)
 * 2019-07-03 [Blockchain Dev Firm lanza los primeros contratos inteligentes en .NET de Microsoft](https://github.com/theyapapa/cryptonews/blob/es/blockchain-dev-firm-launches-first-smart-contracts-on-microsofts-net-195e15af.md)
 * 2019-07-03 [Gram Asia venderá fichas de Gram a tres veces al precio ico](https://github.com/theyapapa/cryptonews/blob/es/gram-asia-to-sell-gram-tokens-at-three-times-ico-price-6f7c981c.md)
 * 2019-07-03 [Congreso de EE.UU. solicita moratoria en Libra Stablecoin de Facebook](https://github.com/theyapapa/cryptonews/blob/es/us-congress-requests-moratorium-on-facebooks-libra-stablecoin-5c8d5d24.md)
