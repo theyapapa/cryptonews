@@ -1,3 +1,4 @@
+* 2019-07-04 [Comprar Bitcoin? Trump dice que Estados Unidos 'debería igualar' el juego de impresión de dinero de China](https://github.com/theyapapa/cryptonews/blob/es/buy-bitcoin-trump-says-us-should-match-chinas-money-printing-game-d1d23075.md)
 * 2019-07-04 [Bitcoin Precio Incumplimientos $12,000 Como analistas sugieren 'Bear Trap' completo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-breaches-12-000-as-analysts-declare-bear-trap-complete-c2e5ddff.md)
 * 2019-07-04 [Binance Funds Red de Gestión de Relaciones con el Cliente basada en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/binance-funds-blockchain-based-customer-relationship-management-network-2605c034.md)
 * 2019-07-03 [David Marcus de Facebook aborda los problemas de confianza de Libra](https://github.com/theyapapa/cryptonews/blob/es/facebooks-david-marcus-addresses-libra-trust-issues-3fce3aa8.md)
