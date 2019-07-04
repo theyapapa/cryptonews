@@ -1,3 +1,4 @@
+* 2019-07-04 [Bitcoin Precio Incumplimientos $12,000 Como analistas sugieren 'Bear Trap' completo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-breaches-12-000-as-analysts-declare-bear-trap-complete-c2e5ddff.md)
 * 2019-07-04 [Binance Funds Red de Gestión de Relaciones con el Cliente basada en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/binance-funds-blockchain-based-customer-relationship-management-network-2605c034.md)
 * 2019-07-03 [David Marcus de Facebook aborda los problemas de confianza de Libra](https://github.com/theyapapa/cryptonews/blob/es/facebooks-david-marcus-addresses-libra-trust-issues-3fce3aa8.md)
 * 2019-07-03 [Binance para cambiar las direcciones de ate de Omni a ERC-20](https://github.com/theyapapa/cryptonews/blob/es/binance-to-switch-tether-addresses-from-omni-to-erc-20-6e7a9169.md)
