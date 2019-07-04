@@ -1,3 +1,4 @@
+* 2019-07-04 [비트 코인 가격 위반 $12,000 분석가제안으로 '곰 함정' 완료](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-breaches-12-000-as-analysts-declare-bear-trap-complete-c2e5ddff.md)
 * 2019-07-04 [Binance 자금 블록 체인 기반 고객 관계 관리 네트워크](https://github.com/theyapapa/cryptonews/blob/ko/binance-funds-blockchain-based-customer-relationship-management-network-2605c034.md)
 * 2019-07-03 [페이스 북의 데이비드 마커스 는 선칭 자리 신뢰 문제를 해결](https://github.com/theyapapa/cryptonews/blob/ko/facebooks-david-marcus-addresses-libra-trust-issues-3fce3aa8.md)
 * 2019-07-03 [옴니에서 ERC-20으로 테더 주소를 전환하는 바이너스](https://github.com/theyapapa/cryptonews/blob/ko/binance-to-switch-tether-addresses-from-omni-to-erc-20-6e7a9169.md)
