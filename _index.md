@@ -1,3 +1,4 @@
+* 2019-07-04 [Crypto Company da a los individuos la oportunidad de extraer Bitcoin sin facturas de energía altísimas](https://github.com/theyapapa/cryptonews/blob/es/crypto-company-gives-individuals-a-chance-to-mine-bitcoin-without-sky-high-energy-bills-6db81e01.md)
 * 2019-07-04 [El principal proveedor chino de noticias financieras añade silenciosamente el índice Crypto](https://github.com/theyapapa/cryptonews/blob/es/major-chinese-financial-news-provider-quietly-adds-crypto-index-a8ac36f3.md)
 * 2019-07-04 [Comprar Bitcoin? Trump dice que Estados Unidos 'debería igualar' el juego de impresión de dinero de China](https://github.com/theyapapa/cryptonews/blob/es/buy-bitcoin-trump-says-us-should-match-chinas-money-printing-game-d1d23075.md)
 * 2019-07-04 [Bitcoin Precio Incumplimientos $12,000 Como analistas sugieren 'Bear Trap' completo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-breaches-12-000-as-analysts-declare-bear-trap-complete-c2e5ddff.md)
