@@ -1,3 +1,4 @@
+* 2019-07-03 [페이스 북의 데이비드 마커스 는 선칭 자리 신뢰 문제를 해결](https://github.com/theyapapa/cryptonews/blob/ko/facebooks-david-marcus-addresses-libra-trust-issues-3fce3aa8.md)
 * 2019-07-03 [옴니에서 ERC-20으로 테더 주소를 전환하는 바이너스](https://github.com/theyapapa/cryptonews/blob/ko/binance-to-switch-tether-addresses-from-omni-to-erc-20-6e7a9169.md)
 * 2019-07-03 [블록 체인 개발 회사는 마이크로 소프트의 .NET에 첫 번째 스마트 계약을 시작합니다](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-dev-firm-launches-first-smart-contracts-on-microsofts-net-195e15af.md)
 * 2019-07-03 [그램 아시아 세 번 ICO 가격에 그램 토큰을 판매](https://github.com/theyapapa/cryptonews/blob/ko/gram-asia-to-sell-gram-tokens-at-three-times-ico-price-6f7c981c.md)
