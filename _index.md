@@ -1,3 +1,4 @@
+* 2019-07-04 [Fujitsu presenta el servicio de clasificación de credenciales e identidad basado en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/fujitsu-unveils-blockchain-based-identity-and-credential-rating-service-72622149.md)
 * 2019-07-04 [Craig Wright utiliza documentos falsificados para probar la inocencia en el caso Kleiman](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-uses-falsified-docs-to-prove-innocence-in-kleiman-case-a4dfb142.md)
 * 2019-07-04 [El presidente Maduro ordena al Banco de Venezuela aceptar Petro Crypto](https://github.com/theyapapa/cryptonews/blob/es/president-maduro-orders-the-bank-of-venezuela-to-accept-petro-crypto-ee45d67a.md)
 * 2019-07-04 [Crypto Company da a los individuos la oportunidad de extraer Bitcoin sin facturas de energía altísimas](https://github.com/theyapapa/cryptonews/blob/es/crypto-company-gives-individuals-a-chance-to-mine-bitcoin-without-sky-high-energy-bills-6db81e01.md)
