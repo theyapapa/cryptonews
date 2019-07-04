@@ -1,3 +1,4 @@
+* 2019-07-04 [Bitcoin Цена Нарушения $ 12000 Как аналитики предлагают "Медвежья ловушка" Полный](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-breaches-12-000-as-analysts-declare-bear-trap-complete-c2e5ddff.md)
 * 2019-07-04 [Binance Фонды Blockchain основе сети управления отношениями с клиентами](https://github.com/theyapapa/cryptonews/blob/ru/binance-funds-blockchain-based-customer-relationship-management-network-2605c034.md)
 * 2019-07-03 [Facebook Дэвид Маркус Адреса Весы Целевые вопросы](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-david-marcus-addresses-libra-trust-issues-3fce3aa8.md)
 * 2019-07-03 [Binance для переключения Tether Адреса от Omni к ERC-20](https://github.com/theyapapa/cryptonews/blob/ru/binance-to-switch-tether-addresses-from-omni-to-erc-20-6e7a9169.md)
