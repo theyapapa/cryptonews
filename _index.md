@@ -1,3 +1,4 @@
+* 2019-07-04 [후지쯔, 블록체인 기반 아이덴티티 및 자격 평가 서비스 공개](https://github.com/theyapapa/cryptonews/blob/ko/fujitsu-unveils-blockchain-based-identity-and-credential-rating-service-72622149.md)
 * 2019-07-04 [크레이그 라이트는 클라이만 사건에서 무죄를 증명하기 위해 위조 된 문서를 사용](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-uses-falsified-docs-to-prove-innocence-in-kleiman-case-a4dfb142.md)
 * 2019-07-04 [마두로 대통령, 베네수엘라 은행에 페트로 암호화 수락 명령](https://github.com/theyapapa/cryptonews/blob/ko/president-maduro-orders-the-bank-of-venezuela-to-accept-petro-crypto-ee45d67a.md)
 * 2019-07-04 [암호화 회사는 개인에게 하늘 높은 에너지 청구서없이 비트 코인을 채굴 할 수있는 기회를 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-company-gives-individuals-a-chance-to-mine-bitcoin-without-sky-high-energy-bills-6db81e01.md)
