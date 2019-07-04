@@ -1,3 +1,4 @@
+* 2019-07-04 [Президент Мадуро приказал Банку Венесуэлы принять Petro Crypto](https://github.com/theyapapa/cryptonews/blob/ru/president-maduro-orders-the-bank-of-venezuela-to-accept-petro-crypto-ee45d67a.md)
 * 2019-07-04 [Crypto компания дает людям шанс добывать Bitcoin без Sky-High Energy Биллс](https://github.com/theyapapa/cryptonews/blob/ru/crypto-company-gives-individuals-a-chance-to-mine-bitcoin-without-sky-high-energy-bills-6db81e01.md)
 * 2019-07-04 [Крупный китайский поставщик финансовых новостей Тихо добавляет криптоиндекс](https://github.com/theyapapa/cryptonews/blob/ru/major-chinese-financial-news-provider-quietly-adds-crypto-index-a8ac36f3.md)
 * 2019-07-04 [Купить Биткоин? Трамп заявил, что США «должны соответствовать» игре китаянки по печати денег](https://github.com/theyapapa/cryptonews/blob/ru/buy-bitcoin-trump-says-us-should-match-chinas-money-printing-game-d1d23075.md)
