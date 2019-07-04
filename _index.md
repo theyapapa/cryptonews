@@ -1,3 +1,4 @@
+* 2019-07-04 [Криптовалютный рынок торгуется боком, как Bitcoin колеблется застенчивый $12,000](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-market-trades-sideways-as-bitcoin-hovers-shy-of-12-000-22a67883.md)
 * 2019-07-04 [Fujitsu представляет блокчейн-сервис идентификации и рейтинговые данные](https://github.com/theyapapa/cryptonews/blob/ru/fujitsu-unveils-blockchain-based-identity-and-credential-rating-service-72622149.md)
 * 2019-07-04 [Крейг Райт использует фальсифицированные документы, чтобы доказать невиновность в деле Клеймана](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-uses-falsified-docs-to-prove-innocence-in-kleiman-case-a4dfb142.md)
 * 2019-07-04 [Президент Мадуро приказал Банку Венесуэлы принять Petro Crypto](https://github.com/theyapapa/cryptonews/blob/ru/president-maduro-orders-the-bank-of-venezuela-to-accept-petro-crypto-ee45d67a.md)
