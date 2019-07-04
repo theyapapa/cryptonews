@@ -1,3 +1,4 @@
+* 2019-07-04 [암호화 회사는 개인에게 하늘 높은 에너지 청구서없이 비트 코인을 채굴 할 수있는 기회를 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-company-gives-individuals-a-chance-to-mine-bitcoin-without-sky-high-energy-bills-6db81e01.md)
 * 2019-07-04 [주요 중국 금융 뉴스 제공 업체는 조용히 암호화 인덱스를 추가](https://github.com/theyapapa/cryptonews/blob/ko/major-chinese-financial-news-provider-quietly-adds-crypto-index-a8ac36f3.md)
 * 2019-07-04 [비트 코인을 구입? 트럼프, 미국의 '일치해야' 중국의 돈 인쇄 게임](https://github.com/theyapapa/cryptonews/blob/ko/buy-bitcoin-trump-says-us-should-match-chinas-money-printing-game-d1d23075.md)
 * 2019-07-04 [비트 코인 가격 위반 $12,000 분석가제안으로 '곰 함정' 완료](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-breaches-12-000-as-analysts-declare-bear-trap-complete-c2e5ddff.md)
