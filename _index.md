@@ -1,3 +1,4 @@
+* 2019-07-05 [일본 은행 : 현금은 부정적인 이자로 디지털 통화를 방지합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-japan-cash-prevents-digital-currencies-with-negative-interest-394e64f7.md)
 * 2019-07-04 [비트 코인의 수줍어로 암호 화폐 시장은 옆으로 거래 $12,000](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-market-trades-sideways-as-bitcoin-hovers-shy-of-12-000-22a67883.md)
 * 2019-07-04 [후지쯔, 블록체인 기반 아이덴티티 및 자격 평가 서비스 공개](https://github.com/theyapapa/cryptonews/blob/ko/fujitsu-unveils-blockchain-based-identity-and-credential-rating-service-72622149.md)
 * 2019-07-04 [크레이그 라이트는 클라이만 사건에서 무죄를 증명하기 위해 위조 된 문서를 사용](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-uses-falsified-docs-to-prove-innocence-in-kleiman-case-a4dfb142.md)
