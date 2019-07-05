@@ -1,3 +1,4 @@
+* 2019-07-05 [Dogecoin, наконец, перечисленных на Binance - DOGE Цена до 30%](https://github.com/theyapapa/cryptonews/blob/ru/dogecoin-finally-listed-on-binance-doge-price-up-30-6abcbff9.md)
 * 2019-07-05 ["Я думаю, мне придется Hodl It" - Питер Шифф допускает, имеющих Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/i-guess-ill-have-to-hodl-it-peter-schiff-admits-having-bitcoin-9504a081.md)
 * 2019-07-05 [Банк Японии: Наличные предотвращает цифровые валюты с отрицательным процентом](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-japan-cash-prevents-digital-currencies-with-negative-interest-394e64f7.md)
 * 2019-07-04 [Криптовалютный рынок торгуется боком, как Bitcoin колеблется застенчивый $12,000](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-market-trades-sideways-as-bitcoin-hovers-shy-of-12-000-22a67883.md)
