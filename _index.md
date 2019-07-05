@@ -1,3 +1,4 @@
+* 2019-07-05 [암호화 플랫폼은 거래에 고통 포인트를 해결하기 위해 4 단계 계획을 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-platform-unveils-4-step-plan-to-tackle-pain-points-in-trading-3915874d.md)
 * 2019-07-05 [Monero는 거래소에서 XMR을 도난 당할 수 있도록 하는 버그를 공개합니다.](https://github.com/theyapapa/cryptonews/blob/ko/monero-discloses-bug-allowing-xmr-to-be-stolen-from-exchanges-b3bc3622.md)
 * 2019-07-05 [도지 코인 마침내 비넌스에 상장 - DOGE 가격 까지 30%](https://github.com/theyapapa/cryptonews/blob/ko/dogecoin-finally-listed-on-binance-doge-price-up-30-6abcbff9.md)
 * 2019-07-05 ['나는 그것을 hodl해야 할 것 같아요'- 피터 쉬프는 비트 코인을 갖는 인정](https://github.com/theyapapa/cryptonews/blob/ko/i-guess-ill-have-to-hodl-it-peter-schiff-admits-having-bitcoin-9504a081.md)
