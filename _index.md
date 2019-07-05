@@ -1,3 +1,4 @@
+* 2019-07-05 [Informe Binance: Bitcoin Decorrelated con otros cryptos en el segundo trimestre de 2019](https://github.com/theyapapa/cryptonews/blob/es/binance-report-bitcoin-decorrelated-with-other-cryptos-in-q2-2019-14256bb8.md)
 * 2019-07-05 [Crypto Platform presenta un plan de 4 pasos para abordar los puntos de dolor en el trading](https://github.com/theyapapa/cryptonews/blob/es/crypto-platform-unveils-4-step-plan-to-tackle-pain-points-in-trading-3915874d.md)
 * 2019-07-05 [Monero revela un error que permite que XMR sea robado de los intercambios](https://github.com/theyapapa/cryptonews/blob/es/monero-discloses-bug-allowing-xmr-to-be-stolen-from-exchanges-b3bc3622.md)
 * 2019-07-05 [Dogecoin Finalmente Listado en Binance — DOGE Precio Sube 30%](https://github.com/theyapapa/cryptonews/blob/es/dogecoin-finally-listed-on-binance-doge-price-up-30-6abcbff9.md)
