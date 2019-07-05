@@ -1,3 +1,4 @@
+* 2019-07-05 [Binance 보고서: 2019년 2분기 비트코인이 다른 암호화폐와 관련이 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-report-bitcoin-decorrelated-with-other-cryptos-in-q2-2019-14256bb8.md)
 * 2019-07-05 [암호화 플랫폼은 거래에 고통 포인트를 해결하기 위해 4 단계 계획을 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-platform-unveils-4-step-plan-to-tackle-pain-points-in-trading-3915874d.md)
 * 2019-07-05 [Monero는 거래소에서 XMR을 도난 당할 수 있도록 하는 버그를 공개합니다.](https://github.com/theyapapa/cryptonews/blob/ko/monero-discloses-bug-allowing-xmr-to-be-stolen-from-exchanges-b3bc3622.md)
 * 2019-07-05 [도지 코인 마침내 비넌스에 상장 - DOGE 가격 까지 30%](https://github.com/theyapapa/cryptonews/blob/ko/dogecoin-finally-listed-on-binance-doge-price-up-30-6abcbff9.md)
