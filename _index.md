@@ -1,3 +1,4 @@
+* 2019-07-05 [Индийские власти арестовали 4 лиц, обвиняемых в крипто-схеме Понци](https://github.com/theyapapa/cryptonews/blob/ru/indian-authorities-arrest-4-individuals-accused-of-crypto-ponzi-scheme-6cc7dbd5.md)
 * 2019-07-05 [Исследователь Ethereum: Ethereum сократит выпуск на десять к 2021 году](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-researcher-ethereum-to-reduce-issuance-ten-fold-by-2021-63a3d3fb.md)
 * 2019-07-05 [Отчет Binance: Bitcoin Декор, связанный с другими криптографиями во 2 квартале 2019 года](https://github.com/theyapapa/cryptonews/blob/ru/binance-report-bitcoin-decorrelated-with-other-cryptos-in-q2-2019-14256bb8.md)
 * 2019-07-05 [Криптоплатформа представляет 4-ступенчатый план для решения болевые точки в торговле](https://github.com/theyapapa/cryptonews/blob/ru/crypto-platform-unveils-4-step-plan-to-tackle-pain-points-in-trading-3915874d.md)
