@@ -1,3 +1,4 @@
+* 2019-07-05 [도지 코인 마침내 비넌스에 상장 - DOGE 가격 까지 30%](https://github.com/theyapapa/cryptonews/blob/ko/dogecoin-finally-listed-on-binance-doge-price-up-30-6abcbff9.md)
 * 2019-07-05 ['나는 그것을 hodl해야 할 것 같아요'- 피터 쉬프는 비트 코인을 갖는 인정](https://github.com/theyapapa/cryptonews/blob/ko/i-guess-ill-have-to-hodl-it-peter-schiff-admits-having-bitcoin-9504a081.md)
 * 2019-07-05 [일본 은행 : 현금은 부정적인 이자로 디지털 통화를 방지합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-japan-cash-prevents-digital-currencies-with-negative-interest-394e64f7.md)
 * 2019-07-04 [비트 코인의 수줍어로 암호 화폐 시장은 옆으로 거래 $12,000](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-market-trades-sideways-as-bitcoin-hovers-shy-of-12-000-22a67883.md)
