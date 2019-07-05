@@ -1,3 +1,4 @@
+* 2019-07-05 [인도 당국은 암호화 폰지 계획 혐의로 기소 된 4 개인을 체포](https://github.com/theyapapa/cryptonews/blob/ko/indian-authorities-arrest-4-individuals-accused-of-crypto-ponzi-scheme-6cc7dbd5.md)
 * 2019-07-05 [이더리움 연구원: 2021년까지 발행 10배 감축](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-researcher-ethereum-to-reduce-issuance-ten-fold-by-2021-63a3d3fb.md)
 * 2019-07-05 [Binance 보고서: 2019년 2분기 비트코인이 다른 암호화폐와 관련이 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-report-bitcoin-decorrelated-with-other-cryptos-in-q2-2019-14256bb8.md)
 * 2019-07-05 [암호화 플랫폼은 거래에 고통 포인트를 해결하기 위해 4 단계 계획을 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-platform-unveils-4-step-plan-to-tackle-pain-points-in-trading-3915874d.md)
