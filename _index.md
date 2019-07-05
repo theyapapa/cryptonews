@@ -1,3 +1,4 @@
+* 2019-07-05 [Monero revela un error que permite que XMR sea robado de los intercambios](https://github.com/theyapapa/cryptonews/blob/es/monero-discloses-bug-allowing-xmr-to-be-stolen-from-exchanges-b3bc3622.md)
 * 2019-07-05 [Dogecoin Finalmente Listado en Binance — DOGE Precio Sube 30%](https://github.com/theyapapa/cryptonews/blob/es/dogecoin-finally-listed-on-binance-doge-price-up-30-6abcbff9.md)
 * 2019-07-05 ['I Guess I'll Have to Hodl It' — Peter Schiff admite tener Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/i-guess-ill-have-to-hodl-it-peter-schiff-admits-having-bitcoin-9504a081.md)
 * 2019-07-05 [Banco de Japón: Efectivo Previene Monedas Digitales con Intereses Negativos](https://github.com/theyapapa/cryptonews/blob/es/bank-of-japan-cash-prevents-digital-currencies-with-negative-interest-394e64f7.md)
