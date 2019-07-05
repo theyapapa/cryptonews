@@ -1,3 +1,4 @@
+* 2019-07-05 [Криптоплатформа представляет 4-ступенчатый план для решения болевые точки в торговле](https://github.com/theyapapa/cryptonews/blob/ru/crypto-platform-unveils-4-step-plan-to-tackle-pain-points-in-trading-3915874d.md)
 * 2019-07-05 [Monero раскрывает ошибку, позволяющую xMR быть украдены из бирж](https://github.com/theyapapa/cryptonews/blob/ru/monero-discloses-bug-allowing-xmr-to-be-stolen-from-exchanges-b3bc3622.md)
 * 2019-07-05 [Dogecoin, наконец, перечисленных на Binance - DOGE Цена до 30%](https://github.com/theyapapa/cryptonews/blob/ru/dogecoin-finally-listed-on-binance-doge-price-up-30-6abcbff9.md)
 * 2019-07-05 ["Я думаю, мне придется Hodl It" - Питер Шифф допускает, имеющих Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/i-guess-ill-have-to-hodl-it-peter-schiff-admits-having-bitcoin-9504a081.md)
