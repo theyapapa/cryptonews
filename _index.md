@@ -1,3 +1,4 @@
+* 2019-07-05 [Исследователь Ethereum: Ethereum сократит выпуск на десять к 2021 году](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-researcher-ethereum-to-reduce-issuance-ten-fold-by-2021-63a3d3fb.md)
 * 2019-07-05 [Отчет Binance: Bitcoin Декор, связанный с другими криптографиями во 2 квартале 2019 года](https://github.com/theyapapa/cryptonews/blob/ru/binance-report-bitcoin-decorrelated-with-other-cryptos-in-q2-2019-14256bb8.md)
 * 2019-07-05 [Криптоплатформа представляет 4-ступенчатый план для решения болевые точки в торговле](https://github.com/theyapapa/cryptonews/blob/ru/crypto-platform-unveils-4-step-plan-to-tackle-pain-points-in-trading-3915874d.md)
 * 2019-07-05 [Monero раскрывает ошибку, позволяющую xMR быть украдены из бирж](https://github.com/theyapapa/cryptonews/blob/ru/monero-discloses-bug-allowing-xmr-to-be-stolen-from-exchanges-b3bc3622.md)
