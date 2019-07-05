@@ -1,3 +1,4 @@
+* 2019-07-05 [Sofisticado robot comercial explota Synthetix Oracle, Fondos recuperados](https://github.com/theyapapa/cryptonews/blob/es/sophisticated-trading-bot-exploits-synthetix-oracle-funds-recovered-e544984d.md)
 * 2019-07-05 [Autoridades indias arrestan a 4 individuos acusados del esquema Crypto Ponzi](https://github.com/theyapapa/cryptonews/blob/es/indian-authorities-arrest-4-individuals-accused-of-crypto-ponzi-scheme-6cc7dbd5.md)
 * 2019-07-05 [Investigador de Ethereum: Etereum para reducir la emisión de diez veces para 2021](https://github.com/theyapapa/cryptonews/blob/es/ethereum-researcher-ethereum-to-reduce-issuance-ten-fold-by-2021-63a3d3fb.md)
 * 2019-07-05 [Informe Binance: Bitcoin Decorrelated con otros cryptos en el segundo trimestre de 2019](https://github.com/theyapapa/cryptonews/blob/es/binance-report-bitcoin-decorrelated-with-other-cryptos-in-q2-2019-14256bb8.md)
