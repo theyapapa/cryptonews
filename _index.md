@@ -1,3 +1,4 @@
+* 2019-07-06 [¿Evitar los impuestos estatales sobre Cripto con la reciente decisión de fideicomiso de la Corte Suprema de los Estados Unidos?](https://github.com/theyapapa/cryptonews/blob/es/avoid-state-taxes-on-crypto-with-us-supreme-courts-recent-trust-decision-b16374b4.md)
 * 2019-07-05 [Sofisticado robot comercial explota Synthetix Oracle, Fondos recuperados](https://github.com/theyapapa/cryptonews/blob/es/sophisticated-trading-bot-exploits-synthetix-oracle-funds-recovered-e544984d.md)
 * 2019-07-05 [Autoridades indias arrestan a 4 individuos acusados del esquema Crypto Ponzi](https://github.com/theyapapa/cryptonews/blob/es/indian-authorities-arrest-4-individuals-accused-of-crypto-ponzi-scheme-6cc7dbd5.md)
 * 2019-07-05 [Investigador de Ethereum: Etereum para reducir la emisión de diez veces para 2021](https://github.com/theyapapa/cryptonews/blob/es/ethereum-researcher-ethereum-to-reduce-issuance-ten-fold-by-2021-63a3d3fb.md)
