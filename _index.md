@@ -1,3 +1,4 @@
+* 2019-07-06 [Cómo Blockchain podría cambiar el panorama de la inversión inmobiliaria](https://github.com/theyapapa/cryptonews/blob/es/how-blockchain-could-change-the-real-estate-investment-landscape-054bb219.md)
 * 2019-07-06 [Bitcoin Se acerca $11,500 como Top Cryptos Ver Ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-approaches-11-500-as-top-cryptos-see-gains-72518a0a.md)
 * 2019-07-06 [¿Evitar los impuestos estatales sobre Cripto con la reciente decisión de fideicomiso de la Corte Suprema de los Estados Unidos?](https://github.com/theyapapa/cryptonews/blob/es/avoid-state-taxes-on-crypto-with-us-supreme-courts-recent-trust-decision-b16374b4.md)
 * 2019-07-05 [Sofisticado robot comercial explota Synthetix Oracle, Fondos recuperados](https://github.com/theyapapa/cryptonews/blob/es/sophisticated-trading-bot-exploits-synthetix-oracle-funds-recovered-e544984d.md)
