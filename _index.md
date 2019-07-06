@@ -1,3 +1,4 @@
+* 2019-07-06 [미국 대법원의 최근 신탁 결정으로 암호화에 대한 주세를 피하십시오?](https://github.com/theyapapa/cryptonews/blob/ko/avoid-state-taxes-on-crypto-with-us-supreme-courts-recent-trust-decision-b16374b4.md)
 * 2019-07-05 [정교한 거래 봇은 신디사이저 오라클을 악용, 자금 회수](https://github.com/theyapapa/cryptonews/blob/ko/sophisticated-trading-bot-exploits-synthetix-oracle-funds-recovered-e544984d.md)
 * 2019-07-05 [인도 당국은 암호화 폰지 계획 혐의로 기소 된 4 개인을 체포](https://github.com/theyapapa/cryptonews/blob/ko/indian-authorities-arrest-4-individuals-accused-of-crypto-ponzi-scheme-6cc7dbd5.md)
 * 2019-07-05 [이더리움 연구원: 2021년까지 발행 10배 감축](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-researcher-ethereum-to-reduce-issuance-ten-fold-by-2021-63a3d3fb.md)
