@@ -1,3 +1,4 @@
+* 2019-07-07 [Блокчейн для продуктов питания, как промышленность использует технологию](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-for-the-food-how-industry-makes-use-of-the-technology-667a3128.md)
 * 2019-07-07 [Европейский центральный банк Exec призывает к быстрым регулятивным действиям в отношении Весов](https://github.com/theyapapa/cryptonews/blob/ru/european-central-bank-exec-calls-for-fast-regulatory-action-regarding-libra-080e7f0f.md)
 * 2019-07-07 [Топ 5 Крипто Исполнителей: XMR, BTC, BNB, ETC, XRP](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-xmr-btc-bnb-etc-xrp-c94c5bca.md)
 * 2019-07-07 [Обзор нормативного регулирования криптодобычи в разных странах](https://github.com/theyapapa/cryptonews/blob/ru/regulatory-overview-of-crypto-mining-in-different-countries-ecb7d48a.md)
