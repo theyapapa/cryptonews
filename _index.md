@@ -1,3 +1,4 @@
+* 2019-07-07 [호들러의 다이제스트, 7월 1-7일: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-july-17-top-stories-price-movements-quotes-and-fud-of-the-week-0800ba02.md)
 * 2019-07-07 [식품을 위한 블록체인, 산업이 기술을 활용하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-for-the-food-how-industry-makes-use-of-the-technology-667a3128.md)
 * 2019-07-07 [유럽 중앙 은행 임원은 libra에 관한 빠른 규제 조치를 요구](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-exec-calls-for-fast-regulatory-action-regarding-libra-080e7f0f.md)
 * 2019-07-07 [상위 5 암호화 수행자 : XMR, BTC, BNB, 기타, XRP](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-xmr-btc-bnb-etc-xrp-c94c5bca.md)
