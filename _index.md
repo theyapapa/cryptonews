@@ -1,3 +1,4 @@
+* 2019-07-07 [Blockchain for the Food, How Industry Makes Use of the Technology](https://github.com/theyapapa/cryptonews/blob/es/blockchain-for-the-food-how-industry-makes-use-of-the-technology-667a3128.md)
 * 2019-07-07 [Ejecutivo del Banco Central Europeo pide una rápida medida regulatoria en relación con Libra](https://github.com/theyapapa/cryptonews/blob/es/european-central-bank-exec-calls-for-fast-regulatory-action-regarding-libra-080e7f0f.md)
 * 2019-07-07 [Top 5 Crypto Performers: XMR, BTC, BNB, ETC, XRP](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-xmr-btc-bnb-etc-xrp-c94c5bca.md)
 * 2019-07-07 [Resumen Regulatorio de la Minería Criptográfica en Diferentes Países](https://github.com/theyapapa/cryptonews/blob/es/regulatory-overview-of-crypto-mining-in-different-countries-ecb7d48a.md)
