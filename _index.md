@@ -1,3 +1,4 @@
+* 2019-07-07 [Европейский центральный банк Exec призывает к быстрым регулятивным действиям в отношении Весов](https://github.com/theyapapa/cryptonews/blob/ru/european-central-bank-exec-calls-for-fast-regulatory-action-regarding-libra-080e7f0f.md)
 * 2019-07-07 [Топ 5 Крипто Исполнителей: XMR, BTC, BNB, ETC, XRP](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-xmr-btc-bnb-etc-xrp-c94c5bca.md)
 * 2019-07-07 [Обзор нормативного регулирования криптодобычи в разных странах](https://github.com/theyapapa/cryptonews/blob/ru/regulatory-overview-of-crypto-mining-in-different-countries-ecb7d48a.md)
 * 2019-07-06 [Как блокчейн может изменить инвестиционный ландшафт недвижимости](https://github.com/theyapapa/cryptonews/blob/ru/how-blockchain-could-change-the-real-estate-investment-landscape-054bb219.md)
