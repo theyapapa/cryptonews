@@ -1,3 +1,4 @@
+* 2019-07-07 [Топ 5 Крипто Исполнителей: XMR, BTC, BNB, ETC, XRP](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-xmr-btc-bnb-etc-xrp-c94c5bca.md)
 * 2019-07-07 [Обзор нормативного регулирования криптодобычи в разных странах](https://github.com/theyapapa/cryptonews/blob/ru/regulatory-overview-of-crypto-mining-in-different-countries-ecb7d48a.md)
 * 2019-07-06 [Как блокчейн может изменить инвестиционный ландшафт недвижимости](https://github.com/theyapapa/cryptonews/blob/ru/how-blockchain-could-change-the-real-estate-investment-landscape-054bb219.md)
 * 2019-07-06 [Биткоин приближается к $11,500, как Top Cryptos See Gains](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-11-500-as-top-cryptos-see-gains-72518a0a.md)
