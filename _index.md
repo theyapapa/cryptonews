@@ -1,3 +1,4 @@
+* 2019-07-07 [Обзор нормативного регулирования криптодобычи в разных странах](https://github.com/theyapapa/cryptonews/blob/ru/regulatory-overview-of-crypto-mining-in-different-countries-ecb7d48a.md)
 * 2019-07-06 [Как блокчейн может изменить инвестиционный ландшафт недвижимости](https://github.com/theyapapa/cryptonews/blob/ru/how-blockchain-could-change-the-real-estate-investment-landscape-054bb219.md)
 * 2019-07-06 [Биткоин приближается к $11,500, как Top Cryptos See Gains](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-approaches-11-500-as-top-cryptos-see-gains-72518a0a.md)
 * 2019-07-06 [Избежать государственных налогов на Крипто с недавним решением Верховного суда США доверия?](https://github.com/theyapapa/cryptonews/blob/ru/avoid-state-taxes-on-crypto-with-us-supreme-courts-recent-trust-decision-b16374b4.md)
