@@ -1,3 +1,4 @@
+* 2019-07-07 [상위 5 암호화 수행자 : XMR, BTC, BNB, 기타, XRP](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-xmr-btc-bnb-etc-xrp-c94c5bca.md)
 * 2019-07-07 [다른 나라에서 암호화 마이닝의 규제 개요](https://github.com/theyapapa/cryptonews/blob/ko/regulatory-overview-of-crypto-mining-in-different-countries-ecb7d48a.md)
 * 2019-07-06 [블록 체인이 부동산 투자 환경을 바꿀 수있는 방법](https://github.com/theyapapa/cryptonews/blob/ko/how-blockchain-could-change-the-real-estate-investment-landscape-054bb219.md)
 * 2019-07-06 [비트 코인 접근 $11,500 최고 암호로 이익을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-approaches-11-500-as-top-cryptos-see-gains-72518a0a.md)
