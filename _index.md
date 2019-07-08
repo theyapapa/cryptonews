@@ -1,3 +1,4 @@
+* 2019-07-08 [Tron 'Partners' con la policía local contra la mafia furiosa en la oficina de Beijing](https://github.com/theyapapa/cryptonews/blob/es/tron-partners-with-local-police-against-angry-mob-at-beijing-office-623819c3.md)
 * 2019-07-08 [Como Deutsche Bank Axes 18,000 Jobs, Bitcoin ofrece un poderoso 'Plan'](https://github.com/theyapapa/cryptonews/blob/es/as-deutsche-bank-axes-18-000-jobs-bitcoin-offers-a-powerful-plan-5a3a5d2c.md)
 * 2019-07-07 [Hodler's Digest, del 1 al 7 de julio: Top Stories, Price Movements, Quotes and FUD of the Week](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-july-17-top-stories-price-movements-quotes-and-fud-of-the-week-0800ba02.md)
 * 2019-07-07 [Blockchain for the Food, How Industry Makes Use of the Technology](https://github.com/theyapapa/cryptonews/blob/es/blockchain-for-the-food-how-industry-makes-use-of-the-technology-667a3128.md)
