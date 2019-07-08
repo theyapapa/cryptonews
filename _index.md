@@ -1,3 +1,4 @@
+* 2019-07-08 [Bitstamp Крипто биржа устанавливает молнии сети узла](https://github.com/theyapapa/cryptonews/blob/ru/bitstamp-crypto-exchange-sets-up-lightning-network-node-cbf6c7d2.md)
 * 2019-07-08 [Трон "Партнеры" с местной полицией против злой мафии в Пекине офис](https://github.com/theyapapa/cryptonews/blob/ru/tron-partners-with-local-police-against-angry-mob-at-beijing-office-623819c3.md)
 * 2019-07-08 [Как Deutsche Bank Axes 18000 рабочих мест, Bitcoin предлагает мощный 'План»](https://github.com/theyapapa/cryptonews/blob/ru/as-deutsche-bank-axes-18-000-jobs-bitcoin-offers-a-powerful-plan-5a3a5d2c.md)
 * 2019-07-07 [Hodler's Digest, 1-7 июля: Лучшие истории, Движения цен, Котировки и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-july-17-top-stories-price-movements-quotes-and-fud-of-the-week-0800ba02.md)
