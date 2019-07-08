@@ -1,3 +1,4 @@
+* 2019-07-08 [Banco Central de China desarrolla moneda digital propia en respuesta a Libra](https://github.com/theyapapa/cryptonews/blob/es/chinas-central-bank-developing-own-digital-currency-in-response-to-libra-419049ef.md)
 * 2019-07-08 [Bitstamp Crypto Exchange configura el nodo de red Lightning](https://github.com/theyapapa/cryptonews/blob/es/bitstamp-crypto-exchange-sets-up-lightning-network-node-cbf6c7d2.md)
 * 2019-07-08 [Tron 'Partners' con la policía local contra la mafia furiosa en la oficina de Beijing](https://github.com/theyapapa/cryptonews/blob/es/tron-partners-with-local-police-against-angry-mob-at-beijing-office-623819c3.md)
 * 2019-07-08 [Como Deutsche Bank Axes 18,000 Jobs, Bitcoin ofrece un poderoso 'Plan'](https://github.com/theyapapa/cryptonews/blob/es/as-deutsche-bank-axes-18-000-jobs-bitcoin-offers-a-powerful-plan-5a3a5d2c.md)
