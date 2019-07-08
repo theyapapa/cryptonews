@@ -1,3 +1,4 @@
+* 2019-07-08 [Индийские власти выражают озабоченность по поводу Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/indian-authorities-express-concerns-over-facebooks-libra-59a6412d.md)
 * 2019-07-08 [Центральный банк Китая разрабатывает собственную цифровую валюту в ответ на Весы](https://github.com/theyapapa/cryptonews/blob/ru/chinas-central-bank-developing-own-digital-currency-in-response-to-libra-419049ef.md)
 * 2019-07-08 [Bitstamp Крипто биржа устанавливает молнии сети узла](https://github.com/theyapapa/cryptonews/blob/ru/bitstamp-crypto-exchange-sets-up-lightning-network-node-cbf6c7d2.md)
 * 2019-07-08 [Трон "Партнеры" с местной полицией против злой мафии в Пекине офис](https://github.com/theyapapa/cryptonews/blob/ru/tron-partners-with-local-police-against-angry-mob-at-beijing-office-623819c3.md)
