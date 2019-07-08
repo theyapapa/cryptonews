@@ -1,3 +1,4 @@
+* 2019-07-08 [Estudio: Mercado de cadena de suministro Blockchain alcanzará más de $9 Miles de millones para 2025](https://github.com/theyapapa/cryptonews/blob/es/study-blockchain-supply-chain-market-to-reach-over-9b-by-2025-0c951e98.md)
 * 2019-07-08 [Las autoridades indias expresan su preocupación por la libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/indian-authorities-express-concerns-over-facebooks-libra-59a6412d.md)
 * 2019-07-08 [Banco Central de China desarrolla moneda digital propia en respuesta a Libra](https://github.com/theyapapa/cryptonews/blob/es/chinas-central-bank-developing-own-digital-currency-in-response-to-libra-419049ef.md)
 * 2019-07-08 [Bitstamp Crypto Exchange configura el nodo de red Lightning](https://github.com/theyapapa/cryptonews/blob/es/bitstamp-crypto-exchange-sets-up-lightning-network-node-cbf6c7d2.md)
