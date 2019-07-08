@@ -1,3 +1,4 @@
+* 2019-07-08 [인도 당국은 페이스 북의 선칭 에 대한 우려를 표명](https://github.com/theyapapa/cryptonews/blob/ko/indian-authorities-express-concerns-over-facebooks-libra-59a6412d.md)
 * 2019-07-08 [중국 중앙 은행은 선관름에 대응하여 자체 디지털 통화를 개발](https://github.com/theyapapa/cryptonews/blob/ko/chinas-central-bank-developing-own-digital-currency-in-response-to-libra-419049ef.md)
 * 2019-07-08 [비트 스탬프 암호화 교환 번개 네트워크 노드를 설정](https://github.com/theyapapa/cryptonews/blob/ko/bitstamp-crypto-exchange-sets-up-lightning-network-node-cbf6c7d2.md)
 * 2019-07-08 [트론 '파트너' 베이징 사무실에서 성난 폭도에 대 한 지역 경찰](https://github.com/theyapapa/cryptonews/blob/ko/tron-partners-with-local-police-against-angry-mob-at-beijing-office-623819c3.md)
