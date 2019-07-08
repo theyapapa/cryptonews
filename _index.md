@@ -1,3 +1,4 @@
+* 2019-07-08 [비트 스탬프 암호화 교환 번개 네트워크 노드를 설정](https://github.com/theyapapa/cryptonews/blob/ko/bitstamp-crypto-exchange-sets-up-lightning-network-node-cbf6c7d2.md)
 * 2019-07-08 [트론 '파트너' 베이징 사무실에서 성난 폭도에 대 한 지역 경찰](https://github.com/theyapapa/cryptonews/blob/ko/tron-partners-with-local-police-against-angry-mob-at-beijing-office-623819c3.md)
 * 2019-07-08 [도이치뱅크가 18,000개의 일자리를 창출함에 따라 비트코인은 강력한 '계획'을 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/as-deutsche-bank-axes-18-000-jobs-bitcoin-offers-a-powerful-plan-5a3a5d2c.md)
 * 2019-07-07 [호들러의 다이제스트, 7월 1-7일: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-july-17-top-stories-price-movements-quotes-and-fud-of-the-week-0800ba02.md)
