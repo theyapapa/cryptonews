@@ -1,3 +1,4 @@
+* 2019-07-08 [도이치뱅크가 18,000개의 일자리를 창출함에 따라 비트코인은 강력한 '계획'을 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/as-deutsche-bank-axes-18-000-jobs-bitcoin-offers-a-powerful-plan-5a3a5d2c.md)
 * 2019-07-07 [호들러의 다이제스트, 7월 1-7일: 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-july-17-top-stories-price-movements-quotes-and-fud-of-the-week-0800ba02.md)
 * 2019-07-07 [식품을 위한 블록체인, 산업이 기술을 활용하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-for-the-food-how-industry-makes-use-of-the-technology-667a3128.md)
 * 2019-07-07 [유럽 중앙 은행 임원은 libra에 관한 빠른 규제 조치를 요구](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-exec-calls-for-fast-regulatory-action-regarding-libra-080e7f0f.md)
