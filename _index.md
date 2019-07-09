@@ -1,3 +1,4 @@
+* 2019-07-09 [BitMarket de Polonia Crypto Exchange cierra citando pérdida de liquidez](https://github.com/theyapapa/cryptonews/blob/es/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
 * 2019-07-09 [Crypto Friendly Regulation puede ayudar al Brexit del Reino Unido, dice $10 mil millones de gigantes consultivos](https://github.com/theyapapa/cryptonews/blob/es/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
 * 2019-07-09 [Industria criptográfica en números: ¿Cómo se compara el segundo trimestre de 2019 con el pasado](https://github.com/theyapapa/cryptonews/blob/es/crypto-industry-in-numbers-how-does-q2-2019-compare-to-the-past-1812f91c.md)
 * 2019-07-08 [Informe: Fortress ofrece comprar reclamos de Bitcoin Mt. Gox a $900 por pieza](https://github.com/theyapapa/cryptonews/blob/es/report-fortress-offers-to-buy-mt-gox-bitcoin-claims-at-900-a-piece-35cc5ae5.md)
