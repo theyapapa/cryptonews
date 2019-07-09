@@ -1,3 +1,4 @@
+* 2019-07-09 [블록체인 솔루션에서 확장성이 중요한 이유는 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
 * 2019-07-09 [LG, 미국에서 'ThinQ 지갑' 암호화지갑 상표 출원](https://github.com/theyapapa/cryptonews/blob/ko/lg-applies-for-thinq-wallet-crypto-wallet-trademark-in-the-us-7c67a713.md)
 * 2019-07-09 [폴란드어 암호화 교환 비트 마켓은 유동성 손실을 인용 종료](https://github.com/theyapapa/cryptonews/blob/ko/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
 * 2019-07-09 [암호화 친화적 인 규제는 영국 브렉시트를 도울 수 있습니다, 말한다 $100 억 자문 거인](https://github.com/theyapapa/cryptonews/blob/ko/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
