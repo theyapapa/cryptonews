@@ -1,3 +1,4 @@
+* 2019-07-09 [코인마켓캡, 암호화폐 브리핑, 새로운 분석 제품 소개](https://github.com/theyapapa/cryptonews/blob/ko/coinmarketcap-and-crypto-briefing-introduce-new-analysis-product-1a825e5e.md)
 * 2019-07-09 [블록체인 솔루션에서 확장성이 중요한 이유는 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
 * 2019-07-09 [LG, 미국에서 'ThinQ 지갑' 암호화지갑 상표 출원](https://github.com/theyapapa/cryptonews/blob/ko/lg-applies-for-thinq-wallet-crypto-wallet-trademark-in-the-us-7c67a713.md)
 * 2019-07-09 [폴란드어 암호화 교환 비트 마켓은 유동성 손실을 인용 종료](https://github.com/theyapapa/cryptonews/blob/ko/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
