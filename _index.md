@@ -1,3 +1,4 @@
+* 2019-07-09 [치아는 암호화 마이닝의 환경 친화적 인 수단을 자세히 그린 페이퍼출시](https://github.com/theyapapa/cryptonews/blob/ko/chia-releases-green-paper-detailing-eco-friendly-means-of-crypto-mining-37c09676.md)
 * 2019-07-09 [IRS 주장 기술 거인 출시 사용자 암호화 활동을 만들기 위해 희망](https://github.com/theyapapa/cryptonews/blob/ko/irs-allegedly-hopes-to-make-tech-giants-release-user-crypto-activity-e10b0c01.md)
 * 2019-07-09 [코인마켓캡, 암호화폐 브리핑, 새로운 분석 제품 소개](https://github.com/theyapapa/cryptonews/blob/ko/coinmarketcap-and-crypto-briefing-introduce-new-analysis-product-1a825e5e.md)
 * 2019-07-09 [블록체인 솔루션에서 확장성이 중요한 이유는 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
