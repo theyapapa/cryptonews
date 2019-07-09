@@ -1,3 +1,4 @@
+* 2019-07-09 [Чиа релизы Зеленая бумага Подробная экологически чистые средства крипто-добычи](https://github.com/theyapapa/cryptonews/blob/ru/chia-releases-green-paper-detailing-eco-friendly-means-of-crypto-mining-37c09676.md)
 * 2019-07-09 [IRS якобы надеется сделать Tech гиганты релиз пользователя Crypto деятельности](https://github.com/theyapapa/cryptonews/blob/ru/irs-allegedly-hopes-to-make-tech-giants-release-user-crypto-activity-e10b0c01.md)
 * 2019-07-09 [CoinMarketCap и Крипто Брифинг представить новый продукт анализа](https://github.com/theyapapa/cryptonews/blob/ru/coinmarketcap-and-crypto-briefing-introduce-new-analysis-product-1a825e5e.md)
 * 2019-07-09 [Почему масштабируемость так важна для блокчейн-решений?](https://github.com/theyapapa/cryptonews/blob/ru/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
