@@ -1,3 +1,4 @@
+* 2019-07-08 [Доклад: Крепость Предлагает купить Mt. Gox Bitcoin Претензии на $ 900 за кусок](https://github.com/theyapapa/cryptonews/blob/ru/report-fortress-offers-to-buy-mt-gox-bitcoin-claims-at-900-a-piece-35cc5ae5.md)
 * 2019-07-08 [Исследование: Рынок цепи поставок blockchain достигнет более $9 Миллиарды к 2025 году](https://github.com/theyapapa/cryptonews/blob/ru/study-blockchain-supply-chain-market-to-reach-over-9b-by-2025-0c951e98.md)
 * 2019-07-08 [Индийские власти выражают озабоченность по поводу Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/indian-authorities-express-concerns-over-facebooks-libra-59a6412d.md)
 * 2019-07-08 [Центральный банк Китая разрабатывает собственную цифровую валюту в ответ на Весы](https://github.com/theyapapa/cryptonews/blob/ru/chinas-central-bank-developing-own-digital-currency-in-response-to-libra-419049ef.md)
