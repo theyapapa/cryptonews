@@ -1,3 +1,4 @@
+* 2019-07-09 [LG подает заявку на "Тонкий кошелек" Crypto Кошелек товарный знак в США](https://github.com/theyapapa/cryptonews/blob/ru/lg-applies-for-thinq-wallet-crypto-wallet-trademark-in-the-us-7c67a713.md)
 * 2019-07-09 [Польская криптобиржа BitMarket выключается, ссылаясь на потерю ликвидности](https://github.com/theyapapa/cryptonews/blob/ru/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
 * 2019-07-09 [Crypto Дружественное регулирование может помочь Великобритании Brexit, говорит $ 10 млрд консультативных гигантских](https://github.com/theyapapa/cryptonews/blob/ru/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
 * 2019-07-09 [Криптоиндустрия в цифрах: как второй квартал 2019 года сравнить с прошлым](https://github.com/theyapapa/cryptonews/blob/ru/crypto-industry-in-numbers-how-does-q2-2019-compare-to-the-past-1812f91c.md)
