@@ -1,3 +1,4 @@
+* 2019-07-09 [Польская криптобиржа BitMarket выключается, ссылаясь на потерю ликвидности](https://github.com/theyapapa/cryptonews/blob/ru/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
 * 2019-07-09 [Crypto Дружественное регулирование может помочь Великобритании Brexit, говорит $ 10 млрд консультативных гигантских](https://github.com/theyapapa/cryptonews/blob/ru/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
 * 2019-07-09 [Криптоиндустрия в цифрах: как второй квартал 2019 года сравнить с прошлым](https://github.com/theyapapa/cryptonews/blob/ru/crypto-industry-in-numbers-how-does-q2-2019-compare-to-the-past-1812f91c.md)
 * 2019-07-08 [Доклад: Крепость Предлагает купить Mt. Gox Bitcoin Претензии на $ 900 за кусок](https://github.com/theyapapa/cryptonews/blob/ru/report-fortress-offers-to-buy-mt-gox-bitcoin-claims-at-900-a-piece-35cc5ae5.md)
