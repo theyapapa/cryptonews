@@ -1,3 +1,4 @@
+* 2019-07-09 [IRS якобы надеется сделать Tech гиганты релиз пользователя Crypto деятельности](https://github.com/theyapapa/cryptonews/blob/ru/irs-allegedly-hopes-to-make-tech-giants-release-user-crypto-activity-e10b0c01.md)
 * 2019-07-09 [CoinMarketCap и Крипто Брифинг представить новый продукт анализа](https://github.com/theyapapa/cryptonews/blob/ru/coinmarketcap-and-crypto-briefing-introduce-new-analysis-product-1a825e5e.md)
 * 2019-07-09 [Почему масштабируемость так важна для блокчейн-решений?](https://github.com/theyapapa/cryptonews/blob/ru/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
 * 2019-07-09 [LG подает заявку на "Тонкий кошелек" Crypto Кошелек товарный знак в США](https://github.com/theyapapa/cryptonews/blob/ru/lg-applies-for-thinq-wallet-crypto-wallet-trademark-in-the-us-7c67a713.md)
