@@ -1,3 +1,4 @@
+* 2019-07-09 [¿Por qué es tan importante la escalabilidad para las soluciones de cadena de bloques?](https://github.com/theyapapa/cryptonews/blob/es/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
 * 2019-07-09 [LG se aplica a la marca de monedero criptográfico 'ThinQ Wallet' en los EE.UU.](https://github.com/theyapapa/cryptonews/blob/es/lg-applies-for-thinq-wallet-crypto-wallet-trademark-in-the-us-7c67a713.md)
 * 2019-07-09 [BitMarket de Polonia Crypto Exchange cierra citando pérdida de liquidez](https://github.com/theyapapa/cryptonews/blob/es/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
 * 2019-07-09 [Crypto Friendly Regulation puede ayudar al Brexit del Reino Unido, dice $10 mil millones de gigantes consultivos](https://github.com/theyapapa/cryptonews/blob/es/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
