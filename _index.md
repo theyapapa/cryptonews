@@ -1,3 +1,4 @@
+* 2019-07-09 [IRS supuestamente espera hacer que Tech Giants libere actividad de criptográfica de usuario](https://github.com/theyapapa/cryptonews/blob/es/irs-allegedly-hopes-to-make-tech-giants-release-user-crypto-activity-e10b0c01.md)
 * 2019-07-09 [CoinMarketCap y Crypto Briefing introducen un nuevo producto de análisis](https://github.com/theyapapa/cryptonews/blob/es/coinmarketcap-and-crypto-briefing-introduce-new-analysis-product-1a825e5e.md)
 * 2019-07-09 [¿Por qué es tan importante la escalabilidad para las soluciones de cadena de bloques?](https://github.com/theyapapa/cryptonews/blob/es/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
 * 2019-07-09 [LG se aplica a la marca de monedero criptográfico 'ThinQ Wallet' en los EE.UU.](https://github.com/theyapapa/cryptonews/blob/es/lg-applies-for-thinq-wallet-crypto-wallet-trademark-in-the-us-7c67a713.md)
