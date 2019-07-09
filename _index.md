@@ -1,3 +1,4 @@
+* 2019-07-09 [폴란드어 암호화 교환 비트 마켓은 유동성 손실을 인용 종료](https://github.com/theyapapa/cryptonews/blob/ko/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
 * 2019-07-09 [암호화 친화적 인 규제는 영국 브렉시트를 도울 수 있습니다, 말한다 $100 억 자문 거인](https://github.com/theyapapa/cryptonews/blob/ko/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
 * 2019-07-09 [숫자의 암호화 산업: 2019년 2분기는 과거와 어떻게 비교됩니까?](https://github.com/theyapapa/cryptonews/blob/ko/crypto-industry-in-numbers-how-does-q2-2019-compare-to-the-past-1812f91c.md)
 * 2019-07-08 [보고서: 요새에서 산을 구입 제공. Gox 비트 코인 클레임 $900 한 조각](https://github.com/theyapapa/cryptonews/blob/ko/report-fortress-offers-to-buy-mt-gox-bitcoin-claims-at-900-a-piece-35cc5ae5.md)
