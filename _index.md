@@ -1,3 +1,4 @@
+* 2019-07-09 [Crypto Дружественное регулирование может помочь Великобритании Brexit, говорит $ 10 млрд консультативных гигантских](https://github.com/theyapapa/cryptonews/blob/ru/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
 * 2019-07-09 [Криптоиндустрия в цифрах: как второй квартал 2019 года сравнить с прошлым](https://github.com/theyapapa/cryptonews/blob/ru/crypto-industry-in-numbers-how-does-q2-2019-compare-to-the-past-1812f91c.md)
 * 2019-07-08 [Доклад: Крепость Предлагает купить Mt. Gox Bitcoin Претензии на $ 900 за кусок](https://github.com/theyapapa/cryptonews/blob/ru/report-fortress-offers-to-buy-mt-gox-bitcoin-claims-at-900-a-piece-35cc5ae5.md)
 * 2019-07-08 [Исследование: Рынок цепи поставок blockchain достигнет более $9 Миллиарды к 2025 году](https://github.com/theyapapa/cryptonews/blob/ru/study-blockchain-supply-chain-market-to-reach-over-9b-by-2025-0c951e98.md)
