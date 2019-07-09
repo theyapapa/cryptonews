@@ -1,3 +1,4 @@
+* 2019-07-09 [Почему масштабируемость так важна для блокчейн-решений?](https://github.com/theyapapa/cryptonews/blob/ru/why-is-scalability-so-important-for-blockchain-solutions-548e1a99.md)
 * 2019-07-09 [LG подает заявку на "Тонкий кошелек" Crypto Кошелек товарный знак в США](https://github.com/theyapapa/cryptonews/blob/ru/lg-applies-for-thinq-wallet-crypto-wallet-trademark-in-the-us-7c67a713.md)
 * 2019-07-09 [Польская криптобиржа BitMarket выключается, ссылаясь на потерю ликвидности](https://github.com/theyapapa/cryptonews/blob/ru/polish-crypto-exchange-bitmarket-shuts-down-citing-liquidity-loss-b17b1cee.md)
 * 2019-07-09 [Crypto Дружественное регулирование может помочь Великобритании Brexit, говорит $ 10 млрд консультативных гигантских](https://github.com/theyapapa/cryptonews/blob/ru/crypto-friendly-regulation-can-help-uk-brexit-says-10-billion-advisory-giant-513e2804.md)
