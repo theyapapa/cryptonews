@@ -1,3 +1,4 @@
+* 2019-07-09 [숫자의 암호화 산업: 2019년 2분기는 과거와 어떻게 비교됩니까?](https://github.com/theyapapa/cryptonews/blob/ko/crypto-industry-in-numbers-how-does-q2-2019-compare-to-the-past-1812f91c.md)
 * 2019-07-08 [보고서: 요새에서 산을 구입 제공. Gox 비트 코인 클레임 $900 한 조각](https://github.com/theyapapa/cryptonews/blob/ko/report-fortress-offers-to-buy-mt-gox-bitcoin-claims-at-900-a-piece-35cc5ae5.md)
 * 2019-07-08 [연구: 2025년까지 $9B 이상에 도달할 블록체인 공급망 시장](https://github.com/theyapapa/cryptonews/blob/ko/study-blockchain-supply-chain-market-to-reach-over-9b-by-2025-0c951e98.md)
 * 2019-07-08 [인도 당국은 페이스 북의 선칭 에 대한 우려를 표명](https://github.com/theyapapa/cryptonews/blob/ko/indian-authorities-express-concerns-over-facebooks-libra-59a6412d.md)
