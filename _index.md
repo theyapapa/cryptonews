@@ -1,3 +1,4 @@
+* 2019-07-10 [Провидент Банк теперь предлагает депозитные услуги для crypto-related образований](https://github.com/theyapapa/cryptonews/blob/ru/the-provident-bank-now-offers-deposit-services-for-crypto-related-entities-e93ccdf6.md)
 * 2019-07-10 [Развитие блокчейна на Ближнем Востоке будет вести мировую индустрию](https://github.com/theyapapa/cryptonews/blob/ru/middle-east-blockchain-development-primed-to-lead-the-global-industry-b0787193.md)
 * 2019-07-10 [Visa делает вторые инвестиции в крипто-стартап](https://github.com/theyapapa/cryptonews/blob/ru/visa-makes-its-second-investment-into-a-crypto-startup-366e3778.md)
 * 2019-07-10 [Чарли Ли: В следующем месяце в halving будет "шок" для Litecoin горнодобывающей](https://github.com/theyapapa/cryptonews/blob/ru/charlie-lee-next-months-halving-will-be-a-shock-to-litecoin-mining-1080269b.md)
