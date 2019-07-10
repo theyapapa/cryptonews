@@ -1,3 +1,4 @@
+* 2019-07-10 [El Banco Providente ahora ofrece servicios de depósito para entidades relacionadas con criptodivisas](https://github.com/theyapapa/cryptonews/blob/es/the-provident-bank-now-offers-deposit-services-for-crypto-related-entities-e93ccdf6.md)
 * 2019-07-10 [Desarrollo de Blockchain de Oriente Medio preparado para liderar la industria global](https://github.com/theyapapa/cryptonews/blob/es/middle-east-blockchain-development-primed-to-lead-the-global-industry-b0787193.md)
 * 2019-07-10 [Visa convierte su segunda inversión en una startup criptográfica](https://github.com/theyapapa/cryptonews/blob/es/visa-makes-its-second-investment-into-a-crypto-startup-366e3778.md)
 * 2019-07-10 [Charlie Lee: La estantería del mes próximo será un 'shock' para la minería litecoin](https://github.com/theyapapa/cryptonews/blob/es/charlie-lee-next-months-halving-will-be-a-shock-to-litecoin-mining-1080269b.md)
