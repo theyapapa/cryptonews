@@ -1,3 +1,4 @@
+* 2019-07-10 [El Banco Central de la UE no añadirá Bitcoin a las reservas — dice que no es una moneda](https://github.com/theyapapa/cryptonews/blob/es/eu-central-bank-wont-add-bitcoin-to-reserves-says-its-not-a-currency-27b72502.md)
 * 2019-07-09 [David Marcus de Facebook asegura al Congreso que Libra cooperará](https://github.com/theyapapa/cryptonews/blob/es/facebooks-david-marcus-assures-congress-that-libra-will-cooperate-4691e97d.md)
 * 2019-07-09 [Chia publica el Libro Verde que detalla los medios ecológicos de la minería criptográfica](https://github.com/theyapapa/cryptonews/blob/es/chia-releases-green-paper-detailing-eco-friendly-means-of-crypto-mining-37c09676.md)
 * 2019-07-09 [IRS supuestamente espera hacer que Tech Giants libere actividad de criptográfica de usuario](https://github.com/theyapapa/cryptonews/blob/es/irs-allegedly-hopes-to-make-tech-giants-release-user-crypto-activity-e10b0c01.md)
