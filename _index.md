@@ -1,3 +1,4 @@
+* 2019-07-10 [El gigante ruso de la fundición Nornickel lanzará la plataforma de comercio digital a finales de 2019](https://github.com/theyapapa/cryptonews/blob/es/russian-smelting-giant-nornickel-to-launch-digital-trading-platform-by-end-of-2019-775f3b72.md)
 * 2019-07-10 [Análisis de Precios 10/07: BTC, ETH, XRP, BCH, LTC, EOS, BNB, BSV, TRX, ADA](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-10-07-btc-eth-xrp-bch-ltc-eos-bnb-bsv-trx-ada-e69ce42c.md)
 * 2019-07-10 [El Banco Providente ahora ofrece servicios de depósito para entidades relacionadas con criptodivisas](https://github.com/theyapapa/cryptonews/blob/es/the-provident-bank-now-offers-deposit-services-for-crypto-related-entities-e93ccdf6.md)
 * 2019-07-10 [Desarrollo de Blockchain de Oriente Medio preparado para liderar la industria global](https://github.com/theyapapa/cryptonews/blob/es/middle-east-blockchain-development-primed-to-lead-the-global-industry-b0787193.md)
