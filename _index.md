@@ -1,3 +1,4 @@
+* 2019-07-10 [프로비던트 은행은 이제 암호화 관련 기관에 대한 예금 서비스를 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/the-provident-bank-now-offers-deposit-services-for-crypto-related-entities-e93ccdf6.md)
 * 2019-07-10 [중동 블록체인 개발, 글로벌 산업을 이끌 기](https://github.com/theyapapa/cryptonews/blob/ko/middle-east-blockchain-development-primed-to-lead-the-global-industry-b0787193.md)
 * 2019-07-10 [비자는 암호화 스타트업에 두 번째 투자를합니다](https://github.com/theyapapa/cryptonews/blob/ko/visa-makes-its-second-investment-into-a-crypto-startup-366e3778.md)
 * 2019-07-10 [찰리 리: 다음 달의 절반 라이트 코인 마이닝에 '충격'이 될 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/charlie-lee-next-months-halving-will-be-a-shock-to-litecoin-mining-1080269b.md)
