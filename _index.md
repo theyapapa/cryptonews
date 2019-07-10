@@ -1,3 +1,4 @@
+* 2019-07-10 [러시아 제련 거 대 한 노르 니켈 2019 년 말까지 디지털 거래 플랫폼을 시작](https://github.com/theyapapa/cryptonews/blob/ko/russian-smelting-giant-nornickel-to-launch-digital-trading-platform-by-end-of-2019-775f3b72.md)
 * 2019-07-10 [가격 분석 10/07: BTC, ETH, XRP, BCH, LTC, EOS, BNB, BSV, TRX, ADA](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-10-07-btc-eth-xrp-bch-ltc-eos-bnb-bsv-trx-ada-e69ce42c.md)
 * 2019-07-10 [프로비던트 은행은 이제 암호화 관련 기관에 대한 예금 서비스를 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/the-provident-bank-now-offers-deposit-services-for-crypto-related-entities-e93ccdf6.md)
 * 2019-07-10 [중동 블록체인 개발, 글로벌 산업을 이끌 기](https://github.com/theyapapa/cryptonews/blob/ko/middle-east-blockchain-development-primed-to-lead-the-global-industry-b0787193.md)
