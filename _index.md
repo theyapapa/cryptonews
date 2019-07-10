@@ -1,3 +1,4 @@
+* 2019-07-10 [비자는 암호화 스타트업에 두 번째 투자를합니다](https://github.com/theyapapa/cryptonews/blob/ko/visa-makes-its-second-investment-into-a-crypto-startup-366e3778.md)
 * 2019-07-10 [찰리 리: 다음 달의 절반 라이트 코인 마이닝에 '충격'이 될 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/charlie-lee-next-months-halving-will-be-a-shock-to-litecoin-mining-1080269b.md)
 * 2019-07-10 [EU 중앙 은행은 준비금에 비트 코인을 추가하지 않습니다 - 그것의 통화가 아니라고 말한다](https://github.com/theyapapa/cryptonews/blob/ko/eu-central-bank-wont-add-bitcoin-to-reserves-says-its-not-a-currency-27b72502.md)
 * 2019-07-09 [페이스 북의 데이비드 마커스 는 의회에 선칭 자리가 협력할 것이라고 확신합니다.](https://github.com/theyapapa/cryptonews/blob/ko/facebooks-david-marcus-assures-congress-that-libra-will-cooperate-4691e97d.md)
