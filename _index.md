@@ -1,3 +1,4 @@
+* 2019-07-10 [Развитие блокчейна на Ближнем Востоке будет вести мировую индустрию](https://github.com/theyapapa/cryptonews/blob/ru/middle-east-blockchain-development-primed-to-lead-the-global-industry-b0787193.md)
 * 2019-07-10 [Visa делает вторые инвестиции в крипто-стартап](https://github.com/theyapapa/cryptonews/blob/ru/visa-makes-its-second-investment-into-a-crypto-startup-366e3778.md)
 * 2019-07-10 [Чарли Ли: В следующем месяце в halving будет "шок" для Litecoin горнодобывающей](https://github.com/theyapapa/cryptonews/blob/ru/charlie-lee-next-months-halving-will-be-a-shock-to-litecoin-mining-1080269b.md)
 * 2019-07-10 [Центральный банк ЕС не будет добавлять биткоины в резервы - Говорит, что это не валюта](https://github.com/theyapapa/cryptonews/blob/ru/eu-central-bank-wont-add-bitcoin-to-reserves-says-its-not-a-currency-27b72502.md)
