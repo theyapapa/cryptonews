@@ -1,3 +1,4 @@
+* 2019-07-10 [Центральный банк ЕС не будет добавлять биткоины в резервы - Говорит, что это не валюта](https://github.com/theyapapa/cryptonews/blob/ru/eu-central-bank-wont-add-bitcoin-to-reserves-says-its-not-a-currency-27b72502.md)
 * 2019-07-09 [Facebook Дэвид Маркус заверяет Конгресс, что Весы будут сотрудничать](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-david-marcus-assures-congress-that-libra-will-cooperate-4691e97d.md)
 * 2019-07-09 [Чиа релизы Зеленая бумага Подробная экологически чистые средства крипто-добычи](https://github.com/theyapapa/cryptonews/blob/ru/chia-releases-green-paper-detailing-eco-friendly-means-of-crypto-mining-37c09676.md)
 * 2019-07-09 [IRS якобы надеется сделать Tech гиганты релиз пользователя Crypto деятельности](https://github.com/theyapapa/cryptonews/blob/ru/irs-allegedly-hopes-to-make-tech-giants-release-user-crypto-activity-e10b0c01.md)
