@@ -1,3 +1,4 @@
+* 2019-07-11 [Binance, 마진 거래로 2.0 플랫폼 공식 출시](https://github.com/theyapapa/cryptonews/blob/ko/binance-officially-launches-its-20-platform-with-margin-trading-7ef4130c.md)
 * 2019-07-10 [캐나다: 암호화 거래소는 내년 6 월 금융 감시에 등록해야](https://github.com/theyapapa/cryptonews/blob/ko/canada-crypto-exchanges-must-register-with-financial-watchdog-next-june-ce8d2834.md)
 * 2019-07-10 [암호화 시장은 날카로운 하락을 참조, 금은 상승에](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-drop-gold-is-on-the-rise-ccf08203.md)
 * 2019-07-10 [바누아투 는 암호화 계획에 관여 혐의로 6 명의 중국 인민을 추방](https://github.com/theyapapa/cryptonews/blob/ko/vanuatu-extradicts-six-chinese-citizens-allegedly-involved-in-crypto-scheme-48bd71d9.md)
