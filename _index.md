@@ -1,3 +1,4 @@
+* 2019-07-11 [Props anuncia el primer token blockchain aprobado por la SEC](https://github.com/theyapapa/cryptonews/blob/es/props-announces-first-sec-approved-consumer-facing-blockchain-token-b58fb836.md)
 * 2019-07-11 [Cooperativa Brasileña de Cafeteo emitirá una Ficha Respaldada por Café](https://github.com/theyapapa/cryptonews/blob/es/brazilian-coffee-farming-cooperative-to-issue-a-coffee-backed-token-7ec5da3f.md)
 * 2019-07-11 [BTC Peer-to-Peer Trading Rises Amid Ban on USD in Zimbabwe: Report](https://github.com/theyapapa/cryptonews/blob/es/btc-peer-to-peer-trading-rises-amid-ban-on-usd-in-zimbabwe-report-bc165fba.md)
 * 2019-07-11 [El concepto Libra de Facebook afectará a los pagos transfronterizos: ex jefe de PBoC](https://github.com/theyapapa/cryptonews/blob/es/facebooks-libra-concept-will-impact-cross-border-payments-ex-pboc-chief-4bf8fd6b.md)
