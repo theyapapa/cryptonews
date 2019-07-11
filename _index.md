@@ -1,3 +1,4 @@
+* 2019-07-11 [El concepto Libra de Facebook afectará a los pagos transfronterizos: ex jefe de PBoC](https://github.com/theyapapa/cryptonews/blob/es/facebooks-libra-concept-will-impact-cross-border-payments-ex-pboc-chief-4bf8fd6b.md)
 * 2019-07-11 [Policía Española: Bitcoin ATMs un punto ciego para las leyes de lavado de dinero](https://github.com/theyapapa/cryptonews/blob/es/spanish-police-bitcoin-atms-a-blind-spot-for-money-laundering-laws-e8675b4e.md)
 * 2019-07-11 [Bitcoin Startup trae pagos de red Lightning a Amazon, Whole Foods](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-startup-brings-lightning-network-payments-to-amazon-whole-foods-009ce1a1.md)
 * 2019-07-11 [Binance lanza oficialmente su plataforma 2.0 con margin Trading](https://github.com/theyapapa/cryptonews/blob/es/binance-officially-launches-its-20-platform-with-margin-trading-7ef4130c.md)
