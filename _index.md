@@ -1,3 +1,4 @@
+* 2019-07-11 [BTC Peer-to-Peer Trading растет на фоне запрета на доллар США в Зимбабве: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/btc-peer-to-peer-trading-rises-amid-ban-on-usd-in-zimbabwe-report-bc165fba.md)
 * 2019-07-11 [Facebook Весы Концепция повлияет на трансграничные платежи: экс-глава PBoC](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-libra-concept-will-impact-cross-border-payments-ex-pboc-chief-4bf8fd6b.md)
 * 2019-07-11 [Испанская полиция: Биткоин банкоматы слепое пятно для отмывания денег законы](https://github.com/theyapapa/cryptonews/blob/ru/spanish-police-bitcoin-atms-a-blind-spot-for-money-laundering-laws-e8675b4e.md)
 * 2019-07-11 [Биткоин-стартап приносит платежи Lightning Network Amazon, Whole Foods](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-startup-brings-lightning-network-payments-to-amazon-whole-foods-009ce1a1.md)
