@@ -1,3 +1,4 @@
+* 2019-07-10 [암호화 시장은 날카로운 하락을 참조, 금은 상승에](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-sharp-drop-gold-is-on-the-rise-ccf08203.md)
 * 2019-07-10 [바누아투 는 암호화 계획에 관여 혐의로 6 명의 중국 인민을 추방](https://github.com/theyapapa/cryptonews/blob/ko/vanuatu-extradicts-six-chinese-citizens-allegedly-involved-in-crypto-scheme-48bd71d9.md)
 * 2019-07-10 [러시아 제련 거 대 한 노르 니켈 2019 년 말까지 디지털 거래 플랫폼을 시작](https://github.com/theyapapa/cryptonews/blob/ko/russian-smelting-giant-nornickel-to-launch-digital-trading-platform-by-end-of-2019-775f3b72.md)
 * 2019-07-10 [가격 분석 10/07: BTC, ETH, XRP, BCH, LTC, EOS, BNB, BSV, TRX, ADA](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-10-07-btc-eth-xrp-bch-ltc-eos-bnb-bsv-trx-ada-e69ce42c.md)
