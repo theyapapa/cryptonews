@@ -1,3 +1,4 @@
+* 2019-07-11 [Binance официально запускает свою платформу 2.0 с маржинальной торговлей](https://github.com/theyapapa/cryptonews/blob/ru/binance-officially-launches-its-20-platform-with-margin-trading-7ef4130c.md)
 * 2019-07-10 [Канада: Крипто биржи должны зарегистрироваться с финансовой watchdog в июне следующего года](https://github.com/theyapapa/cryptonews/blob/ru/canada-crypto-exchanges-must-register-with-financial-watchdog-next-june-ce8d2834.md)
 * 2019-07-10 [Крипторынки видят резкое падение, золото на подъеме](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-sharp-drop-gold-is-on-the-rise-ccf08203.md)
 * 2019-07-10 [Вануату экстрадиционирует шесть китайских граждан, якобы участвующих в крипто схеме](https://github.com/theyapapa/cryptonews/blob/ru/vanuatu-extradicts-six-chinese-citizens-allegedly-involved-in-crypto-scheme-48bd71d9.md)
