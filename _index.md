@@ -1,3 +1,4 @@
+* 2019-07-11 [Биткоин-стартап приносит платежи Lightning Network Amazon, Whole Foods](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-startup-brings-lightning-network-payments-to-amazon-whole-foods-009ce1a1.md)
 * 2019-07-11 [Binance официально запускает свою платформу 2.0 с маржинальной торговлей](https://github.com/theyapapa/cryptonews/blob/ru/binance-officially-launches-its-20-platform-with-margin-trading-7ef4130c.md)
 * 2019-07-10 [Канада: Крипто биржи должны зарегистрироваться с финансовой watchdog в июне следующего года](https://github.com/theyapapa/cryptonews/blob/ru/canada-crypto-exchanges-must-register-with-financial-watchdog-next-june-ce8d2834.md)
 * 2019-07-10 [Крипторынки видят резкое падение, золото на подъеме](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-sharp-drop-gold-is-on-the-rise-ccf08203.md)
