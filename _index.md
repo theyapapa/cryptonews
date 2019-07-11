@@ -1,3 +1,4 @@
+* 2019-07-10 [Canadá: Las bolsas criptográficas deben registrarse en Financial Watchdog el próximo mes de junio](https://github.com/theyapapa/cryptonews/blob/es/canada-crypto-exchanges-must-register-with-financial-watchdog-next-june-ce8d2834.md)
 * 2019-07-10 [Mercados criptográficos Ver caída aguda, el oro está en aumento](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-sharp-drop-gold-is-on-the-rise-ccf08203.md)
 * 2019-07-10 [Vanuatu extradicte a seis ciudadanos chinos presuntamente involucrados en el esquema Crypto](https://github.com/theyapapa/cryptonews/blob/es/vanuatu-extradicts-six-chinese-citizens-allegedly-involved-in-crypto-scheme-48bd71d9.md)
 * 2019-07-10 [El gigante ruso de la fundición Nornickel lanzará la plataforma de comercio digital a finales de 2019](https://github.com/theyapapa/cryptonews/blob/es/russian-smelting-giant-nornickel-to-launch-digital-trading-platform-by-end-of-2019-775f3b72.md)
