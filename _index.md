@@ -1,3 +1,4 @@
+* 2019-07-11 [Bitcoin Startup trae pagos de red Lightning a Amazon, Whole Foods](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-startup-brings-lightning-network-payments-to-amazon-whole-foods-009ce1a1.md)
 * 2019-07-11 [Binance lanza oficialmente su plataforma 2.0 con margin Trading](https://github.com/theyapapa/cryptonews/blob/es/binance-officially-launches-its-20-platform-with-margin-trading-7ef4130c.md)
 * 2019-07-10 [Canadá: Las bolsas criptográficas deben registrarse en Financial Watchdog el próximo mes de junio](https://github.com/theyapapa/cryptonews/blob/es/canada-crypto-exchanges-must-register-with-financial-watchdog-next-june-ce8d2834.md)
 * 2019-07-10 [Mercados criptográficos Ver caída aguda, el oro está en aumento](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-sharp-drop-gold-is-on-the-rise-ccf08203.md)
