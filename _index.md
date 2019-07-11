@@ -1,3 +1,4 @@
+* 2019-07-11 [Реквизиты объявляет первый SEC утвержденных потребительских облицовка Blockchain токен](https://github.com/theyapapa/cryptonews/blob/ru/props-announces-first-sec-approved-consumer-facing-blockchain-token-b58fb836.md)
 * 2019-07-11 [Бразильский кофе Сельскохозяйственный кооператив выпустить кофе-Backed токен](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-coffee-farming-cooperative-to-issue-a-coffee-backed-token-7ec5da3f.md)
 * 2019-07-11 [BTC Peer-to-Peer Trading растет на фоне запрета на доллар США в Зимбабве: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/btc-peer-to-peer-trading-rises-amid-ban-on-usd-in-zimbabwe-report-bc165fba.md)
 * 2019-07-11 [Facebook Весы Концепция повлияет на трансграничные платежи: экс-глава PBoC](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-libra-concept-will-impact-cross-border-payments-ex-pboc-chief-4bf8fd6b.md)
