@@ -1,3 +1,4 @@
+* 2019-07-11 [BTC 피어 - 투 - 피어 거래는 짐바브웨에서 USD에 금지 가운데 상승 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/btc-peer-to-peer-trading-rises-amid-ban-on-usd-in-zimbabwe-report-bc165fba.md)
 * 2019-07-11 [페이스 북의 선명 하게 다 많은 개념은 국경 간 지불에 영향을 미칠 것 이다: 전 PBoC 최고](https://github.com/theyapapa/cryptonews/blob/ko/facebooks-libra-concept-will-impact-cross-border-payments-ex-pboc-chief-4bf8fd6b.md)
 * 2019-07-11 [스페인 경찰: 비트코인 ATM은 자금 세탁 법의 사각지대](https://github.com/theyapapa/cryptonews/blob/ko/spanish-police-bitcoin-atms-a-blind-spot-for-money-laundering-laws-e8675b4e.md)
 * 2019-07-11 [비트 코인 시작은 아마존에 번개 네트워크 지불을 제공합니다, 전체 식품](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-startup-brings-lightning-network-payments-to-amazon-whole-foods-009ce1a1.md)
