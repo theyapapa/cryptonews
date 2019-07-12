@@ -1,3 +1,4 @@
+* 2019-07-12 [Соучредитель Now-Defunct BitFunder получает 14 месяцев тюремного заключения](https://github.com/theyapapa/cryptonews/blob/ru/co-founder-of-now-defunct-bitfunder-gets-14-months-imprisonment-b1e73a85.md)
 * 2019-07-12 [Ethereum соучредитель Михай Alisie обеспокоен ы Веса централизации](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-co-founder-mihai-alisie-concerned-over-libra-centralization-be62e89c.md)
 * 2019-07-12 [Анализ цен 12/07: BTC, ETH, XRP, LTC, BCH, EOS, BNB, BSV, TRX, XLM](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-12-07-btc-eth-xrp-ltc-bch-eos-bnb-bsv-trx-xlm-0a498a0b.md)
 * 2019-07-12 [Техасский суд обязал ответчиков выплатить $400 тыс. за мошенническую схему биткоина](https://github.com/theyapapa/cryptonews/blob/ru/texas-court-orders-defendants-to-pay-400k-for-fraudulent-bitcoin-scheme-3eafe5fc.md)
