@@ -1,3 +1,4 @@
+* 2019-07-11 [마이애미 돌고래 팀의 공식 암호 화폐로 라이트 코인을 승인](https://github.com/theyapapa/cryptonews/blob/ko/miami-dolphins-to-endorse-litecoin-as-teams-official-cryptocurrency-528e2590.md)
 * 2019-07-11 [도널드 트럼프 대통령은 암호 화폐에 반대 트윗](https://github.com/theyapapa/cryptonews/blob/ko/president-donald-trump-tweets-opposition-to-cryptocurrencies-53f66b6b.md)
 * 2019-07-11 [소품은 첫 번째 SEC 승인 소비자 대면 블록 체인 토큰을 발표](https://github.com/theyapapa/cryptonews/blob/ko/props-announces-first-sec-approved-consumer-facing-blockchain-token-b58fb836.md)
 * 2019-07-11 [브라질 커피 농업 협동조합, 커피 지원 토큰 발행](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-coffee-farming-cooperative-to-issue-a-coffee-backed-token-7ec5da3f.md)
