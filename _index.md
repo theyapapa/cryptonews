@@ -1,3 +1,4 @@
+* 2019-07-12 [Mihai Alisie cofundadora de Ethereum preocupada por la centralización de Libra](https://github.com/theyapapa/cryptonews/blob/es/ethereum-co-founder-mihai-alisie-concerned-over-libra-centralization-be62e89c.md)
 * 2019-07-12 [Análisis de precios 12/07: BTC, ETH, XRP, LTC, BCH, EOS, BNB, BSV, TRX, XLM](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-12-07-btc-eth-xrp-ltc-bch-eos-bnb-bsv-trx-xlm-0a498a0b.md)
 * 2019-07-12 [Tribunal de Texas ordena a los Demandados pagar $400Mil por Esquema Bitcoin Fraudulento](https://github.com/theyapapa/cryptonews/blob/es/texas-court-orders-defendants-to-pay-400k-for-fraudulent-bitcoin-scheme-3eafe5fc.md)
 * 2019-07-12 [BTC y LTC Halving 'Shock' puede ser mitigado por Merged Mining: Report](https://github.com/theyapapa/cryptonews/blob/es/btc-and-ltc-halving-shock-may-be-mitigated-by-merged-mining-report-c2c1bf6f.md)
