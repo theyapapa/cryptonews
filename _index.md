@@ -1,3 +1,4 @@
+* 2019-07-12 [Трамп насос? Биткоин Цена buoyant После президент США говорит, что он "не вентилятор"](https://github.com/theyapapa/cryptonews/blob/ru/trump-pump-bitcoin-price-buoyant-after-us-president-says-hes-not-a-fan-42b95c4c.md)
 * 2019-07-11 [Miami Dolphins одобрить Litecoin как официальная криптовалюта команды](https://github.com/theyapapa/cryptonews/blob/ru/miami-dolphins-to-endorse-litecoin-as-teams-official-cryptocurrency-528e2590.md)
 * 2019-07-11 [Президент Дональд Трамп написал в твиттере оппозицию криптовалютам](https://github.com/theyapapa/cryptonews/blob/ru/president-donald-trump-tweets-opposition-to-cryptocurrencies-53f66b6b.md)
 * 2019-07-11 [Реквизиты объявляет первый SEC утвержденных потребительских облицовка Blockchain токен](https://github.com/theyapapa/cryptonews/blob/ru/props-announces-first-sec-approved-consumer-facing-blockchain-token-b58fb836.md)
