@@ -1,3 +1,4 @@
+* 2019-07-12 [Анализ цен 12/07: BTC, ETH, XRP, LTC, BCH, EOS, BNB, BSV, TRX, XLM](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-12-07-btc-eth-xrp-ltc-bch-eos-bnb-bsv-trx-xlm-0a498a0b.md)
 * 2019-07-12 [Техасский суд обязал ответчиков выплатить $400 тыс. за мошенническую схему биткоина](https://github.com/theyapapa/cryptonews/blob/ru/texas-court-orders-defendants-to-pay-400k-for-fraudulent-bitcoin-scheme-3eafe5fc.md)
 * 2019-07-12 [BTC и LTC вдвое 'Шок' может быть смягченслиянии слияние добычи: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/btc-and-ltc-halving-shock-may-be-mitigated-by-merged-mining-report-c2c1bf6f.md)
 * 2019-07-12 [Полиция в Китае захватывает 4000 Crypto шахтеров после аномальной энергии Спайк](https://github.com/theyapapa/cryptonews/blob/ru/police-in-china-seizes-4-000-crypto-miners-after-abnormal-energy-spike-d7f51d2d.md)
