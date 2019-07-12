@@ -1,3 +1,4 @@
+* 2019-07-11 [Los Delfines de Miami apoyarán a Litecoin como criptomoneda oficial del equipo](https://github.com/theyapapa/cryptonews/blob/es/miami-dolphins-to-endorse-litecoin-as-teams-official-cryptocurrency-528e2590.md)
 * 2019-07-11 [El presidente Donald Trump tuitea la oposición a las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/president-donald-trump-tweets-opposition-to-cryptocurrencies-53f66b6b.md)
 * 2019-07-11 [Props anuncia el primer token blockchain aprobado por la SEC](https://github.com/theyapapa/cryptonews/blob/es/props-announces-first-sec-approved-consumer-facing-blockchain-token-b58fb836.md)
 * 2019-07-11 [Cooperativa Brasileña de Cafeteo emitirá una Ficha Respaldada por Café](https://github.com/theyapapa/cryptonews/blob/es/brazilian-coffee-farming-cooperative-to-issue-a-coffee-backed-token-7ec5da3f.md)
