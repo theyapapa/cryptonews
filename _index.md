@@ -1,3 +1,4 @@
+* 2019-07-12 [연준 의장: '아무도 그것을 사용하지 않습니다' — 비트코인은 금과 같은 투기적 자산](https://github.com/theyapapa/cryptonews/blob/ko/fed-chairman-no-one-uses-it-bitcoin-a-speculative-asset-like-gold-797d71ae.md)
 * 2019-07-12 [트럼프 펌프? 미국 대통령 후 비트 코인 가격 부력 은 그가 '팬이 아니다'라고](https://github.com/theyapapa/cryptonews/blob/ko/trump-pump-bitcoin-price-buoyant-after-us-president-says-hes-not-a-fan-42b95c4c.md)
 * 2019-07-11 [마이애미 돌고래 팀의 공식 암호 화폐로 라이트 코인을 승인](https://github.com/theyapapa/cryptonews/blob/ko/miami-dolphins-to-endorse-litecoin-as-teams-official-cryptocurrency-528e2590.md)
 * 2019-07-11 [도널드 트럼프 대통령은 암호 화폐에 반대 트윗](https://github.com/theyapapa/cryptonews/blob/ko/president-donald-trump-tweets-opposition-to-cryptocurrencies-53f66b6b.md)
