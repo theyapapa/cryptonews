@@ -1,3 +1,4 @@
+* 2019-07-12 [Tribunal de Texas ordena a los Demandados pagar $400Mil por Esquema Bitcoin Fraudulento](https://github.com/theyapapa/cryptonews/blob/es/texas-court-orders-defendants-to-pay-400k-for-fraudulent-bitcoin-scheme-3eafe5fc.md)
 * 2019-07-12 [BTC y LTC Halving 'Shock' puede ser mitigado por Merged Mining: Report](https://github.com/theyapapa/cryptonews/blob/es/btc-and-ltc-halving-shock-may-be-mitigated-by-merged-mining-report-c2c1bf6f.md)
 * 2019-07-12 [La policía en China se apodera de 4.000 mineros criptográficos después de un pico de energía anormal](https://github.com/theyapapa/cryptonews/blob/es/police-in-china-seizes-4-000-crypto-miners-after-abnormal-energy-spike-d7f51d2d.md)
 * 2019-07-12 [Presidente de la Fed: 'Nadie lo usa' — Bitcoin un activo especulativo como el oro](https://github.com/theyapapa/cryptonews/blob/es/fed-chairman-no-one-uses-it-bitcoin-a-speculative-asset-like-gold-797d71ae.md)
