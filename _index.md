@@ -1,3 +1,4 @@
+* 2019-07-12 [Presidente de la Fed: 'Nadie lo usa' — Bitcoin un activo especulativo como el oro](https://github.com/theyapapa/cryptonews/blob/es/fed-chairman-no-one-uses-it-bitcoin-a-speculative-asset-like-gold-797d71ae.md)
 * 2019-07-12 [¿La bomba de Trump? Bitcoin precio boyante Después de que el presidente de EE.UU. dice que es 'No es un fan'](https://github.com/theyapapa/cryptonews/blob/es/trump-pump-bitcoin-price-buoyant-after-us-president-says-hes-not-a-fan-42b95c4c.md)
 * 2019-07-11 [Los Delfines de Miami apoyarán a Litecoin como criptomoneda oficial del equipo](https://github.com/theyapapa/cryptonews/blob/es/miami-dolphins-to-endorse-litecoin-as-teams-official-cryptocurrency-528e2590.md)
 * 2019-07-11 [El presidente Donald Trump tuitea la oposición a las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/president-donald-trump-tweets-opposition-to-cryptocurrencies-53f66b6b.md)
