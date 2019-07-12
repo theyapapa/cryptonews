@@ -1,3 +1,4 @@
+* 2019-07-12 [BTC и LTC вдвое 'Шок' может быть смягченслиянии слияние добычи: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/btc-and-ltc-halving-shock-may-be-mitigated-by-merged-mining-report-c2c1bf6f.md)
 * 2019-07-12 [Полиция в Китае захватывает 4000 Crypto шахтеров после аномальной энергии Спайк](https://github.com/theyapapa/cryptonews/blob/ru/police-in-china-seizes-4-000-crypto-miners-after-abnormal-energy-spike-d7f51d2d.md)
 * 2019-07-12 [Председатель ФРС: «Никто не использует его» - Биткоин – спекулятивный актив, как золото](https://github.com/theyapapa/cryptonews/blob/ru/fed-chairman-no-one-uses-it-bitcoin-a-speculative-asset-like-gold-797d71ae.md)
 * 2019-07-12 [Трамп насос? Биткоин Цена buoyant После президент США говорит, что он "не вентилятор"](https://github.com/theyapapa/cryptonews/blob/ru/trump-pump-bitcoin-price-buoyant-after-us-president-says-hes-not-a-fan-42b95c4c.md)
