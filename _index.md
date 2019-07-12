@@ -1,3 +1,4 @@
+* 2019-07-12 [BTC 및 LTC 절반 '충격' 합병 마이닝에 의해 완화 될 수 있습니다.: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/btc-and-ltc-halving-shock-may-be-mitigated-by-merged-mining-report-c2c1bf6f.md)
 * 2019-07-12 [중국 경찰은 비정상적인 에너지 스파이크 후 4,000 암호화 광부를 압수](https://github.com/theyapapa/cryptonews/blob/ko/police-in-china-seizes-4-000-crypto-miners-after-abnormal-energy-spike-d7f51d2d.md)
 * 2019-07-12 [연준 의장: '아무도 그것을 사용하지 않습니다' — 비트코인은 금과 같은 투기적 자산](https://github.com/theyapapa/cryptonews/blob/ko/fed-chairman-no-one-uses-it-bitcoin-a-speculative-asset-like-gold-797d71ae.md)
 * 2019-07-12 [트럼프 펌프? 미국 대통령 후 비트 코인 가격 부력 은 그가 '팬이 아니다'라고](https://github.com/theyapapa/cryptonews/blob/ko/trump-pump-bitcoin-price-buoyant-after-us-president-says-hes-not-a-fan-42b95c4c.md)
