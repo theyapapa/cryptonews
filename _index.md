@@ -1,3 +1,4 @@
+* 2019-07-13 [0x DEX Протокол приостановлено из-за уязвимости, фонды Безопасные](https://github.com/theyapapa/cryptonews/blob/ru/0x-dex-protocol-suspended-because-of-vulnerability-funds-safe-b5e97198.md)
 * 2019-07-13 [Реестр недвижимости на blockchain: Обещание земли или желаемого мышления?](https://github.com/theyapapa/cryptonews/blob/ru/real-estate-registry-on-blockchain-promise-land-or-wishful-thinking-b5237777.md)
 * 2019-07-12 [Бразильское государство запускает блокчейн-платформу для предложений по госконтрактам](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-state-launches-blockchain-platform-for-government-contract-bids-2d540730.md)
 * 2019-07-12 [Ethereum основе Augur Улучшение App Вуаль закрывает магазин](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-augur-enhancement-app-veil-closes-up-shop-424ef95a.md)
