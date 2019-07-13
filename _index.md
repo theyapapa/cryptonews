@@ -1,3 +1,4 @@
+* 2019-07-12 [에테 리움 기반 의 거리 향상 애플 리케이션 베일 은 가게를 닫습니다](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-based-augur-enhancement-app-veil-closes-up-shop-424ef95a.md)
 * 2019-07-12 [지금 소멸 비트 펀더의 공동 설립자는 14 개월 징역을 가져옵니다](https://github.com/theyapapa/cryptonews/blob/ko/co-founder-of-now-defunct-bitfunder-gets-14-months-imprisonment-b1e73a85.md)
 * 2019-07-12 [이더리움 공동 창업자 미하이 알리시, 리브라 중앙집중화 우려](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-co-founder-mihai-alisie-concerned-over-libra-centralization-be62e89c.md)
 * 2019-07-12 [가격 분석 12/07: BTC, ETH, XRP, LTC, BCH, EOS, BNB, BSV, TRX, XLM](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-12-07-btc-eth-xrp-ltc-bch-eos-bnb-bsv-trx-xlm-0a498a0b.md)
