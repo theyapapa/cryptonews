@@ -1,3 +1,4 @@
+* 2019-07-12 [Estado brasileño lanza plataforma Blockchain para ofertas de contratos gubernamentales](https://github.com/theyapapa/cryptonews/blob/es/brazilian-state-launches-blockchain-platform-for-government-contract-bids-2d540730.md)
 * 2019-07-12 [Etereum-basado Augur mejora App Velo Cierra tienda](https://github.com/theyapapa/cryptonews/blob/es/ethereum-based-augur-enhancement-app-veil-closes-up-shop-424ef95a.md)
 * 2019-07-12 [Cofundador de BitFunder, ahora desaparecido, recibe 14 meses de prisión](https://github.com/theyapapa/cryptonews/blob/es/co-founder-of-now-defunct-bitfunder-gets-14-months-imprisonment-b1e73a85.md)
 * 2019-07-12 [Mihai Alisie cofundadora de Ethereum preocupada por la centralización de Libra](https://github.com/theyapapa/cryptonews/blob/es/ethereum-co-founder-mihai-alisie-concerned-over-libra-centralization-be62e89c.md)
