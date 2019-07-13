@@ -1,3 +1,4 @@
+* 2019-07-13 [Республика Грузия освобождает криптовалюты от налога на добавленную стоимость](https://github.com/theyapapa/cryptonews/blob/ru/republic-of-georgia-exempts-cryptocurrencies-from-value-added-tax-ebd155ce.md)
 * 2019-07-13 [Биткоин падает ниже $11,450, так как фондовый рынок США видит незначительный спад](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-11-450-as-us-stock-market-sees-minor-downturn-d032ec45.md)
 * 2019-07-13 [0x DEX Протокол приостановлено из-за уязвимости, фонды Безопасные](https://github.com/theyapapa/cryptonews/blob/ru/0x-dex-protocol-suspended-because-of-vulnerability-funds-safe-b5e97198.md)
 * 2019-07-13 [Реестр недвижимости на blockchain: Обещание земли или желаемого мышления?](https://github.com/theyapapa/cryptonews/blob/ru/real-estate-registry-on-blockchain-promise-land-or-wishful-thinking-b5237777.md)
