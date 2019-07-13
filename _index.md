@@ -1,3 +1,4 @@
+* 2019-07-13 [비트 코인은 아래 폭포 $11,450 미국 주식 시장은 사소한 침체를 보고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-11-450-as-us-stock-market-sees-minor-downturn-d032ec45.md)
 * 2019-07-13 [0x DEX 프로토콜 취약점으로 인해 일시 중단, 자금 안전](https://github.com/theyapapa/cryptonews/blob/ko/0x-dex-protocol-suspended-because-of-vulnerability-funds-safe-b5e97198.md)
 * 2019-07-13 [블록 체인에 부동산 레지스트리 : 약속 토지 또는 소원 생각?](https://github.com/theyapapa/cryptonews/blob/ko/real-estate-registry-on-blockchain-promise-land-or-wishful-thinking-b5237777.md)
 * 2019-07-12 [브라질 주 정부 계약 입찰에 대 한 블록 체인 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/brazilian-state-launches-blockchain-platform-for-government-contract-bids-2d540730.md)
