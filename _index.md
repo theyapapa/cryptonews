@@ -1,3 +1,4 @@
+* 2019-07-13 [Реестр недвижимости на blockchain: Обещание земли или желаемого мышления?](https://github.com/theyapapa/cryptonews/blob/ru/real-estate-registry-on-blockchain-promise-land-or-wishful-thinking-b5237777.md)
 * 2019-07-12 [Бразильское государство запускает блокчейн-платформу для предложений по госконтрактам](https://github.com/theyapapa/cryptonews/blob/ru/brazilian-state-launches-blockchain-platform-for-government-contract-bids-2d540730.md)
 * 2019-07-12 [Ethereum основе Augur Улучшение App Вуаль закрывает магазин](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-based-augur-enhancement-app-veil-closes-up-shop-424ef95a.md)
 * 2019-07-12 [Соучредитель Now-Defunct BitFunder получает 14 месяцев тюремного заключения](https://github.com/theyapapa/cryptonews/blob/ru/co-founder-of-now-defunct-bitfunder-gets-14-months-imprisonment-b1e73a85.md)
