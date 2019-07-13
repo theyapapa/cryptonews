@@ -1,3 +1,4 @@
+* 2019-07-13 [0x Protocolo DEX Suspendido debido a la vulnerabilidad, fondos seguros](https://github.com/theyapapa/cryptonews/blob/es/0x-dex-protocol-suspended-because-of-vulnerability-funds-safe-b5e97198.md)
 * 2019-07-13 [Registro de Bienes Raíces en Blockchain: Promesa de Tierra o Pensamiento Deseado?](https://github.com/theyapapa/cryptonews/blob/es/real-estate-registry-on-blockchain-promise-land-or-wishful-thinking-b5237777.md)
 * 2019-07-12 [Estado brasileño lanza plataforma Blockchain para ofertas de contratos gubernamentales](https://github.com/theyapapa/cryptonews/blob/es/brazilian-state-launches-blockchain-platform-for-government-contract-bids-2d540730.md)
 * 2019-07-12 [Etereum-basado Augur mejora App Velo Cierra tienda](https://github.com/theyapapa/cryptonews/blob/es/ethereum-based-augur-enhancement-app-veil-closes-up-shop-424ef95a.md)
