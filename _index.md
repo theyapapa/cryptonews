@@ -1,3 +1,4 @@
+* 2019-07-14 [Pundi X는 암호화 결제를 기존 판매 터미널에 통합합니다.](https://github.com/theyapapa/cryptonews/blob/ko/pundi-x-integrates-crypto-payments-into-traditional-sales-terminals-05c0c8a7.md)
 * 2019-07-14 [인터넷, 블록체인 및 지식에 대한 위키의 공동 창립자 래리 생거](https://github.com/theyapapa/cryptonews/blob/ko/wikis-co-founder-larry-sanger-on-internet-blockchain-and-knowledge-1823a54f.md)
 * 2019-07-13 [초안 "금융에서 큰 기술을 유지" 법 표면 일 선칭 선회 전에](https://github.com/theyapapa/cryptonews/blob/ko/drafted-keep-big-tech-out-of-finance-act-surfaces-days-before-libra-hearings-aa2c66b5.md)
 * 2019-07-13 [조지아 공화국은 부가가치세에서 암호 화폐를 면제](https://github.com/theyapapa/cryptonews/blob/ko/republic-of-georgia-exempts-cryptocurrencies-from-value-added-tax-ebd155ce.md)
