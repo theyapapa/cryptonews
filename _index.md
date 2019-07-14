@@ -1,3 +1,4 @@
+* 2019-07-14 [해킹 비트 포인트 교환 발견 $2.3M 도난 암호화](https://github.com/theyapapa/cryptonews/blob/ko/hacked-bitpoint-exchange-finds-23m-in-stolen-crypto-c98cc6dd.md)
 * 2019-07-14 [CFTC의 새로운 회장: 히스 타버트는 누구인가, 그는 암호화에 대해 어떻게 생각합니까?](https://github.com/theyapapa/cryptonews/blob/ko/cftcs-new-chairman-who-is-heath-tarbert-what-he-thinks-of-crypto-b158002c.md)
 * 2019-07-14 [Pundi X는 암호화 결제를 기존 판매 터미널에 통합합니다.](https://github.com/theyapapa/cryptonews/blob/ko/pundi-x-integrates-crypto-payments-into-traditional-sales-terminals-05c0c8a7.md)
 * 2019-07-14 [인터넷, 블록체인 및 지식에 대한 위키의 공동 창립자 래리 생거](https://github.com/theyapapa/cryptonews/blob/ko/wikis-co-founder-larry-sanger-on-internet-blockchain-and-knowledge-1823a54f.md)
