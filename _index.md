@@ -1,3 +1,4 @@
+* 2019-07-14 [인터넷, 블록체인 및 지식에 대한 위키의 공동 창립자 래리 생거](https://github.com/theyapapa/cryptonews/blob/ko/wikis-co-founder-larry-sanger-on-internet-blockchain-and-knowledge-1823a54f.md)
 * 2019-07-13 [초안 "금융에서 큰 기술을 유지" 법 표면 일 선칭 선회 전에](https://github.com/theyapapa/cryptonews/blob/ko/drafted-keep-big-tech-out-of-finance-act-surfaces-days-before-libra-hearings-aa2c66b5.md)
 * 2019-07-13 [조지아 공화국은 부가가치세에서 암호 화폐를 면제](https://github.com/theyapapa/cryptonews/blob/ko/republic-of-georgia-exempts-cryptocurrencies-from-value-added-tax-ebd155ce.md)
 * 2019-07-13 [비트 코인은 아래 폭포 $11,450 미국 주식 시장은 사소한 침체를 보고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-11-450-as-us-stock-market-sees-minor-downturn-d032ec45.md)
