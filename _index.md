@@ -1,3 +1,4 @@
+* 2019-07-14 [Pundi X integra los pagos criptográficos en los terminales de ventas tradicionales](https://github.com/theyapapa/cryptonews/blob/es/pundi-x-integrates-crypto-payments-into-traditional-sales-terminals-05c0c8a7.md)
 * 2019-07-14 [El cofundador de Wiki, Larry Sanger, en Internet, Blockchain y Conocimiento](https://github.com/theyapapa/cryptonews/blob/es/wikis-co-founder-larry-sanger-on-internet-blockchain-and-knowledge-1823a54f.md)
 * 2019-07-13 [La ley "Mantener a la gran tecnología fuera de las finanzas" surge los días antes de las audiencias de Libra](https://github.com/theyapapa/cryptonews/blob/es/drafted-keep-big-tech-out-of-finance-act-surfaces-days-before-libra-hearings-aa2c66b5.md)
 * 2019-07-13 [República de Georgia exime a las criptomonedas del impuesto sobre el valor añadido](https://github.com/theyapapa/cryptonews/blob/es/republic-of-georgia-exempts-cryptocurrencies-from-value-added-tax-ebd155ce.md)
