@@ -1,3 +1,4 @@
+* 2019-07-13 [La ley "Mantener a la gran tecnología fuera de las finanzas" surge los días antes de las audiencias de Libra](https://github.com/theyapapa/cryptonews/blob/es/drafted-keep-big-tech-out-of-finance-act-surfaces-days-before-libra-hearings-aa2c66b5.md)
 * 2019-07-13 [República de Georgia exime a las criptomonedas del impuesto sobre el valor añadido](https://github.com/theyapapa/cryptonews/blob/es/republic-of-georgia-exempts-cryptocurrencies-from-value-added-tax-ebd155ce.md)
 * 2019-07-13 [Bitcoin cae por debajo de $11,450 como mercado de valores de EE.UU. ve una caída menor](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-11-450-as-us-stock-market-sees-minor-downturn-d032ec45.md)
 * 2019-07-13 [0x Protocolo DEX Suspendido debido a la vulnerabilidad, fondos seguros](https://github.com/theyapapa/cryptonews/blob/es/0x-dex-protocol-suspended-because-of-vulnerability-funds-safe-b5e97198.md)
