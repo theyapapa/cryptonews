@@ -1,3 +1,4 @@
+* 2019-07-14 [Hacked Bitpoint Exchange Encuentra $2.3M en Crypto robado](https://github.com/theyapapa/cryptonews/blob/es/hacked-bitpoint-exchange-finds-23m-in-stolen-crypto-c98cc6dd.md)
 * 2019-07-14 [Nuevo Presidente de CFTC: ¿Quién es Heath Tarbert, qué piensa de Crypto?](https://github.com/theyapapa/cryptonews/blob/es/cftcs-new-chairman-who-is-heath-tarbert-what-he-thinks-of-crypto-b158002c.md)
 * 2019-07-14 [Pundi X integra los pagos criptográficos en los terminales de ventas tradicionales](https://github.com/theyapapa/cryptonews/blob/es/pundi-x-integrates-crypto-payments-into-traditional-sales-terminals-05c0c8a7.md)
 * 2019-07-14 [El cofundador de Wiki, Larry Sanger, en Internet, Blockchain y Conocimiento](https://github.com/theyapapa/cryptonews/blob/es/wikis-co-founder-larry-sanger-on-internet-blockchain-and-knowledge-1823a54f.md)
