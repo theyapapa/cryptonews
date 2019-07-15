@@ -1,3 +1,4 @@
+* 2019-07-15 [비트 코인을 금지하는 트럼프는 가능하지만 매우 가능성, 이코노미스트는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/trump-banning-bitcoin-is-feasible-but-highly-unlikely-says-economist-d55e8efa.md)
 * 2019-07-14 [호들러의 다이제스트, 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-top-stories-price-movements-quotes-and-fud-of-the-week-047d0978.md)
 * 2019-07-14 [해킹 비트 포인트 교환 발견 $2.3M 도난 암호화](https://github.com/theyapapa/cryptonews/blob/ko/hacked-bitpoint-exchange-finds-23m-in-stolen-crypto-c98cc6dd.md)
 * 2019-07-14 [CFTC의 새로운 회장: 히스 타버트는 누구인가, 그는 암호화에 대해 어떻게 생각합니까?](https://github.com/theyapapa/cryptonews/blob/ko/cftcs-new-chairman-who-is-heath-tarbert-what-he-thinks-of-crypto-b158002c.md)
