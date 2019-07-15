@@ -1,3 +1,4 @@
+* 2019-07-15 [대한민국 최대 신용카드 특허 블록체인 결제 시스템](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-biggest-credit-card-patents-blockchain-payments-system-bf422eac.md)
 * 2019-07-15 [인도: 유출 된 초안 법안은 '디지털 루피'를 제외한 모든 암호화를 금지 할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-leaked-draft-bill-would-ban-all-crypto-except-digital-rupee-10eb582e.md)
 * 2019-07-15 [비트 코인을 금지하는 트럼프는 가능하지만 매우 가능성, 이코노미스트는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/trump-banning-bitcoin-is-feasible-but-highly-unlikely-says-economist-d55e8efa.md)
 * 2019-07-14 [호들러의 다이제스트, 최고 이야기, 가격 움직임, 시세 및 금주의 FUD](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-top-stories-price-movements-quotes-and-fud-of-the-week-047d0978.md)
