@@ -1,3 +1,4 @@
+* 2019-07-15 [부테린, 단기적으로 이더리움 규모 확대를 위한 비트코인 현금 통합 제안](https://github.com/theyapapa/cryptonews/blob/ko/buterin-proposes-bitcoin-cash-integration-to-scale-ethereum-in-short-term-5f38bbf0.md)
 * 2019-07-15 [영국 로얄 민트는 새로운 암호 화폐에 대한 양육권을 제공하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/uk-royal-mint-to-provide-custody-for-new-cryptocurrency-d9974148.md)
 * 2019-07-15 [대한민국 최대 신용카드 특허 블록체인 결제 시스템](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-biggest-credit-card-patents-blockchain-payments-system-bf422eac.md)
 * 2019-07-15 [인도: 유출 된 초안 법안은 '디지털 루피'를 제외한 모든 암호화를 금지 할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-leaked-draft-bill-would-ban-all-crypto-except-digital-rupee-10eb582e.md)
