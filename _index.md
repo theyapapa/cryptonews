@@ -1,3 +1,4 @@
+* 2019-07-15 [Secretario del Tesoro de EE.UU. Comparte las preocupaciones de Trump sobre Crypto, enfatiza el cumplimiento](https://github.com/theyapapa/cryptonews/blob/es/us-treasury-secretary-shares-trumps-concerns-on-crypto-stresses-compliance-14e729a0.md)
 * 2019-07-15 [El Senado publica declaraciones de apertura sobre Libra antes de la audiencia del Senado](https://github.com/theyapapa/cryptonews/blob/es/calibra-ceo-delivers-opening-statements-on-libra-ahead-of-senate-hearing-9335ea51.md)
 * 2019-07-15 [Buterin propone integración de Bitcoin Cash para escalar Ethereum a corto plazo](https://github.com/theyapapa/cryptonews/blob/es/buterin-proposes-bitcoin-cash-integration-to-scale-ethereum-in-short-term-5f38bbf0.md)
 * 2019-07-15 [Casa de la Moneda Real del Reino Unido proporcionará la custodia de nuevas criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/uk-royal-mint-to-provide-custody-for-new-cryptocurrency-d9974148.md)
