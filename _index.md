@@ -1,3 +1,4 @@
+* 2019-07-15 [El mayor sistema de pagos blockchain de patentes de tarjetas de crédito de Corea del Sur](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-biggest-credit-card-patents-blockchain-payments-system-bf422eac.md)
 * 2019-07-15 [India: Proyecto de ley filtrado prohibiría todos los criptográficos excepto 'Rupia digital'](https://github.com/theyapapa/cryptonews/blob/es/india-leaked-draft-bill-would-ban-all-crypto-except-digital-rupee-10eb582e.md)
 * 2019-07-15 [Trump Banning Bitcoin es factible pero altamente improbable, dice Economist](https://github.com/theyapapa/cryptonews/blob/es/trump-banning-bitcoin-is-feasible-but-highly-unlikely-says-economist-d55e8efa.md)
 * 2019-07-14 [Hodler's Digest, Top Stories, Price Movements, Quotes y FUD of the Week](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-top-stories-price-movements-quotes-and-fud-of-the-week-047d0978.md)
