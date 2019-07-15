@@ -1,3 +1,4 @@
+* 2019-07-15 [Бутерин предлагает Bitcoin Cash Интеграция масштабировать Ethereum в краткосрочной перспективе](https://github.com/theyapapa/cryptonews/blob/ru/buterin-proposes-bitcoin-cash-integration-to-scale-ethereum-in-short-term-5f38bbf0.md)
 * 2019-07-15 [Королевский монетный двор Великобритании предоставит опеку за новую криптовалюту](https://github.com/theyapapa/cryptonews/blob/ru/uk-royal-mint-to-provide-custody-for-new-cryptocurrency-d9974148.md)
 * 2019-07-15 [Крупнейшая кредитная карта южной Кореи патентов Blockchain платежной системы](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-biggest-credit-card-patents-blockchain-payments-system-bf422eac.md)
 * 2019-07-15 [Индия: Утечка законопроект будет запретить все Крипто за исключением "цифровой рупии"](https://github.com/theyapapa/cryptonews/blob/ru/india-leaked-draft-bill-would-ban-all-crypto-except-digital-rupee-10eb582e.md)
