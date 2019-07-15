@@ -1,3 +1,4 @@
+* 2019-07-15 [상원 청문회 에 앞서 선관위에 대한 공개 성명발표](https://github.com/theyapapa/cryptonews/blob/ko/calibra-ceo-delivers-opening-statements-on-libra-ahead-of-senate-hearing-9335ea51.md)
 * 2019-07-15 [부테린, 단기적으로 이더리움 규모 확대를 위한 비트코인 현금 통합 제안](https://github.com/theyapapa/cryptonews/blob/ko/buterin-proposes-bitcoin-cash-integration-to-scale-ethereum-in-short-term-5f38bbf0.md)
 * 2019-07-15 [영국 로얄 민트는 새로운 암호 화폐에 대한 양육권을 제공하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/uk-royal-mint-to-provide-custody-for-new-cryptocurrency-d9974148.md)
 * 2019-07-15 [대한민국 최대 신용카드 특허 블록체인 결제 시스템](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-biggest-credit-card-patents-blockchain-payments-system-bf422eac.md)
