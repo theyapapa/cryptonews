@@ -1,3 +1,4 @@
+* 2019-07-15 [Запрет Трампа на биткоин осуществим, но крайне маловероятен, считает экономист](https://github.com/theyapapa/cryptonews/blob/ru/trump-banning-bitcoin-is-feasible-but-highly-unlikely-says-economist-d55e8efa.md)
 * 2019-07-14 [Hodler's Digest, Лучшие истории, Движения цен, Цитаты и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-top-stories-price-movements-quotes-and-fud-of-the-week-047d0978.md)
 * 2019-07-14 [Взломанный Bitpoint Exchange находит $ 2,3 M в украденных Крипто](https://github.com/theyapapa/cryptonews/blob/ru/hacked-bitpoint-exchange-finds-23m-in-stolen-crypto-c98cc6dd.md)
 * 2019-07-14 [Новый председатель CFTC: Кто хит Тарберт, что он думает о Crypto?](https://github.com/theyapapa/cryptonews/blob/ru/cftcs-new-chairman-who-is-heath-tarbert-what-he-thinks-of-crypto-b158002c.md)
