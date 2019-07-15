@@ -1,3 +1,4 @@
+* 2019-07-15 [Сенат выпускает вступительные заявления по Весам в преддверии слушаний в Сенате](https://github.com/theyapapa/cryptonews/blob/ru/calibra-ceo-delivers-opening-statements-on-libra-ahead-of-senate-hearing-9335ea51.md)
 * 2019-07-15 [Бутерин предлагает Bitcoin Cash Интеграция масштабировать Ethereum в краткосрочной перспективе](https://github.com/theyapapa/cryptonews/blob/ru/buterin-proposes-bitcoin-cash-integration-to-scale-ethereum-in-short-term-5f38bbf0.md)
 * 2019-07-15 [Королевский монетный двор Великобритании предоставит опеку за новую криптовалюту](https://github.com/theyapapa/cryptonews/blob/ru/uk-royal-mint-to-provide-custody-for-new-cryptocurrency-d9974148.md)
 * 2019-07-15 [Крупнейшая кредитная карта южной Кореи патентов Blockchain платежной системы](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-biggest-credit-card-patents-blockchain-payments-system-bf422eac.md)
