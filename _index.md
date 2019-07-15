@@ -1,3 +1,4 @@
+* 2019-07-15 [영국 로얄 민트는 새로운 암호 화폐에 대한 양육권을 제공하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/uk-royal-mint-to-provide-custody-for-new-cryptocurrency-d9974148.md)
 * 2019-07-15 [대한민국 최대 신용카드 특허 블록체인 결제 시스템](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-biggest-credit-card-patents-blockchain-payments-system-bf422eac.md)
 * 2019-07-15 [인도: 유출 된 초안 법안은 '디지털 루피'를 제외한 모든 암호화를 금지 할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/india-leaked-draft-bill-would-ban-all-crypto-except-digital-rupee-10eb582e.md)
 * 2019-07-15 [비트 코인을 금지하는 트럼프는 가능하지만 매우 가능성, 이코노미스트는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/trump-banning-bitcoin-is-feasible-but-highly-unlikely-says-economist-d55e8efa.md)
