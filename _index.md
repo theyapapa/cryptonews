@@ -1,3 +1,4 @@
+* 2019-07-14 [Hodler's Digest, Лучшие истории, Движения цен, Цитаты и FUD недели](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-top-stories-price-movements-quotes-and-fud-of-the-week-047d0978.md)
 * 2019-07-14 [Взломанный Bitpoint Exchange находит $ 2,3 M в украденных Крипто](https://github.com/theyapapa/cryptonews/blob/ru/hacked-bitpoint-exchange-finds-23m-in-stolen-crypto-c98cc6dd.md)
 * 2019-07-14 [Новый председатель CFTC: Кто хит Тарберт, что он думает о Crypto?](https://github.com/theyapapa/cryptonews/blob/ru/cftcs-new-chairman-who-is-heath-tarbert-what-he-thinks-of-crypto-b158002c.md)
 * 2019-07-14 [Pundi X интегрирует криптоплатежи в традиционные терминалы продаж](https://github.com/theyapapa/cryptonews/blob/ru/pundi-x-integrates-crypto-payments-into-traditional-sales-terminals-05c0c8a7.md)
