@@ -1,3 +1,4 @@
+* 2019-07-16 [R3, 브라질 스타트업 중심 증권 거래소 지원](https://github.com/theyapapa/cryptonews/blob/ko/r3-to-support-a-startup-focused-stock-exchange-in-brazil-89d6dd84.md)
 * 2019-07-16 [미국 상원 의원 구이 페이스 북 개인 정보 보호, 천칭 자리 청문회에서 신뢰 문제](https://github.com/theyapapa/cryptonews/blob/ko/us-senators-grill-facebook-on-privacy-trust-issues-in-libra-hearing-97281338.md)
 * 2019-07-16 [웨이브 CEO, 블록체인 스핀오프 보스토크 지분 매각](https://github.com/theyapapa/cryptonews/blob/ko/waves-ceo-sells-his-stake-in-blockchain-spin-off-vostok-d4782e67.md)
 * 2019-07-16 [Binance는 한국에서 새로운 현지 거래소를 열고 싶어합니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/binance-wants-to-open-a-new-local-exchange-in-south-korea-report-7c0cbb14.md)
