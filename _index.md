@@ -1,3 +1,4 @@
+* 2019-07-16 [웨이브 CEO, 블록체인 스핀오프 보스토크 지분 매각](https://github.com/theyapapa/cryptonews/blob/ko/waves-ceo-sells-his-stake-in-blockchain-spin-off-vostok-d4782e67.md)
 * 2019-07-16 [Binance는 한국에서 새로운 현지 거래소를 열고 싶어합니다: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/binance-wants-to-open-a-new-local-exchange-in-south-korea-report-7c0cbb14.md)
 * 2019-07-16 [캐나다 타운은 재산세 비트 코인을 받아 들이는 예라고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-town-says-yes-to-accepting-bitcoin-for-property-taxes-41627067.md)
 * 2019-07-16 [EY: 아시아 태평양 지역의 기업 중 거의 70%가 블록체인을 이해하지 못함](https://github.com/theyapapa/cryptonews/blob/ko/ey-blockchain-not-understood-by-almost-70-of-firms-in-asia-pacific-b86b8724.md)
