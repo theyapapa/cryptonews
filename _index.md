@@ -1,3 +1,4 @@
+* 2019-07-15 [Siemens considera el uso de Blockchain Tech para Carsharing](https://github.com/theyapapa/cryptonews/blob/es/siemens-considers-using-blockchain-tech-for-carsharing-6befb3c5.md)
 * 2019-07-15 [Secretario del Tesoro de EE.UU. Comparte las preocupaciones de Trump sobre Crypto, enfatiza el cumplimiento](https://github.com/theyapapa/cryptonews/blob/es/us-treasury-secretary-shares-trumps-concerns-on-crypto-stresses-compliance-14e729a0.md)
 * 2019-07-15 [El Senado publica declaraciones de apertura sobre Libra antes de la audiencia del Senado](https://github.com/theyapapa/cryptonews/blob/es/calibra-ceo-delivers-opening-statements-on-libra-ahead-of-senate-hearing-9335ea51.md)
 * 2019-07-15 [Buterin propone integración de Bitcoin Cash para escalar Ethereum a corto plazo](https://github.com/theyapapa/cryptonews/blob/es/buterin-proposes-bitcoin-cash-integration-to-scale-ethereum-in-short-term-5f38bbf0.md)
