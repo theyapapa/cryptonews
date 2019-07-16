@@ -1,3 +1,4 @@
+* 2019-07-16 [Доля Интернет-данных запускает банковское приложение в тандеме с LDJ Капитала](https://github.com/theyapapa/cryptonews/blob/ru/share-internet-data-launches-banking-app-in-tandem-with-ldj-capital-13dd29c9.md)
 * 2019-07-16 [Представитель США Кевин Маккарти хвалит биткоин, критикуя Весы](https://github.com/theyapapa/cryptonews/blob/ru/us-rep-kevin-mccarthy-praises-bitcoin-while-criticizing-libra-0aec7ea3.md)
 * 2019-07-16 [После слушаний: Рейтинг членов сенатского комитета обсудить правила](https://github.com/theyapapa/cryptonews/blob/ru/post-hearing-ranking-senate-committee-members-discuss-regulations-3f8a2ce6.md)
 * 2019-07-16 [R3 для поддержки стартап-ориентированной фондовой биржи в Бразилии](https://github.com/theyapapa/cryptonews/blob/ru/r3-to-support-a-startup-focused-stock-exchange-in-brazil-89d6dd84.md)
