@@ -1,3 +1,4 @@
+* 2019-07-16 [Представитель США Кевин Маккарти хвалит биткоин, критикуя Весы](https://github.com/theyapapa/cryptonews/blob/ru/us-rep-kevin-mccarthy-praises-bitcoin-while-criticizing-libra-0aec7ea3.md)
 * 2019-07-16 [После слушаний: Рейтинг членов сенатского комитета обсудить правила](https://github.com/theyapapa/cryptonews/blob/ru/post-hearing-ranking-senate-committee-members-discuss-regulations-3f8a2ce6.md)
 * 2019-07-16 [R3 для поддержки стартап-ориентированной фондовой биржи в Бразилии](https://github.com/theyapapa/cryptonews/blob/ru/r3-to-support-a-startup-focused-stock-exchange-in-brazil-89d6dd84.md)
 * 2019-07-16 [Сенаторы США Гриль Facebook о конфиденциальности, целевые вопросы в Весы слушания](https://github.com/theyapapa/cryptonews/blob/ru/us-senators-grill-facebook-on-privacy-trust-issues-in-libra-hearing-97281338.md)
