@@ -1,3 +1,4 @@
+* 2019-07-16 [Binance хочет открыть новую местную биржу в Корее: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/binance-wants-to-open-a-new-local-exchange-in-south-korea-report-7c0cbb14.md)
 * 2019-07-16 [Канадский город говорит да к принимать Bitcoin для тягл свойства](https://github.com/theyapapa/cryptonews/blob/ru/canadian-town-says-yes-to-accepting-bitcoin-for-property-taxes-41627067.md)
 * 2019-07-16 [EY: Блокчейн не понят почти 70% компаний в Азиатско-Тихоокеанском регионе](https://github.com/theyapapa/cryptonews/blob/ru/ey-blockchain-not-understood-by-almost-70-of-firms-in-asia-pacific-b86b8724.md)
 * 2019-07-15 [Рон Пол: «Я все за криптовалюты, мне нравятся конкурирующие валюты»](https://github.com/theyapapa/cryptonews/blob/ru/ron-paul-im-all-for-cryptocurrencies-i-like-competing-currencies-a4e9451c.md)
