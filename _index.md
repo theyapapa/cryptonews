@@ -1,3 +1,4 @@
+* 2019-07-16 [La ciudad canadiense dice sí a aceptar Bitcoin por impuestos de propiedad](https://github.com/theyapapa/cryptonews/blob/es/canadian-town-says-yes-to-accepting-bitcoin-for-property-taxes-41627067.md)
 * 2019-07-16 [EY: Blockchain no entendido por casi el 70% de las empresas en Asia-Pacífico](https://github.com/theyapapa/cryptonews/blob/es/ey-blockchain-not-understood-by-almost-70-of-firms-in-asia-pacific-b86b8724.md)
 * 2019-07-15 [Ron Paul: 'Soy todo por las criptomonedas, me gustan las monedas competidoras'](https://github.com/theyapapa/cryptonews/blob/es/ron-paul-im-all-for-cryptocurrencies-i-like-competing-currencies-a4e9451c.md)
 * 2019-07-15 [Siemens considera el uso de Blockchain Tech para Carsharing](https://github.com/theyapapa/cryptonews/blob/es/siemens-considers-using-blockchain-tech-for-carsharing-6befb3c5.md)
