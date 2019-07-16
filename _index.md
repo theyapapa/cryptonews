@@ -1,3 +1,4 @@
+* 2019-07-15 [론 폴: '나는 암호 화폐에 대한 모든 해요, 나는 경쟁 통화를 좋아한다'](https://github.com/theyapapa/cryptonews/blob/ko/ron-paul-im-all-for-cryptocurrencies-i-like-competing-currencies-a4e9451c.md)
 * 2019-07-15 [지멘스는 카셰어링에 블록체인 기술을 사용하는 것을 고려한다.](https://github.com/theyapapa/cryptonews/blob/ko/siemens-considers-using-blockchain-tech-for-carsharing-6befb3c5.md)
 * 2019-07-15 [미국 재무장관, 암호화폐에 대한 트럼프의 우려, 규정 준수 강조](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-secretary-shares-trumps-concerns-on-crypto-stresses-compliance-14e729a0.md)
 * 2019-07-15 [상원 청문회 에 앞서 선관위에 대한 공개 성명발표](https://github.com/theyapapa/cryptonews/blob/ko/calibra-ceo-delivers-opening-statements-on-libra-ahead-of-senate-hearing-9335ea51.md)
