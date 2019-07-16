@@ -1,3 +1,4 @@
+* 2019-07-16 [미국 의원 케빈 매카시가 라이오브를 비판하면서 비트코인을 칭찬하다](https://github.com/theyapapa/cryptonews/blob/ko/us-rep-kevin-mccarthy-praises-bitcoin-while-criticizing-libra-0aec7ea3.md)
 * 2019-07-16 [청문회 후: 상원 위원회 위원들이 규정에 대해 논의하다](https://github.com/theyapapa/cryptonews/blob/ko/post-hearing-ranking-senate-committee-members-discuss-regulations-3f8a2ce6.md)
 * 2019-07-16 [R3, 브라질 스타트업 중심 증권 거래소 지원](https://github.com/theyapapa/cryptonews/blob/ko/r3-to-support-a-startup-focused-stock-exchange-in-brazil-89d6dd84.md)
 * 2019-07-16 [미국 상원 의원 구이 페이스 북 개인 정보 보호, 천칭 자리 청문회에서 신뢰 문제](https://github.com/theyapapa/cryptonews/blob/ko/us-senators-grill-facebook-on-privacy-trust-issues-in-libra-hearing-97281338.md)
