@@ -1,3 +1,4 @@
+* 2019-07-16 [청문회 후: 상원 위원회 위원들이 규정에 대해 논의하다](https://github.com/theyapapa/cryptonews/blob/ko/post-hearing-ranking-senate-committee-members-discuss-regulations-3f8a2ce6.md)
 * 2019-07-16 [R3, 브라질 스타트업 중심 증권 거래소 지원](https://github.com/theyapapa/cryptonews/blob/ko/r3-to-support-a-startup-focused-stock-exchange-in-brazil-89d6dd84.md)
 * 2019-07-16 [미국 상원 의원 구이 페이스 북 개인 정보 보호, 천칭 자리 청문회에서 신뢰 문제](https://github.com/theyapapa/cryptonews/blob/ko/us-senators-grill-facebook-on-privacy-trust-issues-in-libra-hearing-97281338.md)
 * 2019-07-16 [웨이브 CEO, 블록체인 스핀오프 보스토크 지분 매각](https://github.com/theyapapa/cryptonews/blob/ko/waves-ceo-sells-his-stake-in-blockchain-spin-off-vostok-d4782e67.md)
