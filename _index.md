@@ -1,3 +1,4 @@
+* 2019-07-16 [Сенаторы США Гриль Facebook о конфиденциальности, целевые вопросы в Весы слушания](https://github.com/theyapapa/cryptonews/blob/ru/us-senators-grill-facebook-on-privacy-trust-issues-in-libra-hearing-97281338.md)
 * 2019-07-16 [Waves генеральный директор продает свою долю в Blockchain Spin-Off Восток](https://github.com/theyapapa/cryptonews/blob/ru/waves-ceo-sells-his-stake-in-blockchain-spin-off-vostok-d4782e67.md)
 * 2019-07-16 [Binance хочет открыть новую местную биржу в Корее: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/binance-wants-to-open-a-new-local-exchange-in-south-korea-report-7c0cbb14.md)
 * 2019-07-16 [Канадский город говорит да к принимать Bitcoin для тягл свойства](https://github.com/theyapapa/cryptonews/blob/ru/canadian-town-says-yes-to-accepting-bitcoin-for-property-taxes-41627067.md)
