@@ -1,3 +1,4 @@
+* 2019-07-16 [US Senators Grill Facebook sobre privacidad, problemas de confianza en libra audiencia](https://github.com/theyapapa/cryptonews/blob/es/us-senators-grill-facebook-on-privacy-trust-issues-in-libra-hearing-97281338.md)
 * 2019-07-16 [El CEO de Waves vende su participación en Blockchain Spin-Off Vostok](https://github.com/theyapapa/cryptonews/blob/es/waves-ceo-sells-his-stake-in-blockchain-spin-off-vostok-d4782e67.md)
 * 2019-07-16 [Binance quiere abrir un nuevo intercambio local en Corea del Sur: Informe](https://github.com/theyapapa/cryptonews/blob/es/binance-wants-to-open-a-new-local-exchange-in-south-korea-report-7c0cbb14.md)
 * 2019-07-16 [La ciudad canadiense dice sí a aceptar Bitcoin por impuestos de propiedad](https://github.com/theyapapa/cryptonews/blob/es/canadian-town-says-yes-to-accepting-bitcoin-for-property-taxes-41627067.md)
