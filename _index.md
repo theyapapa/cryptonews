@@ -1,3 +1,4 @@
+* 2019-07-17 [El representante Waters abre la audiencia de Libra con acusación de los errores pasados de Facebook](https://github.com/theyapapa/cryptonews/blob/es/rep-waters-opens-libra-hearing-with-indictment-of-facebooks-past-mistakes-68b66fbe.md)
 * 2019-07-17 [Audiencias de La Libra de EE. UU. 1: Los legisladores encuentran difícil confiar en Facebook](https://github.com/theyapapa/cryptonews/blob/es/us-libra-hearings-day-1-lawmakers-finding-it-hard-to-trust-facebook-17894630.md)
 * 2019-07-17 [Tether USDT está lanzando en una cadena de bloques 'Pure PoS', Algorand](https://github.com/theyapapa/cryptonews/blob/es/tether-usdt-is-launching-on-a-pure-pos-blockchain-algorand-85b73b89.md)
 * 2019-07-17 [Francia aprobará las primeras empresas criptográficas bajo nuevas reglas este mes este mes](https://github.com/theyapapa/cryptonews/blob/es/france-set-to-approve-first-crypto-firms-under-new-rules-this-month-7cf7c9f7.md)
