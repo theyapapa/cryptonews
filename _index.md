@@ -1,3 +1,4 @@
+* 2019-07-17 [미국 정부가 천칭 자리 암호 화폐를 금지하지 않는 이유](https://github.com/theyapapa/cryptonews/blob/ko/reasons-why-us-government-wont-ban-libra-cryptocurrency-d0f06046.md)
 * 2019-07-17 [IMF 수석 이코노미스트, 선관위에 대한 규제 경계 촉구](https://github.com/theyapapa/cryptonews/blob/ko/imf-chief-economist-urges-regulatory-vigilance-on-libra-2666dfc7.md)
 * 2019-07-17 [워터스 의원, 페이스북의 과거 실수 혐의로 선관위 청문회 개시](https://github.com/theyapapa/cryptonews/blob/ko/rep-waters-opens-libra-hearing-with-indictment-of-facebooks-past-mistakes-68b66fbe.md)
 * 2019-07-17 [미국 의제 선견1일: 페이스북을 신뢰하기 어렵다는 의원들](https://github.com/theyapapa/cryptonews/blob/ko/us-libra-hearings-day-1-lawmakers-finding-it-hard-to-trust-facebook-17894630.md)
