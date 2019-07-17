@@ -1,3 +1,4 @@
+* 2019-07-17 [Розничные инвесторы теперь могут делать ставки на биткойн, достигая $100,000 к 2020 году](https://github.com/theyapapa/cryptonews/blob/ru/retail-investors-can-now-bet-on-bitcoin-hitting-100-000-by-2020-5605d2d1.md)
 * 2019-07-16 [Grayscale Инвестиции Отчет активы под управлением в размере $ 2,7 Миллиарды](https://github.com/theyapapa/cryptonews/blob/ru/grayscale-investments-report-all-time-high-of-assets-under-management-of-27b-179b751c.md)
 * 2019-07-16 [IBM втрим количество блокчейн-патентов в США с прошлого года](https://github.com/theyapapa/cryptonews/blob/ru/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
 * 2019-07-16 [Доля Интернет-данных запускает банковское приложение в тандеме с LDJ Капитала](https://github.com/theyapapa/cryptonews/blob/ru/share-internet-data-launches-banking-app-in-tandem-with-ldj-capital-13dd29c9.md)
