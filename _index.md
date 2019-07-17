@@ -1,3 +1,4 @@
+* 2019-07-17 [Jamie Dimon dice que Libra no representa una amenaza a corto plazo](https://github.com/theyapapa/cryptonews/blob/es/jamie-dimon-says-libra-does-not-pose-a-threat-in-short-term-77c2f891.md)
 * 2019-07-17 [La empresa de renombre y tokenización de sobrestock tZERO anuncia una nueva gestión](https://github.com/theyapapa/cryptonews/blob/es/overstock-subsidiary-and-tokenization-firm-tzero-announces-new-management-bdd004c6.md)
 * 2019-07-17 [Razones por las que el gobierno de EE. UU. no prohibirá la criptomoneda Libra](https://github.com/theyapapa/cryptonews/blob/es/reasons-why-us-government-wont-ban-libra-cryptocurrency-d0f06046.md)
 * 2019-07-17 [Economista Jefe del FMI pide vigilancia regulatoria sobre Libra](https://github.com/theyapapa/cryptonews/blob/es/imf-chief-economist-urges-regulatory-vigilance-on-libra-2666dfc7.md)
