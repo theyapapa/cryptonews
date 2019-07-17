@@ -1,3 +1,4 @@
+* 2019-07-17 [Francia aprobará las primeras empresas criptográficas bajo nuevas reglas este mes este mes](https://github.com/theyapapa/cryptonews/blob/es/france-set-to-approve-first-crypto-firms-under-new-rules-this-month-7cf7c9f7.md)
 * 2019-07-17 [Los inversores minoristas ahora pueden apostar a que Bitcoin golpee $100,000 para 2020](https://github.com/theyapapa/cryptonews/blob/es/retail-investors-can-now-bet-on-bitcoin-hitting-100-000-by-2020-5605d2d1.md)
 * 2019-07-16 [Grayscale Investments Report Activos Bajo Gestión de $2.7 Miles de millones](https://github.com/theyapapa/cryptonews/blob/es/grayscale-investments-report-all-time-high-of-assets-under-management-of-27b-179b751c.md)
 * 2019-07-16 [IBM triplica el número de patentes de blockchain en EE. UU. desde el año pasado](https://github.com/theyapapa/cryptonews/blob/es/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
