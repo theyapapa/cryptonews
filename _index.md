@@ -1,3 +1,4 @@
+* 2019-07-17 [Республика Уотерс открывает Весы слушания с обвинительным заключением Facebook прошлых ошибок](https://github.com/theyapapa/cryptonews/blob/ru/rep-waters-opens-libra-hearing-with-indictment-of-facebooks-past-mistakes-68b66fbe.md)
 * 2019-07-17 [США Весы Слушания День 1: Законодатели Найти трудно доверять Facebook](https://github.com/theyapapa/cryptonews/blob/ru/us-libra-hearings-day-1-lawmakers-finding-it-hard-to-trust-facebook-17894630.md)
 * 2019-07-17 [Tether USDT запускает на 'Чистый PoS' Blockchain, Algorand](https://github.com/theyapapa/cryptonews/blob/ru/tether-usdt-is-launching-on-a-pure-pos-blockchain-algorand-85b73b89.md)
 * 2019-07-17 [Франция установить утвердить первые крипто-фирмы в соответствии с новыми правилами в этом месяце](https://github.com/theyapapa/cryptonews/blob/ru/france-set-to-approve-first-crypto-firms-under-new-rules-this-month-7cf7c9f7.md)
