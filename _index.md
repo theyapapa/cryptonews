@@ -1,3 +1,4 @@
+* 2019-07-16 [IBM triplica el número de patentes de blockchain en EE. UU. desde el año pasado](https://github.com/theyapapa/cryptonews/blob/es/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
 * 2019-07-16 [Compartir datos de Internet lanza la aplicación bancaria en tándem con LDJ Capital](https://github.com/theyapapa/cryptonews/blob/es/share-internet-data-launches-banking-app-in-tandem-with-ldj-capital-13dd29c9.md)
 * 2019-07-16 [Kevin McCarthy elogia a Bitcoin mientras critica a Libra](https://github.com/theyapapa/cryptonews/blob/es/us-rep-kevin-mccarthy-praises-bitcoin-while-criticizing-libra-0aec7ea3.md)
 * 2019-07-16 [Después de la audiencia: Los miembros del Comité del Senado de clasificación discuten el reglamento](https://github.com/theyapapa/cryptonews/blob/es/post-hearing-ranking-senate-committee-members-discuss-regulations-3f8a2ce6.md)
