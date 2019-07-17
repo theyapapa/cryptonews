@@ -1,3 +1,4 @@
+* 2019-07-16 [그레이스케일 투자는 $2.7B의 관리 하에 자산을 보고합니다.](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-investments-report-all-time-high-of-assets-under-management-of-27b-179b751c.md)
 * 2019-07-16 [IBM, 작년 이후 미국 블록체인 특허 3배 증가](https://github.com/theyapapa/cryptonews/blob/ko/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
 * 2019-07-16 [공유 인터넷 데이터 LDJ 자본과 협력하여 은행 응용 프로그램을 출시](https://github.com/theyapapa/cryptonews/blob/ko/share-internet-data-launches-banking-app-in-tandem-with-ldj-capital-13dd29c9.md)
 * 2019-07-16 [미국 의원 케빈 매카시가 라이오브를 비판하면서 비트코인을 칭찬하다](https://github.com/theyapapa/cryptonews/blob/ko/us-rep-kevin-mccarthy-praises-bitcoin-while-criticizing-libra-0aec7ea3.md)
