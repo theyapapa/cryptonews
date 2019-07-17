@@ -1,3 +1,4 @@
+* 2019-07-17 [테더 USDT는 '순수 POS'블록 체인, 오고랜드에 출시된다](https://github.com/theyapapa/cryptonews/blob/ko/tether-usdt-is-launching-on-a-pure-pos-blockchain-algorand-85b73b89.md)
 * 2019-07-17 [프랑스는 새로운 규칙에 따라 첫 번째 암호 회사를 승인하도록 설정 이번 달](https://github.com/theyapapa/cryptonews/blob/ko/france-set-to-approve-first-crypto-firms-under-new-rules-this-month-7cf7c9f7.md)
 * 2019-07-17 [소매 투자자는 이제 2020년까지 $100,000를 치는 비트코인에 베팅할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/retail-investors-can-now-bet-on-bitcoin-hitting-100-000-by-2020-5605d2d1.md)
 * 2019-07-16 [그레이스케일 투자는 $2.7B의 관리 하에 자산을 보고합니다.](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-investments-report-all-time-high-of-assets-under-management-of-27b-179b751c.md)
