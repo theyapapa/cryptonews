@@ -1,3 +1,4 @@
+* 2019-07-16 [Grayscale Investments Report Activos Bajo Gestión de $2.7 Miles de millones](https://github.com/theyapapa/cryptonews/blob/es/grayscale-investments-report-all-time-high-of-assets-under-management-of-27b-179b751c.md)
 * 2019-07-16 [IBM triplica el número de patentes de blockchain en EE. UU. desde el año pasado](https://github.com/theyapapa/cryptonews/blob/es/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
 * 2019-07-16 [Compartir datos de Internet lanza la aplicación bancaria en tándem con LDJ Capital](https://github.com/theyapapa/cryptonews/blob/es/share-internet-data-launches-banking-app-in-tandem-with-ldj-capital-13dd29c9.md)
 * 2019-07-16 [Kevin McCarthy elogia a Bitcoin mientras critica a Libra](https://github.com/theyapapa/cryptonews/blob/es/us-rep-kevin-mccarthy-praises-bitcoin-while-criticizing-libra-0aec7ea3.md)
