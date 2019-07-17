@@ -1,3 +1,4 @@
+* 2019-07-17 [Audiencias de La Libra de EE. UU. 1: Los legisladores encuentran difícil confiar en Facebook](https://github.com/theyapapa/cryptonews/blob/es/us-libra-hearings-day-1-lawmakers-finding-it-hard-to-trust-facebook-17894630.md)
 * 2019-07-17 [Tether USDT está lanzando en una cadena de bloques 'Pure PoS', Algorand](https://github.com/theyapapa/cryptonews/blob/es/tether-usdt-is-launching-on-a-pure-pos-blockchain-algorand-85b73b89.md)
 * 2019-07-17 [Francia aprobará las primeras empresas criptográficas bajo nuevas reglas este mes este mes](https://github.com/theyapapa/cryptonews/blob/es/france-set-to-approve-first-crypto-firms-under-new-rules-this-month-7cf7c9f7.md)
 * 2019-07-17 [Los inversores minoristas ahora pueden apostar a que Bitcoin golpee $100,000 para 2020](https://github.com/theyapapa/cryptonews/blob/es/retail-investors-can-now-bet-on-bitcoin-hitting-100-000-by-2020-5605d2d1.md)
