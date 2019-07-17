@@ -1,3 +1,4 @@
+* 2019-07-17 [소매 투자자는 이제 2020년까지 $100,000를 치는 비트코인에 베팅할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/retail-investors-can-now-bet-on-bitcoin-hitting-100-000-by-2020-5605d2d1.md)
 * 2019-07-16 [그레이스케일 투자는 $2.7B의 관리 하에 자산을 보고합니다.](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-investments-report-all-time-high-of-assets-under-management-of-27b-179b751c.md)
 * 2019-07-16 [IBM, 작년 이후 미국 블록체인 특허 3배 증가](https://github.com/theyapapa/cryptonews/blob/ko/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
 * 2019-07-16 [공유 인터넷 데이터 LDJ 자본과 협력하여 은행 응용 프로그램을 출시](https://github.com/theyapapa/cryptonews/blob/ko/share-internet-data-launches-banking-app-in-tandem-with-ldj-capital-13dd29c9.md)
