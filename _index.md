@@ -1,3 +1,4 @@
+* 2019-07-17 [Overstock Дочерняя и токенизация фирма t'ero объявляет о новом управлении](https://github.com/theyapapa/cryptonews/blob/ru/overstock-subsidiary-and-tokenization-firm-tzero-announces-new-management-bdd004c6.md)
 * 2019-07-17 [Причины, почему правительство США не будет запрещать Весы криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/reasons-why-us-government-wont-ban-libra-cryptocurrency-d0f06046.md)
 * 2019-07-17 [Главный экономист МВФ призывает к бдительности в области регулирования Весов](https://github.com/theyapapa/cryptonews/blob/ru/imf-chief-economist-urges-regulatory-vigilance-on-libra-2666dfc7.md)
 * 2019-07-17 [Республика Уотерс открывает Весы слушания с обвинительным заключением Facebook прошлых ошибок](https://github.com/theyapapa/cryptonews/blob/ru/rep-waters-opens-libra-hearing-with-indictment-of-facebooks-past-mistakes-68b66fbe.md)
