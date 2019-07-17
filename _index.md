@@ -1,3 +1,4 @@
+* 2019-07-16 [IBM, 작년 이후 미국 블록체인 특허 3배 증가](https://github.com/theyapapa/cryptonews/blob/ko/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
 * 2019-07-16 [공유 인터넷 데이터 LDJ 자본과 협력하여 은행 응용 프로그램을 출시](https://github.com/theyapapa/cryptonews/blob/ko/share-internet-data-launches-banking-app-in-tandem-with-ldj-capital-13dd29c9.md)
 * 2019-07-16 [미국 의원 케빈 매카시가 라이오브를 비판하면서 비트코인을 칭찬하다](https://github.com/theyapapa/cryptonews/blob/ko/us-rep-kevin-mccarthy-praises-bitcoin-while-criticizing-libra-0aec7ea3.md)
 * 2019-07-16 [청문회 후: 상원 위원회 위원들이 규정에 대해 논의하다](https://github.com/theyapapa/cryptonews/blob/ko/post-hearing-ranking-senate-committee-members-discuss-regulations-3f8a2ce6.md)
