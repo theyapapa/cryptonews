@@ -1,3 +1,4 @@
+* 2019-07-17 [США Весы Слушания День 1: Законодатели Найти трудно доверять Facebook](https://github.com/theyapapa/cryptonews/blob/ru/us-libra-hearings-day-1-lawmakers-finding-it-hard-to-trust-facebook-17894630.md)
 * 2019-07-17 [Tether USDT запускает на 'Чистый PoS' Blockchain, Algorand](https://github.com/theyapapa/cryptonews/blob/ru/tether-usdt-is-launching-on-a-pure-pos-blockchain-algorand-85b73b89.md)
 * 2019-07-17 [Франция установить утвердить первые крипто-фирмы в соответствии с новыми правилами в этом месяце](https://github.com/theyapapa/cryptonews/blob/ru/france-set-to-approve-first-crypto-firms-under-new-rules-this-month-7cf7c9f7.md)
 * 2019-07-17 [Розничные инвесторы теперь могут делать ставки на биткойн, достигая $100,000 к 2020 году](https://github.com/theyapapa/cryptonews/blob/ru/retail-investors-can-now-bet-on-bitcoin-hitting-100-000-by-2020-5605d2d1.md)
