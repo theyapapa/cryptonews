@@ -1,3 +1,4 @@
+* 2019-07-17 [Франция установить утвердить первые крипто-фирмы в соответствии с новыми правилами в этом месяце](https://github.com/theyapapa/cryptonews/blob/ru/france-set-to-approve-first-crypto-firms-under-new-rules-this-month-7cf7c9f7.md)
 * 2019-07-17 [Розничные инвесторы теперь могут делать ставки на биткойн, достигая $100,000 к 2020 году](https://github.com/theyapapa/cryptonews/blob/ru/retail-investors-can-now-bet-on-bitcoin-hitting-100-000-by-2020-5605d2d1.md)
 * 2019-07-16 [Grayscale Инвестиции Отчет активы под управлением в размере $ 2,7 Миллиарды](https://github.com/theyapapa/cryptonews/blob/ru/grayscale-investments-report-all-time-high-of-assets-under-management-of-27b-179b751c.md)
 * 2019-07-16 [IBM втрим количество блокчейн-патентов в США с прошлого года](https://github.com/theyapapa/cryptonews/blob/ru/ibm-triples-number-of-blockchain-patents-in-us-since-last-year-1ec4cb9b.md)
