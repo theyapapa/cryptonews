@@ -1,3 +1,4 @@
+* 2019-07-17 [제이미 다이몬은 선견장 이 단기적으로 위협을 제기하지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/jamie-dimon-says-libra-does-not-pose-a-threat-in-short-term-77c2f891.md)
 * 2019-07-17 [과잉 주식 자회사 및 토큰화 회사 tZERO, 새로운 관리 발표](https://github.com/theyapapa/cryptonews/blob/ko/overstock-subsidiary-and-tokenization-firm-tzero-announces-new-management-bdd004c6.md)
 * 2019-07-17 [미국 정부가 천칭 자리 암호 화폐를 금지하지 않는 이유](https://github.com/theyapapa/cryptonews/blob/ko/reasons-why-us-government-wont-ban-libra-cryptocurrency-d0f06046.md)
 * 2019-07-17 [IMF 수석 이코노미스트, 선관위에 대한 규제 경계 촉구](https://github.com/theyapapa/cryptonews/blob/ko/imf-chief-economist-urges-regulatory-vigilance-on-libra-2666dfc7.md)
