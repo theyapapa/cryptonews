@@ -1,3 +1,4 @@
+* 2019-07-18 [Банда мужчин в масках рейд Bitcoin посольство в Бирмингеме](https://github.com/theyapapa/cryptonews/blob/ru/gang-of-masked-men-raid-bitcoin-embassy-in-birmingham-ddf3b5b8.md)
 * 2019-07-18 [Топ-5 Crypto токенов Произносится "мертвые" - NEM и BCC глава списка](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-tokens-pronounced-dead-nem-and-bcc-head-the-list-b54b76ae.md)
 * 2019-07-18 [NEO и онтологии Партнерство Глаза Глобальная кросс-цепная блокчейн-платформа](https://github.com/theyapapa/cryptonews/blob/ru/neo-and-ontology-partnership-eyes-global-cross-chain-blockchain-platform-28c30fe5.md)
 * 2019-07-18 [G7 одобрила японскую альтернативу SWIFT на основе криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/g7-approves-japans-cryptocurrency-based-swift-alternative-183c4bad.md)
