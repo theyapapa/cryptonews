@@ -1,3 +1,4 @@
+* 2019-07-18 [NEO и онтологии Партнерство Глаза Глобальная кросс-цепная блокчейн-платформа](https://github.com/theyapapa/cryptonews/blob/ru/neo-and-ontology-partnership-eyes-global-cross-chain-blockchain-platform-28c30fe5.md)
 * 2019-07-18 [G7 одобрила японскую альтернативу SWIFT на основе криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/g7-approves-japans-cryptocurrency-based-swift-alternative-183c4bad.md)
 * 2019-07-17 [Coinbase объявляет о трех торговых сигналах на основе данных для пользователей](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-announces-three-data-based-trading-signals-for-users-b50e2377.md)
 * 2019-07-17 [Джейми Даймон говорит Весы не создает угрозу в краткосрочной перспективе](https://github.com/theyapapa/cryptonews/blob/ru/jamie-dimon-says-libra-does-not-pose-a-threat-in-short-term-77c2f891.md)
