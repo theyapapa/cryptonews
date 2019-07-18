@@ -1,3 +1,4 @@
+* 2019-07-18 [Gang of Masked Men Raid Bitcoin Embassy en Birmingham](https://github.com/theyapapa/cryptonews/blob/es/gang-of-masked-men-raid-bitcoin-embassy-in-birmingham-ddf3b5b8.md)
 * 2019-07-18 [Top-5 Crypto Tokens pronunciados 'Muertos' — NEM y BCC encabezan la lista](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-tokens-pronounced-dead-nem-and-bcc-head-the-list-b54b76ae.md)
 * 2019-07-18 [NEO y Ontology Partnership Eyes Global Cross-Chain Blockchain Platform](https://github.com/theyapapa/cryptonews/blob/es/neo-and-ontology-partnership-eyes-global-cross-chain-blockchain-platform-28c30fe5.md)
 * 2019-07-18 [El G7 aprueba la alternativa SWIFT basada en criptomonedas de Japón](https://github.com/theyapapa/cryptonews/blob/es/g7-approves-japans-cryptocurrency-based-swift-alternative-183c4bad.md)
