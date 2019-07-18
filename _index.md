@@ -1,3 +1,4 @@
+* 2019-07-18 [G7 일본의 암호 화폐 기반 SWIFT 대안을 승인](https://github.com/theyapapa/cryptonews/blob/ko/g7-approves-japans-cryptocurrency-based-swift-alternative-183c4bad.md)
 * 2019-07-17 [Coinbase, 사용자를 위한 세 가지 데이터 기반 거래 신호 발표](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-announces-three-data-based-trading-signals-for-users-b50e2377.md)
 * 2019-07-17 [제이미 다이몬은 선견장 이 단기적으로 위협을 제기하지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/jamie-dimon-says-libra-does-not-pose-a-threat-in-short-term-77c2f891.md)
 * 2019-07-17 [과잉 주식 자회사 및 토큰화 회사 tZERO, 새로운 관리 발표](https://github.com/theyapapa/cryptonews/blob/ko/overstock-subsidiary-and-tokenization-firm-tzero-announces-new-management-bdd004c6.md)
