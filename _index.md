@@ -1,3 +1,4 @@
+* 2019-07-18 [NEO y Ontology Partnership Eyes Global Cross-Chain Blockchain Platform](https://github.com/theyapapa/cryptonews/blob/es/neo-and-ontology-partnership-eyes-global-cross-chain-blockchain-platform-28c30fe5.md)
 * 2019-07-18 [El G7 aprueba la alternativa SWIFT basada en criptomonedas de Japón](https://github.com/theyapapa/cryptonews/blob/es/g7-approves-japans-cryptocurrency-based-swift-alternative-183c4bad.md)
 * 2019-07-17 [Coinbase anuncia tres señales comerciales basadas en datos para los usuarios](https://github.com/theyapapa/cryptonews/blob/es/coinbase-announces-three-data-based-trading-signals-for-users-b50e2377.md)
 * 2019-07-17 [Jamie Dimon dice que Libra no representa una amenaza a corto plazo](https://github.com/theyapapa/cryptonews/blob/es/jamie-dimon-says-libra-does-not-pose-a-threat-in-short-term-77c2f891.md)
