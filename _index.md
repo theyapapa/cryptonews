@@ -1,3 +1,4 @@
+* 2019-07-18 [Binance Неосознанно зарабатывает награды staking звезды, добавляет поддержку](https://github.com/theyapapa/cryptonews/blob/ru/binance-unknowingly-earns-staking-rewards-of-stellar-adds-support-eccac423.md)
 * 2019-07-18 [Цена BTC возвращает $10K после того, как законодатель США заявил, что биткоин не может быть убит](https://github.com/theyapapa/cryptonews/blob/ru/btc-price-reclaims-10k-after-us-lawmaker-says-bitcoin-cant-be-killed-364cc62c.md)
 * 2019-07-18 [Банда мужчин в масках рейд Bitcoin посольство в Бирмингеме](https://github.com/theyapapa/cryptonews/blob/ru/gang-of-masked-men-raid-bitcoin-embassy-in-birmingham-ddf3b5b8.md)
 * 2019-07-18 [Топ-5 Crypto токенов Произносится "мертвые" - NEM и BCC глава списка](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-tokens-pronounced-dead-nem-and-bcc-head-the-list-b54b76ae.md)
