@@ -1,3 +1,4 @@
+* 2019-07-18 [무의식적으로 별의 스나이빙 보상을 획득, 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/binance-unknowingly-earns-staking-rewards-of-stellar-adds-support-eccac423.md)
 * 2019-07-18 [BTC 가격 회수 $10 K 미국 의원 비트 코인을 죽일 수 없습니다 말한다 후](https://github.com/theyapapa/cryptonews/blob/ko/btc-price-reclaims-10k-after-us-lawmaker-says-bitcoin-cant-be-killed-364cc62c.md)
 * 2019-07-18 [버밍엄에서 마스크 남자 습격 비트 코인 대사관의 갱](https://github.com/theyapapa/cryptonews/blob/ko/gang-of-masked-men-raid-bitcoin-embassy-in-birmingham-ddf3b5b8.md)
 * 2019-07-18 [상위 5 암호화 토큰 발음 '죽은' - NEM과 BCC 머리 목록](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-tokens-pronounced-dead-nem-and-bcc-head-the-list-b54b76ae.md)
