@@ -1,3 +1,4 @@
+* 2019-07-18 [BTC Price reclama $10K después de que el legislador estadounidense dice que Bitcoin no puede ser asesinado](https://github.com/theyapapa/cryptonews/blob/es/btc-price-reclaims-10k-after-us-lawmaker-says-bitcoin-cant-be-killed-364cc62c.md)
 * 2019-07-18 [Gang of Masked Men Raid Bitcoin Embassy en Birmingham](https://github.com/theyapapa/cryptonews/blob/es/gang-of-masked-men-raid-bitcoin-embassy-in-birmingham-ddf3b5b8.md)
 * 2019-07-18 [Top-5 Crypto Tokens pronunciados 'Muertos' — NEM y BCC encabezan la lista](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-tokens-pronounced-dead-nem-and-bcc-head-the-list-b54b76ae.md)
 * 2019-07-18 [NEO y Ontology Partnership Eyes Global Cross-Chain Blockchain Platform](https://github.com/theyapapa/cryptonews/blob/es/neo-and-ontology-partnership-eyes-global-cross-chain-blockchain-platform-28c30fe5.md)
