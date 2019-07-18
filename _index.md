@@ -1,3 +1,4 @@
+* 2019-07-18 [Roubini: BitMEX en Violación de las Leyes de Valores, Crypto a Metastasized Cancer](https://github.com/theyapapa/cryptonews/blob/es/roubini-bitmex-in-violation-of-securities-laws-crypto-a-metastasized-cancer-967586b4.md)
 * 2019-07-18 [Cámara de Comercio Digital de EE. UU. Onboards Crypto Exchange ErisX](https://github.com/theyapapa/cryptonews/blob/es/us-chamber-of-digital-commerce-onboards-crypto-exchange-erisx-eaf0297e.md)
 * 2019-07-18 [Binance sin saberlo gana recompensas de stalto de Stellar, añade soporte](https://github.com/theyapapa/cryptonews/blob/es/binance-unknowingly-earns-staking-rewards-of-stellar-adds-support-eccac423.md)
 * 2019-07-18 [BTC Price reclama $10K después de que el legislador estadounidense dice que Bitcoin no puede ser asesinado](https://github.com/theyapapa/cryptonews/blob/es/btc-price-reclaims-10k-after-us-lawmaker-says-bitcoin-cant-be-killed-364cc62c.md)
