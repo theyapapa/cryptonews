@@ -1,3 +1,4 @@
+* 2019-07-18 [버밍엄에서 마스크 남자 습격 비트 코인 대사관의 갱](https://github.com/theyapapa/cryptonews/blob/ko/gang-of-masked-men-raid-bitcoin-embassy-in-birmingham-ddf3b5b8.md)
 * 2019-07-18 [상위 5 암호화 토큰 발음 '죽은' - NEM과 BCC 머리 목록](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-tokens-pronounced-dead-nem-and-bcc-head-the-list-b54b76ae.md)
 * 2019-07-18 [NEO 및 온톨로지 파트너십 눈 글로벌 크로스 체인 블록 체인 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/neo-and-ontology-partnership-eyes-global-cross-chain-blockchain-platform-28c30fe5.md)
 * 2019-07-18 [G7 일본의 암호 화폐 기반 SWIFT 대안을 승인](https://github.com/theyapapa/cryptonews/blob/ko/g7-approves-japans-cryptocurrency-based-swift-alternative-183c4bad.md)
