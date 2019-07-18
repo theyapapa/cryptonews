@@ -1,3 +1,4 @@
+* 2019-07-17 [Coinbase объявляет о трех торговых сигналах на основе данных для пользователей](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-announces-three-data-based-trading-signals-for-users-b50e2377.md)
 * 2019-07-17 [Джейми Даймон говорит Весы не создает угрозу в краткосрочной перспективе](https://github.com/theyapapa/cryptonews/blob/ru/jamie-dimon-says-libra-does-not-pose-a-threat-in-short-term-77c2f891.md)
 * 2019-07-17 [Overstock Дочерняя и токенизация фирма t'ero объявляет о новом управлении](https://github.com/theyapapa/cryptonews/blob/ru/overstock-subsidiary-and-tokenization-firm-tzero-announces-new-management-bdd004c6.md)
 * 2019-07-17 [Причины, почему правительство США не будет запрещать Весы криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/reasons-why-us-government-wont-ban-libra-cryptocurrency-d0f06046.md)
