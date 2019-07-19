@@ -1,3 +1,4 @@
+* 2019-07-19 [Coinbase deja caer su producto Crypto Bundle sin ninguna explicación](https://github.com/theyapapa/cryptonews/blob/es/coinbase-drops-its-crypto-bundle-product-without-any-explanation-b3d8cc09.md)
 * 2019-07-19 [Bloomberg: Regulador de EE.UU. investiga bitMEX por permitir que los estadounidenses comercieran](https://github.com/theyapapa/cryptonews/blob/es/bloomberg-us-regulator-investigating-bitmex-for-allowing-americans-to-trade-7a951909.md)
 * 2019-07-18 [1 AM UTC es la hora más volátil para Bitcoin: Investigación](https://github.com/theyapapa/cryptonews/blob/es/1-am-utc-is-the-most-volatile-hour-for-bitcoin-research-7f2181e6.md)
 * 2019-07-18 [Roubini: BitMEX en Violación de las Leyes de Valores, Crypto a Metastasized Cancer](https://github.com/theyapapa/cryptonews/blob/es/roubini-bitmex-in-violation-of-securities-laws-crypto-a-metastasized-cancer-967586b4.md)
