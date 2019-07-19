@@ -1,3 +1,4 @@
+* 2019-07-19 [석유 시장은 블록 체인으로 30 %를 절약 할 수 있다고 데이터 검보 CEO는 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/oil-markets-could-save-30-with-blockchain-data-gumbo-ceo-says-0c5d1103.md)
 * 2019-07-19 [새로운 블록 체인 네트워크 Ycash에 개인 정보 보호 중심의 동전 Zcash 포크](https://github.com/theyapapa/cryptonews/blob/ko/privacy-focused-coin-zcash-forks-into-new-blockchain-network-ycash-59343e78.md)
 * 2019-07-19 [블랙록 CEO: 우리는 천칭 자리가 필요하지 않습니다, 우리는 기술이 필요합니다](https://github.com/theyapapa/cryptonews/blob/ko/blackrock-ceo-we-dont-need-libra-we-need-te-141fd6f5.md)
 * 2019-07-19 [서클 CEO, 저스틴 선 워렌 버핏 점심 초대 수락](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-accepts-justin-suns-invitation-to-warren-buffett-lunch-4eb1ae28.md)
