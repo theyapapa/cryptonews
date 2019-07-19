@@ -1,3 +1,4 @@
+* 2019-07-18 [1 AM UTC является самым нестабильным часом для Bitcoin: Исследования](https://github.com/theyapapa/cryptonews/blob/ru/1-am-utc-is-the-most-volatile-hour-for-bitcoin-research-7f2181e6.md)
 * 2019-07-18 [Рубини: BitMEX в нарушение законов о ценных бумагах, Крипто метастазы рака](https://github.com/theyapapa/cryptonews/blob/ru/roubini-bitmex-in-violation-of-securities-laws-crypto-a-metastasized-cancer-967586b4.md)
 * 2019-07-18 [Торговая палата США на борту криптобиржи ErisX](https://github.com/theyapapa/cryptonews/blob/ru/us-chamber-of-digital-commerce-onboards-crypto-exchange-erisx-eaf0297e.md)
 * 2019-07-18 [Binance Неосознанно зарабатывает награды staking звезды, добавляет поддержку](https://github.com/theyapapa/cryptonews/blob/ru/binance-unknowingly-earns-staking-rewards-of-stellar-adds-support-eccac423.md)
