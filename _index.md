@@ -1,3 +1,4 @@
+* 2019-07-19 [Coinbase падает его Crypto Bundle продукт без каких-либо объяснений](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-drops-its-crypto-bundle-product-without-any-explanation-b3d8cc09.md)
 * 2019-07-19 [Bloomberg: Регулятор США расследует BitMEX за разрешение американцам торговать](https://github.com/theyapapa/cryptonews/blob/ru/bloomberg-us-regulator-investigating-bitmex-for-allowing-americans-to-trade-7a951909.md)
 * 2019-07-18 [1 AM UTC является самым нестабильным часом для Bitcoin: Исследования](https://github.com/theyapapa/cryptonews/blob/ru/1-am-utc-is-the-most-volatile-hour-for-bitcoin-research-7f2181e6.md)
 * 2019-07-18 [Рубини: BitMEX в нарушение законов о ценных бумагах, Крипто метастазы рака](https://github.com/theyapapa/cryptonews/blob/ru/roubini-bitmex-in-violation-of-securities-laws-crypto-a-metastasized-cancer-967586b4.md)
