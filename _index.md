@@ -1,3 +1,4 @@
+* 2019-07-19 [La moneda centrada en la privacidad Zcash se bifurca en la nueva red Blockchain Ycash](https://github.com/theyapapa/cryptonews/blob/es/privacy-focused-coin-zcash-forks-into-new-blockchain-network-ycash-59343e78.md)
 * 2019-07-19 [BlackRock CEO: No necesitamos libra, necesitamos tecnología](https://github.com/theyapapa/cryptonews/blob/es/blackrock-ceo-we-dont-need-libra-we-need-te-141fd6f5.md)
 * 2019-07-19 [El CEO de Circle acepta la invitación de Justin Sun al almuerzo de Warren Buffett](https://github.com/theyapapa/cryptonews/blob/es/circle-ceo-accepts-justin-suns-invitation-to-warren-buffett-lunch-4eb1ae28.md)
 * 2019-07-19 [El jefe del Bundesbank dice que no supriman los "conceptos innovadores" como Libra](https://github.com/theyapapa/cryptonews/blob/es/bundesbank-head-says-dont-suppress-innovative-concepts-like-libra-04c20363.md)
