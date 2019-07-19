@@ -1,3 +1,4 @@
+* 2019-07-19 [Генеральный директор BlackRock: Нам не нужны Весы, нам нужны технологии](https://github.com/theyapapa/cryptonews/blob/ru/blackrock-ceo-we-dont-need-libra-we-need-te-141fd6f5.md)
 * 2019-07-19 [Круг генеральный директор принимает приглашение Джастина ВС Уоррен Баффет Обед](https://github.com/theyapapa/cryptonews/blob/ru/circle-ceo-accepts-justin-suns-invitation-to-warren-buffett-lunch-4eb1ae28.md)
 * 2019-07-19 [Глава Бундесбанка заявил, что не подавляйте «инновационные концепции», как Весы](https://github.com/theyapapa/cryptonews/blob/ru/bundesbank-head-says-dont-suppress-innovative-concepts-like-libra-04c20363.md)
 * 2019-07-19 [Coinbase падает его Crypto Bundle продукт без каких-либо объяснений](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-drops-its-crypto-bundle-product-without-any-explanation-b3d8cc09.md)
