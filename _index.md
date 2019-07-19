@@ -1,3 +1,4 @@
+* 2019-07-19 [새로운 블록 체인 네트워크 Ycash에 개인 정보 보호 중심의 동전 Zcash 포크](https://github.com/theyapapa/cryptonews/blob/ko/privacy-focused-coin-zcash-forks-into-new-blockchain-network-ycash-59343e78.md)
 * 2019-07-19 [블랙록 CEO: 우리는 천칭 자리가 필요하지 않습니다, 우리는 기술이 필요합니다](https://github.com/theyapapa/cryptonews/blob/ko/blackrock-ceo-we-dont-need-libra-we-need-te-141fd6f5.md)
 * 2019-07-19 [서클 CEO, 저스틴 선 워렌 버핏 점심 초대 수락](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-accepts-justin-suns-invitation-to-warren-buffett-lunch-4eb1ae28.md)
 * 2019-07-19 [분데스뱅크 헤드는 천칭 자리처럼 '혁신적인 개념'을 억제하지 않는다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/bundesbank-head-says-dont-suppress-innovative-concepts-like-libra-04c20363.md)
