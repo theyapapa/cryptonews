@@ -1,3 +1,4 @@
+* 2019-07-19 [Нефтяные рынки могут сэкономить 30% с blockchain, Data Gumbo генеральный директор говорит](https://github.com/theyapapa/cryptonews/blob/ru/oil-markets-could-save-30-with-blockchain-data-gumbo-ceo-says-0c5d1103.md)
 * 2019-07-19 [Конфиденциальность ориентированных Монета наличные вилки в новой сети blockchain Ycash](https://github.com/theyapapa/cryptonews/blob/ru/privacy-focused-coin-zcash-forks-into-new-blockchain-network-ycash-59343e78.md)
 * 2019-07-19 [Генеральный директор BlackRock: Нам не нужны Весы, нам нужны технологии](https://github.com/theyapapa/cryptonews/blob/ru/blackrock-ceo-we-dont-need-libra-we-need-te-141fd6f5.md)
 * 2019-07-19 [Круг генеральный директор принимает приглашение Джастина ВС Уоррен Баффет Обед](https://github.com/theyapapa/cryptonews/blob/ru/circle-ceo-accepts-justin-suns-invitation-to-warren-buffett-lunch-4eb1ae28.md)
