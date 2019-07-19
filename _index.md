@@ -1,3 +1,4 @@
+* 2019-07-19 [에너지 회사 E.ON 파일 데이터 분석 장치에 대한 블록 체인 특허](https://github.com/theyapapa/cryptonews/blob/ko/energy-company-eon-files-blockchain-patent-for-data-analytics-device-e114f4d0.md)
 * 2019-07-19 [비트 코인 지배 성장 — 그것은 알트 코인에 대한 의미 할 수있는 것](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dominance-growing-what-it-could-mean-for-altcoins-3f765017.md)
 * 2019-07-19 [석유 시장은 블록 체인으로 30 %를 절약 할 수 있다고 데이터 검보 CEO는 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/oil-markets-could-save-30-with-blockchain-data-gumbo-ceo-says-0c5d1103.md)
 * 2019-07-19 [새로운 블록 체인 네트워크 Ycash에 개인 정보 보호 중심의 동전 Zcash 포크](https://github.com/theyapapa/cryptonews/blob/ko/privacy-focused-coin-zcash-forks-into-new-blockchain-network-ycash-59343e78.md)
