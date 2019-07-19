@@ -1,3 +1,4 @@
+* 2019-07-19 [블룸버그: 미국인이 무역을 허용하기위한 BitMEX를 조사하는 미국 규제 당국](https://github.com/theyapapa/cryptonews/blob/ko/bloomberg-us-regulator-investigating-bitmex-for-allowing-americans-to-trade-7a951909.md)
 * 2019-07-18 [오전 1시 UTC는 비트코인의 가장 변동성이 큰 시간입니다: 연구](https://github.com/theyapapa/cryptonews/blob/ko/1-am-utc-is-the-most-volatile-hour-for-bitcoin-research-7f2181e6.md)
 * 2019-07-18 [루비니: 증권법을 위반하는 BitMEX, 전이암 암호화](https://github.com/theyapapa/cryptonews/blob/ko/roubini-bitmex-in-violation-of-securities-laws-crypto-a-metastasized-cancer-967586b4.md)
 * 2019-07-18 [미국 상공 회의소 온보드 암호화 교환 ErisX](https://github.com/theyapapa/cryptonews/blob/ko/us-chamber-of-digital-commerce-onboards-crypto-exchange-erisx-eaf0297e.md)
