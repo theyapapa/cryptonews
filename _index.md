@@ -1,3 +1,4 @@
+* 2019-07-18 [1 AM UTC es la hora más volátil para Bitcoin: Investigación](https://github.com/theyapapa/cryptonews/blob/es/1-am-utc-is-the-most-volatile-hour-for-bitcoin-research-7f2181e6.md)
 * 2019-07-18 [Roubini: BitMEX en Violación de las Leyes de Valores, Crypto a Metastasized Cancer](https://github.com/theyapapa/cryptonews/blob/es/roubini-bitmex-in-violation-of-securities-laws-crypto-a-metastasized-cancer-967586b4.md)
 * 2019-07-18 [Cámara de Comercio Digital de EE. UU. Onboards Crypto Exchange ErisX](https://github.com/theyapapa/cryptonews/blob/es/us-chamber-of-digital-commerce-onboards-crypto-exchange-erisx-eaf0297e.md)
 * 2019-07-18 [Binance sin saberlo gana recompensas de stalto de Stellar, añade soporte](https://github.com/theyapapa/cryptonews/blob/es/binance-unknowingly-earns-staking-rewards-of-stellar-adds-support-eccac423.md)
