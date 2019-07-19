@@ -1,3 +1,4 @@
+* 2019-07-19 [Los mercados petroleros podrían ahorrar un 30% con Blockchain, dice el CEO de Data Gumbo](https://github.com/theyapapa/cryptonews/blob/es/oil-markets-could-save-30-with-blockchain-data-gumbo-ceo-says-0c5d1103.md)
 * 2019-07-19 [La moneda centrada en la privacidad Zcash se bifurca en la nueva red Blockchain Ycash](https://github.com/theyapapa/cryptonews/blob/es/privacy-focused-coin-zcash-forks-into-new-blockchain-network-ycash-59343e78.md)
 * 2019-07-19 [BlackRock CEO: No necesitamos libra, necesitamos tecnología](https://github.com/theyapapa/cryptonews/blob/es/blackrock-ceo-we-dont-need-libra-we-need-te-141fd6f5.md)
 * 2019-07-19 [El CEO de Circle acepta la invitación de Justin Sun al almuerzo de Warren Buffett](https://github.com/theyapapa/cryptonews/blob/es/circle-ceo-accepts-justin-suns-invitation-to-warren-buffett-lunch-4eb1ae28.md)
