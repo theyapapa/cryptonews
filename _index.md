@@ -1,3 +1,4 @@
+* 2019-07-19 [Энергетическая компания E.ON Файлы Blockchain патент для данных Аналитика устройства](https://github.com/theyapapa/cryptonews/blob/ru/energy-company-eon-files-blockchain-patent-for-data-analytics-device-e114f4d0.md)
 * 2019-07-19 [Биткоин Доминирование растет - Что это может означать для Altcoins](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dominance-growing-what-it-could-mean-for-altcoins-3f765017.md)
 * 2019-07-19 [Нефтяные рынки могут сэкономить 30% с blockchain, Data Gumbo генеральный директор говорит](https://github.com/theyapapa/cryptonews/blob/ru/oil-markets-could-save-30-with-blockchain-data-gumbo-ceo-says-0c5d1103.md)
 * 2019-07-19 [Конфиденциальность ориентированных Монета наличные вилки в новой сети blockchain Ycash](https://github.com/theyapapa/cryptonews/blob/ru/privacy-focused-coin-zcash-forks-into-new-blockchain-network-ycash-59343e78.md)
