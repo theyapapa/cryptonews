@@ -1,3 +1,4 @@
+* 2019-07-20 [Предполагаемый наркодилер Шелкового пути арестован в США](https://github.com/theyapapa/cryptonews/blob/ru/alleged-silk-road-drug-dealer-arrested-in-the-united-states-19b1e219.md)
 * 2019-07-20 [Виргинские Bitcoin - Большинство в спросе Крипта, который регулируется по-разному?](https://github.com/theyapapa/cryptonews/blob/ru/virgin-bitcoin-most-in-demand-crypto-that-is-regulated-differently-8fde9376.md)
 * 2019-07-20 [Полный дом: Крипто карты Показать сильную руку в 2019 году](https://github.com/theyapapa/cryptonews/blob/ru/full-house-crypto-cards-show-a-strong-hand-in-2019-e056eccc.md)
 * 2019-07-19 [KPGM будет работать с Microsoft, Tomia и R3 над блокчейн-телекоммуникационными решениями](https://github.com/theyapapa/cryptonews/blob/ru/kpgm-to-work-with-microsoft-tomia-and-r3-on-blockchain-telecom-solutions-c249305d.md)
