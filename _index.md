@@ -1,3 +1,4 @@
+* 2019-07-19 [KPGM trabajará con Microsoft, Tomia y R3 en soluciones de telecomunicaciones blockchain](https://github.com/theyapapa/cryptonews/blob/es/kpgm-to-work-with-microsoft-tomia-and-r3-on-blockchain-telecom-solutions-c249305d.md)
 * 2019-07-19 [Chiliz proporcionará criptooficial oficial del club de fútbol AS Rome a través de Socios](https://github.com/theyapapa/cryptonews/blob/es/chiliz-to-provide-official-crypto-of-football-club-as-rome-via-socios-6d5fb3d4.md)
 * 2019-07-19 [Energy Company E.ON Archivos Blockchain Patent para el dispositivo de análisis de datos](https://github.com/theyapapa/cryptonews/blob/es/energy-company-eon-files-blockchain-patent-for-data-analytics-device-e114f4d0.md)
 * 2019-07-19 [Crecimiento de la dominación de Bitcoin — Lo que podría significar para Altcoins](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-dominance-growing-what-it-could-mean-for-altcoins-3f765017.md)
