@@ -1,3 +1,4 @@
+* 2019-07-20 [태국 은행은 보안에 대한 우려, 천칭 자리를 논의하기 위해 열려](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-thailand-is-open-to-discuss-libra-concerned-over-security-83694a56.md)
 * 2019-07-20 [미국에서 체포 된 실크로드 마약 상인 혐의](https://github.com/theyapapa/cryptonews/blob/ko/alleged-silk-road-drug-dealer-arrested-in-the-united-states-19b1e219.md)
 * 2019-07-20 [버진 비트 코인 - 다르게 규제되는 대부분의 수요 암호화?](https://github.com/theyapapa/cryptonews/blob/ko/virgin-bitcoin-most-in-demand-crypto-that-is-regulated-differently-8fde9376.md)
 * 2019-07-20 [풀 하우스 : 암호화 카드는 2019 년에 강한 손을 보여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/full-house-crypto-cards-show-a-strong-hand-in-2019-e056eccc.md)
