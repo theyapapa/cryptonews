@@ -1,3 +1,4 @@
+* 2019-07-20 [Banco de Tailandia está abierto a discutir Libra, preocupado por la seguridad](https://github.com/theyapapa/cryptonews/blob/es/bank-of-thailand-is-open-to-discuss-libra-concerned-over-security-83694a56.md)
 * 2019-07-20 [Presunto narcotraficante de Silk Road arrestado en los Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/alleged-silk-road-drug-dealer-arrested-in-the-united-states-19b1e219.md)
 * 2019-07-20 [Virgin Bitcoin — Cripto más bajo demanda que está regulado de manera diferente?](https://github.com/theyapapa/cryptonews/blob/es/virgin-bitcoin-most-in-demand-crypto-that-is-regulated-differently-8fde9376.md)
 * 2019-07-20 [Full House: Las cartas criptográficas muestran una mano fuerte en 2019](https://github.com/theyapapa/cryptonews/blob/es/full-house-crypto-cards-show-a-strong-hand-in-2019-e056eccc.md)
