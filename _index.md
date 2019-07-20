@@ -1,3 +1,4 @@
+* 2019-07-19 [KPGM, 마이크로소프트, 토미아, R3와 협력하여 블록체인 텔레콤 솔루션](https://github.com/theyapapa/cryptonews/blob/ko/kpgm-to-work-with-microsoft-tomia-and-r3-on-blockchain-telecom-solutions-c249305d.md)
 * 2019-07-19 [칠리즈는 사회를 통해 축구 클럽 AS 로마의 공식 암호화를 제공하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/chiliz-to-provide-official-crypto-of-football-club-as-rome-via-socios-6d5fb3d4.md)
 * 2019-07-19 [에너지 회사 E.ON 파일 데이터 분석 장치에 대한 블록 체인 특허](https://github.com/theyapapa/cryptonews/blob/ko/energy-company-eon-files-blockchain-patent-for-data-analytics-device-e114f4d0.md)
 * 2019-07-19 [비트 코인 지배 성장 — 그것은 알트 코인에 대한 의미 할 수있는 것](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dominance-growing-what-it-could-mean-for-altcoins-3f765017.md)
