@@ -1,3 +1,4 @@
+* 2019-07-20 [대시, ETH, 링크: 금주의 상위 3 암호화 패자 - 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-20-07-dash-eth-link-ac0f040d.md)
 * 2019-07-20 [크립토 카트 : 또 다른 인도 암호화 교환은 작업을 종료](https://github.com/theyapapa/cryptonews/blob/ko/cryptokart-another-indian-crypto-exchange-shuts-down-operations-d8b2b2c0.md)
 * 2019-07-20 [태국 은행은 보안에 대한 우려, 천칭 자리를 논의하기 위해 열려](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-thailand-is-open-to-discuss-libra-concerned-over-security-83694a56.md)
 * 2019-07-20 [미국에서 체포 된 실크로드 마약 상인 혐의](https://github.com/theyapapa/cryptonews/blob/ko/alleged-silk-road-drug-dealer-arrested-in-the-united-states-19b1e219.md)
