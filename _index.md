@@ -1,3 +1,4 @@
+* 2019-07-20 [Полный дом: Крипто карты Показать сильную руку в 2019 году](https://github.com/theyapapa/cryptonews/blob/ru/full-house-crypto-cards-show-a-strong-hand-in-2019-e056eccc.md)
 * 2019-07-19 [KPGM будет работать с Microsoft, Tomia и R3 над блокчейн-телекоммуникационными решениями](https://github.com/theyapapa/cryptonews/blob/ru/kpgm-to-work-with-microsoft-tomia-and-r3-on-blockchain-telecom-solutions-c249305d.md)
 * 2019-07-19 [Chiliz обеспечить официальный Крипто футбольного клуба AS Рим через Socios](https://github.com/theyapapa/cryptonews/blob/ru/chiliz-to-provide-official-crypto-of-football-club-as-rome-via-socios-6d5fb3d4.md)
 * 2019-07-19 [Энергетическая компания E.ON Файлы Blockchain патент для данных Аналитика устройства](https://github.com/theyapapa/cryptonews/blob/ru/energy-company-eon-files-blockchain-patent-for-data-analytics-device-e114f4d0.md)
