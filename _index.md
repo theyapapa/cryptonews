@@ -1,3 +1,4 @@
+* 2019-07-20 [비트 코인은 다시 소요 $11,000 암호화에서 난류 주 다음](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-retakes-11-000-following-turbulent-week-in-crypto-78e9dc6a.md)
 * 2019-07-20 [대시, ETH, 링크: 금주의 상위 3 암호화 패자 - 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-20-07-dash-eth-link-ac0f040d.md)
 * 2019-07-20 [크립토 카트 : 또 다른 인도 암호화 교환은 작업을 종료](https://github.com/theyapapa/cryptonews/blob/ko/cryptokart-another-indian-crypto-exchange-shuts-down-operations-d8b2b2c0.md)
 * 2019-07-20 [태국 은행은 보안에 대한 우려, 천칭 자리를 논의하기 위해 열려](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-thailand-is-open-to-discuss-libra-concerned-over-security-83694a56.md)
