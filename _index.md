@@ -1,3 +1,4 @@
+* 2019-07-20 [버진 비트 코인 - 다르게 규제되는 대부분의 수요 암호화?](https://github.com/theyapapa/cryptonews/blob/ko/virgin-bitcoin-most-in-demand-crypto-that-is-regulated-differently-8fde9376.md)
 * 2019-07-20 [풀 하우스 : 암호화 카드는 2019 년에 강한 손을 보여줍니다.](https://github.com/theyapapa/cryptonews/blob/ko/full-house-crypto-cards-show-a-strong-hand-in-2019-e056eccc.md)
 * 2019-07-19 [KPGM, 마이크로소프트, 토미아, R3와 협력하여 블록체인 텔레콤 솔루션](https://github.com/theyapapa/cryptonews/blob/ko/kpgm-to-work-with-microsoft-tomia-and-r3-on-blockchain-telecom-solutions-c249305d.md)
 * 2019-07-19 [칠리즈는 사회를 통해 축구 클럽 AS 로마의 공식 암호화를 제공하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/chiliz-to-provide-official-crypto-of-football-club-as-rome-via-socios-6d5fb3d4.md)
