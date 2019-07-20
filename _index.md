@@ -1,3 +1,4 @@
+* 2019-07-20 [Cryptokart: Otro intercambio de cripto sin india cierra las operaciones](https://github.com/theyapapa/cryptonews/blob/es/cryptokart-another-indian-crypto-exchange-shuts-down-operations-d8b2b2c0.md)
 * 2019-07-20 [Banco de Tailandia está abierto a discutir Libra, preocupado por la seguridad](https://github.com/theyapapa/cryptonews/blob/es/bank-of-thailand-is-open-to-discuss-libra-concerned-over-security-83694a56.md)
 * 2019-07-20 [Presunto narcotraficante de Silk Road arrestado en los Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/alleged-silk-road-drug-dealer-arrested-in-the-united-states-19b1e219.md)
 * 2019-07-20 [Virgin Bitcoin — Cripto más bajo demanda que está regulado de manera diferente?](https://github.com/theyapapa/cryptonews/blob/es/virgin-bitcoin-most-in-demand-crypto-that-is-regulated-differently-8fde9376.md)
