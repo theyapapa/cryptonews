@@ -1,3 +1,4 @@
+* 2019-07-21 [이란은 암호화 광산 장비를 수입하기위한 라이센스를 발행하지 않았습니다](https://github.com/theyapapa/cryptonews/blob/ko/iran-has-not-issued-any-licenses-for-importing-crypto-mining-equipment-48c9119e.md)
 * 2019-07-21 [한국: 암호화 범죄 비용 $2.28B 7 월 이후 2017](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-crypto-crimes-cost-228b-since-july-2017-24732030.md)
 * 2019-07-20 [비트MEX의 BTC 유출액이 $73M로 유입을 초과했습니다: 토큰 애널리스트](https://github.com/theyapapa/cryptonews/blob/ko/btc-outflow-on-bitmex-exceeded-inflow-by-73m-tokenanalyst-c42e5eac.md)
 * 2019-07-20 [비트 코인은 다시 소요 $11,000 암호화에서 난류 주 다음](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-retakes-11-000-following-turbulent-week-in-crypto-78e9dc6a.md)
