@@ -1,3 +1,4 @@
+* 2019-07-21 [Блокчейн-проект направлен на распределение и токенизировать Луну](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-project-aims-to-apportion-and-tokenize-the-moon-5cfd7641.md)
 * 2019-07-21 [Европейский центральный банк Exec: Весы не будут запускать, пока регуляторы не будут удовлетворены](https://github.com/theyapapa/cryptonews/blob/ru/european-central-bank-exec-libra-wont-launch-until-regulators-are-satisfied-51c31cb9.md)
 * 2019-07-21 [Иран не выдал никаких лицензий на импорт криптодобывающего оборудования](https://github.com/theyapapa/cryptonews/blob/ru/iran-has-not-issued-any-licenses-for-importing-crypto-mining-equipment-48c9119e.md)
 * 2019-07-21 [Корея: Криптопреступления стоят $2,28 Миллиарды с июля 2017 года](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-crypto-crimes-cost-228b-since-july-2017-24732030.md)
