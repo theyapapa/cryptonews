@@ -1,3 +1,4 @@
+* 2019-07-21 [유럽 중앙 은행 임원: 리귤레이터가 만족 될 때까지 천칭 자리는 시작되지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-exec-libra-wont-launch-until-regulators-are-satisfied-51c31cb9.md)
 * 2019-07-21 [이란은 암호화 광산 장비를 수입하기위한 라이센스를 발행하지 않았습니다](https://github.com/theyapapa/cryptonews/blob/ko/iran-has-not-issued-any-licenses-for-importing-crypto-mining-equipment-48c9119e.md)
 * 2019-07-21 [한국: 암호화 범죄 비용 $2.28B 7 월 이후 2017](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-crypto-crimes-cost-228b-since-july-2017-24732030.md)
 * 2019-07-20 [비트MEX의 BTC 유출액이 $73M로 유입을 초과했습니다: 토큰 애널리스트](https://github.com/theyapapa/cryptonews/blob/ko/btc-outflow-on-bitmex-exceeded-inflow-by-73m-tokenanalyst-c42e5eac.md)
