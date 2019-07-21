@@ -1,3 +1,4 @@
+* 2019-07-20 [Отток BTC на BitMEX превысил приток на $73 млн: TokenAnalyst](https://github.com/theyapapa/cryptonews/blob/ru/btc-outflow-on-bitmex-exceeded-inflow-by-73m-tokenanalyst-c42e5eac.md)
 * 2019-07-20 [Биткоин возвращает $ 11000 После турбулентной недели в Крипто](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-retakes-11-000-following-turbulent-week-in-crypto-78e9dc6a.md)
 * 2019-07-20 [DASH, ETH, LINK: Топ-3 Crypto Неудачники недели - Анализ цен](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-20-07-dash-eth-link-ac0f040d.md)
 * 2019-07-20 [Cryptokart: Еще одна индийская криптобиржа выключает операции](https://github.com/theyapapa/cryptonews/blob/ru/cryptokart-another-indian-crypto-exchange-shuts-down-operations-d8b2b2c0.md)
