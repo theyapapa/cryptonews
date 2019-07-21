@@ -1,3 +1,4 @@
+* 2019-07-21 [Irán no ha emitido ninguna licencia para importar equipos de minería criptográfica](https://github.com/theyapapa/cryptonews/blob/es/iran-has-not-issued-any-licenses-for-importing-crypto-mining-equipment-48c9119e.md)
 * 2019-07-21 [Corea del Sur: Cripto Crimes Cost $2.28 Miles desde julio de 2017](https://github.com/theyapapa/cryptonews/blob/es/south-korea-crypto-crimes-cost-228b-since-july-2017-24732030.md)
 * 2019-07-20 [BTC Outflow en BitMEX Superó la entrada en $73M: TokenAnalyst](https://github.com/theyapapa/cryptonews/blob/es/btc-outflow-on-bitmex-exceeded-inflow-by-73m-tokenanalyst-c42e5eac.md)
 * 2019-07-20 [Bitcoin retoma $11,000 después de la semana turbulenta en Cripto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-retakes-11-000-following-turbulent-week-in-crypto-78e9dc6a.md)
