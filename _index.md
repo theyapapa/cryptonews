@@ -1,3 +1,4 @@
+* 2019-07-22 [도메인 등록 기관 EnCirca 이더리움 주소에 대한 응용 프로그램 수락](https://github.com/theyapapa/cryptonews/blob/ko/domain-registrar-encirca-accepting-applications-for-ethereum-addresses-8e9fe2f7.md)
 * 2019-07-22 [산마리노 공화국, 블록체인 플랫폼 베체인과 함께 MOU 체결](https://github.com/theyapapa/cryptonews/blob/ko/republic-of-san-marino-signs-mou-with-blockchain-platform-vechain-f886baa3.md)
 * 2019-07-22 [CFTC 비트멕스 프로브 루비니 대 헤이즈 타이페이 얽힘의 결과?](https://github.com/theyapapa/cryptonews/blob/ko/cftc-probe-of-bitmex-a-result-of-roubini-vs-hayes-taipei-tangles-4592bb16.md)
 * 2019-07-22 [독일 중앙은행: FB의 선관위에 중립적이어야 한다](https://github.com/theyapapa/cryptonews/blob/ko/germanys-central-bank-govts-should-be-neutral-on-fbs-libra-bc0a82a6.md)
