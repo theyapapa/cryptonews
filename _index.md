@@ -1,3 +1,4 @@
+* 2019-07-22 [Фонд CertiK запускает блокчейн, ориентированный на безопасность](https://github.com/theyapapa/cryptonews/blob/ru/certik-foundation-launches-security-focused-blockchain-9cdaf6f2.md)
 * 2019-07-22 [Регистратор доменов EnCirca принимает заявки на адреса Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/domain-registrar-encirca-accepting-applications-for-ethereum-addresses-8e9fe2f7.md)
 * 2019-07-22 [Республика Сан-Марино подписывает MoU с блокчейн-платформой VeChain](https://github.com/theyapapa/cryptonews/blob/ru/republic-of-san-marino-signs-mou-with-blockchain-platform-vechain-f886baa3.md)
 * 2019-07-22 [CFTC зонд BitMEX Результат Рубини Vs. Хейс Тайбэй тангл?](https://github.com/theyapapa/cryptonews/blob/ru/cftc-probe-of-bitmex-a-result-of-roubini-vs-hayes-taipei-tangles-4592bb16.md)
