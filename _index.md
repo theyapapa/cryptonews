@@ -1,3 +1,4 @@
+* 2019-07-22 [비트 코인 네트워크 지금 8 그것은보다 더 강력한 시간 $20K 가격](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-network-now-8-times-more-powerful-than-it-was-at-20k-price-5b578be1.md)
 * 2019-07-22 [암호화 및 FB의 천칭 자리는 비트 코인 세계에 다리입니다, 팀 드레이퍼는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-and-fbs-libra-are-bridges-to-a-bitcoin-world-says-tim-draper-8dd6e605.md)
 * 2019-07-21 [블록 체인 프로젝트는 달을 분배하고 토큰화하는 것을 목표로합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-project-aims-to-apportion-and-tokenize-the-moon-5cfd7641.md)
 * 2019-07-21 [유럽 중앙 은행 임원: 리귤레이터가 만족 될 때까지 천칭 자리는 시작되지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/european-central-bank-exec-libra-wont-launch-until-regulators-are-satisfied-51c31cb9.md)
