@@ -1,3 +1,4 @@
+* 2019-07-22 [La Fundación CertiK lanza blockchain centrada en la seguridad](https://github.com/theyapapa/cryptonews/blob/es/certik-foundation-launches-security-focused-blockchain-9cdaf6f2.md)
 * 2019-07-22 [Registrador de dominios EnCirca aceptando solicitudes para direcciones Ethereum](https://github.com/theyapapa/cryptonews/blob/es/domain-registrar-encirca-accepting-applications-for-ethereum-addresses-8e9fe2f7.md)
 * 2019-07-22 [República de San Marino firma MoU con Blockchain Platform VeChain](https://github.com/theyapapa/cryptonews/blob/es/republic-of-san-marino-signs-mou-with-blockchain-platform-vechain-f886baa3.md)
 * 2019-07-22 [Sonda CFTC de BitMEX resultado de Roubini Vs. Hayes Taipei Tangle?](https://github.com/theyapapa/cryptonews/blob/es/cftc-probe-of-bitmex-a-result-of-roubini-vs-hayes-taipei-tangles-4592bb16.md)
