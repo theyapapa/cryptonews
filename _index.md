@@ -1,3 +1,4 @@
+* 2019-07-22 [인도 정부의 패널은 암호 화폐에 담요 금지를 권장합니다](https://github.com/theyapapa/cryptonews/blob/ko/indian-govt-panel-recommends-a-blanket-ban-on-cryptocurrencies-d300cc34.md)
 * 2019-07-22 [메르세데스 모회사가 자동차를 위한 암호화 하드웨어 지갑을 구축하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mercedes-parent-firm-is-building-a-crypto-hardware-wallet-for-cars-1946bf7e.md)
 * 2019-07-22 [비트 코인 네트워크 지금 8 그것은보다 더 강력한 시간 $20K 가격](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-network-now-8-times-more-powerful-than-it-was-at-20k-price-5b578be1.md)
 * 2019-07-22 [암호화 및 FB의 천칭 자리는 비트 코인 세계에 다리입니다, 팀 드레이퍼는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-and-fbs-libra-are-bridges-to-a-bitcoin-world-says-tim-draper-8dd6e605.md)
