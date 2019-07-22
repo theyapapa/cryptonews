@@ -1,3 +1,4 @@
+* 2019-07-22 [CFTC зонд BitMEX Результат Рубини Vs. Хейс Тайбэй тангл?](https://github.com/theyapapa/cryptonews/blob/ru/cftc-probe-of-bitmex-a-result-of-roubini-vs-hayes-taipei-tangles-4592bb16.md)
 * 2019-07-22 [Центральный банк Германии: Gov'ts должны быть нейтральными на Весах FB](https://github.com/theyapapa/cryptonews/blob/ru/germanys-central-bank-govts-should-be-neutral-on-fbs-libra-bc0a82a6.md)
 * 2019-07-22 [Индийская Gov't Группа рекомендует Blanket запрет на криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/indian-govt-panel-recommends-a-blanket-ban-on-cryptocurrencies-d300cc34.md)
 * 2019-07-22 [Mercedes Родительская фирма строит Crypto аппаратного кошелька для автомобилей](https://github.com/theyapapa/cryptonews/blob/ru/mercedes-parent-firm-is-building-a-crypto-hardware-wallet-for-cars-1946bf7e.md)
