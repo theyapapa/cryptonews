@@ -1,3 +1,4 @@
+* 2019-07-22 [Crypto y FB's Libra son puentes a un mundo Bitcoin, dice Tim Draper](https://github.com/theyapapa/cryptonews/blob/es/crypto-and-fbs-libra-are-bridges-to-a-bitcoin-world-says-tim-draper-8dd6e605.md)
 * 2019-07-21 [Proyecto Blockchain tiene como objetivo prorratear y tokenizar la Luna](https://github.com/theyapapa/cryptonews/blob/es/blockchain-project-aims-to-apportion-and-tokenize-the-moon-5cfd7641.md)
 * 2019-07-21 [Ejecutivo del Banco Central Europeo: Libra no se lanzará hasta que los reguladores estén satisfechos](https://github.com/theyapapa/cryptonews/blob/es/european-central-bank-exec-libra-wont-launch-until-regulators-are-satisfied-51c31cb9.md)
 * 2019-07-21 [Irán no ha emitido ninguna licencia para importar equipos de minería criptográfica](https://github.com/theyapapa/cryptonews/blob/es/iran-has-not-issued-any-licenses-for-importing-crypto-mining-equipment-48c9119e.md)
