@@ -1,3 +1,4 @@
+* 2019-07-22 [Sonda CFTC de BitMEX resultado de Roubini Vs. Hayes Taipei Tangle?](https://github.com/theyapapa/cryptonews/blob/es/cftc-probe-of-bitmex-a-result-of-roubini-vs-hayes-taipei-tangles-4592bb16.md)
 * 2019-07-22 [Banco Central de Alemania: Los gov'ts deben ser neutrales en la Libra de FB](https://github.com/theyapapa/cryptonews/blob/es/germanys-central-bank-govts-should-be-neutral-on-fbs-libra-bc0a82a6.md)
 * 2019-07-22 [Panel del gobierno indio recomienda una prohibición de manta en las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/indian-govt-panel-recommends-a-blanket-ban-on-cryptocurrencies-d300cc34.md)
 * 2019-07-22 [Mercedes Parent Firm está construyendo una cartera de hardware criptográfico para automóviles](https://github.com/theyapapa/cryptonews/blob/es/mercedes-parent-firm-is-building-a-crypto-hardware-wallet-for-cars-1946bf7e.md)
