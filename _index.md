@@ -1,3 +1,4 @@
+* 2019-07-22 [Mercedes Parent Firm está construyendo una cartera de hardware criptográfico para automóviles](https://github.com/theyapapa/cryptonews/blob/es/mercedes-parent-firm-is-building-a-crypto-hardware-wallet-for-cars-1946bf7e.md)
 * 2019-07-22 [Red Bitcoin ahora 8 veces más potente de lo que era a un precio de $20K](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-network-now-8-times-more-powerful-than-it-was-at-20k-price-5b578be1.md)
 * 2019-07-22 [Crypto y FB's Libra son puentes a un mundo Bitcoin, dice Tim Draper](https://github.com/theyapapa/cryptonews/blob/es/crypto-and-fbs-libra-are-bridges-to-a-bitcoin-world-says-tim-draper-8dd6e605.md)
 * 2019-07-21 [Proyecto Blockchain tiene como objetivo prorratear y tokenizar la Luna](https://github.com/theyapapa/cryptonews/blob/es/blockchain-project-aims-to-apportion-and-tokenize-the-moon-5cfd7641.md)
