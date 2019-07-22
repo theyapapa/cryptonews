@@ -1,3 +1,4 @@
+* 2019-07-22 [메르세데스 모회사가 자동차를 위한 암호화 하드웨어 지갑을 구축하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mercedes-parent-firm-is-building-a-crypto-hardware-wallet-for-cars-1946bf7e.md)
 * 2019-07-22 [비트 코인 네트워크 지금 8 그것은보다 더 강력한 시간 $20K 가격](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-network-now-8-times-more-powerful-than-it-was-at-20k-price-5b578be1.md)
 * 2019-07-22 [암호화 및 FB의 천칭 자리는 비트 코인 세계에 다리입니다, 팀 드레이퍼는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-and-fbs-libra-are-bridges-to-a-bitcoin-world-says-tim-draper-8dd6e605.md)
 * 2019-07-21 [블록 체인 프로젝트는 달을 분배하고 토큰화하는 것을 목표로합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-project-aims-to-apportion-and-tokenize-the-moon-5cfd7641.md)
