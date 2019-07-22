@@ -1,3 +1,4 @@
+* 2019-07-22 [독일 중앙은행: FB의 선관위에 중립적이어야 한다](https://github.com/theyapapa/cryptonews/blob/ko/germanys-central-bank-govts-should-be-neutral-on-fbs-libra-bc0a82a6.md)
 * 2019-07-22 [인도 정부의 패널은 암호 화폐에 담요 금지를 권장합니다](https://github.com/theyapapa/cryptonews/blob/ko/indian-govt-panel-recommends-a-blanket-ban-on-cryptocurrencies-d300cc34.md)
 * 2019-07-22 [메르세데스 모회사가 자동차를 위한 암호화 하드웨어 지갑을 구축하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/mercedes-parent-firm-is-building-a-crypto-hardware-wallet-for-cars-1946bf7e.md)
 * 2019-07-22 [비트 코인 네트워크 지금 8 그것은보다 더 강력한 시간 $20K 가격](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-network-now-8-times-more-powerful-than-it-was-at-20k-price-5b578be1.md)
