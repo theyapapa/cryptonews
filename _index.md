@@ -1,3 +1,4 @@
+* 2019-07-22 [Mercedes Родительская фирма строит Crypto аппаратного кошелька для автомобилей](https://github.com/theyapapa/cryptonews/blob/ru/mercedes-parent-firm-is-building-a-crypto-hardware-wallet-for-cars-1946bf7e.md)
 * 2019-07-22 [Биткоин Сеть теперь в 8 раз мощнее, чем она была на $ 20K цена](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-network-now-8-times-more-powerful-than-it-was-at-20k-price-5b578be1.md)
 * 2019-07-22 [Crypto и FB Весы мосты в мир Bitcoin, говорит Тим Дрейпер](https://github.com/theyapapa/cryptonews/blob/ru/crypto-and-fbs-libra-are-bridges-to-a-bitcoin-world-says-tim-draper-8dd6e605.md)
 * 2019-07-21 [Блокчейн-проект направлен на распределение и токенизировать Луну](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-project-aims-to-apportion-and-tokenize-the-moon-5cfd7641.md)
