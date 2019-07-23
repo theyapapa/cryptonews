@@ -1,3 +1,4 @@
+* 2019-07-23 [Швейцарский регулятор защиты данных ищет подробную информацию о Весах Facebook](https://github.com/theyapapa/cryptonews/blob/ru/swiss-data-protection-regulator-seeks-details-on-facebooks-libra-8ba729d2.md)
 * 2019-07-23 [Генеральный директор TD Ameritrade: С биткоином снова «повышенный интерес»](https://github.com/theyapapa/cryptonews/blob/ru/td-ameritrade-ceo-theres-heightened-interest-again-with-bitcoin-042ad482.md)
 * 2019-07-23 [Блокчейн в телекоммуникационной отрасли: революционизация использования сотовых телефонов?](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-the-telecoms-industry-revolutionizing-cell-phone-usage-e6c89e9e.md)
 * 2019-07-23 [Новое блокчейн-партнерство призвано проложить путь к массовому усыновлению в Китае](https://github.com/theyapapa/cryptonews/blob/ru/new-blockchain-partnership-aims-to-pave-the-way-for-mass-adoption-in-china-ed1d1fea.md)
