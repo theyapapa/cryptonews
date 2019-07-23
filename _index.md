@@ -1,3 +1,4 @@
+* 2019-07-23 [Nueva asociación de Blockchain tiene como objetivo allanar el camino para la adopción masiva en China](https://github.com/theyapapa/cryptonews/blob/es/new-blockchain-partnership-aims-to-pave-the-way-for-mass-adoption-in-china-ed1d1fea.md)
 * 2019-07-23 [Corea del Sur tiene la tasa más alta de patentes de blockchain concedidas](https://github.com/theyapapa/cryptonews/blob/es/south-korea-has-the-highest-rate-of-granted-blockchain-patents-2c05ae02.md)
 * 2019-07-23 [Winklevoss Book 'Bitcoin Billionaires' Autor se une a Hit Showtime Serie de TV](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-book-bitcoin-billionaires-author-joins-hit-showtime-tv-series-a79300f6.md)
 * 2019-07-23 [TD Ameritrade lanza oficialmente el comercio de futuros de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/td-ameritrade-officially-launches-bitcoin-futures-trading-8ba2fc41.md)
