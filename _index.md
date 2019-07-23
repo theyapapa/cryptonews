@@ -1,3 +1,4 @@
+* 2019-07-23 [CEO de TD Ameritrade: Hay 'Interés elevado de nuevo' con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/td-ameritrade-ceo-theres-heightened-interest-again-with-bitcoin-042ad482.md)
 * 2019-07-23 [Blockchain en la industria de las telecomunicaciones: ¿Revolucionando el uso del teléfono celular?](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-the-telecoms-industry-revolutionizing-cell-phone-usage-e6c89e9e.md)
 * 2019-07-23 [Nueva asociación de Blockchain tiene como objetivo allanar el camino para la adopción masiva en China](https://github.com/theyapapa/cryptonews/blob/es/new-blockchain-partnership-aims-to-pave-the-way-for-mass-adoption-in-china-ed1d1fea.md)
 * 2019-07-23 [Corea del Sur tiene la tasa más alta de patentes de blockchain concedidas](https://github.com/theyapapa/cryptonews/blob/es/south-korea-has-the-highest-rate-of-granted-blockchain-patents-2c05ae02.md)
