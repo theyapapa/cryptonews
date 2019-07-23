@@ -1,3 +1,4 @@
+* 2019-07-22 [저스틴 선, 의학적 이유로 워렌 버핏 자선 점심 식사 일정 조정](https://github.com/theyapapa/cryptonews/blob/ko/justin-sun-to-reschedule-warren-buffett-charity-lunch-for-medical-reasons-35986412.md)
 * 2019-07-22 [CertiK 재단, 보안 중심 블록체인 출시](https://github.com/theyapapa/cryptonews/blob/ko/certik-foundation-launches-security-focused-blockchain-9cdaf6f2.md)
 * 2019-07-22 [도메인 등록 기관 EnCirca 이더리움 주소에 대한 응용 프로그램 수락](https://github.com/theyapapa/cryptonews/blob/ko/domain-registrar-encirca-accepting-applications-for-ethereum-addresses-8e9fe2f7.md)
 * 2019-07-22 [산마리노 공화국, 블록체인 플랫폼 베체인과 함께 MOU 체결](https://github.com/theyapapa/cryptonews/blob/ko/republic-of-san-marino-signs-mou-with-blockchain-platform-vechain-f886baa3.md)
