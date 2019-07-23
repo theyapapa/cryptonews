@@ -1,3 +1,4 @@
+* 2019-07-23 [Juez niega la Solicitud de Despido de AT&T en $224M SIM Swap Crypto Case](https://github.com/theyapapa/cryptonews/blob/es/judge-denies-att-request-for-dismissal-in-224m-sim-swap-crypto-case-f5af7cdd.md)
 * 2019-07-23 [El regulador suizo de protección de datos busca detalles en La Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/swiss-data-protection-regulator-seeks-details-on-facebooks-libra-8ba729d2.md)
 * 2019-07-23 [CEO de TD Ameritrade: Hay 'Interés elevado de nuevo' con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/td-ameritrade-ceo-theres-heightened-interest-again-with-bitcoin-042ad482.md)
 * 2019-07-23 [Blockchain en la industria de las telecomunicaciones: ¿Revolucionando el uso del teléfono celular?](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-the-telecoms-industry-revolutionizing-cell-phone-usage-e6c89e9e.md)
