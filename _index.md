@@ -1,3 +1,4 @@
+* 2019-07-23 [뉴욕 주 디지털 통화 태스크 포스는 새로운 회원을 임명](https://github.com/theyapapa/cryptonews/blob/ko/new-york-state-digital-currency-task-force-appoints-new-members-b7821cfd.md)
 * 2019-07-23 [판사는 $ 224M SIM 스왑 암호화 케이스에서 AT &amp; T 해고 요청을 거부합니다.](https://github.com/theyapapa/cryptonews/blob/ko/judge-denies-att-request-for-dismissal-in-224m-sim-swap-crypto-case-f5af7cdd.md)
 * 2019-07-23 [스위스 데이터 보호 레귤레이터는 페이스 북의 선칭 에 대한 세부 사항을 추구](https://github.com/theyapapa/cryptonews/blob/ko/swiss-data-protection-regulator-seeks-details-on-facebooks-libra-8ba729d2.md)
 * 2019-07-23 [TD 아메리 트레이드 CEO: 비트 코인으로 '다시 높아 진 관심'이있다](https://github.com/theyapapa/cryptonews/blob/ko/td-ameritrade-ceo-theres-heightened-interest-again-with-bitcoin-042ad482.md)
