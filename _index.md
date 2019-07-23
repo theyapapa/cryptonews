@@ -1,3 +1,4 @@
+* 2019-07-23 [통신 업계의 블록체인: 휴대 전화 사용 혁명?](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-the-telecoms-industry-revolutionizing-cell-phone-usage-e6c89e9e.md)
 * 2019-07-23 [새로운 블록 체인 파트너십은 중국에서 대량 채택을위한 길을 개척하는 것을 목표로합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-blockchain-partnership-aims-to-pave-the-way-for-mass-adoption-in-china-ed1d1fea.md)
 * 2019-07-23 [한국은 블록체인 특허 중 가장 높은 비율을 기록하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/south-korea-has-the-highest-rate-of-granted-blockchain-patents-2c05ae02.md)
 * 2019-07-23 [윙클보스 책 '비트 코인 억만 장자' 저자는 히트 쇼타임 TV 시리즈를 조인](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-book-bitcoin-billionaires-author-joins-hit-showtime-tv-series-a79300f6.md)
