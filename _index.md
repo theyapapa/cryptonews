@@ -1,3 +1,4 @@
+* 2019-07-23 [윙클보스 책 '비트 코인 억만 장자' 저자는 히트 쇼타임 TV 시리즈를 조인](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-book-bitcoin-billionaires-author-joins-hit-showtime-tv-series-a79300f6.md)
 * 2019-07-23 [TD 아메리트레이드, 비트코인 선물 거래 공식 출시](https://github.com/theyapapa/cryptonews/blob/ko/td-ameritrade-officially-launches-bitcoin-futures-trading-8ba2fc41.md)
 * 2019-07-22 [저스틴 선, 의학적 이유로 워렌 버핏 자선 점심 식사 일정 조정](https://github.com/theyapapa/cryptonews/blob/ko/justin-sun-to-reschedule-warren-buffett-charity-lunch-for-medical-reasons-35986412.md)
 * 2019-07-22 [CertiK 재단, 보안 중심 블록체인 출시](https://github.com/theyapapa/cryptonews/blob/ko/certik-foundation-launches-security-focused-blockchain-9cdaf6f2.md)
