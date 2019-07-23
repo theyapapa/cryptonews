@@ -1,3 +1,4 @@
+* 2019-07-23 [Блокчейн в телекоммуникационной отрасли: революционизация использования сотовых телефонов?](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-the-telecoms-industry-revolutionizing-cell-phone-usage-e6c89e9e.md)
 * 2019-07-23 [Новое блокчейн-партнерство призвано проложить путь к массовому усыновлению в Китае](https://github.com/theyapapa/cryptonews/blob/ru/new-blockchain-partnership-aims-to-pave-the-way-for-mass-adoption-in-china-ed1d1fea.md)
 * 2019-07-23 [В Корее самый высокий уровень предоставленных патентов на блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-has-the-highest-rate-of-granted-blockchain-patents-2c05ae02.md)
 * 2019-07-23 [Winklevoss Книга 'Bitcoin Миллиардеры' Автор присоединяется Хит Showtime телесериала](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-book-bitcoin-billionaires-author-joins-hit-showtime-tv-series-a79300f6.md)
