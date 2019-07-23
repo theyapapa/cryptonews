@@ -1,3 +1,4 @@
+* 2019-07-23 [В Корее самый высокий уровень предоставленных патентов на блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/south-korea-has-the-highest-rate-of-granted-blockchain-patents-2c05ae02.md)
 * 2019-07-23 [Winklevoss Книга 'Bitcoin Миллиардеры' Автор присоединяется Хит Showtime телесериала](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-book-bitcoin-billionaires-author-joins-hit-showtime-tv-series-a79300f6.md)
 * 2019-07-23 [TD Ameritrade официально запускает Bitcoin Фьючерсы Торговля](https://github.com/theyapapa/cryptonews/blob/ru/td-ameritrade-officially-launches-bitcoin-futures-trading-8ba2fc41.md)
 * 2019-07-22 [Джастин ВС перенести Уоррен Баффет Благотворительный обед по медицинским причинам](https://github.com/theyapapa/cryptonews/blob/ru/justin-sun-to-reschedule-warren-buffett-charity-lunch-for-medical-reasons-35986412.md)
