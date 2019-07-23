@@ -1,3 +1,4 @@
+* 2019-07-23 [Winklevoss Book 'Bitcoin Billionaires' Autor se une a Hit Showtime Serie de TV](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-book-bitcoin-billionaires-author-joins-hit-showtime-tv-series-a79300f6.md)
 * 2019-07-23 [TD Ameritrade lanza oficialmente el comercio de futuros de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/td-ameritrade-officially-launches-bitcoin-futures-trading-8ba2fc41.md)
 * 2019-07-22 [Justin Sun reprograma el almuerzo benéfico Warren Buffett por razones médicas](https://github.com/theyapapa/cryptonews/blob/es/justin-sun-to-reschedule-warren-buffett-charity-lunch-for-medical-reasons-35986412.md)
 * 2019-07-22 [La Fundación CertiK lanza blockchain centrada en la seguridad](https://github.com/theyapapa/cryptonews/blob/es/certik-foundation-launches-security-focused-blockchain-9cdaf6f2.md)
