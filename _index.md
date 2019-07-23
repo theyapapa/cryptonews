@@ -1,3 +1,4 @@
+* 2019-07-23 [TD Ameritrade официально запускает Bitcoin Фьючерсы Торговля](https://github.com/theyapapa/cryptonews/blob/ru/td-ameritrade-officially-launches-bitcoin-futures-trading-8ba2fc41.md)
 * 2019-07-22 [Джастин ВС перенести Уоррен Баффет Благотворительный обед по медицинским причинам](https://github.com/theyapapa/cryptonews/blob/ru/justin-sun-to-reschedule-warren-buffett-charity-lunch-for-medical-reasons-35986412.md)
 * 2019-07-22 [Фонд CertiK запускает блокчейн, ориентированный на безопасность](https://github.com/theyapapa/cryptonews/blob/ru/certik-foundation-launches-security-focused-blockchain-9cdaf6f2.md)
 * 2019-07-22 [Регистратор доменов EnCirca принимает заявки на адреса Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/domain-registrar-encirca-accepting-applications-for-ethereum-addresses-8e9fe2f7.md)
