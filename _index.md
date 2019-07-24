@@ -1,3 +1,4 @@
+* 2019-07-24 [Ни одна компания официально не присоединилась к Ассоциации Весов, говорит генеральный директор Visa](https://github.com/theyapapa/cryptonews/blob/ru/no-companies-have-officially-joined-libra-association-says-visa-ceo-26a925f8.md)
 * 2019-07-24 [Bitcoin SV успешно выполнил хардфорк на фоне путаницы сроков](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-sv-successfully-performed-a-hard-fork-amid-timing-confusion-b166efea.md)
 * 2019-07-24 [Newegg добавляет опцию оплаты Bitcoin еще в 73 странах](https://github.com/theyapapa/cryptonews/blob/ru/newegg-adds-bitcoin-payment-option-to-73-more-countries-42a90842.md)
 * 2019-07-24 [Большинство немцев скептически относятся к Весы Facebook, только 12% Приветствуют его](https://github.com/theyapapa/cryptonews/blob/ru/most-germans-skeptical-towards-facebooks-libra-only-12-welcome-it-335c0f9f.md)
