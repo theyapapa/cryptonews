@@ -1,3 +1,4 @@
+* 2019-07-23 [Destacado político nigeriano pide un marco legal para las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/prominent-nigerian-politician-calls-for-legal-framework-for-cryptocurrencies-3234788b.md)
 * 2019-07-23 [El Grupo de Trabajo sobre Moneda Digital del Estado de Nueva York nombra nuevos miembros](https://github.com/theyapapa/cryptonews/blob/es/new-york-state-digital-currency-task-force-appoints-new-members-b7821cfd.md)
 * 2019-07-23 [Juez niega la Solicitud de Despido de AT&T en $224M SIM Swap Crypto Case](https://github.com/theyapapa/cryptonews/blob/es/judge-denies-att-request-for-dismissal-in-224m-sim-swap-crypto-case-f5af7cdd.md)
 * 2019-07-23 [El regulador suizo de protección de datos busca detalles en La Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/swiss-data-protection-regulator-seeks-details-on-facebooks-libra-8ba729d2.md)
