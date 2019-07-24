@@ -1,3 +1,4 @@
+* 2019-07-24 [미국 상원, 암호화, 블록 체인 규제 프레임 워크에 대한 토론 개최](https://github.com/theyapapa/cryptonews/blob/ko/us-senate-to-hold-debate-on-crypto-blockchain-regulatory-frameworks-252ebce7.md)
 * 2019-07-23 [가짜 뉴스와 싸우기 위해 하이퍼 레저 패브릭을 사용하는 뉴욕 타임즈](https://github.com/theyapapa/cryptonews/blob/ko/the-new-york-times-using-hyperledger-fabric-to-fight-fakes-news-6403c5e1.md)
 * 2019-07-23 [저명한 나이지리아 정치인은 암호 화폐에 대한 법적 프레임 워크를 요구](https://github.com/theyapapa/cryptonews/blob/ko/prominent-nigerian-politician-calls-for-legal-framework-for-cryptocurrencies-3234788b.md)
 * 2019-07-23 [뉴욕 주 디지털 통화 태스크 포스는 새로운 회원을 임명](https://github.com/theyapapa/cryptonews/blob/ko/new-york-state-digital-currency-task-force-appoints-new-members-b7821cfd.md)
