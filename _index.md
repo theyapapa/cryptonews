@@ -1,3 +1,4 @@
+* 2019-07-24 [메타 마스크는 이더리움 DApps의 매력을 확대하기 위해 모바일 앱 베타 출시](https://github.com/theyapapa/cryptonews/blob/ko/metamask-launches-mobile-app-beta-to-broaden-appeal-of-ethereum-dapps-f4c343f7.md)
 * 2019-07-24 [비트 코인 다시 네 수치로 시장 Veers로 레드](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-back-to-four-figures-as-market-veers-to-the-red-4d9cb94c.md)
 * 2019-07-24 [미국 상원, 암호화, 블록 체인 규제 프레임 워크에 대한 토론 개최](https://github.com/theyapapa/cryptonews/blob/ko/us-senate-to-hold-debate-on-crypto-blockchain-regulatory-frameworks-252ebce7.md)
 * 2019-07-23 [가짜 뉴스와 싸우기 위해 하이퍼 레저 패브릭을 사용하는 뉴욕 타임즈](https://github.com/theyapapa/cryptonews/blob/ko/the-new-york-times-using-hyperledger-fabric-to-fight-fakes-news-6403c5e1.md)
