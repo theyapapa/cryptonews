@@ -1,3 +1,4 @@
+* 2019-07-24 [Estados Unidos: Operador de intercambio de Bitcoin sin licencia acusado por el Departamento de Justicia](https://github.com/theyapapa/cryptonews/blob/es/us-unlicensed-bitcoin-exchange-operator-indicted-by-justice-department-6b28b04a.md)
 * 2019-07-24 [Ninguna empresa se ha unido oficialmente a Libra Association dice que Visa CEO](https://github.com/theyapapa/cryptonews/blob/es/no-companies-have-officially-joined-libra-association-says-visa-ceo-26a925f8.md)
 * 2019-07-24 [Bitcoin SV realizó con éxito una horquilla dura en medio de la confusión de tiempo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-sv-successfully-performed-a-hard-fork-amid-timing-confusion-b166efea.md)
 * 2019-07-24 [Newegg añade la opción de pago Bitcoin a 73 países más](https://github.com/theyapapa/cryptonews/blob/es/newegg-adds-bitcoin-payment-option-to-73-more-countries-42a90842.md)
