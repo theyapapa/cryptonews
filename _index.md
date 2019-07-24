@@ -1,3 +1,4 @@
+* 2019-07-24 [Bitcoin de vuelta a cuatro figuras como el mercado se adenrea a la roja](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-back-to-four-figures-as-market-veers-to-the-red-4d9cb94c.md)
 * 2019-07-24 [Senado de EE.UU. celebrará debate sobre cripto, marcos regulatorios de blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-senate-to-hold-debate-on-crypto-blockchain-regulatory-frameworks-252ebce7.md)
 * 2019-07-23 [The New York Times Using Hyperledger Fabric to Fight Fakes News](https://github.com/theyapapa/cryptonews/blob/es/the-new-york-times-using-hyperledger-fabric-to-fight-fakes-news-6403c5e1.md)
 * 2019-07-23 [Destacado político nigeriano pide un marco legal para las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/prominent-nigerian-politician-calls-for-legal-framework-for-cryptocurrencies-3234788b.md)
