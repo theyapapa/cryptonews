@@ -1,3 +1,4 @@
+* 2019-07-24 [Сенат США проведет дебаты по криптографическим, блокчейн-регулирующим рамкам](https://github.com/theyapapa/cryptonews/blob/ru/us-senate-to-hold-debate-on-crypto-blockchain-regulatory-frameworks-252ebce7.md)
 * 2019-07-23 [New York Times Использование Hyperledger Ткань для борьбы с fakes Новости](https://github.com/theyapapa/cryptonews/blob/ru/the-new-york-times-using-hyperledger-fabric-to-fight-fakes-news-6403c5e1.md)
 * 2019-07-23 [Известный нигерийский политик призывает к созданию правовых рамок для криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/prominent-nigerian-politician-calls-for-legal-framework-for-cryptocurrencies-3234788b.md)
 * 2019-07-23 [Нью-йорк государство Цифровая валюта Целевая группа назначает новых членов](https://github.com/theyapapa/cryptonews/blob/ru/new-york-state-digital-currency-task-force-appoints-new-members-b7821cfd.md)
