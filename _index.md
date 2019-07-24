@@ -1,3 +1,4 @@
+* 2019-07-24 [Sumitomo и BitFlyer построят платформу Blockchain Real Estate в Японии](https://github.com/theyapapa/cryptonews/blob/ru/sumitomo-and-bitflyer-to-build-blockchain-real-estate-platform-in-japan-1faddaa6.md)
 * 2019-07-24 [Metamask запускает мобильное приложение бета-версия, чтобы расширить привлекательность Ethereum DApps](https://github.com/theyapapa/cryptonews/blob/ru/metamask-launches-mobile-app-beta-to-broaden-appeal-of-ethereum-dapps-f4c343f7.md)
 * 2019-07-24 [Биткойн Вернуться к четырем цифрам, как рынок Veers к красному](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-back-to-four-figures-as-market-veers-to-the-red-4d9cb94c.md)
 * 2019-07-24 [Сенат США проведет дебаты по криптографическим, блокчейн-регулирующим рамкам](https://github.com/theyapapa/cryptonews/blob/ru/us-senate-to-hold-debate-on-crypto-blockchain-regulatory-frameworks-252ebce7.md)
