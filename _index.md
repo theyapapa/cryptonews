@@ -1,3 +1,4 @@
+* 2019-07-23 [The New York Times Using Hyperledger Fabric to Fight Fakes News](https://github.com/theyapapa/cryptonews/blob/es/the-new-york-times-using-hyperledger-fabric-to-fight-fakes-news-6403c5e1.md)
 * 2019-07-23 [Destacado político nigeriano pide un marco legal para las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/prominent-nigerian-politician-calls-for-legal-framework-for-cryptocurrencies-3234788b.md)
 * 2019-07-23 [El Grupo de Trabajo sobre Moneda Digital del Estado de Nueva York nombra nuevos miembros](https://github.com/theyapapa/cryptonews/blob/es/new-york-state-digital-currency-task-force-appoints-new-members-b7821cfd.md)
 * 2019-07-23 [Juez niega la Solicitud de Despido de AT&T en $224M SIM Swap Crypto Case](https://github.com/theyapapa/cryptonews/blob/es/judge-denies-att-request-for-dismissal-in-224m-sim-swap-crypto-case-f5af7cdd.md)
