@@ -1,3 +1,4 @@
+* 2019-07-24 [Ninguna empresa se ha unido oficialmente a Libra Association dice que Visa CEO](https://github.com/theyapapa/cryptonews/blob/es/no-companies-have-officially-joined-libra-association-says-visa-ceo-26a925f8.md)
 * 2019-07-24 [Bitcoin SV realizó con éxito una horquilla dura en medio de la confusión de tiempo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-sv-successfully-performed-a-hard-fork-amid-timing-confusion-b166efea.md)
 * 2019-07-24 [Newegg añade la opción de pago Bitcoin a 73 países más](https://github.com/theyapapa/cryptonews/blob/es/newegg-adds-bitcoin-payment-option-to-73-more-countries-42a90842.md)
 * 2019-07-24 [La mayoría de los alemanes escépticos hacia la Libra de Facebook, sólo 12% lo acogen](https://github.com/theyapapa/cryptonews/blob/es/most-germans-skeptical-towards-facebooks-libra-only-12-welcome-it-335c0f9f.md)
