@@ -1,3 +1,4 @@
+* 2019-07-24 [스미토모와 비트플라이어, 일본 블록체인 부동산 플랫폼 구축](https://github.com/theyapapa/cryptonews/blob/ko/sumitomo-and-bitflyer-to-build-blockchain-real-estate-platform-in-japan-1faddaa6.md)
 * 2019-07-24 [메타 마스크는 이더리움 DApps의 매력을 확대하기 위해 모바일 앱 베타 출시](https://github.com/theyapapa/cryptonews/blob/ko/metamask-launches-mobile-app-beta-to-broaden-appeal-of-ethereum-dapps-f4c343f7.md)
 * 2019-07-24 [비트 코인 다시 네 수치로 시장 Veers로 레드](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-back-to-four-figures-as-market-veers-to-the-red-4d9cb94c.md)
 * 2019-07-24 [미국 상원, 암호화, 블록 체인 규제 프레임 워크에 대한 토론 개최](https://github.com/theyapapa/cryptonews/blob/ko/us-senate-to-hold-debate-on-crypto-blockchain-regulatory-frameworks-252ebce7.md)
