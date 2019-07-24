@@ -1,3 +1,4 @@
+* 2019-07-23 [저명한 나이지리아 정치인은 암호 화폐에 대한 법적 프레임 워크를 요구](https://github.com/theyapapa/cryptonews/blob/ko/prominent-nigerian-politician-calls-for-legal-framework-for-cryptocurrencies-3234788b.md)
 * 2019-07-23 [뉴욕 주 디지털 통화 태스크 포스는 새로운 회원을 임명](https://github.com/theyapapa/cryptonews/blob/ko/new-york-state-digital-currency-task-force-appoints-new-members-b7821cfd.md)
 * 2019-07-23 [판사는 $ 224M SIM 스왑 암호화 케이스에서 AT &amp; T 해고 요청을 거부합니다.](https://github.com/theyapapa/cryptonews/blob/ko/judge-denies-att-request-for-dismissal-in-224m-sim-swap-crypto-case-f5af7cdd.md)
 * 2019-07-23 [스위스 데이터 보호 레귤레이터는 페이스 북의 선칭 에 대한 세부 사항을 추구](https://github.com/theyapapa/cryptonews/blob/ko/swiss-data-protection-regulator-seeks-details-on-facebooks-libra-8ba729d2.md)
