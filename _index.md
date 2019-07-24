@@ -1,3 +1,4 @@
+* 2019-07-24 [Newegg, 73개 국가에 비트코인 결제 옵션 추가](https://github.com/theyapapa/cryptonews/blob/ko/newegg-adds-bitcoin-payment-option-to-73-more-countries-42a90842.md)
 * 2019-07-24 [페이스 북의 천칭 자리쪽으로 회의적인 대부분의 독일인, 만 12% 그것을 환영합니다](https://github.com/theyapapa/cryptonews/blob/ko/most-germans-skeptical-towards-facebooks-libra-only-12-welcome-it-335c0f9f.md)
 * 2019-07-24 [스미토모와 비트플라이어, 일본 블록체인 부동산 플랫폼 구축](https://github.com/theyapapa/cryptonews/blob/ko/sumitomo-and-bitflyer-to-build-blockchain-real-estate-platform-in-japan-1faddaa6.md)
 * 2019-07-24 [메타 마스크는 이더리움 DApps의 매력을 확대하기 위해 모바일 앱 베타 출시](https://github.com/theyapapa/cryptonews/blob/ko/metamask-launches-mobile-app-beta-to-broaden-appeal-of-ethereum-dapps-f4c343f7.md)
