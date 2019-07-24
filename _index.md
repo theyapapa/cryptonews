@@ -1,3 +1,4 @@
+* 2019-07-24 [La mayoría de los alemanes escépticos hacia la Libra de Facebook, sólo 12% lo acogen](https://github.com/theyapapa/cryptonews/blob/es/most-germans-skeptical-towards-facebooks-libra-only-12-welcome-it-335c0f9f.md)
 * 2019-07-24 [Sumitomo y BitFlyer construirán una plataforma inmobiliaria blockchain en Japón](https://github.com/theyapapa/cryptonews/blob/es/sumitomo-and-bitflyer-to-build-blockchain-real-estate-platform-in-japan-1faddaa6.md)
 * 2019-07-24 [Metamask lanza la aplicación móvil Beta para ampliar la apelación de Ethereum DApps](https://github.com/theyapapa/cryptonews/blob/es/metamask-launches-mobile-app-beta-to-broaden-appeal-of-ethereum-dapps-f4c343f7.md)
 * 2019-07-24 [Bitcoin de vuelta a cuatro figuras como el mercado se adenrea a la roja](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-back-to-four-figures-as-market-veers-to-the-red-4d9cb94c.md)
