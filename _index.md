@@ -1,3 +1,4 @@
+* 2019-07-25 [현금, 카드 또는 암호화? — 플랫폼은 매장이 디지털 결제를 수락하도록 돕습니다.](https://github.com/theyapapa/cryptonews/blob/ko/cash-card-or-crypto-platform-helps-stores-accept-digital-payments-c3cc7897.md)
 * 2019-07-25 [크라켄, 비트코인 선물 플랫폼 CEO로 암호화OTC 전문가 설치](https://github.com/theyapapa/cryptonews/blob/ko/kraken-installs-crypto-otc-guru-as-ceo-of-bitcoin-futures-platform-7cf171c3.md)
 * 2019-07-25 [Embattled 트론 크리에이터 태양 삭제 된 소셜 미디어 게시물에 중국에 사과](https://github.com/theyapapa/cryptonews/blob/ko/embattled-tron-creator-sun-apologizes-to-china-in-deleted-social-media-post-bdadd109.md)
 * 2019-07-25 [페이스 북 의 선견지 미국 의회 청문회에 암호화 커뮤니티 반응](https://github.com/theyapapa/cryptonews/blob/ko/crypto-community-reaction-to-facebook-libra-us-congressional-hearings-7a8f059b.md)
