@@ -1,3 +1,4 @@
+* 2019-07-25 [크로아티아 포스트, 암호화-피아트 교환을 위한 파일럿 프로그램 출시](https://github.com/theyapapa/cryptonews/blob/ko/croatian-post-launches-pilot-program-for-crypto-to-fiat-exchange-54f3073b.md)
 * 2019-07-25 [리플 CEO 브래드 갈링 하우스 페이스 북의 천칭 자리의 효과에 대해 우려](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-brad-garlinghouse-concerned-about-effects-of-facebooks-libra-633d9260.md)
 * 2019-07-25 [법원은 진행 중인 클라이만 사건에서 증언하기 위해 크레이그 라이트의 아내를 호출](https://github.com/theyapapa/cryptonews/blob/ko/court-calls-on-craig-wrights-wife-to-testify-in-ongoing-kleiman-case-f0be7033.md)
 * 2019-07-25 [ 용감한 브라우저의 최신 버전은 BAT 인출을 허용](https://github.com/theyapapa/cryptonews/blob/ko/latest-version-of-brave-browser-allows-for-bat-withdrawals-784fe42f.md)
