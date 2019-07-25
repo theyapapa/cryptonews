@@ -1,3 +1,4 @@
+* 2019-07-25 [La Corte pide a la esposa de Craig Wright que testifique en el caso Kleiman en curso](https://github.com/theyapapa/cryptonews/blob/es/court-calls-on-craig-wrights-wife-to-testify-in-ongoing-kleiman-case-f0be7033.md)
 * 2019-07-25 [ La última versión de Brave Browser permite retiros de BAT](https://github.com/theyapapa/cryptonews/blob/es/latest-version-of-brave-browser-allows-for-bat-withdrawals-784fe42f.md)
 * 2019-07-25 [¿Dinero en efectivo, tarjeta o cripto? — La plataforma ayuda a las tiendas a aceptar pagos digitales](https://github.com/theyapapa/cryptonews/blob/es/cash-card-or-crypto-platform-helps-stores-accept-digital-payments-c3cc7897.md)
 * 2019-07-25 [Kraken instala Crypto OTC Guru como CEO de Bitcoin Futures Platform](https://github.com/theyapapa/cryptonews/blob/es/kraken-installs-crypto-otc-guru-as-ceo-of-bitcoin-futures-platform-7cf171c3.md)
