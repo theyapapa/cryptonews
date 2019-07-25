@@ -1,3 +1,4 @@
+* 2019-07-25 [¿Dinero en efectivo, tarjeta o cripto? — La plataforma ayuda a las tiendas a aceptar pagos digitales](https://github.com/theyapapa/cryptonews/blob/es/cash-card-or-crypto-platform-helps-stores-accept-digital-payments-c3cc7897.md)
 * 2019-07-25 [Kraken instala Crypto OTC Guru como CEO de Bitcoin Futures Platform](https://github.com/theyapapa/cryptonews/blob/es/kraken-installs-crypto-otc-guru-as-ceo-of-bitcoin-futures-platform-7cf171c3.md)
 * 2019-07-25 [Embattled Tron Creator Sun apologizes to China in Deleted Social Media Post](https://github.com/theyapapa/cryptonews/blob/es/embattled-tron-creator-sun-apologizes-to-china-in-deleted-social-media-post-bdadd109.md)
 * 2019-07-25 [Reacción de la comunidad criptográfica a las audiencias de Facebook Libra US Congressional](https://github.com/theyapapa/cryptonews/blob/es/crypto-community-reaction-to-facebook-libra-us-congressional-hearings-7a8f059b.md)
