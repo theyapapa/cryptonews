@@ -1,3 +1,4 @@
+* 2019-07-25 [Генеральный директор Ripple Брэд Гарлингхаус обеспокоен последствиями Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-brad-garlinghouse-concerned-about-effects-of-facebooks-libra-633d9260.md)
 * 2019-07-25 [Суд призывает жену Крейга Райта дать показания по делу Клеймана](https://github.com/theyapapa/cryptonews/blob/ru/court-calls-on-craig-wrights-wife-to-testify-in-ongoing-kleiman-case-f0be7033.md)
 * 2019-07-25 [ Последняя версия Храбрый браузер Позволяет ДЛЯ BAT Снятия](https://github.com/theyapapa/cryptonews/blob/ru/latest-version-of-brave-browser-allows-for-bat-withdrawals-784fe42f.md)
 * 2019-07-25 [Наличные, карты или крипто? - Платформа помогает магазинам принимать цифровые платежи](https://github.com/theyapapa/cryptonews/blob/ru/cash-card-or-crypto-platform-helps-stores-accept-digital-payments-c3cc7897.md)
