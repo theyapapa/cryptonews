@@ -1,3 +1,4 @@
+* 2019-07-25 [Embattled Tron Creator Sun приносит извинения Китаю в удаленных социальных медиа пост](https://github.com/theyapapa/cryptonews/blob/ru/embattled-tron-creator-sun-apologizes-to-china-in-deleted-social-media-post-bdadd109.md)
 * 2019-07-25 [Крипто Сообщество Реакция на Facebook Весы США слушания](https://github.com/theyapapa/cryptonews/blob/ru/crypto-community-reaction-to-facebook-libra-us-congressional-hearings-7a8f059b.md)
 * 2019-07-24 [Сообщается, что Джон Макафи освобожден после задержания в Доминиканской Республике](https://github.com/theyapapa/cryptonews/blob/ru/john-mcafee-reportedly-released-following-detainment-in-the-dominican-republic-927f3d78.md)
 * 2019-07-24 [США: Нелицензированный оператор Bitcoin Exchange обвиняется Министерством юстиции](https://github.com/theyapapa/cryptonews/blob/ru/us-unlicensed-bitcoin-exchange-operator-indicted-by-justice-department-6b28b04a.md)
