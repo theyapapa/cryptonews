@@ -1,3 +1,4 @@
+* 2019-07-25 [Reacción de la comunidad criptográfica a las audiencias de Facebook Libra US Congressional](https://github.com/theyapapa/cryptonews/blob/es/crypto-community-reaction-to-facebook-libra-us-congressional-hearings-7a8f059b.md)
 * 2019-07-24 [John McAfee al parecer liberado tras la detención en la República Dominicana](https://github.com/theyapapa/cryptonews/blob/es/john-mcafee-reportedly-released-following-detainment-in-the-dominican-republic-927f3d78.md)
 * 2019-07-24 [Estados Unidos: Operador de intercambio de Bitcoin sin licencia acusado por el Departamento de Justicia](https://github.com/theyapapa/cryptonews/blob/es/us-unlicensed-bitcoin-exchange-operator-indicted-by-justice-department-6b28b04a.md)
 * 2019-07-24 [Ninguna empresa se ha unido oficialmente a Libra Association dice que Visa CEO](https://github.com/theyapapa/cryptonews/blob/es/no-companies-have-officially-joined-libra-association-says-visa-ceo-26a925f8.md)
