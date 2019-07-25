@@ -1,3 +1,4 @@
+* 2019-07-25 [ Последняя версия Храбрый браузер Позволяет ДЛЯ BAT Снятия](https://github.com/theyapapa/cryptonews/blob/ru/latest-version-of-brave-browser-allows-for-bat-withdrawals-784fe42f.md)
 * 2019-07-25 [Наличные, карты или крипто? - Платформа помогает магазинам принимать цифровые платежи](https://github.com/theyapapa/cryptonews/blob/ru/cash-card-or-crypto-platform-helps-stores-accept-digital-payments-c3cc7897.md)
 * 2019-07-25 [Kraken устанавливает Crypto OTC Гуру в качестве генерального директора Bitcoin Futures Platform](https://github.com/theyapapa/cryptonews/blob/ru/kraken-installs-crypto-otc-guru-as-ceo-of-bitcoin-futures-platform-7cf171c3.md)
 * 2019-07-25 [Embattled Tron Creator Sun приносит извинения Китаю в удаленных социальных медиа пост](https://github.com/theyapapa/cryptonews/blob/ru/embattled-tron-creator-sun-apologizes-to-china-in-deleted-social-media-post-bdadd109.md)
