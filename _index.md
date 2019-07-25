@@ -1,3 +1,4 @@
+* 2019-07-25 [법원은 진행 중인 클라이만 사건에서 증언하기 위해 크레이그 라이트의 아내를 호출](https://github.com/theyapapa/cryptonews/blob/ko/court-calls-on-craig-wrights-wife-to-testify-in-ongoing-kleiman-case-f0be7033.md)
 * 2019-07-25 [ 용감한 브라우저의 최신 버전은 BAT 인출을 허용](https://github.com/theyapapa/cryptonews/blob/ko/latest-version-of-brave-browser-allows-for-bat-withdrawals-784fe42f.md)
 * 2019-07-25 [현금, 카드 또는 암호화? — 플랫폼은 매장이 디지털 결제를 수락하도록 돕습니다.](https://github.com/theyapapa/cryptonews/blob/ko/cash-card-or-crypto-platform-helps-stores-accept-digital-payments-c3cc7897.md)
 * 2019-07-25 [크라켄, 비트코인 선물 플랫폼 CEO로 암호화OTC 전문가 설치](https://github.com/theyapapa/cryptonews/blob/ko/kraken-installs-crypto-otc-guru-as-ceo-of-bitcoin-futures-platform-7cf171c3.md)
