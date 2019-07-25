@@ -1,3 +1,4 @@
+* 2019-07-25 [Embattled 트론 크리에이터 태양 삭제 된 소셜 미디어 게시물에 중국에 사과](https://github.com/theyapapa/cryptonews/blob/ko/embattled-tron-creator-sun-apologizes-to-china-in-deleted-social-media-post-bdadd109.md)
 * 2019-07-25 [페이스 북 의 선견지 미국 의회 청문회에 암호화 커뮤니티 반응](https://github.com/theyapapa/cryptonews/blob/ko/crypto-community-reaction-to-facebook-libra-us-congressional-hearings-7a8f059b.md)
 * 2019-07-24 [존 맥아피, 도미니카 공화국 구금 후 석방](https://github.com/theyapapa/cryptonews/blob/ko/john-mcafee-reportedly-released-following-detainment-in-the-dominican-republic-927f3d78.md)
 * 2019-07-24 [미국: 법무부에 의해 기소 된 무면허 비트 코인 교환 운영자](https://github.com/theyapapa/cryptonews/blob/ko/us-unlicensed-bitcoin-exchange-operator-indicted-by-justice-department-6b28b04a.md)
