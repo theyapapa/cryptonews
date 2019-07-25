@@ -1,3 +1,4 @@
+* 2019-07-24 [존 맥아피, 도미니카 공화국 구금 후 석방](https://github.com/theyapapa/cryptonews/blob/ko/john-mcafee-reportedly-released-following-detainment-in-the-dominican-republic-927f3d78.md)
 * 2019-07-24 [미국: 법무부에 의해 기소 된 무면허 비트 코인 교환 운영자](https://github.com/theyapapa/cryptonews/blob/ko/us-unlicensed-bitcoin-exchange-operator-indicted-by-justice-department-6b28b04a.md)
 * 2019-07-24 [어떤 회사는 공식적으로 Libra 협회에 가입하지 않은 비자 CEO를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/no-companies-have-officially-joined-libra-association-says-visa-ceo-26a925f8.md)
 * 2019-07-24 [비트 코인 SV는 성공적으로 타이밍 혼란 속에서 하드 포크를 수행](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sv-successfully-performed-a-hard-fork-amid-timing-confusion-b166efea.md)
