@@ -1,3 +1,4 @@
+* 2019-07-26 [화웨이 CEO: 왜 페이스 북을 기다립니다? 중국은 자체 '선견지'를 발행 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/huawei-ceo-why-wait-for-facebook-china-can-issue-its-own-libra-3ec78aec.md)
 * 2019-07-25 [미국 SEC는 암호화 게임 회사에게 '분기'토큰에 앞서 이동을 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-gives-crypto-gaming-firm-the-go-ahead-on-quarters-token-67bd8555.md)
 * 2019-07-25 [크로아티아 포스트, 암호화-피아트 교환을 위한 파일럿 프로그램 출시](https://github.com/theyapapa/cryptonews/blob/ko/croatian-post-launches-pilot-program-for-crypto-to-fiat-exchange-54f3073b.md)
 * 2019-07-25 [리플 CEO 브래드 갈링 하우스 페이스 북의 천칭 자리의 효과에 대해 우려](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-brad-garlinghouse-concerned-about-effects-of-facebooks-libra-633d9260.md)
