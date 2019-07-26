@@ -1,3 +1,4 @@
+* 2019-07-26 [83% 미국 투자자의 비트 코인에 자신의 발가락을 찍어 것: 새로운 보고서](https://github.com/theyapapa/cryptonews/blob/ko/83-of-us-investors-would-dip-their-toes-into-bitcoin-new-report-19342817.md)
 * 2019-07-26 [화웨이 CEO: 왜 페이스 북을 기다립니다? 중국은 자체 '선견지'를 발행 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/huawei-ceo-why-wait-for-facebook-china-can-issue-its-own-libra-3ec78aec.md)
 * 2019-07-25 [미국 SEC는 암호화 게임 회사에게 '분기'토큰에 앞서 이동을 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-gives-crypto-gaming-firm-the-go-ahead-on-quarters-token-67bd8555.md)
 * 2019-07-25 [크로아티아 포스트, 암호화-피아트 교환을 위한 파일럿 프로그램 출시](https://github.com/theyapapa/cryptonews/blob/ko/croatian-post-launches-pilot-program-for-crypto-to-fiat-exchange-54f3073b.md)
