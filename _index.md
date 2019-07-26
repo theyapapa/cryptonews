@@ -1,3 +1,4 @@
+* 2019-07-26 [아브라는 EOS와 4 다른 알트 코인을 보유에서 미국인을 제한](https://github.com/theyapapa/cryptonews/blob/ko/abra-restricts-americans-from-holding-eos-and-4-other-altcoins-353a879c.md)
 * 2019-07-26 [일본 금융 서비스 거 대 한 모 넥 스 페이스 북의 선취를 가입 하 고 싶어](https://github.com/theyapapa/cryptonews/blob/ko/japanese-financial-services-giant-monex-wants-to-join-facebooks-libra-30d3ee5a.md)
 * 2019-07-26 [83% 미국 투자자의 비트 코인에 자신의 발가락을 찍어 것: 새로운 보고서](https://github.com/theyapapa/cryptonews/blob/ko/83-of-us-investors-would-dip-their-toes-into-bitcoin-new-report-19342817.md)
 * 2019-07-26 [화웨이 CEO: 왜 페이스 북을 기다립니다? 중국은 자체 '선견지'를 발행 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/huawei-ceo-why-wait-for-facebook-china-can-issue-its-own-libra-3ec78aec.md)
