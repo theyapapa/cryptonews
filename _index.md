@@ -1,3 +1,4 @@
+* 2019-07-25 [США SEC дает Crypto Gaming фирма Go-Ahead на "кварталы" токен](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-gives-crypto-gaming-firm-the-go-ahead-on-quarters-token-67bd8555.md)
 * 2019-07-25 [Хорватский Пост запускает пилотную программу для Крипто-Fiat Exchange](https://github.com/theyapapa/cryptonews/blob/ru/croatian-post-launches-pilot-program-for-crypto-to-fiat-exchange-54f3073b.md)
 * 2019-07-25 [Генеральный директор Ripple Брэд Гарлингхаус обеспокоен последствиями Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-brad-garlinghouse-concerned-about-effects-of-facebooks-libra-633d9260.md)
 * 2019-07-25 [Суд призывает жену Крейга Райта дать показания по делу Клеймана](https://github.com/theyapapa/cryptonews/blob/ru/court-calls-on-craig-wrights-wife-to-testify-in-ongoing-kleiman-case-f0be7033.md)
