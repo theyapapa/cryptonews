@@ -1,3 +1,4 @@
+* 2019-07-26 [Huawei CEO: ¿Por qué esperar a Facebook? China puede emitir su propia 'libra'](https://github.com/theyapapa/cryptonews/blob/es/huawei-ceo-why-wait-for-facebook-china-can-issue-its-own-libra-3ec78aec.md)
 * 2019-07-25 [LA SEC de EE. UU. ofrece a Crypto Gaming El Go-Ahead en el token 'Quarters'](https://github.com/theyapapa/cryptonews/blob/es/us-sec-gives-crypto-gaming-firm-the-go-ahead-on-quarters-token-67bd8555.md)
 * 2019-07-25 [El post croata lanza el programa piloto para la bolsa de cripto-fiat](https://github.com/theyapapa/cryptonews/blob/es/croatian-post-launches-pilot-program-for-crypto-to-fiat-exchange-54f3073b.md)
 * 2019-07-25 [El CEO de Ripple, Brad Garlinghouse, preocupado por los efectos de Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/ripple-ceo-brad-garlinghouse-concerned-about-effects-of-facebooks-libra-633d9260.md)
