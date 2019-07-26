@@ -1,3 +1,4 @@
+* 2019-07-26 [Абра ограничивает американцев от проведения EOS и 4 других Altcoins](https://github.com/theyapapa/cryptonews/blob/ru/abra-restricts-americans-from-holding-eos-and-4-other-altcoins-353a879c.md)
 * 2019-07-26 [Японский финансовый сервис Giant Monex хочет присоединиться к Весам Facebook](https://github.com/theyapapa/cryptonews/blob/ru/japanese-financial-services-giant-monex-wants-to-join-facebooks-libra-30d3ee5a.md)
 * 2019-07-26 [83% американских инвесторов окунут свои ноги в биткоин: Новый отчет](https://github.com/theyapapa/cryptonews/blob/ru/83-of-us-investors-would-dip-their-toes-into-bitcoin-new-report-19342817.md)
 * 2019-07-26 [Генеральный директор Huawei: Зачем ждать Facebook? Китай может выпустить свой собственный "Весы"](https://github.com/theyapapa/cryptonews/blob/ru/huawei-ceo-why-wait-for-facebook-china-can-issue-its-own-libra-3ec78aec.md)
