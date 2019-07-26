@@ -1,3 +1,4 @@
+* 2019-07-26 [Informe: Bakkt a lanzar en el tercer trimestre, pendiente de aprobación del departamento financiero de NY](https://github.com/theyapapa/cryptonews/blob/es/report-bakkt-to-launch-in-q3-pending-ny-financial-department-approval-3b1edd74.md)
 * 2019-07-26 [La Universidad más grande de Australia Occidental acepta Bitcoin para el programa de doctorado](https://github.com/theyapapa/cryptonews/blob/es/biggest-university-in-western-australia-accepts-bitcoin-for-phd-program-49d3922b.md)
 * 2019-07-26 [Recién salido de la cárcel, John McAfee ahora quiere el trabajo de Boris Johnson](https://github.com/theyapapa/cryptonews/blob/es/fresh-out-of-jail-john-mcafee-now-wants-boris-johnsons-job-18ef8c80.md)
 * 2019-07-26 [Abra restringe a los estadounidenses de tener EOS y 4 Otras Altcoins](https://github.com/theyapapa/cryptonews/blob/es/abra-restricts-americans-from-holding-eos-and-4-other-altcoins-353a879c.md)
