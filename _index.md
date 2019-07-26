@@ -1,3 +1,4 @@
+* 2019-07-26 [보고서: Bakkt, 3 분기에 출시, 뉴욕 재무부 승인 보류](https://github.com/theyapapa/cryptonews/blob/ko/report-bakkt-to-launch-in-q3-pending-ny-financial-department-approval-3b1edd74.md)
 * 2019-07-26 [웨스턴 오스트레일리아에서 가장 큰 대학은 박사 프로그램에 대한 비트 코인을 받아 들인다](https://github.com/theyapapa/cryptonews/blob/ko/biggest-university-in-western-australia-accepts-bitcoin-for-phd-program-49d3922b.md)
 * 2019-07-26 [감옥에서 신선한, 존 맥아피는 이제 보리스 존슨의 일을 원한다](https://github.com/theyapapa/cryptonews/blob/ko/fresh-out-of-jail-john-mcafee-now-wants-boris-johnsons-job-18ef8c80.md)
 * 2019-07-26 [아브라는 EOS와 4 다른 알트 코인을 보유에서 미국인을 제한](https://github.com/theyapapa/cryptonews/blob/ko/abra-restricts-americans-from-holding-eos-and-4-other-altcoins-353a879c.md)
