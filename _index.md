@@ -1,3 +1,4 @@
+* 2019-07-26 [Китайский оптовик алкоголя Тестирование борьбе с контрафакцией Blockchain решение](https://github.com/theyapapa/cryptonews/blob/ru/chinese-alcohol-wholesaler-testing-anti-counterfeiting-blockchain-solution-2857174a.md)
 * 2019-07-26 [Доклад: Bakkt для запуска в 3 квартале, в ожидании NY Финансовый департамент Утверждения](https://github.com/theyapapa/cryptonews/blob/ru/report-bakkt-to-launch-in-q3-pending-ny-financial-department-approval-3b1edd74.md)
 * 2019-07-26 [Крупнейший университет Западной Австралии принимает Bitcoin для phD программы](https://github.com/theyapapa/cryptonews/blob/ru/biggest-university-in-western-australia-accepts-bitcoin-for-phd-program-49d3922b.md)
 * 2019-07-26 [Свежий из тюрьмы, Джон McAfee Теперь хочет работу Бориса Джонсона](https://github.com/theyapapa/cryptonews/blob/ru/fresh-out-of-jail-john-mcafee-now-wants-boris-johnsons-job-18ef8c80.md)
