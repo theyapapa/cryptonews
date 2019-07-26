@@ -1,3 +1,4 @@
+* 2019-07-26 [중국 주류 도매업자, 위조 방지 블록체인 솔루션 테스트](https://github.com/theyapapa/cryptonews/blob/ko/chinese-alcohol-wholesaler-testing-anti-counterfeiting-blockchain-solution-2857174a.md)
 * 2019-07-26 [보고서: Bakkt, 3 분기에 출시, 뉴욕 재무부 승인 보류](https://github.com/theyapapa/cryptonews/blob/ko/report-bakkt-to-launch-in-q3-pending-ny-financial-department-approval-3b1edd74.md)
 * 2019-07-26 [웨스턴 오스트레일리아에서 가장 큰 대학은 박사 프로그램에 대한 비트 코인을 받아 들인다](https://github.com/theyapapa/cryptonews/blob/ko/biggest-university-in-western-australia-accepts-bitcoin-for-phd-program-49d3922b.md)
 * 2019-07-26 [감옥에서 신선한, 존 맥아피는 이제 보리스 존슨의 일을 원한다](https://github.com/theyapapa/cryptonews/blob/ko/fresh-out-of-jail-john-mcafee-now-wants-boris-johnsons-job-18ef8c80.md)
