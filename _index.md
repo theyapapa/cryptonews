@@ -1,3 +1,4 @@
+* 2019-07-26 [Abra restringe a los estadounidenses de tener EOS y 4 Otras Altcoins](https://github.com/theyapapa/cryptonews/blob/es/abra-restricts-americans-from-holding-eos-and-4-other-altcoins-353a879c.md)
 * 2019-07-26 [El gigante japonés de servicios financieros Monex quiere unirse a La Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/japanese-financial-services-giant-monex-wants-to-join-facebooks-libra-30d3ee5a.md)
 * 2019-07-26 [83% de los inversores estadounidenses se sumergirían en Bitcoin: Nuevo informe](https://github.com/theyapapa/cryptonews/blob/es/83-of-us-investors-would-dip-their-toes-into-bitcoin-new-report-19342817.md)
 * 2019-07-26 [Huawei CEO: ¿Por qué esperar a Facebook? China puede emitir su propia 'libra'](https://github.com/theyapapa/cryptonews/blob/es/huawei-ceo-why-wait-for-facebook-china-can-issue-its-own-libra-3ec78aec.md)
