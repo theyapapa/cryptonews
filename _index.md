@@ -1,3 +1,4 @@
+* 2019-07-27 [TRX, NEO, 링크: 금주의 상위 3 암호화 패자 - 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/trx-neo-link-top-3-crypto-losers-of-the-week-price-analysis-f259d0e9.md)
 * 2019-07-27 [비트 코인 친화적 인 광장 현금 앱 주가 상승 56% 2019](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-friendly-square-cash-app-stock-price-up-56-in-2019-e5871b0b.md)
 * 2019-07-27 [비트 코인 가격 은 신선한 데이터가 거대한 지원으로 $ 10K를 탈환 $300K + 황소 실행](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-retakes-10k-as-fresh-data-supports-giant-300k-bull-run-0e25d8cf.md)
 * 2019-07-26 [보고서: 미국 기반 의 상인은 여전히 Bitfinex 서비스에 액세스 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/report-us-based-traders-can-still-access-bitfinex-services-f6849376.md)
