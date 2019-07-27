@@ -1,3 +1,4 @@
+* 2019-07-27 [Биткоин Цена retakes $ 10K, как свежие данные поддерживает гигантские $ 300K "Бык Run](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-retakes-10k-as-fresh-data-supports-giant-300k-bull-run-0e25d8cf.md)
 * 2019-07-26 [Отчет: Американские трейдеры все еще могут получить доступ к услугам Bitfinex](https://github.com/theyapapa/cryptonews/blob/ru/report-us-based-traders-can-still-access-bitfinex-services-f6849376.md)
 * 2019-07-26 [Совладелец now-Defunct криптобиржи BitMarket найден мертвым](https://github.com/theyapapa/cryptonews/blob/ru/co-owner-of-now-defunct-crypto-exchange-bitmarket-found-dead-896af69d.md)
 * 2019-07-26 [Молния сети Dev объявляет альфа-версия узла инструмент мониторинга](https://github.com/theyapapa/cryptonews/blob/ru/lightning-network-dev-announces-alpha-version-of-node-monitoring-tool-1cd2d5c4.md)
