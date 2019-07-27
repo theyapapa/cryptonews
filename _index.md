@@ -1,3 +1,4 @@
+* 2019-07-27 [Nuevo informe SFOX: No llame a Ethereum un 'Altcoin' más](https://github.com/theyapapa/cryptonews/blob/es/new-sfox-report-dont-call-ethereum-an-altcoin-anymore-f4eb36e5.md)
 * 2019-07-27 [TRX, NEO, LINK: Top-3 Crypto Losers of the Week — Análisis de precios](https://github.com/theyapapa/cryptonews/blob/es/trx-neo-link-top-3-crypto-losers-of-the-week-price-analysis-f259d0e9.md)
 * 2019-07-27 [Bitcoin-Friendly Square Cash App Precio de la acción de un 56% en 2019](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-friendly-square-cash-app-stock-price-up-56-in-2019-e5871b0b.md)
 * 2019-07-27 [Bitcoin Precio Retoma $10K como Fresh Data Supports Giant $300K+ Bull Run](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-retakes-10k-as-fresh-data-supports-giant-300k-bull-run-0e25d8cf.md)
