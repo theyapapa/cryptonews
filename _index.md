@@ -1,3 +1,4 @@
+* 2019-07-26 [Copropietario de BitMarket de Crypto Exchange ahora desaparecido encontrado muerto](https://github.com/theyapapa/cryptonews/blob/es/co-owner-of-now-defunct-crypto-exchange-bitmarket-found-dead-896af69d.md)
 * 2019-07-26 [Lightning Network Dev anuncia la versión alfa de la herramienta de monitoreo de nodo](https://github.com/theyapapa/cryptonews/blob/es/lightning-network-dev-announces-alpha-version-of-node-monitoring-tool-1cd2d5c4.md)
 * 2019-07-26 [Solución de cadena de bloques contra la falsificación de alcohol chino](https://github.com/theyapapa/cryptonews/blob/es/chinese-alcohol-wholesaler-testing-anti-counterfeiting-blockchain-solution-2857174a.md)
 * 2019-07-26 [Informe: Bakkt a lanzar en el tercer trimestre, pendiente de aprobación del departamento financiero de NY](https://github.com/theyapapa/cryptonews/blob/es/report-bakkt-to-launch-in-q3-pending-ny-financial-department-approval-3b1edd74.md)
