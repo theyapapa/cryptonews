@@ -1,3 +1,4 @@
+* 2019-07-27 [Bitcoin-Friendly Square Cash App Precio de la acción de un 56% en 2019](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-friendly-square-cash-app-stock-price-up-56-in-2019-e5871b0b.md)
 * 2019-07-27 [Bitcoin Precio Retoma $10K como Fresh Data Supports Giant $300K+ Bull Run](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-retakes-10k-as-fresh-data-supports-giant-300k-bull-run-0e25d8cf.md)
 * 2019-07-26 [Informe: Los comerciantes con sede en EE. UU. todavía pueden acceder a los servicios de Bitfinex](https://github.com/theyapapa/cryptonews/blob/es/report-us-based-traders-can-still-access-bitfinex-services-f6849376.md)
 * 2019-07-26 [Copropietario de BitMarket de Crypto Exchange ahora desaparecido encontrado muerto](https://github.com/theyapapa/cryptonews/blob/es/co-owner-of-now-defunct-crypto-exchange-bitmarket-found-dead-896af69d.md)
