@@ -1,3 +1,4 @@
+* 2019-07-27 [TRX, NEO, LINK: Топ-3 Crypto Неудачники недели - Анализ цен](https://github.com/theyapapa/cryptonews/blob/ru/trx-neo-link-top-3-crypto-losers-of-the-week-price-analysis-f259d0e9.md)
 * 2019-07-27 [Биткоин-Friendly Square Cash App Цена акций выросла на 56% в 2019 году](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-friendly-square-cash-app-stock-price-up-56-in-2019-e5871b0b.md)
 * 2019-07-27 [Биткоин Цена retakes $ 10K, как свежие данные поддерживает гигантские $ 300K "Бык Run](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-retakes-10k-as-fresh-data-supports-giant-300k-bull-run-0e25d8cf.md)
 * 2019-07-26 [Отчет: Американские трейдеры все еще могут получить доступ к услугам Bitfinex](https://github.com/theyapapa/cryptonews/blob/ru/report-us-based-traders-can-still-access-bitfinex-services-f6849376.md)
