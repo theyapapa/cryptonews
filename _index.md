@@ -1,3 +1,4 @@
+* 2019-07-26 [Отчет: Американские трейдеры все еще могут получить доступ к услугам Bitfinex](https://github.com/theyapapa/cryptonews/blob/ru/report-us-based-traders-can-still-access-bitfinex-services-f6849376.md)
 * 2019-07-26 [Совладелец now-Defunct криптобиржи BitMarket найден мертвым](https://github.com/theyapapa/cryptonews/blob/ru/co-owner-of-now-defunct-crypto-exchange-bitmarket-found-dead-896af69d.md)
 * 2019-07-26 [Молния сети Dev объявляет альфа-версия узла инструмент мониторинга](https://github.com/theyapapa/cryptonews/blob/ru/lightning-network-dev-announces-alpha-version-of-node-monitoring-tool-1cd2d5c4.md)
 * 2019-07-26 [Китайский оптовик алкоголя Тестирование борьбе с контрафакцией Blockchain решение](https://github.com/theyapapa/cryptonews/blob/ru/chinese-alcohol-wholesaler-testing-anti-counterfeiting-blockchain-solution-2857174a.md)
