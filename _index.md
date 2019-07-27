@@ -1,3 +1,4 @@
+* 2019-07-27 [Блокчейн-решения Ethereum для корпоративного бизнеса: плюсы и минусы](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-blockchain-solutions-for-enterprise-business-pros-and-cons-61a355ff.md)
 * 2019-07-27 [Анализ цен 27/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-27-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-69ea9c62.md)
 * 2019-07-27 [Новый отчет SFOX: Не называйте Ethereum 'Altcoin' Больше](https://github.com/theyapapa/cryptonews/blob/ru/new-sfox-report-dont-call-ethereum-an-altcoin-anymore-f4eb36e5.md)
 * 2019-07-27 [TRX, NEO, LINK: Топ-3 Crypto Неудачники недели - Анализ цен](https://github.com/theyapapa/cryptonews/blob/ru/trx-neo-link-top-3-crypto-losers-of-the-week-price-analysis-f259d0e9.md)
