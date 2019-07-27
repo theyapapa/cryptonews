@@ -1,3 +1,4 @@
+* 2019-07-27 [새로운 SFOX 보고서: 더 이상 '알트코인'에 이더리움을 호출하지 마십시오](https://github.com/theyapapa/cryptonews/blob/ko/new-sfox-report-dont-call-ethereum-an-altcoin-anymore-f4eb36e5.md)
 * 2019-07-27 [TRX, NEO, 링크: 금주의 상위 3 암호화 패자 - 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/trx-neo-link-top-3-crypto-losers-of-the-week-price-analysis-f259d0e9.md)
 * 2019-07-27 [비트 코인 친화적 인 광장 현금 앱 주가 상승 56% 2019](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-friendly-square-cash-app-stock-price-up-56-in-2019-e5871b0b.md)
 * 2019-07-27 [비트 코인 가격 은 신선한 데이터가 거대한 지원으로 $ 10K를 탈환 $300K + 황소 실행](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-retakes-10k-as-fresh-data-supports-giant-300k-bull-run-0e25d8cf.md)
