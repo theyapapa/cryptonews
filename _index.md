@@ -1,3 +1,4 @@
+* 2019-07-27 [EE.UU. se acerca a aceptar Blockchain, todavía incierto sobre Cripto](https://github.com/theyapapa/cryptonews/blob/es/us-moves-closer-to-accepting-blockchain-still-uncertain-over-crypto-aa6b3206.md)
 * 2019-07-27 [Soluciones Ethereum Blockchain para empresas: Pros y Contras](https://github.com/theyapapa/cryptonews/blob/es/ethereum-blockchain-solutions-for-enterprise-business-pros-and-cons-61a355ff.md)
 * 2019-07-27 [Análisis de Precios 27/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-27-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-69ea9c62.md)
 * 2019-07-27 [Nuevo informe SFOX: No llame a Ethereum un 'Altcoin' más](https://github.com/theyapapa/cryptonews/blob/es/new-sfox-report-dont-call-ethereum-an-altcoin-anymore-f4eb36e5.md)
