@@ -1,3 +1,4 @@
+* 2019-07-28 [스포츠 토큰화 — 업계가 암호화폐를 통합하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/tokenizing-sports-how-the-industry-is-incorporating-crypto-beda5f30.md)
 * 2019-07-28 [상위 5 암호화 수행자: EOS, 레오, ETC, ADA, XMR](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-eos-leo-etc-ada-xmr-43e22610.md)
 * 2019-07-28 [그리스 억만 장자 대마 지원 토큰 및 전용 교환 출시](https://github.com/theyapapa/cryptonews/blob/ko/greek-billionaire-launches-hemp-backed-token-and-dedicated-exchange-ad41f579.md)
 * 2019-07-28 [비트 코인은 아래 폭포 $9,600 대부분의 알트 코인으로 주요 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-9-600-as-most-altcoins-see-major-losses-138efa38.md)
