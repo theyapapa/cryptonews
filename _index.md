@@ -1,3 +1,4 @@
+* 2019-07-28 [미국의 환경세 정책이 태양광 발전을 저해하여 디지털 기술을 발전시키고 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/is-us-environmental-tax-policy-hindering-solar-power-to-fuel-digital-technologies-1a61b901.md)
 * 2019-07-27 [미국, 블록체인 수용에 가까워지고, 암호화폐에 대한 불확실성](https://github.com/theyapapa/cryptonews/blob/ko/us-moves-closer-to-accepting-blockchain-still-uncertain-over-crypto-aa6b3206.md)
 * 2019-07-27 [엔터프라이즈 비즈니스를 위한 이더리움 블록체인 솔루션: 장단점](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-blockchain-solutions-for-enterprise-business-pros-and-cons-61a355ff.md)
 * 2019-07-27 [가격 분석 27/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-27-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-69ea9c62.md)
