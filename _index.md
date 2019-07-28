@@ -1,3 +1,4 @@
+* 2019-07-28 [호들러의 다이제스트, 7 월 22-28: 천칭 자리 의심, 비트 코인 슬럼프, 바 뒤에 맥아피](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-july-2228-libra-doubts-bitcoin-slumps-mcafee-behind-bars-cda406e2.md)
 * 2019-07-28 [3 이유 분석가는 비트 코인에 강세에도 불구하고 33% 가격 수정](https://github.com/theyapapa/cryptonews/blob/ko/3-reasons-analysts-are-bullish-on-bitcoin-despite-33-price-correction-a0583f27.md)
 * 2019-07-28 [스포츠 토큰화 — 업계가 암호화폐를 통합하는 방법](https://github.com/theyapapa/cryptonews/blob/ko/tokenizing-sports-how-the-industry-is-incorporating-crypto-beda5f30.md)
 * 2019-07-28 [상위 5 암호화 수행자: EOS, 레오, ETC, ADA, XMR](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-eos-leo-etc-ada-xmr-43e22610.md)
