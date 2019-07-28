@@ -1,3 +1,4 @@
+* 2019-07-28 [¿La política fiscal ambiental de Los Estados Unidos está obstaculizando la energía solar para alimentar las tecnologías digitales?](https://github.com/theyapapa/cryptonews/blob/es/is-us-environmental-tax-policy-hindering-solar-power-to-fuel-digital-technologies-1a61b901.md)
 * 2019-07-27 [EE.UU. se acerca a aceptar Blockchain, todavía incierto sobre Cripto](https://github.com/theyapapa/cryptonews/blob/es/us-moves-closer-to-accepting-blockchain-still-uncertain-over-crypto-aa6b3206.md)
 * 2019-07-27 [Soluciones Ethereum Blockchain para empresas: Pros y Contras](https://github.com/theyapapa/cryptonews/blob/es/ethereum-blockchain-solutions-for-enterprise-business-pros-and-cons-61a355ff.md)
 * 2019-07-27 [Análisis de Precios 27/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-27-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-69ea9c62.md)
