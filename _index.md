@@ -1,3 +1,4 @@
+* 2019-07-28 [비트 코인은 아래 폭포 $9,600 대부분의 알트 코인으로 주요 손실을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-falls-under-9-600-as-most-altcoins-see-major-losses-138efa38.md)
 * 2019-07-28 [미국의 환경세 정책이 태양광 발전을 저해하여 디지털 기술을 발전시키고 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/is-us-environmental-tax-policy-hindering-solar-power-to-fuel-digital-technologies-1a61b901.md)
 * 2019-07-27 [미국, 블록체인 수용에 가까워지고, 암호화폐에 대한 불확실성](https://github.com/theyapapa/cryptonews/blob/ko/us-moves-closer-to-accepting-blockchain-still-uncertain-over-crypto-aa6b3206.md)
 * 2019-07-27 [엔터프라이즈 비즈니스를 위한 이더리움 블록체인 솔루션: 장단점](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-blockchain-solutions-for-enterprise-business-pros-and-cons-61a355ff.md)
