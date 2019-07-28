@@ -1,3 +1,4 @@
+* 2019-07-28 [3 причины Аналитики бычий на Bitcoin Несмотря на 33% Коррекция цен](https://github.com/theyapapa/cryptonews/blob/ru/3-reasons-analysts-are-bullish-on-bitcoin-despite-33-price-correction-a0583f27.md)
 * 2019-07-28 [Токенизация спорта - Как промышленность включает Крипто](https://github.com/theyapapa/cryptonews/blob/ru/tokenizing-sports-how-the-industry-is-incorporating-crypto-beda5f30.md)
 * 2019-07-28 [Топ-5 криптоисполнителей: EOS, LEO, ETC, ADA, XMR](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-eos-leo-etc-ada-xmr-43e22610.md)
 * 2019-07-28 [Греческий миллиардер запускает конопли-Backed токен и посвященный обмена](https://github.com/theyapapa/cryptonews/blob/ru/greek-billionaire-launches-hemp-backed-token-and-dedicated-exchange-ad41f579.md)
