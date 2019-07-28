@@ -1,3 +1,4 @@
+* 2019-07-28 [3 razones por las que los analistas son alcistas en Bitcoin a pesar de 33% corrección de precios](https://github.com/theyapapa/cryptonews/blob/es/3-reasons-analysts-are-bullish-on-bitcoin-despite-33-price-correction-a0583f27.md)
 * 2019-07-28 [Deportes de tokenización : cómo la industria está incorporando cripto](https://github.com/theyapapa/cryptonews/blob/es/tokenizing-sports-how-the-industry-is-incorporating-crypto-beda5f30.md)
 * 2019-07-28 [Top-5 Crypto Performers: EOS, LEO, ETC, ADA, XMR](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-eos-leo-etc-ada-xmr-43e22610.md)
 * 2019-07-28 [El multimillonario griego lanza el token respaldado por cáñamo y el intercambio dedicado](https://github.com/theyapapa/cryptonews/blob/es/greek-billionaire-launches-hemp-backed-token-and-dedicated-exchange-ad41f579.md)
