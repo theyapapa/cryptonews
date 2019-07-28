@@ -1,3 +1,4 @@
+* 2019-07-28 [El multimillonario griego lanza el token respaldado por cáñamo y el intercambio dedicado](https://github.com/theyapapa/cryptonews/blob/es/greek-billionaire-launches-hemp-backed-token-and-dedicated-exchange-ad41f579.md)
 * 2019-07-28 [Bitcoin cae por debajo de $9,600 como la mayoría de Altcoins ver pérdidas importantes](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-9-600-as-most-altcoins-see-major-losses-138efa38.md)
 * 2019-07-28 [¿La política fiscal ambiental de Los Estados Unidos está obstaculizando la energía solar para alimentar las tecnologías digitales?](https://github.com/theyapapa/cryptonews/blob/es/is-us-environmental-tax-policy-hindering-solar-power-to-fuel-digital-technologies-1a61b901.md)
 * 2019-07-27 [EE.UU. se acerca a aceptar Blockchain, todavía incierto sobre Cripto](https://github.com/theyapapa/cryptonews/blob/es/us-moves-closer-to-accepting-blockchain-still-uncertain-over-crypto-aa6b3206.md)
