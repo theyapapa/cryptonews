@@ -1,3 +1,4 @@
+* 2019-07-28 [Top-5 Crypto Performers: EOS, LEO, ETC, ADA, XMR](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-eos-leo-etc-ada-xmr-43e22610.md)
 * 2019-07-28 [El multimillonario griego lanza el token respaldado por cáñamo y el intercambio dedicado](https://github.com/theyapapa/cryptonews/blob/es/greek-billionaire-launches-hemp-backed-token-and-dedicated-exchange-ad41f579.md)
 * 2019-07-28 [Bitcoin cae por debajo de $9,600 como la mayoría de Altcoins ver pérdidas importantes](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-falls-under-9-600-as-most-altcoins-see-major-losses-138efa38.md)
 * 2019-07-28 [¿La política fiscal ambiental de Los Estados Unidos está obstaculizando la energía solar para alimentar las tecnologías digitales?](https://github.com/theyapapa/cryptonews/blob/es/is-us-environmental-tax-policy-hindering-solar-power-to-fuel-digital-technologies-1a61b901.md)
