@@ -1,3 +1,4 @@
+* 2019-07-28 [Топ-5 криптоисполнителей: EOS, LEO, ETC, ADA, XMR](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-eos-leo-etc-ada-xmr-43e22610.md)
 * 2019-07-28 [Греческий миллиардер запускает конопли-Backed токен и посвященный обмена](https://github.com/theyapapa/cryptonews/blob/ru/greek-billionaire-launches-hemp-backed-token-and-dedicated-exchange-ad41f579.md)
 * 2019-07-28 [Биткоин падает ниже $9,600, так как большинство альткоинов видят крупные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-falls-under-9-600-as-most-altcoins-see-major-losses-138efa38.md)
 * 2019-07-28 [Является ли сша экологической налоговой политики Hindering солнечной энергии для топлива цифровых технологий?](https://github.com/theyapapa/cryptonews/blob/ru/is-us-environmental-tax-policy-hindering-solar-power-to-fuel-digital-technologies-1a61b901.md)
