@@ -1,3 +1,4 @@
+* 2019-07-29 [미국 캐피탈 글로벌, 토큰화된 암호화 기금으로 1,000만 달러 제공](https://github.com/theyapapa/cryptonews/blob/ko/us-capital-global-offers-10-million-in-a-tokenized-crypto-fund-302df18e.md)
 * 2019-07-29 [' Chems_USA' 비트 코인 사용 다크 웹 오피오이드 음모에 유죄를 인정](https://github.com/theyapapa/cryptonews/blob/ko/chems-usa-pleads-guilty-to-bitcoin-enabled-dark-web-opioid-conspiracy-bef67749.md)
 * 2019-07-29 [스위스 암호화 금융 앱은 국가 적으로 인정 AML 라이센스를 얻는다](https://github.com/theyapapa/cryptonews/blob/ko/swiss-crypto-finance-app-gains-nationally-recognized-aml-license-b26e9d19.md)
 * 2019-07-29 [오스트리아 국영 인쇄소가 암호화폐 콜드 월렛을 만들었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/austrian-state-printing-house-has-made-a-cryptocurrency-cold-wallet-4396b7f2.md)
