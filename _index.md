@@ -1,3 +1,4 @@
+* 2019-07-29 ['Chems_USA' se declara culpable de la conspiración de opioides dark Web habilitado para Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/chems-usa-pleads-guilty-to-bitcoin-enabled-dark-web-opioid-conspiracy-bef67749.md)
 * 2019-07-29 [La aplicación Swiss Crypto Finance obtiene una licencia AML reconocida a nivel nacional](https://github.com/theyapapa/cryptonews/blob/es/swiss-crypto-finance-app-gains-nationally-recognized-aml-license-b26e9d19.md)
 * 2019-07-29 [La imprenta estatal austriaca ha hecho una billetera fría criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/austrian-state-printing-house-has-made-a-cryptocurrency-cold-wallet-4396b7f2.md)
 * 2019-07-29 [Mercados criptográficos Ver fluctuaciones leves, BTC tiene $9,500](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mild-fluctuations-btc-holds-9-500-5ad0507d.md)
