@@ -1,3 +1,4 @@
+* 2019-07-29 [스위스 암호화 금융 앱은 국가 적으로 인정 AML 라이센스를 얻는다](https://github.com/theyapapa/cryptonews/blob/ko/swiss-crypto-finance-app-gains-nationally-recognized-aml-license-b26e9d19.md)
 * 2019-07-29 [오스트리아 국영 인쇄소가 암호화폐 콜드 월렛을 만들었습니다.](https://github.com/theyapapa/cryptonews/blob/ko/austrian-state-printing-house-has-made-a-cryptocurrency-cold-wallet-4396b7f2.md)
 * 2019-07-29 [암호화 시장은 온화한 변동을 참조, BTC보유 $9,500](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mild-fluctuations-btc-holds-9-500-5ad0507d.md)
 * 2019-07-29 [리플에서 공개 편지는 공정한 암호화 규제에 대한 미국 정부의 요청](https://github.com/theyapapa/cryptonews/blob/ko/open-letter-from-ripple-asks-us-govt-for-fair-crypto-regulation-4e47627a.md)
