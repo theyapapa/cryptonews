@@ -1,3 +1,4 @@
+* 2019-07-29 [US Capital Global предлагает $10 млн в токенизированном криптофонде](https://github.com/theyapapa/cryptonews/blob/ru/us-capital-global-offers-10-million-in-a-tokenized-crypto-fund-302df18e.md)
 * 2019-07-29 ['Chems'США' Признает себя виновным в Bitcoin-enabled Dark Web Опиоидный заговор](https://github.com/theyapapa/cryptonews/blob/ru/chems-usa-pleads-guilty-to-bitcoin-enabled-dark-web-opioid-conspiracy-bef67749.md)
 * 2019-07-29 [Швейцарское crypto Finance App получает национально признанную лицензию AML](https://github.com/theyapapa/cryptonews/blob/ru/swiss-crypto-finance-app-gains-nationally-recognized-aml-license-b26e9d19.md)
 * 2019-07-29 [Австрийская государственная типография сделала криптовалютный холодный кошелек](https://github.com/theyapapa/cryptonews/blob/ru/austrian-state-printing-house-has-made-a-cryptocurrency-cold-wallet-4396b7f2.md)
