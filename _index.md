@@ -1,3 +1,4 @@
+* 2019-07-29 [Carta abierta de Ripple pide al gobierno de EE. UU. una regulación criptográfica justa](https://github.com/theyapapa/cryptonews/blob/es/open-letter-from-ripple-asks-us-govt-for-fair-crypto-regulation-4e47627a.md)
 * 2019-07-28 [¿Es Bitcoin una tienda de valor? Expertos en BTC como digital gold](https://github.com/theyapapa/cryptonews/blob/es/is-bitcoin-a-store-of-value-experts-on-btc-as-digital-gold-63ec0e59.md)
 * 2019-07-28 [Hodler's Digest, del 22 al 28 de julio: Libra Doubts, Bitcoin Slumps, McAfee Behind Bars](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-july-2228-libra-doubts-bitcoin-slumps-mcafee-behind-bars-cda406e2.md)
 * 2019-07-28 [3 razones por las que los analistas son alcistas en Bitcoin a pesar de 33% corrección de precios](https://github.com/theyapapa/cryptonews/blob/es/3-reasons-analysts-are-bullish-on-bitcoin-despite-33-price-correction-a0583f27.md)
