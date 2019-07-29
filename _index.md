@@ -1,3 +1,4 @@
+* 2019-07-29 [Mercados criptográficos Ver fluctuaciones leves, BTC tiene $9,500](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-mild-fluctuations-btc-holds-9-500-5ad0507d.md)
 * 2019-07-29 [Carta abierta de Ripple pide al gobierno de EE. UU. una regulación criptográfica justa](https://github.com/theyapapa/cryptonews/blob/es/open-letter-from-ripple-asks-us-govt-for-fair-crypto-regulation-4e47627a.md)
 * 2019-07-28 [¿Es Bitcoin una tienda de valor? Expertos en BTC como digital gold](https://github.com/theyapapa/cryptonews/blob/es/is-bitcoin-a-store-of-value-experts-on-btc-as-digital-gold-63ec0e59.md)
 * 2019-07-28 [Hodler's Digest, del 22 al 28 de julio: Libra Doubts, Bitcoin Slumps, McAfee Behind Bars](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-july-2228-libra-doubts-bitcoin-slumps-mcafee-behind-bars-cda406e2.md)
