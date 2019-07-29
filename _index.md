@@ -1,3 +1,4 @@
+* 2019-07-29 [Крипто Рынки Увидеть Мягкие колебания, BTC держит $ 9500](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-mild-fluctuations-btc-holds-9-500-5ad0507d.md)
 * 2019-07-29 [Открытое письмо от Ripple просит правительство США не для справедливого крипторегулирования](https://github.com/theyapapa/cryptonews/blob/ru/open-letter-from-ripple-asks-us-govt-for-fair-crypto-regulation-4e47627a.md)
 * 2019-07-28 [Является ли Биткойн ценным магазином? Эксперты по BTC как цифровое золото](https://github.com/theyapapa/cryptonews/blob/ru/is-bitcoin-a-store-of-value-experts-on-btc-as-digital-gold-63ec0e59.md)
 * 2019-07-28 [Hodler's Digest, 22-28 июля: Сомнения в весах, биткоин-спады, McAfee За барами](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-july-2228-libra-doubts-bitcoin-slumps-mcafee-behind-bars-cda406e2.md)
