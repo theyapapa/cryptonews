@@ -1,3 +1,4 @@
+* 2019-07-28 [Является ли Биткойн ценным магазином? Эксперты по BTC как цифровое золото](https://github.com/theyapapa/cryptonews/blob/ru/is-bitcoin-a-store-of-value-experts-on-btc-as-digital-gold-63ec0e59.md)
 * 2019-07-28 [Hodler's Digest, 22-28 июля: Сомнения в весах, биткоин-спады, McAfee За барами](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-july-2228-libra-doubts-bitcoin-slumps-mcafee-behind-bars-cda406e2.md)
 * 2019-07-28 [3 причины Аналитики бычий на Bitcoin Несмотря на 33% Коррекция цен](https://github.com/theyapapa/cryptonews/blob/ru/3-reasons-analysts-are-bullish-on-bitcoin-despite-33-price-correction-a0583f27.md)
 * 2019-07-28 [Токенизация спорта - Как промышленность включает Крипто](https://github.com/theyapapa/cryptonews/blob/ru/tokenizing-sports-how-the-industry-is-incorporating-crypto-beda5f30.md)
