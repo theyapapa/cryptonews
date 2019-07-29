@@ -1,3 +1,4 @@
+* 2019-07-29 [Блокчейн-стартап не в 2,4 миллиона долларов в области государственного финансирования для борьбы с продовольственным рабством](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-startup-nets-24-million-in-public-funding-to-fight-food-slavery-5dd89eed.md)
 * 2019-07-29 [Комиссия по торговле товарными фьючерсами США вновь изыскнет советника из Coinbase](https://github.com/theyapapa/cryptonews/blob/ru/us-commodity-futures-trading-commission-rehires-advisor-from-coinbase-4f685527.md)
 * 2019-07-29 [US Capital Global предлагает $10 млн в токенизированном криптофонде](https://github.com/theyapapa/cryptonews/blob/ru/us-capital-global-offers-10-million-in-a-tokenized-crypto-fund-302df18e.md)
 * 2019-07-29 ['Chems'США' Признает себя виновным в Bitcoin-enabled Dark Web Опиоидный заговор](https://github.com/theyapapa/cryptonews/blob/ru/chems-usa-pleads-guilty-to-bitcoin-enabled-dark-web-opioid-conspiracy-bef67749.md)
