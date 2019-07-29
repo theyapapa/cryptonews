@@ -1,3 +1,4 @@
+* 2019-07-29 [블록 체인 스타트업 넷스 푸드 노예 퇴치를 위한 공공 자금 조달에 240만 달러](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-nets-24-million-in-public-funding-to-fight-food-slavery-5dd89eed.md)
 * 2019-07-29 [미국 상품 선물 거래 위원회, 코인베이스의 고문 재채용](https://github.com/theyapapa/cryptonews/blob/ko/us-commodity-futures-trading-commission-rehires-advisor-from-coinbase-4f685527.md)
 * 2019-07-29 [미국 캐피탈 글로벌, 토큰화된 암호화 기금으로 1,000만 달러 제공](https://github.com/theyapapa/cryptonews/blob/ko/us-capital-global-offers-10-million-in-a-tokenized-crypto-fund-302df18e.md)
 * 2019-07-29 [' Chems_USA' 비트 코인 사용 다크 웹 오피오이드 음모에 유죄를 인정](https://github.com/theyapapa/cryptonews/blob/ko/chems-usa-pleads-guilty-to-bitcoin-enabled-dark-web-opioid-conspiracy-bef67749.md)
