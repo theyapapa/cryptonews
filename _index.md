@@ -1,3 +1,4 @@
+* 2019-07-29 [암호화 시장은 온화한 변동을 참조, BTC보유 $9,500](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-mild-fluctuations-btc-holds-9-500-5ad0507d.md)
 * 2019-07-29 [리플에서 공개 편지는 공정한 암호화 규제에 대한 미국 정부의 요청](https://github.com/theyapapa/cryptonews/blob/ko/open-letter-from-ripple-asks-us-govt-for-fair-crypto-regulation-4e47627a.md)
 * 2019-07-28 [비트코인은 가치의 저장고인가요? 디지털 골드로 BTC에 대한 전문가](https://github.com/theyapapa/cryptonews/blob/ko/is-bitcoin-a-store-of-value-experts-on-btc-as-digital-gold-63ec0e59.md)
 * 2019-07-28 [호들러의 다이제스트, 7 월 22-28: 천칭 자리 의심, 비트 코인 슬럼프, 바 뒤에 맥아피](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-july-2228-libra-doubts-bitcoin-slumps-mcafee-behind-bars-cda406e2.md)
