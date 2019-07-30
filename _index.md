@@ -1,3 +1,4 @@
+* 2019-07-30 [리플, 교토대학과 블록체인 연구 파트너](https://github.com/theyapapa/cryptonews/blob/ko/ripple-partners-with-kyoto-university-university-of-tokyo-for-blockchain-research-2b1f7507.md)
 * 2019-07-30 [오버스톡, 10주마다 디지털 주식 1주당 배당 발표](https://github.com/theyapapa/cryptonews/blob/ko/overstock-announces-dividend-of-one-digital-share-for-every-10-shares-3cf47a19.md)
 * 2019-07-30 [CNBC 호스트는 전체 비트 코인 맥시멈 리스트를 간다 $55K 예측 반후](https://github.com/theyapapa/cryptonews/blob/ko/cnbc-host-goes-full-bitcoin-maximalist-with-55k-forecast-after-halving-72755bcb.md)
 * 2019-07-30 [크라켄은 5 주요 피아트 통화에 대한 새로운 자금 조달 옵션을 출시](https://github.com/theyapapa/cryptonews/blob/ko/kraken-rolls-out-new-funding-options-for-5-major-fiat-currencies-82e4abed.md)
