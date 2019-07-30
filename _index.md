@@ -1,3 +1,4 @@
+* 2019-07-30 [Tracker ofrece una tienda integral para el análisis de mercado de criptofácil](https://github.com/theyapapa/cryptonews/blob/es/tracker-offers-one-stop-shop-for-easy-crypto-market-analysis-74254290.md)
 * 2019-07-29 [Project Manager en Square Crypto enfatiza el enfoque en Bitcoin en Twitter AMA](https://github.com/theyapapa/cryptonews/blob/es/project-manager-at-square-crypto-stresses-focus-on-bitcoin-in-twitter-ama-22c34cce.md)
 * 2019-07-29 [Departamento de Defensa de EE. UU. para experimentar con la seguridad basada en blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-defense-dept-to-experiment-with-blockchain-based-security-6924fe13.md)
 * 2019-07-29 [Jefe del Departamento de Cumplimiento de la SEC para criptomonedas, resigna la ciberseguridad](https://github.com/theyapapa/cryptonews/blob/es/head-of-sec-enforcement-dept-for-cryptocurrency-cyber-security-resigns-4974dd47.md)
