@@ -1,3 +1,4 @@
+* 2019-07-30 [트래커는 쉬운 암호화 시장 분석을위한 원 스톱 상점을 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/tracker-offers-one-stop-shop-for-easy-crypto-market-analysis-74254290.md)
 * 2019-07-29 [스퀘어 크립토에서 프로젝트 매니저는 트위터 AMA에서 비트 코인에 초점을 강조](https://github.com/theyapapa/cryptonews/blob/ko/project-manager-at-square-crypto-stresses-focus-on-bitcoin-in-twitter-ama-22c34cce.md)
 * 2019-07-29 [미국 국방부, 블록체인 기반 보안 실험](https://github.com/theyapapa/cryptonews/blob/ko/us-defense-dept-to-experiment-with-blockchain-based-security-6924fe13.md)
 * 2019-07-29 [암호 화폐에 대한 SEC 집행 부서의 머리, 사이버 보안 사임](https://github.com/theyapapa/cryptonews/blob/ko/head-of-sec-enforcement-dept-for-cryptocurrency-cyber-security-resigns-4974dd47.md)
