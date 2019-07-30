@@ -1,3 +1,4 @@
+* 2019-07-30 [Overstock anuncia el dividendo de una acción digital por cada 10 acciones](https://github.com/theyapapa/cryptonews/blob/es/overstock-announces-dividend-of-one-digital-share-for-every-10-shares-3cf47a19.md)
 * 2019-07-30 [CNBC Host Goes Full Bitcoin Maximalist With $55K Forecast After Halving](https://github.com/theyapapa/cryptonews/blob/es/cnbc-host-goes-full-bitcoin-maximalist-with-55k-forecast-after-halving-72755bcb.md)
 * 2019-07-30 [Kraken lanza nuevas opciones de financiación para 5 monedas principales de Fiat](https://github.com/theyapapa/cryptonews/blob/es/kraken-rolls-out-new-funding-options-for-5-major-fiat-currencies-82e4abed.md)
 * 2019-07-30 [Crypto no es una solución para la inclusión financiera, abogado dice al Senado de EE.UU.](https://github.com/theyapapa/cryptonews/blob/es/crypto-not-a-solution-for-financial-inclusion-lawyer-tells-us-senate-b2a986d9.md)
