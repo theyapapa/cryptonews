@@ -1,3 +1,4 @@
+* 2019-07-30 [CNBC 호스트는 전체 비트 코인 맥시멈 리스트를 간다 $55K 예측 반후](https://github.com/theyapapa/cryptonews/blob/ko/cnbc-host-goes-full-bitcoin-maximalist-with-55k-forecast-after-halving-72755bcb.md)
 * 2019-07-30 [크라켄은 5 주요 피아트 통화에 대한 새로운 자금 조달 옵션을 출시](https://github.com/theyapapa/cryptonews/blob/ko/kraken-rolls-out-new-funding-options-for-5-major-fiat-currencies-82e4abed.md)
 * 2019-07-30 [암호화 금융 포용을위한 솔루션이 아닙니다, 변호사는 미국 상원을 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-not-a-solution-for-financial-inclusion-lawyer-tells-us-senate-b2a986d9.md)
 * 2019-07-30 [트래커는 쉬운 암호화 시장 분석을위한 원 스톱 상점을 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/tracker-offers-one-stop-shop-for-easy-crypto-market-analysis-74254290.md)
