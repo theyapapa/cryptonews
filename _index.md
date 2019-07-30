@@ -1,3 +1,4 @@
+* 2019-07-30 [Kraken lanza nuevas opciones de financiación para 5 monedas principales de Fiat](https://github.com/theyapapa/cryptonews/blob/es/kraken-rolls-out-new-funding-options-for-5-major-fiat-currencies-82e4abed.md)
 * 2019-07-30 [Crypto no es una solución para la inclusión financiera, abogado dice al Senado de EE.UU.](https://github.com/theyapapa/cryptonews/blob/es/crypto-not-a-solution-for-financial-inclusion-lawyer-tells-us-senate-b2a986d9.md)
 * 2019-07-30 [Tracker ofrece una tienda integral para el análisis de mercado de criptofácil](https://github.com/theyapapa/cryptonews/blob/es/tracker-offers-one-stop-shop-for-easy-crypto-market-analysis-74254290.md)
 * 2019-07-29 [Project Manager en Square Crypto enfatiza el enfoque en Bitcoin en Twitter AMA](https://github.com/theyapapa/cryptonews/blob/es/project-manager-at-square-crypto-stresses-focus-on-bitcoin-in-twitter-ama-22c34cce.md)
