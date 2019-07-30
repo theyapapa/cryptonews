@@ -1,3 +1,4 @@
+* 2019-07-29 [Jefe del Departamento de Cumplimiento de la SEC para criptomonedas, resigna la ciberseguridad](https://github.com/theyapapa/cryptonews/blob/es/head-of-sec-enforcement-dept-for-cryptocurrency-cyber-security-resigns-4974dd47.md)
 * 2019-07-29 [Blockchain Startup Nets $2.4 millones en fondos públicos para combatir la esclavitud alimentaria](https://github.com/theyapapa/cryptonews/blob/es/blockchain-startup-nets-24-million-in-public-funding-to-fight-food-slavery-5dd89eed.md)
 * 2019-07-29 [La Comisión de Comercio de Futuros de Productos Básicos de EE. UU. recontrata asesor de Coinbase](https://github.com/theyapapa/cryptonews/blob/es/us-commodity-futures-trading-commission-rehires-advisor-from-coinbase-4f685527.md)
 * 2019-07-29 [US Capital Global ofrece $10 millones en un fondo de criptografía tokenizado](https://github.com/theyapapa/cryptonews/blob/es/us-capital-global-offers-10-million-in-a-tokenized-crypto-fund-302df18e.md)
