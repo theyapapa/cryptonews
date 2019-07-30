@@ -1,3 +1,4 @@
+* 2019-07-30 [Tracker предлагает единый магазин для анализа легкого крипторынка](https://github.com/theyapapa/cryptonews/blob/ru/tracker-offers-one-stop-shop-for-easy-crypto-market-analysis-74254290.md)
 * 2019-07-29 [Менеджер проекта на Square Crypto подчеркивает фокус на Bitcoin в Twitter AMA](https://github.com/theyapapa/cryptonews/blob/ru/project-manager-at-square-crypto-stresses-focus-on-bitcoin-in-twitter-ama-22c34cce.md)
 * 2019-07-29 [Оборонное депо США поэкспериментирует с безопасностью на основе блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/us-defense-dept-to-experiment-with-blockchain-based-security-6924fe13.md)
 * 2019-07-29 [Глава отдела SEC по защите прав на криптовалюту, кибербезопасности уходит в отставку](https://github.com/theyapapa/cryptonews/blob/ru/head-of-sec-enforcement-dept-for-cryptocurrency-cyber-security-resigns-4974dd47.md)
