@@ -1,3 +1,4 @@
+* 2019-07-31 [싱가포르의 레귤레이터는 새로운 사기 비트 코인 투자 계획의 경고](https://github.com/theyapapa/cryptonews/blob/ko/singapores-regulator-warns-of-new-scam-bitcoin-investment-scheme-5fa50f5c.md)
 * 2019-07-31 [암호화 시장 녹색의 두 번째 날을 참조, 위의 비트 코인 $9,700](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-second-day-of-green-bitcoin-above-9-700-f31be73f.md)
 * 2019-07-31 [미국에서 기업을 유지하는 데 필요한 암호 화폐 규제, 서클 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-regulation-necessary-to-keep-firms-in-us-says-circle-ceo-b3ca6d06.md)
 * 2019-07-30 [코인베이스 발표 후 테조스 랠리, 주요 토큰이 약간 상승](https://github.com/theyapapa/cryptonews/blob/ko/tezos-rallies-following-coinbase-announcement-major-tokens-up-slightly-9d48eae3.md)
