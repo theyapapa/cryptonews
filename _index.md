@@ -1,3 +1,4 @@
+* 2019-07-31 [Regulación de criptomonedas necesaria para mantener a las empresas en EE. UU., dice CEO de Circle](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-regulation-necessary-to-keep-firms-in-us-says-circle-ceo-b3ca6d06.md)
 * 2019-07-30 [Tezos Rallies Tras el anuncio de Coinbase, las principales fichas suben ligeramente](https://github.com/theyapapa/cryptonews/blob/es/tezos-rallies-following-coinbase-announcement-major-tokens-up-slightly-9d48eae3.md)
 * 2019-07-30 [Informe: El vicepresidente de ingeniería de Coinbase, Tim Wagner, se baja](https://github.com/theyapapa/cryptonews/blob/es/report-coinbase-vp-of-engineering-tim-wagner-steps-down-1628476b.md)
 * 2019-07-30 [Coinbase Pro comenzará a apoyar el comercio de tezos en agosto](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-to-begin-supporting-tezos-trading-in-august-b38bb5ed.md)
