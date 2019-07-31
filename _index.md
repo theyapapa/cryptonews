@@ -1,3 +1,4 @@
+* 2019-07-31 [Регулятор Сингапура предупреждает о новой схеме инвестиций в мошенничество Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/singapores-regulator-warns-of-new-scam-bitcoin-investment-scheme-5fa50f5c.md)
 * 2019-07-31 [Крипто Рынки Увидеть второй день зеленый, Bitcoin выше $ 9700](https://github.com/theyapapa/cryptonews/blob/ru/crypto-markets-see-second-day-of-green-bitcoin-above-9-700-f31be73f.md)
 * 2019-07-31 [Криптовалютное регулирование необходимо держать фирмы в США, говорит Круг генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-regulation-necessary-to-keep-firms-in-us-says-circle-ceo-b3ca6d06.md)
 * 2019-07-30 [Tezos митинги После Coinbase Объявление, основные токены немного вверх](https://github.com/theyapapa/cryptonews/blob/ru/tezos-rallies-following-coinbase-announcement-major-tokens-up-slightly-9d48eae3.md)
