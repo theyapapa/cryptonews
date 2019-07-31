@@ -1,3 +1,4 @@
+* 2019-07-31 [El regulador de Singapur advierte del nuevo esquema de inversión Bitcoin estafa](https://github.com/theyapapa/cryptonews/blob/es/singapores-regulator-warns-of-new-scam-bitcoin-investment-scheme-5fa50f5c.md)
 * 2019-07-31 [Mercados criptográficos Ver segundo día de verde, Bitcoin por encima de $9,700](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-second-day-of-green-bitcoin-above-9-700-f31be73f.md)
 * 2019-07-31 [Regulación de criptomonedas necesaria para mantener a las empresas en EE. UU., dice CEO de Circle](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-regulation-necessary-to-keep-firms-in-us-says-circle-ceo-b3ca6d06.md)
 * 2019-07-30 [Tezos Rallies Tras el anuncio de Coinbase, las principales fichas suben ligeramente](https://github.com/theyapapa/cryptonews/blob/es/tezos-rallies-following-coinbase-announcement-major-tokens-up-slightly-9d48eae3.md)
