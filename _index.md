@@ -1,3 +1,4 @@
+* 2019-07-31 [미국에서 기업을 유지하는 데 필요한 암호 화폐 규제, 서클 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-regulation-necessary-to-keep-firms-in-us-says-circle-ceo-b3ca6d06.md)
 * 2019-07-30 [코인베이스 발표 후 테조스 랠리, 주요 토큰이 약간 상승](https://github.com/theyapapa/cryptonews/blob/ko/tezos-rallies-following-coinbase-announcement-major-tokens-up-slightly-9d48eae3.md)
 * 2019-07-30 [보고서: 엔지니어링 팀 바그너의 코인베이스 부사장이 아래로 단계](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-vp-of-engineering-tim-wagner-steps-down-1628476b.md)
 * 2019-07-30 [코인베이스 프로 8 월에 테조스 거래를 지원하기 시작](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-to-begin-supporting-tezos-trading-in-august-b38bb5ed.md)
