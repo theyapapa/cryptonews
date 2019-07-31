@@ -1,3 +1,4 @@
+* 2019-07-30 [Informe: El vicepresidente de ingeniería de Coinbase, Tim Wagner, se baja](https://github.com/theyapapa/cryptonews/blob/es/report-coinbase-vp-of-engineering-tim-wagner-steps-down-1628476b.md)
 * 2019-07-30 [Coinbase Pro comenzará a apoyar el comercio de tezos en agosto](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-to-begin-supporting-tezos-trading-in-august-b38bb5ed.md)
 * 2019-07-30 [Ripple se asocia con la Universidad de Kioto, Universidad de Tokio para la investigación de blockchain](https://github.com/theyapapa/cryptonews/blob/es/ripple-partners-with-kyoto-university-university-of-tokyo-for-blockchain-research-2b1f7507.md)
 * 2019-07-30 [Overstock anuncia el dividendo de una acción digital por cada 10 acciones](https://github.com/theyapapa/cryptonews/blob/es/overstock-announces-dividend-of-one-digital-share-for-every-10-shares-3cf47a19.md)
