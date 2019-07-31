@@ -1,3 +1,4 @@
+* 2019-07-30 [코인베이스 발표 후 테조스 랠리, 주요 토큰이 약간 상승](https://github.com/theyapapa/cryptonews/blob/ko/tezos-rallies-following-coinbase-announcement-major-tokens-up-slightly-9d48eae3.md)
 * 2019-07-30 [보고서: 엔지니어링 팀 바그너의 코인베이스 부사장이 아래로 단계](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-vp-of-engineering-tim-wagner-steps-down-1628476b.md)
 * 2019-07-30 [코인베이스 프로 8 월에 테조스 거래를 지원하기 시작](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-to-begin-supporting-tezos-trading-in-august-b38bb5ed.md)
 * 2019-07-30 [리플, 교토대학과 블록체인 연구 파트너](https://github.com/theyapapa/cryptonews/blob/ko/ripple-partners-with-kyoto-university-university-of-tokyo-for-blockchain-research-2b1f7507.md)
