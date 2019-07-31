@@ -1,3 +1,4 @@
+* 2019-07-30 [보고서: 엔지니어링 팀 바그너의 코인베이스 부사장이 아래로 단계](https://github.com/theyapapa/cryptonews/blob/ko/report-coinbase-vp-of-engineering-tim-wagner-steps-down-1628476b.md)
 * 2019-07-30 [코인베이스 프로 8 월에 테조스 거래를 지원하기 시작](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-to-begin-supporting-tezos-trading-in-august-b38bb5ed.md)
 * 2019-07-30 [리플, 교토대학과 블록체인 연구 파트너](https://github.com/theyapapa/cryptonews/blob/ko/ripple-partners-with-kyoto-university-university-of-tokyo-for-blockchain-research-2b1f7507.md)
 * 2019-07-30 [오버스톡, 10주마다 디지털 주식 1주당 배당 발표](https://github.com/theyapapa/cryptonews/blob/ko/overstock-announces-dividend-of-one-digital-share-for-every-10-shares-3cf47a19.md)
