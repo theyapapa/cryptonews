@@ -1,3 +1,4 @@
+* 2019-07-31 [Криптовалютное регулирование необходимо держать фирмы в США, говорит Круг генеральный директор](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-regulation-necessary-to-keep-firms-in-us-says-circle-ceo-b3ca6d06.md)
 * 2019-07-30 [Tezos митинги После Coinbase Объявление, основные токены немного вверх](https://github.com/theyapapa/cryptonews/blob/ru/tezos-rallies-following-coinbase-announcement-major-tokens-up-slightly-9d48eae3.md)
 * 2019-07-30 [Доклад: Coinbase вице-президент по инженерии Тим Вагнер шагает вниз](https://github.com/theyapapa/cryptonews/blob/ru/report-coinbase-vp-of-engineering-tim-wagner-steps-down-1628476b.md)
 * 2019-07-30 [Coinbase Pro начнет поддерживать tezos Trading в августе](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-to-begin-supporting-tezos-trading-in-august-b38bb5ed.md)
