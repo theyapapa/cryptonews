@@ -1,3 +1,4 @@
+* 2019-07-31 [S7 항공은 7 월에 블록 체인 지불 플랫폼을 통해 $ 1M 이상을 처리했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/s7-airlines-processed-over-1m-via-blockchain-payment-platform-in-july-a6b8b369.md)
 * 2019-07-31 [섹스 &amp; 암호화: 코인텔레그래프 다큐멘터리](https://github.com/theyapapa/cryptonews/blob/ko/sex-crypto-cointelegraph-documentary-a0fa7686.md)
 * 2019-07-31 [싱가포르의 레귤레이터는 새로운 사기 비트 코인 투자 계획의 경고](https://github.com/theyapapa/cryptonews/blob/ko/singapores-regulator-warns-of-new-scam-bitcoin-investment-scheme-5fa50f5c.md)
 * 2019-07-31 [암호화 시장 녹색의 두 번째 날을 참조, 위의 비트 코인 $9,700](https://github.com/theyapapa/cryptonews/blob/ko/crypto-markets-see-second-day-of-green-bitcoin-above-9-700-f31be73f.md)
