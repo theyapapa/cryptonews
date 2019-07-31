@@ -1,3 +1,4 @@
+* 2019-07-31 [El juez despide la demanda por difamación contra Roger Ver por falta de jurisdicción](https://github.com/theyapapa/cryptonews/blob/es/judge-dismisses-libel-suit-against-roger-ver-over-lack-of-jurisdiction-4c73a876.md)
 * 2019-07-31 [Análisis de Precios 31/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-31-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-368c2562.md)
 * 2019-07-31 [S7 Airlines procesada más de $1M a través de blockchain Payment Platform en julio](https://github.com/theyapapa/cryptonews/blob/es/s7-airlines-processed-over-1m-via-blockchain-payment-platform-in-july-a6b8b369.md)
 * 2019-07-31 [Sex & Crypto: Cointelegraph Documental](https://github.com/theyapapa/cryptonews/blob/es/sex-crypto-cointelegraph-documentary-a0fa7686.md)
