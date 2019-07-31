@@ -1,3 +1,4 @@
+* 2019-07-31 [판사는 관할권의 부족을 통해 로저 버에 대한 명예 훼손 소송을 기각](https://github.com/theyapapa/cryptonews/blob/ko/judge-dismisses-libel-suit-against-roger-ver-over-lack-of-jurisdiction-4c73a876.md)
 * 2019-07-31 [가격 분석 31/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-31-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-368c2562.md)
 * 2019-07-31 [S7 항공은 7 월에 블록 체인 지불 플랫폼을 통해 $ 1M 이상을 처리했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/s7-airlines-processed-over-1m-via-blockchain-payment-platform-in-july-a6b8b369.md)
 * 2019-07-31 [섹스 &amp; 암호화: 코인텔레그래프 다큐멘터리](https://github.com/theyapapa/cryptonews/blob/ko/sex-crypto-cointelegraph-documentary-a0fa7686.md)
