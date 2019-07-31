@@ -1,3 +1,4 @@
+* 2019-07-31 [S7 Airlines procesada más de $1M a través de blockchain Payment Platform en julio](https://github.com/theyapapa/cryptonews/blob/es/s7-airlines-processed-over-1m-via-blockchain-payment-platform-in-july-a6b8b369.md)
 * 2019-07-31 [Sex & Crypto: Cointelegraph Documental](https://github.com/theyapapa/cryptonews/blob/es/sex-crypto-cointelegraph-documentary-a0fa7686.md)
 * 2019-07-31 [El regulador de Singapur advierte del nuevo esquema de inversión Bitcoin estafa](https://github.com/theyapapa/cryptonews/blob/es/singapores-regulator-warns-of-new-scam-bitcoin-investment-scheme-5fa50f5c.md)
 * 2019-07-31 [Mercados criptográficos Ver segundo día de verde, Bitcoin por encima de $9,700](https://github.com/theyapapa/cryptonews/blob/es/crypto-markets-see-second-day-of-green-bitcoin-above-9-700-f31be73f.md)
