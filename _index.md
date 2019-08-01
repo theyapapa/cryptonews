@@ -1,3 +1,4 @@
+* 2019-08-01 [Informe: Celsius es el prestamista criptográfico de más rápido crecimiento — $2.2 Miles de millones en préstamos](https://github.com/theyapapa/cryptonews/blob/es/report-celsius-is-the-fastest-growing-crypto-lender-22b-in-loans-a22fd831.md)
 * 2019-08-01 [Andorra Telecom firma una nueva alianza para ejecutar el nodo Blockchain](https://github.com/theyapapa/cryptonews/blob/es/andorra-telecom-inks-new-partnership-to-run-blockchain-node-08ea6fcd.md)
 * 2019-08-01 [IRS Brasil requiere reportar todas las transacciones bitcoin a partir de hoy](https://github.com/theyapapa/cryptonews/blob/es/irs-brazil-requires-reporting-all-bitcoin-transactions-starting-today-f0807dde.md)
 * 2019-08-01 [Ex-Goldman Sachs Exec Confident 'Nothing Else Has Payoff' como Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/ex-goldman-sachs-exec-confident-nothing-else-has-payoff-as-bitcoin-8b6a8a29.md)
