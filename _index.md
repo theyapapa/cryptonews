@@ -1,3 +1,4 @@
+* 2019-08-01 [IRS Brasil requiere reportar todas las transacciones bitcoin a partir de hoy](https://github.com/theyapapa/cryptonews/blob/es/irs-brazil-requires-reporting-all-bitcoin-transactions-starting-today-f0807dde.md)
 * 2019-08-01 [Ex-Goldman Sachs Exec Confident 'Nothing Else Has Payoff' como Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/ex-goldman-sachs-exec-confident-nothing-else-has-payoff-as-bitcoin-8b6a8a29.md)
 * 2019-08-01 [Malta Business Registry adopt a Blockchain, Gov't Official Confirms](https://github.com/theyapapa/cryptonews/blob/es/malta-business-registry-will-adopt-blockchain-govt-official-confirms-85139538.md)
 * 2019-08-01 [Comité de la UE: Blockchain no debe ser monopolizado por una 'élite digital'](https://github.com/theyapapa/cryptonews/blob/es/eu-committee-blockchain-must-not-be-monopolized-by-a-digital-elite-b047a32f.md)
