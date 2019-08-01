@@ -1,3 +1,4 @@
+* 2019-08-01 [Comité de la UE: Blockchain no debe ser monopolizado por una 'élite digital'](https://github.com/theyapapa/cryptonews/blob/es/eu-committee-blockchain-must-not-be-monopolized-by-a-digital-elite-b047a32f.md)
 * 2019-08-01 [Bitcoin hará que Peter Schiff se patee a sí mismo: Gold Bug Debates Pompliano](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-will-make-peter-schiff-kick-himself-gold-bug-debates-pompliano-b4908348.md)
 * 2019-07-31 [NBA se asocia con la firma detrás de CryptoKitties para Crypto Collectible Game](https://github.com/theyapapa/cryptonews/blob/es/nba-partners-with-firm-behind-cryptokitties-for-crypto-collectible-game-f8df42e8.md)
 * 2019-07-31 [Tom Lee, cofundador de Fundstrat: Los recortes de tasas de la Reserva Federal de EE. UU. están ayudando a Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/fundstrat-co-founder-tom-lee-us-fed-rate-cuts-are-helping-bitcoin-0ce8ca3a.md)
