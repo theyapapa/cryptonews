@@ -1,3 +1,4 @@
+* 2019-08-01 [안도라 텔레콤, 블록체인 노드 운영을 위한 새로운 파트너십 체결](https://github.com/theyapapa/cryptonews/blob/ko/andorra-telecom-inks-new-partnership-to-run-blockchain-node-08ea6fcd.md)
 * 2019-08-01 [IRS 브라질 오늘부터 모든 비트 코인 거래를보고필요](https://github.com/theyapapa/cryptonews/blob/ko/irs-brazil-requires-reporting-all-bitcoin-transactions-starting-today-f0807dde.md)
 * 2019-08-01 [전 골드만 삭스 임원 자신감 '아무것도 다른 비트 코인으로 보수가 없다'](https://github.com/theyapapa/cryptonews/blob/ko/ex-goldman-sachs-exec-confident-nothing-else-has-payoff-as-bitcoin-8b6a8a29.md)
 * 2019-08-01 [몰타 비즈니스 레지스트리 블록 체인을 채택 할 예정이다, Gov't 공식 확인](https://github.com/theyapapa/cryptonews/blob/ko/malta-business-registry-will-adopt-blockchain-govt-official-confirms-85139538.md)
