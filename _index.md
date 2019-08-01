@@ -1,3 +1,4 @@
+* 2019-08-01 [Экс-Goldman Sachs Exec Уверенный "Ничего другого не имеет выигрыша", как Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/ex-goldman-sachs-exec-confident-nothing-else-has-payoff-as-bitcoin-8b6a8a29.md)
 * 2019-08-01 [Мальта Бизнес реестр примет Blockchain, Gov't Официальный подтверждает](https://github.com/theyapapa/cryptonews/blob/ru/malta-business-registry-will-adopt-blockchain-govt-official-confirms-85139538.md)
 * 2019-08-01 [Комитет ЕС: Блокчейн не должен быть монополизирован «цифровой элитой»](https://github.com/theyapapa/cryptonews/blob/ru/eu-committee-blockchain-must-not-be-monopolized-by-a-digital-elite-b047a32f.md)
 * 2019-08-01 [Биткоин сделает Питер Шифф Удар себя: Золотоошибка Дебаты Pompliano](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-will-make-peter-schiff-kick-himself-gold-bug-debates-pompliano-b4908348.md)
