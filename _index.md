@@ -1,3 +1,4 @@
+* 2019-07-31 [NBA se asocia con la firma detrás de CryptoKitties para Crypto Collectible Game](https://github.com/theyapapa/cryptonews/blob/es/nba-partners-with-firm-behind-cryptokitties-for-crypto-collectible-game-f8df42e8.md)
 * 2019-07-31 [Tom Lee, cofundador de Fundstrat: Los recortes de tasas de la Reserva Federal de EE. UU. están ayudando a Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/fundstrat-co-founder-tom-lee-us-fed-rate-cuts-are-helping-bitcoin-0ce8ca3a.md)
 * 2019-07-31 [El juez despide la demanda por difamación contra Roger Ver por falta de jurisdicción](https://github.com/theyapapa/cryptonews/blob/es/judge-dismisses-libel-suit-against-roger-ver-over-lack-of-jurisdiction-4c73a876.md)
 * 2019-07-31 [Análisis de Precios 31/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-31-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-368c2562.md)
