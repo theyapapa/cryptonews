@@ -1,3 +1,4 @@
+* 2019-08-01 [EU 위원회: 블록체인은 '디지털 엘리트'에 의해 독점되어서는 안됩니다.](https://github.com/theyapapa/cryptonews/blob/ko/eu-committee-blockchain-must-not-be-monopolized-by-a-digital-elite-b047a32f.md)
 * 2019-08-01 [비트 코인은 피터 쉬프 킥 자신을 만들 것입니다 : 골드 버그 토론 폼플리아노](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-will-make-peter-schiff-kick-himself-gold-bug-debates-pompliano-b4908348.md)
 * 2019-07-31 [NBA 는 암호화 수집 게임에 대한 암호 키티 뒤에 회사와 파트너](https://github.com/theyapapa/cryptonews/blob/ko/nba-partners-with-firm-behind-cryptokitties-for-crypto-collectible-game-f8df42e8.md)
 * 2019-07-31 [Fundstrat 공동 설립자 톰 리: 미국 연준 금리 인하 비트 코인을 돕고있다](https://github.com/theyapapa/cryptonews/blob/ko/fundstrat-co-founder-tom-lee-us-fed-rate-cuts-are-helping-bitcoin-0ce8ca3a.md)
