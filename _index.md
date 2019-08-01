@@ -1,3 +1,4 @@
+* 2019-08-01 [캐나다 대륙 횡단 철도, 교통 얼라이언스에서 블록체인 에 합류](https://github.com/theyapapa/cryptonews/blob/ko/canadian-transcontinental-railway-joins-blockchain-in-transport-alliance-3b6a1668.md)
 * 2019-08-01 [보고서: 섭씨는 가장 빠르게 성장하는 암호화 대출입니다 - 대출 $ 2.2B](https://github.com/theyapapa/cryptonews/blob/ko/report-celsius-is-the-fastest-growing-crypto-lender-22b-in-loans-a22fd831.md)
 * 2019-08-01 [안도라 텔레콤, 블록체인 노드 운영을 위한 새로운 파트너십 체결](https://github.com/theyapapa/cryptonews/blob/ko/andorra-telecom-inks-new-partnership-to-run-blockchain-node-08ea6fcd.md)
 * 2019-08-01 [IRS 브라질 오늘부터 모든 비트 코인 거래를보고필요](https://github.com/theyapapa/cryptonews/blob/ko/irs-brazil-requires-reporting-all-bitcoin-transactions-starting-today-f0807dde.md)
