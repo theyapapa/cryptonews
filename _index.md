@@ -1,3 +1,4 @@
+* 2019-08-01 [Андорра Телеком чернила новое партнерство для запуска blockchain узла](https://github.com/theyapapa/cryptonews/blob/ru/andorra-telecom-inks-new-partnership-to-run-blockchain-node-08ea6fcd.md)
 * 2019-08-01 [IRS Бразилия требует отчетности все Bitcoin сделок, начиная с сегодняшнего дня](https://github.com/theyapapa/cryptonews/blob/ru/irs-brazil-requires-reporting-all-bitcoin-transactions-starting-today-f0807dde.md)
 * 2019-08-01 [Экс-Goldman Sachs Exec Уверенный "Ничего другого не имеет выигрыша", как Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/ex-goldman-sachs-exec-confident-nothing-else-has-payoff-as-bitcoin-8b6a8a29.md)
 * 2019-08-01 [Мальта Бизнес реестр примет Blockchain, Gov't Официальный подтверждает](https://github.com/theyapapa/cryptonews/blob/ru/malta-business-registry-will-adopt-blockchain-govt-official-confirms-85139538.md)
