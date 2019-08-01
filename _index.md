@@ -1,3 +1,4 @@
+* 2019-07-31 [NBA 는 암호화 수집 게임에 대한 암호 키티 뒤에 회사와 파트너](https://github.com/theyapapa/cryptonews/blob/ko/nba-partners-with-firm-behind-cryptokitties-for-crypto-collectible-game-f8df42e8.md)
 * 2019-07-31 [Fundstrat 공동 설립자 톰 리: 미국 연준 금리 인하 비트 코인을 돕고있다](https://github.com/theyapapa/cryptonews/blob/ko/fundstrat-co-founder-tom-lee-us-fed-rate-cuts-are-helping-bitcoin-0ce8ca3a.md)
 * 2019-07-31 [판사는 관할권의 부족을 통해 로저 버에 대한 명예 훼손 소송을 기각](https://github.com/theyapapa/cryptonews/blob/ko/judge-dismisses-libel-suit-against-roger-ver-over-lack-of-jurisdiction-4c73a876.md)
 * 2019-07-31 [가격 분석 31/07: BTC, ETH, XRP, LTC, BCH, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-31-07-btc-eth-xrp-ltc-bch-bnb-eos-bsv-xlm-ada-368c2562.md)
