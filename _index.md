@@ -1,3 +1,4 @@
+* 2019-08-01 [Malta Business Registry adopt a Blockchain, Gov't Official Confirms](https://github.com/theyapapa/cryptonews/blob/es/malta-business-registry-will-adopt-blockchain-govt-official-confirms-85139538.md)
 * 2019-08-01 [Comité de la UE: Blockchain no debe ser monopolizado por una 'élite digital'](https://github.com/theyapapa/cryptonews/blob/es/eu-committee-blockchain-must-not-be-monopolized-by-a-digital-elite-b047a32f.md)
 * 2019-08-01 [Bitcoin hará que Peter Schiff se patee a sí mismo: Gold Bug Debates Pompliano](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-will-make-peter-schiff-kick-himself-gold-bug-debates-pompliano-b4908348.md)
 * 2019-07-31 [NBA se asocia con la firma detrás de CryptoKitties para Crypto Collectible Game](https://github.com/theyapapa/cryptonews/blob/es/nba-partners-with-firm-behind-cryptokitties-for-crypto-collectible-game-f8df42e8.md)
