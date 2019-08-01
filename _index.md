@@ -1,3 +1,4 @@
+* 2019-08-01 [Мальта Бизнес реестр примет Blockchain, Gov't Официальный подтверждает](https://github.com/theyapapa/cryptonews/blob/ru/malta-business-registry-will-adopt-blockchain-govt-official-confirms-85139538.md)
 * 2019-08-01 [Комитет ЕС: Блокчейн не должен быть монополизирован «цифровой элитой»](https://github.com/theyapapa/cryptonews/blob/ru/eu-committee-blockchain-must-not-be-monopolized-by-a-digital-elite-b047a32f.md)
 * 2019-08-01 [Биткоин сделает Питер Шифф Удар себя: Золотоошибка Дебаты Pompliano](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-will-make-peter-schiff-kick-himself-gold-bug-debates-pompliano-b4908348.md)
 * 2019-07-31 [НБА Партнеры с фирмой за CryptoKitties для Crypto коллекционные игры](https://github.com/theyapapa/cryptonews/blob/ru/nba-partners-with-firm-behind-cryptokitties-for-crypto-collectible-game-f8df42e8.md)
