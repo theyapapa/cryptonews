@@ -1,3 +1,4 @@
+* 2019-08-02 [Исламский эксперт по финансам: «Халяльная монета» - вопрос времени и осведомленности](https://github.com/theyapapa/cryptonews/blob/ru/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
 * 2019-08-02 [FB Весы будет "Дисциплина" Gov'ts со слабой экономикой: Экс-центральный банкир](https://github.com/theyapapa/cryptonews/blob/ru/fb-libra-would-discipline-govts-with-weak-economies-ex-central-banker-817bfe5f.md)
 * 2019-08-02 [Walmart пытается запатентовать свои собственные "Весы", как цифровая валюта](https://github.com/theyapapa/cryptonews/blob/ru/walmart-is-trying-to-patent-its-own-libra-like-digital-currency-a5bb82ec.md)
 * 2019-08-02 [Какой Медвежий рынок? Цена Bitcoin выросла до $10,500 Глядя на прорыв](https://github.com/theyapapa/cryptonews/blob/ru/what-bear-market-bitcoin-price-rises-to-10-500-eyeing-a-breakout-0b9899b0.md)
