@@ -1,3 +1,4 @@
+* 2019-08-02 [이슬람 금융 전문가: '할랄 동전' 시간과 인식의 문제](https://github.com/theyapapa/cryptonews/blob/ko/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
 * 2019-08-02 [FB Libra 것 '징계' 약한 경제와 Gov'ts: 전 중앙 은행](https://github.com/theyapapa/cryptonews/blob/ko/fb-libra-would-discipline-govts-with-weak-economies-ex-central-banker-817bfe5f.md)
 * 2019-08-02 [월마트는 디지털 통화처럼 자신의 'Libra'를 특허하려고합니다](https://github.com/theyapapa/cryptonews/blob/ko/walmart-is-trying-to-patent-its-own-libra-like-digital-currency-a5bb82ec.md)
 * 2019-08-02 [어떤 곰 시장? 비트 코인 가격으로 상승 $10,500 브레이크 아웃을 보고](https://github.com/theyapapa/cryptonews/blob/ko/what-bear-market-bitcoin-price-rises-to-10-500-eyeing-a-breakout-0b9899b0.md)
