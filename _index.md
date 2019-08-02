@@ -1,3 +1,4 @@
+* 2019-08-02 [Walmart пытается запатентовать свои собственные "Весы", как цифровая валюта](https://github.com/theyapapa/cryptonews/blob/ru/walmart-is-trying-to-patent-its-own-libra-like-digital-currency-a5bb82ec.md)
 * 2019-08-02 [Какой Медвежий рынок? Цена Bitcoin выросла до $10,500 Глядя на прорыв](https://github.com/theyapapa/cryptonews/blob/ru/what-bear-market-bitcoin-price-rises-to-10-500-eyeing-a-breakout-0b9899b0.md)
 * 2019-08-01 [R3 удваивает размер лондонского офиса в ожидании растущего филиала](https://github.com/theyapapa/cryptonews/blob/ru/r3-doubles-london-office-size-in-anticipation-of-growing-branch-10068d0a.md)
 * 2019-08-01 [Blockchain Браузер Храбрый запускает токен Чаевые службы для пользователей Twitter](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-browser-brave-launches-token-tipping-service-for-twitter-users-82bd2c97.md)
