@@ -1,3 +1,4 @@
+* 2019-08-01 [R3 duplica el tamaño de la oficina de Londres en previsión de la rama en crecimiento](https://github.com/theyapapa/cryptonews/blob/es/r3-doubles-london-office-size-in-anticipation-of-growing-branch-10068d0a.md)
 * 2019-08-01 [Blockchain Browser Brave lanza el servicio de propinas de tokens para usuarios de Twitter](https://github.com/theyapapa/cryptonews/blob/es/blockchain-browser-brave-launches-token-tipping-service-for-twitter-users-82bd2c97.md)
 * 2019-08-01 [Square duplica los ingresos de Bitcoin, generando $125 millones a través de la aplicación de efectivo en el segundo trimestre](https://github.com/theyapapa/cryptonews/blob/es/square-doubles-bitcoin-revenue-generating-125-million-via-cash-app-in-q2-8264208a.md)
 * 2019-08-01 [Canadian Transcontinental Railway se une a Blockchain en Transport Alliance](https://github.com/theyapapa/cryptonews/blob/es/canadian-transcontinental-railway-joins-blockchain-in-transport-alliance-3b6a1668.md)
