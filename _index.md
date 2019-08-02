@@ -1,3 +1,4 @@
+* 2019-08-02 [그레이 스케일은 가장 큰 일일 암호 전송 중 하나를 수행하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-to-conduct-one-of-largest-single-day-crypto-transfers-77820fd8.md)
 * 2019-08-02 [레스터 시티 FC, 암호화 투자 플랫폼과의 파트너십 갱신](https://github.com/theyapapa/cryptonews/blob/ko/leicester-city-fc-renews-partnership-with-crypto-investment-platform-96d58b5f.md)
 * 2019-08-02 [이슬람 금융 전문가: '할랄 동전' 시간과 인식의 문제](https://github.com/theyapapa/cryptonews/blob/ko/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
 * 2019-08-02 [FB Libra 것 '징계' 약한 경제와 Gov'ts: 전 중앙 은행](https://github.com/theyapapa/cryptonews/blob/ko/fb-libra-would-discipline-govts-with-weak-economies-ex-central-banker-817bfe5f.md)
