@@ -1,3 +1,4 @@
+* 2019-08-02 [Escala de grises para realizar una de las transferencias criptográficas de un solo día más grandes](https://github.com/theyapapa/cryptonews/blob/es/grayscale-to-conduct-one-of-largest-single-day-crypto-transfers-77820fd8.md)
 * 2019-08-02 [Leicester City FC renueva la asociación con Crypto Investment Platform](https://github.com/theyapapa/cryptonews/blob/es/leicester-city-fc-renews-partnership-with-crypto-investment-platform-96d58b5f.md)
 * 2019-08-02 [Experto en finanzas islámicas: 'Halal Coin' una cuestión de tiempo y conciencia](https://github.com/theyapapa/cryptonews/blob/es/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
 * 2019-08-02 [FB Libra 'disciplina' Gov'ts With Weak Economies: Ex Central Banker](https://github.com/theyapapa/cryptonews/blob/es/fb-libra-would-discipline-govts-with-weak-economies-ex-central-banker-817bfe5f.md)
