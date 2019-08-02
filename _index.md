@@ -1,3 +1,4 @@
+* 2019-08-02 [Leicester City FC renueva la asociación con Crypto Investment Platform](https://github.com/theyapapa/cryptonews/blob/es/leicester-city-fc-renews-partnership-with-crypto-investment-platform-96d58b5f.md)
 * 2019-08-02 [Experto en finanzas islámicas: 'Halal Coin' una cuestión de tiempo y conciencia](https://github.com/theyapapa/cryptonews/blob/es/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
 * 2019-08-02 [FB Libra 'disciplina' Gov'ts With Weak Economies: Ex Central Banker](https://github.com/theyapapa/cryptonews/blob/es/fb-libra-would-discipline-govts-with-weak-economies-ex-central-banker-817bfe5f.md)
 * 2019-08-02 [Walmart está tratando de patentar su propia 'libra' como moneda digital](https://github.com/theyapapa/cryptonews/blob/es/walmart-is-trying-to-patent-its-own-libra-like-digital-currency-a5bb82ec.md)
