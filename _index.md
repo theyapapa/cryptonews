@@ -1,3 +1,4 @@
+* 2019-08-02 [레스터 시티 FC, 암호화 투자 플랫폼과의 파트너십 갱신](https://github.com/theyapapa/cryptonews/blob/ko/leicester-city-fc-renews-partnership-with-crypto-investment-platform-96d58b5f.md)
 * 2019-08-02 [이슬람 금융 전문가: '할랄 동전' 시간과 인식의 문제](https://github.com/theyapapa/cryptonews/blob/ko/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
 * 2019-08-02 [FB Libra 것 '징계' 약한 경제와 Gov'ts: 전 중앙 은행](https://github.com/theyapapa/cryptonews/blob/ko/fb-libra-would-discipline-govts-with-weak-economies-ex-central-banker-817bfe5f.md)
 * 2019-08-02 [월마트는 디지털 통화처럼 자신의 'Libra'를 특허하려고합니다](https://github.com/theyapapa/cryptonews/blob/ko/walmart-is-trying-to-patent-its-own-libra-like-digital-currency-a5bb82ec.md)
