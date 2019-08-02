@@ -1,3 +1,4 @@
+* 2019-08-01 [블록 체인 브라우저 용감한 트위터 사용자를위한 토큰 팁 서비스를 출시](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-browser-brave-launches-token-tipping-service-for-twitter-users-82bd2c97.md)
 * 2019-08-01 [스퀘어는 2 분기에 현금 앱을 통해 1억 2,500만 달러를 창출하여 비트코인 수익을 두 배로 늘렸습니다.](https://github.com/theyapapa/cryptonews/blob/ko/square-doubles-bitcoin-revenue-generating-125-million-via-cash-app-in-q2-8264208a.md)
 * 2019-08-01 [캐나다 대륙 횡단 철도, 교통 얼라이언스에서 블록체인 에 합류](https://github.com/theyapapa/cryptonews/blob/ko/canadian-transcontinental-railway-joins-blockchain-in-transport-alliance-3b6a1668.md)
 * 2019-08-01 [보고서: 섭씨는 가장 빠르게 성장하는 암호화 대출입니다 - 대출 $ 2.2B](https://github.com/theyapapa/cryptonews/blob/ko/report-celsius-is-the-fastest-growing-crypto-lender-22b-in-loans-a22fd831.md)
