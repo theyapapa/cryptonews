@@ -1,3 +1,4 @@
+* 2019-08-02 [타원 은 암호화 돈 세탁을 식별하기 위해 데이터 세트를 출시](https://github.com/theyapapa/cryptonews/blob/ko/elliptic-launches-worlds-largest-data-set-to-identify-crypto-money-laundering-f4fab825.md)
 * 2019-08-02 [스티브 배넌: '글로벌 포퓰리즘 반란'의 일부가 될 암호화](https://github.com/theyapapa/cryptonews/blob/ko/steve-bannon-crypto-to-become-part-of-global-populist-revolt-839b346c.md)
 * 2019-08-02 [리플의 규제 전화 뒤에 : '넓은 브러시로 우리를 페인트하지 마십시오'](https://github.com/theyapapa/cryptonews/blob/ko/behind-ripples-regulation-call-do-not-paint-us-with-a-broad-brush-1b86183b.md)
 * 2019-08-02 [그레이 스케일은 가장 큰 일일 암호 전송 중 하나를 수행하기 위해](https://github.com/theyapapa/cryptonews/blob/ko/grayscale-to-conduct-one-of-largest-single-day-crypto-transfers-77820fd8.md)
