@@ -1,3 +1,4 @@
+* 2019-08-02 [Detrás de la llamada de regulación de Ripple: 'No nos pintecon con un pincel ancho'](https://github.com/theyapapa/cryptonews/blob/es/behind-ripples-regulation-call-do-not-paint-us-with-a-broad-brush-1b86183b.md)
 * 2019-08-02 [Escala de grises para realizar una de las transferencias criptográficas de un solo día más grandes](https://github.com/theyapapa/cryptonews/blob/es/grayscale-to-conduct-one-of-largest-single-day-crypto-transfers-77820fd8.md)
 * 2019-08-02 [Leicester City FC renueva la asociación con Crypto Investment Platform](https://github.com/theyapapa/cryptonews/blob/es/leicester-city-fc-renews-partnership-with-crypto-investment-platform-96d58b5f.md)
 * 2019-08-02 [Experto en finanzas islámicas: 'Halal Coin' una cuestión de tiempo y conciencia](https://github.com/theyapapa/cryptonews/blob/es/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
