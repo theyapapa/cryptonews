@@ -1,3 +1,4 @@
+* 2019-08-01 [R3 удваивает размер лондонского офиса в ожидании растущего филиала](https://github.com/theyapapa/cryptonews/blob/ru/r3-doubles-london-office-size-in-anticipation-of-growing-branch-10068d0a.md)
 * 2019-08-01 [Blockchain Браузер Храбрый запускает токен Чаевые службы для пользователей Twitter](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-browser-brave-launches-token-tipping-service-for-twitter-users-82bd2c97.md)
 * 2019-08-01 [Square удваивает Bitcoin Доход, Генерируя $125 миллионов через Cash App в No 2](https://github.com/theyapapa/cryptonews/blob/ru/square-doubles-bitcoin-revenue-generating-125-million-via-cash-app-in-q2-8264208a.md)
 * 2019-08-01 [Канадская трансконтинентальная железная дорога присоединяется к блокчейну в транспортном альянсе](https://github.com/theyapapa/cryptonews/blob/ru/canadian-transcontinental-railway-joins-blockchain-in-transport-alliance-3b6a1668.md)
