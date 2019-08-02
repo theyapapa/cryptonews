@@ -1,3 +1,4 @@
+* 2019-08-02 [Лестер Сити ФК возобновляет партнерство с криптоинвестиционной платформой](https://github.com/theyapapa/cryptonews/blob/ru/leicester-city-fc-renews-partnership-with-crypto-investment-platform-96d58b5f.md)
 * 2019-08-02 [Исламский эксперт по финансам: «Халяльная монета» - вопрос времени и осведомленности](https://github.com/theyapapa/cryptonews/blob/ru/islamic-finance-expert-halal-coin-a-matter-of-time-and-awareness-ef929aae.md)
 * 2019-08-02 [FB Весы будет "Дисциплина" Gov'ts со слабой экономикой: Экс-центральный банкир](https://github.com/theyapapa/cryptonews/blob/ru/fb-libra-would-discipline-govts-with-weak-economies-ex-central-banker-817bfe5f.md)
 * 2019-08-02 [Walmart пытается запатентовать свои собственные "Весы", как цифровая валюта](https://github.com/theyapapa/cryptonews/blob/ru/walmart-is-trying-to-patent-its-own-libra-like-digital-currency-a5bb82ec.md)
