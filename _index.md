@@ -1,3 +1,4 @@
+* 2019-08-02 [Покупка Crypto с apple Card нарушает его соглашение с клиентом](https://github.com/theyapapa/cryptonews/blob/ru/buying-crypto-with-the-apple-card-violates-its-customer-agreement-a4bad0b3.md)
 * 2019-08-02 [Elliptic запускает набор данных для выявления крипто отмывания денег](https://github.com/theyapapa/cryptonews/blob/ru/elliptic-launches-worlds-largest-data-set-to-identify-crypto-money-laundering-f4fab825.md)
 * 2019-08-02 [Стив Бэннон: Crypto стать частью "глобального популистского восстания"](https://github.com/theyapapa/cryptonews/blob/ru/steve-bannon-crypto-to-become-part-of-global-populist-revolt-839b346c.md)
 * 2019-08-02 [За Ripple в регулировании вызова: "Не красьте нас с широкой кистью"](https://github.com/theyapapa/cryptonews/blob/ru/behind-ripples-regulation-call-do-not-paint-us-with-a-broad-brush-1b86183b.md)
