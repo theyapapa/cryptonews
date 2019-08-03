@@ -1,3 +1,4 @@
+* 2019-08-03 [10 proyectos de blockchain que están fuera de este mundo, o pueden cambiarlo](https://github.com/theyapapa/cryptonews/blob/es/10-blockchain-projects-that-are-out-of-this-world-or-may-change-it-22afa971.md)
 * 2019-08-02 [Truffle anuncia el próximo soporte de desarrollo para Corda, Hyperledger Fabric, Tezos](https://github.com/theyapapa/cryptonews/blob/es/truffle-announces-upcoming-dev-support-for-corda-hyperledger-fabric-tezos-e7d3f35b.md)
 * 2019-08-02 [Comprar Cripto con la tarjeta Apple viola su acuerdo con el cliente](https://github.com/theyapapa/cryptonews/blob/es/buying-crypto-with-the-apple-card-violates-its-customer-agreement-a4bad0b3.md)
 * 2019-08-02 [Elliptic lanza un conjunto de datos para identificar el lavado de dinero criptográfico](https://github.com/theyapapa/cryptonews/blob/es/elliptic-launches-worlds-largest-data-set-to-identify-crypto-money-laundering-f4fab825.md)
