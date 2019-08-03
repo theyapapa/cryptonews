@@ -1,3 +1,4 @@
+* 2019-08-03 [Цена Bitcoin держит $10,000 как верхние Cryptos видят смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-holds-10-000-as-top-cryptos-see-mixed-movements-88a3dcb7.md)
 * 2019-08-03 [Банк «Шинхань» в Корее разрабатывает систему кредитования блокчейн-акций](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-shinhan-bank-developing-a-blockchain-stock-lending-system-74455ba6.md)
 * 2019-08-03 [Горнодобывающая ASIC Гигантский Bitmain потерял $ 625 млн, ожидает прибыль в апреле](https://github.com/theyapapa/cryptonews/blob/ru/mining-asic-giant-bitmain-lost-625-million-expects-profits-in-april-909125e5.md)
 * 2019-08-03 [10 блокчейн-проектов, которые находятся вне этого мира, или могут изменить его](https://github.com/theyapapa/cryptonews/blob/ru/10-blockchain-projects-that-are-out-of-this-world-or-may-change-it-22afa971.md)
