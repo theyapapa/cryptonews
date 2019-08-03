@@ -1,3 +1,4 @@
+* 2019-08-02 [Truffle anuncia el próximo soporte de desarrollo para Corda, Hyperledger Fabric, Tezos](https://github.com/theyapapa/cryptonews/blob/es/truffle-announces-upcoming-dev-support-for-corda-hyperledger-fabric-tezos-e7d3f35b.md)
 * 2019-08-02 [Comprar Cripto con la tarjeta Apple viola su acuerdo con el cliente](https://github.com/theyapapa/cryptonews/blob/es/buying-crypto-with-the-apple-card-violates-its-customer-agreement-a4bad0b3.md)
 * 2019-08-02 [Elliptic lanza un conjunto de datos para identificar el lavado de dinero criptográfico](https://github.com/theyapapa/cryptonews/blob/es/elliptic-launches-worlds-largest-data-set-to-identify-crypto-money-laundering-f4fab825.md)
 * 2019-08-02 [Steve Bannon: Crypto se convertirá en parte de la 'rebelión populista global'](https://github.com/theyapapa/cryptonews/blob/es/steve-bannon-crypto-to-become-part-of-global-populist-revolt-839b346c.md)
