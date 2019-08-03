@@ -1,3 +1,4 @@
+* 2019-08-03 [비트 코인 가격 보유 $10,000 최고 암호로 혼합 움직임을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-holds-10-000-as-top-cryptos-see-mixed-movements-88a3dcb7.md)
 * 2019-08-03 [한국 신한은행, 블록체인 주식대출 시스템 개발](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-shinhan-bank-developing-a-blockchain-stock-lending-system-74455ba6.md)
 * 2019-08-03 [광업 ASIC 자이언트 비트 메인 손실 $6억 2,500,000, 4 월에 이익을 기대](https://github.com/theyapapa/cryptonews/blob/ko/mining-asic-giant-bitmain-lost-625-million-expects-profits-in-april-909125e5.md)
 * 2019-08-03 [10 이 세상을 벗어난 블록 체인 프로젝트, 또는 그것을 변경할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/10-blockchain-projects-that-are-out-of-this-world-or-may-change-it-22afa971.md)
