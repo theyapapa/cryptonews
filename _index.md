@@ -1,3 +1,4 @@
+* 2019-08-03 [10 блокчейн-проектов, которые находятся вне этого мира, или могут изменить его](https://github.com/theyapapa/cryptonews/blob/ru/10-blockchain-projects-that-are-out-of-this-world-or-may-change-it-22afa971.md)
 * 2019-08-02 [Трюфель объявляет о предстоящей поддержке Dev для Корда, Hyperledger Ткань, Tezos](https://github.com/theyapapa/cryptonews/blob/ru/truffle-announces-upcoming-dev-support-for-corda-hyperledger-fabric-tezos-e7d3f35b.md)
 * 2019-08-02 [Покупка Crypto с apple Card нарушает его соглашение с клиентом](https://github.com/theyapapa/cryptonews/blob/ru/buying-crypto-with-the-apple-card-violates-its-customer-agreement-a4bad0b3.md)
 * 2019-08-02 [Elliptic запускает набор данных для выявления крипто отмывания денег](https://github.com/theyapapa/cryptonews/blob/ru/elliptic-launches-worlds-largest-data-set-to-identify-crypto-money-laundering-f4fab825.md)
