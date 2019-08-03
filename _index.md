@@ -1,3 +1,4 @@
+* 2019-08-03 [10 이 세상을 벗어난 블록 체인 프로젝트, 또는 그것을 변경할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/10-blockchain-projects-that-are-out-of-this-world-or-may-change-it-22afa971.md)
 * 2019-08-02 [트뤼플, 하이퍼레저 패브릭, 테조스에 대한 곧 개발 지원 발표](https://github.com/theyapapa/cryptonews/blob/ko/truffle-announces-upcoming-dev-support-for-corda-hyperledger-fabric-tezos-e7d3f35b.md)
 * 2019-08-02 [애플 카드와 암호화를 구입하는 것은 고객 계약을 위반](https://github.com/theyapapa/cryptonews/blob/ko/buying-crypto-with-the-apple-card-violates-its-customer-agreement-a4bad0b3.md)
 * 2019-08-02 [타원 은 암호화 돈 세탁을 식별하기 위해 데이터 세트를 출시](https://github.com/theyapapa/cryptonews/blob/ko/elliptic-launches-worlds-largest-data-set-to-identify-crypto-money-laundering-f4fab825.md)
