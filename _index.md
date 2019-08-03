@@ -1,3 +1,4 @@
+* 2019-08-03 [Shinhan Bank de Corea del Sur desarrolla un sistema de préstamos bursátiles Blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-shinhan-bank-developing-a-blockchain-stock-lending-system-74455ba6.md)
 * 2019-08-03 [Minería ASIC Gigante Bitmain Perdió $625 millones, espera ganancias en abril](https://github.com/theyapapa/cryptonews/blob/es/mining-asic-giant-bitmain-lost-625-million-expects-profits-in-april-909125e5.md)
 * 2019-08-03 [10 proyectos de blockchain que están fuera de este mundo, o pueden cambiarlo](https://github.com/theyapapa/cryptonews/blob/es/10-blockchain-projects-that-are-out-of-this-world-or-may-change-it-22afa971.md)
 * 2019-08-02 [Truffle anuncia el próximo soporte de desarrollo para Corda, Hyperledger Fabric, Tezos](https://github.com/theyapapa/cryptonews/blob/es/truffle-announces-upcoming-dev-support-for-corda-hyperledger-fabric-tezos-e7d3f35b.md)
