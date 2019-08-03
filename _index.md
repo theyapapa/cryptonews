@@ -1,3 +1,4 @@
+* 2019-08-03 [거래소 OKEx, 파생상품 거래를 위한 데이터 분석 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/exchange-okex-launches-data-analytics-platform-for-derivatives-trading-243226d8.md)
 * 2019-08-03 [비트 코인 가격 보유 $10,000 최고 암호로 혼합 움직임을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-holds-10-000-as-top-cryptos-see-mixed-movements-88a3dcb7.md)
 * 2019-08-03 [한국 신한은행, 블록체인 주식대출 시스템 개발](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-shinhan-bank-developing-a-blockchain-stock-lending-system-74455ba6.md)
 * 2019-08-03 [광업 ASIC 자이언트 비트 메인 손실 $6억 2,500,000, 4 월에 이익을 기대](https://github.com/theyapapa/cryptonews/blob/ko/mining-asic-giant-bitmain-lost-625-million-expects-profits-in-april-909125e5.md)
