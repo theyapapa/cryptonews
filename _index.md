@@ -1,3 +1,4 @@
+* 2019-08-04 [Биткойн приближается к отметке $11,000, в то время как Altcoins видят смешанные результаты](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-nears-11-000-mark-while-altcoins-see-mixed-results-cf80943c.md)
 * 2019-08-04 [Доклад: $ 1,2 млн заработанные через Bitcoin 'Sextortion, 'Бомба Угроза Мошенничество](https://github.com/theyapapa/cryptonews/blob/ru/report-12m-earned-through-bitcoin-sextortion-bomb-threat-scams-b5e11dc4.md)
 * 2019-08-04 [FATF Правила - Это конец Crypto Анонимность?](https://github.com/theyapapa/cryptonews/blob/ru/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
 * 2019-08-04 [Litecoin вдвое: Все, что вам нужно знать до дня](https://github.com/theyapapa/cryptonews/blob/ru/litecoin-halving-all-you-need-to-know-063ca2cf.md)
