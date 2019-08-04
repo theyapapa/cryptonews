@@ -1,3 +1,4 @@
+* 2019-08-04 [Informe: $1.2M ganados a través de Bitcoin 'Sextorción', Estafas de amenazas de bomba](https://github.com/theyapapa/cryptonews/blob/es/report-12m-earned-through-bitcoin-sextortion-bomb-threat-scams-b5e11dc4.md)
 * 2019-08-04 [Regulaciones del GAFI – ¿Es el fin del anonimato criptográfico?](https://github.com/theyapapa/cryptonews/blob/es/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
 * 2019-08-04 [Litecoin Halving: Todo lo que necesita saber antes del día](https://github.com/theyapapa/cryptonews/blob/es/litecoin-halving-all-you-need-to-know-063ca2cf.md)
 * 2019-08-03 [DASH, XLM, EOS: Top-3 Crypto Losers of the Week — Análisis de precios](https://github.com/theyapapa/cryptonews/blob/es/dash-xlm-eos-top-3-crypto-losers-of-the-week-price-analysis-8885bfae.md)
