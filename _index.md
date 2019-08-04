@@ -1,3 +1,4 @@
+* 2019-08-03 [DASH, XLM, EOS: Top-3 Crypto Losers of the Week — Análisis de precios](https://github.com/theyapapa/cryptonews/blob/es/dash-xlm-eos-top-3-crypto-losers-of-the-week-price-analysis-8885bfae.md)
 * 2019-08-03 [Bitwise: Libra de Facebook movió Bitcoin y Crypto tres años por delante](https://github.com/theyapapa/cryptonews/blob/es/bitwise-facebooks-libra-moved-bitcoin-and-crypto-three-years-ahead-5b016789.md)
 * 2019-08-03 [Exchange OKEx lanza la plataforma de análisis de datos para el comercio de derivados](https://github.com/theyapapa/cryptonews/blob/es/exchange-okex-launches-data-analytics-platform-for-derivatives-trading-243226d8.md)
 * 2019-08-03 [Bitcoin Precio tiene $10,000 como Top Cryptos Ver Movimientos Mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-holds-10-000-as-top-cryptos-see-mixed-movements-88a3dcb7.md)
