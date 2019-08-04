@@ -1,3 +1,4 @@
+* 2019-08-04 [Доклад: $ 1,2 млн заработанные через Bitcoin 'Sextortion, 'Бомба Угроза Мошенничество](https://github.com/theyapapa/cryptonews/blob/ru/report-12m-earned-through-bitcoin-sextortion-bomb-threat-scams-b5e11dc4.md)
 * 2019-08-04 [FATF Правила - Это конец Crypto Анонимность?](https://github.com/theyapapa/cryptonews/blob/ru/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
 * 2019-08-04 [Litecoin вдвое: Все, что вам нужно знать до дня](https://github.com/theyapapa/cryptonews/blob/ru/litecoin-halving-all-you-need-to-know-063ca2cf.md)
 * 2019-08-03 [DASH, XLM, EOS: Топ-3 Crypto Проигравшие недели - Анализ цен](https://github.com/theyapapa/cryptonews/blob/ru/dash-xlm-eos-top-3-crypto-losers-of-the-week-price-analysis-8885bfae.md)
