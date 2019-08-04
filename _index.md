@@ -1,3 +1,4 @@
+* 2019-08-04 [새로운 이란 법 : 정부는 암호화 관련 무역을 인식하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/new-iranian-law-government-will-not-recognize-crypto-related-trade-0b58904b.md)
 * 2019-08-04 [방글라데시, IT 펀드를 사용하여 졸업생을 위한 블록체인 교육 자금 조달](https://github.com/theyapapa/cryptonews/blob/ko/bangladesh-to-use-it-fund-to-bankroll-blockchain-education-for-graduates-d16da209.md)
 * 2019-08-04 [비트 코인 근처 $11,000 알트 코인혼합 결과를 참조하는 동안 마크](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-nears-11-000-mark-while-altcoins-see-mixed-results-cf80943c.md)
 * 2019-08-04 [보고서: $1.2M 비트 코인을 통해 적립 '섹스 토션,' 폭탄 위협 사기](https://github.com/theyapapa/cryptonews/blob/ko/report-12m-earned-through-bitcoin-sextortion-bomb-threat-scams-b5e11dc4.md)
