@@ -1,3 +1,4 @@
+* 2019-08-04 [Bangladesh utilizará el Fondo de TI para financiar la educación de Blockchain para graduados](https://github.com/theyapapa/cryptonews/blob/es/bangladesh-to-use-it-fund-to-bankroll-blockchain-education-for-graduates-d16da209.md)
 * 2019-08-04 [Bitcoin se acerca a $11,000 Mark mientras altcoins ver resultados mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-nears-11-000-mark-while-altcoins-see-mixed-results-cf80943c.md)
 * 2019-08-04 [Informe: $1.2M ganados a través de Bitcoin 'Sextorción', Estafas de amenazas de bomba](https://github.com/theyapapa/cryptonews/blob/es/report-12m-earned-through-bitcoin-sextortion-bomb-threat-scams-b5e11dc4.md)
 * 2019-08-04 [Regulaciones del GAFI – ¿Es el fin del anonimato criptográfico?](https://github.com/theyapapa/cryptonews/blob/es/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
