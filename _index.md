@@ -1,3 +1,4 @@
+* 2019-08-04 [FATF Правила - Это конец Crypto Анонимность?](https://github.com/theyapapa/cryptonews/blob/ru/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
 * 2019-08-04 [Litecoin вдвое: Все, что вам нужно знать до дня](https://github.com/theyapapa/cryptonews/blob/ru/litecoin-halving-all-you-need-to-know-063ca2cf.md)
 * 2019-08-03 [DASH, XLM, EOS: Топ-3 Crypto Проигравшие недели - Анализ цен](https://github.com/theyapapa/cryptonews/blob/ru/dash-xlm-eos-top-3-crypto-losers-of-the-week-price-analysis-8885bfae.md)
 * 2019-08-03 [Bitwise: Весы Facebook переехал Bitcoin и Крипто три года вперед](https://github.com/theyapapa/cryptonews/blob/ru/bitwise-facebooks-libra-moved-bitcoin-and-crypto-three-years-ahead-5b016789.md)
