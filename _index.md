@@ -1,3 +1,4 @@
+* 2019-08-04 [보고서: $1.2M 비트 코인을 통해 적립 '섹스 토션,' 폭탄 위협 사기](https://github.com/theyapapa/cryptonews/blob/ko/report-12m-earned-through-bitcoin-sextortion-bomb-threat-scams-b5e11dc4.md)
 * 2019-08-04 [FATF 규정 - 그것은 암호화 익명의 끝인가?](https://github.com/theyapapa/cryptonews/blob/ko/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
 * 2019-08-04 [라이트 코인 Halving : 당신이 하루 전에 알아야 할 모든](https://github.com/theyapapa/cryptonews/blob/ko/litecoin-halving-all-you-need-to-know-063ca2cf.md)
 * 2019-08-03 [대시, XLM, EOS: 금주의 최고 3 암호화 패자 - 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/dash-xlm-eos-top-3-crypto-losers-of-the-week-price-analysis-8885bfae.md)
