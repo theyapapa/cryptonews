@@ -1,3 +1,4 @@
+* 2019-08-04 [Новый закон Ирана: правительство не признает торговлю, связанную с криптографией](https://github.com/theyapapa/cryptonews/blob/ru/new-iranian-law-government-will-not-recognize-crypto-related-trade-0b58904b.md)
 * 2019-08-04 [Бангладеш будет использовать ИТ-фонд для банкролла Blockchain Education для выпускников](https://github.com/theyapapa/cryptonews/blob/ru/bangladesh-to-use-it-fund-to-bankroll-blockchain-education-for-graduates-d16da209.md)
 * 2019-08-04 [Биткойн приближается к отметке $11,000, в то время как Altcoins видят смешанные результаты](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-nears-11-000-mark-while-altcoins-see-mixed-results-cf80943c.md)
 * 2019-08-04 [Доклад: $ 1,2 млн заработанные через Bitcoin 'Sextortion, 'Бомба Угроза Мошенничество](https://github.com/theyapapa/cryptonews/blob/ru/report-12m-earned-through-bitcoin-sextortion-bomb-threat-scams-b5e11dc4.md)
