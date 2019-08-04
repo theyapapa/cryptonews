@@ -1,3 +1,4 @@
+* 2019-08-04 [Regulaciones del GAFI – ¿Es el fin del anonimato criptográfico?](https://github.com/theyapapa/cryptonews/blob/es/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
 * 2019-08-04 [Litecoin Halving: Todo lo que necesita saber antes del día](https://github.com/theyapapa/cryptonews/blob/es/litecoin-halving-all-you-need-to-know-063ca2cf.md)
 * 2019-08-03 [DASH, XLM, EOS: Top-3 Crypto Losers of the Week — Análisis de precios](https://github.com/theyapapa/cryptonews/blob/es/dash-xlm-eos-top-3-crypto-losers-of-the-week-price-analysis-8885bfae.md)
 * 2019-08-03 [Bitwise: Libra de Facebook movió Bitcoin y Crypto tres años por delante](https://github.com/theyapapa/cryptonews/blob/es/bitwise-facebooks-libra-moved-bitcoin-and-crypto-three-years-ahead-5b016789.md)
