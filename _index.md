@@ -1,3 +1,4 @@
+* 2019-08-03 [Bitwise: 페이스 북의 선칭 자리는 앞서 비트 코인과 암호화 3 년 이동](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-facebooks-libra-moved-bitcoin-and-crypto-three-years-ahead-5b016789.md)
 * 2019-08-03 [거래소 OKEx, 파생상품 거래를 위한 데이터 분석 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/exchange-okex-launches-data-analytics-platform-for-derivatives-trading-243226d8.md)
 * 2019-08-03 [비트 코인 가격 보유 $10,000 최고 암호로 혼합 움직임을 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-holds-10-000-as-top-cryptos-see-mixed-movements-88a3dcb7.md)
 * 2019-08-03 [한국 신한은행, 블록체인 주식대출 시스템 개발](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-shinhan-bank-developing-a-blockchain-stock-lending-system-74455ba6.md)
