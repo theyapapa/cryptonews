@@ -1,3 +1,4 @@
+* 2019-08-03 [Bitwise: Весы Facebook переехал Bitcoin и Крипто три года вперед](https://github.com/theyapapa/cryptonews/blob/ru/bitwise-facebooks-libra-moved-bitcoin-and-crypto-three-years-ahead-5b016789.md)
 * 2019-08-03 [Биржа OKEx запускает платформу анализа данных для торговли деривативами](https://github.com/theyapapa/cryptonews/blob/ru/exchange-okex-launches-data-analytics-platform-for-derivatives-trading-243226d8.md)
 * 2019-08-03 [Цена Bitcoin держит $10,000 как верхние Cryptos видят смешанные движения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-holds-10-000-as-top-cryptos-see-mixed-movements-88a3dcb7.md)
 * 2019-08-03 [Банк «Шинхань» в Корее разрабатывает систему кредитования блокчейн-акций](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-shinhan-bank-developing-a-blockchain-stock-lending-system-74455ba6.md)
