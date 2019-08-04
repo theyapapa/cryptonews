@@ -1,3 +1,4 @@
+* 2019-08-04 [FATF 규정 - 그것은 암호화 익명의 끝인가?](https://github.com/theyapapa/cryptonews/blob/ko/fatf-regulations-is-it-the-end-of-crypto-anonymity-ec22686d.md)
 * 2019-08-04 [라이트 코인 Halving : 당신이 하루 전에 알아야 할 모든](https://github.com/theyapapa/cryptonews/blob/ko/litecoin-halving-all-you-need-to-know-063ca2cf.md)
 * 2019-08-03 [대시, XLM, EOS: 금주의 최고 3 암호화 패자 - 가격 분석](https://github.com/theyapapa/cryptonews/blob/ko/dash-xlm-eos-top-3-crypto-losers-of-the-week-price-analysis-8885bfae.md)
 * 2019-08-03 [Bitwise: 페이스 북의 선칭 자리는 앞서 비트 코인과 암호화 3 년 이동](https://github.com/theyapapa/cryptonews/blob/ko/bitwise-facebooks-libra-moved-bitcoin-and-crypto-three-years-ahead-5b016789.md)
