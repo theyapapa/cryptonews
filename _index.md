@@ -1,3 +1,4 @@
+* 2019-08-05 [Bittrex 암호화 교환은 ERC-20 테더의 구현으로 전환](https://github.com/theyapapa/cryptonews/blob/ko/bittrex-crypto-exchange-transitions-to-erc-20-implementation-of-tether-177cf403.md)
 * 2019-08-05 [코인베이스, 시장 접근성 확대를 위한 입찰에서 8개의 새로운 자산 탐색](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exploring-eight-new-assets-in-bid-to-expand-market-access-63968b08.md)
 * 2019-08-05 [영국 데이터 보호 감시는 페이스 북의 선취를 통해 우려를 제기](https://github.com/theyapapa/cryptonews/blob/ko/uk-data-protection-watchdog-raises-concerns-over-facebooks-libra-5269b7ab.md)
 * 2019-08-05 [영국 은행 스탠다드차타드는 공급망 금융을 위해 블록체인을 사용합니다.](https://github.com/theyapapa/cryptonews/blob/ko/uk-bank-standard-chartered-uses-blockchain-for-supply-chain-finance-a281328b.md)
