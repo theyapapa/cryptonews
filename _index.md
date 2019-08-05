@@ -1,3 +1,4 @@
+* 2019-08-05 [비트 코인 가격 은 과거 폭발 $11,700, 지배 근처 70% 중국 혼란에](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-blasts-past-11-700-dominance-nears-70-on-china-turmoil-41505eb5.md)
 * 2019-08-04 [비트 코인 SV는 210 MB 블록 다음 세 체인으로 분할](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sv-splits-into-three-chains-following-210-mb-block-80829fab.md)
 * 2019-08-04 [Keiser: 비트 코인교차 할 수 $15,000 이번 주, 중앙 집중화에 대한 신뢰 없음](https://github.com/theyapapa/cryptonews/blob/ko/keiser-bitcoin-could-cross-15-000-this-week-no-trust-in-centralization-0918c837.md)
 * 2019-08-04 [새로운 이란 법 : 정부는 암호화 관련 무역을 인식하지 않습니다](https://github.com/theyapapa/cryptonews/blob/ko/new-iranian-law-government-will-not-recognize-crypto-related-trade-0b58904b.md)
