@@ -1,3 +1,4 @@
+* 2019-08-05 [영국 데이터 보호 감시는 페이스 북의 선취를 통해 우려를 제기](https://github.com/theyapapa/cryptonews/blob/ko/uk-data-protection-watchdog-raises-concerns-over-facebooks-libra-5269b7ab.md)
 * 2019-08-05 [영국 은행 스탠다드차타드는 공급망 금융을 위해 블록체인을 사용합니다.](https://github.com/theyapapa/cryptonews/blob/ko/uk-bank-standard-chartered-uses-blockchain-for-supply-chain-finance-a281328b.md)
 * 2019-08-05 [미국 SEC의 헤스터 피어스 : 특정 토큰은 안전한 항구가 필요합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-secs-hester-peirce-certain-tokens-need-a-safe-harbor-bc06aa52.md)
 * 2019-08-05 [트럼프의 '번영을 위한 평화' 행사에 블록체인 대표단이 서로 고소](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-delegates-to-trumps-peace-to-prosperity-event-sue-each-other-7a39584f.md)
