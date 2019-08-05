@@ -1,3 +1,4 @@
+* 2019-08-04 [Keiser: Bitcoin podría cruzar $15,000 esta semana, sin confianza en la centralización](https://github.com/theyapapa/cryptonews/blob/es/keiser-bitcoin-could-cross-15-000-this-week-no-trust-in-centralization-0918c837.md)
 * 2019-08-04 [Nueva ley iraní: el gobierno no reconocerá el comercio relacionado con las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/new-iranian-law-government-will-not-recognize-crypto-related-trade-0b58904b.md)
 * 2019-08-04 [Bangladesh utilizará el Fondo de TI para financiar la educación de Blockchain para graduados](https://github.com/theyapapa/cryptonews/blob/es/bangladesh-to-use-it-fund-to-bankroll-blockchain-education-for-graduates-d16da209.md)
 * 2019-08-04 [Bitcoin se acerca a $11,000 Mark mientras altcoins ver resultados mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-nears-11-000-mark-while-altcoins-see-mixed-results-cf80943c.md)
