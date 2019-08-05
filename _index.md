@@ -1,3 +1,4 @@
+* 2019-08-05 [Эксперт: Walmart Crypto проект более приятным для законодателей, чем Весы](https://github.com/theyapapa/cryptonews/blob/ru/expert-walmart-crypto-project-more-agreeable-to-lawmakers-than-libra-a8c7d656.md)
 * 2019-08-05 [Bittrex Крипто биржа Переходы к ERC-20 Реализация Tether](https://github.com/theyapapa/cryptonews/blob/ru/bittrex-crypto-exchange-transitions-to-erc-20-implementation-of-tether-177cf403.md)
 * 2019-08-05 [Coinbase Изучение восьми новых активов в заявке на расширение доступа на рынок](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-exploring-eight-new-assets-in-bid-to-expand-market-access-63968b08.md)
 * 2019-08-05 [Uk Data Protection Watchdog поднимает озабоченность по поводу Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/uk-data-protection-watchdog-raises-concerns-over-facebooks-libra-5269b7ab.md)
