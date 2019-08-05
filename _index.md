@@ -1,3 +1,4 @@
+* 2019-08-05 [La nueva red de sol de Tron en vivo esta semana promete 'capacidad ilimitada'](https://github.com/theyapapa/cryptonews/blob/es/trons-new-sun-network-going-live-this-week-promises-unlimited-capacity-d96c287b.md)
 * 2019-08-05 [Bitcoin Precio explosión más allá de $11,700, dominancia se acerca 70% en China Turmoil](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-blasts-past-11-700-dominance-nears-70-on-china-turmoil-41505eb5.md)
 * 2019-08-04 [Bitcoin SV se divide en tres cadenas después de 210 MB Bloque](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-sv-splits-into-three-chains-following-210-mb-block-80829fab.md)
 * 2019-08-04 [Keiser: Bitcoin podría cruzar $15,000 esta semana, sin confianza en la centralización](https://github.com/theyapapa/cryptonews/blob/es/keiser-bitcoin-could-cross-15-000-this-week-no-trust-in-centralization-0918c837.md)
