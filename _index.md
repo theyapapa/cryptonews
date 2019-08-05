@@ -1,3 +1,4 @@
+* 2019-08-05 [Британский банк Standard Chartered использует блокчейн для финансирования цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/uk-bank-standard-chartered-uses-blockchain-for-supply-chain-finance-a281328b.md)
 * 2019-08-05 [Хестер Пирс из SEC США: Некоторым тотонам нужна безопасная гавань](https://github.com/theyapapa/cryptonews/blob/ru/us-secs-hester-peirce-certain-tokens-need-a-safe-harbor-bc06aa52.md)
 * 2019-08-05 [Блокчейн-делегаты на мероприятие Трампа «Мир к процветанию» судятся друг с другом](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-delegates-to-trumps-peace-to-prosperity-event-sue-each-other-7a39584f.md)
 * 2019-08-05 [Трон Новое солнце сети Going Live На этой неделе обещает "неограниченный потенциал"](https://github.com/theyapapa/cryptonews/blob/ru/trons-new-sun-network-going-live-this-week-promises-unlimited-capacity-d96c287b.md)
