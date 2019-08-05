@@ -1,3 +1,4 @@
+* 2019-08-05 [Uk Data Protection Watchdog поднимает озабоченность по поводу Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/uk-data-protection-watchdog-raises-concerns-over-facebooks-libra-5269b7ab.md)
 * 2019-08-05 [Британский банк Standard Chartered использует блокчейн для финансирования цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/uk-bank-standard-chartered-uses-blockchain-for-supply-chain-finance-a281328b.md)
 * 2019-08-05 [Хестер Пирс из SEC США: Некоторым тотонам нужна безопасная гавань](https://github.com/theyapapa/cryptonews/blob/ru/us-secs-hester-peirce-certain-tokens-need-a-safe-harbor-bc06aa52.md)
 * 2019-08-05 [Блокчейн-делегаты на мероприятие Трампа «Мир к процветанию» судятся друг с другом](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-delegates-to-trumps-peace-to-prosperity-event-sue-each-other-7a39584f.md)
