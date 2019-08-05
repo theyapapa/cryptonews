@@ -1,3 +1,4 @@
+* 2019-08-05 [전문가: 월마트 암호화 프로젝트 는 선칭 정보 원보다 의원에게 더 동의](https://github.com/theyapapa/cryptonews/blob/ko/expert-walmart-crypto-project-more-agreeable-to-lawmakers-than-libra-a8c7d656.md)
 * 2019-08-05 [Bittrex 암호화 교환은 ERC-20 테더의 구현으로 전환](https://github.com/theyapapa/cryptonews/blob/ko/bittrex-crypto-exchange-transitions-to-erc-20-implementation-of-tether-177cf403.md)
 * 2019-08-05 [코인베이스, 시장 접근성 확대를 위한 입찰에서 8개의 새로운 자산 탐색](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-exploring-eight-new-assets-in-bid-to-expand-market-access-63968b08.md)
 * 2019-08-05 [영국 데이터 보호 감시는 페이스 북의 선취를 통해 우려를 제기](https://github.com/theyapapa/cryptonews/blob/ko/uk-data-protection-watchdog-raises-concerns-over-facebooks-libra-5269b7ab.md)
