@@ -1,3 +1,4 @@
+* 2019-08-05 [Hester Peirce de la SEC de EE. UU.: Ciertas fichas necesitan un puerto seguro](https://github.com/theyapapa/cryptonews/blob/es/us-secs-hester-peirce-certain-tokens-need-a-safe-harbor-bc06aa52.md)
 * 2019-08-05 [Delegados de Blockchain al evento "Paz a la prosperidad" de Trump se demandan entre sí](https://github.com/theyapapa/cryptonews/blob/es/blockchain-delegates-to-trumps-peace-to-prosperity-event-sue-each-other-7a39584f.md)
 * 2019-08-05 [La nueva red de sol de Tron en vivo esta semana promete 'capacidad ilimitada'](https://github.com/theyapapa/cryptonews/blob/es/trons-new-sun-network-going-live-this-week-promises-unlimited-capacity-d96c287b.md)
 * 2019-08-05 [Bitcoin Precio explosión más allá de $11,700, dominancia se acerca 70% en China Turmoil](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-blasts-past-11-700-dominance-nears-70-on-china-turmoil-41505eb5.md)
