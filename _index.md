@@ -1,3 +1,4 @@
+* 2019-08-05 [UK Data Protection Watchdog plantea preocupaciones sobre La Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/uk-data-protection-watchdog-raises-concerns-over-facebooks-libra-5269b7ab.md)
 * 2019-08-05 [La norma del banco del Reino Unido utiliza Blockchain para la financiación de la cadena de suministro](https://github.com/theyapapa/cryptonews/blob/es/uk-bank-standard-chartered-uses-blockchain-for-supply-chain-finance-a281328b.md)
 * 2019-08-05 [Hester Peirce de la SEC de EE. UU.: Ciertas fichas necesitan un puerto seguro](https://github.com/theyapapa/cryptonews/blob/es/us-secs-hester-peirce-certain-tokens-need-a-safe-harbor-bc06aa52.md)
 * 2019-08-05 [Delegados de Blockchain al evento "Paz a la prosperidad" de Trump se demandan entre sí](https://github.com/theyapapa/cryptonews/blob/es/blockchain-delegates-to-trumps-peace-to-prosperity-event-sue-each-other-7a39584f.md)
