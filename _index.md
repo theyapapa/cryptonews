@@ -1,3 +1,4 @@
+* 2019-08-05 [미국 SEC의 헤스터 피어스 : 특정 토큰은 안전한 항구가 필요합니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-secs-hester-peirce-certain-tokens-need-a-safe-harbor-bc06aa52.md)
 * 2019-08-05 [트럼프의 '번영을 위한 평화' 행사에 블록체인 대표단이 서로 고소](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-delegates-to-trumps-peace-to-prosperity-event-sue-each-other-7a39584f.md)
 * 2019-08-05 [트론의 새로운 태양 네트워크 이번 주 에 살고 가는 약속 ' 무제한 용량'](https://github.com/theyapapa/cryptonews/blob/ko/trons-new-sun-network-going-live-this-week-promises-unlimited-capacity-d96c287b.md)
 * 2019-08-05 [비트 코인 가격 은 과거 폭발 $11,700, 지배 근처 70% 중국 혼란에](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-blasts-past-11-700-dominance-nears-70-on-china-turmoil-41505eb5.md)
