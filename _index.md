@@ -1,3 +1,4 @@
+* 2019-08-04 [Bitcoin SV делится на три цепи после 210 МБ блок](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-sv-splits-into-three-chains-following-210-mb-block-80829fab.md)
 * 2019-08-04 [Кейзер: Bitcoin может пересечь $ 15000 на этой неделе, нет доверия в централизации](https://github.com/theyapapa/cryptonews/blob/ru/keiser-bitcoin-could-cross-15-000-this-week-no-trust-in-centralization-0918c837.md)
 * 2019-08-04 [Новый закон Ирана: правительство не признает торговлю, связанную с криптографией](https://github.com/theyapapa/cryptonews/blob/ru/new-iranian-law-government-will-not-recognize-crypto-related-trade-0b58904b.md)
 * 2019-08-04 [Бангладеш будет использовать ИТ-фонд для банкролла Blockchain Education для выпускников](https://github.com/theyapapa/cryptonews/blob/ru/bangladesh-to-use-it-fund-to-bankroll-blockchain-education-for-graduates-d16da209.md)
