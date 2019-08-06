@@ -1,3 +1,4 @@
+* 2019-08-06 [Las principales monedas reportan señales mixtas, Bitcoin ronda los $11,700](https://github.com/theyapapa/cryptonews/blob/es/major-coins-report-mixed-signals-bitcoin-hovers-around-11-700-a0c21cc2.md)
 * 2019-08-06 [Grocery Involved in Nearly Half of all DLT Supply Chain Projects](https://github.com/theyapapa/cryptonews/blob/es/grocery-involved-in-nearly-half-of-all-dlt-supply-chain-projects-18578037.md)
 * 2019-08-06 [La Autoridad Fiscal del Reino Unido solicita datos de usuario de Crypto Exchanges: Informe](https://github.com/theyapapa/cryptonews/blob/es/uks-tax-authority-requests-user-data-from-crypto-exchanges-report-6a9fa9d1.md)
 * 2019-08-06 [Más del 50% del valor neto del fundador de Morgan Creek, Anthony Pompliano, está en BTC](https://github.com/theyapapa/cryptonews/blob/es/over-50-of-morgan-creek-founder-anthony-pomplianos-net-worth-is-in-btc-2f4dc10b.md)
