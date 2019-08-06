@@ -1,3 +1,4 @@
+* 2019-08-06 [Más del 50% del valor neto del fundador de Morgan Creek, Anthony Pompliano, está en BTC](https://github.com/theyapapa/cryptonews/blob/es/over-50-of-morgan-creek-founder-anthony-pomplianos-net-worth-is-in-btc-2f4dc10b.md)
 * 2019-08-06 [Bitcoin Precio Flash se bloquea por $700 en minutos de nuevo por debajo de $12K](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-flash-crashes-by-700-in-minutes-back-below-12k-b7e88a26.md)
 * 2019-08-06 [Los inversores israelíes de BTC no pueden pagar impuestos mientras los bancos rechazan el depósito](https://github.com/theyapapa/cryptonews/blob/es/israeli-btc-investors-cant-pay-taxes-as-banks-refuse-deposit-fc3abeab.md)
 * 2019-08-06 ['It's Fantastic Tech' — Hedge Funds will go Bitcoin, says Consultancy CEO](https://github.com/theyapapa/cryptonews/blob/es/its-fantastic-tech-hedge-funds-will-go-bitcoin-says-consultancy-ceo-08b0b3ab.md)
