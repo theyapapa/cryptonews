@@ -1,3 +1,4 @@
+* 2019-08-06 [Более 50% Морган Крик Основатель Энтони Pompliano чистая стоимость находится в BTC](https://github.com/theyapapa/cryptonews/blob/ru/over-50-of-morgan-creek-founder-anthony-pomplianos-net-worth-is-in-btc-2f4dc10b.md)
 * 2019-08-06 [Биткоин Цена Flash аварий на $ 700 в минуты назад ниже $ 12K](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-flash-crashes-by-700-in-minutes-back-below-12k-b7e88a26.md)
 * 2019-08-06 [Израильские инвесторы BTC не могут платить налоги, так как банки отказываются от депозита](https://github.com/theyapapa/cryptonews/blob/ru/israeli-btc-investors-cant-pay-taxes-as-banks-refuse-deposit-fc3abeab.md)
 * 2019-08-06 ['It's Fantastic Tech' - Хедж-фонды пойдут Bitcoin, говорит генеральный директор консалтинговой компании](https://github.com/theyapapa/cryptonews/blob/ru/its-fantastic-tech-hedge-funds-will-go-bitcoin-says-consultancy-ceo-08b0b3ab.md)
