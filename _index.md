@@ -1,3 +1,4 @@
+* 2019-08-06 [Основные монеты Сообщают Смешанные сигналы, Bitcoin колеблется около $ 11700](https://github.com/theyapapa/cryptonews/blob/ru/major-coins-report-mixed-signals-bitcoin-hovers-around-11-700-a0c21cc2.md)
 * 2019-08-06 [Продуктовые, участвующие почти в половине всех проектов dLT цепи поставок](https://github.com/theyapapa/cryptonews/blob/ru/grocery-involved-in-nearly-half-of-all-dlt-supply-chain-projects-18578037.md)
 * 2019-08-06 [Налоговое управление Великобритании запрашивает данные пользователей с криптобиржи: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/uks-tax-authority-requests-user-data-from-crypto-exchanges-report-6a9fa9d1.md)
 * 2019-08-06 [Более 50% Морган Крик Основатель Энтони Pompliano чистая стоимость находится в BTC](https://github.com/theyapapa/cryptonews/blob/ru/over-50-of-morgan-creek-founder-anthony-pomplianos-net-worth-is-in-btc-2f4dc10b.md)
