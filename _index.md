@@ -1,3 +1,4 @@
+* 2019-08-06 [Los inversores israelíes de BTC no pueden pagar impuestos mientras los bancos rechazan el depósito](https://github.com/theyapapa/cryptonews/blob/es/israeli-btc-investors-cant-pay-taxes-as-banks-refuse-deposit-fc3abeab.md)
 * 2019-08-06 ['It's Fantastic Tech' — Hedge Funds will go Bitcoin, says Consultancy CEO](https://github.com/theyapapa/cryptonews/blob/es/its-fantastic-tech-hedge-funds-will-go-bitcoin-says-consultancy-ceo-08b0b3ab.md)
 * 2019-08-06 [Bitcoin Precio recupera $12k como dominancia más alta desde abril 2017](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-reclaims-12k-as-dominance-highest-since-april-2017-eeb56084.md)
 * 2019-08-05 [Bitcoin pasando por debajo de $12,000 en reciente aumento, Principales Altcoins Ver Verde](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovering-under-12-000-in-recent-surge-major-altcoins-see-green-229e6597.md)
