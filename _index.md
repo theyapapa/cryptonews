@@ -1,3 +1,4 @@
+* 2019-08-06 ['그것은 환상적인 기술' - 헤지 펀드는 비트 코인갈 것입니다, 컨설팅 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/its-fantastic-tech-hedge-funds-will-go-bitcoin-says-consultancy-ceo-08b0b3ab.md)
 * 2019-08-06 [비트 코인 가격 회수 $12k 4 월 이후 지배 최고로 2017](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-reclaims-12k-as-dominance-highest-since-april-2017-eeb56084.md)
 * 2019-08-05 [비트 코인 호버링 아래 $12,000 최근 서지에, 주요 Altcoins 는 녹색을 참조하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovering-under-12-000-in-recent-surge-major-altcoins-see-green-229e6597.md)
 * 2019-08-05 [거래 플랫폼 EToro 는 가격 급등 가운데 테조스에 대한 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/trading-platform-etoro-adds-support-for-tezos-amid-price-surge-ff6f9b50.md)
