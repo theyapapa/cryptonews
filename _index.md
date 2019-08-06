@@ -1,3 +1,4 @@
+* 2019-08-06 [모든 DLT 공급망 프로젝트의 거의 절반에 관여하는 식료품](https://github.com/theyapapa/cryptonews/blob/ko/grocery-involved-in-nearly-half-of-all-dlt-supply-chain-projects-18578037.md)
 * 2019-08-06 [영국의 세무 당국은 암호화 거래소에서 사용자 데이터를 요청 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/uks-tax-authority-requests-user-data-from-crypto-exchanges-report-6a9fa9d1.md)
 * 2019-08-06 [모건 크릭 설립자 앤서니 폼플리아노의 순 자산의 50 % 이상은 BTC에](https://github.com/theyapapa/cryptonews/blob/ko/over-50-of-morgan-creek-founder-anthony-pomplianos-net-worth-is-in-btc-2f4dc10b.md)
 * 2019-08-06 [비트 코인 가격 플래시에 의해 충돌 $700 다시 아래 분에 $12K](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-flash-crashes-by-700-in-minutes-back-below-12k-b7e88a26.md)
