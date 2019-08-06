@@ -1,3 +1,4 @@
+* 2019-08-06 [비트 코인 가격 플래시에 의해 충돌 $700 다시 아래 분에 $12K](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-flash-crashes-by-700-in-minutes-back-below-12k-b7e88a26.md)
 * 2019-08-06 [이스라엘 BTC 투자자는 은행이 예금을 거부로 세금을 지불 할 수 없습니다](https://github.com/theyapapa/cryptonews/blob/ko/israeli-btc-investors-cant-pay-taxes-as-banks-refuse-deposit-fc3abeab.md)
 * 2019-08-06 ['그것은 환상적인 기술' - 헤지 펀드는 비트 코인갈 것입니다, 컨설팅 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/its-fantastic-tech-hedge-funds-will-go-bitcoin-says-consultancy-ceo-08b0b3ab.md)
 * 2019-08-06 [비트 코인 가격 회수 $12k 4 월 이후 지배 최고로 2017](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-reclaims-12k-as-dominance-highest-since-april-2017-eeb56084.md)
