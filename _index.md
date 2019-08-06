@@ -1,3 +1,4 @@
+* 2019-08-05 [비트 코인 호버링 아래 $12,000 최근 서지에, 주요 Altcoins 는 녹색을 참조하십시오](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovering-under-12-000-in-recent-surge-major-altcoins-see-green-229e6597.md)
 * 2019-08-05 [거래 플랫폼 EToro 는 가격 급등 가운데 테조스에 대한 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/trading-platform-etoro-adds-support-for-tezos-amid-price-surge-ff6f9b50.md)
 * 2019-08-05 [전문가: 월마트 암호화 프로젝트 는 선칭 정보 원보다 의원에게 더 동의](https://github.com/theyapapa/cryptonews/blob/ko/expert-walmart-crypto-project-more-agreeable-to-lawmakers-than-libra-a8c7d656.md)
 * 2019-08-05 [Bittrex 암호화 교환은 ERC-20 테더의 구현으로 전환](https://github.com/theyapapa/cryptonews/blob/ko/bittrex-crypto-exchange-transitions-to-erc-20-implementation-of-tether-177cf403.md)
