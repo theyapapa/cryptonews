@@ -1,3 +1,4 @@
+* 2019-08-06 [Биткоин Цена Flash аварий на $ 700 в минуты назад ниже $ 12K](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-flash-crashes-by-700-in-minutes-back-below-12k-b7e88a26.md)
 * 2019-08-06 [Израильские инвесторы BTC не могут платить налоги, так как банки отказываются от депозита](https://github.com/theyapapa/cryptonews/blob/ru/israeli-btc-investors-cant-pay-taxes-as-banks-refuse-deposit-fc3abeab.md)
 * 2019-08-06 ['It's Fantastic Tech' - Хедж-фонды пойдут Bitcoin, говорит генеральный директор консалтинговой компании](https://github.com/theyapapa/cryptonews/blob/ru/its-fantastic-tech-hedge-funds-will-go-bitcoin-says-consultancy-ceo-08b0b3ab.md)
 * 2019-08-06 [Цена Bitcoin возвращает $12k как доминирование самое высокое с апреля 2017](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-reclaims-12k-as-dominance-highest-since-april-2017-eeb56084.md)
