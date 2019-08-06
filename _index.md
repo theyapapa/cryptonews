@@ -1,3 +1,4 @@
+* 2019-08-05 [Биткойн hovering Под $12,000 в недавнем всплеске, майор Altcoins See Green](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovering-under-12-000-in-recent-surge-major-altcoins-see-green-229e6597.md)
 * 2019-08-05 [Торговая платформа EToro добавляет поддержку Tezos на фоне резкого роста цен](https://github.com/theyapapa/cryptonews/blob/ru/trading-platform-etoro-adds-support-for-tezos-amid-price-surge-ff6f9b50.md)
 * 2019-08-05 [Эксперт: Walmart Crypto проект более приятным для законодателей, чем Весы](https://github.com/theyapapa/cryptonews/blob/ru/expert-walmart-crypto-project-more-agreeable-to-lawmakers-than-libra-a8c7d656.md)
 * 2019-08-05 [Bittrex Крипто биржа Переходы к ERC-20 Реализация Tether](https://github.com/theyapapa/cryptonews/blob/ru/bittrex-crypto-exchange-transitions-to-erc-20-implementation-of-tether-177cf403.md)
