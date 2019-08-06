@@ -1,3 +1,4 @@
+* 2019-08-05 [Plataforma de trading eToro añade soporte para Tezos Amid Price Surge](https://github.com/theyapapa/cryptonews/blob/es/trading-platform-etoro-adds-support-for-tezos-amid-price-surge-ff6f9b50.md)
 * 2019-08-05 [Experto: Walmart Crypto Project Más Agradable para los Legisladores que Libra](https://github.com/theyapapa/cryptonews/blob/es/expert-walmart-crypto-project-more-agreeable-to-lawmakers-than-libra-a8c7d656.md)
 * 2019-08-05 [Bittrex Crypto Exchange Transiciones a ERC-20 Implementación de Tether](https://github.com/theyapapa/cryptonews/blob/es/bittrex-crypto-exchange-transitions-to-erc-20-implementation-of-tether-177cf403.md)
 * 2019-08-05 [Coinbase Explora ocho nuevos activos en la oferta para ampliar el acceso al mercado](https://github.com/theyapapa/cryptonews/blob/es/coinbase-exploring-eight-new-assets-in-bid-to-expand-market-access-63968b08.md)
