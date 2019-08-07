@@ -1,3 +1,4 @@
+* 2019-08-07 [ICO 감소에도 불구하고 여전히 수백만 달러의 자본을 모으는 암호화 신생 기업](https://github.com/theyapapa/cryptonews/blob/ko/crypto-startups-still-raising-millions-in-capital-despite-ico-decline-e0abf484.md)
 * 2019-08-07 [ShapeShift 주소 유지키 하드웨어 지갑 취약점 보고서](https://github.com/theyapapa/cryptonews/blob/ko/shapeshift-addresses-keepkey-hardware-wallet-vulnerability-report-982c37ff.md)
 * 2019-08-07 [2019 년 암호화 시장에 대한 온라인 감정 — 태도는 긍정적입니다.](https://github.com/theyapapa/cryptonews/blob/ko/online-sentiment-toward-crypto-market-in-2019-attitudes-are-positive-70ab39cd.md)
 * 2019-08-07 [중국 Gov't 해커는 암호화 회사를 대상으로: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/chinese-govt-hackers-are-targeting-crypto-companies-report-5541b46a.md)
