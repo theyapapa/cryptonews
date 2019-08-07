@@ -1,3 +1,4 @@
+* 2019-08-07 [Отчет об уязвимости бумажника KeepKey Hardware](https://github.com/theyapapa/cryptonews/blob/ru/shapeshift-addresses-keepkey-hardware-wallet-vulnerability-report-982c37ff.md)
 * 2019-08-07 [Онлайн-настроения на крипторынок в 2019 году - Отношение позитивное](https://github.com/theyapapa/cryptonews/blob/ru/online-sentiment-toward-crypto-market-in-2019-attitudes-are-positive-70ab39cd.md)
 * 2019-08-07 [Китайский Gov't Хакеры ориентации Crypto компаний: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/chinese-govt-hackers-are-targeting-crypto-companies-report-5541b46a.md)
 * 2019-08-07 [Стандартный чартерный делает аккредитив сделки с использованием Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/standard-chartered-makes-letter-of-credit-transaction-using-blockchain-f2917a38.md)
