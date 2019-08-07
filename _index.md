@@ -1,3 +1,4 @@
+* 2019-08-07 [2019 년 암호화 시장에 대한 온라인 감정 — 태도는 긍정적입니다.](https://github.com/theyapapa/cryptonews/blob/ko/online-sentiment-toward-crypto-market-in-2019-attitudes-are-positive-70ab39cd.md)
 * 2019-08-07 [중국 Gov't 해커는 암호화 회사를 대상으로: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/chinese-govt-hackers-are-targeting-crypto-companies-report-5541b46a.md)
 * 2019-08-07 [스탠다드차타드는 블록체인을 이용한 신용거래 서신을 만든다.](https://github.com/theyapapa/cryptonews/blob/ko/standard-chartered-makes-letter-of-credit-transaction-using-blockchain-f2917a38.md)
 * 2019-08-07 [아마존은 광고에 대 한 blockchain을 구축 하 고 싶어, 새로운 작업 목록 쇼](https://github.com/theyapapa/cryptonews/blob/ko/amazon-wants-to-build-a-blockchain-for-ads-new-job-listing-shows-2998957a.md)
