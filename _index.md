@@ -1,3 +1,4 @@
+* 2019-08-06 [VeChain lanza botellas de vino cifradas en Blockchain para enólogo australiano](https://github.com/theyapapa/cryptonews/blob/es/vechain-releases-blockchain-encrypted-wine-bottles-for-australian-winemaker-1f5ed5db.md)
 * 2019-08-06 [Galaxy Digital Hires de Mike Novogratz Ex Cumberland Exec](https://github.com/theyapapa/cryptonews/blob/es/mike-novogratzs-galaxy-digital-hires-former-cumberland-exec-19e4d275.md)
 * 2019-08-06 [Las principales monedas reportan señales mixtas, Bitcoin ronda los $11,700](https://github.com/theyapapa/cryptonews/blob/es/major-coins-report-mixed-signals-bitcoin-hovers-around-11-700-a0c21cc2.md)
 * 2019-08-06 [Grocery Involved in Nearly Half of all DLT Supply Chain Projects](https://github.com/theyapapa/cryptonews/blob/es/grocery-involved-in-nearly-half-of-all-dlt-supply-chain-projects-18578037.md)
