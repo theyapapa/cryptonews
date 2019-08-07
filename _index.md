@@ -1,3 +1,4 @@
+* 2019-08-07 [Онлайн-настроения на крипторынок в 2019 году - Отношение позитивное](https://github.com/theyapapa/cryptonews/blob/ru/online-sentiment-toward-crypto-market-in-2019-attitudes-are-positive-70ab39cd.md)
 * 2019-08-07 [Китайский Gov't Хакеры ориентации Crypto компаний: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/chinese-govt-hackers-are-targeting-crypto-companies-report-5541b46a.md)
 * 2019-08-07 [Стандартный чартерный делает аккредитив сделки с использованием Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/standard-chartered-makes-letter-of-credit-transaction-using-blockchain-f2917a38.md)
 * 2019-08-07 [Amazon хочет построить блокчейн для объявлений, Новые вакансии листинг показывает](https://github.com/theyapapa/cryptonews/blob/ru/amazon-wants-to-build-a-blockchain-for-ads-new-job-listing-shows-2998957a.md)
