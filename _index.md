@@ -1,3 +1,4 @@
+* 2019-08-07 [Standard Chartered hace una transacción de carta de crédito usando Blockchain](https://github.com/theyapapa/cryptonews/blob/es/standard-chartered-makes-letter-of-credit-transaction-using-blockchain-f2917a38.md)
 * 2019-08-07 [Amazon quiere crear una cadena de bloques para anuncios, se muestra nótuos](https://github.com/theyapapa/cryptonews/blob/es/amazon-wants-to-build-a-blockchain-for-ads-new-job-listing-shows-2998957a.md)
 * 2019-08-07 [Juez reglas Coinbase no cometió fraude en la demanda en efectivo Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/judge-rules-coinbase-did-not-commit-fraud-in-bitcoin-cash-lawsuit-0963c95c.md)
 * 2019-08-07 [Binance Investigando 'KYC Leak FUD' como Selfies de usuario supuestamente expuestos](https://github.com/theyapapa/cryptonews/blob/es/binance-investigating-kyc-leak-fud-as-user-selfies-allegedly-exposed-26665a45.md)
