@@ -1,3 +1,4 @@
+* 2019-08-07 [Стандартный чартерный делает аккредитив сделки с использованием Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/standard-chartered-makes-letter-of-credit-transaction-using-blockchain-f2917a38.md)
 * 2019-08-07 [Amazon хочет построить блокчейн для объявлений, Новые вакансии листинг показывает](https://github.com/theyapapa/cryptonews/blob/ru/amazon-wants-to-build-a-blockchain-for-ads-new-job-listing-shows-2998957a.md)
 * 2019-08-07 [Судья Правила Coinbase не совершал мошенничества в Bitcoin Cash иск](https://github.com/theyapapa/cryptonews/blob/ru/judge-rules-coinbase-did-not-commit-fraud-in-bitcoin-cash-lawsuit-0963c95c.md)
 * 2019-08-07 [Binance Расследование 'KYC утечка FUD', как пользователь Селфи якобы подвергаются](https://github.com/theyapapa/cryptonews/blob/ru/binance-investigating-kyc-leak-fud-as-user-selfies-allegedly-exposed-26665a45.md)
