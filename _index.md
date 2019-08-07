@@ -1,3 +1,4 @@
+* 2019-08-07 [Las startups de criptografía siguen aumentando millones de capital a pesar de la caída de ICO](https://github.com/theyapapa/cryptonews/blob/es/crypto-startups-still-raising-millions-in-capital-despite-ico-decline-e0abf484.md)
 * 2019-08-07 [ShapeShift Addresses Informe de vulnerabilidad de la cartera de hardware KeepKey](https://github.com/theyapapa/cryptonews/blob/es/shapeshift-addresses-keepkey-hardware-wallet-vulnerability-report-982c37ff.md)
 * 2019-08-07 [Sentimiento en línea hacia el mercado de cripto en 2019 — Las actitudes son positivas](https://github.com/theyapapa/cryptonews/blob/es/online-sentiment-toward-crypto-market-in-2019-attitudes-are-positive-70ab39cd.md)
 * 2019-08-07 [Los hackers del gobierno chino se dirigen a las empresas criptográficas: Informe](https://github.com/theyapapa/cryptonews/blob/es/chinese-govt-hackers-are-targeting-crypto-companies-report-5541b46a.md)
