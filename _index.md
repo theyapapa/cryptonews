@@ -1,3 +1,4 @@
+* 2019-08-07 [사용자 셀카 혐의로 노출로 'KYC 누출 FUD'를 조사 하는 Binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-investigating-kyc-leak-fud-as-user-selfies-allegedly-exposed-26665a45.md)
 * 2019-08-06 [VeChain, 호주 와인 메이커를 위한 블록체인 암호화 와인 병 출시](https://github.com/theyapapa/cryptonews/blob/ko/vechain-releases-blockchain-encrypted-wine-bottles-for-australian-winemaker-1f5ed5db.md)
 * 2019-08-06 [마이크 노보그라츠의 갤럭시 디지털 고용 전 컴벌랜드 임원](https://github.com/theyapapa/cryptonews/blob/ko/mike-novogratzs-galaxy-digital-hires-former-cumberland-exec-19e4d275.md)
 * 2019-08-06 [주요 동전 보고서 혼합 신호, 비트 코인 은 주위에 호버 $11,700](https://github.com/theyapapa/cryptonews/blob/ko/major-coins-report-mixed-signals-bitcoin-hovers-around-11-700-a0c21cc2.md)
