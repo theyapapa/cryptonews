@@ -1,3 +1,4 @@
+* 2019-08-06 [VeChain выпускает блокчейн-шифровированные бутылки вина для австралийского винодела](https://github.com/theyapapa/cryptonews/blob/ru/vechain-releases-blockchain-encrypted-wine-bottles-for-australian-winemaker-1f5ed5db.md)
 * 2019-08-06 [Майк Новограц Галактика Цифровые Нанимает бывший Камберленд Exec](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratzs-galaxy-digital-hires-former-cumberland-exec-19e4d275.md)
 * 2019-08-06 [Основные монеты Сообщают Смешанные сигналы, Bitcoin колеблется около $ 11700](https://github.com/theyapapa/cryptonews/blob/ru/major-coins-report-mixed-signals-bitcoin-hovers-around-11-700-a0c21cc2.md)
 * 2019-08-06 [Продуктовые, участвующие почти в половине всех проектов dLT цепи поставок](https://github.com/theyapapa/cryptonews/blob/ru/grocery-involved-in-nearly-half-of-all-dlt-supply-chain-projects-18578037.md)
