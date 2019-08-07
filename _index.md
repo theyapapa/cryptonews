@@ -1,3 +1,4 @@
+* 2019-08-07 [Судья Правила Coinbase не совершал мошенничества в Bitcoin Cash иск](https://github.com/theyapapa/cryptonews/blob/ru/judge-rules-coinbase-did-not-commit-fraud-in-bitcoin-cash-lawsuit-0963c95c.md)
 * 2019-08-07 [Binance Расследование 'KYC утечка FUD', как пользователь Селфи якобы подвергаются](https://github.com/theyapapa/cryptonews/blob/ru/binance-investigating-kyc-leak-fud-as-user-selfies-allegedly-exposed-26665a45.md)
 * 2019-08-06 [VeChain выпускает блокчейн-шифровированные бутылки вина для австралийского винодела](https://github.com/theyapapa/cryptonews/blob/ru/vechain-releases-blockchain-encrypted-wine-bottles-for-australian-winemaker-1f5ed5db.md)
 * 2019-08-06 [Майк Новограц Галактика Цифровые Нанимает бывший Камберленд Exec](https://github.com/theyapapa/cryptonews/blob/ru/mike-novogratzs-galaxy-digital-hires-former-cumberland-exec-19e4d275.md)
