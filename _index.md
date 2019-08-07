@@ -1,3 +1,4 @@
+* 2019-08-07 [Sentimiento en línea hacia el mercado de cripto en 2019 — Las actitudes son positivas](https://github.com/theyapapa/cryptonews/blob/es/online-sentiment-toward-crypto-market-in-2019-attitudes-are-positive-70ab39cd.md)
 * 2019-08-07 [Los hackers del gobierno chino se dirigen a las empresas criptográficas: Informe](https://github.com/theyapapa/cryptonews/blob/es/chinese-govt-hackers-are-targeting-crypto-companies-report-5541b46a.md)
 * 2019-08-07 [Standard Chartered hace una transacción de carta de crédito usando Blockchain](https://github.com/theyapapa/cryptonews/blob/es/standard-chartered-makes-letter-of-credit-transaction-using-blockchain-f2917a38.md)
 * 2019-08-07 [Amazon quiere crear una cadena de bloques para anuncios, se muestra nótuos](https://github.com/theyapapa/cryptonews/blob/es/amazon-wants-to-build-a-blockchain-for-ads-new-job-listing-shows-2998957a.md)
