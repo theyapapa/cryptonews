@@ -1,3 +1,4 @@
+* 2019-08-07 [스탠다드차타드는 블록체인을 이용한 신용거래 서신을 만든다.](https://github.com/theyapapa/cryptonews/blob/ko/standard-chartered-makes-letter-of-credit-transaction-using-blockchain-f2917a38.md)
 * 2019-08-07 [아마존은 광고에 대 한 blockchain을 구축 하 고 싶어, 새로운 작업 목록 쇼](https://github.com/theyapapa/cryptonews/blob/ko/amazon-wants-to-build-a-blockchain-for-ads-new-job-listing-shows-2998957a.md)
 * 2019-08-07 [판사 규칙 Coinbase 비트 코인 현금 소송에서 사기를 저지르지 않았다](https://github.com/theyapapa/cryptonews/blob/ko/judge-rules-coinbase-did-not-commit-fraud-in-bitcoin-cash-lawsuit-0963c95c.md)
 * 2019-08-07 [사용자 셀카 혐의로 노출로 'KYC 누출 FUD'를 조사 하는 Binance](https://github.com/theyapapa/cryptonews/blob/ko/binance-investigating-kyc-leak-fud-as-user-selfies-allegedly-exposed-26665a45.md)
