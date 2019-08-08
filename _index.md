@@ -1,3 +1,4 @@
+* 2019-08-08 [비트코인이 투자자를 위한 글로벌 안전 피난처로 변모하는 3가지 이유](https://github.com/theyapapa/cryptonews/blob/ko/3-reasons-bitcoin-is-turning-into-a-global-safe-haven-for-investors-fec7662e.md)
 * 2019-08-08 [체코, EU가 요구하는 것보다 더 엄격한 암호화 규정 부과](https://github.com/theyapapa/cryptonews/blob/ko/czech-republic-to-impose-stricter-crypto-regulations-than-eu-requires-80a53b7c.md)
 * 2019-08-08 [비트 코인 안전한 피난처는 중국에서 돈을 빨아, Blockchain 경영진을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-safe-haven-sucking-in-money-from-china-says-blockchain-executive-20b12d58.md)
 * 2019-08-07 [코인원 거래소, 안전 조치 개선을 위해 두 회사와 협력](https://github.com/theyapapa/cryptonews/blob/ko/coinone-exchange-partners-with-two-firms-for-improved-safety-measures-fa5b8a65.md)
