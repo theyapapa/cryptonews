@@ -1,3 +1,4 @@
+* 2019-08-08 [3 razones por las que Bitcoin se está convirtiendo en un refugio seguro global para los inversores](https://github.com/theyapapa/cryptonews/blob/es/3-reasons-bitcoin-is-turning-into-a-global-safe-haven-for-investors-fec7662e.md)
 * 2019-08-08 [República Checa impondrá regulaciones criptográficas más estrictas de lo que la UE requiere](https://github.com/theyapapa/cryptonews/blob/es/czech-republic-to-impose-stricter-crypto-regulations-than-eu-requires-80a53b7c.md)
 * 2019-08-08 [Bitcoin Refugio Seguro Chupando dinero de China, dice Ejecutivo de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-safe-haven-sucking-in-money-from-china-says-blockchain-executive-20b12d58.md)
 * 2019-08-07 [Coinone Exchange se asocia con dos empresas para mejorar las medidas de seguridad](https://github.com/theyapapa/cryptonews/blob/es/coinone-exchange-partners-with-two-firms-for-improved-safety-measures-fa5b8a65.md)
