@@ -1,3 +1,4 @@
+* 2019-08-08 [Crypto Bank Galaxy Digital invests in Digital Asset Lender de Novogratz](https://github.com/theyapapa/cryptonews/blob/es/novogratz-crypto-bank-galaxy-digital-invests-in-digital-asset-lender-f03b004d.md)
 * 2019-08-08 [Intercambio de Gemini añadido a los pioneros crypto Benchmarks de CME Group](https://github.com/theyapapa/cryptonews/blob/es/gemini-exchange-added-to-cme-groups-pioneering-crypto-benchmarks-0739fade.md)
 * 2019-08-08 [3 razones por las que Bitcoin se está convirtiendo en un refugio seguro global para los inversores](https://github.com/theyapapa/cryptonews/blob/es/3-reasons-bitcoin-is-turning-into-a-global-safe-haven-for-investors-fec7662e.md)
 * 2019-08-08 [República Checa impondrá regulaciones criptográficas más estrictas de lo que la UE requiere](https://github.com/theyapapa/cryptonews/blob/es/czech-republic-to-impose-stricter-crypto-regulations-than-eu-requires-80a53b7c.md)
