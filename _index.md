@@ -1,3 +1,4 @@
+* 2019-08-08 [Bitcoin Refugio Seguro Chupando dinero de China, dice Ejecutivo de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-safe-haven-sucking-in-money-from-china-says-blockchain-executive-20b12d58.md)
 * 2019-08-07 [Coinone Exchange se asocia con dos empresas para mejorar las medidas de seguridad](https://github.com/theyapapa/cryptonews/blob/es/coinone-exchange-partners-with-two-firms-for-improved-safety-measures-fa5b8a65.md)
 * 2019-08-07 [Informe: Alrededor de 300 direcciones contienen el 80% del suministro de Tether](https://github.com/theyapapa/cryptonews/blob/es/report-around-300-addresses-contain-80-of-tether-supply-534e51e9.md)
 * 2019-08-07 [Estratega Jefe de Inversiones de BMO: Demasiado pronto para llamar a Bitcoin un refugio seguro](https://github.com/theyapapa/cryptonews/blob/es/bmo-chief-investment-strategist-too-soon-to-call-bitcoin-a-safe-haven-33e76583.md)
