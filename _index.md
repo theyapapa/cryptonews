@@ -1,3 +1,4 @@
+* 2019-08-07 [Informe: Alrededor de 300 direcciones contienen el 80% del suministro de Tether](https://github.com/theyapapa/cryptonews/blob/es/report-around-300-addresses-contain-80-of-tether-supply-534e51e9.md)
 * 2019-08-07 [Estratega Jefe de Inversiones de BMO: Demasiado pronto para llamar a Bitcoin un refugio seguro](https://github.com/theyapapa/cryptonews/blob/es/bmo-chief-investment-strategist-too-soon-to-call-bitcoin-a-safe-haven-33e76583.md)
 * 2019-08-07 [Las startups de criptografía siguen aumentando millones de capital a pesar de la caída de ICO](https://github.com/theyapapa/cryptonews/blob/es/crypto-startups-still-raising-millions-in-capital-despite-ico-decline-e0abf484.md)
 * 2019-08-07 [ShapeShift Addresses Informe de vulnerabilidad de la cartera de hardware KeepKey](https://github.com/theyapapa/cryptonews/blob/es/shapeshift-addresses-keepkey-hardware-wallet-vulnerability-report-982c37ff.md)
