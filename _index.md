@@ -1,3 +1,4 @@
+* 2019-08-08 [Чехия введет более строгие криптографические правила, чем того требует ЕС](https://github.com/theyapapa/cryptonews/blob/ru/czech-republic-to-impose-stricter-crypto-regulations-than-eu-requires-80a53b7c.md)
 * 2019-08-08 [Bitcoin Безопасная гавань сосание в деньги из Китая, говорит Blockchain Исполнительный](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-safe-haven-sucking-in-money-from-china-says-blockchain-executive-20b12d58.md)
 * 2019-08-07 [Coinone Обмен партнеров с двумя фирмами для улучшения мер безопасности](https://github.com/theyapapa/cryptonews/blob/ru/coinone-exchange-partners-with-two-firms-for-improved-safety-measures-fa5b8a65.md)
 * 2019-08-07 [Отчет: Около 300 адресов содержат 80% поставок Tether](https://github.com/theyapapa/cryptonews/blob/ru/report-around-300-addresses-contain-80-of-tether-supply-534e51e9.md)
