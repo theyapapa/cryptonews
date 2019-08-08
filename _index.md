@@ -1,3 +1,4 @@
+* 2019-08-08 [Криптобанк Новограца Галактика Digital инвестирует в цифровой кредитор активов](https://github.com/theyapapa/cryptonews/blob/ru/novogratz-crypto-bank-galaxy-digital-invests-in-digital-asset-lender-f03b004d.md)
 * 2019-08-08 [Близнецы Exchange Добавлено к пионерским криптотестам CME Group](https://github.com/theyapapa/cryptonews/blob/ru/gemini-exchange-added-to-cme-groups-pioneering-crypto-benchmarks-0739fade.md)
 * 2019-08-08 [3 причины, по которым биткоин превращается в глобальную безопасную гавань для инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/3-reasons-bitcoin-is-turning-into-a-global-safe-haven-for-investors-fec7662e.md)
 * 2019-08-08 [Чехия введет более строгие криптографические правила, чем того требует ЕС](https://github.com/theyapapa/cryptonews/blob/ru/czech-republic-to-impose-stricter-crypto-regulations-than-eu-requires-80a53b7c.md)
