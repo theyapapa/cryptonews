@@ -1,3 +1,4 @@
+* 2019-08-08 [Близнецы Exchange Добавлено к пионерским криптотестам CME Group](https://github.com/theyapapa/cryptonews/blob/ru/gemini-exchange-added-to-cme-groups-pioneering-crypto-benchmarks-0739fade.md)
 * 2019-08-08 [3 причины, по которым биткоин превращается в глобальную безопасную гавань для инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/3-reasons-bitcoin-is-turning-into-a-global-safe-haven-for-investors-fec7662e.md)
 * 2019-08-08 [Чехия введет более строгие криптографические правила, чем того требует ЕС](https://github.com/theyapapa/cryptonews/blob/ru/czech-republic-to-impose-stricter-crypto-regulations-than-eu-requires-80a53b7c.md)
 * 2019-08-08 [Bitcoin Безопасная гавань сосание в деньги из Китая, говорит Blockchain Исполнительный](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-safe-haven-sucking-in-money-from-china-says-blockchain-executive-20b12d58.md)
