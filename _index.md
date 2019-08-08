@@ -1,3 +1,4 @@
+* 2019-08-08 [Intercambio de Gemini añadido a los pioneros crypto Benchmarks de CME Group](https://github.com/theyapapa/cryptonews/blob/es/gemini-exchange-added-to-cme-groups-pioneering-crypto-benchmarks-0739fade.md)
 * 2019-08-08 [3 razones por las que Bitcoin se está convirtiendo en un refugio seguro global para los inversores](https://github.com/theyapapa/cryptonews/blob/es/3-reasons-bitcoin-is-turning-into-a-global-safe-haven-for-investors-fec7662e.md)
 * 2019-08-08 [República Checa impondrá regulaciones criptográficas más estrictas de lo que la UE requiere](https://github.com/theyapapa/cryptonews/blob/es/czech-republic-to-impose-stricter-crypto-regulations-than-eu-requires-80a53b7c.md)
 * 2019-08-08 [Bitcoin Refugio Seguro Chupando dinero de China, dice Ejecutivo de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-safe-haven-sucking-in-money-from-china-says-blockchain-executive-20b12d58.md)
