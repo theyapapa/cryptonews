@@ -1,3 +1,4 @@
+* 2019-08-08 [보험 자이언트 알리안츠는 토큰 기반 블록 체인 생태계에서 일하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/insurance-giant-allianz-is-working-on-a-token-based-blockchain-ecosystem-22690178.md)
 * 2019-08-08 [에티하드항공, 여행 중심의 블록체인 플랫폼 와인딩 트리 통합](https://github.com/theyapapa/cryptonews/blob/ko/etihad-airways-integrates-travel-focused-blockchain-platform-winding-tree-35cecf43.md)
 * 2019-08-08 [한국거래소 계열사 코스콤, 비상장 주식 DLT 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/korea-exchange-affiliate-koscom-to-launch-dlt-platform-for-unlisted-shares-a584c017.md)
 * 2019-08-08 [Binance 해커 봄바드 칩믹서 적어도 세탁에 4,836 BTC](https://github.com/theyapapa/cryptonews/blob/ko/binance-hackers-bombard-chipmixer-to-launder-at-least-4-836-btc-85dbf688.md)
