@@ -1,3 +1,4 @@
+* 2019-08-08 [비트 코인 안전한 피난처는 중국에서 돈을 빨아, Blockchain 경영진을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-safe-haven-sucking-in-money-from-china-says-blockchain-executive-20b12d58.md)
 * 2019-08-07 [코인원 거래소, 안전 조치 개선을 위해 두 회사와 협력](https://github.com/theyapapa/cryptonews/blob/ko/coinone-exchange-partners-with-two-firms-for-improved-safety-measures-fa5b8a65.md)
 * 2019-08-07 [보고서: 약 300개의 주소에 테더 공급량의 80%가 포함되어 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-around-300-addresses-contain-80-of-tether-supply-534e51e9.md)
 * 2019-08-07 [BMO 수석 투자 전략가: 너무 빨리 비트 코인을 안전한 피난처라고](https://github.com/theyapapa/cryptonews/blob/ko/bmo-chief-investment-strategist-too-soon-to-call-bitcoin-a-safe-haven-33e76583.md)
