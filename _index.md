@@ -1,3 +1,4 @@
+* 2019-08-07 [Отчет: Около 300 адресов содержат 80% поставок Tether](https://github.com/theyapapa/cryptonews/blob/ru/report-around-300-addresses-contain-80-of-tether-supply-534e51e9.md)
 * 2019-08-07 [Главный инвестиционный стратег BMO: Слишком рано называть биткоин безопасной гаванью](https://github.com/theyapapa/cryptonews/blob/ru/bmo-chief-investment-strategist-too-soon-to-call-bitcoin-a-safe-haven-33e76583.md)
 * 2019-08-07 [Криптостартапы по-прежнему собирают миллионы в капитале, несмотря на снижение ICO](https://github.com/theyapapa/cryptonews/blob/ru/crypto-startups-still-raising-millions-in-capital-despite-ico-decline-e0abf484.md)
 * 2019-08-07 [Отчет об уязвимости бумажника KeepKey Hardware](https://github.com/theyapapa/cryptonews/blob/ru/shapeshift-addresses-keepkey-hardware-wallet-vulnerability-report-982c37ff.md)
