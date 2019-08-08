@@ -1,3 +1,4 @@
+* 2019-08-08 [한국거래소 계열사 코스콤, 비상장 주식 DLT 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/korea-exchange-affiliate-koscom-to-launch-dlt-platform-for-unlisted-shares-a584c017.md)
 * 2019-08-08 [Binance 해커 봄바드 칩믹서 적어도 세탁에 4,836 BTC](https://github.com/theyapapa/cryptonews/blob/ko/binance-hackers-bombard-chipmixer-to-launder-at-least-4-836-btc-85dbf688.md)
 * 2019-08-08 [노보그라츠의 암호화 은행 갤럭시 디지털 디지털 디지털 대출에 투자](https://github.com/theyapapa/cryptonews/blob/ko/novogratz-crypto-bank-galaxy-digital-invests-in-digital-asset-lender-f03b004d.md)
 * 2019-08-08 [쌍둥이 자리 교환은 CME 그룹의 선구적인 암호화 벤치 마크에 추가](https://github.com/theyapapa/cryptonews/blob/ko/gemini-exchange-added-to-cme-groups-pioneering-crypto-benchmarks-0739fade.md)
