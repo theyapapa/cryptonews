@@ -1,3 +1,4 @@
+* 2019-08-08 [Afiliado de Korea Exchange Koscom lanzará plataforma DLT para acciones no cotizadas](https://github.com/theyapapa/cryptonews/blob/es/korea-exchange-affiliate-koscom-to-launch-dlt-platform-for-unlisted-shares-a584c017.md)
 * 2019-08-08 [Binance Hackers Bombard Chipmixer para blanquear al menos 4,836 BTC](https://github.com/theyapapa/cryptonews/blob/es/binance-hackers-bombard-chipmixer-to-launder-at-least-4-836-btc-85dbf688.md)
 * 2019-08-08 [Crypto Bank Galaxy Digital invests in Digital Asset Lender de Novogratz](https://github.com/theyapapa/cryptonews/blob/es/novogratz-crypto-bank-galaxy-digital-invests-in-digital-asset-lender-f03b004d.md)
 * 2019-08-08 [Intercambio de Gemini añadido a los pioneros crypto Benchmarks de CME Group](https://github.com/theyapapa/cryptonews/blob/es/gemini-exchange-added-to-cme-groups-pioneering-crypto-benchmarks-0739fade.md)
