@@ -1,3 +1,4 @@
+* 2019-08-08 [Binance 해커 봄바드 칩믹서 적어도 세탁에 4,836 BTC](https://github.com/theyapapa/cryptonews/blob/ko/binance-hackers-bombard-chipmixer-to-launder-at-least-4-836-btc-85dbf688.md)
 * 2019-08-08 [노보그라츠의 암호화 은행 갤럭시 디지털 디지털 디지털 대출에 투자](https://github.com/theyapapa/cryptonews/blob/ko/novogratz-crypto-bank-galaxy-digital-invests-in-digital-asset-lender-f03b004d.md)
 * 2019-08-08 [쌍둥이 자리 교환은 CME 그룹의 선구적인 암호화 벤치 마크에 추가](https://github.com/theyapapa/cryptonews/blob/ko/gemini-exchange-added-to-cme-groups-pioneering-crypto-benchmarks-0739fade.md)
 * 2019-08-08 [비트코인이 투자자를 위한 글로벌 안전 피난처로 변모하는 3가지 이유](https://github.com/theyapapa/cryptonews/blob/ko/3-reasons-bitcoin-is-turning-into-a-global-safe-haven-for-investors-fec7662e.md)
