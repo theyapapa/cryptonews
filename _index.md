@@ -1,3 +1,4 @@
+* 2019-08-08 [에티하드항공, 여행 중심의 블록체인 플랫폼 와인딩 트리 통합](https://github.com/theyapapa/cryptonews/blob/ko/etihad-airways-integrates-travel-focused-blockchain-platform-winding-tree-35cecf43.md)
 * 2019-08-08 [한국거래소 계열사 코스콤, 비상장 주식 DLT 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/korea-exchange-affiliate-koscom-to-launch-dlt-platform-for-unlisted-shares-a584c017.md)
 * 2019-08-08 [Binance 해커 봄바드 칩믹서 적어도 세탁에 4,836 BTC](https://github.com/theyapapa/cryptonews/blob/ko/binance-hackers-bombard-chipmixer-to-launder-at-least-4-836-btc-85dbf688.md)
 * 2019-08-08 [노보그라츠의 암호화 은행 갤럭시 디지털 디지털 디지털 대출에 투자](https://github.com/theyapapa/cryptonews/blob/ko/novogratz-crypto-bank-galaxy-digital-invests-in-digital-asset-lender-f03b004d.md)
