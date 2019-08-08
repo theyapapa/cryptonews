@@ -1,3 +1,4 @@
+* 2019-08-08 [Etihad Airways интегрирует ориентированную на путешествия блокчейн-платформу Winding Tree](https://github.com/theyapapa/cryptonews/blob/ru/etihad-airways-integrates-travel-focused-blockchain-platform-winding-tree-35cecf43.md)
 * 2019-08-08 [Корейская биржа Партнерская Koscom для запуска DLT платформы для незарегистрированных акций](https://github.com/theyapapa/cryptonews/blob/ru/korea-exchange-affiliate-koscom-to-launch-dlt-platform-for-unlisted-shares-a584c017.md)
 * 2019-08-08 [Binance Хакеры Bombard Chipmixer для отмывания по крайней мере 4836 BTC](https://github.com/theyapapa/cryptonews/blob/ru/binance-hackers-bombard-chipmixer-to-launder-at-least-4-836-btc-85dbf688.md)
 * 2019-08-08 [Криптобанк Новограца Галактика Digital инвестирует в цифровой кредитор активов](https://github.com/theyapapa/cryptonews/blob/ru/novogratz-crypto-bank-galaxy-digital-invests-in-digital-asset-lender-f03b004d.md)
