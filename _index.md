@@ -1,3 +1,4 @@
+* 2019-08-09 [Губернатор Нью-Джерси подписал законопроект о создании целевой группы по блокчейну](https://github.com/theyapapa/cryptonews/blob/ru/new-jersey-governor-signs-bill-to-establish-blockchain-task-force-b951c095.md)
 * 2019-08-09 [Доклад: Crypto Хранитель BitGo расширяет японское присутствие, строит команду](https://github.com/theyapapa/cryptonews/blob/ru/report-crypto-custodian-bitgo-expands-japanese-presence-builds-team-50175263.md)
 * 2019-08-09 [Техас ценных бумаг Watchdog выключает Craigslist Crypto Мошенник](https://github.com/theyapapa/cryptonews/blob/ru/texas-securities-watchdog-shuts-down-craigslist-crypto-scammer-67a636ba.md)
 * 2019-08-09 [15 стран для разработки системы отслеживания криптотранзакций: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/15-countries-to-develop-crypto-transaction-tracking-system-report-7ac55573.md)
