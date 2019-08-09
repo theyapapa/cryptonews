@@ -1,3 +1,4 @@
+* 2019-08-09 [암호화 폐 거래 추적 시스템을 개발하는 15 개국 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/15-countries-to-develop-crypto-transaction-tracking-system-report-7ac55573.md)
 * 2019-08-09 [비트 코인 가격은 현재 역사적인 상위 2 % 범위에 앉아있다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-is-currently-sitting-in-its-historic-top-2-range-d18bf320.md)
 * 2019-08-09 [소매 거 대 한 과잉 재고 손실 보고, 블록 체인 비즈니스 강한 말한다](https://github.com/theyapapa/cryptonews/blob/ko/retail-giant-overstock-reports-losses-says-blockchain-business-strong-d13ade07.md)
 * 2019-08-09 [리플 CEO: 페이스 북의 선명 록 보다 더 큰 거래를 XRP를 사용 하 여 머니그램](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-moneygram-using-xrp-a-bigger-deal-than-facebooks-libra-c8ccf356.md)
