@@ -1,3 +1,4 @@
+* 2019-08-08 [TERO предложить публичную торговлю, начиная с 12 августа, ожидает до 50000 инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/tzero-to-offer-public-trading-starting-aug-12-expects-up-to-50-000-investors-7c99f7bb.md)
 * 2019-08-08 [Страховой гигант Allianz работает над экосистемой блокчейнна на основе токенов](https://github.com/theyapapa/cryptonews/blob/ru/insurance-giant-allianz-is-working-on-a-token-based-blockchain-ecosystem-22690178.md)
 * 2019-08-08 [Etihad Airways интегрирует ориентированную на путешествия блокчейн-платформу Winding Tree](https://github.com/theyapapa/cryptonews/blob/ru/etihad-airways-integrates-travel-focused-blockchain-platform-winding-tree-35cecf43.md)
 * 2019-08-08 [Корейская биржа Партнерская Koscom для запуска DLT платформы для незарегистрированных акций](https://github.com/theyapapa/cryptonews/blob/ru/korea-exchange-affiliate-koscom-to-launch-dlt-platform-for-unlisted-shares-a584c017.md)
