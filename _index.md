@@ -1,3 +1,4 @@
+* 2019-08-09 [Consejero delegado de Ripple: Moneygram usando XRP a Bigger Deal Than Facebook's Libra](https://github.com/theyapapa/cryptonews/blob/es/ripple-ceo-moneygram-using-xrp-a-bigger-deal-than-facebooks-libra-c8ccf356.md)
 * 2019-08-09 [Empresa alemana obtiene un préstamo 'Eco-Friendly' de 750 millones de euros a través de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/german-company-secures-750-million-eco-friendly-loan-via-blockchain-36623ec7.md)
 * 2019-08-08 [Experto: India perderá un mercado de casi $13 mil millones por banning Crypto](https://github.com/theyapapa/cryptonews/blob/es/expert-india-will-lose-an-almost-13-billion-market-by-banning-crypto-6298052d.md)
 * 2019-08-08 [tZERO ofrecerá operaciones públicas a partir del 12 de agosto, espera hasta 50.000 inversores](https://github.com/theyapapa/cryptonews/blob/es/tzero-to-offer-public-trading-starting-aug-12-expects-up-to-50-000-investors-7c99f7bb.md)
