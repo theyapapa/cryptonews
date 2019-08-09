@@ -1,3 +1,4 @@
+* 2019-08-09 [소매 거 대 한 과잉 재고 손실 보고, 블록 체인 비즈니스 강한 말한다](https://github.com/theyapapa/cryptonews/blob/ko/retail-giant-overstock-reports-losses-says-blockchain-business-strong-d13ade07.md)
 * 2019-08-09 [리플 CEO: 페이스 북의 선명 록 보다 더 큰 거래를 XRP를 사용 하 여 머니그램](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-moneygram-using-xrp-a-bigger-deal-than-facebooks-libra-c8ccf356.md)
 * 2019-08-09 [독일 기업, 블록체인을 통해 7억 5천만 유로의 '친환경' 대출 확보](https://github.com/theyapapa/cryptonews/blob/ko/german-company-secures-750-million-eco-friendly-loan-via-blockchain-36623ec7.md)
 * 2019-08-08 [전문가: 인도는 암호화폐를 금지함으로써 거의 130억 달러 규모의 시장을 잃게 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/expert-india-will-lose-an-almost-13-billion-market-by-banning-crypto-6298052d.md)
