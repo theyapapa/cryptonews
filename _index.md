@@ -1,3 +1,4 @@
+* 2019-08-09 [Informe: Crypto Custodian BitGo expande la presencia japonesa, construye equipo](https://github.com/theyapapa/cryptonews/blob/es/report-crypto-custodian-bitgo-expands-japanese-presence-builds-team-50175263.md)
 * 2019-08-09 [Texas Securities Watchdog cierra Craigslist Crypto Scammer](https://github.com/theyapapa/cryptonews/blob/es/texas-securities-watchdog-shuts-down-craigslist-crypto-scammer-67a636ba.md)
 * 2019-08-09 [15 países para desarrollar el sistema de seguimiento de transacciones criptográficas: Informe](https://github.com/theyapapa/cryptonews/blob/es/15-countries-to-develop-crypto-transaction-tracking-system-report-7ac55573.md)
 * 2019-08-09 [El precio de Bitcoin está actualmente sentado en su rango histórico del 2%](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-is-currently-sitting-in-its-historic-top-2-range-d18bf320.md)
