@@ -1,3 +1,4 @@
+* 2019-08-09 [15 стран для разработки системы отслеживания криптотранзакций: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/15-countries-to-develop-crypto-transaction-tracking-system-report-7ac55573.md)
 * 2019-08-09 [Цена Bitcoin в настоящее время сидит в своем историческом диапазоне Топ 2%](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-is-currently-sitting-in-its-historic-top-2-range-d18bf320.md)
 * 2019-08-09 [Розничная гигантский Overstock отчеты о потерях, говорит Blockchain Бизнес Сильный](https://github.com/theyapapa/cryptonews/blob/ru/retail-giant-overstock-reports-losses-says-blockchain-business-strong-d13ade07.md)
 * 2019-08-09 [Ripple генеральный директор: Moneygram Использование XRP больше сделки, чем Весы Facebook](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-moneygram-using-xrp-a-bigger-deal-than-facebooks-libra-c8ccf356.md)
