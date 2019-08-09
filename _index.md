@@ -1,3 +1,4 @@
+* 2019-08-09 [텍사스 증권 감시는 크레이그리스트 암호 사기꾼을 종료](https://github.com/theyapapa/cryptonews/blob/ko/texas-securities-watchdog-shuts-down-craigslist-crypto-scammer-67a636ba.md)
 * 2019-08-09 [암호화 폐 거래 추적 시스템을 개발하는 15 개국 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/15-countries-to-develop-crypto-transaction-tracking-system-report-7ac55573.md)
 * 2019-08-09 [비트 코인 가격은 현재 역사적인 상위 2 % 범위에 앉아있다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-is-currently-sitting-in-its-historic-top-2-range-d18bf320.md)
 * 2019-08-09 [소매 거 대 한 과잉 재고 손실 보고, 블록 체인 비즈니스 강한 말한다](https://github.com/theyapapa/cryptonews/blob/ko/retail-giant-overstock-reports-losses-says-blockchain-business-strong-d13ade07.md)
