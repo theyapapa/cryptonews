@@ -1,3 +1,4 @@
+* 2019-08-09 [독일 기업, 블록체인을 통해 7억 5천만 유로의 '친환경' 대출 확보](https://github.com/theyapapa/cryptonews/blob/ko/german-company-secures-750-million-eco-friendly-loan-via-blockchain-36623ec7.md)
 * 2019-08-08 [전문가: 인도는 암호화폐를 금지함으로써 거의 130억 달러 규모의 시장을 잃게 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/expert-india-will-lose-an-almost-13-billion-market-by-banning-crypto-6298052d.md)
 * 2019-08-08 [tZERO, 8월 12일부터 공개 거래 제공, 최대 50,000명의 투자자 예상](https://github.com/theyapapa/cryptonews/blob/ko/tzero-to-offer-public-trading-starting-aug-12-expects-up-to-50-000-investors-7c99f7bb.md)
 * 2019-08-08 [보험 자이언트 알리안츠는 토큰 기반 블록 체인 생태계에서 일하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/insurance-giant-allianz-is-working-on-a-token-based-blockchain-ecosystem-22690178.md)
