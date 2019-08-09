@@ -1,3 +1,4 @@
+* 2019-08-09 [Розничная гигантский Overstock отчеты о потерях, говорит Blockchain Бизнес Сильный](https://github.com/theyapapa/cryptonews/blob/ru/retail-giant-overstock-reports-losses-says-blockchain-business-strong-d13ade07.md)
 * 2019-08-09 [Ripple генеральный директор: Moneygram Использование XRP больше сделки, чем Весы Facebook](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-moneygram-using-xrp-a-bigger-deal-than-facebooks-libra-c8ccf356.md)
 * 2019-08-09 [Немецкая компания обеспечивает 750 миллионов евро 'Экологически дружественных' Кредит через Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/german-company-secures-750-million-eco-friendly-loan-via-blockchain-36623ec7.md)
 * 2019-08-08 [Эксперт: Индия потеряет почти $13 млрд рынка, запретив крипто](https://github.com/theyapapa/cryptonews/blob/ru/expert-india-will-lose-an-almost-13-billion-market-by-banning-crypto-6298052d.md)
