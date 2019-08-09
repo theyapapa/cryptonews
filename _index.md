@@ -1,3 +1,4 @@
+* 2019-08-09 [Немецкая компания обеспечивает 750 миллионов евро 'Экологически дружественных' Кредит через Blockchain](https://github.com/theyapapa/cryptonews/blob/ru/german-company-secures-750-million-eco-friendly-loan-via-blockchain-36623ec7.md)
 * 2019-08-08 [Эксперт: Индия потеряет почти $13 млрд рынка, запретив крипто](https://github.com/theyapapa/cryptonews/blob/ru/expert-india-will-lose-an-almost-13-billion-market-by-banning-crypto-6298052d.md)
 * 2019-08-08 [TERO предложить публичную торговлю, начиная с 12 августа, ожидает до 50000 инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/tzero-to-offer-public-trading-starting-aug-12-expects-up-to-50-000-investors-7c99f7bb.md)
 * 2019-08-08 [Страховой гигант Allianz работает над экосистемой блокчейнна на основе токенов](https://github.com/theyapapa/cryptonews/blob/ru/insurance-giant-allianz-is-working-on-a-token-based-blockchain-ecosystem-22690178.md)
