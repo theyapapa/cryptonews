@@ -1,3 +1,4 @@
+* 2019-08-09 [Gobernador de Nueva Jersey firma proyecto de ley para establecer un grupo de trabajo de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/new-jersey-governor-signs-bill-to-establish-blockchain-task-force-b951c095.md)
 * 2019-08-09 [Informe: Crypto Custodian BitGo expande la presencia japonesa, construye equipo](https://github.com/theyapapa/cryptonews/blob/es/report-crypto-custodian-bitgo-expands-japanese-presence-builds-team-50175263.md)
 * 2019-08-09 [Texas Securities Watchdog cierra Craigslist Crypto Scammer](https://github.com/theyapapa/cryptonews/blob/es/texas-securities-watchdog-shuts-down-craigslist-crypto-scammer-67a636ba.md)
 * 2019-08-09 [15 países para desarrollar el sistema de seguimiento de transacciones criptográficas: Informe](https://github.com/theyapapa/cryptonews/blob/es/15-countries-to-develop-crypto-transaction-tracking-system-report-7ac55573.md)
