@@ -1,3 +1,4 @@
+* 2019-08-09 [리플 CEO: 페이스 북의 선명 록 보다 더 큰 거래를 XRP를 사용 하 여 머니그램](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-moneygram-using-xrp-a-bigger-deal-than-facebooks-libra-c8ccf356.md)
 * 2019-08-09 [독일 기업, 블록체인을 통해 7억 5천만 유로의 '친환경' 대출 확보](https://github.com/theyapapa/cryptonews/blob/ko/german-company-secures-750-million-eco-friendly-loan-via-blockchain-36623ec7.md)
 * 2019-08-08 [전문가: 인도는 암호화폐를 금지함으로써 거의 130억 달러 규모의 시장을 잃게 될 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/expert-india-will-lose-an-almost-13-billion-market-by-banning-crypto-6298052d.md)
 * 2019-08-08 [tZERO, 8월 12일부터 공개 거래 제공, 최대 50,000명의 투자자 예상](https://github.com/theyapapa/cryptonews/blob/ko/tzero-to-offer-public-trading-starting-aug-12-expects-up-to-50-000-investors-7c99f7bb.md)
