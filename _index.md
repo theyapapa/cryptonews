@@ -1,3 +1,4 @@
+* 2019-08-10 [Телеграмма vs. Facebook: Окончательный вскрытии для Crypto превосходство](https://github.com/theyapapa/cryptonews/blob/ru/telegram-vs-facebook-the-ultimate-showdown-for-crypto-supremacy-33d0711d.md)
 * 2019-08-09 [Криптовалютный рынок видит красный, как Bitcoin все еще борется ниже $ 12000](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-market-sees-red-as-bitcoin-still-struggles-under-12-000-ac3598d8.md)
 * 2019-08-09 [Губернатор Нью-Джерси подписал законопроект о создании целевой группы по блокчейну](https://github.com/theyapapa/cryptonews/blob/ru/new-jersey-governor-signs-bill-to-establish-blockchain-task-force-b951c095.md)
 * 2019-08-09 [Доклад: Crypto Хранитель BitGo расширяет японское присутствие, строит команду](https://github.com/theyapapa/cryptonews/blob/ru/report-crypto-custodian-bitgo-expands-japanese-presence-builds-team-50175263.md)
