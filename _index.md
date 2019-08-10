@@ -1,3 +1,4 @@
+* 2019-08-10 [전보 대. 페이스 북: 암호화 패권을 위한 궁극적인 대결](https://github.com/theyapapa/cryptonews/blob/ko/telegram-vs-facebook-the-ultimate-showdown-for-crypto-supremacy-33d0711d.md)
 * 2019-08-09 [암호 화폐 시장은 비트 코인은 여전히 아래 투쟁으로 빨간색을 본다 $12,000](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-market-sees-red-as-bitcoin-still-struggles-under-12-000-ac3598d8.md)
 * 2019-08-09 [뉴저지 주지사, 블록체인 태스크포스 구축 법안에 서명](https://github.com/theyapapa/cryptonews/blob/ko/new-jersey-governor-signs-bill-to-establish-blockchain-task-force-b951c095.md)
 * 2019-08-09 [보고서: 암호화 관리자 BitGo 는 일본의 존재를 확장, 팀을 구축](https://github.com/theyapapa/cryptonews/blob/ko/report-crypto-custodian-bitgo-expands-japanese-presence-builds-team-50175263.md)
