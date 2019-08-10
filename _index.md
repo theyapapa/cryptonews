@@ -1,3 +1,4 @@
+* 2019-08-09 [Криптовалютный рынок видит красный, как Bitcoin все еще борется ниже $ 12000](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-market-sees-red-as-bitcoin-still-struggles-under-12-000-ac3598d8.md)
 * 2019-08-09 [Губернатор Нью-Джерси подписал законопроект о создании целевой группы по блокчейну](https://github.com/theyapapa/cryptonews/blob/ru/new-jersey-governor-signs-bill-to-establish-blockchain-task-force-b951c095.md)
 * 2019-08-09 [Доклад: Crypto Хранитель BitGo расширяет японское присутствие, строит команду](https://github.com/theyapapa/cryptonews/blob/ru/report-crypto-custodian-bitgo-expands-japanese-presence-builds-team-50175263.md)
 * 2019-08-09 [Техас ценных бумаг Watchdog выключает Craigslist Crypto Мошенник](https://github.com/theyapapa/cryptonews/blob/ru/texas-securities-watchdog-shuts-down-craigslist-crypto-scammer-67a636ba.md)
