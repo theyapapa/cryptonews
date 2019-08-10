@@ -1,3 +1,4 @@
+* 2019-08-10 [XMR Cryptojacking Malware Smominru actualizado, ahora dirigido a los datos del usuario](https://github.com/theyapapa/cryptonews/blob/es/xmr-cryptojacking-malware-smominru-updated-now-targeting-user-data-2dd7cedc.md)
 * 2019-08-10 [Crypto Exchange Binance señala un ataque de polvo contra litecoin](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-binance-points-out-a-dusting-attack-against-litecoin-f55a026e.md)
 * 2019-08-10 [Binance KYC Breach — ¿Sucedió, y si es así, ¿quién tiene la culpa?](https://github.com/theyapapa/cryptonews/blob/es/binance-kyc-breach-did-it-happen-and-if-so-whos-to-blame-33ca51b7.md)
 * 2019-08-10 [Telegram Vs. Facebook: El último enfrentamiento para Crypto Supremacy](https://github.com/theyapapa/cryptonews/blob/es/telegram-vs-facebook-the-ultimate-showdown-for-crypto-supremacy-33d0711d.md)
