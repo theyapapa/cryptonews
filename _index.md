@@ -1,3 +1,4 @@
+* 2019-08-10 [데이비드 마커스는 누구인가: 비트 코인 신자 페이스 북의 선해제 보스를 돌렸다](https://github.com/theyapapa/cryptonews/blob/ko/who-is-david-marcus-bitcoin-believer-turned-facebooks-libra-boss-bc5c299a.md)
 * 2019-08-10 [XMR 크립토 재킹 악성 코드 Smominru 업데이트, 지금 사용자 데이터를 대상으로](https://github.com/theyapapa/cryptonews/blob/ko/xmr-cryptojacking-malware-smominru-updated-now-targeting-user-data-2dd7cedc.md)
 * 2019-08-10 [암호화 교환 Binance 라이트 코인에 대한 먼지 공격을 지적](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-binance-points-out-a-dusting-attack-against-litecoin-f55a026e.md)
 * 2019-08-10 [Binance KYC 위반 — 그것은 일어났는가, 그리고 만약 그렇다면, 누가 비난할 것인가?](https://github.com/theyapapa/cryptonews/blob/ko/binance-kyc-breach-did-it-happen-and-if-so-whos-to-blame-33ca51b7.md)
