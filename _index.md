@@ -1,3 +1,4 @@
+* 2019-08-10 [Криптобиржа Binance указывает на Dusting атаки против Litecoin](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-binance-points-out-a-dusting-attack-against-litecoin-f55a026e.md)
 * 2019-08-10 [Binance KYC Нарушение - Это произошло, и если да, то кто виноват?](https://github.com/theyapapa/cryptonews/blob/ru/binance-kyc-breach-did-it-happen-and-if-so-whos-to-blame-33ca51b7.md)
 * 2019-08-10 [Телеграмма vs. Facebook: Окончательный вскрытии для Crypto превосходство](https://github.com/theyapapa/cryptonews/blob/ru/telegram-vs-facebook-the-ultimate-showdown-for-crypto-supremacy-33d0711d.md)
 * 2019-08-09 [Криптовалютный рынок видит красный, как Bitcoin все еще борется ниже $ 12000](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-market-sees-red-as-bitcoin-still-struggles-under-12-000-ac3598d8.md)
