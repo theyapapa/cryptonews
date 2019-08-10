@@ -1,3 +1,4 @@
+* 2019-08-10 [Crypto Exchange Binance señala un ataque de polvo contra litecoin](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-binance-points-out-a-dusting-attack-against-litecoin-f55a026e.md)
 * 2019-08-10 [Binance KYC Breach — ¿Sucedió, y si es así, ¿quién tiene la culpa?](https://github.com/theyapapa/cryptonews/blob/es/binance-kyc-breach-did-it-happen-and-if-so-whos-to-blame-33ca51b7.md)
 * 2019-08-10 [Telegram Vs. Facebook: El último enfrentamiento para Crypto Supremacy](https://github.com/theyapapa/cryptonews/blob/es/telegram-vs-facebook-the-ultimate-showdown-for-crypto-supremacy-33d0711d.md)
 * 2019-08-09 [Mercado de criptomonedas Ve rojo como Bitcoin todavía lucha por debajo de $12,000](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-market-sees-red-as-bitcoin-still-struggles-under-12-000-ac3598d8.md)
