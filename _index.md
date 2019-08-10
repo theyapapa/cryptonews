@@ -1,3 +1,4 @@
+* 2019-08-10 [Binance KYC Breach — ¿Sucedió, y si es así, ¿quién tiene la culpa?](https://github.com/theyapapa/cryptonews/blob/es/binance-kyc-breach-did-it-happen-and-if-so-whos-to-blame-33ca51b7.md)
 * 2019-08-10 [Telegram Vs. Facebook: El último enfrentamiento para Crypto Supremacy](https://github.com/theyapapa/cryptonews/blob/es/telegram-vs-facebook-the-ultimate-showdown-for-crypto-supremacy-33d0711d.md)
 * 2019-08-09 [Mercado de criptomonedas Ve rojo como Bitcoin todavía lucha por debajo de $12,000](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-market-sees-red-as-bitcoin-still-struggles-under-12-000-ac3598d8.md)
 * 2019-08-09 [Gobernador de Nueva Jersey firma proyecto de ley para establecer un grupo de trabajo de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/new-jersey-governor-signs-bill-to-establish-blockchain-task-force-b951c095.md)
