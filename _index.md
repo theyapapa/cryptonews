@@ -1,3 +1,4 @@
+* 2019-08-11 [¿Qué son los bancos criptográficos y cómo funcionan?](https://github.com/theyapapa/cryptonews/blob/es/what-are-crypto-banks-and-how-do-they-work-404a2f75.md)
 * 2019-08-11 [Blockchain en el negocio: ¿Qué dicen los informes 10-K de las empresas sobre DLT?](https://github.com/theyapapa/cryptonews/blob/es/blockchain-in-business-what-do-companies-10-k-reports-say-about-dlt-c00e46af.md)
 * 2019-08-10 [Bitcoin precio cae en el día como Altcoins enviar mensajes mixtos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-drops-on-the-day-as-altcoins-send-mixed-messages-a95122c4.md)
 * 2019-08-10 [Quién es David Marcus: Bitcoin Believer convirtió al jefe libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/who-is-david-marcus-bitcoin-believer-turned-facebooks-libra-boss-bc5c299a.md)
