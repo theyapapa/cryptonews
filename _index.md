@@ -1,3 +1,4 @@
+* 2019-08-11 [암호화 은행은 무엇이며 어떻게 작동합니까?](https://github.com/theyapapa/cryptonews/blob/ko/what-are-crypto-banks-and-how-do-they-work-404a2f75.md)
 * 2019-08-11 [비즈니스에서 블록 체인 : 기업의 10 K 보고서는 DLT에 대해 무엇을 말합니까?](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-business-what-do-companies-10-k-reports-say-about-dlt-c00e46af.md)
 * 2019-08-10 [알트코인이 혼합 메시지를 보내면서 비트코인 가격이 당일 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-drops-on-the-day-as-altcoins-send-mixed-messages-a95122c4.md)
 * 2019-08-10 [데이비드 마커스는 누구인가: 비트 코인 신자 페이스 북의 선해제 보스를 돌렸다](https://github.com/theyapapa/cryptonews/blob/ko/who-is-david-marcus-bitcoin-believer-turned-facebooks-libra-boss-bc5c299a.md)
