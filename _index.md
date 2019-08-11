@@ -1,3 +1,4 @@
+* 2019-08-11 [Как Brexit повлияет на финтех-индустрию Великобритании? Ответ экспертов](https://github.com/theyapapa/cryptonews/blob/ru/how-brexit-will-affect-the-uk-fintech-industry-experts-answer-c6c25f68.md)
 * 2019-08-11 [Hodler's Digest, 5-11 августа: Озорная Северная Корея, индийская бомба, LTC Flops](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-aug-511-naughty-north-korea-indias-bombshell-ltc-flops-461391af.md)
 * 2019-08-11 [Цифровая валюта Китая готова, Говорит Центральный банк](https://github.com/theyapapa/cryptonews/blob/ru/chinas-digital-currency-is-ready-central-bank-says-0eb4e65b.md)
 * 2019-08-11 [Что такое криптобанки и как они работают?](https://github.com/theyapapa/cryptonews/blob/ru/what-are-crypto-banks-and-how-do-they-work-404a2f75.md)
