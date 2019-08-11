@@ -1,3 +1,4 @@
+* 2019-08-11 [Hodler's Digest, 5-11 августа: Озорная Северная Корея, индийская бомба, LTC Flops](https://github.com/theyapapa/cryptonews/blob/ru/hodlers-digest-aug-511-naughty-north-korea-indias-bombshell-ltc-flops-461391af.md)
 * 2019-08-11 [Цифровая валюта Китая готова, Говорит Центральный банк](https://github.com/theyapapa/cryptonews/blob/ru/chinas-digital-currency-is-ready-central-bank-says-0eb4e65b.md)
 * 2019-08-11 [Что такое криптобанки и как они работают?](https://github.com/theyapapa/cryptonews/blob/ru/what-are-crypto-banks-and-how-do-they-work-404a2f75.md)
 * 2019-08-11 [Блокчейн в бизнесе: Что говорят 10-K отчеты компаний о DLT?](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-business-what-do-companies-10-k-reports-say-about-dlt-c00e46af.md)
