@@ -1,3 +1,4 @@
+* 2019-08-11 [브렉시트가 영국 핀테크 산업에 어떤 영향을 미칠까요? 전문가 답변](https://github.com/theyapapa/cryptonews/blob/ko/how-brexit-will-affect-the-uk-fintech-industry-experts-answer-c6c25f68.md)
 * 2019-08-11 [호들러의 다이제스트, 8월 5-11일: 못된 북한, 인도의 폭탄, LTC 플롭](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-aug-511-naughty-north-korea-indias-bombshell-ltc-flops-461391af.md)
 * 2019-08-11 [중국의 디지털 통화는 준비가되어, 중앙 은행은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/chinas-digital-currency-is-ready-central-bank-says-0eb4e65b.md)
 * 2019-08-11 [암호화 은행은 무엇이며 어떻게 작동합니까?](https://github.com/theyapapa/cryptonews/blob/ko/what-are-crypto-banks-and-how-do-they-work-404a2f75.md)
