@@ -1,3 +1,4 @@
+* 2019-08-11 [중국의 디지털 통화는 준비가되어, 중앙 은행은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/chinas-digital-currency-is-ready-central-bank-says-0eb4e65b.md)
 * 2019-08-11 [암호화 은행은 무엇이며 어떻게 작동합니까?](https://github.com/theyapapa/cryptonews/blob/ko/what-are-crypto-banks-and-how-do-they-work-404a2f75.md)
 * 2019-08-11 [비즈니스에서 블록 체인 : 기업의 10 K 보고서는 DLT에 대해 무엇을 말합니까?](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-in-business-what-do-companies-10-k-reports-say-about-dlt-c00e46af.md)
 * 2019-08-10 [알트코인이 혼합 메시지를 보내면서 비트코인 가격이 당일 하락](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-drops-on-the-day-as-altcoins-send-mixed-messages-a95122c4.md)
