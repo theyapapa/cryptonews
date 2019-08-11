@@ -1,3 +1,4 @@
+* 2019-08-11 [Что такое криптобанки и как они работают?](https://github.com/theyapapa/cryptonews/blob/ru/what-are-crypto-banks-and-how-do-they-work-404a2f75.md)
 * 2019-08-11 [Блокчейн в бизнесе: Что говорят 10-K отчеты компаний о DLT?](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-in-business-what-do-companies-10-k-reports-say-about-dlt-c00e46af.md)
 * 2019-08-10 [Цена Bitcoin падает в день, как Altcoins Отправить смешанные сообщения](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-drops-on-the-day-as-altcoins-send-mixed-messages-a95122c4.md)
 * 2019-08-10 [Кто есть Дэвид Маркус: Bitcoin верующий превратили Facebook Весы Босс](https://github.com/theyapapa/cryptonews/blob/ru/who-is-david-marcus-bitcoin-believer-turned-facebooks-libra-boss-bc5c299a.md)
