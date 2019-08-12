@@ -1,3 +1,4 @@
+* 2019-08-12 [Корейский интернет-гигант Какао дразнит свой криптокошелек для 50M пользователей](https://github.com/theyapapa/cryptonews/blob/ru/korean-internet-giant-kakao-teases-its-crypto-wallet-for-50m-users-6fd5a701.md)
 * 2019-08-12 [Правила Новой Зеландии Получение дохода в Bitcoin является законным, налогооблагаемым](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-rules-receiving-income-in-bitcoin-is-legal-taxable-d2511b0f.md)
 * 2019-08-11 [Джастин ВС: Листинг Tron на основных биржах США является #1 приоритетом](https://github.com/theyapapa/cryptonews/blob/ru/justin-sun-trons-listing-on-major-us-exchange-is-1-priority-f59eb42e.md)
 * 2019-08-11 [Как Brexit повлияет на финтех-индустрию Великобритании? Ответ экспертов](https://github.com/theyapapa/cryptonews/blob/ru/how-brexit-will-affect-the-uk-fintech-industry-experts-answer-c6c25f68.md)
