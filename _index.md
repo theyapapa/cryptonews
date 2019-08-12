@@ -1,3 +1,4 @@
+* 2019-08-12 [Блокчейн-платформа Colu выключается, выкупает свои токены](https://github.com/theyapapa/cryptonews/blob/ru/colu-blockchain-platform-shutting-down-buys-back-its-tokens-32620b1a.md)
 * 2019-08-12 [Храбрый браузер видит 1,200% Увеличение зарегистрированных издателей за год](https://github.com/theyapapa/cryptonews/blob/ru/brave-browser-sees-1-200-increase-of-registered-publishers-over-year-f98632dc.md)
 * 2019-08-12 [TNO официально запускает график торговли токенами общественной безопасности](https://github.com/theyapapa/cryptonews/blob/ru/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
 * 2019-08-12 [Анализ цен 12/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-12-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-9d4d93a0.md)
