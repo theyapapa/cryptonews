@@ -1,3 +1,4 @@
+* 2019-08-12 [TZERO lanza oficialmente el calendario de comercio de tokens de seguridad pública](https://github.com/theyapapa/cryptonews/blob/es/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
 * 2019-08-12 [Análisis de precios 12/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-12-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-9d4d93a0.md)
 * 2019-08-12 [IBM y Tata se convierten en "Propietarios" del Consejo de Gobierno de la plataforma Hedera DLT](https://github.com/theyapapa/cryptonews/blob/es/ibm-and-tata-become-governing-council-owners-of-hedera-dlt-platform-484827a8.md)
 * 2019-08-12 [Suministro de tether actual sugiere Bitcoin precio está corrigiendo a $20,000](https://github.com/theyapapa/cryptonews/blob/es/current-tether-supply-suggests-bitcoin-price-is-correcting-to-20-000-16a68c5f.md)
