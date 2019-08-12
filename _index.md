@@ -1,3 +1,4 @@
+* 2019-08-12 [뉴질랜드 규칙 비트 코인에서 소득을받는 것은 법적, 과세](https://github.com/theyapapa/cryptonews/blob/ko/new-zealand-rules-receiving-income-in-bitcoin-is-legal-taxable-d2511b0f.md)
 * 2019-08-11 [저스틴 선: 트론의 주요 미국 거래소 상장은 #1 우선순위](https://github.com/theyapapa/cryptonews/blob/ko/justin-sun-trons-listing-on-major-us-exchange-is-1-priority-f59eb42e.md)
 * 2019-08-11 [브렉시트가 영국 핀테크 산업에 어떤 영향을 미칠까요? 전문가 답변](https://github.com/theyapapa/cryptonews/blob/ko/how-brexit-will-affect-the-uk-fintech-industry-experts-answer-c6c25f68.md)
 * 2019-08-11 [호들러의 다이제스트, 8월 5-11일: 못된 북한, 인도의 폭탄, LTC 플롭](https://github.com/theyapapa/cryptonews/blob/ko/hodlers-digest-aug-511-naughty-north-korea-indias-bombshell-ltc-flops-461391af.md)
