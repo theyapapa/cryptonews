@@ -1,3 +1,4 @@
+* 2019-08-12 [한국의 인터넷 거대 카카오는 50M 사용자를위한 암호화 지갑을 놀리고](https://github.com/theyapapa/cryptonews/blob/ko/korean-internet-giant-kakao-teases-its-crypto-wallet-for-50m-users-6fd5a701.md)
 * 2019-08-12 [뉴질랜드 규칙 비트 코인에서 소득을받는 것은 법적, 과세](https://github.com/theyapapa/cryptonews/blob/ko/new-zealand-rules-receiving-income-in-bitcoin-is-legal-taxable-d2511b0f.md)
 * 2019-08-11 [저스틴 선: 트론의 주요 미국 거래소 상장은 #1 우선순위](https://github.com/theyapapa/cryptonews/blob/ko/justin-sun-trons-listing-on-major-us-exchange-is-1-priority-f59eb42e.md)
 * 2019-08-11 [브렉시트가 영국 핀테크 산업에 어떤 영향을 미칠까요? 전문가 답변](https://github.com/theyapapa/cryptonews/blob/ko/how-brexit-will-affect-the-uk-fintech-industry-experts-answer-c6c25f68.md)
