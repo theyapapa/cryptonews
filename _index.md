@@ -1,3 +1,4 @@
+* 2019-08-12 [TZERO, 공공 보안 토큰 거래 공식 출시](https://github.com/theyapapa/cryptonews/blob/ko/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
 * 2019-08-12 [가격 분석 12/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-12-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-9d4d93a0.md)
 * 2019-08-12 [IBM과 타타는 헤데라 DLT 플랫폼의 관리위원회 '소유자'가된다](https://github.com/theyapapa/cryptonews/blob/ko/ibm-and-tata-become-governing-council-owners-of-hedera-dlt-platform-484827a8.md)
 * 2019-08-12 [현재 밧줄 공급은 비트 코인 가격이 수정제안 $20,000](https://github.com/theyapapa/cryptonews/blob/ko/current-tether-supply-suggests-bitcoin-price-is-correcting-to-20-000-16a68c5f.md)
