@@ -1,3 +1,4 @@
+* 2019-08-12 [가격 분석 12/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-12-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-9d4d93a0.md)
 * 2019-08-12 [IBM과 타타는 헤데라 DLT 플랫폼의 관리위원회 '소유자'가된다](https://github.com/theyapapa/cryptonews/blob/ko/ibm-and-tata-become-governing-council-owners-of-hedera-dlt-platform-484827a8.md)
 * 2019-08-12 [현재 밧줄 공급은 비트 코인 가격이 수정제안 $20,000](https://github.com/theyapapa/cryptonews/blob/ko/current-tether-supply-suggests-bitcoin-price-is-correcting-to-20-000-16a68c5f.md)
 * 2019-08-12 [한국의 인터넷 거대 카카오는 50M 사용자를위한 암호화 지갑을 놀리고](https://github.com/theyapapa/cryptonews/blob/ko/korean-internet-giant-kakao-teases-its-crypto-wallet-for-50m-users-6fd5a701.md)
