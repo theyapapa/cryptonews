@@ -1,3 +1,4 @@
+* 2019-08-12 [IBM и Tata стали «владельцами» платформы Hedera DLT](https://github.com/theyapapa/cryptonews/blob/ru/ibm-and-tata-become-governing-council-owners-of-hedera-dlt-platform-484827a8.md)
 * 2019-08-12 [Текущее предложение Tether предлагает Bitcoin Цена корректируется до $20,000](https://github.com/theyapapa/cryptonews/blob/ru/current-tether-supply-suggests-bitcoin-price-is-correcting-to-20-000-16a68c5f.md)
 * 2019-08-12 [Корейский интернет-гигант Какао дразнит свой криптокошелек для 50M пользователей](https://github.com/theyapapa/cryptonews/blob/ru/korean-internet-giant-kakao-teases-its-crypto-wallet-for-50m-users-6fd5a701.md)
 * 2019-08-12 [Правила Новой Зеландии Получение дохода в Bitcoin является законным, налогооблагаемым](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-rules-receiving-income-in-bitcoin-is-legal-taxable-d2511b0f.md)
