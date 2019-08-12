@@ -1,3 +1,4 @@
+* 2019-08-12 [TNO официально запускает график торговли токенами общественной безопасности](https://github.com/theyapapa/cryptonews/blob/ru/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
 * 2019-08-12 [Анализ цен 12/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-12-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-9d4d93a0.md)
 * 2019-08-12 [IBM и Tata стали «владельцами» платформы Hedera DLT](https://github.com/theyapapa/cryptonews/blob/ru/ibm-and-tata-become-governing-council-owners-of-hedera-dlt-platform-484827a8.md)
 * 2019-08-12 [Текущее предложение Tether предлагает Bitcoin Цена корректируется до $20,000](https://github.com/theyapapa/cryptonews/blob/ru/current-tether-supply-suggests-bitcoin-price-is-correcting-to-20-000-16a68c5f.md)
