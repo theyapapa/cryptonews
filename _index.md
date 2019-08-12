@@ -1,3 +1,4 @@
+* 2019-08-12 [Colu Blockchain Platform Cerrando, Recompra sus Fichas](https://github.com/theyapapa/cryptonews/blob/es/colu-blockchain-platform-shutting-down-buys-back-its-tokens-32620b1a.md)
 * 2019-08-12 [Brave Browser ve un aumento del 1.200% de los editores registrados a lo largo del año](https://github.com/theyapapa/cryptonews/blob/es/brave-browser-sees-1-200-increase-of-registered-publishers-over-year-f98632dc.md)
 * 2019-08-12 [TZERO lanza oficialmente el calendario de comercio de tokens de seguridad pública](https://github.com/theyapapa/cryptonews/blob/es/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
 * 2019-08-12 [Análisis de precios 12/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-12-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-9d4d93a0.md)
