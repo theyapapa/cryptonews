@@ -1,3 +1,4 @@
+* 2019-08-11 [Justin Sun: El listado de Tron en el principal intercambio de EE. UU. es #1 prioridad](https://github.com/theyapapa/cryptonews/blob/es/justin-sun-trons-listing-on-major-us-exchange-is-1-priority-f59eb42e.md)
 * 2019-08-11 [¿Cómo afectará el Brexit a la industria fintech del Reino Unido? Respuesta de los expertos](https://github.com/theyapapa/cryptonews/blob/es/how-brexit-will-affect-the-uk-fintech-industry-experts-answer-c6c25f68.md)
 * 2019-08-11 [Hodler's Digest, 5–11 de agosto: Naughty North Korea, India's Bombshell, LTC Flops](https://github.com/theyapapa/cryptonews/blob/es/hodlers-digest-aug-511-naughty-north-korea-indias-bombshell-ltc-flops-461391af.md)
 * 2019-08-11 [La moneda digital de China está lista, dice el Banco Central](https://github.com/theyapapa/cryptonews/blob/es/chinas-digital-currency-is-ready-central-bank-says-0eb4e65b.md)
