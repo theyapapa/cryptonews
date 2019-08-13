@@ -1,3 +1,4 @@
+* 2019-08-13 [폴로니엑스는 조개 플래시 충돌로 인한 1,350만 달러의 손실을 상환합니다.](https://github.com/theyapapa/cryptonews/blob/ko/poloniex-will-reimburse-135-million-loss-from-clams-flash-crash-3e12d794.md)
 * 2019-08-13 [영국 암호화 폐 규제는 변화하고, 인식은 긴 마지막에 임박](https://github.com/theyapapa/cryptonews/blob/ko/uk-crypto-regulation-is-changing-recognition-looming-at-long-last-5d3fd52d.md)
 * 2019-08-13 [BitPay지금 비트 코인에서 $ 3K 이상 구매에 대한 사진 ID가 필요합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitpay-now-requires-your-photo-id-for-purchases-over-3k-in-bitcoin-354f9c23.md)
 * 2019-08-13 [페소 급락으로 비트 코인은 아르헨티나에서 4 % 프리미엄을 본다 30%](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sees-4-premium-in-argentina-as-peso-plummets-30-bd87aa4f.md)
