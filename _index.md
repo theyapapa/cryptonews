@@ -1,3 +1,4 @@
+* 2019-08-13 [Мощность Леджер и KEPCO Завершить Blockchain Энергии торговли Судебная в Японии](https://github.com/theyapapa/cryptonews/blob/ru/power-ledger-and-kepco-complete-blockchain-energy-trade-trial-in-japan-638e1309.md)
 * 2019-08-13 [Poloniex возместит $ 13,5 миллионов потерь от моллюсков Flash аварии](https://github.com/theyapapa/cryptonews/blob/ru/poloniex-will-reimburse-135-million-loss-from-clams-flash-crash-3e12d794.md)
 * 2019-08-13 [Великобритания Крипто Регулирование меняется, Признание Looming на длинном последнем](https://github.com/theyapapa/cryptonews/blob/ru/uk-crypto-regulation-is-changing-recognition-looming-at-long-last-5d3fd52d.md)
 * 2019-08-13 [BitPay теперь требует ваш идентификатор фотографии для покупок более $ 3K в Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/bitpay-now-requires-your-photo-id-for-purchases-over-3k-in-bitcoin-354f9c23.md)
