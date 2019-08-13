@@ -1,3 +1,4 @@
+* 2019-08-13 [Coinsquare se asocia con FlexaHQ para llevar los pagos criptográficos a Canadá](https://github.com/theyapapa/cryptonews/blob/es/coinsquare-partners-with-flexahq-to-bring-crypto-payments-to-canada-510f0bb0.md)
 * 2019-08-13 [Power Ledger y KEPCO completan blockchain Energy Trade Trial en Japón](https://github.com/theyapapa/cryptonews/blob/es/power-ledger-and-kepco-complete-blockchain-energy-trade-trial-in-japan-638e1309.md)
 * 2019-08-13 [Poloniex reembolsará $13.5 millones de pérdida sin flash crash](https://github.com/theyapapa/cryptonews/blob/es/poloniex-will-reimburse-135-million-loss-from-clams-flash-crash-3e12d794.md)
 * 2019-08-13 [La regulación criptográfica del Reino Unido está cambiando, el reconocimiento se cierne a largo tiempo](https://github.com/theyapapa/cryptonews/blob/es/uk-crypto-regulation-is-changing-recognition-looming-at-long-last-5d3fd52d.md)
