@@ -1,3 +1,4 @@
+* 2019-08-13 [BitPay지금 비트 코인에서 $ 3K 이상 구매에 대한 사진 ID가 필요합니다](https://github.com/theyapapa/cryptonews/blob/ko/bitpay-now-requires-your-photo-id-for-purchases-over-3k-in-bitcoin-354f9c23.md)
 * 2019-08-13 [페소 급락으로 비트 코인은 아르헨티나에서 4 % 프리미엄을 본다 30%](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-sees-4-premium-in-argentina-as-peso-plummets-30-bd87aa4f.md)
 * 2019-08-13 [XRP 가격에 의해 충돌 40% 비시 거래소에 조정 된 판매 후](https://github.com/theyapapa/cryptonews/blob/ko/xrp-price-crashes-by-40-on-beaxy-exchange-after-coordinated-sell-off-51338988.md)
 * 2019-08-12 [암호화 파생 상품 교환 블레이드는 코인 베이스 및 기타에서 $ 4.3M를 제기합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
