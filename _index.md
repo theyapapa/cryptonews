@@ -1,3 +1,4 @@
+* 2019-08-12 [암호화 파생 상품 교환 블레이드는 코인 베이스 및 기타에서 $ 4.3M를 제기합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
 * 2019-08-12 [Colu 블록 체인 플랫폼 종료, 토큰을 다시 구입](https://github.com/theyapapa/cryptonews/blob/ko/colu-blockchain-platform-shutting-down-buys-back-its-tokens-32620b1a.md)
 * 2019-08-12 [용감한 브라우저는 전년 대비 등록 게시자의 1,200 % 증가를 본다](https://github.com/theyapapa/cryptonews/blob/ko/brave-browser-sees-1-200-increase-of-registered-publishers-over-year-f98632dc.md)
 * 2019-08-12 [TZERO, 공공 보안 토큰 거래 공식 출시](https://github.com/theyapapa/cryptonews/blob/ko/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
