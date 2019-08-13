@@ -1,3 +1,4 @@
+* 2019-08-13 [XRP Цена сбои на 40% на Beaxy Exchange после скоординированной продажи-Off](https://github.com/theyapapa/cryptonews/blob/ru/xrp-price-crashes-by-40-on-beaxy-exchange-after-coordinated-sell-off-51338988.md)
 * 2019-08-12 [Криптовалютные производные Биржи Blade поднимает $ 4,3 M от Coinbase и другие](https://github.com/theyapapa/cryptonews/blob/ru/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
 * 2019-08-12 [Блокчейн-платформа Colu выключается, выкупает свои токены](https://github.com/theyapapa/cryptonews/blob/ru/colu-blockchain-platform-shutting-down-buys-back-its-tokens-32620b1a.md)
 * 2019-08-12 [Храбрый браузер видит 1,200% Увеличение зарегистрированных издателей за год](https://github.com/theyapapa/cryptonews/blob/ru/brave-browser-sees-1-200-increase-of-registered-publishers-over-year-f98632dc.md)
