@@ -1,3 +1,4 @@
+* 2019-08-13 [라틴 아메리카에서 더 많은 국경 간 지불을위한 Bantotal과 Bitex 파트너](https://github.com/theyapapa/cryptonews/blob/ko/bitex-partners-with-bantotal-for-more-cross-border-payments-in-latin-america-40c8bedb.md)
 * 2019-08-13 [사이트 및 API연결시 크라켄 사용자 보고서 어려움](https://github.com/theyapapa/cryptonews/blob/ko/kraken-users-report-difficulties-with-connecting-to-site-and-api-5320e86a.md)
 * 2019-08-13 [캐나다에 암호화 지불을 가지고 FlexaHQ와 코인 스퀘어 파트너](https://github.com/theyapapa/cryptonews/blob/ko/coinsquare-partners-with-flexahq-to-bring-crypto-payments-to-canada-510f0bb0.md)
 * 2019-08-13 [전력원장, 한전, 일본 블록체인 에너지 거래 시험 완료](https://github.com/theyapapa/cryptonews/blob/ko/power-ledger-and-kepco-complete-blockchain-energy-trade-trial-in-japan-638e1309.md)
