@@ -1,3 +1,4 @@
+* 2019-08-13 [Poloniex reembolsará $13.5 millones de pérdida sin flash crash](https://github.com/theyapapa/cryptonews/blob/es/poloniex-will-reimburse-135-million-loss-from-clams-flash-crash-3e12d794.md)
 * 2019-08-13 [La regulación criptográfica del Reino Unido está cambiando, el reconocimiento se cierne a largo tiempo](https://github.com/theyapapa/cryptonews/blob/es/uk-crypto-regulation-is-changing-recognition-looming-at-long-last-5d3fd52d.md)
 * 2019-08-13 [BitPay ahora requiere su identificación con foto para compras de más de $3K en Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/bitpay-now-requires-your-photo-id-for-purchases-over-3k-in-bitcoin-354f9c23.md)
 * 2019-08-13 [Bitcoin ve 4% Premium en Argentina como Peso Plummets 30%](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-sees-4-premium-in-argentina-as-peso-plummets-30-bd87aa4f.md)
