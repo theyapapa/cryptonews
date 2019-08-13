@@ -1,3 +1,4 @@
+* 2019-08-13 [BitPay ahora requiere su identificación con foto para compras de más de $3K en Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/bitpay-now-requires-your-photo-id-for-purchases-over-3k-in-bitcoin-354f9c23.md)
 * 2019-08-13 [Bitcoin ve 4% Premium en Argentina como Peso Plummets 30%](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-sees-4-premium-in-argentina-as-peso-plummets-30-bd87aa4f.md)
 * 2019-08-13 [El precio de XRP se desploma un 40% en Beaxy Exchange después de una venta coordinada](https://github.com/theyapapa/cryptonews/blob/es/xrp-price-crashes-by-40-on-beaxy-exchange-after-coordinated-sell-off-51338988.md)
 * 2019-08-12 [Crypto Derivatives Exchange Blade recauda $4.3M de Coinbase y otros](https://github.com/theyapapa/cryptonews/blob/es/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
