@@ -1,3 +1,4 @@
+* 2019-08-13 [El precio de XRP se desploma un 40% en Beaxy Exchange después de una venta coordinada](https://github.com/theyapapa/cryptonews/blob/es/xrp-price-crashes-by-40-on-beaxy-exchange-after-coordinated-sell-off-51338988.md)
 * 2019-08-12 [Crypto Derivatives Exchange Blade recauda $4.3M de Coinbase y otros](https://github.com/theyapapa/cryptonews/blob/es/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
 * 2019-08-12 [Colu Blockchain Platform Cerrando, Recompra sus Fichas](https://github.com/theyapapa/cryptonews/blob/es/colu-blockchain-platform-shutting-down-buys-back-its-tokens-32620b1a.md)
 * 2019-08-12 [Brave Browser ve un aumento del 1.200% de los editores registrados a lo largo del año](https://github.com/theyapapa/cryptonews/blob/es/brave-browser-sees-1-200-increase-of-registered-publishers-over-year-f98632dc.md)
