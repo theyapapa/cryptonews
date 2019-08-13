@@ -1,3 +1,4 @@
+* 2019-08-12 [Crypto Derivatives Exchange Blade recauda $4.3M de Coinbase y otros](https://github.com/theyapapa/cryptonews/blob/es/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
 * 2019-08-12 [Colu Blockchain Platform Cerrando, Recompra sus Fichas](https://github.com/theyapapa/cryptonews/blob/es/colu-blockchain-platform-shutting-down-buys-back-its-tokens-32620b1a.md)
 * 2019-08-12 [Brave Browser ve un aumento del 1.200% de los editores registrados a lo largo del año](https://github.com/theyapapa/cryptonews/blob/es/brave-browser-sees-1-200-increase-of-registered-publishers-over-year-f98632dc.md)
 * 2019-08-12 [TZERO lanza oficialmente el calendario de comercio de tokens de seguridad pública](https://github.com/theyapapa/cryptonews/blob/es/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
