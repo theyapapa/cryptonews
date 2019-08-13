@@ -1,3 +1,4 @@
+* 2019-08-13 [사이트 및 API연결시 크라켄 사용자 보고서 어려움](https://github.com/theyapapa/cryptonews/blob/ko/kraken-users-report-difficulties-with-connecting-to-site-and-api-5320e86a.md)
 * 2019-08-13 [캐나다에 암호화 지불을 가지고 FlexaHQ와 코인 스퀘어 파트너](https://github.com/theyapapa/cryptonews/blob/ko/coinsquare-partners-with-flexahq-to-bring-crypto-payments-to-canada-510f0bb0.md)
 * 2019-08-13 [전력원장, 한전, 일본 블록체인 에너지 거래 시험 완료](https://github.com/theyapapa/cryptonews/blob/ko/power-ledger-and-kepco-complete-blockchain-energy-trade-trial-in-japan-638e1309.md)
 * 2019-08-13 [폴로니엑스는 조개 플래시 충돌로 인한 1,350만 달러의 손실을 상환합니다.](https://github.com/theyapapa/cryptonews/blob/ko/poloniex-will-reimburse-135-million-loss-from-clams-flash-crash-3e12d794.md)
