@@ -1,3 +1,4 @@
+* 2019-08-13 [BitPay теперь требует ваш идентификатор фотографии для покупок более $ 3K в Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/bitpay-now-requires-your-photo-id-for-purchases-over-3k-in-bitcoin-354f9c23.md)
 * 2019-08-13 [Биткоин видит 4% Премиум в Аргентине, как Песо Plummets 30%](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-sees-4-premium-in-argentina-as-peso-plummets-30-bd87aa4f.md)
 * 2019-08-13 [XRP Цена сбои на 40% на Beaxy Exchange после скоординированной продажи-Off](https://github.com/theyapapa/cryptonews/blob/ru/xrp-price-crashes-by-40-on-beaxy-exchange-after-coordinated-sell-off-51338988.md)
 * 2019-08-12 [Криптовалютные производные Биржи Blade поднимает $ 4,3 M от Coinbase и другие](https://github.com/theyapapa/cryptonews/blob/ru/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
