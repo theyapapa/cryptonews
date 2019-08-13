@@ -1,3 +1,4 @@
+* 2019-08-12 [Криптовалютные производные Биржи Blade поднимает $ 4,3 M от Coinbase и другие](https://github.com/theyapapa/cryptonews/blob/ru/crypto-derivatives-exchange-blade-raises-43m-from-coinbase-and-others-3f5cdf01.md)
 * 2019-08-12 [Блокчейн-платформа Colu выключается, выкупает свои токены](https://github.com/theyapapa/cryptonews/blob/ru/colu-blockchain-platform-shutting-down-buys-back-its-tokens-32620b1a.md)
 * 2019-08-12 [Храбрый браузер видит 1,200% Увеличение зарегистрированных издателей за год](https://github.com/theyapapa/cryptonews/blob/ru/brave-browser-sees-1-200-increase-of-registered-publishers-over-year-f98632dc.md)
 * 2019-08-12 [TNO официально запускает график торговли токенами общественной безопасности](https://github.com/theyapapa/cryptonews/blob/ru/tzero-officially-launches-public-security-token-trading-on-schedule-9f49bf1a.md)
