@@ -1,3 +1,4 @@
+* 2019-08-13 [Icono para regalar $570,000 en fichas para promover el voto, descentralización](https://github.com/theyapapa/cryptonews/blob/es/icon-to-giveaway-570-000-in-tokens-to-promote-voting-decentralization-5799afbf.md)
 * 2019-08-13 [Bitex se asocia con Bantotal para más pagos transfronterizos en América Latina](https://github.com/theyapapa/cryptonews/blob/es/bitex-partners-with-bantotal-for-more-cross-border-payments-in-latin-america-40c8bedb.md)
 * 2019-08-13 [Dificultades del informe de los usuarios de Kraken al conectarse al sitio y a la API](https://github.com/theyapapa/cryptonews/blob/es/kraken-users-report-difficulties-with-connecting-to-site-and-api-5320e86a.md)
 * 2019-08-13 [Coinsquare se asocia con FlexaHQ para llevar los pagos criptográficos a Canadá](https://github.com/theyapapa/cryptonews/blob/es/coinsquare-partners-with-flexahq-to-bring-crypto-payments-to-canada-510f0bb0.md)
