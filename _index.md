@@ -1,3 +1,4 @@
+* 2019-08-14 [Даллас Маверикс стал второй командой НБА, принявшой биткоин](https://github.com/theyapapa/cryptonews/blob/ru/dallas-mavericks-become-second-nba-team-to-accept-bitcoin-41cede67.md)
 * 2019-08-13 [Barclays может быть окончание работы с Coinbase, сделки в GBP, чтобы замедлить](https://github.com/theyapapa/cryptonews/blob/ru/barclays-may-be-ending-work-with-coinbase-transactions-in-gbp-to-slow-48fa2290.md)
 * 2019-08-13 [Значок для giveaway $570,000 в токенах для содействия голосованию, децентрализации](https://github.com/theyapapa/cryptonews/blob/ru/icon-to-giveaway-570-000-in-tokens-to-promote-voting-decentralization-5799afbf.md)
 * 2019-08-13 [Bitex Партнеры с Bantotal для более трансграничных платежей в Латинской Америке](https://github.com/theyapapa/cryptonews/blob/ru/bitex-partners-with-bantotal-for-more-cross-border-payments-in-latin-america-40c8bedb.md)
