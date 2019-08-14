@@ -1,3 +1,4 @@
+* 2019-08-14 [La firma Blockchain Findora contrata a un ex CTO de Coinbase como Asesor Estratégico](https://github.com/theyapapa/cryptonews/blob/es/blockchain-firm-findora-hires-former-coinbase-cto-as-strategic-advisor-880aaf10.md)
 * 2019-08-14 [Encuesta de ING: Los austriacos son más escépticos de Bitcoin y criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/ing-poll-austrians-are-most-skeptical-of-bitcoin-and-cryptocurrency-7163bb43.md)
 * 2019-08-14 [Los titulares de criptografía de EE. UU. solo tienen unos días para responder a la carta del IRS 6173](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-holders-only-have-a-few-days-to-reply-to-the-irs-6173-letter-2d6281d8.md)
 * 2019-08-14 [El banco más antiguo de Corea está construyendo un sistema de seguridad basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/koreas-oldest-bank-is-building-a-blockchain-based-security-system-62f0103a.md)
