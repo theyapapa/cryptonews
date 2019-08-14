@@ -1,3 +1,4 @@
+* 2019-08-14 [Люксембург Финансовый Watchdog: Crypto Entity лгал о лицензировании](https://github.com/theyapapa/cryptonews/blob/ru/luxembourg-financial-watchdog-crypto-entity-lied-about-licensure-f197a69a.md)
 * 2019-08-14 [Блокчейн фирма Findora нанимает бывшего финансового директоров Coinbase в качестве стратегического советника](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-findora-hires-former-coinbase-cto-as-strategic-advisor-880aaf10.md)
 * 2019-08-14 [Опрос ING: Австрийцы настроены наиболее скептически относятся к биткоину и криптовалюте](https://github.com/theyapapa/cryptonews/blob/ru/ing-poll-austrians-are-most-skeptical-of-bitcoin-and-cryptocurrency-7163bb43.md)
 * 2019-08-14 [США Crypto Держатели только несколько дней, чтобы ответить на IRS 6173 Письмо](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-holders-only-have-a-few-days-to-reply-to-the-irs-6173-letter-2d6281d8.md)
