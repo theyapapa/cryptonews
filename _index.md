@@ -1,3 +1,4 @@
+* 2019-08-14 [한국에서 가장 오래된 은행이 블록체인 기반 보안 시스템을 구축하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/koreas-oldest-bank-is-building-a-blockchain-based-security-system-62f0103a.md)
 * 2019-08-14 [삼성 은 신중하게 Blockchain 키 스토어에 비트 코인 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/samsung-discreetly-adds-bitcoin-support-to-blockchain-keystore-73004db6.md)
 * 2019-08-14 [댈러스 매버릭스, 비트코인 을 받아들이는 두 번째 NBA 팀이 되다](https://github.com/theyapapa/cryptonews/blob/ko/dallas-mavericks-become-second-nba-team-to-accept-bitcoin-41cede67.md)
 * 2019-08-13 [바클레이는 코인베이스와 작업을 종료 할 수있다, GBP의 거래는 느리게](https://github.com/theyapapa/cryptonews/blob/ko/barclays-may-be-ending-work-with-coinbase-transactions-in-gbp-to-slow-48fa2290.md)
