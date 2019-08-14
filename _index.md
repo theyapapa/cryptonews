@@ -1,3 +1,4 @@
+* 2019-08-14 [Luxembourg Financial Watchdog: Crypto Entity Lied About Licensure](https://github.com/theyapapa/cryptonews/blob/es/luxembourg-financial-watchdog-crypto-entity-lied-about-licensure-f197a69a.md)
 * 2019-08-14 [La firma Blockchain Findora contrata a un ex CTO de Coinbase como Asesor Estratégico](https://github.com/theyapapa/cryptonews/blob/es/blockchain-firm-findora-hires-former-coinbase-cto-as-strategic-advisor-880aaf10.md)
 * 2019-08-14 [Encuesta de ING: Los austriacos son más escépticos de Bitcoin y criptomoneda](https://github.com/theyapapa/cryptonews/blob/es/ing-poll-austrians-are-most-skeptical-of-bitcoin-and-cryptocurrency-7163bb43.md)
 * 2019-08-14 [Los titulares de criptografía de EE. UU. solo tienen unos días para responder a la carta del IRS 6173](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-holders-only-have-a-few-days-to-reply-to-the-irs-6173-letter-2d6281d8.md)
