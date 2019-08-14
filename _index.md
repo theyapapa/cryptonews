@@ -1,3 +1,4 @@
+* 2019-08-14 [미국 금융 규제 당국은 플렉스코프 ICO를 통해 $ 7M 정산에 도달](https://github.com/theyapapa/cryptonews/blob/ko/us-financial-regulators-reach-7m-settlement-over-plexcorps-ico-483bbbc0.md)
 * 2019-08-14 [룩셈부르크 금융 감시: 암호화 엔티티 는 면허에 대해 거짓말을](https://github.com/theyapapa/cryptonews/blob/ko/luxembourg-financial-watchdog-crypto-entity-lied-about-licensure-f197a69a.md)
 * 2019-08-14 [블록체인 회사 Findora, 전 코인베이스 CTO를 전략 고문으로 고용](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-firm-findora-hires-former-coinbase-cto-as-strategic-advisor-880aaf10.md)
 * 2019-08-14 [ING 설문 조사: 오스트리아는 비트 코인과 암호 화폐의 가장 회의적이다](https://github.com/theyapapa/cryptonews/blob/ko/ing-poll-austrians-are-most-skeptical-of-bitcoin-and-cryptocurrency-7163bb43.md)
