@@ -1,3 +1,4 @@
+* 2019-08-14 [ING 설문 조사: 오스트리아는 비트 코인과 암호 화폐의 가장 회의적이다](https://github.com/theyapapa/cryptonews/blob/ko/ing-poll-austrians-are-most-skeptical-of-bitcoin-and-cryptocurrency-7163bb43.md)
 * 2019-08-14 [미국 암호화 보유자는 국세청에 회신하는 데 며칠밖에 되지 않습니다 6173 편지](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-holders-only-have-a-few-days-to-reply-to-the-irs-6173-letter-2d6281d8.md)
 * 2019-08-14 [한국에서 가장 오래된 은행이 블록체인 기반 보안 시스템을 구축하고 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/koreas-oldest-bank-is-building-a-blockchain-based-security-system-62f0103a.md)
 * 2019-08-14 [삼성 은 신중하게 Blockchain 키 스토어에 비트 코인 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/samsung-discreetly-adds-bitcoin-support-to-blockchain-keystore-73004db6.md)
