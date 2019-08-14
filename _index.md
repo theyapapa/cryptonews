@@ -1,3 +1,4 @@
+* 2019-08-14 [Старейший банк Кореи строит систему безопасности на основе блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/koreas-oldest-bank-is-building-a-blockchain-based-security-system-62f0103a.md)
 * 2019-08-14 [Samsung незаметно добавляет поддержку Bitcoin в Blockchain Keystore](https://github.com/theyapapa/cryptonews/blob/ru/samsung-discreetly-adds-bitcoin-support-to-blockchain-keystore-73004db6.md)
 * 2019-08-14 [Даллас Маверикс стал второй командой НБА, принявшой биткоин](https://github.com/theyapapa/cryptonews/blob/ru/dallas-mavericks-become-second-nba-team-to-accept-bitcoin-41cede67.md)
 * 2019-08-13 [Barclays может быть окончание работы с Coinbase, сделки в GBP, чтобы замедлить](https://github.com/theyapapa/cryptonews/blob/ru/barclays-may-be-ending-work-with-coinbase-transactions-in-gbp-to-slow-48fa2290.md)
