@@ -1,3 +1,4 @@
+* 2019-08-14 [룩셈부르크 금융 감시: 암호화 엔티티 는 면허에 대해 거짓말을](https://github.com/theyapapa/cryptonews/blob/ko/luxembourg-financial-watchdog-crypto-entity-lied-about-licensure-f197a69a.md)
 * 2019-08-14 [블록체인 회사 Findora, 전 코인베이스 CTO를 전략 고문으로 고용](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-firm-findora-hires-former-coinbase-cto-as-strategic-advisor-880aaf10.md)
 * 2019-08-14 [ING 설문 조사: 오스트리아는 비트 코인과 암호 화폐의 가장 회의적이다](https://github.com/theyapapa/cryptonews/blob/ko/ing-poll-austrians-are-most-skeptical-of-bitcoin-and-cryptocurrency-7163bb43.md)
 * 2019-08-14 [미국 암호화 보유자는 국세청에 회신하는 데 며칠밖에 되지 않습니다 6173 편지](https://github.com/theyapapa/cryptonews/blob/ko/us-crypto-holders-only-have-a-few-days-to-reply-to-the-irs-6173-letter-2d6281d8.md)
