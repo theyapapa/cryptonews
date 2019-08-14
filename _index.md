@@ -1,3 +1,4 @@
+* 2019-08-14 [Los titulares de criptografía de EE. UU. solo tienen unos días para responder a la carta del IRS 6173](https://github.com/theyapapa/cryptonews/blob/es/us-crypto-holders-only-have-a-few-days-to-reply-to-the-irs-6173-letter-2d6281d8.md)
 * 2019-08-14 [El banco más antiguo de Corea está construyendo un sistema de seguridad basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/koreas-oldest-bank-is-building-a-blockchain-based-security-system-62f0103a.md)
 * 2019-08-14 [Samsung añade discretamente soporte Bitcoin a Blockchain Keystore](https://github.com/theyapapa/cryptonews/blob/es/samsung-discreetly-adds-bitcoin-support-to-blockchain-keystore-73004db6.md)
 * 2019-08-14 [Dallas Mavericks se convierte naconen en el segundo equipo de la NBA para aceptar Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/dallas-mavericks-become-second-nba-team-to-accept-bitcoin-41cede67.md)
