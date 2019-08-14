@@ -1,3 +1,4 @@
+* 2019-08-14 [Опрос ING: Австрийцы настроены наиболее скептически относятся к биткоину и криптовалюте](https://github.com/theyapapa/cryptonews/blob/ru/ing-poll-austrians-are-most-skeptical-of-bitcoin-and-cryptocurrency-7163bb43.md)
 * 2019-08-14 [США Crypto Держатели только несколько дней, чтобы ответить на IRS 6173 Письмо](https://github.com/theyapapa/cryptonews/blob/ru/us-crypto-holders-only-have-a-few-days-to-reply-to-the-irs-6173-letter-2d6281d8.md)
 * 2019-08-14 [Старейший банк Кореи строит систему безопасности на основе блокчейна](https://github.com/theyapapa/cryptonews/blob/ru/koreas-oldest-bank-is-building-a-blockchain-based-security-system-62f0103a.md)
 * 2019-08-14 [Samsung незаметно добавляет поддержку Bitcoin в Blockchain Keystore](https://github.com/theyapapa/cryptonews/blob/ru/samsung-discreetly-adds-bitcoin-support-to-blockchain-keystore-73004db6.md)
