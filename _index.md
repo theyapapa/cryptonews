@@ -1,3 +1,4 @@
+* 2019-08-14 [삼성 은 신중하게 Blockchain 키 스토어에 비트 코인 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/samsung-discreetly-adds-bitcoin-support-to-blockchain-keystore-73004db6.md)
 * 2019-08-14 [댈러스 매버릭스, 비트코인 을 받아들이는 두 번째 NBA 팀이 되다](https://github.com/theyapapa/cryptonews/blob/ko/dallas-mavericks-become-second-nba-team-to-accept-bitcoin-41cede67.md)
 * 2019-08-13 [바클레이는 코인베이스와 작업을 종료 할 수있다, GBP의 거래는 느리게](https://github.com/theyapapa/cryptonews/blob/ko/barclays-may-be-ending-work-with-coinbase-transactions-in-gbp-to-slow-48fa2290.md)
 * 2019-08-13 [투표, 지방 분권화를 촉진하기 위해 토큰으로 570,000 달러를 기부하는 아이콘](https://github.com/theyapapa/cryptonews/blob/ko/icon-to-giveaway-570-000-in-tokens-to-promote-voting-decentralization-5799afbf.md)
