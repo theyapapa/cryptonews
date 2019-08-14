@@ -1,3 +1,4 @@
+* 2019-08-13 [바클레이는 코인베이스와 작업을 종료 할 수있다, GBP의 거래는 느리게](https://github.com/theyapapa/cryptonews/blob/ko/barclays-may-be-ending-work-with-coinbase-transactions-in-gbp-to-slow-48fa2290.md)
 * 2019-08-13 [투표, 지방 분권화를 촉진하기 위해 토큰으로 570,000 달러를 기부하는 아이콘](https://github.com/theyapapa/cryptonews/blob/ko/icon-to-giveaway-570-000-in-tokens-to-promote-voting-decentralization-5799afbf.md)
 * 2019-08-13 [라틴 아메리카에서 더 많은 국경 간 지불을위한 Bantotal과 Bitex 파트너](https://github.com/theyapapa/cryptonews/blob/ko/bitex-partners-with-bantotal-for-more-cross-border-payments-in-latin-america-40c8bedb.md)
 * 2019-08-13 [사이트 및 API연결시 크라켄 사용자 보고서 어려움](https://github.com/theyapapa/cryptonews/blob/ko/kraken-users-report-difficulties-with-connecting-to-site-and-api-5320e86a.md)
