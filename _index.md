@@ -1,3 +1,4 @@
+* 2019-08-14 [Samsung añade discretamente soporte Bitcoin a Blockchain Keystore](https://github.com/theyapapa/cryptonews/blob/es/samsung-discreetly-adds-bitcoin-support-to-blockchain-keystore-73004db6.md)
 * 2019-08-14 [Dallas Mavericks se convierte naconen en el segundo equipo de la NBA para aceptar Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/dallas-mavericks-become-second-nba-team-to-accept-bitcoin-41cede67.md)
 * 2019-08-13 [Barclays puede estar terminando el trabajo con Coinbase, transacciones en GBP a lento](https://github.com/theyapapa/cryptonews/blob/es/barclays-may-be-ending-work-with-coinbase-transactions-in-gbp-to-slow-48fa2290.md)
 * 2019-08-13 [Icono para regalar $570,000 en fichas para promover el voto, descentralización](https://github.com/theyapapa/cryptonews/blob/es/icon-to-giveaway-570-000-in-tokens-to-promote-voting-decentralization-5799afbf.md)
