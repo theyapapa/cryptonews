@@ -1,3 +1,4 @@
+* 2019-08-13 [Значок для giveaway $570,000 в токенах для содействия голосованию, децентрализации](https://github.com/theyapapa/cryptonews/blob/ru/icon-to-giveaway-570-000-in-tokens-to-promote-voting-decentralization-5799afbf.md)
 * 2019-08-13 [Bitex Партнеры с Bantotal для более трансграничных платежей в Латинской Америке](https://github.com/theyapapa/cryptonews/blob/ru/bitex-partners-with-bantotal-for-more-cross-border-payments-in-latin-america-40c8bedb.md)
 * 2019-08-13 [Kraken пользователей отчет трудности с подключением к сайту и API](https://github.com/theyapapa/cryptonews/blob/ru/kraken-users-report-difficulties-with-connecting-to-site-and-api-5320e86a.md)
 * 2019-08-13 [Coinsquare Партнеры с FlexaH, чтобы принести криптоплатежи в Канаду](https://github.com/theyapapa/cryptonews/blob/ru/coinsquare-partners-with-flexahq-to-bring-crypto-payments-to-canada-510f0bb0.md)
