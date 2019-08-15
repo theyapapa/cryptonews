@@ -1,3 +1,4 @@
+* 2019-08-15 [Alibaba Файлы США патент для Blockchain доменное имя системы управления](https://github.com/theyapapa/cryptonews/blob/ru/alibaba-files-us-patent-for-blockchain-domain-name-management-system-3c766bde.md)
 * 2019-08-15 [Криптобиржа Poloniex в делистинг 23 торговых пар из-за низкого объема](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-poloniex-to-delist-23-trading-pairs-due-to-low-volume-59bec327.md)
 * 2019-08-15 [Ripple в Xpring дает $ 265 Mil в XRP для содержания платформы катушки](https://github.com/theyapapa/cryptonews/blob/ru/ripples-xpring-gives-265-mil-in-xrp-to-content-platform-coil-e1955632.md)
 * 2019-08-15 [Институциональная платформа криптокредитования получает гибралтарскую лицензию DLT](https://github.com/theyapapa/cryptonews/blob/ru/institutional-crypto-lending-platform-receives-gibraltar-dlt-license-49d209be.md)
