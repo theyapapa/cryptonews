@@ -1,3 +1,4 @@
+* 2019-08-14 [Walmart Файлы патент для Blockchain основе дрон системы связи](https://github.com/theyapapa/cryptonews/blob/ru/walmart-files-patent-for-blockchain-based-drone-communication-system-87735000.md)
 * 2019-08-14 [Финансовые регуляторы США достигли урегулирования на $7 млн по ICO PlexCorps](https://github.com/theyapapa/cryptonews/blob/ru/us-financial-regulators-reach-7m-settlement-over-plexcorps-ico-483bbbc0.md)
 * 2019-08-14 [Люксембург Финансовый Watchdog: Crypto Entity лгал о лицензировании](https://github.com/theyapapa/cryptonews/blob/ru/luxembourg-financial-watchdog-crypto-entity-lied-about-licensure-f197a69a.md)
 * 2019-08-14 [Блокчейн фирма Findora нанимает бывшего финансового директоров Coinbase в качестве стратегического советника](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-findora-hires-former-coinbase-cto-as-strategic-advisor-880aaf10.md)
