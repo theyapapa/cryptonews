@@ -1,3 +1,4 @@
+* 2019-08-15 [Xpring de Ripple da $265 Mil en XRP a Content Platform Coil](https://github.com/theyapapa/cryptonews/blob/es/ripples-xpring-gives-265-mil-in-xrp-to-content-platform-coil-e1955632.md)
 * 2019-08-15 [Plataforma Institucional de Préstamos criptográficos recibe licencia DLT de Gibraltar](https://github.com/theyapapa/cryptonews/blob/es/institutional-crypto-lending-platform-receives-gibraltar-dlt-license-49d209be.md)
 * 2019-08-15 [El Banco de Inversiones Líder en América Latina se une al Grupo de Contabilidad Distribuida](https://github.com/theyapapa/cryptonews/blob/es/leading-latin-america-investment-bank-joins-distributed-ledger-group-1fe4b021.md)
 * 2019-08-15 [Universidad Canadiense: Blockchain puede resolver EV carga confiable problema](https://github.com/theyapapa/cryptonews/blob/es/canadian-university-blockchain-can-solve-ev-charging-trust-problem-ab0f1a9e.md)
