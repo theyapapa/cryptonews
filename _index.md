@@ -1,3 +1,4 @@
+* 2019-08-15 [Plataforma Institucional de Préstamos criptográficos recibe licencia DLT de Gibraltar](https://github.com/theyapapa/cryptonews/blob/es/institutional-crypto-lending-platform-receives-gibraltar-dlt-license-49d209be.md)
 * 2019-08-15 [El Banco de Inversiones Líder en América Latina se une al Grupo de Contabilidad Distribuida](https://github.com/theyapapa/cryptonews/blob/es/leading-latin-america-investment-bank-joins-distributed-ledger-group-1fe4b021.md)
 * 2019-08-15 [Universidad Canadiense: Blockchain puede resolver EV carga confiable problema](https://github.com/theyapapa/cryptonews/blob/es/canadian-university-blockchain-can-solve-ev-charging-trust-problem-ab0f1a9e.md)
 * 2019-08-15 [Plan Ponzi $3B es ahora supuestamente volcar Bitcoin por los cientos](https://github.com/theyapapa/cryptonews/blob/es/3b-ponzi-scheme-is-now-allegedly-dumping-bitcoin-by-the-hundreds-199f0728.md)
