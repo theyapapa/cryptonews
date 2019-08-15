@@ -1,3 +1,4 @@
+* 2019-08-14 [Биткоин упал до $10,000 в недавнем нисходящего тренда](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-drops-to-10-000-in-recent-downtrend-cc6f3c9c.md)
 * 2019-08-14 [Walmart Файлы патент для Blockchain основе дрон системы связи](https://github.com/theyapapa/cryptonews/blob/ru/walmart-files-patent-for-blockchain-based-drone-communication-system-87735000.md)
 * 2019-08-14 [Финансовые регуляторы США достигли урегулирования на $7 млн по ICO PlexCorps](https://github.com/theyapapa/cryptonews/blob/ru/us-financial-regulators-reach-7m-settlement-over-plexcorps-ico-483bbbc0.md)
 * 2019-08-14 [Люксембург Финансовый Watchdog: Crypto Entity лгал о лицензировании](https://github.com/theyapapa/cryptonews/blob/ru/luxembourg-financial-watchdog-crypto-entity-lied-about-licensure-f197a69a.md)
