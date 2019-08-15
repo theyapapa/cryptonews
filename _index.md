@@ -1,3 +1,4 @@
+* 2019-08-15 [Universidad Canadiense: Blockchain puede resolver EV carga confiable problema](https://github.com/theyapapa/cryptonews/blob/es/canadian-university-blockchain-can-solve-ev-charging-trust-problem-ab0f1a9e.md)
 * 2019-08-15 [Plan Ponzi $3B es ahora supuestamente volcar Bitcoin por los cientos](https://github.com/theyapapa/cryptonews/blob/es/3b-ponzi-scheme-is-now-allegedly-dumping-bitcoin-by-the-hundreds-199f0728.md)
 * 2019-08-15 [Bitcoin precio por debajo de $10K pero la tendencia se mantiene alcista, dice comerciante veterano](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-below-10k-but-trend-stays-bullish-says-veteran-trader-ec8f6a85.md)
 * 2019-08-14 [Bitcoin cae a $10,000 en la tendencia bajista reciente](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-drops-to-10-000-in-recent-downtrend-cc6f3c9c.md)
