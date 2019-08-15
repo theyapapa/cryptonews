@@ -1,3 +1,4 @@
+* 2019-08-15 [Криптобиржа Poloniex в делистинг 23 торговых пар из-за низкого объема](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-poloniex-to-delist-23-trading-pairs-due-to-low-volume-59bec327.md)
 * 2019-08-15 [Ripple в Xpring дает $ 265 Mil в XRP для содержания платформы катушки](https://github.com/theyapapa/cryptonews/blob/ru/ripples-xpring-gives-265-mil-in-xrp-to-content-platform-coil-e1955632.md)
 * 2019-08-15 [Институциональная платформа криптокредитования получает гибралтарскую лицензию DLT](https://github.com/theyapapa/cryptonews/blob/ru/institutional-crypto-lending-platform-receives-gibraltar-dlt-license-49d209be.md)
 * 2019-08-15 [Ведущий латиноамериканский инвестиционный банк присоединяется к Распределенной Группе Книги](https://github.com/theyapapa/cryptonews/blob/ru/leading-latin-america-investment-bank-joins-distributed-ledger-group-1fe4b021.md)
