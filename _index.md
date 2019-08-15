@@ -1,3 +1,4 @@
+* 2019-08-15 [Alibaba Files US Patent for Blockchain Domain Name Management System](https://github.com/theyapapa/cryptonews/blob/es/alibaba-files-us-patent-for-blockchain-domain-name-management-system-3c766bde.md)
 * 2019-08-15 [Crypto Exchange Poloniex para dar de baja 23 pares comerciales debido al bajo volumen](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-poloniex-to-delist-23-trading-pairs-due-to-low-volume-59bec327.md)
 * 2019-08-15 [Xpring de Ripple da $265 Mil en XRP a Content Platform Coil](https://github.com/theyapapa/cryptonews/blob/es/ripples-xpring-gives-265-mil-in-xrp-to-content-platform-coil-e1955632.md)
 * 2019-08-15 [Plataforma Institucional de Préstamos criptográficos recibe licencia DLT de Gibraltar](https://github.com/theyapapa/cryptonews/blob/es/institutional-crypto-lending-platform-receives-gibraltar-dlt-license-49d209be.md)
