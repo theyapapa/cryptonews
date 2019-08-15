@@ -1,3 +1,4 @@
+* 2019-08-15 [Канадский университет: Блокчейн может решить проблему EV Зарядка Доверия](https://github.com/theyapapa/cryptonews/blob/ru/canadian-university-blockchain-can-solve-ev-charging-trust-problem-ab0f1a9e.md)
 * 2019-08-15 [$3B Понци Схема в настоящее время якобы демпинг Bitcoin на сотни](https://github.com/theyapapa/cryptonews/blob/ru/3b-ponzi-scheme-is-now-allegedly-dumping-bitcoin-by-the-hundreds-199f0728.md)
 * 2019-08-15 [Биткоин Цена ниже $ 10K Но тренд остается бычий, говорит ветеран трейдер](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-below-10k-but-trend-stays-bullish-says-veteran-trader-ec8f6a85.md)
 * 2019-08-14 [Биткоин упал до $10,000 в недавнем нисходящего тренда](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-drops-to-10-000-in-recent-downtrend-cc6f3c9c.md)
