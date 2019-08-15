@@ -1,3 +1,4 @@
+* 2019-08-15 [캐나다 대학: 블록체인은 EV 충전 신뢰 문제를 해결할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-university-blockchain-can-solve-ev-charging-trust-problem-ab0f1a9e.md)
 * 2019-08-15 [$3B 폰지 계획은 지금 주장 수백에 의해 비트 코인을 덤핑](https://github.com/theyapapa/cryptonews/blob/ko/3b-ponzi-scheme-is-now-allegedly-dumping-bitcoin-by-the-hundreds-199f0728.md)
 * 2019-08-15 [아래 비트 코인 가격 $10K하지만 추세는 강세를 유지, 베테랑 상인을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-below-10k-but-trend-stays-bullish-says-veteran-trader-ec8f6a85.md)
 * 2019-08-14 [비트 코인은 하락 $10,000 최근 하락 추세에](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-drops-to-10-000-in-recent-downtrend-cc6f3c9c.md)
