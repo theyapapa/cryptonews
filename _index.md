@@ -1,3 +1,4 @@
+* 2019-08-15 [Институциональная платформа криптокредитования получает гибралтарскую лицензию DLT](https://github.com/theyapapa/cryptonews/blob/ru/institutional-crypto-lending-platform-receives-gibraltar-dlt-license-49d209be.md)
 * 2019-08-15 [Ведущий латиноамериканский инвестиционный банк присоединяется к Распределенной Группе Книги](https://github.com/theyapapa/cryptonews/blob/ru/leading-latin-america-investment-bank-joins-distributed-ledger-group-1fe4b021.md)
 * 2019-08-15 [Канадский университет: Блокчейн может решить проблему EV Зарядка Доверия](https://github.com/theyapapa/cryptonews/blob/ru/canadian-university-blockchain-can-solve-ev-charging-trust-problem-ab0f1a9e.md)
 * 2019-08-15 [$3B Понци Схема в настоящее время якобы демпинг Bitcoin на сотни](https://github.com/theyapapa/cryptonews/blob/ru/3b-ponzi-scheme-is-now-allegedly-dumping-bitcoin-by-the-hundreds-199f0728.md)
