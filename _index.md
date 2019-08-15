@@ -1,3 +1,4 @@
+* 2019-08-15 [리플의 Xpring 제공 $265 콘텐츠 플랫폼 코일 XRP에 밀](https://github.com/theyapapa/cryptonews/blob/ko/ripples-xpring-gives-265-mil-in-xrp-to-content-platform-coil-e1955632.md)
 * 2019-08-15 [기관 암호화 대출 플랫폼은 지브롤터 DLT 라이센스를 받습니다.](https://github.com/theyapapa/cryptonews/blob/ko/institutional-crypto-lending-platform-receives-gibraltar-dlt-license-49d209be.md)
 * 2019-08-15 [선도적인 라틴 아메리카 투자 은행, 분산 원장 그룹 가입](https://github.com/theyapapa/cryptonews/blob/ko/leading-latin-america-investment-bank-joins-distributed-ledger-group-1fe4b021.md)
 * 2019-08-15 [캐나다 대학: 블록체인은 EV 충전 신뢰 문제를 해결할 수 있습니다.](https://github.com/theyapapa/cryptonews/blob/ko/canadian-university-blockchain-can-solve-ev-charging-trust-problem-ab0f1a9e.md)
