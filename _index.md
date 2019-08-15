@@ -1,3 +1,4 @@
+* 2019-08-14 [비트 코인은 하락 $10,000 최근 하락 추세에](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-drops-to-10-000-in-recent-downtrend-cc6f3c9c.md)
 * 2019-08-14 [월마트, 블록체인 기반 드론 통신 시스템 특허 출원](https://github.com/theyapapa/cryptonews/blob/ko/walmart-files-patent-for-blockchain-based-drone-communication-system-87735000.md)
 * 2019-08-14 [미국 금융 규제 당국은 플렉스코프 ICO를 통해 $ 7M 정산에 도달](https://github.com/theyapapa/cryptonews/blob/ko/us-financial-regulators-reach-7m-settlement-over-plexcorps-ico-483bbbc0.md)
 * 2019-08-14 [룩셈부르크 금융 감시: 암호화 엔티티 는 면허에 대해 거짓말을](https://github.com/theyapapa/cryptonews/blob/ko/luxembourg-financial-watchdog-crypto-entity-lied-about-licensure-f197a69a.md)
