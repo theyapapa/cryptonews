@@ -1,3 +1,4 @@
+* 2019-08-15 [Bitcoin precio por debajo de $10K pero la tendencia se mantiene alcista, dice comerciante veterano](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-below-10k-but-trend-stays-bullish-says-veteran-trader-ec8f6a85.md)
 * 2019-08-14 [Bitcoin cae a $10,000 en la tendencia bajista reciente](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-drops-to-10-000-in-recent-downtrend-cc6f3c9c.md)
 * 2019-08-14 [Patente de archivos Walmart para el sistema de comunicación de drones basado en blockchain](https://github.com/theyapapa/cryptonews/blob/es/walmart-files-patent-for-blockchain-based-drone-communication-system-87735000.md)
 * 2019-08-14 [Reguladores Financieros de EE. UU. alcanzan acuerdo de $7m sobre PlexCorps ICO](https://github.com/theyapapa/cryptonews/blob/es/us-financial-regulators-reach-7m-settlement-over-plexcorps-ico-483bbbc0.md)
