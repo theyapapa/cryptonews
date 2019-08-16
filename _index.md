@@ -1,3 +1,4 @@
+* 2019-08-16 [Майк Тайсон: "Я не участвую в борьбе с славой или их Обратный отсчет сайта"](https://github.com/theyapapa/cryptonews/blob/ru/mike-tyson-i-am-not-involved-with-fight-to-fame-or-their-countdown-website-5f951355.md)
 * 2019-08-16 [Digix и MakerDAO токены теперь загружены на монолитной визы дебетовой карты](https://github.com/theyapapa/cryptonews/blob/ru/digix-and-makerdao-tokens-now-loadable-onto-monolith-visa-debit-card-31dbdf2d.md)
 * 2019-08-16 [IT-гигант Oracle судится с блокчейн-стартапом за то, что он взял свое имя](https://github.com/theyapapa/cryptonews/blob/ru/it-giant-oracle-sues-blockchain-startup-for-taking-its-name-e2cd6918.md)
 * 2019-08-16 [Австралия: 100% Крипто-инвестные пенсионные портфели являются незаконными](https://github.com/theyapapa/cryptonews/blob/ru/australia-100-crypto-invested-retirement-portfolios-are-illegal-54837d66.md)
