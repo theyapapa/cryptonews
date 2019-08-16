@@ -1,3 +1,4 @@
+* 2019-08-16 [Исследователи: Падение цены bitcoin не вызвано $3B Ponzi BTC Dump](https://github.com/theyapapa/cryptonews/blob/ru/researchers-bitcoin-price-drop-not-caused-by-3b-ponzi-btc-dump-ad895084.md)
 * 2019-08-16 [Биткойн плохо для платежей, но молния решает это: Самсон Мау](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-is-bad-for-payments-but-lightning-solves-this-samson-mow-3c243f98.md)
 * 2019-08-16 [Том Ли: BTC является подлинной безопасной гаванью, потенциальные новые все время высоко к концу 2019](https://github.com/theyapapa/cryptonews/blob/ru/tom-lee-btc-is-genuine-safe-haven-potential-new-all-time-high-by-end-of-2019-eb4c43eb.md)
 * 2019-08-16 [Crypto PIVX отрицает уязвимость Обвинения, говорит, что средства пользователей являются безопасными](https://github.com/theyapapa/cryptonews/blob/ru/crypto-pivx-denies-vulnerability-allegations-says-users-funds-are-safe-4c8d5e5d.md)
