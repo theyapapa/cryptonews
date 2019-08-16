@@ -1,3 +1,4 @@
+* 2019-08-16 [Australia: Las carteras de jubilación 100% con cripto-inversión son ilegales](https://github.com/theyapapa/cryptonews/blob/es/australia-100-crypto-invested-retirement-portfolios-are-illegal-54837d66.md)
 * 2019-08-16 [Investigadores: Bitcoin caída de precios no causado por $3B Ponzi BTC Dump](https://github.com/theyapapa/cryptonews/blob/es/researchers-bitcoin-price-drop-not-caused-by-3b-ponzi-btc-dump-ad895084.md)
 * 2019-08-16 [Bitcoin es malo para los pagos, pero el rayo resuelve esto: Samson Mow](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-is-bad-for-payments-but-lightning-solves-this-samson-mow-3c243f98.md)
 * 2019-08-16 [Tom Lee: BTC es genuino refugio seguro, potencial nuevo máximo de todos los tiempos para finales de 2019](https://github.com/theyapapa/cryptonews/blob/es/tom-lee-btc-is-genuine-safe-haven-potential-new-all-time-high-by-end-of-2019-eb4c43eb.md)
