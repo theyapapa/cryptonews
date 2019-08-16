@@ -1,3 +1,4 @@
+* 2019-08-16 [Digix и MakerDAO токены теперь загружены на монолитной визы дебетовой карты](https://github.com/theyapapa/cryptonews/blob/ru/digix-and-makerdao-tokens-now-loadable-onto-monolith-visa-debit-card-31dbdf2d.md)
 * 2019-08-16 [IT-гигант Oracle судится с блокчейн-стартапом за то, что он взял свое имя](https://github.com/theyapapa/cryptonews/blob/ru/it-giant-oracle-sues-blockchain-startup-for-taking-its-name-e2cd6918.md)
 * 2019-08-16 [Австралия: 100% Крипто-инвестные пенсионные портфели являются незаконными](https://github.com/theyapapa/cryptonews/blob/ru/australia-100-crypto-invested-retirement-portfolios-are-illegal-54837d66.md)
 * 2019-08-16 [Исследователи: Падение цены bitcoin не вызвано $3B Ponzi BTC Dump](https://github.com/theyapapa/cryptonews/blob/ru/researchers-bitcoin-price-drop-not-caused-by-3b-ponzi-btc-dump-ad895084.md)
