@@ -1,3 +1,4 @@
+* 2019-08-16 [연구원: 비트 코인 가격 하락에 의해 발생하지 $3B 폰지 BTC 덤프](https://github.com/theyapapa/cryptonews/blob/ko/researchers-bitcoin-price-drop-not-caused-by-3b-ponzi-btc-dump-ad895084.md)
 * 2019-08-16 [비트 코인은 지불에 대한 나쁜, 하지만 번개는이 해결 : 삼손 모](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-is-bad-for-payments-but-lightning-solves-this-samson-mow-3c243f98.md)
 * 2019-08-16 [톰 리: BTC는 진정한 안전 피난처, 2019 년 말까지 잠재적 인 새로운 사상 최고](https://github.com/theyapapa/cryptonews/blob/ko/tom-lee-btc-is-genuine-safe-haven-potential-new-all-time-high-by-end-of-2019-eb4c43eb.md)
 * 2019-08-16 [암호 PIVX는 취약점 의혹을 거부, 사용자의 자금은 안전 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-pivx-denies-vulnerability-allegations-says-users-funds-are-safe-4c8d5e5d.md)
