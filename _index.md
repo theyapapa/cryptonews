@@ -1,3 +1,4 @@
+* 2019-08-15 [Dash выпускает обновление в ответ на вновь обнаруженные уязвимости](https://github.com/theyapapa/cryptonews/blob/ru/dash-releases-upgrade-in-response-to-newly-exposed-vulnerabilities-2f406fff.md)
 * 2019-08-15 [Цена Bitcoin показывает признаки восстановления, как Altcoin рынок остается красным](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-shows-signs-of-recovery-as-altcoin-market-stays-red-f517fe78.md)
 * 2019-08-15 [Марк Yusko: Bitcoin является "Хаос хеджирования, или Schmuck страхования"](https://github.com/theyapapa/cryptonews/blob/ru/mark-yusko-bitcoin-is-a-chaos-hedge-or-schmuck-insurance-bfd31a77.md)
 * 2019-08-15 [Alibaba Файлы США патент для Blockchain доменное имя системы управления](https://github.com/theyapapa/cryptonews/blob/ru/alibaba-files-us-patent-for-blockchain-domain-name-management-system-3c766bde.md)
