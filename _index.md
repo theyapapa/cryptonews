@@ -1,3 +1,4 @@
+* 2019-08-15 [El precio de Bitcoin muestra signos de recuperación mientras Altcoin Market se mantiene rojo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-shows-signs-of-recovery-as-altcoin-market-stays-red-f517fe78.md)
 * 2019-08-15 [Mark Yusko: Bitcoin es un "Chaos Hedge, o seguro Schmuck"](https://github.com/theyapapa/cryptonews/blob/es/mark-yusko-bitcoin-is-a-chaos-hedge-or-schmuck-insurance-bfd31a77.md)
 * 2019-08-15 [Alibaba Files US Patent for Blockchain Domain Name Management System](https://github.com/theyapapa/cryptonews/blob/es/alibaba-files-us-patent-for-blockchain-domain-name-management-system-3c766bde.md)
 * 2019-08-15 [Crypto Exchange Poloniex para dar de baja 23 pares comerciales debido al bajo volumen](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-poloniex-to-delist-23-trading-pairs-due-to-low-volume-59bec327.md)
