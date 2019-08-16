@@ -1,3 +1,4 @@
+* 2019-08-16 [마이크 타이슨: '나는 명성 또는 그들의 카운트 다운 웹 사이트에 싸움에 관여하지 않습니다'](https://github.com/theyapapa/cryptonews/blob/ko/mike-tyson-i-am-not-involved-with-fight-to-fame-or-their-countdown-website-5f951355.md)
 * 2019-08-16 [Digix 와 MakerDAO 토큰 이제 모놀리스 비자 직불 카드에로드](https://github.com/theyapapa/cryptonews/blob/ko/digix-and-makerdao-tokens-now-loadable-onto-monolith-visa-debit-card-31dbdf2d.md)
 * 2019-08-16 [IT 거대한 오라클은 그 이름을 복용에 대한 블록 체인 스타트업을 고소](https://github.com/theyapapa/cryptonews/blob/ko/it-giant-oracle-sues-blockchain-startup-for-taking-its-name-e2cd6918.md)
 * 2019-08-16 [호주: 100% 암호화 투자 은퇴 포트폴리오는 불법](https://github.com/theyapapa/cryptonews/blob/ko/australia-100-crypto-invested-retirement-portfolios-are-illegal-54837d66.md)
