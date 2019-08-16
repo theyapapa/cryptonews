@@ -1,3 +1,4 @@
+* 2019-08-16 [Coinbase 실수로 3,420 고객의 암호화되지 않은 암호를 저장](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-accidentally-saves-unencrypted-passwords-of-3-420-customers-546b16a7.md)
 * 2019-08-16 [CoinGecko 는 교환 사기, 사기, 해킹에 대처하기 위해 AMLT 네트워크에 합류했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/coingecko-joins-amlt-network-to-combat-exchange-fraud-scams-hacks-860285fe.md)
 * 2019-08-16 [마이크 타이슨: '나는 명성 또는 그들의 카운트 다운 웹 사이트에 싸움에 관여하지 않습니다'](https://github.com/theyapapa/cryptonews/blob/ko/mike-tyson-i-am-not-involved-with-fight-to-fame-or-their-countdown-website-5f951355.md)
 * 2019-08-16 [Digix 와 MakerDAO 토큰 이제 모놀리스 비자 직불 카드에로드](https://github.com/theyapapa/cryptonews/blob/ko/digix-and-makerdao-tokens-now-loadable-onto-monolith-visa-debit-card-31dbdf2d.md)
