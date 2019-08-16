@@ -1,3 +1,4 @@
+* 2019-08-16 [El gigante de TI Oracle demanda a Blockchain Startup por tomar su nombre](https://github.com/theyapapa/cryptonews/blob/es/it-giant-oracle-sues-blockchain-startup-for-taking-its-name-e2cd6918.md)
 * 2019-08-16 [Australia: Las carteras de jubilación 100% con cripto-inversión son ilegales](https://github.com/theyapapa/cryptonews/blob/es/australia-100-crypto-invested-retirement-portfolios-are-illegal-54837d66.md)
 * 2019-08-16 [Investigadores: Bitcoin caída de precios no causado por $3B Ponzi BTC Dump](https://github.com/theyapapa/cryptonews/blob/es/researchers-bitcoin-price-drop-not-caused-by-3b-ponzi-btc-dump-ad895084.md)
 * 2019-08-16 [Bitcoin es malo para los pagos, pero el rayo resuelve esto: Samson Mow](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-is-bad-for-payments-but-lightning-solves-this-samson-mow-3c243f98.md)
