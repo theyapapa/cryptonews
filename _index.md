@@ -1,3 +1,4 @@
+* 2019-08-16 [Mike Tyson: 'No estoy involucrado con la lucha a la fama o su sitio web de cuenta regresiva'](https://github.com/theyapapa/cryptonews/blob/es/mike-tyson-i-am-not-involved-with-fight-to-fame-or-their-countdown-website-5f951355.md)
 * 2019-08-16 [Digix y MakerDAO Tokens ahora cargables en la tarjeta de débito Visa Monolith](https://github.com/theyapapa/cryptonews/blob/es/digix-and-makerdao-tokens-now-loadable-onto-monolith-visa-debit-card-31dbdf2d.md)
 * 2019-08-16 [El gigante de TI Oracle demanda a Blockchain Startup por tomar su nombre](https://github.com/theyapapa/cryptonews/blob/es/it-giant-oracle-sues-blockchain-startup-for-taking-its-name-e2cd6918.md)
 * 2019-08-16 [Australia: Las carteras de jubilación 100% con cripto-inversión son ilegales](https://github.com/theyapapa/cryptonews/blob/es/australia-100-crypto-invested-retirement-portfolios-are-illegal-54837d66.md)
