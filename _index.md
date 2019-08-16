@@ -1,3 +1,4 @@
+* 2019-08-15 [비트 코인 가격은 알트 코인 시장이 빨간색 유지로 회복의 징후를 보여줍니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-shows-signs-of-recovery-as-altcoin-market-stays-red-f517fe78.md)
 * 2019-08-15 [마크 유스코: 비트 코인은 "혼돈 헤지, 또는 슈머크 보험"](https://github.com/theyapapa/cryptonews/blob/ko/mark-yusko-bitcoin-is-a-chaos-hedge-or-schmuck-insurance-bfd31a77.md)
 * 2019-08-15 [Alibaba, 블록체인 도메인 이름 관리 시스템에 대한 미국 특허 출원](https://github.com/theyapapa/cryptonews/blob/ko/alibaba-files-us-patent-for-blockchain-domain-name-management-system-3c766bde.md)
 * 2019-08-15 [낮은 볼륨으로 인해 23 거래 쌍을 상장 해제하는 암호화 교환 폴로니엑스](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-poloniex-to-delist-23-trading-pairs-due-to-low-volume-59bec327.md)
