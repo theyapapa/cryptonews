@@ -1,3 +1,4 @@
+* 2019-08-16 [IT 거대한 오라클은 그 이름을 복용에 대한 블록 체인 스타트업을 고소](https://github.com/theyapapa/cryptonews/blob/ko/it-giant-oracle-sues-blockchain-startup-for-taking-its-name-e2cd6918.md)
 * 2019-08-16 [호주: 100% 암호화 투자 은퇴 포트폴리오는 불법](https://github.com/theyapapa/cryptonews/blob/ko/australia-100-crypto-invested-retirement-portfolios-are-illegal-54837d66.md)
 * 2019-08-16 [연구원: 비트 코인 가격 하락에 의해 발생하지 $3B 폰지 BTC 덤프](https://github.com/theyapapa/cryptonews/blob/ko/researchers-bitcoin-price-drop-not-caused-by-3b-ponzi-btc-dump-ad895084.md)
 * 2019-08-16 [비트 코인은 지불에 대한 나쁜, 하지만 번개는이 해결 : 삼손 모](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-is-bad-for-payments-but-lightning-solves-this-samson-mow-3c243f98.md)
