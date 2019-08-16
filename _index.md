@@ -1,3 +1,4 @@
+* 2019-08-16 [Tom Lee: BTC es genuino refugio seguro, potencial nuevo máximo de todos los tiempos para finales de 2019](https://github.com/theyapapa/cryptonews/blob/es/tom-lee-btc-is-genuine-safe-haven-potential-new-all-time-high-by-end-of-2019-eb4c43eb.md)
 * 2019-08-16 [Crypto PIVX niega las denuncias de vulnerabilidad, dice que los fondos de los usuarios son seguros](https://github.com/theyapapa/cryptonews/blob/es/crypto-pivx-denies-vulnerability-allegations-says-users-funds-are-safe-4c8d5e5d.md)
 * 2019-08-15 [Dash libera la actualización en respuesta a vulnerabilidades recién expuestas](https://github.com/theyapapa/cryptonews/blob/es/dash-releases-upgrade-in-response-to-newly-exposed-vulnerabilities-2f406fff.md)
 * 2019-08-15 [El precio de Bitcoin muestra signos de recuperación mientras Altcoin Market se mantiene rojo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-shows-signs-of-recovery-as-altcoin-market-stays-red-f517fe78.md)
