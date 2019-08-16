@@ -1,3 +1,4 @@
+* 2019-08-16 [Том Ли: BTC является подлинной безопасной гаванью, потенциальные новые все время высоко к концу 2019](https://github.com/theyapapa/cryptonews/blob/ru/tom-lee-btc-is-genuine-safe-haven-potential-new-all-time-high-by-end-of-2019-eb4c43eb.md)
 * 2019-08-16 [Crypto PIVX отрицает уязвимость Обвинения, говорит, что средства пользователей являются безопасными](https://github.com/theyapapa/cryptonews/blob/ru/crypto-pivx-denies-vulnerability-allegations-says-users-funds-are-safe-4c8d5e5d.md)
 * 2019-08-15 [Dash выпускает обновление в ответ на вновь обнаруженные уязвимости](https://github.com/theyapapa/cryptonews/blob/ru/dash-releases-upgrade-in-response-to-newly-exposed-vulnerabilities-2f406fff.md)
 * 2019-08-15 [Цена Bitcoin показывает признаки восстановления, как Altcoin рынок остается красным](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-shows-signs-of-recovery-as-altcoin-market-stays-red-f517fe78.md)
