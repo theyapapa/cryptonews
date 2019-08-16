@@ -1,3 +1,4 @@
+* 2019-08-16 [암호 PIVX는 취약점 의혹을 거부, 사용자의 자금은 안전 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-pivx-denies-vulnerability-allegations-says-users-funds-are-safe-4c8d5e5d.md)
 * 2019-08-15 [Dash, 새로 노출된 취약점에 대응하여 업그레이드 릴리스](https://github.com/theyapapa/cryptonews/blob/ko/dash-releases-upgrade-in-response-to-newly-exposed-vulnerabilities-2f406fff.md)
 * 2019-08-15 [비트 코인 가격은 알트 코인 시장이 빨간색 유지로 회복의 징후를 보여줍니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-shows-signs-of-recovery-as-altcoin-market-stays-red-f517fe78.md)
 * 2019-08-15 [마크 유스코: 비트 코인은 "혼돈 헤지, 또는 슈머크 보험"](https://github.com/theyapapa/cryptonews/blob/ko/mark-yusko-bitcoin-is-a-chaos-hedge-or-schmuck-insurance-bfd31a77.md)
