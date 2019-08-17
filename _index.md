@@ -1,3 +1,4 @@
+* 2019-08-17 [Los usuarios de QuadrigaCX solicitan detalles sobre cómo EY perdió 103 Bitcoins](https://github.com/theyapapa/cryptonews/blob/es/quadrigacx-users-request-details-on-how-ey-lost-103-bitcoins-e10f99de.md)
 * 2019-08-17 [El Tribunal permite que la demanda de marca registrada de Blockchain.com contra Paymium proceda](https://github.com/theyapapa/cryptonews/blob/es/court-allows-blockchaincoms-trademark-lawsuit-against-paymium-to-proceed-72959418.md)
 * 2019-08-16 [El prestamista criptográfico Nexo paga a los poseedores de tokens más de $2.4 millones en dividendos](https://github.com/theyapapa/cryptonews/blob/es/crypto-lender-nexo-pays-token-holders-over-24-million-in-dividends-0c98ceea.md)
 * 2019-08-16 [Aduanas y fronteras de EE. UU. prueba de la prueba de concepto de envío de blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-customs-and-border-to-trial-blockchain-shipping-proof-of-concept-8d77f2e3.md)
