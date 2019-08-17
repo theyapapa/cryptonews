@@ -1,3 +1,4 @@
+* 2019-08-17 [South Korean Crypto Exchange Coinone publica criterios para la lista de criptografía](https://github.com/theyapapa/cryptonews/blob/es/south-korean-crypto-exchange-coinone-releases-criteria-for-crypto-listing-b383139c.md)
 * 2019-08-17 [Jeju', 'Bit-Island' de Corea del Sur, anuncia una nueva iniciativa de blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-bit-island-jeju-announces-new-blockchain-initiative-e27fe1c6.md)
 * 2019-08-17 [Binance Jersey para recompensar a Hacker que comprometió su nombre de dominio](https://github.com/theyapapa/cryptonews/blob/es/binance-jersey-to-reward-hacker-who-compromised-its-domain-name-329a4d99.md)
 * 2019-08-17 [Los usuarios de QuadrigaCX solicitan detalles sobre cómo EY perdió 103 Bitcoins](https://github.com/theyapapa/cryptonews/blob/es/quadrigacx-users-request-details-on-how-ey-lost-103-bitcoins-e10f99de.md)
