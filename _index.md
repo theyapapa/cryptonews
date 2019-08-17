@@ -1,3 +1,4 @@
+* 2019-08-16 [Таможня США и граница к пробе Blockchain Доставка Доказательство-оф-Концепции](https://github.com/theyapapa/cryptonews/blob/ru/us-customs-and-border-to-trial-blockchain-shipping-proof-of-concept-8d77f2e3.md)
 * 2019-08-16 [Coinbase случайно сохраняет незашифрованные пароли 3420 клиентов](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-accidentally-saves-unencrypted-passwords-of-3-420-customers-546b16a7.md)
 * 2019-08-16 [CoinGecko присоединяется к сети AMLT для борьбы с мошенничеством обмена, мошенничеством, хаками](https://github.com/theyapapa/cryptonews/blob/ru/coingecko-joins-amlt-network-to-combat-exchange-fraud-scams-hacks-860285fe.md)
 * 2019-08-16 [Майк Тайсон: "Я не участвую в борьбе с славой или их Обратный отсчет сайта"](https://github.com/theyapapa/cryptonews/blob/ru/mike-tyson-i-am-not-involved-with-fight-to-fame-or-their-countdown-website-5f951355.md)
