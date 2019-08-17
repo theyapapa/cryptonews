@@ -1,3 +1,4 @@
+* 2019-08-17 [Согласование технологии блокчейн с Законом Калифорнии о конфиденциальности потребителей](https://github.com/theyapapa/cryptonews/blob/ru/reconciling-blockchain-technology-with-california-consumer-privacy-act-21b3e45b.md)
 * 2019-08-17 [Южнокорейская криптобиржа Coinone выпускает критерии для криптолистинга](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-crypto-exchange-coinone-releases-criteria-for-crypto-listing-b383139c.md)
 * 2019-08-17 [«Бит-Айленд» Чеджу объявляет о новой блокчейн-инициативе](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-bit-island-jeju-announces-new-blockchain-initiative-e27fe1c6.md)
 * 2019-08-17 [Binance Джерси, чтобы вознаградить хакера, который скомпрометировал его доменное имя](https://github.com/theyapapa/cryptonews/blob/ru/binance-jersey-to-reward-hacker-who-compromised-its-domain-name-329a4d99.md)
