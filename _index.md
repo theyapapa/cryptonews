@@ -1,3 +1,4 @@
+* 2019-08-17 [한국 암호화폐 거래소 코인원, 암호화폐 상장 기준 발표](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-coinone-releases-criteria-for-crypto-listing-b383139c.md)
 * 2019-08-17 [한국의 '비트 아일랜드' 제주도, 새로운 블록체인 이니셔티브 발표](https://github.com/theyapapa/cryptonews/blob/ko/south-koreas-bit-island-jeju-announces-new-blockchain-initiative-e27fe1c6.md)
 * 2019-08-17 [도메인 이름을 손상 한 해커에게 보상하기 위해 Binance 저지](https://github.com/theyapapa/cryptonews/blob/ko/binance-jersey-to-reward-hacker-who-compromised-its-domain-name-329a4d99.md)
 * 2019-08-17 [QuadrigaCX 사용자는 EY가 103 비트 코인을 잃어 버린 방법에 대한 세부 정보를 요청합니다.](https://github.com/theyapapa/cryptonews/blob/ko/quadrigacx-users-request-details-on-how-ey-lost-103-bitcoins-e10f99de.md)
