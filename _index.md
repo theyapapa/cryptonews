@@ -1,3 +1,4 @@
+* 2019-08-17 [법원은 Blockchain.com의 페이뮴에 대한 상표 소송을 진행할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/court-allows-blockchaincoms-trademark-lawsuit-against-paymium-to-proceed-72959418.md)
 * 2019-08-16 [암호화 렌더 넥소는 배당금으로 240 만 달러 이상의 토큰 소유자에게 지불합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-lender-nexo-pays-token-holders-over-24-million-in-dividends-0c98ceea.md)
 * 2019-08-16 [미국 세관 및 국경 시험 블록 체인 배송 개념 증명](https://github.com/theyapapa/cryptonews/blob/ko/us-customs-and-border-to-trial-blockchain-shipping-proof-of-concept-8d77f2e3.md)
 * 2019-08-16 [Coinbase 실수로 3,420 고객의 암호화되지 않은 암호를 저장](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-accidentally-saves-unencrypted-passwords-of-3-420-customers-546b16a7.md)
