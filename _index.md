@@ -1,3 +1,4 @@
+* 2019-08-16 [Aduanas y fronteras de EE. UU. prueba de la prueba de concepto de envío de blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-customs-and-border-to-trial-blockchain-shipping-proof-of-concept-8d77f2e3.md)
 * 2019-08-16 [Coinbase guarda accidentalmente contraseñas sin cifrar de 3.420 clientes](https://github.com/theyapapa/cryptonews/blob/es/coinbase-accidentally-saves-unencrypted-passwords-of-3-420-customers-546b16a7.md)
 * 2019-08-16 [CoinGecko se une a la red AMLT para combatir el fraude de intercambio, estafas, hacks](https://github.com/theyapapa/cryptonews/blob/es/coingecko-joins-amlt-network-to-combat-exchange-fraud-scams-hacks-860285fe.md)
 * 2019-08-16 [Mike Tyson: 'No estoy involucrado con la lucha a la fama o su sitio web de cuenta regresiva'](https://github.com/theyapapa/cryptonews/blob/es/mike-tyson-i-am-not-involved-with-fight-to-fame-or-their-countdown-website-5f951355.md)
