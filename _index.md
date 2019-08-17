@@ -1,3 +1,4 @@
+* 2019-08-17 [Binance Джерси, чтобы вознаградить хакера, который скомпрометировал его доменное имя](https://github.com/theyapapa/cryptonews/blob/ru/binance-jersey-to-reward-hacker-who-compromised-its-domain-name-329a4d99.md)
 * 2019-08-17 [Пользователи quadrigaCX запросив подробную информацию о том, как EY потеряла 103 биткойна](https://github.com/theyapapa/cryptonews/blob/ru/quadrigacx-users-request-details-on-how-ey-lost-103-bitcoins-e10f99de.md)
 * 2019-08-17 [Суд разрешил Blockchain.com в товарный знак иск против Paymium продолжить](https://github.com/theyapapa/cryptonews/blob/ru/court-allows-blockchaincoms-trademark-lawsuit-against-paymium-to-proceed-72959418.md)
 * 2019-08-16 [Crypto Кредитор Nexo платит держателям токенов более $ 2,4 миллиона в виде дивидендов](https://github.com/theyapapa/cryptonews/blob/ru/crypto-lender-nexo-pays-token-holders-over-24-million-in-dividends-0c98ceea.md)
