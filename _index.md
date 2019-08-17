@@ -1,3 +1,4 @@
+* 2019-08-17 [Jeju', 'Bit-Island' de Corea del Sur, anuncia una nueva iniciativa de blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-koreas-bit-island-jeju-announces-new-blockchain-initiative-e27fe1c6.md)
 * 2019-08-17 [Binance Jersey para recompensar a Hacker que comprometió su nombre de dominio](https://github.com/theyapapa/cryptonews/blob/es/binance-jersey-to-reward-hacker-who-compromised-its-domain-name-329a4d99.md)
 * 2019-08-17 [Los usuarios de QuadrigaCX solicitan detalles sobre cómo EY perdió 103 Bitcoins](https://github.com/theyapapa/cryptonews/blob/es/quadrigacx-users-request-details-on-how-ey-lost-103-bitcoins-e10f99de.md)
 * 2019-08-17 [El Tribunal permite que la demanda de marca registrada de Blockchain.com contra Paymium proceda](https://github.com/theyapapa/cryptonews/blob/es/court-allows-blockchaincoms-trademark-lawsuit-against-paymium-to-proceed-72959418.md)
