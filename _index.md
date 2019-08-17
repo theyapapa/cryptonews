@@ -1,3 +1,4 @@
+* 2019-08-17 [Южнокорейская криптобиржа Coinone выпускает критерии для криптолистинга](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-crypto-exchange-coinone-releases-criteria-for-crypto-listing-b383139c.md)
 * 2019-08-17 [«Бит-Айленд» Чеджу объявляет о новой блокчейн-инициативе](https://github.com/theyapapa/cryptonews/blob/ru/south-koreas-bit-island-jeju-announces-new-blockchain-initiative-e27fe1c6.md)
 * 2019-08-17 [Binance Джерси, чтобы вознаградить хакера, который скомпрометировал его доменное имя](https://github.com/theyapapa/cryptonews/blob/ru/binance-jersey-to-reward-hacker-who-compromised-its-domain-name-329a4d99.md)
 * 2019-08-17 [Пользователи quadrigaCX запросив подробную информацию о том, как EY потеряла 103 биткойна](https://github.com/theyapapa/cryptonews/blob/ru/quadrigacx-users-request-details-on-how-ey-lost-103-bitcoins-e10f99de.md)
