@@ -1,3 +1,4 @@
+* 2019-08-17 [Суд разрешил Blockchain.com в товарный знак иск против Paymium продолжить](https://github.com/theyapapa/cryptonews/blob/ru/court-allows-blockchaincoms-trademark-lawsuit-against-paymium-to-proceed-72959418.md)
 * 2019-08-16 [Crypto Кредитор Nexo платит держателям токенов более $ 2,4 миллиона в виде дивидендов](https://github.com/theyapapa/cryptonews/blob/ru/crypto-lender-nexo-pays-token-holders-over-24-million-in-dividends-0c98ceea.md)
 * 2019-08-16 [Таможня США и граница к пробе Blockchain Доставка Доказательство-оф-Концепции](https://github.com/theyapapa/cryptonews/blob/ru/us-customs-and-border-to-trial-blockchain-shipping-proof-of-concept-8d77f2e3.md)
 * 2019-08-16 [Coinbase случайно сохраняет незашифрованные пароли 3420 клиентов](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-accidentally-saves-unencrypted-passwords-of-3-420-customers-546b16a7.md)
