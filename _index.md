@@ -1,3 +1,4 @@
+* 2019-08-17 [El Tribunal permite que la demanda de marca registrada de Blockchain.com contra Paymium proceda](https://github.com/theyapapa/cryptonews/blob/es/court-allows-blockchaincoms-trademark-lawsuit-against-paymium-to-proceed-72959418.md)
 * 2019-08-16 [El prestamista criptográfico Nexo paga a los poseedores de tokens más de $2.4 millones en dividendos](https://github.com/theyapapa/cryptonews/blob/es/crypto-lender-nexo-pays-token-holders-over-24-million-in-dividends-0c98ceea.md)
 * 2019-08-16 [Aduanas y fronteras de EE. UU. prueba de la prueba de concepto de envío de blockchain](https://github.com/theyapapa/cryptonews/blob/es/us-customs-and-border-to-trial-blockchain-shipping-proof-of-concept-8d77f2e3.md)
 * 2019-08-16 [Coinbase guarda accidentalmente contraseñas sin cifrar de 3.420 clientes](https://github.com/theyapapa/cryptonews/blob/es/coinbase-accidentally-saves-unencrypted-passwords-of-3-420-customers-546b16a7.md)
