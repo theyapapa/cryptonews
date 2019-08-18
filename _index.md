@@ -1,3 +1,4 @@
+* 2019-08-18 [Будет ли блокчейн лучше защищать пользовательские данные, чем FaceApp? Ответ экспертов](https://github.com/theyapapa/cryptonews/blob/ru/would-blockchain-better-protect-user-data-than-faceapp-experts-answer-16ab4e93.md)
 * 2019-08-18 [Американские законодатели посетят Швейцарию, чтобы обсудить Крипто, Весы Facebook](https://github.com/theyapapa/cryptonews/blob/ru/us-lawmakers-to-visit-switzerland-to-discuss-crypto-facebooks-libra-eb67a624.md)
 * 2019-08-18 [$240M в предполагаемых активов схемы перемещается в четырех Bitcoin сделок](https://github.com/theyapapa/cryptonews/blob/ru/240m-in-suspected-scheme-assets-moves-in-four-bitcoin-transactions-07b061b9.md)
 * 2019-08-18 [Crypto Regulation Outlook в 2019 году - Что такое глобальный сценарий?](https://github.com/theyapapa/cryptonews/blob/ru/crypto-regulation-outlook-in-2019-what-is-the-global-scenario-e602e38b.md)
