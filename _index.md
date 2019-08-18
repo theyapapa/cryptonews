@@ -1,3 +1,4 @@
+* 2019-08-18 [Crypto Regulation Outlook в 2019 году - Что такое глобальный сценарий?](https://github.com/theyapapa/cryptonews/blob/ru/crypto-regulation-outlook-in-2019-what-is-the-global-scenario-e602e38b.md)
 * 2019-08-18 [Основатель LTC Чарли Ли раскрыл инвестиции в BTC Development Firm Casa](https://github.com/theyapapa/cryptonews/blob/ru/ltc-founder-charlie-lee-discloses-investment-in-btc-development-firm-casa-4f2f6069.md)
 * 2019-08-18 [Биткоин борется, чтобы удержаться на $10,150, так как фондовый рынок США видит незначительный восходящий тренд](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-fights-to-hold-at-10-150-as-us-stock-market-sees-minor-uptrend-8c712363.md)
 * 2019-08-17 [Япония Solarize его Бурговий цифровой экономики, эксперт принять](https://github.com/theyapapa/cryptonews/blob/ru/japan-to-solarize-its-burgeoning-digital-economy-expert-take-5169824b.md)
