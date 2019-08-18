@@ -1,3 +1,4 @@
+* 2019-08-17 [Japón solarizará su floreciente economía digital y toma experto](https://github.com/theyapapa/cryptonews/blob/es/japan-to-solarize-its-burgeoning-digital-economy-expert-take-5169824b.md)
 * 2019-08-17 [Reglas de Nueva Zelanda para el salario criptográfico — ¿Se han respondido esperanzas?](https://github.com/theyapapa/cryptonews/blob/es/new-zealand-rules-for-crypto-salary-have-hopes-been-answered-32c1c711.md)
 * 2019-08-17 [Reconciliar la tecnología Blockchain con la Ley de Privacidad del Consumidor de California](https://github.com/theyapapa/cryptonews/blob/es/reconciling-blockchain-technology-with-california-consumer-privacy-act-21b3e45b.md)
 * 2019-08-17 [South Korean Crypto Exchange Coinone publica criterios para la lista de criptografía](https://github.com/theyapapa/cryptonews/blob/es/south-korean-crypto-exchange-coinone-releases-criteria-for-crypto-listing-b383139c.md)
