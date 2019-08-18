@@ -1,3 +1,4 @@
+* 2019-08-18 [LTC 설립자 찰리 리 BTC 개발 회사 카사에 투자를 공개](https://github.com/theyapapa/cryptonews/blob/ko/ltc-founder-charlie-lee-discloses-investment-in-btc-development-firm-casa-4f2f6069.md)
 * 2019-08-18 [비트 코인은 에서 개최 싸움 $10,150 미국 주식 시장은 사소한 상승 추세를 보고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-fights-to-hold-at-10-150-as-us-stock-market-sees-minor-uptrend-8c712363.md)
 * 2019-08-17 [일본, 급성장하는 디지털 경제, 전문가 테이크](https://github.com/theyapapa/cryptonews/blob/ko/japan-to-solarize-its-burgeoning-digital-economy-expert-take-5169824b.md)
 * 2019-08-17 [암호화 급여에 대한 뉴질랜드 규칙 - 희망이 응답되었습니까?](https://github.com/theyapapa/cryptonews/blob/ko/new-zealand-rules-for-crypto-salary-have-hopes-been-answered-32c1c711.md)
