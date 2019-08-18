@@ -1,3 +1,4 @@
+* 2019-08-18 [Основатель LTC Чарли Ли раскрыл инвестиции в BTC Development Firm Casa](https://github.com/theyapapa/cryptonews/blob/ru/ltc-founder-charlie-lee-discloses-investment-in-btc-development-firm-casa-4f2f6069.md)
 * 2019-08-18 [Биткоин борется, чтобы удержаться на $10,150, так как фондовый рынок США видит незначительный восходящий тренд](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-fights-to-hold-at-10-150-as-us-stock-market-sees-minor-uptrend-8c712363.md)
 * 2019-08-17 [Япония Solarize его Бурговий цифровой экономики, эксперт принять](https://github.com/theyapapa/cryptonews/blob/ru/japan-to-solarize-its-burgeoning-digital-economy-expert-take-5169824b.md)
 * 2019-08-17 [Новая Зеландия Правила для Crypto Заработная плата - Есть надежды были даны ответы?](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-rules-for-crypto-salary-have-hopes-been-answered-32c1c711.md)
