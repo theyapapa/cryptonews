@@ -1,3 +1,4 @@
+* 2019-08-18 [$240M en activos de esquemas sospechosos se mueve en cuatro transacciones Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/240m-in-suspected-scheme-assets-moves-in-four-bitcoin-transactions-07b061b9.md)
 * 2019-08-18 [Perspectivas de la regulación criptográfica en 2019 — ¿Cuál es el escenario global?](https://github.com/theyapapa/cryptonews/blob/es/crypto-regulation-outlook-in-2019-what-is-the-global-scenario-e602e38b.md)
 * 2019-08-18 [El fundador de LTC Charlie Lee revela inversión en la firma de desarrollo de BTC Casa](https://github.com/theyapapa/cryptonews/blob/es/ltc-founder-charlie-lee-discloses-investment-in-btc-development-firm-casa-4f2f6069.md)
 * 2019-08-18 [Bitcoin lucha para mantener se mantendrá en $10,150 como mercado de valores de EE.UU. ve una tendencia alcista menor](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-fights-to-hold-at-10-150-as-us-stock-market-sees-minor-uptrend-8c712363.md)
