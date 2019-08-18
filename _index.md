@@ -1,3 +1,4 @@
+* 2019-08-18 [¿Protegería mejor Blockchain los datos de usuario que FaceApp? Respuesta de los expertos](https://github.com/theyapapa/cryptonews/blob/es/would-blockchain-better-protect-user-data-than-faceapp-experts-answer-16ab4e93.md)
 * 2019-08-18 [Legisladores de EE.UU. visitarán Suiza para discutir Crypto, Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/us-lawmakers-to-visit-switzerland-to-discuss-crypto-facebooks-libra-eb67a624.md)
 * 2019-08-18 [$240M en activos de esquemas sospechosos se mueve en cuatro transacciones Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/240m-in-suspected-scheme-assets-moves-in-four-bitcoin-transactions-07b061b9.md)
 * 2019-08-18 [Perspectivas de la regulación criptográfica en 2019 — ¿Cuál es el escenario global?](https://github.com/theyapapa/cryptonews/blob/es/crypto-regulation-outlook-in-2019-what-is-the-global-scenario-e602e38b.md)
