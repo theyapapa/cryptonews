@@ -1,3 +1,4 @@
+* 2019-08-18 [Американские законодатели посетят Швейцарию, чтобы обсудить Крипто, Весы Facebook](https://github.com/theyapapa/cryptonews/blob/ru/us-lawmakers-to-visit-switzerland-to-discuss-crypto-facebooks-libra-eb67a624.md)
 * 2019-08-18 [$240M в предполагаемых активов схемы перемещается в четырех Bitcoin сделок](https://github.com/theyapapa/cryptonews/blob/ru/240m-in-suspected-scheme-assets-moves-in-four-bitcoin-transactions-07b061b9.md)
 * 2019-08-18 [Crypto Regulation Outlook в 2019 году - Что такое глобальный сценарий?](https://github.com/theyapapa/cryptonews/blob/ru/crypto-regulation-outlook-in-2019-what-is-the-global-scenario-e602e38b.md)
 * 2019-08-18 [Основатель LTC Чарли Ли раскрыл инвестиции в BTC Development Firm Casa](https://github.com/theyapapa/cryptonews/blob/ru/ltc-founder-charlie-lee-discloses-investment-in-btc-development-firm-casa-4f2f6069.md)
