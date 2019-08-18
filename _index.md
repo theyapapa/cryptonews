@@ -1,3 +1,4 @@
+* 2019-08-18 [Bitcoin lucha para mantener se mantendrá en $10,150 como mercado de valores de EE.UU. ve una tendencia alcista menor](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-fights-to-hold-at-10-150-as-us-stock-market-sees-minor-uptrend-8c712363.md)
 * 2019-08-17 [Japón solarizará su floreciente economía digital y toma experto](https://github.com/theyapapa/cryptonews/blob/es/japan-to-solarize-its-burgeoning-digital-economy-expert-take-5169824b.md)
 * 2019-08-17 [Reglas de Nueva Zelanda para el salario criptográfico — ¿Se han respondido esperanzas?](https://github.com/theyapapa/cryptonews/blob/es/new-zealand-rules-for-crypto-salary-have-hopes-been-answered-32c1c711.md)
 * 2019-08-17 [Reconciliar la tecnología Blockchain con la Ley de Privacidad del Consumidor de California](https://github.com/theyapapa/cryptonews/blob/es/reconciling-blockchain-technology-with-california-consumer-privacy-act-21b3e45b.md)
