@@ -1,3 +1,4 @@
+* 2019-08-17 [일본, 급성장하는 디지털 경제, 전문가 테이크](https://github.com/theyapapa/cryptonews/blob/ko/japan-to-solarize-its-burgeoning-digital-economy-expert-take-5169824b.md)
 * 2019-08-17 [암호화 급여에 대한 뉴질랜드 규칙 - 희망이 응답되었습니까?](https://github.com/theyapapa/cryptonews/blob/ko/new-zealand-rules-for-crypto-salary-have-hopes-been-answered-32c1c711.md)
 * 2019-08-17 [캘리포니아 소비자 개인 정보 보호법과 블록 체인 기술 조정](https://github.com/theyapapa/cryptonews/blob/ko/reconciling-blockchain-technology-with-california-consumer-privacy-act-21b3e45b.md)
 * 2019-08-17 [한국 암호화폐 거래소 코인원, 암호화폐 상장 기준 발표](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-crypto-exchange-coinone-releases-criteria-for-crypto-listing-b383139c.md)
