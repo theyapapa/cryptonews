@@ -1,3 +1,4 @@
+* 2019-08-18 [미국 의원은 암호화를 논의하기 위해 스위스를 방문, 페이스 북의 천칭 자리](https://github.com/theyapapa/cryptonews/blob/ko/us-lawmakers-to-visit-switzerland-to-discuss-crypto-facebooks-libra-eb67a624.md)
 * 2019-08-18 [$240M 의심 된 계획 자산 4 비트 코인 거래에서 이동](https://github.com/theyapapa/cryptonews/blob/ko/240m-in-suspected-scheme-assets-moves-in-four-bitcoin-transactions-07b061b9.md)
 * 2019-08-18 [2019 년 암호화 규제 전망 — 글로벌 시나리오는 무엇입니까?](https://github.com/theyapapa/cryptonews/blob/ko/crypto-regulation-outlook-in-2019-what-is-the-global-scenario-e602e38b.md)
 * 2019-08-18 [LTC 설립자 찰리 리 BTC 개발 회사 카사에 투자를 공개](https://github.com/theyapapa/cryptonews/blob/ko/ltc-founder-charlie-lee-discloses-investment-in-btc-development-firm-casa-4f2f6069.md)
