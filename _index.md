@@ -1,3 +1,4 @@
+* 2019-08-17 [Япония Solarize его Бурговий цифровой экономики, эксперт принять](https://github.com/theyapapa/cryptonews/blob/ru/japan-to-solarize-its-burgeoning-digital-economy-expert-take-5169824b.md)
 * 2019-08-17 [Новая Зеландия Правила для Crypto Заработная плата - Есть надежды были даны ответы?](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-rules-for-crypto-salary-have-hopes-been-answered-32c1c711.md)
 * 2019-08-17 [Согласование технологии блокчейн с Законом Калифорнии о конфиденциальности потребителей](https://github.com/theyapapa/cryptonews/blob/ru/reconciling-blockchain-technology-with-california-consumer-privacy-act-21b3e45b.md)
 * 2019-08-17 [Южнокорейская криптобиржа Coinone выпускает критерии для криптолистинга](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-crypto-exchange-coinone-releases-criteria-for-crypto-listing-b383139c.md)
