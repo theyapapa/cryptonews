@@ -1,3 +1,4 @@
+* 2019-08-19 [비트 코인 가격 강세 쐐기 양식은 가리키는 $11K, 상인을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-bullish-wedge-forms-pointing-to-11k-says-trader-61fa1e7a.md)
 * 2019-08-19 [일본의 소매 자이언트 라쿠텐 공식적으로 암호화 교환 출시](https://github.com/theyapapa/cryptonews/blob/ko/japans-retail-giant-rakuten-officially-launches-crypto-exchange-597cffd0.md)
 * 2019-08-18 [다양한 분야에서 블록체인을 사용하는 인도 에서 두 번째로 큰 주](https://github.com/theyapapa/cryptonews/blob/ko/second-largest-indian-state-to-use-blockchain-in-various-spheres-e9ebedec.md)
 * 2019-08-18 [블록체인이 FaceApp보다 사용자 데이터를 더 잘 보호할 수 있을까요? 전문가 답변](https://github.com/theyapapa/cryptonews/blob/ko/would-blockchain-better-protect-user-data-than-faceapp-experts-answer-16ab4e93.md)
