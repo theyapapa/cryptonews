@@ -1,3 +1,4 @@
+* 2019-08-19 [Израильское финансовое управление для ускорения Blockchain, Fintech лицензирования](https://github.com/theyapapa/cryptonews/blob/ru/israeli-financial-authority-to-accelerate-blockchain-fintech-licensure-153833d7.md)
 * 2019-08-19 [Crypto Custodian BitGo нанимает бывшего вице-президента XApo в качестве CRO](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custodian-bitgo-hires-former-xapo-vice-president-as-cro-6d63add4.md)
 * 2019-08-19 [Мальтийская криптобиржа CGEX выключается после временного прекращения](https://github.com/theyapapa/cryptonews/blob/ru/maltese-crypto-exchange-cgex-shuts-down-after-temporary-terminations-56d8177e.md)
 * 2019-08-19 [SEC продолжает стойнуть на BTC ETFs, все в ожидании прорыва](https://github.com/theyapapa/cryptonews/blob/ru/sec-continues-to-stall-on-btc-etfs-all-in-wait-for-breakthrough-74f7102f.md)
