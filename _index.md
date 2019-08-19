@@ -1,3 +1,4 @@
+* 2019-08-19 [일본의 소매 자이언트 라쿠텐 공식적으로 암호화 교환 출시](https://github.com/theyapapa/cryptonews/blob/ko/japans-retail-giant-rakuten-officially-launches-crypto-exchange-597cffd0.md)
 * 2019-08-18 [다양한 분야에서 블록체인을 사용하는 인도 에서 두 번째로 큰 주](https://github.com/theyapapa/cryptonews/blob/ko/second-largest-indian-state-to-use-blockchain-in-various-spheres-e9ebedec.md)
 * 2019-08-18 [블록체인이 FaceApp보다 사용자 데이터를 더 잘 보호할 수 있을까요? 전문가 답변](https://github.com/theyapapa/cryptonews/blob/ko/would-blockchain-better-protect-user-data-than-faceapp-experts-answer-16ab4e93.md)
 * 2019-08-18 [미국 의원은 암호화를 논의하기 위해 스위스를 방문, 페이스 북의 천칭 자리](https://github.com/theyapapa/cryptonews/blob/ko/us-lawmakers-to-visit-switzerland-to-discuss-crypto-facebooks-libra-eb67a624.md)
