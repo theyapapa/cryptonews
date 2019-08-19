@@ -1,3 +1,4 @@
+* 2019-08-19 [El gigante minorista japonés Rakuten lanza oficialmente Crypto Exchange](https://github.com/theyapapa/cryptonews/blob/es/japans-retail-giant-rakuten-officially-launches-crypto-exchange-597cffd0.md)
 * 2019-08-18 [Segundo estado indio más grande en usar Blockchain en varias esferas](https://github.com/theyapapa/cryptonews/blob/es/second-largest-indian-state-to-use-blockchain-in-various-spheres-e9ebedec.md)
 * 2019-08-18 [¿Protegería mejor Blockchain los datos de usuario que FaceApp? Respuesta de los expertos](https://github.com/theyapapa/cryptonews/blob/es/would-blockchain-better-protect-user-data-than-faceapp-experts-answer-16ab4e93.md)
 * 2019-08-18 [Legisladores de EE.UU. visitarán Suiza para discutir Crypto, Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/us-lawmakers-to-visit-switzerland-to-discuss-crypto-facebooks-libra-eb67a624.md)
