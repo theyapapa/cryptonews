@@ -1,3 +1,4 @@
+* 2019-08-19 [Германия выдает BaFin лицензию на финансовую фирму для платформы STO](https://github.com/theyapapa/cryptonews/blob/ru/germany-grants-bafin-license-to-financial-firm-for-sto-platform-3b3ed7d2.md)
 * 2019-08-19 [Виталик Бутерин говорит масштабируемость: 'Ethereum Blockchain почти полон'](https://github.com/theyapapa/cryptonews/blob/ru/vitalik-buterin-talks-scalability-ethereum-blockchain-is-almost-full-c3de24d6.md)
 * 2019-08-19 [Биткоин Цена бычий клин Формы Указывая на $ 11K, говорит трейдер](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-bullish-wedge-forms-pointing-to-11k-says-trader-61fa1e7a.md)
 * 2019-08-19 [Японский гигант розничной торговли Rakuten официально запускает криптобиржу](https://github.com/theyapapa/cryptonews/blob/ru/japans-retail-giant-rakuten-officially-launches-crypto-exchange-597cffd0.md)
