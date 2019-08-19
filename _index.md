@@ -1,3 +1,4 @@
+* 2019-08-19 [몰타 어 암호화 교환 CGEX 임시 종료 후 종료](https://github.com/theyapapa/cryptonews/blob/ko/maltese-crypto-exchange-cgex-shuts-down-after-temporary-terminations-56d8177e.md)
 * 2019-08-19 [SEC는 BTC ETF에 실속을 계속, 돌파구를 기다리는 모든](https://github.com/theyapapa/cryptonews/blob/ko/sec-continues-to-stall-on-btc-etfs-all-in-wait-for-breakthrough-74f7102f.md)
 * 2019-08-19 [아마존 기술 전문가 지원 blockchain CRM 네트워크 인상 $3.5M](https://github.com/theyapapa/cryptonews/blob/ko/amazon-tech-experts-backed-blockchain-crm-network-raises-35m-aa88b0ca.md)
 * 2019-08-19 [독일, STO 플랫폼을 위해 금융 회사에 BaFin 라이선스 부여](https://github.com/theyapapa/cryptonews/blob/ko/germany-grants-bafin-license-to-financial-firm-for-sto-platform-3b3ed7d2.md)
