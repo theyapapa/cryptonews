@@ -1,3 +1,4 @@
+* 2019-08-19 [독일, STO 플랫폼을 위해 금융 회사에 BaFin 라이선스 부여](https://github.com/theyapapa/cryptonews/blob/ko/germany-grants-bafin-license-to-financial-firm-for-sto-platform-3b3ed7d2.md)
 * 2019-08-19 [비탈릭 부테린, 확장성에 대해 이야기하다: '이더리움 블록체인이 거의 가득 찼다'](https://github.com/theyapapa/cryptonews/blob/ko/vitalik-buterin-talks-scalability-ethereum-blockchain-is-almost-full-c3de24d6.md)
 * 2019-08-19 [비트 코인 가격 강세 쐐기 양식은 가리키는 $11K, 상인을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-bullish-wedge-forms-pointing-to-11k-says-trader-61fa1e7a.md)
 * 2019-08-19 [일본의 소매 자이언트 라쿠텐 공식적으로 암호화 교환 출시](https://github.com/theyapapa/cryptonews/blob/ko/japans-retail-giant-rakuten-officially-launches-crypto-exchange-597cffd0.md)
