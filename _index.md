@@ -1,3 +1,4 @@
+* 2019-08-19 [Crypto Custodian BitGo нанимает бывшего вице-президента XApo в качестве CRO](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custodian-bitgo-hires-former-xapo-vice-president-as-cro-6d63add4.md)
 * 2019-08-19 [Мальтийская криптобиржа CGEX выключается после временного прекращения](https://github.com/theyapapa/cryptonews/blob/ru/maltese-crypto-exchange-cgex-shuts-down-after-temporary-terminations-56d8177e.md)
 * 2019-08-19 [SEC продолжает стойнуть на BTC ETFs, все в ожидании прорыва](https://github.com/theyapapa/cryptonews/blob/ru/sec-continues-to-stall-on-btc-etfs-all-in-wait-for-breakthrough-74f7102f.md)
 * 2019-08-19 [Amazon Tech Эксперты-Backed Blockchain CRM сети поднимает $ 3,5 Миллионы](https://github.com/theyapapa/cryptonews/blob/ru/amazon-tech-experts-backed-blockchain-crm-network-raises-35m-aa88b0ca.md)
