@@ -1,3 +1,4 @@
+* 2019-08-18 [다양한 분야에서 블록체인을 사용하는 인도 에서 두 번째로 큰 주](https://github.com/theyapapa/cryptonews/blob/ko/second-largest-indian-state-to-use-blockchain-in-various-spheres-e9ebedec.md)
 * 2019-08-18 [블록체인이 FaceApp보다 사용자 데이터를 더 잘 보호할 수 있을까요? 전문가 답변](https://github.com/theyapapa/cryptonews/blob/ko/would-blockchain-better-protect-user-data-than-faceapp-experts-answer-16ab4e93.md)
 * 2019-08-18 [미국 의원은 암호화를 논의하기 위해 스위스를 방문, 페이스 북의 천칭 자리](https://github.com/theyapapa/cryptonews/blob/ko/us-lawmakers-to-visit-switzerland-to-discuss-crypto-facebooks-libra-eb67a624.md)
 * 2019-08-18 [$240M 의심 된 계획 자산 4 비트 코인 거래에서 이동](https://github.com/theyapapa/cryptonews/blob/ko/240m-in-suspected-scheme-assets-moves-in-four-bitcoin-transactions-07b061b9.md)
