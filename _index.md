@@ -1,3 +1,4 @@
+* 2019-08-19 [El intercambio de criptos malteses CGEX se cierra después de las terminaciones temporales](https://github.com/theyapapa/cryptonews/blob/es/maltese-crypto-exchange-cgex-shuts-down-after-temporary-terminations-56d8177e.md)
 * 2019-08-19 [SEC continúa estancado en ETFs BTC, todo en espera para el avance](https://github.com/theyapapa/cryptonews/blob/es/sec-continues-to-stall-on-btc-etfs-all-in-wait-for-breakthrough-74f7102f.md)
 * 2019-08-19 [La red CRM de Blockchain respaldada por expertos en tecnología de Amazon recauda $3,5 millones](https://github.com/theyapapa/cryptonews/blob/es/amazon-tech-experts-backed-blockchain-crm-network-raises-35m-aa88b0ca.md)
 * 2019-08-19 [Alemania concede licencia BaFin a firma financiera para la plataforma STO](https://github.com/theyapapa/cryptonews/blob/es/germany-grants-bafin-license-to-financial-firm-for-sto-platform-3b3ed7d2.md)
