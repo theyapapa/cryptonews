@@ -1,3 +1,4 @@
+* 2019-08-19 [Биткоин Цена бычий клин Формы Указывая на $ 11K, говорит трейдер](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-bullish-wedge-forms-pointing-to-11k-says-trader-61fa1e7a.md)
 * 2019-08-19 [Японский гигант розничной торговли Rakuten официально запускает криптобиржу](https://github.com/theyapapa/cryptonews/blob/ru/japans-retail-giant-rakuten-officially-launches-crypto-exchange-597cffd0.md)
 * 2019-08-18 [Второй по величине индийский штат использовать blockchain в различных сферах](https://github.com/theyapapa/cryptonews/blob/ru/second-largest-indian-state-to-use-blockchain-in-various-spheres-e9ebedec.md)
 * 2019-08-18 [Будет ли блокчейн лучше защищать пользовательские данные, чем FaceApp? Ответ экспертов](https://github.com/theyapapa/cryptonews/blob/ru/would-blockchain-better-protect-user-data-than-faceapp-experts-answer-16ab4e93.md)
