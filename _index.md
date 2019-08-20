@@ -1,3 +1,4 @@
+* 2019-08-20 [주요 동전 보고서 가벼운 손실, 비트 코인 가격 주위에 호버 $10,700](https://github.com/theyapapa/cryptonews/blob/ko/major-coins-report-mild-losses-bitcoin-price-hovers-around-10-700-fcb120ce.md)
 * 2019-08-20 [암호화 트랜잭션 추적 서비스 고래 경고 버전 발표 2](https://github.com/theyapapa/cryptonews/blob/ko/crypto-transaction-tracking-service-whale-alert-announces-version-2-30eb21a1.md)
 * 2019-08-20 [암호화 거래소 Rokkex는 보안을 개선하기 위해 원장 금고를 통합합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-rokkex-incorporates-ledger-vault-to-improve-security-21e6b8f7.md)
 * 2019-08-20 [새로운 예약 CEO: 암호화는 주로 미국 이외의 성장을 계속합니다](https://github.com/theyapapa/cryptonews/blob/ko/new-booking-ceo-crypto-will-continue-to-grow-mainly-outside-the-us-fec54aef.md)
