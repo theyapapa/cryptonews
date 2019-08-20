@@ -1,3 +1,4 @@
+* 2019-08-20 [SEC замораживание активов вызвало "значительный вред" для держателей, говорит Veritaseum](https://github.com/theyapapa/cryptonews/blob/ru/sec-asset-freeze-caused-significant-harm-to-holders-says-veritaseum-18d79963.md)
 * 2019-08-20 [Цена Bitcoin не может прорваться через $11K - Altcoin Bull Run Fizzles](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-fails-to-break-through-11k-altcoin-bull-run-fizzles-818631e0.md)
 * 2019-08-20 [Биткоин Щебетай Ручка с 1 миллион последователей отказывается Bitcoin наличными](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-twitter-handle-with-1-million-followers-renounces-bitcoin-cash-b04f57c0.md)
 * 2019-08-19 [Судья отвергает многомиллионные активы вины в крипто-мошенничество дело](https://github.com/theyapapa/cryptonews/blob/ru/judge-rejects-multimillion-dollar-asset-plea-in-crypto-fraud-case-d3515c5a.md)
