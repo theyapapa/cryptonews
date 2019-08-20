@@ -1,3 +1,4 @@
+* 2019-08-20 [Crypto Exchange Rokkex incorpora Ledger Vault para mejorar la seguridad](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-rokkex-incorporates-ledger-vault-to-improve-security-21e6b8f7.md)
 * 2019-08-20 [Nuevo CEO de Reservas: Crypto seguirá creciendo principalmente fuera de los EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/new-booking-ceo-crypto-will-continue-to-grow-mainly-outside-the-us-fec54aef.md)
 * 2019-08-20 [La congelación de activos de la SEC causó 'daño significativo' a los titulares, dice Veritaseum](https://github.com/theyapapa/cryptonews/blob/es/sec-asset-freeze-caused-significant-harm-to-holders-says-veritaseum-18d79963.md)
 * 2019-08-20 [Bitcoin precio no puede romper a través de $11K — Altcoin Bull Run Fizzles](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-fails-to-break-through-11k-altcoin-bull-run-fizzles-818631e0.md)
