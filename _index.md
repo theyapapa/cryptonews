@@ -1,3 +1,4 @@
+* 2019-08-20 [새로운 예약 CEO: 암호화는 주로 미국 이외의 성장을 계속합니다](https://github.com/theyapapa/cryptonews/blob/ko/new-booking-ceo-crypto-will-continue-to-grow-mainly-outside-the-us-fec54aef.md)
 * 2019-08-20 [SEC 자산 동결은 보유자에게 '중대한 피해'를 입혔다고 베리타세움은 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/sec-asset-freeze-caused-significant-harm-to-holders-says-veritaseum-18d79963.md)
 * 2019-08-20 [비트 코인 가격은 돌파하는 데 실패 $11K - 알트 코인 황소 실행 fizzles](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-fails-to-break-through-11k-altcoin-bull-run-fizzles-818631e0.md)
 * 2019-08-20 [비트 코인 트위터 핸들 1 백만 추종자비트 코인 현금을 포기](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-twitter-handle-with-1-million-followers-renounces-bitcoin-cash-b04f57c0.md)
