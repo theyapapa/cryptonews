@@ -1,3 +1,4 @@
+* 2019-08-20 [Основные монеты Сообщают Мягкие потери, Цена Bitcoin колеблется около $ 10700](https://github.com/theyapapa/cryptonews/blob/ru/major-coins-report-mild-losses-bitcoin-price-hovers-around-10-700-fcb120ce.md)
 * 2019-08-20 [Crypto транзакции отслеживания службы китов оповещения объявляет версию 2](https://github.com/theyapapa/cryptonews/blob/ru/crypto-transaction-tracking-service-whale-alert-announces-version-2-30eb21a1.md)
 * 2019-08-20 [Криптобиржа Rokkex включает Леджер Убежище для повышения безопасности](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-rokkex-incorporates-ledger-vault-to-improve-security-21e6b8f7.md)
 * 2019-08-20 [Новый генеральный директор Booking: Crypto будет продолжать расти в основном за пределами США](https://github.com/theyapapa/cryptonews/blob/ru/new-booking-ceo-crypto-will-continue-to-grow-mainly-outside-the-us-fec54aef.md)
