@@ -1,3 +1,4 @@
+* 2019-08-20 [La congelación de activos de la SEC causó 'daño significativo' a los titulares, dice Veritaseum](https://github.com/theyapapa/cryptonews/blob/es/sec-asset-freeze-caused-significant-harm-to-holders-says-veritaseum-18d79963.md)
 * 2019-08-20 [Bitcoin precio no puede romper a través de $11K — Altcoin Bull Run Fizzles](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-fails-to-break-through-11k-altcoin-bull-run-fizzles-818631e0.md)
 * 2019-08-20 [Bitcoin Twitter Manejar con 1 millón de seguidores Renuncia Bitcoin Efectivo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-twitter-handle-with-1-million-followers-renounces-bitcoin-cash-b04f57c0.md)
 * 2019-08-19 [Juez rechaza la declaración de activos multimillonarios en caso de fraude criptográfico](https://github.com/theyapapa/cryptonews/blob/es/judge-rejects-multimillion-dollar-asset-plea-in-crypto-fraud-case-d3515c5a.md)
