@@ -1,3 +1,4 @@
+* 2019-08-20 [Crypto транзакции отслеживания службы китов оповещения объявляет версию 2](https://github.com/theyapapa/cryptonews/blob/ru/crypto-transaction-tracking-service-whale-alert-announces-version-2-30eb21a1.md)
 * 2019-08-20 [Криптобиржа Rokkex включает Леджер Убежище для повышения безопасности](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-rokkex-incorporates-ledger-vault-to-improve-security-21e6b8f7.md)
 * 2019-08-20 [Новый генеральный директор Booking: Crypto будет продолжать расти в основном за пределами США](https://github.com/theyapapa/cryptonews/blob/ru/new-booking-ceo-crypto-will-continue-to-grow-mainly-outside-the-us-fec54aef.md)
 * 2019-08-20 [SEC замораживание активов вызвало "значительный вред" для держателей, говорит Veritaseum](https://github.com/theyapapa/cryptonews/blob/ru/sec-asset-freeze-caused-significant-harm-to-holders-says-veritaseum-18d79963.md)
