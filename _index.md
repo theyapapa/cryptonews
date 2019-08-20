@@ -1,3 +1,4 @@
+* 2019-08-20 [Las principales monedas reportan pérdidas leves, Bitcoin precio ronda $10,700](https://github.com/theyapapa/cryptonews/blob/es/major-coins-report-mild-losses-bitcoin-price-hovers-around-10-700-fcb120ce.md)
 * 2019-08-20 [Crypto Transaction Tracking Service Whale Alert anuncia la versión 2](https://github.com/theyapapa/cryptonews/blob/es/crypto-transaction-tracking-service-whale-alert-announces-version-2-30eb21a1.md)
 * 2019-08-20 [Crypto Exchange Rokkex incorpora Ledger Vault para mejorar la seguridad](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-rokkex-incorporates-ledger-vault-to-improve-security-21e6b8f7.md)
 * 2019-08-20 [Nuevo CEO de Reservas: Crypto seguirá creciendo principalmente fuera de los EE. UU.](https://github.com/theyapapa/cryptonews/blob/es/new-booking-ceo-crypto-will-continue-to-grow-mainly-outside-the-us-fec54aef.md)
