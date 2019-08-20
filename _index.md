@@ -1,3 +1,4 @@
+* 2019-08-20 [Bitcoin Twitter Manejar con 1 millón de seguidores Renuncia Bitcoin Efectivo](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-twitter-handle-with-1-million-followers-renounces-bitcoin-cash-b04f57c0.md)
 * 2019-08-19 [Juez rechaza la declaración de activos multimillonarios en caso de fraude criptográfico](https://github.com/theyapapa/cryptonews/blob/es/judge-rejects-multimillion-dollar-asset-plea-in-crypto-fraud-case-d3515c5a.md)
 * 2019-08-19 [Autoridad Financiera israelí acelerará blockchain, licencia Fintech](https://github.com/theyapapa/cryptonews/blob/es/israeli-financial-authority-to-accelerate-blockchain-fintech-licensure-153833d7.md)
 * 2019-08-19 [El custodio criptográfico BitGo contrata al ex vicepresidente de Xapo como CRO](https://github.com/theyapapa/cryptonews/blob/es/crypto-custodian-bitgo-hires-former-xapo-vice-president-as-cro-6d63add4.md)
