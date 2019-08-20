@@ -1,3 +1,4 @@
+* 2019-08-19 [Судья отвергает многомиллионные активы вины в крипто-мошенничество дело](https://github.com/theyapapa/cryptonews/blob/ru/judge-rejects-multimillion-dollar-asset-plea-in-crypto-fraud-case-d3515c5a.md)
 * 2019-08-19 [Израильское финансовое управление для ускорения Blockchain, Fintech лицензирования](https://github.com/theyapapa/cryptonews/blob/ru/israeli-financial-authority-to-accelerate-blockchain-fintech-licensure-153833d7.md)
 * 2019-08-19 [Crypto Custodian BitGo нанимает бывшего вице-президента XApo в качестве CRO](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custodian-bitgo-hires-former-xapo-vice-president-as-cro-6d63add4.md)
 * 2019-08-19 [Мальтийская криптобиржа CGEX выключается после временного прекращения](https://github.com/theyapapa/cryptonews/blob/ru/maltese-crypto-exchange-cgex-shuts-down-after-temporary-terminations-56d8177e.md)
