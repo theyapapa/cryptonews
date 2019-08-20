@@ -1,3 +1,4 @@
+* 2019-08-19 [판사는 암호화 사기 사건에서 수백만 달러의 자산 탄원을 거부합니다.](https://github.com/theyapapa/cryptonews/blob/ko/judge-rejects-multimillion-dollar-asset-plea-in-crypto-fraud-case-d3515c5a.md)
 * 2019-08-19 [이스라엘 금융 당국, 블록체인 가속화, 핀테크 면허](https://github.com/theyapapa/cryptonews/blob/ko/israeli-financial-authority-to-accelerate-blockchain-fintech-licensure-153833d7.md)
 * 2019-08-19 [암호화 관리자 BitGo는 CRO로 전 사포 부사장을 고용](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custodian-bitgo-hires-former-xapo-vice-president-as-cro-6d63add4.md)
 * 2019-08-19 [몰타 어 암호화 교환 CGEX 임시 종료 후 종료](https://github.com/theyapapa/cryptonews/blob/ko/maltese-crypto-exchange-cgex-shuts-down-after-temporary-terminations-56d8177e.md)
