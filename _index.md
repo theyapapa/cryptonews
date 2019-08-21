@@ -1,3 +1,4 @@
+* 2019-08-20 [블록체인 회사 TZero, 지원되는 암호화폐에 레이븐코인 추가](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-firm-tzero-adds-ravencoin-to-supported-cryptocurrencies-2edef13d.md)
 * 2019-08-20 [크라켄 OTC 데스크 헤드: 거래량은 2018년 이후 2,000% 증가했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/kraken-otc-desk-head-trading-volume-has-increased-2-000-since-2018-755af23c.md)
 * 2019-08-20 [전문가: 한국 의 암호화 프로젝트는 나라를 떠날 것](https://github.com/theyapapa/cryptonews/blob/ko/experts-south-korean-crypto-projects-look-47b10dcb.md)
 * 2019-08-20 [주요 동전 보고서 가벼운 손실, 비트 코인 가격 주위에 호버 $10,700](https://github.com/theyapapa/cryptonews/blob/ko/major-coins-report-mild-losses-bitcoin-price-hovers-around-10-700-fcb120ce.md)
