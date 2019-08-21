@@ -1,3 +1,4 @@
+* 2019-08-21 [Bitcoin precio de nuevo por debajo de $10K más cerca de 'Zona de compra ideal', dice comerciante](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-back-under-10k-closer-to-ideal-buy-zone-says-trader-b2efeebe.md)
 * 2019-08-21 [SegWit Creator introduce un nuevo lenguaje para los contratos inteligentes de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/segwit-creator-introduces-new-language-for-bitcoin-smart-contracts-7301ea0c.md)
 * 2019-08-21 [India: La Corte Suprema da al Banco Central 2 semanas para justificar la prohibición de criptografía](https://github.com/theyapapa/cryptonews/blob/es/india-supreme-court-gives-central-bank-2-weeks-to-justify-crypto-ban-8a166ee7.md)
 * 2019-08-21 [David Chaum dice que su nueva criptomoneda es resistente a la computadora cuántica](https://github.com/theyapapa/cryptonews/blob/es/david-chaum-says-his-new-cryptocurrency-is-quantum-computer-resistant-5fa3c8c5.md)
