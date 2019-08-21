@@ -1,3 +1,4 @@
+* 2019-08-21 [미국 SEC, 디지털 증권 플랫폼 증권 거래 대리인으로 등록](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-registers-digital-securities-platform-securitize-as-transfer-agent-24b45b9c.md)
 * 2019-08-21 [비트 코인 가격 아래 다시 $10K 가까이 '이상적인 구매 영역,' 상인을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-back-under-10k-closer-to-ideal-buy-zone-says-trader-b2efeebe.md)
 * 2019-08-21 [SegWit 크리에이터는 비트 코인 스마트 계약에 대한 새로운 언어를 소개합니다](https://github.com/theyapapa/cryptonews/blob/ko/segwit-creator-introduces-new-language-for-bitcoin-smart-contracts-7301ea0c.md)
 * 2019-08-21 [인도: 대법원은 중앙 은행에 암호화 금지를 정당화하기 위해 2 주를 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/india-supreme-court-gives-central-bank-2-weeks-to-justify-crypto-ban-8a166ee7.md)
