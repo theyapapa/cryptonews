@@ -1,3 +1,4 @@
+* 2019-08-21 [Индия: Верховный суд дает Центральному банку 2 недели, чтобы оправдать запрет на криптограф](https://github.com/theyapapa/cryptonews/blob/ru/india-supreme-court-gives-central-bank-2-weeks-to-justify-crypto-ban-8a166ee7.md)
 * 2019-08-21 [Дэвид Chaum говорит, что его новая криптовалюта квантовой компьютерной устойчивостью](https://github.com/theyapapa/cryptonews/blob/ru/david-chaum-says-his-new-cryptocurrency-is-quantum-computer-resistant-5fa3c8c5.md)
 * 2019-08-21 [Цена Bitcoin падает на $700 за несколько минут после того, как не удалось взломать $11K](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-drops-by-700-in-minutes-after-failing-to-crack-11k-8e9a8a90.md)
 * 2019-08-20 [Блокчейн Фирма Тзеро добавляет Ravencoin к поддерживаемым криптовалютам](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-tzero-adds-ravencoin-to-supported-cryptocurrencies-2edef13d.md)
