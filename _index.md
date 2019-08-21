@@ -1,3 +1,4 @@
+* 2019-08-21 [SegWit 크리에이터는 비트 코인 스마트 계약에 대한 새로운 언어를 소개합니다](https://github.com/theyapapa/cryptonews/blob/ko/segwit-creator-introduces-new-language-for-bitcoin-smart-contracts-7301ea0c.md)
 * 2019-08-21 [인도: 대법원은 중앙 은행에 암호화 금지를 정당화하기 위해 2 주를 제공합니다](https://github.com/theyapapa/cryptonews/blob/ko/india-supreme-court-gives-central-bank-2-weeks-to-justify-crypto-ban-8a166ee7.md)
 * 2019-08-21 [데이비드 Chaum 말한다 그의 새로운 암호 화폐는 양자 컴퓨터 저항](https://github.com/theyapapa/cryptonews/blob/ko/david-chaum-says-his-new-cryptocurrency-is-quantum-computer-resistant-5fa3c8c5.md)
 * 2019-08-21 [비트 코인 가격에 의해 드롭 $700 균열에 실패 한 후 분에 $11K](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-drops-by-700-in-minutes-after-failing-to-crack-11k-8e9a8a90.md)
