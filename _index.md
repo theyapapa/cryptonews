@@ -1,3 +1,4 @@
+* 2019-08-20 [Глава Kraken OTC Desk: Объем торговли вырос на 2000% с 2018 года](https://github.com/theyapapa/cryptonews/blob/ru/kraken-otc-desk-head-trading-volume-has-increased-2-000-since-2018-755af23c.md)
 * 2019-08-20 [Эксперты: южнокорейские криптопроекты хотят покинуть страну](https://github.com/theyapapa/cryptonews/blob/ru/experts-south-korean-crypto-projects-look-47b10dcb.md)
 * 2019-08-20 [Основные монеты Сообщают Мягкие потери, Цена Bitcoin колеблется около $ 10700](https://github.com/theyapapa/cryptonews/blob/ru/major-coins-report-mild-losses-bitcoin-price-hovers-around-10-700-fcb120ce.md)
 * 2019-08-20 [Crypto транзакции отслеживания службы китов оповещения объявляет версию 2](https://github.com/theyapapa/cryptonews/blob/ru/crypto-transaction-tracking-service-whale-alert-announces-version-2-30eb21a1.md)
