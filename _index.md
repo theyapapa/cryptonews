@@ -1,3 +1,4 @@
+* 2019-08-21 [Дэвид Chaum говорит, что его новая криптовалюта квантовой компьютерной устойчивостью](https://github.com/theyapapa/cryptonews/blob/ru/david-chaum-says-his-new-cryptocurrency-is-quantum-computer-resistant-5fa3c8c5.md)
 * 2019-08-21 [Цена Bitcoin падает на $700 за несколько минут после того, как не удалось взломать $11K](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-drops-by-700-in-minutes-after-failing-to-crack-11k-8e9a8a90.md)
 * 2019-08-20 [Блокчейн Фирма Тзеро добавляет Ravencoin к поддерживаемым криптовалютам](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-firm-tzero-adds-ravencoin-to-supported-cryptocurrencies-2edef13d.md)
 * 2019-08-20 [Глава Kraken OTC Desk: Объем торговли вырос на 2000% с 2018 года](https://github.com/theyapapa/cryptonews/blob/ru/kraken-otc-desk-head-trading-volume-has-increased-2-000-since-2018-755af23c.md)
