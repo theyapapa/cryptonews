@@ -1,3 +1,4 @@
+* 2019-08-21 [Bitcoin precio cae en $700 en minutos después de no romper $11K](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-drops-by-700-in-minutes-after-failing-to-crack-11k-8e9a8a90.md)
 * 2019-08-20 [Blockchain Firm TZero añade Ravencoin a las criptomonedas soportadas](https://github.com/theyapapa/cryptonews/blob/es/blockchain-firm-tzero-adds-ravencoin-to-supported-cryptocurrencies-2edef13d.md)
 * 2019-08-20 [Kraken OTC Desk Head: El volumen de trading ha aumentado 2.000% desde 2018](https://github.com/theyapapa/cryptonews/blob/es/kraken-otc-desk-head-trading-volume-has-increased-2-000-since-2018-755af23c.md)
 * 2019-08-20 [Expertos: Proyectos criptográficos de Corea del Sur buscan salir del país](https://github.com/theyapapa/cryptonews/blob/es/experts-south-korean-crypto-projects-look-47b10dcb.md)
