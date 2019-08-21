@@ -1,3 +1,4 @@
+* 2019-08-20 [Kraken OTC Desk Head: El volumen de trading ha aumentado 2.000% desde 2018](https://github.com/theyapapa/cryptonews/blob/es/kraken-otc-desk-head-trading-volume-has-increased-2-000-since-2018-755af23c.md)
 * 2019-08-20 [Expertos: Proyectos criptográficos de Corea del Sur buscan salir del país](https://github.com/theyapapa/cryptonews/blob/es/experts-south-korean-crypto-projects-look-47b10dcb.md)
 * 2019-08-20 [Las principales monedas reportan pérdidas leves, Bitcoin precio ronda $10,700](https://github.com/theyapapa/cryptonews/blob/es/major-coins-report-mild-losses-bitcoin-price-hovers-around-10-700-fcb120ce.md)
 * 2019-08-20 [Crypto Transaction Tracking Service Whale Alert anuncia la versión 2](https://github.com/theyapapa/cryptonews/blob/es/crypto-transaction-tracking-service-whale-alert-announces-version-2-30eb21a1.md)
