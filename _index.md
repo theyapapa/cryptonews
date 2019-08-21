@@ -1,3 +1,4 @@
+* 2019-08-21 [트래블포트와 IBM, 호텔 커미션을 위한 블록체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/travelport-and-ibm-work-on-blockchain-platform-for-hotel-commissions-5fcc145c.md)
 * 2019-08-21 [타이페이에 본사를 둔 암호화 회사 마이코인은 라이브라 협회의 회원자격을 구합니다.](https://github.com/theyapapa/cryptonews/blob/ko/taipei-based-crypto-firm-maicoin-seeks-membership-in-libra-association-de9400fb.md)
 * 2019-08-21 [미국 SEC, 디지털 증권 플랫폼 증권 거래 대리인으로 등록](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-registers-digital-securities-platform-securitize-as-transfer-agent-24b45b9c.md)
 * 2019-08-21 [비트 코인 가격 아래 다시 $10K 가까이 '이상적인 구매 영역,' 상인을 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-back-under-10k-closer-to-ideal-buy-zone-says-trader-b2efeebe.md)
