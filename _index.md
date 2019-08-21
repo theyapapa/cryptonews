@@ -1,3 +1,4 @@
+* 2019-08-21 [Firma criptográfica con sede en Taipei Maicoin busca ser miembro de Libra Association](https://github.com/theyapapa/cryptonews/blob/es/taipei-based-crypto-firm-maicoin-seeks-membership-in-libra-association-de9400fb.md)
 * 2019-08-21 [LA SEC de EE. UU. registra la securitización de la plataforma de valores digitales como agente de transferencia](https://github.com/theyapapa/cryptonews/blob/es/us-sec-registers-digital-securities-platform-securitize-as-transfer-agent-24b45b9c.md)
 * 2019-08-21 [Bitcoin precio de nuevo por debajo de $10K más cerca de 'Zona de compra ideal', dice comerciante](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-back-under-10k-closer-to-ideal-buy-zone-says-trader-b2efeebe.md)
 * 2019-08-21 [SegWit Creator introduce un nuevo lenguaje para los contratos inteligentes de Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/segwit-creator-introduces-new-language-for-bitcoin-smart-contracts-7301ea0c.md)
