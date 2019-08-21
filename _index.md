@@ -1,3 +1,4 @@
+* 2019-08-21 [데이비드 Chaum 말한다 그의 새로운 암호 화폐는 양자 컴퓨터 저항](https://github.com/theyapapa/cryptonews/blob/ko/david-chaum-says-his-new-cryptocurrency-is-quantum-computer-resistant-5fa3c8c5.md)
 * 2019-08-21 [비트 코인 가격에 의해 드롭 $700 균열에 실패 한 후 분에 $11K](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-drops-by-700-in-minutes-after-failing-to-crack-11k-8e9a8a90.md)
 * 2019-08-20 [블록체인 회사 TZero, 지원되는 암호화폐에 레이븐코인 추가](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-firm-tzero-adds-ravencoin-to-supported-cryptocurrencies-2edef13d.md)
 * 2019-08-20 [크라켄 OTC 데스크 헤드: 거래량은 2018년 이후 2,000% 증가했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/kraken-otc-desk-head-trading-volume-has-increased-2-000-since-2018-755af23c.md)
