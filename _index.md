@@ -1,3 +1,4 @@
+* 2019-08-21 [Тайбэй основе Crypto фирма Maicoin стремится членство в Весы ассоциации](https://github.com/theyapapa/cryptonews/blob/ru/taipei-based-crypto-firm-maicoin-seeks-membership-in-libra-association-de9400fb.md)
 * 2019-08-21 [SEC США регистрирует цифровую платформу ценных бумаг Секьюритизации в качестве трансферного агента](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-registers-digital-securities-platform-securitize-as-transfer-agent-24b45b9c.md)
 * 2019-08-21 [Bitcoin Цена Назад Под $ 10K Ближе к "Идеальной зоне покупки", говорит трейдер](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-back-under-10k-closer-to-ideal-buy-zone-says-trader-b2efeebe.md)
 * 2019-08-21 [SegWit Creator представляет новый язык для смарт-контрактов Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/segwit-creator-introduces-new-language-for-bitcoin-smart-contracts-7301ea0c.md)
