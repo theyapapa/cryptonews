@@ -1,3 +1,4 @@
+* 2019-08-22 [불법 마약을 구입하는 데 사용되는 암호 화폐, 백악관은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrencies-used-to-buy-illicit-drugs-says-white-house-0fdc5fb8.md)
 * 2019-08-21 [폴카도트 토큰을 지갑에 통합하는 Blockchain.com](https://github.com/theyapapa/cryptonews/blob/ko/blockchaincom-to-integrate-polkadot-tokens-into-its-wallet-d5bf024e.md)
 * 2019-08-21 [11 개의 오픈 라이브러리에서 발견 된 크립토 재킹 코드, 수천 감염](https://github.com/theyapapa/cryptonews/blob/ko/cryptojacking-code-found-in-eleven-open-libraries-thousands-infected-02f6ead2.md)
 * 2019-08-21 [트래블포트와 IBM, 호텔 커미션을 위한 블록체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/travelport-and-ibm-work-on-blockchain-platform-for-hotel-commissions-5fcc145c.md)
