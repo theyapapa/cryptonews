@@ -1,3 +1,4 @@
+* 2019-08-22 [Cryptocurrencies Used to Buy Illicit Drugs, says White House](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrencies-used-to-buy-illicit-drugs-says-white-house-0fdc5fb8.md)
 * 2019-08-21 [Blockchain.com para integrar fichas de polkadot en su billetera](https://github.com/theyapapa/cryptonews/blob/es/blockchaincom-to-integrate-polkadot-tokens-into-its-wallet-d5bf024e.md)
 * 2019-08-21 [Código Cryptojacking encontrado en once bibliotecas abiertas, miles de infectados](https://github.com/theyapapa/cryptonews/blob/es/cryptojacking-code-found-in-eleven-open-libraries-thousands-infected-02f6ead2.md)
 * 2019-08-21 [Travelport e IBM trabajan en Blockchain Platform for Hotel Commissions](https://github.com/theyapapa/cryptonews/blob/es/travelport-and-ibm-work-on-blockchain-platform-for-hotel-commissions-5fcc145c.md)
