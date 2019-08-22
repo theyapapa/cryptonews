@@ -1,3 +1,4 @@
+* 2019-08-22 [Криптовалюты, используемые для покупки незаконных наркотиков, говорит Белый дом](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrencies-used-to-buy-illicit-drugs-says-white-house-0fdc5fb8.md)
 * 2019-08-21 [Blockchain.com интегрировать токены Polkadot в свой кошелек](https://github.com/theyapapa/cryptonews/blob/ru/blockchaincom-to-integrate-polkadot-tokens-into-its-wallet-d5bf024e.md)
 * 2019-08-21 [Cryptojacking код найден в одиннадцати открытых библиотеках, тысячи инфицированных](https://github.com/theyapapa/cryptonews/blob/ru/cryptojacking-code-found-in-eleven-open-libraries-thousands-infected-02f6ead2.md)
 * 2019-08-21 [Travelport и IBM работают над блокчейн-платформой для гостиничных комиссий](https://github.com/theyapapa/cryptonews/blob/ru/travelport-and-ibm-work-on-blockchain-platform-for-hotel-commissions-5fcc145c.md)
