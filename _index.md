@@ -1,3 +1,4 @@
+* 2019-08-22 [Bitcoin Цена 'Никогда не хит $ 50K' Золотой ошибка Питер Шифф говорит Том Ли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-will-never-hit-50k-gold-bug-peter-schiff-tells-tom-lee-939a9543.md)
 * 2019-08-22 [Криптовалюты, используемые для покупки незаконных наркотиков, говорит Белый дом](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrencies-used-to-buy-illicit-drugs-says-white-house-0fdc5fb8.md)
 * 2019-08-21 [Blockchain.com интегрировать токены Polkadot в свой кошелек](https://github.com/theyapapa/cryptonews/blob/ru/blockchaincom-to-integrate-polkadot-tokens-into-its-wallet-d5bf024e.md)
 * 2019-08-21 [Cryptojacking код найден в одиннадцати открытых библиотеках, тысячи инфицированных](https://github.com/theyapapa/cryptonews/blob/ru/cryptojacking-code-found-in-eleven-open-libraries-thousands-infected-02f6ead2.md)
