@@ -1,3 +1,4 @@
+* 2019-08-22 [블록체인 에너지 스타트업 파워 원장, P2P 전력 거래 시험 연장](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-energy-startup-power-ledger-extends-p2p-power-trading-trial-37fee79e.md)
 * 2019-08-22 [암호화 옹호자 패트릭 바인은 오버 스톡의 CEO로 사임](https://github.com/theyapapa/cryptonews/blob/ko/crypto-advocate-patrick-byrne-resigns-as-ceo-of-overstock-ab420bb2.md)
 * 2019-08-22 [7 월 해킹 후 과다 청구에 대한 비트 포인트 대만의 고소 모기업 거래소](https://github.com/theyapapa/cryptonews/blob/ko/bitpoint-taiwans-sues-parent-exchange-for-overbilling-after-july-hack-a2e8cfa7.md)
 * 2019-08-22 [최고 등급의 암호화 거래소는 총 거래량의 5 %를 구성합니다 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/top-rated-crypto-exchanges-comprise-5-of-total-trading-volume-report-99165c62.md)
