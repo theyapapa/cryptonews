@@ -1,3 +1,4 @@
+* 2019-08-22 [비트 코인 가격 '상단에' 아직 새로운 황소 주기의, 새로운 데이터 표시](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-not-at-the-top-of-new-bull-cycle-yet-new-data-shows-e7b2482c.md)
 * 2019-08-22 [비트 코인 가격 '결코 충돌하지 않습니다 $50K' 골드 버그 피터 쉬프는 톰 리를 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-will-never-hit-50k-gold-bug-peter-schiff-tells-tom-lee-939a9543.md)
 * 2019-08-22 [불법 마약을 구입하는 데 사용되는 암호 화폐, 백악관은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrencies-used-to-buy-illicit-drugs-says-white-house-0fdc5fb8.md)
 * 2019-08-21 [폴카도트 토큰을 지갑에 통합하는 Blockchain.com](https://github.com/theyapapa/cryptonews/blob/ko/blockchaincom-to-integrate-polkadot-tokens-into-its-wallet-d5bf024e.md)
