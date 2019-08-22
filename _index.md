@@ -1,3 +1,4 @@
+* 2019-08-22 [Blockchain Energy Startup Power Ledger amplía la prueba de trading de energía P2P](https://github.com/theyapapa/cryptonews/blob/es/blockchain-energy-startup-power-ledger-extends-p2p-power-trading-trial-37fee79e.md)
 * 2019-08-22 [El abogado de Cripto Patrick Byrne dimite como CEO de Overstock](https://github.com/theyapapa/cryptonews/blob/es/crypto-advocate-patrick-byrne-resigns-as-ceo-of-overstock-ab420bb2.md)
 * 2019-08-22 [Bitpoint Taiwán Sues Parent Exchange for Overbilling After July Hack](https://github.com/theyapapa/cryptonews/blob/es/bitpoint-taiwans-sues-parent-exchange-for-overbilling-after-july-hack-a2e8cfa7.md)
 * 2019-08-22 [Las bolsas criptográficas mejor valoradas comprenden el 5% del volumen total de operaciones: Informe](https://github.com/theyapapa/cryptonews/blob/es/top-rated-crypto-exchanges-comprise-5-of-total-trading-volume-report-99165c62.md)
