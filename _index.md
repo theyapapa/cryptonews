@@ -1,3 +1,4 @@
+* 2019-08-22 [FomoHunt se convierte en el primer comerciante en aceptar tokens Huobi como pago](https://github.com/theyapapa/cryptonews/blob/es/fomohunt-becomes-first-merchant-to-accept-huobi-tokens-as-payment-aa0362bc.md)
 * 2019-08-22 [Blockchain Energy Startup Power Ledger amplía la prueba de trading de energía P2P](https://github.com/theyapapa/cryptonews/blob/es/blockchain-energy-startup-power-ledger-extends-p2p-power-trading-trial-37fee79e.md)
 * 2019-08-22 [El abogado de Cripto Patrick Byrne dimite como CEO de Overstock](https://github.com/theyapapa/cryptonews/blob/es/crypto-advocate-patrick-byrne-resigns-as-ceo-of-overstock-ab420bb2.md)
 * 2019-08-22 [Bitpoint Taiwán Sues Parent Exchange for Overbilling After July Hack](https://github.com/theyapapa/cryptonews/blob/es/bitpoint-taiwans-sues-parent-exchange-for-overbilling-after-july-hack-a2e8cfa7.md)
