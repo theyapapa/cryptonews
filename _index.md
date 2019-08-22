@@ -1,3 +1,4 @@
+* 2019-08-22 [FomoHunt는 지불로 후오비 토큰을 받아 첫 번째 상인이된다](https://github.com/theyapapa/cryptonews/blob/ko/fomohunt-becomes-first-merchant-to-accept-huobi-tokens-as-payment-aa0362bc.md)
 * 2019-08-22 [블록체인 에너지 스타트업 파워 원장, P2P 전력 거래 시험 연장](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-energy-startup-power-ledger-extends-p2p-power-trading-trial-37fee79e.md)
 * 2019-08-22 [암호화 옹호자 패트릭 바인은 오버 스톡의 CEO로 사임](https://github.com/theyapapa/cryptonews/blob/ko/crypto-advocate-patrick-byrne-resigns-as-ceo-of-overstock-ab420bb2.md)
 * 2019-08-22 [7 월 해킹 후 과다 청구에 대한 비트 포인트 대만의 고소 모기업 거래소](https://github.com/theyapapa/cryptonews/blob/ko/bitpoint-taiwans-sues-parent-exchange-for-overbilling-after-july-hack-a2e8cfa7.md)
