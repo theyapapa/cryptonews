@@ -1,3 +1,4 @@
+* 2019-08-21 [폴카도트 토큰을 지갑에 통합하는 Blockchain.com](https://github.com/theyapapa/cryptonews/blob/ko/blockchaincom-to-integrate-polkadot-tokens-into-its-wallet-d5bf024e.md)
 * 2019-08-21 [11 개의 오픈 라이브러리에서 발견 된 크립토 재킹 코드, 수천 감염](https://github.com/theyapapa/cryptonews/blob/ko/cryptojacking-code-found-in-eleven-open-libraries-thousands-infected-02f6ead2.md)
 * 2019-08-21 [트래블포트와 IBM, 호텔 커미션을 위한 블록체인 플랫폼 개발](https://github.com/theyapapa/cryptonews/blob/ko/travelport-and-ibm-work-on-blockchain-platform-for-hotel-commissions-5fcc145c.md)
 * 2019-08-21 [타이페이에 본사를 둔 암호화 회사 마이코인은 라이브라 협회의 회원자격을 구합니다.](https://github.com/theyapapa/cryptonews/blob/ko/taipei-based-crypto-firm-maicoin-seeks-membership-in-libra-association-de9400fb.md)
