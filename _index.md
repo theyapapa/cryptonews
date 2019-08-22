@@ -1,3 +1,4 @@
+* 2019-08-22 [Bitpoint Taiwán Sues Parent Exchange for Overbilling After July Hack](https://github.com/theyapapa/cryptonews/blob/es/bitpoint-taiwans-sues-parent-exchange-for-overbilling-after-july-hack-a2e8cfa7.md)
 * 2019-08-22 [Las bolsas criptográficas mejor valoradas comprenden el 5% del volumen total de operaciones: Informe](https://github.com/theyapapa/cryptonews/blob/es/top-rated-crypto-exchanges-comprise-5-of-total-trading-volume-report-99165c62.md)
 * 2019-08-22 [Bitcoin Precio 'No en la cima' del nuevo ciclo del toro todavía, nuevos datos muestran](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-not-at-the-top-of-new-bull-cycle-yet-new-data-shows-e7b2482c.md)
 * 2019-08-22 [Bitcoin precio 'Nunca golpeará $50K' Error de Oro Peter Schiff Le dice a Tom Lee](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-will-never-hit-50k-gold-bug-peter-schiff-tells-tom-lee-939a9543.md)
