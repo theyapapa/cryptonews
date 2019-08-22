@@ -1,3 +1,4 @@
+* 2019-08-22 [7 월 해킹 후 과다 청구에 대한 비트 포인트 대만의 고소 모기업 거래소](https://github.com/theyapapa/cryptonews/blob/ko/bitpoint-taiwans-sues-parent-exchange-for-overbilling-after-july-hack-a2e8cfa7.md)
 * 2019-08-22 [최고 등급의 암호화 거래소는 총 거래량의 5 %를 구성합니다 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/top-rated-crypto-exchanges-comprise-5-of-total-trading-volume-report-99165c62.md)
 * 2019-08-22 [비트 코인 가격 '상단에' 아직 새로운 황소 주기의, 새로운 데이터 표시](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-not-at-the-top-of-new-bull-cycle-yet-new-data-shows-e7b2482c.md)
 * 2019-08-22 [비트 코인 가격 '결코 충돌하지 않습니다 $50K' 골드 버그 피터 쉬프는 톰 리를 알려줍니다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-will-never-hit-50k-gold-bug-peter-schiff-tells-tom-lee-939a9543.md)
