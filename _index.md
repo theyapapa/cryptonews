@@ -1,3 +1,4 @@
+* 2019-08-22 [Bitpoint Тайваня судится родительской биржи для overbilling После июля Hack](https://github.com/theyapapa/cryptonews/blob/ru/bitpoint-taiwans-sues-parent-exchange-for-overbilling-after-july-hack-a2e8cfa7.md)
 * 2019-08-22 [Топ-рейтинг криптобиржи составляют 5% от общего объема торговли: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/top-rated-crypto-exchanges-comprise-5-of-total-trading-volume-report-99165c62.md)
 * 2019-08-22 [Цена Bitcoin 'Не в верхней' нового цикла быка Тем не менее, Новые данные показывает](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-not-at-the-top-of-new-bull-cycle-yet-new-data-shows-e7b2482c.md)
 * 2019-08-22 [Bitcoin Цена 'Никогда не хит $ 50K' Золотой ошибка Питер Шифф говорит Том Ли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-will-never-hit-50k-gold-bug-peter-schiff-tells-tom-lee-939a9543.md)
