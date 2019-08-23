@@ -1,3 +1,4 @@
+* 2019-08-23 [영국 해커는 피싱 공격에 대한 암호화에서 $ 1M을 넘겨](https://github.com/theyapapa/cryptonews/blob/ko/british-hacker-to-hand-over-1m-in-crypto-for-phishing-attacks-3aa6ae33.md)
 * 2019-08-23 [폴카도트 소프트, 실험적인 '카나리아 네트워크' 쿠사마 출시](https://github.com/theyapapa/cryptonews/blob/ko/polkadot-soft-launches-its-experimental-canary-network-kusama-622bde16.md)
 * 2019-08-23 [서클은 주식 플랫폼 SeedInvest에 대한 $ 100M을 인상 할 것으로 보인다](https://github.com/theyapapa/cryptonews/blob/ko/circle-looks-to-raise-100m-for-its-equity-platform-seedinvest-e60055b3.md)
 * 2019-08-23 [비트 메인 평가 히트 $12B 새로운 600 K 칩 주문, 소스 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-valuation-to-hit-12b-with-new-600k-chip-order-source-says-41c7bb17.md)
