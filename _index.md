@@ -1,3 +1,4 @@
+* 2019-08-23 [Binance: 아마존 웹 서비스 오류 로 인출을 중지 한 후 자금 'SAFU'](https://github.com/theyapapa/cryptonews/blob/ko/binance-funds-safu-after-amazon-web-services-error-stops-withdrawals-6c09ba75.md)
 * 2019-08-22 [Simetri 연구 단기 암호 상인을위한 대시 보드 출시](https://github.com/theyapapa/cryptonews/blob/ko/simetri-research-launches-dashboard-for-short-term-crypto-traders-3016bb7d.md)
 * 2019-08-22 [일본 HR 및 기술 자이언트 리크루트 홀딩스, 블록스택에 투자](https://github.com/theyapapa/cryptonews/blob/ko/japanese-hr-and-tech-giant-recruit-holdings-invests-in-blockstack-ea18908d.md)
 * 2019-08-22 [Coinbase WalletLink는 이제 클라이언트가 데스크톱 브라우저에서 DApps를 사용할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-walletlink-now-lets-clients-use-dapps-on-desktop-browsers-82c7351a.md)
