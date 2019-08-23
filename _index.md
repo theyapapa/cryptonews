@@ -1,3 +1,4 @@
+* 2019-08-23 [Британский хакер передать $ 1M в Крипто для фишинг-атак](https://github.com/theyapapa/cryptonews/blob/ru/british-hacker-to-hand-over-1m-in-crypto-for-phishing-attacks-3aa6ae33.md)
 * 2019-08-23 [Polkadot Soft запускает свою экспериментальную «Канарскую сеть» Кусама](https://github.com/theyapapa/cryptonews/blob/ru/polkadot-soft-launches-its-experimental-canary-network-kusama-622bde16.md)
 * 2019-08-23 [Круг смотрит, чтобы поднять $ 100M для своей платформы акций SeedInvest](https://github.com/theyapapa/cryptonews/blob/ru/circle-looks-to-raise-100m-for-its-equity-platform-seedinvest-e60055b3.md)
 * 2019-08-23 [Bitmain Оценка хит $ 12B с новым 600K Чип порядка, Источник говорит](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-valuation-to-hit-12b-with-new-600k-chip-order-source-says-41c7bb17.md)
