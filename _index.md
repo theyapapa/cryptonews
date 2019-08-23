@@ -1,3 +1,4 @@
+* 2019-08-23 [Polkadot Soft запускает свою экспериментальную «Канарскую сеть» Кусама](https://github.com/theyapapa/cryptonews/blob/ru/polkadot-soft-launches-its-experimental-canary-network-kusama-622bde16.md)
 * 2019-08-23 [Круг смотрит, чтобы поднять $ 100M для своей платформы акций SeedInvest](https://github.com/theyapapa/cryptonews/blob/ru/circle-looks-to-raise-100m-for-its-equity-platform-seedinvest-e60055b3.md)
 * 2019-08-23 [Bitmain Оценка хит $ 12B с новым 600K Чип порядка, Источник говорит](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-valuation-to-hit-12b-with-new-600k-chip-order-source-says-41c7bb17.md)
 * 2019-08-23 [Binance: Фонды 'SAFU' После ошибки Amazon Web Services останавливает снятие средств](https://github.com/theyapapa/cryptonews/blob/ru/binance-funds-safu-after-amazon-web-services-error-stops-withdrawals-6c09ba75.md)
