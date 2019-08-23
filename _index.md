@@ -1,3 +1,4 @@
+* 2019-08-22 [Simetri Research lanza dashboard para traders Crypto a corto plazo](https://github.com/theyapapa/cryptonews/blob/es/simetri-research-launches-dashboard-for-short-term-crypto-traders-3016bb7d.md)
 * 2019-08-22 [El gigante japonés de recursos humanos y tecnología Holdings invierte en Blockstack](https://github.com/theyapapa/cryptonews/blob/es/japanese-hr-and-tech-giant-recruit-holdings-invests-in-blockstack-ea18908d.md)
 * 2019-08-22 [Coinbase WalletLink ahora permite a los clientes usar DApps en navegadores de escritorio](https://github.com/theyapapa/cryptonews/blob/es/coinbase-walletlink-now-lets-clients-use-dapps-on-desktop-browsers-82c7351a.md)
 * 2019-08-22 [FomoHunt se convierte en el primer comerciante en aceptar tokens Huobi como pago](https://github.com/theyapapa/cryptonews/blob/es/fomohunt-becomes-first-merchant-to-accept-huobi-tokens-as-payment-aa0362bc.md)
