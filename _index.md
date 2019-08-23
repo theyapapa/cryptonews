@@ -1,3 +1,4 @@
+* 2019-08-23 [Binance: Фонды 'SAFU' После ошибки Amazon Web Services останавливает снятие средств](https://github.com/theyapapa/cryptonews/blob/ru/binance-funds-safu-after-amazon-web-services-error-stops-withdrawals-6c09ba75.md)
 * 2019-08-22 [Simetri Research запускает панель мониторинга для краткосрочных криптотрейдеров](https://github.com/theyapapa/cryptonews/blob/ru/simetri-research-launches-dashboard-for-short-term-crypto-traders-3016bb7d.md)
 * 2019-08-22 [Японский HR и Tech Giant Recruit Holdings инвестирует в Blockstack](https://github.com/theyapapa/cryptonews/blob/ru/japanese-hr-and-tech-giant-recruit-holdings-invests-in-blockstack-ea18908d.md)
 * 2019-08-22 [Coinbase WalletLink теперь позволяет клиентам использовать DApps на настольных браузерах](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-walletlink-now-lets-clients-use-dapps-on-desktop-browsers-82c7351a.md)
