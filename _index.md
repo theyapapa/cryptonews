@@ -1,3 +1,4 @@
+* 2019-08-23 [서클은 주식 플랫폼 SeedInvest에 대한 $ 100M을 인상 할 것으로 보인다](https://github.com/theyapapa/cryptonews/blob/ko/circle-looks-to-raise-100m-for-its-equity-platform-seedinvest-e60055b3.md)
 * 2019-08-23 [비트 메인 평가 히트 $12B 새로운 600 K 칩 주문, 소스 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-valuation-to-hit-12b-with-new-600k-chip-order-source-says-41c7bb17.md)
 * 2019-08-23 [Binance: 아마존 웹 서비스 오류 로 인출을 중지 한 후 자금 'SAFU'](https://github.com/theyapapa/cryptonews/blob/ko/binance-funds-safu-after-amazon-web-services-error-stops-withdrawals-6c09ba75.md)
 * 2019-08-22 [Simetri 연구 단기 암호 상인을위한 대시 보드 출시](https://github.com/theyapapa/cryptonews/blob/ko/simetri-research-launches-dashboard-for-short-term-crypto-traders-3016bb7d.md)
