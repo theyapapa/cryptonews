@@ -1,3 +1,4 @@
+* 2019-08-23 [Глава Банка Англии: Валюты, похожие на Весы, могут заменить доллар США](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-england-governor-libra-like-currency-could-replace-us-dollar-f981d574.md)
 * 2019-08-23 [Binance: Утечка изображений перекрытия с теми, обработанные третьей стороной](https://github.com/theyapapa/cryptonews/blob/ru/binance-leaked-images-overlap-with-those-processed-by-third-party-f9ebe4b9.md)
 * 2019-08-23 [Британский хакер передать $ 1M в Крипто для фишинг-атак](https://github.com/theyapapa/cryptonews/blob/ru/british-hacker-to-hand-over-1m-in-crypto-for-phishing-attacks-3aa6ae33.md)
 * 2019-08-23 [Polkadot Soft запускает свою экспериментальную «Канарскую сеть» Кусама](https://github.com/theyapapa/cryptonews/blob/ru/polkadot-soft-launches-its-experimental-canary-network-kusama-622bde16.md)
