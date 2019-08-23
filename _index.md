@@ -1,3 +1,4 @@
+* 2019-08-23 [Circle busca recaudar $100 millones para su plataforma de capital SeedInvest](https://github.com/theyapapa/cryptonews/blob/es/circle-looks-to-raise-100m-for-its-equity-platform-seedinvest-e60055b3.md)
 * 2019-08-23 [Bitmain Valoración para golpear $12B con nuevo pedido de chip de 600k, fuente dice](https://github.com/theyapapa/cryptonews/blob/es/bitmain-valuation-to-hit-12b-with-new-600k-chip-order-source-says-41c7bb17.md)
 * 2019-08-23 [Binance: Fondos 'SAFU' Después de que el error de Amazon Web Services detenga los retiros](https://github.com/theyapapa/cryptonews/blob/es/binance-funds-safu-after-amazon-web-services-error-stops-withdrawals-6c09ba75.md)
 * 2019-08-22 [Simetri Research lanza dashboard para traders Crypto a corto plazo](https://github.com/theyapapa/cryptonews/blob/es/simetri-research-launches-dashboard-for-short-term-crypto-traders-3016bb7d.md)
