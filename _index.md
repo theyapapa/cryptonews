@@ -1,3 +1,4 @@
+* 2019-08-23 [Binance: Las imágenes filtradas se superponen con las procesadas por terceros](https://github.com/theyapapa/cryptonews/blob/es/binance-leaked-images-overlap-with-those-processed-by-third-party-f9ebe4b9.md)
 * 2019-08-23 [Hacker británico entregará $1M en cripto por ataques de phishing](https://github.com/theyapapa/cryptonews/blob/es/british-hacker-to-hand-over-1m-in-crypto-for-phishing-attacks-3aa6ae33.md)
 * 2019-08-23 [Polkadot Soft-Launches su Experimental 'Canary Network' Kusama](https://github.com/theyapapa/cryptonews/blob/es/polkadot-soft-launches-its-experimental-canary-network-kusama-622bde16.md)
 * 2019-08-23 [Circle busca recaudar $100 millones para su plataforma de capital SeedInvest](https://github.com/theyapapa/cryptonews/blob/es/circle-looks-to-raise-100m-for-its-equity-platform-seedinvest-e60055b3.md)
