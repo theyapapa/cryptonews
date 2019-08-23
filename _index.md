@@ -1,3 +1,4 @@
+* 2019-08-23 [비트 메인 평가 히트 $12B 새로운 600 K 칩 주문, 소스 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-valuation-to-hit-12b-with-new-600k-chip-order-source-says-41c7bb17.md)
 * 2019-08-23 [Binance: 아마존 웹 서비스 오류 로 인출을 중지 한 후 자금 'SAFU'](https://github.com/theyapapa/cryptonews/blob/ko/binance-funds-safu-after-amazon-web-services-error-stops-withdrawals-6c09ba75.md)
 * 2019-08-22 [Simetri 연구 단기 암호 상인을위한 대시 보드 출시](https://github.com/theyapapa/cryptonews/blob/ko/simetri-research-launches-dashboard-for-short-term-crypto-traders-3016bb7d.md)
 * 2019-08-22 [일본 HR 및 기술 자이언트 리크루트 홀딩스, 블록스택에 투자](https://github.com/theyapapa/cryptonews/blob/ko/japanese-hr-and-tech-giant-recruit-holdings-invests-in-blockstack-ea18908d.md)
