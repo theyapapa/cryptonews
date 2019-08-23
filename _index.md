@@ -1,3 +1,4 @@
+* 2019-08-22 [일본 HR 및 기술 자이언트 리크루트 홀딩스, 블록스택에 투자](https://github.com/theyapapa/cryptonews/blob/ko/japanese-hr-and-tech-giant-recruit-holdings-invests-in-blockstack-ea18908d.md)
 * 2019-08-22 [Coinbase WalletLink는 이제 클라이언트가 데스크톱 브라우저에서 DApps를 사용할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-walletlink-now-lets-clients-use-dapps-on-desktop-browsers-82c7351a.md)
 * 2019-08-22 [FomoHunt는 지불로 후오비 토큰을 받아 첫 번째 상인이된다](https://github.com/theyapapa/cryptonews/blob/ko/fomohunt-becomes-first-merchant-to-accept-huobi-tokens-as-payment-aa0362bc.md)
 * 2019-08-22 [블록체인 에너지 스타트업 파워 원장, P2P 전력 거래 시험 연장](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-energy-startup-power-ledger-extends-p2p-power-trading-trial-37fee79e.md)
