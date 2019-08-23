@@ -1,3 +1,4 @@
+* 2019-08-23 [Binance: 유출된 이미지가 제3자에 의해 처리된 이미지와 겹칩니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-leaked-images-overlap-with-those-processed-by-third-party-f9ebe4b9.md)
 * 2019-08-23 [영국 해커는 피싱 공격에 대한 암호화에서 $ 1M을 넘겨](https://github.com/theyapapa/cryptonews/blob/ko/british-hacker-to-hand-over-1m-in-crypto-for-phishing-attacks-3aa6ae33.md)
 * 2019-08-23 [폴카도트 소프트, 실험적인 '카나리아 네트워크' 쿠사마 출시](https://github.com/theyapapa/cryptonews/blob/ko/polkadot-soft-launches-its-experimental-canary-network-kusama-622bde16.md)
 * 2019-08-23 [서클은 주식 플랫폼 SeedInvest에 대한 $ 100M을 인상 할 것으로 보인다](https://github.com/theyapapa/cryptonews/blob/ko/circle-looks-to-raise-100m-for-its-equity-platform-seedinvest-e60055b3.md)
