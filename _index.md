@@ -1,3 +1,4 @@
+* 2019-08-24 [전 모건 스탠리 Exec 심천 암호화 회사에서 그의 전 동료에 합류](https://github.com/theyapapa/cryptonews/blob/ko/ex-morgan-stanley-exec-joins-his-former-colleagues-at-shenzhen-crypto-firm-f0d71d8d.md)
 * 2019-08-24 [블록체인이 자율 주행 차량의 필수적인 부분이 될 수 있을까요?](https://github.com/theyapapa/cryptonews/blob/ko/can-blockchain-become-an-integral-part-of-autonomous-vehicles-7bebfb6e.md)
 * 2019-08-24 [비트 코인 은 약 호버 $10,130 Altcoins사소한 손실을 겪고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-around-10-130-as-altcoins-suffer-minor-losses-b8ff28db.md)
 * 2019-08-23 [서클 CEO는 토큰화 된 피아트 통화가 지평선에 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-says-tokenized-fiat-currencies-are-on-the-horizon-b48d7998.md)
