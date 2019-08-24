@@ -1,3 +1,4 @@
+* 2019-08-24 [Bitcoin Цена борется держать $ 10K Поддержка в то время как Altcoins увидеть капли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-fights-to-hold-10k-support-while-altcoins-see-drops-9e4e53fe.md)
 * 2019-08-24 [Crypto Custody: Принятие ярлык или Blockchain Пуристов Кошмар?](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custody-adoption-shortcut-or-blockchain-purists-nightmare-8b083c7b.md)
 * 2019-08-24 [США человек признает себя виновным в запуске $ 25 миллионов Bitcoin Отмывание схемы](https://github.com/theyapapa/cryptonews/blob/ru/us-man-pleads-guilty-to-running-25-million-bitcoin-laundering-scheme-62c25977.md)
 * 2019-08-24 [Кресио CIO Комментарии, Новые "Сатоши" и BTC игры: На этой неделе в CT Испании](https://github.com/theyapapa/cryptonews/blob/ru/cresio-cio-comments-new-satoshi-and-btc-games-this-week-in-ct-spain-b89b206d.md)
