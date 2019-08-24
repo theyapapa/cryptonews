@@ -1,3 +1,4 @@
+* 2019-08-24 [비트 코인 은 약 호버 $10,130 Altcoins사소한 손실을 겪고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-around-10-130-as-altcoins-suffer-minor-losses-b8ff28db.md)
 * 2019-08-23 [서클 CEO는 토큰화 된 피아트 통화가 지평선에 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-says-tokenized-fiat-currencies-are-on-the-horizon-b48d7998.md)
 * 2019-08-23 [하원 금융 서비스 위원회는 선관위 검토를 계속할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/house-financial-services-committee-will-continue-libra-review-a2d393b1.md)
 * 2019-08-23 [잉글랜드 은행 총재 : 선칭 과 같은 통화는 미국 달러를 대체 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/bank-of-england-governor-libra-like-currency-could-replace-us-dollar-f981d574.md)
