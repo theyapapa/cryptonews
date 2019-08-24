@@ -1,3 +1,4 @@
+* 2019-08-24 [US Man se declara culpable de ejecutar un esquema de lavado de Bitcoin de $25 millones](https://github.com/theyapapa/cryptonews/blob/es/us-man-pleads-guilty-to-running-25-million-bitcoin-laundering-scheme-62c25977.md)
 * 2019-08-24 [Cresio CIO Comentarios, Nuevos Juegos 'Satoshi' y BTC: Esta Semana en CT España](https://github.com/theyapapa/cryptonews/blob/es/cresio-cio-comments-new-satoshi-and-btc-games-this-week-in-ct-spain-b89b206d.md)
 * 2019-08-24 [El ex-Morgan Stanley Exec se une a sus antiguos colegas en Shenzhen Crypto Firm](https://github.com/theyapapa/cryptonews/blob/es/ex-morgan-stanley-exec-joins-his-former-colleagues-at-shenzhen-crypto-firm-f0d71d8d.md)
 * 2019-08-24 [¿Puede la cadena de bloques convertirse en una parte integral de los vehículos autónomos?](https://github.com/theyapapa/cryptonews/blob/es/can-blockchain-become-an-integral-part-of-autonomous-vehicles-7bebfb6e.md)
