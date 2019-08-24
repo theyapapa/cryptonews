@@ -1,3 +1,4 @@
+* 2019-08-24 [¿Puede la cadena de bloques convertirse en una parte integral de los vehículos autónomos?](https://github.com/theyapapa/cryptonews/blob/es/can-blockchain-become-an-integral-part-of-autonomous-vehicles-7bebfb6e.md)
 * 2019-08-24 [Bitcoin ronda los $10,130 mientras Altcoins sufren pérdidas menores](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-hovers-around-10-130-as-altcoins-suffer-minor-losses-b8ff28db.md)
 * 2019-08-23 [El CEO de Circle dice que las monedas Fiat tokenizadas están en el horizonte](https://github.com/theyapapa/cryptonews/blob/es/circle-ceo-says-tokenized-fiat-currencies-are-on-the-horizon-b48d7998.md)
 * 2019-08-23 [Comité de Servicios Financieros de la Cámara continuará revisión de Libra](https://github.com/theyapapa/cryptonews/blob/es/house-financial-services-committee-will-continue-libra-review-a2d393b1.md)
