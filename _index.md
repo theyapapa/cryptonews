@@ -1,3 +1,4 @@
+* 2019-08-24 [Экс-Морган Стэнли Exec присоединяется к своим бывшим коллегам в Шэньчжэнь Crypto фирмы](https://github.com/theyapapa/cryptonews/blob/ru/ex-morgan-stanley-exec-joins-his-former-colleagues-at-shenzhen-crypto-firm-f0d71d8d.md)
 * 2019-08-24 [Может ли блокчейн стать неотъемлемой частью автономных транспортных средств?](https://github.com/theyapapa/cryptonews/blob/ru/can-blockchain-become-an-integral-part-of-autonomous-vehicles-7bebfb6e.md)
 * 2019-08-24 [Биткоин колеблется около $10,130, как Altcoins страдают незначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-around-10-130-as-altcoins-suffer-minor-losses-b8ff28db.md)
 * 2019-08-23 [Круг генеральный директор говорит Токенизированные Валюты Fiat находятся на горизонте](https://github.com/theyapapa/cryptonews/blob/ru/circle-ceo-says-tokenized-fiat-currencies-are-on-the-horizon-b48d7998.md)
