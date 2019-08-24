@@ -1,3 +1,4 @@
+* 2019-08-23 [El CEO de Circle dice que las monedas Fiat tokenizadas están en el horizonte](https://github.com/theyapapa/cryptonews/blob/es/circle-ceo-says-tokenized-fiat-currencies-are-on-the-horizon-b48d7998.md)
 * 2019-08-23 [Comité de Servicios Financieros de la Cámara continuará revisión de Libra](https://github.com/theyapapa/cryptonews/blob/es/house-financial-services-committee-will-continue-libra-review-a2d393b1.md)
 * 2019-08-23 [Gobernador del Banco de Inglaterra: la moneda similar a libra podría reemplazar al dólar estadounidense](https://github.com/theyapapa/cryptonews/blob/es/bank-of-england-governor-libra-like-currency-could-replace-us-dollar-f981d574.md)
 * 2019-08-23 [Binance: Las imágenes filtradas se superponen con las procesadas por terceros](https://github.com/theyapapa/cryptonews/blob/es/binance-leaked-images-overlap-with-those-processed-by-third-party-f9ebe4b9.md)
