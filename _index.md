@@ -1,3 +1,4 @@
+* 2019-08-24 [Биткоин колеблется около $10,130, как Altcoins страдают незначительные потери](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-hovers-around-10-130-as-altcoins-suffer-minor-losses-b8ff28db.md)
 * 2019-08-23 [Круг генеральный директор говорит Токенизированные Валюты Fiat находятся на горизонте](https://github.com/theyapapa/cryptonews/blob/ru/circle-ceo-says-tokenized-fiat-currencies-are-on-the-horizon-b48d7998.md)
 * 2019-08-23 [Дом Финансовые услуги Комитет будет продолжать Весы Обзор](https://github.com/theyapapa/cryptonews/blob/ru/house-financial-services-committee-will-continue-libra-review-a2d393b1.md)
 * 2019-08-23 [Глава Банка Англии: Валюты, похожие на Весы, могут заменить доллар США](https://github.com/theyapapa/cryptonews/blob/ru/bank-of-england-governor-libra-like-currency-could-replace-us-dollar-f981d574.md)
