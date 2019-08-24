@@ -1,3 +1,4 @@
+* 2019-08-24 [США человек признает себя виновным в запуске $ 25 миллионов Bitcoin Отмывание схемы](https://github.com/theyapapa/cryptonews/blob/ru/us-man-pleads-guilty-to-running-25-million-bitcoin-laundering-scheme-62c25977.md)
 * 2019-08-24 [Кресио CIO Комментарии, Новые "Сатоши" и BTC игры: На этой неделе в CT Испании](https://github.com/theyapapa/cryptonews/blob/ru/cresio-cio-comments-new-satoshi-and-btc-games-this-week-in-ct-spain-b89b206d.md)
 * 2019-08-24 [Экс-Морган Стэнли Exec присоединяется к своим бывшим коллегам в Шэньчжэнь Crypto фирмы](https://github.com/theyapapa/cryptonews/blob/ru/ex-morgan-stanley-exec-joins-his-former-colleagues-at-shenzhen-crypto-firm-f0d71d8d.md)
 * 2019-08-24 [Может ли блокчейн стать неотъемлемой частью автономных транспортных средств?](https://github.com/theyapapa/cryptonews/blob/ru/can-blockchain-become-an-integral-part-of-autonomous-vehicles-7bebfb6e.md)
