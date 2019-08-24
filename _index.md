@@ -1,3 +1,4 @@
+* 2019-08-24 [Bitcoin precio lucha para mantener $10K apoyo mientras Altcoins ver gotas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-fights-to-hold-10k-support-while-altcoins-see-drops-9e4e53fe.md)
 * 2019-08-24 [Custodia criptográfica: ¿Acceso directo a la adopción o pesadilla de los puristas de Blockchain?](https://github.com/theyapapa/cryptonews/blob/es/crypto-custody-adoption-shortcut-or-blockchain-purists-nightmare-8b083c7b.md)
 * 2019-08-24 [US Man se declara culpable de ejecutar un esquema de lavado de Bitcoin de $25 millones](https://github.com/theyapapa/cryptonews/blob/es/us-man-pleads-guilty-to-running-25-million-bitcoin-laundering-scheme-62c25977.md)
 * 2019-08-24 [Cresio CIO Comentarios, Nuevos Juegos 'Satoshi' y BTC: Esta Semana en CT España](https://github.com/theyapapa/cryptonews/blob/es/cresio-cio-comments-new-satoshi-and-btc-games-this-week-in-ct-spain-b89b206d.md)
