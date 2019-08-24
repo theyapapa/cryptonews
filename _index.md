@@ -1,3 +1,4 @@
+* 2019-08-24 [미국 남자는 2,500 만 달러의 비트 코인 세탁 계획을 실행에 유죄를 인정](https://github.com/theyapapa/cryptonews/blob/ko/us-man-pleads-guilty-to-running-25-million-bitcoin-laundering-scheme-62c25977.md)
 * 2019-08-24 [크레시오 CIO 코멘트, 새로운 '사토시'와 BTC 게임: CT 스페인에서 이번 주](https://github.com/theyapapa/cryptonews/blob/ko/cresio-cio-comments-new-satoshi-and-btc-games-this-week-in-ct-spain-b89b206d.md)
 * 2019-08-24 [전 모건 스탠리 Exec 심천 암호화 회사에서 그의 전 동료에 합류](https://github.com/theyapapa/cryptonews/blob/ko/ex-morgan-stanley-exec-joins-his-former-colleagues-at-shenzhen-crypto-firm-f0d71d8d.md)
 * 2019-08-24 [블록체인이 자율 주행 차량의 필수적인 부분이 될 수 있을까요?](https://github.com/theyapapa/cryptonews/blob/ko/can-blockchain-become-an-integral-part-of-autonomous-vehicles-7bebfb6e.md)
