@@ -1,3 +1,4 @@
+* 2019-08-24 [블록체인이 자율 주행 차량의 필수적인 부분이 될 수 있을까요?](https://github.com/theyapapa/cryptonews/blob/ko/can-blockchain-become-an-integral-part-of-autonomous-vehicles-7bebfb6e.md)
 * 2019-08-24 [비트 코인 은 약 호버 $10,130 Altcoins사소한 손실을 겪고로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-hovers-around-10-130-as-altcoins-suffer-minor-losses-b8ff28db.md)
 * 2019-08-23 [서클 CEO는 토큰화 된 피아트 통화가 지평선에 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-says-tokenized-fiat-currencies-are-on-the-horizon-b48d7998.md)
 * 2019-08-23 [하원 금융 서비스 위원회는 선관위 검토를 계속할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/house-financial-services-committee-will-continue-libra-review-a2d393b1.md)
