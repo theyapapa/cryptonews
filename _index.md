@@ -1,3 +1,4 @@
+* 2019-08-25 [Crypto Custodian BitGo anuncia soporte de EOS](https://github.com/theyapapa/cryptonews/blob/es/crypto-custodian-bitgo-announces-eos-support-2157802f.md)
 * 2019-08-24 [Huobi procesado 50% de todos los retiros de PlusToken este mes: Informe](https://github.com/theyapapa/cryptonews/blob/es/huobi-processed-50-of-all-plustoken-withdrawals-this-month-report-f6d69bc7.md)
 * 2019-08-24 [Chainalysis lanza detector de amenazas en tiempo real para 15 criptográficos principales](https://github.com/theyapapa/cryptonews/blob/es/chainalysis-rolls-out-real-time-threat-detector-for-15-major-cryptos-b5c03085.md)
 * 2019-08-24 [Bitcoin precio lucha para mantener $10K apoyo mientras Altcoins ver gotas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-fights-to-hold-10k-support-while-altcoins-see-drops-9e4e53fe.md)
