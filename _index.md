@@ -1,3 +1,4 @@
+* 2019-08-25 [Crypto Industria Direly Necesita Educación Especializada, dice Ripple Exec](https://github.com/theyapapa/cryptonews/blob/es/crypto-industry-direly-needs-specialized-education-says-ripple-exec-16a13e4b.md)
 * 2019-08-25 [Bitcoin Precio Rompe $10,100 como Top Altcoins Ver Gree](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-breaks-10-100-as-top-altcoins-see-gree-681793a7.md)
 * 2019-08-25 [Crypto Custodian BitGo anuncia soporte de EOS](https://github.com/theyapapa/cryptonews/blob/es/crypto-custodian-bitgo-announces-eos-support-2157802f.md)
 * 2019-08-24 [Huobi procesado 50% de todos los retiros de PlusToken este mes: Informe](https://github.com/theyapapa/cryptonews/blob/es/huobi-processed-50-of-all-plustoken-withdrawals-this-month-report-f6d69bc7.md)
