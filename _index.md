@@ -1,3 +1,4 @@
+* 2019-08-25 [Brave expande la propina criptográfica a Reddit y Vimeo después de Twitter](https://github.com/theyapapa/cryptonews/blob/es/brave-expands-crypto-tipping-to-reddit-and-vimeo-after-twitter-92ec4360.md)
 * 2019-08-25 [Bitcoin Bombshell, Libra Rivals, Twitter Spats: Hodler's Digest, 19–25 de agosto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-bombshell-libra-rivals-twitter-spats-hodlers-digest-aug-1925-cbf0cb75.md)
 * 2019-08-25 [Thai SEC advierte públicamente sobre la nueva estafa Crypto que opera en el extranjero](https://github.com/theyapapa/cryptonews/blob/es/thai-sec-warns-public-about-new-crypto-scam-operating-overseas-38dd3ad0.md)
 * 2019-08-25 [Servicio de Impuestos Internos envía nueva ronda de cartas a los titulares de cripto](https://github.com/theyapapa/cryptonews/blob/es/internal-revenue-service-sends-new-round-of-letters-to-crypto-holders-00ef56fe.md)
