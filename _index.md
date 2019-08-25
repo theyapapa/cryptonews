@@ -1,3 +1,4 @@
+* 2019-08-25 [국세청은 암호 소지자에게 편지의 새로운 라운드를 보냅니다](https://github.com/theyapapa/cryptonews/blob/ko/internal-revenue-service-sends-new-round-of-letters-to-crypto-holders-00ef56fe.md)
 * 2019-08-25 [크라켄 OTC 머리: 비트 코인은 아직 안전 피난처가 아닙니다](https://github.com/theyapapa/cryptonews/blob/ko/kraken-otc-head-bitcoin-is-not-safe-haven-yet-b6d0dd69.md)
 * 2019-08-25 [암호 산업은 무서운 전문 교육을 필요로, 리플 임원은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-industry-direly-needs-specialized-education-says-ripple-exec-16a13e4b.md)
 * 2019-08-25 [비트 코인 가격 나누기 $10,100 최고 Altcoins로 그를 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-breaks-10-100-as-top-altcoins-see-gree-681793a7.md)
