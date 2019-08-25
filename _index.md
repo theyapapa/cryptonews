@@ -1,3 +1,4 @@
+* 2019-08-25 [Kraken OTC Head: Bitcoin aún no es un refugio seguro](https://github.com/theyapapa/cryptonews/blob/es/kraken-otc-head-bitcoin-is-not-safe-haven-yet-b6d0dd69.md)
 * 2019-08-25 [Crypto Industria Direly Necesita Educación Especializada, dice Ripple Exec](https://github.com/theyapapa/cryptonews/blob/es/crypto-industry-direly-needs-specialized-education-says-ripple-exec-16a13e4b.md)
 * 2019-08-25 [Bitcoin Precio Rompe $10,100 como Top Altcoins Ver Gree](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-breaks-10-100-as-top-altcoins-see-gree-681793a7.md)
 * 2019-08-25 [Crypto Custodian BitGo anuncia soporte de EOS](https://github.com/theyapapa/cryptonews/blob/es/crypto-custodian-bitgo-announces-eos-support-2157802f.md)
