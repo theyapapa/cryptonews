@@ -1,3 +1,4 @@
+* 2019-08-25 [Храбрый расширяет Crypto Чаевые на Reddit и Vimeo После Twitter](https://github.com/theyapapa/cryptonews/blob/ru/brave-expands-crypto-tipping-to-reddit-and-vimeo-after-twitter-92ec4360.md)
 * 2019-08-25 [Bitcoin Bombshell, Весы Соперники, Twitter Spats: Hodler's Дайджест, 19-25 августа](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-bombshell-libra-rivals-twitter-spats-hodlers-digest-aug-1925-cbf0cb75.md)
 * 2019-08-25 [Тайский SEC предупреждает общественность о новых крипто-мошенничество операционной за рубежом](https://github.com/theyapapa/cryptonews/blob/ru/thai-sec-warns-public-about-new-crypto-scam-operating-overseas-38dd3ad0.md)
 * 2019-08-25 [Налоговая служба отправляет новый раунд писем crypto Держатели](https://github.com/theyapapa/cryptonews/blob/ru/internal-revenue-service-sends-new-round-of-letters-to-crypto-holders-00ef56fe.md)
