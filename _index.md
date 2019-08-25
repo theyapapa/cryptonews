@@ -1,3 +1,4 @@
+* 2019-08-24 [Chainalysis는 15 개의 주요 암호화에 대한 실시간 위협 탐지기를 출시합니다.](https://github.com/theyapapa/cryptonews/blob/ko/chainalysis-rolls-out-real-time-threat-detector-for-15-major-cryptos-b5c03085.md)
 * 2019-08-24 [비트 코인 가격은 보유 싸움 $10K 지원 알트 코인은 방울을 참조하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-fights-to-hold-10k-support-while-altcoins-see-drops-9e4e53fe.md)
 * 2019-08-24 [암호화 양육권 : 입양 바로 가기 또는 블록 체인 순수주의자의 악몽?](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custody-adoption-shortcut-or-blockchain-purists-nightmare-8b083c7b.md)
 * 2019-08-24 [미국 남자는 2,500 만 달러의 비트 코인 세탁 계획을 실행에 유죄를 인정](https://github.com/theyapapa/cryptonews/blob/ko/us-man-pleads-guilty-to-running-25-million-bitcoin-laundering-scheme-62c25977.md)
