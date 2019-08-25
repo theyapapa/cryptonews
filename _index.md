@@ -1,3 +1,4 @@
+* 2019-08-25 [Налоговая служба отправляет новый раунд писем crypto Держатели](https://github.com/theyapapa/cryptonews/blob/ru/internal-revenue-service-sends-new-round-of-letters-to-crypto-holders-00ef56fe.md)
 * 2019-08-25 [Kraken OTC Глава: Bitcoin еще не является безопасным убежищем](https://github.com/theyapapa/cryptonews/blob/ru/kraken-otc-head-bitcoin-is-not-safe-haven-yet-b6d0dd69.md)
 * 2019-08-25 [Криптоиндустрия остро нуждается в специализированном образовании, говорит Ripple Exec](https://github.com/theyapapa/cryptonews/blob/ru/crypto-industry-direly-needs-specialized-education-says-ripple-exec-16a13e4b.md)
 * 2019-08-25 [Биткоин Цена перерывы $ 10100, как Топ Altcoins Увидеть Гри](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-breaks-10-100-as-top-altcoins-see-gree-681793a7.md)
