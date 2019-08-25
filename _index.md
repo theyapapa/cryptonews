@@ -1,3 +1,4 @@
+* 2019-08-25 [Криптоиндустрия остро нуждается в специализированном образовании, говорит Ripple Exec](https://github.com/theyapapa/cryptonews/blob/ru/crypto-industry-direly-needs-specialized-education-says-ripple-exec-16a13e4b.md)
 * 2019-08-25 [Биткоин Цена перерывы $ 10100, как Топ Altcoins Увидеть Гри](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-breaks-10-100-as-top-altcoins-see-gree-681793a7.md)
 * 2019-08-25 [Crypto Хранитель BitGo объявляет eOS поддержки](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custodian-bitgo-announces-eos-support-2157802f.md)
 * 2019-08-24 [Huobi Обработано 50% всех PlusToken Снятия в этом месяце: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/huobi-processed-50-of-all-plustoken-withdrawals-this-month-report-f6d69bc7.md)
