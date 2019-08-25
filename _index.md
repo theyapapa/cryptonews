@@ -1,3 +1,4 @@
+* 2019-08-25 [암호 산업은 무서운 전문 교육을 필요로, 리플 임원은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/crypto-industry-direly-needs-specialized-education-says-ripple-exec-16a13e4b.md)
 * 2019-08-25 [비트 코인 가격 나누기 $10,100 최고 Altcoins로 그를 참조](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-breaks-10-100-as-top-altcoins-see-gree-681793a7.md)
 * 2019-08-25 [암호화 관리자 BitGo EOS 지원 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custodian-bitgo-announces-eos-support-2157802f.md)
 * 2019-08-24 [Huobi 처리 50% 모든 플러스 토큰 인출 이번 달: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/huobi-processed-50-of-all-plustoken-withdrawals-this-month-report-f6d69bc7.md)
