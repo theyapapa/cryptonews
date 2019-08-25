@@ -1,3 +1,4 @@
+* 2019-08-25 [암호화 관리자 BitGo EOS 지원 발표](https://github.com/theyapapa/cryptonews/blob/ko/crypto-custodian-bitgo-announces-eos-support-2157802f.md)
 * 2019-08-24 [Huobi 처리 50% 모든 플러스 토큰 인출 이번 달: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/huobi-processed-50-of-all-plustoken-withdrawals-this-month-report-f6d69bc7.md)
 * 2019-08-24 [Chainalysis는 15 개의 주요 암호화에 대한 실시간 위협 탐지기를 출시합니다.](https://github.com/theyapapa/cryptonews/blob/ko/chainalysis-rolls-out-real-time-threat-detector-for-15-major-cryptos-b5c03085.md)
 * 2019-08-24 [비트 코인 가격은 보유 싸움 $10K 지원 알트 코인은 방울을 참조하는 동안](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-fights-to-hold-10k-support-while-altcoins-see-drops-9e4e53fe.md)
