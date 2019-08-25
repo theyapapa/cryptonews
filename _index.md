@@ -1,3 +1,4 @@
+* 2019-08-25 [Crypto Хранитель BitGo объявляет eOS поддержки](https://github.com/theyapapa/cryptonews/blob/ru/crypto-custodian-bitgo-announces-eos-support-2157802f.md)
 * 2019-08-24 [Huobi Обработано 50% всех PlusToken Снятия в этом месяце: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/huobi-processed-50-of-all-plustoken-withdrawals-this-month-report-f6d69bc7.md)
 * 2019-08-24 [Chainalysis Выкатывается в режиме реального времени детектор угрозы для 15 основных Cryptos](https://github.com/theyapapa/cryptonews/blob/ru/chainalysis-rolls-out-real-time-threat-detector-for-15-major-cryptos-b5c03085.md)
 * 2019-08-24 [Bitcoin Цена борется держать $ 10K Поддержка в то время как Altcoins увидеть капли](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-fights-to-hold-10k-support-while-altcoins-see-drops-9e4e53fe.md)
