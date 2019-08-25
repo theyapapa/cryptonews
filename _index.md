@@ -1,3 +1,4 @@
+* 2019-08-25 [Bitcoin Bombshell, Libra Rivals, Twitter Spats: Hodler's Digest, 19–25 de agosto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-bombshell-libra-rivals-twitter-spats-hodlers-digest-aug-1925-cbf0cb75.md)
 * 2019-08-25 [Thai SEC advierte públicamente sobre la nueva estafa Crypto que opera en el extranjero](https://github.com/theyapapa/cryptonews/blob/es/thai-sec-warns-public-about-new-crypto-scam-operating-overseas-38dd3ad0.md)
 * 2019-08-25 [Servicio de Impuestos Internos envía nueva ronda de cartas a los titulares de cripto](https://github.com/theyapapa/cryptonews/blob/es/internal-revenue-service-sends-new-round-of-letters-to-crypto-holders-00ef56fe.md)
 * 2019-08-25 [Kraken OTC Head: Bitcoin aún no es un refugio seguro](https://github.com/theyapapa/cryptonews/blob/es/kraken-otc-head-bitcoin-is-not-safe-haven-yet-b6d0dd69.md)
