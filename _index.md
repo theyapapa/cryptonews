@@ -1,3 +1,4 @@
+* 2019-08-25 [Noticias criptográficas de Japón: Semana en revisión](https://github.com/theyapapa/cryptonews/blob/es/crypto-news-from-japan-week-in-review-e7eb74bc.md)
 * 2019-08-25 [Después de la visita a Suiza, las preocupaciones de Crypto permanecen para los reguladores de EE.](https://github.com/theyapapa/cryptonews/blob/es/after-switzerland-visit-crypto-concerns-remain-for-us-regulators-321fc07e.md)
 * 2019-08-25 [Brave expande la propina criptográfica a Reddit y Vimeo después de Twitter](https://github.com/theyapapa/cryptonews/blob/es/brave-expands-crypto-tipping-to-reddit-and-vimeo-after-twitter-92ec4360.md)
 * 2019-08-25 [Bitcoin Bombshell, Libra Rivals, Twitter Spats: Hodler's Digest, 19–25 de agosto](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-bombshell-libra-rivals-twitter-spats-hodlers-digest-aug-1925-cbf0cb75.md)
