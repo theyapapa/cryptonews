@@ -1,3 +1,4 @@
+* 2019-08-26 [스위스 규제 기관, 블록체인 결제를 위한 AML, KYC 지침 발표](https://github.com/theyapapa/cryptonews/blob/ko/swiss-regulator-releases-aml-kyc-guidance-for-blockchain-payments-a58659b4.md)
 * 2019-08-26 [비트 코인 실현 시가 총액 조회수 $1000 억 처음으로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-realized-market-cap-hits-100-billion-for-the-first-time-ad9fcdae.md)
 * 2019-08-25 [일본에서 암호화 뉴스: 검토에 주](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-japan-week-in-review-e7eb74bc.md)
 * 2019-08-25 [스위스 방문 후, 미국 규제 당국에 대한 암호화 우려](https://github.com/theyapapa/cryptonews/blob/ko/after-switzerland-visit-crypto-concerns-remain-for-us-regulators-321fc07e.md)
