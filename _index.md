@@ -1,3 +1,4 @@
+* 2019-08-26 [Manchester City FC revela una nueva asociación para tokenizar a sus jugadores](https://github.com/theyapapa/cryptonews/blob/es/manchester-city-fc-reveals-new-partnership-to-tokenize-its-players-340b0f68.md)
 * 2019-08-26 [El regulador suizo publica AML y KYC Guidance for Blockchain Payments](https://github.com/theyapapa/cryptonews/blob/es/swiss-regulator-releases-aml-kyc-guidance-for-blockchain-payments-a58659b4.md)
 * 2019-08-26 [Bitcoin Realized Market Cap alcanza $100 mil millones por primera vez](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-realized-market-cap-hits-100-billion-for-the-first-time-ad9fcdae.md)
 * 2019-08-25 [Noticias criptográficas de Japón: Semana en revisión](https://github.com/theyapapa/cryptonews/blob/es/crypto-news-from-japan-week-in-review-e7eb74bc.md)
