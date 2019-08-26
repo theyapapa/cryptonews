@@ -1,3 +1,4 @@
+* 2019-08-26 [Corea del Norte y Crypto: ¿Es el régimen responsable de los hacks principales?](https://github.com/theyapapa/cryptonews/blob/es/north-korea-and-crypto-is-the-regime-responsible-for-major-hacks-c562e024.md)
 * 2019-08-26 [Binance presenta su primer servicio de préstamos criptográficos que se lanza nacien este mes](https://github.com/theyapapa/cryptonews/blob/es/binance-unveils-its-first-crypto-lending-service-launching-this-month-4b2d449f.md)
 * 2019-08-26 [Manchester City FC revela una nueva asociación para tokenizar a sus jugadores](https://github.com/theyapapa/cryptonews/blob/es/manchester-city-fc-reveals-new-partnership-to-tokenize-its-players-340b0f68.md)
 * 2019-08-26 [El regulador suizo publica AML y KYC Guidance for Blockchain Payments](https://github.com/theyapapa/cryptonews/blob/es/swiss-regulator-releases-aml-kyc-guidance-for-blockchain-payments-a58659b4.md)
