@@ -1,3 +1,4 @@
+* 2019-08-26 ["Манчестер Сити" показал новое партнерство для того, чтобы токенизировать своих игроков](https://github.com/theyapapa/cryptonews/blob/ru/manchester-city-fc-reveals-new-partnership-to-tokenize-its-players-340b0f68.md)
 * 2019-08-26 [Швейцарский регулятор выпускает AML, KYC Руководство по блокчейн-платежей](https://github.com/theyapapa/cryptonews/blob/ru/swiss-regulator-releases-aml-kyc-guidance-for-blockchain-payments-a58659b4.md)
 * 2019-08-26 [Биткоин реализованный рынок Cap Хиты $ 100 млрд в первый раз](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-realized-market-cap-hits-100-billion-for-the-first-time-ad9fcdae.md)
 * 2019-08-25 [Crypto Новости из Японии: Неделя в обзоре](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-japan-week-in-review-e7eb74bc.md)
