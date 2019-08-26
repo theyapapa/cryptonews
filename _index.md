@@ -1,3 +1,4 @@
+* 2019-08-26 [비트 코인 실현 시가 총액 조회수 $1000 억 처음으로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-realized-market-cap-hits-100-billion-for-the-first-time-ad9fcdae.md)
 * 2019-08-25 [일본에서 암호화 뉴스: 검토에 주](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-japan-week-in-review-e7eb74bc.md)
 * 2019-08-25 [스위스 방문 후, 미국 규제 당국에 대한 암호화 우려](https://github.com/theyapapa/cryptonews/blob/ko/after-switzerland-visit-crypto-concerns-remain-for-us-regulators-321fc07e.md)
 * 2019-08-25 [용감한 트위터 후 레딧과 비메오에 암호화 팁을 확장](https://github.com/theyapapa/cryptonews/blob/ko/brave-expands-crypto-tipping-to-reddit-and-vimeo-after-twitter-92ec4360.md)
