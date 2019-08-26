@@ -1,3 +1,4 @@
+* 2019-08-26 [가격 분석 26/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-26-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-0a260cbd.md)
 * 2019-08-26 [오버 스톡의 블록 체인 회사 TZERO에 투자자는 밖으로 백업](https://github.com/theyapapa/cryptonews/blob/ko/investor-in-overstocks-blockchain-firm-tzero-backs-out-07d4ba75.md)
 * 2019-08-26 [북한과 암호화: 정권은 주요 해킹에 대한 책임이 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/north-korea-and-crypto-is-the-regime-responsible-for-major-hacks-c562e024.md)
 * 2019-08-26 [Binance는 이번 달 에 첫 번째 암호화 대출 서비스를 출시 발표](https://github.com/theyapapa/cryptonews/blob/ko/binance-unveils-its-first-crypto-lending-service-launching-this-month-4b2d449f.md)
