@@ -1,3 +1,4 @@
+* 2019-08-25 [Crypto Новости из Японии: Неделя в обзоре](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-japan-week-in-review-e7eb74bc.md)
 * 2019-08-25 [После визита в Швейцарию, Crypto concerns остаются для регуляторов США](https://github.com/theyapapa/cryptonews/blob/ru/after-switzerland-visit-crypto-concerns-remain-for-us-regulators-321fc07e.md)
 * 2019-08-25 [Храбрый расширяет Crypto Чаевые на Reddit и Vimeo После Twitter](https://github.com/theyapapa/cryptonews/blob/ru/brave-expands-crypto-tipping-to-reddit-and-vimeo-after-twitter-92ec4360.md)
 * 2019-08-25 [Bitcoin Bombshell, Весы Соперники, Twitter Spats: Hodler's Дайджест, 19-25 августа](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-bombshell-libra-rivals-twitter-spats-hodlers-digest-aug-1925-cbf0cb75.md)
