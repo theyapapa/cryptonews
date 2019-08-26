@@ -1,3 +1,4 @@
+* 2019-08-26 [Informe: Craig Wright debe perder el 50% de Bitcoin en el caso de la corte](https://github.com/theyapapa/cryptonews/blob/es/report-craig-wright-must-forfeit-50-of-bitcoin-in-court-case-9411505e.md)
 * 2019-08-26 [Análisis de precios 26/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-26-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-0a260cbd.md)
 * 2019-08-26 [Inversor en la firma Blockchain de Overstock, TZERO retrocede](https://github.com/theyapapa/cryptonews/blob/es/investor-in-overstocks-blockchain-firm-tzero-backs-out-07d4ba75.md)
 * 2019-08-26 [Corea del Norte y Crypto: ¿Es el régimen responsable de los hacks principales?](https://github.com/theyapapa/cryptonews/blob/es/north-korea-and-crypto-is-the-regime-responsible-for-major-hacks-c562e024.md)
