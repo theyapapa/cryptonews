@@ -1,3 +1,4 @@
+* 2019-08-26 [Анализ цен 26/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-26-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-0a260cbd.md)
 * 2019-08-26 [Инвестор в блокчейн-фирме Оверстока «Церера» отступает](https://github.com/theyapapa/cryptonews/blob/ru/investor-in-overstocks-blockchain-firm-tzero-backs-out-07d4ba75.md)
 * 2019-08-26 [Северная Корея и Крипто: Является ли режим несет ответственность за крупных хаки?](https://github.com/theyapapa/cryptonews/blob/ru/north-korea-and-crypto-is-the-regime-responsible-for-major-hacks-c562e024.md)
 * 2019-08-26 [Binance представляет свой первый криптокредитования службы запуск в этом месяце](https://github.com/theyapapa/cryptonews/blob/ru/binance-unveils-its-first-crypto-lending-service-launching-this-month-4b2d449f.md)
