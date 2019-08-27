@@ -1,3 +1,4 @@
+* 2019-08-27 [Близнецы присоединяется Silvergate Exchange Network для 24/7 Fiat денежные переводы](https://github.com/theyapapa/cryptonews/blob/ru/gemini-joins-silvergate-exchange-network-for-24-7-fiat-money-transfers-35e2cac2.md)
 * 2019-08-27 [Криптовалютная майнинговая фирма Argo Blockchain увеличивает свой хэшрат](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-mining-firm-argo-blockchain-increases-its-hashrate-2fe78ded.md)
 * 2019-08-27 [Ошибка Баунти Программа для Весов Facebook в настоящее время открыт для общественности](https://github.com/theyapapa/cryptonews/blob/ru/the-bug-bounty-program-for-facebooks-libra-is-now-open-to-the-public-6218e8f4.md)
 * 2019-08-27 [«Новая нормальная нижняя цена для Bitcoin составляет $10K», говорит генеральный директор Консультативной группы](https://github.com/theyapapa/cryptonews/blob/ru/new-normal-bottom-price-for-bitcoin-is-10k-says-advisory-group-ceo-f9663661.md)
