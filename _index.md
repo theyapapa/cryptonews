@@ -1,3 +1,4 @@
+* 2019-08-27 [Facebook нанимает лоббистскую фирму, чтобы облегчить регулятивное давление на Весы](https://github.com/theyapapa/cryptonews/blob/ru/facebook-hires-lobbying-firm-to-ease-regulatory-pressure-on-libra-03ef2665.md)
 * 2019-08-27 ["Одно окно" Крипто обмен ShortHop запускает в 7 штатах США](https://github.com/theyapapa/cryptonews/blob/ru/single-window-crypto-exchange-shorthop-launches-in-7-us-states-38caaff8.md)
 * 2019-08-26 [Генеральный менеджер баскетбольной команды "Хьюстон Рокетс" Буллиш на Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/general-manager-of-houston-rockets-basketball-team-bullish-on-bitcoin-41c2f1c4.md)
 * 2019-08-26 [Новозеландский радиоведущий отрицает Шиллинг Биткоин в социальных сетях](https://github.com/theyapapa/cryptonews/blob/ru/new-zealand-radio-host-denies-shilling-bitcoin-on-social-media-f330058d.md)
