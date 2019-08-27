@@ -1,3 +1,4 @@
+* 2019-08-27 [Криптовалютная майнинговая фирма Argo Blockchain увеличивает свой хэшрат](https://github.com/theyapapa/cryptonews/blob/ru/cryptocurrency-mining-firm-argo-blockchain-increases-its-hashrate-2fe78ded.md)
 * 2019-08-27 [Ошибка Баунти Программа для Весов Facebook в настоящее время открыт для общественности](https://github.com/theyapapa/cryptonews/blob/ru/the-bug-bounty-program-for-facebooks-libra-is-now-open-to-the-public-6218e8f4.md)
 * 2019-08-27 [«Новая нормальная нижняя цена для Bitcoin составляет $10K», говорит генеральный директор Консультативной группы](https://github.com/theyapapa/cryptonews/blob/ru/new-normal-bottom-price-for-bitcoin-is-10k-says-advisory-group-ceo-f9663661.md)
 * 2019-08-27 [ВВС США будут использовать цепь SIMBA для обеспечения своей цепочки поставок](https://github.com/theyapapa/cryptonews/blob/ru/us-air-force-will-use-simba-chain-to-secure-its-supply-chain-9209b160.md)
