@@ -1,3 +1,4 @@
+* 2019-08-27 ['Single Window' Crypto Exchange ShortHop se lanza en 7 Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/single-window-crypto-exchange-shorthop-launches-in-7-us-states-38caaff8.md)
 * 2019-08-26 [Gerente General del Houston Rockets Basketball Team Bullish en Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/general-manager-of-houston-rockets-basketball-team-bullish-on-bitcoin-41c2f1c4.md)
 * 2019-08-26 [Anfitrión de radio de Nueva Zelanda Niega Shilling Bitcoin en las redes sociales](https://github.com/theyapapa/cryptonews/blob/es/new-zealand-radio-host-denies-shilling-bitcoin-on-social-media-f330058d.md)
 * 2019-08-26 [Informe: Craig Wright debe perder el 50% de Bitcoin en el caso de la corte](https://github.com/theyapapa/cryptonews/blob/es/report-craig-wright-must-forfeit-50-of-bitcoin-in-court-case-9411505e.md)
