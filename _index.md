@@ -1,3 +1,4 @@
+* 2019-08-27 [미국 공군은 공급망을 확보하기 위해 SIMBA 체인을 사용할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-air-force-will-use-simba-chain-to-secure-its-supply-chain-9209b160.md)
 * 2019-08-27 [페이스 북은 Libra에 대한 규제 압력을 완화하기 위해 로비 회사를 고용](https://github.com/theyapapa/cryptonews/blob/ko/facebook-hires-lobbying-firm-to-ease-regulatory-pressure-on-libra-03ef2665.md)
 * 2019-08-27 [' 단일 창' 암호화 교환 ShortHop 에서 출시 7 미국 국가](https://github.com/theyapapa/cryptonews/blob/ko/single-window-crypto-exchange-shorthop-launches-in-7-us-states-38caaff8.md)
 * 2019-08-26 [비트 코인에 휴스턴 로켓 농구 팀 강세의 제너럴 매니저](https://github.com/theyapapa/cryptonews/blob/ko/general-manager-of-houston-rockets-basketball-team-bullish-on-bitcoin-41c2f1c4.md)
