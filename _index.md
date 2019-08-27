@@ -1,3 +1,4 @@
+* 2019-08-27 ['비트 코인에 대한 새로운 정상 바닥 가격은 $ 10K입니다,'자문 그룹 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/new-normal-bottom-price-for-bitcoin-is-10k-says-advisory-group-ceo-f9663661.md)
 * 2019-08-27 [미국 공군은 공급망을 확보하기 위해 SIMBA 체인을 사용할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-air-force-will-use-simba-chain-to-secure-its-supply-chain-9209b160.md)
 * 2019-08-27 [페이스 북은 Libra에 대한 규제 압력을 완화하기 위해 로비 회사를 고용](https://github.com/theyapapa/cryptonews/blob/ko/facebook-hires-lobbying-firm-to-ease-regulatory-pressure-on-libra-03ef2665.md)
 * 2019-08-27 [' 단일 창' 암호화 교환 ShortHop 에서 출시 7 미국 국가](https://github.com/theyapapa/cryptonews/blob/ko/single-window-crypto-exchange-shorthop-launches-in-7-us-states-38caaff8.md)
