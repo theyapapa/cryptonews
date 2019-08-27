@@ -1,3 +1,4 @@
+* 2019-08-26 [Gerente General del Houston Rockets Basketball Team Bullish en Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/general-manager-of-houston-rockets-basketball-team-bullish-on-bitcoin-41c2f1c4.md)
 * 2019-08-26 [Anfitrión de radio de Nueva Zelanda Niega Shilling Bitcoin en las redes sociales](https://github.com/theyapapa/cryptonews/blob/es/new-zealand-radio-host-denies-shilling-bitcoin-on-social-media-f330058d.md)
 * 2019-08-26 [Informe: Craig Wright debe perder el 50% de Bitcoin en el caso de la corte](https://github.com/theyapapa/cryptonews/blob/es/report-craig-wright-must-forfeit-50-of-bitcoin-in-court-case-9411505e.md)
 * 2019-08-26 [Análisis de precios 26/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XMR, XLM](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-26-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xmr-xlm-0a260cbd.md)
