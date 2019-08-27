@@ -1,3 +1,4 @@
+* 2019-08-27 [La Fuerza Aérea de EE. UU. utilizará la cadena SIMBA para asegurar su cadena de suministro](https://github.com/theyapapa/cryptonews/blob/es/us-air-force-will-use-simba-chain-to-secure-its-supply-chain-9209b160.md)
 * 2019-08-27 [Facebook contrata a una empresa de cabildeo para aliviar la presión regulatoria sobre Libra](https://github.com/theyapapa/cryptonews/blob/es/facebook-hires-lobbying-firm-to-ease-regulatory-pressure-on-libra-03ef2665.md)
 * 2019-08-27 ['Single Window' Crypto Exchange ShortHop se lanza en 7 Estados Unidos](https://github.com/theyapapa/cryptonews/blob/es/single-window-crypto-exchange-shorthop-launches-in-7-us-states-38caaff8.md)
 * 2019-08-26 [Gerente General del Houston Rockets Basketball Team Bullish en Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/general-manager-of-houston-rockets-basketball-team-bullish-on-bitcoin-41c2f1c4.md)
