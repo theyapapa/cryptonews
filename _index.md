@@ -1,3 +1,4 @@
+* 2019-08-27 [El presidente de la SEC de EE. UU. dice que las reglas no cambiarán para las criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/us-sec-chairman-says-the-rules-wont-change-for-cryptocurrencies-8b643c6b.md)
 * 2019-08-27 [Gemini se une a Silvergate Exchange Network para transferencias de dinero Fiat las 24 horas del 7 días de la semana](https://github.com/theyapapa/cryptonews/blob/es/gemini-joins-silvergate-exchange-network-for-24-7-fiat-money-transfers-35e2cac2.md)
 * 2019-08-27 [Firma minera de criptomonedas Argo Blockchain aumenta su hashrate](https://github.com/theyapapa/cryptonews/blob/es/cryptocurrency-mining-firm-argo-blockchain-increases-its-hashrate-2fe78ded.md)
 * 2019-08-27 [El programa Bug Bounty para Libra de Facebook está abierto al público](https://github.com/theyapapa/cryptonews/blob/es/the-bug-bounty-program-for-facebooks-libra-is-now-open-to-the-public-6218e8f4.md)
