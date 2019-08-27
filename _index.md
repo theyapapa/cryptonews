@@ -1,3 +1,4 @@
+* 2019-08-27 [El programa Bug Bounty para Libra de Facebook está abierto al público](https://github.com/theyapapa/cryptonews/blob/es/the-bug-bounty-program-for-facebooks-libra-is-now-open-to-the-public-6218e8f4.md)
 * 2019-08-27 ['El nuevo precio normal inferior para Bitcoin es de $10K", dice el CEO de Advisory Group](https://github.com/theyapapa/cryptonews/blob/es/new-normal-bottom-price-for-bitcoin-is-10k-says-advisory-group-ceo-f9663661.md)
 * 2019-08-27 [La Fuerza Aérea de EE. UU. utilizará la cadena SIMBA para asegurar su cadena de suministro](https://github.com/theyapapa/cryptonews/blob/es/us-air-force-will-use-simba-chain-to-secure-its-supply-chain-9209b160.md)
 * 2019-08-27 [Facebook contrata a una empresa de cabildeo para aliviar la presión regulatoria sobre Libra](https://github.com/theyapapa/cryptonews/blob/es/facebook-hires-lobbying-firm-to-ease-regulatory-pressure-on-libra-03ef2665.md)
