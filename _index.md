@@ -1,3 +1,4 @@
+* 2019-08-27 [' 단일 창' 암호화 교환 ShortHop 에서 출시 7 미국 국가](https://github.com/theyapapa/cryptonews/blob/ko/single-window-crypto-exchange-shorthop-launches-in-7-us-states-38caaff8.md)
 * 2019-08-26 [비트 코인에 휴스턴 로켓 농구 팀 강세의 제너럴 매니저](https://github.com/theyapapa/cryptonews/blob/ko/general-manager-of-houston-rockets-basketball-team-bullish-on-bitcoin-41c2f1c4.md)
 * 2019-08-26 [뉴질랜드 라디오 호스트는 소셜 미디어에 실링 비트 코인을 거부](https://github.com/theyapapa/cryptonews/blob/ko/new-zealand-radio-host-denies-shilling-bitcoin-on-social-media-f330058d.md)
 * 2019-08-26 [보고서: 크레이그 라이트는 법정 소송에서 비트코인의 50%를 몰수해야 합니다.](https://github.com/theyapapa/cryptonews/blob/ko/report-craig-wright-must-forfeit-50-of-bitcoin-in-court-case-9411505e.md)
