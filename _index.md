@@ -1,3 +1,4 @@
+* 2019-08-27 [암호 화폐 마이닝 회사 아르고 블록 체인은 해시 레이트 증가](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-mining-firm-argo-blockchain-increases-its-hashrate-2fe78ded.md)
 * 2019-08-27 [페이스 북의 천칭 에 대한 버그 현상금 프로그램은 이제 대중에게 열려](https://github.com/theyapapa/cryptonews/blob/ko/the-bug-bounty-program-for-facebooks-libra-is-now-open-to-the-public-6218e8f4.md)
 * 2019-08-27 ['비트 코인에 대한 새로운 정상 바닥 가격은 $ 10K입니다,'자문 그룹 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/new-normal-bottom-price-for-bitcoin-is-10k-says-advisory-group-ceo-f9663661.md)
 * 2019-08-27 [미국 공군은 공급망을 확보하기 위해 SIMBA 체인을 사용할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-air-force-will-use-simba-chain-to-secure-its-supply-chain-9209b160.md)
