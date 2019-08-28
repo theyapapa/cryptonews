@@ -1,3 +1,4 @@
+* 2019-08-28 [Telegram beat Facebook to the Punch With Gram Token October Launch](https://github.com/theyapapa/cryptonews/blob/es/telegram-to-beat-facebook-to-the-punch-with-gram-token-october-launch-13b41dda.md)
 * 2019-08-28 [Binance CEO: Futures Trading Platform se lanzará en septiembre](https://github.com/theyapapa/cryptonews/blob/es/binance-ceo-futures-trading-platform-to-launch-in-september-4b63a43a.md)
 * 2019-08-27 [La Academia India Kerala Blockchain se asoció con R3](https://github.com/theyapapa/cryptonews/blob/es/the-indian-kerala-blockchain-academy-partnered-with-r3-aca01434.md)
 * 2019-08-27 [Startup Led by JPMorgan Veterans Brings Free BaaS Platform to Azure](https://github.com/theyapapa/cryptonews/blob/es/startup-led-by-jpmorgan-veterans-brings-free-baas-platform-to-azure-73e5664a.md)
