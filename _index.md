@@ -1,3 +1,4 @@
+* 2019-08-28 [보고서: 2018년 이후 상위 대학의 블록체인 활동 증가](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-activity-at-top-universities-increased-since-2018-271d9d7f.md)
 * 2019-08-28 [비트 코인 가격은 아래로 급격히 하락 $10K, 새로운 주간 낮은 표시](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-drops-sharply-below-10k-marking-new-weekly-low-42537ce0.md)
 * 2019-08-28 [2023년까지 글로벌 블록체인 매출이 100억 달러에 달할 것: 시장 조사](https://github.com/theyapapa/cryptonews/blob/ko/global-blockchain-revenues-to-hit-10-billion-by-2023-market-research-6e8389c5.md)
 * 2019-08-28 [CME 비트코인 선물 5월 평균 거래량 5억 1,500만 달러](https://github.com/theyapapa/cryptonews/blob/ko/cme-bitcoin-futures-averaged-515-million-daily-volume-in-may-64bcbf13.md)
