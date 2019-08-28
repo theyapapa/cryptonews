@@ -1,3 +1,4 @@
+* 2019-08-28 [Binance CEO: 9월에 출시될 선물 거래 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/binance-ceo-futures-trading-platform-to-launch-in-september-4b63a43a.md)
 * 2019-08-27 [인도 케랄라 블록체인 아카데미, R3와 제휴](https://github.com/theyapapa/cryptonews/blob/ko/the-indian-kerala-blockchain-academy-partnered-with-r3-aca01434.md)
 * 2019-08-27 [JP모건 재향 군인이 이끄는 스타트업은 Azure에 무료 BaaS 플랫폼을 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/startup-led-by-jpmorgan-veterans-brings-free-baas-platform-to-azure-73e5664a.md)
 * 2019-08-27 [미국 SEC 위원장은 규칙이 암호 화폐에 대한 변경되지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-says-the-rules-wont-change-for-cryptocurrencies-8b643c6b.md)
