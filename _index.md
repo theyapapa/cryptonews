@@ -1,3 +1,4 @@
+* 2019-08-28 [Los futuros de CME Bitcoin promediaron un volumen diario de $515 millones en mayo](https://github.com/theyapapa/cryptonews/blob/es/cme-bitcoin-futures-averaged-515-million-daily-volume-in-may-64bcbf13.md)
 * 2019-08-28 [Bitcoin Precio Flatlines en $10K como los comerciantes se preparan para la volatilidad esperada](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-flatlines-at-10k-as-traders-brace-for-expected-volatility-4a09ab97.md)
 * 2019-08-28 [La comunidad XRP está amenazando con una "toma" si los ejecutivos de Ondulación siguen volcando](https://github.com/theyapapa/cryptonews/blob/es/xrp-community-is-threatening-a-takeover-if-ripple-execs-keep-dumping-73712a99.md)
 * 2019-08-28 [Bitcoin Returns han enanizado cada oPI tecnológica desde 2010, nuevos datos muestran](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-returns-have-dwarfed-every-tech-ipo-since-2010-new-data-shows-165fbafd.md)
