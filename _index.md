@@ -1,3 +1,4 @@
+* 2019-08-27 [JP모건 재향 군인이 이끄는 스타트업은 Azure에 무료 BaaS 플랫폼을 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/startup-led-by-jpmorgan-veterans-brings-free-baas-platform-to-azure-73e5664a.md)
 * 2019-08-27 [미국 SEC 위원장은 규칙이 암호 화폐에 대한 변경되지 않습니다 말한다](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-says-the-rules-wont-change-for-cryptocurrencies-8b643c6b.md)
 * 2019-08-27 [쌍둥이 자리는 24/7 피아트 송금을위한 실버 게이트 교환 네트워크에 합류](https://github.com/theyapapa/cryptonews/blob/ko/gemini-joins-silvergate-exchange-network-for-24-7-fiat-money-transfers-35e2cac2.md)
 * 2019-08-27 [암호 화폐 마이닝 회사 아르고 블록 체인은 해시 레이트 증가](https://github.com/theyapapa/cryptonews/blob/ko/cryptocurrency-mining-firm-argo-blockchain-increases-its-hashrate-2fe78ded.md)
