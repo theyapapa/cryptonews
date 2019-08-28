@@ -1,3 +1,4 @@
+* 2019-08-28 [Телеграмма бить Facebook удар с Gram Token октября запуск](https://github.com/theyapapa/cryptonews/blob/ru/telegram-to-beat-facebook-to-the-punch-with-gram-token-october-launch-13b41dda.md)
 * 2019-08-28 [Генеральный директор Binance: Фьючерсная торговая платформа будет запущена в сентябре](https://github.com/theyapapa/cryptonews/blob/ru/binance-ceo-futures-trading-platform-to-launch-in-september-4b63a43a.md)
 * 2019-08-27 [Индийская Академия блокчейна Керала в партнерстве с R3](https://github.com/theyapapa/cryptonews/blob/ru/the-indian-kerala-blockchain-academy-partnered-with-r3-aca01434.md)
 * 2019-08-27 [Стартап под руководством ветеранов JPMorgan привносит бесплатную платформу BaaS в Azure](https://github.com/theyapapa/cryptonews/blob/ru/startup-led-by-jpmorgan-veterans-brings-free-baas-platform-to-azure-73e5664a.md)
