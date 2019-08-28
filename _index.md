@@ -1,3 +1,4 @@
+* 2019-08-28 [Bitcoin Precio Flatlines en $10K como los comerciantes se preparan para la volatilidad esperada](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-flatlines-at-10k-as-traders-brace-for-expected-volatility-4a09ab97.md)
 * 2019-08-28 [La comunidad XRP está amenazando con una "toma" si los ejecutivos de Ondulación siguen volcando](https://github.com/theyapapa/cryptonews/blob/es/xrp-community-is-threatening-a-takeover-if-ripple-execs-keep-dumping-73712a99.md)
 * 2019-08-28 [Bitcoin Returns han enanizado cada oPI tecnológica desde 2010, nuevos datos muestran](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-returns-have-dwarfed-every-tech-ipo-since-2010-new-data-shows-165fbafd.md)
 * 2019-08-28 [Telegram beat Facebook to the Punch With Gram Token October Launch](https://github.com/theyapapa/cryptonews/blob/es/telegram-to-beat-facebook-to-the-punch-with-gram-token-october-launch-13b41dda.md)
