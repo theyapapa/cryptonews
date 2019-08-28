@@ -1,3 +1,4 @@
+* 2019-08-28 [Генеральный директор Binance: Фьючерсная торговая платформа будет запущена в сентябре](https://github.com/theyapapa/cryptonews/blob/ru/binance-ceo-futures-trading-platform-to-launch-in-september-4b63a43a.md)
 * 2019-08-27 [Индийская Академия блокчейна Керала в партнерстве с R3](https://github.com/theyapapa/cryptonews/blob/ru/the-indian-kerala-blockchain-academy-partnered-with-r3-aca01434.md)
 * 2019-08-27 [Стартап под руководством ветеранов JPMorgan привносит бесплатную платформу BaaS в Azure](https://github.com/theyapapa/cryptonews/blob/ru/startup-led-by-jpmorgan-veterans-brings-free-baas-platform-to-azure-73e5664a.md)
 * 2019-08-27 [Председатель SEC США заявил, что правила не изменятся для криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-chairman-says-the-rules-wont-change-for-cryptocurrencies-8b643c6b.md)
