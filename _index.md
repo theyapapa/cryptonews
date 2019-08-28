@@ -1,3 +1,4 @@
+* 2019-08-28 [La policía francesa cerró 850.000 Botnet de computadoras usados para Cryptojacking](https://github.com/theyapapa/cryptonews/blob/es/french-police-shut-down-850-000-computer-botnet-used-for-cryptojacking-05f9d814.md)
 * 2019-08-28 [Informe: Actividad de Blockchain en las mejores universidades aumentada desde 2018](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-activity-at-top-universities-increased-since-2018-271d9d7f.md)
 * 2019-08-28 [Bitcoin precio cae bruscamente por debajo de $10K, marcando nuevo mínimo semanal](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-drops-sharply-below-10k-marking-new-weekly-low-42537ce0.md)
 * 2019-08-28 [Global Blockchain Revenues to hit $10 billion for 2023: Market Research](https://github.com/theyapapa/cryptonews/blob/es/global-blockchain-revenues-to-hit-10-billion-by-2023-market-research-6e8389c5.md)
