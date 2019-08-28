@@ -1,3 +1,4 @@
+* 2019-08-28 [Французская полиция закрыла 850 000 компьютерных ботнетов, используемых для cryptojacking](https://github.com/theyapapa/cryptonews/blob/ru/french-police-shut-down-850-000-computer-botnet-used-for-cryptojacking-05f9d814.md)
 * 2019-08-28 [Отчет: Блокчейн-активность в лучших университетах увеличилась с 2018 года](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-activity-at-top-universities-increased-since-2018-271d9d7f.md)
 * 2019-08-28 [Цена Bitcoin резко упала ниже $10K, отмечая новый недельный минимум](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-drops-sharply-below-10k-marking-new-weekly-low-42537ce0.md)
 * 2019-08-28 [Глобальные доходы от блокчейна упадут на $10 млрд к 2023 году: исследование рынка](https://github.com/theyapapa/cryptonews/blob/ru/global-blockchain-revenues-to-hit-10-billion-by-2023-market-research-6e8389c5.md)
