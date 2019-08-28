@@ -1,3 +1,4 @@
+* 2019-08-28 [Bitcoin Цена Flatlines на $ 10K, как трейдеры готовятся к ожидаемой волатильности](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-flatlines-at-10k-as-traders-brace-for-expected-volatility-4a09ab97.md)
 * 2019-08-28 [Сообщество XRP угрожает «захватом», если Ripple Execs хранит демпинг](https://github.com/theyapapa/cryptonews/blob/ru/xrp-community-is-threatening-a-takeover-if-ripple-execs-keep-dumping-73712a99.md)
 * 2019-08-28 [Биткоин возвращается имеют dwarfed каждый Tech IPO с 2010 года, Новые данные показывает,](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-returns-have-dwarfed-every-tech-ipo-since-2010-new-data-shows-165fbafd.md)
 * 2019-08-28 [Телеграмма бить Facebook удар с Gram Token октября запуск](https://github.com/theyapapa/cryptonews/blob/ru/telegram-to-beat-facebook-to-the-punch-with-gram-token-october-launch-13b41dda.md)
