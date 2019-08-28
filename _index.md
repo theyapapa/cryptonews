@@ -1,3 +1,4 @@
+* 2019-08-28 [Отчет: Блокчейн-активность в лучших университетах увеличилась с 2018 года](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-activity-at-top-universities-increased-since-2018-271d9d7f.md)
 * 2019-08-28 [Цена Bitcoin резко упала ниже $10K, отмечая новый недельный минимум](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-drops-sharply-below-10k-marking-new-weekly-low-42537ce0.md)
 * 2019-08-28 [Глобальные доходы от блокчейна упадут на $10 млрд к 2023 году: исследование рынка](https://github.com/theyapapa/cryptonews/blob/ru/global-blockchain-revenues-to-hit-10-billion-by-2023-market-research-6e8389c5.md)
 * 2019-08-28 [Фьючерсы на биткоин cME в мае в среднем составили $515 млн в день](https://github.com/theyapapa/cryptonews/blob/ru/cme-bitcoin-futures-averaged-515-million-daily-volume-in-may-64bcbf13.md)
