@@ -1,3 +1,4 @@
+* 2019-08-28 [XRP 커뮤니티는 '인수' 리플 임원 계속 덤핑 하는 경우 위협](https://github.com/theyapapa/cryptonews/blob/ko/xrp-community-is-threatening-a-takeover-if-ripple-execs-keep-dumping-73712a99.md)
 * 2019-08-28 [비트 코인 반환은 2010 년 이후 모든 기술 IPO를 난장판화, 새로운 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-returns-have-dwarfed-every-tech-ipo-since-2010-new-data-shows-165fbafd.md)
 * 2019-08-28 [전보 그램 토큰 10 월 출시와 펀치에 페이스 북을 이길](https://github.com/theyapapa/cryptonews/blob/ko/telegram-to-beat-facebook-to-the-punch-with-gram-token-october-launch-13b41dda.md)
 * 2019-08-28 [Binance CEO: 9월에 출시될 선물 거래 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/binance-ceo-futures-trading-platform-to-launch-in-september-4b63a43a.md)
