@@ -1,3 +1,4 @@
+* 2019-08-28 [Informe: Actividad de Blockchain en las mejores universidades aumentada desde 2018](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-activity-at-top-universities-increased-since-2018-271d9d7f.md)
 * 2019-08-28 [Bitcoin precio cae bruscamente por debajo de $10K, marcando nuevo mínimo semanal](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-drops-sharply-below-10k-marking-new-weekly-low-42537ce0.md)
 * 2019-08-28 [Global Blockchain Revenues to hit $10 billion for 2023: Market Research](https://github.com/theyapapa/cryptonews/blob/es/global-blockchain-revenues-to-hit-10-billion-by-2023-market-research-6e8389c5.md)
 * 2019-08-28 [Los futuros de CME Bitcoin promediaron un volumen diario de $515 millones en mayo](https://github.com/theyapapa/cryptonews/blob/es/cme-bitcoin-futures-averaged-515-million-daily-volume-in-may-64bcbf13.md)
