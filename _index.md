@@ -1,3 +1,4 @@
+* 2019-08-28 [비트 코인 반환은 2010 년 이후 모든 기술 IPO를 난장판화, 새로운 데이터 쇼](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-returns-have-dwarfed-every-tech-ipo-since-2010-new-data-shows-165fbafd.md)
 * 2019-08-28 [전보 그램 토큰 10 월 출시와 펀치에 페이스 북을 이길](https://github.com/theyapapa/cryptonews/blob/ko/telegram-to-beat-facebook-to-the-punch-with-gram-token-october-launch-13b41dda.md)
 * 2019-08-28 [Binance CEO: 9월에 출시될 선물 거래 플랫폼](https://github.com/theyapapa/cryptonews/blob/ko/binance-ceo-futures-trading-platform-to-launch-in-september-4b63a43a.md)
 * 2019-08-27 [인도 케랄라 블록체인 아카데미, R3와 제휴](https://github.com/theyapapa/cryptonews/blob/ko/the-indian-kerala-blockchain-academy-partnered-with-r3-aca01434.md)
