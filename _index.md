@@ -1,3 +1,4 @@
+* 2019-08-28 [2023년까지 글로벌 블록체인 매출이 100억 달러에 달할 것: 시장 조사](https://github.com/theyapapa/cryptonews/blob/ko/global-blockchain-revenues-to-hit-10-billion-by-2023-market-research-6e8389c5.md)
 * 2019-08-28 [CME 비트코인 선물 5월 평균 거래량 5억 1,500만 달러](https://github.com/theyapapa/cryptonews/blob/ko/cme-bitcoin-futures-averaged-515-million-daily-volume-in-may-64bcbf13.md)
 * 2019-08-28 [비트 코인 가격 평판에서 $10K 예상 변동성에 대한 상인 중괄호로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-flatlines-at-10k-as-traders-brace-for-expected-volatility-4a09ab97.md)
 * 2019-08-28 [XRP 커뮤니티는 '인수' 리플 임원 계속 덤핑 하는 경우 위협](https://github.com/theyapapa/cryptonews/blob/ko/xrp-community-is-threatening-a-takeover-if-ripple-execs-keep-dumping-73712a99.md)
