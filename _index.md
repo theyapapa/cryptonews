@@ -1,3 +1,4 @@
+* 2019-08-28 [Bitcoin Returns han enanizado cada oPI tecnológica desde 2010, nuevos datos muestran](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-returns-have-dwarfed-every-tech-ipo-since-2010-new-data-shows-165fbafd.md)
 * 2019-08-28 [Telegram beat Facebook to the Punch With Gram Token October Launch](https://github.com/theyapapa/cryptonews/blob/es/telegram-to-beat-facebook-to-the-punch-with-gram-token-october-launch-13b41dda.md)
 * 2019-08-28 [Binance CEO: Futures Trading Platform se lanzará en septiembre](https://github.com/theyapapa/cryptonews/blob/es/binance-ceo-futures-trading-platform-to-launch-in-september-4b63a43a.md)
 * 2019-08-27 [La Academia India Kerala Blockchain se asoció con R3](https://github.com/theyapapa/cryptonews/blob/es/the-indian-kerala-blockchain-academy-partnered-with-r3-aca01434.md)
