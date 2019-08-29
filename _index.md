@@ -1,3 +1,4 @@
+* 2019-08-29 [태국 세관은 IBM의 트레이드 렌즈를 사용하여 배송을 추적 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/thai-customs-department-plans-to-use-ibms-tradelens-to-track-shipping-1e2b8eff.md)
 * 2019-08-29 [달마 는 대출 플랫폼의 버전 2에 대한 폐쇄 베타 발표](https://github.com/theyapapa/cryptonews/blob/ko/dharma-announces-closed-beta-for-version-2-of-lending-platform-64d344d4.md)
 * 2019-08-29 [규제 불확실성에 취약한 안정제: 유럽 중앙은행](https://github.com/theyapapa/cryptonews/blob/ko/stablecoins-vulnerable-to-regulatory-uncertainty-european-central-bank-e62b84cd.md)
 * 2019-08-29 [새로운 패리티 업데이트는 일부 ETH 노드에 존재하는 취약점을 수정합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-parity-update-fixes-a-vulnerability-present-in-some-eth-nodes-5ebe43cb.md)
