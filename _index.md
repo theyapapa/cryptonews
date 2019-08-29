@@ -1,3 +1,4 @@
+* 2019-08-29 [Binance lanza la plataforma de educación y colaboración de desarrollo Binance X](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-dev-education-and-collaboration-platform-binance-x-ef832802.md)
 * 2019-08-29 [Enterprise Ethereum Alliance publica sobre usos de Blockchain en telecomunicaciones](https://github.com/theyapapa/cryptonews/blob/es/enterprise-ethereum-alliance-publishes-on-blockchain-uses-in-telecoms-dfb51706.md)
 * 2019-08-29 [Bitcoin Dev revela Multisig UI Teaser para carteras de hardware, nodos completos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-dev-reveals-multisig-ui-teaser-for-hardware-wallets-full-nodes-ff8860bc.md)
 * 2019-08-29 [El gigante bancario estadounidense PNC comienza a usar RippleNet para pagos transfronterizos](https://github.com/theyapapa/cryptonews/blob/es/us-banking-giant-pnc-starts-using-ripplenet-for-cross-border-payments-7a5a8f1e.md)
