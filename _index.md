@@ -1,3 +1,4 @@
+* 2019-08-29 [달마 는 대출 플랫폼의 버전 2에 대한 폐쇄 베타 발표](https://github.com/theyapapa/cryptonews/blob/ko/dharma-announces-closed-beta-for-version-2-of-lending-platform-64d344d4.md)
 * 2019-08-29 [규제 불확실성에 취약한 안정제: 유럽 중앙은행](https://github.com/theyapapa/cryptonews/blob/ko/stablecoins-vulnerable-to-regulatory-uncertainty-european-central-bank-e62b84cd.md)
 * 2019-08-29 [새로운 패리티 업데이트는 일부 ETH 노드에 존재하는 취약점을 수정합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-parity-update-fixes-a-vulnerability-present-in-some-eth-nodes-5ebe43cb.md)
 * 2019-08-29 [Binance, 개발 교육 및 협업 플랫폼 Binance X 출시](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-dev-education-and-collaboration-platform-binance-x-ef832802.md)
