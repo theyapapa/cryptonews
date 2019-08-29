@@ -1,3 +1,4 @@
+* 2019-08-29 [규제 불확실성에 취약한 안정제: 유럽 중앙은행](https://github.com/theyapapa/cryptonews/blob/ko/stablecoins-vulnerable-to-regulatory-uncertainty-european-central-bank-e62b84cd.md)
 * 2019-08-29 [새로운 패리티 업데이트는 일부 ETH 노드에 존재하는 취약점을 수정합니다.](https://github.com/theyapapa/cryptonews/blob/ko/new-parity-update-fixes-a-vulnerability-present-in-some-eth-nodes-5ebe43cb.md)
 * 2019-08-29 [Binance, 개발 교육 및 협업 플랫폼 Binance X 출시](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-dev-education-and-collaboration-platform-binance-x-ef832802.md)
 * 2019-08-29 [엔터프라이즈 이더리움 얼라이언스, 통신에서 블록체인 사용 에 게시](https://github.com/theyapapa/cryptonews/blob/ko/enterprise-ethereum-alliance-publishes-on-blockchain-uses-in-telecoms-dfb51706.md)
