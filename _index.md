@@ -1,3 +1,4 @@
+* 2019-08-29 [El gigante bancario estadounidense PNC comienza a usar RippleNet para pagos transfronterizos](https://github.com/theyapapa/cryptonews/blob/es/us-banking-giant-pnc-starts-using-ripplenet-for-cross-border-payments-7a5a8f1e.md)
 * 2019-08-28 [Bitcoin precio lucha por recuperarse después de desplomarse hoy](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-struggles-to-recover-after-slump-earlier-today-1654fd9a.md)
 * 2019-08-28 [Proveedor de chips bitmain enfrenta demandas por infracción de competidor](https://github.com/theyapapa/cryptonews/blob/es/bitmain-chip-supplier-faces-infringement-lawsuits-from-competitor-6576a749.md)
 * 2019-08-28 [La policía francesa cerró 850.000 Botnet de computadoras usados para Cryptojacking](https://github.com/theyapapa/cryptonews/blob/es/french-police-shut-down-850-000-computer-botnet-used-for-cryptojacking-05f9d814.md)
