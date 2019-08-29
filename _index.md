@@ -1,3 +1,4 @@
+* 2019-08-29 [미국 은행 거 대 한 PNC 국경 간 지불에 대 한 RippleNet를 사용 하 여 시작](https://github.com/theyapapa/cryptonews/blob/ko/us-banking-giant-pnc-starts-using-ripplenet-for-cross-border-payments-7a5a8f1e.md)
 * 2019-08-28 [비트 코인 가격은 오늘 이전 슬럼프 후 회복하기 위해 투쟁](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-struggles-to-recover-after-slump-earlier-today-1654fd9a.md)
 * 2019-08-28 [비트 메인 칩 공급 업체는 경쟁업체의 침해 소송에 직면](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-chip-supplier-faces-infringement-lawsuits-from-competitor-6576a749.md)
 * 2019-08-28 [프랑스 경찰은 암호 해독에 사용되는 850,000 컴퓨터 봇넷을 종료](https://github.com/theyapapa/cryptonews/blob/ko/french-police-shut-down-850-000-computer-botnet-used-for-cryptojacking-05f9d814.md)
