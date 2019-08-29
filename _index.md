@@ -1,3 +1,4 @@
+* 2019-08-29 [Новое обновление паритета исправляет уязвимость, присутствуюую в некоторых узлах ETH](https://github.com/theyapapa/cryptonews/blob/ru/new-parity-update-fixes-a-vulnerability-present-in-some-eth-nodes-5ebe43cb.md)
 * 2019-08-29 [Binance запускает Dev образования и сотрудничества платформы Binance X](https://github.com/theyapapa/cryptonews/blob/ru/binance-launches-dev-education-and-collaboration-platform-binance-x-ef832802.md)
 * 2019-08-29 [Альянс Enterprise Ethereum публикует информацию об использовании блокчейна в телекомах](https://github.com/theyapapa/cryptonews/blob/ru/enterprise-ethereum-alliance-publishes-on-blockchain-uses-in-telecoms-dfb51706.md)
 * 2019-08-29 [Bitcoin Dev показывает Multisig пользовательский размягчий для аппаратных кошельков, полные узлы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dev-reveals-multisig-ui-teaser-for-hardware-wallets-full-nodes-ff8860bc.md)
