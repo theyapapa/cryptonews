@@ -1,3 +1,4 @@
+* 2019-08-29 [Dharma anuncia una beta cerrada para la versión 2 de la plataforma de préstamos](https://github.com/theyapapa/cryptonews/blob/es/dharma-announces-closed-beta-for-version-2-of-lending-platform-64d344d4.md)
 * 2019-08-29 [Stablecoins Vulnerables a la Incertidumbre Regulatoria: Banco Central Europeo](https://github.com/theyapapa/cryptonews/blob/es/stablecoins-vulnerable-to-regulatory-uncertainty-european-central-bank-e62b84cd.md)
 * 2019-08-29 [La nueva actualización de paridad corrige una vulnerabilidad presente en algunos nodos ETH](https://github.com/theyapapa/cryptonews/blob/es/new-parity-update-fixes-a-vulnerability-present-in-some-eth-nodes-5ebe43cb.md)
 * 2019-08-29 [Binance lanza la plataforma de educación y colaboración de desarrollo Binance X](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-dev-education-and-collaboration-platform-binance-x-ef832802.md)
