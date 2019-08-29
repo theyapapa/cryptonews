@@ -1,3 +1,4 @@
+* 2019-08-29 [비트 코인 개발자는 하드웨어 지갑에 대한 멀티 시그 UI 티저를 밝혀, 전체 노드](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dev-reveals-multisig-ui-teaser-for-hardware-wallets-full-nodes-ff8860bc.md)
 * 2019-08-29 [미국 은행 거 대 한 PNC 국경 간 지불에 대 한 RippleNet를 사용 하 여 시작](https://github.com/theyapapa/cryptonews/blob/ko/us-banking-giant-pnc-starts-using-ripplenet-for-cross-border-payments-7a5a8f1e.md)
 * 2019-08-28 [비트 코인 가격은 오늘 이전 슬럼프 후 회복하기 위해 투쟁](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-struggles-to-recover-after-slump-earlier-today-1654fd9a.md)
 * 2019-08-28 [비트 메인 칩 공급 업체는 경쟁업체의 침해 소송에 직면](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-chip-supplier-faces-infringement-lawsuits-from-competitor-6576a749.md)
