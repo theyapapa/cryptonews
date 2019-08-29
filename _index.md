@@ -1,3 +1,4 @@
+* 2019-08-29 [Binance, 개발 교육 및 협업 플랫폼 Binance X 출시](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-dev-education-and-collaboration-platform-binance-x-ef832802.md)
 * 2019-08-29 [엔터프라이즈 이더리움 얼라이언스, 통신에서 블록체인 사용 에 게시](https://github.com/theyapapa/cryptonews/blob/ko/enterprise-ethereum-alliance-publishes-on-blockchain-uses-in-telecoms-dfb51706.md)
 * 2019-08-29 [비트 코인 개발자는 하드웨어 지갑에 대한 멀티 시그 UI 티저를 밝혀, 전체 노드](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dev-reveals-multisig-ui-teaser-for-hardware-wallets-full-nodes-ff8860bc.md)
 * 2019-08-29 [미국 은행 거 대 한 PNC 국경 간 지불에 대 한 RippleNet를 사용 하 여 시작](https://github.com/theyapapa/cryptonews/blob/ko/us-banking-giant-pnc-starts-using-ripplenet-for-cross-border-payments-7a5a8f1e.md)
