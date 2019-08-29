@@ -1,3 +1,4 @@
+* 2019-08-28 [비트 코인 가격은 오늘 이전 슬럼프 후 회복하기 위해 투쟁](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-struggles-to-recover-after-slump-earlier-today-1654fd9a.md)
 * 2019-08-28 [비트 메인 칩 공급 업체는 경쟁업체의 침해 소송에 직면](https://github.com/theyapapa/cryptonews/blob/ko/bitmain-chip-supplier-faces-infringement-lawsuits-from-competitor-6576a749.md)
 * 2019-08-28 [프랑스 경찰은 암호 해독에 사용되는 850,000 컴퓨터 봇넷을 종료](https://github.com/theyapapa/cryptonews/blob/ko/french-police-shut-down-850-000-computer-botnet-used-for-cryptojacking-05f9d814.md)
 * 2019-08-28 [보고서: 2018년 이후 상위 대학의 블록체인 활동 증가](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-activity-at-top-universities-increased-since-2018-271d9d7f.md)
