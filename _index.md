@@ -1,3 +1,4 @@
+* 2019-08-28 [Bitcoin precio lucha por recuperarse después de desplomarse hoy](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-struggles-to-recover-after-slump-earlier-today-1654fd9a.md)
 * 2019-08-28 [Proveedor de chips bitmain enfrenta demandas por infracción de competidor](https://github.com/theyapapa/cryptonews/blob/es/bitmain-chip-supplier-faces-infringement-lawsuits-from-competitor-6576a749.md)
 * 2019-08-28 [La policía francesa cerró 850.000 Botnet de computadoras usados para Cryptojacking](https://github.com/theyapapa/cryptonews/blob/es/french-police-shut-down-850-000-computer-botnet-used-for-cryptojacking-05f9d814.md)
 * 2019-08-28 [Informe: Actividad de Blockchain en las mejores universidades aumentada desde 2018](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-activity-at-top-universities-increased-since-2018-271d9d7f.md)
