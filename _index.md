@@ -1,3 +1,4 @@
+* 2019-08-29 [Bitcoin Dev показывает Multisig пользовательский размягчий для аппаратных кошельков, полные узлы](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dev-reveals-multisig-ui-teaser-for-hardware-wallets-full-nodes-ff8860bc.md)
 * 2019-08-29 [Американский банковский гигант PNC начинает использовать RippleNet для трансграничных платежей](https://github.com/theyapapa/cryptonews/blob/ru/us-banking-giant-pnc-starts-using-ripplenet-for-cross-border-payments-7a5a8f1e.md)
 * 2019-08-28 [Цена Bitcoin борется за восстановление после спада ранее сегодня](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-struggles-to-recover-after-slump-earlier-today-1654fd9a.md)
 * 2019-08-28 [Поставщик чипов Bitmain сталкивается с исками о нарушении со стороны конкурента](https://github.com/theyapapa/cryptonews/blob/ru/bitmain-chip-supplier-faces-infringement-lawsuits-from-competitor-6576a749.md)
