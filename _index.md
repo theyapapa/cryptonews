@@ -1,3 +1,4 @@
+* 2019-08-30 [El mercado de valores MERJ planea la "primera" salida a bolsa de tokens de seguridad del mundo](https://github.com/theyapapa/cryptonews/blob/es/securities-exchange-merj-plans-worlds-first-security-token-ipo-e2a5ffc9.md)
 * 2019-08-30 [Subsidiaria de SBI Holdings pagará dividendos a los accionistas en XRP](https://github.com/theyapapa/cryptonews/blob/es/sbi-holdings-subsidiary-to-pay-shareholders-dividends-in-xrp-d475c135.md)
 * 2019-08-29 [Informe: No se necesita una cuenta bancaria para transferir el próximo CDB de China](https://github.com/theyapapa/cryptonews/blob/es/report-no-bank-account-needed-to-transfer-chinas-upcoming-cbdc-08692ebb.md)
 * 2019-08-29 [Actualización de precios Bitcoin: ¿A dónde vamos desde aquí?](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-update-where-do-we-go-from-here-6c49031c.md)
