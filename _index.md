@@ -1,3 +1,4 @@
+* 2019-08-30 [독일의 비트 왈라 출시 올인원 모바일 비트 코인 은행 앱](https://github.com/theyapapa/cryptonews/blob/ko/germanys-bitwala-launches-all-in-one-mobile-bitcoin-bank-app-5ba3bc43.md)
 * 2019-08-30 [Binance: 비너스 프로젝트는 규제 당국을 구속할 것이며, 페이스 북의 실수를 피할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-venus-project-will-court-regulators-avoid-facebooks-mistakes-d2013208.md)
 * 2019-08-30 [비트 코인 광부는 네트워크를 확보 날짜에 140 억 달러를 했다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-miners-made-14-billion-to-date-securing-the-network-72142ed8.md)
 * 2019-08-30 [증권 거래소 MERJ 계획 '세계 최초' 증권 토큰 IPO](https://github.com/theyapapa/cryptonews/blob/ko/securities-exchange-merj-plans-worlds-first-security-token-ipo-e2a5ffc9.md)
