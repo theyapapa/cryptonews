@@ -1,3 +1,4 @@
+* 2019-08-29 [Биткоин Цена Обновление: Куда мы идем дальше?](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-update-where-do-we-go-from-here-6c49031c.md)
 * 2019-08-29 [Таможенный департамент Таиланда планирует использовать ibm в Tradelens для отслеживания доставки](https://github.com/theyapapa/cryptonews/blob/ru/thai-customs-department-plans-to-use-ibms-tradelens-to-track-shipping-1e2b8eff.md)
 * 2019-08-29 [Dharma объявляет о закрытой бета-версии 2 кредитной платформы](https://github.com/theyapapa/cryptonews/blob/ru/dharma-announces-closed-beta-for-version-2-of-lending-platform-64d344d4.md)
 * 2019-08-29 [Стабильные монеты уязвимы для регуляторной неопределенности: Европейский центральный банк](https://github.com/theyapapa/cryptonews/blob/ru/stablecoins-vulnerable-to-regulatory-uncertainty-european-central-bank-e62b84cd.md)
