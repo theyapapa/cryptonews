@@ -1,3 +1,4 @@
+* 2019-08-30 [Supermercado Cadena Migros Implementa Trazabilidad de Alimentos Basada en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/supermarket-chain-migros-implements-blockchain-based-food-traceability-0dbe67d5.md)
 * 2019-08-30 [Bitwala de Alemania lanza la aplicación all-in-one Mobile Bitcoin Bank](https://github.com/theyapapa/cryptonews/blob/es/germanys-bitwala-launches-all-in-one-mobile-bitcoin-bank-app-5ba3bc43.md)
 * 2019-08-30 [Binance: Venus Project corteja a los reguladores, evitará los errores de Facebook](https://github.com/theyapapa/cryptonews/blob/es/binance-venus-project-will-court-regulators-avoid-facebooks-mistakes-d2013208.md)
 * 2019-08-30 [Bitcoin Miners hizo $14 mil millones hasta la fecha asegurando la red](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-miners-made-14-billion-to-date-securing-the-network-72142ed8.md)
