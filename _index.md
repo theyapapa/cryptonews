@@ -1,3 +1,4 @@
+* 2019-08-30 [Binance: Venus Project corteja a los reguladores, evitará los errores de Facebook](https://github.com/theyapapa/cryptonews/blob/es/binance-venus-project-will-court-regulators-avoid-facebooks-mistakes-d2013208.md)
 * 2019-08-30 [Bitcoin Miners hizo $14 mil millones hasta la fecha asegurando la red](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-miners-made-14-billion-to-date-securing-the-network-72142ed8.md)
 * 2019-08-30 [El mercado de valores MERJ planea la "primera" salida a bolsa de tokens de seguridad del mundo](https://github.com/theyapapa/cryptonews/blob/es/securities-exchange-merj-plans-worlds-first-security-token-ipo-e2a5ffc9.md)
 * 2019-08-30 [Subsidiaria de SBI Holdings pagará dividendos a los accionistas en XRP](https://github.com/theyapapa/cryptonews/blob/es/sbi-holdings-subsidiary-to-pay-shareholders-dividends-in-xrp-d475c135.md)
