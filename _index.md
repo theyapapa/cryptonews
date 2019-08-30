@@ -1,3 +1,4 @@
+* 2019-08-30 [Jaguar utiliza Iota en la demostración de prueba de concepto para rastrear la energía del coche](https://github.com/theyapapa/cryptonews/blob/es/jaguar-uses-iota-in-proof-of-concept-demo-for-tracing-car-energy-f384a066.md)
 * 2019-08-30 [Bitcoin precio estable, Altcoins enviar señales mixtas después de nuevas ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-stable-altcoins-send-mixed-signals-after-fresh-gains-32d602ce.md)
 * 2019-08-30 [Supermercado Cadena Migros Implementa Trazabilidad de Alimentos Basada en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/supermarket-chain-migros-implements-blockchain-based-food-traceability-0dbe67d5.md)
 * 2019-08-30 [Bitwala de Alemania lanza la aplicación all-in-one Mobile Bitcoin Bank](https://github.com/theyapapa/cryptonews/blob/es/germanys-bitwala-launches-all-in-one-mobile-bitcoin-bank-app-5ba3bc43.md)
