@@ -1,3 +1,4 @@
+* 2019-08-30 [비트 코인 광부는 네트워크를 확보 날짜에 140 억 달러를 했다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-miners-made-14-billion-to-date-securing-the-network-72142ed8.md)
 * 2019-08-30 [증권 거래소 MERJ 계획 '세계 최초' 증권 토큰 IPO](https://github.com/theyapapa/cryptonews/blob/ko/securities-exchange-merj-plans-worlds-first-security-token-ipo-e2a5ffc9.md)
 * 2019-08-30 [SBI 홀딩스의 자회사, XRP에서 주주 배당금 지급](https://github.com/theyapapa/cryptonews/blob/ko/sbi-holdings-subsidiary-to-pay-shareholders-dividends-in-xrp-d475c135.md)
 * 2019-08-29 [보고서: 중국의 다가오는 CBDC를 전송할 필요가 없는 은행 계좌](https://github.com/theyapapa/cryptonews/blob/ko/report-no-bank-account-needed-to-transfer-chinas-upcoming-cbdc-08692ebb.md)
