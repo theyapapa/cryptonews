@@ -1,3 +1,4 @@
+* 2019-08-30 [Биткоин-майнеры заработали $14 млрд на дату обеспечения безопасности сети](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-miners-made-14-billion-to-date-securing-the-network-72142ed8.md)
 * 2019-08-30 [Биржа ценных бумаг MERJ планирует IPO «первого в мире» ценного токена](https://github.com/theyapapa/cryptonews/blob/ru/securities-exchange-merj-plans-worlds-first-security-token-ipo-e2a5ffc9.md)
 * 2019-08-30 [Дочерняя компания SBI Holdings выплатит акционерам дивиденды в XRP](https://github.com/theyapapa/cryptonews/blob/ru/sbi-holdings-subsidiary-to-pay-shareholders-dividends-in-xrp-d475c135.md)
 * 2019-08-29 [Доклад: Нет банковского счета, необходимого для передачи Китая Предстоящие CBDC](https://github.com/theyapapa/cryptonews/blob/ru/report-no-bank-account-needed-to-transfer-chinas-upcoming-cbdc-08692ebb.md)
