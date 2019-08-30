@@ -1,3 +1,4 @@
+* 2019-08-29 [Actualización de precios Bitcoin: ¿A dónde vamos desde aquí?](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-update-where-do-we-go-from-here-6c49031c.md)
 * 2019-08-29 [El Departamento de Aduanas de Tailandia planea utilizar Tradelens de IBM para rastrear el envío](https://github.com/theyapapa/cryptonews/blob/es/thai-customs-department-plans-to-use-ibms-tradelens-to-track-shipping-1e2b8eff.md)
 * 2019-08-29 [Dharma anuncia una beta cerrada para la versión 2 de la plataforma de préstamos](https://github.com/theyapapa/cryptonews/blob/es/dharma-announces-closed-beta-for-version-2-of-lending-platform-64d344d4.md)
 * 2019-08-29 [Stablecoins Vulnerables a la Incertidumbre Regulatoria: Banco Central Europeo](https://github.com/theyapapa/cryptonews/blob/es/stablecoins-vulnerable-to-regulatory-uncertainty-european-central-bank-e62b84cd.md)
