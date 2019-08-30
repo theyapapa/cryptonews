@@ -1,3 +1,4 @@
+* 2019-08-29 [보고서: 중국의 다가오는 CBDC를 전송할 필요가 없는 은행 계좌](https://github.com/theyapapa/cryptonews/blob/ko/report-no-bank-account-needed-to-transfer-chinas-upcoming-cbdc-08692ebb.md)
 * 2019-08-29 [비트 코인 가격 업데이트 : 우리는 여기에서 어디로 가야합니까?](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-update-where-do-we-go-from-here-6c49031c.md)
 * 2019-08-29 [태국 세관은 IBM의 트레이드 렌즈를 사용하여 배송을 추적 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/thai-customs-department-plans-to-use-ibms-tradelens-to-track-shipping-1e2b8eff.md)
 * 2019-08-29 [달마 는 대출 플랫폼의 버전 2에 대한 폐쇄 베타 발표](https://github.com/theyapapa/cryptonews/blob/ko/dharma-announces-closed-beta-for-version-2-of-lending-platform-64d344d4.md)
