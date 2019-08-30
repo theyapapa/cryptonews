@@ -1,3 +1,4 @@
+* 2019-08-30 [SBI 홀딩스의 자회사, XRP에서 주주 배당금 지급](https://github.com/theyapapa/cryptonews/blob/ko/sbi-holdings-subsidiary-to-pay-shareholders-dividends-in-xrp-d475c135.md)
 * 2019-08-29 [보고서: 중국의 다가오는 CBDC를 전송할 필요가 없는 은행 계좌](https://github.com/theyapapa/cryptonews/blob/ko/report-no-bank-account-needed-to-transfer-chinas-upcoming-cbdc-08692ebb.md)
 * 2019-08-29 [비트 코인 가격 업데이트 : 우리는 여기에서 어디로 가야합니까?](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-update-where-do-we-go-from-here-6c49031c.md)
 * 2019-08-29 [태국 세관은 IBM의 트레이드 렌즈를 사용하여 배송을 추적 할 계획입니다.](https://github.com/theyapapa/cryptonews/blob/ko/thai-customs-department-plans-to-use-ibms-tradelens-to-track-shipping-1e2b8eff.md)
