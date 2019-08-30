@@ -1,3 +1,4 @@
+* 2019-08-30 [Немецкий Bitwala запускает All-In-One Мобильный Bitcoin Bank App](https://github.com/theyapapa/cryptonews/blob/ru/germanys-bitwala-launches-all-in-one-mobile-bitcoin-bank-app-5ba3bc43.md)
 * 2019-08-30 [Binance: Венера проекта будет суд регуляторов, избежать ошибок Facebook](https://github.com/theyapapa/cryptonews/blob/ru/binance-venus-project-will-court-regulators-avoid-facebooks-mistakes-d2013208.md)
 * 2019-08-30 [Биткоин-майнеры заработали $14 млрд на дату обеспечения безопасности сети](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-miners-made-14-billion-to-date-securing-the-network-72142ed8.md)
 * 2019-08-30 [Биржа ценных бумаг MERJ планирует IPO «первого в мире» ценного токена](https://github.com/theyapapa/cryptonews/blob/ru/securities-exchange-merj-plans-worlds-first-security-token-ipo-e2a5ffc9.md)
