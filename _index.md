@@ -1,3 +1,4 @@
+* 2019-08-30 [Subsidiaria de SBI Holdings pagará dividendos a los accionistas en XRP](https://github.com/theyapapa/cryptonews/blob/es/sbi-holdings-subsidiary-to-pay-shareholders-dividends-in-xrp-d475c135.md)
 * 2019-08-29 [Informe: No se necesita una cuenta bancaria para transferir el próximo CDB de China](https://github.com/theyapapa/cryptonews/blob/es/report-no-bank-account-needed-to-transfer-chinas-upcoming-cbdc-08692ebb.md)
 * 2019-08-29 [Actualización de precios Bitcoin: ¿A dónde vamos desde aquí?](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-update-where-do-we-go-from-here-6c49031c.md)
 * 2019-08-29 [El Departamento de Aduanas de Tailandia planea utilizar Tradelens de IBM para rastrear el envío](https://github.com/theyapapa/cryptonews/blob/es/thai-customs-department-plans-to-use-ibms-tradelens-to-track-shipping-1e2b8eff.md)
