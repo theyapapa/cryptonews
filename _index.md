@@ -1,3 +1,4 @@
+* 2019-08-31 [Кыргызстан предлагает законопроект о введении налогообложения криптотработы](https://github.com/theyapapa/cryptonews/blob/ru/kyrgyzstan-proposes-draft-law-to-introduce-crypto-mining-taxation-20fe3262.md)
 * 2019-08-31 [Ex-ConsenSys Exec присоединяется безопасности токен проекта Сумерки сети](https://github.com/theyapapa/cryptonews/blob/ru/ex-consensys-exec-joins-security-token-project-dusk-network-08c71351.md)
 * 2019-08-31 [Могут ли PACs популяризировать криптовалютные пожертвования в политике США?](https://github.com/theyapapa/cryptonews/blob/ru/can-pacs-popularize-cryptocurrency-donations-in-us-politics-fa9c95e6.md)
 * 2019-08-31 [Анализ цен 31/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-31-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-ada-841c00f5.md)
