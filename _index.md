@@ -1,3 +1,4 @@
+* 2019-08-31 [Kirguistán propone un proyecto de ley para introducir la fiscalidad de la minería criptográfica](https://github.com/theyapapa/cryptonews/blob/es/kyrgyzstan-proposes-draft-law-to-introduce-crypto-mining-taxation-20fe3262.md)
 * 2019-08-31 [Ex-ConsenSys Exec se une a Security Token Project Dusk Network](https://github.com/theyapapa/cryptonews/blob/es/ex-consensys-exec-joins-security-token-project-dusk-network-08c71351.md)
 * 2019-08-31 [¿Pueden los PAC popularizar las donaciones de criptomonedas en la política estadounidense?](https://github.com/theyapapa/cryptonews/blob/es/can-pacs-popularize-cryptocurrency-donations-in-us-politics-fa9c95e6.md)
 * 2019-08-31 [Análisis de Precios 31/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-31-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-ada-841c00f5.md)
