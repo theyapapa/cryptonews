@@ -1,3 +1,4 @@
+* 2019-08-31 [Почему Amazon хочет нанять экспертов по блокчейну для своего отдела объявлений?](https://github.com/theyapapa/cryptonews/blob/ru/why-does-amazon-want-to-hire-blockchain-experts-for-its-ads-division-f05b6cac.md)
 * 2019-08-31 [Масштабируемость блокчейна: текущие вызовы и потенциальные решения](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-scalability-current-challenges-and-potential-solutions-e76f52ed.md)
 * 2019-08-30 [Continental представляет Демо Заработок App для Blockchain-платформы автомобиля](https://github.com/theyapapa/cryptonews/blob/ru/continental-unveils-demo-earning-app-for-blockchain-based-car-platform-f58ada01.md)
 * 2019-08-30 [южнокорейский ArtBloc продаст картины Дэвида Хокни через Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-artbloc-to-sell-david-hockney-paintings-via-blockchain-ca029753.md)
