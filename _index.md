@@ -1,3 +1,4 @@
+* 2019-08-30 [한국 아트블록, 블록체인을 통해 데이비드 호크니 그림 판매](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-artbloc-to-sell-david-hockney-paintings-via-blockchain-ca029753.md)
 * 2019-08-30 [재규어, 자동차 에너지 추적을 위한 컨셉 증명 데모에서 Iota 사용](https://github.com/theyapapa/cryptonews/blob/ko/jaguar-uses-iota-in-proof-of-concept-demo-for-tracing-car-energy-f384a066.md)
 * 2019-08-30 [비트 코인 가격 안정, 알트 코인은 신선한 이익 후 혼합 신호를 보내](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-stable-altcoins-send-mixed-signals-after-fresh-gains-32d602ce.md)
 * 2019-08-30 [슈퍼마켓 체인 미그로스는 블록 체인 기반 식품 추적 성을 구현합니다.](https://github.com/theyapapa/cryptonews/blob/ko/supermarket-chain-migros-implements-blockchain-based-food-traceability-0dbe67d5.md)
