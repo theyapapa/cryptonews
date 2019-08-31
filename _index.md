@@ -1,3 +1,4 @@
+* 2019-08-31 [Ex-ConsenSys Exec, 보안 토큰 프로젝트 황혼 네트워크 합류](https://github.com/theyapapa/cryptonews/blob/ko/ex-consensys-exec-joins-security-token-project-dusk-network-08c71351.md)
 * 2019-08-31 [PACs는 미국 정치에서 암호 화폐 기부를 대중화 할 수 있습니까?](https://github.com/theyapapa/cryptonews/blob/ko/can-pacs-popularize-cryptocurrency-donations-in-us-politics-fa9c95e6.md)
 * 2019-08-31 [가격 분석 31/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-31-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-ada-841c00f5.md)
 * 2019-08-31 [왜 아마존은 광고 부문에 대한 블록 체인 전문가를 고용할 까요?](https://github.com/theyapapa/cryptonews/blob/ko/why-does-amazon-want-to-hire-blockchain-experts-for-its-ads-division-f05b6cac.md)
