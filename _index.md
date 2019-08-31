@@ -1,3 +1,4 @@
+* 2019-08-31 [왜 아마존은 광고 부문에 대한 블록 체인 전문가를 고용할 까요?](https://github.com/theyapapa/cryptonews/blob/ko/why-does-amazon-want-to-hire-blockchain-experts-for-its-ads-division-f05b6cac.md)
 * 2019-08-31 [블록체인 확장성: 현재의 과제및 잠재적솔루션](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-scalability-current-challenges-and-potential-solutions-e76f52ed.md)
 * 2019-08-30 [콘티넨탈, 블록체인 기반 자동차 플랫폼용 데모 수익 앱 공개](https://github.com/theyapapa/cryptonews/blob/ko/continental-unveils-demo-earning-app-for-blockchain-based-car-platform-f58ada01.md)
 * 2019-08-30 [한국 아트블록, 블록체인을 통해 데이비드 호크니 그림 판매](https://github.com/theyapapa/cryptonews/blob/ko/south-korean-artbloc-to-sell-david-hockney-paintings-via-blockchain-ca029753.md)
