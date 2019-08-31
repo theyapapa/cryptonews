@@ -1,3 +1,4 @@
+* 2019-08-31 [¿Pueden los PAC popularizar las donaciones de criptomonedas en la política estadounidense?](https://github.com/theyapapa/cryptonews/blob/es/can-pacs-popularize-cryptocurrency-donations-in-us-politics-fa9c95e6.md)
 * 2019-08-31 [Análisis de Precios 31/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-31-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-ada-841c00f5.md)
 * 2019-08-31 [¿Por qué Amazon quiere contratar a expertos en blockchain para su división de anuncios?](https://github.com/theyapapa/cryptonews/blob/es/why-does-amazon-want-to-hire-blockchain-experts-for-its-ads-division-f05b6cac.md)
 * 2019-08-31 [Escalabilidad de la cadena de bloques: desafíos actuales y soluciones potenciales](https://github.com/theyapapa/cryptonews/blob/es/blockchain-scalability-current-challenges-and-potential-solutions-e76f52ed.md)
