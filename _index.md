@@ -1,3 +1,4 @@
+* 2019-08-30 [ArtBloc de Corea del Sur venderá pinturas de David Hockney a través de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-korean-artbloc-to-sell-david-hockney-paintings-via-blockchain-ca029753.md)
 * 2019-08-30 [Jaguar utiliza Iota en la demostración de prueba de concepto para rastrear la energía del coche](https://github.com/theyapapa/cryptonews/blob/es/jaguar-uses-iota-in-proof-of-concept-demo-for-tracing-car-energy-f384a066.md)
 * 2019-08-30 [Bitcoin precio estable, Altcoins enviar señales mixtas después de nuevas ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-stable-altcoins-send-mixed-signals-after-fresh-gains-32d602ce.md)
 * 2019-08-30 [Supermercado Cadena Migros Implementa Trazabilidad de Alimentos Basada en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/supermarket-chain-migros-implements-blockchain-based-food-traceability-0dbe67d5.md)
