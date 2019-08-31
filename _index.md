@@ -1,3 +1,4 @@
+* 2019-08-31 [¿Por qué Amazon quiere contratar a expertos en blockchain para su división de anuncios?](https://github.com/theyapapa/cryptonews/blob/es/why-does-amazon-want-to-hire-blockchain-experts-for-its-ads-division-f05b6cac.md)
 * 2019-08-31 [Escalabilidad de la cadena de bloques: desafíos actuales y soluciones potenciales](https://github.com/theyapapa/cryptonews/blob/es/blockchain-scalability-current-challenges-and-potential-solutions-e76f52ed.md)
 * 2019-08-30 [Continental presenta la aplicación De demostración para la plataforma de coches basada en Blockchain](https://github.com/theyapapa/cryptonews/blob/es/continental-unveils-demo-earning-app-for-blockchain-based-car-platform-f58ada01.md)
 * 2019-08-30 [ArtBloc de Corea del Sur venderá pinturas de David Hockney a través de Blockchain](https://github.com/theyapapa/cryptonews/blob/es/south-korean-artbloc-to-sell-david-hockney-paintings-via-blockchain-ca029753.md)
