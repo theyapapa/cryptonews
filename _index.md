@@ -1,3 +1,4 @@
+* 2019-08-31 [Анализ цен 31/08: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, ADA](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-31-08-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-ada-841c00f5.md)
 * 2019-08-31 [Почему Amazon хочет нанять экспертов по блокчейну для своего отдела объявлений?](https://github.com/theyapapa/cryptonews/blob/ru/why-does-amazon-want-to-hire-blockchain-experts-for-its-ads-division-f05b6cac.md)
 * 2019-08-31 [Масштабируемость блокчейна: текущие вызовы и потенциальные решения](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-scalability-current-challenges-and-potential-solutions-e76f52ed.md)
 * 2019-08-30 [Continental представляет Демо Заработок App для Blockchain-платформы автомобиля](https://github.com/theyapapa/cryptonews/blob/ru/continental-unveils-demo-earning-app-for-blockchain-based-car-platform-f58ada01.md)
