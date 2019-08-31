@@ -1,3 +1,4 @@
+* 2019-08-30 [южнокорейский ArtBloc продаст картины Дэвида Хокни через Блокчейн](https://github.com/theyapapa/cryptonews/blob/ru/south-korean-artbloc-to-sell-david-hockney-paintings-via-blockchain-ca029753.md)
 * 2019-08-30 [Jaguar использует Iota в Доказательство-оф-Концепции Демо для отслеживания энергии автомобилей](https://github.com/theyapapa/cryptonews/blob/ru/jaguar-uses-iota-in-proof-of-concept-demo-for-tracing-car-energy-f384a066.md)
 * 2019-08-30 [Биткоин Цена стабильна, Altcoins Отправить смешанные сигналы после свежих прибылей](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-stable-altcoins-send-mixed-signals-after-fresh-gains-32d602ce.md)
 * 2019-08-30 [Супермаркет Цепи Migros реализует Blockchain основе пищевой трассировки](https://github.com/theyapapa/cryptonews/blob/ru/supermarket-chain-migros-implements-blockchain-based-food-traceability-0dbe67d5.md)
