@@ -1,3 +1,4 @@
+* 2019-09-02 [Bitcoin Цена стреляет за $ 10K, как рынки задерживать дыхание для прорыва](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-shoots-for-10k-as-markets-hold-breath-for-breakout-a4f3921e.md)
 * 2019-08-31 [Кыргызстан предлагает законопроект о введении налогообложения криптотработы](https://github.com/theyapapa/cryptonews/blob/ru/kyrgyzstan-proposes-draft-law-to-introduce-crypto-mining-taxation-20fe3262.md)
 * 2019-08-31 [Ex-ConsenSys Exec присоединяется безопасности токен проекта Сумерки сети](https://github.com/theyapapa/cryptonews/blob/ru/ex-consensys-exec-joins-security-token-project-dusk-network-08c71351.md)
 * 2019-08-31 [Могут ли PACs популяризировать криптовалютные пожертвования в политике США?](https://github.com/theyapapa/cryptonews/blob/ru/can-pacs-popularize-cryptocurrency-donations-in-us-politics-fa9c95e6.md)
