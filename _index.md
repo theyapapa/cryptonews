@@ -1,3 +1,4 @@
+* 2019-09-02 [Co-fundador de Andreessen Horowitz: cripto una solución a los desafíos de la Web](https://github.com/theyapapa/cryptonews/blob/es/andreessen-horowitz-co-founder-crypto-a-solution-to-webs-challenges-e12eb63e.md)
 * 2019-09-02 [Binance lanza 2 plataformas de futuros para pruebas públicas](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-2-futures-platforms-for-public-testing-1fadc4e7.md)
 * 2019-09-02 [Craig Wright impugna la orden judicial que le exige pagar 500K Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/craig-wright-challenges-court-order-requiring-him-to-pay-500k-bitcoin-82a410da.md)
 * 2019-09-02 [El precio de Bitcoin dispara por $10K como mercados retienen la respiración para el descanso](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-shoots-for-10k-as-markets-hold-breath-for-breakout-a4f3921e.md)
