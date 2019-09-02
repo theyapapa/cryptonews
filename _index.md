@@ -1,3 +1,4 @@
+* 2019-09-02 [Индийский IT-гигант Технология Mahindra запустит blockchain Finance Management](https://github.com/theyapapa/cryptonews/blob/ru/indian-it-giant-tech-mahindra-to-launch-blockchain-finance-management-3d5f25d1.md)
 * 2019-09-02 [Анализ цен 02/09: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, XMR](https://github.com/theyapapa/cryptonews/blob/ru/price-analysis-02-09-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-xmr-6b33c40f.md)
 * 2019-09-02 [Конгресс США призвал регулировать криптосектор в соответствии с Законом о банковской тайне](https://github.com/theyapapa/cryptonews/blob/ru/us-congress-urged-to-regulate-crypto-sector-under-bank-secrecy-act-ddc117d1.md)
 * 2019-09-02 [После внезапного спада на прошлой неделе, Bitcoin ломает $ 10000 снова](https://github.com/theyapapa/cryptonews/blob/ru/after-slight-dip-earlier-this-week-bitcoin-breaks-10-000-again-3bd3b9dc.md)
