@@ -1,3 +1,4 @@
+* 2019-09-02 [가격 분석 02/09: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, XMR](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-02-09-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-xmr-6b33c40f.md)
 * 2019-09-02 [미국 의회는 은행 비밀 법에 따라 암호화 부문을 규제할 것을 촉구했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-congress-urged-to-regulate-crypto-sector-under-bank-secrecy-act-ddc117d1.md)
 * 2019-09-02 [지난 주 갑작스런 슬럼프 후, 비트 코인 휴식 $10,000 다시](https://github.com/theyapapa/cryptonews/blob/ko/after-slight-dip-earlier-this-week-bitcoin-breaks-10-000-again-3bd3b9dc.md)
 * 2019-09-02 [안드레센 호로비츠 공동 창립자: 암호화 웹의 과제에 대한 솔루션](https://github.com/theyapapa/cryptonews/blob/ko/andreessen-horowitz-co-founder-crypto-a-solution-to-webs-challenges-e12eb63e.md)
