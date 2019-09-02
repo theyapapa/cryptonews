@@ -1,3 +1,4 @@
+* 2019-09-02 [Congreso de EE.UU. Insta a regular el sector criptográfico bajo ley de secreto bancario](https://github.com/theyapapa/cryptonews/blob/es/us-congress-urged-to-regulate-crypto-sector-under-bank-secrecy-act-ddc117d1.md)
 * 2019-09-02 [Después de la caída repentina de la semana pasada, Bitcoin rompe $10,000 de nuevo](https://github.com/theyapapa/cryptonews/blob/es/after-slight-dip-earlier-this-week-bitcoin-breaks-10-000-again-3bd3b9dc.md)
 * 2019-09-02 [Co-fundador de Andreessen Horowitz: cripto una solución a los desafíos de la Web](https://github.com/theyapapa/cryptonews/blob/es/andreessen-horowitz-co-founder-crypto-a-solution-to-webs-challenges-e12eb63e.md)
 * 2019-09-02 [Binance lanza 2 plataformas de futuros para pruebas públicas](https://github.com/theyapapa/cryptonews/blob/es/binance-launches-2-futures-platforms-for-public-testing-1fadc4e7.md)
