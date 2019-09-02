@@ -1,3 +1,4 @@
+* 2019-09-02 [Andreessen Горовиц соучредитель: Crypto решение проблем ВАЗа](https://github.com/theyapapa/cryptonews/blob/ru/andreessen-horowitz-co-founder-crypto-a-solution-to-webs-challenges-e12eb63e.md)
 * 2019-09-02 [Binance запускает 2 фьючерсные платформы для публичного тестирования](https://github.com/theyapapa/cryptonews/blob/ru/binance-launches-2-futures-platforms-for-public-testing-1fadc4e7.md)
 * 2019-09-02 [Крейг Райт оспаривает постановление суда, требующее от него заплатить 500 K Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/craig-wright-challenges-court-order-requiring-him-to-pay-500k-bitcoin-82a410da.md)
 * 2019-09-02 [Bitcoin Цена стреляет за $ 10K, как рынки задерживать дыхание для прорыва](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-shoots-for-10k-as-markets-hold-breath-for-breakout-a4f3921e.md)
