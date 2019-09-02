@@ -1,3 +1,4 @@
+* 2019-09-02 [인도 IT 거대 기술 마하인드라, 블록체인 금융 관리 시작](https://github.com/theyapapa/cryptonews/blob/ko/indian-it-giant-tech-mahindra-to-launch-blockchain-finance-management-3d5f25d1.md)
 * 2019-09-02 [가격 분석 02/09: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, XMR](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-02-09-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-xmr-6b33c40f.md)
 * 2019-09-02 [미국 의회는 은행 비밀 법에 따라 암호화 부문을 규제할 것을 촉구했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-congress-urged-to-regulate-crypto-sector-under-bank-secrecy-act-ddc117d1.md)
 * 2019-09-02 [지난 주 갑작스런 슬럼프 후, 비트 코인 휴식 $10,000 다시](https://github.com/theyapapa/cryptonews/blob/ko/after-slight-dip-earlier-this-week-bitcoin-breaks-10-000-again-3bd3b9dc.md)
