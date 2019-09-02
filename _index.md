@@ -1,3 +1,4 @@
+* 2019-09-02 [안드레센 호로비츠 공동 창립자: 암호화 웹의 과제에 대한 솔루션](https://github.com/theyapapa/cryptonews/blob/ko/andreessen-horowitz-co-founder-crypto-a-solution-to-webs-challenges-e12eb63e.md)
 * 2019-09-02 [Binance, 공개 테스트를 위한 2개의 선물 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/binance-launches-2-futures-platforms-for-public-testing-1fadc4e7.md)
 * 2019-09-02 [크레이그 라이트는 500K 비트 코인을 지불하도록 요구하는 법원 명령에 도전](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-challenges-court-order-requiring-him-to-pay-500k-bitcoin-82a410da.md)
 * 2019-09-02 [비트 코인 가격에 대한 촬영 $10K 시장은 브레이크 아웃에 대한 숨을 개최로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-shoots-for-10k-as-markets-hold-breath-for-breakout-a4f3921e.md)
