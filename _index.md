@@ -1,3 +1,4 @@
+* 2019-09-02 [크레이그 라이트는 500K 비트 코인을 지불하도록 요구하는 법원 명령에 도전](https://github.com/theyapapa/cryptonews/blob/ko/craig-wright-challenges-court-order-requiring-him-to-pay-500k-bitcoin-82a410da.md)
 * 2019-09-02 [비트 코인 가격에 대한 촬영 $10K 시장은 브레이크 아웃에 대한 숨을 개최로](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-shoots-for-10k-as-markets-hold-breath-for-breakout-a4f3921e.md)
 * 2019-08-31 [키르기스스탄은 암호화 마이닝 과세를 도입하는 초안 법률을 제안](https://github.com/theyapapa/cryptonews/blob/ko/kyrgyzstan-proposes-draft-law-to-introduce-crypto-mining-taxation-20fe3262.md)
 * 2019-08-31 [Ex-ConsenSys Exec, 보안 토큰 프로젝트 황혼 네트워크 합류](https://github.com/theyapapa/cryptonews/blob/ko/ex-consensys-exec-joins-security-token-project-dusk-network-08c71351.md)
