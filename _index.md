@@ -1,3 +1,4 @@
+* 2019-09-03 [테더 멀스 상품 지원 안정코인은 은행 리스크를 줄이기 위해: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/tether-mulls-commodity-backed-stablecoin-to-cut-bank-risk-report-9a691ac6.md)
 * 2019-09-03 [Zcash 재단 ZEC 개발자 는 상표 약속을 파산 말한다](https://github.com/theyapapa/cryptonews/blob/ko/zcash-foundation-says-zec-developer-broke-trademark-promise-b35a22db.md)
 * 2019-09-02 [비트 코인 가격으로 녹색의 대부분의 암호 화폐안타 $10,400](https://github.com/theyapapa/cryptonews/blob/ko/most-cryptocurrencies-in-the-green-as-bitcoin-price-hits-10-400-ec2abc29.md)
 * 2019-09-02 [경찰은 그가 실수로 신원을 공개 한 후 $ 15K 암호화 도둑을 압수](https://github.com/theyapapa/cryptonews/blob/ko/police-seize-15k-crypto-thief-after-he-mistakenly-disclosed-identity-b076c09f.md)
