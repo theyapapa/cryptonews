@@ -1,3 +1,4 @@
+* 2019-09-03 [자산 관리 거인은 스텔라에 정부 자금 시장 펀드를 원한다](https://github.com/theyapapa/cryptonews/blob/ko/asset-management-giant-puts-government-money-market-fund-on-stellar-a49407b3.md)
 * 2019-09-03 [윙클보스의 쌍둥이 자리는 기관에 대한 하위 계정 기능을 소개합니다](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-gemini-introduces-sub-accounts-feature-for-institutions-5b2fc376.md)
 * 2019-09-03 [PwC 룩셈부르크 10 월부터 비트 코인을 받아들이기 시작 2019: 공식](https://github.com/theyapapa/cryptonews/blob/ko/pwc-luxembourg-to-start-accepting-bitcoin-from-october-2019-official-a52d8727.md)
 * 2019-09-03 [버거 킹하자 당신은 독일에서 당신의 방법을 지불하자 - 비트 코인으로](https://github.com/theyapapa/cryptonews/blob/ko/burger-king-lets-you-pay-your-way-in-germany-with-bitcoin-b766f75a.md)
