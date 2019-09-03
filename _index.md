@@ -1,3 +1,4 @@
+* 2019-09-03 [Близнецы Winklevoss вводят функцию подсчетов для учреждений](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-gemini-introduces-sub-accounts-feature-for-institutions-5b2fc376.md)
 * 2019-09-03 [PwC Люксембург начнет принимать биткоин с октября 2019 года: официальный](https://github.com/theyapapa/cryptonews/blob/ru/pwc-luxembourg-to-start-accepting-bitcoin-from-october-2019-official-a52d8727.md)
 * 2019-09-03 [Burger King Давайте заплатим свой путь в Германии - с Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/burger-king-lets-you-pay-your-way-in-germany-with-bitcoin-b766f75a.md)
 * 2019-09-03 [Samsung Файлы патент на "Программируемый Blockchain твердотельный привод государства"](https://github.com/theyapapa/cryptonews/blob/ru/samsung-files-patent-for-programmable-blockchain-solid-state-drive-546d86a0.md)
