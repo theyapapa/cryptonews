@@ -1,3 +1,4 @@
+* 2019-09-03 [Bitcoin Precio Ahora Ojos $11K como Datos Históricos Métrica voltea alcista](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-now-eyes-11k-as-historical-data-metric-flips-bullish-69df8fca.md)
 * 2019-09-03 [Tether Mulls Commodity-Backed Stablecoin para reducir el riesgo bancario: Informe](https://github.com/theyapapa/cryptonews/blob/es/tether-mulls-commodity-backed-stablecoin-to-cut-bank-risk-report-9a691ac6.md)
 * 2019-09-03 [Zcash Foundation dice que el desarrollador de ZEC rompió la promesa de marcas comerciales](https://github.com/theyapapa/cryptonews/blob/es/zcash-foundation-says-zec-developer-broke-trademark-promise-b35a22db.md)
 * 2019-09-02 [La mayoría de las criptomonedas en el verde como Bitcoin precio alcanza $10,400](https://github.com/theyapapa/cryptonews/blob/es/most-cryptocurrencies-in-the-green-as-bitcoin-price-hits-10-400-ec2abc29.md)
