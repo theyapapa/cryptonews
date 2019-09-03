@@ -1,3 +1,4 @@
+* 2019-09-02 [경찰은 그가 실수로 신원을 공개 한 후 $ 15K 암호화 도둑을 압수](https://github.com/theyapapa/cryptonews/blob/ko/police-seize-15k-crypto-thief-after-he-mistakenly-disclosed-identity-b076c09f.md)
 * 2019-09-02 [인도 IT 거대 기술 마하인드라, 블록체인 금융 관리 시작](https://github.com/theyapapa/cryptonews/blob/ko/indian-it-giant-tech-mahindra-to-launch-blockchain-finance-management-3d5f25d1.md)
 * 2019-09-02 [가격 분석 02/09: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, XMR](https://github.com/theyapapa/cryptonews/blob/ko/price-analysis-02-09-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-xmr-6b33c40f.md)
 * 2019-09-02 [미국 의회는 은행 비밀 법에 따라 암호화 부문을 규제할 것을 촉구했습니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-congress-urged-to-regulate-crypto-sector-under-bank-secrecy-act-ddc117d1.md)
