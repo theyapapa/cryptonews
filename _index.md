@@ -1,3 +1,4 @@
+* 2019-09-03 [Gigante de Gestión de Activos quiere El Fondo del Mercado monetario del Gobierno en Stellar](https://github.com/theyapapa/cryptonews/blob/es/asset-management-giant-puts-government-money-market-fund-on-stellar-a49407b3.md)
 * 2019-09-03 [Géminis de Winklevoss presenta la función de subcuentas para las instituciones](https://github.com/theyapapa/cryptonews/blob/es/winklevoss-gemini-introduces-sub-accounts-feature-for-institutions-5b2fc376.md)
 * 2019-09-03 [PwC Luxembourg comenzará a aceptar Bitcoin a partir de octubre de 2019: Oficial](https://github.com/theyapapa/cryptonews/blob/es/pwc-luxembourg-to-start-accepting-bitcoin-from-october-2019-official-a52d8727.md)
 * 2019-09-03 [Burger King Le permite pagar su camino en Alemania - Con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/burger-king-lets-you-pay-your-way-in-germany-with-bitcoin-b766f75a.md)
