@@ -1,3 +1,4 @@
+* 2019-09-03 [Zcash Foundation dice que el desarrollador de ZEC rompió la promesa de marcas comerciales](https://github.com/theyapapa/cryptonews/blob/es/zcash-foundation-says-zec-developer-broke-trademark-promise-b35a22db.md)
 * 2019-09-02 [La mayoría de las criptomonedas en el verde como Bitcoin precio alcanza $10,400](https://github.com/theyapapa/cryptonews/blob/es/most-cryptocurrencies-in-the-green-as-bitcoin-price-hits-10-400-ec2abc29.md)
 * 2019-09-02 [La policía se apodera de $15K Crypto Ladrón después de que reveló por error la identidad](https://github.com/theyapapa/cryptonews/blob/es/police-seize-15k-crypto-thief-after-he-mistakenly-disclosed-identity-b076c09f.md)
 * 2019-09-02 [Indian IT Giant Tech Mahindra lanzará Blockchain Finance Management](https://github.com/theyapapa/cryptonews/blob/es/indian-it-giant-tech-mahindra-to-launch-blockchain-finance-management-3d5f25d1.md)
