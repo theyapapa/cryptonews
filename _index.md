@@ -1,3 +1,4 @@
+* 2019-09-03 [PwC Luxembourg comenzará a aceptar Bitcoin a partir de octubre de 2019: Oficial](https://github.com/theyapapa/cryptonews/blob/es/pwc-luxembourg-to-start-accepting-bitcoin-from-october-2019-official-a52d8727.md)
 * 2019-09-03 [Burger King Le permite pagar su camino en Alemania - Con Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/burger-king-lets-you-pay-your-way-in-germany-with-bitcoin-b766f75a.md)
 * 2019-09-03 [Patente de archivos Samsung para 'Unidad de estado sólido de cadena de bloques programable'](https://github.com/theyapapa/cryptonews/blob/es/samsung-files-patent-for-programmable-blockchain-solid-state-drive-546d86a0.md)
 * 2019-09-03 [Bitcoin Precio Ahora Ojos $11K como Datos Históricos Métrica voltea alcista](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-now-eyes-11k-as-historical-data-metric-flips-bullish-69df8fca.md)
