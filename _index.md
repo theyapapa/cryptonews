@@ -1,3 +1,4 @@
+* 2019-09-03 [Ripple нанимает помощника Конгресса в качестве менеджера по связям с правительством](https://github.com/theyapapa/cryptonews/blob/ru/ripple-hires-congressional-assistant-as-government-relations-manager-a07fb6eb.md)
 * 2019-09-03 [Управление активами Гигант хочет правительство денежный рынок фонда на звездных](https://github.com/theyapapa/cryptonews/blob/ru/asset-management-giant-puts-government-money-market-fund-on-stellar-a49407b3.md)
 * 2019-09-03 [Близнецы Winklevoss вводят функцию подсчетов для учреждений](https://github.com/theyapapa/cryptonews/blob/ru/winklevoss-gemini-introduces-sub-accounts-feature-for-institutions-5b2fc376.md)
 * 2019-09-03 [PwC Люксембург начнет принимать биткоин с октября 2019 года: официальный](https://github.com/theyapapa/cryptonews/blob/ru/pwc-luxembourg-to-start-accepting-bitcoin-from-october-2019-official-a52d8727.md)
