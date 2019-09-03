@@ -1,3 +1,4 @@
+* 2019-09-03 [Tether Mulls Сырьевые-Backed Stablecoin сократить банковский риск: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/tether-mulls-commodity-backed-stablecoin-to-cut-bank-risk-report-9a691ac6.md)
 * 2019-09-03 [Фонд «Кэш» говорит, что разработчик ЗЭК нарушил обещание товарного знака](https://github.com/theyapapa/cryptonews/blob/ru/zcash-foundation-says-zec-developer-broke-trademark-promise-b35a22db.md)
 * 2019-09-02 [Большинство криптовалют в зеленом, как Bitcoin Цена хитов $ 10400](https://github.com/theyapapa/cryptonews/blob/ru/most-cryptocurrencies-in-the-green-as-bitcoin-price-hits-10-400-ec2abc29.md)
 * 2019-09-02 [Полиция изымать $15K Crypto Thief после того, как он ошибочно раскрыл личность](https://github.com/theyapapa/cryptonews/blob/ru/police-seize-15k-crypto-thief-after-he-mistakenly-disclosed-identity-b076c09f.md)
