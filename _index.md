@@ -1,3 +1,4 @@
+* 2019-09-03 [Bitcoin Цена Теперь Глаза $ 11K как исторические данные метрики Flips бычий](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-now-eyes-11k-as-historical-data-metric-flips-bullish-69df8fca.md)
 * 2019-09-03 [Tether Mulls Сырьевые-Backed Stablecoin сократить банковский риск: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/tether-mulls-commodity-backed-stablecoin-to-cut-bank-risk-report-9a691ac6.md)
 * 2019-09-03 [Фонд «Кэш» говорит, что разработчик ЗЭК нарушил обещание товарного знака](https://github.com/theyapapa/cryptonews/blob/ru/zcash-foundation-says-zec-developer-broke-trademark-promise-b35a22db.md)
 * 2019-09-02 [Большинство криптовалют в зеленом, как Bitcoin Цена хитов $ 10400](https://github.com/theyapapa/cryptonews/blob/ru/most-cryptocurrencies-in-the-green-as-bitcoin-price-hits-10-400-ec2abc29.md)
