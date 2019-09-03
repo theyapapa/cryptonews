@@ -1,3 +1,4 @@
+* 2019-09-02 [La policía se apodera de $15K Crypto Ladrón después de que reveló por error la identidad](https://github.com/theyapapa/cryptonews/blob/es/police-seize-15k-crypto-thief-after-he-mistakenly-disclosed-identity-b076c09f.md)
 * 2019-09-02 [Indian IT Giant Tech Mahindra lanzará Blockchain Finance Management](https://github.com/theyapapa/cryptonews/blob/es/indian-it-giant-tech-mahindra-to-launch-blockchain-finance-management-3d5f25d1.md)
 * 2019-09-02 [Análisis de precios 02/09: BTC, ETH, XRP, BCH, LTC, BNB, EOS, BSV, XLM, XMR](https://github.com/theyapapa/cryptonews/blob/es/price-analysis-02-09-btc-eth-xrp-bch-ltc-bnb-eos-bsv-xlm-xmr-6b33c40f.md)
 * 2019-09-02 [Congreso de EE.UU. Insta a regular el sector criptográfico bajo ley de secreto bancario](https://github.com/theyapapa/cryptonews/blob/es/us-congress-urged-to-regulate-crypto-sector-under-bank-secrecy-act-ddc117d1.md)
