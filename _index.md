@@ -1,3 +1,4 @@
+* 2019-09-03 [Burger King Давайте заплатим свой путь в Германии - с Bitcoin](https://github.com/theyapapa/cryptonews/blob/ru/burger-king-lets-you-pay-your-way-in-germany-with-bitcoin-b766f75a.md)
 * 2019-09-03 [Samsung Файлы патент на "Программируемый Blockchain твердотельный привод государства"](https://github.com/theyapapa/cryptonews/blob/ru/samsung-files-patent-for-programmable-blockchain-solid-state-drive-546d86a0.md)
 * 2019-09-03 [Bitcoin Цена Теперь Глаза $ 11K как исторические данные метрики Flips бычий](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-now-eyes-11k-as-historical-data-metric-flips-bullish-69df8fca.md)
 * 2019-09-03 [Tether Mulls Сырьевые-Backed Stablecoin сократить банковский риск: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/tether-mulls-commodity-backed-stablecoin-to-cut-bank-risk-report-9a691ac6.md)
