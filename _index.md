@@ -1,3 +1,4 @@
+* 2019-09-03 [삼성 파일 특허 '프로그래밍 가능한 블록 체인 솔리드 스테이트 드라이브'](https://github.com/theyapapa/cryptonews/blob/ko/samsung-files-patent-for-programmable-blockchain-solid-state-drive-546d86a0.md)
 * 2019-09-03 [비트 코인 가격은 지금 눈 $11K 역사적인 데이터 메트릭으로 강세를 뒤집는다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-now-eyes-11k-as-historical-data-metric-flips-bullish-69df8fca.md)
 * 2019-09-03 [테더 멀스 상품 지원 안정코인은 은행 리스크를 줄이기 위해: 보고서](https://github.com/theyapapa/cryptonews/blob/ko/tether-mulls-commodity-backed-stablecoin-to-cut-bank-risk-report-9a691ac6.md)
 * 2019-09-03 [Zcash 재단 ZEC 개발자 는 상표 약속을 파산 말한다](https://github.com/theyapapa/cryptonews/blob/ko/zcash-foundation-says-zec-developer-broke-trademark-promise-b35a22db.md)
