@@ -1,3 +1,4 @@
+* 2019-09-04 [15 Arrestado en China por supuestamente sobornar Internet Cafe a Mine Crypto](https://github.com/theyapapa/cryptonews/blob/es/15-arrested-in-china-for-allegedly-bribing-internet-cafe-to-mine-crypto-bc5d36bb.md)
 * 2019-09-04 [Precio Bitcoin ahora en 'Fase Temprana' del Próximo Ciclo de Toros, dicen los analistas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-now-in-early-phase-of-the-next-bull-cycle-analysts-say-309526a7.md)
 * 2019-09-04 [Blockchain.com Wallet Buscando Nueva Ronda de Financiamiento de $50M: Informe](https://github.com/theyapapa/cryptonews/blob/es/blockchaincom-wallet-seeking-new-50m-funding-round-report-a60180f4.md)
 * 2019-09-03 [Elíptica recauda $23 millones en ronda de financiación dirigida por SBI Holdings](https://github.com/theyapapa/cryptonews/blob/es/elliptic-raises-23-million-in-funding-round-led-by-sbi-holdings-bd598bd5.md)
