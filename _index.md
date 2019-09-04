@@ -1,3 +1,4 @@
+* 2019-09-04 [Gemini contrata al ex ejecutivo de Morgan Stanley como nuevo director de cumplimiento](https://github.com/theyapapa/cryptonews/blob/es/gemini-hires-former-morgan-stanley-exec-as-new-chief-compliance-officer-3445c2f2.md)
 * 2019-09-04 [Christine Lagarde, Jefa del FMI, alienta la regulación abierta de criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/imf-chief-christine-lagarde-encourages-open-cryptocurrency-regulation-e1dbe66b.md)
 * 2019-09-04 [15 Arrestado en China por supuestamente sobornar Internet Cafe a Mine Crypto](https://github.com/theyapapa/cryptonews/blob/es/15-arrested-in-china-for-allegedly-bribing-internet-cafe-to-mine-crypto-bc5d36bb.md)
 * 2019-09-04 [Precio Bitcoin ahora en 'Fase Temprana' del Próximo Ciclo de Toros, dicen los analistas](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-now-in-early-phase-of-the-next-bull-cycle-analysts-say-309526a7.md)
