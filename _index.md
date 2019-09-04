@@ -1,3 +1,4 @@
+* 2019-09-04 [IMF 수석 크리스틴 라가르드, 개방형 암호화폐 규제 장려](https://github.com/theyapapa/cryptonews/blob/ko/imf-chief-christine-lagarde-encourages-open-cryptocurrency-regulation-e1dbe66b.md)
 * 2019-09-04 [15 광산 암호에 인터넷 카페를 뇌물 혐의로 중국에서 체포](https://github.com/theyapapa/cryptonews/blob/ko/15-arrested-in-china-for-allegedly-bribing-internet-cafe-to-mine-crypto-bc5d36bb.md)
 * 2019-09-04 [비트 코인 가격은 다음 황소 주기의 '초기 단계'에 지금, 분석가들은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-now-in-early-phase-of-the-next-bull-cycle-analysts-say-309526a7.md)
 * 2019-09-04 [새로운 $ 50M 자금 조달 라운드를 찾는 Blockchain.com 지갑 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/blockchaincom-wallet-seeking-new-50m-funding-round-report-a60180f4.md)
