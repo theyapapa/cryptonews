@@ -1,3 +1,4 @@
+* 2019-09-04 [제미니, 전 모건 스탠리 임원을 새로운 최고 규정 준수 책임자로 고용](https://github.com/theyapapa/cryptonews/blob/ko/gemini-hires-former-morgan-stanley-exec-as-new-chief-compliance-officer-3445c2f2.md)
 * 2019-09-04 [IMF 수석 크리스틴 라가르드, 개방형 암호화폐 규제 장려](https://github.com/theyapapa/cryptonews/blob/ko/imf-chief-christine-lagarde-encourages-open-cryptocurrency-regulation-e1dbe66b.md)
 * 2019-09-04 [15 광산 암호에 인터넷 카페를 뇌물 혐의로 중국에서 체포](https://github.com/theyapapa/cryptonews/blob/ko/15-arrested-in-china-for-allegedly-bribing-internet-cafe-to-mine-crypto-bc5d36bb.md)
 * 2019-09-04 [비트 코인 가격은 다음 황소 주기의 '초기 단계'에 지금, 분석가들은 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-now-in-early-phase-of-the-next-bull-cycle-analysts-say-309526a7.md)
