@@ -1,3 +1,4 @@
+* 2019-09-04 [Square, генеральный директор Twitter Джек Дорси: Bitcoin 'не функционирует как валюта'](https://github.com/theyapapa/cryptonews/blob/ru/square-ceo-jack-dorsey-says-bitcoin-is-not-functional-as-currency-yet-001fe1c7.md)
 * 2019-09-04 [Немецкие политики хотят бороться с изменением климата с Blockchain Tech](https://github.com/theyapapa/cryptonews/blob/ru/german-politicians-want-to-fight-climate-change-with-blockchain-tech-c682179c.md)
 * 2019-09-04 [Mastercard присоединяется Blockchain программного обеспечения фирмы R3 Марко Поло сети](https://github.com/theyapapa/cryptonews/blob/ru/mastercard-joins-blockchain-software-firm-r3s-marco-polo-network-3a54cbe3.md)
 * 2019-09-04 [Близнецы нанимает бывшего Morgan Stanley Exec в качестве нового главного сотрудника по соблюдению](https://github.com/theyapapa/cryptonews/blob/ru/gemini-hires-former-morgan-stanley-exec-as-new-chief-compliance-officer-3445c2f2.md)
