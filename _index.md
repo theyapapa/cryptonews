@@ -1,3 +1,4 @@
+* 2019-09-04 [광장, 트위터 CEO 잭 도르시: 비트 코인 '통화로 작동하지 않음'](https://github.com/theyapapa/cryptonews/blob/ko/square-ceo-jack-dorsey-says-bitcoin-is-not-functional-as-currency-yet-001fe1c7.md)
 * 2019-09-04 [독일 정치인들은 블록체인 기술로 기후 변화에 맞서고 싶어합니다.](https://github.com/theyapapa/cryptonews/blob/ko/german-politicians-want-to-fight-climate-change-with-blockchain-tech-c682179c.md)
 * 2019-09-04 [마스터 카드는 블록 체인 소프트웨어 회사 R3의 마르코 폴로 네트워크에 합류](https://github.com/theyapapa/cryptonews/blob/ko/mastercard-joins-blockchain-software-firm-r3s-marco-polo-network-3a54cbe3.md)
 * 2019-09-04 [제미니, 전 모건 스탠리 임원을 새로운 최고 규정 준수 책임자로 고용](https://github.com/theyapapa/cryptonews/blob/ko/gemini-hires-former-morgan-stanley-exec-as-new-chief-compliance-officer-3445c2f2.md)
