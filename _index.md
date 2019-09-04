@@ -1,3 +1,4 @@
+* 2019-09-04 [Los políticos alemanes quieren luchar contra el cambio climático con blockchain Tech](https://github.com/theyapapa/cryptonews/blob/es/german-politicians-want-to-fight-climate-change-with-blockchain-tech-c682179c.md)
 * 2019-09-04 [Mastercard se une a La red Marco Polo de la firma de software DeS3](https://github.com/theyapapa/cryptonews/blob/es/mastercard-joins-blockchain-software-firm-r3s-marco-polo-network-3a54cbe3.md)
 * 2019-09-04 [Gemini contrata al ex ejecutivo de Morgan Stanley como nuevo director de cumplimiento](https://github.com/theyapapa/cryptonews/blob/es/gemini-hires-former-morgan-stanley-exec-as-new-chief-compliance-officer-3445c2f2.md)
 * 2019-09-04 [Christine Lagarde, Jefa del FMI, alienta la regulación abierta de criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/imf-chief-christine-lagarde-encourages-open-cryptocurrency-regulation-e1dbe66b.md)
