@@ -1,3 +1,4 @@
+* 2019-09-04 [Blockchain.com Кошелек Ищет новые $ 50M Финансирование Раунд: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/blockchaincom-wallet-seeking-new-50m-funding-round-report-a60180f4.md)
 * 2019-09-03 [Elliptic поднимает $ 23 млн в раунде финансирования под руководством SBI Holdings](https://github.com/theyapapa/cryptonews/blob/ru/elliptic-raises-23-million-in-funding-round-led-by-sbi-holdings-bd598bd5.md)
 * 2019-09-03 [OKCoin обещает до 1000 BTC разработчикам BTC, BCH и BSV](https://github.com/theyapapa/cryptonews/blob/ru/okcoin-pledges-up-to-1-000-btc-to-developers-of-btc-bch-and-bsv-aeef2d6b.md)
 * 2019-09-03 [Ripple нанимает помощника Конгресса в качестве менеджера по связям с правительством](https://github.com/theyapapa/cryptonews/blob/ru/ripple-hires-congressional-assistant-as-government-relations-manager-a07fb6eb.md)
