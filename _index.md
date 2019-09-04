@@ -1,3 +1,4 @@
+* 2019-09-04 [Mastercard se une a La red Marco Polo de la firma de software DeS3](https://github.com/theyapapa/cryptonews/blob/es/mastercard-joins-blockchain-software-firm-r3s-marco-polo-network-3a54cbe3.md)
 * 2019-09-04 [Gemini contrata al ex ejecutivo de Morgan Stanley como nuevo director de cumplimiento](https://github.com/theyapapa/cryptonews/blob/es/gemini-hires-former-morgan-stanley-exec-as-new-chief-compliance-officer-3445c2f2.md)
 * 2019-09-04 [Christine Lagarde, Jefa del FMI, alienta la regulación abierta de criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/imf-chief-christine-lagarde-encourages-open-cryptocurrency-regulation-e1dbe66b.md)
 * 2019-09-04 [15 Arrestado en China por supuestamente sobornar Internet Cafe a Mine Crypto](https://github.com/theyapapa/cryptonews/blob/es/15-arrested-in-china-for-allegedly-bribing-internet-cafe-to-mine-crypto-bc5d36bb.md)
