@@ -1,3 +1,4 @@
+* 2019-09-03 [Elíptica recauda $23 millones en ronda de financiación dirigida por SBI Holdings](https://github.com/theyapapa/cryptonews/blob/es/elliptic-raises-23-million-in-funding-round-led-by-sbi-holdings-bd598bd5.md)
 * 2019-09-03 [OKCoin promete hasta 1.000 BTC a los desarrolladores de BTC, BCH y BSV](https://github.com/theyapapa/cryptonews/blob/es/okcoin-pledges-up-to-1-000-btc-to-developers-of-btc-bch-and-bsv-aeef2d6b.md)
 * 2019-09-03 [Ripple Contrata al Asistente del Congreso como Gerente de Relaciones Gubernamentales](https://github.com/theyapapa/cryptonews/blob/es/ripple-hires-congressional-assistant-as-government-relations-manager-a07fb6eb.md)
 * 2019-09-03 [Gigante de Gestión de Activos quiere El Fondo del Mercado monetario del Gobierno en Stellar](https://github.com/theyapapa/cryptonews/blob/es/asset-management-giant-puts-government-money-market-fund-on-stellar-a49407b3.md)
