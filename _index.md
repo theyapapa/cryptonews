@@ -1,3 +1,4 @@
+* 2019-09-03 [OKCoin은 BTC, BCH 및 BSV의 개발자에게 최대 1,000 BTC를 약속합니다.](https://github.com/theyapapa/cryptonews/blob/ko/okcoin-pledges-up-to-1-000-btc-to-developers-of-btc-bch-and-bsv-aeef2d6b.md)
 * 2019-09-03 [리플, 의회 보좌관을 정부 관계 관리자로 고용](https://github.com/theyapapa/cryptonews/blob/ko/ripple-hires-congressional-assistant-as-government-relations-manager-a07fb6eb.md)
 * 2019-09-03 [자산 관리 거인은 스텔라에 정부 자금 시장 펀드를 원한다](https://github.com/theyapapa/cryptonews/blob/ko/asset-management-giant-puts-government-money-market-fund-on-stellar-a49407b3.md)
 * 2019-09-03 [윙클보스의 쌍둥이 자리는 기관에 대한 하위 계정 기능을 소개합니다](https://github.com/theyapapa/cryptonews/blob/ko/winklevoss-gemini-introduces-sub-accounts-feature-for-institutions-5b2fc376.md)
