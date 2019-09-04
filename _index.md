@@ -1,3 +1,4 @@
+* 2019-09-04 [Глава МВФ Кристин Лагард призвала к открытому регулированию криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/imf-chief-christine-lagarde-encourages-open-cryptocurrency-regulation-e1dbe66b.md)
 * 2019-09-04 [15 Арестован в Китае за якобы подкуп интернет-кафе для мины Crypto](https://github.com/theyapapa/cryptonews/blob/ru/15-arrested-in-china-for-allegedly-bribing-internet-cafe-to-mine-crypto-bc5d36bb.md)
 * 2019-09-04 [Биткоин Цена сейчас в "ранней фазе" следующего цикла быка, говорят аналитики](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-now-in-early-phase-of-the-next-bull-cycle-analysts-say-309526a7.md)
 * 2019-09-04 [Blockchain.com Кошелек Ищет новые $ 50M Финансирование Раунд: Доклад](https://github.com/theyapapa/cryptonews/blob/ru/blockchaincom-wallet-seeking-new-50m-funding-round-report-a60180f4.md)
