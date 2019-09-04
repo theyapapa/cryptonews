@@ -1,3 +1,4 @@
+* 2019-09-04 [Mastercard присоединяется Blockchain программного обеспечения фирмы R3 Марко Поло сети](https://github.com/theyapapa/cryptonews/blob/ru/mastercard-joins-blockchain-software-firm-r3s-marco-polo-network-3a54cbe3.md)
 * 2019-09-04 [Близнецы нанимает бывшего Morgan Stanley Exec в качестве нового главного сотрудника по соблюдению](https://github.com/theyapapa/cryptonews/blob/ru/gemini-hires-former-morgan-stanley-exec-as-new-chief-compliance-officer-3445c2f2.md)
 * 2019-09-04 [Глава МВФ Кристин Лагард призвала к открытому регулированию криптовалют](https://github.com/theyapapa/cryptonews/blob/ru/imf-chief-christine-lagarde-encourages-open-cryptocurrency-regulation-e1dbe66b.md)
 * 2019-09-04 [15 Арестован в Китае за якобы подкуп интернет-кафе для мины Crypto](https://github.com/theyapapa/cryptonews/blob/ru/15-arrested-in-china-for-allegedly-bribing-internet-cafe-to-mine-crypto-bc5d36bb.md)
