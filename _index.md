@@ -1,3 +1,4 @@
+* 2019-09-03 [타원, SBI 홀딩스가 이끄는 자금 조달 라운드에서 2,300만 달러 모금](https://github.com/theyapapa/cryptonews/blob/ko/elliptic-raises-23-million-in-funding-round-led-by-sbi-holdings-bd598bd5.md)
 * 2019-09-03 [OKCoin은 BTC, BCH 및 BSV의 개발자에게 최대 1,000 BTC를 약속합니다.](https://github.com/theyapapa/cryptonews/blob/ko/okcoin-pledges-up-to-1-000-btc-to-developers-of-btc-bch-and-bsv-aeef2d6b.md)
 * 2019-09-03 [리플, 의회 보좌관을 정부 관계 관리자로 고용](https://github.com/theyapapa/cryptonews/blob/ko/ripple-hires-congressional-assistant-as-government-relations-manager-a07fb6eb.md)
 * 2019-09-03 [자산 관리 거인은 스텔라에 정부 자금 시장 펀드를 원한다](https://github.com/theyapapa/cryptonews/blob/ko/asset-management-giant-puts-government-money-market-fund-on-stellar-a49407b3.md)
