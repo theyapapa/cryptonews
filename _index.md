@@ -1,3 +1,4 @@
+* 2019-09-05 [Binance 연구소리드 $5.7M 시리즈 FIO 프로토콜을 시작 하는 라운드](https://github.com/theyapapa/cryptonews/blob/ko/binance-labs-leads-57m-series-a-round-to-launch-fio-protocol-015967ed.md)
 * 2019-09-05 [비트 코인 가격에서 거부 $10.8K 로 암호 시장 중괄호 Bakkt](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-rejected-at-108k-as-crypto-market-braces-for-bakkt-c2c90a8a.md)
 * 2019-09-05 [SEC의 오버 스톡의 ICO 프로브 '휴면' 늦은 이후 2018, CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/secs-overstocks-ico-probe-dormant-since-late-2018-ceo-says-5ba60520.md)
 * 2019-09-05 [타이어 ' 암호 화폐 마법사' Nabbed에 주장 된 역할에 대 한 $16M 하 중](https://github.com/theyapapa/cryptonews/blob/ko/thai-cryptocurrency-wizard-nabbed-for-alleged-role-in-16m-heist-065f7ca1.md)
