@@ -1,3 +1,4 @@
+* 2019-09-05 [Sonda ICO de Overstock de SEC 'Dormant' Desde finales de 2018, CEO dice](https://github.com/theyapapa/cryptonews/blob/es/secs-overstocks-ico-probe-dormant-since-late-2018-ceo-says-5ba60520.md)
 * 2019-09-05 [Thai 'Cryptocurrency Wizard' Nabbed for Alleged Role in $16M Heist](https://github.com/theyapapa/cryptonews/blob/es/thai-cryptocurrency-wizard-nabbed-for-alleged-role-in-16m-heist-065f7ca1.md)
 * 2019-09-04 [Altcoins están tomando una paliza mientras que el precio Bitcoin tiene alrededor de $10,500](https://github.com/theyapapa/cryptonews/blob/es/altcoins-are-taking-a-beating-while-bitcoin-price-holds-around-10-500-57f1cfd4.md)
 * 2019-09-04 [Bitcoin precio estable en comparación con libra esterlina durante la debacle del Brexit](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-stable-compared-to-pound-sterling-during-brexit-debacle-7b297e59.md)
