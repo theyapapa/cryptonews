@@ -1,3 +1,4 @@
+* 2019-09-04 [Altcoins принимают избиение в то время как цена Bitcoin держит около $ 10500](https://github.com/theyapapa/cryptonews/blob/ru/altcoins-are-taking-a-beating-while-bitcoin-price-holds-around-10-500-57f1cfd4.md)
 * 2019-09-04 [Цена биткоина стабильна по сравнению с фунтом стерлингов во время фиаско Brexit](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-stable-compared-to-pound-sterling-during-brexit-debacle-7b297e59.md)
 * 2019-09-04 [Square, генеральный директор Twitter Джек Дорси: Bitcoin 'не функционирует как валюта'](https://github.com/theyapapa/cryptonews/blob/ru/square-ceo-jack-dorsey-says-bitcoin-is-not-functional-as-currency-yet-001fe1c7.md)
 * 2019-09-04 [Немецкие политики хотят бороться с изменением климата с Blockchain Tech](https://github.com/theyapapa/cryptonews/blob/ru/german-politicians-want-to-fight-climate-change-with-blockchain-tech-c682179c.md)
