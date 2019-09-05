@@ -1,3 +1,4 @@
+* 2019-09-05 [Precio Bitcoin rechazado en $10.8K como Crypto Market Braces para Bakkt](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-rejected-at-108k-as-crypto-market-braces-for-bakkt-c2c90a8a.md)
 * 2019-09-05 [Sonda ICO de Overstock de SEC 'Dormant' Desde finales de 2018, CEO dice](https://github.com/theyapapa/cryptonews/blob/es/secs-overstocks-ico-probe-dormant-since-late-2018-ceo-says-5ba60520.md)
 * 2019-09-05 [Thai 'Cryptocurrency Wizard' Nabbed for Alleged Role in $16M Heist](https://github.com/theyapapa/cryptonews/blob/es/thai-cryptocurrency-wizard-nabbed-for-alleged-role-in-16m-heist-065f7ca1.md)
 * 2019-09-04 [Altcoins están tomando una paliza mientras que el precio Bitcoin tiene alrededor de $10,500](https://github.com/theyapapa/cryptonews/blob/es/altcoins-are-taking-a-beating-while-bitcoin-price-holds-around-10-500-57f1cfd4.md)
