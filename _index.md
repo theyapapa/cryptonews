@@ -1,3 +1,4 @@
+* 2019-09-05 [Paxos lanza PAX Gold, regulado y canjeable por oro físico](https://github.com/theyapapa/cryptonews/blob/es/paxos-launches-pax-gold-regulated-and-redeemable-for-physical-gold-6d326d86.md)
 * 2019-09-05 [Ethereum en una encrucijada: por qué $180 ETH es ahora crítico para los toros](https://github.com/theyapapa/cryptonews/blob/es/ethereum-at-a-crossroads-why-180-eth-is-now-critical-for-the-bulls-7d93203f.md)
 * 2019-09-05 [Binance Labs lleva $5.7M Series A Round para lanzar el protocolo FIO](https://github.com/theyapapa/cryptonews/blob/es/binance-labs-leads-57m-series-a-round-to-launch-fio-protocol-015967ed.md)
 * 2019-09-05 [Precio Bitcoin rechazado en $10.8K como Crypto Market Braces para Bakkt](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-rejected-at-108k-as-crypto-market-braces-for-bakkt-c2c90a8a.md)
