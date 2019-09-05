@@ -1,3 +1,4 @@
+* 2019-09-05 [OKCoin в Fiat-to-Token Торговля теперь доступна в 7 больше штатов США](https://github.com/theyapapa/cryptonews/blob/ru/okcoins-fiat-to-token-trading-now-available-in-7-more-us-states-44afa146.md)
 * 2019-09-05 [Стартап тестирует новый Ethereum Sidechain после инвестиций Coinbase](https://github.com/theyapapa/cryptonews/blob/ru/startup-tests-new-ethereum-sidechain-following-coinbase-investment-6cb096be.md)
 * 2019-09-05 [Цена bitcoin корректирует пока золото видит самое плохое ежедневное падение в 2.5 летах](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-corrects-while-gold-sees-worst-daily-drop-in-25-years-fedc0a58.md)
 * 2019-09-05 [Vanbex Labs продает два продукта Hyperion на фоне расследования мошенничества](https://github.com/theyapapa/cryptonews/blob/ru/vanbex-labs-sells-two-products-to-hyperion-amid-fraud-investigation-1b75af2c.md)
