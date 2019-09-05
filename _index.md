@@ -1,3 +1,4 @@
+* 2019-09-05 [SEC의 오버 스톡의 ICO 프로브 '휴면' 늦은 이후 2018, CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/secs-overstocks-ico-probe-dormant-since-late-2018-ceo-says-5ba60520.md)
 * 2019-09-05 [타이어 ' 암호 화폐 마법사' Nabbed에 주장 된 역할에 대 한 $16M 하 중](https://github.com/theyapapa/cryptonews/blob/ko/thai-cryptocurrency-wizard-nabbed-for-alleged-role-in-16m-heist-065f7ca1.md)
 * 2019-09-04 [비트 코인 가격이 주위에 보유하는 동안 Altcoins는 구타를 복용 $10,500](https://github.com/theyapapa/cryptonews/blob/ko/altcoins-are-taking-a-beating-while-bitcoin-price-holds-around-10-500-57f1cfd4.md)
 * 2019-09-04 [브렉시트 사태 동안 파운드 스털링에 비해 비트 코인 가격 안정](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-stable-compared-to-pound-sterling-during-brexit-debacle-7b297e59.md)
