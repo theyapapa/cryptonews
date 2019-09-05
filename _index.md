@@ -1,3 +1,4 @@
+* 2019-09-04 [비트 코인 가격이 주위에 보유하는 동안 Altcoins는 구타를 복용 $10,500](https://github.com/theyapapa/cryptonews/blob/ko/altcoins-are-taking-a-beating-while-bitcoin-price-holds-around-10-500-57f1cfd4.md)
 * 2019-09-04 [브렉시트 사태 동안 파운드 스털링에 비해 비트 코인 가격 안정](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-stable-compared-to-pound-sterling-during-brexit-debacle-7b297e59.md)
 * 2019-09-04 [광장, 트위터 CEO 잭 도르시: 비트 코인 '통화로 작동하지 않음'](https://github.com/theyapapa/cryptonews/blob/ko/square-ceo-jack-dorsey-says-bitcoin-is-not-functional-as-currency-yet-001fe1c7.md)
 * 2019-09-04 [독일 정치인들은 블록체인 기술로 기후 변화에 맞서고 싶어합니다.](https://github.com/theyapapa/cryptonews/blob/ko/german-politicians-want-to-fight-climate-change-with-blockchain-tech-c682179c.md)
