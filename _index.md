@@ -1,3 +1,4 @@
+* 2019-09-05 [Startup Prueba nuevo Etereum Sidechain después de la inversión Coinbase](https://github.com/theyapapa/cryptonews/blob/es/startup-tests-new-ethereum-sidechain-following-coinbase-investment-6cb096be.md)
 * 2019-09-05 [El precio de Bitcoin corrige mientras que el oro ve la peor caída diaria en 2.5 años](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-corrects-while-gold-sees-worst-daily-drop-in-25-years-fedc0a58.md)
 * 2019-09-05 [Vanbex Labs vende dos productos a Hyperion en medio de la investigación de fraude](https://github.com/theyapapa/cryptonews/blob/es/vanbex-labs-sells-two-products-to-hyperion-amid-fraud-investigation-1b75af2c.md)
 * 2019-09-05 [Paxos lanza PAX Gold, regulado y canjeable por oro físico](https://github.com/theyapapa/cryptonews/blob/es/paxos-launches-pax-gold-regulated-and-redeemable-for-physical-gold-6d326d86.md)
