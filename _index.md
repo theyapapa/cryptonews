@@ -1,3 +1,4 @@
+* 2019-09-04 [Цена биткоина стабильна по сравнению с фунтом стерлингов во время фиаско Brexit](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-stable-compared-to-pound-sterling-during-brexit-debacle-7b297e59.md)
 * 2019-09-04 [Square, генеральный директор Twitter Джек Дорси: Bitcoin 'не функционирует как валюта'](https://github.com/theyapapa/cryptonews/blob/ru/square-ceo-jack-dorsey-says-bitcoin-is-not-functional-as-currency-yet-001fe1c7.md)
 * 2019-09-04 [Немецкие политики хотят бороться с изменением климата с Blockchain Tech](https://github.com/theyapapa/cryptonews/blob/ru/german-politicians-want-to-fight-climate-change-with-blockchain-tech-c682179c.md)
 * 2019-09-04 [Mastercard присоединяется Blockchain программного обеспечения фирмы R3 Марко Поло сети](https://github.com/theyapapa/cryptonews/blob/ru/mastercard-joins-blockchain-software-firm-r3s-marco-polo-network-3a54cbe3.md)
