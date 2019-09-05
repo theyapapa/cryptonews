@@ -1,3 +1,4 @@
+* 2019-09-05 [교차로에서 이더리움: 왜 $180 ETH는 황소에 대 한 지금 중요 한](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-at-a-crossroads-why-180-eth-is-now-critical-for-the-bulls-7d93203f.md)
 * 2019-09-05 [Binance 연구소리드 $5.7M 시리즈 FIO 프로토콜을 시작 하는 라운드](https://github.com/theyapapa/cryptonews/blob/ko/binance-labs-leads-57m-series-a-round-to-launch-fio-protocol-015967ed.md)
 * 2019-09-05 [비트 코인 가격에서 거부 $10.8K 로 암호 시장 중괄호 Bakkt](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-rejected-at-108k-as-crypto-market-braces-for-bakkt-c2c90a8a.md)
 * 2019-09-05 [SEC의 오버 스톡의 ICO 프로브 '휴면' 늦은 이후 2018, CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/secs-overstocks-ico-probe-dormant-since-late-2018-ceo-says-5ba60520.md)
