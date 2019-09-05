@@ -1,3 +1,4 @@
+* 2019-09-04 [Bitcoin precio estable en comparación con libra esterlina durante la debacle del Brexit](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-stable-compared-to-pound-sterling-during-brexit-debacle-7b297e59.md)
 * 2019-09-04 [Square, el CEO de Twitter Jack Dorsey: Bitcoin 'No funcional como moneda'](https://github.com/theyapapa/cryptonews/blob/es/square-ceo-jack-dorsey-says-bitcoin-is-not-functional-as-currency-yet-001fe1c7.md)
 * 2019-09-04 [Los políticos alemanes quieren luchar contra el cambio climático con blockchain Tech](https://github.com/theyapapa/cryptonews/blob/es/german-politicians-want-to-fight-climate-change-with-blockchain-tech-c682179c.md)
 * 2019-09-04 [Mastercard se une a La red Marco Polo de la firma de software DeS3](https://github.com/theyapapa/cryptonews/blob/es/mastercard-joins-blockchain-software-firm-r3s-marco-polo-network-3a54cbe3.md)
