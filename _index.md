@@ -1,3 +1,4 @@
+* 2019-09-05 [코인베이스 투자에 이어 새로운 이더리움 사이드체인을 테스트하는 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/startup-tests-new-ethereum-sidechain-following-coinbase-investment-6cb096be.md)
 * 2019-09-05 [비트 코인 가격은 골드에서 최악의 매일 하락을 보고하는 동안 수정 2.5 년](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-corrects-while-gold-sees-worst-daily-drop-in-25-years-fedc0a58.md)
 * 2019-09-05 [Vanbex 연구소는 사기 조사 중 하이페리온에 두 개의 제품을 판매](https://github.com/theyapapa/cryptonews/blob/ko/vanbex-labs-sells-two-products-to-hyperion-amid-fraud-investigation-1b75af2c.md)
 * 2019-09-05 [Paxos, PAX 골드, 피지컬 골드용 으로 규제 및 교환 가능 출시](https://github.com/theyapapa/cryptonews/blob/ko/paxos-launches-pax-gold-regulated-and-redeemable-for-physical-gold-6d326d86.md)
