@@ -1,3 +1,4 @@
+* 2019-09-05 [Цена bitcoin корректирует пока золото видит самое плохое ежедневное падение в 2.5 летах](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-corrects-while-gold-sees-worst-daily-drop-in-25-years-fedc0a58.md)
 * 2019-09-05 [Vanbex Labs продает два продукта Hyperion на фоне расследования мошенничества](https://github.com/theyapapa/cryptonews/blob/ru/vanbex-labs-sells-two-products-to-hyperion-amid-fraud-investigation-1b75af2c.md)
 * 2019-09-05 [Paxos запускает PAX Золото, регулируемые и выкупаемые для физического золота](https://github.com/theyapapa/cryptonews/blob/ru/paxos-launches-pax-gold-regulated-and-redeemable-for-physical-gold-6d326d86.md)
 * 2019-09-05 [Ethereum на перекрестке: Почему $ 180 ETH в настоящее время имеет решающее значение для быков](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-at-a-crossroads-why-180-eth-is-now-critical-for-the-bulls-7d93203f.md)
