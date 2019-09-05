@@ -1,3 +1,4 @@
+* 2019-09-05 [Binance Labs ведет $ 5,7 M серии Раунд для запуска протокола FIO](https://github.com/theyapapa/cryptonews/blob/ru/binance-labs-leads-57m-series-a-round-to-launch-fio-protocol-015967ed.md)
 * 2019-09-05 [Цена Bitcoin отклонена на $10.8K как скобки крипторынка для Bakkt](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-rejected-at-108k-as-crypto-market-braces-for-bakkt-c2c90a8a.md)
 * 2019-09-05 [SEC в ICO зонд 'Дорант' С конца 2018 года, генеральный директор говорит](https://github.com/theyapapa/cryptonews/blob/ru/secs-overstocks-ico-probe-dormant-since-late-2018-ceo-says-5ba60520.md)
 * 2019-09-05 [Тайский 'Криптовалюта Волшебник' Nabbed для предполагаемой роли в $ 16M Heist](https://github.com/theyapapa/cryptonews/blob/ru/thai-cryptocurrency-wizard-nabbed-for-alleged-role-in-16m-heist-065f7ca1.md)
