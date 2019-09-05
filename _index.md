@@ -1,3 +1,4 @@
+* 2019-09-05 [Тайский 'Криптовалюта Волшебник' Nabbed для предполагаемой роли в $ 16M Heist](https://github.com/theyapapa/cryptonews/blob/ru/thai-cryptocurrency-wizard-nabbed-for-alleged-role-in-16m-heist-065f7ca1.md)
 * 2019-09-04 [Altcoins принимают избиение в то время как цена Bitcoin держит около $ 10500](https://github.com/theyapapa/cryptonews/blob/ru/altcoins-are-taking-a-beating-while-bitcoin-price-holds-around-10-500-57f1cfd4.md)
 * 2019-09-04 [Цена биткоина стабильна по сравнению с фунтом стерлингов во время фиаско Brexit](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-stable-compared-to-pound-sterling-during-brexit-debacle-7b297e59.md)
 * 2019-09-04 [Square, генеральный директор Twitter Джек Дорси: Bitcoin 'не функционирует как валюта'](https://github.com/theyapapa/cryptonews/blob/ru/square-ceo-jack-dorsey-says-bitcoin-is-not-functional-as-currency-yet-001fe1c7.md)
