@@ -1,3 +1,4 @@
+* 2019-09-05 [Ethereum на перекрестке: Почему $ 180 ETH в настоящее время имеет решающее значение для быков](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-at-a-crossroads-why-180-eth-is-now-critical-for-the-bulls-7d93203f.md)
 * 2019-09-05 [Binance Labs ведет $ 5,7 M серии Раунд для запуска протокола FIO](https://github.com/theyapapa/cryptonews/blob/ru/binance-labs-leads-57m-series-a-round-to-launch-fio-protocol-015967ed.md)
 * 2019-09-05 [Цена Bitcoin отклонена на $10.8K как скобки крипторынка для Bakkt](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-rejected-at-108k-as-crypto-market-braces-for-bakkt-c2c90a8a.md)
 * 2019-09-05 [SEC в ICO зонд 'Дорант' С конца 2018 года, генеральный директор говорит](https://github.com/theyapapa/cryptonews/blob/ru/secs-overstocks-ico-probe-dormant-since-late-2018-ceo-says-5ba60520.md)
