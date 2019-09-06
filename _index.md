@@ -1,3 +1,4 @@
+* 2019-09-05 [Четыре из пяти лучших генераторов кода Bitcoin - это мошенничество: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/four-out-of-five-top-bitcoin-qr-code-generators-are-scams-report-9d67f1c9.md)
 * 2019-09-05 [США Dep. энергии гранты $ 200000 Blockchain компании для безопасной сети](https://github.com/theyapapa/cryptonews/blob/ru/us-dep-of-energy-grants-200-000-to-blockchain-company-to-secure-grid-f01befda.md)
 * 2019-09-05 [OKCoin в Fiat-to-Token Торговля теперь доступна в 7 больше штатов США](https://github.com/theyapapa/cryptonews/blob/ru/okcoins-fiat-to-token-trading-now-available-in-7-more-us-states-44afa146.md)
 * 2019-09-05 [Стартап тестирует новый Ethereum Sidechain после инвестиций Coinbase](https://github.com/theyapapa/cryptonews/blob/ru/startup-tests-new-ethereum-sidechain-following-coinbase-investment-6cb096be.md)
