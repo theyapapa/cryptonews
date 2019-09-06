@@ -1,3 +1,4 @@
+* 2019-09-05 [U.S. Dep. of Energy Grants $200,000 a Blockchain Company to Secure Grid](https://github.com/theyapapa/cryptonews/blob/es/us-dep-of-energy-grants-200-000-to-blockchain-company-to-secure-grid-f01befda.md)
 * 2019-09-05 [El trading Fiat-to-Token de OKCoin ya está disponible en 7 Estados Unidos más](https://github.com/theyapapa/cryptonews/blob/es/okcoins-fiat-to-token-trading-now-available-in-7-more-us-states-44afa146.md)
 * 2019-09-05 [Startup Prueba nuevo Etereum Sidechain después de la inversión Coinbase](https://github.com/theyapapa/cryptonews/blob/es/startup-tests-new-ethereum-sidechain-following-coinbase-investment-6cb096be.md)
 * 2019-09-05 [El precio de Bitcoin corrige mientras que el oro ve la peor caída diaria en 2.5 años](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-corrects-while-gold-sees-worst-daily-drop-in-25-years-fedc0a58.md)
