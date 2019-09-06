@@ -1,3 +1,4 @@
+* 2019-09-05 [5 최고 비트 코인 QR 코드 생성기 중 네 사기입니다 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/four-out-of-five-top-bitcoin-qr-code-generators-are-scams-report-9d67f1c9.md)
 * 2019-09-05 [미국 에너지 보조금 $200,000 을 블록체인 회사에 그리드 확보](https://github.com/theyapapa/cryptonews/blob/ko/us-dep-of-energy-grants-200-000-to-blockchain-company-to-secure-grid-f01befda.md)
 * 2019-09-05 [OKCoin의 피아트 - 투 - 토큰 거래는 이제 7 더 많은 미국 주에서 사용할 수](https://github.com/theyapapa/cryptonews/blob/ko/okcoins-fiat-to-token-trading-now-available-in-7-more-us-states-44afa146.md)
 * 2019-09-05 [코인베이스 투자에 이어 새로운 이더리움 사이드체인을 테스트하는 스타트업](https://github.com/theyapapa/cryptonews/blob/ko/startup-tests-new-ethereum-sidechain-following-coinbase-investment-6cb096be.md)
