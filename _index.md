@@ -1,3 +1,4 @@
+* 2019-09-06 [몰타 금융 규제 당국은 적극적으로 암호 화폐 회사를 모니터링 할 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/maltese-financial-regulator-will-actively-monitor-cryptocurrency-firms-09ea656e.md)
 * 2019-09-06 [터키 타카스뱅크, 금 거래를 위한 블록체인 플랫폼 발표](https://github.com/theyapapa/cryptonews/blob/ko/turkish-takasbank-announces-blockchain-platform-for-gold-trading-9f81176d.md)
 * 2019-09-06 [TZERO CEO, 투자자들에게 서한 을 발행, 패트릭 바인의 사임에 주소](https://github.com/theyapapa/cryptonews/blob/ko/tzero-ceo-issues-letter-to-investors-addresses-patrick-byrnes-resignation-7c29065e.md)
 * 2019-09-06 [Bakkt 창고, 계획대로 예금 및 인출 출시](https://github.com/theyapapa/cryptonews/blob/ko/bakkt-warehouse-launches-deposits-and-withdrawals-as-planned-4bed0758.md)
