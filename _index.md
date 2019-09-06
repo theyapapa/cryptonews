@@ -1,3 +1,4 @@
+* 2019-09-06 [Early Tester encuentra ambas plataformas de futuros binance 'Actualmente inutilizables'](https://github.com/theyapapa/cryptonews/blob/es/early-tester-finds-both-binance-futures-platform-currently-unusable-84240f8c.md)
 * 2019-09-06 [Japón concede licencia de intercambio criptográfico a la línea gigante de mensajería](https://github.com/theyapapa/cryptonews/blob/es/japan-grants-crypto-exchange-license-to-messaging-giant-line-dc4c57c8.md)
 * 2019-09-06 [Misterio detrás de un pico repentino en búsquedas 'BTC' vinculadas al huracán Dorian](https://github.com/theyapapa/cryptonews/blob/es/mystery-behind-sudden-spike-in-btc-searches-tied-to-hurricane-dorian-33a9c025.md)
 * 2019-09-05 [Cuatro de cada cinco principales generadores de código QR Bitcoin son estafas: Informe](https://github.com/theyapapa/cryptonews/blob/es/four-out-of-five-top-bitcoin-qr-code-generators-are-scams-report-9d67f1c9.md)
