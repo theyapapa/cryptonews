@@ -1,3 +1,4 @@
+* 2019-09-06 [Regulador financiero maltés supervisará activamente a las empresas de criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/maltese-financial-regulator-will-actively-monitor-cryptocurrency-firms-09ea656e.md)
 * 2019-09-06 [Takasbank turco anuncia plataforma Blockchain para el comercio de oro](https://github.com/theyapapa/cryptonews/blob/es/turkish-takasbank-announces-blockchain-platform-for-gold-trading-9f81176d.md)
 * 2019-09-06 [El CEO de TZERO emite una carta a los inversores, aborda la renuncia de Patrick Byrne](https://github.com/theyapapa/cryptonews/blob/es/tzero-ceo-issues-letter-to-investors-addresses-patrick-byrnes-resignation-7c29065e.md)
 * 2019-09-06 [Bakkt Warehouse lanza depósitos y retiros según lo planeado](https://github.com/theyapapa/cryptonews/blob/es/bakkt-warehouse-launches-deposits-and-withdrawals-as-planned-4bed0758.md)
