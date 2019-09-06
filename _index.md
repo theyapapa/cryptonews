@@ -1,3 +1,4 @@
+* 2019-09-06 [TZERO CEO, 투자자들에게 서한 을 발행, 패트릭 바인의 사임에 주소](https://github.com/theyapapa/cryptonews/blob/ko/tzero-ceo-issues-letter-to-investors-addresses-patrick-byrnes-resignation-7c29065e.md)
 * 2019-09-06 [Bakkt 창고, 계획대로 예금 및 인출 출시](https://github.com/theyapapa/cryptonews/blob/ko/bakkt-warehouse-launches-deposits-and-withdrawals-as-planned-4bed0758.md)
 * 2019-09-06 [JP모건, '시스템 그리드락' 위험에 처한 라이브라와 같은 안정된 코인경고](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-warns-stablecoins-like-libra-at-risk-of-system-gridlock-18f25c36.md)
 * 2019-09-06 [초기 테스터는 두 바이너스 선물 플랫폼을 모두 찾습니다 '현재 사용할 수 없습니다'](https://github.com/theyapapa/cryptonews/blob/ko/early-tester-finds-both-binance-futures-platform-currently-unusable-84240f8c.md)
