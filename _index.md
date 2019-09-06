@@ -1,3 +1,4 @@
+* 2019-09-06 [Склад Bakkt запускает депозиты и выводы средств, как планировалось](https://github.com/theyapapa/cryptonews/blob/ru/bakkt-warehouse-launches-deposits-and-withdrawals-as-planned-4bed0758.md)
 * 2019-09-06 [JPMorgan предупреждает стабильные монеты, как Весы на риск 'Системный Gridlock'](https://github.com/theyapapa/cryptonews/blob/ru/jpmorgan-warns-stablecoins-like-libra-at-risk-of-system-gridlock-18f25c36.md)
 * 2019-09-06 [Ранний тестер находит обе платформы Binance Futures 'В настоящее время непригодныдля для уплаты)](https://github.com/theyapapa/cryptonews/blob/ru/early-tester-finds-both-binance-futures-platform-currently-unusable-84240f8c.md)
 * 2019-09-06 [Япония предоставляет Crypto Exchange Лицензия на сообщения Гигантские LINE](https://github.com/theyapapa/cryptonews/blob/ru/japan-grants-crypto-exchange-license-to-messaging-giant-line-dc4c57c8.md)
