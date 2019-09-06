@@ -1,3 +1,4 @@
+* 2019-09-06 [터키 타카스뱅크, 금 거래를 위한 블록체인 플랫폼 발표](https://github.com/theyapapa/cryptonews/blob/ko/turkish-takasbank-announces-blockchain-platform-for-gold-trading-9f81176d.md)
 * 2019-09-06 [TZERO CEO, 투자자들에게 서한 을 발행, 패트릭 바인의 사임에 주소](https://github.com/theyapapa/cryptonews/blob/ko/tzero-ceo-issues-letter-to-investors-addresses-patrick-byrnes-resignation-7c29065e.md)
 * 2019-09-06 [Bakkt 창고, 계획대로 예금 및 인출 출시](https://github.com/theyapapa/cryptonews/blob/ko/bakkt-warehouse-launches-deposits-and-withdrawals-as-planned-4bed0758.md)
 * 2019-09-06 [JP모건, '시스템 그리드락' 위험에 처한 라이브라와 같은 안정된 코인경고](https://github.com/theyapapa/cryptonews/blob/ko/jpmorgan-warns-stablecoins-like-libra-at-risk-of-system-gridlock-18f25c36.md)
