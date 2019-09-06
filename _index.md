@@ -1,3 +1,4 @@
+* 2019-09-06 [El CEO de TZERO emite una carta a los inversores, aborda la renuncia de Patrick Byrne](https://github.com/theyapapa/cryptonews/blob/es/tzero-ceo-issues-letter-to-investors-addresses-patrick-byrnes-resignation-7c29065e.md)
 * 2019-09-06 [Bakkt Warehouse lanza depósitos y retiros según lo planeado](https://github.com/theyapapa/cryptonews/blob/es/bakkt-warehouse-launches-deposits-and-withdrawals-as-planned-4bed0758.md)
 * 2019-09-06 [JPMorgan advierte a Stablecoins como Libra en riesgo de 'System Gridlock'](https://github.com/theyapapa/cryptonews/blob/es/jpmorgan-warns-stablecoins-like-libra-at-risk-of-system-gridlock-18f25c36.md)
 * 2019-09-06 [Early Tester encuentra ambas plataformas de futuros binance 'Actualmente inutilizables'](https://github.com/theyapapa/cryptonews/blob/es/early-tester-finds-both-binance-futures-platform-currently-unusable-84240f8c.md)
