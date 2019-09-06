@@ -1,3 +1,4 @@
+* 2019-09-06 [Япония предоставляет Crypto Exchange Лицензия на сообщения Гигантские LINE](https://github.com/theyapapa/cryptonews/blob/ru/japan-grants-crypto-exchange-license-to-messaging-giant-line-dc4c57c8.md)
 * 2019-09-06 [Тайна за внезапный Спайк в 'BTC' Поиски связаны с ураганом Дориан](https://github.com/theyapapa/cryptonews/blob/ru/mystery-behind-sudden-spike-in-btc-searches-tied-to-hurricane-dorian-33a9c025.md)
 * 2019-09-05 [Четыре из пяти лучших генераторов кода Bitcoin - это мошенничество: Отчет](https://github.com/theyapapa/cryptonews/blob/ru/four-out-of-five-top-bitcoin-qr-code-generators-are-scams-report-9d67f1c9.md)
 * 2019-09-05 [США Dep. энергии гранты $ 200000 Blockchain компании для безопасной сети](https://github.com/theyapapa/cryptonews/blob/ru/us-dep-of-energy-grants-200-000-to-blockchain-company-to-secure-grid-f01befda.md)
