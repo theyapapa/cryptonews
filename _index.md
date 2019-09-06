@@ -1,3 +1,4 @@
+* 2019-09-06 [초기 테스터는 두 바이너스 선물 플랫폼을 모두 찾습니다 '현재 사용할 수 없습니다'](https://github.com/theyapapa/cryptonews/blob/ko/early-tester-finds-both-binance-futures-platform-currently-unusable-84240f8c.md)
 * 2019-09-06 [일본, 메시징 자이언트 LINE에 암호화 교환 라이센스 부여](https://github.com/theyapapa/cryptonews/blob/ko/japan-grants-crypto-exchange-license-to-messaging-giant-line-dc4c57c8.md)
 * 2019-09-06 [허리케인 도리안에 묶여 'BTC'검색에서 갑자기 스파이크 뒤에 미스터리](https://github.com/theyapapa/cryptonews/blob/ko/mystery-behind-sudden-spike-in-btc-searches-tied-to-hurricane-dorian-33a9c025.md)
 * 2019-09-05 [5 최고 비트 코인 QR 코드 생성기 중 네 사기입니다 : 보고서](https://github.com/theyapapa/cryptonews/blob/ko/four-out-of-five-top-bitcoin-qr-code-generators-are-scams-report-9d67f1c9.md)
