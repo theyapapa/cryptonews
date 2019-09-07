@@ -1,3 +1,4 @@
+* 2019-09-07 [Цена Bitcoin около $10,500, как эфир и другие Altcoins сделать прибыль](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-near-10-500-as-ether-and-other-altcoins-make-gains-65bb5b1d.md)
 * 2019-09-07 [Crypto Новости из немецкоязычного мира: 2-8 сентября в обзоре](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-the-german-speaking-world-sept-28-in-review-cbc9578b.md)
 * 2019-09-07 [Casa добавляет поддержку iOS и Android для мобильного кошелька Sats](https://github.com/theyapapa/cryptonews/blob/ru/casa-adds-ios-and-android-support-for-sats-mobile-wallet-148d6f14.md)
 * 2019-09-07 [Леджер Live Теперь поддерживает более 1250 Ethereum основе ERC-20 токенов](https://github.com/theyapapa/cryptonews/blob/ru/ledger-live-now-supports-over-1-250-ethereum-based-erc-20-tokens-a42463d3.md)
