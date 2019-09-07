@@ -1,3 +1,4 @@
+* 2019-09-06 [Биткойн не может сломать $11,000 Снова, падает $400 в один час](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
 * 2019-09-06 [Блокчейн-стартап DappRadar привлек $2,33 млн от Naspers, Blockchain.com](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-startup-dappradar-raises-233m-from-naspers-blockchaincom-61809750.md)
 * 2019-09-06 [Мальтийский финансовый регулятор будет активно следить за криптовалютными фирмами](https://github.com/theyapapa/cryptonews/blob/ru/maltese-financial-regulator-will-actively-monitor-cryptocurrency-firms-09ea656e.md)
 * 2019-09-06 [Турецкий Takasbank анонсировал блокчейн-платформу для торговли золотом](https://github.com/theyapapa/cryptonews/blob/ru/turkish-takasbank-announces-blockchain-platform-for-gold-trading-9f81176d.md)
