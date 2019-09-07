@@ -1,3 +1,4 @@
+* 2019-09-07 [Casa добавляет поддержку iOS и Android для мобильного кошелька Sats](https://github.com/theyapapa/cryptonews/blob/ru/casa-adds-ios-and-android-support-for-sats-mobile-wallet-148d6f14.md)
 * 2019-09-07 [Леджер Live Теперь поддерживает более 1250 Ethereum основе ERC-20 токенов](https://github.com/theyapapa/cryptonews/blob/ru/ledger-live-now-supports-over-1-250-ethereum-based-erc-20-tokens-a42463d3.md)
 * 2019-09-06 [Президент Национального банка Швейцарии заявил, что стабильные монеты могут препятствовать политике](https://github.com/theyapapa/cryptonews/blob/ru/swiss-national-bank-president-says-stablecoins-could-hamper-policy-ec509433.md)
 * 2019-09-06 [Биткойн не может сломать $11,000 Снова, падает $400 в один час](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
