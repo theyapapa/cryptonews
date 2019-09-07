@@ -1,3 +1,4 @@
+* 2019-09-07 [카사 는 토 모바일 지갑에 대 한 iOS와 안 드 로이드 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/casa-adds-ios-and-android-support-for-sats-mobile-wallet-148d6f14.md)
 * 2019-09-07 [원장 라이브 는 이제 1,250 개 이상의 이더리움 기반 ERC-20 토큰을 지원합니다](https://github.com/theyapapa/cryptonews/blob/ko/ledger-live-now-supports-over-1-250-ethereum-based-erc-20-tokens-a42463d3.md)
 * 2019-09-06 [스위스 국립 은행 총재는 안정된 동전이 정책을 방해 할 수 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-national-bank-president-says-stablecoins-could-hamper-policy-ec509433.md)
 * 2019-09-06 [비트 코인은 휴식하는 데 실패 $11,000 다시, 드롭 $400 한 시간에](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
