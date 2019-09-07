@@ -1,3 +1,4 @@
+* 2019-09-07 [원장 라이브 는 이제 1,250 개 이상의 이더리움 기반 ERC-20 토큰을 지원합니다](https://github.com/theyapapa/cryptonews/blob/ko/ledger-live-now-supports-over-1-250-ethereum-based-erc-20-tokens-a42463d3.md)
 * 2019-09-06 [스위스 국립 은행 총재는 안정된 동전이 정책을 방해 할 수 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-national-bank-president-says-stablecoins-could-hamper-policy-ec509433.md)
 * 2019-09-06 [비트 코인은 휴식하는 데 실패 $11,000 다시, 드롭 $400 한 시간에](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
 * 2019-09-06 [블록 체인 스타트업 DappRadar는 Blockchain.com 나퍼스에서 $ 2.33M을 모금합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-dappradar-raises-233m-from-naspers-blockchaincom-61809750.md)
