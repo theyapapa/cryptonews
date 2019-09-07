@@ -1,3 +1,4 @@
+* 2019-09-07 [Ledger Live ahora soporta más de 1,250 tokens ERC-20 basados en Ethereum](https://github.com/theyapapa/cryptonews/blob/es/ledger-live-now-supports-over-1-250-ethereum-based-erc-20-tokens-a42463d3.md)
 * 2019-09-06 [Presidente del Banco Nacional Suizo dice que Stablecoins podría obstaculizar la política](https://github.com/theyapapa/cryptonews/blob/es/swiss-national-bank-president-says-stablecoins-could-hamper-policy-ec509433.md)
 * 2019-09-06 [Bitcoin no rompe $11,000 otra vez, cae $400 en una hora](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
 * 2019-09-06 [Blockchain Startup DappRadar recauda $2.33 Millones de Naspers, Blockchain.com](https://github.com/theyapapa/cryptonews/blob/es/blockchain-startup-dappradar-raises-233m-from-naspers-blockchaincom-61809750.md)
