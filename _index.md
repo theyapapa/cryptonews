@@ -1,3 +1,4 @@
+* 2019-09-06 [스위스 국립 은행 총재는 안정된 동전이 정책을 방해 할 수 있다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/swiss-national-bank-president-says-stablecoins-could-hamper-policy-ec509433.md)
 * 2019-09-06 [비트 코인은 휴식하는 데 실패 $11,000 다시, 드롭 $400 한 시간에](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
 * 2019-09-06 [블록 체인 스타트업 DappRadar는 Blockchain.com 나퍼스에서 $ 2.33M을 모금합니다.](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-startup-dappradar-raises-233m-from-naspers-blockchaincom-61809750.md)
 * 2019-09-06 [몰타 금융 규제 당국은 적극적으로 암호 화폐 회사를 모니터링 할 것입니다](https://github.com/theyapapa/cryptonews/blob/ko/maltese-financial-regulator-will-actively-monitor-cryptocurrency-firms-09ea656e.md)
