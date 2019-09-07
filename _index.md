@@ -1,3 +1,4 @@
+* 2019-09-07 [비트 코인 가격 근처 $10,500 에테르와 다른 알트 코인으로 이익을 확인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-near-10-500-as-ether-and-other-altcoins-make-gains-65bb5b1d.md)
 * 2019-09-07 [독일어권 세계에서 암호화 뉴스: Sept. 2-8 검토](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-the-german-speaking-world-sept-28-in-review-cbc9578b.md)
 * 2019-09-07 [카사 는 토 모바일 지갑에 대 한 iOS와 안 드 로이드 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/casa-adds-ios-and-android-support-for-sats-mobile-wallet-148d6f14.md)
 * 2019-09-07 [원장 라이브 는 이제 1,250 개 이상의 이더리움 기반 ERC-20 토큰을 지원합니다](https://github.com/theyapapa/cryptonews/blob/ko/ledger-live-now-supports-over-1-250-ethereum-based-erc-20-tokens-a42463d3.md)
