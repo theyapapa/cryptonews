@@ -1,3 +1,4 @@
+* 2019-09-07 [Casa Añade soporte para iOS y Android para Sats Mobile Wallet](https://github.com/theyapapa/cryptonews/blob/es/casa-adds-ios-and-android-support-for-sats-mobile-wallet-148d6f14.md)
 * 2019-09-07 [Ledger Live ahora soporta más de 1,250 tokens ERC-20 basados en Ethereum](https://github.com/theyapapa/cryptonews/blob/es/ledger-live-now-supports-over-1-250-ethereum-based-erc-20-tokens-a42463d3.md)
 * 2019-09-06 [Presidente del Banco Nacional Suizo dice que Stablecoins podría obstaculizar la política](https://github.com/theyapapa/cryptonews/blob/es/swiss-national-bank-president-says-stablecoins-could-hamper-policy-ec509433.md)
 * 2019-09-06 [Bitcoin no rompe $11,000 otra vez, cae $400 en una hora](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
