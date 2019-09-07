@@ -1,3 +1,4 @@
+* 2019-09-06 [Bitcoin no rompe $11,000 otra vez, cae $400 en una hora](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-fails-to-break-11-000-again-drops-400-in-one-hour-2b053496.md)
 * 2019-09-06 [Blockchain Startup DappRadar recauda $2.33 Millones de Naspers, Blockchain.com](https://github.com/theyapapa/cryptonews/blob/es/blockchain-startup-dappradar-raises-233m-from-naspers-blockchaincom-61809750.md)
 * 2019-09-06 [Regulador financiero maltés supervisará activamente a las empresas de criptomonedas](https://github.com/theyapapa/cryptonews/blob/es/maltese-financial-regulator-will-actively-monitor-cryptocurrency-firms-09ea656e.md)
 * 2019-09-06 [Takasbank turco anuncia plataforma Blockchain para el comercio de oro](https://github.com/theyapapa/cryptonews/blob/es/turkish-takasbank-announces-blockchain-platform-for-gold-trading-9f81176d.md)
