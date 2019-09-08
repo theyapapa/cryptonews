@@ -1,3 +1,4 @@
+* 2019-09-08 [Cripto, Efectivo y Drogas: El uso de cripto crece a medida que el comercio de drogas se digitaliza](https://github.com/theyapapa/cryptonews/blob/es/crypto-cash-and-drugs-crypto-use-grows-as-drug-trade-digitalizes-2a20ac3b.md)
 * 2019-09-08 [Crypto Exchange Binance.US lanzará 'en las próximas semanas'](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-binanceus-to-launch-in-the-coming-weeks-acd21311.md)
 * 2019-09-08 [Investigación: Tecnología Blockchain que se estandarizará para 2021](https://github.com/theyapapa/cryptonews/blob/es/research-blockchain-technology-to-be-standardized-by-2021-a5b8f23a.md)
 * 2019-09-08 [Payments Processor Stripe lanza el servicio de préstamos para empresas en línea](https://github.com/theyapapa/cryptonews/blob/es/payments-processor-stripe-launches-lending-service-for-online-companies-32f6ff88.md)
