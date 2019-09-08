@@ -1,3 +1,4 @@
+* 2019-09-08 [Apple Hint, XRP Dump, Mystery $1 billion Transfer: Hodler's Digest, 2–8 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/apple-hint-xrp-dump-mystery-1-billion-transfer-hodlers-digest-sept-28-46ae0e3e.md)
 * 2019-09-08 [Altcoins ver ligero repunte mientras Bitcoin está atascado alrededor de $10,400](https://github.com/theyapapa/cryptonews/blob/es/altcoins-see-slight-uptick-while-bitcoin-is-stuck-around-10-400-d6d5a3aa.md)
 * 2019-09-08 [Top-5 Crypto Performers: XMR, EOS, BCH, BTC, DASH](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-xmr-eos-bch-btc-dash-123feea0.md)
 * 2019-09-08 [Cripto, Efectivo y Drogas: El uso de cripto crece a medida que el comercio de drogas se digitaliza](https://github.com/theyapapa/cryptonews/blob/es/crypto-cash-and-drugs-crypto-use-grows-as-drug-trade-digitalizes-2a20ac3b.md)
