@@ -1,3 +1,4 @@
+* 2019-09-08 [Crypto Новости из Бразилии: 2-8 сентября в обзоре](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-brazil-sept-28-in-review-0785d43b.md)
 * 2019-09-08 [Apple Подсказка, XRP Dump, Тайна $ 1 млрд Передач: Hodler's Дайджест, 2-8 сентября](https://github.com/theyapapa/cryptonews/blob/ru/apple-hint-xrp-dump-mystery-1-billion-transfer-hodlers-digest-sept-28-46ae0e3e.md)
 * 2019-09-08 [Altcoins увидеть небольшой uptick в то время как Bitcoin застрял около $ 10400](https://github.com/theyapapa/cryptonews/blob/ru/altcoins-see-slight-uptick-while-bitcoin-is-stuck-around-10-400-d6d5a3aa.md)
 * 2019-09-08 [Топ-5 криптоисполнителей: XMR, EOS, BCH, BTC, DASH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-xmr-eos-bch-btc-dash-123feea0.md)
