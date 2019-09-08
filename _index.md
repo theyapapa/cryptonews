@@ -1,3 +1,4 @@
+* 2019-09-07 [Binance 자선 단체는 허리케인 구호를위한 암호 화폐 기부를 받아들입니다.](https://github.com/theyapapa/cryptonews/blob/ko/binance-charity-accepts-cryptocurrency-donations-for-hurricane-relief-d8bdf9c2.md)
 * 2019-09-07 [비트 코인 가격 근처 $10,500 에테르와 다른 알트 코인으로 이익을 확인](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-near-10-500-as-ether-and-other-altcoins-make-gains-65bb5b1d.md)
 * 2019-09-07 [독일어권 세계에서 암호화 뉴스: Sept. 2-8 검토](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-the-german-speaking-world-sept-28-in-review-cbc9578b.md)
 * 2019-09-07 [카사 는 토 모바일 지갑에 대 한 iOS와 안 드 로이드 지원을 추가](https://github.com/theyapapa/cryptonews/blob/ko/casa-adds-ios-and-android-support-for-sats-mobile-wallet-148d6f14.md)
