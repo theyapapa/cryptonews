@@ -1,3 +1,4 @@
+* 2019-09-07 [Крипто Новости из Японии: 2-8 сентября](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-japan-sept-28-610d2223.md)
 * 2019-09-07 [Binance Благотворительность принимает криптовалютные пожертвования для ликвидации последствий урагана](https://github.com/theyapapa/cryptonews/blob/ru/binance-charity-accepts-cryptocurrency-donations-for-hurricane-relief-d8bdf9c2.md)
 * 2019-09-07 [Цена Bitcoin около $10,500, как эфир и другие Altcoins сделать прибыль](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-near-10-500-as-ether-and-other-altcoins-make-gains-65bb5b1d.md)
 * 2019-09-07 [Crypto Новости из немецкоязычного мира: 2-8 сентября в обзоре](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-the-german-speaking-world-sept-28-in-review-cbc9578b.md)
