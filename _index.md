@@ -1,3 +1,4 @@
+* 2019-09-08 [비트 코인주위에 붙어있는 동안 Altcoins는 약간의 업틱을 참조 $10,400](https://github.com/theyapapa/cryptonews/blob/ko/altcoins-see-slight-uptick-while-bitcoin-is-stuck-around-10-400-d6d5a3aa.md)
 * 2019-09-08 [상위 5 암호화 수행자 : XMR, EOS, BCH, BTC, 대시](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-xmr-eos-bch-btc-dash-123feea0.md)
 * 2019-09-08 [암호화, 현금 및 마약: 마약 거래가 디지털화됨에 따라 암호화 사용이 증가합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-cash-and-drugs-crypto-use-grows-as-drug-trade-digitalizes-2a20ac3b.md)
 * 2019-09-08 [암호화 교환 Binance.US 출시 '앞으로 몇 주에'](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-binanceus-to-launch-in-the-coming-weeks-acd21311.md)
