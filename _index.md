@@ -1,3 +1,4 @@
+* 2019-09-08 [상위 5 암호화 수행자 : XMR, EOS, BCH, BTC, 대시](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-xmr-eos-bch-btc-dash-123feea0.md)
 * 2019-09-08 [암호화, 현금 및 마약: 마약 거래가 디지털화됨에 따라 암호화 사용이 증가합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-cash-and-drugs-crypto-use-grows-as-drug-trade-digitalizes-2a20ac3b.md)
 * 2019-09-08 [암호화 교환 Binance.US 출시 '앞으로 몇 주에'](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-binanceus-to-launch-in-the-coming-weeks-acd21311.md)
 * 2019-09-08 [연구: 2021년까지 표준화될 블록체인 기술](https://github.com/theyapapa/cryptonews/blob/ko/research-blockchain-technology-to-be-standardized-by-2021-a5b8f23a.md)
