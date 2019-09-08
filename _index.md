@@ -1,3 +1,4 @@
+* 2019-09-08 [Payments Processor Stripe lanza el servicio de préstamos para empresas en línea](https://github.com/theyapapa/cryptonews/blob/es/payments-processor-stripe-launches-lending-service-for-online-companies-32f6ff88.md)
 * 2019-09-07 [Noticias criptográficas de Japón: del 2 al 8 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/crypto-news-from-japan-sept-28-610d2223.md)
 * 2019-09-07 [Binance Charity acepta donaciones de criptomonedas para alivio de huracanes](https://github.com/theyapapa/cryptonews/blob/es/binance-charity-accepts-cryptocurrency-donations-for-hurricane-relief-d8bdf9c2.md)
 * 2019-09-07 [Precio Bitcoin Cerca de $10,500 como éter y otras Altcoins hacen ganancias](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-near-10-500-as-ether-and-other-altcoins-make-gains-65bb5b1d.md)
