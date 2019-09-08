@@ -1,3 +1,4 @@
+* 2019-09-08 [Altcoins увидеть небольшой uptick в то время как Bitcoin застрял около $ 10400](https://github.com/theyapapa/cryptonews/blob/ru/altcoins-see-slight-uptick-while-bitcoin-is-stuck-around-10-400-d6d5a3aa.md)
 * 2019-09-08 [Топ-5 криптоисполнителей: XMR, EOS, BCH, BTC, DASH](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-xmr-eos-bch-btc-dash-123feea0.md)
 * 2019-09-08 [Крипто, наличные деньги и наркотики: Крипто использование растет, как торговля наркотиками цифровизации](https://github.com/theyapapa/cryptonews/blob/ru/crypto-cash-and-drugs-crypto-use-grows-as-drug-trade-digitalizes-2a20ac3b.md)
 * 2019-09-08 [Криптобиржа Binance.US, чтобы запустить "в ближайшие недели"](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-binanceus-to-launch-in-the-coming-weeks-acd21311.md)
