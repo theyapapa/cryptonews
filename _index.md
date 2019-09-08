@@ -1,3 +1,4 @@
+* 2019-09-08 [Крипто, наличные деньги и наркотики: Крипто использование растет, как торговля наркотиками цифровизации](https://github.com/theyapapa/cryptonews/blob/ru/crypto-cash-and-drugs-crypto-use-grows-as-drug-trade-digitalizes-2a20ac3b.md)
 * 2019-09-08 [Криптобиржа Binance.US, чтобы запустить "в ближайшие недели"](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-binanceus-to-launch-in-the-coming-weeks-acd21311.md)
 * 2019-09-08 [Исследование: Технология блокчейн будет стандартизирована к 2021 году](https://github.com/theyapapa/cryptonews/blob/ru/research-blockchain-technology-to-be-standardized-by-2021-a5b8f23a.md)
 * 2019-09-08 [Платежный процессор Stripe запускает услугу кредитования для интернет-компаний](https://github.com/theyapapa/cryptonews/blob/ru/payments-processor-stripe-launches-lending-service-for-online-companies-32f6ff88.md)
