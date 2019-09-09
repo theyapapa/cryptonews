@@ -1,3 +1,4 @@
+* 2019-09-09 [LG разрабатывает блокчейн-телефон в ответ на Samsung: корейские СМИ](https://github.com/theyapapa/cryptonews/blob/ru/lg-developing-a-blockchain-phone-in-response-to-samsung-korean-media-bd1c3ce6.md)
 * 2019-09-09 [Инвестиционный гигант Шваб Руководящий очистить от Crypto 'на данный момент': Источники](https://github.com/theyapapa/cryptonews/blob/ru/investment-giant-schwab-steering-clear-of-crypto-for-now-sources-19d35729.md)
 * 2019-09-08 [Крипто и Блокчейн Принятие растет: 5 Важные события 2-8 сентября](https://github.com/theyapapa/cryptonews/blob/ru/crypto-and-blockchain-adoption-grows-5-important-developments-sept-28-2d02d1a7.md)
 * 2019-09-08 [«Первый» в мире блокчейн-смартфон станет доступен на новом рынке](https://github.com/theyapapa/cryptonews/blob/ru/worlds-first-blockchain-smartphone-to-become-available-in-new-market-23cb91fb.md)
