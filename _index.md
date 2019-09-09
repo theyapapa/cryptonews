@@ -1,3 +1,4 @@
+* 2019-09-09 [LG, 삼성에 대응한 블록체인 폰 개발: 한국미디어](https://github.com/theyapapa/cryptonews/blob/ko/lg-developing-a-blockchain-phone-in-response-to-samsung-korean-media-bd1c3ce6.md)
 * 2019-09-09 [투자 거 대 한 Schwab 스티어링 암호화의 명확한 '지금': 소스](https://github.com/theyapapa/cryptonews/blob/ko/investment-giant-schwab-steering-clear-of-crypto-for-now-sources-19d35729.md)
 * 2019-09-08 [암호화 및 블록 체인 채택 증가: 5 중요 한 개발 Sept. 2-8](https://github.com/theyapapa/cryptonews/blob/ko/crypto-and-blockchain-adoption-grows-5-important-developments-sept-28-2d02d1a7.md)
 * 2019-09-08 [세계 최초 ' 블록 체인 스마트폰 새로운 시장에서 사용할 수 있게](https://github.com/theyapapa/cryptonews/blob/ko/worlds-first-blockchain-smartphone-to-become-available-in-new-market-23cb91fb.md)
