@@ -1,3 +1,4 @@
+* 2019-09-09 [전 미국 의원, 미묘한 암호 화폐 규제 요구](https://github.com/theyapapa/cryptonews/blob/ko/former-us-congressman-calls-for-nuanced-cryptocurrency-regulations-b73edd1d.md)
 * 2019-09-09 [팀 드레이퍼, EOS 기반 DApp 회사에서 이사회에 합류](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-joins-board-of-directors-at-eos-based-dapp-firm-88143908.md)
 * 2019-09-09 [비트 코인은 Bakkt 창고에 예금 $125M 보험에 의해 보호](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-deposited-in-bakkt-warehouse-protected-by-125m-insurance-5deb674f.md)
 * 2019-09-09 [카탈로니아는 정부가 제어하지 않습니다 분산 ID 시스템을 발표](https://github.com/theyapapa/cryptonews/blob/ko/catalonia-announces-a-decentralized-id-system-the-govt-wont-control-5eba6637.md)
