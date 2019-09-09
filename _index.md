@@ -1,3 +1,4 @@
+* 2019-09-08 [La adopción de criptografía y blockchain crece: 5 desarrollos importantes del 2 al 8 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/crypto-and-blockchain-adoption-grows-5-important-developments-sept-28-2d02d1a7.md)
 * 2019-09-08 [El smartphone Blockchain "primer" del mundo en estar disponible en un nuevo mercado](https://github.com/theyapapa/cryptonews/blob/es/worlds-first-blockchain-smartphone-to-become-available-in-new-market-23cb91fb.md)
 * 2019-09-08 [Noticias criptográficas de Brasil: 2-8 de septiembre en revisión](https://github.com/theyapapa/cryptonews/blob/es/crypto-news-from-brazil-sept-28-in-review-0785d43b.md)
 * 2019-09-08 [Apple Hint, XRP Dump, Mystery $1 billion Transfer: Hodler's Digest, 2–8 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/apple-hint-xrp-dump-mystery-1-billion-transfer-hodlers-digest-sept-28-46ae0e3e.md)
