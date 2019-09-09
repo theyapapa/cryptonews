@@ -1,3 +1,4 @@
+* 2019-09-08 [세계 최초 ' 블록 체인 스마트폰 새로운 시장에서 사용할 수 있게](https://github.com/theyapapa/cryptonews/blob/ko/worlds-first-blockchain-smartphone-to-become-available-in-new-market-23cb91fb.md)
 * 2019-09-08 [브라질에서 암호화 뉴스: Sept. 2-8 검토](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-brazil-sept-28-in-review-0785d43b.md)
 * 2019-09-08 [애플 힌트, XRP 덤프, 미스터리 $10 억 전송: 호들러의 다이제스트, Sept. 2-8](https://github.com/theyapapa/cryptonews/blob/ko/apple-hint-xrp-dump-mystery-1-billion-transfer-hodlers-digest-sept-28-46ae0e3e.md)
 * 2019-09-08 [비트 코인주위에 붙어있는 동안 Altcoins는 약간의 업틱을 참조 $10,400](https://github.com/theyapapa/cryptonews/blob/ko/altcoins-see-slight-uptick-while-bitcoin-is-stuck-around-10-400-d6d5a3aa.md)
