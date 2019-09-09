@@ -1,3 +1,4 @@
+* 2019-09-09 [Bitcoin depositado en el almacén Bakkt protegido por un seguro de $125M](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-deposited-in-bakkt-warehouse-protected-by-125m-insurance-5deb674f.md)
 * 2019-09-09 [Cataluña anuncia un sistema de identificación descentralizado que el gobierno no controlará](https://github.com/theyapapa/cryptonews/blob/es/catalonia-announces-a-decentralized-id-system-the-govt-wont-control-5eba6637.md)
 * 2019-09-09 [Bitcoin Precio Wobbles Hacia $10K como Altcoins Push Dominance Por debajo de 70%](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-wobbles-toward-10k-as-altcoins-push-dominance-under-70-28d2c57e.md)
 * 2019-09-09 [LG desarrollando un teléfono blockchain en respuesta a Samsung: Korean Media](https://github.com/theyapapa/cryptonews/blob/es/lg-developing-a-blockchain-phone-in-response-to-samsung-korean-media-bd1c3ce6.md)
