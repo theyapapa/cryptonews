@@ -1,3 +1,4 @@
+* 2019-09-09 [Каталония объявляет децентрализованную систему идентификации, которая не будет контролировать правительство](https://github.com/theyapapa/cryptonews/blob/ru/catalonia-announces-a-decentralized-id-system-the-govt-wont-control-5eba6637.md)
 * 2019-09-09 [Цена Bitcoin колеблется к $10K, как Altcoins Push Доминирование под 70%](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-wobbles-toward-10k-as-altcoins-push-dominance-under-70-28d2c57e.md)
 * 2019-09-09 [LG разрабатывает блокчейн-телефон в ответ на Samsung: корейские СМИ](https://github.com/theyapapa/cryptonews/blob/ru/lg-developing-a-blockchain-phone-in-response-to-samsung-korean-media-bd1c3ce6.md)
 * 2019-09-09 [Инвестиционный гигант Шваб Руководящий очистить от Crypto 'на данный момент': Источники](https://github.com/theyapapa/cryptonews/blob/ru/investment-giant-schwab-steering-clear-of-crypto-for-now-sources-19d35729.md)
