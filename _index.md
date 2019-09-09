@@ -1,3 +1,4 @@
+* 2019-09-09 [Inversión Gigante Schwab Dirección Libre de Cripto 'Por Ahora': Fuentes](https://github.com/theyapapa/cryptonews/blob/es/investment-giant-schwab-steering-clear-of-crypto-for-now-sources-19d35729.md)
 * 2019-09-08 [La adopción de criptografía y blockchain crece: 5 desarrollos importantes del 2 al 8 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/crypto-and-blockchain-adoption-grows-5-important-developments-sept-28-2d02d1a7.md)
 * 2019-09-08 [El smartphone Blockchain "primer" del mundo en estar disponible en un nuevo mercado](https://github.com/theyapapa/cryptonews/blob/es/worlds-first-blockchain-smartphone-to-become-available-in-new-market-23cb91fb.md)
 * 2019-09-08 [Noticias criptográficas de Brasil: 2-8 de septiembre en revisión](https://github.com/theyapapa/cryptonews/blob/es/crypto-news-from-brazil-sept-28-in-review-0785d43b.md)
