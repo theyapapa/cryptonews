@@ -1,3 +1,4 @@
+* 2019-09-09 [Bitcoin Precio Wobbles Hacia $10K como Altcoins Push Dominance Por debajo de 70%](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-wobbles-toward-10k-as-altcoins-push-dominance-under-70-28d2c57e.md)
 * 2019-09-09 [LG desarrollando un teléfono blockchain en respuesta a Samsung: Korean Media](https://github.com/theyapapa/cryptonews/blob/es/lg-developing-a-blockchain-phone-in-response-to-samsung-korean-media-bd1c3ce6.md)
 * 2019-09-09 [Inversión Gigante Schwab Dirección Libre de Cripto 'Por Ahora': Fuentes](https://github.com/theyapapa/cryptonews/blob/es/investment-giant-schwab-steering-clear-of-crypto-for-now-sources-19d35729.md)
 * 2019-09-08 [La adopción de criptografía y blockchain crece: 5 desarrollos importantes del 2 al 8 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/crypto-and-blockchain-adoption-grows-5-important-developments-sept-28-2d02d1a7.md)
