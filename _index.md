@@ -1,3 +1,4 @@
+* 2019-09-09 [비트 코인은 Bakkt 창고에 예금 $125M 보험에 의해 보호](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-deposited-in-bakkt-warehouse-protected-by-125m-insurance-5deb674f.md)
 * 2019-09-09 [카탈로니아는 정부가 제어하지 않습니다 분산 ID 시스템을 발표](https://github.com/theyapapa/cryptonews/blob/ko/catalonia-announces-a-decentralized-id-system-the-govt-wont-control-5eba6637.md)
 * 2019-09-09 [비트 코인 가격은 Altcoins에서 지배력을 밀어으로 $10K를 향해 흔들70%](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-wobbles-toward-10k-as-altcoins-push-dominance-under-70-28d2c57e.md)
 * 2019-09-09 [LG, 삼성에 대응한 블록체인 폰 개발: 한국미디어](https://github.com/theyapapa/cryptonews/blob/ko/lg-developing-a-blockchain-phone-in-response-to-samsung-korean-media-bd1c3ce6.md)
