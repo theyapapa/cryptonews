@@ -1,3 +1,4 @@
+* 2019-09-09 [Фонд звездного развития и Keybase совместно запустить $ 120M Airdrop](https://github.com/theyapapa/cryptonews/blob/ru/stellar-development-foundation-and-keybase-jointly-launch-120m-airdrop-4f071fdc.md)
 * 2019-09-09 [Бывший конгрессмен США призывает к нюансам правил криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/former-us-congressman-calls-for-nuanced-cryptocurrency-regulations-b73edd1d.md)
 * 2019-09-09 [Тим Дрейпер вошел в совет директоров компании EOS на базе DApp](https://github.com/theyapapa/cryptonews/blob/ru/tim-draper-joins-board-of-directors-at-eos-based-dapp-firm-88143908.md)
 * 2019-09-09 [Биткоин, депонированный в складе Баккт, защищен ный страховой $ 125 млн](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-deposited-in-bakkt-warehouse-protected-by-125m-insurance-5deb674f.md)
