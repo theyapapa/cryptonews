@@ -1,3 +1,4 @@
+* 2019-09-09 [비트 코인 ETF에 미국 SEC 의장 : '할 일이 남아있다'](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-on-bitcoin-etfs-there-is-work-left-to-be-done-a06ab42c.md)
 * 2019-09-09 [스텔라 개발 재단과 키베이스는 공동으로 $ 120M 공중 투하를 시작합니다](https://github.com/theyapapa/cryptonews/blob/ko/stellar-development-foundation-and-keybase-jointly-launch-120m-airdrop-4f071fdc.md)
 * 2019-09-09 [전 미국 의원, 미묘한 암호 화폐 규제 요구](https://github.com/theyapapa/cryptonews/blob/ko/former-us-congressman-calls-for-nuanced-cryptocurrency-regulations-b73edd1d.md)
 * 2019-09-09 [팀 드레이퍼, EOS 기반 DApp 회사에서 이사회에 합류](https://github.com/theyapapa/cryptonews/blob/ko/tim-draper-joins-board-of-directors-at-eos-based-dapp-firm-88143908.md)
