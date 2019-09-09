@@ -1,3 +1,4 @@
+* 2019-09-09 [Бывший конгрессмен США призывает к нюансам правил криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/former-us-congressman-calls-for-nuanced-cryptocurrency-regulations-b73edd1d.md)
 * 2019-09-09 [Тим Дрейпер вошел в совет директоров компании EOS на базе DApp](https://github.com/theyapapa/cryptonews/blob/ru/tim-draper-joins-board-of-directors-at-eos-based-dapp-firm-88143908.md)
 * 2019-09-09 [Биткоин, депонированный в складе Баккт, защищен ный страховой $ 125 млн](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-deposited-in-bakkt-warehouse-protected-by-125m-insurance-5deb674f.md)
 * 2019-09-09 [Каталония объявляет децентрализованную систему идентификации, которая не будет контролировать правительство](https://github.com/theyapapa/cryptonews/blob/ru/catalonia-announces-a-decentralized-id-system-the-govt-wont-control-5eba6637.md)
