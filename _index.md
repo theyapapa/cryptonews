@@ -1,3 +1,4 @@
+* 2019-09-10 [Крупнейшая криптовалютная биржа США Coinbase назначает нового вице-президента Дэна Yoo](https://github.com/theyapapa/cryptonews/blob/ru/major-us-crypto-exchange-coinbase-appoints-new-vice-president-dan-yoo-3615618b.md)
 * 2019-09-10 [Торговля Bitcoin трудно - 10 вещей, каждый начинающий трейдер должен знать](https://github.com/theyapapa/cryptonews/blob/ru/trading-bitcoin-is-hard-10-things-every-beginner-trader-must-know-08d5b775.md)
 * 2019-09-10 [Nasdaq запускает децентрализованный финансовый индекс для цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-launches-decentralized-finance-index-for-digital-assets-f3b2401e.md)
 * 2019-09-10 [Япония: Биткоин превосходит XRP в криптовалютах, номинированных в иенах](https://github.com/theyapapa/cryptonews/blob/ru/japan-bitcoin-surpasses-xrp-in-yen-denominated-crypto-holdings-228d3477.md)
