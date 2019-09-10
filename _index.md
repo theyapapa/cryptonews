@@ -1,3 +1,4 @@
+* 2019-09-10 [비트 코인 지배 '평균으로 되돌리기'의 90%, 블록 스트림 CEO를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dominance-reverting-to-mean-of-90-says-blockstream-ceo-7b244007.md)
 * 2019-09-09 [비트 코인 가격이 위의 보유로 시장은 대부분 옆으로 거래 $10,300](https://github.com/theyapapa/cryptonews/blob/ko/market-mostly-trades-sideways-as-bitcoin-price-holds-above-10-300-18dd9f23.md)
 * 2019-09-09 [연구: 헬스케어 시장의 블록체인, 2025년까지 16억 달러 돌파](https://github.com/theyapapa/cryptonews/blob/ko/study-blockchain-in-healthcare-market-to-surpass-16-billion-by-2025-040374aa.md)
 * 2019-09-09 [비트 코인 ETF에 미국 SEC 의장 : '할 일이 남아있다'](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-on-bitcoin-etfs-there-is-work-left-to-be-done-a06ab42c.md)
