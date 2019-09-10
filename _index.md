@@ -1,3 +1,4 @@
+* 2019-09-10 [비트코인 거래는 어렵다 — 모든 초보자 트레이더가 알아야 할 10가지](https://github.com/theyapapa/cryptonews/blob/ko/trading-bitcoin-is-hard-10-things-every-beginner-trader-must-know-08d5b775.md)
 * 2019-09-10 [나스닥, 디지털 자산에 대한 분산 금융 지수 출시](https://github.com/theyapapa/cryptonews/blob/ko/nasdaq-launches-decentralized-finance-index-for-digital-assets-f3b2401e.md)
 * 2019-09-10 [일본: 비트코인, 엔화 화폐 홀딩스에서 XRP 를 능가](https://github.com/theyapapa/cryptonews/blob/ko/japan-bitcoin-surpasses-xrp-in-yen-denominated-crypto-holdings-228d3477.md)
 * 2019-09-10 [비트 코인 지배 '평균으로 되돌리기'의 90%, 블록 스트림 CEO를 말한다](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-dominance-reverting-to-mean-of-90-says-blockstream-ceo-7b244007.md)
