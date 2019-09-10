@@ -1,3 +1,4 @@
+* 2019-09-10 [아마존 웹 서비스 암호화 를 사용 하 여 양자 원장 데이터베이스 발표](https://github.com/theyapapa/cryptonews/blob/ko/amazon-web-services-announces-cryptography-using-quantum-ledger-database-f5ff0791.md)
 * 2019-09-10 [석유 자이언츠, 박켄 필드에서 물을 관리하기 위해 블록 체인 스타트업 고용](https://github.com/theyapapa/cryptonews/blob/ko/oil-giants-hire-blockchain-startup-to-manage-water-in-bakken-fields-2702ef93.md)
 * 2019-09-10 [시작 발견 하 고 페이스 북의 선칭에 대 한 코드에서 취약점을 패치](https://github.com/theyapapa/cryptonews/blob/ko/startup-finds-and-patches-vulnerability-in-code-for-facebooks-libra-8d6eb8c8.md)
 * 2019-09-10 [미국 주요 암호화폐 거래소 코인베이스, 신임 부사장 단유 임명](https://github.com/theyapapa/cryptonews/blob/ko/major-us-crypto-exchange-coinbase-appoints-new-vice-president-dan-yoo-3615618b.md)
