@@ -1,3 +1,4 @@
+* 2019-09-09 [연구: 헬스케어 시장의 블록체인, 2025년까지 16억 달러 돌파](https://github.com/theyapapa/cryptonews/blob/ko/study-blockchain-in-healthcare-market-to-surpass-16-billion-by-2025-040374aa.md)
 * 2019-09-09 [비트 코인 ETF에 미국 SEC 의장 : '할 일이 남아있다'](https://github.com/theyapapa/cryptonews/blob/ko/us-sec-chairman-on-bitcoin-etfs-there-is-work-left-to-be-done-a06ab42c.md)
 * 2019-09-09 [스텔라 개발 재단과 키베이스는 공동으로 $ 120M 공중 투하를 시작합니다](https://github.com/theyapapa/cryptonews/blob/ko/stellar-development-foundation-and-keybase-jointly-launch-120m-airdrop-4f071fdc.md)
 * 2019-09-09 [전 미국 의원, 미묘한 암호 화폐 규제 요구](https://github.com/theyapapa/cryptonews/blob/ko/former-us-congressman-calls-for-nuanced-cryptocurrency-regulations-b73edd1d.md)
