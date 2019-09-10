@@ -1,3 +1,4 @@
+* 2019-09-10 [Amazon Web Services объявляет криптографии с использованием квантовой базы данных книги](https://github.com/theyapapa/cryptonews/blob/ru/amazon-web-services-announces-cryptography-using-quantum-ledger-database-f5ff0791.md)
 * 2019-09-10 [Нефтяные гиганты нанимают блокчейн-стартап для управления водой на месторождениях Баккен](https://github.com/theyapapa/cryptonews/blob/ru/oil-giants-hire-blockchain-startup-to-manage-water-in-bakken-fields-2702ef93.md)
 * 2019-09-10 [Стартап находит и патчи уязвимости в коде для Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/startup-finds-and-patches-vulnerability-in-code-for-facebooks-libra-8d6eb8c8.md)
 * 2019-09-10 [Крупнейшая криптовалютная биржа США Coinbase назначает нового вице-президента Дэна Yoo](https://github.com/theyapapa/cryptonews/blob/ru/major-us-crypto-exchange-coinbase-appoints-new-vice-president-dan-yoo-3615618b.md)
