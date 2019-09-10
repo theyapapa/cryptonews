@@ -1,3 +1,4 @@
+* 2019-09-10 [Nasdaq lanza índice financiero descentralizado para activos digitales](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-launches-decentralized-finance-index-for-digital-assets-f3b2401e.md)
 * 2019-09-10 [Japón: Bitcoin supera a XRP en las tenencias criptográficas denominadas en yenes](https://github.com/theyapapa/cryptonews/blob/es/japan-bitcoin-surpasses-xrp-in-yen-denominated-crypto-holdings-228d3477.md)
 * 2019-09-10 [Bitcoin Dominance 'Revirtiendo a la media' del 90%, dice el CEO de Blockstream](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-dominance-reverting-to-mean-of-90-says-blockstream-ceo-7b244007.md)
 * 2019-09-09 [Mercado principalmente oficios laterales como Bitcoin precio se mantiene por encima de $10,300](https://github.com/theyapapa/cryptonews/blob/es/market-mostly-trades-sideways-as-bitcoin-price-holds-above-10-300-18dd9f23.md)
