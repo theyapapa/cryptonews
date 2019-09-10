@@ -1,3 +1,4 @@
+* 2019-09-10 [Bitcoin Доминирование 'Возвращение в среднее' 90%, говорит генеральный директор Blockstream](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dominance-reverting-to-mean-of-90-says-blockstream-ceo-7b244007.md)
 * 2019-09-09 [Рынок в основном торгуется боком, так как цена биткоина держится выше $10,300](https://github.com/theyapapa/cryptonews/blob/ru/market-mostly-trades-sideways-as-bitcoin-price-holds-above-10-300-18dd9f23.md)
 * 2019-09-09 [Исследование: Блокчейн на рынке здравоохранения превысит $1,6 млрд к 2025 году](https://github.com/theyapapa/cryptonews/blob/ru/study-blockchain-in-healthcare-market-to-surpass-16-billion-by-2025-040374aa.md)
 * 2019-09-09 [Председатель SEC США по Bitcoin ETFs: «Есть работа, которую нужно сделать»](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-chairman-on-bitcoin-etfs-there-is-work-left-to-be-done-a06ab42c.md)
