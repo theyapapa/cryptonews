@@ -1,3 +1,4 @@
+* 2019-09-10 [Bitcoin Dominance 'Revirtiendo a la media' del 90%, dice el CEO de Blockstream](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-dominance-reverting-to-mean-of-90-says-blockstream-ceo-7b244007.md)
 * 2019-09-09 [Mercado principalmente oficios laterales como Bitcoin precio se mantiene por encima de $10,300](https://github.com/theyapapa/cryptonews/blob/es/market-mostly-trades-sideways-as-bitcoin-price-holds-above-10-300-18dd9f23.md)
 * 2019-09-09 [Estudio: Blockchain en el mercado de la salud superará los $1.600 millones para 2025](https://github.com/theyapapa/cryptonews/blob/es/study-blockchain-in-healthcare-market-to-surpass-16-billion-by-2025-040374aa.md)
 * 2019-09-09 [Presidente de la SEC de EE. UU. en Bitcoin ETFs: 'Queda trabajo por hacer'](https://github.com/theyapapa/cryptonews/blob/es/us-sec-chairman-on-bitcoin-etfs-there-is-work-left-to-be-done-a06ab42c.md)
