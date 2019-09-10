@@ -1,3 +1,4 @@
+* 2019-09-10 [Nasdaq запускает децентрализованный финансовый индекс для цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-launches-decentralized-finance-index-for-digital-assets-f3b2401e.md)
 * 2019-09-10 [Япония: Биткоин превосходит XRP в криптовалютах, номинированных в иенах](https://github.com/theyapapa/cryptonews/blob/ru/japan-bitcoin-surpasses-xrp-in-yen-denominated-crypto-holdings-228d3477.md)
 * 2019-09-10 [Bitcoin Доминирование 'Возвращение в среднее' 90%, говорит генеральный директор Blockstream](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-dominance-reverting-to-mean-of-90-says-blockstream-ceo-7b244007.md)
 * 2019-09-09 [Рынок в основном торгуется боком, так как цена биткоина держится выше $10,300](https://github.com/theyapapa/cryptonews/blob/ru/market-mostly-trades-sideways-as-bitcoin-price-holds-above-10-300-18dd9f23.md)
