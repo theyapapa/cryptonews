@@ -1,3 +1,4 @@
+* 2019-09-09 [Исследование: Блокчейн на рынке здравоохранения превысит $1,6 млрд к 2025 году](https://github.com/theyapapa/cryptonews/blob/ru/study-blockchain-in-healthcare-market-to-surpass-16-billion-by-2025-040374aa.md)
 * 2019-09-09 [Председатель SEC США по Bitcoin ETFs: «Есть работа, которую нужно сделать»](https://github.com/theyapapa/cryptonews/blob/ru/us-sec-chairman-on-bitcoin-etfs-there-is-work-left-to-be-done-a06ab42c.md)
 * 2019-09-09 [Фонд звездного развития и Keybase совместно запустить $ 120M Airdrop](https://github.com/theyapapa/cryptonews/blob/ru/stellar-development-foundation-and-keybase-jointly-launch-120m-airdrop-4f071fdc.md)
 * 2019-09-09 [Бывший конгрессмен США призывает к нюансам правил криптовалюты](https://github.com/theyapapa/cryptonews/blob/ru/former-us-congressman-calls-for-nuanced-cryptocurrency-regulations-b73edd1d.md)
