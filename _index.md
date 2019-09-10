@@ -1,3 +1,4 @@
+* 2019-09-10 [Стартап находит и патчи уязвимости в коде для Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/startup-finds-and-patches-vulnerability-in-code-for-facebooks-libra-8d6eb8c8.md)
 * 2019-09-10 [Крупнейшая криптовалютная биржа США Coinbase назначает нового вице-президента Дэна Yoo](https://github.com/theyapapa/cryptonews/blob/ru/major-us-crypto-exchange-coinbase-appoints-new-vice-president-dan-yoo-3615618b.md)
 * 2019-09-10 [Торговля Bitcoin трудно - 10 вещей, каждый начинающий трейдер должен знать](https://github.com/theyapapa/cryptonews/blob/ru/trading-bitcoin-is-hard-10-things-every-beginner-trader-must-know-08d5b775.md)
 * 2019-09-10 [Nasdaq запускает децентрализованный финансовый индекс для цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/nasdaq-launches-decentralized-finance-index-for-digital-assets-f3b2401e.md)
