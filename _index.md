@@ -1,3 +1,4 @@
+* 2019-09-10 [Startup Encuentra y parchea la vulnerabilidad en el código para Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/startup-finds-and-patches-vulnerability-in-code-for-facebooks-libra-8d6eb8c8.md)
 * 2019-09-10 [Major US Crypto Exchange Coinbase nombra nuevo vicepresidente Dan Yoo](https://github.com/theyapapa/cryptonews/blob/es/major-us-crypto-exchange-coinbase-appoints-new-vice-president-dan-yoo-3615618b.md)
 * 2019-09-10 [Operar con Bitcoin es difícil — 10 cosas que todo operador principiante debe saber](https://github.com/theyapapa/cryptonews/blob/es/trading-bitcoin-is-hard-10-things-every-beginner-trader-must-know-08d5b775.md)
 * 2019-09-10 [Nasdaq lanza índice financiero descentralizado para activos digitales](https://github.com/theyapapa/cryptonews/blob/es/nasdaq-launches-decentralized-finance-index-for-digital-assets-f3b2401e.md)
