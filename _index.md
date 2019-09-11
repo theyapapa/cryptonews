@@ -1,3 +1,4 @@
+* 2019-09-11 [Весы Ассоциация ищет швейцарские платежные лицензии для Facebook В Крипто](https://github.com/theyapapa/cryptonews/blob/ru/libra-association-seeks-swiss-payments-license-for-facebooks-crypto-3df92353.md)
 * 2019-09-11 [Криптобиржа OKEx перечислит токен Hedera Hashgraph HBAR](https://github.com/theyapapa/cryptonews/blob/ru/crypto-exchange-okex-to-list-hedera-hashgraphs-token-hbar-46cd88b8.md)
 * 2019-09-10 [Circle CEO: Никто в мире не ближе к КБрК, чем Китай](https://github.com/theyapapa/cryptonews/blob/ru/circle-ceo-no-one-in-the-world-is-any-closer-to-cbdcs-than-china-8735058d.md)
 * 2019-09-10 [Обновленный Steemit теперь позволяет Steem Предложение Голосование по Steemitwallet.com](https://github.com/theyapapa/cryptonews/blob/ru/updated-steemit-now-allows-steem-proposal-voting-on-steemitwalletcom-149e5fcd.md)
