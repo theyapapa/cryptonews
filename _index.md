@@ -1,3 +1,4 @@
+* 2019-09-11 [암호화 교환 OKEx 는 헤데라 해시 그래프의 토큰 HBAR를 나열합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-okex-to-list-hedera-hashgraphs-token-hbar-46cd88b8.md)
 * 2019-09-10 [서클 CEO : 세계에서 아무도 중국보다 CBD에 더 가깝지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-no-one-in-the-world-is-any-closer-to-cbdcs-than-china-8735058d.md)
 * 2019-09-10 [업데이트 된 Steemit 지금 Steemitwallet.com Steem 제안 투표를 허용](https://github.com/theyapapa/cryptonews/blob/ko/updated-steemit-now-allows-steem-proposal-voting-on-steemitwalletcom-149e5fcd.md)
 * 2019-09-10 [아마존 웹 서비스 암호화 를 사용 하 여 양자 원장 데이터베이스 발표](https://github.com/theyapapa/cryptonews/blob/ko/amazon-web-services-announces-cryptography-using-quantum-ledger-database-f5ff0791.md)
