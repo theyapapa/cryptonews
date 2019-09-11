@@ -1,3 +1,4 @@
+* 2019-09-10 [Steemit actualizado ahora permite la votación de la propuesta steem en Steemitwallet.com](https://github.com/theyapapa/cryptonews/blob/es/updated-steemit-now-allows-steem-proposal-voting-on-steemitwalletcom-149e5fcd.md)
 * 2019-09-10 [Amazon Web Services anuncia la base de datos de Quantum Ledger que utiliza criptografía](https://github.com/theyapapa/cryptonews/blob/es/amazon-web-services-announces-cryptography-using-quantum-ledger-database-f5ff0791.md)
 * 2019-09-10 [Los gigantes petroleros contratan a Blockchain Startup para gestionar el agua en Bakken Fields](https://github.com/theyapapa/cryptonews/blob/es/oil-giants-hire-blockchain-startup-to-manage-water-in-bakken-fields-2702ef93.md)
 * 2019-09-10 [Startup Encuentra y parchea la vulnerabilidad en el código para Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/startup-finds-and-patches-vulnerability-in-code-for-facebooks-libra-8d6eb8c8.md)
