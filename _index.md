@@ -1,3 +1,4 @@
+* 2019-09-11 [VanEck은 이제 기관 투자자를위한 비트 코인 금융 상품을 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/vaneck-now-offering-bitcoin-financial-product-for-institutional-investors-21c3e5af.md)
 * 2019-09-11 [새로운 연구는 대부분의 등록 된 암호화 교환국가 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/new-study-reveals-countries-with-most-registered-crypto-exchanges-41e7fd01.md)
 * 2019-09-11 [종자 CX 자회사 제로 해시 는 암호화 파생 상품에 대한 지원을 시작합니다](https://github.com/theyapapa/cryptonews/blob/ko/seed-cx-subsidiary-zero-hash-launches-support-for-crypto-derivatives-02d8d61e.md)
 * 2019-09-11 [이더리움 데브 펌 컨젠시스 이제 하이퍼레저의 프리미어 멤버](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-dev-firm-consensys-now-a-premier-member-of-hyperledger-e303f8ce.md)
