@@ -1,3 +1,4 @@
+* 2019-09-11 [VanEck теперь предлагает Bitcoin Финансовый продукт для институциональных инвесторов](https://github.com/theyapapa/cryptonews/blob/ru/vaneck-now-offering-bitcoin-financial-product-for-institutional-investors-21c3e5af.md)
 * 2019-09-11 [Новое исследование показывает страны с большинством зарегистрированных криптобиргов](https://github.com/theyapapa/cryptonews/blob/ru/new-study-reveals-countries-with-most-registered-crypto-exchanges-41e7fd01.md)
 * 2019-09-11 [Семена CX Дочерняя нулевой хэш запускает поддержку крипто производных](https://github.com/theyapapa/cryptonews/blob/ru/seed-cx-subsidiary-zero-hash-launches-support-for-crypto-derivatives-02d8d61e.md)
 * 2019-09-11 [Ethereum Dev Фирма ConsenSys Теперь премьер-член Hyperledger](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-dev-firm-consensys-now-a-premier-member-of-hyperledger-e303f8ce.md)
