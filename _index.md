@@ -1,3 +1,4 @@
+* 2019-09-10 [Director Ejecutivo de Circle: Nadie en el mundo está más cerca de los CDB que China](https://github.com/theyapapa/cryptonews/blob/es/circle-ceo-no-one-in-the-world-is-any-closer-to-cbdcs-than-china-8735058d.md)
 * 2019-09-10 [Steemit actualizado ahora permite la votación de la propuesta steem en Steemitwallet.com](https://github.com/theyapapa/cryptonews/blob/es/updated-steemit-now-allows-steem-proposal-voting-on-steemitwalletcom-149e5fcd.md)
 * 2019-09-10 [Amazon Web Services anuncia la base de datos de Quantum Ledger que utiliza criptografía](https://github.com/theyapapa/cryptonews/blob/es/amazon-web-services-announces-cryptography-using-quantum-ledger-database-f5ff0791.md)
 * 2019-09-10 [Los gigantes petroleros contratan a Blockchain Startup para gestionar el agua en Bakken Fields](https://github.com/theyapapa/cryptonews/blob/es/oil-giants-hire-blockchain-startup-to-manage-water-in-bakken-fields-2702ef93.md)
