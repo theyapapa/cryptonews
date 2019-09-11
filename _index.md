@@ -1,3 +1,4 @@
+* 2019-09-11 [Investigadores publican evidencia de manipulación de precios de token ChainLink](https://github.com/theyapapa/cryptonews/blob/es/researchers-publish-evidence-of-chainlink-token-price-manipulation-1a5cf6d0.md)
 * 2019-09-11 [Libra Association busca licencia de pagos suizos para Crypto de Facebook](https://github.com/theyapapa/cryptonews/blob/es/libra-association-seeks-swiss-payments-license-for-facebooks-crypto-3df92353.md)
 * 2019-09-11 [Crypto Exchange OKEx enumerará el token HBAR de Hedera Hashgraph](https://github.com/theyapapa/cryptonews/blob/es/crypto-exchange-okex-to-list-hedera-hashgraphs-token-hbar-46cd88b8.md)
 * 2019-09-10 [Director Ejecutivo de Circle: Nadie en el mundo está más cerca de los CDB que China](https://github.com/theyapapa/cryptonews/blob/es/circle-ceo-no-one-in-the-world-is-any-closer-to-cbdcs-than-china-8735058d.md)
