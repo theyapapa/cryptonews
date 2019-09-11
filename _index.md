@@ -1,3 +1,4 @@
+* 2019-09-11 [지불 솔루션을위한 블록 체인 회사 R3와 마스터 카드 파트너](https://github.com/theyapapa/cryptonews/blob/ko/mastercard-partners-with-blockchain-firm-r3-for-payments-solution-75b8ad0f.md)
 * 2019-09-11 [비트 코인 가격 $10K 교착 상태 는 '쉐이크 아웃' 새로운 최고 전에 수 있습니다: 분석가](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-10k-deadlock-may-be-shakeout-before-new-highs-analyst-b35eea68.md)
 * 2019-09-11 [연구원은 ChainLink 토큰 가격 조작의 증거를 게시](https://github.com/theyapapa/cryptonews/blob/ko/researchers-publish-evidence-of-chainlink-token-price-manipulation-1a5cf6d0.md)
 * 2019-09-11 [Libra 협회는 페이스 북의 암호화에 대한 스위스 지불 라이센스를 추구](https://github.com/theyapapa/cryptonews/blob/ko/libra-association-seeks-swiss-payments-license-for-facebooks-crypto-3df92353.md)
