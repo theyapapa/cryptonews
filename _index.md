@@ -1,3 +1,4 @@
+* 2019-09-11 [연구원은 ChainLink 토큰 가격 조작의 증거를 게시](https://github.com/theyapapa/cryptonews/blob/ko/researchers-publish-evidence-of-chainlink-token-price-manipulation-1a5cf6d0.md)
 * 2019-09-11 [Libra 협회는 페이스 북의 암호화에 대한 스위스 지불 라이센스를 추구](https://github.com/theyapapa/cryptonews/blob/ko/libra-association-seeks-swiss-payments-license-for-facebooks-crypto-3df92353.md)
 * 2019-09-11 [암호화 교환 OKEx 는 헤데라 해시 그래프의 토큰 HBAR를 나열합니다.](https://github.com/theyapapa/cryptonews/blob/ko/crypto-exchange-okex-to-list-hedera-hashgraphs-token-hbar-46cd88b8.md)
 * 2019-09-10 [서클 CEO : 세계에서 아무도 중국보다 CBD에 더 가깝지 않습니다.](https://github.com/theyapapa/cryptonews/blob/ko/circle-ceo-no-one-in-the-world-is-any-closer-to-cbdcs-than-china-8735058d.md)
