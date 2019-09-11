@@ -1,3 +1,4 @@
+* 2019-09-11 [종자 CX 자회사 제로 해시 는 암호화 파생 상품에 대한 지원을 시작합니다](https://github.com/theyapapa/cryptonews/blob/ko/seed-cx-subsidiary-zero-hash-launches-support-for-crypto-derivatives-02d8d61e.md)
 * 2019-09-11 [이더리움 데브 펌 컨젠시스 이제 하이퍼레저의 프리미어 멤버](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-dev-firm-consensys-now-a-premier-member-of-hyperledger-e303f8ce.md)
 * 2019-09-11 [지불 솔루션을위한 블록 체인 회사 R3와 마스터 카드 파트너](https://github.com/theyapapa/cryptonews/blob/ko/mastercard-partners-with-blockchain-firm-r3-for-payments-solution-75b8ad0f.md)
 * 2019-09-11 [비트 코인 가격 $10K 교착 상태 는 '쉐이크 아웃' 새로운 최고 전에 수 있습니다: 분석가](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-price-10k-deadlock-may-be-shakeout-before-new-highs-analyst-b35eea68.md)
