@@ -1,3 +1,4 @@
+* 2019-09-11 [Mastercard se asocia con Blockchain Firm R3 for Payments Solution](https://github.com/theyapapa/cryptonews/blob/es/mastercard-partners-with-blockchain-firm-r3-for-payments-solution-75b8ad0f.md)
 * 2019-09-11 [Bitcoin Precio $10K Deadlock puede ser 'Shakeout' antes de nuevos máximos: Analista](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-10k-deadlock-may-be-shakeout-before-new-highs-analyst-b35eea68.md)
 * 2019-09-11 [Investigadores publican evidencia de manipulación de precios de token ChainLink](https://github.com/theyapapa/cryptonews/blob/es/researchers-publish-evidence-of-chainlink-token-price-manipulation-1a5cf6d0.md)
 * 2019-09-11 [Libra Association busca licencia de pagos suizos para Crypto de Facebook](https://github.com/theyapapa/cryptonews/blob/es/libra-association-seeks-swiss-payments-license-for-facebooks-crypto-3df92353.md)
