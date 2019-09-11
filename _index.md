@@ -1,3 +1,4 @@
+* 2019-09-11 [Ethereum Dev Firm ConsenSys Ahora un Miembro Premier de Hyperledger](https://github.com/theyapapa/cryptonews/blob/es/ethereum-dev-firm-consensys-now-a-premier-member-of-hyperledger-e303f8ce.md)
 * 2019-09-11 [Mastercard se asocia con Blockchain Firm R3 for Payments Solution](https://github.com/theyapapa/cryptonews/blob/es/mastercard-partners-with-blockchain-firm-r3-for-payments-solution-75b8ad0f.md)
 * 2019-09-11 [Bitcoin Precio $10K Deadlock puede ser 'Shakeout' antes de nuevos máximos: Analista](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-10k-deadlock-may-be-shakeout-before-new-highs-analyst-b35eea68.md)
 * 2019-09-11 [Investigadores publican evidencia de manipulación de precios de token ChainLink](https://github.com/theyapapa/cryptonews/blob/es/researchers-publish-evidence-of-chainlink-token-price-manipulation-1a5cf6d0.md)
