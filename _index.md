@@ -1,3 +1,4 @@
+* 2019-09-11 [Mastercard Партнеры с Blockchain Фирма R3 для платежей решение](https://github.com/theyapapa/cryptonews/blob/ru/mastercard-partners-with-blockchain-firm-r3-for-payments-solution-75b8ad0f.md)
 * 2019-09-11 [Цена Bitcoin $10K Тупик может быть 'Shakeout' Перед новыми максимумами: Аналитик](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-price-10k-deadlock-may-be-shakeout-before-new-highs-analyst-b35eea68.md)
 * 2019-09-11 [Исследователи публикуют доказательства ChainLink Токен Цена Манипуляция](https://github.com/theyapapa/cryptonews/blob/ru/researchers-publish-evidence-of-chainlink-token-price-manipulation-1a5cf6d0.md)
 * 2019-09-11 [Весы Ассоциация ищет швейцарские платежные лицензии для Facebook В Крипто](https://github.com/theyapapa/cryptonews/blob/ru/libra-association-seeks-swiss-payments-license-for-facebooks-crypto-3df92353.md)
