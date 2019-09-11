@@ -1,3 +1,4 @@
+* 2019-09-11 [테조스 재단, 스마트 계약, 익스플로러 프로젝트에 보조금 일괄 발행](https://github.com/theyapapa/cryptonews/blob/ko/tezos-foundation-issues-batch-of-grants-to-smart-contract-explorer-projects-ae156984.md)
 * 2019-09-11 [VanEck은 이제 기관 투자자를위한 비트 코인 금융 상품을 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/vaneck-now-offering-bitcoin-financial-product-for-institutional-investors-21c3e5af.md)
 * 2019-09-11 [새로운 연구는 대부분의 등록 된 암호화 교환국가 밝혀](https://github.com/theyapapa/cryptonews/blob/ko/new-study-reveals-countries-with-most-registered-crypto-exchanges-41e7fd01.md)
 * 2019-09-11 [종자 CX 자회사 제로 해시 는 암호화 파생 상품에 대한 지원을 시작합니다](https://github.com/theyapapa/cryptonews/blob/ko/seed-cx-subsidiary-zero-hash-launches-support-for-crypto-derivatives-02d8d61e.md)
