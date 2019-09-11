@@ -1,3 +1,4 @@
+* 2019-09-11 [Seed CX Subsidiary Zero Hash lanza soporte para derivados criptográficos](https://github.com/theyapapa/cryptonews/blob/es/seed-cx-subsidiary-zero-hash-launches-support-for-crypto-derivatives-02d8d61e.md)
 * 2019-09-11 [Ethereum Dev Firm ConsenSys Ahora un Miembro Premier de Hyperledger](https://github.com/theyapapa/cryptonews/blob/es/ethereum-dev-firm-consensys-now-a-premier-member-of-hyperledger-e303f8ce.md)
 * 2019-09-11 [Mastercard se asocia con Blockchain Firm R3 for Payments Solution](https://github.com/theyapapa/cryptonews/blob/es/mastercard-partners-with-blockchain-firm-r3-for-payments-solution-75b8ad0f.md)
 * 2019-09-11 [Bitcoin Precio $10K Deadlock puede ser 'Shakeout' antes de nuevos máximos: Analista](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-price-10k-deadlock-may-be-shakeout-before-new-highs-analyst-b35eea68.md)
