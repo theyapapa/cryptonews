@@ -1,3 +1,4 @@
+* 2019-09-12 [Нет, Цена Bitcoin не в 2018-как "поукливой треугольник" Судьбы](https://github.com/theyapapa/cryptonews/blob/ru/no-bitcoin-price-is-not-in-a-2018-like-descending-triangle-of-doom-44eccfe6.md)
 * 2019-09-11 [BNY Меллон будет выступать в качестве трансферного агента для bitwise предлагаемых Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/bny-mellon-to-act-as-transfer-agent-for-bitwises-proposed-bitcoin-etf-1118a0ab.md)
 * 2019-09-11 [LocalBitcoins: Пользователи браузера Tor рискуют потерять свои биткоины](https://github.com/theyapapa/cryptonews/blob/ru/localbitcoins-tor-browser-users-at-risk-of-losing-their-bitcoins-b320320a.md)
 * 2019-09-11 [Фонд Tezos выпускает пакет грантов для смарт-контракта, Explorer проектов](https://github.com/theyapapa/cryptonews/blob/ru/tezos-foundation-issues-batch-of-grants-to-smart-contract-explorer-projects-ae156984.md)
