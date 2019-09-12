@@ -1,3 +1,4 @@
+* 2019-09-11 [BNY Mellon actuará como agente de transferencia para el ETF de Bitcoin propuesto de Bitwise](https://github.com/theyapapa/cryptonews/blob/es/bny-mellon-to-act-as-transfer-agent-for-bitwises-proposed-bitcoin-etf-1118a0ab.md)
 * 2019-09-11 [LocalBitcoins: Usuarios de Tor Browser en riesgo de perder sus Bitcoins](https://github.com/theyapapa/cryptonews/blob/es/localbitcoins-tor-browser-users-at-risk-of-losing-their-bitcoins-b320320a.md)
 * 2019-09-11 [La Fundación Tezos emite lotes de subvenciones a contratos inteligentes y proyectos Explorer](https://github.com/theyapapa/cryptonews/blob/es/tezos-foundation-issues-batch-of-grants-to-smart-contract-explorer-projects-ae156984.md)
 * 2019-09-11 [VanEck ahora ofrece un producto financiero Bitcoin para inversores institucionales](https://github.com/theyapapa/cryptonews/blob/es/vaneck-now-offering-bitcoin-financial-product-for-institutional-investors-21c3e5af.md)
