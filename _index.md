@@ -1,3 +1,4 @@
+* 2019-09-11 [BNY 멜론, 비트와이즈의 비트코인 ETF 이전 대리인 으로 활동](https://github.com/theyapapa/cryptonews/blob/ko/bny-mellon-to-act-as-transfer-agent-for-bitwises-proposed-bitcoin-etf-1118a0ab.md)
 * 2019-09-11 [로컬 비트 코인 : 자신의 비트 코인을 잃을 위험에 토르 브라우저 사용자](https://github.com/theyapapa/cryptonews/blob/ko/localbitcoins-tor-browser-users-at-risk-of-losing-their-bitcoins-b320320a.md)
 * 2019-09-11 [테조스 재단, 스마트 계약, 익스플로러 프로젝트에 보조금 일괄 발행](https://github.com/theyapapa/cryptonews/blob/ko/tezos-foundation-issues-batch-of-grants-to-smart-contract-explorer-projects-ae156984.md)
 * 2019-09-11 [VanEck은 이제 기관 투자자를위한 비트 코인 금융 상품을 제공합니다.](https://github.com/theyapapa/cryptonews/blob/ko/vaneck-now-offering-bitcoin-financial-product-for-institutional-investors-21c3e5af.md)
