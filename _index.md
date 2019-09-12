@@ -1,3 +1,4 @@
+* 2019-09-12 [Премьер-лиги Уотфорд ФК ставит Bitcoin логотип на комплект, принимает BTC](https://github.com/theyapapa/cryptonews/blob/ru/premier-leagues-watford-fc-puts-bitcoin-logo-on-kit-accepts-btc-d35d7b21.md)
 * 2019-09-12 [Сантандер выпускает $20 миллионов от конца до конца блокчейн-бонда на Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/santander-issues-20-million-end-to-end-blockchain-bond-on-ethereum-6ed02815.md)
 * 2019-09-12 [Нет, Цена Bitcoin не в 2018-как "поукливой треугольник" Судьбы](https://github.com/theyapapa/cryptonews/blob/ru/no-bitcoin-price-is-not-in-a-2018-like-descending-triangle-of-doom-44eccfe6.md)
 * 2019-09-11 [BNY Меллон будет выступать в качестве трансферного агента для bitwise предлагаемых Bitcoin ETF](https://github.com/theyapapa/cryptonews/blob/ru/bny-mellon-to-act-as-transfer-agent-for-bitwises-proposed-bitcoin-etf-1118a0ab.md)
