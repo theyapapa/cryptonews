@@ -1,3 +1,4 @@
+* 2019-09-12 [프리미어 리그의 왓포드 FC키트에 비트 코인 로고를 두고, BTC를 받아들인다](https://github.com/theyapapa/cryptonews/blob/ko/premier-leagues-watford-fc-puts-bitcoin-logo-on-kit-accepts-btc-d35d7b21.md)
 * 2019-09-12 [산탄데르, 이더리움에 2천만 달러 규모의 엔드 투 엔드 블록체인 채권 발행](https://github.com/theyapapa/cryptonews/blob/ko/santander-issues-20-million-end-to-end-blockchain-bond-on-ethereum-6ed02815.md)
 * 2019-09-12 [아니, 비트 코인 가격은 운명의 2018 같은 '내림차순 삼각형'에 없습니다](https://github.com/theyapapa/cryptonews/blob/ko/no-bitcoin-price-is-not-in-a-2018-like-descending-triangle-of-doom-44eccfe6.md)
 * 2019-09-11 [BNY 멜론, 비트와이즈의 비트코인 ETF 이전 대리인 으로 활동](https://github.com/theyapapa/cryptonews/blob/ko/bny-mellon-to-act-as-transfer-agent-for-bitwises-proposed-bitcoin-etf-1118a0ab.md)
