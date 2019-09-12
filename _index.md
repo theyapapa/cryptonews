@@ -1,3 +1,4 @@
+* 2019-09-12 [Narrativa 'Bitcoin is Digital Gold' aún no probada, advierte experta Trader](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-is-digital-gold-narrative-still-unproven-warns-expert-trader-e1943b8f.md)
 * 2019-09-12 [Alfa-Bank lanza plataforma de banco como servicio en Waves Blockchain](https://github.com/theyapapa/cryptonews/blob/es/alfa-bank-launches-bank-as-a-service-platform-on-waves-blockchain-9d9afaf5.md)
 * 2019-09-12 [Watford FC de la Premier League pone el logotipo de Bitcoin en el kit, acepta BTC](https://github.com/theyapapa/cryptonews/blob/es/premier-leagues-watford-fc-puts-bitcoin-logo-on-kit-accepts-btc-d35d7b21.md)
 * 2019-09-12 [Santander emite un bono de cadena de bloques de extremo a extremo de $20 millones en Ethereum](https://github.com/theyapapa/cryptonews/blob/es/santander-issues-20-million-end-to-end-blockchain-bond-on-ethereum-6ed02815.md)
