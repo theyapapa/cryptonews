@@ -1,3 +1,4 @@
+* 2019-09-12 [Отчет: Рынок блокчейн-устройств вырастет до $1,285 млрд к 2024 году](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-devices-market-to-grow-to-1285-billion-by-2024-22fbb47a.md)
 * 2019-09-12 [Ethereum Классический Успешно реализует Атлантис Хард Форк](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-classic-successfully-implements-atlantis-hard-fork-ce54420d.md)
 * 2019-09-12 ['Bitcoin это цифровое золото' Повествование еще не доказано, предупреждает эксперт трейдер](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-is-digital-gold-narrative-still-unproven-warns-expert-trader-e1943b8f.md)
 * 2019-09-12 [Альфа-Банк запускает платформу «Банк как услуга» на блокчейне волн](https://github.com/theyapapa/cryptonews/blob/ru/alfa-bank-launches-bank-as-a-service-platform-on-waves-blockchain-9d9afaf5.md)
