@@ -1,3 +1,4 @@
+* 2019-09-12 [Santander emite un bono de cadena de bloques de extremo a extremo de $20 millones en Ethereum](https://github.com/theyapapa/cryptonews/blob/es/santander-issues-20-million-end-to-end-blockchain-bond-on-ethereum-6ed02815.md)
 * 2019-09-12 [No, Bitcoin Precio no está en un 2018-Como 'Triángulo Descendente' de la condenación](https://github.com/theyapapa/cryptonews/blob/es/no-bitcoin-price-is-not-in-a-2018-like-descending-triangle-of-doom-44eccfe6.md)
 * 2019-09-11 [BNY Mellon actuará como agente de transferencia para el ETF de Bitcoin propuesto de Bitwise](https://github.com/theyapapa/cryptonews/blob/es/bny-mellon-to-act-as-transfer-agent-for-bitwises-proposed-bitcoin-etf-1118a0ab.md)
 * 2019-09-11 [LocalBitcoins: Usuarios de Tor Browser en riesgo de perder sus Bitcoins](https://github.com/theyapapa/cryptonews/blob/es/localbitcoins-tor-browser-users-at-risk-of-losing-their-bitcoins-b320320a.md)
