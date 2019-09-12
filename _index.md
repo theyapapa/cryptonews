@@ -1,3 +1,4 @@
+* 2019-09-12 [에테 리움 클래식 성공적으로 아틀란티스 하드 포크를 구현](https://github.com/theyapapa/cryptonews/blob/ko/ethereum-classic-successfully-implements-atlantis-hard-fork-ce54420d.md)
 * 2019-09-12 [' 비트 코인은 디지털 골드' 이야기 여전히 입증, 전문가 상인 경고](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-is-digital-gold-narrative-still-unproven-warns-expert-trader-e1943b8f.md)
 * 2019-09-12 [알파-뱅크, 웨이브 블록체인에 서비스형 은행 플랫폼 출시](https://github.com/theyapapa/cryptonews/blob/ko/alfa-bank-launches-bank-as-a-service-platform-on-waves-blockchain-9d9afaf5.md)
 * 2019-09-12 [프리미어 리그의 왓포드 FC키트에 비트 코인 로고를 두고, BTC를 받아들인다](https://github.com/theyapapa/cryptonews/blob/ko/premier-leagues-watford-fc-puts-bitcoin-logo-on-kit-accepts-btc-d35d7b21.md)
