@@ -1,3 +1,4 @@
+* 2019-09-12 [Ethereum Классический Успешно реализует Атлантис Хард Форк](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-classic-successfully-implements-atlantis-hard-fork-ce54420d.md)
 * 2019-09-12 ['Bitcoin это цифровое золото' Повествование еще не доказано, предупреждает эксперт трейдер](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-is-digital-gold-narrative-still-unproven-warns-expert-trader-e1943b8f.md)
 * 2019-09-12 [Альфа-Банк запускает платформу «Банк как услуга» на блокчейне волн](https://github.com/theyapapa/cryptonews/blob/ru/alfa-bank-launches-bank-as-a-service-platform-on-waves-blockchain-9d9afaf5.md)
 * 2019-09-12 [Премьер-лиги Уотфорд ФК ставит Bitcoin логотип на комплект, принимает BTC](https://github.com/theyapapa/cryptonews/blob/ru/premier-leagues-watford-fc-puts-bitcoin-logo-on-kit-accepts-btc-d35d7b21.md)
