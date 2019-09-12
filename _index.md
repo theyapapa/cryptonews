@@ -1,3 +1,4 @@
+* 2019-09-12 [Informe: Blockchain Devices Market to Grow to $1.285 Billion by 2024](https://github.com/theyapapa/cryptonews/blob/es/report-blockchain-devices-market-to-grow-to-1285-billion-by-2024-22fbb47a.md)
 * 2019-09-12 [Ethereum Classic implementa con éxito Atlantis Hard Fork](https://github.com/theyapapa/cryptonews/blob/es/ethereum-classic-successfully-implements-atlantis-hard-fork-ce54420d.md)
 * 2019-09-12 [Narrativa 'Bitcoin is Digital Gold' aún no probada, advierte experta Trader](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-is-digital-gold-narrative-still-unproven-warns-expert-trader-e1943b8f.md)
 * 2019-09-12 [Alfa-Bank lanza plataforma de banco como servicio en Waves Blockchain](https://github.com/theyapapa/cryptonews/blob/es/alfa-bank-launches-bank-as-a-service-platform-on-waves-blockchain-9d9afaf5.md)
