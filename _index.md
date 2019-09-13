@@ -1,3 +1,4 @@
+* 2019-09-13 [El lanzamiento de Crypto de Facebook en H2 2020, dice el jefe de la asociación Libra](https://github.com/theyapapa/cryptonews/blob/es/facebooks-crypto-launching-in-h2-2020-says-libra-association-chief-c6cf565b.md)
 * 2019-09-12 [Hybrid AI Firm Cindicator lanza la aplicación de seguimiento de 150 activos digitales](https://github.com/theyapapa/cryptonews/blob/es/hybrid-ai-firm-cindicator-launches-tracking-app-for-150-digital-assets-31541795.md)
 * 2019-09-12 [Abogados rusos Reclaman 200.000 BTC perdidos en el Monte Gox se pueden recuperar](https://github.com/theyapapa/cryptonews/blob/es/russian-lawyers-claim-200-000-btc-lost-in-mt-gox-can-be-recovered-cd37f200.md)
 * 2019-09-12 [CEO de Ripple a CNN: 'Somos la parte más interesada' en el éxito de XRP](https://github.com/theyapapa/cryptonews/blob/es/ripple-ceo-to-cnn-we-are-the-most-interested-party-in-xrps-success-d6aed1e5.md)
