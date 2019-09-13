@@ -1,3 +1,4 @@
+* 2019-09-13 [Пятница 13: Крипто Рынки Красный, как Bitcoin Цена скользит ниже $ 10,3K](https://github.com/theyapapa/cryptonews/blob/ru/friday-the-13th-crypto-markets-red-as-bitcoin-price-slips-below-103k-de3bef57.md)
 * 2019-09-13 [Правительство Германии не выступает против одобрения Весов Facebook в Европе](https://github.com/theyapapa/cryptonews/blob/ru/german-govt-speaks-against-approval-of-facebooks-libra-in-europe-c3be0c06.md)
 * 2019-09-13 [EOS Hard Fork за 10 дней, основные обновления для Tron, Neo: CT Analytics](https://github.com/theyapapa/cryptonews/blob/ru/eos-hard-fork-in-10-days-major-updates-for-tron-neo-ct-analytics-054dd424.md)
 * 2019-09-13 [Венесуэла: Новый рекорд торговли биткойнами, как крупнейший банк охватывает Петро](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-new-bitcoin-trading-record-as-biggest-bank-embraces-petro-f7f9e1f3.md)
