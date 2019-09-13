@@ -1,3 +1,4 @@
+* 2019-09-13 [EOS Hard Fork за 10 дней, основные обновления для Tron, Neo: CT Analytics](https://github.com/theyapapa/cryptonews/blob/ru/eos-hard-fork-in-10-days-major-updates-for-tron-neo-ct-analytics-054dd424.md)
 * 2019-09-13 [Венесуэла: Новый рекорд торговли биткойнами, как крупнейший банк охватывает Петро](https://github.com/theyapapa/cryptonews/blob/ru/venezuela-new-bitcoin-trading-record-as-biggest-bank-embraces-petro-f7f9e1f3.md)
 * 2019-09-13 [$800 Bitcoin покупает $10,000 Наличными на Темной паутине, Turn-Key Отмывание денег](https://github.com/theyapapa/cryptonews/blob/ru/800-bitcoin-buys-10-000-cash-on-dark-web-turn-key-money-laundering-d01587bc.md)
 * 2019-09-13 [Facebook В Крипто Запуск в H2 2020, говорит Весы Ассоциации начальник](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-crypto-launching-in-h2-2020-says-libra-association-chief-c6cf565b.md)
