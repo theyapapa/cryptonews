@@ -1,3 +1,4 @@
+* 2019-09-13 [Facebook В Крипто Запуск в H2 2020, говорит Весы Ассоциации начальник](https://github.com/theyapapa/cryptonews/blob/ru/facebooks-crypto-launching-in-h2-2020-says-libra-association-chief-c6cf565b.md)
 * 2019-09-12 [Гибридный Индикатор фирмы ИИ запускает приложение для отслеживания 150 цифровых активов](https://github.com/theyapapa/cryptonews/blob/ru/hybrid-ai-firm-cindicator-launches-tracking-app-for-150-digital-assets-31541795.md)
 * 2019-09-12 [Российские юристы утверждают, что 200 000 BTC потерянных в Mt. Gox могут быть восстановлены](https://github.com/theyapapa/cryptonews/blob/ru/russian-lawyers-claim-200-000-btc-lost-in-mt-gox-can-be-recovered-cd37f200.md)
 * 2019-09-12 [Генеральный директор Ripple cnn: «Мы самая заинтересованная сторона» в успехе XRP](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-to-cnn-we-are-the-most-interested-party-in-xrps-success-d6aed1e5.md)
