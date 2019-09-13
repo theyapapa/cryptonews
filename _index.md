@@ -1,3 +1,4 @@
+* 2019-09-12 [하이브리드 AI 기업 Cindicator, 150개의 디지털 자산에 대한 추적 앱 출시](https://github.com/theyapapa/cryptonews/blob/ko/hybrid-ai-firm-cindicator-launches-tracking-app-for-150-digital-assets-31541795.md)
 * 2019-09-12 [러시아 변호사 주장 200,000 BTC 산에서 잃어버린 Gox 복구 할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/russian-lawyers-claim-200-000-btc-lost-in-mt-gox-can-be-recovered-cd37f200.md)
 * 2019-09-12 [CNN에 리플 CEO: XRP의 성공에 '우리는 가장 관심있는 당사자'](https://github.com/theyapapa/cryptonews/blob/ko/ripple-ceo-to-cnn-we-are-the-most-interested-party-in-xrps-success-d6aed1e5.md)
 * 2019-09-12 [보고서: 2024년까지 블록체인 디바이스 시장이 12억 8,500만 달러로 성장할 것으로 예상된다.](https://github.com/theyapapa/cryptonews/blob/ko/report-blockchain-devices-market-to-grow-to-1285-billion-by-2024-22fbb47a.md)
