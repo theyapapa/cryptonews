@@ -1,3 +1,4 @@
+* 2019-09-13 [$800 Bitcoin Compra $10,000 en efectivo en Dark Web, lavado de dinero llave en mano](https://github.com/theyapapa/cryptonews/blob/es/800-bitcoin-buys-10-000-cash-on-dark-web-turn-key-money-laundering-d01587bc.md)
 * 2019-09-13 [El lanzamiento de Crypto de Facebook en H2 2020, dice el jefe de la asociación Libra](https://github.com/theyapapa/cryptonews/blob/es/facebooks-crypto-launching-in-h2-2020-says-libra-association-chief-c6cf565b.md)
 * 2019-09-12 [Hybrid AI Firm Cindicator lanza la aplicación de seguimiento de 150 activos digitales](https://github.com/theyapapa/cryptonews/blob/es/hybrid-ai-firm-cindicator-launches-tracking-app-for-150-digital-assets-31541795.md)
 * 2019-09-12 [Abogados rusos Reclaman 200.000 BTC perdidos en el Monte Gox se pueden recuperar](https://github.com/theyapapa/cryptonews/blob/es/russian-lawyers-claim-200-000-btc-lost-in-mt-gox-can-be-recovered-cd37f200.md)
