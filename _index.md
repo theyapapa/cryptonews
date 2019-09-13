@@ -1,3 +1,4 @@
+* 2019-09-12 [Российские юристы утверждают, что 200 000 BTC потерянных в Mt. Gox могут быть восстановлены](https://github.com/theyapapa/cryptonews/blob/ru/russian-lawyers-claim-200-000-btc-lost-in-mt-gox-can-be-recovered-cd37f200.md)
 * 2019-09-12 [Генеральный директор Ripple cnn: «Мы самая заинтересованная сторона» в успехе XRP](https://github.com/theyapapa/cryptonews/blob/ru/ripple-ceo-to-cnn-we-are-the-most-interested-party-in-xrps-success-d6aed1e5.md)
 * 2019-09-12 [Отчет: Рынок блокчейн-устройств вырастет до $1,285 млрд к 2024 году](https://github.com/theyapapa/cryptonews/blob/ru/report-blockchain-devices-market-to-grow-to-1285-billion-by-2024-22fbb47a.md)
 * 2019-09-12 [Ethereum Классический Успешно реализует Атлантис Хард Форк](https://github.com/theyapapa/cryptonews/blob/ru/ethereum-classic-successfully-implements-atlantis-hard-fork-ce54420d.md)
