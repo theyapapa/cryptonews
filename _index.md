@@ -1,3 +1,4 @@
+* 2019-09-13 [독일 정부는 유럽에서 페이스 북의 선칭의 승인에 대해 말](https://github.com/theyapapa/cryptonews/blob/ko/german-govt-speaks-against-approval-of-facebooks-libra-in-europe-c3be0c06.md)
 * 2019-09-13 [EOS 하드 포크에서 10 일, 트론에 대한 주요 업데이트, 네오: CT 분석](https://github.com/theyapapa/cryptonews/blob/ko/eos-hard-fork-in-10-days-major-updates-for-tron-neo-ct-analytics-054dd424.md)
 * 2019-09-13 [베네수엘라: 가장 큰 은행으로 새로운 비트 코인 거래 기록 페트로를 포용](https://github.com/theyapapa/cryptonews/blob/ko/venezuela-new-bitcoin-trading-record-as-biggest-bank-embraces-petro-f7f9e1f3.md)
 * 2019-09-13 [$800 비트코인 구매 $10,000 다크 웹에서 현금, 턴키 돈세탁](https://github.com/theyapapa/cryptonews/blob/ko/800-bitcoin-buys-10-000-cash-on-dark-web-turn-key-money-laundering-d01587bc.md)
