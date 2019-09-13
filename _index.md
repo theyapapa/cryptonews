@@ -1,3 +1,4 @@
+* 2019-09-13 [Intercambio no privativa de custodia KyberSwap lanza Fiat-to-Crypto Gateway](https://github.com/theyapapa/cryptonews/blob/es/non-custodial-exchange-kyberswap-launches-fiat-to-crypto-gateway-35283c72.md)
 * 2019-09-13 [Viernes 13: Cripto Mercados Rojo como Bitcoin Precio Se desliza por debajo de $10.3K](https://github.com/theyapapa/cryptonews/blob/es/friday-the-13th-crypto-markets-red-as-bitcoin-price-slips-below-103k-de3bef57.md)
 * 2019-09-13 [El gobierno alemán habla en contra de la aprobación de La Libra de Facebook en Europa](https://github.com/theyapapa/cryptonews/blob/es/german-govt-speaks-against-approval-of-facebooks-libra-in-europe-c3be0c06.md)
 * 2019-09-13 [EOS Hard Fork en 10 días, actualizaciones importantes para Tron, Neo: CT Analytics](https://github.com/theyapapa/cryptonews/blob/es/eos-hard-fork-in-10-days-major-updates-for-tron-neo-ct-analytics-054dd424.md)
