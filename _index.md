@@ -1,3 +1,4 @@
+* 2019-09-14 [Казначейство США: Несоответствующие Финтех не выживут в войне с террором](https://github.com/theyapapa/cryptonews/blob/ru/us-treasury-non-compliant-fintechs-wont-survive-the-war-on-terror-179ffc76.md)
 * 2019-09-14 [Поставщик индекса CME BTC CF Benchmarks выигрывает лицензию ЕС](https://github.com/theyapapa/cryptonews/blob/ru/cmes-btc-index-provider-cf-benchmarks-wins-eu-license-39e56263.md)
 * 2019-09-13 [Клиенты BlockFi теперь могут начать зарабатывать проценты на любую сумму Crypto](https://github.com/theyapapa/cryptonews/blob/ru/blockfi-clients-can-now-start-earning-interest-on-any-amount-of-crypto-f911c42b.md)
 * 2019-09-13 [После нескольких ложных запусков, Венесуэла может иметь свой первый Bitcoin банкомат](https://github.com/theyapapa/cryptonews/blob/ru/after-multiple-false-starts-venezuela-may-have-its-first-bitcoin-atm-9e125de7.md)
