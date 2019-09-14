@@ -1,3 +1,4 @@
+* 2019-09-13 [Después de múltiples inicios falsos, Venezuela puede tener su primer cajero automático Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/after-multiple-false-starts-venezuela-may-have-its-first-bitcoin-atm-9e125de7.md)
 * 2019-09-13 [Startup Particl revela la función de creación y gestión de mercados](https://github.com/theyapapa/cryptonews/blob/es/startup-particl-reveals-marketplaces-creation-and-management-feature-25fdfeb7.md)
 * 2019-09-13 [Intercambio no privativa de custodia KyberSwap lanza Fiat-to-Crypto Gateway](https://github.com/theyapapa/cryptonews/blob/es/non-custodial-exchange-kyberswap-launches-fiat-to-crypto-gateway-35283c72.md)
 * 2019-09-13 [Viernes 13: Cripto Mercados Rojo como Bitcoin Precio Se desliza por debajo de $10.3K](https://github.com/theyapapa/cryptonews/blob/es/friday-the-13th-crypto-markets-red-as-bitcoin-price-slips-below-103k-de3bef57.md)
