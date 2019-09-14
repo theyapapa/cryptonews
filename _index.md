@@ -1,3 +1,4 @@
+* 2019-09-14 [Китайские власти планируют разгон по крипто-добычи во Внутренней Монголии](https://github.com/theyapapa/cryptonews/blob/ru/chinese-authorities-plan-crackdown-on-crypto-mining-in-inner-mongolia-a5b04e2e.md)
 * 2019-09-14 [Основатель платежной сети Зелле присоединяется к звездно-ориентированного стартапа в качестве генерального директора](https://github.com/theyapapa/cryptonews/blob/ru/founder-of-payments-network-zelle-joins-stellar-focused-startup-as-ceo-95d07d7a.md)
 * 2019-09-14 [Coinbase Pro, чтобы добавить поддержку для торговли DASH](https://github.com/theyapapa/cryptonews/blob/ru/coinbase-pro-to-add-support-for-dash-trading-a434c9c6.md)
 * 2019-09-14 [Казначейство США: Несоответствующие Финтех не выживут в войне с террором](https://github.com/theyapapa/cryptonews/blob/ru/us-treasury-non-compliant-fintechs-wont-survive-the-war-on-terror-179ffc76.md)
