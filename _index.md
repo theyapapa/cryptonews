@@ -1,3 +1,4 @@
+* 2019-09-14 [해커지출 $1K 이상 승리 $110K REX를 사용 하 여 EOS 도박 게임에서](https://github.com/theyapapa/cryptonews/blob/ko/hacker-spends-1k-to-win-over-110k-in-eos-betting-game-using-rex-bdc3571c.md)
 * 2019-09-14 [국세청은 맹목적으로 암호 화폐 상인 후 오고있다 - 여기에 이유](https://github.com/theyapapa/cryptonews/blob/ko/the-irs-is-blindly-coming-after-cryptocurrency-traders-heres-why-ab37f30f.md)
 * 2019-09-14 [중국 당국은 내몽골에서 암호화 마이닝에 대한 단속을 계획](https://github.com/theyapapa/cryptonews/blob/ko/chinese-authorities-plan-crackdown-on-crypto-mining-in-inner-mongolia-a5b04e2e.md)
 * 2019-09-14 [결제 네트워크 젤의 설립자, CEO로 스텔라 중심의 스타트업에 합류](https://github.com/theyapapa/cryptonews/blob/ko/founder-of-payments-network-zelle-joins-stellar-focused-startup-as-ceo-95d07d7a.md)
