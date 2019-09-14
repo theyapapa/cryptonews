@@ -1,3 +1,4 @@
+* 2019-09-14 [미국 재무부: 비준수 핀테크는 테러와의 전쟁에서 살아남지 못할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-non-compliant-fintechs-wont-survive-the-war-on-terror-179ffc76.md)
 * 2019-09-14 [CME의 BTC 지수 제공업체 CF 벤치마크, EU 라이선스 획득](https://github.com/theyapapa/cryptonews/blob/ko/cmes-btc-index-provider-cf-benchmarks-wins-eu-license-39e56263.md)
 * 2019-09-13 [BlockFi 클라이언트는 이제 암호화의 모든 금액에 대한 이자를 적립 시작할 수 있습니다](https://github.com/theyapapa/cryptonews/blob/ko/blockfi-clients-can-now-start-earning-interest-on-any-amount-of-crypto-f911c42b.md)
 * 2019-09-13 [여러 거짓 시작 후, 베네수엘라는 첫 번째 비트 코인 ATM을 가질 수있다](https://github.com/theyapapa/cryptonews/blob/ko/after-multiple-false-starts-venezuela-may-have-its-first-bitcoin-atm-9e125de7.md)
