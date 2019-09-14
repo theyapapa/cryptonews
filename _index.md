@@ -1,3 +1,4 @@
+* 2019-09-14 [중국 당국은 내몽골에서 암호화 마이닝에 대한 단속을 계획](https://github.com/theyapapa/cryptonews/blob/ko/chinese-authorities-plan-crackdown-on-crypto-mining-in-inner-mongolia-a5b04e2e.md)
 * 2019-09-14 [결제 네트워크 젤의 설립자, CEO로 스텔라 중심의 스타트업에 합류](https://github.com/theyapapa/cryptonews/blob/ko/founder-of-payments-network-zelle-joins-stellar-focused-startup-as-ceo-95d07d7a.md)
 * 2019-09-14 [DASH 거래에 대한 지원을 추가하는 코인베이스 프로](https://github.com/theyapapa/cryptonews/blob/ko/coinbase-pro-to-add-support-for-dash-trading-a434c9c6.md)
 * 2019-09-14 [미국 재무부: 비준수 핀테크는 테러와의 전쟁에서 살아남지 못할 것입니다.](https://github.com/theyapapa/cryptonews/blob/ko/us-treasury-non-compliant-fintechs-wont-survive-the-war-on-terror-179ffc76.md)
