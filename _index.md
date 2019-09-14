@@ -1,3 +1,4 @@
+* 2019-09-14 [El proveedor de índiceBTC CF Benchmarks de CME gana la licencia de la UE](https://github.com/theyapapa/cryptonews/blob/es/cmes-btc-index-provider-cf-benchmarks-wins-eu-license-39e56263.md)
 * 2019-09-13 [Los clientes de BlockFi ahora pueden empezar a ganar interés en cualquier cantidad de cripto](https://github.com/theyapapa/cryptonews/blob/es/blockfi-clients-can-now-start-earning-interest-on-any-amount-of-crypto-f911c42b.md)
 * 2019-09-13 [Después de múltiples inicios falsos, Venezuela puede tener su primer cajero automático Bitcoin](https://github.com/theyapapa/cryptonews/blob/es/after-multiple-false-starts-venezuela-may-have-its-first-bitcoin-atm-9e125de7.md)
 * 2019-09-13 [Startup Particl revela la función de creación y gestión de mercados](https://github.com/theyapapa/cryptonews/blob/es/startup-particl-reveals-marketplaces-creation-and-management-feature-25fdfeb7.md)
