@@ -1,3 +1,4 @@
+* 2019-09-14 [Autoridades chinas planean la represión de la minería criptográfica en Mongolia Interior](https://github.com/theyapapa/cryptonews/blob/es/chinese-authorities-plan-crackdown-on-crypto-mining-in-inner-mongolia-a5b04e2e.md)
 * 2019-09-14 [Fundador de Payments Network Zelle se une a Stellar-Focused Startup como CEO](https://github.com/theyapapa/cryptonews/blob/es/founder-of-payments-network-zelle-joins-stellar-focused-startup-as-ceo-95d07d7a.md)
 * 2019-09-14 [Coinbase Pro para añadir soporte para el comercio DASH](https://github.com/theyapapa/cryptonews/blob/es/coinbase-pro-to-add-support-for-dash-trading-a434c9c6.md)
 * 2019-09-14 [Tesorería de EE. UU.: Las fintechs no conformes no sobrevivirán a la guerra contra el terrorismo](https://github.com/theyapapa/cryptonews/blob/es/us-treasury-non-compliant-fintechs-wont-survive-the-war-on-terror-179ffc76.md)
