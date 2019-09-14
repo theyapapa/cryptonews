@@ -1,3 +1,4 @@
+* 2019-09-14 [Hacker gasta $1K para ganar más de $110K en el juego de apuestas EOS usando REX](https://github.com/theyapapa/cryptonews/blob/es/hacker-spends-1k-to-win-over-110k-in-eos-betting-game-using-rex-bdc3571c.md)
 * 2019-09-14 [El IRS está llegando ciegamente después de los comerciantes de criptomonedas — Aquí está por qué](https://github.com/theyapapa/cryptonews/blob/es/the-irs-is-blindly-coming-after-cryptocurrency-traders-heres-why-ab37f30f.md)
 * 2019-09-14 [Autoridades chinas planean la represión de la minería criptográfica en Mongolia Interior](https://github.com/theyapapa/cryptonews/blob/es/chinese-authorities-plan-crackdown-on-crypto-mining-in-inner-mongolia-a5b04e2e.md)
 * 2019-09-14 [Fundador de Payments Network Zelle se une a Stellar-Focused Startup como CEO](https://github.com/theyapapa/cryptonews/blob/es/founder-of-payments-network-zelle-joins-stellar-focused-startup-as-ceo-95d07d7a.md)
