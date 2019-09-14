@@ -1,3 +1,4 @@
+* 2019-09-14 [Хакер тратит $ 1K, чтобы выиграть более $ 110K в EOS Ставки игры с помощью REX](https://github.com/theyapapa/cryptonews/blob/ru/hacker-spends-1k-to-win-over-110k-in-eos-betting-game-using-rex-bdc3571c.md)
 * 2019-09-14 [IRS слепо ближайшие после криптовалютных трейдеров - Вот почему](https://github.com/theyapapa/cryptonews/blob/ru/the-irs-is-blindly-coming-after-cryptocurrency-traders-heres-why-ab37f30f.md)
 * 2019-09-14 [Китайские власти планируют разгон по крипто-добычи во Внутренней Монголии](https://github.com/theyapapa/cryptonews/blob/ru/chinese-authorities-plan-crackdown-on-crypto-mining-in-inner-mongolia-a5b04e2e.md)
 * 2019-09-14 [Основатель платежной сети Зелле присоединяется к звездно-ориентированного стартапа в качестве генерального директора](https://github.com/theyapapa/cryptonews/blob/ru/founder-of-payments-network-zelle-joins-stellar-focused-startup-as-ceo-95d07d7a.md)
