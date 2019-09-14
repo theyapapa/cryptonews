@@ -1,3 +1,4 @@
+* 2019-09-13 [여러 거짓 시작 후, 베네수엘라는 첫 번째 비트 코인 ATM을 가질 수있다](https://github.com/theyapapa/cryptonews/blob/ko/after-multiple-false-starts-venezuela-may-have-its-first-bitcoin-atm-9e125de7.md)
 * 2019-09-13 [스타트업 Particl, 마켓플레이스 제작 및 관리 기능 공개](https://github.com/theyapapa/cryptonews/blob/ko/startup-particl-reveals-marketplaces-creation-and-management-feature-25fdfeb7.md)
 * 2019-09-13 [비 양육권 교환 KyberSwap, 피아트-암호화 게이트웨이 출시](https://github.com/theyapapa/cryptonews/blob/ko/non-custodial-exchange-kyberswap-launches-fiat-to-crypto-gateway-35283c72.md)
 * 2019-09-13 [금요일 13 일: 비트 코인 가격 아래 미끄러로 암호화 시장 레드 $10.3K](https://github.com/theyapapa/cryptonews/blob/ko/friday-the-13th-crypto-markets-red-as-bitcoin-price-slips-below-103k-de3bef57.md)
