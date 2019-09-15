@@ -1,3 +1,4 @@
+* 2019-09-15 [Desarrolladores de Ethereum DEX Protocol AirSwap revelan exploit crítico](https://github.com/theyapapa/cryptonews/blob/es/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit-30b63d1c.md)
 * 2019-09-15 [Kaleido Blockchain implementa la solución de prueba de conocimiento cero de QEDIT](https://github.com/theyapapa/cryptonews/blob/es/kaleido-blockchain-implements-qedits-zero-knowledge-proof-solution-8d3baa25.md)
 * 2019-09-14 [Aventus anuncia un protocolo basado en Ethereum para mejorar la industria de la emisión de billetes](https://github.com/theyapapa/cryptonews/blob/es/aventus-announces-ethereum-based-protocol-to-enhance-ticketing-industry-66228ade.md)
 * 2019-09-14 [Hacker gasta $1K para ganar más de $110K en el juego de apuestas EOS usando REX](https://github.com/theyapapa/cryptonews/blob/es/hacker-spends-1k-to-win-over-110k-in-eos-betting-game-using-rex-bdc3571c.md)
