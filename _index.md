@@ -1,3 +1,4 @@
+* 2019-09-15 [Крупнейший банк Германии присоединился к блокчейн-сети JPMorgan](https://github.com/theyapapa/cryptonews/blob/ru/germanys-largest-bank-joins-jpmorgans-blockchain-network-96d3479b.md)
 * 2019-09-15 [Топ-5 Крипто Исполнителей: ATOM, EOS, ETH, DASH, TRX](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-atom-eos-eth-dash-trx-5bccafea.md)
 * 2019-09-15 [ETH Конфиденциальность Стартап ацтеков 'Зажигает' Его SNARKs Поколение Церемония](https://github.com/theyapapa/cryptonews/blob/ru/eth-privacy-startup-aztec-ignites-its-snarks-generation-687d34ff.md)
 * 2019-09-15 [Разработчики протокола Ethereum DEX AirSwap раскрывают критический эксплойт](https://github.com/theyapapa/cryptonews/blob/ru/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit-30b63d1c.md)
