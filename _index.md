@@ -1,3 +1,4 @@
+* 2019-09-15 [Kaleido 블록 체인은 QEDIT의 제로 지식 증명 솔루션을 구현합니다.](https://github.com/theyapapa/cryptonews/blob/ko/kaleido-blockchain-implements-qedits-zero-knowledge-proof-solution-8d3baa25.md)
 * 2019-09-14 [아벤투스, 발권 산업 강화를 위한 이더리움 기반 프로토콜 발표](https://github.com/theyapapa/cryptonews/blob/ko/aventus-announces-ethereum-based-protocol-to-enhance-ticketing-industry-66228ade.md)
 * 2019-09-14 [해커지출 $1K 이상 승리 $110K REX를 사용 하 여 EOS 도박 게임에서](https://github.com/theyapapa/cryptonews/blob/ko/hacker-spends-1k-to-win-over-110k-in-eos-betting-game-using-rex-bdc3571c.md)
 * 2019-09-14 [국세청은 맹목적으로 암호 화폐 상인 후 오고있다 - 여기에 이유](https://github.com/theyapapa/cryptonews/blob/ko/the-irs-is-blindly-coming-after-cryptocurrency-traders-heres-why-ab37f30f.md)
