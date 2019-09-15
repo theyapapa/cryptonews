@@ -1,3 +1,4 @@
+* 2019-09-15 [Kaleido Blockchain implementa la solución de prueba de conocimiento cero de QEDIT](https://github.com/theyapapa/cryptonews/blob/es/kaleido-blockchain-implements-qedits-zero-knowledge-proof-solution-8d3baa25.md)
 * 2019-09-14 [Aventus anuncia un protocolo basado en Ethereum para mejorar la industria de la emisión de billetes](https://github.com/theyapapa/cryptonews/blob/es/aventus-announces-ethereum-based-protocol-to-enhance-ticketing-industry-66228ade.md)
 * 2019-09-14 [Hacker gasta $1K para ganar más de $110K en el juego de apuestas EOS usando REX](https://github.com/theyapapa/cryptonews/blob/es/hacker-spends-1k-to-win-over-110k-in-eos-betting-game-using-rex-bdc3571c.md)
 * 2019-09-14 [El IRS está llegando ciegamente después de los comerciantes de criptomonedas — Aquí está por qué](https://github.com/theyapapa/cryptonews/blob/es/the-irs-is-blindly-coming-after-cryptocurrency-traders-heres-why-ab37f30f.md)
