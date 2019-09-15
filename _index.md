@@ -1,3 +1,4 @@
+* 2019-09-15 [El banco más grande de Alemania se une a la red Blockchain de JPMorgan](https://github.com/theyapapa/cryptonews/blob/es/germanys-largest-bank-joins-jpmorgans-blockchain-network-96d3479b.md)
 * 2019-09-15 [Top-5 Crypto Performers: ATOM, EOS, ETH, DASH, TRX](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-atom-eos-eth-dash-trx-5bccafea.md)
 * 2019-09-15 [ETH Privacy Startup Aztec 'ignites' its SNARKs Generation Ceremony](https://github.com/theyapapa/cryptonews/blob/es/eth-privacy-startup-aztec-ignites-its-snarks-generation-687d34ff.md)
 * 2019-09-15 [Desarrolladores de Ethereum DEX Protocol AirSwap revelan exploit crítico](https://github.com/theyapapa/cryptonews/blob/es/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit-30b63d1c.md)
