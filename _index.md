@@ -1,3 +1,4 @@
+* 2019-09-15 [Top-5 Crypto Performers: ATOM, EOS, ETH, DASH, TRX](https://github.com/theyapapa/cryptonews/blob/es/top-5-crypto-performers-atom-eos-eth-dash-trx-5bccafea.md)
 * 2019-09-15 [ETH Privacy Startup Aztec 'ignites' its SNARKs Generation Ceremony](https://github.com/theyapapa/cryptonews/blob/es/eth-privacy-startup-aztec-ignites-its-snarks-generation-687d34ff.md)
 * 2019-09-15 [Desarrolladores de Ethereum DEX Protocol AirSwap revelan exploit crítico](https://github.com/theyapapa/cryptonews/blob/es/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit-30b63d1c.md)
 * 2019-09-15 [Kaleido Blockchain implementa la solución de prueba de conocimiento cero de QEDIT](https://github.com/theyapapa/cryptonews/blob/es/kaleido-blockchain-implements-qedits-zero-knowledge-proof-solution-8d3baa25.md)
