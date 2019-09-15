@@ -1,3 +1,4 @@
+* 2019-09-15 [ETH Конфиденциальность Стартап ацтеков 'Зажигает' Его SNARKs Поколение Церемония](https://github.com/theyapapa/cryptonews/blob/ru/eth-privacy-startup-aztec-ignites-its-snarks-generation-687d34ff.md)
 * 2019-09-15 [Разработчики протокола Ethereum DEX AirSwap раскрывают критический эксплойт](https://github.com/theyapapa/cryptonews/blob/ru/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit-30b63d1c.md)
 * 2019-09-15 [Kaleido Blockchain реализует решение с нулевым знанием](https://github.com/theyapapa/cryptonews/blob/ru/kaleido-blockchain-implements-qedits-zero-knowledge-proof-solution-8d3baa25.md)
 * 2019-09-14 [Aventus объявляет Ethereum основе протокола для улучшения индустрии билетов](https://github.com/theyapapa/cryptonews/blob/ru/aventus-announces-ethereum-based-protocol-to-enhance-ticketing-industry-66228ade.md)
