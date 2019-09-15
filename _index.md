@@ -1,3 +1,4 @@
+* 2019-09-14 [Aventus anuncia un protocolo basado en Ethereum para mejorar la industria de la emisión de billetes](https://github.com/theyapapa/cryptonews/blob/es/aventus-announces-ethereum-based-protocol-to-enhance-ticketing-industry-66228ade.md)
 * 2019-09-14 [Hacker gasta $1K para ganar más de $110K en el juego de apuestas EOS usando REX](https://github.com/theyapapa/cryptonews/blob/es/hacker-spends-1k-to-win-over-110k-in-eos-betting-game-using-rex-bdc3571c.md)
 * 2019-09-14 [El IRS está llegando ciegamente después de los comerciantes de criptomonedas — Aquí está por qué](https://github.com/theyapapa/cryptonews/blob/es/the-irs-is-blindly-coming-after-cryptocurrency-traders-heres-why-ab37f30f.md)
 * 2019-09-14 [Autoridades chinas planean la represión de la minería criptográfica en Mongolia Interior](https://github.com/theyapapa/cryptonews/blob/es/chinese-authorities-plan-crackdown-on-crypto-mining-in-inner-mongolia-a5b04e2e.md)
