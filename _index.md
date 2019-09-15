@@ -1,3 +1,4 @@
+* 2019-09-15 [독일 최대 은행, JP모건 블록체인 네트워크 가입](https://github.com/theyapapa/cryptonews/blob/ko/germanys-largest-bank-joins-jpmorgans-blockchain-network-96d3479b.md)
 * 2019-09-15 [상위 5 암호화 수행자: ATOM, EOS, ETH, 대시, TRX](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-atom-eos-eth-dash-trx-5bccafea.md)
 * 2019-09-15 [ETH 프라이버시 스타트업 아즈텍 '점화'](https://github.com/theyapapa/cryptonews/blob/ko/eth-privacy-startup-aztec-ignites-its-snarks-generation-687d34ff.md)
 * 2019-09-15 [이더리움 DEX 프로토콜 에어스왑 개발자는 중요한 악용을 공개](https://github.com/theyapapa/cryptonews/blob/ko/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit-30b63d1c.md)
