@@ -1,3 +1,4 @@
+* 2019-09-15 [ETH 프라이버시 스타트업 아즈텍 '점화'](https://github.com/theyapapa/cryptonews/blob/ko/eth-privacy-startup-aztec-ignites-its-snarks-generation-687d34ff.md)
 * 2019-09-15 [이더리움 DEX 프로토콜 에어스왑 개발자는 중요한 악용을 공개](https://github.com/theyapapa/cryptonews/blob/ko/developers-of-ethereum-dex-protocol-airswap-disclose-critical-exploit-30b63d1c.md)
 * 2019-09-15 [Kaleido 블록 체인은 QEDIT의 제로 지식 증명 솔루션을 구현합니다.](https://github.com/theyapapa/cryptonews/blob/ko/kaleido-blockchain-implements-qedits-zero-knowledge-proof-solution-8d3baa25.md)
 * 2019-09-14 [아벤투스, 발권 산업 강화를 위한 이더리움 기반 프로토콜 발표](https://github.com/theyapapa/cryptonews/blob/ko/aventus-announces-ethereum-based-protocol-to-enhance-ticketing-industry-66228ade.md)
