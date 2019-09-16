@@ -1,3 +1,4 @@
+* 2019-09-16 [Predicción de $250K Bitcoin Precio es ahora 'conservador', dice Tim Draper](https://github.com/theyapapa/cryptonews/blob/es/250k-bitcoin-price-prediction-is-now-conservative-says-tim-draper-5ae39db3.md)
 * 2019-09-16 [PayPal: 'Mucho trabajo' todavía necesita suceder para que Libra se convierta en real](https://github.com/theyapapa/cryptonews/blob/es/paypal-a-lot-of-work-still-needs-to-happen-for-libra-to-become-real-76fc0d48.md)
 * 2019-09-16 [Binance CEO: Plataforma de Futuros Bitcoin 'SAFU' Después de La Falsa Alarma de Ataque](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-futures-platform-safu-after-false-alarm-attack-binance-ceo-edf9f702.md)
 * 2019-09-15 [Noticias criptográficas de Asia: del 9 al 15 de septiembre](https://github.com/theyapapa/cryptonews/blob/es/crypto-news-from-asia-sept-915-4ecc327d.md)
