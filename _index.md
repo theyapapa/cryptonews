@@ -1,3 +1,4 @@
+* 2019-09-16 [ECB 관계자: 안정된 코인은 공공 정책 우선 순위에 위험을 제기](https://github.com/theyapapa/cryptonews/blob/ko/ecb-official-stablecoins-pose-risks-to-public-policy-priorities-489eab27.md)
 * 2019-09-16 [SegWit 지출 비트 코인 거래의 점유율은 지금 이상 50%](https://github.com/theyapapa/cryptonews/blob/ko/share-of-segwit-spending-bitcoin-transactions-now-over-50-1b404d3e.md)
 * 2019-09-16 [천칭 자리는 국가의 주권을 위협하지 않습니다, 칼리브라 CEO는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/libra-does-not-threaten-sovereignty-of-nations-says-calibra-ceo-794fd760.md)
 * 2019-09-16 [$250K 비트 코인 가격 예측은 지금 '보수적이다,' 팀 드레이퍼는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/250k-bitcoin-price-prediction-is-now-conservative-says-tim-draper-5ae39db3.md)
