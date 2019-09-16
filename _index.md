@@ -1,3 +1,4 @@
+* 2019-09-15 [Крипто Новости из Азии: 9-15 сентября](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-asia-sept-915-4ecc327d.md)
 * 2019-09-15 [Crypto Новости из немецкоязычного мира: 9-15 сентября в обзоре](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-the-german-speaking-world-sept-915-in-review-c92fbf1d.md)
 * 2019-09-15 [Крупнейший банк Германии присоединился к блокчейн-сети JPMorgan](https://github.com/theyapapa/cryptonews/blob/ru/germanys-largest-bank-joins-jpmorgans-blockchain-network-96d3479b.md)
 * 2019-09-15 [Топ-5 Крипто Исполнителей: ATOM, EOS, ETH, DASH, TRX](https://github.com/theyapapa/cryptonews/blob/ru/top-5-crypto-performers-atom-eos-eth-dash-trx-5bccafea.md)
