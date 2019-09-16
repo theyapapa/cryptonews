@@ -1,3 +1,4 @@
+* 2019-09-16 [Официальный представитель ЕЦБ: Стабильные монеты создают риски для приоритетов государственной политики](https://github.com/theyapapa/cryptonews/blob/ru/ecb-official-stablecoins-pose-risks-to-public-policy-priorities-489eab27.md)
 * 2019-09-16 [Доля SegWit-Spending Bitcoin Транзакции Теперь более 50%](https://github.com/theyapapa/cryptonews/blob/ru/share-of-segwit-spending-bitcoin-transactions-now-over-50-1b404d3e.md)
 * 2019-09-16 [Весы не угрожают суверенитету наций, говорит генеральный директор Calibra](https://github.com/theyapapa/cryptonews/blob/ru/libra-does-not-threaten-sovereignty-of-nations-says-calibra-ceo-794fd760.md)
 * 2019-09-16 [$ 250K Bitcoin Цена Прогноз теперь "консервативной", говорит Тим Дрейпер](https://github.com/theyapapa/cryptonews/blob/ru/250k-bitcoin-price-prediction-is-now-conservative-says-tim-draper-5ae39db3.md)
