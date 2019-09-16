@@ -1,3 +1,4 @@
+* 2019-09-16 [HTC Smartphone añade cartera incorporada para Bitcoin efectivo](https://github.com/theyapapa/cryptonews/blob/es/htc-smartphone-adds-built-in-wallet-for-bitcoin-cash-9bd43355.md)
 * 2019-09-16 [Informe: El jugador de la NBA Spencer Dinwiddie fichará contrato de $34 millones](https://github.com/theyapapa/cryptonews/blob/es/report-nba-player-spencer-dinwiddie-to-tokenize-34m-contract-2104c38a.md)
 * 2019-09-16 [Funcionario del BCE: Las stablecoins plantean riesgos para las prioridades de políticas públicas](https://github.com/theyapapa/cryptonews/blob/es/ecb-official-stablecoins-pose-risks-to-public-policy-priorities-489eab27.md)
 * 2019-09-16 [Porcentaje de Transacciones Bitcoin De GWit-Gasto Ahora Más del 50%](https://github.com/theyapapa/cryptonews/blob/es/share-of-segwit-spending-bitcoin-transactions-now-over-50-1b404d3e.md)
