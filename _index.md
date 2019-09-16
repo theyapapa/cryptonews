@@ -1,3 +1,4 @@
+* 2019-09-16 [PayPal: "Много работы" все еще должно произойти для Весов, чтобы стать реальным](https://github.com/theyapapa/cryptonews/blob/ru/paypal-a-lot-of-work-still-needs-to-happen-for-libra-to-become-real-76fc0d48.md)
 * 2019-09-16 [Генеральный директор Binance: Bitcoin Фьючерсная платформа 'SAFU' После атаки Ложной Тревоги](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-futures-platform-safu-after-false-alarm-attack-binance-ceo-edf9f702.md)
 * 2019-09-15 [Крипто Новости из Азии: 9-15 сентября](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-asia-sept-915-4ecc327d.md)
 * 2019-09-15 [Crypto Новости из немецкоязычного мира: 9-15 сентября в обзоре](https://github.com/theyapapa/cryptonews/blob/ru/crypto-news-from-the-german-speaking-world-sept-915-in-review-c92fbf1d.md)
