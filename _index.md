@@ -1,3 +1,4 @@
+* 2019-09-15 [독일어권 세계에서 암호화 뉴스: Sept. 9-15 검토](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-the-german-speaking-world-sept-915-in-review-c92fbf1d.md)
 * 2019-09-15 [독일 최대 은행, JP모건 블록체인 네트워크 가입](https://github.com/theyapapa/cryptonews/blob/ko/germanys-largest-bank-joins-jpmorgans-blockchain-network-96d3479b.md)
 * 2019-09-15 [상위 5 암호화 수행자: ATOM, EOS, ETH, 대시, TRX](https://github.com/theyapapa/cryptonews/blob/ko/top-5-crypto-performers-atom-eos-eth-dash-trx-5bccafea.md)
 * 2019-09-15 [ETH 프라이버시 스타트업 아즈텍 '점화'](https://github.com/theyapapa/cryptonews/blob/ko/eth-privacy-startup-aztec-ignites-its-snarks-generation-687d34ff.md)
