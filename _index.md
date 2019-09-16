@@ -1,3 +1,4 @@
+* 2019-09-16 [Смартфон HTC добавляет встроенный кошелек для Bitcoin Cash](https://github.com/theyapapa/cryptonews/blob/ru/htc-smartphone-adds-built-in-wallet-for-bitcoin-cash-9bd43355.md)
 * 2019-09-16 [Доклад: Игрок НБА Спенсер Динвидди to Tokenize $ 34M контракт](https://github.com/theyapapa/cryptonews/blob/ru/report-nba-player-spencer-dinwiddie-to-tokenize-34m-contract-2104c38a.md)
 * 2019-09-16 [Официальный представитель ЕЦБ: Стабильные монеты создают риски для приоритетов государственной политики](https://github.com/theyapapa/cryptonews/blob/ru/ecb-official-stablecoins-pose-risks-to-public-policy-priorities-489eab27.md)
 * 2019-09-16 [Доля SegWit-Spending Bitcoin Транзакции Теперь более 50%](https://github.com/theyapapa/cryptonews/blob/ru/share-of-segwit-spending-bitcoin-transactions-now-over-50-1b404d3e.md)
