@@ -1,3 +1,4 @@
+* 2019-09-16 [Binance CEO: 비트 코인 선물 플랫폼 'SAFU' 공격 거짓 경보 후](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-futures-platform-safu-after-false-alarm-attack-binance-ceo-edf9f702.md)
 * 2019-09-15 [아시아에서 암호화 뉴스: Sept. 9-15](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-asia-sept-915-4ecc327d.md)
 * 2019-09-15 [독일어권 세계에서 암호화 뉴스: Sept. 9-15 검토](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-the-german-speaking-world-sept-915-in-review-c92fbf1d.md)
 * 2019-09-15 [독일 최대 은행, JP모건 블록체인 네트워크 가입](https://github.com/theyapapa/cryptonews/blob/ko/germanys-largest-bank-joins-jpmorgans-blockchain-network-96d3479b.md)
