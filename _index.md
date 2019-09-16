@@ -1,3 +1,4 @@
+* 2019-09-16 [$250K 비트 코인 가격 예측은 지금 '보수적이다,' 팀 드레이퍼는 말한다](https://github.com/theyapapa/cryptonews/blob/ko/250k-bitcoin-price-prediction-is-now-conservative-says-tim-draper-5ae39db3.md)
 * 2019-09-16 [페이팔: '많은 일' 여전히 실현 을 위해 일어날 필요가 현실](https://github.com/theyapapa/cryptonews/blob/ko/paypal-a-lot-of-work-still-needs-to-happen-for-libra-to-become-real-76fc0d48.md)
 * 2019-09-16 [Binance CEO: 비트 코인 선물 플랫폼 'SAFU' 공격 거짓 경보 후](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-futures-platform-safu-after-false-alarm-attack-binance-ceo-edf9f702.md)
 * 2019-09-15 [아시아에서 암호화 뉴스: Sept. 9-15](https://github.com/theyapapa/cryptonews/blob/ko/crypto-news-from-asia-sept-915-4ecc327d.md)
