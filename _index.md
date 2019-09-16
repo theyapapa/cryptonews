@@ -1,3 +1,4 @@
+* 2019-09-16 [Доля SegWit-Spending Bitcoin Транзакции Теперь более 50%](https://github.com/theyapapa/cryptonews/blob/ru/share-of-segwit-spending-bitcoin-transactions-now-over-50-1b404d3e.md)
 * 2019-09-16 [Весы не угрожают суверенитету наций, говорит генеральный директор Calibra](https://github.com/theyapapa/cryptonews/blob/ru/libra-does-not-threaten-sovereignty-of-nations-says-calibra-ceo-794fd760.md)
 * 2019-09-16 [$ 250K Bitcoin Цена Прогноз теперь "консервативной", говорит Тим Дрейпер](https://github.com/theyapapa/cryptonews/blob/ru/250k-bitcoin-price-prediction-is-now-conservative-says-tim-draper-5ae39db3.md)
 * 2019-09-16 [PayPal: "Много работы" все еще должно произойти для Весов, чтобы стать реальным](https://github.com/theyapapa/cryptonews/blob/ru/paypal-a-lot-of-work-still-needs-to-happen-for-libra-to-become-real-76fc0d48.md)
