@@ -1,3 +1,4 @@
+* 2019-09-17 [독일 재무장관은 정부가 페이스 북의 libra 동전을 거부해야한다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/german-finance-minister-says-govt-must-reject-facebooks-libra-coin-c96d8143.md)
 * 2019-09-17 [코일, 모질라, 크리에이티브 커먼즈 제공 $100M 웹 수익 창출에 대 한 보조금](https://github.com/theyapapa/cryptonews/blob/ko/coil-mozilla-creative-commons-offer-100m-grant-for-web-monetization-218bbe62.md)
 * 2019-09-17 [프리랜서 고용 플랫폼, MakerDAO로부터 개발자 보조금 수령](https://github.com/theyapapa/cryptonews/blob/ko/freelance-employment-platform-receives-developer-grant-from-makerdao-2cd09c5c.md)
 * 2019-09-17 [CFTC, 전 코인베이스 임원을 시장 감독 이사로 임명](https://github.com/theyapapa/cryptonews/blob/ko/cftc-appoints-former-coinbase-exec-as-director-of-market-oversight-74b61f07.md)
