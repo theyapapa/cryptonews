@@ -1,3 +1,4 @@
+* 2019-09-16 [La Agencia Tributaria de Canadá audita las declaraciones de impuestos corporativos de QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/canada-revenue-agency-audits-quadrigacxs-corporate-tax-returns-c067b25d.md)
 * 2019-09-16 [Harbor tokenize $100 millones en fondos inmobiliarios en Ethereum Blockchain](https://github.com/theyapapa/cryptonews/blob/es/harbor-tokenizes-100-million-in-real-estate-funds-on-ethereum-blockchain-ba4f0551.md)
 * 2019-09-16 [HTC Smartphone añade cartera incorporada para Bitcoin efectivo](https://github.com/theyapapa/cryptonews/blob/es/htc-smartphone-adds-built-in-wallet-for-bitcoin-cash-9bd43355.md)
 * 2019-09-16 [Informe: El jugador de la NBA Spencer Dinwiddie fichará contrato de $34 millones](https://github.com/theyapapa/cryptonews/blob/es/report-nba-player-spencer-dinwiddie-to-tokenize-34m-contract-2104c38a.md)
