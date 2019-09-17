@@ -1,3 +1,4 @@
+* 2019-09-17 [프리랜서 고용 플랫폼, MakerDAO로부터 개발자 보조금 수령](https://github.com/theyapapa/cryptonews/blob/ko/freelance-employment-platform-receives-developer-grant-from-makerdao-2cd09c5c.md)
 * 2019-09-17 [CFTC, 전 코인베이스 임원을 시장 감독 이사로 임명](https://github.com/theyapapa/cryptonews/blob/ko/cftc-appoints-former-coinbase-exec-as-director-of-market-oversight-74b61f07.md)
 * 2019-09-17 [비트 코인 거래: 7 팁 포트폴리오에서 당신의 감정을 분리](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-trading-7-tips-to-detach-your-emotions-from-your-portfolio-c079cb94.md)
 * 2019-09-17 [해양 플라스틱 폐기물을 에코 패브릭으로 전환하는 데 사용되는 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-being-used-to-turn-ocean-plastic-waste-into-eco-fabrics-ce6e75a1.md)
