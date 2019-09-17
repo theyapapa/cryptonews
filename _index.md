@@ -1,3 +1,4 @@
+* 2019-09-17 [해양 플라스틱 폐기물을 에코 패브릭으로 전환하는 데 사용되는 블록 체인](https://github.com/theyapapa/cryptonews/blob/ko/blockchain-being-used-to-turn-ocean-plastic-waste-into-eco-fabrics-ce6e75a1.md)
 * 2019-09-17 [Binance, 2017년 출국 이후 첫 중국 투자](https://github.com/theyapapa/cryptonews/blob/ko/binance-makes-first-chinese-investment-since-leaving-country-in-2017-5d827e42.md)
 * 2019-09-17 [비트 코인 주소 가치 $100,000 이상 히트 모든 시간 높은](https://github.com/theyapapa/cryptonews/blob/ko/bitcoin-addresses-worth-100-000-or-more-hits-all-time-high-77e50b20.md)
 * 2019-09-17 [부유 한 영국 밀레니엄 세대의 20 %가 비트 코인에 투자했습니다 : 새로운 설문 조사](https://github.com/theyapapa/cryptonews/blob/ko/20-of-affluent-uk-millennials-have-invested-in-bitcoin-new-survey-971fea5c.md)
