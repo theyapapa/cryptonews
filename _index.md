@@ -1,3 +1,4 @@
+* 2019-09-16 [Канадское налоговое агентство проверяет корпоративные налоговые декларации компании quadrigaCX](https://github.com/theyapapa/cryptonews/blob/ru/canada-revenue-agency-audits-quadrigacxs-corporate-tax-returns-c067b25d.md)
 * 2019-09-16 [Гавань токенизирует $100 миллионов в фондах недвижимости на блокчейне Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/harbor-tokenizes-100-million-in-real-estate-funds-on-ethereum-blockchain-ba4f0551.md)
 * 2019-09-16 [Смартфон HTC добавляет встроенный кошелек для Bitcoin Cash](https://github.com/theyapapa/cryptonews/blob/ru/htc-smartphone-adds-built-in-wallet-for-bitcoin-cash-9bd43355.md)
 * 2019-09-16 [Доклад: Игрок НБА Спенсер Динвидди to Tokenize $ 34M контракт](https://github.com/theyapapa/cryptonews/blob/ru/report-nba-player-spencer-dinwiddie-to-tokenize-34m-contract-2104c38a.md)
