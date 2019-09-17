@@ -1,3 +1,4 @@
+* 2019-09-17 [El ministro de Finanzas alemán dice que el gobierno no debe rechazar la moneda Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/german-finance-minister-says-govt-must-reject-facebooks-libra-coin-c96d8143.md)
 * 2019-09-17 [Coil, Mozilla, Creative Commons ofrecen una subvención de $100M para la monetización web](https://github.com/theyapapa/cryptonews/blob/es/coil-mozilla-creative-commons-offer-100m-grant-for-web-monetization-218bbe62.md)
 * 2019-09-17 [Freelance Employment Platform recibe la beca de desarrollador de MakerDAO](https://github.com/theyapapa/cryptonews/blob/es/freelance-employment-platform-receives-developer-grant-from-makerdao-2cd09c5c.md)
 * 2019-09-17 [CFTC nombra al ex ejecutivo de Coinbase como director de supervisión del mercado](https://github.com/theyapapa/cryptonews/blob/es/cftc-appoints-former-coinbase-exec-as-director-of-market-oversight-74b61f07.md)
