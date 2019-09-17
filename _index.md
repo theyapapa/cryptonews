@@ -1,3 +1,4 @@
+* 2019-09-17 [Freelance Employment Platform recibe la beca de desarrollador de MakerDAO](https://github.com/theyapapa/cryptonews/blob/es/freelance-employment-platform-receives-developer-grant-from-makerdao-2cd09c5c.md)
 * 2019-09-17 [CFTC nombra al ex ejecutivo de Coinbase como director de supervisión del mercado](https://github.com/theyapapa/cryptonews/blob/es/cftc-appoints-former-coinbase-exec-as-director-of-market-oversight-74b61f07.md)
 * 2019-09-17 [Bitcoin Trading: 7 consejos para separar tus emociones de tu cartera](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-trading-7-tips-to-detach-your-emotions-from-your-portfolio-c079cb94.md)
 * 2019-09-17 [Blockchain se utiliza para convertir los residuos plásticos oceánicos en eco-tejidos](https://github.com/theyapapa/cryptonews/blob/es/blockchain-being-used-to-turn-ocean-plastic-waste-into-eco-fabrics-ce6e75a1.md)
