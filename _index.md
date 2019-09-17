@@ -1,3 +1,4 @@
+* 2019-09-17 [CFTC назначает бывшего Coinbase Exec директором по надзору за рынком](https://github.com/theyapapa/cryptonews/blob/ru/cftc-appoints-former-coinbase-exec-as-director-of-market-oversight-74b61f07.md)
 * 2019-09-17 [Торговля биткойнами: 7 советов, чтобы отделить ваши эмоции от вашего портфеля](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-trading-7-tips-to-detach-your-emotions-from-your-portfolio-c079cb94.md)
 * 2019-09-17 [Блокчейн используется для превращения океанских пластиковых отходов в эко-ткани](https://github.com/theyapapa/cryptonews/blob/ru/blockchain-being-used-to-turn-ocean-plastic-waste-into-eco-fabrics-ce6e75a1.md)
 * 2019-09-17 [Binance делает первые китайские инвестиции после ухода из страны в 2017 году](https://github.com/theyapapa/cryptonews/blob/ru/binance-makes-first-chinese-investment-since-leaving-country-in-2017-5d827e42.md)
