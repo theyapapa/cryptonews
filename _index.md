@@ -1,3 +1,4 @@
+* 2019-09-17 [Bitcoin Trading: 7 consejos para separar tus emociones de tu cartera](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-trading-7-tips-to-detach-your-emotions-from-your-portfolio-c079cb94.md)
 * 2019-09-17 [Blockchain se utiliza para convertir los residuos plásticos oceánicos en eco-tejidos](https://github.com/theyapapa/cryptonews/blob/es/blockchain-being-used-to-turn-ocean-plastic-waste-into-eco-fabrics-ce6e75a1.md)
 * 2019-09-17 [Binance realiza primera inversión china desde que dejó el país en 2017](https://github.com/theyapapa/cryptonews/blob/es/binance-makes-first-chinese-investment-since-leaving-country-in-2017-5d827e42.md)
 * 2019-09-17 [Direcciones Bitcoin por valor de $100,000 o más hits de todos los tiempos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-addresses-worth-100-000-or-more-hits-all-time-high-77e50b20.md)
