@@ -1,3 +1,4 @@
+* 2019-09-16 [캐나다 국세청 감사 QuadrigaCX의 법인세 보고서](https://github.com/theyapapa/cryptonews/blob/ko/canada-revenue-agency-audits-quadrigacxs-corporate-tax-returns-c067b25d.md)
 * 2019-09-16 [Harbor, 이더리움 블록체인에 대한 부동산 펀드 1억 달러 토큰화](https://github.com/theyapapa/cryptonews/blob/ko/harbor-tokenizes-100-million-in-real-estate-funds-on-ethereum-blockchain-ba4f0551.md)
 * 2019-09-16 [HTC 스마트 폰은 비트 코인 현금에 대한 내장 지갑을 추가](https://github.com/theyapapa/cryptonews/blob/ko/htc-smartphone-adds-built-in-wallet-for-bitcoin-cash-9bd43355.md)
 * 2019-09-16 [보고서: NBA 선수 스펜서 딘위디 토큰화 $34M 계약](https://github.com/theyapapa/cryptonews/blob/ko/report-nba-player-spencer-dinwiddie-to-tokenize-34m-contract-2104c38a.md)
