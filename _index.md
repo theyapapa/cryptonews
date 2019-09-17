@@ -1,3 +1,4 @@
+* 2019-09-17 [Binance realiza primera inversión china desde que dejó el país en 2017](https://github.com/theyapapa/cryptonews/blob/es/binance-makes-first-chinese-investment-since-leaving-country-in-2017-5d827e42.md)
 * 2019-09-17 [Direcciones Bitcoin por valor de $100,000 o más hits de todos los tiempos](https://github.com/theyapapa/cryptonews/blob/es/bitcoin-addresses-worth-100-000-or-more-hits-all-time-high-77e50b20.md)
 * 2019-09-17 [20% de los millennials del Reino Unido adinerados han invertido en Bitcoin: Nueva encuesta](https://github.com/theyapapa/cryptonews/blob/es/20-of-affluent-uk-millennials-have-invested-in-bitcoin-new-survey-971fea5c.md)
 * 2019-09-16 [La Agencia Tributaria de Canadá audita las declaraciones de impuestos corporativos de QuadrigaCX](https://github.com/theyapapa/cryptonews/blob/es/canada-revenue-agency-audits-quadrigacxs-corporate-tax-returns-c067b25d.md)
