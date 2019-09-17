@@ -1,3 +1,4 @@
+* 2019-09-17 [Министр финансов Германии заявил, что губернатор не должен отказаться от монеты Весов Facebook](https://github.com/theyapapa/cryptonews/blob/ru/german-finance-minister-says-govt-must-reject-facebooks-libra-coin-c96d8143.md)
 * 2019-09-17 [Coil, Mozilla, Creative Commons Предложение $ 100M Грант для веб-монетизации](https://github.com/theyapapa/cryptonews/blob/ru/coil-mozilla-creative-commons-offer-100m-grant-for-web-monetization-218bbe62.md)
 * 2019-09-17 [Внештатная платформа занятости получает грант разработчика от MakerDAO](https://github.com/theyapapa/cryptonews/blob/ru/freelance-employment-platform-receives-developer-grant-from-makerdao-2cd09c5c.md)
 * 2019-09-17 [CFTC назначает бывшего Coinbase Exec директором по надзору за рынком](https://github.com/theyapapa/cryptonews/blob/ru/cftc-appoints-former-coinbase-exec-as-director-of-market-oversight-74b61f07.md)
