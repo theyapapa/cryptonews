@@ -1,3 +1,4 @@
+* 2019-09-17 [Coil, Mozilla, Creative Commons Предложение $ 100M Грант для веб-монетизации](https://github.com/theyapapa/cryptonews/blob/ru/coil-mozilla-creative-commons-offer-100m-grant-for-web-monetization-218bbe62.md)
 * 2019-09-17 [Внештатная платформа занятости получает грант разработчика от MakerDAO](https://github.com/theyapapa/cryptonews/blob/ru/freelance-employment-platform-receives-developer-grant-from-makerdao-2cd09c5c.md)
 * 2019-09-17 [CFTC назначает бывшего Coinbase Exec директором по надзору за рынком](https://github.com/theyapapa/cryptonews/blob/ru/cftc-appoints-former-coinbase-exec-as-director-of-market-oversight-74b61f07.md)
 * 2019-09-17 [Торговля биткойнами: 7 советов, чтобы отделить ваши эмоции от вашего портфеля](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-trading-7-tips-to-detach-your-emotions-from-your-portfolio-c079cb94.md)
