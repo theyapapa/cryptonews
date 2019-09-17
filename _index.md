@@ -1,3 +1,4 @@
+* 2019-09-17 [Bitcoin Адреса стоит $ 100000 или более хитов все время-высокий](https://github.com/theyapapa/cryptonews/blob/ru/bitcoin-addresses-worth-100-000-or-more-hits-all-time-high-77e50b20.md)
 * 2019-09-17 [20% богатых британских миллениалов инвестировали в биткоин: Новый обзор](https://github.com/theyapapa/cryptonews/blob/ru/20-of-affluent-uk-millennials-have-invested-in-bitcoin-new-survey-971fea5c.md)
 * 2019-09-16 [Канадское налоговое агентство проверяет корпоративные налоговые декларации компании quadrigaCX](https://github.com/theyapapa/cryptonews/blob/ru/canada-revenue-agency-audits-quadrigacxs-corporate-tax-returns-c067b25d.md)
 * 2019-09-16 [Гавань токенизирует $100 миллионов в фондах недвижимости на блокчейне Ethereum](https://github.com/theyapapa/cryptonews/blob/ru/harbor-tokenizes-100-million-in-real-estate-funds-on-ethereum-blockchain-ba4f0551.md)
