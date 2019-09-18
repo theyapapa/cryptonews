@@ -1,3 +1,4 @@
+* 2019-09-18 [IBM и Citibank присоединяются к Сингапурскому ускорителю блокчейн-поздней стадии](https://github.com/theyapapa/cryptonews/blob/ru/ibm-and-citibank-join-singapore-late-stage-blockchain-accelerator-e187afad.md)
 * 2019-09-18 [BUSD - Binance и Paxos Stablecoin Последние, чтобы получить согласие регулятора США](https://github.com/theyapapa/cryptonews/blob/ru/busd-binance-and-paxos-stablecoin-latest-to-get-us-regulator-consent-fe78532c.md)
 * 2019-09-18 [Нигерийский Крипто Педагог возвращает $80K в Bitcoin, полученном по ошибке](https://github.com/theyapapa/cryptonews/blob/ru/nigerian-crypto-educator-returns-80k-in-bitcoin-received-by-mistake-61d7d06a.md)
 * 2019-09-18 [Правительство Германии не утвердило новый план по блокированию частных «параллельных валют»](https://github.com/theyapapa/cryptonews/blob/ru/german-govt-approves-new-plan-to-block-private-parallel-currencies-a1378268.md)
