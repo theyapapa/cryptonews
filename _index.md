@@ -1,3 +1,4 @@
+* 2019-09-18 [Нигерийский Крипто Педагог возвращает $80K в Bitcoin, полученном по ошибке](https://github.com/theyapapa/cryptonews/blob/ru/nigerian-crypto-educator-returns-80k-in-bitcoin-received-by-mistake-61d7d06a.md)
 * 2019-09-18 [Правительство Германии не утвердило новый план по блокированию частных «параллельных валют»](https://github.com/theyapapa/cryptonews/blob/ru/german-govt-approves-new-plan-to-block-private-parallel-currencies-a1378268.md)
 * 2019-09-18 ["Готовьтесь к Bitcoin $ 20K," Говорит BitMEX генеральный директор, как ФРС паника-Prints $ 53B](https://github.com/theyapapa/cryptonews/blob/ru/get-ready-for-bitcoin-20k-says-bitmex-ceo-as-fed-panic-prints-53b-113d14ad.md)
 * 2019-09-17 [NEO Глобальное развитие объявляет пилотную сеть для NEO3 в следующем году](https://github.com/theyapapa/cryptonews/blob/ru/neo-global-development-announces-pilot-network-for-next-years-neo3-c10d46bc.md)
