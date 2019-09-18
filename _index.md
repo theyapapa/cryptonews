@@ -1,3 +1,4 @@
+* 2019-09-18 [BUSD - 미국 규제 당국의 동의를 얻기 위해 바이앤스 및 팍소스 안정코인 최신](https://github.com/theyapapa/cryptonews/blob/ko/busd-binance-and-paxos-stablecoin-latest-to-get-us-regulator-consent-fe78532c.md)
 * 2019-09-18 [나이지리아 암호화 교육자는 실수로 받은 비트 코인에서 $ 80K를 반환합니다.](https://github.com/theyapapa/cryptonews/blob/ko/nigerian-crypto-educator-returns-80k-in-bitcoin-received-by-mistake-61d7d06a.md)
 * 2019-09-18 [독일 정부는 개인 '병렬 통화'를 차단하는 새로운 계획을 승인](https://github.com/theyapapa/cryptonews/blob/ko/german-govt-approves-new-plan-to-block-private-parallel-currencies-a1378268.md)
 * 2019-09-18 ['비트 코인에 대한 준비 $20K,' 연준 공황 인쇄로 BitMEX CEO를 말한다 $53B](https://github.com/theyapapa/cryptonews/blob/ko/get-ready-for-bitcoin-20k-says-bitmex-ceo-as-fed-panic-prints-53b-113d14ad.md)
