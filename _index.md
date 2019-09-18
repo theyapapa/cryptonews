@@ -1,3 +1,4 @@
+* 2019-09-18 [El gobierno alemán aprueba un nuevo plan para bloquear las 'monedas paralelas' privadas](https://github.com/theyapapa/cryptonews/blob/es/german-govt-approves-new-plan-to-block-private-parallel-currencies-a1378268.md)
 * 2019-09-18 ['Prepárate para Bitcoin $20K', dice el CEO de BitMEX como Fed Panic-Prints $53 Miles de millones](https://github.com/theyapapa/cryptonews/blob/es/get-ready-for-bitcoin-20k-says-bitmex-ceo-as-fed-panic-prints-53b-113d14ad.md)
 * 2019-09-17 [NEO Global Development anuncia una red piloto para neo3 del próximo año](https://github.com/theyapapa/cryptonews/blob/es/neo-global-development-announces-pilot-network-for-next-years-neo3-c10d46bc.md)
 * 2019-09-17 [El ministro de Finanzas alemán dice que el gobierno no debe rechazar la moneda Libra de Facebook](https://github.com/theyapapa/cryptonews/blob/es/german-finance-minister-says-govt-must-reject-facebooks-libra-coin-c96d8143.md)
