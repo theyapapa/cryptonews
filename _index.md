@@ -1,3 +1,4 @@
+* 2019-09-18 [독일 정부는 개인 '병렬 통화'를 차단하는 새로운 계획을 승인](https://github.com/theyapapa/cryptonews/blob/ko/german-govt-approves-new-plan-to-block-private-parallel-currencies-a1378268.md)
 * 2019-09-18 ['비트 코인에 대한 준비 $20K,' 연준 공황 인쇄로 BitMEX CEO를 말한다 $53B](https://github.com/theyapapa/cryptonews/blob/ko/get-ready-for-bitcoin-20k-says-bitmex-ceo-as-fed-panic-prints-53b-113d14ad.md)
 * 2019-09-17 [NEO 글로벌 개발, 내년 NEO3 파일럿 네트워크 발표](https://github.com/theyapapa/cryptonews/blob/ko/neo-global-development-announces-pilot-network-for-next-years-neo3-c10d46bc.md)
 * 2019-09-17 [독일 재무장관은 정부가 페이스 북의 libra 동전을 거부해야한다고 말합니다.](https://github.com/theyapapa/cryptonews/blob/ko/german-finance-minister-says-govt-must-reject-facebooks-libra-coin-c96d8143.md)
